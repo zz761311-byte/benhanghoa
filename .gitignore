@@ -15,3 +15,7 @@ npm-debug.log*
 # Logs / tạm
 *.log
 .cache/
+
+# Công cụ NỘI BỘ — KHÔNG đăng công khai (chứa dữ liệu đọc từ TradingView Premium)
+bang-gia-premium.html
+data/gia.json

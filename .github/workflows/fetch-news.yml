@@ -1,0 +1,37 @@
+name: Cập nhật tin tức (Bến Hàng Hóa)
+
+# Tự chạy mỗi giờ + cho phép bấm chạy tay trong tab Actions.
+on:
+  schedule:
+    - cron: "0 * * * *"   # mỗi đầu giờ (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lấy mã nguồn
+        uses: actions/checkout@v4
+
+      - name: Cài Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Chạy bot lấy + dịch tin
+        run: node scripts/fetch-news.mjs
+
+      - name: Commit news.json nếu có thay đổi
+        run: |
+          git config user.name  "benhanghoa-bot"
+          git config user.email "bot@benhanghoa.local"
+          git add data/news.json
+          if git diff --staged --quiet; then
+            echo "Không có tin mới."
+          else
+            git commit -m "chore: cập nhật tin tức tự động"
+            git push
+          fi

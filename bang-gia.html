@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bảng giá hàng hóa — Bến Hàng Hóa</title>
+  <meta name="description" content="Bảng giá hàng hóa: dầu thô, vàng, bạc, đồng, ngô, đậu tương, cà phê... với biểu đồ chi tiết." />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body data-page="prices">
+
+  <!-- Top ticker tape -->
+  <div class="ticker-host"><div id="ticker" class="tradingview-widget-container"></div></div>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2>📊 Bảng giá hàng hóa</h2>
+      </div>
+      <div class="notice" style="margin-bottom:16px">
+        Bấm vào một mặt hàng bên trái để xem biểu đồ. Phần lớn mã là <b>real-time miễn phí</b>
+        (vàng, bạc, đồng, dầu, kim loại cơ bản, nông sản, cà phê...). Vài mã gắn nhãn
+        <span class="lim-badge">hạn chế</span> (quặng sắt, cao su, khô đậu, dầu đậu, cà phê Robusta)
+        chưa có dữ liệu miễn phí công khai — chỉ hiện khi đã đăng nhập TradingView. Chỉ mang tính tham khảo.
+      </div>
+
+      <div class="price-layout">
+        <!-- Left: clickable list -->
+        <div id="price-list" class="price-list"></div>
+        <!-- Right: chart -->
+        <div class="chart-panel"><div id="tv_chart"></div></div>
+      </div>
+    </div>
+  </section>
+
+  <script src="assets/js/symbols.js"></script>
+  <script src="assets/js/components.js"></script>
+  <!-- TradingView library for the dynamic Advanced Chart -->
+  <script src="https://s3.tradingview.com/tv.js"></script>
+  <!-- Reuse home.js only for the ticker tape -->
+  <script>
+    (function () {
+      const tickerHost = document.getElementById("ticker");
+      if (!tickerHost) return;
+      const s = document.createElement("script");
+      s.async = true;
+      s.src = "https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js";
+      s.innerHTML = JSON.stringify({
+        symbols: window.BHH_TICKER, showSymbolLogo: true, isTransparent: true,
+        displayMode: "adaptive", colorTheme: "dark", locale: "vi_VN"
+      });
+      tickerHost.appendChild(s);
+    })();
+  </script>
+  <script src="assets/js/prices.js"></script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bến Hàng Hóa — Giá hàng hóa & tin tức cho người Việt</title>
+  <meta name="description" content="Bến Hàng Hóa: cập nhật giá các loại hàng hóa thế giới (năng lượng, nông sản, kim loại) và tin tức ảnh hưởng đến giá, bằng tiếng Việt." />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body data-page="home">
+
+  <!-- Top ticker tape -->
+  <div class="ticker-host"><div id="ticker" class="tradingview-widget-container"></div></div>
+
+  <!-- Hero (nền là banner logo ngang) -->
+  <section class="hero hero-banner">
+    <div class="container">
+      <div class="hero-kicker">⚓ Nơi trader cập bến</div>
+      <h1>Giá hàng hóa thế giới,<br>cập nhật bằng <span class="hl">tiếng Việt</span></h1>
+      <p>Theo dõi năng lượng, nông sản, nguyên liệu công nghiệp và kim loại — cùng tin tức quốc tế tác động đến giá, dịch sẵn sang tiếng Việt.</p>
+      <div class="cta">
+        <a class="btn btn-primary" href="bang-gia.html">📊 Xem bảng giá</a>
+        <a class="btn btn-ghost" href="tin-tuc.html">📰 Đọc tin tức</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured commodities -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2>Hàng hóa nổi bật</h2>
+        <a href="bang-gia.html">Xem tất cả →</a>
+      </div>
+      <div id="featured-grid" class="grid cols-4"></div>
+    </div>
+  </section>
+
+  <!-- Latest news -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2>Tin mới nhất</h2>
+        <a href="tin-tuc.html">Xem thêm →</a>
+      </div>
+      <div id="home-news" class="news-list"></div>
+    </div>
+  </section>
+
+  <script src="assets/js/symbols.js"></script>
+  <script src="assets/js/components.js"></script>
+  <script src="assets/js/home.js"></script>
+</body>
+</html>

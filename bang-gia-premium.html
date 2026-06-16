@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bảng giá tùy biến (Premium) — Bến Hàng Hóa</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <style>
+    /* Custom price table — số thật đọc từ TradingView Premium qua MCP */
+    .gia-table { width: 100%; border-collapse: collapse; background: var(--bg-2);
+      border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+    .gia-table th, .gia-table td { padding: 13px 16px; text-align: right; border-bottom: 1px solid var(--line); }
+    .gia-table th { background: var(--bg-3); color: var(--muted); font-size: 12.5px;
+      text-transform: uppercase; letter-spacing: .4px; }
+    .gia-table td:first-child, .gia-table th:first-child { text-align: left; }
+    .gia-table tr:last-child td { border-bottom: 0; }
+    .gia-table tbody tr:hover { background: var(--bg-3); }
+    .gia-name { font-weight: 700; font-size: 16px; }
+    .gia-sym { color: var(--muted); font-size: 12px; font-weight: 400; }
+    .gia-last { font-weight: 800; font-size: 17px; font-variant-numeric: tabular-nums; }
+    .up { color: var(--up); } .down { color: var(--down); }
+    .pill { font-weight: 700; font-variant-numeric: tabular-nums; padding: 3px 9px; border-radius: 20px; font-size: 13px; }
+    .pill.up { background: rgba(33,206,153,.15); } .pill.down { background: rgba(255,88,116,.15); }
+    .grp { background: var(--bg); color: var(--accent); font-weight: 700; font-size: 13px;
+      letter-spacing: .5px; text-transform: uppercase; }
+    .badge-rt { font-size: 10.5px; font-weight: 700; padding: 1px 7px; border-radius: 20px; margin-left: 8px; vertical-align: middle; }
+    .badge-rt.live { background: rgba(33,206,153,.2); color: var(--up); }
+    .badge-rt.delay { background: rgba(240,180,41,.18); color: var(--accent); }
+    .num { font-variant-numeric: tabular-nums; color: var(--muted); }
+  </style>
+</head>
+<body data-page="prices">
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2>🥇 Bảng giá tùy biến (dữ liệu Premium)</h2>
+        <span id="gia-updated" style="color:var(--muted);font-size:13px"></span>
+      </div>
+
+      <div class="notice" style="margin-bottom:16px">
+        <b>Bản demo:</b> số liệu này được <b>đọc thật từ tài khoản TradingView Premium</b> của bạn qua MCP,
+        rồi định dạng kiểu Việt Nam. Đây là <b>ảnh chụp 1 thời điểm</b> — muốn cập nhật liên tục cần chạy lại
+        lệnh chụp giá. <i>Lưu ý bản quyền: bảng này hợp để dùng nội bộ/tham khảo.</i>
+      </div>
+
+      <table class="gia-table">
+        <thead>
+          <tr>
+            <th>Mặt hàng</th>
+            <th>Giá hiện tại</th>
+            <th>Thay đổi</th>
+            <th>% trong ngày</th>
+            <th>Cao nhất</th>
+            <th>Thấp nhất</th>
+            <th>Đơn vị</th>
+          </tr>
+        </thead>
+        <tbody id="gia-body"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <script src="assets/js/components.js"></script>
+  <script>
+    const fmt = (n, d = 2) => Number(n).toLocaleString("vi-VN", { minimumFractionDigits: d, maximumFractionDigits: d });
+
+    fetch("data/gia.json", { cache: "no-store" })
+      .then(r => r.json())
+      .then(data => {
+        document.getElementById("gia-updated").textContent = "Cập nhật: " + (data.updated_at || "");
+        const body = document.getElementById("gia-body");
+        let lastGroup = "";
+        (data.items || []).forEach(it => {
+          if (it.group !== lastGroup) {
+            lastGroup = it.group;
+            body.insertAdjacentHTML("beforeend",
+              `<tr><td class="grp" colspan="7">${it.group}</td></tr>`);
+          }
+          const up = it.change_pct >= 0;
+          const cls = up ? "up" : "down";
+          const sign = up ? "+" : "";
+          const badge = it.realtime
+            ? `<span class="badge-rt live">REAL-TIME</span>`
+            : `<span class="badge-rt delay">TRỄ ~10'</span>`;
+          body.insertAdjacentHTML("beforeend", `
+            <tr>
+              <td>
+                <span class="gia-name">${it.name}</span>${badge}<br>
+                <span class="gia-sym">${it.symbol}</span>
+              </td>
+              <td class="gia-last ${cls}">${fmt(it.last, it.last < 10 ? 4 : 2)}</td>
+              <td class="${cls}">${sign}${fmt(it.change, Math.abs(it.change) < 1 ? 3 : 2)}</td>
+              <td><span class="pill ${cls}">${sign}${fmt(it.change_pct)}%</span></td>
+              <td class="num">${fmt(it.high, it.high < 10 ? 4 : 2)}</td>
+              <td class="num">${fmt(it.low, it.low < 10 ? 4 : 2)}</td>
+              <td class="num">${it.unit}</td>
+            </tr>`);
+        });
+      })
+      .catch(() => {
+        document.getElementById("gia-body").innerHTML =
+          `<tr><td colspan="7" style="text-align:center;color:var(--muted);padding:24px">Chưa tải được data/gia.json</td></tr>`;
+      });
+  </script>
+</body>
+</html>

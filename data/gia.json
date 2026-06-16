@@ -1,0 +1,14 @@
+{
+  "updated_at": "2026-06-17 (ảnh chụp giá demo qua TradingView MCP)",
+  "note": "Dữ liệu chụp 1 lần từ tài khoản Premium qua MCP để minh họa 'bảng giá tùy biến tiếng Việt'. Muốn cập nhật, chạy lại lệnh chụp giá.",
+  "items": [
+    { "name": "Vàng",      "symbol": "OANDA:XAUUSD", "last": 4338.975, "open": 4312.985, "high": 4354.95, "low": 4306.11,  "change": 25.99,  "change_pct": 0.60,  "unit": "USD/oz",  "realtime": true,  "group": "Kim loại" },
+    { "name": "Bạc",       "symbol": "OANDA:XAGUSD", "last": 70.264,   "open": 70.0454,  "high": 71.206,  "low": 69.0705,  "change": 0.22,   "change_pct": 0.31,  "unit": "USD/oz",  "realtime": true,  "group": "Kim loại" },
+    { "name": "Bạch kim",  "symbol": "OANDA:XPTUSD", "last": 1810.9,   "open": 1759.544, "high": 1815.167,"low": 1738.657, "change": 51.36,  "change_pct": 2.92,  "unit": "USD/oz",  "realtime": true,  "group": "Kim loại" },
+    { "name": "Đồng",      "symbol": "COMEX:HG1!",   "last": 6.4995,   "open": 6.486,    "high": 6.5375,  "low": 6.425,    "change": 0.014,  "change_pct": 0.21,  "unit": "USD/pound", "realtime": false, "group": "Kim loại" },
+    { "name": "Dầu WTI",   "symbol": "TVC:USOIL",    "last": 76.34,    "open": 81.10,    "high": 81.58,   "low": 75.52,    "change": -4.76,  "change_pct": -5.87, "unit": "USD/thùng", "realtime": true,  "group": "Năng lượng" },
+    { "name": "Dầu Brent", "symbol": "TVC:UKOIL",    "last": 79.19,    "open": 83.80,    "high": 83.80,   "low": 78.45,    "change": -4.61,  "change_pct": -5.50, "unit": "USD/thùng", "realtime": true,  "group": "Năng lượng" },
+    { "name": "Khí tự nhiên", "symbol": "NYMEX:NG1!", "last": 3.244,   "open": 3.155,    "high": 3.262,   "low": 3.127,    "change": 0.089,  "change_pct": 2.82,  "unit": "USD/MMBtu", "realtime": false, "group": "Năng lượng" },
+    { "name": "Cà phê Arabica", "symbol": "ICEUS:KC1!", "last": 273.6, "open": 259.6,    "high": 274.95,  "low": 256.4,    "change": 14.0,   "change_pct": 5.39,  "unit": "cents/pound", "realtime": false, "group": "Nguyên liệu" }
+  ]
+}

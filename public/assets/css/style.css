@@ -158,7 +158,7 @@ a:hover { color: var(--accent); }
 .news-item {
   background: var(--bg-2); border: 1px solid var(--line);
   border-radius: var(--radius); padding: 16px 18px;
-  display: grid; grid-template-columns: 1fr auto; gap: 6px 16px;
+  display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 6px 16px;
 }
 .news-item h3 { margin: 0; font-size: 17px; line-height: 1.4; }
 .news-item h3 a { color: var(--text); }
@@ -166,6 +166,11 @@ a:hover { color: var(--accent); }
 .news-summary { color: var(--muted); font-size: 14.5px; margin: 4px 0 0; grid-column: 1 / -1; }
 .news-meta { color: var(--muted); font-size: 12.5px; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
 .news-time { color: var(--accent); white-space: nowrap; }
+/* Màn hình hẹp: xếp dọc — tiêu đề full hàng, thẻ/nguồn/giờ xuống dưới */
+@media (max-width: 680px) {
+  .news-item { grid-template-columns: 1fr; }
+  .news-item h3 { font-size: 16px; }
+}
 
 /* Nút nổi liên hệ — góc dưới phải, hiện mọi trang */
 .float-contact {

@@ -1,0 +1,47 @@
+# ============================================================
+# Decap CMS — cấu hình bộ biên tập nội dung cho Bến Hàng Hóa
+# Biên tập viên đăng tin/bài qua giao diện web, không cần code.
+#
+# ⚠️ CẦN HOÀN THIỆN: phần xác thực (auth). Decap trên Cloudflare Pages
+#    cần một "OAuth proxy" + GitHub OAuth App. Sẽ cấu hình ở bước tiếp theo
+#    (điền base_url bên dưới sau khi dựng proxy).
+# ============================================================
+
+backend:
+  name: github
+  repo: zz761311-byte/benhanghoa
+  branch: main
+  # base_url: https://<oauth-proxy-cua-ban>   # <-- điền ở bước xác thực
+
+# Cho phép xem thử/biên tập tại máy khi chạy: npx decap-server
+local_backend: true
+
+media_folder: "public/assets/uploads"
+public_folder: "/assets/uploads"
+
+locale: "vi"
+
+collections:
+  - name: "tin"
+    label: "Tin tức / Bài viết"
+    label_singular: "Bài viết"
+    folder: "src/content/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "{{title}}"
+    fields:
+      - { label: "Tiêu đề", name: "title", widget: "string" }
+      - { label: "Ngày đăng", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm" }
+      - label: "Nhóm hàng hóa"
+        name: "category"
+        widget: "select"
+        default: "macro"
+        options:
+          - { label: "Kim loại", value: "metal" }
+          - { label: "Năng lượng", value: "energy" }
+          - { label: "Nông sản", value: "agri" }
+          - { label: "Nguyên liệu", value: "soft" }
+          - { label: "Vĩ mô", value: "macro" }
+      - { label: "Ảnh đại diện", name: "image", widget: "image", required: false }
+      - { label: "Tóm tắt ngắn", name: "summary", widget: "text", required: false }
+      - { label: "Nội dung", name: "body", widget: "markdown" }

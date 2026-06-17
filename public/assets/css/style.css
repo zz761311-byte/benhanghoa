@@ -1,0 +1,285 @@
+/* ============================================================
+   Bến Hàng Hóa — Dark theme
+   Brand: xanh biển (cảng) + vàng ánh kim (hàng hóa)
+   ============================================================ */
+
+:root {
+  --bg:        #0e1a12;   /* xanh lá rừng gần đen */
+  --bg-2:      #15271b;   /* nền panel */
+  --bg-3:      #1e3a27;   /* hover / viền sáng */
+  --line:      #294b35;   /* đường kẻ */
+  --text:      #e9efe5;
+  --muted:     #92a895;
+  --accent:    #5fb87f;   /* xanh sage thương hiệu */
+  --accent-2:  #2f6b43;   /* xanh lá rừng đậm */
+  --cream:     #e7e4d3;   /* kem hoài cổ (từ badge) */
+  --up:        #3ddc8a;   /* tăng giá */
+  --down:      #ff5d73;   /* giảm giá */
+  --radius:    12px;
+  --shadow:    0 6px 24px rgba(0,0,0,.35);
+  --maxw:      1280px;
+  --font: "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: var(--accent-2); text-decoration: none; }
+a:hover { color: var(--accent); }
+
+.container { max-width: var(--maxw); margin: 0 auto; padding: 0 18px; }
+
+/* ---------- Header ---------- */
+.site-header {
+  position: sticky; top: 0; z-index: 50;
+  background: rgba(10,23,38,.92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+.nav {
+  display: flex; align-items: center; gap: 22px;
+  height: 62px;
+}
+.brand {
+  display: flex; align-items: center; gap: 10px;
+  font-weight: 800; font-size: 20px; color: var(--text);
+  letter-spacing: .3px;
+}
+.brand .logo {
+  width: 34px; height: 34px; border-radius: 9px;
+  display: grid; place-items: center;
+  background: linear-gradient(135deg, var(--accent-2), #1769c4);
+  box-shadow: inset 0 0 0 1.5px var(--accent);
+  font-size: 18px;
+}
+.brand b { color: var(--accent); }
+.nav-links { display: flex; gap: 6px; margin-left: auto; }
+.nav-links a {
+  color: var(--muted); font-weight: 600; font-size: 15px;
+  padding: 8px 14px; border-radius: 9px;
+}
+.nav-links a:hover { color: var(--text); background: var(--bg-2); }
+.nav-links a.active { color: var(--bg); background: var(--accent); }
+
+.nav-toggle { display: none; background: none; border: 0; color: var(--text); font-size: 26px; cursor: pointer; }
+
+/* ---------- Ticker tape host ---------- */
+.ticker-host { border-bottom: 1px solid var(--line); background: var(--bg-2); }
+
+/* ---------- Hero ---------- */
+.hero {
+  padding: 40px 0 26px;
+  background:
+    radial-gradient(900px 280px at 12% -10%, rgba(47,155,255,.18), transparent),
+    radial-gradient(700px 240px at 90% -20%, rgba(240,180,41,.12), transparent);
+}
+.hero h1 { font-size: clamp(28px, 4vw, 44px); margin: 0 0 10px; line-height: 1.15; }
+.hero h1 .hl { color: var(--accent); }
+.hero p { color: var(--muted); font-size: 17px; max-width: 640px; margin: 0 0 20px; }
+.hero .cta { display: flex; gap: 12px; flex-wrap: wrap; }
+
+.btn {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 11px 20px; border-radius: 10px; font-weight: 700; font-size: 15px;
+  cursor: pointer; border: 1px solid transparent;
+}
+.btn-primary { background: var(--accent); color: #14304f; }
+.btn-primary:hover { color: #14304f; filter: brightness(1.07); }
+.btn-ghost { background: transparent; border-color: var(--line); color: var(--text); }
+.btn-ghost:hover { background: var(--bg-2); color: var(--text); }
+
+/* ---------- Section ---------- */
+.section { padding: 30px 0; }
+.section-head { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 16px; gap: 12px; }
+.section-head h2 { font-size: 22px; margin: 0; }
+.section-head a { font-size: 14px; font-weight: 600; }
+
+/* ---------- Card grid (home featured) ---------- */
+.grid { display: grid; gap: 14px; }
+.grid.cols-3 { grid-template-columns: repeat(3, 1fr); }
+.grid.cols-4 { grid-template-columns: repeat(4, 1fr); }
+
+.card {
+  background: var(--bg-2); border: 1px solid var(--line);
+  border-radius: var(--radius); padding: 14px;
+  box-shadow: var(--shadow);
+}
+.mini-quote { min-height: 132px; }
+.mini-quote .tradingview-widget-container { height: 100%; }
+
+/* ---------- Bảng giá: hybrid layout ---------- */
+.price-layout {
+  display: grid; grid-template-columns: 360px 1fr; gap: 16px;
+  align-items: start;
+}
+.price-list {
+  background: var(--bg-2); border: 1px solid var(--line);
+  border-radius: var(--radius); overflow: hidden;
+  max-height: 620px; overflow-y: auto;
+}
+.price-group-title {
+  position: sticky; top: 0;
+  background: var(--bg-3); color: var(--text);
+  font-weight: 700; font-size: 13px; letter-spacing: .4px; text-transform: uppercase;
+  padding: 9px 14px; border-bottom: 1px solid var(--line);
+}
+.price-row {
+  display: flex; align-items: center; gap: 10px;
+  width: 100%; text-align: left;
+  padding: 11px 14px; border: 0; border-bottom: 1px solid var(--line);
+  background: transparent; color: var(--text); cursor: pointer; font-size: 15px;
+}
+.price-row:hover { background: var(--bg-3); }
+.price-row.active { background: linear-gradient(90deg, rgba(240,180,41,.18), transparent); box-shadow: inset 3px 0 0 var(--accent); }
+.price-row .nm { font-weight: 600; }
+.price-row .unit { margin-left: auto; color: var(--muted); font-size: 12px; }
+.lim-badge {
+  font-size: 10px; font-weight: 700; color: #e3c172;
+  background: rgba(224,192,106,.14); border: 1px solid rgba(224,192,106,.3);
+  padding: 1px 6px; border-radius: 20px; vertical-align: middle;
+}
+
+.chart-panel {
+  background: var(--bg-2); border: 1px solid var(--line);
+  border-radius: var(--radius); padding: 8px;
+  height: 620px;
+}
+.chart-panel .tradingview-widget-container,
+.chart-panel #tv_chart { height: 100% !important; }
+
+/* ---------- Tin tức ---------- */
+.news-list { display: grid; gap: 14px; }
+.news-item {
+  background: var(--bg-2); border: 1px solid var(--line);
+  border-radius: var(--radius); padding: 16px 18px;
+  display: grid; grid-template-columns: 1fr auto; gap: 6px 16px;
+}
+.news-item h3 { margin: 0; font-size: 17px; line-height: 1.4; }
+.news-item h3 a { color: var(--text); }
+.news-item h3 a:hover { color: var(--accent); }
+.news-summary { color: var(--muted); font-size: 14.5px; margin: 4px 0 0; grid-column: 1 / -1; }
+.news-meta { color: var(--muted); font-size: 12.5px; white-space: nowrap; display: flex; align-items: center; gap: 8px; }
+.tag {
+  font-size: 11.5px; font-weight: 700; color: var(--bg);
+  background: var(--accent-2); padding: 2px 8px; border-radius: 20px;
+}
+.tag.metal { background: var(--accent); }
+.tag.energy { background: #ff8a3d; }
+.tag.agri { background: var(--up); }
+.tag.soft { background: #c084fc; }
+
+.empty-note {
+  border: 1px dashed var(--line); border-radius: var(--radius);
+  padding: 26px; text-align: center; color: var(--muted);
+}
+
+/* ---------- Notice / disclaimer ---------- */
+.notice {
+  background: rgba(240,180,41,.08); border: 1px solid rgba(240,180,41,.3);
+  color: var(--text); border-radius: 10px; padding: 12px 16px; font-size: 14px;
+}
+.notice b { color: var(--accent); }
+
+/* ---------- Footer ---------- */
+.site-footer {
+  margin-top: 40px; border-top: 1px solid var(--line);
+  background: var(--bg-2); color: var(--muted); font-size: 14px;
+}
+.site-footer .container { padding: 26px 18px; display: flex; flex-wrap: wrap; gap: 16px; justify-content: space-between; }
+.site-footer a { color: var(--muted); }
+.site-footer a:hover { color: var(--accent); }
+
+/* ---------- Responsive ---------- */
+@media (max-width: 980px) {
+  .price-layout { grid-template-columns: 1fr; }
+  .price-list { max-height: 320px; }
+  .chart-panel { height: 460px; }
+  .grid.cols-4 { grid-template-columns: repeat(2, 1fr); }
+  .grid.cols-3 { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 680px) {
+  .nav-links {
+    display: none; position: absolute; top: 62px; left: 0; right: 0;
+    flex-direction: column; gap: 0; background: var(--bg-2); border-bottom: 1px solid var(--line); padding: 8px;
+  }
+  .nav-links.open { display: flex; }
+  .nav-links a { padding: 12px 14px; border-radius: 8px; }
+  .nav-toggle { display: block; margin-left: auto; }
+  .grid.cols-4, .grid.cols-3 { grid-template-columns: 1fr; }
+}
+
+/* ============================================================
+   Brand logo + green-theme refinements + hero banner
+   ============================================================ */
+
+/* Header logo image (fallback to favicon.svg via onerror in components.js) */
+.brand .logo-img {
+  width: 44px; height: 44px; border-radius: 50%; object-fit: cover;
+  background: #2e5a3c;
+  box-shadow: 0 0 0 1.5px var(--accent), 0 2px 8px rgba(0,0,0,.45);
+}
+
+/* Primary button: dark text on sage */
+.btn-primary { color: #0e1a12; }
+
+/* Green-tinted hero glow (overridden again by .hero-banner when present) */
+.hero {
+  background:
+    radial-gradient(900px 300px at 12% -10%, rgba(95,184,127,.16), transparent),
+    radial-gradient(700px 260px at 90% -20%, rgba(231,228,211,.08), transparent);
+}
+
+/* Active price row + notice in brand palette */
+.price-row.active {
+  background: linear-gradient(90deg, rgba(95,184,127,.18), transparent);
+  box-shadow: inset 3px 0 0 var(--accent);
+}
+.notice { background: rgba(224,192,106,.08); border-color: rgba(224,192,106,.32); }
+.notice b { color: #e3c172; }
+
+/* Hero with the wide banner logo as cover image */
+.hero-banner {
+  min-height: 430px; display: flex; align-items: center; padding: 46px 0;
+  background:
+    linear-gradient(90deg, rgba(12,22,15,.97) 0%, rgba(12,22,15,.9) 34%, rgba(12,22,15,.58) 64%, rgba(12,22,15,.22) 100%),
+    linear-gradient(180deg, rgba(12,22,15,.45) 0%, rgba(12,22,15,.08) 42%, rgba(12,22,15,.6) 100%),
+    url("../img/hero-banner.jpg") center right / cover no-repeat;
+}
+.hero-kicker {
+  display: inline-flex; align-items: center; gap: 8px;
+  color: var(--cream); font-weight: 700; font-size: 12.5px;
+  letter-spacing: 2px; text-transform: uppercase; margin-bottom: 16px;
+  padding: 6px 15px; border: 1px solid rgba(231,228,211,.3); border-radius: 30px;
+  background: rgba(12,22,15,.4); backdrop-filter: blur(4px);
+}
+.hero-banner h1 { font-size: clamp(30px, 4.4vw, 50px); margin-bottom: 14px;
+  text-shadow: 0 2px 18px rgba(0,0,0,.6); }
+.hero-banner p { color: #d2e0cf; text-shadow: 0 1px 8px rgba(0,0,0,.55); }
+.hero-banner .btn-ghost {
+  background: rgba(12,22,15,.42); border-color: rgba(231,228,211,.5);
+  color: var(--cream); backdrop-filter: blur(4px);
+}
+.hero-banner .btn-ghost:hover { background: rgba(12,22,15,.7); color: #fff; }
+
+/* About page: badge logo on a light card (badge designed for white bg) */
+.about-badge {
+  display: block; width: 100%; max-width: 420px; margin: 6px auto 30px;
+  border-radius: 18px; background: #f6f5ee; padding: 12px;
+  border: 1px solid rgba(0,0,0,.06);
+  box-shadow: 0 14px 44px rgba(0,0,0,.5);
+}
+
+@media (max-width: 680px) {
+  .hero-banner {
+    min-height: 300px;
+    background:
+      linear-gradient(180deg, rgba(14,26,18,.86) 0%, rgba(14,26,18,.62) 55%, rgba(14,26,18,.78) 100%),
+      url("../img/hero-banner.jpg") center / cover no-repeat;
+  }
+}

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <circle cx="60" cy="60" r="58" fill="#2e5a3c"/>
+  <circle cx="60" cy="60" r="55" fill="none" stroke="#3d6e4d" stroke-width="1.2"/>
+  <defs><clipPath id="c"><circle cx="60" cy="60" r="56"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <!-- moon -->
+    <circle cx="33" cy="30" r="4.2" fill="#9cc4a3" opacity="0.55"/>
+    <!-- crane -->
+    <rect x="90" y="30" width="4.5" height="58" rx="1.5" fill="#eef0e3"/>
+    <path d="M92 32 Q70 22 60 40" fill="none" stroke="#eef0e3" stroke-width="3" stroke-linecap="round"/>
+    <line x1="60" y1="40" x2="60" y2="52" stroke="#eef0e3" stroke-width="1.6" stroke-dasharray="2 2.5"/>
+    <rect x="55" y="52" width="10" height="8" rx="1.2" fill="#9cc4a3"/>
+    <!-- cargo boxes -->
+    <g fill="#eef0e3">
+      <rect x="26" y="76" width="16" height="12" rx="1"/>
+      <rect x="44" y="70" width="16" height="18" rx="1"/>
+      <rect x="62" y="64" width="16" height="24" rx="1"/>
+      <rect x="80" y="72" width="16" height="16" rx="1"/>
+    </g>
+    <g fill="#9cc4a3" opacity="0.5">
+      <rect x="34" y="76" width="8" height="12"/>
+      <rect x="52" y="70" width="8" height="18"/>
+      <rect x="70" y="64" width="8" height="24"/>
+      <rect x="88" y="72" width="8" height="16"/>
+    </g>
+    <!-- chart line on top of boxes -->
+    <polyline points="32,73 47,66 62,57 77,63 88,61" fill="none" stroke="#9cc4a3"
+      stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="32" cy="73" r="3.3" fill="#9cc4a3"/>
+    <circle cx="47" cy="66" r="3.3" fill="#9cc4a3"/>
+    <circle cx="62" cy="57" r="3.9" fill="#eef0e3"/>
+    <circle cx="77" cy="63" r="3.3" fill="#9cc4a3"/>
+    <!-- dock -->
+    <rect x="20" y="88" width="80" height="5" rx="2" fill="#eef0e3"/>
+    <rect x="28" y="93" width="3.5" height="9" fill="#eef0e3"/>
+    <rect x="58" y="93" width="3.5" height="9" fill="#eef0e3"/>
+    <rect x="86" y="93" width="3.5" height="9" fill="#eef0e3"/>
+    <!-- waves -->
+    <path d="M18 105 q6 -4 12 0 t12 0 t12 0 t12 0 t12 0 t12 0" fill="none"
+      stroke="#9cc4a3" stroke-width="1.6" opacity="0.55" stroke-linecap="round"/>
+    <path d="M22 111 q6 -4 12 0 t12 0 t12 0 t12 0 t12 0" fill="none"
+      stroke="#9cc4a3" stroke-width="1.6" opacity="0.4" stroke-linecap="round"/>
+  </g>
+</svg>

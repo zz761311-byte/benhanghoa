@@ -1,0 +1,95 @@
+---
+// Khối "Mở tài khoản / Tư vấn" — thu thập thông tin khách hàng (lead).
+// Dùng FormSubmit.co (miễn phí, không cần API key) → gửi về email LEAD_EMAIL.
+// ⚠️ LẦN GỬI ĐẦU TIÊN: FormSubmit gửi 1 email xác nhận tới hộp thư — bấm link
+//    "Activate Form" để kích hoạt, sau đó mọi lead sẽ tự về email.
+const LEAD_EMAIL = "benhanghoamxv@gmail.com";
+const { item = "hàng hóa" } = Astro.props;
+---
+<section class="lead-cta">
+  <div class="lead-inner">
+    <div class="lead-text">
+      <h2>📈 Mở tài khoản giao dịch {item}</h2>
+      <p>Để lại thông tin, đội ngũ Bến Hàng Hóa sẽ tư vấn miễn phí về cách giao dịch
+        {item} qua Sở Giao dịch Hàng hóa Việt Nam (MXV) — ký quỹ, phí, và chiến lược phù hợp.</p>
+      <div class="lead-contacts">
+        <a class="lead-chip" href="#" data-contact="zalo">💬 Zalo: <b>đang cập nhật</b></a>
+        <a class="lead-chip" href="#" data-contact="phone">📞 Hotline: <b>đang cập nhật</b></a>
+      </div>
+    </div>
+
+    <form class="lead-form" action={`https://formsubmit.co/ajax/${LEAD_EMAIL}`} method="POST">
+      <input type="hidden" name="_subject" value={`[Bến Hàng Hóa] Lead tư vấn: ${item}`} />
+      <input type="hidden" name="_template" value="table" />
+      <input type="hidden" name="_captcha" value="false" />
+      <input type="hidden" name="Mặt hàng quan tâm" value={item} />
+      <!-- Bẫy spam: bot điền vào ô ẩn này thì bị bỏ qua -->
+      <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off" />
+      <input type="text" name="Họ và tên" placeholder="Họ và tên" required />
+      <input type="tel" name="Số điện thoại" placeholder="Số điện thoại" required />
+      <textarea name="Lời nhắn" placeholder="Lời nhắn (không bắt buộc)" rows="2"></textarea>
+      <button type="submit" class="btn btn-primary">Nhận tư vấn miễn phí</button>
+      <p class="lead-note" data-state="idle">Thông tin của bạn được bảo mật, chỉ dùng để tư vấn.</p>
+    </form>
+  </div>
+</section>
+
+<style>
+  .lead-cta {
+    margin: 28px 0; border-radius: var(--radius); overflow: hidden;
+    background: linear-gradient(135deg, rgba(95,184,127,.14), rgba(47,107,67,.18));
+    border: 1px solid var(--line);
+  }
+  .lead-inner { display: grid; grid-template-columns: 1.1fr 1fr; gap: 22px; padding: 24px; }
+  .lead-text h2 { margin: 0 0 8px; font-size: 22px; }
+  .lead-text p { color: var(--muted); margin: 0 0 14px; }
+  .lead-contacts { display: flex; gap: 10px; flex-wrap: wrap; }
+  .lead-chip {
+    background: var(--bg-2); border: 1px solid var(--line); border-radius: 30px;
+    padding: 8px 14px; font-size: 14px; color: var(--text);
+  }
+  .lead-chip b { color: var(--accent); }
+  .lead-form { display: flex; flex-direction: column; gap: 10px; }
+  .lead-form input, .lead-form textarea {
+    background: var(--bg); border: 1px solid var(--line); border-radius: 9px;
+    padding: 11px 13px; color: var(--text); font-size: 15px; font-family: inherit;
+  }
+  .lead-form input:focus, .lead-form textarea:focus { outline: none; border-color: var(--accent); }
+  .lead-form button { margin-top: 2px; justify-content: center; }
+  .lead-note { font-size: 12.5px; color: var(--muted); margin: 4px 0 0; text-align: center; }
+  .lead-note[data-state="ok"] { color: var(--up); }
+  .lead-note[data-state="err"] { color: var(--down); }
+  @media (max-width: 760px) { .lead-inner { grid-template-columns: 1fr; } }
+</style>
+
+<script>
+  document.querySelectorAll(".lead-form").forEach((form) => {
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const note = form.querySelector(".lead-note");
+      // Bẫy spam: nếu ô ẩn _honey có giá trị → bot, bỏ qua
+      const honey = form.querySelector('[name="_honey"]');
+      if (honey && honey.value) return;
+      note.dataset.state = "idle";
+      note.textContent = "Đang gửi...";
+      try {
+        const res = await fetch(form.action, {
+          method: "POST",
+          body: new FormData(form),
+          headers: { Accept: "application/json" }
+        });
+        const data = await res.json().catch(() => ({}));
+        if (res.ok && (data.success === "true" || data.success === true)) {
+          form.reset();
+          note.dataset.state = "ok";
+          note.textContent = "✅ Đã gửi! Chúng tôi sẽ liên hệ bạn sớm nhất.";
+        } else {
+          throw new Error(data.message || "submit failed");
+        }
+      } catch {
+        note.dataset.state = "err";
+        note.textContent = "❌ Gửi chưa thành công. Vui lòng thử lại sau ít phút.";
+      }
+    });
+  });
+</script>

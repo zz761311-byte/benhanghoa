@@ -1,0 +1,55 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import LeadCTA from "../../components/LeadCTA.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const docs = await getCollection("knowledge");
+  return docs.map((doc) => ({ params: { slug: doc.slug }, props: { doc } }));
+}
+
+const { doc } = Astro.props;
+const { Content } = await doc.render();
+---
+<Layout page="knowledge" title={`${doc.data.title} — Kiến thức | Bến Hàng Hóa`} description={doc.data.summary}>
+  <section class="section">
+    <div class="container" style="max-width:760px">
+      <nav class="breadcrumb">
+        <a href="/">Trang chủ</a> › <a href="/kien-thuc">Kiến thức</a> › <span>{doc.data.title}</span>
+      </nav>
+      <h1>{doc.data.title}</h1>
+      {doc.data.updated && <div class="post-meta">Cập nhật: {doc.data.updated.toLocaleDateString("vi-VN")}</div>}
+      <article class="post-body"><Content /></article>
+
+      <LeadCTA item="giao dịch hàng hóa" />
+
+      <p class="back-link"><a href="/kien-thuc">← Quay lại danh mục Kiến thức</a></p>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .breadcrumb { font-size: 13.5px; color: var(--muted); margin-bottom: 10px; }
+  .breadcrumb a { color: var(--muted); }
+  .breadcrumb a:hover { color: var(--accent); }
+  h1 { font-size: clamp(23px, 3.2vw, 32px); margin: 0 0 6px; line-height: 1.25; }
+  .post-meta { color: var(--muted); font-size: 14px; margin-bottom: 20px; }
+  .post-body { color: var(--text); font-size: 16.5px; line-height: 1.75; }
+  .post-body :global(h2) { font-size: 22px; margin: 30px 0 12px; }
+  .post-body :global(h3) { font-size: 18px; margin: 22px 0 8px; color: var(--text); }
+  .post-body :global(p) { margin: 0 0 14px; }
+  .post-body :global(ul), .post-body :global(ol) { color: var(--muted); line-height: 1.9; padding-left: 22px; }
+  .post-body :global(li) { margin-bottom: 4px; }
+  .post-body :global(table) { width: 100%; border-collapse: collapse; margin: 16px 0; background: var(--bg-2); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+  .post-body :global(th), .post-body :global(td) { padding: 10px 14px; text-align: left; border-bottom: 1px solid var(--line); font-size: 14.5px; }
+  .post-body :global(th) { color: var(--muted); font-weight: 600; }
+  .post-body :global(blockquote) {
+    border-left: 3px solid var(--accent); padding: 4px 16px; margin: 16px 0;
+    color: var(--muted); background: var(--bg-2); border-radius: 0 8px 8px 0;
+  }
+  .post-body :global(a) { color: var(--accent-2); }
+  .post-body :global(code) { background: var(--bg-2); padding: 1px 6px; border-radius: 4px; font-size: 14px; }
+  .post-body :global(hr) { border: 0; border-top: 1px solid var(--line); margin: 24px 0; }
+  .post-body :global(em) { color: var(--muted); font-size: 14px; }
+  .back-link { margin-top: 28px; font-size: 14.5px; }
+</style>

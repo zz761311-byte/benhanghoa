@@ -1,0 +1,15 @@
+{
+  "name": "benhanghoa",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Bến Hàng Hóa - Giá hàng hóa & tin tức cho người Việt",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "fetch-news": "node scripts/fetch-news.mjs"
+  },
+  "dependencies": {
+    "astro": "^4.16.0"
+  }
+}

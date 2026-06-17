@@ -1,0 +1,27 @@
+==========================================================
+ HƯỚNG DẪN LƯU LOGO — Bến Hàng Hóa
+==========================================================
+
+Hãy lưu 3 ảnh logo bạn đã gửi vào ĐÚNG thư mục này (assets/img/)
+với ĐÚNG tên file dưới đây, rồi tải lại trang (F5) là web tự hiện.
+
+1) Ảnh ICON TRÒN (hình tròn xanh, có cần cẩu + thùng hàng + biểu đồ)
+   →  lưu tên:  logo-icon.png
+
+2) Ảnh BADGE (nền trắng, chữ "BẾN HÀNG HÓA" + "NƠI TRADER CẬP BẾN")
+   →  lưu tên:  logo-badge.png
+
+3) Ảnh BANNER NGANG (cảng 3D, chữ BẾN HÀNG HÓA bằng khối nổi)
+   →  lưu tên:  hero-banner.png
+
+----------------------------------------------------------
+CÁCH LƯU NHANH:
+- Trong cửa sổ chat: bấm chuột phải vào từng ảnh → "Save image as..."
+  → trỏ tới thư mục:  f:\Dựng Web Bến Hàng Hóa\assets\img\
+  → đặt đúng tên ở trên (nhớ đuôi .png).
+
+GỢI Ý:
+- Nếu ảnh là .jpg thay vì .png, vẫn được — nhưng phải đổi đuôi trong tên
+  file cho khớp, hoặc báo mình để mình sửa đường dẫn.
+- Trước khi bạn lưu, web vẫn đẹp vì đã có logo SVG dự phòng (favicon.svg).
+==========================================================

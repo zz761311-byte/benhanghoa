@@ -1,0 +1,74 @@
+---
+const {
+  title = "Bến Hàng Hóa — Giá hàng hóa & tin tức cho người Việt",
+  description = "Cập nhật giá hàng hóa thế giới (năng lượng, nông sản, kim loại) và tin tức ảnh hưởng đến giá, bằng tiếng Việt.",
+  page = ""
+} = Astro.props;
+
+const links = [
+  { key: "home",     href: "/",           label: "Trang chủ" },
+  { key: "prices",   href: "/bang-gia",   label: "Bảng giá" },
+  { key: "news",     href: "/tin-tuc",    label: "Tin tức" },
+  { key: "analysis", href: "/phan-tich",  label: "Phân tích" },
+  { key: "knowledge", href: "/kien-thuc", label: "Kiến thức" },
+  { key: "about",    href: "/gioi-thieu", label: "Giới thiệu" }
+];
+---
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="/assets/img/logo-badge.png" />
+  <link rel="icon" type="image/svg+xml" href="/assets/img/favicon.svg" />
+  <link rel="stylesheet" href="/assets/css/style.css" />
+</head>
+<body data-page={page}>
+  <header class="site-header">
+    <div class="container nav">
+      <a class="brand" href="/">
+        <img class="logo-img" src="/assets/img/logo-icon.png" alt="Bến Hàng Hóa" />
+        <span>BẾN <b>HÀNG HÓA</b></span>
+      </a>
+      <button class="nav-toggle" aria-label="Menu">☰</button>
+      <nav class="nav-links">
+        {links.map((l) => (
+          <a href={l.href} class={l.key === page ? "active" : ""}>{l.label}</a>
+        ))}
+      </nav>
+    </div>
+  </header>
+
+  <slot />
+
+  <footer class="site-footer">
+    <div class="container">
+      <div>
+        <span style="display:inline-flex;align-items:center;gap:8px">
+          <img src="/assets/img/logo-icon.png" alt="" style="width:24px;height:24px;border-radius:50%;background:#2e5a3c" />
+          <strong style="color:var(--text)">Bến Hàng Hóa</strong>
+        </span> — Giá hàng hóa & tin tức cho người Việt.<br />
+        Dữ liệu giá từ TradingView. Chỉ mang tính tham khảo.
+      </div>
+      <div>
+        © 2026 Bến Hàng Hóa ·
+        <a href="/bang-gia">Bảng giá</a> ·
+        <a href="/tin-tuc">Tin tức</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const toggle = document.querySelector(".nav-toggle");
+    const menu = document.querySelector(".nav-links");
+    if (toggle && menu) {
+      toggle.addEventListener("click", () => menu.classList.toggle("open"));
+    }
+  </script>
+</body>
+</html>

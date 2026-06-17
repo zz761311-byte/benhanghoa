@@ -1,0 +1,97 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { TICKER } from "../data/commodities.mjs";
+
+const featured = [
+  "TVC:GOLD", "TVC:USOIL", "OANDA:XCUUSD", "CAPITALCOM:SOYBEAN",
+  "CAPITALCOM:COFFEE", "CAPITALCOM:NATURALGAS", "TVC:SILVER", "CAPITALCOM:CORN"
+];
+---
+<Layout page="home">
+  <div class="ticker-host"><div id="ticker" class="tradingview-widget-container"></div></div>
+
+  <section class="hero hero-banner">
+    <div class="container">
+      <div class="hero-kicker">⚓ Nơi trader cập bến</div>
+      <h1>Giá hàng hóa thế giới,<br />cập nhật bằng <span class="hl">tiếng Việt</span></h1>
+      <p>Theo dõi năng lượng, nông sản, nguyên liệu công nghiệp và kim loại — cùng tin tức quốc tế tác động đến giá, dịch sẵn sang tiếng Việt.</p>
+      <div class="cta">
+        <a class="btn btn-primary" href="/bang-gia">📊 Xem bảng giá</a>
+        <a class="btn btn-ghost" href="/tin-tuc">📰 Đọc tin tức</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2>Hàng hóa nổi bật</h2>
+        <a href="/bang-gia">Xem tất cả →</a>
+      </div>
+      <div id="featured-grid" class="grid cols-4"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2>Tin mới nhất</h2>
+        <a href="/tin-tuc">Xem thêm →</a>
+      </div>
+      <div id="home-news" class="news-list"></div>
+    </div>
+  </section>
+</Layout>
+
+<script define:vars={{ TICKER, featured }}>
+  // Thanh ticker
+  const tickerHost = document.getElementById("ticker");
+  if (tickerHost) {
+    const s = document.createElement("script");
+    s.async = true;
+    s.src = "https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js";
+    s.innerHTML = JSON.stringify({
+      symbols: TICKER, showSymbolLogo: true, isTransparent: true,
+      displayMode: "adaptive", colorTheme: "dark", locale: "vi_VN"
+    });
+    tickerHost.appendChild(s);
+  }
+
+  // Hàng hóa nổi bật (mini chart)
+  const grid = document.getElementById("featured-grid");
+  if (grid) {
+    featured.forEach((sym) => {
+      const card = document.createElement("div");
+      card.className = "card mini-quote";
+      const wrap = document.createElement("div");
+      wrap.className = "tradingview-widget-container";
+      card.appendChild(wrap);
+      grid.appendChild(card);
+      const s = document.createElement("script");
+      s.async = true;
+      s.src = "https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js";
+      s.innerHTML = JSON.stringify({
+        symbol: sym, width: "100%", height: "100%", locale: "vi_VN",
+        dateRange: "1M", colorTheme: "dark", isTransparent: true, autosize: true
+      });
+      wrap.appendChild(s);
+    });
+  }
+
+  // Tin mới nhất
+  const newsHost = document.getElementById("home-news");
+  if (newsHost) {
+    fetch("/data/news.json", { cache: "no-store" })
+      .then((r) => r.json())
+      .then((d) => {
+        const items = (d.items || []).slice(0, 4);
+        if (!items.length) { newsHost.innerHTML = '<div class="empty-note">Chưa có tin.</div>'; return; }
+        newsHost.innerHTML = items.map((n) => `
+          <div class="news-item">
+            <h3><a href="${n.link}" target="_blank" rel="noopener">${n.title_vi || n.title}</a></h3>
+            <div class="news-meta"><span class="tag ${n.category || ""}">${n.category_vi || "Hàng hóa"}</span><span>${n.source || ""}</span></div>
+          </div>`).join("");
+      })
+      .catch(() => { newsHost.innerHTML = '<div class="empty-note">Chưa tải được tin.</div>'; });
+  }
+</script>

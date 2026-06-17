@@ -1,0 +1,49 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+const docs = (await getCollection("knowledge")).sort(
+  (a, b) => (a.data.order ?? 99) - (b.data.order ?? 99)
+);
+---
+<Layout page="knowledge" title="Kiến thức giao dịch hàng hóa — Bến Hàng Hóa" description="Cẩm nang nền tảng cho người mới: MXV là gì, ký quỹ, đòn bẩy, hợp đồng tương lai và quản trị rủi ro khi giao dịch hàng hóa.">
+  <section class="section">
+    <div class="container" style="max-width:820px">
+      <div class="section-head"><h2>📚 Kiến thức giao dịch hàng hóa</h2></div>
+      <p class="kt-lead">Cẩm nang nền tảng giúp bạn hiểu thị trường hàng hóa phái sinh trước khi bắt đầu. Đọc theo thứ tự từ trên xuống để nắm vững từng bước.</p>
+      <ol class="kt-list">
+        {docs.map((d, i) => (
+          <li class="kt-item">
+            <a href={`/kien-thuc/${d.slug}`}>
+              <span class="kt-num">{i + 1}</span>
+              <span class="kt-body">
+                <span class="kt-title">{d.data.title}</span>
+                <span class="kt-summary">{d.data.summary}</span>
+              </span>
+            </a>
+          </li>
+        ))}
+      </ol>
+      {docs.length === 0 && <div class="empty-note">Chưa có bài viết.</div>}
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .kt-lead { color: var(--muted); font-size: 16px; line-height: 1.7; margin: 0 0 22px; }
+  .kt-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 12px; }
+  .kt-item a {
+    display: flex; gap: 16px; align-items: flex-start;
+    background: var(--bg-2); border: 1px solid var(--line); border-radius: var(--radius);
+    padding: 16px 18px; transition: border-color .15s, transform .15s;
+  }
+  .kt-item a:hover { border-color: var(--accent); transform: translateY(-2px); }
+  .kt-num {
+    flex: 0 0 auto; width: 34px; height: 34px; border-radius: 50%;
+    display: grid; place-items: center; font-weight: 700;
+    background: var(--accent-2); color: #fff; font-size: 15px;
+  }
+  .kt-body { display: flex; flex-direction: column; gap: 4px; }
+  .kt-title { color: var(--text); font-weight: 600; font-size: 16.5px; line-height: 1.4; }
+  .kt-summary { color: var(--muted); font-size: 14px; line-height: 1.6; }
+</style>

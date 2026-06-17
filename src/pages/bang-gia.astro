@@ -1,0 +1,88 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { GROUPS, TICKER } from "../data/commodities.mjs";
+---
+<Layout page="prices" title="Bảng giá hàng hóa — Bến Hàng Hóa" description="Bảng giá hàng hóa: dầu, vàng, bạc, đồng, ngô, đậu tương, cà phê... với biểu đồ chi tiết.">
+  <div class="ticker-host"><div id="ticker" class="tradingview-widget-container"></div></div>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head"><h2>📊 Bảng giá hàng hóa</h2></div>
+      <div class="notice" style="margin-bottom:16px">
+        Bấm vào một mặt hàng bên trái để xem biểu đồ. Phần lớn mã là <b>real-time miễn phí</b>
+        (vàng, bạc, đồng, dầu, kim loại cơ bản, nông sản, cà phê...). Vài mã gắn nhãn
+        <span class="lim-badge">hạn chế</span> chưa có dữ liệu miễn phí công khai. Chỉ mang tính tham khảo.
+      </div>
+
+      <div class="price-layout">
+        <div id="price-list" class="price-list">
+          {GROUPS.map((g) => (
+            <Fragment>
+              <div class="price-group-title">{g.icon} {g.label}</div>
+              {g.items.map((it) => (
+                <div class="price-row" data-symbol={it.tv} role="button" tabindex="0">
+                  <span class="nm">{it.name}{it.limited && (<span class="lim-badge" title="Chưa có dữ liệu miễn phí công khai — biểu đồ chỉ hiện khi đã đăng nhập TradingView">hạn chế</span>)}</span>
+                  <span class="unit">{it.unit}</span>
+                  <a class="row-detail" href={`/hang-hoa/${it.slug}`} title={`Trang chi tiết ${it.name}`} onclick="event.stopPropagation()">↗</a>
+                </div>
+              ))}
+            </Fragment>
+          ))}
+        </div>
+        <div class="chart-panel"><div id="tv_chart"></div></div>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<script is:inline src="https://s3.tradingview.com/tv.js"></script>
+<script define:vars={{ TICKER }}>
+  // Thanh ticker
+  const tickerHost = document.getElementById("ticker");
+  if (tickerHost) {
+    const s = document.createElement("script");
+    s.async = true;
+    s.src = "https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js";
+    s.innerHTML = JSON.stringify({
+      symbols: TICKER, showSymbolLogo: true, isTransparent: true,
+      displayMode: "adaptive", colorTheme: "dark", locale: "vi_VN"
+    });
+    tickerHost.appendChild(s);
+  }
+
+  // Danh sách → biểu đồ
+  const listEl = document.getElementById("price-list");
+  const chartEl = document.getElementById("tv_chart");
+  if (listEl && chartEl) {
+    function loadChart(symbol) {
+      chartEl.innerHTML = "";
+      new TradingView.widget({
+        autosize: true, symbol, interval: "D", timezone: "Asia/Ho_Chi_Minh",
+        theme: "dark", style: "1", locale: "vi_VN", toolbar_bg: "#0e2138",
+        enable_publishing: false, hide_side_toolbar: false,
+        allow_symbol_change: true, container_id: "tv_chart"
+      });
+    }
+    function select(row) {
+      listEl.querySelectorAll(".price-row.active").forEach((r) => r.classList.remove("active"));
+      row.classList.add("active");
+    }
+    listEl.querySelectorAll(".price-row").forEach((row) => {
+      row.addEventListener("click", () => { select(row); loadChart(row.dataset.symbol); });
+    });
+    const wanted = new URLSearchParams(location.search).get("symbol");
+    const start = wanted
+      ? listEl.querySelector('.price-row[data-symbol="' + (window.CSS ? CSS.escape(wanted) : wanted) + '"]')
+      : listEl.querySelector(".price-row");
+    if (start) { select(start); loadChart(start.dataset.symbol); }
+  }
+</script>
+
+<style>
+  .price-row { gap: 8px; }
+  .row-detail {
+    color: var(--muted); font-size: 13px; font-weight: 700; text-decoration: none;
+    padding: 2px 7px; border-radius: 6px; border: 1px solid transparent;
+  }
+  .row-detail:hover { color: var(--accent); border-color: var(--line); background: var(--bg); }
+</style>

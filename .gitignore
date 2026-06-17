@@ -12,6 +12,10 @@ desktop.ini
 node_modules/
 npm-debug.log*
 
+# Astro build artifacts (Cloudflare tự build, không cần commit)
+dist/
+.astro/
+
 # Logs / tạm
 *.log
 .cache/

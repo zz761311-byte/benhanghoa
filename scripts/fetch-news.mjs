@@ -135,11 +135,20 @@ async function fetchFeed(feed) {
   }
 }
 
+// Định dạng giờ theo MÚI GIỜ VIỆT NAM (UTC+7, không có DST), bất kể máy chạy ở
+// đâu — GitHub Actions chạy giờ UTC nên nếu dùng getHours() sẽ lệch 7 tiếng,
+// khiến web hiện giờ cũ → tưởng tin không cập nhật. Cộng 7h rồi đọc theo UTC.
+function fmtVN(d) {
+  if (isNaN(d)) return "";
+  const vn = new Date(d.getTime() + 7 * 3600 * 1000);
+  const p = n => String(n).padStart(2, "0");
+  return `${vn.getUTCFullYear()}-${p(vn.getUTCMonth() + 1)}-${p(vn.getUTCDate())} ${p(vn.getUTCHours())}:${p(vn.getUTCMinutes())}`;
+}
+
 function fmtDate(s) {
   const d = new Date(s);
   if (isNaN(d)) return s || "";
-  const p = n => String(n).padStart(2, "0");
-  return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())} ${p(d.getHours())}:${p(d.getMinutes())}`;
+  return fmtVN(d);
 }
 
 async function main() {
@@ -181,10 +190,8 @@ async function main() {
     });
   }
 
-  const now = new Date();
-  const p = n => String(n).padStart(2, "0");
   const out = {
-    updated_at: `${now.getFullYear()}-${p(now.getMonth() + 1)}-${p(now.getDate())} ${p(now.getHours())}:${p(now.getMinutes())}`,
+    updated_at: fmtVN(new Date()),   // giờ Việt Nam, khớp đồng hồ người xem
     items
   };
 

@@ -59,7 +59,7 @@ const featured = [
         <h2>Tin mới nhất</h2>
         <a href="/tin-tuc">Xem thêm →</a>
       </div>
-      <div id="home-news" class="news-list"></div>
+      <div id="home-news" class="news-grid"></div>
     </div>
   </section>
 
@@ -120,6 +120,10 @@ const featured = [
 
   // Tin mới nhất
   const CAT = { metal: "Kim loại", energy: "Năng lượng", agri: "Nông sản", soft: "Nguyên liệu", macro: "Vĩ mô" };
+  const CAT_ICON = { metal: "🪙", energy: "🛢️", agri: "🌾", soft: "☕", macro: "🌐" };
+  const catIcon = (c) => CAT_ICON[c] || "📦";
+  const catKey = (c) => (CAT_ICON[c] ? c : "macro");
+  const esc = (s) => String(s || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   // PHẢI khớp y hệt makeId trong scripts/fetch-news.mjs (link tới trang đọc nội bộ)
   function makeId(s) {
     s = String(s || "");
@@ -160,14 +164,21 @@ const featured = [
         const items = (d.items || []).slice().sort((a, b) => tsOf(b) - tsOf(a)).slice(0, 4);
         if (!items.length) { newsHost.innerHTML = '<div class="empty-note">Chưa có tin.</div>'; return; }
         newsHost.innerHTML = items.map((n) => `
-          <div class="news-item">
-            <h3><a href="${readHref(n)}">${n.title_vi || n.title}</a></h3>
-            <div class="news-meta">
+          <article class="news-card">
+            <a class="news-card-thumb thumb-${catKey(n.category)}" href="${readHref(n)}" aria-label="${esc(n.title_vi || n.title)}">
+              <span class="news-card-icon">${catIcon(n.category)}</span>
+              ${n.image ? `<img class="news-card-img" src="${esc(n.image)}" alt="" loading="lazy" onerror="this.remove()">` : ""}
+            </a>
+            <div class="news-card-body">
               <span class="tag ${n.category || ""}">${CAT[n.category] || "Hàng hóa"}</span>
-              <span>${n.source || ""}</span>
-              <span class="news-time">🕒 ${fmtWhen(n.published)}</span>
+              <h3><a href="${readHref(n)}">${esc(n.title_vi || n.title)}</a></h3>
+              ${n.summary_vi ? `<p class="news-summary clamp-2">${esc(n.summary_vi)}</p>` : ""}
+              <div class="news-meta">
+                <span>${esc(n.source || "")}</span>
+                <span class="news-time">🕒 ${fmtWhen(n.published)}</span>
+              </div>
             </div>
-          </div>`).join("");
+          </article>`).join("");
       })
       .catch(() => { newsHost.innerHTML = '<div class="empty-note">Chưa tải được tin.</div>'; });
   }

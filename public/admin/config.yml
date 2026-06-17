@@ -2,16 +2,17 @@
 # Decap CMS — cấu hình bộ biên tập nội dung cho Bến Hàng Hóa
 # Biên tập viên đăng tin/bài qua giao diện web, không cần code.
 #
-# ⚠️ CẦN HOÀN THIỆN: phần xác thực (auth). Decap trên Cloudflare Pages
-#    cần một "OAuth proxy" + GitHub OAuth App. Sẽ cấu hình ở bước tiếp theo
-#    (điền base_url bên dưới sau khi dựng proxy).
+# Xác thực: dùng GitHub OAuth qua Cloudflare Pages Functions (/api/auth, /api/callback).
+# Cần tạo GitHub OAuth App + đặt biến môi trường GITHUB_OAUTH_CLIENT_ID/SECRET
+# trên Cloudflare Pages (xem hướng dẫn).
 # ============================================================
 
 backend:
   name: github
   repo: zz761311-byte/benhanghoa
   branch: main
-  # base_url: https://<oauth-proxy-cua-ban>   # <-- điền ở bước xác thực
+  base_url: https://benhanghoa.pages.dev
+  auth_endpoint: /api/auth
 
 # Cho phép xem thử/biên tập tại máy khi chạy: npx decap-server
 local_backend: true

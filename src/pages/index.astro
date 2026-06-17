@@ -1,6 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import LeadCTA from "../components/LeadCTA.astro";
+import Trust from "../components/Trust.astro";
 import { TICKER } from "../data/commodities.mjs";
 
 const featured = [
@@ -51,6 +52,12 @@ const featured = [
         <a href="/tin-tuc">Xem thêm →</a>
       </div>
       <div id="home-news" class="news-list"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <Trust />
     </div>
   </section>
 

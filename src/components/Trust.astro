@@ -1,0 +1,48 @@
+---
+// Khối NIỀM TIN — đặt ngay trên form thu khách để khách an tâm để lại SĐT.
+//
+// ⚠️ GHI CHÚ cho chủ web: các con số dưới đây là THẬT theo hệ thống hiện tại
+//    (25+ mặt hàng, tin cập nhật mỗi giờ). KHÔNG bịa "số khách hàng" để tránh
+//    quảng cáo sai. Khi có số thật (vd 1.200 khách, 3 năm kinh nghiệm) cứ đổi
+//    trong mảng `stats`, và thêm lời chứng thực THẬT vào `reviews` nếu muốn.
+const stats = [
+  { icon: "🏛️", big: "Sở MXV",  small: "Giao dịch hàng hóa VN" },
+  { icon: "📊", big: "25+",     small: "Mặt hàng theo dõi" },
+  { icon: "🕒", big: "Mỗi giờ", small: "Cập nhật tin & giá" },
+  { icon: "⏱️", big: "24/7",    small: "Đồng hành hỗ trợ" },
+];
+
+const commits = [
+  { icon: "🎯", title: "Tư vấn 1-1 tận tâm",
+    desc: "Đội ngũ đồng hành từ lúc mở tài khoản đến chiến lược vào lệnh phù hợp với từng người." },
+  { icon: "⚡", title: "Giá real-time miễn phí",
+    desc: "Theo dõi giá năng lượng, kim loại, nông sản, cà phê… cập nhật liên tục, không tốn phí." },
+  { icon: "🇻🇳", title: "Tin quốc tế dịch tiếng Việt",
+    desc: "Tin thế giới ảnh hưởng đến giá hàng hóa, dịch sẵn sang tiếng Việt và làm mới mỗi giờ." },
+];
+---
+<section class="trust">
+  <div class="section-head"><h2>Vì sao chọn Bến Hàng Hóa?</h2></div>
+
+  <div class="trust-stats">
+    {stats.map((s) => (
+      <div class="trust-stat">
+        <span class="trust-stat-icon">{s.icon}</span>
+        <div class="trust-stat-text">
+          <strong>{s.big}</strong>
+          <span>{s.small}</span>
+        </div>
+      </div>
+    ))}
+  </div>
+
+  <div class="trust-commits">
+    {commits.map((c) => (
+      <div class="trust-commit">
+        <span class="trust-commit-icon">{c.icon}</span>
+        <h3>{c.title}</h3>
+        <p>{c.desc}</p>
+      </div>
+    ))}
+  </div>
+</section>

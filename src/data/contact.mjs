@@ -4,5 +4,6 @@ export const CONTACT = {
   hotline: "083 795 5858",            // hiển thị cho khách
   hotlineTel: "+84837955858",         // dùng cho link gọi tel:
   zaloUrl: "https://zalo.me/0837955858",
-  email: "benhanghoamxv@gmail.com"
+  email: "benhanghoamxv@gmail.com",
+  facebookUrl: "https://www.facebook.com/benhanghoa"
 };

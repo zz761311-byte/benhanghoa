@@ -3,8 +3,14 @@ import Layout from "../layouts/Layout.astro";
 import { TICKER } from "../data/commodities.mjs";
 
 const featured = [
-  "TVC:GOLD", "TVC:USOIL", "OANDA:XCUUSD", "CAPITALCOM:SOYBEAN",
-  "CAPITALCOM:COFFEE", "CAPITALCOM:NATURALGAS", "TVC:SILVER", "CAPITALCOM:CORN"
+  "OANDA:XAUUSD",       // Vàng
+  "OANDA:XAGUSD",       // Bạc
+  "OANDA:XPTUSD",       // Bạch kim
+  "OANDA:XCUUSD",       // Đồng
+  "CAPITALCOM:COFFEE",  // Cà phê (Arabica)
+  "CAPITALCOM:SOYBEAN", // Đậu tương
+  "CAPITALCOM:COTTON",  // Bông
+  "CAPITALCOM:CORN"     // Ngô
 ];
 ---
 <Layout page="home">

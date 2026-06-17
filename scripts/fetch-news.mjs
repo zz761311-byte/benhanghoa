@@ -153,12 +153,15 @@ async function main() {
     for (const arr of perFeed) if (arr[i]) raw.push(arr[i]);
   }
 
-  // Dedupe by title.
-  const seen = new Set();
+  // Dedupe theo tiêu đề VÀ đường link (bắt cả bản sao cùng bài từ nhiều nguồn).
+  const seenT = new Set(), seenL = new Set();
   const unique = raw.filter(it => {
-    const k = it.title.toLowerCase();
-    if (!it.title || seen.has(k)) return false;
-    seen.add(k);
+    if (!it.title) return false;
+    const t = it.title.toLowerCase();
+    const l = (it.link || "").trim();
+    if (seenT.has(t)) return false;
+    if (l && seenL.has(l)) return false;
+    seenT.add(t); if (l) seenL.add(l);
     return true;
   }).slice(0, MAX_TOTAL);
 

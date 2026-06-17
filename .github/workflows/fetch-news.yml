@@ -1,10 +1,11 @@
 name: Cập nhật tin tức (Bến Hàng Hóa)
 
-# Tự chạy mỗi 3 giờ + cho phép bấm chạy tay trong tab Actions.
-# (mỗi 3h = ~240 build/tháng, nằm trong hạn mức 500 build/tháng của Cloudflare Pages)
+# Tự chạy mỗi GIỜ + cho phép bấm chạy tay trong tab Actions.
+# Web đọc tin trực tiếp từ GitHub raw nên cập nhật mỗi giờ KHÔNG tốn build Cloudflare
+# (cần loại public/data/news.json khỏi "Build watch paths" của Cloudflare Pages).
 on:
   schedule:
-    - cron: "0 */3 * * *"   # mỗi 3 giờ (UTC)
+    - cron: "0 * * * *"   # mỗi giờ (UTC)
   workflow_dispatch:
 
 permissions:

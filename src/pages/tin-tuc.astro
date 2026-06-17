@@ -34,6 +34,15 @@ import Layout from "../layouts/Layout.astro";
     return rel ? `${abs} · ${rel}` : abs;
   }
   const tsOf = (n) => new Date(String(n.published || "").replace(" ", "T")).getTime() || 0;
+  // Đọc tin: thử GitHub (tươi nhất) trước, lỗi thì quay về bản tĩnh trong build
+  async function loadNewsData() {
+    const REMOTE = "https://raw.githubusercontent.com/zz761311-byte/benhanghoa/main/public/data/news.json";
+    const LOCAL = "/data/news.json";
+    for (const url of [REMOTE, LOCAL]) {
+      try { const r = await fetch(url, { cache: "no-store" }); if (r.ok) return await r.json(); } catch (e) {}
+    }
+    return null;
+  }
   const listEl = document.getElementById("news-list");
   const filterEl = document.getElementById("news-filter");
   const updatedEl = document.getElementById("news-updated");
@@ -73,9 +82,9 @@ import Layout from "../layouts/Layout.astro";
     if (first) first.classList.add("btn-primary");
   }
 
-  fetch("/data/news.json", { cache: "no-store" })
-    .then((r) => r.json())
+  loadNewsData()
     .then((d) => {
+      if (!d) { listEl.innerHTML = '<div class="empty-note">Chưa tải được tin tức.</div>'; return; }
       allItems = (d.items || []).slice().sort((a, b) => tsOf(b) - tsOf(a));
       if (updatedEl && d.updated_at) updatedEl.textContent = "Cập nhật lúc: " + d.updated_at;
       buildFilters();

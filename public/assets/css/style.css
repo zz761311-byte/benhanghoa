@@ -70,7 +70,10 @@ a:hover { color: var(--accent); }
 .nav-toggle { display: none; background: none; border: 0; color: var(--text); font-size: 26px; cursor: pointer; }
 
 /* ---------- Ticker tape host ---------- */
-.ticker-host { border-bottom: 1px solid var(--line); background: var(--bg-2); }
+.ticker-host { border-bottom: 1px solid var(--line); background: var(--bg-2); position: relative; }
+/* Lớp che thanh ticker — chặn click nhảy sang TradingView */
+.ticker-link { position: absolute; inset: 0; z-index: 3; display: block; }
+a.ticker-link { cursor: pointer; }
 
 /* ---------- Hero ---------- */
 .hero {

@@ -3,7 +3,10 @@ import Layout from "../layouts/Layout.astro";
 import { GROUPS, TICKER } from "../data/commodities.mjs";
 ---
 <Layout page="prices" title="Bảng giá hàng hóa — Bến Hàng Hóa" description="Bảng giá hàng hóa: dầu, vàng, bạc, đồng, ngô, đậu tương, cà phê... với biểu đồ chi tiết.">
-  <div class="ticker-host"><div id="ticker" class="tradingview-widget-container"></div></div>
+  <div class="ticker-host">
+    <div id="ticker" class="tradingview-widget-container"></div>
+    <span class="ticker-link" aria-hidden="true"></span>
+  </div>
 
   <section class="section">
     <div class="container">

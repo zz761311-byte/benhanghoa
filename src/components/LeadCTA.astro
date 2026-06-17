@@ -4,6 +4,9 @@
 // ⚠️ LẦN GỬI ĐẦU TIÊN: FormSubmit gửi 1 email xác nhận tới hộp thư — bấm link
 //    "Activate Form" để kích hoạt, sau đó mọi lead sẽ tự về email.
 const LEAD_EMAIL = "benhanghoamxv@gmail.com";
+const HOTLINE = "0837 955 858";          // hiển thị
+const HOTLINE_TEL = "+84837955858";      // link gọi (tel:)
+const ZALO_URL = "https://zalo.me/0837955858";
 const { item = "hàng hóa" } = Astro.props;
 ---
 <section class="lead-cta">
@@ -13,8 +16,8 @@ const { item = "hàng hóa" } = Astro.props;
       <p>Để lại thông tin, đội ngũ Bến Hàng Hóa sẽ tư vấn miễn phí về cách giao dịch
         {item} qua Sở Giao dịch Hàng hóa Việt Nam (MXV) — ký quỹ, phí, và chiến lược phù hợp.</p>
       <div class="lead-contacts">
-        <a class="lead-chip" href="#" data-contact="zalo">💬 Zalo: <b>đang cập nhật</b></a>
-        <a class="lead-chip" href="#" data-contact="phone">📞 Hotline: <b>đang cập nhật</b></a>
+        <a class="lead-chip" href={ZALO_URL} target="_blank" rel="noopener">💬 Zalo: <b>{HOTLINE}</b></a>
+        <a class="lead-chip" href={`tel:${HOTLINE_TEL}`}>📞 Hotline: <b>{HOTLINE}</b></a>
       </div>
     </div>
 

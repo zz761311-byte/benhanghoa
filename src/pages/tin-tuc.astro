@@ -1,5 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import LeadCTA from "../components/LeadCTA.astro";
 ---
 <Layout page="news" title="Tin tức hàng hóa — Bến Hàng Hóa" description="Tin tức thế giới ảnh hưởng đến giá hàng hóa, dịch sang tiếng Việt.">
   <section class="section">
@@ -9,9 +10,13 @@ import Layout from "../layouts/Layout.astro";
         <span id="news-updated" style="color:var(--muted);font-size:13px"></span>
       </div>
       <div id="news-filter" class="cta" style="margin-bottom:18px;flex-wrap:wrap"></div>
-      <div id="news-list" class="news-list"></div>
+      <div id="news-list" class="news-list"><div class="empty-note">⏳ Đang tải tin tức…</div></div>
     </div>
   </section>
+
+  <div class="container" id="dang-ky" style="scroll-margin-top:84px">
+    <LeadCTA item="hàng hóa" />
+  </div>
 </Layout>
 
 <script>
@@ -35,6 +40,8 @@ import Layout from "../layouts/Layout.astro";
   }
   const idOf = (n) => n.id || makeId(n.link || n.title);
   const readHref = (n) => "/tin-tuc/doc/?id=" + idOf(n);
+  // Chống XSS: escape mọi dữ liệu từ tin (tiêu đề/tóm tắt từ nguồn ngoài qua máy dịch)
+  const esc = (s) => String(s || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   function fmtWhen(s) {
     if (!s) return "";
     const d = new Date(String(s).replace(" ", "T"));
@@ -69,15 +76,16 @@ import Layout from "../layouts/Layout.astro";
   function featuredCard(n) {
     return `
       <article class="news-feat">
-        <a class="news-feat-thumb thumb-${catKey(n.category)}" href="${readHref(n)}" aria-label="${n.title_vi || n.title}">
+        <a class="news-feat-thumb thumb-${catKey(n.category)}" href="${readHref(n)}" aria-label="${esc(n.title_vi || n.title)}">
           <span class="news-feat-icon">${catIcon(n.category)}</span>
+          ${n.image ? `<img class="news-feat-img" src="${esc(n.image)}" alt="" loading="lazy" onerror="this.remove()">` : ""}
         </a>
         <div class="news-feat-body">
-          <span class="tag ${n.category || ""}">${catLabel(n.category)}</span>
-          <h3><a href="${readHref(n)}">${n.title_vi || n.title}</a></h3>
-          ${n.summary_vi ? `<p class="news-summary">${n.summary_vi}</p>` : ""}
+          <span class="tag ${esc(n.category || "")}">${catLabel(n.category)}</span>
+          <h3><a href="${readHref(n)}">${esc(n.title_vi || n.title)}</a></h3>
+          ${n.summary_vi ? `<p class="news-summary">${esc(n.summary_vi)}</p>` : ""}
           <div class="news-meta">
-            <span>${n.source || ""}</span>
+            <span>${esc(n.source || "")}</span>
             <span class="news-time">🕒 ${fmtWhen(n.published)}</span>
           </div>
         </div>
@@ -87,15 +95,16 @@ import Layout from "../layouts/Layout.astro";
   function smallCard(n) {
     return `
       <article class="news-card">
-        <a class="news-card-thumb thumb-${catKey(n.category)}" href="${readHref(n)}" aria-label="${n.title_vi || n.title}">
+        <a class="news-card-thumb thumb-${catKey(n.category)}" href="${readHref(n)}" aria-label="${esc(n.title_vi || n.title)}">
           <span class="news-card-icon">${catIcon(n.category)}</span>
+          ${n.image ? `<img class="news-card-img" src="${esc(n.image)}" alt="" loading="lazy" onerror="this.remove()">` : ""}
         </a>
         <div class="news-card-body">
-          <span class="tag ${n.category || ""}">${catLabel(n.category)}</span>
-          <h3><a href="${readHref(n)}">${n.title_vi || n.title}</a></h3>
-          ${n.summary_vi ? `<p class="news-summary clamp-2">${n.summary_vi}</p>` : ""}
+          <span class="tag ${esc(n.category || "")}">${catLabel(n.category)}</span>
+          <h3><a href="${readHref(n)}">${esc(n.title_vi || n.title)}</a></h3>
+          ${n.summary_vi ? `<p class="news-summary clamp-2">${esc(n.summary_vi)}</p>` : ""}
           <div class="news-meta">
-            <span>${n.source || ""}</span>
+            <span>${esc(n.source || "")}</span>
             <span class="news-time">🕒 ${fmtWhen(n.published)}</span>
           </div>
         </div>

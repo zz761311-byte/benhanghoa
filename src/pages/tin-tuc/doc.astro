@@ -114,6 +114,7 @@ import LeadCTA from "../../components/LeadCTA.astro";
       <article class="news-card">
         <a class="news-card-thumb thumb-${catKey(n.category)}" href="/tin-tuc/doc/?id=${idOf(n)}" aria-label="${esc(n.title_vi || n.title)}">
           <span class="news-card-icon">${catIcon(n.category)}</span>
+          ${n.image ? `<img class="news-card-img" src="${esc(n.image)}" alt="" loading="lazy" onerror="this.remove()">` : ""}
         </a>
         <div class="news-card-body">
           <span class="tag ${esc(n.category || "")}">${catLabel(n.category)}</span>

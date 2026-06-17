@@ -1,5 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
+import LeadCTA from "../../components/LeadCTA.astro";
 import { getCollection } from "astro:content";
 
 export async function getStaticPaths() {
@@ -20,6 +21,9 @@ const { Content } = await post.render();
       <div class="post-meta">{post.data.date.toLocaleDateString("vi-VN")}</div>
       {post.data.image && <img class="post-cover" src={post.data.image} alt={post.data.title} />}
       <article class="post-body"><Content /></article>
+
+      <LeadCTA item="giao dịch hàng hóa" />
+
       <p class="back-link"><a href="/phan-tich">← Quay lại danh sách bài viết</a></p>
     </div>
   </section>

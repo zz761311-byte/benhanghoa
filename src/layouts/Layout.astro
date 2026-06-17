@@ -6,6 +6,10 @@ const {
   page = ""
 } = Astro.props;
 
+// URL tuyệt đối cho thẻ chia sẻ (Zalo/Facebook bỏ qua đường dẫn tương đối).
+const ogImage = new URL("/assets/img/logo-badge.png", Astro.site).href;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+
 const links = [
   { key: "home",     href: "/",           label: "Trang chủ" },
   { key: "prices",   href: "/bang-gia",   label: "Bảng giá" },
@@ -22,10 +26,18 @@ const links = [
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title}</title>
   <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  <meta property="og:site_name" content="Bến Hàng Hóa" />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="/assets/img/logo-badge.png" />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:locale" content="vi_VN" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogImage} />
   <link rel="icon" type="image/svg+xml" href="/assets/img/favicon.svg" />
   <link rel="stylesheet" href="/assets/css/style.css" />
 </head>
@@ -36,8 +48,8 @@ const links = [
         <img class="logo-img" src="/assets/img/logo-icon.png" alt="Bến Hàng Hóa" />
         <span>BẾN <b>HÀNG HÓA</b></span>
       </a>
-      <button class="nav-toggle" aria-label="Menu">☰</button>
-      <nav class="nav-links">
+      <button class="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="nav-links">☰</button>
+      <nav class="nav-links" id="nav-links">
         {links.map((l) => (
           <a href={l.href} class={l.key === page ? "active" : ""}>{l.label}</a>
         ))}
@@ -54,7 +66,8 @@ const links = [
           <img src="/assets/img/logo-icon.png" alt="" style="width:24px;height:24px;border-radius:50%;background:#2e5a3c" />
           <strong style="color:var(--text)">Bến Hàng Hóa</strong>
         </span> — Giá hàng hóa & tin tức cho người Việt.<br />
-        Dữ liệu giá từ TradingView. Chỉ mang tính tham khảo.
+        Dữ liệu giá từ TradingView. Chỉ mang tính tham khảo.<br />
+        <span style="color:var(--muted);font-size:12.5px">Bến Hàng Hóa là website thông tin; hỗ trợ kết nối mở tài khoản qua đối tác là Thành viên Kinh doanh của Sở Giao dịch Hàng hóa Việt Nam (MXV).</span>
       </div>
       <div>
         © 2026 Bến Hàng Hóa ·
@@ -78,7 +91,10 @@ const links = [
     const toggle = document.querySelector(".nav-toggle");
     const menu = document.querySelector(".nav-links");
     if (toggle && menu) {
-      toggle.addEventListener("click", () => menu.classList.toggle("open"));
+      toggle.addEventListener("click", () => {
+        const open = menu.classList.toggle("open");
+        toggle.setAttribute("aria-expanded", open ? "true" : "false");
+      });
     }
   </script>
 </body>

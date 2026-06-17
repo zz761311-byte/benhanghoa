@@ -38,7 +38,7 @@ a:hover { color: var(--accent); }
 /* ---------- Header ---------- */
 .site-header {
   position: sticky; top: 0; z-index: 50;
-  background: rgba(10,23,38,.92);
+  background: rgba(14,26,18,.92);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--line);
 }
@@ -54,7 +54,7 @@ a:hover { color: var(--accent); }
 .brand .logo {
   width: 34px; height: 34px; border-radius: 9px;
   display: grid; place-items: center;
-  background: linear-gradient(135deg, var(--accent-2), #1769c4);
+  background: linear-gradient(135deg, var(--accent-2), var(--accent));
   box-shadow: inset 0 0 0 1.5px var(--accent);
   font-size: 18px;
 }
@@ -196,6 +196,7 @@ a.ticker-link { cursor: pointer; }
   display: flex; align-items: center; justify-content: center;
 }
 .news-feat-icon { font-size: 78px; filter: drop-shadow(0 5px 12px rgba(0,0,0,.4)); }
+.news-feat-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1; }
 .news-feat-body { padding: 20px 24px; display: flex; flex-direction: column; gap: 11px; }
 .news-feat-body h3 { margin: 0; font-size: 22px; line-height: 1.32; }
 .news-feat-body h3 a { color: var(--text); }
@@ -484,4 +485,21 @@ a.ticker-link { cursor: pointer; }
 @media (max-width: 680px) {
   .hero-showcase .hero-img { border-radius: 12px; }
   .hero-copy { margin-top: 18px; }
+}
+
+/* ====== Accessibility ====== */
+/* Viền focus rõ ràng cho người dùng bàn phím (trước đây thiếu hẳn) */
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+/* Tôn trọng người dùng tắt hiệu ứng chuyển động */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: .001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .001ms !important;
+    scroll-behavior: auto !important;
+  }
 }

@@ -15,7 +15,7 @@ const { item = "hàng hóa" } = Astro.props;
     <div class="lead-text">
       <h2>📈 Mở tài khoản giao dịch {item}</h2>
       <p>Để lại thông tin, đội ngũ Bến Hàng Hóa sẽ tư vấn miễn phí về cách giao dịch
-        {item} qua Sở Giao dịch Hàng hóa Việt Nam (MXV) — ký quỹ, phí, và chiến lược phù hợp.</p>
+        {item} qua đối tác là Thành viên của Sở Giao dịch Hàng hóa Việt Nam (MXV) — ký quỹ, phí, và chiến lược phù hợp.</p>
       <div class="lead-contacts">
         <a class="lead-chip" href={ZALO_URL} target="_blank" rel="noopener">💬 Zalo: <b>{HOTLINE}</b></a>
         <a class="lead-chip" href={`tel:${HOTLINE_TEL}`}>📞 Hotline: <b>{HOTLINE}</b></a>
@@ -34,6 +34,7 @@ const { item = "hàng hóa" } = Astro.props;
       <textarea name="Lời nhắn" placeholder="Lời nhắn (không bắt buộc)" rows="2"></textarea>
       <button type="submit" class="btn btn-primary">Nhận tư vấn miễn phí</button>
       <p class="lead-note" data-state="idle">Thông tin của bạn được bảo mật, chỉ dùng để tư vấn.</p>
+      <p class="lead-risk">⚠️ Giao dịch hàng hóa phái sinh sử dụng đòn bẩy, tiềm ẩn rủi ro mất vốn — cân nhắc kỹ trước khi tham gia. Tư vấn miễn phí, không ràng buộc.</p>
     </form>
   </div>
 </section>
@@ -63,6 +64,7 @@ const { item = "hàng hóa" } = Astro.props;
   .lead-note { font-size: 12.5px; color: var(--muted); margin: 4px 0 0; text-align: center; }
   .lead-note[data-state="ok"] { color: var(--up); }
   .lead-note[data-state="err"] { color: var(--down); }
+  .lead-risk { font-size: 11.5px; color: var(--muted); margin: 7px 0 0; line-height: 1.5; text-align: center; opacity: .9; }
   @media (max-width: 760px) { .lead-inner { grid-template-columns: 1fr; } }
 </style>
 

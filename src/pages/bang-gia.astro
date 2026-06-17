@@ -1,5 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import LeadCTA from "../components/LeadCTA.astro";
 import { GROUPS, TICKER } from "../data/commodities.mjs";
 ---
 <Layout page="prices" title="Bảng giá hàng hóa — Bến Hàng Hóa" description="Bảng giá hàng hóa: dầu, vàng, bạc, đồng, ngô, đậu tương, cà phê... với biểu đồ chi tiết.">
@@ -36,6 +37,10 @@ import { GROUPS, TICKER } from "../data/commodities.mjs";
       </div>
     </div>
   </section>
+
+  <div class="container" id="dang-ky" style="scroll-margin-top:84px">
+    <LeadCTA item="hàng hóa" />
+  </div>
 </Layout>
 
 <script is:inline src="https://s3.tradingview.com/tv.js"></script>

@@ -1,0 +1,14 @@
+{
+  "name": "benhanghoa-news-cron",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloudflare Worker hen gio kich hoat bot tin tuc Ben Hang Hoa",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "wrangler": "^4"
+  }
+}

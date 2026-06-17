@@ -16,6 +16,9 @@ npm-debug.log*
 dist/
 .astro/
 
+# Wrangler (Cloudflare Worker) cache
+.wrangler/
+
 # Logs / tạm
 *.log
 .cache/

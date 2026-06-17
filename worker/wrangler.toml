@@ -1,0 +1,13 @@
+# Cấu hình Cloudflare Worker hẹn giờ tin tức — Bến Hàng Hóa
+name = "benhanghoa-news-cron"
+main = "src/worker.mjs"
+compatibility_date = "2026-01-01"
+
+# Cron: chạy ĐẦU MỖI GIỜ (UTC). Cloudflare bắn đúng giờ, đáng tin cậy
+# (khác lịch GitHub hay bị bỏ qua lúc cao điểm).
+[triggers]
+crons = ["0 * * * *"]
+
+# LƯU Ý: secret GH_TOKEN KHÔNG để ở đây. Nạp bằng:
+#   wrangler secret put GH_TOKEN
+# hoặc trong dashboard: Worker → Settings → Variables → Add secret.

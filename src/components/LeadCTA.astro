@@ -3,10 +3,11 @@
 // Dùng FormSubmit.co (miễn phí, không cần API key) → gửi về email LEAD_EMAIL.
 // ⚠️ LẦN GỬI ĐẦU TIÊN: FormSubmit gửi 1 email xác nhận tới hộp thư — bấm link
 //    "Activate Form" để kích hoạt, sau đó mọi lead sẽ tự về email.
-const LEAD_EMAIL = "benhanghoamxv@gmail.com";
-const HOTLINE = "083 795 5858";          // hiển thị (083 = đầu số Vinaphone)
-const HOTLINE_TEL = "+84837955858";      // link gọi (tel:)
-const ZALO_URL = "https://zalo.me/0837955858";
+import { CONTACT } from "../data/contact.mjs";
+const LEAD_EMAIL = CONTACT.email;
+const HOTLINE = CONTACT.hotline;
+const HOTLINE_TEL = CONTACT.hotlineTel;
+const ZALO_URL = CONTACT.zaloUrl;
 const { item = "hàng hóa" } = Astro.props;
 ---
 <section class="lead-cta">

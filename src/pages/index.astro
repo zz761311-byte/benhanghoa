@@ -2,8 +2,10 @@
 import Layout from "../layouts/Layout.astro";
 import LeadCTA from "../components/LeadCTA.astro";
 import Trust from "../components/Trust.astro";
-import { TICKER } from "../data/commodities.mjs";
+import { TICKER, ALL } from "../data/commodities.mjs";
 
+// Mã nổi bật → kèm slug trang chi tiết, để bấm vào ô đi tới trang NỘI BỘ
+// của mình (không nhảy sang TradingView như mặc định của widget).
 const featured = [
   "OANDA:XAUUSD",       // Vàng
   "OANDA:XAGUSD",       // Bạc
@@ -13,7 +15,10 @@ const featured = [
   "CAPITALCOM:SOYBEAN", // Đậu tương
   "CAPITALCOM:COTTON",  // Bông
   "CAPITALCOM:CORN"     // Ngô
-];
+].map((sym) => {
+  const it = ALL.find((x) => x.tv === sym);
+  return { sym, slug: it ? it.slug : "", name: it ? it.name : "" };
+});
 ---
 <Layout page="home">
   <div class="ticker-host"><div id="ticker" class="tradingview-widget-container"></div></div>
@@ -83,18 +88,27 @@ const featured = [
   // Hàng hóa nổi bật (mini chart)
   const grid = document.getElementById("featured-grid");
   if (grid) {
-    featured.forEach((sym) => {
+    featured.forEach((f) => {
       const card = document.createElement("div");
       card.className = "card mini-quote";
       const wrap = document.createElement("div");
       wrap.className = "tradingview-widget-container";
       card.appendChild(wrap);
+      // Lớp link vô hình phủ lên ô: bấm vào đi tới trang chi tiết NỘI BỘ
+      // thay vì nhảy sang TradingView (mặc định của widget).
+      if (f.slug) {
+        const overlay = document.createElement("a");
+        overlay.className = "mini-link";
+        overlay.href = "/hang-hoa/" + f.slug;
+        overlay.setAttribute("aria-label", "Xem chi tiết " + (f.name || ""));
+        card.appendChild(overlay);
+      }
       grid.appendChild(card);
       const s = document.createElement("script");
       s.async = true;
       s.src = "https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js";
       s.innerHTML = JSON.stringify({
-        symbol: sym, width: "100%", height: "100%", locale: "vi_VN",
+        symbol: f.sym, width: "100%", height: "100%", locale: "vi_VN",
         dateRange: "1M", colorTheme: "dark", isTransparent: true, autosize: true
       });
       wrap.appendChild(s);

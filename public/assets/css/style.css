@@ -118,8 +118,10 @@ a:hover { color: var(--accent); }
   border-radius: var(--radius); padding: 14px;
   box-shadow: var(--shadow);
 }
-.mini-quote { min-height: 132px; }
+.mini-quote { min-height: 132px; position: relative; }
 .mini-quote .tradingview-widget-container { height: 100%; }
+/* Lớp link phủ kín ô — chặn click nhảy sang TradingView, dẫn về trang nội bộ */
+.mini-link { position: absolute; inset: 0; z-index: 3; display: block; cursor: pointer; }
 
 /* ---------- Bảng giá: hybrid layout ---------- */
 .price-layout {

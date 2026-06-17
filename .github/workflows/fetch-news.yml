@@ -1,11 +1,13 @@
 name: Cập nhật tin tức (Bến Hàng Hóa)
 
-# Tự chạy mỗi GIỜ + cho phép bấm chạy tay trong tab Actions.
-# Web đọc tin trực tiếp từ GitHub raw nên cập nhật mỗi giờ KHÔNG tốn build Cloudflare
+# Tự chạy 2 LẦN/GIỜ (phút :25 và :55) + cho phép bấm chạy tay trong tab Actions.
+# ⚠️ KHÔNG đặt phút :00 — đầu giờ GitHub kẹt tải nặng nhất, free tier hay BỎ QUA
+#    lịch chạy. Dời sang phút lẻ (:25/:55) để chạy đáng tin cậy hơn nhiều.
+# Web đọc tin trực tiếp từ GitHub raw nên cập nhật KHÔNG tốn build Cloudflare
 # (cần loại public/data/news.json khỏi "Build watch paths" của Cloudflare Pages).
 on:
   schedule:
-    - cron: "0 * * * *"   # mỗi giờ (UTC)
+    - cron: "25,55 * * * *"   # phút :25 và :55 mỗi giờ (UTC) — tránh đầu giờ kẹt
   workflow_dispatch:
 
 permissions:

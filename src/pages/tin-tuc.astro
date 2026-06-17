@@ -19,6 +19,21 @@ import Layout from "../layouts/Layout.astro";
     metal: "Kim loại", energy: "Năng lượng",
     agri: "Nông sản", soft: "Nguyên liệu", macro: "Vĩ mô"
   };
+  function fmtWhen(s) {
+    if (!s) return "";
+    const d = new Date(String(s).replace(" ", "T"));
+    if (isNaN(d)) return s;
+    const diff = (Date.now() - d.getTime()) / 1000;
+    const p = (n) => String(n).padStart(2, "0");
+    const abs = `${p(d.getDate())}/${p(d.getMonth() + 1)} ${p(d.getHours())}:${p(d.getMinutes())}`;
+    let rel = "";
+    if (diff < 60) rel = "vừa xong";
+    else if (diff < 3600) rel = Math.floor(diff / 60) + " phút trước";
+    else if (diff < 86400) rel = Math.floor(diff / 3600) + " giờ trước";
+    else if (diff < 7 * 86400) rel = Math.floor(diff / 86400) + " ngày trước";
+    return rel ? `${abs} · ${rel}` : abs;
+  }
+  const tsOf = (n) => new Date(String(n.published || "").replace(" ", "T")).getTime() || 0;
   const listEl = document.getElementById("news-list");
   const filterEl = document.getElementById("news-filter");
   const updatedEl = document.getElementById("news-updated");
@@ -33,7 +48,8 @@ import Layout from "../layouts/Layout.astro";
         <h3><a href="${n.link}" target="_blank" rel="noopener">${n.title_vi || n.title}</a></h3>
         <div class="news-meta">
           <span class="tag ${n.category || ""}">${CAT_LABEL[n.category] || "Hàng hóa"}</span>
-          <span>${n.source || ""}</span><span>${n.published || ""}</span>
+          <span>${n.source || ""}</span>
+          <span class="news-time">🕒 ${fmtWhen(n.published)}</span>
         </div>
         ${n.summary_vi ? `<p class="news-summary">${n.summary_vi}</p>` : ""}
       </article>`).join("");
@@ -60,7 +76,7 @@ import Layout from "../layouts/Layout.astro";
   fetch("/data/news.json", { cache: "no-store" })
     .then((r) => r.json())
     .then((d) => {
-      allItems = d.items || [];
+      allItems = (d.items || []).slice().sort((a, b) => tsOf(b) - tsOf(a));
       if (updatedEl && d.updated_at) updatedEl.textContent = "Cập nhật lúc: " + d.updated_at;
       buildFilters();
       render();

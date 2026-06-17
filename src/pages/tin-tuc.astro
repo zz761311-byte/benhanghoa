@@ -19,6 +19,13 @@ import Layout from "../layouts/Layout.astro";
     metal: "Kim loại", energy: "Năng lượng",
     agri: "Nông sản", soft: "Nguyên liệu", macro: "Vĩ mô"
   };
+  // Biểu tượng theo nhóm hàng — dùng thay ảnh (tin không kèm ảnh), tạo điểm nhìn.
+  const CAT_ICON = {
+    metal: "🥇", energy: "🛢️", agri: "🌾", soft: "☕", macro: "🌐"
+  };
+  const catLabel = (c) => CAT_LABEL[c] || "Hàng hóa";
+  const catIcon = (c) => CAT_ICON[c] || "📦";
+  const catKey = (c) => (CAT_ICON[c] ? c : "macro");
   function fmtWhen(s) {
     if (!s) return "";
     const d = new Date(String(s).replace(" ", "T"));
@@ -49,19 +56,50 @@ import Layout from "../layouts/Layout.astro";
   let allItems = [];
   let current = "all";
 
+  // Tin nổi bật (lớn, đầu trang)
+  function featuredCard(n) {
+    return `
+      <article class="news-feat">
+        <a class="news-feat-thumb thumb-${catKey(n.category)}" href="${n.link}" target="_blank" rel="noopener" aria-label="${n.title_vi || n.title}">
+          <span class="news-feat-icon">${catIcon(n.category)}</span>
+        </a>
+        <div class="news-feat-body">
+          <span class="tag ${n.category || ""}">${catLabel(n.category)}</span>
+          <h3><a href="${n.link}" target="_blank" rel="noopener">${n.title_vi || n.title}</a></h3>
+          ${n.summary_vi ? `<p class="news-summary">${n.summary_vi}</p>` : ""}
+          <div class="news-meta">
+            <span>${n.source || ""}</span>
+            <span class="news-time">🕒 ${fmtWhen(n.published)}</span>
+          </div>
+        </div>
+      </article>`;
+  }
+  // Thẻ tin nhỏ (lưới 2 cột)
+  function smallCard(n) {
+    return `
+      <article class="news-card">
+        <a class="news-card-thumb thumb-${catKey(n.category)}" href="${n.link}" target="_blank" rel="noopener" aria-label="${n.title_vi || n.title}">
+          <span class="news-card-icon">${catIcon(n.category)}</span>
+        </a>
+        <div class="news-card-body">
+          <span class="tag ${n.category || ""}">${catLabel(n.category)}</span>
+          <h3><a href="${n.link}" target="_blank" rel="noopener">${n.title_vi || n.title}</a></h3>
+          ${n.summary_vi ? `<p class="news-summary clamp-2">${n.summary_vi}</p>` : ""}
+          <div class="news-meta">
+            <span>${n.source || ""}</span>
+            <span class="news-time">🕒 ${fmtWhen(n.published)}</span>
+          </div>
+        </div>
+      </article>`;
+  }
+
   function render() {
     const items = current === "all" ? allItems : allItems.filter((i) => i.category === current);
     if (!items.length) { listEl.innerHTML = '<div class="empty-note">Chưa có tin trong mục này.</div>'; return; }
-    listEl.innerHTML = items.map((n) => `
-      <article class="news-item">
-        <h3><a href="${n.link}" target="_blank" rel="noopener">${n.title_vi || n.title}</a></h3>
-        <div class="news-meta">
-          <span class="tag ${n.category || ""}">${CAT_LABEL[n.category] || "Hàng hóa"}</span>
-          <span>${n.source || ""}</span>
-          <span class="news-time">🕒 ${fmtWhen(n.published)}</span>
-        </div>
-        ${n.summary_vi ? `<p class="news-summary">${n.summary_vi}</p>` : ""}
-      </article>`).join("");
+    const [first, ...rest] = items;
+    listEl.innerHTML =
+      featuredCard(first) +
+      (rest.length ? `<div class="news-grid">${rest.map(smallCard).join("")}</div>` : "");
   }
 
   function buildFilters() {

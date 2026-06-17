@@ -243,14 +243,14 @@ a:hover { color: var(--accent); }
 .notice { background: rgba(224,192,106,.08); border-color: rgba(224,192,106,.32); }
 .notice b { color: #e3c172; }
 
-/* Hero with the wide banner logo as cover image */
-.hero-banner {
-  min-height: 430px; display: flex; align-items: center; padding: 46px 0;
-  background:
-    linear-gradient(90deg, rgba(12,22,15,.97) 0%, rgba(12,22,15,.9) 34%, rgba(12,22,15,.58) 64%, rgba(12,22,15,.22) 100%),
-    linear-gradient(180deg, rgba(12,22,15,.45) 0%, rgba(12,22,15,.08) 42%, rgba(12,22,15,.6) 100%),
-    url("../img/hero-banner.jpg") center right / cover no-repeat;
+/* Hero: hiện TRỌN bức ảnh nhận diện, lời giới thiệu nằm bên dưới */
+.hero-showcase { padding: 22px 0 4px; }
+.hero-showcase .hero-img {
+  width: 100%; height: auto; display: block;
+  border-radius: 16px; border: 1px solid var(--line);
+  box-shadow: 0 14px 50px rgba(0,0,0,.45);
 }
+.hero-copy { text-align: center; max-width: 720px; margin: 24px auto 0; }
 .hero-kicker {
   display: inline-flex; align-items: center; gap: 8px;
   color: var(--cream); font-weight: 700; font-size: 12.5px;
@@ -258,14 +258,10 @@ a:hover { color: var(--accent); }
   padding: 6px 15px; border: 1px solid rgba(231,228,211,.3); border-radius: 30px;
   background: rgba(12,22,15,.4); backdrop-filter: blur(4px);
 }
-.hero-banner h1 { font-size: clamp(30px, 4.4vw, 50px); margin-bottom: 14px;
-  text-shadow: 0 2px 18px rgba(0,0,0,.6); }
-.hero-banner p { color: #d2e0cf; text-shadow: 0 1px 8px rgba(0,0,0,.55); }
-.hero-banner .btn-ghost {
-  background: rgba(12,22,15,.42); border-color: rgba(231,228,211,.5);
-  color: var(--cream); backdrop-filter: blur(4px);
-}
-.hero-banner .btn-ghost:hover { background: rgba(12,22,15,.7); color: #fff; }
+.hero-copy h1 { font-size: clamp(26px, 3.8vw, 42px); margin: 0 0 12px; line-height: 1.18; }
+.hero-copy h1 .hl { color: var(--accent); }
+.hero-copy p { color: var(--muted); font-size: 16.5px; margin: 0 auto 18px; }
+.hero-copy .cta { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
 
 /* About page: badge logo on a light card (badge designed for white bg) */
 .about-badge {
@@ -276,10 +272,6 @@ a:hover { color: var(--accent); }
 }
 
 @media (max-width: 680px) {
-  .hero-banner {
-    min-height: 300px;
-    background:
-      linear-gradient(180deg, rgba(14,26,18,.86) 0%, rgba(14,26,18,.62) 55%, rgba(14,26,18,.78) 100%),
-      url("../img/hero-banner.jpg") center / cover no-repeat;
-  }
+  .hero-showcase .hero-img { border-radius: 12px; }
+  .hero-copy { margin-top: 18px; }
 }

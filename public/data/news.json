@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17 22:18",
+  "updated_at": "2026-06-17 22:25",
   "items": [
     {
       "title": "US Crude Oil, Gasoline Inventories Still Falling: EIA",
@@ -9,15 +9,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-17 21:43"
-    },
-    {
-      "title": "Rio Tinto&#8217;s copper mine blocked: Protesters halt Oyu Tolgoi exports amid Mongolia&#8217;s revenue demands",
-      "title_vi": "Mỏ đồng của Rio Tinto bị chặn: Người biểu tình ngăn chặn xuất khẩu Oyu Tolgoi trong bối cảnh nhu cầu doanh thu của Mông Cổ",
-      "summary_vi": "Những người biểu tình đã tạm dừng các chuyến hàng tập trung khi kêu gọi tăng tỷ trọng tài sản khai thác ở quốc gia giàu tài nguyên này.",
-      "link": "https://www.mining.com/rio-tintos-giant-copper-mine-blocked-protesters-halt-oyu-tolgoi-exports-as-mongolia-demands-revenue-reset/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-17 17:55"
     },
     {
       "title": "Oil prices drop to cheapest level since early days of Middle East conflict",
@@ -66,7 +57,7 @@
     },
     {
       "title": "Gold price outlook: Are we on track to hit $6,000 in 2026",
-      "title_vi": "Triển vọng giá vàng: Liệu chúng ta có đang trên đà đạt mức 6.000 USD vào năm 2026",
+      "title_vi": "Triển vọng giá vàng: Chúng ta có đang trên đà đạt mức 6.000 USD vào năm 2026",
       "summary_vi": "",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSjZEWk1vUVp2RDA0SGtfb1h6WWdaNGZKOUROOVZRNnMzdmlsV1dyNlBrTlJ0bEVNVlBWZm5JRS1JYkdwdnVVRGdFQkZVdlB6SDVmSURlTnpvLWVVUmFLVGFPUEJMSWNfS3BURjg2ekNpellKcDZZMDdJazNEdVZqaVpBaHloRk5OTVc5dVZiSng0X0FEeWgzcWkwekJ2WHVKOE11Rnp5dmdIR2RvbDNEYW5oWjVUYWcwNWlYb0ZjZFBIYV9uN2JsS1V3?oc=5",
       "source": "Yahoo Finance",
@@ -84,7 +75,7 @@
     },
     {
       "title": "Coffee Market Slides into Bearish Phase as Brazil Crop Outlook Reshapes Global Balance",
-      "title_vi": "Thị trường cà phê trượt vào giai đoạn giảm giá khi triển vọng mùa vụ ở Brazil định hình lại sự cân bằng toàn cầu",
+      "title_vi": "Thị trường cà phê trượt vào giai đoạn giảm giá khi triển vọng mùa vụ Brazil định hình lại sự cân bằng toàn cầu",
       "summary_vi": "",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOemtDanRVWUFQZ2doU0ZQRWs3VXpNdGJ6T2VuSExkMEhwVTRKZHVldXJXZGppcmVpMUl5dEN3OVFWLU9CeDRmTWlUOVp4OHNYekxsTTFBVThtbVhmS3MyVmJvN2p4NThPNFViV2ZYNDJNRjlkWlU0YjhOQmRER2hVX2lZeHZxRHVSa2ZHOXB1d0NZRnlWZ0F0cTVVOUhmcVRPN1FPdTdJZ2ZRelN5bE9jUFNMNF9UTzltQUxHay1UOA?oc=5",
       "source": "StoneX",
@@ -101,17 +92,8 @@
       "published": "2026-06-17 21:30"
     },
     {
-      "title": "Fortuna wins key approval for Senegal gold project",
-      "title_vi": "Fortuna giành được sự chấp thuận quan trọng cho dự án vàng ở Senegal",
-      "summary_vi": "Fortuna cho biết việc cấp phép này đánh dấu một “bước quyết định” hướng tới việc xin được giấy phép.",
-      "link": "https://www.mining.com/fortuna-wins-key-approval-for-senegal-gold-project/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-17 06:43"
-    },
-    {
       "title": "As Hormuz crisis eases, gas prices may drop—other costs like groceries and home goods could stay high for a while",
-      "title_vi": "Khi cuộc khủng hoảng Hormuz giảm bớt, giá xăng có thể giảm - các chi phí khác như hàng tạp hóa và hàng gia dụng có thể duy trì ở mức cao trong một thời gian",
+      "title_vi": "Khi khủng hoảng Hormuz giảm bớt, giá xăng có thể giảm - các chi phí khác như hàng tạp hóa và đồ gia dụng có thể duy trì ở mức cao trong một thời gian",
       "summary_vi": "",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcGMwbGNzYUxLUnVOb0lXM0E5RVFiUzlyVmRyV09kcTVRZkthWlplbTVVV1lYdXZObUNxeGdMMWV0VkxoMjFkQW1pR1RmVlAwSTlURVpiT3JhUC1qNnFwZVNTMUE3SXBTVWZaUTdiQXcxRmU4NXdLZGlXbkRoUEluUVVBYWFsVWdKekZZUkNBQ0VVYkd2eE9KVjhEUWhjeG5zaTFjbVZJYWdMWWZUV0N2QTZNVHNyZ9IBuwFBVV95cUxOWnh2aHQwLTBNYk1HMW1RcU9QbFNZNzNTbkdqTl9VUExKdVFhYlB6R3Q3RXB2bDZCZ1VpSGo4UmdHLWllWUpVNGFQcjZ2ZWpaZk93Ym5WdW5hbE5leVpjYUs3WTdGZ3A4a1J0OEkxY0pKQThOUHpsVXMyUk9fMEF2YTRETUtIQlJTOXFSclcydlozWUZJeFF4WksyVzE4dmZlV0dONGM2aFp2MVJJbnVYMk0yUlRYdDNObVE4?oc=5",
       "source": "CNBC",
@@ -191,15 +173,6 @@
       "published": "2026-06-17 21:00"
     },
     {
-      "title": "Rare Earths Americas hits 44.5% TREO at Shiloh project in Georgia",
-      "title_vi": "Đất hiếm Châu Mỹ đạt 44,5% TREO tại dự án Shiloh ở Georgia",
-      "summary_vi": "Công ty tập trung vào các nguyên tố đất hiếm nặng được sử dụng trong nam châm vĩnh cửu và các ứng dụng quốc phòng.",
-      "link": "https://www.mining.com/rare-earths-americas-hits-44-5-treo-at-shiloh-project-in-georgia/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-17 06:13"
-    },
-    {
       "title": "Oil prices fall to lowest level since March after US announces Iran deal - ABC News",
       "title_vi": "Giá dầu giảm xuống mức thấp nhất kể từ tháng 3 sau khi Mỹ công bố thỏa thuận với Iran - ABC News",
       "summary_vi": "",
@@ -270,6 +243,33 @@
       "source": "RFD-TV",
       "category": "soft",
       "published": "2026-06-15 23:00"
+    },
+    {
+      "title": "Falling Murban and Dubai Prices Open Arbitrage to U.S. and Europe",
+      "title_vi": "Giá Murban và Dubai giảm mở ra cơ hội kinh doanh chênh lệch giá ở Mỹ và châu Âu",
+      "summary_vi": "Giá dầu thô chuẩn chính của Trung Đông giảm mạnh sau thỏa thuận Mỹ-Iran đã mở ra cơ hội kinh doanh chênh lệch giá để vận chuyển dầu từ Trung Đông đến Mỹ và châu Âu, các thương nhân nói với Reuters hôm thứ Tư. Phí giao ngay trước đó của giá Dubai, Murban và Om",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Falling-Murban-and-Dubai-Prices-Open-Arbitrage-to-US-and-Europe.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-17 20:46"
+    },
+    {
+      "title": "Oil prices fall on Iran deal, but whether they go much lower ‘is highly questionable’",
+      "title_vi": "Giá dầu giảm do thỏa thuận Iran, nhưng liệu giá có giảm thấp hơn nhiều hay không 'rất đáng nghi ngờ'",
+      "summary_vi": "",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVzEyNHZFamYzeV9nVXZ3RmJTZ3NMZUR6QTVmYXdhSDVXTnNGdUx4QldtbWxhZHNsWFFzNWQxM1hpRF9pU1Zod0htUlBUX1YxTkphOTl5Uk14Vy1wclNiY2NndEYtRjJ0azIyS2Z6dl8zeVo0czlGNGt6VXpaeHREXzBFd3U2MnRCbk1Del92TQ?oc=5",
+      "source": "NBC News",
+      "category": "energy",
+      "published": "2026-06-16 03:08"
+    },
+    {
+      "title": "What will happen to gold prices if inflation stays elevated through 2026? Here's what experts say.",
+      "title_vi": "Điều gì sẽ xảy ra với giá vàng nếu lạm phát tiếp tục tăng cao đến năm 2026? Đây là những gì các chuyên gia nói.",
+      "summary_vi": "",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNlZXLVpURXNsdkJ6OThCYmU5NVlteTVPZndGcnItd3VnbVVjcUUyT3ppTXJYVHNRenhRNTFPWjIxV1NFY2hkMDYwVXpZRjF6aVp0NmRyZTctOUJWVHpkQTkxaFVYaDFtTFV4Q1I2b1hQUEN5cmtoYkttc1d1V0ROSWttd1Joem55V3hKeER6QmFfN0JtSlZCTzlSY2E?oc=5",
+      "source": "CBS News",
+      "category": "metal",
+      "published": "2026-06-11 18:00"
     }
   ]
 }

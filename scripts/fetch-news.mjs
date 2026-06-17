@@ -21,12 +21,17 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT = resolve(__dirname, "../public/data/news.json");
 
 // --- Free RSS sources (chỉnh thêm/bớt tùy ý) ---
+// google:true → là Google News RSS: lấy tên báo thật từ thẻ <source>, cắt đuôi " - Tên báo".
 const FEEDS = [
+  // Nguồn trực tiếp (bài viết đầy đủ, có tóm tắt)
   { url: "https://oilprice.com/rss/main", source: "OilPrice", hint: "energy" },
   { url: "https://www.mining.com/feed/", source: "Mining.com", hint: "metal" },
-  { url: "https://www.investing.com/rss/commodities_Metals.rss", source: "Investing", hint: "metal" },
-  { url: "https://www.investing.com/rss/commodities_Energy.rss", source: "Investing", hint: "energy" },
-  { url: "https://www.investing.com/rss/commodities_Agriculture.rss", source: "Investing", hint: "agri" }
+  { url: "https://dailycoffeenews.com/feed/", source: "Daily Coffee News", hint: "soft" },
+  // Google News RSS — lọc theo nhóm hàng hóa (ổn định, phủ rộng cả 4 nhóm)
+  { url: "https://news.google.com/rss/search?q=(crude+oil+OR+natural+gas+OR+gasoline)+price+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "energy", google: true },
+  { url: "https://news.google.com/rss/search?q=(gold+OR+silver+OR+copper+OR+platinum+OR+aluminum+OR+nickel)+price+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "metal", google: true },
+  { url: "https://news.google.com/rss/search?q=(corn+OR+soybean+OR+wheat+OR+grain)+price+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "agri", google: true },
+  { url: "https://news.google.com/rss/search?q=(coffee+OR+sugar+OR+cocoa+OR+cotton+OR+rubber)+price+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "soft", google: true }
 ];
 
 const MAX_PER_FEED = 6;   // số tin lấy mỗi nguồn
@@ -40,6 +45,14 @@ const CATEGORY_RULES = [
   ["soft",   ["coffee", "sugar", "cocoa", "cotton", "rubber", "arabica", "robusta"]],
   ["macro",  ["fed", "inflation", "dollar", "rate", "cpi", "economy", "gdp"]]
 ];
+
+// Lọc tiêu đề "rác" từ Google News (trang báo giá, bảng giá — không phải bài viết)
+function isJunkTitle(t) {
+  const s = (t || "").trim();
+  if (s.length < 22) return true; // quá ngắn → thường là trang báo giá ("Soybean", "Gold")
+  if (/price today|spot price|price chart|live price|price per|prices today|quote|charts?$/i.test(s)) return true;
+  return false;
+}
 
 function categorize(text, hint) {
   const t = (text || "").toLowerCase();
@@ -70,6 +83,7 @@ function parseFeed(xml) {
       title: decode(pick(block, "title")),
       link: decode(pick(block, "link")) || (block.match(/<link[^>]*href="([^"]+)"/i)?.[1] || ""),
       desc: decode(pick(block, "description")).slice(0, 280),
+      src: decode(pick(block, "source")),   // Google News: tên báo gốc
       pub: decode(pick(block, "pubDate"))
     });
   }
@@ -96,7 +110,20 @@ async function fetchFeed(feed) {
     const res = await fetch(feed.url, { headers: { "User-Agent": "Mozilla/5.0" } });
     if (!res.ok) throw new Error("HTTP " + res.status);
     const xml = await res.text();
-    return parseFeed(xml).slice(0, MAX_PER_FEED).map(it => ({ ...it, source: feed.source, hint: feed.hint }));
+    return parseFeed(xml)
+      .map(it => {
+        let title = it.title;
+        let source = feed.source;
+        let desc = it.desc;
+        if (feed.google) {
+          source = it.src || feed.source;                  // tên báo thật
+          title = title.replace(/\s+-\s+[^-]+$/, "").trim(); // bỏ đuôi " - Tên báo"
+          desc = "";                                        // GNews không có tóm tắt thật → bỏ
+        }
+        return { ...it, title, desc, source, hint: feed.hint };
+      })
+      .filter(it => !isJunkTitle(it.title))   // bỏ tiêu đề rác trước khi cắt
+      .slice(0, MAX_PER_FEED);
   } catch (e) {
     console.warn(`! Bỏ qua nguồn ${feed.source}: ${e.message}`);
     return [];
@@ -112,7 +139,14 @@ function fmtDate(s) {
 
 async function main() {
   console.log("→ Đang lấy tin từ", FEEDS.length, "nguồn...");
-  const raw = (await Promise.all(FEEDS.map(fetchFeed))).flat();
+  const perFeed = await Promise.all(FEEDS.map(fetchFeed));
+  // Trộn xoay vòng (round-robin): lấy lần lượt 1 tin mỗi nguồn → mọi nhóm đều có mặt
+  // dù sau đó có cắt bớt ở MAX_TOTAL.
+  const raw = [];
+  const maxLen = Math.max(0, ...perFeed.map(a => a.length));
+  for (let i = 0; i < maxLen; i++) {
+    for (const arr of perFeed) if (arr[i]) raw.push(arr[i]);
+  }
 
   // Dedupe by title.
   const seen = new Set();

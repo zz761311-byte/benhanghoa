@@ -1,5 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import LeadCTA from "../components/LeadCTA.astro";
 import { TICKER } from "../data/commodities.mjs";
 
 const featured = [
@@ -24,9 +25,11 @@ const featured = [
         <h1>Hàng hóa thế giới — giá, tin tức &amp; <span class="hl">cơ hội cho người Việt</span></h1>
         <p>Cập nhật giá năng lượng, nông sản, kim loại real-time; tin tức quốc tế dịch sang tiếng Việt; đồng hành tư vấn giao dịch tận tâm cùng bạn.</p>
         <div class="cta">
-          <a class="btn btn-primary" href="/bang-gia">📊 Xem bảng giá</a>
+          <a class="btn btn-primary btn-lg" href="#dang-ky">📈 Mở tài khoản / Nhận tư vấn</a>
+          <a class="btn btn-ghost" href="/bang-gia">📊 Xem bảng giá</a>
           <a class="btn btn-ghost" href="/tin-tuc">📰 Đọc tin tức</a>
         </div>
+        <p class="hero-note">✓ Tư vấn miễn phí · không ràng buộc · giao dịch qua Sở Giao dịch Hàng hóa VN (MXV)</p>
       </div>
     </div>
   </section>
@@ -50,6 +53,10 @@ const featured = [
       <div id="home-news" class="news-list"></div>
     </div>
   </section>
+
+  <div class="container" id="dang-ky" style="scroll-margin-top:84px">
+    <LeadCTA item="hàng hóa" />
+  </div>
 </Layout>
 
 <script define:vars={{ TICKER, featured }}>

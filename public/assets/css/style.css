@@ -93,6 +93,14 @@ a:hover { color: var(--accent); }
 .btn-primary:hover { color: #14304f; filter: brightness(1.07); }
 .btn-ghost { background: transparent; border-color: var(--line); color: var(--text); }
 .btn-ghost:hover { background: var(--bg-2); color: var(--text); }
+/* Nút hành động chính cỡ lớn — nổi bật để dẫn khách mở tài khoản */
+.btn-lg { padding: 14px 26px; font-size: 16.5px; border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(95,184,127,.32); animation: cta-glow 2.6s ease-in-out infinite; }
+.btn-lg:hover { transform: translateY(-2px); }
+@keyframes cta-glow {
+  0%, 100% { box-shadow: 0 8px 24px rgba(95,184,127,.28); }
+  50%      { box-shadow: 0 8px 30px rgba(95,184,127,.55); }
+}
 
 /* ---------- Section ---------- */
 .section { padding: 30px 0; }
@@ -348,6 +356,7 @@ a:hover { color: var(--accent); }
 .hero-copy h1 .hl { color: var(--accent); }
 .hero-copy p { color: var(--muted); font-size: 16.5px; margin: 0 auto 18px; }
 .hero-copy .cta { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+.hero-note { color: var(--muted); font-size: 13px; margin: 14px 0 0; }
 
 /* About page: badge logo on a light card (badge designed for white bg) */
 .about-badge {

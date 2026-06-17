@@ -31,7 +31,12 @@ const FEEDS = [
   { url: "https://news.google.com/rss/search?q=(crude+oil+OR+natural+gas+OR+gasoline)+price+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "energy", google: true },
   { url: "https://news.google.com/rss/search?q=(gold+OR+silver+OR+copper+OR+platinum+OR+aluminum+OR+nickel)+price+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "metal", google: true },
   { url: "https://news.google.com/rss/search?q=(corn+OR+soybean+OR+wheat+OR+grain)+price+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "agri", google: true },
-  { url: "https://news.google.com/rss/search?q=(coffee+OR+sugar+OR+cocoa+OR+cotton+OR+rubber)+price+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "soft", google: true }
+  { url: "https://news.google.com/rss/search?q=(coffee+OR+sugar+OR+cocoa+OR+cotton+OR+rubber)+price+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "soft", google: true },
+  // Google News RSS — PHÂN TÍCH / NHẬN ĐỊNH chuyên sâu (forecast/outlook) theo nhóm
+  { url: "https://news.google.com/rss/search?q=(crude+oil+OR+natural+gas)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "energy", google: true },
+  { url: "https://news.google.com/rss/search?q=(gold+OR+silver+OR+copper+OR+platinum)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "metal", google: true },
+  { url: "https://news.google.com/rss/search?q=(corn+OR+soybean+OR+wheat)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "agri", google: true },
+  { url: "https://news.google.com/rss/search?q=(coffee+OR+sugar+OR+cocoa)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "soft", google: true }
 ];
 
 const MAX_PER_FEED = 6;   // số tin lấy mỗi nguồn
@@ -41,8 +46,8 @@ const MAX_TOTAL = 30;     // tổng số tin giữ lại
 const CATEGORY_RULES = [
   ["energy", ["oil", "crude", "brent", "wti", "gas", "lng", "opec", "fuel", "diesel", "gasoline"]],
   ["metal",  ["gold", "silver", "copper", "platinum", "iron ore", "aluminum", "aluminium", "zinc", "nickel", "lead", "tin", "lme", "metal"]],
-  ["agri",   ["corn", "soybean", "soy", "wheat", "grain", "crop", "harvest", "planting"]],
   ["soft",   ["coffee", "sugar", "cocoa", "cotton", "rubber", "arabica", "robusta"]],
+  ["agri",   ["corn", "soybean", "soy", "wheat", "grain", "crop", "harvest", "planting"]],
   ["macro",  ["fed", "inflation", "dollar", "rate", "cpi", "economy", "gdp"]]
 ];
 

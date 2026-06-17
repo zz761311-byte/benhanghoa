@@ -238,6 +238,50 @@ a.ticker-link { cursor: pointer; }
   .news-grid { grid-template-columns: 1fr; }
 }
 
+/* ====== Trang đọc tin nội bộ (/tin-tuc/doc) ====== */
+.article-wrap { max-width: 820px; }
+.breadcrumb { margin-bottom: 16px; }
+.breadcrumb a { color: var(--muted); font-size: 14px; font-weight: 600; }
+.breadcrumb a:hover { color: var(--accent); }
+
+.article-head { margin-bottom: 18px; }
+.article-head h1 { margin: 12px 0 10px; font-size: 30px; line-height: 1.28; }
+.article-meta {
+  display: flex; flex-wrap: wrap; gap: 14px;
+  color: var(--muted); font-size: 14px;
+}
+
+.article-banner {
+  position: relative; height: 240px; border-radius: var(--radius);
+  overflow: hidden; display: flex; align-items: center; justify-content: center;
+  margin-bottom: 22px;
+}
+.article-banner-icon { font-size: 92px; filter: drop-shadow(0 6px 14px rgba(0,0,0,.45)); }
+.article-banner-img {
+  position: absolute; inset: 0; width: 100%; height: 100%;
+  object-fit: cover; z-index: 1;
+}
+
+.article-body { font-size: 16.5px; line-height: 1.78; color: var(--text); }
+.article-body p { margin: 0 0 16px; }
+.article-thin { color: var(--muted); }
+
+.article-source {
+  display: inline-flex; margin: 8px 0 22px; text-decoration: none;
+}
+.article-disclaimer {
+  background: rgba(224,192,106,.08); border: 1px solid rgba(224,192,106,.32);
+  border-radius: var(--radius); padding: 13px 16px;
+  color: var(--muted); font-size: 13.5px; line-height: 1.6;
+}
+
+@media (max-width: 760px) {
+  .article-head h1 { font-size: 23px; }
+  .article-banner { height: 170px; }
+  .article-banner-icon { font-size: 66px; }
+  .article-body { font-size: 15.5px; }
+}
+
 /* Nút nổi liên hệ — góc dưới phải, hiện mọi trang */
 .float-contact {
   position: fixed; right: 18px; bottom: 18px; z-index: 1000;

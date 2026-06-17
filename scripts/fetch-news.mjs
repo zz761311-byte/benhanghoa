@@ -95,6 +95,99 @@ function parseFeed(xml) {
   return items;
 }
 
+// --- ID ổn định cho mỗi tin (djb2 + XOR) — để trang đọc nội bộ tìm theo ?id.
+//     Hàm này được CHÉP Y HỆT sang client (doc.astro, tin-tuc.astro, index.astro)
+//     nên mọi thay đổi phải đồng bộ cả hai nơi. ---
+function makeId(s) {
+  s = String(s || "");
+  let h = 5381;
+  for (let i = 0; i < s.length; i++) h = (((h << 5) + h) ^ s.charCodeAt(i)) >>> 0;
+  return h.toString(36);
+}
+
+const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)";
+
+// Loại ảnh "rác" của Google News (logo Google, không phải ảnh bài thật).
+const BAD_IMG = /gstatic\.com|\/\/(?:www\.)?google\.com|news\.google|lh\d+\.googleusercontent/i;
+
+// Chạy song song có GIỚI HẠN (tránh dội request làm nguồn chặn IP).
+async function mapLimit(arr, limit, fn) {
+  const out = new Array(arr.length);
+  let i = 0;
+  async function worker() {
+    while (i < arr.length) { const idx = i++; out[idx] = await fn(arr[idx], idx); }
+  }
+  await Promise.all(Array.from({ length: Math.min(limit, arr.length) }, worker));
+  return out;
+}
+
+// --- Giải mã link Google News -> URL bài GỐC ---
+// Link RSS của Google News là dạng mã hoá (news.google.com/rss/articles/CBM...),
+// fetch thẳng chỉ ra vỏ ứng dụng Google, không có nội dung bài. Cơ chế giải mã:
+//   1) GET trang để lấy chữ ký (data-n-a-sg) + mốc thời gian (data-n-a-ts)
+//   2) POST batchexecute -> trả về URL bài thật
+// Nhờ vậy mới lấy được tóm tắt/ảnh để dịch, và nút "đọc bản gốc" trỏ đúng báo.
+// Lỗi/timeout/định dạng đổi -> trả lại link gốc (web vẫn chạy bình thường).
+async function resolveGoogleUrl(url) {
+  if (!/news\.google\.[^/]+\/(rss\/)?articles\//.test(url)) return url;
+  try {
+    const id = url.match(/articles\/([^?]+)/)[1];
+    const ctrl1 = new AbortController();
+    const t1 = setTimeout(() => ctrl1.abort(), 8000);
+    const page = await (await fetch(url, { headers: { "User-Agent": UA }, signal: ctrl1.signal })).text();
+    clearTimeout(t1);
+    const sg = page.match(/data-n-a-sg="([^"]+)"/);
+    const ts = page.match(/data-n-a-ts="([^"]+)"/);
+    if (!sg || !ts) return url;
+    const inner = ["garturlreq", [["X", "X", ["X", "X"], null, null, 1, 1, "US:en", null, 1, null, null, null, null, null, 0, 1], "X", "X", 1, [1, 1, 1], 1, 1, null, 0, 0, null, 0], id, Number(ts[1]), sg[1]];
+    const body = "f.req=" + encodeURIComponent(JSON.stringify([[["Fbv4je", JSON.stringify(inner), null, "generic"]]]));
+    const ctrl2 = new AbortController();
+    const t2 = setTimeout(() => ctrl2.abort(), 8000);
+    const res = await fetch("https://news.google.com/_/DotsSplashUi/data/batchexecute", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8", "User-Agent": UA },
+      body, signal: ctrl2.signal
+    });
+    clearTimeout(t2);
+    const txt = await res.text();
+    const m = txt.match(/https?:\/\/(?!news\.google)[^"\\]+/);
+    return m ? m[0] : url;
+  } catch {
+    return url; // giải mã thất bại -> giữ link Google (vẫn bấm đọc được)
+  }
+}
+
+// --- Lấy đoạn trích + ảnh từ trang gốc (og:description / og:image) ---
+// CHỈ lấy phần meta mô tả mà nhà xuất bản công khai cho chia sẻ (dùng đoạn
+// trích ngắn + LUÔN dẫn nguồn = đúng chuẩn tổng hợp tin, không sao chép cả bài).
+async function fetchOg(url) {
+  if (!url) return {};
+  try {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), 7000);
+    const res = await fetch(url, {
+      headers: { "User-Agent": UA },
+      redirect: "follow", signal: ctrl.signal
+    });
+    clearTimeout(timer);
+    if (!res.ok) return {};
+    const html = (await res.text()).slice(0, 250000);
+    const meta = (prop) => {
+      const re1 = new RegExp(`<meta[^>]+(?:property|name)=["']${prop}["'][^>]+content=["']([^"']*)["']`, "i");
+      const re2 = new RegExp(`<meta[^>]+content=["']([^"']*)["'][^>]+(?:property|name)=["']${prop}["']`, "i");
+      const m = html.match(re1) || html.match(re2);
+      return m ? decode(m[1]) : "";
+    };
+    const image = meta("og:image");
+    return {
+      desc: (meta("og:description") || meta("description")).slice(0, 320),
+      image: image && !BAD_IMG.test(image) ? image : ""
+    };
+  } catch {
+    return {}; // lỗi/timeout → bỏ qua, không chặn bot
+  }
+}
+
 // --- Free translation EN -> VI ---
 async function translate(text) {
   if (!text) return "";
@@ -174,18 +267,30 @@ async function main() {
     return true;
   }).slice(0, MAX_TOTAL);
 
-  console.log(`→ ${unique.length} tin, đang dịch sang tiếng Việt...`);
+  // Giải link Google News -> URL bài gốc, rồi lấy đoạn trích + ảnh từ trang gốc.
+  // Chạy song song có giới hạn để không bị nguồn chặn; lỗi thì bỏ qua từng tin.
+  console.log(`→ ${unique.length} tin: giải link Google News & lấy đoạn trích từ trang gốc...`);
+  const enriched = await mapLimit(unique, 6, async (it) => {
+    const link = await resolveGoogleUrl(it.link);
+    const og = await fetchOg(link);
+    return { it, link, og };
+  });
+
+  console.log("→ Đang dịch sang tiếng Việt...");
   const items = [];
-  for (const it of unique) {
+  for (const { it, link, og } of enriched) {
+    const desc = it.desc || og.desc || "";
     const title_vi = await translate(it.title);
-    const summary_vi = it.desc ? await translate(it.desc) : "";
+    const summary_vi = desc ? await translate(desc) : "";
     items.push({
+      id: makeId(link || it.title),
       title: it.title,
       title_vi,
       summary_vi,
-      link: it.link,
+      image: og.image || "",
+      link,
       source: it.source,
-      category: categorize(it.title + " " + it.desc, it.hint),
+      category: categorize(it.title + " " + desc, it.hint),
       published: fmtDate(it.pub)
     });
   }

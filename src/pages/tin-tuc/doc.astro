@@ -1,0 +1,157 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import LeadCTA from "../../components/LeadCTA.astro";
+---
+<Layout page="news" title="Đọc tin — Bến Hàng Hóa" description="Tin tức hàng hóa thế giới, tóm tắt tiếng Việt — đọc ngay trên Bến Hàng Hóa.">
+  <article class="section">
+    <div class="container article-wrap">
+      <nav class="breadcrumb"><a href="/tin-tuc">← Tất cả tin tức</a></nav>
+      <div id="article" class="article">
+        <div class="empty-note">Đang tải tin…</div>
+      </div>
+    </div>
+  </article>
+
+  <!-- Tin liên quan -->
+  <section class="section" id="related-wrap" style="display:none">
+    <div class="container article-wrap">
+      <div class="section-head"><h2>Tin liên quan</h2></div>
+      <div id="related" class="news-grid"></div>
+    </div>
+  </section>
+
+  <!-- Form tư vấn -->
+  <div class="container" id="dang-ky" style="scroll-margin-top:84px">
+    <LeadCTA item="hàng hóa" />
+  </div>
+</Layout>
+
+<script>
+  const CAT_LABEL = { metal: "Kim loại", energy: "Năng lượng", agri: "Nông sản", soft: "Nguyên liệu", macro: "Vĩ mô" };
+  const CAT_ICON  = { metal: "🪙", energy: "🛢️", agri: "🌾", soft: "☕", macro: "🌐" };
+  const catLabel = (c) => CAT_LABEL[c] || "Hàng hóa";
+  const catIcon  = (c) => CAT_ICON[c] || "📦";
+  const catKey   = (c) => (CAT_ICON[c] ? c : "macro");
+
+  // PHẢI khớp y hệt makeId trong scripts/fetch-news.mjs
+  function makeId(s) {
+    s = String(s || "");
+    let h = 5381;
+    for (let i = 0; i < s.length; i++) h = (((h << 5) + h) ^ s.charCodeAt(i)) >>> 0;
+    return h.toString(36);
+  }
+  const idOf = (n) => n.id || makeId(n.link || n.title);
+  const esc = (s) => String(s || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+  function fmtWhen(s) {
+    if (!s) return "";
+    const d = new Date(String(s).replace(" ", "T"));
+    if (isNaN(d)) return s;
+    const diff = (Date.now() - d.getTime()) / 1000;
+    const p = (n) => String(n).padStart(2, "0");
+    const abs = `${p(d.getDate())}/${p(d.getMonth() + 1)}/${d.getFullYear()} ${p(d.getHours())}:${p(d.getMinutes())}`;
+    let rel = "";
+    if (diff < 60) rel = "vừa xong";
+    else if (diff < 3600) rel = Math.floor(diff / 60) + " phút trước";
+    else if (diff < 86400) rel = Math.floor(diff / 3600) + " giờ trước";
+    else if (diff < 7 * 86400) rel = Math.floor(diff / 86400) + " ngày trước";
+    return rel ? `${abs} · ${rel}` : abs;
+  }
+  const tsOf = (n) => new Date(String(n.published || "").replace(" ", "T")).getTime() || 0;
+
+  async function loadNewsData() {
+    const REMOTE = "https://raw.githubusercontent.com/zz761311-byte/benhanghoa/main/public/data/news.json";
+    const LOCAL = "/data/news.json";
+    for (const url of [REMOTE, LOCAL]) {
+      try { const r = await fetch(url, { cache: "no-store" }); if (r.ok) return await r.json(); } catch (e) {}
+    }
+    return null;
+  }
+
+  const host = document.getElementById("article");
+
+  function renderArticle(n) {
+    const cat = catKey(n.category);
+    document.title = (n.title_vi || n.title) + " — Bến Hàng Hóa";
+    // Tách tóm tắt thành các đoạn cho dễ đọc
+    const paras = (n.summary_vi || "").split(/(?<=[.!?…])\s+(?=[A-ZĐÀ-Ỹ0-9“"])/).filter((x) => x.trim());
+    const bodyHtml = paras.length
+      ? paras.map((p) => `<p>${esc(p)}</p>`).join("")
+      : `<p class="article-thin">Đây là tin từ <strong>${esc(n.source || "nguồn quốc tế")}</strong>. Bến Hàng Hóa hiển thị tiêu đề đã dịch tiếng Việt; để đọc toàn văn chi tiết, bạn xem bản gốc bằng nút bên dưới.</p>`;
+
+    const bannerImg = n.image
+      ? `<img class="article-banner-img" src="${esc(n.image)}" alt="" loading="lazy" onerror="this.remove()" />`
+      : "";
+
+    host.innerHTML = `
+      <header class="article-head">
+        <span class="tag ${esc(n.category || "")}">${catIcon(n.category)} ${catLabel(n.category)}</span>
+        <h1>${esc(n.title_vi || n.title)}</h1>
+        <div class="article-meta">
+          <span>📰 ${esc(n.source || "Nguồn quốc tế")}</span>
+          <span>🕒 ${fmtWhen(n.published)}</span>
+        </div>
+      </header>
+      <div class="article-banner thumb-${cat}">
+        <span class="article-banner-icon">${catIcon(n.category)}</span>
+        ${bannerImg}
+      </div>
+      <div class="article-body">
+        ${bodyHtml}
+      </div>
+      ${n.link ? `
+      <a class="btn btn-primary article-source" href="${esc(n.link)}" target="_blank" rel="noopener">
+        Đọc bản gốc tại ${esc(n.source || "nguồn")} →
+      </a>` : ""}
+      <div class="article-disclaimer">
+        <b>Lưu ý:</b> Bản tóm tắt do Bến Hàng Hóa lược dịch từ nguồn quốc tế, có thể chưa đầy đủ —
+        vui lòng đọc bản gốc để biết chi tiết. Thông tin chỉ mang tính <b>tham khảo</b>, không phải khuyến nghị đầu tư.
+      </div>`;
+  }
+
+  function relatedCard(n) {
+    return `
+      <article class="news-card">
+        <a class="news-card-thumb thumb-${catKey(n.category)}" href="/tin-tuc/doc/?id=${idOf(n)}" aria-label="${esc(n.title_vi || n.title)}">
+          <span class="news-card-icon">${catIcon(n.category)}</span>
+        </a>
+        <div class="news-card-body">
+          <span class="tag ${esc(n.category || "")}">${catLabel(n.category)}</span>
+          <h3><a href="/tin-tuc/doc/?id=${idOf(n)}">${esc(n.title_vi || n.title)}</a></h3>
+          <div class="news-meta">
+            <span>${esc(n.source || "")}</span>
+            <span class="news-time">🕒 ${fmtWhen(n.published)}</span>
+          </div>
+        </div>
+      </article>`;
+  }
+
+  loadNewsData()
+    .then((d) => {
+      if (!d || !Array.isArray(d.items)) {
+        host.innerHTML = '<div class="empty-note">Chưa tải được tin. <a href="/tin-tuc">Về trang Tin tức →</a></div>';
+        return;
+      }
+      const wanted = new URLSearchParams(location.search).get("id");
+      const items = d.items;
+      const n = items.find((x) => idOf(x) === wanted) || (wanted ? null : items[0]);
+      if (!n) {
+        host.innerHTML = '<div class="empty-note">Không tìm thấy tin này (có thể đã trôi khỏi danh sách mới). <a href="/tin-tuc">Xem tin mới nhất →</a></div>';
+        return;
+      }
+      renderArticle(n);
+
+      // Tin liên quan: cùng nhóm, mới nhất, bỏ tin đang đọc
+      const rel = items
+        .filter((x) => x.category === n.category && idOf(x) !== idOf(n))
+        .sort((a, b) => tsOf(b) - tsOf(a))
+        .slice(0, 4);
+      if (rel.length) {
+        document.getElementById("related").innerHTML = rel.map(relatedCard).join("");
+        document.getElementById("related-wrap").style.display = "";
+      }
+    })
+    .catch(() => {
+      host.innerHTML = '<div class="empty-note">Chưa tải được tin. <a href="/tin-tuc">Về trang Tin tức →</a></div>';
+    });
+</script>

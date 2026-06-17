@@ -26,6 +26,15 @@ import Layout from "../layouts/Layout.astro";
   const catLabel = (c) => CAT_LABEL[c] || "Hàng hóa";
   const catIcon = (c) => CAT_ICON[c] || "📦";
   const catKey = (c) => (CAT_ICON[c] ? c : "macro");
+  // PHẢI khớp y hệt makeId trong scripts/fetch-news.mjs (để link tới trang đọc nội bộ)
+  function makeId(s) {
+    s = String(s || "");
+    let h = 5381;
+    for (let i = 0; i < s.length; i++) h = (((h << 5) + h) ^ s.charCodeAt(i)) >>> 0;
+    return h.toString(36);
+  }
+  const idOf = (n) => n.id || makeId(n.link || n.title);
+  const readHref = (n) => "/tin-tuc/doc/?id=" + idOf(n);
   function fmtWhen(s) {
     if (!s) return "";
     const d = new Date(String(s).replace(" ", "T"));
@@ -60,12 +69,12 @@ import Layout from "../layouts/Layout.astro";
   function featuredCard(n) {
     return `
       <article class="news-feat">
-        <a class="news-feat-thumb thumb-${catKey(n.category)}" href="${n.link}" target="_blank" rel="noopener" aria-label="${n.title_vi || n.title}">
+        <a class="news-feat-thumb thumb-${catKey(n.category)}" href="${readHref(n)}" aria-label="${n.title_vi || n.title}">
           <span class="news-feat-icon">${catIcon(n.category)}</span>
         </a>
         <div class="news-feat-body">
           <span class="tag ${n.category || ""}">${catLabel(n.category)}</span>
-          <h3><a href="${n.link}" target="_blank" rel="noopener">${n.title_vi || n.title}</a></h3>
+          <h3><a href="${readHref(n)}">${n.title_vi || n.title}</a></h3>
           ${n.summary_vi ? `<p class="news-summary">${n.summary_vi}</p>` : ""}
           <div class="news-meta">
             <span>${n.source || ""}</span>
@@ -78,12 +87,12 @@ import Layout from "../layouts/Layout.astro";
   function smallCard(n) {
     return `
       <article class="news-card">
-        <a class="news-card-thumb thumb-${catKey(n.category)}" href="${n.link}" target="_blank" rel="noopener" aria-label="${n.title_vi || n.title}">
+        <a class="news-card-thumb thumb-${catKey(n.category)}" href="${readHref(n)}" aria-label="${n.title_vi || n.title}">
           <span class="news-card-icon">${catIcon(n.category)}</span>
         </a>
         <div class="news-card-body">
           <span class="tag ${n.category || ""}">${catLabel(n.category)}</span>
-          <h3><a href="${n.link}" target="_blank" rel="noopener">${n.title_vi || n.title}</a></h3>
+          <h3><a href="${readHref(n)}">${n.title_vi || n.title}</a></h3>
           ${n.summary_vi ? `<p class="news-summary clamp-2">${n.summary_vi}</p>` : ""}
           <div class="news-meta">
             <span>${n.source || ""}</span>

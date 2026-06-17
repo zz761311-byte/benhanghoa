@@ -120,6 +120,14 @@ const featured = [
 
   // Tin mới nhất
   const CAT = { metal: "Kim loại", energy: "Năng lượng", agri: "Nông sản", soft: "Nguyên liệu", macro: "Vĩ mô" };
+  // PHẢI khớp y hệt makeId trong scripts/fetch-news.mjs (link tới trang đọc nội bộ)
+  function makeId(s) {
+    s = String(s || "");
+    let h = 5381;
+    for (let i = 0; i < s.length; i++) h = (((h << 5) + h) ^ s.charCodeAt(i)) >>> 0;
+    return h.toString(36);
+  }
+  const readHref = (n) => "/tin-tuc/doc/?id=" + (n.id || makeId(n.link || n.title));
   function fmtWhen(s) {
     if (!s) return "";
     const d = new Date(String(s).replace(" ", "T"));
@@ -153,7 +161,7 @@ const featured = [
         if (!items.length) { newsHost.innerHTML = '<div class="empty-note">Chưa có tin.</div>'; return; }
         newsHost.innerHTML = items.map((n) => `
           <div class="news-item">
-            <h3><a href="${n.link}" target="_blank" rel="noopener">${n.title_vi || n.title}</a></h3>
+            <h3><a href="${readHref(n)}">${n.title_vi || n.title}</a></h3>
             <div class="news-meta">
               <span class="tag ${n.category || ""}">${CAT[n.category] || "Hàng hóa"}</span>
               <span>${n.source || ""}</span>

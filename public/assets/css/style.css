@@ -302,6 +302,14 @@ a.ticker-link { cursor: pointer; }
 .fc-phone { background: #16a34a; animation: fc-pulse 2.2s infinite; }
 .fc-facebook { background: #1877f2; }
 .fc-facebook .fc-icon { display: inline-flex; align-items: center; }
+
+/* Ô Fanpage nhúng (Facebook Page Plugin) */
+.fb-embed {
+  display: flex; justify-content: center;
+  background: var(--bg-2); border: 1px solid var(--line);
+  border-radius: var(--radius); padding: 16px; overflow: hidden;
+}
+.fb-embed .fb-page, .fb-embed .fb-page span, .fb-embed iframe { max-width: 100% !important; }
 @keyframes fc-pulse {
   0%   { box-shadow: 0 8px 22px rgba(0,0,0,.4), 0 0 0 0 rgba(22,163,74,.55); }
   70%  { box-shadow: 0 8px 22px rgba(0,0,0,.4), 0 0 0 16px rgba(22,163,74,0); }

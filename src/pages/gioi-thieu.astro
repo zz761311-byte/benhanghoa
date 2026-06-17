@@ -72,6 +72,31 @@ const cats = [
     </div>
   </section>
 
+  <!-- Theo dõi Fanpage -->
+  <section class="section">
+    <div class="container" style="max-width:1000px">
+      <div class="section-head"><h2>Kết nối với Bến Hàng Hóa</h2></div>
+      <p style="color:var(--muted);margin:0 0 18px">Theo dõi Fanpage để nhận tin giá &amp; phân tích hàng hóa cập nhật mỗi ngày.</p>
+      <div id="fb-root"></div>
+      <div class="fb-embed">
+        <div class="fb-page"
+          data-href="https://www.facebook.com/benhanghoa"
+          data-tabs="timeline"
+          data-width="500"
+          data-height="500"
+          data-small-header="false"
+          data-adapt-container-width="true"
+          data-hide-cover="false"
+          data-show-facepile="true">
+          <blockquote cite="https://www.facebook.com/benhanghoa" class="fb-xfbml-parse-ignore">
+            <a href="https://www.facebook.com/benhanghoa">Bến Hàng Hóa</a>
+          </blockquote>
+        </div>
+      </div>
+    </div>
+  </section>
+  <script is:inline async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v20.0"></script>
+
   <!-- Form tư vấn -->
   <div class="container" id="lien-he" style="scroll-margin-top:84px">
     <LeadCTA item="hàng hóa" />

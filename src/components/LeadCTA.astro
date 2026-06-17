@@ -8,6 +8,7 @@ const LEAD_EMAIL = CONTACT.email;
 const HOTLINE = CONTACT.hotline;
 const HOTLINE_TEL = CONTACT.hotlineTel;
 const ZALO_URL = CONTACT.zaloUrl;
+const FACEBOOK_URL = CONTACT.facebookUrl;
 const { item = "hàng hóa" } = Astro.props;
 ---
 <section class="lead-cta">
@@ -19,6 +20,7 @@ const { item = "hàng hóa" } = Astro.props;
       <div class="lead-contacts">
         <a class="lead-chip" href={ZALO_URL} target="_blank" rel="noopener">💬 Zalo: <b>{HOTLINE}</b></a>
         <a class="lead-chip" href={`tel:${HOTLINE_TEL}`}>📞 Hotline: <b>{HOTLINE}</b></a>
+        <a class="lead-chip" href={FACEBOOK_URL} target="_blank" rel="noopener">📘 <b>Fanpage</b></a>
       </div>
     </div>
 

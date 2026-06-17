@@ -3,7 +3,7 @@
 // 1. Fetch free RSS feeds about commodities
 // 2. Translate title/summary EN -> VI (free Google endpoint)
 // 3. Categorize by keywords
-// 4. Write ../data/news.json
+// 4. Write ../public/data/news.json (Astro phục vụ từ thư mục public/)
 //
 // Run locally:   node scripts/fetch-news.mjs
 // In CI:         see .github/workflows/fetch-news.yml
@@ -18,7 +18,7 @@ import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const OUT = resolve(__dirname, "../data/news.json");
+const OUT = resolve(__dirname, "../public/data/news.json");
 
 // --- Free RSS sources (chỉnh thêm/bớt tùy ý) ---
 const FEEDS = [

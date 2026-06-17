@@ -1,9 +1,10 @@
 name: Cập nhật tin tức (Bến Hàng Hóa)
 
-# Tự chạy mỗi giờ + cho phép bấm chạy tay trong tab Actions.
+# Tự chạy mỗi 3 giờ + cho phép bấm chạy tay trong tab Actions.
+# (mỗi 3h = ~240 build/tháng, nằm trong hạn mức 500 build/tháng của Cloudflare Pages)
 on:
   schedule:
-    - cron: "0 * * * *"   # mỗi đầu giờ (UTC)
+    - cron: "0 */3 * * *"   # mỗi 3 giờ (UTC)
   workflow_dispatch:
 
 permissions:
@@ -28,7 +29,7 @@ jobs:
         run: |
           git config user.name  "benhanghoa-bot"
           git config user.email "bot@benhanghoa.local"
-          git add data/news.json
+          git add public/data/news.json
           if git diff --staged --quiet; then
             echo "Không có tin mới."
           else

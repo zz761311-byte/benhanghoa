@@ -1,8 +1,12 @@
 ---
 title: "Phân tích vàng XAU/USD tháng 6/2026: Giằng co giữa nhu cầu trú ẩn và
   gọng kìm lãi suất"
-date: 2026-06-18T09:14
+date: 2026-06-18T10:00
 category: metal
+summary: "4200 USD là ranh giới sống còn: Fed chỉ cần một tín hiệu “diều hâu” –
+  vàng sẽ lao thẳng xuống 3820; ngược lại, Iran chỉ cần một phát súng – giá sẽ
+  vọt lên 4930. Biên bản FOMC sắp công bố, nó có thể là “bom nổ” hoặc “liều
+  thuốc an thần”; còn bạn nghĩ sao ?"
 ---
 Thị trường vàng hôm nay đang chịu sự chi phối mạnh từ cuộc họp Fed (17/06) và loạt dữ liệu kinh tế Mỹ. Tôi xin đưa ra các mốc dự báo đã điều chỉnh và điểm nhấn cần lưu ý.
 

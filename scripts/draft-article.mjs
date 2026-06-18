@@ -28,7 +28,16 @@ const ALLOWED_CATS = new Set(["energy", "metal", "agri", "soft"]);
 // Model miễn phí — đổi tên ở đây nếu nhà cung cấp ra bản mới.
 const GEMINI_MODEL = "gemini-2.0-flash";
 const GROQ_MODEL = "llama-3.3-70b-versatile";
-const DEEPSEEK_MODEL = "deepseek/deepseek-r1-0528:free"; // DeepSeek miễn phí qua OpenRouter (đổi slug nếu OpenRouter báo "unavailable for free")
+// Danh sách model FREE trên OpenRouter — thử lần lượt, dùng cái nào còn chạy.
+// Model free hay bị gỡ bất ngờ → ưu tiên DeepSeek, rồi Qwen/Mistral/Llama/Gemini-exp.
+const OPENROUTER_MODELS = [
+  "deepseek/deepseek-chat-v3.1:free",
+  "deepseek/deepseek-r1:free",
+  "qwen/qwen-2.5-72b-instruct:free",
+  "mistralai/mistral-small-3.2-24b-instruct:free",
+  "meta-llama/llama-3.3-70b-instruct:free",
+  "google/gemini-2.0-flash-exp:free",
+];
 
 // ── Tiện ích ────────────────────────────────────────────────────────────────
 
@@ -149,21 +158,29 @@ async function callGroq(prompt) {
 async function callOpenRouter(prompt) {
   const key = process.env.OPENROUTER_API_KEY;
   if (!key) return null;
-  const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
-    method: "POST",
-    headers: {
-      "content-type": "application/json",
-      authorization: `Bearer ${key}`,
-      "HTTP-Referer": "https://benhanghoa.pages.dev",
-      "X-Title": "Ben Hang Hoa",
-    },
-    body: JSON.stringify({ model: DEEPSEEK_MODEL, messages: [{ role: "user", content: prompt }], temperature: 0.7 }),
-  });
-  if (!res.ok) throw new Error(`DeepSeek/OpenRouter HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`);
-  const data = await res.json();
-  const content = data?.choices?.[0]?.message?.content || "";
-  // R1 hay chèn phần suy luận trong <think>...</think> — lọc bỏ cho bài sạch.
-  return content.replace(/<think>[\s\S]*?<\/think>/gi, "").trim();
+  // Thử lần lượt các model free; dùng model đầu tiên còn chạy được.
+  let lastErr = "";
+  for (const model of OPENROUTER_MODELS) {
+    try {
+      const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
+        method: "POST",
+        headers: {
+          "content-type": "application/json",
+          authorization: `Bearer ${key}`,
+          "HTTP-Referer": "https://benhanghoa.pages.dev",
+          "X-Title": "Ben Hang Hoa",
+        },
+        body: JSON.stringify({ model, messages: [{ role: "user", content: prompt }], temperature: 0.7 }),
+      });
+      if (!res.ok) { lastErr = `${model}: HTTP ${res.status}`; continue; }
+      const data = await res.json();
+      // R1 hay chèn phần suy luận trong <think>...</think> — lọc bỏ cho bài sạch.
+      const content = (data?.choices?.[0]?.message?.content || "").replace(/<think>[\s\S]*?<\/think>/gi, "").trim();
+      if (content) { console.log(`   (OpenRouter dùng model: ${model})`); return content; }
+      lastErr = `${model}: rỗng`;
+    } catch (e) { lastErr = `${model}: ${e.message}`; }
+  }
+  throw new Error(`OpenRouter không model free nào chạy được (cuối: ${lastErr})`);
 }
 
 // ── Tách kết quả AI theo các dấu === ─────────────────────────────────────────
@@ -239,7 +256,7 @@ async function main() {
   console.log(`📰 Chọn tin: [${it.category}] ${it.title_vi}`);
   const prompt = buildPrompt(it);
 
-  const providers = [["gemini", callGemini], ["groq", callGroq], ["deepseek", callOpenRouter]];
+  const providers = [["gemini", callGemini], ["groq", callGroq], ["openrouter", callOpenRouter]];
   const written = [];
   for (const [name, fn] of providers) {
     try {

@@ -24,10 +24,11 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Soạn nháp bằng AI miễn phí (Gemini + Groq)
+      - name: Soạn nháp bằng AI miễn phí (Gemini + Groq + DeepSeek)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: node scripts/draft-article.mjs
 
       - name: Commit bản nháp nếu có thay đổi

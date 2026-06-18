@@ -28,6 +28,7 @@ const ALLOWED_CATS = new Set(["energy", "metal", "agri", "soft"]);
 // Model miễn phí — đổi tên ở đây nếu nhà cung cấp ra bản mới.
 const GEMINI_MODEL = "gemini-2.0-flash";
 const GROQ_MODEL = "llama-3.3-70b-versatile";
+const DEEPSEEK_MODEL = "deepseek/deepseek-chat-v3-0324:free"; // DeepSeek miễn phí qua OpenRouter
 
 // ── Tiện ích ────────────────────────────────────────────────────────────────
 
@@ -145,6 +146,24 @@ async function callGroq(prompt) {
   return data?.choices?.[0]?.message?.content || "";
 }
 
+async function callOpenRouter(prompt) {
+  const key = process.env.OPENROUTER_API_KEY;
+  if (!key) return null;
+  const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
+    method: "POST",
+    headers: {
+      "content-type": "application/json",
+      authorization: `Bearer ${key}`,
+      "HTTP-Referer": "https://benhanghoa.pages.dev",
+      "X-Title": "Ben Hang Hoa",
+    },
+    body: JSON.stringify({ model: DEEPSEEK_MODEL, messages: [{ role: "user", content: prompt }], temperature: 0.7 }),
+  });
+  if (!res.ok) throw new Error(`DeepSeek/OpenRouter HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`);
+  const data = await res.json();
+  return data?.choices?.[0]?.message?.content || "";
+}
+
 // ── Tách kết quả AI theo các dấu === ─────────────────────────────────────────
 
 function parseAI(text) {
@@ -218,7 +237,7 @@ async function main() {
   console.log(`📰 Chọn tin: [${it.category}] ${it.title_vi}`);
   const prompt = buildPrompt(it);
 
-  const providers = [["gemini", callGemini], ["groq", callGroq]];
+  const providers = [["gemini", callGemini], ["groq", callGroq], ["deepseek", callOpenRouter]];
   const written = [];
   for (const [name, fn] of providers) {
     try {

@@ -28,7 +28,7 @@ const ALLOWED_CATS = new Set(["energy", "metal", "agri", "soft"]);
 // Model miễn phí — đổi tên ở đây nếu nhà cung cấp ra bản mới.
 const GEMINI_MODEL = "gemini-2.0-flash";
 const GROQ_MODEL = "llama-3.3-70b-versatile";
-const DEEPSEEK_MODEL = "deepseek/deepseek-chat-v3-0324:free"; // DeepSeek miễn phí qua OpenRouter
+const DEEPSEEK_MODEL = "deepseek/deepseek-r1-0528:free"; // DeepSeek miễn phí qua OpenRouter (đổi slug nếu OpenRouter báo "unavailable for free")
 
 // ── Tiện ích ────────────────────────────────────────────────────────────────
 
@@ -161,7 +161,9 @@ async function callOpenRouter(prompt) {
   });
   if (!res.ok) throw new Error(`DeepSeek/OpenRouter HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`);
   const data = await res.json();
-  return data?.choices?.[0]?.message?.content || "";
+  const content = data?.choices?.[0]?.message?.content || "";
+  // R1 hay chèn phần suy luận trong <think>...</think> — lọc bỏ cho bài sạch.
+  return content.replace(/<think>[\s\S]*?<\/think>/gi, "").trim();
 }
 
 // ── Tách kết quả AI theo các dấu === ─────────────────────────────────────────

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19 05:01",
+  "updated_at": "2026-06-19 05:26",
   "items": [
     {
       "id": "gcaas",
@@ -11,17 +11,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-19 05:00"
-    },
-    {
-      "id": "dg4zzx",
-      "title": "Trinity Metals doubles US tungsten concentrate supply to 20%",
-      "title_vi": "Trinity Metals tăng gấp đôi nguồn cung vonfram cô đặc của Mỹ lên 20%",
-      "summary_vi": "Công ty cho biết họ có kế hoạch tăng gấp ba sản lượng trong những năm tới.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/DSC_4064-scaled-1-1024x683.jpg",
-      "link": "https://www.mining.com/trinity-metals-doubles-us-tungsten-concentrate-supply-to-20/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-19 04:16"
     },
     {
       "id": "15przng",
@@ -87,7 +76,7 @@
       "link": "https://www.litefinance.org/blog/analysts-opinions/gold-price-prediction-forecast/daily-and-weekly/",
       "source": "LiteFinance",
       "category": "metal",
-      "published": "2026-06-19 00:06"
+      "published": "2026-06-19 03:09"
     },
     {
       "id": "1f85noe",
@@ -123,21 +112,10 @@
       "published": "2026-06-19 04:00"
     },
     {
-      "id": "5wqxku",
-      "title": "Mining’s nuclear reality check: SMRs are still not on miners’ shopping lists",
-      "title_vi": "Kiểm tra thực tế hạt nhân của ngành khai thác: SMR vẫn chưa có trong danh sách mua sắm của thợ mỏ",
-      "summary_vi": "Các lò phản ứng mô-đun nhỏ và siêu nhỏ nằm ở vị trí cuối cùng trong kế hoạch sử dụng năng lượng carbon thấp của các thợ mỏ. Điều đó thật đáng chú ý trước sự cường điệu xung quanh SMR, sự hồi sinh hạt nhân do AI thúc đẩy và triển vọng ngày càng lạc quan đối với uranium.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/Minings-nuclear-reality-check-SMRs-are-still-not-on-miners-shopping-lists-1024x576.jpg",
-      "link": "https://www.mining.com/minings-nuclear-reality-check-smrs-are-still-not-on-miners-shopping-lists/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-19 00:30"
-    },
-    {
       "id": "yi1eyd",
       "title": "As Hormuz crisis eases, gas prices may drop—other costs like groceries and home goods could stay high for a while",
-      "title_vi": "Khi khủng hoảng Hormuz giảm bớt, giá xăng có thể giảm - các chi phí khác như hàng tạp hóa và đồ gia dụng có thể duy trì ở mức cao trong một thời gian",
-      "summary_vi": "Giá dầu đang giảm sau một thỏa thuận dự kiến ​​​​mở lại eo biển Hormuz, nhưng việc cứu trợ rộng rãi hơn khỏi giá cao hơn có thể mất thời gian.",
+      "title_vi": "Khi cuộc khủng hoảng Hormuz giảm bớt, giá xăng có thể giảm - các chi phí khác như hàng tạp hóa và hàng gia dụng có thể duy trì ở mức cao trong một thời gian",
+      "summary_vi": "Giá dầu đang giảm sau khi có thỏa thuận dự kiến ​​mở lại eo biển Hormuz, nhưng việc cứu trợ rộng rãi hơn khỏi giá cao hơn có thể mất thời gian.",
       "image": "https://image.cnbcfm.com/api/v1/image/107324148-1698376735096-gettyimages-1490883641-dsc03504.jpeg?v=1781617704&w=1920&h=1080",
       "link": "https://www.cnbc.com/2026/06/16/hormuz-crisis-may-be-easingbut-lower-everyday-prices-may-take-longer-to-arrive.html",
       "source": "CNBC",
@@ -167,15 +145,15 @@
       "published": "2026-06-15 13:00"
     },
     {
-      "id": "16vvqsf",
-      "title": "Coffee Prices Are Heating Up. Is It a Rally or a Trap?",
-      "title_vi": "Giá cà phê đang nóng lên. Đó là một cuộc biểu tình hay một cái bẫy?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barrons.com/articles/coffee-prices-rise-rally-or-trap-64e72e56",
-      "source": "Barron's",
+      "id": "7vqc5n",
+      "title": "Rising coffee prices hit Idaho businesses and consumers",
+      "title_vi": "Giá cà phê tăng ảnh hưởng đến doanh nghiệp và người tiêu dùng Idaho",
+      "summary_vi": "Giá cà phê ngày càng tăng do thuế quan, thời tiết khắc nghiệt ở các khu vực sản xuất cà phê lớn và những thách thức về nguồn cung, ảnh hưởng đến các doanh nghiệp và người tiêu dùng cà phê Idaho.",
+      "image": "https://media.ktvb.com/assets/KTVB/images/ec5b7ab7-63dd-4618-accf-6c885bff1aae/20260611T234936/ec5b7ab7-63dd-4618-accf-6c885bff1aae_1140x641.jpg",
+      "link": "https://www.ktvb.com/article/money/consumer/rising-coffee-prices-hit-idaho-businesses-consumers/277-3bf06280-3dff-4eba-bb49-2fbc6837482c",
+      "source": "KTVB",
       "category": "metal",
-      "published": "2026-06-19 03:15"
+      "published": "2026-06-12 06:48"
     },
     {
       "id": "ice0if",
@@ -192,8 +170,8 @@
       "id": "1diqcb4",
       "title": "Barclays sees gold pullback as ‘reset’, keeps bullish outlook",
       "title_vi": "Barclays coi sự thoái lui của vàng là 'thiết lập lại', giữ triển vọng tăng giá",
-      "summary_vi": "Theo ngân hàng này, đợt điều chỉnh gần đây không làm thay đổi các động lực chính thúc đẩy thị trường vàng tăng giá.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/AdobeStock_1998442950-scaled-1-1024x576.jpeg",
+      "summary_vi": "",
+      "image": "",
       "link": "https://www.mining.com/barclays-sees-gold-pullback-as-reset-keeps-bullish-outlook/",
       "source": "Mining.com",
       "category": "metal",
@@ -203,7 +181,7 @@
       "id": "1ue4xve",
       "title": "WASDE Cuts Wheat Stocks While Livestock Outlook Splits - RFD-TV",
       "title_vi": "WASDE cắt giảm dự trữ lúa mì trong khi triển vọng chăn nuôi bị chia rẽ - RFD-TV",
-      "summary_vi": "Báo cáo cung cấp cho các nhà sản xuất bảng cân đối kế toán trồng trọt gần như ổn định với các tín hiệu rõ ràng hơn trên thị trường lúa mì và thịt.",
+      "summary_vi": "Báo cáo cung cấp cho các nhà sản xuất một bảng cân đối kế toán trồng trọt gần như ổn định với những tín hiệu rõ ràng hơn trên thị trường lúa mì và thịt.",
       "image": "https://rfdtv.brightspotgocdn.com/dims4/default/38d3348/2147483647/strip/true/crop/1920x1078+0+1/resize/730x410!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2F12%2Feb%2Fe60254074536a46c159651fe6aa0%2Fbg-1.png",
       "link": "https://www.rfdtv.com/wasde-cuts-wheat-stocks-while-livestock-outlook-splits",
       "source": "RFD-TV",
@@ -231,17 +209,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-19 03:30"
-    },
-    {
-      "id": "1p7z3b8",
-      "title": "Centrus Energy, Oklo sign multi-year nuclear fuel deal",
-      "title_vi": "Centrus Energy, Oklo ký thỏa thuận nhiên liệu hạt nhân kéo dài nhiều năm",
-      "summary_vi": "Centrus cho biết họ sẽ cung cấp HALEU được sản xuất trong nước cho SMR phân hạch nhanh hàng đầu của Oklo – được gọi là Aurora – trong nhiều năm.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/Centrus.jpg",
-      "link": "https://www.mining.com/centrus-energy-oklo-sign-multi-year-nuclear-fuel-deal/",
-      "source": "Mining.com",
-      "category": "energy",
-      "published": "2026-06-18 23:41"
     },
     {
       "id": "qbfrph",
@@ -277,15 +244,15 @@
       "published": "2026-06-17 17:08"
     },
     {
-      "id": "12gpfpw",
-      "title": "JVA Q2 Earnings Decline Y/Y as Lower Coffee Prices Hurt Sales",
-      "title_vi": "Thu nhập quý 2 của JVA giảm so với cùng kỳ do giá cà phê thấp hơn ảnh hưởng đến doanh thu",
+      "id": "16vvqsf",
+      "title": "Coffee Prices Are Heating Up. Is It a Rally or a Trap?",
+      "title_vi": "Giá cà phê đang nóng lên. Đó là một cuộc biểu tình hay một cái bẫy?",
       "summary_vi": "",
       "image": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jva-q2-earnings-decline-y-140700336.html",
-      "source": "Yahoo Finance",
-      "category": "soft",
-      "published": "2026-06-15 21:07"
+      "link": "https://www.barrons.com/articles/coffee-prices-rise-rally-or-trap-64e72e56",
+      "source": "Barron's",
+      "category": "metal",
+      "published": "2026-06-19 03:15"
     },
     {
       "id": "1xxwqjl",
@@ -330,6 +297,39 @@
       "source": "RFD-TV",
       "category": "soft",
       "published": "2026-06-15 23:00"
+    },
+    {
+      "id": "uar27g",
+      "title": "How the U.S.-Iran Deal Put A Higher Floor Under Oil Prices",
+      "title_vi": "Thỏa thuận Mỹ-Iran đặt mức sàn cao hơn cho giá dầu như thế nào",
+      "summary_vi": "Các nhà phân tích quay lại kỳ vọng vào tình trạng dư thừa dầu khổng lồ vào năm tới khi họ coi thỏa thuận Mỹ-Iran là sự kết thúc cho cuộc khủng hoảng tồi tệ nhất ở Trung Đông. Thỏa thuận này thực chất chỉ là khởi đầu của quá trình đàm phán lâu dài, việc mở lại eo biển Hormuz, khôi phục hơn 13 hòn đảo.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_cngwqaj9h4.jpg",
+      "link": "https://oilprice.com/Energy/Oil-Prices/How-the-US-Iran-Deal-Put-A-Higher-Floor-Under-Oil-Prices.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-19 03:00"
+    },
+    {
+      "id": "ollk5w",
+      "title": "Why Gas Prices May Not Return To Pre-War Levels Soon",
+      "title_vi": "Tại sao giá xăng có thể không sớm trở lại mức trước chiến tranh",
+      "summary_vi": "Giá khí đốt đang giảm sau thỏa thuận với Iran, nhưng lượng tồn kho thấp, sự chậm trễ của tàu chở dầu và việc bổ sung kho dự trữ có thể giữ giá cao hơn mức trước chiến tranh trong nhiều tháng.",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a32b62c4f2a39242475af07/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "link": "https://www.forbes.com/sites/rrapier/2026/06/17/why-gas-prices-may-not-return-to-pre-war-levels-soon/",
+      "source": "Forbes",
+      "category": "energy",
+      "published": "2026-06-17 22:03"
+    },
+    {
+      "id": "gykzh7",
+      "title": "Jewelry giant Chow Tai Fook's shares rise 15% as higher gold price boosts profits",
+      "title_vi": "Cổ phiếu của gã khổng lồ trang sức Chow Tai Fook tăng 15% khi giá vàng cao hơn thúc đẩy lợi nhuận",
+      "summary_vi": "Chow Tai Fook tăng vọt sau khi đạt lợi nhuận cao kỷ lục trong năm tài chính gần nhất.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108079595-1735015687681-gettyimages-2018754353-AFP_34HY8B4.jpeg?v=1742555077&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/06/12/chow-tai-fooks-shares-rise-15percent-as-higher-gold-price-boosts-profits.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-06-12 14:49"
     }
   ]
 }

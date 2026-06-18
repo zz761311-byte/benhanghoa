@@ -8,6 +8,15 @@ on:
   schedule:
     - cron: "7 1 * * *"   # 01:07 UTC = 08:07 sáng VN
   workflow_dispatch:
+    inputs:
+      chu_de:
+        description: "Chủ đề / mặt hàng (vd: vàng, dầu WTI, cà phê). Để TRỐNG = tự chọn tin nóng nhất."
+        required: false
+        default: ""
+      trong_tam:
+        description: "Trọng tâm muốn nhấn (vd: tác động của Fed, rủi ro nguồn cung). Để TRỐNG = phân tích chung."
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -29,6 +38,8 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          TOPIC: ${{ github.event.inputs.chu_de }}
+          FOCUS: ${{ github.event.inputs.trong_tam }}
         run: node scripts/draft-article.mjs
 
       - name: Commit bản nháp nếu có thay đổi

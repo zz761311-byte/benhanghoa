@@ -55,6 +55,11 @@ function yamlTitle(t) {
   return "'" + String(t).replace(/'/g, "''").trim() + "'";
 }
 
+// Bỏ dấu + viết thường để so khớp từ khóa chủ đề.
+function norm(s) {
+  return String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/g, "d").replace(/Đ/g, "D").toLowerCase();
+}
+
 // ── Chọn tin để viết ─────────────────────────────────────────────────────────
 
 async function loadUsedIds() {
@@ -62,13 +67,21 @@ async function loadUsedIds() {
   catch { return new Set(); }
 }
 
-async function pickNews(items, usedIds) {
+async function pickNews(items, usedIds, topic) {
   const ok = (it, needImg) =>
     ALLOWED_CATS.has(it.category) &&
     (it.summary_vi || "").trim().length > 40 &&
     (!needImg || (it.image || "").trim()) &&
     !usedIds.has(it.id);
   const byNew = (a, b) => String(b.published).localeCompare(String(a.published));
+  // Nếu bạn yêu cầu chủ đề: ưu tiên tin khớp từ khóa (bỏ dấu, không phân biệt hoa/thường).
+  if (topic) {
+    const t = norm(topic);
+    const match = (it) => norm(`${it.title_vi} ${it.summary_vi} ${it.title}`).includes(t);
+    const hit = items.filter((it) => ok(it, false) && match(it)).sort(byNew);
+    if (hit.length) return hit[0];
+    console.log(`⚠️ Không thấy tin nào khớp chủ đề "${topic}" — dùng tin nóng nhất thay thế.`);
+  }
   // Ưu tiên tin có ảnh; nếu không có thì nới lỏng.
   const withImg = items.filter((it) => ok(it, true)).sort(byNew);
   if (withImg.length) return withImg[0];
@@ -78,7 +91,7 @@ async function pickNews(items, usedIds) {
 
 // ── Lời nhắc (prompt) gửi cho AI ─────────────────────────────────────────────
 
-function buildPrompt(it) {
+function buildPrompt(it, focus) {
   const catName = { energy: "Năng lượng", metal: "Kim loại", agri: "Nông sản", soft: "Nguyên liệu công nghiệp" }[it.category] || "Hàng hóa";
   const d = new Date();
   const dateVN = `${String(d.getDate()).padStart(2, "0")}/${String(d.getMonth() + 1).padStart(2, "0")}/${d.getFullYear()}`;
@@ -103,6 +116,7 @@ QUY TẮC BẮT BUỘC:
 - KHÔNG khuyên mua/bán dứt khoát. KHÔNG hứa hẹn lợi nhuận.
 - Kết bài bằng ĐÚNG câu này: "*Bến Hàng Hóa | Thông tin mang tính tham khảo, không phải khuyến nghị đầu tư.*"
 - Giọng chuyên nghiệp, dễ hiểu, không sáo rỗng.
+${focus ? `\n⭐ TRỌNG TÂM — hãy nhấn mạnh và phân tích sâu phần này hơn cả: ${focus}\n` : ""}
 
 Sau bài viết, tạo 4 CAPTION FANPAGE ngắn (mỗi cái 3–5 dòng, có emoji, kết bằng CTA "Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí"):
   (a) bản nhận định, (b) bản nhấn vào MỘT con số, (c) bản nêu mốc/ngưỡng cần canh, (d) bản câu hỏi tương tác.
@@ -257,13 +271,17 @@ ${parsed.captions || "(AI không trả về caption)"}
 
 async function main() {
   if (!existsSync(NEWS_PATH)) { console.log("⚠️ Chưa có news.json — bỏ qua."); return; }
+  const topic = (process.env.TOPIC || "").trim();   // chủ đề bạn gõ khi bấm Run workflow
+  const focus = (process.env.FOCUS || "").trim();   // trọng tâm bạn muốn nhấn
   const news = JSON.parse(await readFile(NEWS_PATH, "utf8"));
   const usedIds = await loadUsedIds();
-  const it = await pickNews(news.items || [], usedIds);
+  const it = await pickNews(news.items || [], usedIds, topic);
   if (!it) { console.log("ℹ️ Không có tin mới phù hợp để viết hôm nay."); return; }
 
+  if (topic) console.log(`🎯 Chủ đề yêu cầu: ${topic}`);
+  if (focus) console.log(`⭐ Trọng tâm: ${focus}`);
   console.log(`📰 Chọn tin: [${it.category}] ${it.title_vi}`);
-  const prompt = buildPrompt(it);
+  const prompt = buildPrompt(it, focus);
 
   const providers = [["gemini", callGemini], ["groq", callGroq], ["openrouter", callOpenRouter]];
   const written = [];

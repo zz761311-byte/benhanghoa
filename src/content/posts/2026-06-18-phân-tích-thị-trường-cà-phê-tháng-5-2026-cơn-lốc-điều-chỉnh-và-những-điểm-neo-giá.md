@@ -1,8 +1,11 @@
 ---
 title: "Phân tích thị trường cà phê tháng 5/2026: Cơn lốc điều chỉnh và những
   điểm neo giá"
-date: 2026-06-18T08:50
+date: 2026-06-18T10:10
 category: agri
+summary: Cà phê sắp đổ bộ ồ ạt từ Brazil và Việt Nam, giá có thể lao dốc nếu
+  USDA xác nhận bội thu. Nhưng mốc 260 cent vẫn đang níu kéo – tôi chờ tin nóng
+  rồi mới quyết định.
 ---
 Nhìn vào bức tranh thị trường tháng 5 này, tôi thấy rõ một sự chuyển mình mang tính bước ngoặt. Giá Arabica đang quanh mức 268-270 cent/pound – đã rớt tới 25% so với đỉnh năm ngoái và chạm đáy 18 tháng trước khi tìm được nhịp hồi kỹ thuật. Xu thế giảm đang chiếm ưu thế, nhưng ẩn sau đó là một câu chuyện hai mặt rất đáng để mổ xẻ.
 

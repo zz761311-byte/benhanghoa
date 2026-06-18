@@ -78,6 +78,8 @@ async function pickNews(items, usedIds) {
 
 function buildPrompt(it) {
   const catName = { energy: "Năng lượng", metal: "Kim loại", agri: "Nông sản", soft: "Nguyên liệu công nghiệp" }[it.category] || "Hàng hóa";
+  const d = new Date();
+  const dateVN = `${String(d.getDate()).padStart(2, "0")}/${String(d.getMonth() + 1).padStart(2, "0")}/${d.getFullYear()}`;
   return `Bạn là chuyên gia phân tích thị trường hàng hóa, viết cho người Việt trên website "Bến Hàng Hóa".
 Hãy viết MỘT bài phân tích ngắn (khoảng 450–600 từ) bằng TIẾNG VIỆT, dựa trên bản tin dưới đây.
 
@@ -87,8 +89,8 @@ BẢN TIN GỐC:
 - Nguồn: ${it.source}
 - Nhóm hàng: ${catName}
 
-YÊU CẦU CẤU TRÚC — đúng khung 6 khối, mỗi khối có tiêu đề in đậm:
-1) Một câu chốt mở đầu, bắt đầu bằng dòng in đậm dạng "**📊 NHẬN ĐỊNH [TÊN HÀNG] — [ngày hôm nay]**".
+YÊU CẦU CẤU TRÚC — đúng khung 6 khối, mỗi tiêu đề khối in đậm nằm trên MỘT DÒNG RIÊNG (nội dung xuống dòng dưới):
+1) Một câu chốt mở đầu, bắt đầu bằng dòng in đậm dạng "**📊 NHẬN ĐỊNH [TÊN HÀNG] — ${dateVN}**".
 2) **Chuyện gì vừa xảy ra** — tóm tắt tin.
 3) **Vì sao quan trọng** — tác động lên cung/cầu/dòng tiền.
 4) **Góc nhìn nhiều chiều** — nêu CẢ mặt tăng VÀ mặt giảm (cân bằng, không một chiều).
@@ -146,17 +148,23 @@ async function callGroq(prompt) {
 // ── Tách kết quả AI theo các dấu === ─────────────────────────────────────────
 
 function parseAI(text) {
-  const grab = (tag, next) => {
-    const re = new RegExp(`===${tag}===\\s*([\\s\\S]*?)\\s*(?:===${next}===|$)`, "i");
-    const m = text.match(re);
-    return m ? m[1].trim() : "";
-  };
-  return {
-    title: grab("TITLE", "SUMMARY"),
-    summary: grab("SUMMARY", "BODY"),
-    body: grab("BODY", "CAPTIONS"),
-    captions: grab("CAPTIONS", "ZZZ"),
-  };
+  // Tìm các nhãn ===TAG=== một cách "khoan dung": AI free hay viết lệch, ví dụ
+  // "===CAPTIONS----" thay vì "===CAPTIONS===". Bắt theo dòng có >=2 dấu '=' rồi
+  // tới tên nhãn, nuốt mọi ký tự thừa phía sau (---- hoặc ===). Nội dung mỗi
+  // khối = đoạn nằm giữa nhãn này và nhãn kế tiếp.
+  const tags = ["TITLE", "SUMMARY", "BODY", "CAPTIONS"];
+  const found = [];
+  for (const tag of tags) {
+    const m = text.match(new RegExp(`={2,}\\s*${tag}\\b[^\\n]*`, "i"));
+    if (m) found.push({ key: tag.toLowerCase(), start: m.index, end: m.index + m[0].length });
+  }
+  found.sort((a, b) => a.start - b.start);
+  const out = { title: "", summary: "", body: "", captions: "" };
+  for (let i = 0; i < found.length; i++) {
+    const cur = found[i], next = found[i + 1];
+    out[cur.key] = text.slice(cur.end, next ? next.start : undefined).trim();
+  }
+  return out;
 }
 
 // ── Ghi bản nháp ra file ─────────────────────────────────────────────────────

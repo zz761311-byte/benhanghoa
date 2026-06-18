@@ -1,0 +1,44 @@
+name: Soạn nháp bài phân tích (Bến Hàng Hóa)
+
+# Tự chạy 08:07 sáng giờ VN mỗi ngày (01:07 UTC) + cho phép bấm chạy tay.
+# ⚠️ Tránh phút :00 — GitHub free tier hay bỏ lịch đầu giờ (giống bot tin tức).
+# Bản nháp được lưu vào thư mục drafts/ — KHÔNG nằm trong src/content nên
+# KHÔNG tự lên web. Bạn mở ra duyệt, sửa mốc giá, rồi mới đăng.
+on:
+  schedule:
+    - cron: "7 1 * * *"   # 01:07 UTC = 08:07 sáng VN
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lấy mã nguồn
+        uses: actions/checkout@v4
+
+      - name: Cài Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Soạn nháp bằng AI miễn phí (Gemini + Groq)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: node scripts/draft-article.mjs
+
+      - name: Commit bản nháp nếu có thay đổi
+        run: |
+          git config user.name  "benhanghoa-bot"
+          git config user.email "bot@benhanghoa.local"
+          git add drafts
+          if git diff --staged --quiet; then
+            echo "Không có bản nháp mới."
+          else
+            git commit -m "chore: nháp bài phân tích tự động (AI free)"
+            git pull --rebase --autostash origin "${{ github.ref_name }}" || true
+            git push
+          fi

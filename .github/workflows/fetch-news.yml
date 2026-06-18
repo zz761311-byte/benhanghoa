@@ -23,7 +23,7 @@ jobs:
       - name: Cài Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: Chạy bot lấy + dịch tin
         run: node scripts/fetch-news.mjs

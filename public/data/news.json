@@ -1,15 +1,26 @@
 {
-  "updated_at": "2026-06-19 00:50",
+  "updated_at": "2026-06-19 01:01",
   "items": [
     {
-      "id": "w5puud",
-      "title": "Oil Prices Are Crashing. Inventories Tell A Different Story.",
-      "title_vi": "Giá dầu đang sụp đổ. Hàng tồn kho kể một câu chuyện khác.",
-      "summary_vi": "Các nhà giao dịch dầu đã chuyển từ định giá trong thời kỳ gián đoạn nguồn cung tồi tệ nhất trong lịch sử hiện đại sang định giá trong thời kỳ phục hồi chưa xảy ra. Dữ liệu hàng tồn kho cho thấy họ đang đi trước chính mình. Dầu thô Brent giảm xuống dưới 77 USD/thùng vào thứ Năm, mức thấp nhất kể từ đầu năm",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-18_rapyglxjmq.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Are-Crashing-Inventories-Tell-A-Different-Story.html",
+      "id": "1xesn2y",
+      "title": "Azerbaijan Moves Into Uzbekistan’s Fast-Growing Mining Sector",
+      "title_vi": "Azerbaijan chuyển sang lĩnh vực khai thác đang phát triển nhanh chóng của Uzbekistan",
+      "summary_vi": "Azerbaijan và Uzbekistan đang tăng cường kết nối kinh tế, ký kết nhiều thỏa thuận bao gồm khai thác mỏ, ngân hàng và du lịch. Thủ tướng Uzbekistan Abdulla Aripov và người đồng cấp Azerbaijan, Ali Asadov, đã chủ trì lễ ký kết vào ngày 16 tháng 6 tại Tashkent của một thỏa thuận hợp tác.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_v4eh0du5hm.jpg",
+      "link": "https://oilprice.com/Geopolitics/Asia/Azerbaijan-Moves-Into-Uzbekistans-Fast-Growing-Mining-Sector.html",
       "source": "OilPrice",
       "category": "energy",
+      "published": "2026-06-19 01:00"
+    },
+    {
+      "id": "5wqxku",
+      "title": "Mining’s nuclear reality check: SMRs are still not on miners’ shopping lists",
+      "title_vi": "Kiểm tra thực tế hạt nhân của ngành khai thác: SMR vẫn chưa có trong danh sách mua sắm của thợ mỏ",
+      "summary_vi": "Các lò phản ứng mô-đun nhỏ và siêu nhỏ nằm ở vị trí cuối cùng trong kế hoạch sử dụng năng lượng carbon thấp của các thợ mỏ. Điều đó thật đáng chú ý trước sự cường điệu xung quanh SMR, sự hồi sinh hạt nhân do AI thúc đẩy và triển vọng ngày càng lạc quan đối với uranium.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/Minings-nuclear-reality-check-SMRs-are-still-not-on-miners-shopping-lists-1024x576.jpg",
+      "link": "https://www.mining.com/minings-nuclear-reality-check-smrs-are-still-not-on-miners-shopping-lists/",
+      "source": "Mining.com",
+      "category": "metal",
       "published": "2026-06-19 00:30"
     },
     {
@@ -83,7 +94,7 @@
       "title": "June WASDE Leaves Corn, Soybean Outlook Steady as Focus Shifts to Weather",
       "title_vi": "Tháng 6 WASDE để lại triển vọng ổn định về ngô, đậu nành khi trọng tâm chuyển sang thời tiết",
       "summary_vi": "",
-      "image": "https://grainnet-com.s3.amazonaws.com/defaults/_1200x630_crop_center-center_82_none/GJ_default_image_1200x630.webp?mtime=1708746861",
+      "image": "",
       "link": "https://www.grainjournal.com/article/1145252/june-wasde-leaves-corn-soybean-outlook-steady-as-focus-shifts-to-weather",
       "source": "Grain Journal",
       "category": "agri",
@@ -101,21 +112,32 @@
       "published": "2026-06-17 20:49"
     },
     {
-      "id": "1fghqvd",
-      "title": "Sweden Picks Rolls-Royce for First New Reactor Since the 1980s",
-      "title_vi": "Thụy Điển chọn Rolls-Royce làm lò phản ứng mới đầu tiên kể từ những năm 1980",
-      "summary_vi": "Rolls-Royce SMR vừa bổ sung hợp đồng lớn thứ ba ở châu Âu. Videberg Kraft, được hỗ trợ bởi công ty Vattenfall của Thụy Điển, đã chọn thiết kế của Vương quốc Anh cho ba tổ máy ở bờ biển phía tây, biến đây trở thành nhà máy hạt nhân mới đầu tiên của Thụy Điển trong hơn 40 năm. Chiến thắng xuất khẩu trị giá hàng tỷ bảng Anh, một",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_jkspajz0k3.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Sweden-Picks-Rolls-Royce-for-First-New-Reactor-Since-the-1980s.html",
+      "id": "w5puud",
+      "title": "Oil Prices Are Crashing. Inventories Tell A Different Story.",
+      "title_vi": "Giá dầu đang sụp đổ. Hàng tồn kho kể một câu chuyện khác.",
+      "summary_vi": "Các nhà giao dịch dầu đã chuyển từ định giá trong thời kỳ gián đoạn nguồn cung tồi tệ nhất trong lịch sử hiện đại sang định giá trong thời kỳ phục hồi chưa xảy ra. Dữ liệu hàng tồn kho cho thấy họ đang đi trước chính mình. Dầu thô Brent giảm xuống dưới 77 USD/thùng vào thứ Năm, mức thấp nhất kể từ đầu năm",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-18_rapyglxjmq.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Are-Crashing-Inventories-Tell-A-Different-Story.html",
       "source": "OilPrice",
       "category": "energy",
-      "published": "2026-06-19 00:00"
+      "published": "2026-06-19 00:30"
+    },
+    {
+      "id": "1p7z3b8",
+      "title": "Centrus Energy, Oklo sign multi-year nuclear fuel deal",
+      "title_vi": "Centrus Energy, Oklo ký thỏa thuận nhiên liệu hạt nhân kéo dài nhiều năm",
+      "summary_vi": "Centrus cho biết họ sẽ cung cấp HALEU được sản xuất trong nước cho SMR phân hạch nhanh hàng đầu của Oklo – được gọi là Aurora – trong nhiều năm.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/Centrus.jpg",
+      "link": "https://www.mining.com/centrus-energy-oklo-sign-multi-year-nuclear-fuel-deal/",
+      "source": "Mining.com",
+      "category": "energy",
+      "published": "2026-06-18 23:41"
     },
     {
       "id": "yi1eyd",
       "title": "As Hormuz crisis eases, gas prices may drop—other costs like groceries and home goods could stay high for a while",
-      "title_vi": "Khi khủng hoảng Hormuz giảm bớt, giá xăng có thể giảm - các chi phí khác như hàng tạp hóa và đồ gia dụng có thể duy trì ở mức cao trong một thời gian",
-      "summary_vi": "Giá dầu đang giảm sau một thỏa thuận dự kiến ​​​​mở lại eo biển Hormuz, nhưng việc cứu trợ rộng rãi hơn khỏi giá cao hơn có thể mất thời gian.",
+      "title_vi": "Khi cuộc khủng hoảng Hormuz giảm bớt, giá xăng có thể giảm - các chi phí khác như hàng tạp hóa và hàng gia dụng có thể duy trì ở mức cao trong một thời gian",
+      "summary_vi": "Giá dầu đang giảm sau khi có thỏa thuận dự kiến ​​mở lại eo biển Hormuz, nhưng việc cứu trợ rộng rãi hơn khỏi giá cao hơn có thể mất thời gian.",
       "image": "https://image.cnbcfm.com/api/v1/image/107324148-1698376735096-gettyimages-1490883641-dsc03504.jpeg?v=1781617704&w=1920&h=1080",
       "link": "https://www.cnbc.com/2026/06/16/hormuz-crisis-may-be-easingbut-lower-everyday-prices-may-take-longer-to-arrive.html",
       "source": "CNBC",
@@ -145,15 +167,15 @@
       "published": "2026-06-15 13:00"
     },
     {
-      "id": "1sg4jq4",
-      "title": "Why One Big Consumer Brand Is Lowering Prices",
-      "title_vi": "Tại sao một thương hiệu tiêu dùng lớn lại giảm giá",
+      "id": "12gpfpw",
+      "title": "JVA Q2 Earnings Decline Y/Y as Lower Coffee Prices Hurt Sales",
+      "title_vi": "Thu nhập quý 2 của JVA giảm so với cùng kỳ do giá cà phê thấp hơn ảnh hưởng đến doanh thu",
       "summary_vi": "",
       "image": "",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-06-12/owner-of-folgers-cafe-bustelo-to-lower-prices-after-coffee-deflation",
-      "source": "Bloomberg.com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jva-q2-earnings-decline-y-140700336.html",
+      "source": "Yahoo Finance",
       "category": "soft",
-      "published": "2026-06-12 20:02"
+      "published": "2026-06-15 21:07"
     },
     {
       "id": "ice0if",
@@ -181,7 +203,7 @@
       "id": "1ue4xve",
       "title": "WASDE Cuts Wheat Stocks While Livestock Outlook Splits - RFD-TV",
       "title_vi": "WASDE cắt giảm dự trữ lúa mì trong khi triển vọng chăn nuôi bị chia rẽ - RFD-TV",
-      "summary_vi": "Báo cáo cung cấp cho các nhà sản xuất bảng cân đối kế toán trồng trọt gần như ổn định với các tín hiệu rõ ràng hơn trên thị trường lúa mì và thịt.",
+      "summary_vi": "Báo cáo cung cấp cho các nhà sản xuất một bảng cân đối kế toán trồng trọt gần như ổn định với những tín hiệu rõ ràng hơn trên thị trường lúa mì và thịt.",
       "image": "https://rfdtv.brightspotgocdn.com/dims4/default/38d3348/2147483647/strip/true/crop/1920x1078+0+1/resize/730x410!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2F12%2Feb%2Fe60254074536a46c159651fe6aa0%2Fbg-1.png",
       "link": "https://www.rfdtv.com/wasde-cuts-wheat-stocks-while-livestock-outlook-splits",
       "source": "RFD-TV",
@@ -200,15 +222,26 @@
       "published": "2026-06-17 20:15"
     },
     {
-      "id": "14ihk58",
-      "title": "High Tanker Rates Disrupt Persian Gulf Oil Shipments to Asia",
-      "title_vi": "Giá tàu chở dầu cao làm gián đoạn các chuyến hàng dầu từ Vịnh Ba Tư tới châu Á",
-      "summary_vi": "Reuters đưa tin hôm thứ Năm, trích lời công ty lọc dầu quốc doanh lớn nhất ở Trung Quốc và Ấn Độ đã thất bại trong việc mua siêu tàu chở dầu để nạp dầu thô từ Vịnh Ba Tư vào cuối tháng 6 do giá cước vận chuyển tàu chở dầu quá cao và thiếu đảm bảo về việc đi qua eo biển Hormuz an toàn.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-18_rafg0ixaps.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/High-Tanker-Rates-Disrupt-Persian-Gulf-Oil-Shipments-to-Asia.html",
+      "id": "1fghqvd",
+      "title": "Sweden Picks Rolls-Royce for First New Reactor Since the 1980s",
+      "title_vi": "Thụy Điển chọn Rolls-Royce làm lò phản ứng mới đầu tiên kể từ những năm 1980",
+      "summary_vi": "Rolls-Royce SMR vừa bổ sung hợp đồng lớn thứ ba ở châu Âu. Videberg Kraft, được hỗ trợ bởi công ty Vattenfall của Thụy Điển, đã chọn thiết kế của Vương quốc Anh cho ba tổ máy ở bờ biển phía tây, biến đây trở thành nhà máy hạt nhân mới đầu tiên của Thụy Điển trong hơn 40 năm. Chiến thắng xuất khẩu trị giá hàng tỷ bảng Anh, một",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_jkspajz0k3.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Sweden-Picks-Rolls-Royce-for-First-New-Reactor-Since-the-1980s.html",
       "source": "OilPrice",
       "category": "energy",
-      "published": "2026-06-18 23:30"
+      "published": "2026-06-19 00:00"
+    },
+    {
+      "id": "1b4mmn5",
+      "title": "BHP takes $2.3B hit on Jansen as cost of potash mine swells again",
+      "title_vi": "BHP thiệt hại 2,3 tỷ USD từ Jansen do chi phí khai thác kali lại tăng cao",
+      "summary_vi": "Việc mở rộng Giai đoạn 2 hiện dự kiến ​​sẽ tiêu tốn 6,9 tỷ USD - cao hơn khoảng 2 tỷ USD so với ước tính trước đó.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/jansen_aerialview_BHP.png",
+      "link": "https://www.mining.com/bhp-takes-2-3b-hit-on-jansen-as-cost-of-potash-mine-swells-again/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-18 22:36"
     },
     {
       "id": "qbfrph",
@@ -244,15 +277,15 @@
       "published": "2026-06-17 17:08"
     },
     {
-      "id": "12gpfpw",
-      "title": "JVA Q2 Earnings Decline Y/Y as Lower Coffee Prices Hurt Sales",
-      "title_vi": "Thu nhập quý 2 của JVA giảm so với cùng kỳ do giá cà phê thấp hơn ảnh hưởng đến doanh thu",
+      "id": "16of9db",
+      "title": "Lower Sugar Output Supports Prices As Imports Rise - RFD-TV",
+      "title_vi": "Sản lượng đường giảm hỗ trợ giá khi nhập khẩu tăng - RFD-TV",
       "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jva-q2-earnings-decline-y-140700336.html",
-      "source": "Yahoo Finance",
+      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/6c5b267/2147483647/strip/true/crop/5184x2912+0+289/resize/730x410!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc2%2F30%2F6d7a17c94110935b7542c8d4e4f9%2Fcristen-clark-09-30-16-usa-ia-food-swine-033.jpg",
+      "link": "https://www.rfdtv.com/lower-sugar-output-supports-prices-as-imports-rise",
+      "source": "RFD-TV",
       "category": "soft",
-      "published": "2026-06-15 21:07"
+      "published": "2026-06-15 23:00"
     },
     {
       "id": "1xxwqjl",
@@ -288,48 +321,15 @@
       "published": "2026-06-12 05:49"
     },
     {
-      "id": "16of9db",
-      "title": "Lower Sugar Output Supports Prices As Imports Rise - RFD-TV",
-      "title_vi": "Sản lượng đường giảm hỗ trợ giá khi nhập khẩu tăng - RFD-TV",
-      "summary_vi": "",
-      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/6c5b267/2147483647/strip/true/crop/5184x2912+0+289/resize/730x410!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc2%2F30%2F6d7a17c94110935b7542c8d4e4f9%2Fcristen-clark-09-30-16-usa-ia-food-swine-033.jpg",
-      "link": "https://www.rfdtv.com/lower-sugar-output-supports-prices-as-imports-rise",
-      "source": "RFD-TV",
-      "category": "soft",
-      "published": "2026-06-15 23:00"
-    },
-    {
-      "id": "1bhi6t4",
-      "title": "The AI Spending Boom Is Creating a Depreciation Time Bomb",
-      "title_vi": "Sự bùng nổ chi tiêu AI đang tạo ra một quả bom hẹn giờ khấu hao",
-      "summary_vi": "Kế hoạch chi tiêu vốn đáng kinh ngạc của Big Tech là một trong những câu chuyện lớn nhất trong năm. Google, Meta, Amazon và Microsoft đều đã nỗ lực để đảm bảo một vị trí trên bục vinh quang trong cuộc đua xây dựng cơ sở hạ tầng phục vụ cuộc cách mạng trí tuệ nhân tạo (AI).",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_qrimezt09s.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/The-AI-Spending-Boom-Is-Creating-a-Depreciation-Time-Bomb.html",
+      "id": "14ihk58",
+      "title": "High Tanker Rates Disrupt Persian Gulf Oil Shipments to Asia",
+      "title_vi": "Giá tàu chở dầu cao làm gián đoạn các chuyến hàng dầu từ Vịnh Ba Tư tới châu Á",
+      "summary_vi": "Reuters đưa tin hôm thứ Năm, trích lời công ty lọc dầu quốc doanh lớn nhất ở Trung Quốc và Ấn Độ đã thất bại trong việc mua siêu tàu chở dầu để nạp dầu thô từ Vịnh Ba Tư vào cuối tháng 6 do giá cước vận chuyển tàu chở dầu quá cao và thiếu đảm bảo về việc đi lại an toàn qua eo biển Hormuz.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-18_rafg0ixaps.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/High-Tanker-Rates-Disrupt-Persian-Gulf-Oil-Shipments-to-Asia.html",
       "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-06-18 23:00"
-    },
-    {
-      "id": "ollk5w",
-      "title": "Why Gas Prices May Not Return To Pre-War Levels Soon",
-      "title_vi": "Tại sao giá xăng có thể không sớm trở lại mức trước chiến tranh",
-      "summary_vi": "Giá khí đốt đang giảm sau thỏa thuận với Iran, nhưng lượng tồn kho thấp, sự chậm trễ của tàu chở dầu và việc bổ sung kho dự trữ có thể giữ giá cao hơn mức trước chiến tranh trong nhiều tháng.",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a32b62c4f2a39242475af07/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "link": "https://www.forbes.com/sites/rrapier/2026/06/17/why-gas-prices-may-not-return-to-pre-war-levels-soon/",
-      "source": "Forbes",
       "category": "energy",
-      "published": "2026-06-17 22:03"
-    },
-    {
-      "id": "1iswjo0",
-      "title": "Precious Metals News: Gold, Silver, PGMs Prices Slide as Investors Brace for Fed Meeting",
-      "title_vi": "Tin tức về kim loại quý: Giá vàng, bạc, PGM trượt dốc khi các nhà đầu tư chuẩn bị cho cuộc họp của Fed",
-      "summary_vi": "Giá kim loại quý đang hướng tới cuộc họp của Cục Dự trữ Liên bang Hoa Kỳ vào tuần tới Lý do cho việc lãi suất cao hơn đang tăng lên và giá vàng, bạch kim và palađi đang giảm xuống mức chưa từng thấy kể từ mùa thu năm 2025. Trong khi đó, bạc đã giảm trở lại phạm vi như trước đây ...",
-      "image": "https://investingnews.com/media-library/wooden-blocks-spell-fed-next-to-a-blue-block-with-symbols-on-scattered-us-100-bills.jpg?id=66899812&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
-      "link": "https://investingnews.com/precious-metals-price-update/",
-      "source": "Investing News Network",
-      "category": "metal",
-      "published": "2026-06-12 04:10"
+      "published": "2026-06-18 23:30"
     }
   ]
 }

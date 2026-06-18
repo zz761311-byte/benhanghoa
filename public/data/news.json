@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18 11:01",
+  "updated_at": "2026-06-18 12:01",
   "items": [
     {
       "id": "j2538y",
@@ -35,6 +35,17 @@
       "published": "2026-06-12 20:56"
     },
     {
+      "id": "1ilmtq1",
+      "title": "Three main issues outstanding for grain futures",
+      "title_vi": "Ba vấn đề chính còn tồn tại đối với hợp đồng tương lai ngũ cốc",
+      "summary_vi": "Triển vọng thị trường phụ thuộc vào xung đột Iran, Trung Quốc",
+      "image": "https://bloximages.newyork1.vip.townnews.com/farmweeknow.com/content/tncms/assets/v3/editorial/8/3e/83e9ac19-c5f4-4a39-b0dd-1289e44a0034/6a2aee1a81233.preview.jpg?crop=900%2C473%2C0%2C363",
+      "link": "https://www.farmweeknow.com/opinion/market_focus/three-main-issues-outstanding-for-grain-futures/article_83e9ac19-c5f4-4a39-b0dd-1289e44a0034.html",
+      "source": "FarmWeekNow",
+      "category": "agri",
+      "published": "2026-06-15 13:00"
+    },
+    {
       "id": "vw3bq9",
       "title": "Shurley: Price Making Adjustments, Searching for Next Direction",
       "title_vi": "Shurley: Điều chỉnh giá, tìm kiếm hướng đi tiếp theo",
@@ -65,7 +76,7 @@
       "link": "https://www.litefinance.org/blog/analysts-opinions/gold-price-prediction-forecast/daily-and-weekly/",
       "source": "LiteFinance",
       "category": "metal",
-      "published": "2026-06-18 06:02"
+      "published": "2026-06-18 09:03"
     },
     {
       "id": "1qd3lc0",
@@ -112,25 +123,36 @@
       "published": "2026-06-16 21:30"
     },
     {
-      "id": "1ore7bc",
-      "title": "Current price of gold as of June 15, 2026",
-      "title_vi": "Giá vàng hiện tại ngày 15/06/2026",
-      "summary_vi": "Xu hướng giá vàng có thể cho biết liệu tài sản này có thể bảo vệ khỏi lạm phát hay không. Dưới đây là tình hình hoạt động của kim loại quý vào ngày 15 tháng 6 năm 2026.",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/Price-of-Gold-June-15.jpg?resize=1200,600",
-      "link": "https://fortune.com/article/current-price-of-gold-06-15-2026/",
+      "id": "1bmm6do",
+      "title": "Current price of silver as of Tuesday, June 16, 2026",
+      "title_vi": "Giá bạc hiện tại ngày 16/06/2026",
+      "summary_vi": "Nếu bạn lo lắng về việc lạm phát gia tăng, việc bổ sung các kim loại quý như bạc vào danh mục đầu tư của mình có thể là một lựa chọn thông minh.",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/Price-of-Silver-June-16.jpg?resize=1200,600",
+      "link": "https://fortune.com/article/current-price-of-silver-6-16-2026/",
       "source": "Fortune",
       "category": "metal",
-      "published": "2026-06-15 20:14"
+      "published": "2026-06-16 09:00"
+    },
+    {
+      "id": "muvk62",
+      "title": "Tennessee soybean farmers get morale boost from better prices, but future remains ‘daunting’",
+      "title_vi": "Nông dân trồng đậu nành ở Tennessee được nâng cao tinh thần nhờ giá tốt hơn, nhưng tương lai vẫn ‘khó khăn’",
+      "summary_vi": "Mùa màng bội thu, thời tiết thuận lợi, giá đậu tương tăng nhẹ từ năm 2025 và Trung Quốc - nước mua đậu nành xuất khẩu lớn nhất của Mỹ - một lần nữa đặt hàng sau khi một hiệp định thương mại chấm dứt tình trạng đóng băng mua hàng của nước này vào mùa thu năm ngoái. Nhưng trong khi tinh thần của những người nông dân trồng đậu nành ở Tennessee cao hơn",
+      "image": "https://tennesseelookout.com/wp-content/uploads/2025/09/TENNESSEE-FLOODING026-2048x1365.jpg",
+      "link": "https://tennesseelookout.com/2026/06/17/tennessee-soybean-farmers-get-morale-boost-from-better-prices-but-future-remains-daunting/",
+      "source": "Tennessee Lookout",
+      "category": "metal",
+      "published": "2026-06-17 17:08"
     },
     {
       "id": "7vqc5n",
       "title": "Rising coffee prices hit Idaho businesses and consumers",
       "title_vi": "Giá cà phê tăng ảnh hưởng đến doanh nghiệp và người tiêu dùng Idaho",
-      "summary_vi": "Giá cà phê ngày càng tăng do thuế quan, thời tiết khắc nghiệt ở các khu vực sản xuất cà phê lớn và những thách thức về nguồn cung, ảnh hưởng đến các doanh nghiệp và người tiêu dùng cà phê Idaho.",
-      "image": "https://media.ktvb.com/assets/KTVB/images/ec5b7ab7-63dd-4618-accf-6c885bff1aae/20260611T234936/ec5b7ab7-63dd-4618-accf-6c885bff1aae_1140x641.jpg",
+      "summary_vi": "",
+      "image": "",
       "link": "https://www.ktvb.com/article/money/consumer/rising-coffee-prices-hit-idaho-businesses-consumers/277-3bf06280-3dff-4eba-bb49-2fbc6837482c",
       "source": "KTVB",
-      "category": "metal",
+      "category": "soft",
       "published": "2026-06-12 06:48"
     },
     {
@@ -211,6 +233,17 @@
       "published": "2026-06-11 18:00"
     },
     {
+      "id": "b9dhly",
+      "title": "Australian Wheat FOB (Platts)",
+      "title_vi": "FOB lúa mì Úc (Platts)",
+      "summary_vi": "Tìm thông tin về Tổng quan về Hợp đồng Tương lai FOB Lúa mì Úc (Platts) do CME Group cung cấp. Xem tổng quan",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/images/og-cme-group.jpg",
+      "link": "https://www.cmegroup.com/markets/agriculture/grains/australian-wheat-fob-platts-futures",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-06-13 12:37"
+    },
+    {
       "id": "12gpfpw",
       "title": "JVA Q2 Earnings Decline Y/Y as Lower Coffee Prices Hurt Sales",
       "title_vi": "Thu nhập quý 2 của JVA giảm so với cùng kỳ do giá cà phê thấp hơn ảnh hưởng đến doanh thu",
@@ -244,26 +277,26 @@
       "published": "2026-06-16 19:00"
     },
     {
-      "id": "7zkhmj",
-      "title": "June WASDE maintains 2026-’27 outlook for corn use in ethanol",
-      "title_vi": "WASDE tháng 6 duy trì triển vọng sử dụng ngô trong ethanol từ năm 2026-27",
-      "summary_vi": "USDA duy trì dự báo về việc sử dụng ngô để sản xuất ethanol trong giai đoạn 2026-2027 trong báo cáo Ước tính Cung và Cầu Nông nghiệp Thế giới mới nhất, công bố ngày 11 tháng 6.",
-      "image": "https://bbi-strapi.s3.us-east-2.amazonaws.com/archived/epm/posts/web/2014/06/CornCobBig_14025216574144.jpg",
-      "link": "https://ethanolproducer.com/articles/june-wasde-maintains-2026-27-outlook-for-corn-use-in-ethanol",
-      "source": "Ethanol Producer Magazine",
+      "id": "1f85noe",
+      "title": "June WASDE Leaves Corn, Soybean Outlook Steady as Focus Shifts to Weather",
+      "title_vi": "Tháng 6 WASDE để lại triển vọng ổn định về ngô, đậu nành khi trọng tâm chuyển sang thời tiết",
+      "summary_vi": "",
+      "image": "https://grainnet-com.s3.amazonaws.com/defaults/_1200x630_crop_center-center_82_none/GJ_default_image_1200x630.webp?mtime=1708746861",
+      "link": "https://www.grainjournal.com/article/1145252/june-wasde-leaves-corn-soybean-outlook-steady-as-focus-shifts-to-weather",
+      "source": "Grain Journal",
       "category": "agri",
-      "published": "2026-06-12 16:03"
+      "published": "2026-06-13 01:39"
     },
     {
-      "id": "gjj4hg",
-      "title": "Sugar Moves Away from Overproduction",
-      "title_vi": "Đường thoát khỏi tình trạng sản xuất thừa",
-      "summary_vi": "Đường thoát khỏi tình trạng sản xuất thừa",
-      "image": "https://www.czapp.com/wp-content/uploads/2026/06/d67546d7-f0f5-405a-a468-1a80503dc0af.jpg",
-      "link": "https://www.czapp.com/analyst-insights/sugar-moves-away-from-overproduction/",
-      "source": "czapp.com",
+      "id": "2gs44w",
+      "title": "World Sugar Ester Non-Ionic Surfactants - Market Analysis, Forecast, Size, Trends and Insights",
+      "title_vi": "Chất hoạt động bề mặt không ion không chứa đường thế giới - Phân tích thị trường, dự báo, quy mô, xu hướng và thông tin chi tiết",
+      "summary_vi": "Thị trường Chất hoạt động bề mặt không ion hóa Sugar Ester thế giới dự kiến ​​sẽ tăng trưởng với tốc độ CAGR 5,5-7,5% cho đến năm 2035, do nhu cầu nhãn sạch, những thay đổi về quy định và mở rộng công suất ở Châu Á.",
+      "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-sugar-ester-non-ionic-surfactants-market-analysis-forecast-size-trends-and-insights-1781718482.webp",
+      "link": "https://www.indexbox.io/blog/sugar-ester-non-ionic-surfactants-market-demand-to-accelerate-by-2035-on-clean-label-reformulation-and-bio-based-shift/",
+      "source": "IndexBox",
       "category": "soft",
-      "published": "2026-06-11 14:00"
+      "published": "2026-06-18 00:46"
     },
     {
       "id": "c5ykq4",
@@ -277,17 +310,6 @@
       "published": "2026-06-18 04:00"
     },
     {
-      "id": "ollk5w",
-      "title": "Why Gas Prices May Not Return To Pre-War Levels Soon",
-      "title_vi": "Tại sao giá xăng có thể không sớm trở lại mức trước chiến tranh",
-      "summary_vi": "Giá khí đốt đang giảm sau thỏa thuận với Iran, nhưng lượng tồn kho thấp, sự chậm trễ của tàu chở dầu và việc bổ sung kho dự trữ có thể giữ giá cao hơn mức trước chiến tranh trong nhiều tháng.",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a32b62c4f2a39242475af07/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "link": "https://www.forbes.com/sites/rrapier/2026/06/17/why-gas-prices-may-not-return-to-pre-war-levels-soon/",
-      "source": "Forbes",
-      "category": "energy",
-      "published": "2026-06-17 22:03"
-    },
-    {
       "id": "15st3za",
       "title": "Silver price forecast: $60 price risk before the next move higher",
       "title_vi": "Dự báo giá bạc: Rủi ro giá 60 USD trước đợt tăng giá tiếp theo",
@@ -299,37 +321,15 @@
       "published": "2026-06-17 00:09"
     },
     {
-      "id": "16of9db",
-      "title": "Lower Sugar Output Supports Prices As Imports Rise - RFD-TV",
-      "title_vi": "Sản lượng đường giảm hỗ trợ giá khi nhập khẩu tăng - RFD-TV",
-      "summary_vi": "",
-      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/6c5b267/2147483647/strip/true/crop/5184x2912+0+289/resize/730x410!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc2%2F30%2F6d7a17c94110935b7542c8d4e4f9%2Fcristen-clark-09-30-16-usa-ia-food-swine-033.jpg",
-      "link": "https://www.rfdtv.com/lower-sugar-output-supports-prices-as-imports-rise",
-      "source": "RFD-TV",
-      "category": "soft",
-      "published": "2026-06-15 23:00"
-    },
-    {
-      "id": "13ty7qf",
-      "title": "Natural Gas Futures Lose Ground as Demand Outlook Cools",
-      "title_vi": "Hợp đồng tương lai khí đốt tự nhiên mất điểm khi triển vọng nhu cầu nguội đi",
+      "id": "jy94q2",
+      "title": "Egypt buys record amount of wheat from farmers after reforms",
+      "title_vi": "Ai Cập mua số lượng lúa mì kỷ lục từ nông dân sau cải cách",
       "summary_vi": "",
       "image": "",
-      "link": "https://naturalgasintel.com/news/natural-gas-futures-lose-ground-as-demand-outlook-cools/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-06-18 02:00"
-    },
-    {
-      "id": "1puposh",
-      "title": "Gold weekly outlook: Central banks and US-Iran deal eyed",
-      "title_vi": "Triển vọng vàng hàng tuần: Các ngân hàng trung ương và thỏa thuận Mỹ-Iran đang được chú ý",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forex.com/en-us/news-and-analysis/gold-weekly-outlook-central-banks-and-us-iran-deal-eyed/",
-      "source": "FOREX.com",
-      "category": "metal",
-      "published": "2026-06-14 22:00"
+      "link": "https://www.reuters.com/world/africa/egypt-buys-record-amount-wheat-farmers-after-reforms-2026-06-11/",
+      "source": "Reuters",
+      "category": "agri",
+      "published": "2026-06-11 23:11"
     }
   ]
 }

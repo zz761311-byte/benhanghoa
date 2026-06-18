@@ -28,16 +28,8 @@ const ALLOWED_CATS = new Set(["energy", "metal", "agri", "soft"]);
 // Model miễn phí — đổi tên ở đây nếu nhà cung cấp ra bản mới.
 const GEMINI_MODEL = "gemini-2.0-flash";
 const GROQ_MODEL = "llama-3.3-70b-versatile";
-// Danh sách model FREE trên OpenRouter — thử lần lượt, dùng cái nào còn chạy.
-// Model free hay bị gỡ bất ngờ → ưu tiên DeepSeek, rồi Qwen/Mistral/Llama/Gemini-exp.
-const OPENROUTER_MODELS = [
-  "deepseek/deepseek-chat-v3.1:free",
-  "deepseek/deepseek-r1:free",
-  "qwen/qwen-2.5-72b-instruct:free",
-  "mistralai/mistral-small-3.2-24b-instruct:free",
-  "meta-llama/llama-3.3-70b-instruct:free",
-  "google/gemini-2.0-flash-exp:free",
-];
+// Thứ tự ƯU TIÊN họ model khi tự chọn model free từ OpenRouter (tốt cho tiếng Việt trước).
+const OPENROUTER_PREFER = ["deepseek", "qwen", "llama-3.3", "mistral", "gemini-2.0-flash", "llama-3.1"];
 
 // ── Tiện ích ────────────────────────────────────────────────────────────────
 
@@ -155,12 +147,29 @@ async function callGroq(prompt) {
   return data?.choices?.[0]?.message?.content || "";
 }
 
+// Hỏi OpenRouter danh sách model đang FREE (giá = 0), sắp theo thứ tự ưu tiên.
+async function listFreeOpenRouterModels(key) {
+  const res = await fetch("https://openrouter.ai/api/v1/models", { headers: { authorization: `Bearer ${key}` } });
+  if (!res.ok) return [];
+  const { data } = await res.json();
+  const free = (data || []).filter(
+    (m) => m.pricing && Number(m.pricing.prompt) === 0 && Number(m.pricing.completion) === 0
+  );
+  const score = (id) => {
+    const i = OPENROUTER_PREFER.findIndex((p) => id.toLowerCase().includes(p));
+    return i === -1 ? 99 : i;
+  };
+  return free.map((m) => m.id).sort((a, b) => score(a) - score(b));
+}
+
 async function callOpenRouter(prompt) {
   const key = process.env.OPENROUTER_API_KEY;
   if (!key) return null;
-  // Thử lần lượt các model free; dùng model đầu tiên còn chạy được.
+  // Tự lấy model free hiện có (không hardcode slug → không bao giờ lỗi "model đã bị gỡ").
+  const candidates = await listFreeOpenRouterModels(key);
+  if (!candidates.length) throw new Error("OpenRouter: không lấy được model free nào (kiểm tra cài đặt Privacy?)");
   let lastErr = "";
-  for (const model of OPENROUTER_MODELS) {
+  for (const model of candidates.slice(0, 8)) {
     try {
       const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
         method: "POST",

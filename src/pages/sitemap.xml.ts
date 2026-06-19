@@ -2,7 +2,7 @@ import type { APIRoute } from "astro";
 import { ALL } from "../data/commodities.mjs";
 import { getCollection } from "astro:content";
 
-const SITE = "https://benhanghoa.pages.dev";
+const SITE = "https://benhanghoa.com";
 
 // Sinh sitemap.xml động từ toàn bộ trang (tĩnh + hàng hóa + kiến thức + phân tích)
 export const GET: APIRoute = async () => {

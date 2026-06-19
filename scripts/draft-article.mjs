@@ -278,7 +278,7 @@ async function callOpenRouter(prompt) {
         headers: {
           "content-type": "application/json",
           authorization: `Bearer ${key}`,
-          "HTTP-Referer": "https://benhanghoa.pages.dev",
+          "HTTP-Referer": "https://benhanghoa.com",
           "X-Title": "Ben Hang Hoa",
         },
         body: JSON.stringify({ model, messages: [{ role: "user", content: prompt }], temperature: 0.7 }),

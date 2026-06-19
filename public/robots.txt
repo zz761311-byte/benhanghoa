@@ -4,4 +4,4 @@ Allow: /
 # Không index trang quản trị nội bộ
 Disallow: /admin
 
-Sitemap: https://benhanghoa.pages.dev/sitemap.xml
+Sitemap: https://benhanghoa.com/sitemap.xml

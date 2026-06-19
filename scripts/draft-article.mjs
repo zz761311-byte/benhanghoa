@@ -26,7 +26,8 @@ const USED_PATH = DRAFTS_DIR + "/.used-ids.json";
 const ALLOWED_CATS = new Set(["energy", "metal", "agri", "soft"]);
 
 // Model miễn phí — đổi tên ở đây nếu nhà cung cấp ra bản mới.
-const GEMINI_MODEL = "gemini-2.0-flash";
+// Thử lần lượt các model Gemini free — mỗi model có hạn mức riêng, dùng cái nào còn quota.
+const GEMINI_MODELS = ["gemini-2.5-flash", "gemini-2.0-flash", "gemini-2.0-flash-lite", "gemini-1.5-flash"];
 const GROQ_MODEL = "llama-3.3-70b-versatile";
 // Thứ tự ƯU TIÊN họ model khi tự chọn model free từ OpenRouter (tốt cho tiếng Việt trước).
 const OPENROUTER_PREFER = ["deepseek", "qwen", "llama-3.3", "mistral", "gemini-2.0-flash", "llama-3.1"];
@@ -137,15 +138,23 @@ TRẢ KẾT QUẢ ĐÚNG ĐỊNH DẠNG SAU (giữ nguyên các dòng có dấu 
 async function callGemini(prompt) {
   const key = process.env.GEMINI_API_KEY;
   if (!key) return null;
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${key}`;
-  const res = await fetch(url, {
-    method: "POST",
-    headers: { "content-type": "application/json" },
-    body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] }),
-  });
-  if (!res.ok) throw new Error(`Gemini HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`);
-  const data = await res.json();
-  return data?.candidates?.[0]?.content?.parts?.map((p) => p.text).join("") || "";
+  let lastErr = "";
+  for (const model of GEMINI_MODELS) {
+    try {
+      const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${key}`;
+      const res = await fetch(url, {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] }),
+      });
+      if (!res.ok) { lastErr = `${model}: HTTP ${res.status}`; continue; }
+      const data = await res.json();
+      const txt = data?.candidates?.[0]?.content?.parts?.map((p) => p.text).join("") || "";
+      if (txt.trim()) { console.log(`   (Gemini dùng model: ${model})`); return txt; }
+      lastErr = `${model}: rỗng`;
+    } catch (e) { lastErr = `${model}: ${e.message}`; }
+  }
+  throw new Error(`Gemini không model free nào chạy được (cuối: ${lastErr})`);
 }
 
 async function callGroq(prompt) {

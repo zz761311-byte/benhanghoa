@@ -1,13 +1,12 @@
 ---
+export const prerender = false;   // SSR: render tại chỗ trên Cloudflare mỗi lần truy cập
+
 import Layout from "../layouts/Layout.astro";
 import LeadCTA from "../components/LeadCTA.astro";
-import { readFileSync } from "node:fs";
-import { join } from "node:path";
 
-// ── Đọc news.json TẠI BUILD → in sẵn tin ra HTML để Google index được ──────────
-// Trước đây trang tin render 100% bằng JS nên bot chỉ thấy "Đang tải tin…".
-// Giờ HTML đã có nội dung tin (tiêu đề/tóm tắt/nguồn) ngay từ build; <script> bên
-// dưới vẫn tự làm mới bằng dữ liệu live cho người dùng (freshness không đổi).
+// ── Lấy news.json LIVE mỗi lần truy cập (SSR) → Google + người dùng luôn thấy tin
+// mới nhất mà KHÔNG cần build lại web. Thử GitHub (tươi nhất) trước, lỗi thì lấy
+// bản tĩnh kèm trong build. Cloudflare Functions KHÔNG có node:fs → dùng fetch.
 const CAT_LABEL = { metal: "Kim loại", energy: "Năng lượng", agri: "Nông sản", soft: "Nguyên liệu", macro: "Vĩ mô" };
 const CAT_ICON = { metal: "🪙", energy: "🛢️", agri: "🌾", soft: "☕", macro: "🌐" };
 const catLabel = (c) => CAT_LABEL[c] || "Hàng hóa";
@@ -21,18 +20,22 @@ const fmtDate = (s) => {
   return `${p(d.getDate())}/${p(d.getMonth() + 1)}/${d.getFullYear()}`;
 };
 
-let items = [];
-let updatedAt = "";
-try {
-  const raw = JSON.parse(readFileSync(join(process.cwd(), "public", "data", "news.json"), "utf8"));
-  updatedAt = raw.updated_at || "";
-  const ts = (x) => new Date(String(x.published || "").replace(" ", "T")).getTime() || 0;
-  items = (raw.items || []).slice().sort((a, b) => ts(b) - ts(a));
-} catch (e) {}
+const REMOTE = "https://raw.githubusercontent.com/zz761311-byte/benhanghoa/main/public/data/news.json";
+const LOCAL = new URL("/data/news.json", Astro.url).href;
+let raw = { items: [], updated_at: "" };
+for (const url of [REMOTE, LOCAL]) {
+  try { const r = await fetch(url, { cache: "no-store" }); if (r.ok) { raw = await r.json(); break; } } catch (e) {}
+}
+const updatedAt = raw.updated_at || "";
+const ts = (x) => new Date(String(x.published || "").replace(" ", "T")).getTime() || 0;
+const items = (raw.items || []).slice().sort((a, b) => ts(b) - ts(a));
 
 const cats = ["all", ...new Set(items.map((i) => i.category).filter(Boolean))];
 const featured = items[0];
 const rest = items.slice(1);
+
+// Cache ở biên Cloudflare 5 phút: đỡ gọi GitHub liên tục + tải nhanh, vẫn đủ tươi.
+Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
 ---
 <Layout page="news" title="Tin tức hàng hóa — Bến Hàng Hóa" description="Tin tức thế giới ảnh hưởng đến giá hàng hóa, dịch sang tiếng Việt.">
   <section class="section">

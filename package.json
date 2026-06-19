@@ -11,6 +11,7 @@
     "draft": "node scripts/draft-article.mjs"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "^11.2.0",
     "astro": "^4.16.0"
   }
 }

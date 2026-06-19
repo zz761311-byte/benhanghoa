@@ -286,6 +286,36 @@ async function fetchOg(url) {
   }
 }
 
+// --- Sửa lỗi dịch máy cho thuật ngữ tài chính/hàng hóa ---
+// Google dịch theo nghĩa thường ngày → sai trong ngữ cảnh thị trường.
+// Mỗi rule CHỈ áp dụng khi từ tiếng Anh gốc khớp điều kiện (tránh sửa nhầm tin
+// chính trị thật). Các lỗi dưới đây đã được kiểm chứng bằng cách dịch thử qua
+// chính endpoint Google này — không phải phỏng đoán.
+function fixFinanceTranslation(vi, enSource) {
+  if (!vi) return vi;
+  const en = (enSource || "").toLowerCase();
+  let out = vi;
+
+  // 1) "rally" (danh từ) bị dịch nhầm thành "biểu tình" (vd "relief rally" →
+  //    "cuộc biểu tình cứu trợ"). Chỉ sửa khi CÓ "rally" và KHÔNG phải tin biểu
+  //    tình/chính trị thật. ("rally" động từ: rallies/rallied → Google dịch đúng.)
+  const hasRally = /\brall(y|ies|ied|ying)\b/.test(en);
+  const looksProtest = /\b(protest|demonstrat|march|election|campaign|government|anti-|streets|voters|coup)\b/.test(en);
+  if (hasRally && !looksProtest) {
+    out = out.replace(/cuộc biểu tình/gi, "đợt tăng giá").replace(/biểu tình/gi, "tăng giá");
+  }
+  // 2) "Main Street" → "phố chính" (sai). Nghĩa: nền kinh tế thực/người dân-doanh nghiệp.
+  if (/\bmain street\b/.test(en)) out = out.replace(/phố chính/gi, "nền kinh tế thực");
+  // 3) "weigh(s/ed) on" → "cân nhắc" (sai). Nghĩa: gây áp lực/đè nặng lên.
+  if (/\bweigh(s|ed)?\s+on\b/.test(en)) {
+    out = out.replace(/cân nhắc về/gi, "gây áp lực lên").replace(/cân nhắc đối với/gi, "gây áp lực lên");
+  }
+  // 4) "greenback" (tiếng lóng của USD) → "đồng bạc xanh" (khó hiểu) → đồng USD.
+  if (/\bgreenback\b/.test(en)) out = out.replace(/đồng bạc xanh/gi, m => (m[0] === "Đ" ? "Đồng USD" : "đồng USD"));
+
+  return out;
+}
+
 // --- Free translation EN -> VI ---
 async function translate(text) {
   if (!text) return "";
@@ -295,7 +325,8 @@ async function translate(text) {
     const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0" } });
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
-    return (data[0] || []).map(seg => seg[0]).join("");
+    const vi = (data[0] || []).map(seg => seg[0]).join("");
+    return fixFinanceTranslation(vi, text); // sửa lỗi thuật ngữ trước khi trả về
   } catch {
     return text; // fallback: giữ nguyên tiếng Anh nếu dịch lỗi
   }
@@ -372,7 +403,14 @@ async function main() {
   oldItems = oldItems.filter(o => o && o.title && !isBlockedSource(o.source) && !isJunkTitle(o.title));
   // Phân loại LẠI tin cũ theo luật mới (sửa nhãn sai đã lỡ lưu). Truyền category cũ
   // làm `hint` → tin nào tiêu đề không có từ khóa rõ thì GIỮ nguyên nhãn cũ, không phá.
-  oldItems = oldItems.map(o => ({ ...o, category: categorize(o.title, o.summary_vi || "", o.category) }));
+  // ...và vá lại lỗi dịch thuật ngữ đã lỡ lưu (rally→biểu tình, Main Street→phố chính...).
+  // Dùng tiêu đề tiếng Anh `o.title` làm ngữ cảnh guard.
+  oldItems = oldItems.map(o => ({
+    ...o,
+    category: categorize(o.title, o.summary_vi || "", o.category),
+    title_vi: fixFinanceTranslation(o.title_vi || "", o.title),
+    summary_vi: fixFinanceTranslation(o.summary_vi || "", o.title)
+  }));
   const oldTitles = new Set(oldItems.map(o => o.title.toLowerCase()));
   const oldLinks = new Set(oldItems.map(o => (o.link || "").trim()).filter(Boolean));
 

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-20 03:18",
+  "updated_at": "2026-06-20 04:01",
   "items": [
+    {
+      "id": "kufvrt",
+      "title": "Op-Ed: what the Scope Systems cyber attack reveals about mining&#8217;s digital fragility",
+      "title_vi": "Op-Ed: cuộc tấn công mạng của Scope Systems tiết lộ điều gì về tính mong manh kỹ thuật số của hoạt động khai thác",
+      "summary_vi": "Cuộc tấn công bằng ransomware gần đây nhắm vào kho phần mềm ERP của Scope Systems đã làm gián đoạn hoạt động của hàng chục công ty khai thác mỏ, chủ yếu là ở Australia.",
+      "image": "https://www.mining.com/wp-content/uploads/2021/11/Cyberattack.png",
+      "link": "https://www.mining.com/op-ed-what-the-scope-systems-cyber-attack-reveals-about-minings-digital-fragility/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-20 03:46"
+    },
     {
       "id": "g4tali",
       "title": "Why Lunar Helium-3 Mining Still Can&#039;t Compete With Earth",
@@ -121,6 +132,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-19 22:30"
+    },
+    {
+      "id": "qnp2l1",
+      "title": "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow",
+      "title_vi": "Thiếu xăng và 'mưa dầu' khiến chiến tranh Nga-Ukraine trở lại Moscow",
+      "summary_vi": "Ukraine tăng cường tấn công vào cơ sở hạ tầng dầu mỏ và vũ khí của Nga khi nước này thu hút viện trợ và bắt đầu các cuộc đàm phán với EU.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-18T105325Z_1756175838_RC27WLA8MTLJ_RTRMADP_3_UKRAINE-CRISIS-ATTACK-MOSCOW-1781877104.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/6/19/petrol-shortages-and-oil-rain-bring-russia-ukraine-war-home-to-moscow",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-06-19 22:25"
     },
     {
       "id": "uhrdse",
@@ -354,17 +376,6 @@
       "published": "2026-06-19 00:31"
     },
     {
-      "id": "5wqxku",
-      "title": "Mining’s nuclear reality check: SMRs are still not on miners’ shopping lists",
-      "title_vi": "Kiểm tra thực tế hạt nhân của ngành khai thác: SMR vẫn chưa có trong danh sách mua sắm của thợ mỏ",
-      "summary_vi": "Các lò phản ứng mô-đun nhỏ và siêu nhỏ nằm ở vị trí cuối cùng trong kế hoạch sử dụng năng lượng carbon thấp của các thợ mỏ. Điều đó thật đáng chú ý trước sự cường điệu xung quanh SMR, sự hồi sinh hạt nhân do AI thúc đẩy và triển vọng ngày càng lạc quan đối với uranium.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/Minings-nuclear-reality-check-SMRs-are-still-not-on-miners-shopping-lists-1024x576.jpg",
-      "link": "https://www.mining.com/minings-nuclear-reality-check-smrs-are-still-not-on-miners-shopping-lists/",
-      "source": "Mining.com",
-      "category": "energy",
-      "published": "2026-06-19 00:30"
-    },
-    {
       "id": "ocllhu",
       "title": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
       "title_vi": "Ukraine tấn công một nhà máy lọc dầu ở Moscow và các địa điểm khác trong một cuộc tấn công bằng máy bay không người lái quy mô lớn",
@@ -374,6 +385,17 @@
       "source": "NPR",
       "category": "energy",
       "published": "2026-06-18 23:12"
+    },
+    {
+      "id": "9yhnxi",
+      "title": "No margin for error: How copper projects lost their price buffer",
+      "title_vi": "Không có sai sót: Các dự án đồng đã mất đệm giá như thế nào",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/06/no-margin-for-error-how-copper-projects-lost-their-price-buffer",
+      "source": "S&P Global",
+      "category": "metal",
+      "published": "2026-06-18 21:07"
     },
     {
       "id": "jw9z7i",
@@ -528,28 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-06-18 02:00"
-    },
-    {
-      "id": "1hnpqwk",
-      "title": "Will Brazil’s Corn and Soybean Production Continue to Grow in 2027? - Purdue University",
-      "title_vi": "Sản lượng ngô và đậu nành của Brazil sẽ tiếp tục tăng vào năm 2027? - Đại học Purdue",
-      "summary_vi": "Nông dân Brazil phải đối mặt với chi phí phân bón tăng cao, tín dụng thắt chặt, tỷ suất lợi nhuận thấp hơn và rủi ro thời tiết - nhưng lịch sử cho thấy tăng trưởng sản xuất có thể tiếp tục. Nghiên cứu mới xem xét liệu việc mở rộng ngô và đậu tương của Brazil có chậm lại vào năm 2027 hay không.",
-      "image": "https://ag.purdue.edu/commercialag/home/wp-content/uploads/2026/06/20260616_Colussi_BrazilProductionContinue_Fig1-1.jpg",
-      "link": "https://ag.purdue.edu/commercialag/home/resource/2026/06/will-brazils-corn-and-soybean-production-continue-to-grow-in-2027/",
-      "source": "Purdue University - College of Agriculture",
-      "category": "agri",
-      "published": "2026-06-18 00:57"
-    },
-    {
-      "id": "hovdw",
-      "title": "Colorado&#8217;s Bonfire Coffee is Stoked with Big New Roastery",
-      "title_vi": "Cà phê Bonfire của Colorado được bổ sung bởi Big New Roastery",
-      "summary_vi": "Mở ra một con đường thậm chí còn tươi sáng hơn cho cà phê đặc sản ở Rockies, Bonfire Coffee có trụ sở tại Colorado gần đây đã cắt băng khánh thành một cửa hàng bán lẻ và rang xay mới lớn ở khu nghỉ mát hiểm trở...",
-      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/06/Bonfire-Coffee-Colorado-roastery-1.jpg",
-      "link": "https://dailycoffeenews.com/2026/06/17/colorados-bonfire-coffee-is-stoked-with-big-new-roastery/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-06-17 23:09"
     }
   ]
 }

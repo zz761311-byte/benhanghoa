@@ -14,6 +14,31 @@ const {
 const ogImage = new URL(image || "/assets/img/logo-badge.png", Astro.site).href;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 
+// Dữ liệu có cấu trúc (JSON-LD) — giúp Google hiểu thương hiệu + hiện logo/brand trong SERP.
+const siteUrl = Astro.site?.href || "https://benhanghoa.com/";
+const orgSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": siteUrl + "#organization",
+      name: "Bến Hàng Hóa",
+      url: siteUrl,
+      logo: new URL("/assets/img/logo-badge.png", Astro.site).href,
+      description: "Giá hàng hóa thế giới & tin tức dịch tiếng Việt cho nhà đầu tư Việt Nam.",
+      sameAs: [CONTACT.facebookUrl]
+    },
+    {
+      "@type": "WebSite",
+      "@id": siteUrl + "#website",
+      name: "Bến Hàng Hóa",
+      url: siteUrl,
+      inLanguage: "vi-VN",
+      publisher: { "@id": siteUrl + "#organization" }
+    }
+  ]
+};
+
 const links = [
   { key: "home",     href: "/",           label: "Trang chủ" },
   { key: "prices",   href: "/bang-gia",   label: "Bảng giá" },
@@ -44,7 +69,9 @@ const links = [
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content={ogImage} />
   <link rel="icon" type="image/svg+xml" href="/assets/img/favicon.svg" />
+  <link rel="apple-touch-icon" href="/assets/img/logo-icon.png" />
   <link rel="stylesheet" href="/assets/css/style.css" />
+  <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
 </head>
 <body data-page={page}>
   <header class="site-header">

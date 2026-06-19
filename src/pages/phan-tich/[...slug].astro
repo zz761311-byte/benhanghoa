@@ -10,8 +10,27 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await post.render();
+
+// JSON-LD Article → Google hiển thị ngày đăng, ảnh, brand trong kết quả tìm kiếm.
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: post.data.title,
+  datePublished: post.data.date.toISOString(),
+  image: new URL(post.data.image || "/assets/img/logo-badge.png", Astro.site).href,
+  description: post.data.summary || post.data.title,
+  inLanguage: "vi-VN",
+  mainEntityOfPage: new URL(Astro.url.pathname, Astro.site).href,
+  author: { "@type": "Organization", name: "Bến Hàng Hóa" },
+  publisher: {
+    "@type": "Organization",
+    name: "Bến Hàng Hóa",
+    logo: { "@type": "ImageObject", url: new URL("/assets/img/logo-badge.png", Astro.site).href }
+  }
+};
 ---
 <Layout page="analysis" title={`${post.data.title} — Bến Hàng Hóa`} description={post.data.summary || post.data.title} image={post.data.image || ""}>
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
   <section class="section">
     <div class="container" style="max-width:760px">
       <nav class="breadcrumb">

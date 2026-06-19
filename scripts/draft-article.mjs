@@ -345,16 +345,22 @@ function parseAI(text) {
 // ── Ghi bản nháp ra file ─────────────────────────────────────────────────────
 
 // Chọn ảnh minh họa từ kho public/assets/fanpage/ — ưu tiên ảnh RIÊNG mặt hàng
-// (vd vang.jpg), không có thì ảnh theo NHÓM (vd kim-loai.jpg). Bạn chỉ cần bỏ
-// file ảnh vào thư mục là code TỰ nhận, không phải sửa gì thêm.
+// (vd vang.jpg), không có thì ảnh theo NHÓM (vd kim-loai.jpg). Hỗ trợ NHIỀU ảnh
+// cùng loại bằng hậu tố số (kim-loai-1.jpg … kim-loai-9.jpg, hoặc kim-loai.jpg) →
+// mỗi bài bot bốc NGẪU NHIÊN 1 ảnh cho đa dạng. Chỉ cần bỏ file đúng tên là code tự nhận.
 const CAT_IMG = { energy: "nang-luong", metal: "kim-loai", agri: "nong-san", soft: "nguyen-lieu", macro: "vi-mo" };
+const IMG_VARIANTS = ["", "-1", "-2", "-3", "-4", "-5", "-6", "-7", "-8", "-9"];
 function libraryImage(subject, category) {
   const bases = [];
   if (subject) bases.push(slugify(subject));
   if (CAT_IMG[category]) bases.push(CAT_IMG[category]);
-  for (const base of bases)
-    for (const ext of ["jpg", "jpeg", "png", "webp"])
-      if (existsSync(`${ROOT}public/assets/fanpage/${base}.${ext}`)) return `/assets/fanpage/${base}.${ext}`;
+  for (const base of bases) {
+    const found = [];
+    for (const v of IMG_VARIANTS)
+      for (const ext of ["jpg", "jpeg", "png", "webp"])
+        if (existsSync(`${ROOT}public/assets/fanpage/${base}${v}.${ext}`)) found.push(`/assets/fanpage/${base}${v}.${ext}`);
+    if (found.length) return found[Math.floor(Math.random() * found.length)];  // bốc ngẫu nhiên trong các ảnh cùng loại
+  }
   return "";
 }
 

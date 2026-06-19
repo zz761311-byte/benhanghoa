@@ -19,6 +19,17 @@ Bot ưu tiên theo thứ tự:
 
 → Bạn **chỉ cần bỏ file ảnh vào đây, đặt đúng tên** là code tự nhận. Không phải sửa code.
 
+### 🎲 Nhiều ảnh 1 loại → bot tự đổi ảnh cho đa dạng
+
+Muốn mỗi bài 1 ảnh khác nhau? Bỏ **nhiều ảnh** cùng loại bằng **hậu tố số**:
+
+```
+kim-loai-1.jpg  kim-loai-2.jpg  kim-loai-3.jpg  kim-loai-4.jpg  kim-loai-5.jpg
+```
+
+Bot sẽ **bốc ngẫu nhiên 1 ảnh** mỗi lần soạn bài. Đặt được `-1` đến `-9`. Cũng chấp
+nhận tên trơn `kim-loai.jpg`. (Áp dụng cho cả ảnh nhóm lẫn ảnh riêng mặt hàng.)
+
 ---
 
 ## ✅ CẦN NGAY — 5 ảnh theo nhóm (đủ để chạy)

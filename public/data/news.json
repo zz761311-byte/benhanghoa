@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-20 04:38",
+  "updated_at": "2026-06-20 05:01",
   "items": [
+    {
+      "id": "1xoxiz4",
+      "title": "Solar Is the Cheapest Power in History, But States Are Retreating From It",
+      "title_vi": "Năng lượng mặt trời là năng lượng rẻ nhất trong lịch sử, nhưng các quốc gia đang rút lui khỏi nó",
+      "summary_vi": "Một cuộc đẩy và kéo đầy rủi ro đang diễn ra trong lĩnh vực năng lượng sạch của Hoa Kỳ khi luật pháp cấp tiểu bang, chính sách cấp liên bang và bàn tay vô hình khét tiếng đó đều kéo theo các hướng khác nhau. Một số lượng đáng kinh ngạc các hành động pháp lý khác nhau từ phía chính quyền Trump",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-19_8yajuo2mzt.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Is-the-Cheapest-Power-in-History-But-States-Are-Retreating-From-It.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-20 05:00"
+    },
     {
       "id": "kufvrt",
       "title": "Op-Ed: what the Scope Systems cyber attack reveals about mining&#8217;s digital fragility",
@@ -121,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-19 23:00"
-    },
-    {
-      "id": "65lbd5",
-      "title": "Equinor to Boost Troll Gas Output with $412 Million Subsea Development",
-      "title_vi": "Equinor để tăng sản lượng khí Troll với việc phát triển dưới biển trị giá 412 triệu USD",
-      "summary_vi": "Equinor và các đối tác trong lĩnh vực khí đốt Troll đã quyết định đầu tư hơn 400 triệu USD vào dự án phát triển mới dưới biển nhằm thúc đẩy sản xuất khí đốt từ mỏ khí đốt khổng lồ của Na Uy ở Biển Bắc. Equinor và các đối tác Petoro, Shell, TotalEnergies và ConocoPhillips đã có tháng 12",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-19_ezb8qakmgr.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-to-Boost-Troll-Gas-Output-with-412-Million-Subsea-Development.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-19 22:30"
     },
     {
       "id": "qnp2l1",
@@ -376,6 +376,17 @@
       "published": "2026-06-19 00:31"
     },
     {
+      "id": "fqwage",
+      "title": "Startup focused on clean copper extraction takes 15,000 sq. ft. at Kenilworth’s NEST campus - RE-NJ",
+      "title_vi": "Công ty khởi nghiệp tập trung vào khai thác đồng sạch có diện tích 15.000 m2 tại khuôn viên NEST của Kenilworth - RE-NJ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://re-nj.com/startup-focused-on-clean-copper-extraction-takes-15000-sq-ft-kenilworths-nest-campus/",
+      "source": "RE-NJ",
+      "category": "metal",
+      "published": "2026-06-19 00:26"
+    },
+    {
       "id": "ocllhu",
       "title": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
       "title_vi": "Ukraine tấn công một nhà máy lọc dầu ở Moscow và các địa điểm khác trong một cuộc tấn công bằng máy bay không người lái quy mô lớn",
@@ -539,17 +550,6 @@
       "source": "Pro Farmer",
       "category": "soft",
       "published": "2026-06-18 04:19"
-    },
-    {
-      "id": "13ty7qf",
-      "title": "Natural Gas Futures Lose Ground as Demand Outlook Cools",
-      "title_vi": "Hợp đồng tương lai khí đốt tự nhiên mất điểm khi triển vọng nhu cầu nguội đi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/natural-gas-futures-lose-ground-as-demand-outlook-cools/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-06-18 02:00"
     }
   ]
 }

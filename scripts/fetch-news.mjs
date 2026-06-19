@@ -57,7 +57,12 @@ const CATEGORY_KW = {
            "zinc", "nickel", "lead", "tin", "lme", "steel", "bullion", "metal"],
   soft:   ["coffee", "sugar", "cocoa", "cotton", "rubber", "arabica", "robusta"],
   agri:   ["corn", "soybean", "soy", "wheat", "grain", "crop", "harvest", "planting", "livestock", "cattle", "hog"],
-  macro:  ["federal reserve", "fed", "inflation", "dollar", "interest rate", "rate hike", "cpi", "gdp", "tariff", "trade war"],
+  macro:  ["federal reserve", "fed", "central bank", "ecb",
+           "interest rate", "rate hike", "rate cut", "rate decision", "monetary policy",
+           "inflation", "deflation", "cpi", "ppi", "gdp", "recession", "economy", "economic",
+           "dollar", "greenback", "dxy", "treasury yield", "bond yield",
+           "tariff", "trade war", "trade deal", "sanctions", "geopolitical",
+           "stimulus", "debt ceiling", "jobs report", "payrolls", "unemployment", "election"],
 };
 // 4 nhóm HÀNG HÓA cụ thể được ưu tiên hơn "macro" (macro chỉ là phương án chót).
 const PRODUCT_CATS = ["energy", "metal", "soft", "agri"];
@@ -93,23 +98,35 @@ function countHits(text, res) {
   return n;
 }
 
-// Phân loại theo ĐIỂM: từ khóa trong TIÊU ĐỀ nặng gấp 3 lần mô tả (chủ đề bài
-// nằm ở tiêu đề). Ưu tiên 4 nhóm hàng hóa cụ thể; chỉ rơi về "macro" khi không
-// khớp hàng hóa nào. `hint` (gợi ý từ nguồn / nhãn cũ) là chốt chặn cuối cùng,
-// nên tin cũ không bị phân loại sai khi tiêu đề không có từ khóa rõ ràng.
+// Phân loại theo "CHỦ ĐỀ NẰM Ở ĐÂU" — từ khóa ở TIÊU ĐỀ nặng gấp 3 lần mô tả.
+// Quy tắc giúp tab "Vĩ mô" bám sát, không nuốt nhầm tin hàng hóa và ngược lại:
+//   • Tiêu đề có ĐÚNG 1 mặt hàng cụ thể  → đó là chủ đề (vd "Vàng giảm khi Fed..."
+//     = Kim loại; Fed chỉ là nguyên nhân, không phải chủ đề).
+//   • Tiêu đề KHÔNG có mặt hàng nào, chỉ có Fed/lạm phát/thuế quan → Vĩ mô.
+//   • Tiêu đề có NHIỀU mặt hàng + yếu tố vĩ mô → tin thị trường rộng → Vĩ mô.
+// `hint` (gợi ý từ nguồn / nhãn cũ) là chốt chặn cuối, giữ tin cũ không bị phá nhãn.
 function categorize(title, desc, hint) {
   const t = (title || "").toLowerCase();
   const d = (desc || "").toLowerCase();
-  const score = {};
+  const sc = {};
   for (const cat of Object.keys(CATEGORY_KW)) {
-    score[cat] = countHits(t, CATEGORY_RE[cat]) * 3 + countHits(d, CATEGORY_RE[cat]);
+    sc[cat] = countHits(t, CATEGORY_RE[cat]) * 3 + countHits(d, CATEGORY_RE[cat]);
   }
-  let best = null, bestScore = 0;
-  for (const cat of PRODUCT_CATS) {       // ưu tiên hàng hóa cụ thể, hòa điểm thì lấy nhóm đứng trước
-    if (score[cat] > bestScore) { best = cat; bestScore = score[cat]; }
-  }
-  if (best) return best;
-  if (score.macro > 0) return "macro";
+  // Các nhóm hàng hóa cụ thể XUẤT HIỆN NGAY TRONG TIÊU ĐỀ (tín hiệu chủ đề thật).
+  const titleProducts = PRODUCT_CATS.filter((c) => countHits(t, CATEGORY_RE[c]) > 0);
+  const bestProduct = () => {
+    let b = null, bs = 0;
+    for (const c of PRODUCT_CATS) if (sc[c] > bs) { b = c; bs = sc[c]; }   // hòa điểm → nhóm đứng trước
+    return b;
+  };
+
+  if (titleProducts.length === 1) return titleProducts[0];           // 1 mặt hàng = chủ đề
+  if (titleProducts.length >= 2) return sc.macro > 0 ? "macro" : bestProduct();  // nhiều mặt hàng
+
+  // Tiêu đề không có mặt hàng cụ thể nào:
+  if (sc.macro > 0) return "macro";                                  // tin vĩ mô thuần
+  const bp = bestProduct();
+  if (bp && sc[bp] > 0) return bp;                                   // mặt hàng chỉ nằm ở mô tả
   return hint || "macro";
 }
 

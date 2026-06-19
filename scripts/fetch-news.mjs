@@ -29,12 +29,12 @@ const FEEDS = [
   { url: "https://dailycoffeenews.com/feed/", source: "Daily Coffee News", hint: "soft" },
   // Google News RSS — lọc theo nhóm hàng hóa (ổn định, phủ rộng cả 4 nhóm)
   { url: "https://news.google.com/rss/search?q=(crude+oil+OR+natural+gas+OR+gasoline)+price+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "energy", google: true },
-  { url: "https://news.google.com/rss/search?q=(gold+OR+silver+OR+copper+OR+platinum+OR+aluminum+OR+nickel)+price+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "metal", google: true },
+  { url: "https://news.google.com/rss/search?q=(silver+OR+copper+OR+platinum+OR+palladium+OR+aluminum+OR+nickel)+price+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "metal", google: true },
   { url: "https://news.google.com/rss/search?q=(corn+OR+soybean+OR+wheat+OR+grain)+price+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "agri", google: true },
   { url: "https://news.google.com/rss/search?q=(coffee+OR+sugar+OR+cocoa+OR+cotton+OR+rubber)+price+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "soft", google: true },
   // Google News RSS — PHÂN TÍCH / NHẬN ĐỊNH chuyên sâu (forecast/outlook) theo nhóm
   { url: "https://news.google.com/rss/search?q=(crude+oil+OR+natural+gas)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "energy", google: true },
-  { url: "https://news.google.com/rss/search?q=(gold+OR+silver+OR+copper+OR+platinum)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "metal", google: true },
+  { url: "https://news.google.com/rss/search?q=(silver+OR+copper+OR+platinum+OR+palladium)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "metal", google: true },
   { url: "https://news.google.com/rss/search?q=(corn+OR+soybean+OR+wheat)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "agri", google: true },
   { url: "https://news.google.com/rss/search?q=(coffee+OR+sugar+OR+cocoa)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "soft", google: true },
   // KIM LOẠI GIAO DỊCH ĐƯỢC Ở VN (bạc / bạch kim / đồng) — feed RIÊNG từng mã.
@@ -51,6 +51,14 @@ const FEEDS = [
 
 const MAX_PER_FEED = 6;   // số tin lấy mỗi nguồn
 const MAX_TOTAL = 50;     // tổng số tin giữ lại
+const MAX_GOLD = 4;       // VÀNG không giao dịch được trên sàn VN → giữ tối đa 4 tin (chỉ làm bối cảnh)
+
+// Nhận diện tin VÀNG để giới hạn (vàng không phải mặt hàng giao dịch được ở VN).
+function isGold(it) {
+  const en = String(it.title || "");
+  const vi = String(it.title_vi || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  return /\bgold\b|\bbullion\b|\bxau\b/i.test(en) || /\bvang\b/.test(vi);
+}
 
 // --- Keyword -> category (để gắn nhãn màu) ---
 // Khớp TRỌN TỪ (word-boundary) để tránh bắt nhầm chuỗi con:
@@ -403,10 +411,12 @@ async function main() {
 
   // Gộp mới + cũ → bỏ trùng id → SẮP THEO NGÀY MỚI NHẤT → giữ 50 tin gần nhất.
   const seenId = new Set();
+  let goldKept = 0;
   const tsOf = (x) => { const d = new Date(String(x.published).replace(" ", "T")); return isNaN(d) ? 0 : d.getTime(); };
   const items = [...newItems, ...oldItems]
     .filter(x => { if (seenId.has(x.id)) return false; seenId.add(x.id); return true; })
     .sort((a, b) => tsOf(b) - tsOf(a))
+    .filter(x => { if (isGold(x)) { if (goldKept >= MAX_GOLD) return false; goldKept++; } return true; })  // giới hạn cứng tin vàng
     .slice(0, MAX_TOTAL);
 
   const out = {

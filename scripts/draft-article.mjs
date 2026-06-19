@@ -216,7 +216,9 @@ YÊU CẦU CẤU TRÚC — đúng khung 6 khối, mỗi tiêu đề khối in đ
 
 QUY TẮC BẮT BUỘC:
 - CHỈ dùng thông tin có trong các bản tin trên. TUYỆT ĐỐI KHÔNG bịa số liệu, % hay con số giá không có trong tin.
-- KHÔNG khuyên mua/bán dứt khoát. KHÔNG hứa hẹn lợi nhuận.
+- TUYỆT ĐỐI KHÔNG đưa khuyến nghị giao dịch: KHÔNG có điểm vào lệnh, KHÔNG "mua/bán ở mức...", KHÔNG chốt lời (take profit), KHÔNG cắt lỗ (stop-loss), KHÔNG giá mục tiêu để hành động. KHÔNG dùng các cụm "Lời khuyên", "khuyến nghị", "nên mua", "nên bán".
+- KHÔNG khẳng định chắc chắn hướng giá ("giá sẽ tăng/giảm về mức X"). Chỉ nói KỊCH BẢN có điều kiện ("nếu... thì có thể...") và rủi ro hai chiều.
+- KHÔNG hứa hẹn lợi nhuận.
 - Kết bài bằng ĐÚNG câu này: "*Bến Hàng Hóa | Thông tin mang tính tham khảo, không phải khuyến nghị đầu tư.*"
 - Giọng chuyên nghiệp, dễ hiểu, không sáo rỗng.
 ${focus ? `\n⭐ TRỌNG TÂM — hãy nhấn mạnh và phân tích sâu phần này hơn cả: ${focus}\n` : ""}
@@ -355,6 +357,19 @@ function libraryImage(subject, category) {
   return "";
 }
 
+// Quét ngôn ngữ KHUYẾN NGHỊ GIAO DỊCH bị cấm (đề phòng AI lỡ viết) — web chỉ là
+// thông tin tham khảo, KHÔNG khuyến nghị mua/bán. Nếu phát hiện → cảnh báo người
+// duyệt phải xóa/viết lại trước khi đăng.
+const FORBIDDEN_RE = /chốt lời|stop[\s-]?loss|cắt lỗ|điểm vào|vào lệnh|mua (gần|quanh|ở|vào|tại)|bán (gần|quanh|ở|ra|tại)|lời khuyên|khuyến nghị (mua|bán)|nên mua|nên bán|take[\s-]?profit/i;
+function findForbidden(text) {
+  const hits = [];
+  for (const line of String(text || "").split("\n")) {
+    const m = line.match(FORBIDDEN_RE);
+    if (m) hits.push(m[0].toLowerCase());
+  }
+  return [...new Set(hits)];
+}
+
 async function writeDraft(provider, cluster, parsed) {
   const it = cluster.primary;
   const libImg = libraryImage(cluster.subject, it.category);
@@ -369,6 +384,13 @@ async function writeDraft(provider, cluster, parsed) {
   // Liệt kê nguồn đã tổng hợp → bạn kiểm chứng được bài dựa trên những tin nào.
   const sources = [it, ...cluster.related];
   const srcList = sources.map((s) => `>   • ${s.title_vi} — ${s.source}`).join("\n");
+
+  // Lưới chặn cuối: nếu AI lỡ viết khuyến nghị giao dịch → cảnh báo đỏ trong nháp.
+  const forbidden = findForbidden(parsed.body || "");
+  if (forbidden.length) console.log(`🚨 ${provider}: phát hiện ngôn ngữ khuyến nghị (${forbidden.join(", ")}) — đã gắn cảnh báo trong nháp.`);
+  const forbiddenNote = forbidden.length
+    ? `>\n> 🚨 **CẢNH BÁO: bài có ngôn ngữ KHUYẾN NGHỊ giao dịch ("${forbidden.join('", "')}") — PHẢI XÓA/viết lại trước khi đăng** (web chỉ là thông tin tham khảo, không khuyến nghị mua/bán).\n`
+    : "";
 
   const md = `---
 title: ${yamlTitle(title)}
@@ -386,7 +408,7 @@ ${summaryBlock}
 >
 > 🧩 **Tổng hợp từ ${sources.length} bản tin${cluster.subject ? ` về ${cluster.subject}` : ""}:**
 ${srcList}
-
+${forbiddenNote}
 ${parsed.body || "(AI không trả về nội dung)"}
 `;
 

@@ -75,13 +75,22 @@ async function pickNews(items, usedIds, topic) {
     (!needImg || (it.image || "").trim()) &&
     !usedIds.has(it.id);
   const byNew = (a, b) => String(b.published).localeCompare(String(a.published));
-  // Nếu bạn yêu cầu chủ đề: ưu tiên tin khớp từ khóa (bỏ dấu, không phân biệt hoa/thường).
+  // Nếu bạn yêu cầu chủ đề: trước hết thử khớp ĐÚNG MẶT HÀNG (cả tên Anh lẫn Việt,
+  // khớp trọn từ) — tránh lỗi "back"/"comeback" bị tính nhầm thành "bạc".
   if (topic) {
-    const t = norm(topic);
-    const match = (it) => norm(`${it.title_vi} ${it.summary_vi} ${it.title}`).includes(t);
-    const hit = items.filter((it) => ok(it, false) && match(it)).sort(byNew);
-    if (hit.length) return hit[0];
-    console.log(`⚠️ Không thấy tin nào khớp chủ đề "${topic}" — dùng tin nóng nhất thay thế.`);
+    const subj = resolveTopicSubject(topic);
+    if (subj) {
+      const hit = items.filter((it) => ok(it, false) && detectSubject(it) === subj).sort(byNew);
+      if (hit.length) { console.log(`🎯 Khớp mặt hàng "${subj}": ${hit.length} tin.`); return hit[0]; }
+      console.log(`⚠️ Hiện không có tin nào về "${subj}" — dùng tin nóng nhất thay thế.`);
+    } else {
+      // Chủ đề tự do (không phải mặt hàng đã biết): khớp TRỌN TỪ trên nội dung.
+      const t = norm(topic).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      const re = new RegExp(`\\b${t}\\b`, "i");
+      const hit = items.filter((it) => ok(it, false) && re.test(norm(`${it.title_vi} ${it.summary_vi} ${it.title}`))).sort(byNew);
+      if (hit.length) return hit[0];
+      console.log(`⚠️ Không thấy tin nào khớp chủ đề "${topic}" — dùng tin nóng nhất thay thế.`);
+    }
   }
   // Ưu tiên tin có ảnh; nếu không có thì nới lỏng.
   const withImg = items.filter((it) => ok(it, true)).sort(byNew);
@@ -134,6 +143,18 @@ function detectSubject(it) {
     }
   }
   return best;
+}
+
+// Khớp chủ đề bạn GÕ → một MẶT HÀNG đã biết (vd "bạc"/"silver" → bạc; "dầu" → dầu thô).
+// Nhờ vậy lọc tin theo đúng mặt hàng (trọn từ) thay vì so chuỗi con dễ nhầm (back→bac).
+function resolveTopicSubject(topic) {
+  const t = norm(topic);
+  if (!t) return null;
+  for (const [name, kws] of Object.entries(SUBJECT_KW)) {
+    if (norm(name) === t || norm(name).split(" ").includes(t)) return name;   // khớp tên mặt hàng (Việt)
+    if (kws.some((k) => norm(k) === t)) return name;                          // khớp từ khóa (silver, gold...)
+  }
+  return null;
 }
 
 // Gom 1 "chùm tin": 1 tin CHÍNH + các tin LIÊN QUAN cùng mặt hàng (hoặc cùng nhóm

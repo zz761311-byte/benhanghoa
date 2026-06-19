@@ -36,11 +36,15 @@ const FEEDS = [
   { url: "https://news.google.com/rss/search?q=(crude+oil+OR+natural+gas)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "energy", google: true },
   { url: "https://news.google.com/rss/search?q=(gold+OR+silver+OR+copper+OR+platinum)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "metal", google: true },
   { url: "https://news.google.com/rss/search?q=(corn+OR+soybean+OR+wheat)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "agri", google: true },
-  { url: "https://news.google.com/rss/search?q=(coffee+OR+sugar+OR+cocoa)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "soft", google: true }
+  { url: "https://news.google.com/rss/search?q=(coffee+OR+sugar+OR+cocoa)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "soft", google: true },
+  // VĨ MÔ / ĐỊA CHÍNH TRỊ / CHÍNH SÁCH TIỀN TỆ — yếu tố ẢNH HƯỞNG GIÁ hàng hóa
+  { url: "https://news.google.com/rss/search?q=(Federal+Reserve+OR+interest+rate+OR+inflation+OR+US+dollar)+(commodities+OR+gold+OR+oil)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "macro", google: true },
+  { url: "https://news.google.com/rss/search?q=(OPEC+OR+sanctions+OR+%22Middle+East%22+OR+Russia+OR+Ukraine)+(oil+OR+supply+OR+commodity)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "energy", google: true },
+  { url: "https://news.google.com/rss/search?q=(tariff+OR+%22trade+war%22+OR+%22China+demand%22+OR+geopolitical)+(commodity+OR+commodities+OR+metals)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "macro", google: true }
 ];
 
 const MAX_PER_FEED = 6;   // số tin lấy mỗi nguồn
-const MAX_TOTAL = 30;     // tổng số tin giữ lại
+const MAX_TOTAL = 50;     // tổng số tin giữ lại
 
 // --- Keyword -> category (để gắn nhãn màu) ---
 const CATEGORY_RULES = [
@@ -51,11 +55,21 @@ const CATEGORY_RULES = [
   ["macro",  ["fed", "inflation", "dollar", "rate", "cpi", "economy", "gdp"]]
 ];
 
+// Nguồn "dự báo tự đăng lại" (broker tự làm mới bài liên tục, lặp & ít giá trị) — chặn hẳn.
+const BLOCK_SOURCES = ["litefinance", "liteforex", "litemarkets"];
+function isBlockedSource(src) {
+  const s = (src || "").toLowerCase();
+  return BLOCK_SOURCES.some(b => s.includes(b));
+}
+
 // Lọc tiêu đề "rác" từ Google News (trang báo giá, bảng giá — không phải bài viết)
 function isJunkTitle(t) {
   const s = (t || "").trim();
   if (s.length < 22) return true; // quá ngắn → thường là trang báo giá ("Soybean", "Gold")
   if (/price today|spot price|price chart|live price|price per|prices today|quote|charts?$/i.test(s)) return true;
+  // Bài "dự báo tự đăng lại" kiểu mẫu (broker làm mới liên tục) — vd LiteFinance:
+  if (/for today,?\s*tomorrow/i.test(s)) return true;                          // "...for today, tomorrow, next week"
+  if (/(forecast|prediction)[^.]{0,40}\bnext\s+\d+\s+days?/i.test(s)) return true;  // "...forecast ... next 30 days"
   return false;
 }
 
@@ -220,7 +234,7 @@ async function fetchFeed(feed) {
         }
         return { ...it, title, desc, source, hint: feed.hint };
       })
-      .filter(it => !isJunkTitle(it.title))   // bỏ tiêu đề rác trước khi cắt
+      .filter(it => !isJunkTitle(it.title) && !isBlockedSource(it.source))   // bỏ tiêu đề rác + nguồn spam
       .slice(0, MAX_PER_FEED);
   } catch (e) {
     console.warn(`! Bỏ qua nguồn ${feed.source}: ${e.message}`);

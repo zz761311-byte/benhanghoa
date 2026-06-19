@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19 10:01",
+  "updated_at": "2026-06-19 10:38",
   "items": [
     {
       "id": "mf7rh",
@@ -24,6 +24,17 @@
       "published": "2026-06-19 05:48"
     },
     {
+      "id": "v16cme",
+      "title": "Brewed Blend of Date and Olive Seeds Comes Close to Turkish Coffee, Study Finds",
+      "title_vi": "Nghiên cứu cho thấy sự pha trộn giữa chà là và hạt ô liu gần giống với cà phê Thổ Nhĩ Kỳ",
+      "summary_vi": "Một nghiên cứu gần đây từ Thổ Nhĩ Kỳ cho thấy một loại cà phê không chứa caffeine được làm từ hạt chà là rang và hạt ô liu có thể gần giống với cà phê Thổ Nhĩ Kỳ về hương vị và hình thức dưới sự kiểm soát...",
+      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/03/olive-tree.jpg",
+      "link": "https://dailycoffeenews.com/2026/06/18/brewed-blend-of-date-and-olive-seeds-comes-close-to-turkish-coffee-study-finds/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-06-18 21:24"
+    },
+    {
       "id": "15przng",
       "title": "Oil prices drop to cheapest level since early days of Middle East conflict",
       "title_vi": "Giá dầu giảm xuống mức rẻ nhất kể từ những ngày đầu xung đột ở Trung Đông",
@@ -46,15 +57,15 @@
       "published": "2026-06-12 20:56"
     },
     {
-      "id": "5166ui",
-      "title": "Grain futures trade higher on China rumors and technical buying.",
-      "title_vi": "Hợp đồng tương lai ngũ cốc giao dịch cao hơn nhờ tin đồn và hoạt động mua kỹ thuật của Trung Quốc.",
-      "summary_vi": "Virginia McGathey thảo luận về hoạt động gần đây trên thị trường ngũ cốc, nhấn mạnh việc tăng giá đậu nành, ngô và lúa mì. Bà lưu ý rằng thị trường đậu tương đang phản ứng với nhu cầu tiềm năng của Trung Quốc, trong khi giá ngô vẫn ổn định do lực mua kỹ thuật và điều kiện mùa màng thuận lợi. Ngoài ra, McGathey còn ám ảnh",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/grain-futures-trade-higher-on-china-rumors-and-technical-buying-.jpg",
-      "link": "https://www.cmegroup.com/videos/2026/06/17/grain-futures-trade-higher-on-china-rumors-and-technical-buying-.html",
-      "source": "CME Group",
-      "category": "metal",
-      "published": "2026-06-17 14:00"
+      "id": "132egzy",
+      "title": "Soybeans Rally as China Finally Buys, Will They Buy Corn? Cattle Surge on Higher Cash, Cutouts",
+      "title_vi": "Đậu nành tăng giá khi Trung Quốc cuối cùng cũng mua, liệu họ có mua ngô không? Gia súc tăng do tiền mặt cao hơn, cắt giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/soybeans-rally-china-finally-buys-will-they-buy-corn-cattle-surge-higher-",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-06-17 05:37"
     },
     {
       "id": "vw3bq9",
@@ -79,15 +90,15 @@
       "published": "2026-06-18 20:04"
     },
     {
-      "id": "niormg",
-      "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days",
-      "title_vi": "Dự báo giá vàng (XAU/USD) cho hôm nay, ngày mai, tuần tới và 30 ngày tới",
-      "summary_vi": "Dự đoán và phân tích giá vàng cho ngày mai, tuần tới và 30 ngày. Các cấp độ, tâm lý và sự kiện chính định hình triển vọng ngắn hạn của vàng.",
-      "image": "https://cdn.litemarkets.com/cache/uploads/blog_post/blog_posts/daily-price-prediction-forecast/xauusd-daily-main-min.jpg?q=75&w=1000&s=1df82a808857fd1af5a1edd013b23e84",
-      "link": "https://www.litefinance.org/blog/analysts-opinions/gold-price-prediction-forecast/daily-and-weekly/",
-      "source": "LiteFinance",
+      "id": "1diqcb4",
+      "title": "Barclays sees gold pullback as ‘reset’, keeps bullish outlook",
+      "title_vi": "Barclays coi sự thoái lui của vàng là 'thiết lập lại', giữ triển vọng tăng giá",
+      "summary_vi": "Theo ngân hàng này, đợt điều chỉnh gần đây không làm thay đổi các động lực chính thúc đẩy thị trường vàng tăng giá.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/AdobeStock_1998442950-scaled-1-1024x576.jpeg",
+      "link": "https://www.mining.com/barclays-sees-gold-pullback-as-reset-keeps-bullish-outlook/",
+      "source": "Mining.com",
       "category": "metal",
-      "published": "2026-06-19 09:09"
+      "published": "2026-06-16 21:46"
     },
     {
       "id": "1f85noe",
@@ -112,6 +123,39 @@
       "published": "2026-06-17 20:49"
     },
     {
+      "id": "l22deq",
+      "title": "Gold falls 1% after Fed holds rates steady, signals rate hike this year",
+      "title_vi": "Vàng giảm 1% sau khi Fed giữ lãi suất ổn định, tín hiệu tăng lãi suất trong năm nay",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-edges-up-rate-hike-fears-ease-fed-rate-decision-focus-2026-06-17/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-06-17 08:30"
+    },
+    {
+      "id": "ocllhu",
+      "title": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
+      "title_vi": "Ukraine tấn công một nhà máy lọc dầu ở Moscow và các địa điểm khác trong một cuộc tấn công bằng máy bay không người lái quy mô lớn",
+      "summary_vi": "Ukraine đã phát động một làn sóng tấn công bằng máy bay không người lái vào Nga vào sáng sớm thứ Năm - một trong những cuộc tấn công lớn nhất vào thủ đô của Nga kể từ khi Điện Kremlin ra lệnh xâm chiếm Ukraine hơn bốn năm trước.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8086x4548+0+421/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2Fea%2F2e6085a343db8a9bf945a17293c3%2Fgettyimages-2281563734.jpg",
+      "link": "https://www.npr.org/2026/06/18/g-s1-128782/moscow-ukraine-drone-attack-russia-oil-refinery",
+      "source": "NPR",
+      "category": "energy",
+      "published": "2026-06-18 23:12"
+    },
+    {
+      "id": "naz7cy",
+      "title": "FAO Food Outlook: Global food commodity market trends face rising geopolitical and weather risks",
+      "title_vi": "Triển vọng Thực phẩm của FAO: Xu hướng thị trường hàng hóa thực phẩm toàn cầu đối mặt với rủi ro thời tiết và địa chính trị ngày càng tăng",
+      "summary_vi": "Ấn bản mới cũng khám phá những tác động của nhiên liệu vận chuyển, mối liên kết giữa thị trường năng lượng-nông nghiệp, thị trường phân bón và hóa đơn nhập khẩu thực phẩm toàn cầu.",
+      "image": "https://www.fao.org/images/newsroomlibraries/default-album/fo_june_2026_web_press_release.jpeg?sfvrsn=58df2067_1",
+      "link": "https://www.fao.org/newsroom/detail/fao-food-outlook--global-food-commodity-market-trends-face-rising-geopolitical-and-weather-risks/en",
+      "source": "Food and Agriculture Organization",
+      "category": "energy",
+      "published": "2026-06-18 19:19"
+    },
+    {
       "id": "dfm3uw",
       "title": "Europe Has Entered The Nuclear Golden Age Amid AI Boom",
       "title_vi": "Châu Âu đã bước vào thời kỳ hoàng kim của hạt nhân trong bối cảnh bùng nổ AI",
@@ -134,10 +178,21 @@
       "published": "2026-06-19 04:16"
     },
     {
+      "id": "1mjxmud",
+      "title": "Option-O Launches the Two-Headed Lagom GDS Grinder",
+      "title_vi": "Option-O ra mắt Máy mài Lagom GDS hai đầu",
+      "summary_vi": "Máy nghiền liều đơn hai đầu mới có tên Lagom GDS — quay hai bộ lưỡi xay riêng biệt — đang gia nhập thị trường thiết bị thương mại nhờ sự hỗ trợ của công ty thiết bị Option-O có trụ sở tại Úc....",
+      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/06/Option-O-Lagom-GDS-3.jpg",
+      "link": "https://dailycoffeenews.com/2026/06/18/option-o-launches-the-two-headed-lagom-gds-grinder/",
+      "source": "Daily Coffee News",
+      "category": "metal",
+      "published": "2026-06-18 21:22"
+    },
+    {
       "id": "yi1eyd",
       "title": "As Hormuz crisis eases, gas prices may drop—other costs like groceries and home goods could stay high for a while",
       "title_vi": "Khi khủng hoảng Hormuz giảm bớt, giá xăng có thể giảm - các chi phí khác như hàng tạp hóa và đồ gia dụng có thể duy trì ở mức cao trong một thời gian",
-      "summary_vi": "Giá dầu đang giảm sau một thỏa thuận dự kiến ​​​​mở lại eo biển Hormuz, nhưng việc cứu trợ rộng rãi hơn khỏi giá cao hơn có thể mất thời gian.",
+      "summary_vi": "Giá dầu đang giảm sau khi có thỏa thuận dự kiến ​​mở lại eo biển Hormuz, nhưng việc cứu trợ rộng rãi hơn khỏi giá cao hơn có thể mất thời gian.",
       "image": "https://image.cnbcfm.com/api/v1/image/107324148-1698376735096-gettyimages-1490883641-dsc03504.jpeg?v=1781617704&w=1920&h=1080",
       "link": "https://www.cnbc.com/2026/06/16/hormuz-crisis-may-be-easingbut-lower-everyday-prices-may-take-longer-to-arrive.html",
       "source": "CNBC",
@@ -156,15 +211,15 @@
       "published": "2026-06-15 20:14"
     },
     {
-      "id": "muvk62",
-      "title": "Tennessee soybean farmers get morale boost from better prices, but future remains ‘daunting’",
-      "title_vi": "Nông dân trồng đậu nành ở Tennessee được nâng cao tinh thần nhờ giá tốt hơn, nhưng tương lai vẫn ‘khó khăn’",
+      "id": "5166ui",
+      "title": "Grain futures trade higher on China rumors and technical buying.",
+      "title_vi": "Hợp đồng tương lai ngũ cốc giao dịch cao hơn nhờ tin đồn và hoạt động mua kỹ thuật của Trung Quốc.",
       "summary_vi": "",
       "image": "",
-      "link": "https://tennesseelookout.com/2026/06/17/tennessee-soybean-farmers-get-morale-boost-from-better-prices-but-future-remains-daunting/",
-      "source": "Tennessee Lookout",
-      "category": "metal",
-      "published": "2026-06-17 17:08"
+      "link": "https://www.cmegroup.com/videos/2026/06/17/grain-futures-trade-higher-on-china-rumors-and-technical-buying-.html",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-06-17 14:00"
     },
     {
       "id": "12gpfpw",
@@ -178,48 +233,81 @@
       "published": "2026-06-15 21:07"
     },
     {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "(Reuters) – Khí đốt tự nhiên chạm đến hầu hết mọi ngóc ngách của nền kinh tế Hoa Kỳ, cung cấp nhiên liệu cho các nhà máy điện, nhà cửa, nhà máy và lĩnh vực xuất khẩu LNG đang bùng nổ. Nhưng nguồn cung cần thiết để đáp ứng tất cả những mục đích sử dụng đó lại đến từ một mảnh đất đá phiến ngày càng hẹp của Mỹ. Sự không phù hợp này giữa một nhóm người tiêu dùng ngày càng mở rộng…",
-      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Flame-1200x810-1.jpg",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
+      "id": "ice0if",
+      "title": "Oil and gas unlikely to return to prewar prices for months even if Hormuz reopens",
+      "title_vi": "Dầu khí khó có thể trở lại mức giá trước chiến tranh trong nhiều tháng ngay cả khi Hormuz mở cửa trở lại",
+      "summary_vi": "Thị trường hoan nghênh thỏa thuận hòa bình Mỹ-Iran nhưng giá có thể vẫn ở mức cao do người mua chạy đua nạp lại kho dự trữ dầu thô khẩn cấp đã cạn kiệt",
+      "image": "https://i.guim.co.uk/img/media/573214b93557214a3fd8849220748a9c203a0f14/764_0_4585_3669/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53bed700900d4280a437cbf36944b3c7",
+      "link": "https://www.theguardian.com/business/2026/jun/15/return-pre-crisis-oil-gas-supplies-months-away-iran-strait-of-hormuz",
+      "source": "The Guardian",
       "category": "energy",
-      "published": "2026-06-16 22:58"
+      "published": "2026-06-15 20:13"
     },
     {
-      "id": "jkwzi2",
-      "title": "Silver Price Predictions 2026: After a 144% Surge, What’s Next?",
-      "title_vi": "Dự đoán giá bạc năm 2026: Sau mức tăng 144%, điều gì tiếp theo?",
-      "summary_vi": "Dự đoán giá bạc năm 2026: Sau mức tăng 144%, điều gì tiếp theo? - Bài viết",
-      "image": "https://goldsilver.com/wp-content/uploads/2021/01/ChatGPT-Image-Dec-18-2025-03_37_59-PM-1.png",
-      "link": "https://goldsilver.com/industry-news/article/silver-price-forecast-predictions/",
-      "source": "GoldSilver",
+      "id": "1eluhev",
+      "title": "JPMorgan's Latest Forecasts Are Bullish for Gold: Buy the Dip",
+      "title_vi": "Dự báo mới nhất của JPMorgan là vàng tăng giá: Mua ở mức thấp",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/jpmorgans-latest-forecasts-bullish-gold-212600054.html",
+      "source": "Yahoo Finance",
       "category": "metal",
-      "published": "2026-06-15 14:00"
+      "published": "2026-06-19 04:26"
     },
     {
       "id": "3g4q3n",
       "title": "USDA Lowers Winter Wheat Forecast as Plains Drought Persists",
       "title_vi": "USDA hạ dự báo lúa mì mùa đông khi hạn hán ở đồng bằng vẫn tiếp diễn",
-      "summary_vi": "(NAFB.com) - USDA đã hạ dự báo về vụ lúa mì mùa đông năm 2026 vào thứ Năm, với lý do căng thẳng hạn hán tiếp tục diễn ra trên các khu vực sản xuất trọng điểm ở Đồng bằng phía Nam. Báo cáo Ước tính Cung và Cầu Nông nghiệp Thế giới tháng 6 dự báo lúa mì mùa đông",
-      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1065/2026/06/15115007/WinterWheat.jpg",
+      "summary_vi": "",
+      "image": "",
       "link": "https://www.newsdakota.com/2026/06/15/usda-lowers-winter-wheat-forecast-as-plains-drought-persists/",
       "source": "News Dakota",
-      "category": "metal",
+      "category": "agri",
       "published": "2026-06-15 18:53"
     },
     {
       "id": "d3n98f",
       "title": "Peru Coffee Report: Production Steady Despite Structural Challenges",
       "title_vi": "Báo cáo Cà phê Peru: Sản lượng ổn định bất chấp những thách thức về cơ cấu",
-      "summary_vi": "",
-      "image": "",
+      "summary_vi": "Sản lượng và xuất khẩu cà phê của Peru được dự báo gần như không thay đổi trong năm 2026/27 do rỉ sét, tín dụng và đường sá hạn chế mức tăng trưởng.",
+      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/06/Peru-art.png",
       "link": "https://dailycoffeenews.com/2026/06/17/peru-coffee-report-production-steady-despite-structural-challenges/",
       "source": "Daily Coffee News by Roast Magazine",
-      "category": "soft",
+      "category": "metal",
       "published": "2026-06-17 20:15"
+    },
+    {
+      "id": "kt8z5m",
+      "title": "Gold slips as hawkish Fed signals lift dollar, boost rate hike bets",
+      "title_vi": "Vàng trượt dốc khi tín hiệu diều hâu của Fed nâng đồng đô la, tăng đặt cược tăng lãi suất",
+      "summary_vi": "Vàng giảm nhẹ do áp lực từ đồng đô la mạnh hơn và lời lẽ diều hâu của Cục Dự trữ Liên bang bù đắp cho sự hỗ trợ từ giá dầu thấp hơn sau thỏa thuận hòa bình Mỹ-Iran.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108283781-1774564627659-gettyimages-2266129945-International_Gold_Price.jpeg?v=1776689017&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/06/18/gold-climbs-over-1percent-as-oil-drops-on-us-iran-interim-deal.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-06-18 11:39"
+    },
+    {
+      "id": "1bcwk42",
+      "title": "Ukrainian military hits Russia's oil infrastructure in Volgograd region, Kyiv says",
+      "title_vi": "Quân đội Ukraine tấn công cơ sở hạ tầng dầu mỏ của Nga ở khu vực Volgograd, Kyiv nói",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/ukrainian-military-hits-russias-oil-infrastructure-volgograd-region-kyiv-says-2026-06-13/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-06-13 17:28"
+    },
+    {
+      "id": "6pxqpx",
+      "title": "What’s next for US copper import tariffs",
+      "title_vi": "Điều gì tiếp theo đối với thuế nhập khẩu đồng của Mỹ",
+      "summary_vi": "Quyết định thuế quan của Mỹ đối với nhập khẩu đồng còn vài tuần nữa",
+      "image": "https://think.ing.com/uploads/hero/_w800h450/shutterstock_2126107319.jpg",
+      "link": "https://think.ing.com/articles/whats-next-for-us-copper-import-tariffs/",
+      "source": "ING THINK economic and financial analysis | ING THINK",
+      "category": "metal",
+      "published": "2026-06-13 02:28"
     },
     {
       "id": "gcaas",
@@ -244,15 +332,26 @@
       "published": "2026-06-19 00:30"
     },
     {
-      "id": "ollk5w",
-      "title": "Why Gas Prices May Not Return To Pre-War Levels Soon",
-      "title_vi": "Tại sao giá xăng có thể không sớm trở lại mức trước chiến tranh",
-      "summary_vi": "Giá khí đốt đang giảm sau thỏa thuận với Iran, nhưng lượng tồn kho thấp, sự chậm trễ của tàu chở dầu và việc bổ sung kho dự trữ có thể giữ giá cao hơn mức trước chiến tranh trong nhiều tháng.",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a32b62c4f2a39242475af07/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "link": "https://www.forbes.com/sites/rrapier/2026/06/17/why-gas-prices-may-not-return-to-pre-war-levels-soon/",
-      "source": "Forbes",
+      "id": "hovdw",
+      "title": "Colorado&#8217;s Bonfire Coffee is Stoked with Big New Roastery",
+      "title_vi": "Cà phê Bonfire của Colorado được bổ sung bởi Big New Roastery",
+      "summary_vi": "Mở ra một con đường thậm chí còn tươi sáng hơn cho cà phê đặc sản ở Rockies, Bonfire Coffee có trụ sở tại Colorado gần đây đã cắt băng khánh thành một cửa hàng bán lẻ và rang xay mới lớn ở khu nghỉ mát hiểm trở...",
+      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/06/Bonfire-Coffee-Colorado-roastery-1.jpg",
+      "link": "https://dailycoffeenews.com/2026/06/17/colorados-bonfire-coffee-is-stoked-with-big-new-roastery/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-06-17 23:09"
+    },
+    {
+      "id": "i5qurv",
+      "title": "Oil prices fall on Iran deal, but whether they go much lower ‘is highly questionable’",
+      "title_vi": "Giá dầu giảm do thỏa thuận Iran, nhưng liệu giá có giảm thấp hơn nhiều hay không 'rất đáng nghi ngờ'",
+      "summary_vi": "Giá dầu thô Mỹ giảm xuống mức thấp nhất kể từ đầu tháng 3, nhưng vẫn tăng 40% kể từ đầu năm.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260615-hormuz-mb-1338-467b60.jpg",
+      "link": "https://www.nbcnews.com/business/markets/oil-prices-iran-deal-hormuz-doubts-rcna350087",
+      "source": "NBC News",
       "category": "energy",
-      "published": "2026-06-17 22:03"
+      "published": "2026-06-16 03:08"
     },
     {
       "id": "15st3za",
@@ -266,15 +365,15 @@
       "published": "2026-06-17 00:09"
     },
     {
-      "id": "1ilmtq1",
-      "title": "Three main issues outstanding for grain futures",
-      "title_vi": "Ba vấn đề chính còn tồn tại đối với hợp đồng tương lai ngũ cốc",
-      "summary_vi": "Triển vọng thị trường phụ thuộc vào xung đột Iran, Trung Quốc",
-      "image": "https://bloximages.newyork1.vip.townnews.com/farmweeknow.com/content/tncms/assets/v3/editorial/8/3e/83e9ac19-c5f4-4a39-b0dd-1289e44a0034/6a2aee1a81233.preview.jpg?crop=900%2C473%2C0%2C363",
-      "link": "https://www.farmweeknow.com/opinion/market_focus/three-main-issues-outstanding-for-grain-futures/article_83e9ac19-c5f4-4a39-b0dd-1289e44a0034.html",
-      "source": "FarmWeekNow",
-      "category": "agri",
-      "published": "2026-06-15 13:00"
+      "id": "muvk62",
+      "title": "Tennessee soybean farmers get morale boost from better prices, but future remains ‘daunting’",
+      "title_vi": "Nông dân trồng đậu nành ở Tennessee được nâng cao tinh thần nhờ giá tốt hơn, nhưng tương lai vẫn ‘khó khăn’",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://tennesseelookout.com/2026/06/17/tennessee-soybean-farmers-get-morale-boost-from-better-prices-but-future-remains-daunting/",
+      "source": "Tennessee Lookout",
+      "category": "metal",
+      "published": "2026-06-17 17:08"
     },
     {
       "id": "16vvqsf",
@@ -288,26 +387,26 @@
       "published": "2026-06-19 03:15"
     },
     {
-      "id": "1pmnuvz",
-      "title": "How Much Lower Can Oil Prices Go on the Iran Peace Deal?",
-      "title_vi": "Giá dầu có thể giảm bao nhiêu nhờ thỏa thuận hòa bình Iran?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://global.morningstar.com/en-ca/markets/how-much-lower-can-oil-prices-go-iran-peace-deal",
-      "source": "Morningstar",
+      "id": "1xxwqjl",
+      "title": "Current price of oil as of June 12, 2026",
+      "title_vi": "Giá dầu hiện nay ngày 12/6/2026",
+      "summary_vi": "Khi giá dầu thay đổi, nó sẽ ảnh hưởng đến chi phí năng lượng của bạn—và thậm chí cả giá của các mặt hàng hàng ngày. Đây là lý do tại sao.",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/Price-of-Oil-June-12.jpg?resize=1200,600",
+      "link": "https://fortune.com/article/price-of-oil-06-12-2026/",
+      "source": "Fortune",
       "category": "energy",
-      "published": "2026-06-17 00:17"
+      "published": "2026-06-12 19:52"
     },
     {
-      "id": "1diqcb4",
-      "title": "Barclays sees gold pullback as ‘reset’, keeps bullish outlook",
-      "title_vi": "Barclays coi sự thoái lui của vàng là 'thiết lập lại', giữ triển vọng tăng giá",
-      "summary_vi": "Theo ngân hàng này, đợt điều chỉnh gần đây không làm thay đổi các động lực chính thúc đẩy thị trường vàng tăng giá.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/AdobeStock_1998442950-scaled-1-1024x576.jpeg",
-      "link": "https://www.mining.com/barclays-sees-gold-pullback-as-reset-keeps-bullish-outlook/",
-      "source": "Mining.com",
+      "id": "1f416er",
+      "title": "Central Bank Gold Reserves Survey 2026",
+      "title_vi": "Khảo sát dự trữ vàng của Ngân hàng Trung ương năm 2026",
+      "summary_vi": "",
+      "image": "https://www.gold.org/sites/default/files/styles/social_image/public/2026-06/34592GettyImages-136254921-web_0.jpg?itok=j4H9wITS",
+      "link": "https://www.gold.org/goldhub/research/central-bank-gold-reserves-survey-2026",
+      "source": "World Gold Council",
       "category": "metal",
-      "published": "2026-06-16 21:46"
+      "published": "2026-06-16 19:00"
     },
     {
       "id": "19vqfsq",
@@ -330,6 +429,127 @@
       "source": "StoneX",
       "category": "soft",
       "published": "2026-06-19 03:18"
+    },
+    {
+      "id": "1dwt3s4",
+      "title": "The Fed just threw investors a curveball. Here’s how stocks, bonds, gold and the dollar reacted.",
+      "title_vi": "Fed vừa ném cho các nhà đầu tư một đường cong. Đây là phản ứng của cổ phiếu, trái phiếu, vàng và đồng đô la.",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.marketwatch.com/story/the-fed-threw-investors-a-curve-ball-on-wednesday-heres-how-stocks-bonds-gold-and-the-dollar-reacted-d0e1e3c0",
+      "source": "MarketWatch",
+      "category": "metal",
+      "published": "2026-06-18 04:25"
+    },
+    {
+      "id": "jt9za2",
+      "title": "Russia’s Oil Output Falls to Lowest in a Year Amid Drone Attacks",
+      "title_vi": "Sản lượng dầu của Nga giảm xuống mức thấp nhất trong một năm trong bối cảnh các cuộc tấn công bằng máy bay không người lái",
+      "summary_vi": "Sản lượng dầu thô của Nga giảm xuống mức thấp nhất trong một năm vào tháng 5 khi Ukraine tiến hành một loạt cuộc tấn công chưa từng có vào cơ sở hạ tầng dầu mỏ của quốc gia.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVO_zvwyLHNw/v1/1200x800.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-11/russia-s-oil-output-falls-to-lowest-in-a-year-amid-drone-attacks",
+      "source": "Bloomberg.com",
+      "category": "energy",
+      "published": "2026-06-12 13:09"
+    },
+    {
+      "id": "v8n5k1",
+      "title": "The Yuan’s Quiet Advance on Commodity Pricing - The Diplomat – Asia-Pacific",
+      "title_vi": "Sự tiến bộ thầm lặng của đồng Nhân dân tệ trong việc định giá hàng hóa - The Diplomat – Asia-Pacific",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://thediplomat.com/2026/06/the-yuans-quiet-advance-on-commodity-pricing/",
+      "source": "The Diplomat – Asia-Pacific",
+      "category": "macro",
+      "published": "2026-06-12 15:43"
+    },
+    {
+      "id": "w2v7c8",
+      "title": "Court Ruling Deals Major Blow to Trump&#039;s War on Wind Power",
+      "title_vi": "Phán quyết của Tòa án giáng đòn lớn vào cuộc chiến về năng lượng gió của Trump",
+      "summary_vi": "Donald Trump đã đấu tranh với các tuabin gió trước tòa án của dư luận và tòa án thực tế trong hơn một thập kỷ nay. Trump đã nhiều lần chỉ trích \"cối xay gió\" trong suốt nhiệm kỳ tổng thống và các chiến dịch tranh cử của ông, gọi công nghệ này là \"thật thảm hại và quá tệ\" trước đây.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_zmmqfkeosw.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Court-Ruling-Deals-Major-Blow-to-Trumps-War-on-Wind-Power.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-19 04:00"
+    },
+    {
+      "id": "1p7z3b8",
+      "title": "Centrus Energy, Oklo sign multi-year nuclear fuel deal",
+      "title_vi": "Centrus Energy, Oklo ký thỏa thuận nhiên liệu hạt nhân kéo dài nhiều năm",
+      "summary_vi": "Centrus cho biết họ sẽ cung cấp HALEU được sản xuất trong nước cho SMR phân hạch nhanh hàng đầu của Oklo – được gọi là Aurora – trong nhiều năm.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/Centrus.jpg",
+      "link": "https://www.mining.com/centrus-energy-oklo-sign-multi-year-nuclear-fuel-deal/",
+      "source": "Mining.com",
+      "category": "energy",
+      "published": "2026-06-18 23:41"
+    },
+    {
+      "id": "139j9sy",
+      "title": "Colombian Police Seize 2.4 Metric Tons of Cocaine in Coffee Pellets",
+      "title_vi": "Cảnh sát Colombia thu giữ 2,4 tấn cocaine trong viên cà phê",
+      "summary_vi": "Chính quyền Colombia cho biết họ đã thu giữ hơn 2,4 tấn cocaine hydrochloride được giấu trong một lô hàng cà phê viên tại cảng Cartagena. Hàng hóa đã được vận chuyển tới...",
+      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/06/alin-luna-t4bpI1lXVH0-unsplash.jpg",
+      "link": "https://dailycoffeenews.com/2026/06/17/colombian-police-seize-2-4-metric-tons-of-cocaine-in-coffee-pellets/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-06-17 21:49"
+    },
+    {
+      "id": "1mlau7d",
+      "title": "Oil prices fall with news of deal, boosting hope gas prices will, too",
+      "title_vi": "Giá dầu giảm trước tin tức về thỏa thuận, thúc đẩy hy vọng giá khí đốt cũng sẽ giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.freep.com/story/news/local/michigan/2026/06/15/oil-deal-iran-gasoline-michigan-prices/90555765007/",
+      "source": "Detroit Free Press",
+      "category": "energy",
+      "published": "2026-06-15 21:32"
+    },
+    {
+      "id": "gykzh7",
+      "title": "Jewelry giant Chow Tai Fook's shares rise 15% as higher gold price boosts profits",
+      "title_vi": "Cổ phiếu của gã khổng lồ trang sức Chow Tai Fook tăng 15% khi giá vàng cao hơn thúc đẩy lợi nhuận",
+      "summary_vi": "Chow Tai Fook tăng vọt sau khi đạt lợi nhuận cao kỷ lục trong năm tài chính gần nhất.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108079595-1735015687681-gettyimages-2018754353-AFP_34HY8B4.jpeg?v=1742555077&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/06/12/chow-tai-fooks-shares-rise-15percent-as-higher-gold-price-boosts-profits.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-06-12 14:49"
+    },
+    {
+      "id": "1ilmtq1",
+      "title": "Three main issues outstanding for grain futures",
+      "title_vi": "Ba vấn đề chính còn tồn tại đối với hợp đồng tương lai ngũ cốc",
+      "summary_vi": "Triển vọng thị trường phụ thuộc vào xung đột Iran, Trung Quốc",
+      "image": "https://bloximages.newyork1.vip.townnews.com/farmweeknow.com/content/tncms/assets/v3/editorial/8/3e/83e9ac19-c5f4-4a39-b0dd-1289e44a0034/6a2aee1a81233.preview.jpg?crop=900%2C473%2C0%2C363",
+      "link": "https://www.farmweeknow.com/opinion/market_focus/three-main-issues-outstanding-for-grain-futures/article_83e9ac19-c5f4-4a39-b0dd-1289e44a0034.html",
+      "source": "FarmWeekNow",
+      "category": "agri",
+      "published": "2026-06-15 13:00"
+    },
+    {
+      "id": "knyyrm",
+      "title": "Midweek Cash Markets | Cotton basis widens",
+      "title_vi": "Thị trường tiền mặt giữa tuần | Cơ sở bông mở rộng",
+      "summary_vi": "Ngày 17 tháng 6 năm 2026",
+      "image": "https://assets.farmjournal.com/dims4/default/e046a3f/2147483647/strip/true/crop/5000x2813+0+379/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2F00%2F9f%2Fd50eb7f447288929a893e0457105%2Fprofarmer-midweek-cash-markets.jpg",
+      "link": "https://www.profarmer.com/pro-farmer-max/midweek-cash-market/midweek-cash-markets-cotton-basis-widens",
+      "source": "Pro Farmer",
+      "category": "soft",
+      "published": "2026-06-18 04:19"
+    },
+    {
+      "id": "13ty7qf",
+      "title": "Natural Gas Futures Lose Ground as Demand Outlook Cools",
+      "title_vi": "Hợp đồng tương lai khí đốt tự nhiên mất điểm khi triển vọng nhu cầu nguội đi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/natural-gas-futures-lose-ground-as-demand-outlook-cools/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-06-18 02:00"
     }
   ]
 }

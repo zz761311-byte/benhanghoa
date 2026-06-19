@@ -87,6 +87,22 @@ function isBlockedSource(src) {
   return BLOCK_SOURCES.some(b => s.includes(b));
 }
 
+// Báo cáo "nghiên cứu thị trường" tự sinh hàng loạt (rỗng, chỉ để bán report) —
+// vd "World ... - Market Analysis, Forecast, Size, Trends and Insights". Dấu hiệu:
+// LIỆT KÊ >=3 từ lóng báo cáo cùng lúc, hoặc có "CAGR"/"Forecast to 20xx".
+// Bài phân tích/dự báo THẬT chỉ có 1–2 từ này → KHÔNG bị chặn.
+function isMarketReportSpam(t) {
+  const s = String(t || "").toLowerCase();
+  if (/\bcagr\b/.test(s)) return true;
+  if (/forecast (to|till|until|period)\b/.test(s)) return true;
+  if (/\bmarket (research )?report\b/.test(s)) return true;
+  const jargon = ["market analysis", "market size", "market share", "forecast", "trend",
+                  "insight", "outlook", "segmentation", "revenue", "growth rate", "industry analysis"];
+  let n = 0;
+  for (const w of jargon) if (s.includes(w)) n++;
+  return n >= 3;
+}
+
 // Lọc tiêu đề "rác" từ Google News (trang báo giá, bảng giá — không phải bài viết)
 function isJunkTitle(t) {
   const s = (t || "").trim();
@@ -99,6 +115,7 @@ function isJunkTitle(t) {
   // Bài "dự báo tự đăng lại" kiểu mẫu (broker làm mới liên tục) — vd LiteFinance:
   if (/for today,?\s*tomorrow/i.test(s)) return true;                          // "...for today, tomorrow, next week"
   if (/(forecast|prediction)[^.]{0,40}\bnext\s+\d+\s+days?/i.test(s)) return true;  // "...forecast ... next 30 days"
+  if (isMarketReportSpam(s)) return true;                                          // báo cáo nghiên cứu thị trường rác
   return false;
 }
 

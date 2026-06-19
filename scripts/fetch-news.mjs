@@ -13,7 +13,7 @@
 // API dịch chính thức hoặc dùng AI dịch + tóm tắt.
 // ============================================================
 
-import { writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -271,7 +271,7 @@ async function main() {
 
   // Dedupe theo tiêu đề VÀ đường link (bắt cả bản sao cùng bài từ nhiều nguồn).
   const seenT = new Set(), seenL = new Set();
-  const unique = raw.filter(it => {
+  const fresh = raw.filter(it => {
     if (!it.title) return false;
     const t = it.title.toLowerCase();
     const l = (it.link || "").trim();
@@ -279,24 +279,37 @@ async function main() {
     if (l && seenL.has(l)) return false;
     seenT.add(t); if (l) seenL.add(l);
     return true;
-  }).slice(0, MAX_TOTAL);
+  });
 
-  // Giải link Google News -> URL bài gốc, rồi lấy đoạn trích + ảnh từ trang gốc.
-  // Chạy song song có giới hạn để không bị nguồn chặn; lỗi thì bỏ qua từng tin.
-  console.log(`→ ${unique.length} tin: giải link Google News & lấy đoạn trích từ trang gốc...`);
-  const enriched = await mapLimit(unique, 6, async (it) => {
+  // GỘP với tin đã có (news.json cũ) → tin KHÔNG "biến mất" khi rớt khỏi feed Google,
+  // và chỉ phải dịch tin MỚI (đỡ gọi API → đỡ bị chặn). Lọc lại tin cũ qua bộ chặn spam.
+  let oldItems = [];
+  try { oldItems = (JSON.parse(await readFile(OUT, "utf8")).items || []); } catch {}
+  oldItems = oldItems.filter(o => o && o.title && !isBlockedSource(o.source) && !isJunkTitle(o.title));
+  const oldTitles = new Set(oldItems.map(o => o.title.toLowerCase()));
+  const oldLinks = new Set(oldItems.map(o => (o.link || "").trim()).filter(Boolean));
+
+  // Chỉ xử lý (giải link + lấy ảnh + dịch) các tin THỰC SỰ MỚI, ưu tiên mới nhất, tối đa MAX_TOTAL.
+  const tsRaw = (it) => { const d = new Date(it.pub); return isNaN(d) ? 0 : d.getTime(); };
+  const toProcess = fresh
+    .filter(it => !oldTitles.has(it.title.toLowerCase()))
+    .sort((a, b) => tsRaw(b) - tsRaw(a))
+    .slice(0, MAX_TOTAL);
+  console.log(`→ ${toProcess.length} tin mới cần xử lý (giữ lại ${oldItems.length} tin cũ)...`);
+  const enriched = await mapLimit(toProcess, 6, async (it) => {
     const link = await resolveGoogleUrl(it.link);
     const og = await fetchOg(link);
     return { it, link, og };
   });
 
-  console.log("→ Đang dịch sang tiếng Việt...");
-  const items = [];
+  console.log("→ Đang dịch tin mới sang tiếng Việt...");
+  const newItems = [];
   for (const { it, link, og } of enriched) {
+    if (link && oldLinks.has(link.trim())) continue; // sau khi giải link mà trùng bài cũ → bỏ
     const desc = it.desc || og.desc || "";
     const title_vi = await translate(it.title);
     const summary_vi = desc ? await translate(desc) : "";
-    items.push({
+    newItems.push({
       id: makeId(link || it.title),
       title: it.title,
       title_vi,
@@ -309,6 +322,14 @@ async function main() {
     });
   }
 
+  // Gộp mới + cũ → bỏ trùng id → SẮP THEO NGÀY MỚI NHẤT → giữ 50 tin gần nhất.
+  const seenId = new Set();
+  const tsOf = (x) => { const d = new Date(String(x.published).replace(" ", "T")); return isNaN(d) ? 0 : d.getTime(); };
+  const items = [...newItems, ...oldItems]
+    .filter(x => { if (seenId.has(x.id)) return false; seenId.add(x.id); return true; })
+    .sort((a, b) => tsOf(b) - tsOf(a))
+    .slice(0, MAX_TOTAL);
+
   const out = {
     updated_at: fmtVN(new Date()),   // giờ Việt Nam, khớp đồng hồ người xem
     items
@@ -316,7 +337,7 @@ async function main() {
 
   await mkdir(dirname(OUT), { recursive: true });
   await writeFile(OUT, JSON.stringify(out, null, 2), "utf8");
-  console.log(`✓ Đã ghi ${items.length} tin vào ${OUT}`);
+  console.log(`✓ Đã ghi ${items.length} tin (${newItems.length} mới) vào ${OUT}`);
 }
 
 main().catch(e => { console.error("✗ Lỗi:", e); process.exit(1); });

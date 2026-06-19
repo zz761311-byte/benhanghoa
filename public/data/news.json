@@ -1,16 +1,27 @@
 {
-  "updated_at": "2026-06-19 06:01",
+  "updated_at": "2026-06-19 07:01",
   "items": [
     {
-      "id": "dfm3uw",
-      "title": "Europe Has Entered The Nuclear Golden Age Amid AI Boom",
-      "title_vi": "Châu Âu đã bước vào thời kỳ hoàng kim của hạt nhân trong bối cảnh bùng nổ AI",
-      "summary_vi": "Năng lượng hạt nhân đang trải qua một sự hồi sinh mạnh mẽ trên khắp châu Âu, với môi trường pháp lý đang thay đổi rõ ràng theo hướng có lợi nhờ nhu cầu điện ngày càng tăng từ sự bùng nổ của trung tâm dữ liệu và AI, các mục tiêu về khí hậu, thị trường năng lượng toàn cầu đầy biến động và nhu cầu cấp thiết về cơ cấu.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_rx26gefi0h.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Europe-Has-Entered-The-Nuclear-Golden-Age-Amid-AI-Boom.html",
+      "id": "mf7rh",
+      "title": "Forget Critical Metals, Electricity is The Real Bottleneck for Artificial Intell",
+      "title_vi": "Hãy quên đi những kim loại quan trọng, điện mới là nút thắt cổ chai thực sự cho trí tuệ nhân tạo",
+      "summary_vi": "Đồng đô la Mỹ đang sụt giảm - và thị trường biết điều đó. Sau nhiều năm dư thừa tiền tệ, thâm hụt ngày càng lớn và chính sách không chắc chắn, đồng tiền dự trữ của thế giới đang mất dần vai trò là phương tiện lưu trữ giá trị. Vốn đang chạy trốn khỏi những lời hứa trên giấy tờ và đổ dồn vào tài sản cứng với tốc độ chưa từng thấy.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_o4o53qid0p.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Forget-Critical-Metals-Electricity-is-The-Real-Bottleneck-for-Artificial-Intell.html",
       "source": "OilPrice",
       "category": "metal",
-      "published": "2026-06-19 06:00"
+      "published": "2026-06-19 07:00"
+    },
+    {
+      "id": "vxdcw5",
+      "title": "Alamos expects lower Q2 output on Young-Davidson mine disruptions",
+      "title_vi": "Alamos dự kiến ​​​​sản lượng quý 2 thấp hơn do gián đoạn khai thác mỏ Young-Davidson",
+      "summary_vi": "Công ty khai thác vàng Canada cho biết hoạt động khai thác mỏ đã trải qua hai đợt địa chấn vào tuần trước.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/2-Young-Davidson-Northgate-shaft-777x437-1.jpeg",
+      "link": "https://www.mining.com/alamos-expects-lower-q2-output-on-young-davidson-mine-disruptions/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-19 05:48"
     },
     {
       "id": "15przng",
@@ -83,7 +94,7 @@
       "title": "June WASDE Leaves Corn, Soybean Outlook Steady as Focus Shifts to Weather",
       "title_vi": "Tháng 6 WASDE để lại triển vọng ổn định về ngô, đậu nành khi trọng tâm chuyển sang thời tiết",
       "summary_vi": "",
-      "image": "",
+      "image": "https://grainnet-com.s3.amazonaws.com/defaults/_1200x630_crop_center-center_82_none/GJ_default_image_1200x630.webp?mtime=1708746861",
       "link": "https://www.grainjournal.com/article/1145252/june-wasde-leaves-corn-soybean-outlook-steady-as-focus-shifts-to-weather",
       "source": "Grain Journal",
       "category": "agri",
@@ -101,21 +112,32 @@
       "published": "2026-06-17 20:49"
     },
     {
-      "id": "gcaas",
-      "title": "First Oil Sands Project in 10 Years Starts Production",
-      "title_vi": "Dự án cát dầu đầu tiên sau 10 năm bắt đầu sản xuất",
-      "summary_vi": "Dự án cát dầu mới đầu tiên ở Alberta kể từ năm 2014 đã bắt đầu sản xuất thương mại, hướng tới sản lượng trung bình hàng ngày là 80.000 thùng khi tăng trưởng. Dự án Blackrod, do Tập đoàn Dầu khí Quốc tế đứng đầu, đã chuyển sang giai đoạn sản xuất đầu tiên bất chấp nhu cầu dầu đạt đỉnh điểm.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_jkcreezanq.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/First-Oil-Sands-Project-in-10-Years-Starts-Production.html",
+      "id": "dfm3uw",
+      "title": "Europe Has Entered The Nuclear Golden Age Amid AI Boom",
+      "title_vi": "Châu Âu đã bước vào thời kỳ hoàng kim của hạt nhân trong bối cảnh bùng nổ AI",
+      "summary_vi": "Năng lượng hạt nhân đang trải qua một sự hồi sinh lớn trên khắp châu Âu, với môi trường pháp lý chuyển dịch rõ ràng theo hướng có lợi nhờ nhu cầu điện ngày càng tăng từ sự bùng nổ của trung tâm dữ liệu và AI, các mục tiêu về khí hậu, thị trường năng lượng toàn cầu đầy biến động và nhu cầu cấp thiết về cơ cấu.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_rx26gefi0h.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Europe-Has-Entered-The-Nuclear-Golden-Age-Amid-AI-Boom.html",
       "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-19 05:00"
+      "category": "metal",
+      "published": "2026-06-19 06:00"
+    },
+    {
+      "id": "dg4zzx",
+      "title": "Trinity Metals doubles US tungsten concentrate supply to 20%",
+      "title_vi": "Trinity Metals tăng gấp đôi nguồn cung vonfram cô đặc của Mỹ lên 20%",
+      "summary_vi": "Công ty cho biết họ có kế hoạch tăng gấp ba sản lượng trong những năm tới.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/DSC_4064-scaled-1-1024x683.jpg",
+      "link": "https://www.mining.com/trinity-metals-doubles-us-tungsten-concentrate-supply-to-20/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-19 04:16"
     },
     {
       "id": "yi1eyd",
       "title": "As Hormuz crisis eases, gas prices may drop—other costs like groceries and home goods could stay high for a while",
-      "title_vi": "Khi cuộc khủng hoảng Hormuz giảm bớt, giá xăng có thể giảm - các chi phí khác như hàng tạp hóa và hàng gia dụng có thể duy trì ở mức cao trong một thời gian",
-      "summary_vi": "Giá dầu đang giảm sau khi có thỏa thuận dự kiến ​​mở lại eo biển Hormuz, nhưng việc cứu trợ rộng rãi hơn khỏi giá cao hơn có thể mất thời gian.",
+      "title_vi": "Khi khủng hoảng Hormuz giảm bớt, giá xăng có thể giảm - các chi phí khác như hàng tạp hóa và đồ gia dụng có thể duy trì ở mức cao trong một thời gian",
+      "summary_vi": "Giá dầu đang giảm sau một thỏa thuận dự kiến ​​​​mở lại eo biển Hormuz, nhưng việc cứu trợ rộng rãi hơn khỏi giá cao hơn có thể mất thời gian.",
       "image": "https://image.cnbcfm.com/api/v1/image/107324148-1698376735096-gettyimages-1490883641-dsc03504.jpeg?v=1781617704&w=1920&h=1080",
       "link": "https://www.cnbc.com/2026/06/16/hormuz-crisis-may-be-easingbut-lower-everyday-prices-may-take-longer-to-arrive.html",
       "source": "CNBC",
@@ -145,15 +167,15 @@
       "published": "2026-06-15 13:00"
     },
     {
-      "id": "16vvqsf",
-      "title": "Coffee Prices Are Heating Up. Is It a Rally or a Trap?",
-      "title_vi": "Giá cà phê đang nóng lên. Đó là một cuộc biểu tình hay một cái bẫy?",
+      "id": "12gpfpw",
+      "title": "JVA Q2 Earnings Decline Y/Y as Lower Coffee Prices Hurt Sales",
+      "title_vi": "Thu nhập quý 2 của JVA giảm so với cùng kỳ do giá cà phê thấp hơn ảnh hưởng đến doanh thu",
       "summary_vi": "",
       "image": "",
-      "link": "https://www.barrons.com/articles/coffee-prices-rise-rally-or-trap-64e72e56",
-      "source": "Barron's",
-      "category": "metal",
-      "published": "2026-06-19 03:15"
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jva-q2-earnings-decline-y-140700336.html",
+      "source": "Yahoo Finance",
+      "category": "soft",
+      "published": "2026-06-15 21:07"
     },
     {
       "id": "ice0if",
@@ -170,23 +192,23 @@
       "id": "1diqcb4",
       "title": "Barclays sees gold pullback as ‘reset’, keeps bullish outlook",
       "title_vi": "Barclays coi sự thoái lui của vàng là 'thiết lập lại', giữ triển vọng tăng giá",
-      "summary_vi": "",
-      "image": "",
+      "summary_vi": "Theo ngân hàng này, đợt điều chỉnh gần đây không làm thay đổi các động lực chính thúc đẩy thị trường vàng tăng giá.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/AdobeStock_1998442950-scaled-1-1024x576.jpeg",
       "link": "https://www.mining.com/barclays-sees-gold-pullback-as-reset-keeps-bullish-outlook/",
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-16 21:46"
     },
     {
-      "id": "1ue4xve",
-      "title": "WASDE Cuts Wheat Stocks While Livestock Outlook Splits - RFD-TV",
-      "title_vi": "WASDE cắt giảm dự trữ lúa mì trong khi triển vọng chăn nuôi bị chia rẽ - RFD-TV",
-      "summary_vi": "Báo cáo cung cấp cho các nhà sản xuất một bảng cân đối kế toán trồng trọt gần như ổn định với những tín hiệu rõ ràng hơn trên thị trường lúa mì và thịt.",
-      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/38d3348/2147483647/strip/true/crop/1920x1078+0+1/resize/730x410!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2F12%2Feb%2Fe60254074536a46c159651fe6aa0%2Fbg-1.png",
-      "link": "https://www.rfdtv.com/wasde-cuts-wheat-stocks-while-livestock-outlook-splits",
-      "source": "RFD-TV",
-      "category": "agri",
-      "published": "2026-06-12 14:00"
+      "id": "3g4q3n",
+      "title": "USDA Lowers Winter Wheat Forecast as Plains Drought Persists",
+      "title_vi": "USDA hạ dự báo lúa mì mùa đông khi hạn hán ở đồng bằng vẫn tiếp diễn",
+      "summary_vi": "(NAFB.com) - USDA đã hạ dự báo về vụ lúa mì mùa đông năm 2026 vào thứ Năm, với lý do căng thẳng hạn hán tiếp tục diễn ra trên các khu vực sản xuất trọng điểm ở Đồng bằng phía Nam. Báo cáo Ước tính Cung và Cầu Nông nghiệp Thế giới tháng 6 dự báo lúa mì mùa đông",
+      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1065/2026/06/15115007/WinterWheat.jpg",
+      "link": "https://www.newsdakota.com/2026/06/15/usda-lowers-winter-wheat-forecast-as-plains-drought-persists/",
+      "source": "News Dakota",
+      "category": "metal",
+      "published": "2026-06-15 18:53"
     },
     {
       "id": "d3n98f",
@@ -200,15 +222,26 @@
       "published": "2026-06-17 20:15"
     },
     {
-      "id": "w2v7c8",
-      "title": "Court Ruling Deals Major Blow to Trump&#039;s War on Wind Power",
-      "title_vi": "Phán quyết của Tòa án giáng đòn lớn vào cuộc chiến về năng lượng gió của Trump",
-      "summary_vi": "Donald Trump đã đấu tranh với các tuabin gió trước tòa án dư luận và tòa án thực tế trong hơn một thập kỷ nay. Trump đã nhiều lần chỉ trích \"cối xay gió\" trong suốt nhiệm kỳ tổng thống và các chiến dịch tranh cử của ông, gọi công nghệ này là \"thật thảm hại và quá tệ\" trước đây.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_zmmqfkeosw.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Court-Ruling-Deals-Major-Blow-to-Trumps-War-on-Wind-Power.html",
+      "id": "gcaas",
+      "title": "First Oil Sands Project in 10 Years Starts Production",
+      "title_vi": "Dự án cát dầu đầu tiên sau 10 năm bắt đầu sản xuất",
+      "summary_vi": "Dự án cát dầu mới đầu tiên ở Alberta kể từ năm 2014 đã bắt đầu sản xuất thương mại, hướng tới sản lượng trung bình hàng ngày là 80.000 thùng khi tăng trưởng. Dự án Blackrod, do Tập đoàn Dầu khí Quốc tế đứng đầu, đã chuyển sang giai đoạn sản xuất đầu tiên bất chấp nhu cầu dầu đạt đỉnh điểm.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_jkcreezanq.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/First-Oil-Sands-Project-in-10-Years-Starts-Production.html",
       "source": "OilPrice",
       "category": "energy",
-      "published": "2026-06-19 04:00"
+      "published": "2026-06-19 05:00"
+    },
+    {
+      "id": "5wqxku",
+      "title": "Mining’s nuclear reality check: SMRs are still not on miners’ shopping lists",
+      "title_vi": "Kiểm tra thực tế hạt nhân của ngành khai thác: SMR vẫn chưa có trong danh sách mua sắm của thợ mỏ",
+      "summary_vi": "Các lò phản ứng mô-đun nhỏ và siêu nhỏ nằm ở vị trí cuối cùng trong kế hoạch sử dụng năng lượng carbon thấp của các thợ mỏ. Điều đó thật đáng chú ý trước sự cường điệu xung quanh SMR, sự hồi sinh hạt nhân do AI thúc đẩy và triển vọng ngày càng lạc quan đối với uranium.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/Minings-nuclear-reality-check-SMRs-are-still-not-on-miners-shopping-lists-1024x576.jpg",
+      "link": "https://www.mining.com/minings-nuclear-reality-check-smrs-are-still-not-on-miners-shopping-lists/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-19 00:30"
     },
     {
       "id": "qbfrph",
@@ -244,15 +277,15 @@
       "published": "2026-06-17 17:08"
     },
     {
-      "id": "12gpfpw",
-      "title": "JVA Q2 Earnings Decline Y/Y as Lower Coffee Prices Hurt Sales",
-      "title_vi": "Thu nhập quý 2 của JVA giảm so với cùng kỳ do giá cà phê thấp hơn ảnh hưởng đến doanh thu",
+      "id": "16vvqsf",
+      "title": "Coffee Prices Are Heating Up. Is It a Rally or a Trap?",
+      "title_vi": "Giá cà phê đang nóng lên. Đó là một cuộc biểu tình hay một cái bẫy?",
       "summary_vi": "",
       "image": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jva-q2-earnings-decline-y-140700336.html",
-      "source": "Yahoo Finance",
-      "category": "soft",
-      "published": "2026-06-15 21:07"
+      "link": "https://www.barrons.com/articles/coffee-prices-rise-rally-or-trap-64e72e56",
+      "source": "Barron's",
+      "category": "metal",
+      "published": "2026-06-19 03:15"
     },
     {
       "id": "1xxwqjl",
@@ -277,59 +310,26 @@
       "published": "2026-06-16 19:00"
     },
     {
-      "id": "3g4q3n",
-      "title": "USDA Lowers Winter Wheat Forecast as Plains Drought Persists",
-      "title_vi": "USDA hạ dự báo lúa mì mùa đông khi hạn hán ở đồng bằng vẫn tiếp diễn",
-      "summary_vi": "(NAFB.com) - USDA đã hạ dự báo về vụ lúa mì mùa đông năm 2026 vào thứ Năm, với lý do căng thẳng hạn hán tiếp tục diễn ra trên các khu vực sản xuất trọng điểm ở Đồng bằng phía Nam. Báo cáo Ước tính Cung và Cầu Nông nghiệp Thế giới tháng 6 dự báo lúa mì mùa đông",
-      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1065/2026/06/15115007/WinterWheat.jpg",
-      "link": "https://www.newsdakota.com/2026/06/15/usda-lowers-winter-wheat-forecast-as-plains-drought-persists/",
-      "source": "News Dakota",
-      "category": "metal",
-      "published": "2026-06-15 18:53"
-    },
-    {
-      "id": "16of9db",
-      "title": "Lower Sugar Output Supports Prices As Imports Rise - RFD-TV",
-      "title_vi": "Sản lượng đường giảm hỗ trợ giá khi nhập khẩu tăng - RFD-TV",
+      "id": "19vqfsq",
+      "title": "June soybean outlook from USDA features small changes",
+      "title_vi": "Triển vọng đậu tương tháng 6 từ USDA có những thay đổi nhỏ",
       "summary_vi": "",
-      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/6c5b267/2147483647/strip/true/crop/5184x2912+0+289/resize/730x410!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc2%2F30%2F6d7a17c94110935b7542c8d4e4f9%2Fcristen-clark-09-30-16-usa-ia-food-swine-033.jpg",
-      "link": "https://www.rfdtv.com/lower-sugar-output-supports-prices-as-imports-rise",
-      "source": "RFD-TV",
+      "image": "",
+      "link": "https://iowaagribusinessradionetwork.com/june-soybean-outlook-from-usda-features-small-changes/",
+      "source": "Iowa Agribusiness Radio Network |",
+      "category": "agri",
+      "published": "2026-06-16 03:44"
+    },
+    {
+      "id": "f7ao2d",
+      "title": "Coffee Markets Enter Correction Phase as Brazil Supply Outlook Weighs on Prices",
+      "title_vi": "Thị trường cà phê bước vào giai đoạn điều chỉnh khi triển vọng nguồn cung Brazil cân nhắc về giá",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-us/insights/coffee-markets-enter-correction-phase-as-brazil-supply-outlook-weighs-on-prices/",
+      "source": "StoneX",
       "category": "soft",
-      "published": "2026-06-15 23:00"
-    },
-    {
-      "id": "eqbjy3",
-      "title": "Germany Considers Extending Oil Reserve Relief Despite Falling Prices",
-      "title_vi": "Đức xem xét gia hạn cứu trợ dự trữ dầu mặc dù giá giảm",
-      "summary_vi": "Đức có thể không hài lòng về việc chấm dứt miễn trừ dự trữ dầu. Berlin cho biết trong tuần này rằng họ đang xem xét gia hạn tạm thời việc giảm yêu cầu dự trữ dầu quốc gia sau thời hạn hiện tại là ngày 31 tháng 8, ngay cả khi các thị trường ăn mừng thỏa thuận Mỹ-Iran và thỏa thuận hạt nhân.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-18_qjf6unj39e.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germany-Considers-Extending-Oil-Reserve-Relief-Despite-Falling-Prices.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-19 03:30"
-    },
-    {
-      "id": "ollk5w",
-      "title": "Why Gas Prices May Not Return To Pre-War Levels Soon",
-      "title_vi": "Tại sao giá xăng có thể không sớm trở lại mức trước chiến tranh",
-      "summary_vi": "Giá khí đốt đang giảm sau thỏa thuận với Iran, nhưng lượng tồn kho thấp, sự chậm trễ của tàu chở dầu và việc bổ sung kho dự trữ có thể giữ giá cao hơn mức trước chiến tranh trong nhiều tháng.",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a32b62c4f2a39242475af07/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "link": "https://www.forbes.com/sites/rrapier/2026/06/17/why-gas-prices-may-not-return-to-pre-war-levels-soon/",
-      "source": "Forbes",
-      "category": "energy",
-      "published": "2026-06-17 22:03"
-    },
-    {
-      "id": "gykzh7",
-      "title": "Jewelry giant Chow Tai Fook's shares rise 15% as higher gold price boosts profits",
-      "title_vi": "Cổ phiếu của gã khổng lồ trang sức Chow Tai Fook tăng 15% khi giá vàng cao hơn thúc đẩy lợi nhuận",
-      "summary_vi": "Chow Tai Fook tăng vọt sau khi đạt lợi nhuận cao kỷ lục trong năm tài chính gần nhất.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108079595-1735015687681-gettyimages-2018754353-AFP_34HY8B4.jpeg?v=1742555077&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/06/12/chow-tai-fooks-shares-rise-15percent-as-higher-gold-price-boosts-profits.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-06-12 14:49"
+      "published": "2026-06-19 03:18"
     }
   ]
 }

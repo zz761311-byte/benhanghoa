@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-19 14:01",
+  "updated_at": "2026-06-19 15:02",
   "items": [
+    {
+      "id": "w5bz0i",
+      "title": "India Isn’t Rushing Back to Middle Eastern Oil Despite Hormuz Reopening",
+      "title_vi": "Ấn Độ không vội quay trở lại dầu mỏ Trung Đông mặc dù Hormuz mở cửa trở lại",
+      "summary_vi": "Các nhà máy lọc dầu Ấn Độ có đủ dầu thô để sử dụng trong hai tháng, vì vậy họ sẽ không phải tranh giành mua hàng hóa Trung Đông dự kiến ​​sẽ sớm được vận chuyển qua eo biển Hormuz đã mở cửa trở lại. Tuy nhiên, theo báo cáo của Bloomberg, các nhà sản xuất Trung Đông đã tiếp cận",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-19_xkqd4pvs09.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Isnt-Rushing-Back-to-Middle-Eastern-Oil-Despite-Hormuz-Reopening.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-19 15:00"
+    },
     {
       "id": "mlkyqv",
       "title": "Oil Prices Rebound as U.S.-Iran Peace Talks Are Postponed",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-19 12:42"
+    },
+    {
+      "id": "w1d5ny",
+      "title": "Gold on track for third weekly loss on firm dollar, hawkish Fed signals",
+      "title_vi": "Vàng đang hướng tới tuần giảm thứ ba do đồng đô la vững vàng, tín hiệu diều hâu của Fed",
+      "summary_vi": "Giá vàng giảm vào thứ Sáu và đang hướng tới tuần giảm thứ ba liên tiếp, do đồng đô la mạnh hơn và các tín hiệu diều hâu từ Cục Dự trữ Liên bang Hoa Kỳ.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108260257-1770053310599-gettyimages-2259048398-20090101260202-99-364526.jpeg?v=1772708596&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/06/19/gold-on-third-weekly-loss-from-firm-dollar-hawkish-fed-signals.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-06-19 10:22"
     },
     {
       "id": "34nyc2",
@@ -198,6 +220,17 @@
       "source": "NBC News",
       "category": "energy",
       "published": "2026-06-19 02:57"
+    },
+    {
+      "id": "1isa2p6",
+      "title": "Wall Street bears back in control after the Fed’s hawkish outlook, Main Street leans bullish despite gold’s backslide to $4,200/oz",
+      "title_vi": "Phố Wall lấy lại quyền kiểm soát sau triển vọng diều hâu của Fed, Phố Chính có xu hướng tăng giá bất chấp sự sụt giảm của vàng xuống còn 4.200 USD/oz",
+      "summary_vi": "(Kitco News) - Giá vàng chứng kiến ​​một tuần đầy biến động khác, do nhu cầu trú ẩn an toàn ban đầu do sự bất ổn ở Trung Đông nhường chỗ cho làn sóng bán tháo mạnh sau khi Cục Dự trữ Liên bang giữ lãi suất ổn định nhưng báo hiệu rằng việc tăng lãi suất vào năm 2026 vẫn còn trên bàn. Vàng giao ngay bắt đầu giao dịch trong tuần ở mức 4.210,52 USD / ounce vào tối Chủ nhật và",
+      "image": "https://image-api.prod.kitco.com/image/419538c3-eb4b-41c8-88b3-768912d607ce.png?top=0.15981657608696&left=0&width=1672&height=940.68036684783&scale_width=1920&token=d476ce826572560491e3e56f878a9527cdf52cddb0ef1e24fd53f2771a128796",
+      "link": "https://www.kitco.com/news/article/2026-06-18/wall-street-bears-back-control-after-feds-hawkish-outlook-main-street-leans",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-06-19 01:54"
     },
     {
       "id": "j53rvu",
@@ -409,6 +442,28 @@
       "published": "2026-06-18 11:39"
     },
     {
+      "id": "quc0aj",
+      "title": "Ukraine launches largest attack on Moscow since start of full-scale war",
+      "title_vi": "Ukraine phát động cuộc tấn công lớn nhất vào Moscow kể từ khi bắt đầu chiến tranh toàn diện",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.cnn.com/2026/06/18/europe/ukraine-strikes-moscow-oil-refinery-intl-hnk",
+      "source": "CNN",
+      "category": "energy",
+      "published": "2026-06-18 11:20"
+    },
+    {
+      "id": "l22deq",
+      "title": "Gold falls 1% after Fed holds rates steady, signals rate hike this year",
+      "title_vi": "Vàng giảm 1% sau khi Fed giữ lãi suất ổn định, tín hiệu tăng lãi suất trong năm nay",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-edges-up-rate-hike-fears-ease-fed-rate-decision-focus-2026-06-17/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-06-18 10:08"
+    },
+    {
       "id": "192nyjc",
       "title": "Gold retreats as Fed signals rate hike ahead, dollar strengthens",
       "title_vi": "Vàng giảm khi Fed phát tín hiệu tăng lãi suất, đồng đô la mạnh lên",
@@ -453,6 +508,17 @@
       "published": "2026-06-18 04:25"
     },
     {
+      "id": "tbtj7g",
+      "title": "Platinum Guild International Reports Resilient Platinum Jewelry Demand Growth in Key Markets in 2025",
+      "title_vi": "Hiệp hội bạch kim quốc tế báo cáo Tăng trưởng nhu cầu trang sức bạch kim linh hoạt ở các thị trường trọng điểm vào năm 2025",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://instoremag.com/platinum-guild-international-reports-resilient-platinum-jewelry-demand-growth-in-key-markets-in-2025/amp/",
+      "source": "instoremag.com",
+      "category": "metal",
+      "published": "2026-06-18 04:23"
+    },
+    {
       "id": "knyyrm",
       "title": "Midweek Cash Markets | Cotton basis widens",
       "title_vi": "Thị trường tiền mặt giữa tuần | Cơ sở bông mở rộng",
@@ -484,72 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-06-18 01:15"
-    },
-    {
-      "id": "2gs44w",
-      "title": "World Sugar Ester Non-Ionic Surfactants - Market Analysis, Forecast, Size, Trends and Insights",
-      "title_vi": "Chất hoạt động bề mặt không ion không chứa đường thế giới - Phân tích thị trường, dự báo, quy mô, xu hướng và thông tin chi tiết",
-      "summary_vi": "Thị trường Chất hoạt động bề mặt không ion hóa Sugar Ester thế giới dự kiến ​​sẽ tăng trưởng với tốc độ CAGR 5,5-7,5% cho đến năm 2035, do nhu cầu nhãn sạch, những thay đổi về quy định và mở rộng công suất ở Châu Á.",
-      "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-sugar-ester-non-ionic-surfactants-market-analysis-forecast-size-trends-and-insights-1781718482.webp",
-      "link": "https://www.indexbox.io/blog/sugar-ester-non-ionic-surfactants-market-demand-to-accelerate-by-2035-on-clean-label-reformulation-and-bio-based-shift/",
-      "source": "IndexBox",
-      "category": "soft",
-      "published": "2026-06-18 00:46"
-    },
-    {
-      "id": "hovdw",
-      "title": "Colorado&#8217;s Bonfire Coffee is Stoked with Big New Roastery",
-      "title_vi": "Cà phê Bonfire của Colorado được bổ sung bởi Big New Roastery",
-      "summary_vi": "Mở ra một con đường thậm chí còn tươi sáng hơn cho cà phê đặc sản ở Rockies, Bonfire Coffee có trụ sở tại Colorado gần đây đã cắt băng khánh thành một cửa hàng bán lẻ và rang xay mới lớn ở khu nghỉ mát hiểm trở...",
-      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/06/Bonfire-Coffee-Colorado-roastery-1.jpg",
-      "link": "https://dailycoffeenews.com/2026/06/17/colorados-bonfire-coffee-is-stoked-with-big-new-roastery/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-06-17 23:09"
-    },
-    {
-      "id": "139j9sy",
-      "title": "Colombian Police Seize 2.4 Metric Tons of Cocaine in Coffee Pellets",
-      "title_vi": "Cảnh sát Colombia thu giữ 2,4 tấn cocaine trong viên cà phê",
-      "summary_vi": "Chính quyền Colombia cho biết họ đã thu giữ hơn 2,4 tấn cocaine hydrochloride được giấu trong một lô hàng cà phê viên tại cảng Cartagena. Hàng hóa đã được vận chuyển tới...",
-      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/06/alin-luna-t4bpI1lXVH0-unsplash.jpg",
-      "link": "https://dailycoffeenews.com/2026/06/17/colombian-police-seize-2-4-metric-tons-of-cocaine-in-coffee-pellets/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-06-17 21:49"
-    },
-    {
-      "id": "geeebc",
-      "title": "Oil's Drop Back Into the $70s Reshapes the Macro Setup for USD/CAD",
-      "title_vi": "Giá dầu quay trở lại mức 70 USD định hình lại thiết lập vĩ mô cho USD/CAD",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en/insights/oil-s-drop-back-into-the-70s-reshapes-the-macro-setup-for-usd-cad/",
-      "source": "StoneX",
-      "category": "energy",
-      "published": "2026-06-17 21:26"
-    },
-    {
-      "id": "1mpi09n",
-      "title": "SJM Stock Outlook Hinges on Uncrustables and Coffee Margins",
-      "title_vi": "Triển vọng cổ phiếu SJM phụ thuộc vào bánh mỳ giòn và lợi nhuận cà phê",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sjm-stock-outlook-hinges-uncrustables-134900350.html",
-      "source": "Yahoo Finance",
-      "category": "soft",
-      "published": "2026-06-17 20:49"
-    },
-    {
-      "id": "d3n98f",
-      "title": "Peru Coffee Report: Production Steady Despite Structural Challenges",
-      "title_vi": "Báo cáo Cà phê Peru: Sản lượng ổn định bất chấp những thách thức về cơ cấu",
-      "summary_vi": "Sản lượng và xuất khẩu cà phê của Peru được dự báo gần như không thay đổi trong năm 2026/27 do rỉ sét, tín dụng và đường sá hạn chế mức tăng trưởng.",
-      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/06/Peru-art.png",
-      "link": "https://dailycoffeenews.com/2026/06/17/peru-coffee-report-production-steady-despite-structural-challenges/",
-      "source": "Daily Coffee News by Roast Magazine",
-      "category": "soft",
-      "published": "2026-06-17 20:15"
     }
   ]
 }

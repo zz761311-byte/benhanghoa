@@ -37,6 +37,12 @@ const FEEDS = [
   { url: "https://news.google.com/rss/search?q=(gold+OR+silver+OR+copper+OR+platinum)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "metal", google: true },
   { url: "https://news.google.com/rss/search?q=(corn+OR+soybean+OR+wheat)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "agri", google: true },
   { url: "https://news.google.com/rss/search?q=(coffee+OR+sugar+OR+cocoa)+(analysis+OR+forecast+OR+outlook)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "soft", google: true },
+  // KIM LOẠI GIAO DỊCH ĐƯỢC Ở VN (bạc / bạch kim / đồng) — feed RIÊNG từng mã.
+  // Vàng chưa được phép đầu tư qua sàn nên KHÔNG gộp vàng vào đây; tách riêng để
+  // 3 mã này có đủ lượng tin, không bị tin vàng (vốn rất nhiều) lấn át.
+  { url: "https://news.google.com/rss/search?q=silver+(price+OR+forecast+OR+outlook+OR+demand+OR+rally+OR+%22industrial+demand%22)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "metal", google: true },
+  { url: "https://news.google.com/rss/search?q=(platinum+OR+palladium)+(price+OR+forecast+OR+outlook+OR+demand+OR+supply)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "metal", google: true },
+  { url: "https://news.google.com/rss/search?q=copper+(price+OR+forecast+OR+outlook+OR+demand+OR+supply+OR+LME)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "metal", google: true },
   // VĨ MÔ / ĐỊA CHÍNH TRỊ / CHÍNH SÁCH TIỀN TỆ — yếu tố ẢNH HƯỞNG GIÁ hàng hóa
   { url: "https://news.google.com/rss/search?q=(Federal+Reserve+OR+interest+rate+OR+inflation+OR+US+dollar)+(commodities+OR+gold+OR+oil)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "macro", google: true },
   { url: "https://news.google.com/rss/search?q=(OPEC+OR+sanctions+OR+%22Middle+East%22+OR+Russia+OR+Ukraine)+(oil+OR+supply+OR+commodity)+when:7d&hl=en-US&gl=US&ceid=US:en", source: "Google News", hint: "energy", google: true },
@@ -86,6 +92,10 @@ function isJunkTitle(t) {
   const s = (t || "").trim();
   if (s.length < 22) return true; // quá ngắn → thường là trang báo giá ("Soybean", "Gold")
   if (/price today|spot price|price chart|live price|price per|prices today|quote|charts?$/i.test(s)) return true;
+  // Trang cập nhật giá theo ngày (vd "Current price of silver as of Tuesday, June 16")
+  if (/^current price of\b/i.test(s)) return true;
+  if (/\bas of \w+day\b/i.test(s)) return true;                 // "...as of Tuesday/Monday..."
+  if (/\boverview$/i.test(s)) return true;                      // "Palladium Overview"
   // Bài "dự báo tự đăng lại" kiểu mẫu (broker làm mới liên tục) — vd LiteFinance:
   if (/for today,?\s*tomorrow/i.test(s)) return true;                          // "...for today, tomorrow, next week"
   if (/(forecast|prediction)[^.]{0,40}\bnext\s+\d+\s+days?/i.test(s)) return true;  // "...forecast ... next 30 days"

@@ -115,10 +115,25 @@ const SUBJECT_RE = Object.entries(SUBJECT_KW).map(([name, kws]) => [
   name,
   kws.map((k) => new RegExp(`\\b${k.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}s?\\b`, "i")),
 ]);
+// Chọn mặt hàng NỔI BẬT NHẤT: khớp ở tiêu đề tính nặng (×3), hòa thì lấy mã xuất
+// hiện SỚM NHẤT trong tiêu đề. Nhờ vậy tin "Bạc tăng khi vàng giảm" → chủ đề là
+// BẠC chứ không bị "vàng" (đứng trước trong danh sách) nuốt mất.
 function detectSubject(it) {
-  const hay = `${it.title || ""} ${it.title_vi || ""} ${it.summary_vi || ""}`;
-  for (const [name, res] of SUBJECT_RE) if (res.some((re) => re.test(hay))) return name;
-  return null;
+  const title = `${it.title || ""} ${it.title_vi || ""}`;
+  const body = `${it.summary_vi || ""}`;
+  let best = null, bestScore = 0, bestPos = Infinity;
+  for (const [name, res] of SUBJECT_RE) {
+    let s = 0, pos = Infinity;
+    for (const re of res) {
+      const m = title.match(re);
+      if (m) { s += 3; if (m.index < pos) pos = m.index; }
+      if (re.test(body)) s += 1;
+    }
+    if (s > bestScore || (s === bestScore && s > 0 && pos < bestPos)) {
+      best = name; bestScore = s; bestPos = pos;
+    }
+  }
+  return best;
 }
 
 // Gom 1 "chùm tin": 1 tin CHÍNH + các tin LIÊN QUAN cùng mặt hàng (hoặc cùng nhóm

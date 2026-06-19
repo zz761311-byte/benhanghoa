@@ -1,5 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
+import LeadCTA from "../../components/LeadCTA.astro";
 import { getCollection } from "astro:content";
 
 const posts = (await getCollection("posts")).sort(
@@ -26,4 +27,5 @@ const CAT = { metal: "Kim loại", energy: "Năng lượng", agri: "Nông sản"
       </div>
     </div>
   </section>
+  <LeadCTA item="giao dịch hàng hóa" />
 </Layout>

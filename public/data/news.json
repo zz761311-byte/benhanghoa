@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19 15:02",
+  "updated_at": "2026-06-19 16:02",
   "items": [
     {
       "id": "w5bz0i",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-19 13:08"
+    },
+    {
+      "id": "19vpevz",
+      "title": "Goldman Sachs Lops $500 Off Gold Target on No Fed Cuts This Year",
+      "title_vi": "Goldman Sachs giảm 500 USD mục tiêu vàng do Fed không cắt giảm trong năm nay",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-19/goldman-sachs-lops-500-off-gold-target-on-no-fed-cuts-this-year",
+      "source": "Bloomberg",
+      "category": "metal",
+      "published": "2026-06-19 13:02"
     },
     {
       "id": "19oy6p2",
@@ -539,17 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-06-18 02:00"
-    },
-    {
-      "id": "5x5477",
-      "title": "Gold price retreats as Fed holds rates, hawkish dots bite",
-      "title_vi": "Giá vàng giảm khi Fed giữ lãi suất, dấu chấm diều hâu",
-      "summary_vi": "Giá vàng (XAU/USD) giảm khi Cục Dự trữ Liên bang (Fed) giữ lãi suất ổn định ở mức 3,50% đến 3,75% vào thứ Tư, trong khi Tóm tắt Dự báo Kinh tế (SEP) cho thấy các nhà hoạch định chính sách kỳ vọng lạm phát sẽ trên ngưỡng 3%. Tại thời điểm viết bài, XAU/USD giao dịch không ổn định trong phạm vi $4,330-$4,280.",
-      "image": "https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_5_Medium.png",
-      "link": "https://www.fxstreet.com/news/gold-price-whipsaws-as-warsh-fed-holds-hawkish-dots-bite-202606171815",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-06-18 01:15"
     }
   ]
 }

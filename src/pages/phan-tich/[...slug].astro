@@ -11,7 +11,7 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await post.render();
 ---
-<Layout page="analysis" title={`${post.data.title} — Bến Hàng Hóa`} description={post.data.summary || post.data.title}>
+<Layout page="analysis" title={`${post.data.title} — Bến Hàng Hóa`} description={post.data.summary || post.data.title} image={post.data.image || ""}>
   <section class="section">
     <div class="container" style="max-width:760px">
       <nav class="breadcrumb">

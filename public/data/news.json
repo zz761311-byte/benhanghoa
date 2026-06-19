@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-19 21:01",
+  "updated_at": "2026-06-19 22:01",
   "items": [
+    {
+      "id": "1umnvb2",
+      "title": "Hormuz Traffic Stalls as U.S.-Iran Talks Collapse",
+      "title_vi": "Giao thông Hormuz bị đình trệ khi các cuộc đàm phán Mỹ-Iran sụp đổ",
+      "summary_vi": "Một ngày sau khi làn sóng vội vã rời khỏi eo biển Hormuz bắt đầu, lưu lượng tàu chở dầu tại điểm thắt cổ chai lại giảm dần khi các chủ hàng rút lui ngay lập tức trong bối cảnh các cuộc đàm phán Mỹ-Iran đã sụp đổ trước khi chúng bắt đầu. Vào sáng thứ Sáu, không có tàu chở dầu nào được quan sát di chuyển ra nước ngoài.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-19_035yvmuqtc.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Traffic-Stalls-as-US-Iran-Talks-Collapse.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-19 21:12"
+    },
     {
       "id": "17dl5w9",
       "title": "Oil Markets Need More Than a Peace Deal to Recover",
@@ -220,6 +231,17 @@
       "source": "Brave New Coin",
       "category": "metal",
       "published": "2026-06-19 06:07"
+    },
+    {
+      "id": "1ugw6hi",
+      "title": "Hedge funds eye top commodity traders amid volatile markets",
+      "title_vi": "Các quỹ phòng hộ để mắt tới các nhà giao dịch hàng hóa hàng đầu trong bối cảnh thị trường đầy biến động",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.fnlondon.com/articles/hedge-funds-eye-top-commodity-traders-amid-volatile-markets-2c00c386",
+      "source": "Financial News London",
+      "category": "macro",
+      "published": "2026-06-19 06:02"
     },
     {
       "id": "dfm3uw",
@@ -528,28 +550,6 @@
       "source": "Finance Magnates",
       "category": "metal",
       "published": "2026-06-18 16:00"
-    },
-    {
-      "id": "jw9z7i",
-      "title": "Sky's the limit for investors seeking some copper action",
-      "title_vi": "Sky là giới hạn cho các nhà đầu tư tìm kiếm một số hành động đồng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/commentary/reuters-open-interest/skys-limit-investors-seeking-some-copper-action-2026-06-18/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-06-18 12:06"
-    },
-    {
-      "id": "quc0aj",
-      "title": "Ukraine launches largest attack on Moscow since start of full-scale war",
-      "title_vi": "Ukraine phát động cuộc tấn công lớn nhất vào Moscow kể từ khi bắt đầu chiến tranh toàn diện",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.cnn.com/2026/06/18/europe/ukraine-strikes-moscow-oil-refinery-intl-hnk",
-      "source": "CNN",
-      "category": "energy",
-      "published": "2026-06-18 11:20"
     }
   ]
 }

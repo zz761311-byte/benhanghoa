@@ -5,14 +5,16 @@ const {
   description = "Cập nhật giá hàng hóa thế giới (năng lượng, nông sản, kim loại) và tin tức ảnh hưởng đến giá, bằng tiếng Việt.",
   page = "",
   noindex = false,
-  image = ""
+  image = "",
+  canonical: canonicalProp = ""
 } = Astro.props;
 
 // URL tuyệt đối cho thẻ chia sẻ (Zalo/Facebook bỏ qua đường dẫn tương đối).
 // `image` (nếu trang truyền vào, vd ảnh bìa bài viết) → ảnh chia sẻ riêng; nếu
 // không có thì dùng logo chung. new URL() tự xử lý cả ảnh tương đối lẫn URL tuyệt đối.
 const ogImage = new URL(image || "/assets/img/logo-badge.png", Astro.site).href;
-const canonical = new URL(Astro.url.pathname, Astro.site).href;
+// `canonicalProp` cho trang động (vd bài tin có ?id=) tự đặt canonical riêng để không trùng.
+const canonical = canonicalProp || new URL(Astro.url.pathname, Astro.site).href;
 
 // Dữ liệu có cấu trúc (JSON-LD) — giúp Google hiểu thương hiệu + hiện logo/brand trong SERP.
 const siteUrl = Astro.site?.href || "https://benhanghoa.com/";

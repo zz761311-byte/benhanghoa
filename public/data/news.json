@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-19 23:25",
+  "updated_at": "2026-06-20 00:01",
   "items": [
+    {
+      "id": "1tmhozb",
+      "title": "Kuwait Says Oil Output Could Hit 2 Million Bpd Within a Week",
+      "title_vi": "Kuwait cho biết sản lượng dầu có thể đạt 2 triệu thùng/ngày trong vòng một tuần",
+      "summary_vi": "Kuwait dự kiến ​​sẽ nâng sản lượng dầu của mình lên 2 triệu thùng/ngày (bpd) trong vòng một tuần, tăng từ mức trung bình 573.000 thùng/ngày trong tháng 5, trong bối cảnh eo biển Hormuz mở cửa trở lại. Ước tính này được đưa ra bởi Sheikh Nawaf Saud Al-Sabah, Phó Chủ tịch kiêm Giám đốc điều hành của Kuwait Petroleum Co.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-19_sgg3s9kaef.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kuwait-Says-Oil-Output-Could-Hit-2-Million-Bpd-Within-a-Week.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-19 23:30"
+    },
     {
       "id": "lfboq2",
       "title": "Why Oil Prices Are Falling Even as Tankers Remain Trapped",
@@ -539,17 +550,6 @@
       "source": "Food and Agriculture Organization",
       "category": "macro",
       "published": "2026-06-18 19:19"
-    },
-    {
-      "id": "1lyy9lw",
-      "title": "Metals gain favor over energy in UBS portfolio allocation shift",
-      "title_vi": "Kim loại được ưu ái hơn năng lượng trong sự thay đổi phân bổ danh mục đầu tư của UBS",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://m.uk.investing.com/news/commodities-news/metals-gain-favor-over-energy-in-ubs-portfolio-allocation-shift-4735214?ampMode",
-      "source": "Investing.com UK",
-      "category": "metal",
-      "published": "2026-06-18 19:07"
     }
   ]
 }

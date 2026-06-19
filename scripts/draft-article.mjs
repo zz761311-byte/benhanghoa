@@ -82,15 +82,17 @@ async function pickNews(items, usedIds, topic) {
     if (subj) {
       const hit = items.filter((it) => ok(it, false) && detectSubject(it) === subj).sort(byNew);
       if (hit.length) { console.log(`🎯 Khớp mặt hàng "${subj}": ${hit.length} tin.`); return hit[0]; }
-      console.log(`⚠️ Hiện không có tin nào về "${subj}" — dùng tin nóng nhất thay thế.`);
     } else {
       // Chủ đề tự do (không phải mặt hàng đã biết): khớp TRỌN TỪ trên nội dung.
       const t = norm(topic).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
       const re = new RegExp(`\\b${t}\\b`, "i");
       const hit = items.filter((it) => ok(it, false) && re.test(norm(`${it.title_vi} ${it.summary_vi} ${it.title}`))).sort(byNew);
       if (hit.length) return hit[0];
-      console.log(`⚠️ Không thấy tin nào khớp chủ đề "${topic}" — dùng tin nóng nhất thay thế.`);
     }
+    // ĐÃ chỉ định chủ đề nhưng KHÔNG có tin phù hợp → DỪNG, không viết lạc sang mặt
+    // hàng khác (đỡ phải xóa bài thừa). Trả null để bỏ qua lần soạn này.
+    console.log(`🛑 Không có tin nào về "${topic}" lúc này — KHÔNG soạn bài (tránh viết lạc chủ đề). Đợi tin cập nhật rồi gõ lại.`);
+    return null;
   }
   // Ưu tiên tin có ảnh; nếu không có thì nới lỏng.
   const withImg = items.filter((it) => ok(it, true)).sort(byNew);

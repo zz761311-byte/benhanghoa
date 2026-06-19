@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-20 00:01",
+  "updated_at": "2026-06-20 01:01",
   "items": [
+    {
+      "id": "1o62kfg",
+      "title": "Russia Is Rationing Fuel in Moscow After Drone Strikes",
+      "title_vi": "Nga đang phân phối nhiên liệu ở Moscow sau cuộc tấn công của máy bay không người lái",
+      "summary_vi": "Nga, một trong những nước sản xuất và xuất khẩu dầu lớn nhất thế giới, hiện đang phân phối xăng tại thủ đô của mình. Sau nhiều tháng các cuộc tấn công ngày càng thành công của máy bay không người lái Ukraine vào cơ sở hạ tầng dầu mỏ của Nga, tình trạng thiếu xăng đã xuất hiện ở Moscow, buộc nhà bán lẻ nhiên liệu lớn phải dừng hoạt động.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-19_vqcjdfjny8.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Is-Rationing-Fuel-in-Moscow-After-Drone-Strikes.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-20 00:30"
+    },
     {
       "id": "1tmhozb",
       "title": "Kuwait Says Oil Output Could Hit 2 Million Bpd Within a Week",
@@ -88,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-19 19:30"
+    },
+    {
+      "id": "1oxup6f",
+      "title": "Broaden commodity exposure",
+      "title_vi": "Mở rộng tiếp xúc hàng hóa",
+      "summary_vi": "Chúng tôi tin rằng các nhà đầu tư nên xem xét mở rộng việc tiếp cận hàng hóa với sự quản lý tích cực. Khả năng tăng giá của vàng có thể bị hạn chế hơn trong những tháng tới và việc phân bổ hàng hóa rộng hơn có thể mang lại tiềm năng sinh lời tốt hơn và giảm thiểu rủi ro. Việc tiếp xúc với năng lượng có thể giúp giảm bớt sự gián đoạn nguồn cung mới, trong khi",
+      "image": "https://www.ubs.com/cioresearch/34/78/06/7/3478067/en/opengraphimage.629.png",
+      "link": "https://www.ubs.com/sg/en/wealthmanagement/insights/marketnews/article.3478067.html",
+      "source": "UBS",
+      "category": "metal",
+      "published": "2026-06-19 18:51"
     },
     {
       "id": "1e7n7vj",
@@ -528,28 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-06-18 20:42"
-    },
-    {
-      "id": "1sx7707",
-      "title": "Permian natural gas production increased faster than crude oil",
-      "title_vi": "Sản lượng khí tự nhiên kỷ Permi tăng nhanh hơn dầu thô",
-      "summary_vi": "Cơ quan Thông tin Năng lượng - EIA - Thống kê Năng lượng Chính thức của Chính phủ Hoa Kỳ",
-      "image": "",
-      "link": "https://www.eia.gov/todayinenergy/detail.php?id",
-      "source": "U.S. Energy Information Administration (EIA) (.gov)",
-      "category": "energy",
-      "published": "2026-06-18 20:04"
-    },
-    {
-      "id": "naz7cy",
-      "title": "FAO Food Outlook: Global food commodity market trends face rising geopolitical and weather risks",
-      "title_vi": "Triển vọng Thực phẩm của FAO: Xu hướng thị trường hàng hóa thực phẩm toàn cầu đối mặt với rủi ro thời tiết và địa chính trị ngày càng tăng",
-      "summary_vi": "Ấn bản mới cũng khám phá những tác động của nhiên liệu vận chuyển, mối liên kết giữa thị trường năng lượng-nông nghiệp, thị trường phân bón và hóa đơn nhập khẩu thực phẩm toàn cầu.",
-      "image": "https://www.fao.org/images/newsroomlibraries/default-album/fo_june_2026_web_press_release.jpeg?sfvrsn=58df2067_1",
-      "link": "https://www.fao.org/newsroom/detail/fao-food-outlook--global-food-commodity-market-trends-face-rising-geopolitical-and-weather-risks/en",
-      "source": "Food and Agriculture Organization",
-      "category": "macro",
-      "published": "2026-06-18 19:19"
     }
   ]
 }

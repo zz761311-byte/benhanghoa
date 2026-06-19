@@ -216,6 +216,7 @@ YÊU CẦU CẤU TRÚC — đúng khung 6 khối, mỗi tiêu đề khối in đ
 
 QUY TẮC BẮT BUỘC:
 - CHỈ dùng thông tin có trong các bản tin trên. TUYỆT ĐỐI KHÔNG bịa số liệu, % hay con số giá không có trong tin.
+- TUYỆT ĐỐI KHÔNG tạo "độ chính xác giả": KHÔNG bịa biên độ/sai số (vd "±0,2%"), KHÔNG bịa khoảng tin cậy hay độ tin cậy, KHÔNG bịa xác suất phần trăm (vd "xác suất 70% giá tăng"), KHÔNG thêm số thập phân lẻ để ra vẻ chính xác. Nếu bản tin không có con số, hãy diễn đạt ĐỊNH TÍNH ("tăng đáng kể", "giảm nhẹ") thay vì chế ra số.
 - TUYỆT ĐỐI KHÔNG đưa khuyến nghị giao dịch: KHÔNG có điểm vào lệnh, KHÔNG "mua/bán ở mức...", KHÔNG chốt lời (take profit), KHÔNG cắt lỗ (stop-loss), KHÔNG giá mục tiêu để hành động. KHÔNG dùng các cụm "Lời khuyên", "khuyến nghị", "nên mua", "nên bán".
 - KHÔNG khẳng định chắc chắn hướng giá ("giá sẽ tăng/giảm về mức X"). Chỉ nói KỊCH BẢN có điều kiện ("nếu... thì có thể...") và rủi ro hai chiều.
 - KHÔNG hứa hẹn lợi nhuận.
@@ -370,6 +371,19 @@ function findForbidden(text) {
   return [...new Set(hits)];
 }
 
+// Quét "độ chính xác bịa" — AI hay tự chế biên độ sai số, khoảng/độ tin cậy, xác
+// suất % mà bản tin gốc không có (vd "biên độ sai số ±0,2%", "xác suất 70%"). Chỉ
+// CẢNH BÁO người duyệt kiểm/xóa, không tự sửa — để tránh xóa nhầm số liệu thật.
+const FAKE_PRECISION_RE = /±\s*\d|biên độ sai số|sai số\s*(là|khoảng|±|:)?\s*\d|khoảng tin cậy|độ tin cậy\s*\d|xác suất\s*(khoảng\s*)?\d{1,3}\s*%|\d{1,3}\s*%\s*(xác suất|khả năng|độ tin cậy)|độ chính xác\s*\d{1,3}\s*%/i;
+function findFakePrecision(text) {
+  const hits = [];
+  for (const line of String(text || "").split("\n")) {
+    const m = line.match(FAKE_PRECISION_RE);
+    if (m) hits.push(m[0].trim());
+  }
+  return [...new Set(hits)];
+}
+
 async function writeDraft(provider, cluster, parsed) {
   const it = cluster.primary;
   const libImg = libraryImage(cluster.subject, it.category);
@@ -392,6 +406,13 @@ async function writeDraft(provider, cluster, parsed) {
     ? `>\n> 🚨 **CẢNH BÁO: bài có ngôn ngữ KHUYẾN NGHỊ giao dịch ("${forbidden.join('", "')}") — PHẢI XÓA/viết lại trước khi đăng** (web chỉ là thông tin tham khảo, không khuyến nghị mua/bán).\n`
     : "";
 
+  // Lưới chặn cuối #2: phát hiện "độ chính xác bịa" (sai số ±, xác suất %, độ tin cậy...).
+  const fakeNum = findFakePrecision(parsed.body || "");
+  if (fakeNum.length) console.log(`⚠️  ${provider}: nghi số bịa độ chính xác (${fakeNum.join(", ")}) — đã gắn cảnh báo trong nháp.`);
+  const fakeNumNote = fakeNum.length
+    ? `>\n> ⚠️ **CẢNH BÁO: nghi có SỐ BỊA độ chính xác ("${fakeNum.join('", "')}") — kiểm lại với bản tin gốc, nếu không có thì XÓA/đổi sang định tính trước khi đăng.**\n`
+    : "";
+
   const md = `---
 title: ${yamlTitle(title)}
 date: ${ymd}T08:00
@@ -408,7 +429,7 @@ ${summaryBlock}
 >
 > 🧩 **Tổng hợp từ ${sources.length} bản tin${cluster.subject ? ` về ${cluster.subject}` : ""}:**
 ${srcList}
-${forbiddenNote}
+${forbiddenNote}${fakeNumNote}
 ${parsed.body || "(AI không trả về nội dung)"}
 `;
 

@@ -90,30 +90,94 @@ async function pickNews(items, usedIds, topic) {
   return noImg[0] || null;
 }
 
+// Nhận diện MẶT HÀNG cụ thể của một tin → để GOM các tin cùng mặt hàng lại,
+// giúp AI tổng hợp nhiều nguồn thay vì chỉ dựa 1 bài (khớp cả tên Anh lẫn Việt).
+const SUBJECT_KW = {
+  "dầu thô":         ["oil", "crude", "brent", "wti", "petroleum", "dầu thô", "dầu"],
+  "khí đốt":         ["natural gas", "lng", "khí đốt", "khí tự nhiên"],
+  "vàng":            ["gold", "bullion", "vàng"],
+  "bạc":             ["silver", "bạc"],
+  "đồng":            ["copper", "đồng đỏ"],
+  "bạch kim":        ["platinum", "palladium", "bạch kim"],
+  "nhôm":            ["aluminum", "aluminium", "nhôm"],
+  "nickel":          ["nickel", "niken"],
+  "thép & quặng sắt":["iron ore", "steel", "rebar", "thép", "quặng sắt"],
+  "cà phê":          ["coffee", "arabica", "robusta", "cà phê"],
+  "đường":           ["sugar", "đường thô"],
+  "ca cao":          ["cocoa", "ca cao"],
+  "bông":            ["cotton", "bông"],
+  "cao su":          ["rubber", "cao su"],
+  "ngô":             ["corn", "maize", "ngô", "bắp"],
+  "đậu tương":       ["soybean", "soy", "đậu tương", "đậu nành"],
+  "lúa mì":          ["wheat", "lúa mì"],
+};
+const SUBJECT_RE = Object.entries(SUBJECT_KW).map(([name, kws]) => [
+  name,
+  kws.map((k) => new RegExp(`\\b${k.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}s?\\b`, "i")),
+]);
+function detectSubject(it) {
+  const hay = `${it.title || ""} ${it.title_vi || ""} ${it.summary_vi || ""}`;
+  for (const [name, res] of SUBJECT_RE) if (res.some((re) => re.test(hay))) return name;
+  return null;
+}
+
+// Gom 1 "chùm tin": 1 tin CHÍNH + các tin LIÊN QUAN cùng mặt hàng (hoặc cùng nhóm
+// hàng nếu không nhận diện được mặt hàng). Để AI có bức tranh tổng thể mà tổng hợp.
+async function pickCluster(items, usedIds, topic) {
+  const primary = await pickNews(items, usedIds, topic);
+  if (!primary) return null;
+  const subject = detectSubject(primary);
+  const byNew = (a, b) => String(b.published).localeCompare(String(a.published));
+  const isRel = (it) => {
+    if (it.id === primary.id) return false;
+    if ((it.summary_vi || "").trim().length < 30) return false;
+    return subject ? detectSubject(it) === subject : it.category === primary.category;
+  };
+  const related = items.filter(isRel).sort(byNew).slice(0, 5);   // tối đa 5 tin liên quan
+  return { primary, related, subject };
+}
+
 // ── Lời nhắc (prompt) gửi cho AI ─────────────────────────────────────────────
 
-function buildPrompt(it, focus) {
+function buildPrompt(cluster, focus) {
+  const { primary: it, related, subject } = cluster;
   const catName = { energy: "Năng lượng", metal: "Kim loại", agri: "Nông sản", soft: "Nguyên liệu công nghiệp" }[it.category] || "Hàng hóa";
   const d = new Date();
   const dateVN = `${String(d.getDate()).padStart(2, "0")}/${String(d.getMonth() + 1).padStart(2, "0")}/${d.getFullYear()}`;
-  return `Bạn là chuyên gia phân tích thị trường hàng hóa, viết cho người Việt trên website "Bến Hàng Hóa".
-Hãy viết MỘT bài phân tích ngắn (khoảng 450–600 từ) bằng TIẾNG VIỆT, dựa trên bản tin dưới đây.
+  const hangLabel = subject ? subject.toUpperCase() : catName;
 
-BẢN TIN GỐC:
+  // Liệt kê các tin liên quan để AI ĐỐI CHIẾU (không chỉ tóm tắt 1 tin).
+  const relatedBlock = related.length
+    ? related.map((r, i) => `  (${i + 1}) ${r.title_vi}\n      ${(r.summary_vi || "").replace(/\s+/g, " ").slice(0, 220)}  — [Nguồn: ${r.source}]`).join("\n")
+    : "  (Không có tin liên quan khác — chỉ phân tích từ bản tin chính bên trên.)";
+
+  return `Bạn là chuyên gia phân tích thị trường hàng hóa, viết cho người Việt trên website "Bến Hàng Hóa".
+Hãy viết MỘT bài phân tích ngắn (khoảng 500–650 từ) bằng TIẾNG VIỆT${subject ? ` về ${subject}` : ""}.
+
+⚠️ QUAN TRỌNG: Đây KHÔNG phải bài tóm tắt một tin. Bạn được cung cấp NHIỀU bản tin
+cùng chủ đề. Hãy TỔNG HỢP chúng lại thành MỘT bức tranh chung — chỉ ra điểm các nguồn
+ĐỒNG THUẬN, điểm TRÁI CHIỀU, và rút ra nhận định tổng thể của riêng bạn. KHÔNG liệt kê
+từng tin một cách rời rạc.
+
+BẢN TIN CHÍNH:
 - Tiêu đề: ${it.title_vi}
 - Nội dung: ${it.summary_vi}
 - Nguồn: ${it.source}
 - Nhóm hàng: ${catName}
 
+CÁC BẢN TIN LIÊN QUAN (cùng chủ đề — dùng để đối chiếu, bổ sung bức tranh tổng thể):
+${relatedBlock}
+
 YÊU CẦU CẤU TRÚC — đúng khung 6 khối, mỗi tiêu đề khối in đậm nằm trên MỘT DÒNG RIÊNG (nội dung xuống dòng dưới):
-1) Một câu chốt mở đầu, bắt đầu bằng dòng in đậm dạng "**📊 NHẬN ĐỊNH [TÊN HÀNG] — ${dateVN}**".
-2) **Chuyện gì vừa xảy ra** — tóm tắt tin.
+1) Một câu chốt mở đầu, bắt đầu bằng dòng in đậm dạng "**📊 NHẬN ĐỊNH ${hangLabel} — ${dateVN}**".
+2) **Bức tranh chung** — TỔNG HỢP diễn biến nổi bật từ các tin trên (nêu được nhiều khía cạnh, không chỉ 1 tin).
 3) **Vì sao quan trọng** — tác động lên cung/cầu/dòng tiền.
-4) **Góc nhìn nhiều chiều** — nêu CẢ mặt tăng VÀ mặt giảm (cân bằng, không một chiều).
+4) **Góc nhìn nhiều chiều** — nêu CẢ mặt tăng VÀ mặt giảm; nếu các nguồn mâu thuẫn nhau thì chỉ rõ.
 5) **Mức cần theo dõi** — chỉ nói ĐỊNH TÍNH (vùng tâm lý, xu hướng). TUYỆT ĐỐI KHÔNG bịa con số giá cụ thể; ghi rõ "cần đối chiếu biểu đồ trực tiếp để xác định mốc chính xác".
 6) **Theo dõi tiếp** — sự kiện sắp tới cần canh.
 
 QUY TẮC BẮT BUỘC:
+- CHỈ dùng thông tin có trong các bản tin trên. TUYỆT ĐỐI KHÔNG bịa số liệu, % hay con số giá không có trong tin.
 - KHÔNG khuyên mua/bán dứt khoát. KHÔNG hứa hẹn lợi nhuận.
 - Kết bài bằng ĐÚNG câu này: "*Bến Hàng Hóa | Thông tin mang tính tham khảo, không phải khuyến nghị đầu tư.*"
 - Giọng chuyên nghiệp, dễ hiểu, không sáo rỗng.
@@ -239,12 +303,17 @@ function parseAI(text) {
 
 // ── Ghi bản nháp ra file ─────────────────────────────────────────────────────
 
-async function writeDraft(provider, it, parsed) {
+async function writeDraft(provider, cluster, parsed) {
+  const it = cluster.primary;
   const { ymd } = todayParts();
   const title = parsed.title || it.title_vi;
   const slug = `${ymd}-${slugify(title)}`;
   const summary = (parsed.summary || it.summary_vi).replace(/\s+/g, " ").trim();
   const summaryBlock = summary.match(/.{1,90}(\s|$)/g)?.map((l) => "  " + l.trim()).join("\n") || "  " + summary;
+
+  // Liệt kê nguồn đã tổng hợp → bạn kiểm chứng được bài dựa trên những tin nào.
+  const sources = [it, ...cluster.related];
+  const srcList = sources.map((s) => `>   • ${s.title_vi} — ${s.source}`).join("\n");
 
   const md = `---
 title: ${yamlTitle(title)}
@@ -259,6 +328,9 @@ ${summaryBlock}
 > ⚠️ **BẢN NHÁP do ${provider} (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào
 > src/content/posts/ để đăng.
+>
+> 🧩 **Tổng hợp từ ${sources.length} bản tin${cluster.subject ? ` về ${cluster.subject}` : ""}:**
+${srcList}
 
 ${parsed.body || "(AI không trả về nội dung)"}
 `;
@@ -292,13 +364,15 @@ async function main() {
 
   const news = JSON.parse(await readFile(NEWS_PATH, "utf8"));
   const usedIds = await loadUsedIds();
-  const it = await pickNews(news.items || [], usedIds, topic);
-  if (!it) { console.log("ℹ️ Không có tin mới phù hợp để viết hôm nay."); return; }
+  const cluster = await pickCluster(news.items || [], usedIds, topic);
+  if (!cluster) { console.log("ℹ️ Không có tin mới phù hợp để viết hôm nay."); return; }
+  const it = cluster.primary;
 
   if (topic) console.log(`🎯 Chủ đề yêu cầu: ${topic}`);
   if (focus) console.log(`⭐ Trọng tâm: ${focus}`);
-  console.log(`📰 Chọn tin: [${it.category}] ${it.title_vi}`);
-  const prompt = buildPrompt(it, focus);
+  console.log(`📰 Tin chính: [${it.category}] ${it.title_vi}`);
+  console.log(`🧩 Tổng hợp thêm ${cluster.related.length} tin liên quan${cluster.subject ? ` về ${cluster.subject}` : ` (cùng nhóm ${it.category})`}.`);
+  const prompt = buildPrompt(cluster, focus);
 
   const providers = [["gemini", callGemini], ["groq", callGroq], ["openrouter", callOpenRouter]];
   const written = [];
@@ -308,7 +382,7 @@ async function main() {
       if (raw == null) { console.log(`⏭️  Bỏ qua ${name} (thiếu chìa khóa).`); continue; }
       const parsed = parseAI(raw);
       if (!parsed.body) { console.log(`⚠️ ${name} trả về sai định dạng — bỏ.`); continue; }
-      const file = await writeDraft(name, it, parsed);
+      const file = await writeDraft(name, cluster, parsed);
       written.push(file);
       console.log(`✅ ${name} → drafts/${file}`);
     } catch (e) {

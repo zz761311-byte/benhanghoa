@@ -12,7 +12,7 @@
 //     (thiếu cái nào thì bỏ qua AI đó, không làm hỏng cả job).
 // ============================================================================
 
-import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir, readdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 
@@ -273,6 +273,14 @@ async function main() {
   if (!existsSync(NEWS_PATH)) { console.log("⚠️ Chưa có news.json — bỏ qua."); return; }
   const topic = (process.env.TOPIC || "").trim();   // chủ đề bạn gõ khi bấm Run workflow
   const focus = (process.env.FOCUS || "").trim();   // trọng tâm bạn muốn nhấn
+
+  // Lần chạy TỰ ĐỘNG (theo lịch): nếu hôm nay đã có nháp thì bỏ qua (tránh 2 slot dự phòng tạo trùng).
+  const { ymd } = todayParts();
+  if (process.env.GITHUB_EVENT_NAME === "schedule" && !topic) {
+    const today = (await readdir(DRAFTS_DIR).catch(() => [])).filter((f) => f.startsWith(ymd) && f.endsWith(".md"));
+    if (today.length) { console.log(`ℹ️ Hôm nay đã có ${today.length} bản nháp — lần chạy theo lịch này bỏ qua.`); return; }
+  }
+
   const news = JSON.parse(await readFile(NEWS_PATH, "utf8"));
   const usedIds = await loadUsedIds();
   const it = await pickNews(news.items || [], usedIds, topic);

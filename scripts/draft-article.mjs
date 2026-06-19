@@ -312,7 +312,11 @@ async function main() {
       written.push(file);
       console.log(`✅ ${name} → drafts/${file}`);
     } catch (e) {
-      console.log(`❌ ${name} lỗi: ${e.message}`);
+      // 429 / hết quota free là chuyện BÌNH THƯỜNG của AI miễn phí — bỏ qua êm,
+      // KHÔNG coi là lỗi (các nhà cung cấp khác vẫn viết được nháp như thường).
+      const hetLuot = /HTTP 429|quota|rate.?limit|hết hạn mức/i.test(e.message);
+      if (hetLuot) console.log(`⏭️  Bỏ qua ${name} (tạm hết lượt free hôm nay) — không sao, AI khác vẫn viết.`);
+      else console.log(`❌ ${name} lỗi: ${e.message}`);
     }
   }
 

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-19 17:01",
+  "updated_at": "2026-06-19 17:06",
   "items": [
+    {
+      "id": "1ygppmd",
+      "title": "Why Freeport-McMoRan (FCX) Remains Central to the Copper Supply Story Despite Grasberg Delays",
+      "title_vi": "Tại sao Freeport-McMoRan (FCX) vẫn là trung tâm của câu chuyện cung cấp đồng bất chấp sự chậm trễ của Grasberg",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-freeport-mcmoran-fcx-remains-095756885.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-06-19 16:57"
+    },
     {
       "id": "o966is",
       "title": "Philippines Seeks Long-Term Oil Supply Deal With Russia",
@@ -438,7 +449,7 @@
       "image": "https://climateimpactcompany.com/wp-content/uploads/2026/06/word-image-134589-4.png",
       "link": "https://climateimpactcompany.com/ag-market-global-weather-climate-alert-southern-brazil-coffee-freeze-risk-back-on-the-table-for-days-6-10-aggressive-hot-and-dry-forecasts-for-europe-rainy-cool-midwest-u-s-2/",
       "source": "Climate Impact Company",
-      "category": "soft",
+      "category": "metal",
       "published": "2026-06-18 17:16"
     },
     {
@@ -539,17 +550,6 @@
       "source": "instoremag.com",
       "category": "metal",
       "published": "2026-06-18 04:23"
-    },
-    {
-      "id": "knyyrm",
-      "title": "Midweek Cash Markets | Cotton basis widens",
-      "title_vi": "Thị trường tiền mặt giữa tuần | Cơ sở bông mở rộng",
-      "summary_vi": "Ngày 17 tháng 6 năm 2026",
-      "image": "https://assets.farmjournal.com/dims4/default/e046a3f/2147483647/strip/true/crop/5000x2813+0+379/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2F00%2F9f%2Fd50eb7f447288929a893e0457105%2Fprofarmer-midweek-cash-markets.jpg",
-      "link": "https://www.profarmer.com/pro-farmer-max/midweek-cash-market/midweek-cash-markets-cotton-basis-widens",
-      "source": "Pro Farmer",
-      "category": "soft",
-      "published": "2026-06-18 04:19"
     }
   ]
 }

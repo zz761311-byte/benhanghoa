@@ -47,13 +47,27 @@ const MAX_PER_FEED = 6;   // số tin lấy mỗi nguồn
 const MAX_TOTAL = 50;     // tổng số tin giữ lại
 
 // --- Keyword -> category (để gắn nhãn màu) ---
-const CATEGORY_RULES = [
-  ["energy", ["oil", "crude", "brent", "wti", "gas", "lng", "opec", "fuel", "diesel", "gasoline"]],
-  ["metal",  ["gold", "silver", "copper", "platinum", "iron ore", "aluminum", "aluminium", "zinc", "nickel", "lead", "tin", "lme", "metal"]],
-  ["soft",   ["coffee", "sugar", "cocoa", "cotton", "rubber", "arabica", "robusta"]],
-  ["agri",   ["corn", "soybean", "soy", "wheat", "grain", "crop", "harvest", "planting"]],
-  ["macro",  ["fed", "inflation", "dollar", "rate", "cpi", "economy", "gdp"]]
-];
+// Khớp TRỌN TỪ (word-boundary) để tránh bắt nhầm chuỗi con:
+//   "golden" KHÔNG còn bị tính là "gold", "continue" không bị tính là "tin",
+//   "leading" không bị tính là "lead", "gasoline" không bị tính là "gas".
+const CATEGORY_KW = {
+  energy: ["oil", "crude", "brent", "wti", "gas", "natural gas", "lng", "opec", "fuel", "diesel", "gasoline",
+           "nuclear", "uranium", "electricity", "power grid", "petroleum", "refinery"],
+  metal:  ["gold", "silver", "copper", "platinum", "palladium", "iron ore", "aluminum", "aluminium",
+           "zinc", "nickel", "lead", "tin", "lme", "steel", "bullion", "metal"],
+  soft:   ["coffee", "sugar", "cocoa", "cotton", "rubber", "arabica", "robusta"],
+  agri:   ["corn", "soybean", "soy", "wheat", "grain", "crop", "harvest", "planting", "livestock", "cattle", "hog"],
+  macro:  ["federal reserve", "fed", "inflation", "dollar", "interest rate", "rate hike", "cpi", "gdp", "tariff", "trade war"],
+};
+// 4 nhóm HÀNG HÓA cụ thể được ưu tiên hơn "macro" (macro chỉ là phương án chót).
+const PRODUCT_CATS = ["energy", "metal", "soft", "agri"];
+// Biên dịch sẵn regex \btừ-khóas?\b (cho phép số nhiều: metals, oils, futures...).
+const CATEGORY_RE = Object.fromEntries(
+  Object.entries(CATEGORY_KW).map(([cat, kws]) => [
+    cat,
+    kws.map((kw) => new RegExp(`\\b${kw.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}s?\\b`, "i")),
+  ])
+);
 
 // Nguồn "dự báo tự đăng lại" (broker tự làm mới bài liên tục, lặp & ít giá trị) — chặn hẳn.
 const BLOCK_SOURCES = ["litefinance", "liteforex", "litemarkets"];
@@ -73,11 +87,29 @@ function isJunkTitle(t) {
   return false;
 }
 
-function categorize(text, hint) {
-  const t = (text || "").toLowerCase();
-  for (const [cat, kws] of CATEGORY_RULES) {
-    if (kws.some(k => t.includes(k))) return cat;
+function countHits(text, res) {
+  let n = 0;
+  for (const re of res) if (re.test(text)) n++;
+  return n;
+}
+
+// Phân loại theo ĐIỂM: từ khóa trong TIÊU ĐỀ nặng gấp 3 lần mô tả (chủ đề bài
+// nằm ở tiêu đề). Ưu tiên 4 nhóm hàng hóa cụ thể; chỉ rơi về "macro" khi không
+// khớp hàng hóa nào. `hint` (gợi ý từ nguồn / nhãn cũ) là chốt chặn cuối cùng,
+// nên tin cũ không bị phân loại sai khi tiêu đề không có từ khóa rõ ràng.
+function categorize(title, desc, hint) {
+  const t = (title || "").toLowerCase();
+  const d = (desc || "").toLowerCase();
+  const score = {};
+  for (const cat of Object.keys(CATEGORY_KW)) {
+    score[cat] = countHits(t, CATEGORY_RE[cat]) * 3 + countHits(d, CATEGORY_RE[cat]);
   }
+  let best = null, bestScore = 0;
+  for (const cat of PRODUCT_CATS) {       // ưu tiên hàng hóa cụ thể, hòa điểm thì lấy nhóm đứng trước
+    if (score[cat] > bestScore) { best = cat; bestScore = score[cat]; }
+  }
+  if (best) return best;
+  if (score.macro > 0) return "macro";
   return hint || "macro";
 }
 
@@ -286,6 +318,9 @@ async function main() {
   let oldItems = [];
   try { oldItems = (JSON.parse(await readFile(OUT, "utf8")).items || []); } catch {}
   oldItems = oldItems.filter(o => o && o.title && !isBlockedSource(o.source) && !isJunkTitle(o.title));
+  // Phân loại LẠI tin cũ theo luật mới (sửa nhãn sai đã lỡ lưu). Truyền category cũ
+  // làm `hint` → tin nào tiêu đề không có từ khóa rõ thì GIỮ nguyên nhãn cũ, không phá.
+  oldItems = oldItems.map(o => ({ ...o, category: categorize(o.title, o.summary_vi || "", o.category) }));
   const oldTitles = new Set(oldItems.map(o => o.title.toLowerCase()));
   const oldLinks = new Set(oldItems.map(o => (o.link || "").trim()).filter(Boolean));
 
@@ -317,7 +352,7 @@ async function main() {
       image: og.image || "",
       link,
       source: it.source,
-      category: categorize(it.title + " " + desc, it.hint),
+      category: categorize(it.title, desc, it.hint),
       published: fmtDate(it.pub)
     });
   }

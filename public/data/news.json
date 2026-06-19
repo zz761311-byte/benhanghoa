@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-19 20:01",
+  "updated_at": "2026-06-19 20:52",
   "items": [
+    {
+      "id": "19mg7uh",
+      "title": "Beijing Steps Up Scrutiny of Indium Exports as AI Chip Demand Soars",
+      "title_vi": "Bắc Kinh tăng cường giám sát xuất khẩu Indium khi nhu cầu chip AI tăng vọt",
+      "summary_vi": "Trung Quốc đã bắt đầu xem xét kỹ lưỡng hơn việc xuất khẩu indium, nguyên tố then chốt để sản xuất chip tốc độ cao cho các trung tâm dữ liệu AI, làm dấy lên lo ngại rằng việc hạn chế xuất khẩu có thể xảy ra như Bắc Kinh đã làm với các khoáng sản quan trọng khác. Indium, một kim loại màu trắng bạc được đặt tên theo nó",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-19_rzatcxgqyz.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Beijing-Steps-Up-Scrutiny-of-Indium-Exports-as-AI-Chip-Demand-Soars.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-06-19 20:30"
+    },
     {
       "id": "9og50a",
       "title": "India Receives First Post-Deal LNG Cargo Through Strait Of Hormuz",
@@ -44,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-19 18:30"
+    },
+    {
+      "id": "oio3xf",
+      "title": "St Barbara&#8217;s 100,000 oz Nova Scotia gold hub gets green light",
+      "title_vi": "Trung tâm vàng Nova Scotia 100.000 oz ở St Barbara được bật đèn xanh",
+      "summary_vi": "Dự án được thiết kế lại bước vào giai đoạn tham vấn cộng đồng với kế hoạch sản xuất vàng trong 11 năm và mang lại lợi ích kinh tế lớn.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/Existing-historic-15-Mile-project-site.png",
+      "link": "https://www.mining.com/st-barbaras-100000-oz-nova-scotia-gold-hub-gets-green-light/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-19 17:49"
     },
     {
       "id": "1mx4ob",
@@ -154,17 +176,6 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-06-19 10:22"
-    },
-    {
-      "id": "34nyc2",
-      "title": "Gold heads for third weekly loss on firm dollar, hawkish Fed signals",
-      "title_vi": "Vàng hướng tới tuần giảm thứ ba do đồng đô la vững vàng, tín hiệu diều hâu của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-track-third-weekly-loss-firm-dollar-hawkish-fed-signals-2026-06-19/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-06-19 08:13"
     },
     {
       "id": "tf7wrj",
@@ -539,17 +550,6 @@
       "source": "MSN",
       "category": "metal",
       "published": "2026-06-18 06:47"
-    },
-    {
-      "id": "1tkdi6d",
-      "title": "U.S. stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - Pittsburgh Post-Gazette",
-      "title_vi": "Chứng khoán Mỹ chìm trong lo ngại về việc Cục Dự trữ Liên bang có thể tăng lãi suất trong năm nay - Pittsburgh Post-Gazette",
-      "summary_vi": "NEW YORK - Chứng khoán Mỹ sụt giảm hôm thứ Tư do suy đoán Cục Dự trữ Liên bang có thể tăng lãi suất trong năm nay để kiềm chế lạm phát. Cao hơn...",
-      "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202606170034/1140x_a10-7_cTC/Financial-Markets-Wall-Street-2446_1781704644.jpg",
-      "link": "https://www.post-gazette.com/business/money/2026/06/17/stock-market-today-june-17-2026/stories/202606170034",
-      "source": "Pittsburgh Post-Gazette",
-      "category": "macro",
-      "published": "2026-06-18 05:07"
     }
   ]
 }

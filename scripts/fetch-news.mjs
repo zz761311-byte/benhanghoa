@@ -373,6 +373,39 @@ function fmtDate(s) {
   return fmtVN(d);
 }
 
+// --- Lọc tin GẦN TRÙNG (cùng sự kiện, khác nguồn/cách giật tít) ---
+// Dùng độ tương đồng Jaccard trên tập từ khóa của tiêu đề (cả Anh lẫn Việt).
+// Ngưỡng đặt CAO (0.40) một cách có chủ đích: dữ liệu thật cho thấy tin trùng và
+// tin chỉ "liên quan" có điểm sát nhau → hạ thấp sẽ giấu nhầm tin khác nhau.
+// Thà thỉnh thoảng còn 1 cặp gần giống, hơn là xóa nhầm tin thật.
+const DEDUP_STOP = new Set("the a an of to in on for and or as at by is are be with from over after amid into vs về của và là một những các đã sẽ khi do bị được cho giá".split(/\s+/));
+function dedupTokens(s) {
+  return String(s || "").toLowerCase()
+    .replace(/[-–—|].*$/, "")                 // bỏ đuôi sau dấu gạch/sổ (thường là tên nguồn)
+    .replace(/[^a-z0-9à-ỹ\s]/gi, " ")
+    .split(/\s+/).filter(w => w.length > 2 && !DEDUP_STOP.has(w));
+}
+function jaccard(a, b) {
+  const A = new Set(a), B = new Set(b);
+  if (!A.size || !B.size) return 0;
+  let inter = 0; for (const x of A) if (B.has(x)) inter++;
+  return inter / (A.size + B.size - inter);
+}
+const DEDUP_T = 0.40;
+function dropNearDuplicates(list) {
+  const kept = [], out = [];
+  for (const it of list) {
+    const te = dedupTokens(it.title), tv = dedupTokens(it.title_vi);
+    let dup = false;
+    for (const k of kept) {
+      if (k.category !== it.category) continue;   // chỉ gộp trong cùng nhóm hàng (an toàn thêm)
+      if (Math.max(jaccard(te, k.te), jaccard(tv, k.tv)) >= DEDUP_T) { dup = true; break; }
+    }
+    if (!dup) { kept.push({ category: it.category, te, tv }); out.push(it); }
+  }
+  return out;
+}
+
 async function main() {
   console.log("→ Đang lấy tin từ", FEEDS.length, "nguồn...");
   const perFeed = await Promise.all(FEEDS.map(fetchFeed));
@@ -451,9 +484,12 @@ async function main() {
   const seenId = new Set();
   let goldKept = 0;
   const tsOf = (x) => { const d = new Date(String(x.published).replace(" ", "T")); return isNaN(d) ? 0 : d.getTime(); };
-  const items = [...newItems, ...oldItems]
+  const byId = [...newItems, ...oldItems]
     .filter(x => { if (seenId.has(x.id)) return false; seenId.add(x.id); return true; })
-    .sort((a, b) => tsOf(b) - tsOf(a))
+    .sort((a, b) => tsOf(b) - tsOf(a));            // mới nhất trước → giữ bản mới nhất của cặp trùng
+  const deduped = dropNearDuplicates(byId);        // gộp tin gần trùng (cùng sự kiện, khác nguồn)
+  if (deduped.length < byId.length) console.log(`→ Gộp ${byId.length - deduped.length} tin gần trùng (cùng sự kiện).`);
+  const items = deduped
     .filter(x => { if (isGold(x)) { if (goldKept >= MAX_GOLD) return false; goldKept++; } return true; })  // giới hạn cứng tin vàng
     .slice(0, MAX_TOTAL);
 

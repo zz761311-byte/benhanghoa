@@ -70,7 +70,7 @@ a:hover { color: var(--accent); }
 .nav-toggle { display: none; background: none; border: 0; color: var(--text); font-size: 26px; cursor: pointer; }
 
 /* ---------- Ticker tape host ---------- */
-.ticker-host { border-bottom: 1px solid var(--line); background: var(--bg-2); position: relative; }
+.ticker-host { border-bottom: 1px solid var(--line); background: var(--bg-2); position: relative; min-height: 46px; }
 /* Lớp che thanh ticker — chặn click nhảy sang TradingView */
 .ticker-link { position: absolute; inset: 0; z-index: 3; display: block; }
 a.ticker-link { cursor: pointer; }
@@ -123,6 +123,7 @@ a.ticker-link { cursor: pointer; }
 }
 .mini-quote { min-height: 132px; position: relative; }
 .mini-quote .tradingview-widget-container { height: 100%; }
+#featured-grid { min-height: 280px; }   /* giữ chỗ trước khi JS chèn 8 mini-chart → bớt CLS */
 /* Lớp link phủ kín ô — chặn click nhảy sang TradingView, dẫn về trang nội bộ */
 .mini-link { position: absolute; inset: 0; z-index: 3; display: block; cursor: pointer; }
 
@@ -204,6 +205,7 @@ a.ticker-link { cursor: pointer; }
 .news-feat-body .news-summary { margin: 0; }
 
 .news-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+#home-news { min-height: 220px; }       /* giữ chỗ "Tin mới nhất" trước khi JS tải → bớt CLS */
 .news-card {
   display: grid; grid-template-columns: 96px 1fr;
   background: var(--bg-2); border: 1px solid var(--line);
@@ -427,6 +429,7 @@ a.ticker-link { cursor: pointer; }
 .hero-showcase { padding: 22px 0 4px; }
 .hero-showcase .hero-img {
   width: 100%; height: auto; display: block;
+  aspect-ratio: 1920 / 731;            /* giữ chỗ theo tỉ lệ ảnh thật → không nhảy layout khi ảnh tải */
   border-radius: 16px; border: 1px solid var(--line);
   box-shadow: 0 14px 50px rgba(0,0,0,.45);
 }

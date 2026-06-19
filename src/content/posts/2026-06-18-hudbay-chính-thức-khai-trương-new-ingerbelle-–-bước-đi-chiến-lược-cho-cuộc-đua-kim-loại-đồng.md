@@ -3,6 +3,7 @@ title: Hudbay chính thức khai trương New Ingerbelle – Bước đi chiến
   cuộc đua kim loại Đồng
 date: 2026-06-18T09:49
 category: metal
+image: /assets/fanpage/kim-loai-2.jpg
 summary: Hudbay khởi công mở rộng New Ingerbelle, kéo dài tuổi thọ mỏ Copper
   Mountain sau 2040 với chi phí tối ưu, cung cấp nguồn đồng/vàng/bạc dồi dào,
   tạo 800 việc làm – chiến lược đúng đắn cho kỷ nguyên năng lượng sạch.

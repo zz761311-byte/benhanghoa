@@ -3,6 +3,7 @@ title: "Phân tích thị trường cà phê tháng 5/2026: Cơn lốc điều c
   điểm neo giá"
 date: 2026-06-18T10:10
 category: agri
+image: /assets/fanpage/nguyen-lieu-1.jpg
 summary: Cà phê sắp đổ bộ ồ ạt từ Brazil và Việt Nam, giá có thể lao dốc nếu
   USDA xác nhận bội thu. Nhưng mốc 260 cent vẫn đang níu kéo – tôi chờ tin nóng
   rồi mới quyết định.

@@ -2,6 +2,7 @@
 title: 🔥 BẠC ĐANG Ở ĐÁY CHU KỲ — HAY CÒN GIẢM TIẾP?
 date: 2026-06-17T16:29
 category: metal
+image: /assets/fanpage/kim-loai-1.jpg
 summary: >-
   📊 BẠC (XAG/USD) — 17/06/2026
 

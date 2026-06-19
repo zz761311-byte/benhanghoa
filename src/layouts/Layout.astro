@@ -3,7 +3,8 @@ import { CONTACT } from "../data/contact.mjs";
 const {
   title = "Bến Hàng Hóa — Giá hàng hóa & tin tức cho người Việt",
   description = "Cập nhật giá hàng hóa thế giới (năng lượng, nông sản, kim loại) và tin tức ảnh hưởng đến giá, bằng tiếng Việt.",
-  page = ""
+  page = "",
+  noindex = false
 } = Astro.props;
 
 // URL tuyệt đối cho thẻ chia sẻ (Zalo/Facebook bỏ qua đường dẫn tương đối).
@@ -27,6 +28,7 @@ const links = [
   <title>{title}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonical} />
+  {noindex && <meta name="robots" content="noindex, follow" />}
   <meta property="og:site_name" content="Bến Hàng Hóa" />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />

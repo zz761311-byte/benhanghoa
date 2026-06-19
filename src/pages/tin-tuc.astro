@@ -1,16 +1,95 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import LeadCTA from "../components/LeadCTA.astro";
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
+
+// ── Đọc news.json TẠI BUILD → in sẵn tin ra HTML để Google index được ──────────
+// Trước đây trang tin render 100% bằng JS nên bot chỉ thấy "Đang tải tin…".
+// Giờ HTML đã có nội dung tin (tiêu đề/tóm tắt/nguồn) ngay từ build; <script> bên
+// dưới vẫn tự làm mới bằng dữ liệu live cho người dùng (freshness không đổi).
+const CAT_LABEL = { metal: "Kim loại", energy: "Năng lượng", agri: "Nông sản", soft: "Nguyên liệu", macro: "Vĩ mô" };
+const CAT_ICON = { metal: "🪙", energy: "🛢️", agri: "🌾", soft: "☕", macro: "🌐" };
+const catLabel = (c) => CAT_LABEL[c] || "Hàng hóa";
+const catIcon = (c) => CAT_ICON[c] || "📦";
+const catKey = (c) => (CAT_ICON[c] ? c : "macro");
+const readHref = (n) => "/tin-tuc/doc/?id=" + (n.id || "");
+const fmtDate = (s) => {
+  const d = new Date(String(s || "").replace(" ", "T"));
+  if (isNaN(d.getTime())) return "";
+  const p = (x) => String(x).padStart(2, "0");
+  return `${p(d.getDate())}/${p(d.getMonth() + 1)}/${d.getFullYear()}`;
+};
+
+let items = [];
+let updatedAt = "";
+try {
+  const raw = JSON.parse(readFileSync(join(process.cwd(), "public", "data", "news.json"), "utf8"));
+  updatedAt = raw.updated_at || "";
+  const ts = (x) => new Date(String(x.published || "").replace(" ", "T")).getTime() || 0;
+  items = (raw.items || []).slice().sort((a, b) => ts(b) - ts(a));
+} catch (e) {}
+
+const cats = ["all", ...new Set(items.map((i) => i.category).filter(Boolean))];
+const featured = items[0];
+const rest = items.slice(1);
 ---
 <Layout page="news" title="Tin tức hàng hóa — Bến Hàng Hóa" description="Tin tức thế giới ảnh hưởng đến giá hàng hóa, dịch sang tiếng Việt.">
   <section class="section">
     <div class="container">
       <div class="section-head">
         <h2>📰 Tin tức hàng hóa</h2>
-        <span id="news-updated" style="color:var(--muted);font-size:13px"></span>
+        <span id="news-updated" style="color:var(--muted);font-size:13px">{updatedAt ? "Cập nhật lúc: " + updatedAt : ""}</span>
       </div>
-      <div id="news-filter" class="cta" style="margin-bottom:18px;flex-wrap:wrap"></div>
-      <div id="news-list" class="news-list"><div class="empty-note">⏳ Đang tải tin tức…</div></div>
+      <div id="news-filter" class="cta" style="margin-bottom:18px;flex-wrap:wrap">
+        {cats.map((c, i) => (
+          <button class={`btn ${i === 0 ? "btn-primary" : "btn-ghost"}`} data-cat={c}>{c === "all" ? "Tất cả" : catLabel(c)}</button>
+        ))}
+      </div>
+      <div id="news-list" class="news-list">
+        {featured ? (
+          <Fragment>
+            <article class="news-feat">
+              <a class={`news-feat-thumb thumb-${catKey(featured.category)}`} href={readHref(featured)} aria-label={featured.title_vi || featured.title}>
+                <span class="news-feat-icon">{catIcon(featured.category)}</span>
+                {featured.image && <img class="news-feat-img" src={featured.image} alt="" loading="lazy" onerror="this.remove()" />}
+              </a>
+              <div class="news-feat-body">
+                <span class={`tag ${featured.category || ""}`}>{catLabel(featured.category)}</span>
+                <h3><a href={readHref(featured)}>{featured.title_vi || featured.title}</a></h3>
+                {featured.summary_vi && <p class="news-summary">{featured.summary_vi}</p>}
+                <div class="news-meta">
+                  <span>{featured.source || ""}</span>
+                  <span class="news-time">🕒 {fmtDate(featured.published)}</span>
+                </div>
+              </div>
+            </article>
+            {rest.length > 0 && (
+              <div class="news-grid">
+                {rest.map((n) => (
+                  <article class="news-card">
+                    <a class={`news-card-thumb thumb-${catKey(n.category)}`} href={readHref(n)} aria-label={n.title_vi || n.title}>
+                      <span class="news-card-icon">{catIcon(n.category)}</span>
+                      {n.image && <img class="news-card-img" src={n.image} alt="" loading="lazy" onerror="this.remove()" />}
+                    </a>
+                    <div class="news-card-body">
+                      <span class={`tag ${n.category || ""}`}>{catLabel(n.category)}</span>
+                      <h3><a href={readHref(n)}>{n.title_vi || n.title}</a></h3>
+                      {n.summary_vi && <p class="news-summary clamp-2">{n.summary_vi}</p>}
+                      <div class="news-meta">
+                        <span>{n.source || ""}</span>
+                        <span class="news-time">🕒 {fmtDate(n.published)}</span>
+                      </div>
+                    </div>
+                  </article>
+                ))}
+              </div>
+            )}
+          </Fragment>
+        ) : (
+          <div class="empty-note">⏳ Đang tải tin tức…</div>
+        )}
+      </div>
     </div>
   </section>
 
@@ -140,13 +219,12 @@ import LeadCTA from "../components/LeadCTA.astro";
 
   loadNewsData()
     .then((d) => {
-      if (!d) { listEl.innerHTML = '<div class="empty-note">Chưa tải được tin tức.</div>'; return; }
+      if (!d) return;   // giữ nguyên bản tĩnh đã render sẵn nếu không tải được live
       allItems = (d.items || []).slice().sort((a, b) => tsOf(b) - tsOf(a));
+      if (!allItems.length) return;
       if (updatedEl && d.updated_at) updatedEl.textContent = "Cập nhật lúc: " + d.updated_at;
       buildFilters();
       render();
     })
-    .catch(() => {
-      listEl.innerHTML = '<div class="empty-note">Chưa tải được tin tức.</div>';
-    });
+    .catch(() => {});
 </script>

@@ -52,6 +52,7 @@ const FEEDS = [
 const MAX_PER_FEED = 6;   // số tin lấy mỗi nguồn
 const MAX_TOTAL = 50;     // tổng số tin giữ lại
 const MAX_GOLD = 4;       // VÀNG không giao dịch được trên sàn VN → giữ tối đa 4 tin (chỉ làm bối cảnh)
+const MAX_PER_SOURCE = 8; // trần mỗi nguồn trong 50 tin cuối → không để 1 nguồn (vd OilPrice) áp đảo
 
 // Nhận diện tin VÀNG để giới hạn (vàng không phải mặt hàng giao dịch được ở VN).
 function isGold(it) {
@@ -124,6 +125,9 @@ function isJunkTitle(t) {
   if (/for today,?\s*tomorrow/i.test(s)) return true;                          // "...for today, tomorrow, next week"
   if (/(forecast|prediction)[^.]{0,40}\bnext\s+\d+\s+days?/i.test(s)) return true;  // "...forecast ... next 30 days"
   if (isMarketReportSpam(s)) return true;                                          // báo cáo nghiên cứu thị trường rác
+  // Tin "lề" KHÔNG phải tin GIÁ hàng hóa: thiết bị pha chế, công thức, nếm thử,
+  // nghiên cứu đời sống — hay lọt từ feed cà phê chuyên ngành (dailycoffeenews...).
+  if (/\b(grinder|espresso machine|coffee machine|coffee maker|brewer|barista|latte|cappuccino|recipe|brew(ing)? guide|taste test|tasting|how to (make|brew)|health benefits?|study finds|researchers? (say|find)|scientists|drinking coffee|restaurant spending|dining spending)\b/i.test(s)) return true;
   return false;
 }
 
@@ -312,6 +316,14 @@ function fixFinanceTranslation(vi, enSource) {
   }
   // 4) "greenback" (tiếng lóng của USD) → "đồng bạc xanh" (khó hiểu) → đồng USD.
   if (/\bgreenback\b/.test(en)) out = out.replace(/đồng bạc xanh/gi, m => (m[0] === "Đ" ? "Đồng USD" : "đồng USD"));
+  // 5) "exposure" (mức độ tham gia/phân bổ vào tài sản) → Google dịch "tiếp xúc" (sai nghĩa).
+  if (/\bexposure\b/.test(en)) out = out.replace(/tiếp xúc/gi, "tham gia");
+  // 6) "futures" (hợp đồng kỳ hạn) → "[mặt hàng] tương lai" dễ hiểu nhầm là "giá tương lai".
+  //    Đổi "[mặt hàng] tương lai" → "[mặt hàng] kỳ hạn". Lookbehind (?<!hợp ) để KHÔNG đụng
+  //    "Hợp đồng tương lai" (= futures contract, vốn đã dịch đúng).
+  if (/\bfutures\b/.test(en)) {
+    out = out.replace(/(?<!hợp )(vàng|bạc|đồng|dầu|bạch kim|nhôm|niken|kẽm|chì|thiếc|cà phê|ca cao|đường|bông|cao su|ngô|đậu tương|lúa mì|khí)\s+tương lai/gi, "$1 kỳ hạn");
+  }
 
   return out;
 }
@@ -483,6 +495,7 @@ async function main() {
   // Gộp mới + cũ → bỏ trùng id → SẮP THEO NGÀY MỚI NHẤT → giữ 50 tin gần nhất.
   const seenId = new Set();
   let goldKept = 0;
+  const perSource = new Map();                     // trần mỗi nguồn → không để 1 nguồn áp đảo
   const tsOf = (x) => { const d = new Date(String(x.published).replace(" ", "T")); return isNaN(d) ? 0 : d.getTime(); };
   const byId = [...newItems, ...oldItems]
     .filter(x => { if (seenId.has(x.id)) return false; seenId.add(x.id); return true; })
@@ -490,6 +503,13 @@ async function main() {
   const deduped = dropNearDuplicates(byId);        // gộp tin gần trùng (cùng sự kiện, khác nguồn)
   if (deduped.length < byId.length) console.log(`→ Gộp ${byId.length - deduped.length} tin gần trùng (cùng sự kiện).`);
   const items = deduped
+    .filter(x => {                                 // TRẦN MỖI NGUỒN: tránh 1 nguồn (vd OilPrice) chiếm gần nửa trang
+      const s = (x.source || "").toLowerCase().trim();
+      const n = perSource.get(s) || 0;
+      if (s && n >= MAX_PER_SOURCE) return false;
+      perSource.set(s, n + 1);
+      return true;
+    })
     .filter(x => { if (isGold(x)) { if (goldKept >= MAX_GOLD) return false; goldKept++; } return true; })  // giới hạn cứng tin vàng
     .slice(0, MAX_TOTAL);
 

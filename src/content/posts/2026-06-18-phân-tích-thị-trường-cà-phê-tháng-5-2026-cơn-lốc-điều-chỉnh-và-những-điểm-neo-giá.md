@@ -5,8 +5,8 @@ date: 2026-06-18T10:10
 category: agri
 image: /assets/fanpage/nguyen-lieu-1.jpg
 summary: Cà phê sắp đổ bộ ồ ạt từ Brazil và Việt Nam, giá có thể lao dốc nếu
-  USDA xác nhận bội thu. Nhưng mốc 260 cent vẫn đang níu kéo – tôi chờ tin nóng
-  rồi mới quyết định.
+  USDA xác nhận bội thu. Nhưng mốc 260 cent vẫn đang níu kéo – cần chờ báo cáo
+  USDA để xu hướng rõ ràng hơn.
 ---
 Nhìn vào bức tranh thị trường tháng 5 này, tôi thấy rõ một sự chuyển mình mang tính bước ngoặt. Giá Arabica đang quanh mức 268-270 cent/pound – đã rớt tới 25% so với đỉnh năm ngoái và chạm đáy 18 tháng trước khi tìm được nhịp hồi kỹ thuật. Xu thế giảm đang chiếm ưu thế, nhưng ẩn sau đó là một câu chuyện hai mặt rất đáng để mổ xẻ.
 
@@ -29,4 +29,6 @@ Tôi vẫn giữ góc nhìn thận trọng vì có những "chiếc phanh" rất
 **Kết luận và điểm cần theo dõi**
 Thị trường đang bước vào giai đoạn "bình thường hóa" nhưng con đường ấy còn lắm chông gai. Sự giằng co giữa kỳ vọng dư cung dài hạn và khan hiếm hàng ngắn hạn sẽ khiến biến động duy trì ở mức cao.
 
-Trong tuần tới, tôi sẽ dồn sự chú ý vào các báo cáo sắp tới của USDA – đặc biệt là các con số cập nhật cho Brazil và Việt Nam. Nếu các báo cáo này xác nhận mức sản lượng kỷ lục, xu hướng giảm dài hạn sẽ được củng cố. Ngược lại, nếu ước tính bị điều chỉnh giảm vì lý do thời tiết, những người nắm giữ vị thế short sẽ đối mặt với rủi ro "squeeze" không nhỏ. Tôi vẫn giữ quan điểm trung lập, quan sát thêm phản ứng của đường MA và mức hỗ trợ 260 cent trước khi có hành động tiếp theo.
+Trong tuần tới, tâm điểm là các báo cáo sắp tới của USDA – đặc biệt là các con số cập nhật cho Brazil và Việt Nam. Nếu các báo cáo này xác nhận mức sản lượng kỷ lục, xu hướng giảm dài hạn sẽ được củng cố. Ngược lại, nếu ước tính bị điều chỉnh giảm vì lý do thời tiết, bên đặt cược giá giảm có thể đối mặt với rủi ro bị siết (squeeze). Bức tranh hiện vẫn trung lập; phản ứng của giá quanh đường MA và vùng 260 cent sẽ là tín hiệu đáng theo dõi cho giai đoạn tới.
+
+*Bến Hàng Hóa | Thông tin mang tính tham khảo, không phải khuyến nghị đầu tư.*

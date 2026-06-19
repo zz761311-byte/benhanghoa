@@ -6,7 +6,7 @@ image: /assets/fanpage/kim-loai-1.jpg
 summary: >-
   📊 BẠC (XAG/USD) — 17/06/2026
 
-  Giá quanh $70/oz, thị trường nín thở chờ FOMC thứ Tư. Fed giữ lãi suất cao → áp lực ngắn hạn còn đó. Hỗ trợ $65–68, kháng cự $74–76. Giai đoạn tích lũy, chưa phải lúc đuổi giá.
+  Giá quanh $70/oz, thị trường nín thở chờ FOMC thứ Tư. Fed giữ lãi suất cao → áp lực ngắn hạn còn đó. Vùng giá đáng chú ý: hỗ trợ $65–68, kháng cự $74–76. Thị trường nghiêng về giai đoạn tích lũy hơn là bứt phá.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
 ---
@@ -20,10 +20,10 @@ Thị trường đang bước vào tuần có sự kiện trọng tâm là cuộ
 Điểm sáng duy nhất đến từ phía năng lượng: **thỏa thuận hòa bình tạm thời Mỹ–Iran** dự kiến ký kết tại Thụy Sĩ cuối tuần, kéo giá dầu xuống dưới $80/thùng, giảm áp lực lạm phát và mở ra kỳ vọng Fed sẽ xoay chiều sớm hơn.
 
 **Kỹ thuật**
-Giá đang bám dưới SMA 100 ngày, RSI ở vùng trung tính — thiếu động lực đột phá rõ ràng. Kháng cự gần nhất: $74–76. Hỗ trợ mạnh cần giữ: $65–68. Nếu mất vùng này, nguy cơ kiểm tra $60–62 là hiện hữu.
+Giá đang bám dưới SMA 100 ngày, RSI ở vùng trung tính — thiếu động lực đột phá rõ ràng. Vùng kháng cự gần: $74–76. Vùng hỗ trợ đáng chú ý: $65–68; nếu thủng, kịch bản kiểm tra $60–62 là hiện hữu.
 
 **Góc nhìn trung hạn**
-Tỷ lệ Vàng/Bạc hiện ở mức ~64x — vùng lịch sử thường xuất hiện trước các đợt bạc bứt phá. Nhu cầu công nghiệp từ pin mặt trời, EV, trung tâm dữ liệu AI vẫn tạo nền tảng cầu vật chất vững chắc. Tuy nhiên, chừng nào Fed chưa ra tín hiệu nới lỏng rõ ràng, đây vẫn là giai đoạn **tích lũy — không phải đuổi giá**.
+Tỷ lệ Vàng/Bạc hiện ở mức ~64x — vùng lịch sử thường xuất hiện trước các đợt bạc bứt phá. Nhu cầu công nghiệp từ pin mặt trời, EV, trung tâm dữ liệu AI vẫn tạo nền tảng cầu vật chất vững chắc. Tuy nhiên, chừng nào Fed chưa ra tín hiệu nới lỏng rõ ràng, thị trường vẫn nghiêng về **giai đoạn tích lũy hơn là bứt phá**.
 
 **Theo dõi chính tuần này:** Kết quả FOMC + phát biểu của Chủ tịch Fed mới Warsh vào thứ Tư.
 

@@ -8,7 +8,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "fetch-news": "node scripts/fetch-news.mjs",
-    "draft": "node scripts/draft-article.mjs"
+    "draft": "node scripts/draft-article.mjs",
+    "check-posts": "node scripts/check-posts.mjs"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^11.2.0",

@@ -318,8 +318,25 @@ function parseAI(text) {
 
 // ── Ghi bản nháp ra file ─────────────────────────────────────────────────────
 
+// Chọn ảnh minh họa từ kho public/assets/fanpage/ — ưu tiên ảnh RIÊNG mặt hàng
+// (vd vang.jpg), không có thì ảnh theo NHÓM (vd kim-loai.jpg). Bạn chỉ cần bỏ
+// file ảnh vào thư mục là code TỰ nhận, không phải sửa gì thêm.
+const CAT_IMG = { energy: "nang-luong", metal: "kim-loai", agri: "nong-san", soft: "nguyen-lieu", macro: "vi-mo" };
+function libraryImage(subject, category) {
+  const bases = [];
+  if (subject) bases.push(slugify(subject));
+  if (CAT_IMG[category]) bases.push(CAT_IMG[category]);
+  for (const base of bases)
+    for (const ext of ["jpg", "jpeg", "png", "webp"])
+      if (existsSync(`${ROOT}public/assets/fanpage/${base}.${ext}`)) return `/assets/fanpage/${base}.${ext}`;
+  return "";
+}
+
 async function writeDraft(provider, cluster, parsed) {
   const it = cluster.primary;
+  const libImg = libraryImage(cluster.subject, it.category);
+  const articleImage = libImg || it.image || "";          // ảnh kho > ảnh nguồn
+  const imgSlug = cluster.subject ? slugify(cluster.subject) : (CAT_IMG[it.category] || "chung");
   const { ymd } = todayParts();
   const title = parsed.title || it.title_vi;
   const slug = `${ymd}-${slugify(title)}`;
@@ -334,7 +351,7 @@ async function writeDraft(provider, cluster, parsed) {
 title: ${yamlTitle(title)}
 date: ${ymd}T08:00
 category: ${it.category}
-image: ${it.image || ""}
+image: ${articleImage}
 summary: >-
 ${summaryBlock}
 
@@ -350,8 +367,13 @@ ${srcList}
 ${parsed.body || "(AI không trả về nội dung)"}
 `;
 
+  const imgLine = libImg
+    ? `📷 ẢNH ĐÍNH KÈM (đã có trong kho): public${libImg}`
+    : `📷 ẢNH ĐÍNH KÈM: chưa có ảnh cho mục này — thêm file vào: public/assets/fanpage/${imgSlug}.jpg`;
   const fanpage = `CAPTION FANPAGE — bài "${title}"  (do ${provider} soạn)
 Copy thủ công lên Fanpage. KHÔNG dán vào file bài web.
+${imgLine}
+   → Nếu bài cần BIỂU ĐỒ/đồ thị: tự vẽ (mở TradingView) rồi upload thay ảnh này.
 ============================================================
 
 ${parsed.captions || "(AI không trả về caption)"}

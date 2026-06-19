@@ -93,10 +93,16 @@ const { item = "hàng hóa" } = Astro.props;
       note.dataset.state = "idle";
       note.textContent = "Đang gửi...";
       try {
+        // Gửi dạng JSON, KHÔNG dùng form-data: FormSubmit báo lỗi 500 khi nhận
+        // form-data có tên field tiếng Việt (dấu + khoảng trắng). JSON xử lý
+        // UTF-8 sạch nên ổn định. (FormSubmit có hỗ trợ CORS preflight cho JSON.)
+        const fd = new FormData(form);
+        const payload = {};
+        fd.forEach((value, key) => { payload[key] = value; });
         const res = await fetch(form.action, {
           method: "POST",
-          body: new FormData(form),
-          headers: { Accept: "application/json" }
+          body: JSON.stringify(payload),
+          headers: { "Content-Type": "application/json", Accept: "application/json" }
         });
         const data = await res.json().catch(() => ({}));
         if (res.ok && (data.success === "true" || data.success === true)) {

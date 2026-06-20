@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-21 02:00",
+  "updated_at": "2026-06-21 03:00",
   "items": [
+    {
+      "id": "1bu7ljg",
+      "title": "Iraq Is Keeping Its Syria Oil Route—Even If Hormuz Reopens",
+      "title_vi": "Iraq đang duy trì tuyến đường dẫn dầu tới Syria ngay cả khi Hormuz mở cửa trở lại",
+      "summary_vi": "Không ai, đặc biệt là Iraq, muốn bị phát hiện dựa vào Hormuz một lần nữa. Iraq đang chuẩn bị xuất khẩu dầu thô và naphtha qua cảng Baniyas ở Địa Trung Hải của Syria, mở rộng giải pháp khẩn cấp xuất hiện sau khi eo biển Hormuz đóng cửa làm gián đoạn hoạt động kinh tế.",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Is-Keeping-Its-Syria-Oil-RouteEven-If-Hormuz-Reopens.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-21 02:30"
+    },
     {
       "id": "1wyz1kt",
       "title": "China Is Taking Its AI Boom Under the Sea",
@@ -143,17 +154,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-20 01:30"
-    },
-    {
-      "id": "1o62kfg",
-      "title": "Russia Is Rationing Fuel in Moscow After Drone Strikes",
-      "title_vi": "Nga đang phân phối nhiên liệu ở Moscow sau cuộc tấn công của máy bay không người lái",
-      "summary_vi": "Nga, một trong những nước sản xuất và xuất khẩu dầu lớn nhất thế giới, hiện đang phân phối xăng tại thủ đô của mình. Sau nhiều tháng các cuộc tấn công ngày càng thành công của máy bay không người lái Ukraine vào cơ sở hạ tầng dầu mỏ của Nga, tình trạng thiếu xăng đã xuất hiện ở Moscow, buộc nhà bán lẻ nhiên liệu lớn phải dừng hoạt động.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-19_vqcjdfjny8.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Is-Rationing-Fuel-in-Moscow-After-Drone-Strikes.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-20 00:30"
     },
     {
       "id": "15efm8p",
@@ -530,6 +530,17 @@
       "published": "2026-06-19 00:26"
     },
     {
+      "id": "1tqj3qk",
+      "title": "Trading day: US stocks end lower, dollar jumps as Federal Reserve kicks off Warsh era",
+      "title_vi": "Ngày giao dịch: Chứng khoán Mỹ giảm điểm, đồng đô la tăng vọt khi Cục Dự trữ Liên bang khởi động kỷ nguyên Warsh",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.msn.com/en-us/money/markets/trading-day-us-stocks-end-lower-dollar-jumps-as-federal-reserve-kicks-off-warsh-era/ar-AA25UngR?ocid",
+      "source": "MSN",
+      "category": "macro",
+      "published": "2026-06-18 22:17"
+    },
+    {
       "id": "9yhnxi",
       "title": "No margin for error: How copper projects lost their price buffer",
       "title_vi": "Không có sai sót: Các dự án đồng đã mất đệm giá như thế nào",
@@ -539,17 +550,6 @@
       "source": "S&P Global",
       "category": "metal",
       "published": "2026-06-18 21:07"
-    },
-    {
-      "id": "jw9z7i",
-      "title": "Sky's the limit for investors seeking some copper action",
-      "title_vi": "Sky là giới hạn cho các nhà đầu tư tìm kiếm một số hành động đồng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/commentary/reuters-open-interest/skys-limit-investors-seeking-some-copper-action-2026-06-18/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-06-18 20:49"
     }
   ]
 }

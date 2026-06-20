@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20 06:53",
+  "updated_at": "2026-06-20 07:01",
   "items": [
     {
       "id": "1xoxiz4",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-20 03:00"
+    },
+    {
+      "id": "1bs8up1",
+      "title": "Newmont&#8217;s Red Chris underground expansion gets regulatory green light",
+      "title_vi": "Dự án mở rộng ngầm Red Chris của Newmont được bật đèn xanh theo quy định",
+      "summary_vi": "Sự chấp thuận mở đường cho quá trình chuyển đổi từ khai thác lộ thiên sang hoạt động khai thác theo khối ở British Columbia.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/Imperial-Metals-Red-Chris-Mine_MG_7893-1024x683.jpg",
+      "link": "https://www.mining.com/newmonts-red-chris-underground-expansion-gets-regulatory-green-light-in-bc/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-20 02:51"
     },
     {
       "id": "1i9vfhr",
@@ -308,17 +319,6 @@
       "source": "Investing News Network",
       "category": "energy",
       "published": "2026-06-19 04:55"
-    },
-    {
-      "id": "dg4zzx",
-      "title": "Trinity Metals doubles US tungsten concentrate supply to 20%",
-      "title_vi": "Trinity Metals tăng gấp đôi nguồn cung vonfram cô đặc của Mỹ lên 20%",
-      "summary_vi": "Công ty cho biết họ có kế hoạch tăng gấp ba sản lượng trong những năm tới.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/DSC_4064-scaled-1-1024x683.jpg",
-      "link": "https://www.mining.com/trinity-metals-doubles-us-tungsten-concentrate-supply-to-20/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-19 04:16"
     },
     {
       "id": "f7ao2d",

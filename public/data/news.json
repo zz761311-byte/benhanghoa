@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-20 21:00",
+  "updated_at": "2026-06-20 22:00",
   "items": [
+    {
+      "id": "1oonvzb",
+      "title": "The U.S. States Leading the Backlash Against Data Centers",
+      "title_vi": "Hoa Kỳ dẫn đầu phản ứng dữ dội chống lại các trung tâm dữ liệu",
+      "summary_vi": "Một số bang của Hoa Kỳ lo ngại về sự mở rộng nhanh chóng của các trung tâm dữ liệu, khi người tiêu dùng gây áp lực lên các nhà lập pháp để giải quyết các hóa đơn tiện ích đang gia tăng và các mối lo ngại về năng lượng khác. Các trung tâm dữ liệu dự kiến ​​sẽ là nơi tiêu thụ điện năng lớn của Hoa Kỳ vào năm 2030 và hơn thế nữa, khi một số công ty công nghệ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_jbsipnuqgg.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/The-US-States-Leading-the-Backlash-Against-Data-Centers.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-20 22:00"
+    },
     {
       "id": "dntnbh",
       "title": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
@@ -77,6 +88,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-20 02:51"
+    },
+    {
+      "id": "1il2gnp",
+      "title": "How Much Downside Risk is Left in the Grain Markets?",
+      "title_vi": "Thị trường ngũ cốc còn lại bao nhiêu rủi ro giảm giá?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/how-much-downside-risk-left-grain-markets",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-06-20 02:16"
     },
     {
       "id": "1i9vfhr",
@@ -165,17 +187,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-19 23:10"
-    },
-    {
-      "id": "ya2b5n",
-      "title": "Insurers Roll Out $400 Million War-Risk Facility for Hormuz Shipping",
-      "title_vi": "Các công ty bảo hiểm triển khai Quỹ hỗ trợ rủi ro chiến tranh trị giá 400 triệu USD cho việc vận chuyển Hormuz",
-      "summary_vi": "Thị trường bảo hiểm lớn nhất thế giới chuẩn bị phá vỡ tình trạng bế tắc ở eo biển Hormuz bằng một cơ sở phòng ngừa rủi ro chiến tranh mới trị giá 400 triệu USD (316 triệu bảng Anh). Lloyd's of London đã thành lập một tập đoàn thị trường mới được thiết kế để cung cấp thêm năng lực bảo hiểm rủi ro chiến tranh hàng hải cho tàu thuyền và quá cảnh hàng hóa",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-19_xbnikrgfst.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Insurers-Roll-Out-400-Million-War-Risk-Facility-for-Hormuz-Shipping.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-19 23:00"
     },
     {
       "id": "qnp2l1",
@@ -539,17 +550,6 @@
       "source": "U.S. Energy Information Administration (EIA) (.gov)",
       "category": "energy",
       "published": "2026-06-18 20:04"
-    },
-    {
-      "id": "naz7cy",
-      "title": "FAO Food Outlook: Global food commodity market trends face rising geopolitical and weather risks",
-      "title_vi": "Triển vọng Thực phẩm của FAO: Xu hướng thị trường hàng hóa thực phẩm toàn cầu đối mặt với rủi ro thời tiết và địa chính trị ngày càng tăng",
-      "summary_vi": "Ấn bản mới cũng khám phá những tác động của nhiên liệu vận chuyển, mối liên kết giữa thị trường năng lượng-nông nghiệp, thị trường phân bón và hóa đơn nhập khẩu thực phẩm toàn cầu.",
-      "image": "https://www.fao.org/images/newsroomlibraries/default-album/fo_june_2026_web_press_release.jpeg?sfvrsn=58df2067_1",
-      "link": "https://www.fao.org/newsroom/detail/fao-food-outlook--global-food-commodity-market-trends-face-rising-geopolitical-and-weather-risks/en",
-      "source": "Food and Agriculture Organization",
-      "category": "macro",
-      "published": "2026-06-18 19:19"
     }
   ]
 }

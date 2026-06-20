@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21 00:00",
+  "updated_at": "2026-06-21 01:00",
   "items": [
     {
       "id": "fgzbqk",
@@ -222,6 +222,17 @@
       "published": "2026-06-19 21:34"
     },
     {
+      "id": "34nyc2",
+      "title": "Hawkish Fed signals send gold to third straight weekly loss",
+      "title_vi": "Tín hiệu diều hâu của Fed khiến vàng giảm tuần thứ ba liên tiếp",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-track-third-weekly-loss-firm-dollar-hawkish-fed-signals-2026-06-19/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-06-19 21:20"
+    },
+    {
       "id": "1lrkwix",
       "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
       "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
@@ -286,17 +297,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-19 17:49"
-    },
-    {
-      "id": "6ty03q",
-      "title": "Gold Set for Third Weekly Loss as Fed Rate Outlook Supports Dollar",
-      "title_vi": "Vàng được thiết lập cho mức giảm hàng tuần thứ ba khi triển vọng lãi suất của Fed hỗ trợ đồng đô la",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-set-third-weekly-loss-100310495.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-06-19 17:03"
     },
     {
       "id": "1ygppmd",

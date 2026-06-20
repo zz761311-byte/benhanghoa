@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21 01:00",
+  "updated_at": "2026-06-21 01:50",
   "items": [
     {
       "id": "fgzbqk",
@@ -332,6 +332,17 @@
       "published": "2026-06-19 14:12"
     },
     {
+      "id": "rmaam5",
+      "title": "2026 World Cup Predictions: Team USA advances",
+      "title_vi": "Dự đoán World Cup 2026: Đội tuyển Mỹ tiến sâu",
+      "summary_vi": "Ai sẽ vô địch World Cup 2026? Tỷ lệ cược cho tất cả 48 đội và 104 trận đấu, được hỗ trợ bởi 100.000 mô phỏng từ PELE, mô hình bóng đá mới của Silver Bulletin.",
+      "image": "https://substackcdn.com/image/fetch/$s_!KjO2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86404ff2-f8b5-4c37-a535-65d03b01b64a_1500x929.gif",
+      "link": "https://www.natesilver.net/p/world-cup-2026-odds-predictions",
+      "source": "Silver Bulletin",
+      "category": "metal",
+      "published": "2026-06-19 14:00"
+    },
+    {
       "id": "10up3o8",
       "title": "2026 Silver Price Forecast: US-Iran Conflict May End, Can Silver Return Above $100 This Year?",
       "title_vi": "Dự báo giá bạc năm 2026: Xung đột Mỹ-Iran có thể kết thúc, bạc có thể trở lại trên 100 USD trong năm nay không?",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-06-18 20:49"
-    },
-    {
-      "id": "1sx7707",
-      "title": "Permian natural gas production increased faster than crude oil",
-      "title_vi": "Sản lượng khí tự nhiên kỷ Permi tăng nhanh hơn dầu thô",
-      "summary_vi": "Cơ quan Thông tin Năng lượng - EIA - Thống kê Năng lượng Chính thức của Chính phủ Hoa Kỳ",
-      "image": "",
-      "link": "https://www.eia.gov/todayinenergy/detail.php?id",
-      "source": "U.S. Energy Information Administration (EIA) (.gov)",
-      "category": "energy",
-      "published": "2026-06-18 20:04"
     }
   ]
 }

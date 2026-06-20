@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-06-20 18:00",
+  "updated_at": "2026-06-20 18:47",
   "items": [
+    {
+      "id": "dntnbh",
+      "title": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+      "title_vi": "Vụ tấn công nhà máy lọc dầu Moscow đưa cuộc chiến của Nga với Ukraine đến gần hơn",
+      "summary_vi": "Steve Rosenberg viết: Có những khoảnh khắc cuộc sống ở Moscow cảm thấy hoàn toàn bình thường - sáng thứ Năm không phải là một trong số đó.",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e66a/live/6e4dd6a0-6c04-11f1-8e1d-bbbb1017d210.jpg",
+      "link": "https://www.bbc.com/news/articles/cp3xqkxp3x5o",
+      "source": "BBC",
+      "category": "energy",
+      "published": "2026-06-20 17:19"
+    },
+    {
+      "id": "17ga4qp",
+      "title": "No fuel, no weapons: How Ukraine’s new drone strategy is mauling Russian supply lines",
+      "title_vi": "Không nhiên liệu, không vũ khí: Chiến lược máy bay không người lái mới của Ukraine đang tàn phá các tuyến cung cấp của Nga như thế nào",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.cnn.com/2026/06/20/europe/ukraine-mid-range-drones-russia-logistics-intl-cmd",
+      "source": "CNN",
+      "category": "energy",
+      "published": "2026-06-20 11:01"
+    },
     {
       "id": "1xoxiz4",
       "title": "Solar Is the Cheapest Power in History, But States Are Retreating From It",
@@ -528,28 +550,6 @@
       "source": "Food and Agriculture Organization",
       "category": "macro",
       "published": "2026-06-18 19:19"
-    },
-    {
-      "id": "gg05f1",
-      "title": "Charts of the Week: Between Relief and Reality",
-      "title_vi": "Biểu đồ trong tuần: Giữa sự nhẹ nhõm và hiện thực",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.haver.com/articles/charts-of-the-week-between-relief-and-reality",
-      "source": "Haver Analytics",
-      "category": "macro",
-      "published": "2026-06-18 19:18"
-    },
-    {
-      "id": "1u0apjo",
-      "title": "Montana Grain Farmers Face Economic Downturn Amid Historic Inflation and Low Commodity Prices",
-      "title_vi": "Nông dân trồng ngũ cốc ở Montana phải đối mặt với suy thoái kinh tế trong bối cảnh lạm phát lịch sử và giá hàng hóa thấp",
-      "summary_vi": "Theo một nền kinh tế của Liên đoàn Cục Nông nghiệp Hoa Kỳ (AFBF), kể từ lần cuối cùng Dự luật Nông nghiệp của Bộ Nông nghiệp Hoa Kỳ (USDA) được thông qua vào năm 2018, chi phí sản xuất trang trại đã tăng 40% do chi phí lao động, lãi suất và chi phí đầu vào chung tiếp tục tăng trên toàn quốc trong khi giá cây trồng hàng hóa giảm.",
-      "image": "https://flatheadbeacon.com/wp-content/uploads/2020/07/202007007_CANOLA_FIELDS_0112.jpg",
-      "link": "https://flatheadbeacon.com/2026/06/18/montana-grain-farmers-face-economic-downturn-amid-historic-inflation-and-low-commodity-prices/",
-      "source": "Flathead Beacon",
-      "category": "agri",
-      "published": "2026-06-18 19:03"
     }
   ]
 }

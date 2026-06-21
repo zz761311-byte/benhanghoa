@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22 04:00",
+  "updated_at": "2026-06-22 04:46",
   "items": [
     {
       "id": "e9fpz5",
@@ -9,7 +9,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-20_rkidlhtupw.jpg",
       "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Crisis-Sparks-a-Middle-East-Pipeline-Boom.html",
       "source": "OilPrice",
-      "category": "macro",
+      "category": "energy",
       "published": "2026-06-22 04:00"
     },
     {
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-22 00:00"
+    },
+    {
+      "id": "payd1l",
+      "title": "Robert Kiyosaki makes stunning prediction on gold and silver prices",
+      "title_vi": "Robert Kiyosaki đưa ra dự đoán đáng kinh ngạc về giá vàng và bạc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.thestreet.com/investing/robert-kiyosaki-makes-stunning-prediction-on-gold-and-silver-prices",
+      "source": "thestreet.com",
+      "category": "metal",
+      "published": "2026-06-21 23:13"
     },
     {
       "id": "v6i0ou",
@@ -429,17 +440,6 @@
       "source": "Streetwise Reports",
       "category": "metal",
       "published": "2026-06-19 18:28"
-    },
-    {
-      "id": "6ty03q",
-      "title": "Gold Set for Third Weekly Loss as Fed Rate Outlook Supports Dollar",
-      "title_vi": "Vàng được thiết lập cho mức giảm hàng tuần thứ ba khi triển vọng lãi suất của Fed hỗ trợ đồng đô la",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-set-third-weekly-loss-100310495.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-06-19 17:03"
     },
     {
       "id": "1pxz9ja",

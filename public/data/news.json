@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21 08:00",
+  "updated_at": "2026-06-21 09:00",
   "items": [
     {
       "id": "wog8nc",
@@ -198,6 +198,17 @@
       "source": "Al Jazeera",
       "category": "energy",
       "published": "2026-06-19 22:25"
+    },
+    {
+      "id": "15xmjew",
+      "title": "EUR/USD Forecast: US Dollar rallies on Fed, more gains in the docket",
+      "title_vi": "Dự báo EUR/USD: Đô la Mỹ tăng giá nhờ Fed, tăng thêm lợi nhuận",
+      "summary_vi": "Tỷ giá EUR/USD giảm xuống mức 1,1417, mức thấp nhất kể từ tháng 3 năm ngoái, do đồng Đô la Mỹ (USD) tăng vọt sau cuộc họp chính sách tiền tệ đầu tiên của Cục Dự trữ Liên bang (Fed) do Kevin Warsh chủ trì. Tuy nhiên, EUR/USD đã phục hồi một số điểm vào thứ Sáu, kết thúc tuần ở mức thấp hơn nhiều so với mốc 1,1500.",
+      "image": "https://editorial.fxsstatic.com/images/i/Happiness-20526_Medium.png",
+      "link": "https://www.fxstreet.com/news/eur-usd-weekly-forecast-winds-of-change-blowing-into-the-federal-reserve-202606191513",
+      "source": "FXStreet",
+      "category": "macro",
+      "published": "2026-06-19 22:13"
     },
     {
       "id": "uhrdse",
@@ -539,17 +550,6 @@
       "source": "RE-NJ",
       "category": "metal",
       "published": "2026-06-19 00:26"
-    },
-    {
-      "id": "1tqj3qk",
-      "title": "Trading day: US stocks end lower, dollar jumps as Federal Reserve kicks off Warsh era",
-      "title_vi": "Ngày giao dịch: Chứng khoán Mỹ giảm điểm, đồng đô la tăng vọt khi Cục Dự trữ Liên bang khởi động kỷ nguyên Warsh",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.msn.com/en-us/money/markets/trading-day-us-stocks-end-lower-dollar-jumps-as-federal-reserve-kicks-off-warsh-era/ar-AA25UngR?ocid",
-      "source": "MSN",
-      "category": "macro",
-      "published": "2026-06-18 22:17"
     }
   ]
 }

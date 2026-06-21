@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22 00:00",
+  "updated_at": "2026-06-22 01:00",
   "items": [
     {
       "id": "jsyzpx",
@@ -57,6 +57,17 @@
       "published": "2026-06-21 21:00"
     },
     {
+      "id": "1l51bom",
+      "title": "Your morning coffee is getting expensive. Here's why",
+      "title_vi": "Cà phê buổi sáng của bạn đang trở nên đắt đỏ. Đây là lý do tại sao",
+      "summary_vi": "Cú sốc nhãn dán bắt đầu ở lối đi cà phê. Một túi đậu cách đây vài năm có giá 16 USD giờ đã vượt quá 20 USD. Một ly cà phê latte cơ bản giờ đây đã trở thành một món xa xỉ.",
+      "image": "https://bloximages.chicago2.vip.townnews.com/news.lee.net/content/tncms/assets/v3/editorial/0/b7/0b72a9e7-d97f-5d9c-9157-c89dec4e2fcc/6a32f1f597ddf.preview.jpg?crop=800%2C420%2C0%2C56",
+      "link": "https://news.lee.net/life-entertainment/nation-world/food-drink/your-morning-coffee-is-getting-expensive-heres-why/article_0b72a9e7-d97f-5d9c-9157-c89dec4e2fcc.html",
+      "source": "Lee News Central",
+      "category": "soft",
+      "published": "2026-06-21 20:30"
+    },
+    {
       "id": "12b1ln9",
       "title": "An inverted world: Coffee crashes by 20%, so why did our price skyrocket?",
       "title_vi": "Thế giới đảo ngược: Cà phê giảm 20%, tại sao giá lại tăng vọt?",
@@ -66,6 +77,17 @@
       "source": "The Jerusalem Post",
       "category": "soft",
       "published": "2026-06-21 13:15"
+    },
+    {
+      "id": "1ci03rq",
+      "title": "Father’s Day forecast: heat and isolated storms ahead",
+      "title_vi": "Dự báo Ngày của Cha: nắng nóng và bão bị cô lập phía trước",
+      "summary_vi": "Có thể có mưa rào và bão trong thời gian còn lại trong ngày với nhiệt độ gần 90 độ. Mưa lớn, sét thường xuyên và gió giật có thể xảy ra trong bất kỳ cơn bão nào. Chúng ta sẽ thấy mặt trời và mây đan xen vào Chủ nhật, tức là Ngày của Cha cùng với ngày đầu tiên của mùa hè! Sẽ có cảm giác như vậy với nhiệt độ trong t",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/video/wjxt/d682b30d-f41b-4cb9-aae7-f7a57b491c4e/image.jpg?_a=DATAg1iuZAA0",
+      "link": "https://www.news4jax.com/weather/2026/06/20/fathers-day-forecast-heat-and-isolated-storms-ahead/",
+      "source": "News4JAX",
+      "category": "soft",
+      "published": "2026-06-21 12:49"
     },
     {
       "id": "117ofmb",
@@ -528,28 +550,6 @@
       "source": "KOMU 8",
       "category": "soft",
       "published": "2026-06-19 06:11"
-    },
-    {
-      "id": "py91cj",
-      "title": "Platinum Price Analysis: XPT Slides as Short Setup Builds Near Resistance",
-      "title_vi": "Phân tích giá bạch kim: XPT trượt dốc khi thiết lập ngắn hạn xây dựng gần mức kháng cự",
-      "summary_vi": "Dữ liệu của Investing.com cho thấy giá bạch kim giao ngay ở mức 1.900,83 USD, giảm 35,08 USD, tương đương 1,81% trong ngày.",
-      "image": "https://bravenewcoin.com/wp-content/uploads/2026/06/Bnb-Jun-4-15.jpg",
-      "link": "https://bravenewcoin.com/insights/platinum-price-analysis-xpt-slides-as-short-setup-builds-near-resistance",
-      "source": "Brave New Coin",
-      "category": "metal",
-      "published": "2026-06-19 06:07"
-    },
-    {
-      "id": "1ugw6hi",
-      "title": "Hedge funds eye top commodity traders amid volatile markets",
-      "title_vi": "Các quỹ phòng hộ để mắt tới các nhà giao dịch hàng hóa hàng đầu trong bối cảnh thị trường đầy biến động",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.fnlondon.com/articles/hedge-funds-eye-top-commodity-traders-amid-volatile-markets-2c00c386",
-      "source": "Financial News London",
-      "category": "macro",
-      "published": "2026-06-19 06:02"
     }
   ]
 }

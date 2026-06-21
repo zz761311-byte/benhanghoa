@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-22 03:20",
+  "updated_at": "2026-06-22 04:00",
   "items": [
+    {
+      "id": "e9fpz5",
+      "title": "Hormuz Crisis Sparks a Middle East Pipeline Boom",
+      "title_vi": "Khủng hoảng Hormuz gây ra sự bùng nổ đường ống ở Trung Đông",
+      "summary_vi": "Việc phong tỏa eo biển Hormuz là điều sẽ không bao giờ xảy ra - cho đến khi nó xảy ra, làm tê liệt 1/5 dòng chảy LNG và dầu thô toàn cầu, đồng thời gây ra khá nhiều tổn thất kinh tế cho cả nhà sản xuất và người tiêu dùng hàng hóa năng lượng. Bây giờ, họ đang quan tâm đến việc không bao giờ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-20_rkidlhtupw.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Crisis-Sparks-a-Middle-East-Pipeline-Boom.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-06-22 04:00"
+    },
     {
       "id": "1p8urw6",
       "title": "Whatever Happened to the Small Modular Reactor Revolution?",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-22 02:00"
+    },
+    {
+      "id": "1b6qqos",
+      "title": "Russia Faces Spreading Fuel Shortages After Ukrainian Drones Pummel Refineries",
+      "title_vi": "Nga phải đối mặt với tình trạng thiếu nhiên liệu lan rộng sau khi máy bay không người lái của Ukraine tấn công nhà máy lọc dầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/world/russia-faces-spreading-fuel-shortages-after-ukrainian-drones-pummel-refineries-60e96bc0",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-06-22 00:56"
     },
     {
       "id": "jsyzpx",
@@ -154,17 +176,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-21 02:00"
-    },
-    {
-      "id": "fgzbqk",
-      "title": "Why Small Modular Reactors Are Becoming a National Security Priority",
-      "title_vi": "Tại sao các lò phản ứng mô-đun nhỏ đang trở thành ưu tiên an ninh quốc gia",
-      "summary_vi": "Trong nhiều thập kỷ, chính sách năng lượng ở Washington đã được tranh luận trên cơ sở kinh tế, biến đổi khí hậu và chính trị trong nước. Thời đại đó đã qua rồi. Hoa Kỳ đang bước vào thời kỳ mà an ninh năng lượng phải được công nhận là trụ cột cốt lõi của an ninh quốc gia và sự sẵn sàng quân sự. T",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-19_nhvkltgjar.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-Small-Modular-Reactors-Are-Becoming-a-National-Security-Priority.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-06-21 00:00"
     },
     {
       "id": "wp75zk",
@@ -539,17 +550,6 @@
       "source": "富途牛牛",
       "category": "metal",
       "published": "2026-06-19 10:18"
-    },
-    {
-      "id": "jof9o6",
-      "title": "Ghana, Côte d’Ivoire to harmonise cocoa prices",
-      "title_vi": "Ghana, Côte d'Ivoire nhằm hài hòa giá ca cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "http://www.msn.com/en-xl/africa/ghana/ghana-c%C3%B4te-d-ivoire-to-harmonise-cocoa-prices/ar-AA25YDPb?apiversion",
-      "source": "MSN",
-      "category": "soft",
-      "published": "2026-06-19 07:04"
     }
   ]
 }

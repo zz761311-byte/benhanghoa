@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-21 23:00",
+  "updated_at": "2026-06-21 23:56",
   "items": [
+    {
+      "id": "wavo0",
+      "title": "‘Thank you for the memories, the smiles and the sugar highs’: The Sugar Factory closes Town Center location",
+      "title_vi": "‘Cảm ơn vì những kỷ niệm, những nụ cười và lượng đường cao’: Nhà máy Đường đóng cửa vị trí Trung tâm Thị trấn",
+      "summary_vi": "Gần ba năm sau khi mở địa điểm đầu tiên ở Jacksonville, The Sugar Factory đã đóng cửa tại The Markets at Town Center.",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/23FNFL5UIBEJDM7SQ57YZP2T7A.png?_a=DATAg1iuZAA0",
+      "link": "https://www.news4jax.com/news/local/2026/06/21/thank-you-for-the-memories-the-smiles-and-the-sugar-highs-the-sugar-factory-closes-town-center-location/",
+      "source": "News4JAX",
+      "category": "soft",
+      "published": "2026-06-21 23:04"
+    },
     {
       "id": "1ogqe9z",
       "title": "The Hormuz Crisis Has Forced India to Rethink Its Energy Strategy",
@@ -420,6 +431,17 @@
       "published": "2026-06-19 14:12"
     },
     {
+      "id": "3tm4r3",
+      "title": "Silver Price Forecast 2026-2027: The bull case and bear case laid out",
+      "title_vi": "Dự báo giá bạc 2026-2027: Kịch bản tăng giá và kịch bản giảm giá được đưa ra",
+      "summary_vi": "Dự báo giá bạc 2026-2027: Kịch bản tăng và giảm được đặt ra - Bài viết",
+      "image": "https://goldsilver.com/wp-content/uploads/2026/04/silver-price-forecast-2026-2027.jpg",
+      "link": "https://goldsilver.com/industry-news/article/silver-price-forecast-2026-2027-the-bull-case-and-bear-case-laid-out/",
+      "source": "GoldSilver",
+      "category": "metal",
+      "published": "2026-06-19 14:00"
+    },
+    {
       "id": "rmaam5",
       "title": "2026 World Cup Predictions: Team USA advances",
       "title_vi": "Dự đoán World Cup 2026: Đội tuyển Mỹ tiến sâu",
@@ -429,17 +451,6 @@
       "source": "Silver Bulletin",
       "category": "metal",
       "published": "2026-06-19 14:00"
-    },
-    {
-      "id": "10up3o8",
-      "title": "2026 Silver Price Forecast: US-Iran Conflict May End, Can Silver Return Above $100 This Year?",
-      "title_vi": "Dự báo giá bạc năm 2026: Xung đột Mỹ-Iran có thể kết thúc, bạc có thể trở lại trên 100 USD trong năm nay không?",
-      "summary_vi": "TradingKey - Gần đây, sau khi kiểm tra lại mức 62,00 USD, giá bạc (XAGUSD) tiếp tục phục hồi nhờ kỳ vọng về các cuộc đàm phán hòa bình Mỹ-Iran, nhanh chóng tăng lên 70 USD trong tuần này. Tính đến phiên giao dịch châu Âu ngày 17 tháng 6, giá bạc ổn định quanh mức 69,60 USD. Tuy nhiên, phân tích kỹ thuật cho thấy mô hình đáy đôi trên",
-      "image": "https://resource.tradingkey.com/cms_uploads/img/20231205/6e6b6a9a780245c3f0982d6fd12c1ee0.jpg",
-      "link": "https://www.tradingkey.com/analysis/commodities/metal/261977313-2026-silver-price-forecast-us-iran-conflict-end-silver-prices-return-above-100-tradingkey",
-      "source": "TradingKey",
-      "category": "metal",
-      "published": "2026-06-19 11:10"
     },
     {
       "id": "x8meg8",
@@ -539,17 +550,6 @@
       "source": "Investing News Network",
       "category": "energy",
       "published": "2026-06-19 04:55"
-    },
-    {
-      "id": "6egpk2",
-      "title": "Rio Tinto (RIO) Resumes Copper Exports After Brief Protest Disru",
-      "title_vi": "Rio Tinto (RIO) tiếp tục xuất khẩu đồng sau cuộc biểu tình ngắn ngủi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.gurufocus.com/news/8923027/rio-tinto-rio-resumes-copper-exports-after-brief-protest-disruption?mobile",
-      "source": "GuruFocus",
-      "category": "metal",
-      "published": "2026-06-19 04:47"
     }
   ]
 }

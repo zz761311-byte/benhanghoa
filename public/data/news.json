@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-06-21 23:56",
+  "updated_at": "2026-06-22 00:00",
   "items": [
+    {
+      "id": "jsyzpx",
+      "title": "Equinor Expands Giant Troll Field as Europe Hunts for More Gas",
+      "title_vi": "Equinor mở rộng lĩnh vực Troll khổng lồ khi châu Âu săn lùng thêm khí đốt",
+      "summary_vi": "Equinor và các đối tác đang đầu tư hơn 4 tỷ NOK (390 triệu USD) để mở rộng mỏ Troll, mỏ khổng lồ ở Biển Bắc cung cấp khoảng 10% lượng khí đốt tự nhiên của châu Âu và chứa 40% trữ lượng khí đốt còn lại của Na Uy. Dự án dự kiến ​​sẽ mở khóa xung quanh",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-19_8amsdpcaux.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Equinor-Expands-Giant-Troll-Field-as-Europe-Hunts-for-More-Gas.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-22 00:00"
+    },
+    {
+      "id": "v6i0ou",
+      "title": "A market, a state, and a treaty",
+      "title_vi": "Thị trường, nhà nước và hiệp ước",
+      "summary_vi": "Bên trong cuộc phỏng vấn với Giám đốc điều hành của Kazatomprom, nhà sản xuất uranium lớn nhất thế giới.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/kazatomprom-erik.jpg",
+      "link": "https://www.mining.com/a-market-a-state-and-a-treaty/",
+      "source": "Mining.com",
+      "category": "energy",
+      "published": "2026-06-21 23:13"
+    },
     {
       "id": "wavo0",
       "title": "‘Thank you for the memories, the smiles and the sugar highs’: The Sugar Factory closes Town Center location",
@@ -22,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-21 22:00"
+    },
+    {
+      "id": "n9p4v6",
+      "title": "Kazatomprom CEO Meirzhan Yussupov on uranium markets, China and nuclear growth",
+      "title_vi": "Giám đốc điều hành Kazatomprom Meirzhan Yussupov về thị trường uranium, Trung Quốc và tăng trưởng hạt nhân",
+      "summary_vi": "Giám đốc điều hành của Kazatomprom thảo luận về sự phát triển uranium có kỷ luật, nhu cầu hạt nhân do AI cung cấp, các tuyến đường thương mại và vai trò của Kazakhstan trong chu trình nhiên liệu.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/kazatomprom-erik.jpg",
+      "link": "https://www.mining.com/kazatomprom-ceo-meirzhan-yussupov-on-uranium-markets-china-and-nuclear-growth/",
+      "source": "Mining.com",
+      "category": "energy",
+      "published": "2026-06-21 21:00"
     },
     {
       "id": "12b1ln9",
@@ -143,17 +176,6 @@
       "source": "CNN",
       "category": "energy",
       "published": "2026-06-20 11:01"
-    },
-    {
-      "id": "1xoxiz4",
-      "title": "Solar Is the Cheapest Power in History, But States Are Retreating From It",
-      "title_vi": "Năng lượng mặt trời là năng lượng rẻ nhất trong lịch sử, nhưng các quốc gia đang rút lui khỏi nó",
-      "summary_vi": "Một cuộc đẩy và kéo đầy rủi ro đang diễn ra trong lĩnh vực năng lượng sạch của Hoa Kỳ khi luật pháp cấp tiểu bang, chính sách cấp liên bang và bàn tay vô hình khét tiếng đó đều kéo theo các hướng khác nhau. Một số lượng đáng kinh ngạc các hành động pháp lý khác nhau từ phía chính quyền Trump",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-19_8yajuo2mzt.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Is-the-Cheapest-Power-in-History-But-States-Are-Retreating-From-It.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-20 05:00"
     },
     {
       "id": "kufvrt",
@@ -376,15 +398,15 @@
       "published": "2026-06-19 18:28"
     },
     {
-      "id": "oio3xf",
-      "title": "St Barbara&#8217;s 100,000 oz Nova Scotia gold hub gets green light",
-      "title_vi": "Trung tâm vàng Nova Scotia 100.000 oz ở St Barbara được bật đèn xanh",
-      "summary_vi": "Dự án được thiết kế lại bước vào giai đoạn tham vấn cộng đồng với kế hoạch sản xuất vàng trong 11 năm và mang lại lợi ích kinh tế lớn.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/Existing-historic-15-Mile-project-site.png",
-      "link": "https://www.mining.com/st-barbaras-100000-oz-nova-scotia-gold-hub-gets-green-light/",
-      "source": "Mining.com",
+      "id": "6ty03q",
+      "title": "Gold Set for Third Weekly Loss as Fed Rate Outlook Supports Dollar",
+      "title_vi": "Vàng được thiết lập cho mức giảm hàng tuần thứ ba khi triển vọng lãi suất của Fed hỗ trợ đồng đô la",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-set-third-weekly-loss-100310495.html",
+      "source": "Yahoo Finance",
       "category": "metal",
-      "published": "2026-06-19 17:49"
+      "published": "2026-06-19 17:03"
     },
     {
       "id": "1pxz9ja",
@@ -429,6 +451,17 @@
       "source": "Gas Compression Magazine",
       "category": "energy",
       "published": "2026-06-19 14:12"
+    },
+    {
+      "id": "1cvqfdg",
+      "title": "Robusta Coffee 10-T Sep '26 Futures Price History",
+      "title_vi": "Lịch sử giá cà phê Robusta 10-T Sep '26",
+      "summary_vi": "Dữ liệu lịch sử và Lịch sử giá của Cà phê Robusta 10-T (RM*0) với dữ liệu trong ngày, hàng ngày, hàng tuần, hàng tháng và hàng quý có sẵn để tải xuống.",
+      "image": "https://assets.barchart.com/img/barchart-og.png",
+      "link": "https://www.barchart.com/futures/quotes/RM*0/price-history/historical",
+      "source": "Barchart.com",
+      "category": "soft",
+      "published": "2026-06-19 14:00"
     },
     {
       "id": "3tm4r3",
@@ -517,39 +550,6 @@
       "source": "Financial News London",
       "category": "macro",
       "published": "2026-06-19 06:02"
-    },
-    {
-      "id": "vxdcw5",
-      "title": "Alamos expects lower Q2 output on Young-Davidson mine disruptions",
-      "title_vi": "Alamos dự kiến ​​sản lượng quý 2 thấp hơn do gián đoạn khai thác mỏ Young-Davidson",
-      "summary_vi": "Công ty khai thác vàng Canada cho biết hoạt động khai thác mỏ đã trải qua hai đợt địa chấn vào tuần trước.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/2-Young-Davidson-Northgate-shaft-777x437-1.jpeg",
-      "link": "https://www.mining.com/alamos-expects-lower-q2-output-on-young-davidson-mine-disruptions/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-19 05:48"
-    },
-    {
-      "id": "di0i4v",
-      "title": "I Tried The NEW PARIS-TOURS In The Tour De France 2026 Game! Francesca Tocca (BYuJ2u6BxM)",
-      "title_vi": "Tôi đã thử PARIS-TOURS MỚI trong trò chơi Tour De France 2026! Francesca Tocca (BYuJ2u6BxM)",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://mshale.com/1da6ac31/ea177b27lFbPFey8PH8",
-      "source": "Mshale",
-      "category": "metal",
-      "published": "2026-06-19 05:42"
-    },
-    {
-      "id": "1wuvfb7",
-      "title": "Oil and Gas Price Update: Q1 2026 in Review",
-      "title_vi": "Cập nhật giá dầu khí: Đánh giá quý 1 năm 2026",
-      "summary_vi": "Giá dầu tăng mạnh trong quý 1 năm 2026 khi eo biển Hormuz đối mặt với tình trạng gián đoạn do xung đột ở Iran. Brent đạt 117,27 USD, phản ánh sự mong manh của thị trường. Với căng thẳng địa chính trị cao, điều này có ý nghĩa gì đối với an ninh năng lượng trong tương lai và tăng trưởng toàn cầu?",
-      "image": "https://investingnews.com/media-library/oil-barrels-in-front-of-world-map-and-fluctuating-stock-market-graph.jpg?id=65155659&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
-      "link": "https://investingnews.com/oil-gas-forecast/",
-      "source": "Investing News Network",
-      "category": "energy",
-      "published": "2026-06-19 04:55"
     }
   ]
 }

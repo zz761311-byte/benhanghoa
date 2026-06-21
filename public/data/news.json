@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-21 13:00",
+  "updated_at": "2026-06-21 14:00",
   "items": [
+    {
+      "id": "12b1ln9",
+      "title": "An inverted world: Coffee crashes by 20%, so why did our price skyrocket?",
+      "title_vi": "Thế giới đảo ngược: Cà phê giảm 20%, tại sao giá lại tăng vọt?",
+      "summary_vi": "Chỉ số cà phê toàn cầu đang lao dốc, nhưng một cuộc kiểm tra của Viện Nghiên cứu Bán lẻ cho thấy lễ kỷ niệm tăng giá điên cuồng trong chuỗi thực phẩm.",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726464",
+      "link": "https://www.jpost.com/business-and-innovation/all-news/article-899989",
+      "source": "The Jerusalem Post",
+      "category": "soft",
+      "published": "2026-06-21 13:15"
+    },
     {
       "id": "117ofmb",
       "title": "Is Equinor Positioned to Capitalize on Geopolitical Energy Shocks",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "metal",
       "published": "2026-06-19 02:47"
-    },
-    {
-      "id": "zgvusn",
-      "title": "Ukraine strikes Moscow oil refinery in large-scale drone attack, with Zelenskyy saying it’s ‘time the war ended’",
-      "title_vi": "Ukraine tấn công nhà máy lọc dầu ở Moscow trong cuộc tấn công bằng máy bay không người lái quy mô lớn, Zelenskyy nói rằng đã đến lúc 'chiến tranh kết thúc'",
-      "summary_vi": "(LONDON) – Ukraine hôm thứ Năm đã phóng hàng trăm máy bay không người lái nhắm mục tiêu vào hơn chục khu vực của Nga, bao gồm cả Moscow, nơi chúng tấn công một nhà máy lọc dầu, khiến những đám khói đen bay lên không trung…",
-      "image": "https://s3.amazonaws.com/syndication.abcaudio.com/files/2026-06-18/Getty_moscowrefinery_061826.jpg",
-      "link": "https://ruralradio.com/kozy/abc_news/ukraine-strikes-moscow-oil-refinery-in-largescale-drone-attack-with-zelenskyy-saying-its-time-the-war-ended-abcid317d8a27/",
-      "source": "Rural Radio Network",
-      "category": "energy",
-      "published": "2026-06-19 00:49"
     }
   ]
 }

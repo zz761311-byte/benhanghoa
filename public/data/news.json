@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-22 14:00",
+  "updated_at": "2026-06-22 15:01",
   "items": [
+    {
+      "id": "1bsq5or",
+      "title": "ANALYSIS: India likely won't export sugar for years as El Nino, ethanol squeeze supply",
+      "title_vi": "PHÂN TÍCH: Ấn Độ có thể sẽ không xuất khẩu đường trong nhiều năm do El Nino, nguồn cung ethanol siết chặt",
+      "summary_vi": "Ấn Độ, từng là thế giới",
+      "image": "https://english-kyodo.ismcdn.jp/mwimgs/5/5/1200x/img_556e5cfffc5dd0ee09fab7ced344d692164483.jpg",
+      "link": "https://english.kyodonews.net/articles/-/78357",
+      "source": "Japan Wire by Kyodo News",
+      "category": "soft",
+      "published": "2026-06-22 14:00"
+    },
     {
       "id": "3vs018",
       "title": "Big Business Urges Faster Electrification",
@@ -9,7 +20,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-22_jspvfflqkq.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Big-Business-Urges-Faster-Electrification.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-06-22 14:00"
     },
     {
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "macro",
       "published": "2026-06-19 15:26"
-    },
-    {
-      "id": "uncvv",
-      "title": "Platinum price reaches the first target – Forecast today – 19-6-2026",
-      "title_vi": "Giá bạch kim đạt mục tiêu đầu tiên – Dự báo hôm nay – 19-6-2026",
-      "summary_vi": "",
-      "image": "https://dylta6p24nxqg.cloudfront.net/images/1781855655.png",
-      "link": "https://www.economies.com/commodities/platinum-analysis/platinum-price-reaches-the-first-target-%E2%80%93-forecast-today-%E2%80%93-19-6-2026-127843",
-      "source": "Economies.com",
-      "category": "metal",
-      "published": "2026-06-19 14:54"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23 02:00",
+  "updated_at": "2026-06-23 02:50",
   "items": [
     {
       "id": "1xwruh2",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-23 01:00"
+    },
+    {
+      "id": "39rso3",
+      "title": "Corn vs. soybeans 2027: Input costs shift profit outlook",
+      "title_vi": "Ngô và đậu nành 2027: Chi phí đầu vào thay đổi triển vọng lợi nhuận",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/commentary/corn-vs-soybeans-2027-input-costs-shift-profit-outlook",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-06-23 00:59"
     },
     {
       "id": "1wvzhd9",
@@ -365,6 +376,17 @@
       "published": "2026-06-21 20:30"
     },
     {
+      "id": "1j802m3",
+      "title": "Silver Price Forecast: Silver Eyes Next Rally as Copper Lags",
+      "title_vi": "Dự báo giá bạc: Silver Eyes đợt tăng giá tiếp theo khi đồng tụt lại",
+      "summary_vi": "Bạc cho thấy động lượng tương đối mạnh hơn đồng vì biểu đồ tỷ lệ hỗ trợ bạc dẫn đầu, trong khi đợt giảm giá gần đây có thể mang lại thiết lập dài hạn tốt hơn nếu nhu cầu tiền tệ vẫn ổn định.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/03/ChatGPT-Image-Jul-1-2025-05_15_26-PM-2.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/premium-silver-price-forecast-silver-eyes-next-rally-as-copper-lags-1605698",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-06-21 15:25"
+    },
+    {
       "id": "12b1ln9",
       "title": "An inverted world: Coffee crashes by 20%, so why did our price skyrocket?",
       "title_vi": "Thế giới đảo ngược: Cà phê giảm 20%, tại sao giá lại tăng vọt?",
@@ -464,6 +486,17 @@
       "published": "2026-06-20 11:01"
     },
     {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "(Reuters) – Khí đốt tự nhiên chạm đến hầu hết mọi ngóc ngách của nền kinh tế Hoa Kỳ, cung cấp nhiên liệu cho các nhà máy điện, nhà cửa, nhà máy và lĩnh vực xuất khẩu LNG đang bùng nổ. Nhưng nguồn cung cần thiết để đáp ứng tất cả những mục đích sử dụng đó lại đến từ một mảnh đất đá phiến ngày càng hẹp của Mỹ. Sự không phù hợp này giữa một nhóm người tiêu dùng ngày càng mở rộng…",
+      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Flame-1200x810-1.jpg",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-06-20 09:02"
+    },
+    {
       "id": "kufvrt",
       "title": "Op-Ed: what the Scope Systems cyber attack reveals about mining&#8217;s digital fragility",
       "title_vi": "Op-Ed: cuộc tấn công mạng của Scope Systems tiết lộ điều gì về tính mong manh kỹ thuật số của hoạt động khai thác",
@@ -517,39 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-06-20 02:16"
-    },
-    {
-      "id": "qnp2l1",
-      "title": "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow",
-      "title_vi": "Thiếu xăng và 'mưa dầu' khiến chiến tranh Nga-Ukraine trở lại Moscow",
-      "summary_vi": "Ukraine tăng cường tấn công vào cơ sở hạ tầng dầu mỏ và vũ khí của Nga khi nước này thu hút viện trợ và bắt đầu các cuộc đàm phán với EU.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-18T105325Z_1756175838_RC27WLA8MTLJ_RTRMADP_3_UKRAINE-CRISIS-ATTACK-MOSCOW-1781877104.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/6/19/petrol-shortages-and-oil-rain-bring-russia-ukraine-war-home-to-moscow",
-      "source": "Al Jazeera",
-      "category": "energy",
-      "published": "2026-06-19 22:25"
-    },
-    {
-      "id": "15xmjew",
-      "title": "EUR/USD Forecast: US Dollar rallies on Fed, more gains in the docket",
-      "title_vi": "Dự báo EUR/USD: Đô la Mỹ tăng giá nhờ Fed, tăng thêm lợi nhuận",
-      "summary_vi": "Tỷ giá EUR/USD giảm xuống mức 1,1417, mức thấp nhất kể từ tháng 3 năm ngoái, do đồng Đô la Mỹ (USD) tăng vọt sau cuộc họp chính sách tiền tệ đầu tiên của Cục Dự trữ Liên bang (Fed) do Kevin Warsh chủ trì. Tuy nhiên, EUR/USD đã phục hồi một số điểm vào thứ Sáu, kết thúc tuần ở mức thấp hơn nhiều so với mốc 1,1500.",
-      "image": "https://editorial.fxsstatic.com/images/i/Happiness-20526_Medium.png",
-      "link": "https://www.fxstreet.com/news/eur-usd-weekly-forecast-winds-of-change-blowing-into-the-federal-reserve-202606191513",
-      "source": "FXStreet",
-      "category": "macro",
-      "published": "2026-06-19 22:13"
-    },
-    {
-      "id": "ays63h",
-      "title": "Oil Flow Resumption Cools War Premium, Deutsche Bank Says",
-      "title_vi": "Ngân hàng Deutsche cho biết việc nối lại dòng dầu làm nguội đi War Premium",
-      "summary_vi": "BitcoinWorld Việc nối lại dòng dầu làm nguội đi War Premium, Deutsche Bank cho biết các nhà phân tích của Deutsche Bank đã lưu ý rằng việc nối lại dòng dầu từ một số nguồn chính",
-      "image": "https://cryptorank.io/static/pages-preview/main-page.png",
-      "link": "https://cryptorank.io/news/feed/72165-oil-flow-resumption-war-premium-deutsche-bank",
-      "source": "CryptoRank",
-      "category": "energy",
-      "published": "2026-06-19 22:04"
     }
   ]
 }

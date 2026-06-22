@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-06-22 20:00",
+  "updated_at": "2026-06-22 21:00",
   "items": [
+    {
+      "id": "17pm14c",
+      "title": "When Will Gasoline Prices Return to Pre-War Levels?",
+      "title_vi": "Khi nào giá xăng sẽ trở lại mức trước chiến tranh?",
+      "summary_vi": "Giá xăng đã bắt đầu giảm và đó là tin đáng mừng cho các tài xế. Sau nhiều tháng đau đầu với máy bơm sau cuộc chiến với Iran và sự gián đoạn giao thông qua eo biển Hormuz, ngay cả sự cứu trợ khiêm tốn cũng đáng chú ý. Nhưng việc rơi khỏi mức độ khủng hoảng không giống như vậy.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-22_wwzksj6ymu.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/When-Will-Gasoline-Prices-Return-to-Pre-War-Levels.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-22 21:00"
+    },
+    {
+      "id": "15rhiyw",
+      "title": "Platinum Is Down 6% While Gold Hit Record Highs and One Quiet ETF Sits at the Bottom of a Setup Most Investors Are Missing",
+      "title_vi": "Bạch kim giảm 6% trong khi vàng đạt mức cao kỷ lục và một quỹ ETF yên tĩnh đứng ở cuối quá trình thiết lập Hầu hết các nhà đầu tư đều bỏ lỡ",
+      "summary_vi": "PPLY của Aberdeen Investments nắm giữ bạch kim vật chất trong kho của JP Morgan và sự chênh lệch về giá của nó so với tỷ lệ vàng/bạch kim thông thường đã sẵn sàng kích hoạt một đợt giảm giá năng động.",
+      "image": "https://247wallst.com/wp-content/uploads/2013/01/platinum-bars.jpg",
+      "link": "https://247wallst.com/investing/2026/06/22/platinum-is-down-6-while-gold-hit-record-highs-and-one-quiet-etf-sits-at-the-bottom-of-a-setup-most-investors-are-missing/",
+      "source": "24/7 Wall St.",
+      "category": "metal",
+      "published": "2026-06-22 20:43"
+    },
+    {
+      "id": "etryoj",
+      "title": "China Builds New LNG Hub as Russian Imports Surge",
+      "title_vi": "Trung Quốc xây dựng trung tâm LNG mới khi nhập khẩu từ Nga tăng vọt",
+      "summary_vi": "Trung Quốc đang chuẩn bị xây dựng nhà ga thứ hai để tiếp nhận khí đốt tự nhiên hóa lỏng (LNG) bị trừng phạt của Nga, khi lượng khí đốt nhập khẩu của nước này tăng mạnh. Theo một báo cáo độc quyền của Reuters, nhà ga LNG Long Khẩu mới được xây dựng ở tỉnh Sơn Đông phía đông Trung Quốc đang được xếp hàng để nhận",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-22_dtk3vza9il.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Builds-New-LNG-Hub-as-Russian-Imports-Surge.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-22 20:30"
+    },
     {
       "id": "183y51j",
       "title": "Iran’s Oil Exports Through Hormuz Hit Wartime High",
@@ -101,17 +134,6 @@
       "published": "2026-06-22 14:00"
     },
     {
-      "id": "btaut6",
-      "title": "Qatar Races to Restore LNG Exports Despite Ras Laffan Setback",
-      "title_vi": "Qatar chạy đua khôi phục xuất khẩu LNG bất chấp thất bại của Ras Laffan",
-      "summary_vi": "Qatar đang triệu hồi các tàu chở LNG trống để chuẩn bị khởi động lại hoạt động xuất khẩu bất chấp việc sửa chữa đang diễn ra tại khu phức hợp Ras Laffan và một vụ nổ làm rung chuyển cơ sở này hôm Chủ nhật. Ba hãng vận chuyển khí hóa lỏng thuộc sở hữu của QatarEnergy đang hướng tới lối vào",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-22_qybjsqvh6c.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Races-to-Restore-LNG-Exports-Despite-Ras-Laffan-Setback.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-22 12:49"
-    },
-    {
       "id": "rmaam5",
       "title": "2026 World Cup Predictions",
       "title_vi": "Dự đoán World Cup 2026",
@@ -132,17 +154,6 @@
       "source": "TradingView",
       "category": "metal",
       "published": "2026-06-22 07:43"
-    },
-    {
-      "id": "183mrbk",
-      "title": "The AI Arms Race Isn’t About Technology – It’s About Electricity",
-      "title_vi": "Cuộc chạy đua vũ trang AI không phải về công nghệ mà là về điện",
-      "summary_vi": "Hai năm rưỡi trước, NVIDIA là công ty chip chơi game trị giá 300 tỷ USD. Ngày nay, đây là công ty có giá trị nhất trong lịch sử với hơn 4 nghìn tỷ USD. Các nhà đầu tư nhìn thấy được điều gì sắp xảy ra và định vị sớm đã kiếm được nhiều tiền. Cổ phần trị giá 10.000 USD của NVIDIA vào đầu năm 2023 là",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-20_fx82dl0qzu.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/The-AI-Arms-Race-Isnt-About-Technology-Its-About-Electricity.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-22 07:00"
     },
     {
       "id": "1mdv6td",
@@ -464,17 +475,6 @@
       "published": "2026-06-19 21:34"
     },
     {
-      "id": "34nyc2",
-      "title": "Hawkish Fed signals send gold to third straight weekly loss",
-      "title_vi": "Tín hiệu diều hâu của Fed khiến vàng giảm tuần thứ ba liên tiếp",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-track-third-weekly-loss-firm-dollar-hawkish-fed-signals-2026-06-19/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-06-19 21:20"
-    },
-    {
       "id": "nh20aj",
       "title": "APA Gains 63% in a Year: Is the Market Finally Catching On?",
       "title_vi": "APA tăng 63% trong một năm: Thị trường cuối cùng đã bắt kịp?",
@@ -508,17 +508,6 @@
       "published": "2026-06-19 20:11"
     },
     {
-      "id": "5twump",
-      "title": "Gas Prices Could Take Months to Return to Pre-War Levels Even After U.S.-Iran Deal",
-      "title_vi": "Giá xăng có thể mất nhiều tháng để trở lại mức trước chiến tranh ngay cả sau thỏa thuận Mỹ-Iran",
-      "summary_vi": "Các nhà phân tích nói với TIME rằng việc đảm bảo một thỏa thuận Mỹ-Iran và việc nhấn mạnh vào việc mở lại hoàn toàn eo biển đã mang lại một số đảm bảo, nhưng vẫn còn những trở ngại đáng kể.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt6ea8e303536b38c6/6a351a8599e9a756b13c9105/gas_prices.jpg?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
-      "link": "https://time.com/article/2026/06/19/us-iran-deal-strait-hormuz-shipping-oil-gas-prices/",
-      "source": "Time Magazine",
-      "category": "energy",
-      "published": "2026-06-19 19:59"
-    },
-    {
       "id": "1oxup6f",
       "title": "Broaden commodity exposure",
       "title_vi": "Mở rộng tham gia hàng hóa",
@@ -550,6 +539,17 @@
       "source": "Bitget",
       "category": "macro",
       "published": "2026-06-19 16:58"
+    },
+    {
+      "id": "1ygppmd",
+      "title": "Why Freeport-McMoRan (FCX) Remains Central to the Copper Supply Story Despite Grasberg Delays",
+      "title_vi": "Tại sao Freeport-McMoRan (FCX) vẫn là trung tâm của câu chuyện cung cấp đồng bất chấp sự chậm trễ của Grasberg",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-freeport-mcmoran-fcx-remains-095756885.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-06-19 16:57"
     }
   ]
 }

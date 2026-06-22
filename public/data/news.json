@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-06-22 17:00",
+  "updated_at": "2026-06-22 18:00",
   "items": [
+    {
+      "id": "att7z4",
+      "title": "Plains Drought Cuts Winter Wheat Production Forecast",
+      "title_vi": "Dự báo sản lượng lúa mì mùa đông ở vùng đồng bằng hạn hán",
+      "summary_vi": "Hạn hán dai dẳng trên khắp Great Plains đang gây thiệt hại cho vụ lúa mì mùa đông của Mỹ. Theo dữ liệu của Reuters và USDA, Bộ này đã hạ dự báo sản lượng lúa mì vụ đông niên vụ 2026-27 khoảng 2% so với tháng trước.",
+      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2470/2024/09/20224354/wheat-24-845x563.jpg",
+      "link": "https://www.americanagnetwork.com/2026/06/22/plains-drought-cuts-winter-wheat-production-forecast/",
+      "source": "American Ag Network",
+      "category": "agri",
+      "published": "2026-06-22 17:55"
+    },
+    {
+      "id": "gyxnvt",
+      "title": "India’s Imports of Russian Oil Set for New Record High",
+      "title_vi": "Nhập khẩu dầu Nga của Ấn Độ lập mức cao kỷ lục mới",
+      "summary_vi": "Ấn Độ chuẩn bị nhập khẩu khối lượng dầu thô lớn kỷ lục của Nga trong tháng 6 do cuộc khủng hoảng Hormuz và sự miễn trừ của Mỹ đối với các thùng dầu của Nga đã thúc đẩy nhà nhập khẩu dầu thô lớn thứ ba thế giới phải ngấu nghiến dầu của Moscow một lần nữa. Ấn Độ đã nhập khẩu 2,6 triệu thùng dầu mỗi ngày từ Nga",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-22_mfekpywr0f.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Imports-of-Russian-Oil-Set-for-New-Record-High.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-22 17:30"
+    },
     {
       "id": "1yu2f2l",
       "title": "Explosion at Qatar’s Ras Laffan LNG Injures Dozens",
@@ -121,17 +143,6 @@
       "source": "Eastern Arizona Courier",
       "category": "metal",
       "published": "2026-06-22 03:00"
-    },
-    {
-      "id": "1p8urw6",
-      "title": "Whatever Happened to the Small Modular Reactor Revolution?",
-      "title_vi": "Điều gì đã xảy ra với cuộc cách mạng lò phản ứng mô-đun nhỏ?",
-      "summary_vi": "Vào đầu những năm 2020, người ta rất nhiệt tình xung quanh việc phát triển lò phản ứng mô-đun nhỏ (SMR), dự kiến ​​sẽ hỗ trợ thời kỳ phục hưng hạt nhân. Tuy nhiên, sau sự gián đoạn của chuỗi cung ứng, những khó khăn về kỹ thuật và những thách thức khác, không rõ liệu SMR có phát triển được hay không.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_pvhzbsygaw.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Whatever-Happened-to-the-Small-Modular-Reactor-Revolution.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-22 02:00"
     },
     {
       "id": "1b6qqos",
@@ -539,17 +550,6 @@
       "source": "Bitget",
       "category": "macro",
       "published": "2026-06-19 16:58"
-    },
-    {
-      "id": "1ygppmd",
-      "title": "Why Freeport-McMoRan (FCX) Remains Central to the Copper Supply Story Despite Grasberg Delays",
-      "title_vi": "Tại sao Freeport-McMoRan (FCX) vẫn là trung tâm của câu chuyện cung cấp đồng bất chấp sự chậm trễ của Grasberg",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-freeport-mcmoran-fcx-remains-095756885.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-06-19 16:57"
     }
   ]
 }

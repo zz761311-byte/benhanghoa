@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22 11:00",
+  "updated_at": "2026-06-22 12:00",
   "items": [
     {
       "id": "183mrbk",
@@ -121,6 +121,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-21 22:00"
+    },
+    {
+      "id": "1ik0gne",
+      "title": "Father’s Day forecast: stormy and steamy for the first day of Summer",
+      "title_vi": "Dự báo Ngày của Cha: Ngày đầu Hè giông bão và oi bức",
+      "summary_vi": "Dự kiến ​​sẽ có nhiều cơn giông rải rác vào chiều và tối nay, cơ hội tốt nhất cho những cơn bão mạnh hơn ở gần bờ biển, đặc biệt dọc theo hành lang I-95/US-17.",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/video/wjxt/bd28f5fb-790a-49fe-8748-f4212cc66dfa/image.jpg?_a=DATAg1iuZAA0",
+      "link": "https://www.news4jax.com/weather/2026/06/21/fathers-day-forecast-stormy-and-steamy-for-the-first-day-of-summer/",
+      "source": "News4JAX",
+      "category": "soft",
+      "published": "2026-06-21 21:21"
     },
     {
       "id": "n9p4v6",
@@ -508,6 +519,17 @@
       "published": "2026-06-19 14:12"
     },
     {
+      "id": "r6x4k4",
+      "title": "Platinum Live Chart - Metals CFD Trading | FOREX.com SG",
+      "title_vi": "Biểu đồ trực tiếp bạch kim - Giao dịch CFD kim loại | FOREX.com SG",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forex.com/en-sg/gold-silver-trading/platinum/",
+      "source": "FOREX.com",
+      "category": "metal",
+      "published": "2026-06-19 14:00"
+    },
+    {
       "id": "1cvqfdg",
       "title": "Robusta Coffee 10-T Sep '26 Futures Price History",
       "title_vi": "Lịch sử giá cà phê Robusta 10-T Sep '26",
@@ -528,28 +550,6 @@
       "source": "GoldSilver",
       "category": "metal",
       "published": "2026-06-19 14:00"
-    },
-    {
-      "id": "rmaam5",
-      "title": "2026 World Cup Predictions: Team USA advances",
-      "title_vi": "Dự đoán World Cup 2026: Đội tuyển Mỹ tiến sâu",
-      "summary_vi": "Ai sẽ vô địch World Cup 2026? Tỷ lệ cược cho tất cả 48 đội và 104 trận đấu, được hỗ trợ bởi 100.000 mô phỏng từ PELE, mô hình bóng đá mới của Silver Bulletin.",
-      "image": "https://substackcdn.com/image/fetch/$s_!KjO2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86404ff2-f8b5-4c37-a535-65d03b01b64a_1500x929.gif",
-      "link": "https://www.natesilver.net/p/world-cup-2026-odds-predictions",
-      "source": "Silver Bulletin",
-      "category": "metal",
-      "published": "2026-06-19 14:00"
-    },
-    {
-      "id": "x8meg8",
-      "title": "Aluminum Prices Surge Toward 4-Year High — ING Warns Of Upside Supply Risks, Says Europe is ‘Particularly Exposed’",
-      "title_vi": "Giá nhôm tăng lên mức cao nhất trong 4 năm - ING cảnh báo về rủi ro nguồn cung tăng, cho biết châu Âu 'đặc biệt bị ảnh hưởng'",
-      "summary_vi": "Xung đột leo thang giữa Mỹ, Israel và Iran đã làm gián đoạn chuỗi cung ứng nhôm, vốn đang phải đối mặt với tình trạng thâm hụt do các nhà máy luyện kim ngừng hoạt động và sản lượng của Trung Quốc giảm.",
-      "image": "https://news.stocktwits-cdn.com/large_aluminum_resized_jpg_6efa759339.webp",
-      "link": "https://stocktwits.com/news-articles/markets/equity/aluminum-prices-surge-toward-4-year-high-ing-warns-of-upside-supply-risks-says-europe-is-particularly-exposed/cZd9q3YRI5C",
-      "source": "Stocktwits",
-      "category": "metal",
-      "published": "2026-06-19 10:28"
     }
   ]
 }

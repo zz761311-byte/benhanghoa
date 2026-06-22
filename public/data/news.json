@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22 09:00",
+  "updated_at": "2026-06-22 10:00",
   "items": [
     {
       "id": "183mrbk",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-22 04:00"
+    },
+    {
+      "id": "1mdv6td",
+      "title": "AI data centers adds new demand for Arizona copper",
+      "title_vi": "Các trung tâm dữ liệu AI bổ sung nhu cầu mới về đồng Arizona",
+      "summary_vi": "S&P Global báo cáo rằng các trung tâm dữ liệu trí tuệ nhân tạo có thể tăng gấp đôi nhu cầu đồng từ lĩnh vực này vào năm 2040, làm tăng tầm quan trọng của các khu vực sản xuất đồng như các quận Graham và Greenlee.",
+      "image": "https://bloximages.chicago2.vip.townnews.com/eacourier.com/content/tncms/assets/v3/editorial/d/82/d82cdba4-efca-48e7-8b55-60bbc0d4e67b/6a383f859649a.image.png?crop=1055%2C554%2C0%2C468",
+      "link": "https://www.eacourier.com/news/mining/ai-data-centers-adds-new-demand-for-arizona-copper/article_5dfa6d90-33c0-4f2e-b01a-5a329e4e57c6.html",
+      "source": "Eastern Arizona Courier",
+      "category": "metal",
+      "published": "2026-06-22 03:00"
     },
     {
       "id": "1p8urw6",
@@ -539,17 +550,6 @@
       "source": "Stocktwits",
       "category": "metal",
       "published": "2026-06-19 10:28"
-    },
-    {
-      "id": "1vf6qwq",
-      "title": "Global metals markets enter their most perilous weeks: Trump's copper tariff decision is imminent!",
-      "title_vi": "Thị trường kim loại toàn cầu bước vào những tuần nguy hiểm nhất: Quyết định áp thuế đồng của Trump sắp xảy ra!",
-      "summary_vi": "①Hiện tại, các nhà giao dịch đồng trên thị trường toàn cầu đang nín thở chờ báo cáo đánh giá từ Bộ Thương mại Hoa Kỳ, dự kiến ​​vào cuối tháng 6, đây sẽ là cơ sở quan trọng cho quyết định cuối cùng của Trump về thuế quan; ② Trong những ngày trước thông báo quan trọng này, các nhà giao dịch đang theo dõi chặt chẽ",
-      "image": "https://usnewsfile.moomoo.com/news-thumbnail/20260119/public/17688130094104198517679-news-thumbnail/20260119/public/17688130094076475966064.jpeg.jpeg",
-      "link": "https://news.futunn.com/en/ja/post/74819506/global-metals-markets-enter-their-most-perilous-weeks-trump-s",
-      "source": "富途牛牛",
-      "category": "metal",
-      "published": "2026-06-19 10:18"
     }
   ]
 }

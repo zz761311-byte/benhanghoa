@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-06-23 00:00",
+  "updated_at": "2026-06-23 01:00",
   "items": [
+    {
+      "id": "ifnfpq",
+      "title": "The Oil Crisis Is Far From Over",
+      "title_vi": "Cuộc khủng hoảng dầu mỏ còn lâu mới kết thúc",
+      "summary_vi": "Phác thảo các điều kiện và chủ đề để giải quyết xung đột Mỹ-Iran bằng thương lượng, được gọi là Biên bản ghi nhớ (MOU) và được cả hai bên ký vào tuần trước, trong mọi khả năng sẽ không ngăn cản được vách đá năng lượng đang đến gần. Vách đá đó sẽ là kết quả của fast-dep",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-22_ac9roeh1jm.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Oil-Crisis-Is-Far-From-Over.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-23 01:00"
+    },
+    {
+      "id": "1wvzhd9",
+      "title": "Saudis Turn to Russian Fuel Oil as Iran War Saps Fossil Power Supplies",
+      "title_vi": "Saudis chuyển sang sử dụng dầu nhiên liệu của Nga khi chiến tranh Iran làm cạn kiệt nguồn cung cấp năng lượng hóa thạch",
+      "summary_vi": "Ả Rập Saudi tiếp tục mua khối lượng lớn dầu nhiên liệu của Nga khi cuộc khủng hoảng Hormuz đã buộc phải đóng cửa các giếng dầu và khí đốt, đồng thời giảm nguồn cung cấp điện trong nước để phát điện trong bối cảnh nhiệt độ tăng cao. Các lô hàng dầu nhiên liệu và dầu khí chân không (VGO) của Nga đã sụt giảm trong tháng 5",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-22_hdrnv1jl9m.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudis-Turn-to-Russian-Fuel-Oil-as-Iran-War-Saps-Fossil-Power-Supplies.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-23 00:30"
+    },
     {
       "id": "ely1ea",
       "title": "The Race to Revive Venezuela’s Vast Oil Wealth Is Underway",
@@ -90,17 +112,6 @@
       "published": "2026-06-22 21:16"
     },
     {
-      "id": "17pm14c",
-      "title": "When Will Gasoline Prices Return to Pre-War Levels?",
-      "title_vi": "Khi nào giá xăng sẽ trở lại mức trước chiến tranh?",
-      "summary_vi": "Giá xăng đã bắt đầu giảm và đó là tin đáng mừng cho các tài xế. Sau nhiều tháng đau đầu với máy bơm sau cuộc chiến với Iran và sự gián đoạn giao thông qua eo biển Hormuz, ngay cả sự cứu trợ khiêm tốn cũng đáng chú ý. Nhưng việc rơi khỏi mức độ khủng hoảng không giống như vậy.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-22_wwzksj6ymu.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/When-Will-Gasoline-Prices-Return-to-Pre-War-Levels.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-22 21:00"
-    },
-    {
       "id": "1ownfia",
       "title": "Oil Prices Fall as U.S.-Iran Talks Show Signs of Progress",
       "title_vi": "Giá dầu giảm khi các cuộc đàm phán Mỹ-Iran có dấu hiệu tiến triển",
@@ -121,17 +132,6 @@
       "source": "24/7 Wall St.",
       "category": "metal",
       "published": "2026-06-22 20:43"
-    },
-    {
-      "id": "etryoj",
-      "title": "China Builds New LNG Hub as Russian Imports Surge",
-      "title_vi": "Trung Quốc xây dựng trung tâm LNG mới khi nhập khẩu từ Nga tăng vọt",
-      "summary_vi": "Trung Quốc đang chuẩn bị xây dựng nhà ga thứ hai để tiếp nhận khí đốt tự nhiên hóa lỏng (LNG) bị trừng phạt của Nga, khi lượng khí đốt nhập khẩu của nước này tăng mạnh. Theo một báo cáo độc quyền của Reuters, nhà ga LNG Long Khẩu mới được xây dựng ở tỉnh Sơn Đông phía đông Trung Quốc đang được xếp hàng để nhận",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-22_dtk3vza9il.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Builds-New-LNG-Hub-as-Russian-Imports-Surge.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-22 20:30"
     },
     {
       "id": "50yxck",
@@ -198,6 +198,17 @@
       "source": "Japan Wire by Kyodo News",
       "category": "soft",
       "published": "2026-06-22 14:00"
+    },
+    {
+      "id": "10fcce9",
+      "title": "Coffee price tests the broken support – Forecast today – 22-6-2026",
+      "title_vi": "Giá cà phê test vùng hỗ trợ bị phá vỡ – Dự báo hôm nay – 22-6-2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.economies.com/commodities/coffee-analysis/coffee-price-tests-the-broken-support-%E2%80%93-forecast-today-%E2%80%93-22-6-2026-127877",
+      "source": "Economies.com",
+      "category": "soft",
+      "published": "2026-06-22 12:18"
     },
     {
       "id": "rmaam5",
@@ -398,6 +409,17 @@
       "published": "2026-06-20 20:27"
     },
     {
+      "id": "z0mhsu",
+      "title": "Fuelling Anxiety: What Gas Prices Tell Us About America and the World",
+      "title_vi": "Thúc đẩy sự lo lắng: Giá xăng cho chúng ta biết điều gì về nước Mỹ và thế giới",
+      "summary_vi": "Cuộc chiến ở Iran đã cho thấy giá khí đốt không chỉ ảnh hưởng đến ví tiền của người dân mà còn ảnh hưởng đến tâm trí quốc gia chúng ta như thế nào - như đã xảy ra trong nhiều thập kỷ.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8a330e3585fdcaf9/6a341fbc30f1a432d07e1f45/weekend-essay-gas-prices.jpg?branch=production&width=3840&quality=75&auto=webp&crop=16:9",
+      "link": "https://time.com/article/2026/06/20/fuelling-anxiety-what-gas-prices-tell-us-about-america-and-the-world/",
+      "source": "Time Magazine",
+      "category": "energy",
+      "published": "2026-06-20 18:00"
+    },
+    {
       "id": "dntnbh",
       "title": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
       "title_vi": "Vụ tấn công nhà máy lọc dầu Moscow đưa cuộc chiến của Nga với Ukraine đến gần hơn",
@@ -528,28 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-06-19 20:27"
-    },
-    {
-      "id": "1kutdsd",
-      "title": "Weekly Coffee News: Stumptown President Signs Off + Dolly Parton Coffee",
-      "title_vi": "Tin tức cà phê hàng tuần: Chủ tịch Stumptown ký kết + Cà phê Dolly Parton",
-      "summary_vi": "Chào mừng bạn đến với Bản tin cà phê hàng tuần của DCN! Đăng ký tại đây để nhận tất cả tin tức mới nhất về ngành cà phê. Ngoài ra, hãy xem các cơ hội nghề nghiệp mới nhất tại CoffeeIndustryJobs.com. Chủ tịch Stumptown Laura Szeliga rời bỏ Công ty Stumptown Coffee Roasters...",
-      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/06/Stumptown-Coffee-Roasters.jpg",
-      "link": "https://dailycoffeenews.com/2026/06/19/weekly-coffee-news-stumptown-president-signs-off-dolly-parton-coffee/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-06-19 20:11"
-    },
-    {
-      "id": "1oxup6f",
-      "title": "Broaden commodity exposure",
-      "title_vi": "Mở rộng tham gia hàng hóa",
-      "summary_vi": "Chúng tôi tin rằng các nhà đầu tư nên xem xét mở rộng việc tiếp cận hàng hóa với sự quản lý tích cực. Khả năng tăng giá của vàng có thể bị hạn chế hơn trong những tháng tới và việc phân bổ hàng hóa rộng hơn có thể mang lại tiềm năng sinh lời tốt hơn và giảm thiểu rủi ro. Việc tham gia với năng lượng có thể giúp giảm bớt sự gián đoạn nguồn cung mới, trong khi",
-      "image": "https://www.ubs.com/cioresearch/34/78/06/7/3478067/en/opengraphimage.629.png",
-      "link": "https://www.ubs.com/sg/en/wealthmanagement/insights/marketnews/article.3478067.html",
-      "source": "UBS",
-      "category": "metal",
-      "published": "2026-06-19 18:51"
     }
   ]
 }

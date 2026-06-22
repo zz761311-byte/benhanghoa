@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22 16:00",
+  "updated_at": "2026-06-22 16:15",
   "items": [
     {
       "id": "13vzhdb",
@@ -264,6 +264,17 @@
       "source": "IndexBox",
       "category": "metal",
       "published": "2026-06-20 21:41"
+    },
+    {
+      "id": "1wqlcxy",
+      "title": "Up 700% and now down 90%, the Iran war made potato prices more volatile than penny stocks",
+      "title_vi": "Tăng 700% và nay giảm 90%, chiến tranh Iran khiến giá khoai tây biến động hơn cổ phiếu penny",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.msn.com/en-us/money/savingandinvesting/up-700-and-now-down-90-the-iran-war-made-potato-prices-more-volatile-than-penny-stocks/ar-AA24VSXt",
+      "source": "MSN",
+      "category": "macro",
+      "published": "2026-06-20 20:27"
     },
     {
       "id": "dntnbh",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-06-19 16:57"
-    },
-    {
-      "id": "1d2x4lz",
-      "title": "Dollar Rises to One-Year High on Increased Prospects of Higher U.S. Interest Rates",
-      "title_vi": "Đồng đô la tăng lên mức cao nhất trong một năm nhờ triển vọng lãi suất cao hơn của Hoa Kỳ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/economy/central-banking/dollar-rises-to-one-year-high-on-increased-prospects-of-higher-u-s-interest-rates-68817d97",
-      "source": "WSJ",
-      "category": "macro",
-      "published": "2026-06-19 15:26"
     }
   ]
 }

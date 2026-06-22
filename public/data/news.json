@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-22 13:00",
+  "updated_at": "2026-06-22 14:00",
   "items": [
+    {
+      "id": "3vs018",
+      "title": "Big Business Urges Faster Electrification",
+      "title_vi": "Doanh nghiệp lớn kêu gọi điện khí hóa nhanh hơn",
+      "summary_vi": "Reuters hôm nay đưa tin, một nhóm các tập đoàn quốc tế lớn đã kêu gọi các chính phủ đẩy nhanh quá trình điện khí hóa hoạt động kinh doanh để giảm sự phụ thuộc vào “thị trường nhiên liệu không ổn định”, trích dẫn một bức thư do người đứng đầu các công ty viết. “Tiếp tục phụ thuộc vào thị trường nhiên liệu biến động",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-22_jspvfflqkq.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Big-Business-Urges-Faster-Electrification.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-22 14:00"
+    },
     {
       "id": "btaut6",
       "title": "Qatar Races to Restore LNG Exports Despite Ras Laffan Setback",
@@ -22,6 +33,17 @@
       "source": "Silver Bulletin",
       "category": "metal",
       "published": "2026-06-22 09:22"
+    },
+    {
+      "id": "wi44ff",
+      "title": "The Weekly Finger: Geopolitical Whiplash, the Copper Play, and Washington’s Poolside Circus",
+      "title_vi": "The Weekly Finger: Whiplash địa chính trị, vở kịch Copper và rạp xiếc bên hồ bơi của Washington",
+      "summary_vi": "Chào mừng bạn đến với ấn bản khác của The Weekly Finger. Hãy uống một tách cà phê và thư giãn, bởi vì bối cảnh vĩ mô toàn cầu đã cố gắng dịch chuyển theo trục của nó một lần nữa trong vài ngày qua. Chúng tôi đang tạm thời rời xa tình trạng căng thẳng lãi suất trong nước để tập trung vào một loạt các đòn roi địa chính trị…",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://www.tradingview.com/news/smallcaps:7040f042a094b:0-the-weekly-finger-geopolitical-whiplash-the-copper-play-and-washington-s-poolside-circus/",
+      "source": "TradingView",
+      "category": "metal",
+      "published": "2026-06-22 07:43"
     },
     {
       "id": "183mrbk",
@@ -220,17 +242,6 @@
       "source": "Kavout",
       "category": "macro",
       "published": "2026-06-21 08:22"
-    },
-    {
-      "id": "wog8nc",
-      "title": "G7 Takes Aim at China’s Grip on Critical Minerals",
-      "title_vi": "G7 nhắm vào việc kiểm soát các khoáng sản quan trọng của Trung Quốc",
-      "summary_vi": "Các nhà lãnh đạo G7 đã thành lập một liên minh chiến lược về các khoáng sản quan trọng trong nỗ lực phối hợp nhằm phá vỡ sự kiểm soát quá mức của Trung Quốc đối với kim loại, khoáng sản và các nguyên tố đất hiếm quan trọng đối với ngành công nghiệp quốc phòng, ô tô và năng lượng sạch. Tại hội nghị thượng đỉnh G7 ở Evian, F",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-20_tz42myzowd.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/G7-Takes-Aim-at-Chinas-Grip-on-Critical-Minerals.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-06-21 06:00"
     },
     {
       "id": "wp75zk",
@@ -539,17 +550,6 @@
       "source": "Economies.com",
       "category": "metal",
       "published": "2026-06-19 14:54"
-    },
-    {
-      "id": "14xqcwb",
-      "title": "Gas Leads The Way In A Maturing Permian Basin",
-      "title_vi": "Khí dẫn đầu trong lưu vực Permian đang trưởng thành",
-      "summary_vi": "Sản lượng khí đốt tự nhiên Permian tăng nhanh hơn dầu thô",
-      "image": "https://gascompressionmagazine.com/wp-content/uploads/2026/06/permian-gas-and-oil-production-2021-2025.jpg",
-      "link": "https://gascompressionmagazine.com/2026/06/19/gas-leads-the-way-in-a-maturing-permian-basin/",
-      "source": "Gas Compression Magazine",
-      "category": "energy",
-      "published": "2026-06-19 14:12"
     }
   ]
 }

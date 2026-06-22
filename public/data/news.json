@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-22 12:00",
+  "updated_at": "2026-06-22 12:35",
   "items": [
+    {
+      "id": "rmaam5",
+      "title": "2026 World Cup Predictions",
+      "title_vi": "Dự đoán World Cup 2026",
+      "summary_vi": "Ai sẽ vô địch World Cup 2026? Tỷ lệ cược cho tất cả 48 đội và 104 trận đấu, được hỗ trợ bởi 100.000 mô phỏng từ PELE, mô hình bóng đá mới của Silver Bulletin.",
+      "image": "https://substackcdn.com/image/fetch/$s_!KjO2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86404ff2-f8b5-4c37-a535-65d03b01b64a_1500x929.gif",
+      "link": "https://www.natesilver.net/p/world-cup-2026-odds-predictions",
+      "source": "Silver Bulletin",
+      "category": "metal",
+      "published": "2026-06-22 09:22"
+    },
     {
       "id": "183mrbk",
       "title": "The AI Arms Race Isn’t About Technology – It’s About Electricity",
@@ -134,6 +145,17 @@
       "published": "2026-06-21 21:21"
     },
     {
+      "id": "xxgodk",
+      "title": "Ingredient needed for pretty much all food just got way more expensive. Your grocery bill may soar too",
+      "title_vi": "Thành phần cần thiết cho hầu hết các loại thực phẩm ngày càng đắt hơn. Hóa đơn hàng tạp hóa của bạn cũng có thể tăng cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wtaj.com/news/national-news/ingredient-needed-for-pretty-much-all-food-just-got-way-more-expensive-your-grocery-bill-may-soar-too/?nxsparam",
+      "source": "WTAJ",
+      "category": "agri",
+      "published": "2026-06-21 21:09"
+    },
+    {
       "id": "n9p4v6",
       "title": "Kazatomprom CEO Meirzhan Yussupov on uranium markets, China and nuclear growth",
       "title_vi": "Giám đốc điều hành Kazatomprom Meirzhan Yussupov về thị trường uranium, Trung Quốc và tăng trưởng hạt nhân",
@@ -253,6 +275,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-20 03:46"
+    },
+    {
+      "id": "dzexjm",
+      "title": "Aberdeen Research and Extension Center",
+      "title_vi": "Trung tâm Nghiên cứu và Khuyến nông Aberdeen",
+      "summary_vi": "Trung tâm Nghiên cứu và Khuyến nông Aberdeen tiến hành nghiên cứu về nhiều loại cây trồng quan trọng nhất của Idaho, bao gồm khoai tây, lúa mì và lúa mạch.",
+      "image": "https://content-hub.uidaho.edu/api/public/content/fe130169140a4cd98913af1b379287cd?v=e5cf154c",
+      "link": "https://www.uidaho.edu/idaho-ag-experiment-station/centers/aberdeen?trumbaEmbed",
+      "source": "University of Idaho",
+      "category": "agri",
+      "published": "2026-06-20 03:05"
     },
     {
       "id": "n6wqkh",
@@ -517,39 +550,6 @@
       "source": "Gas Compression Magazine",
       "category": "energy",
       "published": "2026-06-19 14:12"
-    },
-    {
-      "id": "r6x4k4",
-      "title": "Platinum Live Chart - Metals CFD Trading | FOREX.com SG",
-      "title_vi": "Biểu đồ trực tiếp bạch kim - Giao dịch CFD kim loại | FOREX.com SG",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forex.com/en-sg/gold-silver-trading/platinum/",
-      "source": "FOREX.com",
-      "category": "metal",
-      "published": "2026-06-19 14:00"
-    },
-    {
-      "id": "1cvqfdg",
-      "title": "Robusta Coffee 10-T Sep '26 Futures Price History",
-      "title_vi": "Lịch sử giá cà phê Robusta 10-T Sep '26",
-      "summary_vi": "Dữ liệu lịch sử và Lịch sử giá của Cà phê Robusta 10-T (RM*0) với dữ liệu trong ngày, hàng ngày, hàng tuần, hàng tháng và hàng quý có sẵn để tải xuống.",
-      "image": "https://assets.barchart.com/img/barchart-og.png",
-      "link": "https://www.barchart.com/futures/quotes/RM*0/price-history/historical",
-      "source": "Barchart.com",
-      "category": "soft",
-      "published": "2026-06-19 14:00"
-    },
-    {
-      "id": "3tm4r3",
-      "title": "Silver Price Forecast 2026-2027: The bull case and bear case laid out",
-      "title_vi": "Dự báo giá bạc 2026-2027: Kịch bản tăng giá và kịch bản giảm giá được đưa ra",
-      "summary_vi": "Dự báo giá bạc 2026-2027: Kịch bản tăng và giảm được đặt ra - Bài viết",
-      "image": "https://goldsilver.com/wp-content/uploads/2026/04/silver-price-forecast-2026-2027.jpg",
-      "link": "https://goldsilver.com/industry-news/article/silver-price-forecast-2026-2027-the-bull-case-and-bear-case-laid-out/",
-      "source": "GoldSilver",
-      "category": "metal",
-      "published": "2026-06-19 14:00"
     }
   ]
 }

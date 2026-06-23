@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-23 13:00",
+  "updated_at": "2026-06-23 14:00",
   "items": [
+    {
+      "id": "6og78m",
+      "title": "UK Has Enough Electricity for Winter Despite Energy Market Turmoil",
+      "title_vi": "Vương quốc Anh có đủ điện cho mùa đông bất chấp thị trường năng lượng hỗn loạn",
+      "summary_vi": "Hôm nay, NESO, nhà điều hành lưới điện của nước này, cho biết Vương quốc Anh sẽ có đủ nguồn cung cấp điện trong mùa đông này bất chấp cuộc khủng hoảng ở eo biển Hormuz. “Trong khi chúng tôi tiếp tục theo dõi thị trường năng lượng toàn cầu, các hộ gia đình và doanh nghiệp có thể tin tưởng rằng nguồn cung điện vẫn được đảm bảo.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-23_cexkmtftsr.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Has-Enough-Electricity-for-Winter-Despite-Energy-Market-Turmoil.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-23 14:00"
+    },
     {
       "id": "adeg4z",
       "title": "Oil Prices Continue to Slide as Peace Talks Progress",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-23 12:30"
+    },
+    {
+      "id": "tvatps",
+      "title": "Gold prices slip as stronger dollar, Fed hike bets weigh By Investing.com",
+      "title_vi": "Giá vàng giảm khi đồng đô la mạnh hơn, đặt cược Fed tăng lãi suất Theo Investing.com",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://ng.investing.com/news/commodities-news/gold-prices-slip-as-stronger-dollar-fed-hike-bets-weigh-2569183",
+      "source": "Investing.com Nigeria",
+      "category": "metal",
+      "published": "2026-06-23 10:50"
     },
     {
       "id": "1fmaf7h",
@@ -123,17 +145,6 @@
       "published": "2026-06-23 02:00"
     },
     {
-      "id": "ubcpov",
-      "title": "Greek Energy Pulls In $26B As Europe Scrambles To Replace Russian Gas",
-      "title_vi": "Năng lượng Hy Lạp thu về 26 tỷ USD khi châu Âu tranh giành thay thế khí đốt của Nga",
-      "summary_vi": "Hàng tỷ đô la đầu tư đang đổ vào lĩnh vực năng lượng của Hy Lạp khi nước này cố gắng trở thành trung tâm trung chuyển năng lượng quan trọng cho Trung, Đông và Đông Nam châu Âu khi Liên minh châu Âu chuẩn bị loại bỏ hoàn toàn việc nhập khẩu khí đốt của Nga vào năm 2027. Acco",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-22_ycgxolktkz.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Greek-Energy-Pulls-In-26B-As-Europe-Scrambles-To-Replace-Russian-Gas.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-23 01:30"
-    },
-    {
       "id": "a7ot4i",
       "title": "Cancer patients in India seek their own chemotherapy in face of platinum supply shock",
       "title_vi": "Bệnh nhân ung thư ở Ấn Độ tìm cách hóa trị liệu cho riêng mình trước cú sốc nguồn cung bạch kim",
@@ -211,17 +222,6 @@
       "published": "2026-06-22 22:20"
     },
     {
-      "id": "1u6x0tu",
-      "title": "Is silver a better investment than gold this summer? Experts weigh in",
-      "title_vi": "Bạc có phải là khoản đầu tư tốt hơn vàng trong mùa hè này? Các chuyên gia cân nhắc",
-      "summary_vi": "Giá cả vàng và bạc đều biến động trong những tháng gần đây, nhưng có một lựa chọn nổi bật hơn lựa chọn kia.",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/22/da74a284-2785-40e9-bb96-88d900a7bb68/thumbnail/1200x630/a1e26df44b73fce2b6742259141aba09/gettyimages-1382292850-1.jpg",
-      "link": "https://www.cbsnews.com/news/silver-better-than-gold-summer-2026-experts-weigh-in/",
-      "source": "CBS News",
-      "category": "metal",
-      "published": "2026-06-22 21:20"
-    },
-    {
       "id": "1yijqpa",
       "title": "U.S. Natural Gas Futures Gain on July Weather Outlook",
       "title_vi": "Giá khí đốt tự nhiên tương lai của Hoa Kỳ tăng do dự báo thời tiết tháng 7",
@@ -275,6 +275,17 @@
       "source": "American Ag Network",
       "category": "agri",
       "published": "2026-06-22 17:55"
+    },
+    {
+      "id": "18s9vi1",
+      "title": "Mapping the Market: Copper's pause may be setting the stage for the next leg up",
+      "title_vi": "Lập bản đồ thị trường: Sự tạm dừng của Copper có thể tạo tiền đề cho đợt tăng giá tiếp theo",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/markets/global-markets-technicals-2026-06-22/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-06-22 17:15"
     },
     {
       "id": "hc72v9",
@@ -539,17 +550,6 @@
       "source": "CNN",
       "category": "energy",
       "published": "2026-06-20 11:01"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "(Reuters) – Khí đốt tự nhiên chạm đến hầu hết mọi ngóc ngách của nền kinh tế Hoa Kỳ, cung cấp nhiên liệu cho các nhà máy điện, nhà cửa, nhà máy và lĩnh vực xuất khẩu LNG đang bùng nổ. Nhưng nguồn cung cần thiết để đáp ứng tất cả những mục đích sử dụng đó lại đến từ một mảnh đất đá phiến ngày càng hẹp của Mỹ. Sự không phù hợp này giữa một nhóm người tiêu dùng ngày càng mở rộng…",
-      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Flame-1200x810-1.jpg",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-06-20 09:02"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23 21:00",
+  "updated_at": "2026-06-23 21:10",
   "items": [
     {
       "id": "p53c09",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-06-23 19:30"
+    },
+    {
+      "id": "zu16qt",
+      "title": "Hyundai backs ioneer&#8217;s Nevada lithium-boron project",
+      "title_vi": "Huyndai ủng hộ dự án lithium-boron Nevada của ioneer",
+      "summary_vi": "Các quan hệ đối tác mới thúc đẩy kế hoạch tài chính và phát triển cho một trong những dự án lithium tiên tiến nhất Bắc Mỹ.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/ioneer_rhyolite_project.jpeg",
+      "link": "https://www.mining.com/hyundai-backs-ioneers-nevada-lithium-boron-project/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-23 19:07"
     },
     {
       "id": "jxgmrm",
@@ -354,17 +365,6 @@
       "published": "2026-06-22 20:01"
     },
     {
-      "id": "50yxck",
-      "title": "China blacklists MP Materials, USA Rare Earth in critical minerals war",
-      "title_vi": "Trung Quốc đưa Vật liệu MP, Đất hiếm của Mỹ vào danh sách đen trong cuộc chiến khoáng sản quan trọng",
-      "summary_vi": "Những hạn chế thương mại mới nhất của Bắc Kinh làm sâu sắc thêm cuộc đấu tranh ngày càng gia tăng đối với các chuỗi cung ứng quan trọng đối với quốc phòng và sản xuất tiên tiến.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/02/MountainPassCA-1024x768.jpg",
-      "link": "https://www.mining.com/china-blacklists-mp-materials-usa-rare-earth-in-critical-minerals-war/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-22 18:58"
-    },
-    {
       "id": "att7z4",
       "title": "Plains Drought Cuts Winter Wheat Production Forecast",
       "title_vi": "Dự báo sản lượng lúa mì mùa đông ở vùng đồng bằng hạn hán",
@@ -508,6 +508,17 @@
       "published": "2026-06-22 00:52"
     },
     {
+      "id": "kdujct",
+      "title": "2025 ARC/PLC Payment Update: What Corn, Soybean & Wheat Farmers Can Expect in October 2026",
+      "title_vi": "Cập nhật thanh toán ARC/PLC năm 2025: Những gì nông dân trồng ngô, đậu tương và lúa mì có thể mong đợi vào tháng 10 năm 2026",
+      "summary_vi": "Tin tức cho Quận Springfield và Sangamon",
+      "image": "https://springfieldherald.news/21-06-2026-09-35-01-am-4935066.jpg",
+      "link": "https://springfieldherald.news/arcplc-payment-update-what-corn-soybean-wheat-farmers-can-expect-p30447-43.htm",
+      "source": "Springfield Herald News",
+      "category": "agri",
+      "published": "2026-06-22 00:03"
+    },
+    {
       "id": "wavo0",
       "title": "‘Thank you for the memories, the smiles and the sugar highs’: The Sugar Factory closes Town Center location",
       "title_vi": "‘Cảm ơn vì những kỷ niệm, những nụ cười và lượng đường cao’: Nhà máy Đường đóng cửa vị trí Trung tâm Thị trấn",
@@ -539,17 +550,6 @@
       "source": "WTAJ",
       "category": "agri",
       "published": "2026-06-21 21:09"
-    },
-    {
-      "id": "1l51bom",
-      "title": "Your morning coffee is getting expensive. Here's why",
-      "title_vi": "Cà phê buổi sáng của bạn đang trở nên đắt đỏ. Đây là lý do tại sao",
-      "summary_vi": "Cú sốc nhãn dán bắt đầu ở lối đi cà phê. Một túi đậu cách đây vài năm có giá 16 USD giờ đã vượt quá 20 USD. Một ly cà phê latte cơ bản giờ đây đã trở thành một món xa xỉ.",
-      "image": "https://bloximages.chicago2.vip.townnews.com/news.lee.net/content/tncms/assets/v3/editorial/0/b7/0b72a9e7-d97f-5d9c-9157-c89dec4e2fcc/6a32f1f597ddf.preview.jpg?crop=800%2C420%2C0%2C56",
-      "link": "https://news.lee.net/life-entertainment/nation-world/food-drink/your-morning-coffee-is-getting-expensive-heres-why/article_0b72a9e7-d97f-5d9c-9157-c89dec4e2fcc.html",
-      "source": "Lee News Central",
-      "category": "soft",
-      "published": "2026-06-21 20:30"
     }
   ]
 }

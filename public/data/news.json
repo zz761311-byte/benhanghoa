@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23 14:00",
+  "updated_at": "2026-06-23 15:00",
   "items": [
     {
       "id": "6og78m",
@@ -13,6 +13,17 @@
       "published": "2026-06-23 14:00"
     },
     {
+      "id": "ipvlp0",
+      "title": "Gold falls as dollar holds firm on Fed rate-hike expectations",
+      "title_vi": "Vàng giảm khi đồng đô la giữ vững kỳ vọng tăng lãi suất của Fed",
+      "summary_vi": "Vàng giảm vào thứ Ba, chịu áp lực bởi đồng đô la Mỹ mạnh hơn do kỳ vọng về việc tăng lãi suất của Cục Dự trữ Liên bang trong năm nay, trong khi các nhà đầu tư đánh giá các cuộc đàm phán hòa bình Mỹ-Iran.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108214510-1761017244972-gettyimages-2241924377-AUSTRALIA_ABC_GOLD.jpeg?v=1782185351&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/06/23/gold-falls-as-dollar-holds-firm-on-fed-rate-hike-expectations.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-06-23 13:03"
+    },
+    {
       "id": "adeg4z",
       "title": "Oil Prices Continue to Slide as Peace Talks Progress",
       "title_vi": "Giá dầu tiếp tục trượt dốc khi tiến trình đàm phán hòa bình",
@@ -22,17 +33,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-23 12:30"
-    },
-    {
-      "id": "tvatps",
-      "title": "Gold prices slip as stronger dollar, Fed hike bets weigh By Investing.com",
-      "title_vi": "Giá vàng giảm khi đồng đô la mạnh hơn, đặt cược Fed tăng lãi suất Theo Investing.com",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://ng.investing.com/news/commodities-news/gold-prices-slip-as-stronger-dollar-fed-hike-bets-weigh-2569183",
-      "source": "Investing.com Nigeria",
-      "category": "metal",
-      "published": "2026-06-23 10:50"
     },
     {
       "id": "1fmaf7h",

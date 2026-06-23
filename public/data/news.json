@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-24 05:40",
+  "updated_at": "2026-06-24 06:00",
   "items": [
+    {
+      "id": "1i01tm9",
+      "title": "Why the Next Billion Barrels of Oil Demand Could Come From Storage",
+      "title_vi": "Tại sao nhu cầu hàng tỷ thùng dầu tiếp theo có thể đến từ kho lưu trữ",
+      "summary_vi": "Việc đóng cửa eo biển Hormuz và khiến hơn 10 triệu thùng dầu thô mỗi ngày (bpd) bị mắc kẹt ở Vịnh Ba Tư là lời cảnh tỉnh đối với các quốc gia phụ thuộc vào nhập khẩu để mở rộng khả năng dự trữ chiến lược và thương mại. Nhiều quốc gia, đặc biệt là ở",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-23_otyweqqime.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Why-the-Next-Billion-Barrels-of-Oil-Demand-Could-Come-From-Storage.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-24 06:00"
+    },
     {
       "id": "6n0jkq",
       "title": "Trump Admin Takes Aim at Oil, Gas Drilling Costs",
@@ -90,17 +101,6 @@
       "published": "2026-06-24 01:30"
     },
     {
-      "id": "13uwv96",
-      "title": "El Niño, War, and Fertilizer Costs Create a Dangerous Inflation Cocktail",
-      "title_vi": "El Niño, chiến tranh và chi phí phân bón tạo ra một loại cocktail lạm phát nguy hiểm",
-      "summary_vi": "Rory Green, nhà kinh tế trưởng Trung Quốc của TS Lombard, là chiến lược gia mới nhất của Phố Wall cảnh báo về rủi ro lạm phát thực phẩm và vĩ mô ngày càng gia tăng mà siêu El Niño có thể gây ra ở một số khu vực trên thế giới. Trong một ghi chú có tựa đề \"Siêu El Niño: Nạn đói kéo theo chiến tranh?\" Màu xanh lá cây cảnh báo t",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-23_jrkxuia2e7.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/El-Nio-War-and-Fertilizer-Costs-Create-a-Dangerous-Inflation-Cocktail.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-06-24 01:00"
-    },
-    {
       "id": "s1cbez",
       "title": "Crop Progress Highlights: Corn and Soybean Crops Advance as Winter Wheat Struggles Continue - RFD-TV",
       "title_vi": "Điểm nổi bật về tiến độ trồng trọt: Cây ngô và đậu tương tiến bộ khi cuộc đấu tranh với lúa mì mùa đông tiếp tục - RFD-TV",
@@ -178,6 +178,17 @@
       "published": "2026-06-23 22:15"
     },
     {
+      "id": "p32g6b",
+      "title": "New AbraSilver study quadruples Argentina project value",
+      "title_vi": "Nghiên cứu mới của AbraSilver tăng gấp bốn lần giá trị dự án ở Argentina",
+      "summary_vi": "Diablillos dự kiến ​​sẽ tạo ra giá trị hiện tại ròng sau thuế khoảng 3 tỷ USD và tỷ suất hoàn vốn nội bộ là 42%.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/0193-Abrasilver-1024x683.jpg",
+      "link": "https://www.mining.com/new-abrasilver-study-quadruples-argentina-project-value/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-23 21:58"
+    },
+    {
       "id": "pjah4i",
       "title": "Op-Ed: Brazil’s rare earth dilemma — strategic autonomy or another raw-material export cycle?",
       "title_vi": "Op-Ed: Tình thế tiến thoái lưỡng nan về đất hiếm của Brazil - quyền tự chủ chiến lược hay một chu kỳ xuất khẩu nguyên liệu thô khác?",
@@ -211,6 +222,17 @@
       "published": "2026-06-23 20:52"
     },
     {
+      "id": "qcs73v",
+      "title": "Glasses for the Price of a Coffee? Inside Blacksheep",
+      "title_vi": "Ly cho giá cà phê? Bên trong Blacksheep",
+      "summary_vi": "Hầu hết người tiêu dùng mua kính tại cửa hàng bán lẻ nhưng nó có thể đắt tiền, một cặp có giá vài trăm đô la. Giờ đây, một nhà bán lẻ trực tuyến mới có tên Blacksheep đang cung cấp các sản phẩm tiền mặt cao cấp...",
+      "image": "https://s.yimg.com/lo/mysterio/api/397e1bf8c7632f1f6ecc6812d0545ca1be07a1774cdf4c9e49c40dcb04bd20be/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnbcu_713%2Fee6593cc01bba9568389bc0a5d828ec6",
+      "link": "https://www.yahoo.com/news/videos/glasses-price-coffee-inside-blacksheep-123602792.html",
+      "source": "Yahoo",
+      "category": "soft",
+      "published": "2026-06-23 19:36"
+    },
+    {
       "id": "zu16qt",
       "title": "Hyundai backs ioneer&#8217;s Nevada lithium-boron project",
       "title_vi": "Huyndai ủng hộ dự án lithium-boron Nevada của ioneer",
@@ -242,17 +264,6 @@
       "source": "Yahoo Finance UK",
       "category": "metal",
       "published": "2026-06-23 17:57"
-    },
-    {
-      "id": "td1okk",
-      "title": "US sanctions shut Canada&#8217;s only cobalt refinery",
-      "title_vi": "Lệnh trừng phạt của Mỹ đóng cửa nhà máy lọc coban duy nhất của Canada",
-      "summary_vi": "Nhà máy lọc dầu của Sherritt ở Alberta không hoạt động khi các lệnh trừng phạt làm gián đoạn nguồn cung niken của Cuba và buộc các biện pháp cắt giảm chi phí.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/Old_Havana.jpeg",
-      "link": "https://www.mining.com/us-sanctions-shut-canadas-only-cobalt-refinery/",
-      "source": "Mining.com",
-      "category": "energy",
-      "published": "2026-06-23 17:53"
     },
     {
       "id": "8qts9s",
@@ -539,17 +550,6 @@
       "source": "Economies.com",
       "category": "metal",
       "published": "2026-06-22 12:14"
-    },
-    {
-      "id": "rmaam5",
-      "title": "2026 World Cup Predictions",
-      "title_vi": "Dự đoán World Cup 2026",
-      "summary_vi": "Ai sẽ vô địch World Cup 2026? Tỷ lệ cược cho tất cả 48 đội và 104 trận đấu, được hỗ trợ bởi 100.000 mô phỏng từ PELE, mô hình bóng đá mới của Silver Bulletin.",
-      "image": "https://substackcdn.com/image/fetch/$s_!KjO2!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86404ff2-f8b5-4c37-a535-65d03b01b64a_1500x929.gif",
-      "link": "https://www.natesilver.net/p/world-cup-2026-odds-predictions",
-      "source": "Silver Bulletin",
-      "category": "metal",
-      "published": "2026-06-22 09:22"
     }
   ]
 }

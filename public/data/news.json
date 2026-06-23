@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-23 15:00",
+  "updated_at": "2026-06-23 15:51",
   "items": [
+    {
+      "id": "gmgyho",
+      "title": "Europe’s EV Boom Accelerates as Chinese Brands Gain Ground",
+      "title_vi": "Sự bùng nổ xe điện ở Châu Âu tăng tốc khi các thương hiệu Trung Quốc giành được chỗ đứng",
+      "summary_vi": "Doanh số bán xe điện, ngày càng có nhiều xe Trung Quốc, đã dẫn đến doanh số bán ô tô nói chung ở châu Âu tăng vào tháng trước, trong đó lượng đặt xe chạy bằng xăng và dầu diesel giảm trong bối cảnh giá tại trạm xăng cao hơn. Đăng ký ô tô, theo báo cáo của Hiệp hội các nhà sản xuất ô tô châu Âu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-23_3tzoxr9eha.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-EV-Boom-Accelerates-as-Chinese-Brands-Gain-Ground.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-23 15:30"
+    },
     {
       "id": "6og78m",
       "title": "UK Has Enough Electricity for Winter Despite Energy Market Turmoil",
@@ -134,17 +145,6 @@
       "published": "2026-06-23 03:00"
     },
     {
-      "id": "1xwruh2",
-      "title": "London Mayor: UK Tops Green Finance Rankings for Eighth Straight Year",
-      "title_vi": "Thị trưởng London: Vương quốc Anh đứng đầu bảng xếp hạng tài chính xanh năm thứ 8 liên tiếp",
-      "summary_vi": "Khi Tập đoàn Thành phố Luân Đôn đánh dấu phần thứ năm của Hội nghị thượng đỉnh về giao hàng Net Zero trong tuần này, tôi suy ngẫm về thế giới mà chúng ta đã trải qua vào năm 2022. Chỉ bốn năm trước, các doanh nghiệp và cộng đồng đang hồi phục sau Covid, chiến tranh đã quay trở lại lục địa Châu Âu cùng với sự bùng nổ của dịch bệnh.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-22_bpsizaxqmy.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/London-Mayor-UK-Tops-Green-Finance-Rankings-for-Eighth-Straight-Year.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-23 02:00"
-    },
-    {
       "id": "a7ot4i",
       "title": "Cancer patients in India seek their own chemotherapy in face of platinum supply shock",
       "title_vi": "Bệnh nhân ung thư ở Ấn Độ tìm cách hóa trị liệu cho riêng mình trước cú sốc nguồn cung bạch kim",
@@ -253,6 +253,17 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-06-22 20:47"
+    },
+    {
+      "id": "kl03n9",
+      "title": "Copper price analysis: Levels to watch in the data-dependent week",
+      "title_vi": "Phân tích giá đồng: Các mức cần theo dõi trong tuần phụ thuộc vào dữ liệu",
+      "summary_vi": "Giá đồng giảm nhẹ trước đó vào thứ Hai trước khi bù đắp một phần khoản lỗ đó. Tại thời điểm viết bài, hợp đồng tương lai Comex đang giao dịch ở mức 6,37 USD/ pound sau khi chạm mức thấp nhất trong ngày là 6,27 USD. Ở mức hiện tại, phe bò đang cố gắng phục hồi trở lại trong kênh tăng giá kéo dài hàng tháng. Trên…",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://es.tradingview.com/news/invezz:6d1598009094b:0-copper-price-analysis-levels-to-watch-in-the-data-dependent-week/",
+      "source": "TradingView",
+      "category": "metal",
+      "published": "2026-06-22 20:01"
     },
     {
       "id": "50yxck",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "macro",
       "published": "2026-06-20 14:00"
-    },
-    {
-      "id": "17ga4qp",
-      "title": "No fuel, no weapons: How Ukraine’s new drone strategy is mauling Russian supply lines",
-      "title_vi": "Không nhiên liệu, không vũ khí: Chiến lược máy bay không người lái mới của Ukraine đang tàn phá các tuyến cung cấp của Nga như thế nào",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.cnn.com/2026/06/20/europe/ukraine-mid-range-drones-russia-logistics-intl-cmd",
-      "source": "CNN",
-      "category": "energy",
-      "published": "2026-06-20 11:01"
     }
   ]
 }

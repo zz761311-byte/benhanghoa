@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-23 23:44",
+  "updated_at": "2026-06-24 00:00",
   "items": [
+    {
+      "id": "nzvc3g",
+      "title": "Saudi Arabia’s Decided Who Its Future Superpower Partner Is, And It’s Not the US",
+      "title_vi": "Ả Rập Saudi đã quyết định đối tác siêu cường tương lai của mình là ai, và đó không phải là Mỹ",
+      "summary_vi": "Kể từ khi Trung Quốc thay thế Nga làm siêu cường đối thủ chính của Mỹ, Ả-rập Xê-út đã tìm cách cân bằng mối quan hệ của mình với Bắc Kinh và Washington - đôi khi nghiêng về hướng này và đôi khi nghiêng về hướng khác. Cho đến cuộc chiến giá dầu 2014-2016, Mỹ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-23_4gjs1qtdnl.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Arabias-Decided-Who-Its-Future-Superpower-Partner-Is-And-Its-Not-Ameri.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-24 00:00"
+    },
     {
       "id": "o6qrlr",
       "title": "Europe’s Top Gas Distributor to Invest $14.8 Billion in AI-Backed Networks",
@@ -11,6 +22,39 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-23 23:30"
+    },
+    {
+      "id": "arxgox",
+      "title": "Aclara Resources gets environmental OK for Chile rare earths project",
+      "title_vi": "Aclara Resources đạt được sự đồng thuận về môi trường đối với dự án đất hiếm ở Chile",
+      "summary_vi": "Nó kết thúc một quá trình kéo dài hơn bốn năm của dự án.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/Aclara-Penco-Team-2-scaled-1-1024x683.jpg",
+      "link": "https://www.mining.com/aclara-resources-gets-environmental-ok-for-chile-rare-earths-project/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-23 23:13"
+    },
+    {
+      "id": "4qr64n",
+      "title": "Deutsche Bank cuts Q3 gold price target by 22%",
+      "title_vi": "Deutsche Bank cắt giảm 22% mục tiêu giá vàng quý 3",
+      "summary_vi": "Ngân hàng đầu tư Đức cho biết họ hiện thấy vàng trung bình ở mức 4.300 USD/oz. trong quý 3 năm nay.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/AdobeStock_1933473117-1024x717.jpeg",
+      "link": "https://www.mining.com/deutsche-bank-cuts-q3-gold-price-target-by-22/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-23 23:13"
+    },
+    {
+      "id": "xc4tn0",
+      "title": "BHP and Rio Tinto test electric trucks to clean up iron ore",
+      "title_vi": "BHP và Rio Tinto thử nghiệm xe điện làm sạch quặng sắt",
+      "summary_vi": "Các nhà lãnh đạo ngành bắt đầu thử nghiệm xe tải chở hàng chạy điện khi các công ty khai thác lớn tìm cách cắt giảm lượng khí thải trên quy mô lớn.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/bhp-rio-tinto-trucks.jpeg",
+      "link": "https://www.mining.com/bhp-and-rio-tinto-test-electric-trucks-to-clean-up-iron-ore/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-23 23:01"
     },
     {
       "id": "386x5r",
@@ -134,17 +178,6 @@
       "published": "2026-06-23 20:30"
     },
     {
-      "id": "5k6sfj",
-      "title": "IOC&#039;s Tanker Tender Comes Up Empty as Hormuz Risk Lingers",
-      "title_vi": "Cuộc đấu thầu tàu chở dầu của IOC không có kết quả do rủi ro Hormuz còn tồn tại",
-      "summary_vi": "Tập đoàn Dầu mỏ Ấn Độ (IOC), nhà máy lọc dầu lớn nhất nước này, đã không nhận được bất kỳ hồ sơ dự thầu nào trong cuộc đấu thầu thuê ba tàu chở dầu để lấy dầu thô và khí đốt từ Vịnh Ba Tư và vận chuyển khối lượng qua eo biển Hormuz, các nguồn tin thương mại am hiểu về sự phát triển nói với R",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-23_aup9fysng5.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/IOCs-Tanker-Tender-Comes-Up-Empty-as-Hormuz-Risk-Lingers.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-06-23 19:30"
-    },
-    {
       "id": "zu16qt",
       "title": "Hyundai backs ioneer&#8217;s Nevada lithium-boron project",
       "title_vi": "Huyndai ủng hộ dự án lithium-boron Nevada của ioneer",
@@ -244,17 +277,6 @@
       "published": "2026-06-23 15:10"
     },
     {
-      "id": "ipvlp0",
-      "title": "Gold falls as dollar holds firm on Fed rate-hike expectations",
-      "title_vi": "Vàng giảm khi đồng đô la giữ vững kỳ vọng tăng lãi suất của Fed",
-      "summary_vi": "Vàng giảm vào thứ Ba, chịu áp lực bởi đồng đô la Mỹ mạnh hơn do kỳ vọng về việc tăng lãi suất của Cục Dự trữ Liên bang trong năm nay, trong khi các nhà đầu tư đánh giá các cuộc đàm phán hòa bình Mỹ-Iran.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108214510-1761017244972-gettyimages-2241924377-AUSTRALIA_ABC_GOLD.jpeg?v=1782185351&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/06/23/gold-falls-as-dollar-holds-firm-on-fed-rate-hike-expectations.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-06-23 13:03"
-    },
-    {
       "id": "1t6pn3j",
       "title": "Hawkish Fed expectations dampen precious metal demand, silver falls below the $65 mark to a new short-term low",
       "title_vi": "Kỳ vọng diều hâu của Fed làm giảm nhu cầu kim loại quý, bạc giảm xuống dưới mốc 65 USD xuống mức thấp ngắn hạn mới",
@@ -321,17 +343,6 @@
       "published": "2026-06-23 04:00"
     },
     {
-      "id": "143dx6t",
-      "title": "TerraLithium, BHE Renewables advance toward commercial-scale lithium extraction",
-      "title_vi": "TerraLithium, BHE Renewables tiến tới khai thác lithium quy mô thương mại",
-      "summary_vi": "Các công ty đã đạt được mục tiêu sản xuất lithium clorua bằng quy trình DLE của họ tại cơ sở địa nhiệt của BHE Renewables ở California.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-134101.png",
-      "link": "https://www.mining.com/terralithium-bhe-renewables-advance-toward-commercial-scale-lithium-extraction/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-23 03:41"
-    },
-    {
       "id": "a7ot4i",
       "title": "Cancer patients in India seek their own chemotherapy in face of platinum supply shock",
       "title_vi": "Bệnh nhân ung thư ở Ấn Độ tìm cách hóa trị liệu cho riêng mình trước cú sốc nguồn cung bạch kim",
@@ -352,17 +363,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-06-23 00:59"
-    },
-    {
-      "id": "1xm5qag",
-      "title": "Ground view Kazakhstan: The visibility bargain",
-      "title_vi": "Nhìn từ mặt đất Kazakhstan: Món hời về tầm nhìn",
-      "summary_vi": "Qarmet, một công ty khai thác mỏ và thép của Kazakhstan, thừa kế các mỏ chết người và phản ứng bằng sự giám sát rộng rãi.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/Discussing-Safety-Program-Implementation-with-Yerbol-Ismailov.jpg",
-      "link": "https://www.mining.com/ground-view-kazakhstan-the-visibility-bargain/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-23 00:05"
     },
     {
       "id": "1yijqpa",

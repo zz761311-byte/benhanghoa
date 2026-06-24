@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-25 05:55",
+  "updated_at": "2026-06-25 06:00",
   "items": [
+    {
+      "id": "tdo6na",
+      "title": "Qatar and the U.S. Warn EU of Gas Crunch Over Methane Regulation",
+      "title_vi": "Qatar và Mỹ cảnh báo EU về khủng hoảng khí đốt vì quy định về khí mê-tan",
+      "summary_vi": "Hoa Kỳ và Qatar một lần nữa cảnh báo Liên minh châu Âu không nên tăng cường các chính sách về khí hậu nhằm trừng phạt ngành LNG, đồng thời cho rằng nếu tiếp tục đi theo hướng này, EU sẽ phải đối mặt với khủng hoảng khí đốt và giá cao hơn. “Không có con đường khả thi để tuân thủ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-24_if8qzyg90x.jpg",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Qatar-and-the-US-Warn-EU-of-Gas-Crunch-Over-Methane-Regulation.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-25 06:00"
+    },
     {
       "id": "dz677s",
       "title": "Global Battery Storage Boom Is A Boon for Tesla",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "soft",
       "published": "2026-06-25 04:00"
+    },
+    {
+      "id": "13zkh31",
+      "title": "US Natural Gas Falls on Warmer Outlook, Growing Storage Surplus",
+      "title_vi": "Khí đốt tự nhiên của Hoa Kỳ giảm do triển vọng ấm hơn, dư thừa kho dự trữ ngày càng tăng",
+      "summary_vi": "Bởi Julian Hast Giá khí tự nhiên kỳ hạn của Mỹ kết thúc ở mức thấp hơn do dự báo cho thấy thời tiết ấm hơn dự kiến ​​trước đây ở miền đông Hoa Kỳ, cũng như kỳ vọng của thị trường rằng tồn kho trong nước sẽ tăng so với mức bình thường theo mùa trong những tuần tới khi nhu cầu giảm đi vào mùa xuân. Mức dự trữ khí đốt của Hoa Kỳ&hellip",
+      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Terminal-1200x810-1.jpg",
+      "link": "https://energynow.com/2026/03/us-natural-gas-falls-on-warmer-outlook-growing-storage-surplus/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-06-25 03:11"
     },
     {
       "id": "1yej2q",
@@ -242,17 +264,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-06-24 23:03"
-    },
-    {
-      "id": "xxeu8f",
-      "title": "Trump’s Nuclear Gamble Aims to Reshape the U.S. Power Grid",
-      "title_vi": "Canh bạc hạt nhân của Trump nhằm mục đích định hình lại lưới điện Hoa Kỳ",
-      "summary_vi": "Với việc các công ty siêu quy mô dự kiến ​​chi khoảng 800 tỷ USD cho vốn đầu tư trung tâm dữ liệu chỉ riêng trong năm nay, cùng với việc điện khí hóa lưới điện trở lại và trên diện rộng hơn, nhu cầu năng lượng cho phụ tải cơ sở chắc chắn sẽ tăng cao. Chúng tôi đã chứng minh rằng năng lượng mặt trời và gió không liên tục không phù hợp với quy mô và độ tin cậy",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-24_kqkm8xlfrp.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Trumps-Nuclear-Gamble-Aims-to-Reshape-the-US-Power-Grid.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-24 23:00"
     },
     {
       "id": "qa5t8d",
@@ -539,17 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-06-23 22:47"
-    },
-    {
-      "id": "1eamd30",
-      "title": "Platinum Market in 2026: Price Swings, Supply and Demand Challenges, and the Race to Net Zero",
-      "title_vi": "Thị trường bạch kim năm 2026: Biến động giá, thách thức cung cầu và cuộc đua đạt mức 0 ròng",
-      "summary_vi": "Triển vọng thị trường bạch kim năm 2026: Khám phá giá cả, nhu cầu hydro, rủi ro cung ứng, xung đột Iran và lý do tại sao bạch kim lại là chìa khóa cho quá trình chuyển đổi năng lượng sạch.",
-      "image": "https://carboncredits.com/wp-content/uploads/2026/06/shutterstock_2128272458.jpg",
-      "link": "https://carboncredits.com/platinum-market-in-2026-price-swings-supply-and-demand-challenges-and-the-race-to-net-zero/",
-      "source": "CarbonCredits.com",
-      "category": "metal",
-      "published": "2026-06-23 22:30"
     }
   ]
 }

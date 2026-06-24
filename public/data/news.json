@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24 14:00",
+  "updated_at": "2026-06-24 15:00",
   "items": [
     {
       "id": "182xn9v",
@@ -22,6 +22,17 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-06-24 13:02"
+    },
+    {
+      "id": "1tdlqfc",
+      "title": "Gold slips to two-week low as Fed rate-hike bets buoy dollar",
+      "title_vi": "Vàng trượt xuống mức thấp nhất trong hai tuần khi Fed tăng lãi suất đặt cược vào đồng đô la",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-slips-fed-rate-hike-expectations-buoy-dollar-2026-06-24/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-06-24 08:23"
     },
     {
       "id": "umws3a",
@@ -277,17 +288,6 @@
       "published": "2026-06-23 20:57"
     },
     {
-      "id": "1hmn151",
-      "title": "Gold and silver tumble as rate-hike fears hit precious metals",
-      "title_vi": "Vàng và bạc sụt giảm khi nỗi lo tăng lãi suất tấn công kim loại quý",
-      "summary_vi": "Vàng và bạc giảm hôm thứ Ba do lo ngại lãi suất tăng gây áp lực lên kim loại quý và các ngân hàng Phố Wall đánh giá lại dự báo vàng của họ.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108277003-1773284771465-gettyimages-135929347-d7fe66c4-9e24-4cf4-b5bf-a2d794c3e896.jpeg?v=1773284781&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/06/23/gold-silver-rate-hike-fears.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-06-23 20:52"
-    },
-    {
       "id": "qcs73v",
       "title": "Glasses for the Price of a Coffee? Inside Blacksheep",
       "title_vi": "Ly cho giá cà phê? Bên trong Blacksheep",
@@ -420,6 +420,17 @@
       "published": "2026-06-23 07:40"
     },
     {
+      "id": "k70zdt",
+      "title": "TEMPORARY DEAL – US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies",
+      "title_vi": "THỎA THUẬN TẠM THỜI - Hoa Kỳ nới lỏng các lệnh trừng phạt dầu mỏ của Nga để chế ngự sự tăng giá, chọc tức các đồng minh châu Âu",
+      "summary_vi": "Tóm tắt Sự miễn trừ của Hoa Kỳ cho phép mua dầu của Nga bị mắc kẹt Đức và các đồng minh châu Âu khác chỉ trích quyết định của Hoa Kỳ Moscow hoan nghênh động thái của Mỹ nhằm ổn định thị trường năng lượng (Reuters) - Hoa Kỳ đã ban hành quyền miễn trừ 30 ngày cho các nước mua dầu và các sản phẩm dầu mỏ bị trừng phạt của Nga bị mắc kẹt trên biển, vẽ…",
+      "image": "https://energynow.com/wp-content/uploads/trump-putin-1200x810.jpg",
+      "link": "https://energynow.com/2026/03/temporary-deal-us-eases-russia-oil-sanctions-to-tame-price-surge-riling-european-allies/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-06-23 06:25"
+    },
+    {
       "id": "fjiedt",
       "title": "Silver (XAG/USD) Price Forecast: Long-Term Support Faces Critical Test",
       "title_vi": "Dự báo giá bạc (XAG/USD): Hỗ trợ dài hạn phải đối mặt với thử nghiệm quan trọng",
@@ -539,17 +550,6 @@
       "source": "TradingView",
       "category": "metal",
       "published": "2026-06-22 20:01"
-    },
-    {
-      "id": "11tzwow",
-      "title": "Forecast: Temperatures climb Monday to 95 in Reno, with Tahoe nearing mid-80s",
-      "title_vi": "Dự báo: Nhiệt độ tăng từ thứ Hai lên 95 độ ở Reno, với Tahoe gần giữa thập niên 80",
-      "summary_vi": "KRXI2 NBC Reno đưa tin tức, thể thao, thời tiết và giao thông cho khu vực Reno, Nevada bao gồm Sparks, Carson City, Virginia City, Silver City, Stagecoach, Silver Springs, Sun Valley, Cold Springs, Spanish Springs và Fenley, Nevada và Truckee và Tahoe City, California.",
-      "image": "https://mynews4.com/resources/assets/krxi2/images/brand-icons/KRXI2-16x9.jpg",
-      "link": "https://mynews4.com/news/local/gallery/forecast-temperatures-climb-monday-to-95-in-reno-with-tahoe-nearing-mid-80s?photo",
-      "source": "mynews4.com",
-      "category": "metal",
-      "published": "2026-06-22 18:18"
     }
   ]
 }

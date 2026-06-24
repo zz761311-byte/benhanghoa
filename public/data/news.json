@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25 04:00",
+  "updated_at": "2026-06-25 04:50",
   "items": [
     {
       "id": "zj04tk",
@@ -55,6 +55,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-25 01:38"
+    },
+    {
+      "id": "19hei47",
+      "title": "Oil prices are tumbling. When will Michigan gas prices follow?",
+      "title_vi": "Giá dầu đang sụt giảm. Khi nào giá xăng Michigan sẽ theo sau?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.detroitnews.com/story/business/2026/06/24/oil-prices-are-tumbling-when-will-michigan-gas-prices-follow/90676666007/",
+      "source": "The Detroit News",
+      "category": "energy",
+      "published": "2026-06-25 01:26"
     },
     {
       "id": "1y1madp",
@@ -530,26 +541,15 @@
       "published": "2026-06-23 22:30"
     },
     {
-      "id": "1yivsxu",
-      "title": "BofA Says Three Rate Hikes. Silver Just Priced In the First One.",
-      "title_vi": "BofA cho biết ba lần tăng lãi suất. Bạc vừa có giá đầu tiên.",
-      "summary_vi": "BofA cho biết ba lần tăng lãi suất. Bạc vừa có giá đầu tiên. - Tin tức",
-      "image": "https://goldsilver.com/wp-content/uploads/2026/06/why-is-silver-falling.jpeg",
-      "link": "https://goldsilver.com/industry-news/goldsilver-news/bofa-three-rate-hikes-silver-priced-in/",
-      "source": "GoldSilver",
-      "category": "metal",
-      "published": "2026-06-23 21:28"
-    },
-    {
-      "id": "15vwg93",
-      "title": "Russian Oil Exports Hit 2026 High as Iran Waiver Threatens Sales",
-      "title_vi": "Xuất khẩu dầu của Nga đạt mức cao nhất năm 2026 khi lệnh miễn trừ Iran đe dọa doanh số bán hàng",
+      "id": "155ff63",
+      "title": "Norilsk Nickel sees 2026 global palladium surplus of 300,000 oz",
+      "title_vi": "Norilsk Niken dự kiến ​​thặng dư palladium toàn cầu vào năm 2026 là 300.000 oz",
       "summary_vi": "",
       "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-23/russia-oil-exports-are-the-highest-this-year-but-face-competition-from-iran",
-      "source": "Bloomberg",
-      "category": "energy",
-      "published": "2026-06-23 20:12"
+      "link": "https://www.mining.com/web/norilsk-nickel-sees-2026-global-palladium-surplus-of-300000-oz/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-23 21:32"
     }
   ]
 }

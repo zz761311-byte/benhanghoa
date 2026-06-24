@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-25 04:50",
+  "updated_at": "2026-06-25 05:00",
   "items": [
+    {
+      "id": "dz677s",
+      "title": "Global Battery Storage Boom Is A Boon for Tesla",
+      "title_vi": "Sự bùng nổ lưu trữ pin toàn cầu là một lợi ích cho Tesla",
+      "summary_vi": "Việc lắp đặt bộ lưu trữ pin trên toàn cầu đang bùng nổ và hoạt động kinh doanh pin quy mô tiện ích của Tesla cũng vậy. Tesla vừa ký thỏa thuận cung cấp và thực hiện kéo dài nhiều năm với nhà cung cấp cơ sở hạ tầng năng lượng sạch NatPower cho hơn 25 gigawatt giờ (GWh) pin lưu trữ năng lượng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-24_tibovkugnq.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Global-Battery-Storage-Boom-Is-A-Boon-for-Tesla.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-25 05:00"
+    },
     {
       "id": "zj04tk",
       "title": "Why Wet Coffee Grounds Might Be The Next Waste-To-Energy Goldmine",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-25 03:00"
+    },
+    {
+      "id": "1s2xmn1",
+      "title": "Cleveland: Cotton Continued to Test 80 Cents",
+      "title_vi": "Cleveland: Cotton tiếp tục thử nghiệm 80 xu",
+      "summary_vi": "Có mức kháng cự giá ở mức 81 xu và cao hơn ở mức 82, nhưng có khả năng cả hai mức đó sẽ không bị phá vỡ nếu không có tin tức bất lợi lớn về mùa màng.",
+      "image": "https://df75hwhlfejca.cloudfront.net/cottongrower/wp-content/uploads/2017/02/DrOACleveland.jpg",
+      "link": "https://www.cottongrower.com/market-analysis/cleveland-cotton-continued-to-test-80-cents/",
+      "source": "Cotton Grower",
+      "category": "soft",
+      "published": "2026-06-25 02:37"
     },
     {
       "id": "meclvu",
@@ -264,17 +286,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-24 22:32"
-    },
-    {
-      "id": "bi9xe",
-      "title": "Moscow Refinery May Stay Offline Until 2027",
-      "title_vi": "Nhà máy lọc dầu Moscow có thể ngừng hoạt động cho đến năm 2027",
-      "summary_vi": "Reuters đưa tin, Nhà máy lọc dầu Moscow rất khó có thể tiếp tục sản xuất trước năm 2027 sau khi chịu thiệt hại lớn về mặt cấu trúc do nhiều cuộc tấn công của máy bay không người lái tầm xa của Ukraine, giáng thêm một đòn nữa vào một quốc gia đang vật lộn với tình trạng thiếu nhiên liệu nghiêm trọng. Điều hành bởi Gaz",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-24_8fmplmytcx.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Moscow-Refinery-May-Stay-Offline-Until-2027.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-24 22:30"
     },
     {
       "id": "1so53i",
@@ -539,17 +550,6 @@
       "source": "CarbonCredits.com",
       "category": "metal",
       "published": "2026-06-23 22:30"
-    },
-    {
-      "id": "155ff63",
-      "title": "Norilsk Nickel sees 2026 global palladium surplus of 300,000 oz",
-      "title_vi": "Norilsk Niken dự kiến ​​thặng dư palladium toàn cầu vào năm 2026 là 300.000 oz",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.mining.com/web/norilsk-nickel-sees-2026-global-palladium-surplus-of-300000-oz/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-23 21:32"
     }
   ]
 }

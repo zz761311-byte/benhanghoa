@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24 18:33",
+  "updated_at": "2026-06-24 19:00",
   "items": [
     {
       "id": "bory9o",
@@ -110,6 +110,17 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-06-24 12:09"
+    },
+    {
+      "id": "1mhsise",
+      "title": "Wheat futures fell while crop progress ratings held steady.",
+      "title_vi": "Giá lúa mì kỳ hạn giảm trong khi xếp hạng tiến độ vụ mùa giữ ổn định.",
+      "summary_vi": "Trong bài bình luận thị trường hàng ngày này, Oliver Sloup từ Blue Line Futures phân tích hành động giá biến động hôm thứ Ba trên các thị trường ngũ cốc. Giá lúa mì kỳ hạn nổi lên như một mắt xích yếu trong phiên, ghi nhận mức giảm đáng chú ý, trong khi giá ngô kỳ hạn cũng kết thúc dưới áp lực đối với cả hợp đồng tháng 7 và tháng 12. Trong khi đó thì",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/wheat-futures-fell-while-crop-progress-ratings-held-steady-6-23.jpg",
+      "link": "https://www.cmegroup.com/content/cmegroup/en/videos/2026/06/23/wheat-futures-fell-while-crop-progress-ratings-held-steady-6-23.html",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-06-24 11:52"
     },
     {
       "id": "1tdlqfc",
@@ -398,6 +409,17 @@
       "published": "2026-06-23 17:16"
     },
     {
+      "id": "1frxyyl",
+      "title": "Futures and Market Data: 23rd June 2026",
+      "title_vi": "Dữ liệu tương lai và thị trường: ngày 23 tháng 6 năm 2026",
+      "summary_vi": "Dữ liệu tương lai và thị trường: ngày 23 tháng 6 năm 2026",
+      "image": "https://webapi.czapp.com/api/v1/attachments/03f63340-591c-44e9-9864-3c4bb0df30c5.png",
+      "link": "https://www.czapp.com/analyst-insights/futures-and-market-data-23rd-june-2026/",
+      "source": "czapp.com",
+      "category": "soft",
+      "published": "2026-06-23 16:56"
+    },
+    {
       "id": "ir43bw",
       "title": "Norway's oil production beats forecast in May, gas lags",
       "title_vi": "Sản lượng dầu của Na Uy vượt dự báo trong tháng 5, khí đốt chậm lại",
@@ -528,28 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-06-23 00:59"
-    },
-    {
-      "id": "17pm14c",
-      "title": "When Will Gasoline Prices Return to Pre-War Levels",
-      "title_vi": "Khi nào giá xăng sẽ trở lại mức trước chiến tranh",
-      "summary_vi": "Giá dầu thô và xăng giảm phản ánh sự lạc quan về việc mở lại eo biển Hormuz, nhưng lượng hàng tồn kho cạn kiệt, nhu cầu dự trữ trở lại và những hạn chế về hậu cần kéo dài có thể làm chậm quá trình quay trở lại mức giá nhiên liệu trước chiến tranh.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-22_wwzksj6ymu.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/When-Will-Gasoline-Prices-Return-to-Pre-War-Levels.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-06-22 21:00"
-    },
-    {
-      "id": "1ownfia",
-      "title": "Oil Prices Fall as U.S.-Iran Talks Show Signs of Progress",
-      "title_vi": "Giá dầu giảm khi các cuộc đàm phán Mỹ-Iran có dấu hiệu tiến triển",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/06/22/business/oil-gas-price-iran.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-06-22 20:47"
     }
   ]
 }

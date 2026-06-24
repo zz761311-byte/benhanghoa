@@ -1,16 +1,27 @@
 {
-  "updated_at": "2026-06-24 13:00",
+  "updated_at": "2026-06-24 14:00",
   "items": [
     {
-      "id": "43lli8",
-      "title": "Trump Orders Gas Price Gouging Probe",
-      "title_vi": "Trump ra lệnh điều tra giá xăng",
-      "summary_vi": "Tổng thống Trump đã ra lệnh điều tra về khả năng tăng giá tại các trạm xăng, một cuộc điều tra mà ông công bố trong một bài đăng trên mạng xã hội. “Các công ty dầu lớn không giảm giá bán tương xứng với mức giá thấp hơn đáng kể mà họ phải trả cho Dầu.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-24_nt5p3hsoam.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Orders-Gas-Price-Gouging-Probe.html",
+      "id": "182xn9v",
+      "title": "Malaysian Major Makes Gas Discovery in Suriname",
+      "title_vi": "Thiếu tá Malaysia thực hiện phát hiện khí đốt ở Suriname",
+      "summary_vi": "Công ty năng lượng nhà nước Petronas của Malaysia đã phát hiện ra khí đốt tự nhiên ngoài khơi Suriname, Tổng thống nước này cho biết trong tuần này, theo Reuters, hy vọng tập đoàn lớn của Malaysia sẽ đưa ra quyết định đầu tư cuối cùng vào việc phát triển Lô 52 vào cuối năm nay. “Tới đ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-24_fjblzo4mq1.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Malaysian-Major-Makes-Gas-Discovery-in-Suriname.html",
       "source": "OilPrice",
       "category": "energy",
-      "published": "2026-06-24 12:30"
+      "published": "2026-06-24 14:00"
+    },
+    {
+      "id": "17iadc2",
+      "title": "Trump calls for probe into gasoline price 'gouging'",
+      "title_vi": "Trump kêu gọi điều tra giá xăng ‘cắt cổ’",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/trump-instructs-doj-probe-oil-companies-over-higher-gasoline-prices-2026-06-24/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-06-24 13:02"
     },
     {
       "id": "umws3a",
@@ -132,6 +143,17 @@
       "source": "KERA News",
       "category": "energy",
       "published": "2026-06-24 01:29"
+    },
+    {
+      "id": "1cdsq4n",
+      "title": "BMO cuts gold price forecast as Fed’s hawkish shift weighs on precious metals",
+      "title_vi": "BMO cắt giảm dự báo giá vàng khi sự thay đổi diều hâu của Fed đè nặng lên kim loại quý",
+      "summary_vi": "(Kitco News) - Giá vàng tiếp tục giao dịch gần mức thấp nhất trong năm do khuynh hướng diều hâu mới của Cục Dự trữ Liên bang gây ảnh hưởng đến thị trường, với việc một ngân hàng khác hạ dự báo giá cuối năm. Trong báo cáo triển vọng hàng hóa quý 3, BMO Capital Markets cho biết họ thấy giá vàng trung bình quanh mức 4.625 USD/năm.",
+      "image": "https://image-api.prod.kitco.com/image/4518ae0e-b39c-4e38-94cf-ff9640e0975b.png?top=149.60683760684&left=0&width=1536&height=864.82051282051&scale_width=1920&token=a896c33a2a1172614f951fdae53e107506fd7bcc65a7dd45cea437935df7f810",
+      "link": "https://www.kitco.com/news/article/2026-06-23/bmo-cuts-gold-price-forecast-feds-hawkish-shift-weighs-precious-metals",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-06-24 00:44"
     },
     {
       "id": "s1cbez",
@@ -264,17 +286,6 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-06-23 20:52"
-    },
-    {
-      "id": "xmtcoc",
-      "title": "Gold and Silver Price Forecast: US Dollar Rally Threatens Fresh 2026 Lows",
-      "title_vi": "Dự báo giá vàng và bạc: Sự phục hồi của đồng đô la Mỹ đe dọa mức thấp mới năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forex.com/en-us/news-and-analysis/gold-and-silver-price-forecast-us-dollar-rally-threatens-fresh-2026-lows/",
-      "source": "FOREX.com",
-      "category": "metal",
-      "published": "2026-06-23 20:51"
     },
     {
       "id": "qcs73v",
@@ -431,6 +442,17 @@
       "published": "2026-06-23 04:00"
     },
     {
+      "id": "83roro",
+      "title": "Uganda Coffee Report: Production Steady but Government Signals Strategy Shift",
+      "title_vi": "Báo cáo Cà phê Uganda: Sản xuất ổn định nhưng Chính phủ báo hiệu sự thay đổi chiến lược",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/06/22/uganda-coffee-report-production-steady-but-government-signals-strategy-shift/",
+      "source": "Daily Coffee News by Roast Magazine",
+      "category": "soft",
+      "published": "2026-06-23 02:41"
+    },
+    {
       "id": "a7ot4i",
       "title": "Cancer patients in India seek their own chemotherapy in face of platinum supply shock",
       "title_vi": "Bệnh nhân ung thư ở Ấn Độ tìm cách hóa trị liệu cho riêng mình trước cú sốc nguồn cung bạch kim",
@@ -528,28 +550,6 @@
       "source": "mynews4.com",
       "category": "metal",
       "published": "2026-06-22 18:18"
-    },
-    {
-      "id": "att7z4",
-      "title": "Plains Drought Cuts Winter Wheat Production Forecast",
-      "title_vi": "Dự báo sản lượng lúa mì mùa đông ở vùng đồng bằng hạn hán",
-      "summary_vi": "Hạn hán dai dẳng trên khắp Great Plains đang gây thiệt hại cho vụ lúa mì mùa đông của Mỹ. Theo dữ liệu của Reuters và USDA, Bộ này đã hạ dự báo sản lượng lúa mì vụ đông niên vụ 2026-27 khoảng 2% so với tháng trước.",
-      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2470/2024/09/20224354/wheat-24-845x563.jpg",
-      "link": "https://www.americanagnetwork.com/2026/06/22/plains-drought-cuts-winter-wheat-production-forecast/",
-      "source": "American Ag Network",
-      "category": "agri",
-      "published": "2026-06-22 17:55"
-    },
-    {
-      "id": "18s9vi1",
-      "title": "Mapping the Market: Copper's pause may be setting the stage for the next leg up",
-      "title_vi": "Lập bản đồ thị trường: Sự tạm dừng của Copper có thể tạo tiền đề cho đợt tăng giá tiếp theo",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/markets/global-markets-technicals-2026-06-22/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-06-22 17:15"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-24 16:00",
+  "updated_at": "2026-06-24 17:00",
   "items": [
+    {
+      "id": "13xeqfc",
+      "title": "India Cuts Coal Imports as Power Plants Turn to Domestic Fuel",
+      "title_vi": "Ấn Độ cắt giảm nhập khẩu than khi các nhà máy điện chuyển sang sử dụng nhiên liệu nội địa",
+      "summary_vi": "Ấn Độ đang tăng tỷ lệ than trong nước được sử dụng trong các nhà máy điện được thiết kế để chạy bằng nhiên liệu nhập khẩu, do sản lượng than trong nước ngày càng tăng và việc mở rộng năng lượng tái tạo đã giúp cắt giảm nhập khẩu than xuống mức thấp trong nhiều năm. Ấn Độ nâng tỷ lệ sử dụng than nội địa lên 50% tại nhiều nhà máy điện",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-24_qkeraphdtx.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Cuts-Coal-Imports-as-Power-Plants-Turn-to-Domestic-Fuel.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-24 16:30"
+    },
     {
       "id": "om19zz",
       "title": "Qatar Says LNG Exports Could Return to Normal Within Weeks",
@@ -33,6 +44,17 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-06-24 13:02"
+    },
+    {
+      "id": "c88spc",
+      "title": "Brent falls below $76, notching its lowest level since day before U.S.-Iran war",
+      "title_vi": "Brent giảm xuống dưới 76 USD, chạm mức thấp nhất kể từ ngày trước chiến tranh Mỹ-Iran",
+      "summary_vi": "Tổng thống Mỹ Donald Trump tăng cường áp lực lên các công ty dầu mỏ để giảm giá xăng sau đợt sụt giảm giá dầu thô gần đây.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108325936-1782289399007-gettyimages-2281783154-dji_20260615155808_0334_d_3mamzkfe.jpeg?v=1782289495&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/06/24/oil-prices-wti-brent-crude-trump-doj-gasoline-prices-strait-of-hormuz.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-06-24 12:09"
     },
     {
       "id": "1tdlqfc",
@@ -123,17 +145,6 @@
       "published": "2026-06-24 03:51"
     },
     {
-      "id": "8uvp1u",
-      "title": "Pemex Wants Petrobras&#039; Deepwater Magic",
-      "title_vi": "Pemex muốn có phép thuật nước sâu của Petrobras",
-      "summary_vi": "Khi bạn chìm trong nợ nần, gặp khó khăn do sản xuất sụt giảm và điều hành một doanh nghiệp lọc dầu dường như thường xuyên dị ứng với lợi nhuận, việc hợp tác với một đối tác thành công hơn bắt đầu có vẻ giống như một chiến lược hợp lý. Về cơ bản đó là những gì vừa xảy ra giữa Mexico",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pemex-Wants-Petrobras-Deepwater-Magic.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-24 03:30"
-    },
-    {
       "id": "r6v3ux",
       "title": "Will gas prices keep falling? Experts weigh in - ABC News",
       "title_vi": "Giá xăng sẽ tiếp tục giảm? Các chuyên gia cân nhắc - ABC News",
@@ -143,6 +154,17 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "energy",
       "published": "2026-06-24 02:59"
+    },
+    {
+      "id": "1nftf6k",
+      "title": "Gold and silver price warning: new risks are building fast!",
+      "title_vi": "Cảnh báo giá vàng, bạc: Rủi ro mới đang hình thành nhanh chóng!",
+      "summary_vi": ".embed-container { vị trí: tương đối; phần đệm đáy: 56,25%; chiều cao: 0; tràn: ẩn; chiều rộng tối đa: 100%; } .embed-container iframe, đối tượng .embed-container, .embed-container embed { vị trí: tuyệt đối; trên cùng: 0; trái: 0; chiều rộng: 100%; chiều cao: 100%; }(Kitco Commentary) - Trong bài trình bày này, Jeffrey Christian của CPM G",
+      "image": "https://image-api.prod.kitco.com/image/5964fa09-4c74-42f4-8df1-99effbed864c.png?top=0&left=1.024&width=1277.952&height=720&scale_width=1920&token=de01abaffa4f4c3d608b76ceda947ad659aa0370fcdac9f009993d82d132ec27",
+      "link": "https://www.kitco.com/opinion/2026-06-23/gold-and-silver-price-warning-new-risks-are-building-fast",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-06-24 02:06"
     },
     {
       "id": "6v6jp2",
@@ -206,17 +228,6 @@
       "summary_vi": "Nó kết thúc một quá trình kéo dài hơn bốn năm của dự án.",
       "image": "https://www.mining.com/wp-content/uploads/2026/06/Aclara-Penco-Team-2-scaled-1-1024x683.jpg",
       "link": "https://www.mining.com/aclara-resources-gets-environmental-ok-for-chile-rare-earths-project/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-23 23:13"
-    },
-    {
-      "id": "4qr64n",
-      "title": "Deutsche Bank cuts Q3 gold price target by 22%",
-      "title_vi": "Deutsche Bank cắt giảm 22% mục tiêu giá vàng quý 3",
-      "summary_vi": "Ngân hàng đầu tư Đức cho biết họ hiện thấy vàng trung bình ở mức 4.300 USD/oz. trong quý 3 năm nay.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/AdobeStock_1933473117-1024x717.jpeg",
-      "link": "https://www.mining.com/deutsche-bank-cuts-q3-gold-price-target-by-22/",
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-23 23:13"
@@ -398,6 +409,17 @@
       "published": "2026-06-23 10:10"
     },
     {
+      "id": "hww87m",
+      "title": "Dollar climbs to 13-month high on Fed hike bets, safe-haven bid",
+      "title_vi": "Đồng đô la tăng lên mức cao nhất trong 13 tháng nhờ đặt cược tăng lãi suất của Fed, giá thầu trú ẩn an toàn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/asia-pacific/dollar-firms-hawkish-fed-bets-oil-rebound-yen-near-40-year-low-2026-06-23/",
+      "source": "Reuters",
+      "category": "macro",
+      "published": "2026-06-23 08:53"
+    },
+    {
       "id": "1fmaf7h",
       "title": "U.S. Government Runs Another Big Budget Deficit as Tariff Revenue Goes Negative",
       "title_vi": "Chính phủ Hoa Kỳ chịu thêm một khoản thâm hụt ngân sách lớn khác khi doanh thu thuế quan giảm xuống mức âm",
@@ -528,28 +550,6 @@
       "source": "Energy Institute Blog",
       "category": "energy",
       "published": "2026-06-22 20:30"
-    },
-    {
-      "id": "13tb3sw",
-      "title": "Natural Gas Price Analysis – Natural Gas Continues to Respect Range",
-      "title_vi": "Phân tích giá khí đốt tự nhiên - Khí tự nhiên tiếp tục tăng trong phạm vi",
-      "summary_vi": "Thị trường khí đốt tự nhiên tiếp tục đi ngang vào thứ Hai, vì chúng tôi không có động lực hoặc thông tin thực sự rõ ràng để thúc đẩy thị trường chuyển động. Chúng tôi tiếp tục coi EMA 200 ngày như một thỏi nam châm thu hút giá ở đây.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/06/ChatGPT-Image-Jun-9-2025-04_08_56-PM-5.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-price-analysis-natural-gas-continues-to-respect-range-1605859",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-06-22 20:29"
-    },
-    {
-      "id": "kl03n9",
-      "title": "Copper price analysis: Levels to watch in the data-dependent week",
-      "title_vi": "Phân tích giá đồng: Các mức cần theo dõi trong tuần phụ thuộc vào dữ liệu",
-      "summary_vi": "Giá đồng giảm nhẹ trước đó vào thứ Hai trước khi bù đắp một phần khoản lỗ đó. Tại thời điểm viết bài, hợp đồng tương lai Comex đang giao dịch ở mức 6,37 USD/ pound sau khi chạm mức thấp nhất trong ngày là 6,27 USD. Ở mức hiện tại, phe bò đang cố gắng phục hồi trở lại trong kênh tăng giá kéo dài hàng tháng. Trên…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://es.tradingview.com/news/invezz:6d1598009094b:0-copper-price-analysis-levels-to-watch-in-the-data-dependent-week/",
-      "source": "TradingView",
-      "category": "metal",
-      "published": "2026-06-22 20:01"
     }
   ]
 }

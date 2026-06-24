@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-24 09:00",
+  "updated_at": "2026-06-24 10:00",
   "items": [
+    {
+      "id": "umws3a",
+      "title": "Jindalee Lithium inks stewardship MoU for McDermitt project",
+      "title_vi": "Jindalee Lithium ký Biên bản ghi nhớ quản lý cho dự án McDermitt",
+      "summary_vi": "Biên bản ghi nhớ này thiết lập một khuôn khổ cho HiTech và RESOLVE nhằm khám phá việc thành lập Khu vực Quản lý tự nguyện ở khu vực miệng núi lửa Oregon-Nevada rộng lớn hơn.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/McDermittoutcrop.png",
+      "link": "https://www.mining.com/jindalee-lithium-inks-stewardship-mou-for-mcdermitt-project/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-24 07:06"
+    },
     {
       "id": "10tiblj",
       "title": "The Trillion-Dollar AI Shockwave Nobody Is Ready For",
@@ -88,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-24 03:00"
+    },
+    {
+      "id": "r6v3ux",
+      "title": "Will gas prices keep falling? Experts weigh in - ABC News",
+      "title_vi": "Giá xăng sẽ tiếp tục giảm? Các chuyên gia cân nhắc - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/Business/gas-prices-falling-experts-weigh/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-06-24 02:59"
     },
     {
       "id": "cifsog",
@@ -264,17 +286,6 @@
       "source": "Yahoo",
       "category": "soft",
       "published": "2026-06-23 19:36"
-    },
-    {
-      "id": "zu16qt",
-      "title": "Hyundai backs ioneer&#8217;s Nevada lithium-boron project",
-      "title_vi": "Huyndai ủng hộ dự án lithium-boron Nevada của ioneer",
-      "summary_vi": "Các quan hệ đối tác mới thúc đẩy kế hoạch tài chính và phát triển cho một trong những dự án lithium tiên tiến nhất Bắc Mỹ.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/ioneer_rhyolite_project.jpeg",
-      "link": "https://www.mining.com/hyundai-backs-ioneers-nevada-lithium-boron-project/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-23 19:07"
     },
     {
       "id": "1xaltck",
@@ -539,17 +550,6 @@
       "source": "Japan Wire by Kyodo News",
       "category": "soft",
       "published": "2026-06-22 14:00"
-    },
-    {
-      "id": "1esgkqp",
-      "title": "StoneX Natural Resource Summit 4.0: Copper’s Strategic Importance",
-      "title_vi": "Hội nghị thượng đỉnh về tài nguyên thiên nhiên StoneX 4.0: Tầm quan trọng chiến lược của Đồng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en/insights/stonex-natural-resource-summit-4-0-copper-s-strategic-importance/",
-      "source": "StoneX",
-      "category": "metal",
-      "published": "2026-06-22 13:04"
     }
   ]
 }

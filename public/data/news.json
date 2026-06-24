@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-24 17:00",
+  "updated_at": "2026-06-24 18:00",
   "items": [
+    {
+      "id": "1j51eli",
+      "title": "China’s Teapot Refineries Cut Operations to Their Lowest Level Since 2017",
+      "title_vi": "Các nhà máy lọc dầu Teapot của Trung Quốc cắt giảm hoạt động xuống mức thấp nhất kể từ năm 2017",
+      "summary_vi": "Các nhà máy lọc dầu độc lập ở Trung Quốc, hay còn gọi là Teapot, đã cắt giảm công suất lọc dầu của họ xuống mức thấp nhất kể từ năm 2017, do giá nguyên liệu cao, mức tiêu thụ nhiên liệu trong nước yếu và xuất khẩu bị hạn chế đã ảnh hưởng đến tỷ suất lợi nhuận. Nhà máy lọc dầu hoạt động tại các nhà máy lọc dầu ở tỉnh Sơn Đông",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-24_ca9vnfmrvk.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Teapot-Refineries-Cut-Operations-to-Their-Lowest-Level-Since-2017.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-24 17:30"
+    },
     {
       "id": "13xeqfc",
       "title": "India Cuts Coal Imports as Power Plants Turn to Domestic Fuel",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-24 15:15"
+    },
+    {
+      "id": "154dov",
+      "title": "Trump Calls for Lower Gasoline Prices as Oil Falls on Strait of Hormuz Reopening",
+      "title_vi": "Trump kêu gọi giảm giá xăng khi dầu giảm trên eo biển Hormuz mở cửa trở lại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barrons.com/articles/trump-lower-gas-prices-oil-hormuz-aed90832",
+      "source": "Barron's",
+      "category": "energy",
+      "published": "2026-06-24 15:09"
     },
     {
       "id": "182xn9v",
@@ -132,17 +154,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-24 04:00"
-    },
-    {
-      "id": "1llj2kx",
-      "title": "US Crude Oil Inventories Continue To Falter, SPR Struggling To Pick Up the Slack",
-      "title_vi": "Tồn kho dầu thô của Mỹ tiếp tục sụt giảm, SPR đang cố gắng giải quyết tình trạng sụt giảm",
-      "summary_vi": "Viện Dầu khí Hoa Kỳ (API) ước tính tồn kho dầu thô ở Mỹ giảm 765.000 thùng trong tuần kết thúc vào ngày 19 tháng 6. Trong tuần trước, tồn kho dầu thô của Mỹ giảm 8,33 triệu thùng. Mặc dù tồn kho dầu thô thương mại không bao gồm S",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Continue-To-Falter-SPR-Struggling-To-Pick-Up-the-Slack.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-24 03:51"
     },
     {
       "id": "r6v3ux",
@@ -539,17 +550,6 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-06-22 20:47"
-    },
-    {
-      "id": "mvhl0q",
-      "title": "Why Hasn’t the Iran War Driven Oil Prices Even Higher?",
-      "title_vi": "Tại sao Chiến tranh Iran không khiến giá dầu tăng cao hơn nữa?",
-      "summary_vi": "Cung và cầu có thể đóng một vai trò quan trọng, nhưng kỳ vọng của thị trường cũng vậy. Khi Iran đóng cửa eo biển Hormuz vào đầu tháng 3 năm 2026, giới truyền thông đã đưa ra một số dự đoán khá đáng sợ về những gì…",
-      "image": "https://i0.wp.com/energyathaas.wordpress.com/wp-content/uploads/2026/06/iranwaroilpricefig2.png?fit=1200%2C514&#038;ssl=1",
-      "link": "https://energyathaas.wordpress.com/2026/06/22/why-hasnt-the-iran-war-driven-oil-prices-even-higher/",
-      "source": "Energy Institute Blog",
-      "category": "energy",
-      "published": "2026-06-22 20:30"
     }
   ]
 }

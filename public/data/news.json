@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-25 00:00",
+  "updated_at": "2026-06-25 01:00",
   "items": [
+    {
+      "id": "1i7d5sc",
+      "title": "Trade Is Slowly Opening One of the World&#039;s Most Isolated Nations",
+      "title_vi": "Thương mại đang dần mở cửa tại một trong những quốc gia bị cô lập nhất thế giới",
+      "summary_vi": "Azerbaijan đang nỗ lực để lôi kéo Turkmenistan ra khỏi vỏ bọc của mình và đưa Ashgabat vào các tuyến thương mại xuyên Caspian. Lãnh đạo Azerbaijan Ilham Aliyev đã trao đổi nhiều thỏa thuận liên quan đến thương mại với nguyên thủ quốc gia trên danh nghĩa của Turkmenistan, Serdar Berdymukhamedov, trong một cuộc họp tháng 6.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-23_13ojvc7el9.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Trade-Is-Slowly-Opening-One-of-the-Worlds-Most-Isolated-Nations.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-25 01:00"
+    },
     {
       "id": "1qq35ud",
       "title": "Canada Building West’s First Grid-Scale SMR",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-06-25 00:00"
+    },
+    {
+      "id": "d07u5o",
+      "title": "History suggests corn prices face uphill battle this summer",
+      "title_vi": "Lịch sử cho thấy giá ngô phải đối mặt với cuộc chiến khó khăn trong mùa hè này",
+      "summary_vi": "Lịch sử không ủng hộ việc giá ngô sẽ sớm tăng cao. Nhà kinh tế học thị trường ngũ cốc mở rộng Ed Usset của Đại học Minnesota cho biết gần đây ông đã phân tích diễn biến của giá ngô kỳ hạn vào cuối mùa xuân và đầu mùa hè từ năm 1990. “Và những gì chúng tôi đã thấy giống như mức giảm giá 12 đến 14% so với [",
+      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2023/10/Marketing.jpg",
+      "link": "https://www.brownfieldagnews.com/news/history-suggests-corn-prices-face-uphill-battle-this-summer/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-06-24 23:51"
     },
     {
       "id": "1nmxuf6",
@@ -33,6 +55,17 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-06-24 23:06"
+    },
+    {
+      "id": "1tdlqfc",
+      "title": "Gold hits over seven-month low as dollar firms, rate hike bets rise",
+      "title_vi": "Vàng chạm mức thấp nhất trong 7 tháng khi đồng USD tăng, kỳ vọng tăng lãi suất tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-slips-fed-rate-hike-expectations-buoy-dollar-2026-06-24/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-06-24 23:03"
     },
     {
       "id": "xxeu8f",
@@ -66,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-24 22:30"
+    },
+    {
+      "id": "1962xo3",
+      "title": "Trump orders DOJ to probe oil companies over gas prices",
+      "title_vi": "Trump ra lệnh cho DOJ thăm dò các công ty dầu mỏ về giá khí đốt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://qz.com/trump-doj-probe-oil-companies-gas-prices-062426",
+      "source": "qz.com",
+      "category": "energy",
+      "published": "2026-06-24 22:00"
     },
     {
       "id": "1wjpwmf",
@@ -134,17 +178,6 @@
       "published": "2026-06-24 20:59"
     },
     {
-      "id": "1brxgis",
-      "title": "Trump accuses oil companies of gas price ‘gouging,’ calls for DOJ probe",
-      "title_vi": "Trump cáo buộc các công ty dầu mỏ 'cắt cổ' giá xăng, kêu gọi điều tra DOJ",
-      "summary_vi": "Trump viết trên Truth Social: “Các công ty dầu mỏ lớn không giảm giá bán tương xứng với mức giá thấp hơn đáng kể mà họ phải trả cho Dầu”. Thỏa thuận Mỹ-Iran đã giảm bớt áp lực cho người tiêu dùng trước cuộc bầu cử giữa kỳ vào tháng 11.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260624-gas-prices-mb-0900-127266.jpg",
-      "link": "https://www.nbcnews.com/politics/donald-trump/trump-gas-price-gouging-oil-iran-war-hormuz-doj-rcna351522",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-06-24 20:54"
-    },
-    {
       "id": "1ruvyq7",
       "title": "Gold, silver and bitcoin tumble as debasement trade unwinds",
       "title_vi": "Vàng, bạc và bitcoin sụt giảm khi giao dịch tranh chấp giảm giá",
@@ -167,15 +200,15 @@
       "published": "2026-06-24 20:48"
     },
     {
-      "id": "91xc2",
-      "title": "Euro Sinks To One-Year Low As Oil Price Drop Fuels ECB Rate Cut Bets",
-      "title_vi": "Đồng Euro giảm xuống mức thấp nhất trong một năm khi giá dầu giảm làm đặt cược cắt giảm lãi suất ECB",
-      "summary_vi": "Đồng euro đã giảm xuống mức thấp nhất trong một năm, với việc giảm căng thẳng giữa Mỹ và Iran giúp hạ nhiệt giá dầu và làm tăng kỳ vọng rằng Ngân hàng Trung ương châu Âu sẽ trở nên ôn hòa hơn. Đồng euro được niêm yết ở mức 1,135 USD so với đồng đô la Mỹ vào thứ Tư, giảm từ mức 1 USD.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-24_5lxmgwkrbd.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Euro-Sinks-To-One-Year-Low-As-Oil-Price-Drop-Fuels-ECB-Rate-Cut-Bets.html",
-      "source": "OilPrice",
+      "id": "2sdezm",
+      "title": "Natural Gas Price Analysis – Natural Gas Continues to Range Trade",
+      "title_vi": "Phân tích giá khí đốt tự nhiên - Khí đốt tự nhiên tiếp tục được giao dịch rộng rãi",
+      "summary_vi": "Khí đốt tự nhiên tiếp tục có phần mờ nhạt vì chúng ta đang bị kẹt giữa một số đường trung bình động chính. Đây là một thị trường sẽ yên tĩnh nếu không có bất kỳ yếu tố bên ngoài nào vào thời điểm này trong năm.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/06/ChatGPT-Image-Jun-9-2025-04_08_56-PM-6.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-price-analysis-natural-gas-continues-to-range-trade-1606335",
+      "source": "FXEmpire",
       "category": "energy",
-      "published": "2026-06-24 20:30"
+      "published": "2026-06-24 20:35"
     },
     {
       "id": "7ot7lu",
@@ -222,6 +255,17 @@
       "published": "2026-06-24 19:28"
     },
     {
+      "id": "l6zel0",
+      "title": "Copersucar expects more cane and sugar price rebound this season",
+      "title_vi": "Copersucar kỳ vọng giá mía và đường sẽ phục hồi trong mùa này",
+      "summary_vi": "Giám đốc điều hành Tomás Manzano nói rằng thị trường không nên khuyến khích cắt giảm nguồn cung",
+      "image": "https://s2-valorinternational.glbimg.com/oYWgJD-LJOa2_lqNPewVkJ9ARXU=/1268x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_37554604729d4b2f9f3eb9ad8a691345/internal_photos/bs/2026/H/p/lhte9ETUAoc87KhH7YRg/foto24agr-101-coper-b8.jpg",
+      "link": "https://valorinternational.globo.com/agribusiness/news/2026/06/24/copersucar-expects-more-cane-and-sugar-price-rebound-this-season.ghtml",
+      "source": "Valor International",
+      "category": "soft",
+      "published": "2026-06-24 18:27"
+    },
+    {
       "id": "l4mw30",
       "title": "Li-FT bets $8M to turn diamond mine into lithium hub",
       "title_vi": "Li-FT đặt cược 8 triệu USD để biến mỏ kim cương thành trung tâm lithium",
@@ -242,17 +286,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-06-24 18:03"
-    },
-    {
-      "id": "vslm60",
-      "title": "ING Cuts Gold and Silver Forecasts as Rising Yields and Stronger Dollar Weigh on Prices",
-      "title_vi": "ING cắt giảm dự báo về vàng và bạc khi lợi suất tăng và đồng đô la mạnh hơn gây áp lực lên giá",
-      "summary_vi": "(Kitco News) - Động lực tăng vọt của đồng đô la Mỹ và lãi suất trái phiếu tăng cao đang gây thiệt hại cho thị trường kim loại quý, với giá vàng giảm xuống dưới 4.000 USD một ounce và chạm mức thấp mới trong năm. Trong khi đó, giá bạc đã giảm xuống dưới 60 USD một ounce. Mặc dù thị trường giá xuống của vàng và bạc đã điều chỉnh",
-      "image": "https://image-api.prod.kitco.com/image/1d34e205-5763-4d6a-94f3-c0149d7cc2a3.jpeg?top=17.217948717949&left=0&width=500&height=281.5641025641&scale_width=1920&token=83acb45b194b324f0e95bc25b7e528ccb6de09c5c5f3418359a4fd01b6d5b750",
-      "link": "https://www.kitco.com/news/article/2026-06-24/ing-cuts-gold-and-silver-forecasts-rising-yields-and-stronger-dollar-weigh",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-06-24 18:00"
     },
     {
       "id": "1hpfe9l",
@@ -517,39 +550,6 @@
       "source": "The Colorado Sun",
       "category": "agri",
       "published": "2026-06-23 17:16"
-    },
-    {
-      "id": "1frxyyl",
-      "title": "Futures and Market Data: 23rd June 2026",
-      "title_vi": "Dữ liệu tương lai và thị trường: ngày 23 tháng 6 năm 2026",
-      "summary_vi": "Dữ liệu tương lai và thị trường: ngày 23 tháng 6 năm 2026",
-      "image": "https://webapi.czapp.com/api/v1/attachments/03f63340-591c-44e9-9864-3c4bb0df30c5.png",
-      "link": "https://www.czapp.com/analyst-insights/futures-and-market-data-23rd-june-2026/",
-      "source": "czapp.com",
-      "category": "soft",
-      "published": "2026-06-23 16:56"
-    },
-    {
-      "id": "ir43bw",
-      "title": "Norway's oil production beats forecast in May, gas lags",
-      "title_vi": "Sản lượng dầu của Na Uy vượt dự báo trong tháng 5, khí đốt chậm lại",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/norways-oil-production-beats-forecast-may-2026-06-23/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-06-23 16:16"
-    },
-    {
-      "id": "gxnn58",
-      "title": "Coffee prices rise while eggs get cheaper, inflation data shows",
-      "title_vi": "Dữ liệu lạm phát cho thấy giá cà phê tăng trong khi trứng rẻ hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.capecodtimes.com/story/grocery/shopping/2026/06/23/grocery-inflation-coffee-eggs-prices/90550703007/",
-      "source": "Cape Cod Times",
-      "category": "soft",
-      "published": "2026-06-23 15:26"
     }
   ]
 }

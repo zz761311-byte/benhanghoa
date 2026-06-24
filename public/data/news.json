@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-06-24 21:00",
+  "updated_at": "2026-06-24 22:00",
   "items": [
+    {
+      "id": "1wjpwmf",
+      "title": "U.S. Crude Inventories Post Another Major Draw",
+      "title_vi": "Tồn kho dầu thô của Mỹ lại có một đợt giảm lớn khác",
+      "summary_vi": "Theo dữ liệu mới từ Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA) công bố hôm thứ Tư, tồn kho dầu thô ở Mỹ giảm 6,1 triệu thùng trong tuần kết thúc vào ngày 19 tháng 6. Mức giảm này đưa tồn kho thương mại lên 412,1 triệu thùng, theo",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Crude-Inventories-Post-Another-Major-Draw.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-24 21:41"
+    },
+    {
+      "id": "xboxdm",
+      "title": "UK Climate Panel Urges Faster Electrification to Lower Energy Bills",
+      "title_vi": "Hội đồng Khí hậu Vương quốc Anh kêu gọi điện khí hóa nhanh hơn để giảm hóa đơn năng lượng",
+      "summary_vi": "Ủy ban Biến đổi Khí hậu (CCC) của nước này cho biết hôm thứ Tư rằng quá trình điện khí hóa chậm hơn dự kiến ​​​​của Vương quốc Anh khiến các hộ gia đình gặp phải cú sốc về giá nhiên liệu hóa thạch, đồng thời kêu gọi điện khí hóa nhanh hơn và loại bỏ chi phí chính sách để giảm hóa đơn năng lượng. Trong khi việc sử dụng xe điện (EV",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-24_moljwujpw5.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Climate-Panel-Urges-Faster-Electrification-to-Lower-Energy-Bills.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-24 21:30"
+    },
+    {
+      "id": "10lp8sh",
+      "title": "Gold And Silver Prices Fall To Seven-Month Lows",
+      "title_vi": "Giá vàng và bạc giảm xuống mức thấp nhất trong 7 tháng",
+      "summary_vi": "Vàng đã giảm xuống dưới mốc 4.000 USD/ounce vào sáng thứ Tư lần đầu tiên kể từ tháng 11.",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a3be7b05c32d9c4806db3fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "link": "https://www.forbes.com/sites/conormurray/2026/06/24/gold-and-silver-prices-fall-to-seven-month-lows/",
+      "source": "Forbes",
+      "category": "metal",
+      "published": "2026-06-24 21:22"
+    },
     {
       "id": "qqx62x",
       "title": "Rubio Heads to Gulf as Iran Deal Sparks Anxiety Among U.S. Allies",
@@ -13,6 +46,39 @@
       "published": "2026-06-24 21:00"
     },
     {
+      "id": "16la2rg",
+      "title": "Vietnam Coffee Report: Production Rising for Third Straight Year",
+      "title_vi": "Báo cáo Cà phê Việt Nam: Sản lượng tăng năm thứ ba liên tiếp",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/06/24/vietnam-coffee-report-production-rising-for-third-straight-year/",
+      "source": "Daily Coffee News by Roast Magazine",
+      "category": "soft",
+      "published": "2026-06-24 20:59"
+    },
+    {
+      "id": "1ruvyq7",
+      "title": "Gold, silver and bitcoin tumble as debasement trade unwinds",
+      "title_vi": "Vàng, bạc và bitcoin sụt giảm khi giao dịch tranh chấp giảm giá",
+      "summary_vi": "Kim loại quý đã giảm mạnh so với mức cao nhất năm 2025 khi giá thị trường tăng do Fed tăng lãi suất.",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/4a35e7a14436ad11813af0dda0a23e81fe8b1bb0-2130x1736.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "link": "https://www.coindesk.com/markets/2026/06/24/gold-silver-and-bitcoin-tumble-as-debasement-trade-unwinds",
+      "source": "CoinDesk",
+      "category": "metal",
+      "published": "2026-06-24 20:48"
+    },
+    {
+      "id": "154dov",
+      "title": "Trump Calls for Lower Gasoline Prices as U.S. Oil Falls Below $70 a Barrel",
+      "title_vi": "Trump kêu gọi giảm giá xăng khi dầu Mỹ giảm xuống dưới 70 USD/thùng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barrons.com/articles/trump-lower-gas-prices-oil-hormuz-aed90832",
+      "source": "Barron's",
+      "category": "energy",
+      "published": "2026-06-24 20:48"
+    },
+    {
       "id": "91xc2",
       "title": "Euro Sinks To One-Year Low As Oil Price Drop Fuels ECB Rate Cut Bets",
       "title_vi": "Đồng Euro giảm xuống mức thấp nhất trong một năm khi giá dầu giảm làm đặt cược cắt giảm lãi suất ECB",
@@ -22,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-24 20:30"
+    },
+    {
+      "id": "1311tze",
+      "title": "Trump isn't happy that gas prices are falling more slowly than crude oil. He's not the first president to be frustrated.",
+      "title_vi": "Trump không hài lòng khi giá xăng giảm chậm hơn dầu thô Ông ấy không phải là tổng thống đầu tiên thất vọng.",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/energy/article/trump-isnt-happy-that-gas-prices-are-falling-more-slowly-than-crude-oil-hes-not-the-first-president-to-be-frustrated-130130848.html",
+      "source": "Yahoo Finance",
+      "category": "energy",
+      "published": "2026-06-24 20:01"
     },
     {
       "id": "1u8dfk4",
@@ -101,6 +178,17 @@
       "published": "2026-06-24 18:03"
     },
     {
+      "id": "vslm60",
+      "title": "ING Cuts Gold and Silver Forecasts as Rising Yields and Stronger Dollar Weigh on Prices",
+      "title_vi": "ING cắt giảm dự báo về vàng và bạc khi lợi suất tăng và đồng đô la mạnh hơn gây áp lực lên giá",
+      "summary_vi": "(Kitco News) - Động lực tăng vọt của đồng đô la Mỹ và lãi suất trái phiếu tăng cao đang gây thiệt hại cho thị trường kim loại quý, với giá vàng giảm xuống dưới 4.000 USD một ounce và chạm mức thấp mới trong năm. Trong khi đó, giá bạc đã giảm xuống dưới 60 USD một ounce. Mặc dù thị trường giá xuống của vàng và bạc đã điều chỉnh",
+      "image": "https://image-api.prod.kitco.com/image/1d34e205-5763-4d6a-94f3-c0149d7cc2a3.jpeg?top=17.217948717949&left=0&width=500&height=281.5641025641&scale_width=1920&token=83acb45b194b324f0e95bc25b7e528ccb6de09c5c5f3418359a4fd01b6d5b750",
+      "link": "https://www.kitco.com/news/article/2026-06-24/ing-cuts-gold-and-silver-forecasts-rising-yields-and-stronger-dollar-weigh",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-06-24 18:00"
+    },
+    {
       "id": "1j51eli",
       "title": "China’s Teapot Refineries Cut Operations to Their Lowest Level Since 2017",
       "title_vi": "Các nhà máy lọc dầu Teapot của Trung Quốc cắt giảm hoạt động xuống mức thấp nhất kể từ năm 2017",
@@ -134,28 +222,6 @@
       "published": "2026-06-24 16:30"
     },
     {
-      "id": "1hgjuv9",
-      "title": "Trump Calls for Probe Into U.S. Gasoline Prices After Oil Falls",
-      "title_vi": "Trump kêu gọi điều tra giá xăng Mỹ sau khi giá dầu giảm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/trump-calls-for-lower-gasoline-prices-as-oil-falls-95080195",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-06-24 16:13"
-    },
-    {
-      "id": "om19zz",
-      "title": "Qatar Says LNG Exports Could Return to Normal Within Weeks",
-      "title_vi": "Qatar cho biết xuất khẩu LNG có thể trở lại bình thường trong vòng vài tuần",
-      "summary_vi": "Qatar sẽ trở lại hoạt động sản xuất khí tự nhiên hóa lỏng bình thường trong vài tuần nữa, Thủ tướng nước này, ông Sheikh Mohammed bin Abdulrahman al-Thani, nói với Financial Times hôm nay. Ông nói: “Trong vòng vài tuần, hoạt động sản xuất sẽ trở lại bình thường, ngoại trừ cơ sở bị hư hỏng”.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-24_1mlc8uteo0.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Says-LNG-Exports-Could-Return-to-Normal-Within-Weeks.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-24 15:15"
-    },
-    {
       "id": "1xrkuyl",
       "title": "Silver Price Forecast: XAG/USD rebounds toward $62.00 after hitting fresh six-month lows",
       "title_vi": "Dự báo giá bạc: XAG/USD tăng trở lại mức 62,00 USD sau khi chạm mức thấp mới trong sáu tháng",
@@ -165,17 +231,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-06-24 14:44"
-    },
-    {
-      "id": "182xn9v",
-      "title": "Malaysian Major Makes Gas Discovery in Suriname",
-      "title_vi": "Thiếu tá Malaysia thực hiện phát hiện khí đốt ở Suriname",
-      "summary_vi": "Công ty năng lượng nhà nước Petronas của Malaysia đã phát hiện ra khí đốt tự nhiên ngoài khơi Suriname, Tổng thống nước này cho biết trong tuần này, theo Reuters, hy vọng tập đoàn lớn của Malaysia sẽ đưa ra quyết định đầu tư cuối cùng vào việc phát triển Lô 52 vào cuối năm nay. “Tới đ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-24_fjblzo4mq1.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Malaysian-Major-Makes-Gas-Discovery-in-Suriname.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-24 14:00"
     },
     {
       "id": "18s3dfr",
@@ -211,17 +266,6 @@
       "published": "2026-06-24 11:52"
     },
     {
-      "id": "1tdlqfc",
-      "title": "Gold slips to two-week low as Fed rate-hike bets buoy dollar",
-      "title_vi": "Vàng trượt xuống mức thấp nhất trong hai tuần khi Fed tăng lãi suất đặt cược vào đồng đô la",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-slips-fed-rate-hike-expectations-buoy-dollar-2026-06-24/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-06-24 08:23"
-    },
-    {
       "id": "umws3a",
       "title": "Jindalee Lithium inks stewardship MoU for McDermitt project",
       "title_vi": "Jindalee Lithium ký Biên bản ghi nhớ quản lý cho dự án McDermitt",
@@ -255,17 +299,6 @@
       "published": "2026-06-24 02:59"
     },
     {
-      "id": "1nftf6k",
-      "title": "Gold and silver price warning: new risks are building fast!",
-      "title_vi": "Cảnh báo giá vàng, bạc: Rủi ro mới đang hình thành nhanh chóng!",
-      "summary_vi": ".embed-container { vị trí: tương đối; phần đệm đáy: 56,25%; chiều cao: 0; tràn: ẩn; chiều rộng tối đa: 100%; } .embed-container iframe, đối tượng .embed-container, .embed-container embed { vị trí: tuyệt đối; trên cùng: 0; trái: 0; chiều rộng: 100%; chiều cao: 100%; }(Kitco Commentary) - Trong bài trình bày này, Jeffrey Christian của CPM G",
-      "image": "https://image-api.prod.kitco.com/image/5964fa09-4c74-42f4-8df1-99effbed864c.png?top=0&left=1.024&width=1277.952&height=720&scale_width=1920&token=de01abaffa4f4c3d608b76ceda947ad659aa0370fcdac9f009993d82d132ec27",
-      "link": "https://www.kitco.com/opinion/2026-06-23/gold-and-silver-price-warning-new-risks-are-building-fast",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-06-24 02:06"
-    },
-    {
       "id": "exwukp",
       "title": "U.S. Temporarily Lifts Oil Sanctions Against Iran, Citing ‘Productive’ Talks",
       "title_vi": "Hoa Kỳ tạm thời dỡ bỏ lệnh trừng phạt dầu đối với Iran, trích dẫn các cuộc đàm phán 'hiệu quả'",
@@ -286,17 +319,6 @@
       "source": "KERA News",
       "category": "energy",
       "published": "2026-06-24 01:29"
-    },
-    {
-      "id": "1cdsq4n",
-      "title": "BMO cuts gold price forecast as Fed’s hawkish shift weighs on precious metals",
-      "title_vi": "BMO cắt giảm dự báo giá vàng khi sự thay đổi diều hâu của Fed đè nặng lên kim loại quý",
-      "summary_vi": "(Kitco News) - Giá vàng tiếp tục giao dịch gần mức thấp nhất trong năm do khuynh hướng diều hâu mới của Cục Dự trữ Liên bang gây ảnh hưởng đến thị trường, với việc một ngân hàng khác hạ dự báo giá cuối năm. Trong báo cáo triển vọng hàng hóa quý 3, BMO Capital Markets cho biết họ thấy giá vàng trung bình quanh mức 4.625 USD/năm.",
-      "image": "https://image-api.prod.kitco.com/image/4518ae0e-b39c-4e38-94cf-ff9640e0975b.png?top=149.60683760684&left=0&width=1536&height=864.82051282051&scale_width=1920&token=a896c33a2a1172614f951fdae53e107506fd7bcc65a7dd45cea437935df7f810",
-      "link": "https://www.kitco.com/news/article/2026-06-23/bmo-cuts-gold-price-forecast-feds-hawkish-shift-weighs-precious-metals",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-06-24 00:44"
     },
     {
       "id": "5gtgdj",
@@ -385,6 +407,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-23 21:58"
+    },
+    {
+      "id": "155ff63",
+      "title": "Norilsk Nickel sees 2026 global palladium surplus of 300,000 oz",
+      "title_vi": "Norilsk Niken dự kiến ​​thặng dư palladium toàn cầu vào năm 2026 là 300.000 oz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.mining.com/web/norilsk-nickel-sees-2026-global-palladium-surplus-of-300000-oz/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-23 21:32"
     },
     {
       "id": "qcs73v",
@@ -517,39 +550,6 @@
       "source": "LinkedIn",
       "category": "macro",
       "published": "2026-06-23 08:06"
-    },
-    {
-      "id": "d7qtdq",
-      "title": "Sugar Hill, NY Weather Forecast | MSN Weather",
-      "title_vi": "Dự báo thời tiết Sugar Hill, NY | MSN Thời tiết",
-      "summary_vi": "Nhận dự báo chính xác hàng giờ cho hôm nay, tối nay và ngày mai, cùng với dự báo hàng ngày trong 10 ngày và radar thời tiết cho Sugar-Hill, NY với MSN Weather. Luôn cập nhật về lượng mưa, cảnh báo thời tiết khắc nghiệt, chất lượng không khí và cảnh báo cháy rừng.",
-      "image": "",
-      "link": "https://www.msn.com/en-us/weather/forecast/in-Sugar-Hill,NY",
-      "source": "MSN",
-      "category": "soft",
-      "published": "2026-06-23 07:52"
-    },
-    {
-      "id": "nr18i0",
-      "title": "Excessive rain in the Ivory Coast boosts cocoa prices",
-      "title_vi": "Mưa quá mức ở Bờ Biển Ngà đẩy giá ca cao tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.msn.com/en-us/news/world/excessive-rain-in-the-ivory-coast-boosts-cocoa-prices/ar-AA26hxXD?apiversion",
-      "source": "MSN",
-      "category": "soft",
-      "published": "2026-06-23 07:40"
-    },
-    {
-      "id": "k70zdt",
-      "title": "TEMPORARY DEAL – US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies",
-      "title_vi": "THỎA THUẬN TẠM THỜI - Hoa Kỳ nới lỏng các lệnh trừng phạt dầu mỏ của Nga để chế ngự sự tăng giá, chọc tức các đồng minh châu Âu",
-      "summary_vi": "Tóm tắt Sự miễn trừ của Hoa Kỳ cho phép mua dầu của Nga bị mắc kẹt Đức và các đồng minh châu Âu khác chỉ trích quyết định của Hoa Kỳ Moscow hoan nghênh động thái của Mỹ nhằm ổn định thị trường năng lượng (Reuters) - Hoa Kỳ đã ban hành quyền miễn trừ 30 ngày cho các nước mua dầu và các sản phẩm dầu mỏ bị trừng phạt của Nga bị mắc kẹt trên biển, vẽ…",
-      "image": "https://energynow.com/wp-content/uploads/trump-putin-1200x810.jpg",
-      "link": "https://energynow.com/2026/03/temporary-deal-us-eases-russia-oil-sanctions-to-tame-price-surge-riling-european-allies/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-06-23 06:25"
     }
   ]
 }

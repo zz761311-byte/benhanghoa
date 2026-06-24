@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-24 15:00",
+  "updated_at": "2026-06-24 15:46",
   "items": [
+    {
+      "id": "om19zz",
+      "title": "Qatar Says LNG Exports Could Return to Normal Within Weeks",
+      "title_vi": "Qatar cho biết xuất khẩu LNG có thể trở lại bình thường trong vòng vài tuần",
+      "summary_vi": "Qatar sẽ trở lại hoạt động sản xuất khí tự nhiên hóa lỏng bình thường trong vài tuần nữa, Thủ tướng nước này, ông Sheikh Mohammed bin Abdulrahman al-Thani, nói với Financial Times hôm nay. Ông nói: “Trong vòng vài tuần, hoạt động sản xuất sẽ trở lại bình thường, ngoại trừ cơ sở bị hư hỏng”.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-24_1mlc8uteo0.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Says-LNG-Exports-Could-Return-to-Normal-Within-Weeks.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-24 15:15"
+    },
     {
       "id": "182xn9v",
       "title": "Malaysian Major Makes Gas Discovery in Suriname",
@@ -121,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-24 03:30"
-    },
-    {
-      "id": "1lwpnaw",
-      "title": "SpaceX Taps Bond Market for $20 Billion to Fuel AI Expansion",
-      "title_vi": "SpaceX khai thác thị trường trái phiếu với giá 20 tỷ USD để thúc đẩy mở rộng AI",
-      "summary_vi": "SpaceX của Elon Musk đã bắt đầu bán trái phiếu cấp đầu tư lần đầu tiên trong dự án được dự đoán là một đợt vay nợ lớn nhằm tài trợ cho các kế hoạch AI đầy tham vọng của công ty sau khi niêm yết bom tấn trên sàn Nasdaq. Bank of America, Citigroup, Goldman Sachs, JPMorgan Chase",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-23_cyyb0b7lmn.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/SpaceX-Taps-Bond-Market-for-20-Billion-to-Fuel-AI-Expansion.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-24 03:00"
     },
     {
       "id": "r6v3ux",
@@ -431,6 +431,17 @@
       "published": "2026-06-23 06:25"
     },
     {
+      "id": "13wp0fq",
+      "title": "Vance touts progress in Iran talks as U.S. temporarily lifts oil sanctions",
+      "title_vi": "Vance ca ngợi sự tiến triển trong các cuộc đàm phán với Iran khi Mỹ tạm thời dỡ bỏ lệnh trừng phạt dầu mỏ",
+      "summary_vi": "Mỹ đã tạm thời dỡ bỏ các lệnh trừng phạt dầu mỏ đối với Iran hôm thứ Hai, tạo ra khả năng mang lại lợi nhuận kinh tế cho Iran bằng đồng đô la Mỹ khi vòng đàm phán đầu tiên kết thúc ở Thụy Sĩ. Vance dẫn đầu phái đoàn Hoa Kỳ, do Qatar và Pakistan làm trung gian. Các cuộc đàm phán diễn ra như một trong những điểm mấu chốt của cuộc chiến ở Lebanon",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/irantalksliz-1024x683.jpg",
+      "link": "https://www.pbs.org/newshour/show/vance-touts-progress-in-iran-talks-as-u-s-temporarily-lifts-oil-sanctions",
+      "source": "PBS",
+      "category": "energy",
+      "published": "2026-06-23 05:55"
+    },
+    {
       "id": "fjiedt",
       "title": "Silver (XAG/USD) Price Forecast: Long-Term Support Faces Critical Test",
       "title_vi": "Dự báo giá bạc (XAG/USD): Hỗ trợ dài hạn phải đối mặt với thử nghiệm quan trọng",
@@ -440,17 +451,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-06-23 04:08"
-    },
-    {
-      "id": "exwukp",
-      "title": "U.S. Temporarily Lifts Oil Sanctions Against Iran, Citing ‘Productive’ Talks",
-      "title_vi": "Hoa Kỳ tạm thời dỡ bỏ lệnh trừng phạt dầu đối với Iran, trích dẫn các cuộc đàm phán 'hiệu quả'",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/06/22/world/middleeast/us-iran-oil-sanctions.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-06-23 04:00"
     },
     {
       "id": "83roro",

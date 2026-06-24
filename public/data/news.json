@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-06-25 01:13",
+  "updated_at": "2026-06-25 02:00",
   "items": [
+    {
+      "id": "meclvu",
+      "title": "Norway&#039;s Oil Output Beats Forecasts Again Despite Pullback from April Highs",
+      "title_vi": "Sản lượng dầu của Na Uy lại vượt dự báo mặc dù giảm từ mức cao nhất tháng 4",
+      "summary_vi": "Sản lượng dầu mỏ của Na Uy giảm trong tháng 5 sau thành tích đặc biệt mạnh mẽ trong tháng 4, nhưng khu vực ngoài khơi của nước này vẫn tiếp tục vượt trội so với kỳ vọng. Sản lượng dầu thô đạt 7,2% so với dự báo chính thức ngay cả khi sản lượng dầu và khí đốt đều giảm từ t",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-24_kjefkxioen.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Oil-Output-Beats-Forecasts-Again-Despite-Pullback-from-April-Highs.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-25 02:00"
+    },
+    {
+      "id": "skg87f",
+      "title": "Oil Price Outlook Improves as Energy Activity Jumps Across Texas",
+      "title_vi": "Triển vọng giá dầu được cải thiện khi hoạt động năng lượng tăng vọt trên khắp Texas",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://fortworthinc.com/news/oil-price-outlook-improves-as-energy-activity-jumps-across-t/",
+      "source": "Fort Worth Inc.",
+      "category": "energy",
+      "published": "2026-06-25 01:41"
+    },
+    {
+      "id": "144d18d",
+      "title": "NexMetals upgrades Selkirk copper resource to 1.1B lb.",
+      "title_vi": "NexMetals nâng cấp tài nguyên đồng Selkirk lên 1,1 tỷ lb.",
+      "summary_vi": "Tổng lượng đồng tương đương chứa trong kho kim loại của dự án tăng 63% so với ước tính cuối cùng vào năm 2024.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/Premium-Nickel-Selebi-Ni-Cu-drill.jpg",
+      "link": "https://www.mining.com/nexmetals-upgrades-selkirk-copper-resource-to-1-1b-lb/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-25 01:38"
+    },
     {
       "id": "1i7d5sc",
       "title": "Trade Is Slowly Opening One of the World&#039;s Most Isolated Nations",
@@ -11,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-25 01:00"
+    },
+    {
+      "id": "1cskzcl",
+      "title": "Sprott Sees strong long-term Silver outlook despite recent price volatility",
+      "title_vi": "Sprott nhận thấy triển vọng bạc dài hạn mạnh mẽ bất chấp biến động giá gần đây",
+      "summary_vi": "Giám đốc Quản lý Tài sản Sprott, Quản lý Sản phẩm ETF Jacob White đã tham gia cùng Steve Darling từ Proactive để thảo luận về triển vọng của thị trường bạc,...",
+      "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA2XC91SjZSV2djZEJVUUV2NUV4YTBSV3VEeW1zc0VqVU93cExnVUk4bE4zLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "link": "https://www.proactiveinvestors.com/companies/news/1094451/sprott-sees-strong-long-term-silver-outlook-despite-recent-price-volatility.html",
+      "source": "Proactive financial news",
+      "category": "metal",
+      "published": "2026-06-25 00:30"
     },
     {
       "id": "1wt4y1i",
@@ -123,6 +167,17 @@
       "published": "2026-06-24 23:00"
     },
     {
+      "id": "a5gfl4",
+      "title": "Copper supply expansion since 2010 offers reassurance on market tightness concerns",
+      "title_vi": "Việc mở rộng nguồn cung đồng kể từ năm 2010 mang lại sự yên tâm trước những lo ngại về thắt chặt thị trường",
+      "summary_vi": "Thị trường đồng thường bị lo ngại có nguy cơ thiếu hụt cơ cấu dẫn đến thắt chặt thị trường trong thời gian ngắn. Tuy nhiên, những lo ngại này thường bị thổi phồng quá mức vì trong lịch sử, khoảng trống nguồn cung đã được lấp đầy.",
+      "image": "https://a.storyblok.com/f/287943243085208/6743d1355b/bm-glencore-katanga-copper-operation-drc.jpg",
+      "link": "https://source.benchmarkminerals.com/article/copper-supply-expansion-since-2010-offers-reassurance-on-market-tightness-concerns",
+      "source": "Benchmark Mineral Intelligence",
+      "category": "metal",
+      "published": "2026-06-24 22:44"
+    },
+    {
       "id": "1tvp73f",
       "title": "Gold selloff opens door to investors, miners have upside: BofA",
       "title_vi": "Bán vàng mở ra cơ hội cho các nhà đầu tư, thợ mỏ có lợi thế: BofA",
@@ -198,17 +253,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-24 21:03"
-    },
-    {
-      "id": "qqx62x",
-      "title": "Rubio Heads to Gulf as Iran Deal Sparks Anxiety Among U.S. Allies",
-      "title_vi": "Rubio hướng tới vùng Vịnh khi thỏa thuận Iran làm dấy lên sự lo lắng giữa các đồng minh của Hoa Kỳ",
-      "summary_vi": "Ngoại trưởng Hoa Kỳ Marco Rubio đã đến Abu Dhabi vào ngày 23 tháng 6, mở đầu chuyến công du vùng Vịnh nhằm trấn an các đồng minh Ả Rập thân cận nhất của Washington sau khi khuôn khổ ngừng bắn mong manh giữa Hoa Kỳ và Iran đặt ra những câu hỏi mới về an ninh khu vực và Tehran.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-23_rkz7c0axma.jpg",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Rubio-Heads-to-Gulf-as-Iran-Deal-Sparks-Anxiety-Among-US-Allies.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-24 21:00"
     },
     {
       "id": "16la2rg",
@@ -297,17 +341,6 @@
       "source": "Valor International",
       "category": "soft",
       "published": "2026-06-24 18:27"
-    },
-    {
-      "id": "l4mw30",
-      "title": "Li-FT bets $8M to turn diamond mine into lithium hub",
-      "title_vi": "Li-FT đặt cược 8 triệu USD để biến mỏ kim cương thành trung tâm lithium",
-      "summary_vi": "Cơ sở vật chất và giấy phép của mỏ Renard có thể thúc đẩy sự phát triển ở vành đai lithium của Québec.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/Stornoway-aerial.jpg",
-      "link": "https://www.mining.com/li-ft-bets-8m-to-turn-diamond-mine-into-lithium-hub/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-24 18:08"
     },
     {
       "id": "1ebeua4",
@@ -517,39 +550,6 @@
       "source": "Yahoo",
       "category": "soft",
       "published": "2026-06-23 19:36"
-    },
-    {
-      "id": "1xaltck",
-      "title": "Platinum Price Forecast – Dollar Breakout Signals Deeper Platinum Correction",
-      "title_vi": "Dự báo giá bạch kim - Tín hiệu đột phá đồng đô la Điều chỉnh bạch kim sâu hơn",
-      "summary_vi": "Bạch kim vẫn chịu áp lực khi đồng đô la Mỹ đột phá và lãi suất trái phiếu kho bạc tăng báo hiệu sự điều chỉnh sâu hơn trước khi giá đạt đến vùng mua dài hạn tiếp theo.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/04/platinum2-1.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/premium-platinum-price-forecast-dollar-breakout-signals-deeper-platinum-correction-1606033",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-06-23 18:28"
-    },
-    {
-      "id": "sjpqfs",
-      "title": "U.S. Oil Production Outlook & Midstream Implications",
-      "title_vi": "Triển vọng sản xuất dầu của Hoa Kỳ & Ý nghĩa trung nguồn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.etftrends.com/energy-infrastructure-content-hub/u-s-oil-production-outlook-midstream-implications/",
-      "source": "ETF Trends",
-      "category": "energy",
-      "published": "2026-06-23 18:00"
-    },
-    {
-      "id": "ir43bw",
-      "title": "Norway's oil production beats forecast in May, gas lags",
-      "title_vi": "Sản lượng dầu của Na Uy vượt dự báo trong tháng 5, khí đốt chậm lại",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/norways-oil-production-beats-forecast-may-2026-06-23/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-06-23 17:50"
     }
   ]
 }

@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-06-24 20:00",
+  "updated_at": "2026-06-24 20:55",
   "items": [
+    {
+      "id": "91xc2",
+      "title": "Euro Sinks To One-Year Low As Oil Price Drop Fuels ECB Rate Cut Bets",
+      "title_vi": "Đồng Euro giảm xuống mức thấp nhất trong một năm khi giá dầu giảm làm đặt cược cắt giảm lãi suất ECB",
+      "summary_vi": "Đồng euro đã giảm xuống mức thấp nhất trong một năm, với việc giảm căng thẳng giữa Mỹ và Iran giúp hạ nhiệt giá dầu và làm tăng kỳ vọng rằng Ngân hàng Trung ương châu Âu sẽ trở nên ôn hòa hơn. Đồng euro được niêm yết ở mức 1,135 USD so với đồng đô la Mỹ vào thứ Tư, giảm từ mức 1 USD.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-24_5lxmgwkrbd.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Euro-Sinks-To-One-Year-Low-As-Oil-Price-Drop-Fuels-ECB-Rate-Cut-Bets.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-24 20:30"
+    },
+    {
+      "id": "1u8dfk4",
+      "title": "price-of-oil-06-23-2026",
+      "title_vi": "giá dầu-06-23-2026",
+      "summary_vi": "Khi giá dầu thay đổi, nó sẽ ảnh hưởng đến chi phí năng lượng của bạn—và thậm chí cả giá của các mặt hàng hàng ngày. Đây là lý do tại sao.",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/Price-of-Oil-June-24.jpg?resize=1200,600",
+      "link": "https://fortune.com/article/price-of-oil-06-24-2026/",
+      "source": "Fortune",
+      "category": "energy",
+      "published": "2026-06-24 19:47"
+    },
     {
       "id": "1r0rxb",
       "title": "VLCC Earnings Near $470,000 a Day as Hormuz Hopes Drive Tanker Frenzy",
@@ -35,6 +57,17 @@
       "published": "2026-06-24 18:30"
     },
     {
+      "id": "1ebeua4",
+      "title": "EXCLUSIVE: Moscow oil refinery hit by drone attacks is unlikely to resume production this year, sources say",
+      "title_vi": "ĐỘC QUYỀN: Nhà máy lọc dầu ở Moscow bị tấn công bằng máy bay không người lái khó có thể tiếp tục sản xuất trong năm nay, các nguồn tin cho biết",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/moscow-oil-refinery-hit-by-drone-attacks-is-unlikely-resume-production-this-year-2026-06-24/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-06-24 18:03"
+    },
+    {
       "id": "1j51eli",
       "title": "China’s Teapot Refineries Cut Operations to Their Lowest Level Since 2017",
       "title_vi": "Các nhà máy lọc dầu Teapot của Trung Quốc cắt giảm hoạt động xuống mức thấp nhất kể từ năm 2017",
@@ -44,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-24 17:30"
+    },
+    {
+      "id": "z0qpe3",
+      "title": "Silver Price Forecasts: XAG/USD licks its wounds above $61.00 amid a strong US Dollar",
+      "title_vi": "Dự báo giá bạc: XAG/USD khắc phục vết thương trên 61,00 USD trong bối cảnh đồng đô la Mỹ mạnh",
+      "summary_vi": "Bạc (XAG/USD) chịu lỗ biên, giao dịch cao hơn một vài xu so với mức 61,00 USD trong phiên giao dịch châu Âu hôm thứ Tư.",
+      "image": "https://editorial.fxsstatic.com/images/i/discover-54_Medium.png",
+      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-licks-its-wounds-above-6100-amid-a-strong-us-dollar-202606240937",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-06-24 16:37"
     },
     {
       "id": "13xeqfc",
@@ -165,17 +209,6 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-06-24 07:00"
-    },
-    {
-      "id": "1i01tm9",
-      "title": "Why the Next Billion Barrels of Oil Demand Could Come From Storage",
-      "title_vi": "Tại sao nhu cầu hàng tỷ thùng dầu tiếp theo có thể đến từ kho lưu trữ",
-      "summary_vi": "Việc đóng cửa eo biển Hormuz và khiến hơn 10 triệu thùng dầu thô mỗi ngày (bpd) bị mắc kẹt ở Vịnh Ba Tư là lời cảnh tỉnh đối với các quốc gia phụ thuộc vào nhập khẩu để mở rộng khả năng dự trữ chiến lược và thương mại. Nhiều quốc gia, đặc biệt là ở",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-23_otyweqqime.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Why-the-Next-Billion-Barrels-of-Oil-Demand-Could-Come-From-Storage.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-24 06:00"
     },
     {
       "id": "12skfbk",
@@ -517,39 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-06-23 06:25"
-    },
-    {
-      "id": "83roro",
-      "title": "Uganda Coffee Report: Production Steady but Government Signals Strategy Shift",
-      "title_vi": "Báo cáo Cà phê Uganda: Sản xuất ổn định nhưng Chính phủ báo hiệu sự thay đổi chiến lược",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/06/22/uganda-coffee-report-production-steady-but-government-signals-strategy-shift/",
-      "source": "Daily Coffee News by Roast Magazine",
-      "category": "soft",
-      "published": "2026-06-23 02:41"
-    },
-    {
-      "id": "a7ot4i",
-      "title": "Cancer patients in India seek their own chemotherapy in face of platinum supply shock",
-      "title_vi": "Bệnh nhân ung thư ở Ấn Độ tìm cách hóa trị liệu cho riêng mình trước cú sốc nguồn cung bạch kim",
-      "summary_vi": "Giá cả tăng vọt và sự gián đoạn vận chuyển đã ảnh hưởng đến nguồn cung kim loại quý, thành phần chính của hóa trị.",
-      "image": "https://www.telegraph.co.uk/content/dam/global-health/2026/06/22/TELEMMGLPICT000390131202_17821492269370_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
-      "link": "https://www.telegraph.co.uk/global-health/science-and-disease/platinum-shortage-threatens-cancer-care-in-india-and-beyond/",
-      "source": "The Telegraph",
-      "category": "metal",
-      "published": "2026-06-23 01:01"
-    },
-    {
-      "id": "39rso3",
-      "title": "Corn vs. soybeans 2027: Input costs shift profit outlook",
-      "title_vi": "Ngô và đậu nành 2027: Chi phí đầu vào thay đổi triển vọng lợi nhuận",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/commentary/corn-vs-soybeans-2027-input-costs-shift-profit-outlook",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-06-23 00:59"
     }
   ]
 }

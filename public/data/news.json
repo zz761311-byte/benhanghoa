@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25 12:52",
+  "updated_at": "2026-06-25 13:00",
   "items": [
     {
       "id": "1k9qd43",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-25 12:26"
+    },
+    {
+      "id": "lr05s1",
+      "title": "Concentrate supply remains tightest segment of copper value chain: Nornickel",
+      "title_vi": "Nguồn cung tập trung vẫn là phân khúc chặt chẽ nhất của chuỗi giá trị đồng: Nornickel",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/062426-concentrate-supply-remains-tightest-segment-of-copper-value-chain-nornickel",
+      "source": "S&P Global",
+      "category": "metal",
+      "published": "2026-06-25 08:46"
     },
     {
       "id": "tzjwhp",
@@ -539,17 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-06-24 04:35"
-    },
-    {
-      "id": "12skfbk",
-      "title": "Crops Analysis | Corn futures carve contract low closes",
-      "title_vi": "Phân tích cây trồng | Hợp đồng ngô kỳ hạn đóng cửa ở mức thấp",
-      "summary_vi": "Ngày 23 tháng 6 năm 2026",
-      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
-      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-nearby-corn-forges-contract-low-close",
-      "source": "Pro Farmer",
-      "category": "agri",
-      "published": "2026-06-24 04:00"
     }
   ]
 }

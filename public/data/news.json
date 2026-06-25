@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-25 11:00",
+  "updated_at": "2026-06-25 12:00",
   "items": [
+    {
+      "id": "tzjwhp",
+      "title": "Zero-tariff lifts Kenya up the value chain",
+      "title_vi": "Miễn thuế quan nâng Kenya lên chuỗi giá trị",
+      "summary_vi": "Quyết định của Trung Quốc cấp quyền tiếp cận miễn thuế cho hàng xuất khẩu từ 53 quốc gia châu Phi từ ngày 1 tháng 5 là một bước ngoặt trong mối quan hệ kinh tế của châu Phi với nền kinh tế lớn thứ hai thế giới.",
+      "image": "http://img2.chinadaily.com.cn/images/202606/25/6a3c84ada310986e101851a4.png",
+      "link": "https://www.chinadaily.com.cn/a/202606/25/WS6a3c84ada310986e2b461cf0.html",
+      "source": "China Daily",
+      "category": "macro",
+      "published": "2026-06-25 08:32"
+    },
     {
       "id": "1um9udb",
       "title": "US DOE funds MIT drill core tech to speed up critical minerals discovery",
@@ -66,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-25 05:00"
+    },
+    {
+      "id": "9jejqu",
+      "title": "Trump is frustrated gasoline prices don't mirror oil's decline. Experts say it’s not that simple - ABC News",
+      "title_vi": "Trump thất vọng vì giá xăng không phản ánh sự sụt giảm của dầu Chuyên gia nói không đơn giản như vậy - ABC News",
+      "summary_vi": "Giá xăng tại Mỹ giảm trung bình 49 cent/gallon trong tháng trước do kỳ vọng tăng lên về việc chấm dứt chiến tranh với Iran",
+      "image": "https://i.abcnewsfe.com/a/5b89ad95-5ab9-49cf-995b-118b2c2fbb81/wirestory_8cc519eca4ef31243155a44c75c8d19c_16x9.jpg?w=1600",
+      "link": "https://abcnews.com/US/wireStory/trump-frustrated-gasoline-prices-mirror-oils-decline-experts-134183811",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-06-25 04:47"
     },
     {
       "id": "zj04tk",
@@ -528,28 +550,6 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "energy",
       "published": "2026-06-24 02:59"
-    },
-    {
-      "id": "exwukp",
-      "title": "U.S. Temporarily Lifts Oil Sanctions Against Iran, Citing ‘Productive’ Talks",
-      "title_vi": "Hoa Kỳ tạm thời dỡ bỏ lệnh trừng phạt dầu đối với Iran, trích dẫn các cuộc đàm phán 'hiệu quả'",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/06/22/world/middleeast/us-iran-oil-sanctions.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-06-24 01:35"
-    },
-    {
-      "id": "6v6jp2",
-      "title": "How U.S. peace talks with Iran could impact oil and gas prices",
-      "title_vi": "Cuộc đàm phán hòa bình của Mỹ với Iran có thể tác động đến giá dầu và khí đốt như thế nào",
-      "summary_vi": "Tom Seng, trợ lý giáo sư tài chính năng lượng tại Trường Kinh doanh Neeley của TCU, thảo luận về việc các cuộc đàm phán ngừng bắn có thể ảnh hưởng đến người tiêu dùng Bắc Texas như thế nào.",
-      "image": "https://npr.brightspotcdn.com/dims4/default/e4daef3/2147483647/strip/true/crop/5639x2960+0+399/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2Fd8%2Ff007f40f4767b590a79482454bbd%2F04012026-gas-prices-dallas-01-kera.jpg",
-      "link": "https://www.keranews.org/news/2026-06-23/ceasefire-iran-oil-gas-prices",
-      "source": "KERA News",
-      "category": "energy",
-      "published": "2026-06-24 01:29"
     }
   ]
 }

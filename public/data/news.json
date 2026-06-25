@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-25 17:00",
+  "updated_at": "2026-06-25 18:00",
   "items": [
+    {
+      "id": "ezdvje",
+      "title": "$70 Oil Could Put India Back on Track for 7% Economic Growth",
+      "title_vi": "Dầu 70 USD có thể đưa Ấn Độ trở lại hướng tăng trưởng kinh tế 7%",
+      "summary_vi": "Theo một quan chức cấp cao của ngân hàng trung ương Ấn Độ, nền kinh tế Ấn Độ có thể quay trở lại quỹ đạo tăng trưởng 7% và thậm chí cao hơn trong năm tài chính đến tháng 3 năm 2027 nếu giá dầu vẫn ở mức gần 70 USD/thùng hiện tại. Giá dầu ở mức khoảng 70 USD/thùng làm giảm bớt căng thẳng trong cuộc chiến thương mại",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-25_60pqlfrwvs.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/70-Oil-Could-Put-India-Back-on-Track-for-7-Economic-Growth.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-25 17:30"
+    },
     {
       "id": "9pgrqt",
       "title": "Iraq Could Quit OPEC in Bid to Pump More Oil",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-25 16:30"
+    },
+    {
+      "id": "1qj1or2",
+      "title": "Gold hovers around $4,000, silver holds below $60 — has the shimmer worn off the precious metal rally?",
+      "title_vi": "Vàng dao động quanh mức 4.000 USD, bạc giữ dưới 60 USD - liệu ánh sáng lung linh có làm mất đi đà tăng của kim loại quý không?",
+      "summary_vi": "Vàng đã giảm gần 8% trong năm nay, trong khi bạc đã giảm hơn 20%.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108235976-1764776147223-gettyimages-2212118870-SPAIN_GOLD.jpeg?v=1772830830&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/06/25/gold-silver-price-rally-invest-interest-rates.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-06-25 15:46"
     },
     {
       "id": "1s12f9t",
@@ -143,17 +165,6 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "energy",
       "published": "2026-06-25 04:47"
-    },
-    {
-      "id": "zj04tk",
-      "title": "Why Wet Coffee Grounds Might Be The Next Waste-To-Energy Goldmine",
-      "title_vi": "Tại sao bã cà phê ướt có thể là mỏ vàng biến rác thải thành năng lượng tiếp theo",
-      "summary_vi": "Một nhóm các nhà nghiên cứu tại Viện Khoa học Địa chất và Tài nguyên Khoáng sản Hàn Quốc (KIGAM) vừa tìm ra cách giúp sản xuất than sinh học nhanh hơn và rẻ hơn. Phương pháp mới giải quyết thách thức lớn trong quy trình sản xuất than sinh học tiêu chuẩn và có khả năng mở ra cơ hội tái chế",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-24_asw8fcbr9g.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Wet-Coffee-Grounds-Might-Be-The-Next-Waste-To-Energy-Goldmine.html",
-      "source": "OilPrice",
-      "category": "soft",
-      "published": "2026-06-25 04:00"
     },
     {
       "id": "1mftall",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-06-24 11:52"
-    },
-    {
-      "id": "twpk99",
-      "title": "Why the US remains ‘fragmented’ in a critical copper clash against China",
-      "title_vi": "Tại sao Mỹ vẫn bị chia cắt trong cuộc xung đột quan trọng với Trung Quốc",
-      "summary_vi": "Những nỗ lực của Washington nhằm xây dựng lại ngành công nghiệp đồng trong nước đang va chạm với sự thống trị của Trung Quốc trong lĩnh vực kim loại trung tâm cho các hệ thống công nghệ và quốc phòng tiên tiến.",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/23/42926807-1cbd-4776-b864-fdfa10ed2244_72d9b378.jpg?itok=pjyi-YYE&v=1782205754",
-      "link": "https://www.scmp.com/economy/global-economy/article/3358060/copper-crunch-inside-us-china-battle-critical-global-supply-chain",
-      "source": "South China Morning Post",
-      "category": "metal",
-      "published": "2026-06-24 05:00"
     }
   ]
 }

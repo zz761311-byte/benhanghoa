@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26 06:00",
+  "updated_at": "2026-06-26 06:48",
   "items": [
     {
       "id": "61irlo",
@@ -13,6 +13,17 @@
       "published": "2026-06-26 05:00"
     },
     {
+      "id": "19w9id1",
+      "title": "Natural Gas Market Indicators – June 25, 2026",
+      "title_vi": "Các chỉ số thị trường khí đốt tự nhiên - ngày 25 tháng 6 năm 2026",
+      "summary_vi": "Mùa hè đã chính thức diễn ra và nhu cầu khí đốt tự nhiên đang tăng lên do nhiệt độ theo mùa ấm lên làm tăng mức tiêu thụ của ngành điện. Cùng với việc cung cấp khí cấp LNG mạnh mẽ, tổng nhu cầu, bao gồm cả xuất khẩu, đang tăng cao hơn mức năm trước, nhấn mạnh sức hút tổng hợp của nhu cầu làm mát trong nước và nhu cầu xuất khẩu trong thời gian đầu năm.",
+      "image": "https://www.aga.org/wp-content/uploads/2026/06/NGMI-512-prices.png",
+      "link": "https://www.aga.org/research-policy/resource-library/natural-gas-market-indicators-june-25-2026/",
+      "source": "American Gas Association",
+      "category": "energy",
+      "published": "2026-06-26 04:59"
+    },
+    {
       "id": "1p0yt0s",
       "title": "Geothermal Could Power 65 Million U.S. Homes by 2050, DOE Says",
       "title_vi": "DOE cho biết địa nhiệt có thể cung cấp năng lượng cho 65 triệu ngôi nhà ở Mỹ vào năm 2050",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-26 04:00"
+    },
+    {
+      "id": "ke7l8",
+      "title": "Crops Analysis | Harvest pressure limits spillover gains in wheat",
+      "title_vi": "Phân tích cây trồng | Áp lực thu hoạch hạn chế lợi ích lan tỏa ở lúa mì",
+      "summary_vi": "Ngày 25 tháng 6 năm 2026",
+      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
+      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-harvest-pressure-limits-spillover-gains-wheat",
+      "source": "Pro Farmer",
+      "category": "agri",
+      "published": "2026-06-26 03:56"
     },
     {
       "id": "zikdor",
@@ -528,28 +550,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-06-24 20:35"
-    },
-    {
-      "id": "7ot7lu",
-      "title": "Silver Price Analysis – Silver Continues to Drop Early on Wednesday",
-      "title_vi": "Phân tích giá bạc - Bạc tiếp tục giảm sớm vào thứ Tư",
-      "summary_vi": "Bạc tiếp tục kiểm tra mức hỗ trợ vào thứ Tư, vì chúng tôi đang xem xét khả năng bán tháo lớn trên thị trường này. Mối tương quan giữa lãi suất và giá cả đã hoàn toàn bị phá vỡ.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/06/ChatGPT-Image-Jul-1-2025-05_10_52-PM-7.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/silver-price-analysis-silver-continues-to-drop-early-on-wednesday-1606317",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-06-24 20:21"
-    },
-    {
-      "id": "1u8dfk4",
-      "title": "price-of-oil-06-23-2026",
-      "title_vi": "giá dầu-06-23-2026",
-      "summary_vi": "Khi giá dầu thay đổi, nó sẽ ảnh hưởng đến chi phí năng lượng của bạn—và thậm chí cả giá của các mặt hàng hàng ngày. Đây là lý do tại sao.",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/Price-of-Oil-June-24.jpg?resize=1200,600",
-      "link": "https://fortune.com/article/price-of-oil-06-24-2026/",
-      "source": "Fortune",
-      "category": "energy",
-      "published": "2026-06-24 20:18"
     }
   ]
 }

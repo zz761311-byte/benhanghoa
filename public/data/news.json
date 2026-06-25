@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-25 20:00",
+  "updated_at": "2026-06-25 20:52",
   "items": [
+    {
+      "id": "klqds8",
+      "title": "ADNOC Cuts Murban Crude Price to $101.48 as Hormuz Tensions Ease",
+      "title_vi": "ADNOC giảm giá dầu thô Murban xuống còn 101,48 USD khi căng thẳng Hormuz giảm bớt",
+      "summary_vi": "ADNOC, công ty dầu khí quốc gia của Abu Dhabi, đã giảm giá bán chính thức trong tháng 7 đối với dầu thô Murban hàng đầu của họ xuống còn 101,48 USD/thùng, giảm từ mức 104,44 USD/thùng trong tháng 6, trong bối cảnh giá dầu chuẩn quốc tế và Trung Đông suy yếu. Bảng giá gần đây của ADNOC cho",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-25_lia6qvjbma.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Cuts-Murban-Crude-Price-to-10148-as-Hormuz-Tensions-Ease.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-25 20:30"
+    },
     {
       "id": "1cyequc",
       "title": "Gold falls below $4,000 on Fed rate hike bets under Kevin Warsh",
@@ -44,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-25 17:30"
+    },
+    {
+      "id": "ismqpr",
+      "title": "Chevron says no quick fix for gas prices as Trump takes on Big Oil: ‘It’s going to take time’",
+      "title_vi": "Chevron nói rằng không có cách khắc phục nhanh chóng giá xăng khi Trump tiếp quản Big Oil: 'Sẽ mất thời gian'",
+      "summary_vi": "Bình luận của cô được đưa ra ngay sau khi Tổng thống Donald Trump ra lệnh điều tra Big Oil, cáo buộc họ \"lừa đảo\" người tiêu dùng.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108325156-1782165442035-gettyimages-2282302541-US_GAS_PRICES.jpeg?v=1782165519&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/06/25/chevron-gas-prices-trump-big-oil.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-06-25 16:38"
     },
     {
       "id": "9pgrqt",
@@ -154,17 +176,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-25 07:09"
-    },
-    {
-      "id": "9yfyg5",
-      "title": "Why the AI Boom Could Trigger the Biggest Energy Trade in Decades",
-      "title_vi": "Tại sao sự bùng nổ AI có thể kích hoạt giao dịch năng lượng lớn nhất trong nhiều thập kỷ",
-      "summary_vi": "Trí tuệ nhân tạo đang tạo ra một lớp khổng lồ về cơ sở hạ tầng mới hầu như chỉ sau một đêm và một công cụ khai thác Bitcoin sáng tạo đã sớm có bước nhảy vọt trong lĩnh vực kinh doanh năng lượng toàn cầu, đáp ứng nhu cầu phàm ăn của các trung tâm dữ liệu AI, hiện đang được khen thưởng sau nhiều năm bảo mật",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-24_zmzak1wdjt.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-the-AI-Boom-Could-Trigger-the-Biggest-Energy-Trade-in-Decades.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-25 07:00"
     },
     {
       "id": "rrv38p",
@@ -539,17 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-06-24 14:44"
-    },
-    {
-      "id": "c88spc",
-      "title": "Brent falls below $76, notching its lowest level since day before U.S.-Iran war",
-      "title_vi": "Brent giảm xuống dưới 76 USD, chạm mức thấp nhất kể từ ngày trước chiến tranh Mỹ-Iran",
-      "summary_vi": "Tổng thống Mỹ Donald Trump tăng cường áp lực lên các công ty dầu mỏ để giảm giá xăng sau đợt sụt giảm giá dầu thô gần đây.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108325936-1782289399007-gettyimages-2281783154-dji_20260615155808_0334_d_3mamzkfe.jpeg?v=1782289495&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/06/24/oil-prices-wti-brent-crude-trump-doj-gasoline-prices-strait-of-hormuz.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-06-24 12:09"
     }
   ]
 }

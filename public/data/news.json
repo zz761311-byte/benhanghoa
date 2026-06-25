@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-26 03:51",
+  "updated_at": "2026-06-26 04:00",
   "items": [
+    {
+      "id": "1p0yt0s",
+      "title": "Geothermal Could Power 65 Million U.S. Homes by 2050, DOE Says",
+      "title_vi": "DOE cho biết địa nhiệt có thể cung cấp năng lượng cho 65 triệu ngôi nhà ở Mỹ vào năm 2050",
+      "summary_vi": "Cindy Taff, giám đốc điều hành của công ty địa nhiệt Sage Geosystems, nói với The Hill vào tháng 2 năm 2025: “Đây sẽ là thập kỷ của địa nhiệt”. Hơn một năm sau, ngày càng có nhiều bằng chứng cho thấy Taff chắc chắn đang làm gì đó. Mặc dù năng lượng địa nhiệt vẫn là một",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-25_oygpino6ts.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Geothermal-Could-Power-65-Million-US-Homes-by-2050-DOE-Says.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-26 04:00"
+    },
     {
       "id": "zikdor",
       "title": "JM Smucker eyes margin boost with lower green coffee commodity costs",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-26 03:00"
+    },
+    {
+      "id": "1udfav2",
+      "title": "RCT tech helps historic mine navigate the transition to surface mining",
+      "title_vi": "Công nghệ RCT giúp mỏ lịch sử điều hướng quá trình chuyển đổi sang khai thác bề mặt",
+      "summary_vi": "Epiroc đã hợp tác với RCT để đảm bảo hoạt động an toàn và hiệu quả bằng việc triển khai tự động hóa bất khả tri.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/CatD10Dozer_HR-1024x768.jpg",
+      "link": "https://www.mining.com/rct-tech-helps-historic-mine-navigate-the-transition-to-surface-mining/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-26 02:44"
     },
     {
       "id": "1h1qunz",
@@ -101,15 +123,26 @@
       "published": "2026-06-25 23:30"
     },
     {
-      "id": "2a0814",
-      "title": "AI Boom Forces Tennessee to Plan Massive Natural Gas Expansion",
-      "title_vi": "Sự bùng nổ AI buộc Tennessee phải lên kế hoạch mở rộng khí đốt tự nhiên quy mô lớn",
-      "summary_vi": "Cơ quan Quản lý Thung lũng Tennessee đã công bố kế hoạch tài nguyên tích hợp sơ bộ năm 2026 vào thứ Hai, cho biết mức tăng trưởng phụ tải trong dấu chân của họ đã vượt xa dự báo trường hợp tham chiếu trong dự thảo IRP của họ và rằng họ có nhu cầu công suất tăng dần từ 7 GW đến 26 GW năng lượng tự nhiên.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-25_lzg4qvgtbi.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/AI-Boom-Forces-Tennessee-to-Plan-Massive-Natural-Gas-Expansion.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-25 23:00"
+      "id": "1bfkr0q",
+      "title": "Goldsky closes Agnico deal to become sole owner of Swedish project",
+      "title_vi": "Goldsky chốt thương vụ Agnico để trở thành chủ sở hữu duy nhất dự án Thụy Điển",
+      "summary_vi": "Nhà thám hiểm vàng đã công bố vào tháng 1 ý định mua 55% lãi suất đối với tài sản Barsele từ Agnico.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/barsele-gold-project.png",
+      "link": "https://www.mining.com/goldsky-closes-agnico-deal-to-become-sole-owner-of-swedish-project/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-25 23:29"
+    },
+    {
+      "id": "1d3bmp0",
+      "title": "Generation Mining nears C$1 billion copper project funding",
+      "title_vi": "Khai thác thế hệ gần tài trợ cho dự án đồng trị giá 1 tỷ đô la Canada",
+      "summary_vi": "Nhà phân tích cho biết: “Với việc cấp phép và hầu hết nguồn tài chính đã hoàn tất, Generation đang ở vị trí thuận lợi để tiếp tục phát triển dự án”.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/Marathon-is-the-largest-undeveloped-palladium-project-in-North-America.png",
+      "link": "https://www.mining.com/generation-mining-nears-c1-billion-copper-project-funding/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-06-25 22:56"
     },
     {
       "id": "1k2k1v3",
@@ -266,17 +299,6 @@
       "published": "2026-06-25 08:17"
     },
     {
-      "id": "1um9udb",
-      "title": "US DOE funds MIT drill core tech to speed up critical minerals discovery",
-      "title_vi": "DOE Hoa Kỳ tài trợ cho công nghệ lõi khoan của MIT để tăng tốc độ phát hiện các khoáng sản quan trọng",
-      "summary_vi": "Theo chương trình này, Fieldstone sẽ xác nhận hiệu suất của các lõi mới được khai thác tại các địa điểm thăm dò đang hoạt động.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/AdobeStock_2039923627-scaled-e1782346019402-1024x574.jpeg",
-      "link": "https://www.mining.com/us-doe-funds-mit-drill-core-tech-to-speed-up-critical-minerals-discovery/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-25 07:09"
-    },
-    {
       "id": "rrv38p",
       "title": "Triple Sugar Iron Agar Market Forecast Points Higher Toward 2035, Driven by Electronics QC Expansion",
       "title_vi": "Dự báo thị trường thạch sắt đường gấp ba điểm cao hơn vào năm 2035, được thúc đẩy bởi việc mở rộng QC điện tử",
@@ -286,17 +308,6 @@
       "source": "IndexBox",
       "category": "soft",
       "published": "2026-06-25 06:16"
-    },
-    {
-      "id": "b032y3",
-      "title": "World&#8217;s largest EV battery repurposing megafactory opens in British Columbia",
-      "title_vi": "Siêu nhà máy tái sử dụng pin EV lớn nhất thế giới khai trương ở British Columbia",
-      "summary_vi": "Moment Energy đã công bố dự án này sáu tuần trước.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/Launch-Megafactory-scaled-1-1024x683.jpg",
-      "link": "https://www.mining.com/worlds-largest-ev-battery-repurposing-megafactory-opens-in-british-columbia/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-25 05:22"
     },
     {
       "id": "9jejqu",
@@ -539,17 +550,6 @@
       "source": "Fortune",
       "category": "energy",
       "published": "2026-06-24 19:47"
-    },
-    {
-      "id": "l6zel0",
-      "title": "Copersucar expects more cane and sugar price rebound this season",
-      "title_vi": "Copersucar kỳ vọng giá mía và đường sẽ phục hồi trong mùa này",
-      "summary_vi": "Giám đốc điều hành Tomás Manzano nói rằng thị trường không nên khuyến khích cắt giảm nguồn cung",
-      "image": "https://s2-valorinternational.glbimg.com/oYWgJD-LJOa2_lqNPewVkJ9ARXU=/1268x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_37554604729d4b2f9f3eb9ad8a691345/internal_photos/bs/2026/H/p/lhte9ETUAoc87KhH7YRg/foto24agr-101-coper-b8.jpg",
-      "link": "https://valorinternational.globo.com/agribusiness/news/2026/06/24/copersucar-expects-more-cane-and-sugar-price-rebound-this-season.ghtml",
-      "source": "Valor International",
-      "category": "soft",
-      "published": "2026-06-24 18:27"
     }
   ]
 }

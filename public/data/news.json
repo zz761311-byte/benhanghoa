@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-25 15:00",
+  "updated_at": "2026-06-25 15:41",
   "items": [
+    {
+      "id": "1s12f9t",
+      "title": "Trump Singles Out Exxon, Chevron, Shell, and BP Over High Gas Prices",
+      "title_vi": "Trump chỉ trích Exxon, Chevron, Shell và BP vì giá xăng tăng cao",
+      "summary_vi": "Tổng thống Donald Trump đã liệt Exxon, Chevron, Shell và BP vào danh sách các công ty phải chịu trách nhiệm về giá nhiên liệu quá cao, sau thông báo về một cuộc điều tra của chính phủ liên bang về việc tăng giá hồi đầu tuần. “Giá dầu đã giảm quá nhiều và chúng tôi không",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-25_caetfgdvoh.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Singles-Out-Exxon-Chevron-Shell-and-BP-Over-High-Gas-Prices.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-25 15:30"
+    },
     {
       "id": "16qxetd",
       "title": "Qatar Signs Crude Deal With Taiwan as Gulf Oil Trade Recovers",
@@ -198,17 +209,6 @@
       "source": "eciks.org",
       "category": "metal",
       "published": "2026-06-25 02:29"
-    },
-    {
-      "id": "meclvu",
-      "title": "Norway&#039;s Oil Output Beats Forecasts Again Despite Pullback from April Highs",
-      "title_vi": "Sản lượng dầu của Na Uy lại vượt dự báo mặc dù giảm từ mức cao nhất tháng 4",
-      "summary_vi": "Sản lượng dầu mỏ của Na Uy giảm trong tháng 5 sau thành tích đặc biệt mạnh mẽ trong tháng 4, nhưng khu vực ngoài khơi của nước này vẫn tiếp tục vượt trội so với kỳ vọng. Sản lượng dầu thô đạt 7,2% so với dự báo chính thức ngay cả khi sản lượng dầu và khí đốt đều giảm từ t",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-24_kjefkxioen.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Oil-Output-Beats-Forecasts-Again-Despite-Pullback-from-April-Highs.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-25 02:00"
     },
     {
       "id": "skg87f",
@@ -497,6 +497,17 @@
       "published": "2026-06-24 16:37"
     },
     {
+      "id": "1pm0bms",
+      "title": "Falling diesel prices, stubborn fertilizer costs and $4 corn: What's next?",
+      "title_vi": "Giá dầu diesel giảm, chi phí phân bón cứng đầu và giá ngô 4 USD: Điều gì tiếp theo?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/marketing/falling-diesel-prices-stubborn-fertilizer-costs-and-4-corn-what-s-next-",
+      "source": "Farm Progress",
+      "category": "energy",
+      "published": "2026-06-24 16:01"
+    },
+    {
       "id": "1xrkuyl",
       "title": "Silver Price Forecast: XAG/USD rebounds toward $62.00 after hitting fresh six-month lows",
       "title_vi": "Dự báo giá bạc: XAG/USD tăng trở lại mức 62,00 USD sau khi chạm mức thấp mới trong sáu tháng",
@@ -539,17 +550,6 @@
       "source": "South China Morning Post",
       "category": "metal",
       "published": "2026-06-24 05:00"
-    },
-    {
-      "id": "mfcrax",
-      "title": "Is China Buying Beans? What Pressured Corn, Wheat and Cattle Tuesday?",
-      "title_vi": "Trung Quốc có mua đậu không? Điều gì ép ngô, lúa mì và gia súc thứ ba?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/china-buying-beans-what-pressure-corn-wheat-and-cattle-tuesday",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-06-24 04:35"
     }
   ]
 }

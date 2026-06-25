@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-26 00:00",
+  "updated_at": "2026-06-26 01:00",
   "items": [
+    {
+      "id": "1cyo5no",
+      "title": "Kazakhstan Lands $12 Billion in EU Deals to Expand Energy and Trade Ties",
+      "title_vi": "Kazakhstan giành được 12 tỷ USD trong các thỏa thuận của EU nhằm mở rộng quan hệ thương mại và năng lượng",
+      "summary_vi": "Chuyến thăm của Tổng thống Kazakhstan Kassym-Jomart Tokayev tới trụ sở EU tại Brussels đã mang lại những thỏa thuận và MoU có khả năng trị giá hơn 12 tỷ USD. Thỏa thuận quan trọng liên quan đến việc mua 50 máy bay chở khách Airbus với giá 7,1 tỷ euro. Chuyến thăm của Tokayev kết thúc",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-25_qf2oz0wwfd.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Lands-12-Billion-in-EU-Deals-to-Expand-Energy-and-Trade-Ties.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-06-26 01:00"
+    },
     {
       "id": "19oza5n",
       "title": "Russia Turns Asia’s Oil Shock Into an Indonesian Opening",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-26 00:00"
+    },
+    {
+      "id": "1hgjuv9",
+      "title": "Trump Calls for Probe Into U.S. Gasoline Prices After Oil Falls",
+      "title_vi": "Trump kêu gọi điều tra giá xăng Mỹ sau khi giá dầu giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/trump-calls-for-lower-gasoline-prices-as-oil-falls-95080195",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-06-25 23:46"
     },
     {
       "id": "1ohivl0",
@@ -112,17 +134,6 @@
       "published": "2026-06-25 21:00"
     },
     {
-      "id": "klqds8",
-      "title": "ADNOC Cuts Murban Crude Price to $101.48 as Hormuz Tensions Ease",
-      "title_vi": "ADNOC giảm giá dầu thô Murban xuống còn 101,48 USD khi căng thẳng Hormuz giảm bớt",
-      "summary_vi": "ADNOC, công ty dầu khí quốc gia của Abu Dhabi, đã giảm giá bán chính thức trong tháng 7 đối với dầu thô Murban hàng đầu của họ xuống còn 101,48 USD/thùng, giảm từ mức 104,44 USD/thùng trong tháng 6, trong bối cảnh giá dầu chuẩn quốc tế và Trung Đông suy yếu. Bảng giá gần đây của ADNOC cho",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-25_lia6qvjbma.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Cuts-Murban-Crude-Price-to-10148-as-Hormuz-Tensions-Ease.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-25 20:30"
-    },
-    {
       "id": "16xga1i",
       "title": "Metals.io opens cobalt, nickel to retail investors",
       "title_vi": "Metals.io mở coban, niken cho các nhà đầu tư bán lẻ",
@@ -165,6 +176,17 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-06-25 16:38"
+    },
+    {
+      "id": "110b6ve",
+      "title": "Recycled-content copper output rising steadily",
+      "title_vi": "Sản lượng đồng tái chế tăng đều đặn",
+      "summary_vi": "Nhóm Nghiên cứu Đồng Quốc tế cho biết Trung Quốc là quốc gia có sản lượng bổ sung nhiều nhất vào năm 2026.",
+      "image": "https://www.recyclingtoday.com/fileuploads/image/2026/06/25/coppermixedtaylor.jpg",
+      "link": "https://www.recyclingtoday.com/news/icsg-copper-recycling-output-china-usa-global-surplus-spring-2026/",
+      "source": "Recycling Today",
+      "category": "metal",
+      "published": "2026-06-25 16:20"
     },
     {
       "id": "1qj1or2",
@@ -442,17 +464,6 @@
       "published": "2026-06-24 20:59"
     },
     {
-      "id": "154dov",
-      "title": "Trump Calls for Lower Gasoline Prices as U.S. Oil Falls Below $70 a Barrel",
-      "title_vi": "Trump kêu gọi giảm giá xăng khi dầu Mỹ giảm xuống dưới 70 USD/thùng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barrons.com/articles/trump-lower-gas-prices-oil-hormuz-aed90832",
-      "source": "Barron's",
-      "category": "energy",
-      "published": "2026-06-24 20:48"
-    },
-    {
       "id": "2sdezm",
       "title": "Natural Gas Price Analysis – Natural Gas Continues to Range Trade",
       "title_vi": "Phân tích giá khí đốt tự nhiên - Khí đốt tự nhiên tiếp tục được giao dịch rộng rãi",
@@ -539,17 +550,6 @@
       "source": "MSN",
       "category": "soft",
       "published": "2026-06-24 17:03"
-    },
-    {
-      "id": "z0qpe3",
-      "title": "Silver Price Forecasts: XAG/USD licks its wounds above $61.00 amid a strong US Dollar",
-      "title_vi": "Dự báo giá bạc: XAG/USD khắc phục vết thương trên 61,00 USD trong bối cảnh đồng đô la Mỹ mạnh",
-      "summary_vi": "Bạc (XAG/USD) chịu lỗ biên, giao dịch cao hơn một vài xu so với mức 61,00 USD trong phiên giao dịch châu Âu hôm thứ Tư.",
-      "image": "https://editorial.fxsstatic.com/images/i/discover-54_Medium.png",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-licks-its-wounds-above-6100-amid-a-strong-us-dollar-202606240937",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-06-24 16:37"
     }
   ]
 }

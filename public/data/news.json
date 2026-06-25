@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-26 04:00",
+  "updated_at": "2026-06-26 05:00",
   "items": [
+    {
+      "id": "61irlo",
+      "title": "Colombia&#039;s Cocaine Trade Now Outearns Its Oil Exports",
+      "title_vi": "Hoạt động buôn bán cocaine của Colombia hiện đã vượt xa xuất khẩu dầu mỏ",
+      "summary_vi": "Một báo cáo từ một trường đại học Colombia cho thấy các trùm ma túy ở Colombia đang kiếm được nhiều tiền từ cocaine hơn chính phủ kiếm được từ việc bán dầu thô. Ở mức 16,5 tỷ USD vào năm 2024, doanh thu cocaine đã vượt qua doanh thu xuất khẩu dầu mỏ, đạt khoảng 15 tỷ USD vào năm đó, UP",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-25_yayzfm61qc.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Colombias-Cocaine-Trade-Now-Outearns-Its-Oil-Exports.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-26 05:00"
+    },
     {
       "id": "1p0yt0s",
       "title": "Geothermal Could Power 65 Million U.S. Homes by 2050, DOE Says",
@@ -112,17 +123,6 @@
       "published": "2026-06-25 23:46"
     },
     {
-      "id": "1ohivl0",
-      "title": "Major Saudi Oil Terminal Roars Back to Life as Gulf Supply Recovery Accelerates",
-      "title_vi": "Cảng dầu lớn của Saudi Arabia hoạt động trở lại khi quá trình phục hồi nguồn cung ở vùng Vịnh tăng tốc",
-      "summary_vi": "Cảng xuất khẩu dầu lớn nhất của Ả Rập Saudi cuối cùng cũng hoạt động trở lại và đó là một vấn đề lớn hơn nhiều so với một tiêu đề khác về việc mở cửa trở lại eo biển Hormuz. Sau khi gần như không hoạt động kể từ đầu tháng 3, Saudi Aramco đang chuẩn bị tiếp tục nạp dầu thô tại Ras",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-25_eyxdkhf0u8.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Major-Saudi-Oil-Terminal-Roars-Back-to-Life-as-Gulf-Supply-Recovery-Accelerates.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-25 23:30"
-    },
-    {
       "id": "1bfkr0q",
       "title": "Goldsky closes Agnico deal to become sole owner of Swedish project",
       "title_vi": "Goldsky chốt thương vụ Agnico để trở thành chủ sở hữu duy nhất dự án Thụy Điển",
@@ -154,6 +154,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-25 22:37"
+    },
+    {
+      "id": "cq6193",
+      "title": "Monk Fruit Decoction Ingredients Gain Ground as Manufacturers Seek Sugar Reduction Alternatives with Regulatory Clarity",
+      "title_vi": "Thành phần nước sắc trái cây của Monk đạt được vị thế khi các nhà sản xuất tìm kiếm các giải pháp thay thế giảm lượng đường với sự rõ ràng về quy định",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nutritionaloutlook.com/view/monk-fruit-decoction-ingredients-manufacturers-seek-sugar-reduction-alternatives",
+      "source": "Nutritional Outlook",
+      "category": "soft",
+      "published": "2026-06-25 22:03"
     },
     {
       "id": "c6cch7",
@@ -420,6 +431,17 @@
       "published": "2026-06-24 23:51"
     },
     {
+      "id": "1cvw93f",
+      "title": "Silver price hits new yearly low amid rising Fed hike expectations, PCE data caution",
+      "title_vi": "Giá bạc chạm mức thấp mới hàng năm trong bối cảnh kỳ vọng Fed tăng lãi suất, cảnh báo dữ liệu PCE",
+      "summary_vi": "Bạc (XAG/USD) mở rộng đợt điều chỉnh vào thứ Tư và giao dịch quanh mức 58,75 USD tại thời điểm viết bài, giảm 4,62% ​​trong ngày sau khi chạm mức thấp mới chưa từng thấy kể từ tháng 12 năm 2025.",
+      "image": "https://editorial.fxsstatic.com/images/i/Commodities_Silver-1_Medium.jpg",
+      "link": "https://www.fxstreet.com/news/silver-price-hits-new-yearly-low-amid-rising-fed-hike-expectations-pce-data-caution-202606241638",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-06-24 23:38"
+    },
+    {
       "id": "paq8eu",
       "title": "Why Lower Corn Prices May Not Last Through Summer",
       "title_vi": "Tại sao giá ngô thấp hơn có thể không kéo dài qua mùa hè",
@@ -528,28 +550,6 @@
       "source": "Yahoo Finance",
       "category": "energy",
       "published": "2026-06-24 20:01"
-    },
-    {
-      "id": "jwnier",
-      "title": "Chemical-Resistant Rubber Sheets Market Demand to Accelerate Through 2035 on Industrial Processing and High-Purity Grade Adoption",
-      "title_vi": "Nhu cầu thị trường tấm cao su chống hóa chất sẽ tăng tốc đến năm 2035 trong chế biến công nghiệp và áp dụng cấp độ tinh khiết cao",
-      "summary_vi": "Dự báo thị trường Tấm cao su chống hóa chất thế giới giai đoạn 2026-2035: CAGR 5,9%, được thúc đẩy bởi quá trình xử lý công nghiệp, cấp độ tinh khiết cao và tuân thủ quy định. Người chơi chính và khu vực",
-      "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-chemical-resistant-rubber-sheets-market-analysis-forecast-size-trends-and-insights-1782305814.webp",
-      "link": "https://www.indexbox.io/blog/chemical-resistant-rubber-sheets-market-demand-to-accelerate-through-2035-on-industrial-processing-and-high-purity-grade-adoption/",
-      "source": "IndexBox",
-      "category": "soft",
-      "published": "2026-06-24 19:56"
-    },
-    {
-      "id": "1u8dfk4",
-      "title": "price-of-oil-06-23-2026",
-      "title_vi": "giá dầu-06-23-2026",
-      "summary_vi": "Khi giá dầu thay đổi, nó sẽ ảnh hưởng đến chi phí năng lượng của bạn—và thậm chí cả giá của các mặt hàng hàng ngày. Đây là lý do tại sao.",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/Price-of-Oil-June-24.jpg?resize=1200,600",
-      "link": "https://fortune.com/article/price-of-oil-06-24-2026/",
-      "source": "Fortune",
-      "category": "energy",
-      "published": "2026-06-24 19:47"
     }
   ]
 }

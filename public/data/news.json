@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26 12:00",
+  "updated_at": "2026-06-26 12:58",
   "items": [
     {
       "id": "1pom66a",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-26 07:00"
+    },
+    {
+      "id": "1lp5s1c",
+      "title": "Food Outlook - Biannual Report on Global Food Markets, June 2026",
+      "title_vi": "Triển vọng Thực phẩm - Báo cáo định kỳ sáu tháng về Thị trường Thực phẩm Toàn cầu, tháng 6 năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://reliefweb.int/report/world/food-outlook-biannual-report-global-food-markets-june-2026",
+      "source": "ReliefWeb",
+      "category": "macro",
+      "published": "2026-06-26 06:51"
     },
     {
       "id": "1di3os",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-06-24 22:59"
-    },
-    {
-      "id": "a5gfl4",
-      "title": "Copper supply expansion since 2010 offers reassurance on market tightness concerns",
-      "title_vi": "Việc mở rộng nguồn cung đồng kể từ năm 2010 mang lại sự yên tâm trước những lo ngại về thắt chặt thị trường",
-      "summary_vi": "Thị trường đồng thường bị lo ngại có nguy cơ thiếu hụt cơ cấu dẫn đến thắt chặt thị trường trong thời gian ngắn. Tuy nhiên, những lo ngại này thường bị thổi phồng quá mức vì trong lịch sử, khoảng trống nguồn cung đã được lấp đầy.",
-      "image": "https://a.storyblok.com/f/287943243085208/6743d1355b/bm-glencore-katanga-copper-operation-drc.jpg",
-      "link": "https://source.benchmarkminerals.com/article/copper-supply-expansion-since-2010-offers-reassurance-on-market-tightness-concerns",
-      "source": "Benchmark Mineral Intelligence",
-      "category": "metal",
-      "published": "2026-06-24 22:44"
     }
   ]
 }

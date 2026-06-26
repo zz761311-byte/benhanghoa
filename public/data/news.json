@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26 08:01",
+  "updated_at": "2026-06-26 08:55",
   "items": [
     {
       "id": "1oq8p25",
@@ -22,6 +22,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-26 05:22"
+    },
+    {
+      "id": "d7qtdq",
+      "title": "Sugar Hill, NY Weather Forecast | MSN Weather",
+      "title_vi": "Dự báo thời tiết Sugar Hill, NY | MSN Thời tiết",
+      "summary_vi": "Nhận dự báo chính xác hàng giờ cho hôm nay, tối nay và ngày mai, cùng với dự báo hàng ngày trong 10 ngày và radar thời tiết cho Sugar-Hill, NY với MSN Weather. Luôn cập nhật về lượng mưa, cảnh báo thời tiết khắc nghiệt, chất lượng không khí và cảnh báo cháy rừng.",
+      "image": "",
+      "link": "https://www.msn.com/en-us/weather/forecast/in-Sugar-Hill,NY",
+      "source": "MSN",
+      "category": "soft",
+      "published": "2026-06-26 05:13"
     },
     {
       "id": "61irlo",
@@ -539,17 +550,6 @@
       "source": "MSN",
       "category": "soft",
       "published": "2026-06-24 20:40"
-    },
-    {
-      "id": "2sdezm",
-      "title": "Natural Gas Price Analysis – Natural Gas Continues to Range Trade",
-      "title_vi": "Phân tích giá khí đốt tự nhiên - Khí đốt tự nhiên tiếp tục được giao dịch rộng rãi",
-      "summary_vi": "Khí đốt tự nhiên tiếp tục có phần mờ nhạt vì chúng ta đang bị kẹt giữa một số đường trung bình động chính. Đây là một thị trường sẽ yên tĩnh nếu không có bất kỳ yếu tố bên ngoài nào vào thời điểm này trong năm.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/06/ChatGPT-Image-Jun-9-2025-04_08_56-PM-6.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-price-analysis-natural-gas-continues-to-range-trade-1606335",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-06-24 20:35"
     }
   ]
 }

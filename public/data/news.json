@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-26 20:00",
+  "updated_at": "2026-06-26 21:00",
   "items": [
+    {
+      "id": "tbyxo3",
+      "title": "What Happened to Big Oil&#039;s Green Pivot?",
+      "title_vi": "Điều gì đã xảy ra với trục xoay xanh của Big Oil?",
+      "summary_vi": "Trong 20 năm qua, câu chuyện có vẻ đơn giản. Big Oil sẽ dần dần trở thành Big Energy. Theo thời gian, các công ty dầu mỏ lớn sẽ sử dụng bảng cân đối kế toán, chuyên môn kỹ thuật và kỹ năng quản lý dự án toàn cầu của họ để xây dựng các trang trại gió, dự án năng lượng mặt trời, trung tâm hydro, thu giữ carbon.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-25_un9ekrwjox.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/What-Happened-to-Big-Oils-Green-Pivot.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-26 21:00"
+    },
     {
       "id": "hcnnck",
       "title": "Saudi Arabia Set to Slash Oil Prices as Hormuz Reopens",
@@ -110,17 +121,6 @@
       "source": "Kavout | AI",
       "category": "metal",
       "published": "2026-06-26 13:03"
-    },
-    {
-      "id": "1pom66a",
-      "title": "Oil Heads for Weekly Loss as Hormuz Tanker Traffic Rebounds",
-      "title_vi": "Dầu đứng đầu mức giảm hàng tuần khi lưu lượng tàu chở dầu Hormuz phục hồi",
-      "summary_vi": "Giá dầu thô đang trên đà giảm mạnh hàng tuần trong bối cảnh có nhiều báo cáo về sự phục hồi mạnh mẽ trong lưu thông tàu chở dầu ở eo biển Hormuz. Vào thời điểm viết bài, dầu thô Brent đang giao dịch ở mức 73,78 USD/thùng và dầu thô West Texas Middle đang được đổi chủ với giá 70,53 USD.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-25_29cj1qopg6.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Heads-for-Weekly-Loss-as-Hormuz-Tanker-Traffic-Rebounds.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-26 12:00"
     },
     {
       "id": "1lp5s1c",
@@ -420,6 +420,17 @@
       "published": "2026-06-25 16:20"
     },
     {
+      "id": "4cxz88",
+      "title": "Platinum's Sell-Off Leaves Fourth Consecutive 297koz Supply Deficit Intact",
+      "title_vi": "Đợt bán tháo bạch kim để lại mức thiếu hụt nguồn cung 297koz lần thứ tư liên tiếp",
+      "summary_vi": "Việc bán tháo bạch kim phản ánh kỳ vọng lãi suất cao hơn, nhưng mức thâm hụt nguồn cung 297 koz lần thứ tư liên tiếp tiếp tục hỗ trợ cho trường hợp đầu tư dài hạn.",
+      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a3e7d2a112b2b337ee56189_sell-off.jpg",
+      "link": "https://www.cruxinvestor.com/posts/platinums-sell-off-leaves-fourth-consecutive-297koz-supply-deficit-intact",
+      "source": "Crux Investor",
+      "category": "metal",
+      "published": "2026-06-25 14:00"
+    },
+    {
       "id": "1cjbdqb",
       "title": "Platinum price stabilizes near the additional target – Forecast today – 25-6-2026",
       "title_vi": "Giá bạch kim ổn định gần mục tiêu bổ sung – Dự báo hôm nay – 25-6-2026",
@@ -539,17 +550,6 @@
       "source": "Fort Worth Inc.",
       "category": "energy",
       "published": "2026-06-25 01:41"
-    },
-    {
-      "id": "19hei47",
-      "title": "Oil prices are tumbling. When will Michigan gas prices follow?",
-      "title_vi": "Giá dầu đang sụt giảm. Khi nào giá xăng Michigan sẽ theo sau?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.detroitnews.com/story/business/2026/06/24/oil-prices-are-tumbling-when-will-michigan-gas-prices-follow/90676666007/",
-      "source": "The Detroit News",
-      "category": "energy",
-      "published": "2026-06-25 01:26"
     }
   ]
 }

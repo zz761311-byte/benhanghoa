@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-27 02:09",
+  "updated_at": "2026-06-27 03:00",
   "items": [
+    {
+      "id": "11rei9s",
+      "title": "AI Demand, War, and Climate Pressure Push World Back To Nuclear",
+      "title_vi": "Nhu cầu AI, chiến tranh và áp lực khí hậu đẩy thế giới trở lại hạt nhân",
+      "summary_vi": "Thị trường năng lượng toàn cầu đang hỗn loạn khi các cuộc khủng hoảng năng lượng tiếp tục chồng chất. Sự bùng nổ AI ngốn năng lượng, chiến tranh ở Iran, bất ổn địa chính trị và áp lực khí hậu đang tạo ra một cuộc khủng hoảng lớn cho ngành năng lượng toàn cầu và nó chỉ mới bắt đầu. Để giải quyết nhiều cuộc khủng hoảng chồng chéo",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-26_emcfuu83iz.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/AI-Demand-War-and-Climate-Pressure-Push-World-Back-To-Nuclear.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-27 03:00"
+    },
     {
       "id": "19f8cdn",
       "title": "China&#039;s Battery Giant Bets Big on Sodium as Lithium Volatility Persists",
@@ -99,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-26 23:00"
-    },
-    {
-      "id": "epyxi6",
-      "title": "China Isn’t Giving Up On Coal Despite Green Energy Goals",
-      "title_vi": "Trung Quốc không từ bỏ than bất chấp các mục tiêu năng lượng xanh",
-      "summary_vi": "Chính quyền Trung Quốc không hạn chế tăng trưởng điện than trong kế hoạch năng lượng 5 năm mới khi Bắc Kinh tăng gấp đôi lượng nhiên liệu hóa thạch như một “sự đảm bảo cuối cùng” cho hệ thống điện trong bối cảnh tỷ trọng năng lượng tái tạo ngày càng tăng. Trung Quốc công bố kế hoạch 5 năm về năng lượng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-26_bht8vnhwgr.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Isnt-Giving-Up-On-Coal-Despite-Green-Energy-Goals.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-26 22:30"
     },
     {
       "id": "19excym",
@@ -431,6 +431,17 @@
       "published": "2026-06-25 20:53"
     },
     {
+      "id": "19mod2g",
+      "title": "Corn, Soybeans, Wheat Below Reference Prices",
+      "title_vi": "Ngô, đậu nành, lúa mì dưới giá tham khảo",
+      "summary_vi": "",
+      "image": "https://www.rrfn.com/wp-content/uploads/2018/04/rrfn_default_share_image.png",
+      "link": "https://www.rrfn.com/2026/06/25/corn-soybeans-wheat-below-reference-prices/",
+      "source": "Red River Farm Network",
+      "category": "agri",
+      "published": "2026-06-25 20:36"
+    },
+    {
       "id": "1cyequc",
       "title": "Gold falls below $4,000 on Fed rate hike bets under Kevin Warsh",
       "title_vi": "Vàng giảm xuống dưới 4.000 USD khi đặt cược tăng lãi suất của Fed dưới thời Kevin Warsh",
@@ -539,17 +550,6 @@
       "source": "IndexBox",
       "category": "soft",
       "published": "2026-06-25 06:16"
-    },
-    {
-      "id": "9jejqu",
-      "title": "Trump is frustrated gasoline prices don't mirror oil's decline. Experts say it’s not that simple - ABC News",
-      "title_vi": "Trump thất vọng vì giá xăng không phản ánh sự sụt giảm của dầu Chuyên gia nói không đơn giản như vậy - ABC News",
-      "summary_vi": "Giá xăng tại Mỹ giảm trung bình 49 cent/gallon trong tháng trước do kỳ vọng tăng lên về việc chấm dứt chiến tranh với Iran",
-      "image": "https://i.abcnewsfe.com/a/5b89ad95-5ab9-49cf-995b-118b2c2fbb81/wirestory_8cc519eca4ef31243155a44c75c8d19c_16x9.jpg?w=1600",
-      "link": "https://abcnews.com/US/wireStory/trump-frustrated-gasoline-prices-mirror-oils-decline-experts-134183811",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-06-25 04:47"
     }
   ]
 }

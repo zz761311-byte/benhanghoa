@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26 22:00",
+  "updated_at": "2026-06-26 22:05",
   "items": [
     {
       "id": "1cjct1s",
@@ -376,6 +376,17 @@
       "published": "2026-06-25 21:00"
     },
     {
+      "id": "1h1567v",
+      "title": "Iraq Threatens to Withdraw from OPEC Over Oil Production Cuts – Reuters",
+      "title_vi": "Iraq đe dọa rút khỏi OPEC vì cắt giảm sản lượng dầu - Reuters",
+      "summary_vi": "Chính phủ Iraq đang xem xét rút khỏi OPEC nếu hạn ngạch sản xuất dầu trong tổ chức này không tăng đáng kể.",
+      "image": "https://cdn-cabinet.ua.news/uploads/images/screenshot_2026_06_25_at_15_06_29_exclusive_iraq_warns_it_might_leave_opec_if_oil_quota_not_raised_sources_say_reuters.webp",
+      "link": "https://ua.news/en/world/irak-pogrozhuie-viiti-z-opek-cherez-obmezhennia-na-vidobutok-nafti-reuters",
+      "source": "UA.NEWS",
+      "category": "energy",
+      "published": "2026-06-25 20:53"
+    },
+    {
       "id": "1cyequc",
       "title": "Gold falls below $4,000 on Fed rate hike bets under Kevin Warsh",
       "title_vi": "Vàng giảm xuống dưới 4.000 USD khi đặt cược tăng lãi suất của Fed dưới thời Kevin Warsh",
@@ -464,6 +475,17 @@
       "published": "2026-06-25 11:30"
     },
     {
+      "id": "heecz6",
+      "title": "Oil Depot in Russia’s Krasnodar Region Catches Fire After Drone Attack",
+      "title_vi": "Kho dầu ở vùng Krasnodar của Nga bốc cháy sau cuộc tấn công bằng máy bay không người lái",
+      "summary_vi": "Hỏa hoạn bùng phát tại kho chứa dầu ở làng Poltavskaya, Nga…",
+      "image": "",
+      "link": "https://reform.news/en/oil-depot-in-russia-s-krasnodar-region-catches-fire-after-drone-attack/amp",
+      "source": "REFORM.news (ранее REFORM.by)",
+      "category": "energy",
+      "published": "2026-06-25 09:46"
+    },
+    {
       "id": "lr05s1",
       "title": "Concentrate supply remains tightest segment of copper value chain: Nornickel",
       "title_vi": "Nguồn cung tập trung vẫn là phân khúc chặt chẽ nhất của chuỗi giá trị đồng: Nornickel",
@@ -528,28 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-06-25 03:11"
-    },
-    {
-      "id": "1bencow",
-      "title": "Oil and gas expansion gains momentum; outlooks improve but cost pressures grow",
-      "title_vi": "Dầu khí tăng đà tăng trưởng; Triển vọng cải thiện nhưng áp lực chi phí tăng",
-      "summary_vi": "Hoạt động trong lĩnh vực dầu khí đã tăng vọt trong quý 2 năm 2026, theo các nhà điều hành dầu khí trả lời Khảo sát năng lượng của Fed tại Dallas.",
-      "image": "https://www.dallasfed.org/-/media/Images/components/carousel/energy/derrick2-pri.jpg",
-      "link": "https://www.dallasfed.org/research/surveys/des/2026/2602",
-      "source": "Federal Reserve Bank of Dallas",
-      "category": "energy",
-      "published": "2026-06-25 02:56"
-    },
-    {
-      "id": "1s2xmn1",
-      "title": "Cleveland: Cotton Continued to Test 80 Cents",
-      "title_vi": "Cleveland: Cotton tiếp tục thử nghiệm 80 xu",
-      "summary_vi": "Có mức kháng cự giá ở mức 81 xu và cao hơn ở mức 82, nhưng có khả năng cả hai mức đó sẽ không bị phá vỡ nếu không có tin tức bất lợi lớn về mùa màng.",
-      "image": "https://df75hwhlfejca.cloudfront.net/cottongrower/wp-content/uploads/2017/02/DrOACleveland.jpg",
-      "link": "https://www.cottongrower.com/market-analysis/cleveland-cotton-continued-to-test-80-cents/",
-      "source": "Cotton Grower",
-      "category": "soft",
-      "published": "2026-06-25 02:37"
     }
   ]
 }

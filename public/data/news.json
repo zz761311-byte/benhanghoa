@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26 08:55",
+  "updated_at": "2026-06-26 09:00",
   "items": [
     {
       "id": "1oq8p25",
@@ -167,6 +167,17 @@
       "published": "2026-06-26 01:00"
     },
     {
+      "id": "lavfsd",
+      "title": "USDA Acreage Report Looms, as Survey Signals More Corn and Fewer Soybeans",
+      "title_vi": "Báo cáo diện tích của USDA xuất hiện khi cuộc khảo sát cho thấy nhiều ngô hơn và ít đậu nành hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/farmer-survey-points-to-more-corn-acres-ahead-of-usda-report-12006626",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-06-26 00:11"
+    },
+    {
       "id": "1hgjuv9",
       "title": "Trump Calls for Probe Into U.S. Gasoline Prices After Oil Falls",
       "title_vi": "Trump kêu gọi điều tra giá xăng Mỹ sau khi giá dầu giảm",
@@ -198,6 +209,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-25 22:56"
+    },
+    {
+      "id": "xvc24",
+      "title": "IGC raises world 2026-27 corn forecast on Argentina, India prospects",
+      "title_vi": "IGC nâng dự báo ngô thế giới 2026-27 về triển vọng của Argentina, Ấn Độ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.producer.com/daily/igc-raises-world-2026-27-corn-forecast-on-argentina-india-prospects/",
+      "source": "The Western Producer",
+      "category": "agri",
+      "published": "2026-06-25 22:42"
     },
     {
       "id": "1k2k1v3",
@@ -528,28 +550,6 @@
       "source": "simplywall.st",
       "category": "soft",
       "published": "2026-06-24 22:40"
-    },
-    {
-      "id": "16la2rg",
-      "title": "Vietnam Coffee Report: Production Rising for Third Straight Year",
-      "title_vi": "Báo cáo Cà phê Việt Nam: Sản lượng tăng năm thứ ba liên tiếp",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/06/24/vietnam-coffee-report-production-rising-for-third-straight-year/",
-      "source": "Daily Coffee News by Roast Magazine",
-      "category": "soft",
-      "published": "2026-06-24 20:59"
-    },
-    {
-      "id": "13refxk",
-      "title": "J.M. Smucker gains after higher pricing boost profits",
-      "title_vi": "J.M. Smucker tăng lợi nhuận sau khi tăng giá cao hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.msn.com/en-us/money/companies/jm-smucker-gains-after-higher-pricing-boost-profits/ar-AA25bakL",
-      "source": "MSN",
-      "category": "soft",
-      "published": "2026-06-24 20:40"
     }
   ]
 }

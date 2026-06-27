@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27 14:00",
+  "updated_at": "2026-06-27 15:00",
   "items": [
     {
       "id": "1lrkwix",
@@ -110,6 +110,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-27 02:38"
+    },
+    {
+      "id": "1nloy89",
+      "title": "After the Bell | Sideways trade in corn and soybeans",
+      "title_vi": "Sau Tiếng Chuông | Giao dịch ngang ngô và đậu nành",
+      "summary_vi": "Ngày 26 tháng 6 năm 2026",
+      "image": "https://assets.farmjournal.com/dims4/default/b87f00e/2147483647/strip/true/crop/2500x1406+0+189/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2F94%2F91%2F68dab2ca412b818bfee4bb2bd14f%2Fprofarmer-after-the-bell.jpg",
+      "link": "https://www.profarmer.com/news/after-bell/after-bell-sideways-trade-corn-and-soybeans",
+      "source": "Pro Farmer",
+      "category": "agri",
+      "published": "2026-06-27 02:01"
     },
     {
       "id": "19f8cdn",
@@ -539,17 +550,6 @@
       "source": "Red River Farm Network",
       "category": "agri",
       "published": "2026-06-25 20:36"
-    },
-    {
-      "id": "1va692k",
-      "title": "Energy Fuels Just Made a Bold Bet on Rare Earth Magnets",
-      "title_vi": "Nhiên liệu năng lượng vừa đặt cược táo bạo vào nam châm đất hiếm",
-      "summary_vi": "Các nhà giao dịch đã bán tháo cổ phiếu Nhiên liệu Năng lượng AMEX:UUUU sau thỏa thuận mua nhà sản xuất nam châm Vacuumschmelze trị giá 1,9 tỷ USD của họ đang bỏ lỡ một sự thay đổi lớn. Giá cổ phiếu giảm ngay lập tức phản ánh lo lắng pha loãng ngắn hạn hơn là giá trị tài sản dài hạn. Bằng cách mua lại Vacuumschmelze, Nhiên liệu Năng lượng được…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://de.tradingview.com/news/marketbeat:2c621f34f094b:0-energy-fuels-just-made-a-bold-bet-on-rare-earth-magnets/",
-      "source": "TradingView",
-      "category": "energy",
-      "published": "2026-06-25 19:15"
     }
   ]
 }

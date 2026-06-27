@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27 12:00",
+  "updated_at": "2026-06-27 12:40",
   "items": [
     {
       "id": "1lrkwix",
@@ -22,6 +22,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-27 05:39"
+    },
+    {
+      "id": "msor0y",
+      "title": "140 Kauai Coffee jobs saved through new land lease agreement",
+      "title_vi": "140 việc làm tại Cà phê Kauai được cứu nhờ hợp đồng thuê đất mới",
+      "summary_vi": "Hợp đồng cho thuê giữa công ty mẹ Kauai Coffee, Tập đoàn nước giải khát Massimo Zanetti và chủ đất Brue Baukol Capital Partners đã được hoàn tất sau gần hai năm đàm phán",
+      "image": "https://s7d2.scene7.com/is/image/TWCNews/Kauai_Coffee_GoogleStreetView_HI_062526",
+      "link": "https://spectrumlocalnews.com/hi/hawaii/news/2026/06/26/140-kauai-coffee-jobs-saved-through-new-land-lease-agreement",
+      "source": "Spectrum News",
+      "category": "soft",
+      "published": "2026-06-27 05:35"
     },
     {
       "id": "1nchyqq",
@@ -165,6 +176,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-27 00:16"
+    },
+    {
+      "id": "13vz8pf",
+      "title": "Copper Rally Looks Vulnerable Despite AI Boom and T…",
+      "title_vi": "Copper Rally có vẻ dễ bị tổn thương mặc dù AI Boom và T…",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en/insights/stonex-tv-copper-rally-looks-vulnerable-despite-ai-boom-and-tariff-speculation/",
+      "source": "StoneX",
+      "category": "metal",
+      "published": "2026-06-27 00:00"
     },
     {
       "id": "159la2z",
@@ -528,28 +550,6 @@
       "source": "TradingView",
       "category": "energy",
       "published": "2026-06-25 19:15"
-    },
-    {
-      "id": "14j6ca4",
-      "title": "Iraq piles pressure on OPEC over quota dispute after UAE exit",
-      "title_vi": "Iraq gây áp lực lên OPEC về tranh chấp hạn ngạch sau khi UAE rời đi",
-      "summary_vi": "Reuters đưa tin rằng mặc dù Iraq đã cân nhắc rời khỏi OPEC nhưng kế hoạch hiện tại là vẫn là thành viên của nhóm trong khi tìm kiếm hạn ngạch sản lượng cao hơn.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108212170-1760492907362-gettyimages-92810712-58834875.jpeg?v=1760492954&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/06/25/iraq-opec-oil-supply-quota-exports-subdued.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-06-25 18:58"
-    },
-    {
-      "id": "ismqpr",
-      "title": "Chevron says no quick fix for gas prices as Trump takes on Big Oil: ‘It’s going to take time’",
-      "title_vi": "Chevron nói rằng không có cách khắc phục nhanh chóng giá xăng khi Trump tiếp quản Big Oil: 'Sẽ mất thời gian'",
-      "summary_vi": "Bình luận của cô được đưa ra ngay sau khi Tổng thống Donald Trump ra lệnh điều tra Big Oil, cáo buộc họ \"lừa đảo\" người tiêu dùng.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108325156-1782165442035-gettyimages-2282302541-US_GAS_PRICES.jpeg?v=1782165519&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/06/25/chevron-gas-prices-trump-big-oil.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-06-25 16:38"
     }
   ]
 }

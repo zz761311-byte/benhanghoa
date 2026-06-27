@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28 02:00",
+  "updated_at": "2026-06-28 03:00",
   "items": [
     {
       "id": "81ep0f",
@@ -209,6 +209,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-27 00:44"
+    },
+    {
+      "id": "1gjvro8",
+      "title": "Is Wheat Poised for a Major Breakout, and What's Driving the Surge",
+      "title_vi": "Lúa mì đã sẵn sàng cho một bước đột phá lớn và điều gì thúc đẩy sự đột biến này?",
+      "summary_vi": "Quỹ lúa mì Teucrium (WEAT) cho thấy đà tăng mạnh do nguồn cung và nhu cầu toàn cầu thắt chặt. Chiến lược của nó làm giảm thiểu contango, khiến nó trở thành một hàng rào phòng ngừa lạm phát tiềm năng. Các nhà đầu tư có thể xem xét WEAT đối với rủi ro đối với hợp đồng tương lai lúa mì.",
+      "image": "https://investgpt-test.oss-us-east-1.aliyuncs.com/blog/mini_pexels-photo-17707608.jpeg",
+      "link": "https://www.kavout.com/market-lens/is-wheat-poised-for-a-major-breakout-and-what-s-driving-the-surge",
+      "source": "Kavout | AI",
+      "category": "agri",
+      "published": "2026-06-27 00:23"
     },
     {
       "id": "13jaloy",
@@ -539,17 +550,6 @@
       "source": "Farm Progress",
       "category": "energy",
       "published": "2026-06-25 22:53"
-    },
-    {
-      "id": "xvc24",
-      "title": "IGC raises world 2026-27 corn forecast on Argentina, India prospects",
-      "title_vi": "IGC nâng dự báo ngô thế giới 2026-27 về triển vọng của Argentina, Ấn Độ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.producer.com/daily/igc-raises-world-2026-27-corn-forecast-on-argentina-india-prospects/",
-      "source": "The Western Producer",
-      "category": "agri",
-      "published": "2026-06-25 22:42"
     }
   ]
 }

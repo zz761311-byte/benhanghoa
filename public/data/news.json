@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27 08:00",
+  "updated_at": "2026-06-27 08:47",
   "items": [
     {
       "id": "1w9ol6x",
@@ -242,6 +242,17 @@
       "source": "Morningstar",
       "category": "macro",
       "published": "2026-06-26 15:46"
+    },
+    {
+      "id": "17x7pxn",
+      "title": "US tariff proposal threatens Brazilian pig iron, risks hurting steelmakers",
+      "title_vi": "Đề xuất thuế quan của Mỹ đe dọa gang Brazil, có nguy cơ gây thiệt hại cho các nhà sản xuất thép",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/062526-us-tariff-proposal-threatens-brazilian-pig-iron-risks-hurting-steelmakers",
+      "source": "S&P Global",
+      "category": "macro",
+      "published": "2026-06-26 14:09"
     },
     {
       "id": "18knver",
@@ -539,17 +550,6 @@
       "source": "REFORM.news (ранее REFORM.by)",
       "category": "energy",
       "published": "2026-06-25 09:46"
-    },
-    {
-      "id": "lr05s1",
-      "title": "Concentrate supply remains tightest segment of copper value chain: Nornickel",
-      "title_vi": "Nguồn cung tập trung vẫn là phân khúc chặt chẽ nhất của chuỗi giá trị đồng: Nornickel",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/062426-concentrate-supply-remains-tightest-segment-of-copper-value-chain-nornickel",
-      "source": "S&P Global",
-      "category": "metal",
-      "published": "2026-06-25 08:46"
     }
   ]
 }

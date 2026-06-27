@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27 06:48",
+  "updated_at": "2026-06-27 07:00",
   "items": [
     {
       "id": "1w9ol6x",
@@ -453,6 +453,17 @@
       "published": "2026-06-25 20:36"
     },
     {
+      "id": "14j6ca4",
+      "title": "Iraq piles pressure on OPEC over quota dispute after UAE exit",
+      "title_vi": "Iraq gây áp lực lên OPEC về tranh chấp hạn ngạch sau khi UAE rời đi",
+      "summary_vi": "Reuters đưa tin rằng mặc dù Iraq đã cân nhắc rời khỏi OPEC nhưng kế hoạch hiện tại là vẫn là thành viên của nhóm trong khi tìm kiếm hạn ngạch sản lượng cao hơn.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108212170-1760492907362-gettyimages-92810712-58834875.jpeg?v=1760492954&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/06/25/iraq-opec-oil-supply-quota-exports-subdued.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-06-25 18:58"
+    },
+    {
       "id": "ismqpr",
       "title": "Chevron says no quick fix for gas prices as Trump takes on Big Oil: ‘It’s going to take time’",
       "title_vi": "Chevron nói rằng không có cách khắc phục nhanh chóng giá xăng khi Trump tiếp quản Big Oil: 'Sẽ mất thời gian'",
@@ -539,17 +550,6 @@
       "source": "S&P Global",
       "category": "metal",
       "published": "2026-06-25 08:46"
-    },
-    {
-      "id": "tzjwhp",
-      "title": "Zero-tariff lifts Kenya up the value chain",
-      "title_vi": "Miễn thuế quan nâng Kenya lên chuỗi giá trị",
-      "summary_vi": "Quyết định của Trung Quốc cấp quyền tiếp cận miễn thuế cho hàng xuất khẩu từ 53 quốc gia châu Phi từ ngày 1 tháng 5 là một bước ngoặt trong mối quan hệ kinh tế của châu Phi với nền kinh tế lớn thứ hai thế giới.",
-      "image": "http://img2.chinadaily.com.cn/images/202606/25/6a3c84ada310986e101851a4.png",
-      "link": "https://www.chinadaily.com.cn/a/202606/25/WS6a3c84ada310986e2b461cf0.html",
-      "source": "China Daily",
-      "category": "macro",
-      "published": "2026-06-25 08:32"
     }
   ]
 }

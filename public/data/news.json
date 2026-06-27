@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-27 11:00",
+  "updated_at": "2026-06-27 12:00",
   "items": [
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "(Reuters) – Khí đốt tự nhiên chạm đến hầu hết mọi ngóc ngách của nền kinh tế Hoa Kỳ, cung cấp nhiên liệu cho các nhà máy điện, nhà cửa, nhà máy và lĩnh vực xuất khẩu LNG đang bùng nổ. Nhưng nguồn cung cần thiết để đáp ứng tất cả những mục đích sử dụng đó lại đến từ một mảnh đất đá phiến ngày càng hẹp của Mỹ. Sự không phù hợp này giữa một nhóm người tiêu dùng ngày càng mở rộng…",
+      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Flame-1200x810-1.jpg",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-06-27 05:56"
+    },
     {
       "id": "1w9ol6x",
       "title": "Trump administration issues emergency order to keep Colorado coal plant operating",
@@ -66,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-27 03:00"
+    },
+    {
+      "id": "uxrffc",
+      "title": "Cocoa prices sink as Ivory Coast boosts supply outlook",
+      "title_vi": "Giá ca cao giảm do Bờ Biển Ngà tăng cường triển vọng nguồn cung",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.msn.com/en-us/news/insight/cocoa-prices-sink-as-ivory-coast-boosts-supply-outlook/gm-GM2C26C762?gemSnapshotKey",
+      "source": "MSN",
+      "category": "soft",
+      "published": "2026-06-27 02:50"
     },
     {
       "id": "16w8s0z",
@@ -528,28 +550,6 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-06-25 16:38"
-    },
-    {
-      "id": "110b6ve",
-      "title": "Recycled-content copper output rising steadily",
-      "title_vi": "Sản lượng đồng tái chế tăng đều đặn",
-      "summary_vi": "Nhóm Nghiên cứu Đồng Quốc tế cho biết Trung Quốc là quốc gia có sản lượng bổ sung nhiều nhất vào năm 2026.",
-      "image": "https://www.recyclingtoday.com/fileuploads/image/2026/06/25/coppermixedtaylor.jpg",
-      "link": "https://www.recyclingtoday.com/news/icsg-copper-recycling-output-china-usa-global-surplus-spring-2026/",
-      "source": "Recycling Today",
-      "category": "metal",
-      "published": "2026-06-25 16:20"
-    },
-    {
-      "id": "yfsepp",
-      "title": "Silver Price Hovers Near Seven-Month Lows as Market Awaits US Inflation Data",
-      "title_vi": "Giá bạc dao động gần mức thấp nhất trong 7 tháng khi thị trường chờ dữ liệu lạm phát của Mỹ",
-      "summary_vi": "Giá bạc BitcoinWorld dao động gần mức thấp nhất trong 7 tháng khi thị trường chờ đợi dữ liệu lạm phát của Mỹ Giá bạc (XAG/USD) đang giao dịch gần mức thấp nhất trong 7 tháng, lơ lửng",
-      "image": "https://cryptorank.io/static/pages-preview/main-page.png",
-      "link": "https://cryptorank.io/news/feed/0bbd7-silver-price-near-seven-month-lows-us-inflation-data",
-      "source": "CryptoRank",
-      "category": "metal",
-      "published": "2026-06-25 15:43"
     }
   ]
 }

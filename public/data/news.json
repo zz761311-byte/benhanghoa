@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28 04:46",
+  "updated_at": "2026-06-28 05:00",
   "items": [
     {
       "id": "v8w65u",
@@ -409,6 +409,17 @@
       "published": "2026-06-26 09:07"
     },
     {
+      "id": "1prjnm0",
+      "title": "J.M. Smucker Co. drops coffee prices?",
+      "title_vi": "Công ty J.M. Smucker giảm giá cà phê?",
+      "summary_vi": "Chi phí hàng hóa cà phê xanh thấp hơn đã khiến The J.M. Smucker Co. phải đưa ra các chương trình giảm giá tạm thời cho các sản phẩm của mình.",
+      "image": "https://www.gcrmag.com/wp-content/uploads/2026/06/AdobeStock_486171160_Editorial_Use_Only.jpeg",
+      "link": "https://www.gcrmag.com/j-m-smucker-co-drops-coffee-prices/",
+      "source": "Global Coffee Report",
+      "category": "soft",
+      "published": "2026-06-26 07:04"
+    },
+    {
       "id": "1sntn82",
       "title": "EU gives final approval to tariff commitments under US agreement - Swine news - pig333, pig to pork community",
       "title_vi": "EU phê duyệt cuối cùng các cam kết thuế quan theo thỏa thuận của Mỹ - Tin lợn - pig333, cộng đồng lợn với thịt lợn",
@@ -539,17 +550,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-06-26 00:11"
-    },
-    {
-      "id": "1hgjuv9",
-      "title": "Trump Calls for Probe Into U.S. Gasoline Prices After Oil Falls",
-      "title_vi": "Trump kêu gọi điều tra giá xăng Mỹ sau khi giá dầu giảm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/trump-calls-for-lower-gasoline-prices-as-oil-falls-95080195",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-06-25 23:46"
     }
   ]
 }

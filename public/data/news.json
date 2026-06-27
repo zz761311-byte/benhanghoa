@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27 22:00",
+  "updated_at": "2026-06-27 22:41",
   "items": [
     {
       "id": "u8jgpw",
@@ -233,6 +233,17 @@
       "published": "2026-06-26 23:30"
     },
     {
+      "id": "1p01hvy",
+      "title": "Newly Discovered Soybean Biomechanism Could Increase Crop Yields",
+      "title_vi": "Cơ chế sinh học đậu nành mới được phát hiện có thể tăng năng suất cây trồng",
+      "summary_vi": "Các nhà khoa học đã phát hiện ra một cải tiến tiến hóa ở cây đậu tương có thể cải thiện năng suất cây trồng nếu được điều chỉnh thông qua các phương pháp thay thế như chỉnh sửa gen.",
+      "image": "https://www.morningagclips.com/wp-content/uploads/2026/06/true.jpg",
+      "link": "https://www.morningagclips.com/newly-discovered-soybean-biomechanism-could-increase-crop-yields/",
+      "source": "Morning Ag Clips",
+      "category": "agri",
+      "published": "2026-06-26 22:23"
+    },
+    {
       "id": "vsxk62",
       "title": "Gold and Silver Rally on Doubts Over US Inflation and Fed Rate Hikes",
       "title_vi": "Sự phục hồi của vàng và bạc do nghi ngờ về lạm phát của Mỹ và việc tăng lãi suất của Fed",
@@ -275,6 +286,17 @@
       "source": "Kavout | AI",
       "category": "energy",
       "published": "2026-06-26 18:59"
+    },
+    {
+      "id": "15jsrrj",
+      "title": "Silver Regains Focus as Growth Outlook and Industrial Demand Take Center Stage",
+      "title_vi": "Bạc lấy lại sự tập trung khi triển vọng tăng trưởng và nhu cầu công nghiệp chiếm vị trí trung tâm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/silver-regains-focus-growth-outlook-113700568.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-06-26 18:37"
     },
     {
       "id": "t0wvwy",
@@ -528,28 +550,6 @@
       "source": "Nutritional Outlook",
       "category": "soft",
       "published": "2026-06-25 22:03"
-    },
-    {
-      "id": "kkfhst",
-      "title": "Russia Faces Growing Fuel Crunch as Ukrainian Strikes Knock Out Refineries",
-      "title_vi": "Nga đối mặt với tình trạng khủng hoảng nhiên liệu ngày càng tăng khi Ukraine đình công đánh sập các nhà máy lọc dầu",
-      "summary_vi": "Chiến dịch sử dụng máy bay không người lái kéo dài của Ukraine nhằm vào cơ sở hạ tầng dầu mỏ của Nga đang gây ra tình trạng thiếu nhiên liệu trên diện rộng trên khắp nước Nga, khiến hệ thống lọc dầu của nước này ngày càng căng thẳng.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-25_xfuvlhddx2.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Russia-Faces-Growing-Fuel-Crunch-as-Ukrainian-Strikes-Knock-Out-Refineries.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-06-25 21:00"
-    },
-    {
-      "id": "1h1567v",
-      "title": "Iraq Threatens to Withdraw from OPEC Over Oil Production Cuts – Reuters",
-      "title_vi": "Iraq đe dọa rút khỏi OPEC vì cắt giảm sản lượng dầu - Reuters",
-      "summary_vi": "Chính phủ Iraq đang xem xét rút khỏi OPEC nếu hạn ngạch sản xuất dầu trong tổ chức này không tăng đáng kể.",
-      "image": "https://cdn-cabinet.ua.news/uploads/images/screenshot_2026_06_25_at_15_06_29_exclusive_iraq_warns_it_might_leave_opec_if_oil_quota_not_raised_sources_say_reuters.webp",
-      "link": "https://ua.news/en/world/irak-pogrozhuie-viiti-z-opek-cherez-obmezhennia-na-vidobutok-nafti-reuters",
-      "source": "UA.NEWS",
-      "category": "energy",
-      "published": "2026-06-25 20:53"
     }
   ]
 }

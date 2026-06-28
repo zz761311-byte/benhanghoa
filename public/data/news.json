@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28 08:00",
+  "updated_at": "2026-06-28 08:56",
   "items": [
     {
       "id": "1nunfos",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-28 02:00"
+    },
+    {
+      "id": "1f2ts6b",
+      "title": "BTC price analysis: Why a selloff in gold and silver is dragging bitcoin down",
+      "title_vi": "Phân tích giá BTC: Tại sao việc bán tháo vàng và bạc lại kéo bitcoin xuống",
+      "summary_vi": "Bitcoin từ lâu đã được gộp chung với các kim loại quý như một hàng rào chống lại đồng đô la suy yếu. Giao dịch đó đang diễn ra với một Fed diều hâu và bitcoin đang giảm giá cùng với các kim loại mà nó được cho là đối thủ.",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e83ed3c77b09119b6f00c9fcc99749721c317d58-1440x810.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "link": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down",
+      "source": "CoinDesk",
+      "category": "metal",
+      "published": "2026-06-28 01:11"
     },
     {
       "id": "62kxyp",
@@ -154,6 +165,17 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-06-27 03:54"
+    },
+    {
+      "id": "13ywylb",
+      "title": "Freedom Broker downgrades Mondelez stock rating on cocoa price concerns",
+      "title_vi": "Freedom Broker hạ xếp hạng cổ phiếu Mondelez do lo ngại về giá ca cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/analyst-ratings/freedom-broker-downgrades-mondelez-stock-rating-on-cocoa-price-concerns-93CH-4763469",
+      "source": "Investing.com",
+      "category": "soft",
+      "published": "2026-06-27 03:39"
     },
     {
       "id": "11rei9s",
@@ -376,17 +398,6 @@
       "published": "2026-06-26 13:03"
     },
     {
-      "id": "74mucg",
-      "title": "Gold (XAUUSD) & Silver Price Forecast: Gold Retests $4,010 as Silver Breaks $56.50 Amid Ceasefire — Bearish Turn?",
-      "title_vi": "Dự báo giá vàng (XAUUSD) & Bạc: Vàng kiểm tra lại 4.010 USD khi Bạc phá vỡ 56,50 USD trong bối cảnh ngừng bắn - Chuyển hướng giảm giá?",
-      "summary_vi": "Khi lệnh ngừng bắn vẫn còn nguyên sau chín tuần trong bối cảnh căng thẳng Iran-Israel, vàng đã tìm thấy hỗ trợ ở mức 4.011 USD với cơ cấu trung lập trong khi bạc giảm xuống còn 56,47 USD. Nhu cầu ngân hàng trung ương mạnh mẽ và tình trạng thiếu hụt công nghiệp bạc giữ cho triển vọng dài hạn mang tính xây dựng.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/06/Main-Images-4-3.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-retests-4010-as-silver-breaks-56-50-amid-ceasefire-bearish-turn-1606809",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-06-26 12:19"
-    },
-    {
       "id": "150xyor",
       "title": "Copper soars but smelters can't bank on it to survive",
       "title_vi": "Đồng tăng vọt nhưng các nhà luyện kim không thể dựa vào nó để tồn tại",
@@ -530,26 +541,15 @@
       "published": "2026-06-26 02:45"
     },
     {
-      "id": "7dtpx7",
-      "title": "What Did the June WASDE Report Tell the Corn Futures Market?",
-      "title_vi": "Báo cáo WASDE tháng 6 nói gì với thị trường ngô kỳ hạn?",
-      "summary_vi": "Sau khi đạt mức cao nhất năm 2026 vào ngày 13 tháng 5, giá ngô kỳ hạn tháng 12 vụ mới của CBOT đã giảm xuống, đạt mức thấp mới năm 2026 vào ngày 15 tháng 6. Giá ngô kỳ hạn đang tiến đến các mức hỗ trợ kỹ thuật quan trọng vào cuối tháng 6 năm 2026.",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Agricultural%20Commodities/Corn/Market%20corn%20on%20the%20cob%20via%20Storyblocks.jpg",
-      "link": "https://www.barchart.com/story/news/1766/what-did-the-june-wasde-report-tell-the-corn-futures-market",
-      "source": "Barchart.com",
-      "category": "agri",
-      "published": "2026-06-26 02:00"
-    },
-    {
-      "id": "lavfsd",
-      "title": "USDA Acreage Report Looms, as Survey Signals More Corn and Fewer Soybeans",
-      "title_vi": "Báo cáo diện tích của USDA xuất hiện khi cuộc khảo sát cho thấy nhiều ngô hơn và ít đậu nành hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/farmer-survey-points-to-more-corn-acres-ahead-of-usda-report-12006626",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-06-26 00:11"
+      "id": "1eio8qy",
+      "title": "Best Power Supplies 2026",
+      "title_vi": "Bộ nguồn tốt nhất 2026",
+      "summary_vi": "Những PSU này mang lại độ tin cậy, hiệu suất và khả năng bảo vệ tốt nhất cho hệ thống của bạn cũng như các bộ phận của nó.",
+      "image": "https://cdn.mos.cms.futurecdn.net/H3gHcMAP4zFGptDZJLiYxg-1280-80.jpg",
+      "link": "https://www.tomshardware.com/reviews/best-psus,4229.html",
+      "source": "Tom's Hardware",
+      "category": "metal",
+      "published": "2026-06-26 02:25"
     }
   ]
 }

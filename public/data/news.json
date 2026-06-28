@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-28 20:05",
+  "updated_at": "2026-06-28 21:00",
   "items": [
+    {
+      "id": "z6ht4w",
+      "title": "Ukraine says it attacked two Russian oil refineries",
+      "title_vi": "Ukraine tuyên bố tấn công 2 nhà máy lọc dầu của Nga",
+      "summary_vi": "Chính quyền Nga cho biết ít nhất hai người thiệt mạng trong các cuộc tấn công bằng máy bay không người lái trong khi Ukraine tiếp tục nhắm mục tiêu vào các cơ sở năng lượng.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a4104cb41-1782645963.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-06-28 20:48"
+    },
     {
       "id": "10556db",
       "title": "Deep Dive Into The Cost Of An AT Hike",
@@ -453,6 +464,17 @@
       "published": "2026-06-26 14:09"
     },
     {
+      "id": "rj363f",
+      "title": "Ukraine attacks Russian energy sites - what has been hit?",
+      "title_vi": "Ukraine tấn công các cơ sở năng lượng của Nga - bị tấn công gì?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/ukraine-attacks-russian-energy-sites-what-has-been-hit-2026-06-26/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-06-26 14:00"
+    },
+    {
       "id": "103flf8",
       "title": "Wheat Price - Commodities CFD Trading",
       "title_vi": "Giá lúa mì - Giao dịch CFD hàng hóa",
@@ -528,28 +550,6 @@
       "source": "3tres3.com",
       "category": "macro",
       "published": "2026-06-26 07:00"
-    },
-    {
-      "id": "1lp5s1c",
-      "title": "Food Outlook - Biannual Report on Global Food Markets, June 2026",
-      "title_vi": "Triển vọng Thực phẩm - Báo cáo định kỳ sáu tháng về Thị trường Thực phẩm Toàn cầu, tháng 6 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://reliefweb.int/report/world/food-outlook-biannual-report-global-food-markets-june-2026",
-      "source": "ReliefWeb",
-      "category": "macro",
-      "published": "2026-06-26 06:51"
-    },
-    {
-      "id": "1y78y1",
-      "title": "Zelenskyy says Russia is shifting air defenses to protect Moscow and other key sites after drone strikes",
-      "title_vi": "Zelenskyy cho biết Nga đang chuyển lực lượng phòng không để bảo vệ Moscow và các địa điểm quan trọng khác sau các cuộc tấn công bằng máy bay không người lái",
-      "summary_vi": "Tổng thống Donald Trump ca ngợi Zelenskyy là \"dũng cảm\" và Kyiv đang hy vọng tiếp tục nhận được sự ủng hộ từ các nhà lãnh đạo G7.",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/2026-06-25T080900Z_426612602_RC24ZLA5UPNH_RTRMADP_3_UKRAINE-CRISIS-FRONTLINE-DNIPROPETROVSK-REGION-1024x683.jpg",
-      "link": "https://www.pbs.org/newshour/world/zelenskyy-says-russia-is-shifting-air-defenses-to-protect-moscow-and-other-key-sites-after-drone-strikes",
-      "source": "PBS",
-      "category": "energy",
-      "published": "2026-06-26 05:52"
     }
   ]
 }

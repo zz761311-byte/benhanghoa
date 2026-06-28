@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28 14:00",
+  "updated_at": "2026-06-28 15:00",
   "items": [
     {
       "id": "1nunfos",
@@ -88,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-27 22:00"
+    },
+    {
+      "id": "g8j86m",
+      "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
+      "title_vi": "Bên trong một đội bí mật của Ukraine tiến hành các cuộc tấn công bằng máy bay không người lái sâu vào Nga",
+      "summary_vi": "Máy bay không người lái tầm xa của Ukraine đang tấn công sâu vào bên trong nước Nga, cách xa tới 1.200 dặm, tấn công các nhà máy lọc dầu và kho chứa. NPR gần đây đã dành thời gian cùng với một trong những đội tấn công của Ukraine phóng máy bay không người lái vào các mục tiêu của Nga.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+260/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F16%2F2df3ca194289b3f9b310c90fc8eb%2Fsk-0512.jpg",
+      "link": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
+      "source": "NPR",
+      "category": "energy",
+      "published": "2026-06-27 16:02"
     },
     {
       "id": "1lrkwix",
@@ -539,17 +550,6 @@
       "source": "MSN",
       "category": "macro",
       "published": "2026-06-26 02:45"
-    },
-    {
-      "id": "1eio8qy",
-      "title": "Best Power Supplies 2026",
-      "title_vi": "Bộ nguồn tốt nhất 2026",
-      "summary_vi": "Những PSU này mang lại độ tin cậy, hiệu suất và khả năng bảo vệ tốt nhất cho hệ thống của bạn cũng như các bộ phận của nó.",
-      "image": "https://cdn.mos.cms.futurecdn.net/H3gHcMAP4zFGptDZJLiYxg-1280-80.jpg",
-      "link": "https://www.tomshardware.com/reviews/best-psus,4229.html",
-      "source": "Tom's Hardware",
-      "category": "metal",
-      "published": "2026-06-26 02:25"
     }
   ]
 }

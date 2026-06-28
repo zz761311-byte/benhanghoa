@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29 00:00",
+  "updated_at": "2026-06-29 00:53",
   "items": [
     {
       "id": "n49hxu",
@@ -33,6 +33,17 @@
       "source": "AP News",
       "category": "energy",
       "published": "2026-06-28 21:15"
+    },
+    {
+      "id": "1n551pu",
+      "title": "Ukrainian strike sets fire to an oil refinery in southern Russia - ABC News",
+      "title_vi": "Ukraine không kích đốt nhà máy lọc dầu ở miền nam nước Nga - ABC News",
+      "summary_vi": "Theo chính quyền Nga, Ukraine đã tăng cường các cuộc tấn công bằng máy bay không người lái vào Nga, phóng hỏa một nhà máy lọc dầu lớn ở miền nam và giết chết ít nhất hai người.",
+      "image": "https://i.abcnewsfe.com/a/3798c876-7391-48cf-b97f-3fd4ebb1319c/wirestory_88370faa1a49504438388f2854d7afd3_16x9.jpg?w=1600",
+      "link": "https://abcnews.com/International/wireStory/ukrainian-strike-sets-fire-oil-refinery-southern-russia-134286603",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-06-28 18:10"
     },
     {
       "id": "10556db",
@@ -299,6 +310,17 @@
       "published": "2026-06-27 01:33"
     },
     {
+      "id": "knkbft",
+      "title": "Bigger Global Supplies Weigh on Cocoa Prices",
+      "title_vi": "Nguồn cung toàn cầu lớn hơn đè nặng lên giá ca cao",
+      "summary_vi": "Ca cao ICE NY tháng 9 (CCU26 ) vào thứ Sáu đóng cửa ở mức giảm -152 (-2,90%) và ca cao ICE London số 7 tháng 7 (CAN26 ) đóng cửa ở mức giảm -100 (-2,56%). Giá ca cao giảm mạnh vào thứ Sáu do các dấu hiệu nguồn cung toàn cầu lớn hơn dẫn đến việc thanh lý hợp đồng ca cao kéo dài...",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Soft%20Commodities/Cocoa/Cacao%20beans%20by%20Gate74%20via%20Pixabay.jpg",
+      "link": "https://www.barchart.com/story/news/3004467/bigger-global-supplies-weigh-on-cocoa-prices",
+      "source": "Barchart.com",
+      "category": "soft",
+      "published": "2026-06-27 01:24"
+    },
+    {
       "id": "1gjvro8",
       "title": "Is Wheat Poised for a Major Breakout, and What's Driving the Surge",
       "title_vi": "Lúa mì đã sẵn sàng cho một bước đột phá lớn và điều gì thúc đẩy sự đột biến này?",
@@ -528,28 +550,6 @@
       "source": "Finimize",
       "category": "metal",
       "published": "2026-06-26 10:53"
-    },
-    {
-      "id": "1f8ss31",
-      "title": "Did Strong Earnings and Coffee Cost Deflation Just Shift J. M. Smucker’s (SJM) Investment Narrative?",
-      "title_vi": "Có phải thu nhập mạnh mẽ và giảm phát chi phí cà phê có làm thay đổi câu chuyện đầu tư của J. M. Smucker (SJM) không?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/did-strong-earnings-coffee-cost-020744709.html",
-      "source": "Yahoo Finance",
-      "category": "soft",
-      "published": "2026-06-26 09:07"
-    },
-    {
-      "id": "1prjnm0",
-      "title": "J.M. Smucker Co. drops coffee prices?",
-      "title_vi": "Công ty J.M. Smucker giảm giá cà phê?",
-      "summary_vi": "Chi phí hàng hóa cà phê xanh thấp hơn đã khiến The J.M. Smucker Co. phải đưa ra các chương trình giảm giá tạm thời cho các sản phẩm của mình.",
-      "image": "https://www.gcrmag.com/wp-content/uploads/2026/06/AdobeStock_486171160_Editorial_Use_Only.jpeg",
-      "link": "https://www.gcrmag.com/j-m-smucker-co-drops-coffee-prices/",
-      "source": "Global Coffee Report",
-      "category": "soft",
-      "published": "2026-06-26 07:04"
     }
   ]
 }

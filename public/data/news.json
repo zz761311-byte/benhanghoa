@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28 22:00",
+  "updated_at": "2026-06-28 23:00",
   "items": [
     {
       "id": "3r4zvf",
@@ -13,15 +13,15 @@
       "published": "2026-06-28 22:00"
     },
     {
-      "id": "z6ht4w",
-      "title": "Ukraine says it attacked two Russian oil refineries",
-      "title_vi": "Ukraine tuyên bố tấn công 2 nhà máy lọc dầu của Nga",
-      "summary_vi": "Chính quyền Nga cho biết ít nhất hai người thiệt mạng trong các cuộc tấn công bằng máy bay không người lái trong khi Ukraine tiếp tục nhắm mục tiêu vào các cơ sở năng lượng.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a4104cb41-1782645963.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries",
-      "source": "Al Jazeera",
+      "id": "zoaf4a",
+      "title": "Ukraine’s drone assault ignites major oil refinery in Russia",
+      "title_vi": "Cuộc tấn công bằng máy bay không người lái của Ukraine đốt cháy nhà máy lọc dầu lớn ở Nga",
+      "summary_vi": "Theo chính quyền Nga, Ukraine đã tăng cường các cuộc tấn công bằng máy bay không người lái vào Nga, đốt cháy một nhà máy lọc dầu lớn ở miền nam và giết chết ít nhất hai người.",
+      "image": "https://dims.apnews.com/dims4/default/74386cc/2147483647/strip/true/crop/1280x853+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F67%2F7b%2Fe695a983ed9c46a2b23cfbb0eb1d%2F642cac867b5e41efa9ca84533a75a238",
+      "link": "https://apnews.com/article/ukraine-russia-war-oil-refinery-drones-88370faa1a49504438388f2854d7afd3",
+      "source": "AP News",
       "category": "energy",
-      "published": "2026-06-28 20:48"
+      "published": "2026-06-28 21:15"
     },
     {
       "id": "10556db",
@@ -132,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-27 22:00"
-    },
-    {
-      "id": "g8j86m",
-      "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
-      "title_vi": "Bên trong một đội bí mật của Ukraine tiến hành các cuộc tấn công bằng máy bay không người lái sâu vào Nga",
-      "summary_vi": "Máy bay không người lái tầm xa của Ukraine đang tấn công sâu vào bên trong nước Nga, cách xa tới 1.200 dặm, tấn công các nhà máy lọc dầu và kho chứa. NPR gần đây đã dành thời gian cùng với một trong những đội tấn công của Ukraine phóng máy bay không người lái vào các mục tiêu của Nga.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+260/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F16%2F2df3ca194289b3f9b310c90fc8eb%2Fsk-0512.jpg",
-      "link": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
-      "source": "NPR",
-      "category": "energy",
-      "published": "2026-06-27 16:02"
     },
     {
       "id": "1b9xi7d",
@@ -550,6 +539,17 @@
       "source": "Global Coffee Report",
       "category": "soft",
       "published": "2026-06-26 07:04"
+    },
+    {
+      "id": "1lp5s1c",
+      "title": "Food Outlook - Biannual Report on Global Food Markets, June 2026",
+      "title_vi": "Triển vọng Thực phẩm - Báo cáo định kỳ sáu tháng về Thị trường Thực phẩm Toàn cầu, tháng 6 năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://reliefweb.int/report/world/food-outlook-biannual-report-global-food-markets-june-2026",
+      "source": "ReliefWeb",
+      "category": "macro",
+      "published": "2026-06-26 06:51"
     }
   ]
 }

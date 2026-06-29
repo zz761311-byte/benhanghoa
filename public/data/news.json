@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29 06:53",
+  "updated_at": "2026-06-29 07:00",
   "items": [
     {
       "id": "13q3qxp",
@@ -66,6 +66,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-28 23:46"
+    },
+    {
+      "id": "1n551pu",
+      "title": "Ukraine's drone assault ignites major Russian oil refinery, as Putin acknowledges 'difficult period' - ABC News",
+      "title_vi": "Cuộc tấn công bằng máy bay không người lái của Ukraine đốt cháy nhà máy lọc dầu lớn của Nga, khi Putin thừa nhận 'giai đoạn khó khăn' - ABC News",
+      "summary_vi": "Theo chính quyền Nga, Ukraine đã tăng cường các cuộc tấn công bằng máy bay không người lái vào Nga, phóng hỏa một nhà máy lọc dầu lớn ở miền nam và giết chết ít nhất hai người.",
+      "image": "https://i.abcnewsfe.com/a/3798c876-7391-48cf-b97f-3fd4ebb1319c/wirestory_88370faa1a49504438388f2854d7afd3_16x9.jpg?w=1600",
+      "link": "https://abcnews.com/International/wireStory/ukrainian-strike-sets-fire-oil-refinery-southern-russia-134286603",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-06-28 23:30"
     },
     {
       "id": "3r4zvf",
@@ -475,12 +486,12 @@
       "published": "2026-06-26 14:09"
     },
     {
-      "id": "bbg4mv",
-      "title": "Farm Futures afternoon grain market commentary",
-      "title_vi": "Bình luận thị trường ngũ cốc buổi chiều của Farm Futures",
+      "id": "my7osy",
+      "title": "Farm Futures morning grain market analysis",
+      "title_vi": "Phân tích thị trường ngũ cốc buổi sáng của Farm Futures",
       "summary_vi": "",
       "image": "",
-      "link": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-06-26 14:00"
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-06-26 12:18"
-    },
-    {
-      "id": "lp6rny",
-      "title": "Ecora’s Copper Pivot Has Investors Repricing Its Royalty Business",
-      "title_vi": "Copper Pivot của Ecora đã giúp các nhà đầu tư định giá lại hoạt động kinh doanh tiền bản quyền của nó",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finimize.com/content/ecraf-asset-snapshot",
-      "source": "Finimize",
-      "category": "metal",
-      "published": "2026-06-26 10:53"
     }
   ]
 }

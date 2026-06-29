@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30 06:00",
+  "updated_at": "2026-06-30 06:29",
   "items": [
     {
       "id": "upsu02",
@@ -220,6 +220,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-29 21:58"
+    },
+    {
+      "id": "1vgtvxg",
+      "title": "AI and Platinum Group Metal Applications",
+      "title_vi": "Ứng dụng kim loại của nhóm AI và bạch kim",
+      "summary_vi": "Phân tích cách tăng trưởng cơ sở hạ tầng trí tuệ nhân tạo thúc đẩy nhu cầu kim loại nhóm bạch kim vật lý trên các thị trường lưu trữ dữ liệu toàn cầu và chất bán dẫn.",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/articles/images/2026/q2/ai-and-platinum-group-metal-applications-940x600.jpg",
+      "link": "https://www.cmegroup.com/articles/2026/ai-and-platinum-group-metal-applications.html",
+      "source": "CME Group",
+      "category": "metal",
+      "published": "2026-06-29 21:56"
     },
     {
       "id": "pz9vho",
@@ -539,17 +550,6 @@
       "source": "TradingView",
       "category": "agri",
       "published": "2026-06-27 05:19"
-    },
-    {
-      "id": "13ywylb",
-      "title": "Freedom Broker downgrades Mondelez stock rating on cocoa price concerns",
-      "title_vi": "Freedom Broker hạ xếp hạng cổ phiếu Mondelez do lo ngại về giá ca cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/analyst-ratings/freedom-broker-downgrades-mondelez-stock-rating-on-cocoa-price-concerns-93CH-4763469",
-      "source": "Investing.com",
-      "category": "soft",
-      "published": "2026-06-27 03:39"
     }
   ]
 }

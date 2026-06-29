@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-30 04:00",
+  "updated_at": "2026-06-30 05:00",
   "items": [
+    {
+      "id": "jbksm1",
+      "title": "Ukraine&#039;s Refinery Strikes Push Russia Into a Fuel Crisis",
+      "title_vi": "Cuộc đình công của nhà máy lọc dầu Ukraine đẩy Nga vào cuộc khủng hoảng nhiên liệu",
+      "summary_vi": "Sau nhiều tuần cố gắng hạ thấp tác động của các cuộc tấn công bằng máy bay không người lái của Ukraine đối với các nhà máy lọc dầu của Nga, Điện Kremlin cuối tuần này thừa nhận rằng Nga phải đối mặt với tình trạng thiếu nhiên liệu và khủng hoảng nhiên liệu cần chính phủ can thiệp thêm để giải quyết. Một vài tuần trước, các thống đốc khu vực trên khắp",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-29_eu0hf6tkzm.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Ukraines-Refinery-Strikes-Push-Russia-Into-a-Fuel-Crisis.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-30 05:00"
+    },
     {
       "id": "yaizva",
       "title": "How the Hormuz Crisis Turned Southeast Asia Into a Solar Powerhouse",
@@ -123,17 +134,6 @@
       "published": "2026-06-30 00:15"
     },
     {
-      "id": "pthfmu",
-      "title": "Is Libya Quietly Becoming the Biggest Oil Prize the West Can’t Afford to Ignore?",
-      "title_vi": "Libya có đang lặng lẽ trở thành giải thưởng dầu mỏ lớn nhất mà phương Tây không thể bỏ qua?",
-      "summary_vi": "Cùng lúc với việc OPEC nâng dự báo nhu cầu dầu dài hạn trong năm thứ ba liên tiếp - hiện dự kiến ​​mức tiêu thụ toàn cầu sẽ tăng 19 triệu thùng mỗi ngày (bpd), hay 18%, vào năm 2050 - Tập đoàn Dầu khí Quốc gia Libya (NOC) thông báo rằng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-29_z9upmd20m5.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Is-Libya-Quietly-Becoming-the-Biggest-Oil-Prize-the-West-Cant-Afford-to-Ignore.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-30 00:00"
-    },
-    {
       "id": "11hu93z",
       "title": "USDA forecast shows rising costs for corn, soybeans, sorghum and wheat",
       "title_vi": "USDA dự báo chi phí ngô, đậu nành, lúa miến và lúa mì tăng",
@@ -176,6 +176,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-29 22:17"
+    },
+    {
+      "id": "pfk0e1",
+      "title": "Platinum prices forecast lower as Swiss bank warns of weak investment demand",
+      "title_vi": "Giá bạch kim dự báo giảm do ngân hàng Thụy Sĩ cảnh báo nhu cầu đầu tư yếu",
+      "summary_vi": "UBS đã cắt giảm dự báo giá bạch kim 300 USD/ounce sau khi cảnh báo rằng nhu cầu đầu tư yếu có thể đẩy thị trường vào tình trạng dư thừa vào cuối...",
+      "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA2XC8yMDI2LTA2LTI5LTE2LTA0LTQyLTdiY2NlY2RkZDI5YjVmOGQ0M2U3OTFhMDQyYzVmNTAxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "link": "https://www.proactiveinvestors.co.uk/companies/news/1094659/platinum-prices-forecast-lower-as-swiss-bank-warns-of-weak-investment-demand-1094659.html",
+      "source": "Proactive Investors",
+      "category": "metal",
+      "published": "2026-06-29 21:58"
     },
     {
       "id": "re5b4s",
@@ -266,6 +277,17 @@
       "published": "2026-06-29 13:54"
     },
     {
+      "id": "1pxjk0o",
+      "title": "Weak demand and rising inventories weigh on cocoa prices",
+      "title_vi": "Nhu cầu yếu và hàng tồn kho tăng gây áp lực lên giá ca cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.msn.com/en-us/money/markets/weak-demand-and-rising-inventories-weigh-on-cocoa-prices/ar-AA24WFHy",
+      "source": "MSN",
+      "category": "soft",
+      "published": "2026-06-29 12:33"
+    },
+    {
       "id": "ucf1r3",
       "title": "July contract deadlines loom over grain market",
       "title_vi": "Thời hạn hợp đồng tháng 7 phủ bóng lên thị trường ngũ cốc",
@@ -308,17 +330,6 @@
       "source": "AP News",
       "category": "energy",
       "published": "2026-06-29 08:26"
-    },
-    {
-      "id": "z6ht4w",
-      "title": "Ukraine says it attacked two Russian oil refineries",
-      "title_vi": "Ukraine tuyên bố tấn công 2 nhà máy lọc dầu của Nga",
-      "summary_vi": "Các cuộc tấn công của Nga đã giết chết ít nhất 4 người ở phía đông nam và đông bắc Ukraine khi Kiev thúc đẩy chiến dịch sử dụng máy bay không người lái.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a4104cb41-1782645963.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries",
-      "source": "Al Jazeera",
-      "category": "energy",
-      "published": "2026-06-29 04:10"
     },
     {
       "id": "1vrkb9n",
@@ -365,6 +376,17 @@
       "published": "2026-06-28 18:00"
     },
     {
+      "id": "1s9r46r",
+      "title": "Coffee prices supported by delayed Brazil coffee harvest",
+      "title_vi": "Giá cà phê được hỗ trợ bởi vụ thu hoạch cà phê Brazil bị trì hoãn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.msn.com/en-us/foodanddrink/foodnews/coffee-prices-supported-by-delayed-brazil-coffee-harvest/ar-AA26xnwX",
+      "source": "MSN",
+      "category": "soft",
+      "published": "2026-06-28 17:03"
+    },
+    {
       "id": "1s7vxf3",
       "title": "Sugar’s bitter price: how empty calories are reshaping the planet",
       "title_vi": "Cái giá cay đắng của đường: lượng calo rỗng đang định hình lại hành tinh như thế nào",
@@ -374,6 +396,17 @@
       "source": "Ynetnews",
       "category": "soft",
       "published": "2026-06-28 16:30"
+    },
+    {
+      "id": "1ske7ea",
+      "title": "Cocoa prices supported by heavy rains in the Ivory Coast",
+      "title_vi": "Giá ca cao được hỗ trợ bởi mưa lớn ở Bờ Biển Ngà",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.msn.com/en-us/money/markets/cocoa-prices-supported-by-heavy-rains-in-the-ivory-coast/ar-AA26mIWP?apiversion",
+      "source": "MSN",
+      "category": "soft",
+      "published": "2026-06-28 07:56"
     },
     {
       "id": "1f2ts6b",
@@ -517,39 +550,6 @@
       "source": "MarketsMojo",
       "category": "metal",
       "published": "2026-06-27 03:26"
-    },
-    {
-      "id": "uxrffc",
-      "title": "Cocoa prices sink as Ivory Coast boosts supply outlook",
-      "title_vi": "Giá ca cao giảm do Bờ Biển Ngà tăng cường triển vọng nguồn cung",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.msn.com/en-us/news/insight/cocoa-prices-sink-as-ivory-coast-boosts-supply-outlook/gm-GM2C26C762?gemSnapshotKey",
-      "source": "MSN",
-      "category": "soft",
-      "published": "2026-06-27 02:50"
-    },
-    {
-      "id": "1xxc0jq",
-      "title": "Will USDA cut corn acres Tuesday? Iran war, wet weather cloud June 30 report.",
-      "title_vi": "USDA sẽ cắt giảm mẫu ngô vào thứ ba? Chiến tranh Iran, đám mây thời tiết ẩm ướt báo cáo ngày 30 tháng 6.",
-      "summary_vi": "Giá phân bón dao động do xung đột Iran và thời tiết ẩm ướt ở Vành đai ngô khiến các nhà giao dịch lo lắng trước bản tin 11 giờ sáng thứ Ba theo giờ CT. Dự trữ ngũ cốc cũng được chú ý, với dự trữ ngô dự kiến ​​sẽ cao nhất kể từ năm 1988.",
-      "image": "https://assets.farmjournal.com/dims4/default/175be23/2147483647/strip/true/crop/640x360+0+60/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2FUSDA-planter-planting.JPG",
-      "link": "https://www.profarmer.com/news/will-usda-cut-corn-acres-tuesday-iran-war-wet-weather-cloud-june-30-report",
-      "source": "Pro Farmer",
-      "category": "agri",
-      "published": "2026-06-27 02:16"
-    },
-    {
-      "id": "dsn50e",
-      "title": "New Database for Subsurface Energy Storage Could be Boon for Natural Gas Industry",
-      "title_vi": "Cơ sở dữ liệu mới về lưu trữ năng lượng dưới bề mặt có thể mang lại lợi ích cho ngành khí đốt tự nhiên",
-      "summary_vi": "Các kho chứa khí đốt dưới lòng đất ở Mỹ Nhà cung cấp hình ảnh: Cục nghiên cứu địa chất kinh tế tại Đại học Texas ở…",
-      "image": "",
-      "link": "https://www.jsg.utexas.edu/news/2026/06/new-database-for-subsurface-energy-storage-could-be-boon-for-natural-gas-industry/",
-      "source": "Jackson School of Geosciences",
-      "category": "energy",
-      "published": "2026-06-27 02:15"
     }
   ]
 }

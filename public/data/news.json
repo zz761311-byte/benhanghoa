@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-29 20:00",
+  "updated_at": "2026-06-29 21:00",
   "items": [
+    {
+      "id": "rnzwyk",
+      "title": "Trump Signals Diplomatic Opening After Days of U.S.-Iran Strikes",
+      "title_vi": "Trump báo hiệu sự mở cửa ngoại giao sau nhiều ngày đình công Mỹ-Iran",
+      "summary_vi": "Sau khi một số báo cáo dai dẳng vào Chủ nhật, bao gồm cả tờ The Wall Street Journal, nói rằng cuộc chiến ăn miếng trả miếng mới diễn ra vào tuần trước giữa Mỹ và Iran ở eo biển Hormuz đã 'làm đình trệ' vòng đàm phán tiếp theo, Tổng thống Trump tuyên bố trên Truth Social Monday rằng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-29_no3tbziwi0.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Trump-Signals-Diplomatic-Opening-After-Days-of-US-Iran-Strikes.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-29 21:00"
+    },
     {
       "id": "hdwaiu",
       "title": "Pakistan LNG Seeks Emergency Cargo After Weekend Hormuz Flare-Up",
@@ -143,17 +154,6 @@
       "source": "AP News",
       "category": "energy",
       "published": "2026-06-29 08:26"
-    },
-    {
-      "id": "1nunfos",
-      "title": "The $7 Trillion AI Boom Is Turning Into The Energy Trade of the Century",
-      "title_vi": "Sự bùng nổ AI trị giá 7 nghìn tỷ USD đang trở thành ngành thương mại năng lượng của thế kỷ",
-      "summary_vi": "Bạn có thể nghĩ rằng “Mr. Wonderful” Kevin O’Leary của Shark Tank đang đặt cược tất cả vào AI, nhưng thực tế không phải vậy. Anh ấy đang đặt cược vào cơ sở hạ tầng trị giá hơn 5 nghìn tỷ đô la cần thiết để vận hành nó và đó là nơi nguồn vốn lớn hiện đang chảy vào. Và anh ấy đang đặt cược vào Bitzero (NASDAQ: AIBZ) là một trong những",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-27_igwldvjoqs.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/The-7-Trillion-AI-Boom-Is-Turning-Into-The-Energy-Trade-of-the-Century.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-29 06:00"
     },
     {
       "id": "z6ht4w",
@@ -497,6 +497,17 @@
       "published": "2026-06-27 01:24"
     },
     {
+      "id": "hzgosk",
+      "title": "HyBlend: Opportunities for Hydrogen Blending in Natural Gas Pipelines",
+      "title_vi": "HyBlend: Cơ hội pha trộn hydro trong đường ống khí đốt tự nhiên",
+      "summary_vi": "Sáng kiến ​​HyBlend nhằm mục đích giải quyết các rào cản kỹ thuật trong việc trộn hydro trong đường ống dẫn khí đốt tự nhiên.",
+      "image": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
+      "link": "https://www.energy.gov/cmei/fuels/hyblend-opportunities-hydrogen-blending-natural-gas-pipelines",
+      "source": "Department of Energy (.gov)",
+      "category": "energy",
+      "published": "2026-06-27 00:42"
+    },
+    {
       "id": "1gjvro8",
       "title": "Is Wheat Poised for a Major Breakout, and What's Driving the Surge",
       "title_vi": "Lúa mì đã sẵn sàng cho một bước đột phá lớn và điều gì thúc đẩy sự đột biến này?",
@@ -539,17 +550,6 @@
       "source": "StoneX",
       "category": "metal",
       "published": "2026-06-27 00:00"
-    },
-    {
-      "id": "159la2z",
-      "title": "i-80 Gold terminates Vox Royalty offtake with $4.8M payment",
-      "title_vi": "i-80 Gold chấm dứt việc chi trả tiền bản quyền Vox với khoản thanh toán 4,8 triệu USD",
-      "summary_vi": "i-80 cho biết dự kiến ​​sẽ tiết kiệm được dòng tiền cho đến năm 2028.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/C58A0124mc-coy-sign-scaled-1-scaled-e1723475397145.jpg",
-      "link": "https://www.mining.com/i-80-gold-terminates-vox-royalty-offtake-with-4-8m-payment/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-26 23:30"
     }
   ]
 }

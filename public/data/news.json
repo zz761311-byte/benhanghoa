@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29 08:00",
+  "updated_at": "2026-06-29 09:00",
   "items": [
     {
       "id": "13q3qxp",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-29 04:00"
+    },
+    {
+      "id": "1vrkb9n",
+      "title": "Platinum Price Analysis Shows Rally Losing Momentum Near $1,640",
+      "title_vi": "Phân tích giá bạch kim cho thấy đà tăng đang mất dần gần 1.640 USD",
+      "summary_vi": "Giá đã tăng trở lại gần mức đáy gần đây, thu hút người mua, nhưng biểu đồ bạch kim vẫn chưa phá vỡ xu hướng giảm rộng hơn này.",
+      "image": "https://bravenewcoin.com/wp-content/uploads/2026/06/Bnc-Jun-29-90.jpg",
+      "link": "https://bravenewcoin.com/insights/platinum-price-analysis-shows-rally-losing-momentum-near-1640",
+      "source": "Brave New Coin",
+      "category": "metal",
+      "published": "2026-06-29 02:19"
     },
     {
       "id": "1t4v3sc",
@@ -539,17 +550,6 @@
       "source": "FOREX.com",
       "category": "agri",
       "published": "2026-06-26 14:00"
-    },
-    {
-      "id": "18knver",
-      "title": "Why is Impala Platinum (IMPUY) Catching the Eye of Quant Analysts",
-      "title_vi": "Tại sao Impala Platinum (IMPUY) lại lọt vào mắt xanh của các nhà phân tích định lượng",
-      "summary_vi": "Impala Platinum (IMPUY) đang thu hút các nhà phân tích định lượng với xếp hạng \"Rất nên mua\". Động lực giá tích cực và các điều chỉnh ước tính tăng lên, cùng với những cải tiến về hoạt động và sự thay đổi của thị trường, đang thu hút sự quan tâm.",
-      "image": "https://investgpt-test.oss-us-east-1.aliyuncs.com/blog/mini_pexels-photo-8442431.jpeg",
-      "link": "https://www.kavout.com/market-lens/why-is-impala-platinum-impuy-catching-the-eye-of-quant-analysts",
-      "source": "Kavout | AI",
-      "category": "metal",
-      "published": "2026-06-26 13:03"
     }
   ]
 }

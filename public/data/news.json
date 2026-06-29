@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-29 19:12",
+  "updated_at": "2026-06-29 20:00",
   "items": [
+    {
+      "id": "hdwaiu",
+      "title": "Pakistan LNG Seeks Emergency Cargo After Weekend Hormuz Flare-Up",
+      "title_vi": "Pakistan LNG tìm kiếm hàng hóa khẩn cấp sau đợt bùng phát Hormuz cuối tuần",
+      "summary_vi": "Nhà nhập khẩu LNG nhà nước của Pakistan đang khẩn trương tìm cách mua một lô hàng LNG để giao trong tuần này, với các ưu đãi sẽ đáo hạn vào ngày 29 tháng 6, do giao thông qua eo biển Hormuz vẫn không ổn định trong bối cảnh các mối đe dọa dai dẳng đối với các tàu chở dầu và làm gia tăng căng thẳng Mỹ-Iran. Pakistan LNG, công ty nhà nước",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-29_amdhgyd6ac.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-LNG-Seeks-Emergency-Cargo-After-Weekend-Hormuz-Flare-Up.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-29 20:00"
+    },
     {
       "id": "bralpe",
       "title": "Strait of Hormuz Tanker Traffic Slows After Fresh U.S.-Iran Strikes",
@@ -79,6 +90,17 @@
       "published": "2026-06-29 14:23"
     },
     {
+      "id": "d73ax5",
+      "title": "Copper Speculation Is Rewriting Market Pricing",
+      "title_vi": "Đầu cơ đồng đang viết lại giá cả thị trường",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en/insights/copper-speculation-is-rewriting-market-pricing/",
+      "source": "StoneX",
+      "category": "metal",
+      "published": "2026-06-29 13:54"
+    },
+    {
       "id": "1h8aif5",
       "title": "Australian Gas Exploration Surges as Energy Security Takes Center Stage",
       "title_vi": "Hoạt động thăm dò khí đốt của Úc tăng vọt khi an ninh năng lượng chiếm vị trí trung tâm",
@@ -129,17 +151,6 @@
       "summary_vi": "Bạn có thể nghĩ rằng “Mr. Wonderful” Kevin O’Leary của Shark Tank đang đặt cược tất cả vào AI, nhưng thực tế không phải vậy. Anh ấy đang đặt cược vào cơ sở hạ tầng trị giá hơn 5 nghìn tỷ đô la cần thiết để vận hành nó và đó là nơi nguồn vốn lớn hiện đang chảy vào. Và anh ấy đang đặt cược vào Bitzero (NASDAQ: AIBZ) là một trong những",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-27_igwldvjoqs.jpg",
       "link": "https://oilprice.com/Energy/Energy-General/The-7-Trillion-AI-Boom-Is-Turning-Into-The-Energy-Trade-of-the-Century.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-29 06:00"
-    },
-    {
-      "id": "13q3qxp",
-      "title": "Oil Markets Are Pricing A Supply Surge That Isn’t Guaranteed",
-      "title_vi": "Thị trường dầu đang định giá nguồn cung tăng vọt không được đảm bảo",
-      "summary_vi": "Giá dầu thô đang rơi tự do sau khi Mỹ và Iran đồng ý ngừng bắn, dự kiến ​​kéo dài 60 ngày. Các thương nhân kỳ vọng lệnh ngừng bắn sẽ giải phóng một lượng lớn dầu thô, và thực tế, số lượng tàu chở dầu đang rời Vịnh Ba Tư ngày càng tăng. Vậy mà Iran vừa thực hiện một quảng cáo",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-26_b0vfamn6hx.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Are-Pricing-A-Supply-Surge-That-Isnt-Guaranteed.html",
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-29 06:00"
@@ -539,17 +550,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-26 23:30"
-    },
-    {
-      "id": "1p01hvy",
-      "title": "Newly Discovered Soybean Biomechanism Could Increase Crop Yields",
-      "title_vi": "Cơ chế sinh học đậu nành mới được phát hiện có thể tăng năng suất cây trồng",
-      "summary_vi": "Các nhà khoa học đã phát hiện ra một cải tiến tiến hóa ở cây đậu tương có thể cải thiện năng suất cây trồng nếu được điều chỉnh thông qua các phương pháp thay thế như chỉnh sửa gen.",
-      "image": "https://www.morningagclips.com/wp-content/uploads/2026/06/true.jpg",
-      "link": "https://www.morningagclips.com/newly-discovered-soybean-biomechanism-could-increase-crop-yields/",
-      "source": "Morning Ag Clips",
-      "category": "agri",
-      "published": "2026-06-26 22:23"
     }
   ]
 }

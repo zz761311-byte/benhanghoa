@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29 13:00",
+  "updated_at": "2026-06-29 14:00",
   "items": [
     {
       "id": "1h8aif5",
@@ -22,6 +22,17 @@
       "source": "TradingView",
       "category": "macro",
       "published": "2026-06-29 09:55"
+    },
+    {
+      "id": "zoaf4a",
+      "title": "Ukrainian drones set another Russian oil refinery ablaze as Putin admits fuel shortages",
+      "title_vi": "Máy bay không người lái của Ukraine đốt cháy một nhà máy lọc dầu khác của Nga khi Putin thừa nhận thiếu nhiên liệu",
+      "summary_vi": "Theo chính quyền Nga, Ukraine đã tăng cường các cuộc tấn công bằng máy bay không người lái vào Nga, đốt cháy một nhà máy lọc dầu lớn ở miền nam và giết chết ít nhất hai người.",
+      "image": "https://dims.apnews.com/dims4/default/74386cc/2147483647/strip/true/crop/1280x853+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F67%2F7b%2Fe695a983ed9c46a2b23cfbb0eb1d%2F642cac867b5e41efa9ca84533a75a238",
+      "link": "https://apnews.com/article/ukraine-russia-war-oil-refinery-drones-88370faa1a49504438388f2854d7afd3",
+      "source": "AP News",
+      "category": "energy",
+      "published": "2026-06-29 08:26"
     },
     {
       "id": "13q3qxp",
@@ -99,17 +110,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-28 23:46"
-    },
-    {
-      "id": "1n551pu",
-      "title": "Ukraine's drone assault ignites major Russian oil refinery, as Putin acknowledges 'difficult period' - ABC News",
-      "title_vi": "Cuộc tấn công bằng máy bay không người lái của Ukraine đốt cháy nhà máy lọc dầu lớn của Nga, khi Putin thừa nhận 'giai đoạn khó khăn' - ABC News",
-      "summary_vi": "Theo chính quyền Nga, Ukraine đã tăng cường các cuộc tấn công bằng máy bay không người lái vào Nga, phóng hỏa một nhà máy lọc dầu lớn ở miền nam và giết chết ít nhất hai người.",
-      "image": "https://i.abcnewsfe.com/a/3798c876-7391-48cf-b97f-3fd4ebb1319c/wirestory_88370faa1a49504438388f2854d7afd3_16x9.jpg?w=1600",
-      "link": "https://abcnews.com/International/wireStory/ukrainian-strike-sets-fire-oil-refinery-southern-russia-134286603",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-06-28 23:30"
     },
     {
       "id": "3r4zvf",

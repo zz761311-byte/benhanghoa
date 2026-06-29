@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-29 17:00",
+  "updated_at": "2026-06-29 18:00",
   "items": [
+    {
+      "id": "gl0x8f",
+      "title": "Oil Prices Climb as U.S.-Iran Flare-Up Shakes Market Complacency",
+      "title_vi": "Giá dầu tăng khi bùng phát Mỹ-Iran làm rung chuyển sự tự mãn của thị trường",
+      "summary_vi": "Giá dầu tăng vào sáng sớm thứ Hai sau khi có sự leo thang mới giữa Mỹ và Iran vào cuối tuần qua. Việc tăng giá diễn ra tương đối chậm trễ, do thị trường tiếp tục định giá một thỏa thuận hòa bình tiềm năng trong khi không tính đến các chất xúc tác địa chính trị lạc quan hơn. Số lượng ngày càng tăng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-29_4s230ewb6x.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-US-Iran-Flare-Up-Shakes-Market-Complacency.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-29 17:31"
+    },
     {
       "id": "1epd487",
       "title": "U.S. Pipeline Giant Eyes $5.5 Billion Deal to Expand LNG Reach",
@@ -143,17 +154,6 @@
       "source": "Brave New Coin",
       "category": "metal",
       "published": "2026-06-29 02:19"
-    },
-    {
-      "id": "1t4v3sc",
-      "title": "The World Is Racing to Develop New Nuclear Fuels",
-      "title_vi": "Thế giới đang chạy đua phát triển nhiên liệu hạt nhân mới",
-      "summary_vi": "Trong thời kỳ phục hưng hạt nhân, một số quốc gia đang có chiến lược tăng đáng kể công suất năng lượng hạt nhân trong những thập kỷ tới, như một phần trong nỗ lực đa dạng hóa cơ cấu năng lượng và tăng cường an ninh năng lượng lâu dài. Tuy nhiên, việc đảm bảo nhiên liệu cho hoạt động điện",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-25_slz9gucmsl.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-World-Is-Racing-to-Develop-New-Nuclear-Fuels.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-29 02:00"
     },
     {
       "id": "kjgqj2",
@@ -398,6 +398,17 @@
       "published": "2026-06-27 02:38"
     },
     {
+      "id": "1xxc0jq",
+      "title": "Will USDA cut corn acres Tuesday? Iran war, wet weather cloud June 30 report.",
+      "title_vi": "USDA sẽ cắt giảm mẫu ngô vào thứ ba? Chiến tranh Iran, đám mây thời tiết ẩm ướt báo cáo ngày 30 tháng 6.",
+      "summary_vi": "Giá phân bón dao động do xung đột Iran và thời tiết ẩm ướt ở Vành đai ngô khiến các nhà giao dịch lo lắng trước bản tin 11 giờ sáng thứ Ba theo giờ CT. Dự trữ ngũ cốc cũng được chú ý, với dự trữ ngô dự kiến ​​sẽ cao nhất kể từ năm 1988.",
+      "image": "https://assets.farmjournal.com/dims4/default/175be23/2147483647/strip/true/crop/640x360+0+60/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2FUSDA-planter-planting.JPG",
+      "link": "https://www.profarmer.com/news/will-usda-cut-corn-acres-tuesday-iran-war-wet-weather-cloud-june-30-report",
+      "source": "Pro Farmer",
+      "category": "agri",
+      "published": "2026-06-27 02:16"
+    },
+    {
       "id": "dsn50e",
       "title": "New Database for Subsurface Energy Storage Could be Boon for Natural Gas Industry",
       "title_vi": "Cơ sở dữ liệu mới về lưu trữ năng lượng dưới bề mặt có thể mang lại lợi ích cho ngành khí đốt tự nhiên",
@@ -407,6 +418,17 @@
       "source": "Jackson School of Geosciences",
       "category": "energy",
       "published": "2026-06-27 02:15"
+    },
+    {
+      "id": "150xyor",
+      "title": "Copper soars but smelters can't bank on it to survive",
+      "title_vi": "Đồng tăng vọt nhưng các nhà luyện kim không thể dựa vào nó để tồn tại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/commentary/reuters-open-interest/copper-soars-smelters-cant-bank-it-survive-2026-06-26/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-06-27 02:06"
     },
     {
       "id": "1nloy89",
@@ -528,28 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-06-26 19:48"
-    },
-    {
-      "id": "19i2vya",
-      "title": "Is the Global Oil Market Facing an Unprecedented Supply Shock",
-      "title_vi": "Thị trường dầu toàn cầu đang đối mặt với cú sốc nguồn cung chưa từng có",
-      "summary_vi": "Thị trường dầu mỏ toàn cầu phải đối mặt với cú sốc nguồn cung đáng kể, với 500 triệu thùng xuất khẩu gặp rủi ro do căng thẳng địa chính trị. Giá dầu cao được thúc đẩy bởi phần bù rủi ro địa chính trị, không chỉ do cung và cầu. Tình trạng này ảnh hưởng đến các công ty như TotalEnergies.",
-      "image": "https://investgpt-test.oss-us-east-1.aliyuncs.com/blog/mini_pexels-photo-9494904.jpeg",
-      "link": "https://www.kavout.com/market-lens/is-the-global-oil-market-facing-an-unprecedented-supply-shock",
-      "source": "Kavout | AI",
-      "category": "energy",
-      "published": "2026-06-26 18:59"
-    },
-    {
-      "id": "15jsrrj",
-      "title": "Silver Regains Focus as Growth Outlook and Industrial Demand Take Center Stage",
-      "title_vi": "Bạc lấy lại sự tập trung khi triển vọng tăng trưởng và nhu cầu công nghiệp chiếm vị trí trung tâm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/silver-regains-focus-growth-outlook-113700568.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-06-26 18:37"
     }
   ]
 }

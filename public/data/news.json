@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-06-29 22:00",
+  "updated_at": "2026-06-29 23:00",
   "items": [
+    {
+      "id": "1m50y41",
+      "title": "Russia&#039;s Fuel Crisis Deepens as Putin Acknowledges Growing Gasoline Shortages",
+      "title_vi": "Khủng hoảng nhiên liệu ở Nga ngày càng sâu sắc khi Putin thừa nhận tình trạng thiếu xăng ngày càng tăng",
+      "summary_vi": "Tổng thống Nga Vladimir Putin thừa nhận điều mà các chuyên gia bên ngoài, nhiều quan chức khu vực và người dân thường ngày đã nhận thấy: Nga đang phải đối mặt với tình trạng thiếu năng lượng, gây ra những vấn đề lớn cho người dân và các ngành công nghiệp. \"Bạn nhận thức rõ rằng các vấn đề đối với người lái xe và đối với b",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-29_t1tz3dgg6q.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Russias-Fuel-Crisis-Deepens-as-Putin-Acknowledges-Growing-Gasoline-Shortages.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-29 23:00"
+    },
+    {
+      "id": "11hu93z",
+      "title": "USDA forecast shows rising costs for corn, soybeans, sorghum and wheat",
+      "title_vi": "USDA dự báo chi phí ngô, đậu nành, lúa miến và lúa mì tăng",
+      "summary_vi": "USDA cho biết chi phí sản xuất trang trại có thể đạt mức cao kỷ lục vào năm 2027. Nhà kinh tế nông nghiệp Brad Lubben của Đại học Nebraska-Lincoln cho biết lạm phát là yếu tố lớn nhất kể từ đại dịch COVID-19. “Chúng ta tiếp tục ở mức cao hơn cùng với những cú sốc thương mại và an ninh toàn cầu đã làm tăng",
+      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2025/09/KH_BradLubben_HHD2025B.jpg",
+      "link": "https://www.brownfieldagnews.com/news/usda-forecast-shows-rising-costs-for-corn-soybeans-sorghum-and-wheat/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-06-29 22:43"
+    },
+    {
+      "id": "i7dxh1",
+      "title": "Pakistan Plans to Boost LPG Imports and Mulls Cheaper Oil Supply from Iran",
+      "title_vi": "Pakistan có kế hoạch tăng cường nhập khẩu LPG và cân nhắc nguồn cung dầu rẻ hơn từ Iran",
+      "summary_vi": "Bộ trưởng Dầu mỏ Pakistan Ali Pervaiz Malik cho biết Pakistan sẽ tăng nhập khẩu khí hóa lỏng (LPG) từ Iran và xem xét ý tưởng nhập khẩu dầu thô rẻ hơn từ Cộng hòa Hồi giáo này. Pakistan, nước trung gian hòa giải chính trong đàm phán Mỹ-Iran",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-29_3neomdaesg.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Plans-to-Boost-LPG-Imports-and-Mulls-Cheaper-Oil-Supply-from-Iran.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-29 22:30"
+    },
     {
       "id": "1ennljv",
       "title": "Halliburton, Valero and 3 More Stocks Set Up for a Fragile Hormuz Truce",
@@ -77,28 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-29 17:31"
-    },
-    {
-      "id": "1epd487",
-      "title": "U.S. Pipeline Giant Eyes $5.5 Billion Deal to Expand LNG Reach",
-      "title_vi": "Gã khổng lồ đường ống của Hoa Kỳ để mắt đến thỏa thuận trị giá 5,5 tỷ USD để mở rộng phạm vi tiếp cận LNG",
-      "summary_vi": "Các nguồn tin am hiểu về sự phát triển cho biết, gã khổng lồ về đường ống khí đốt tự nhiên của Hoa Kỳ, Williams có thể tiến gần đến một trong những thương vụ mua lại lớn nhất từ ​​trước đến nay khi họ đang đàm phán giai đoạn cuối để mua lại nhà điều hành đường ống dẫn khí đốt Momentum Midstream trong một thỏa thuận ước tính trị giá khoảng 5,5 tỷ USD.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-29_wcgmrrudqc.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Pipeline-Giant-Eyes-55-Billion-Deal-to-Expand-LNG-Reach.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-29 17:00"
-    },
-    {
-      "id": "1b5bheq",
-      "title": "Middle East Oil Production Rebounds to 15 Million Bpd",
-      "title_vi": "Sản lượng dầu ở Trung Đông phục hồi lên 15 triệu thùng/ngày",
-      "summary_vi": "Sản lượng dầu thô ở Trung Đông đã phục hồi lên từ 14,6 triệu thùng/ngày đến 15 triệu thùng/ngày vào đầu tháng này trong bối cảnh lệnh ngừng bắn giữa Iran và Hoa Kỳ, tờ Financial Express đưa tin hôm nay, trích dẫn dự đoán rằng sẽ sớm phục hồi hoàn toàn về mức trước chiến tranh.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-29_s5k6qwhxoz.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Production-Rebounds-to-15-Million-Bpd.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-29 15:30"
     },
     {
       "id": "5hfhwp",
@@ -539,17 +550,6 @@
       "source": "pv magazine USA",
       "category": "metal",
       "published": "2026-06-27 00:20"
-    },
-    {
-      "id": "13jaloy",
-      "title": "Fortune gets $35M for Nico road",
-      "title_vi": "Fortune nhận được 35 triệu USD cho con đường Nico",
-      "summary_vi": "Quỹ Đầu tiên và Cuối cùng của Bộ Tài nguyên Thiên nhiên Canada sẽ hoàn trả 3/4 chi phí đủ điều kiện.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/Nico-1-1024x768.jpg",
-      "link": "https://www.mining.com/fortune-gets-35m-for-nico-road/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-27 00:16"
     }
   ]
 }

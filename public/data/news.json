@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29 11:00",
+  "updated_at": "2026-06-29 12:00",
   "items": [
     {
       "id": "1j2zr5j",
@@ -231,6 +231,17 @@
       "source": "Merimbula News Weekly",
       "category": "metal",
       "published": "2026-06-27 14:09"
+    },
+    {
+      "id": "1b7wdbz",
+      "title": "Record European heat pushes French wheat prices to three-month high",
+      "title_vi": "Nắng nóng kỷ lục ở châu Âu đẩy giá lúa mì Pháp lên cao nhất 3 tháng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/062626-record-european-heat-pushes-french-wheat-prices-to-three-month-high",
+      "source": "S&P Global",
+      "category": "agri",
+      "published": "2026-06-27 07:15"
     },
     {
       "id": "1lrkwix",
@@ -539,17 +550,6 @@
       "source": "Morningstar",
       "category": "macro",
       "published": "2026-06-26 15:46"
-    },
-    {
-      "id": "17x7pxn",
-      "title": "US tariff proposal threatens Brazilian pig iron, risks hurting steelmakers",
-      "title_vi": "Đề xuất thuế quan của Mỹ đe dọa gang Brazil, có nguy cơ gây thiệt hại cho các nhà sản xuất thép",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/062526-us-tariff-proposal-threatens-brazilian-pig-iron-risks-hurting-steelmakers",
-      "source": "S&P Global",
-      "category": "macro",
-      "published": "2026-06-26 14:09"
     }
   ]
 }

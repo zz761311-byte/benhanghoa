@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-30 19:00",
+  "updated_at": "2026-06-30 19:25",
   "items": [
+    {
+      "id": "jt21i1",
+      "title": "Copper Traders Gear Up for Another Round of Tariff Turmoil",
+      "title_vi": "Các nhà kinh doanh đồng chuẩn bị cho một đợt hỗn loạn thuế quan khác",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-06-30/copper-traders-gear-up-for-another-round-of-tariff-turmoil",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-06-30 19:12"
+    },
     {
       "id": "1cdcnmj",
       "title": "Asian Refiners Redirect Middle East Crude to the U.S. as Hormuz Flows Recover",
@@ -539,17 +550,6 @@
       "source": "MSN",
       "category": "soft",
       "published": "2026-06-28 07:56"
-    },
-    {
-      "id": "32gth1",
-      "title": "One of Texas' Oldest Oil Plays Is Running Dry",
-      "title_vi": "Một trong những mỏ dầu lâu đời nhất của Texas sắp cạn kiệt",
-      "summary_vi": "USGS phát hiện đá vôi Buda bên dưới Eagle Ford gần như đã khai thác hết, ngay cả khi mỏ đá phiến phía trên vẫn duy trì sản lượng ổn định.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-26_rlhz7f3o2k.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/One-of-Texas-Oldest-Oil-Plays-Is-Running-Dry.amp.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-06-28 06:00"
     }
   ]
 }

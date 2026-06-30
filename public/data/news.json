@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30 08:53",
+  "updated_at": "2026-06-30 09:00",
   "items": [
     {
       "id": "u2hsq2",
@@ -33,6 +33,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-30 05:41"
+    },
+    {
+      "id": "yzl5gx",
+      "title": "Chevron CFO reveals why gas prices are stuck",
+      "title_vi": "Giám đốc tài chính của Chevron tiết lộ lý do giá xăng bị kẹt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.thestreet.com/economy/chevron-cfo-reveals-why-gas-prices-are-stuck",
+      "source": "thestreet.com",
+      "category": "energy",
+      "published": "2026-06-30 05:24"
     },
     {
       "id": "jbksm1",
@@ -539,17 +550,6 @@
       "source": "MSN",
       "category": "macro",
       "published": "2026-06-27 08:56"
-    },
-    {
-      "id": "1b7wdbz",
-      "title": "Record European heat pushes French wheat prices to three-month high",
-      "title_vi": "Nắng nóng kỷ lục ở châu Âu đẩy giá lúa mì Pháp lên cao nhất 3 tháng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/062626-record-european-heat-pushes-french-wheat-prices-to-three-month-high",
-      "source": "S&P Global",
-      "category": "agri",
-      "published": "2026-06-27 07:15"
     }
   ]
 }

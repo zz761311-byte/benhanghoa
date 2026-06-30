@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-30 16:00",
+  "updated_at": "2026-06-30 17:00",
   "items": [
+    {
+      "id": "ntqymt",
+      "title": "Hormuz Tanker Traffic Recovers as Tensions Ease",
+      "title_vi": "Giao thông tàu chở dầu Hormuz phục hồi khi căng thẳng giảm bớt",
+      "summary_vi": "Lưu lượng tàu chở dầu tại eo biển Hormuz lần đầu tiên tăng trong 24 giờ qua kể từ cuối tuần trước, khi hai cuộc tấn công vào tàu thương mại khiến nhiều nhà khai thác hoảng sợ và buộc những người khác phải chờ căng thẳng giảm bớt trước khi chuyển sang đi qua điểm thắt cổ chai. Tổng cộng có 2",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-30_m6v0fwvobp.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Recovers-as-Tensions-Ease.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-30 17:00"
+    },
     {
       "id": "a2lsus",
       "title": "Pakistan Pays Premium for Urgent LNG Cargo",
@@ -132,17 +143,6 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-06-30 03:06"
-    },
-    {
-      "id": "zu8cju",
-      "title": "China&#039;s Coal Habit Is Outpacing Its Clean Energy Boom",
-      "title_vi": "Thói quen sử dụng than của Trung Quốc đang vượt xa sự bùng nổ năng lượng sạch",
-      "summary_vi": "Một bài đăng trên mạng xã hội gần đây của một nhà khí tượng học có lượng người theo dõi lớn đã đưa ra một tuyên bố đáng được xem xét kỹ hơn. Bài đăng lập luận rằng việc Trung Quốc phải chịu trách nhiệm về lượng khí thải carbon dioxide tăng nhanh là chuyện hoang đường và nó đã được chia sẻ hàng trăm lần. Đồ thị sau",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-29_ncqfjwzljn.jpg",
-      "link": "https://oilprice.com/Energy/Coal/Chinas-Coal-Habit-Is-Outpacing-Its-Clean-Energy-Boom.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-30 03:00"
     },
     {
       "id": "c0lsqq",
@@ -530,6 +530,17 @@
       "published": "2026-06-28 07:56"
     },
     {
+      "id": "32gth1",
+      "title": "One of Texas' Oldest Oil Plays Is Running Dry",
+      "title_vi": "Một trong những mỏ dầu lâu đời nhất của Texas sắp cạn kiệt",
+      "summary_vi": "USGS phát hiện đá vôi Buda bên dưới Eagle Ford gần như đã khai thác hết, ngay cả khi mỏ đá phiến phía trên vẫn duy trì sản lượng ổn định.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-26_rlhz7f3o2k.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/One-of-Texas-Oldest-Oil-Plays-Is-Running-Dry.amp.html",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "energy",
+      "published": "2026-06-28 06:00"
+    },
+    {
       "id": "115lysa",
       "title": "Your Forecast 06-27-2026",
       "title_vi": "Dự báo của bạn 27-06-2026",
@@ -539,17 +550,6 @@
       "source": "news8000.com",
       "category": "soft",
       "published": "2026-06-28 05:01"
-    },
-    {
-      "id": "62kxyp",
-      "title": "Corn. Wheat, Soybean Analysis With Fibonacci & W.D. Gann",
-      "title_vi": "Ngô. Phân tích lúa mì, đậu nành với Fibonacci & W.D. Gann",
-      "summary_vi": "Thông tin mang tính giáo dục và hữu ích bằng cách sử dụng phân tích Fibonacci và W.D. Gann.",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Farming/Dirt%20road%20through%20fields%20by%20Julian%20Ebert%20via%20Unsplash.jpg",
-      "link": "https://www.barchart.com/story/news/3016041/corn-wheat-soybean-analysis-with-fibonacci-w-d-gann",
-      "source": "Barchart",
-      "category": "agri",
-      "published": "2026-06-27 23:12"
     }
   ]
 }

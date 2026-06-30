@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-30 21:00",
+  "updated_at": "2026-06-30 22:00",
   "items": [
+    {
+      "id": "1k6csqb",
+      "title": "Shell: Global LNG Demand to Surge 65% by 2050",
+      "title_vi": "Shell: Nhu cầu LNG toàn cầu sẽ tăng 65% vào năm 2050",
+      "summary_vi": "Shell, nhà kinh doanh LNG lớn nhất thế giới, cho biết trong báo cáo Triển vọng LNG 2026 hàng năm được công bố trên Thứ Ba rằng nhu cầu khí đốt tăng cao ở Nam và Đông Nam Á sẽ đẩy nhu cầu LNG toàn cầu tăng 65% vào năm 2050 so với mức của năm 2025, mặc dù tốc độ tăng trưởng trong năm nay đã bị đình trệ do cuộc khủng hoảng eo biển Hormuz.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-30_2kyi0xihqg.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Global-LNG-Demand-to-Surge-65-by-2050.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-30 21:30"
+    },
     {
       "id": "7e0zh2",
       "title": "Oil Prices Head for Biggest Quarterly Drop Since Pandemic",
@@ -121,17 +132,6 @@
       "source": "Forbes",
       "category": "metal",
       "published": "2026-06-30 09:14"
-    },
-    {
-      "id": "u2hsq2",
-      "title": "Not Even Musk Has The Answer To AI’s Power Shortage",
-      "title_vi": "Ngay cả Musk cũng không có câu trả lời cho tình trạng thiếu năng lượng của AI",
-      "summary_vi": "Nhà Trắng đã đưa ra cảnh báo nghiêm khắc vào tháng 7 năm 2025: Nếu không đầu tư 1,4 nghìn tỷ USD vào cơ sở hạ tầng mới, giá điện có thể tăng tới 58% vào năm 2030. Điều đó chủ yếu được thúc đẩy bởi nhu cầu năng lượng vô độ từ sự gia tăng của các trung tâm dữ liệu AI và tiền điện tử như Bitco",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-29_0dzf1drfbh.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Not-Even-Musk-Has-The-Answer-To-AIs-Power-Shortage.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-30 07:00"
     },
     {
       "id": "1w9r160",
@@ -497,6 +497,17 @@
       "published": "2026-06-29 07:00"
     },
     {
+      "id": "z6ht4w",
+      "title": "Ukraine says it attacked two Russian oil refineries",
+      "title_vi": "Ukraine tuyên bố tấn công 2 nhà máy lọc dầu của Nga",
+      "summary_vi": "Các cuộc tấn công của Nga đã giết chết ít nhất 4 người ở phía đông nam và đông bắc Ukraine khi Kiev thúc đẩy chiến dịch sử dụng máy bay không người lái.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a4104cb41-1782645963.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-06-29 04:10"
+    },
+    {
       "id": "1vrkb9n",
       "title": "Platinum Price Analysis Shows Rally Losing Momentum Near $1,640",
       "title_vi": "Phân tích giá bạch kim cho thấy đà tăng đang mất dần gần 1.640 USD",
@@ -539,17 +550,6 @@
       "source": "MSN",
       "category": "soft",
       "published": "2026-06-28 17:03"
-    },
-    {
-      "id": "1s7vxf3",
-      "title": "Sugar’s bitter price: how empty calories are reshaping the planet",
-      "title_vi": "Cái giá cay đắng của đường: lượng calo rỗng đang định hình lại hành tinh như thế nào",
-      "summary_vi": "Một nghiên cứu của Đại học Tel Aviv cho biết việc cắt giảm mức tiêu thụ đường toàn cầu xuống mức khuyến nghị có thể giải phóng hàng triệu mẫu đất nông nghiệp, mở đường cho các loại cây trồng giàu dinh dưỡng hơn, phục hồi hệ sinh thái và các ngành công nghiệp bền vững.",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/25/S1jwN00qMzg/S1jwN00qMzg_0_0_1000_619_0_large.jpg",
-      "link": "https://www.ynetnews.com/environment/article/skwhvbrfzg",
-      "source": "Ynetnews",
-      "category": "soft",
-      "published": "2026-06-28 16:30"
     }
   ]
 }

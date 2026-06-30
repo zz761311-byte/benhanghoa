@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01 05:00",
+  "updated_at": "2026-07-01 05:43",
   "items": [
     {
       "id": "1i798ha",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-01 03:57"
+    },
+    {
+      "id": "1xxxwja",
+      "title": "Tesla Stock Falls After Big Gains as Auto Industry Wrestles With Copper Prices",
+      "title_vi": "Cổ phiếu Tesla rớt giá sau khi tăng mạnh khi ngành ô tô vật lộn với giá đồng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barrons.com/articles/tesla-stock-price-today-copper-a0b9b8b3",
+      "source": "Barron's",
+      "category": "metal",
+      "published": "2026-07-01 03:07"
     },
     {
       "id": "oskcal",
@@ -176,6 +187,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-30 19:55"
+    },
+    {
+      "id": "ddnn99",
+      "title": "AI Data Center Boom Reshapes Natural Gas Outlook, Sparks Power Cost Debate",
+      "title_vi": "Sự bùng nổ của trung tâm dữ liệu AI định hình lại triển vọng khí đốt tự nhiên, làm dấy lên cuộc tranh luận về chi phí điện năng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/ai-data-center-boom-reshapes-natural-gas-outlook-sparks-power-cost-debate/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-06-30 19:38"
     },
     {
       "id": "jt21i1",
@@ -528,28 +550,6 @@
       "source": "FarmWeekNow",
       "category": "agri",
       "published": "2026-06-29 12:00"
-    },
-    {
-      "id": "zoaf4a",
-      "title": "Ukrainian drones set another Russian oil refinery ablaze as Putin admits fuel shortages",
-      "title_vi": "Máy bay không người lái của Ukraine đốt cháy một nhà máy lọc dầu khác của Nga khi Putin thừa nhận thiếu nhiên liệu",
-      "summary_vi": "Theo chính quyền Nga, Ukraine đã tăng cường các cuộc tấn công bằng máy bay không người lái vào Nga, đốt cháy một nhà máy lọc dầu lớn ở miền nam và giết chết ít nhất hai người.",
-      "image": "https://dims.apnews.com/dims4/default/74386cc/2147483647/strip/true/crop/1280x853+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F67%2F7b%2Fe695a983ed9c46a2b23cfbb0eb1d%2F642cac867b5e41efa9ca84533a75a238",
-      "link": "https://apnews.com/article/ukraine-russia-war-oil-refinery-drones-88370faa1a49504438388f2854d7afd3",
-      "source": "AP News",
-      "category": "energy",
-      "published": "2026-06-29 08:26"
-    },
-    {
-      "id": "fkn0mm",
-      "title": "Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again",
-      "title_vi": "Giá dầu tăng khi Mỹ và Iran đạt được thỏa thuận ngăn chặn các cuộc tấn công, giá dầu của Mỹ lại trên 70 USD/thùng",
-      "summary_vi": "Giá dầu tăng sau khi Mỹ và Iran đạt được thỏa thuận nhằm ngăn chặn các hành động thù địch gần đây ở Trung Đông.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108327994-1782733655415-gettyimages-2283303398-koutsokostas-notitle260628_npRMl.jpeg?v=1782772932&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-06-29 07:00"
     }
   ]
 }

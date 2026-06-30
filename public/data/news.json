@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30 22:00",
+  "updated_at": "2026-06-30 22:20",
   "items": [
     {
       "id": "1k6csqb",
@@ -110,6 +110,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-30 14:30"
+    },
+    {
+      "id": "wuc990",
+      "title": "Ferrari and BMW join Tesla, China in switch from copper to cheaper aluminium",
+      "title_vi": "Ferrari và BMW cùng Tesla, Trung Quốc chuyển đổi từ đồng sang nhôm rẻ hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/autos-transportation/ferrari-bmw-join-tesla-china-switch-copper-cheaper-aluminium-2026-06-30/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-06-30 13:01"
     },
     {
       "id": "1f6qkpn",
@@ -539,17 +550,6 @@
       "source": "The Trek",
       "category": "soft",
       "published": "2026-06-28 18:00"
-    },
-    {
-      "id": "1s9r46r",
-      "title": "Coffee prices supported by delayed Brazil coffee harvest",
-      "title_vi": "Giá cà phê được hỗ trợ bởi vụ thu hoạch cà phê Brazil bị trì hoãn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.msn.com/en-us/foodanddrink/foodnews/coffee-prices-supported-by-delayed-brazil-coffee-harvest/ar-AA26xnwX",
-      "source": "MSN",
-      "category": "soft",
-      "published": "2026-06-28 17:03"
     }
   ]
 }

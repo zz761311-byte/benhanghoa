@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-30 12:00",
+  "updated_at": "2026-06-30 12:58",
   "items": [
+    {
+      "id": "1f6qkpn",
+      "title": "Trump Pressures Gas Stations to Slash Prices \"Immediately\"",
+      "title_vi": "Trump gây áp lực buộc các trạm xăng phải giảm giá \"ngay lập tức\"",
+      "summary_vi": "Tổng thống Donald Trump đã mắng các nhà bán lẻ nhiên liệu vì đã không giảm giá tại máy bơm, đồng thời nói trong một bài đăng trên mạng xã hội \"Các nhà bán lẻ xăng phải giảm giá ngay lập tức! Họ quá cao khi xét đến việc Dầu hiện ở mức 68 USD một thùng và đang hướng về phía nam.\" “Các nhà bán lẻ phải",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Pressures-Gas-Stations-to-Slash-Prices-Immediately.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-06-30 12:38"
+    },
     {
       "id": "1ipnt5u",
       "title": "Copper Price Spike Likely As El Nino Weather Conditions Develop",
@@ -68,6 +79,17 @@
       "published": "2026-06-30 05:00"
     },
     {
+      "id": "e3no1e",
+      "title": "Weekly market commentary",
+      "title_vi": "Bình luận thị trường hàng tuần",
+      "summary_vi": "Hãy theo dõi những hiểu biết sâu sắc về các chủ đề nóng và xu hướng mới nhất trên thị trường tài chính thông qua bài bình luận hàng tuần của Viện đầu tư BlackRock.",
+      "image": "/blk-one01-c-assets/include/common/images/blackrock_logo.png",
+      "link": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
+      "source": "BlackRock",
+      "category": "macro",
+      "published": "2026-06-30 04:06"
+    },
+    {
       "id": "yaizva",
       "title": "How the Hormuz Crisis Turned Southeast Asia Into a Solar Powerhouse",
       "title_vi": "Cuộc khủng hoảng Hormuz đã biến Đông Nam Á thành cường quốc năng lượng mặt trời như thế nào",
@@ -132,17 +154,6 @@
       "source": "Axios",
       "category": "agri",
       "published": "2026-06-30 01:43"
-    },
-    {
-      "id": "mi1crr",
-      "title": "Russia Adds New Vessel To Dark Fleet Amid Arctic 2 LNG Ramp Up",
-      "title_vi": "Nga bổ sung tàu mới vào hạm đội tối trong bối cảnh tăng cường LNG ở Bắc Cực 2",
-      "summary_vi": "Arctic Express, một tàu chở dầu LNG mới được gắn cờ của Nga, đã nhận một lô hàng khí đốt tự nhiên hóa lỏng từ một cơ sở lưu trữ nổi được sử dụng bởi dự án ‌Arctic LNG 2, đánh dấu sự bổ sung mới nhất cho đội tàu tối của Nga khi sản lượng LNG từ dự án bị Mỹ phê chuẩn tăng lên, Reuters re",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-29_bozktb8yh3.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Adds-New-Vessel-To-Dark-Fleet-Amid-Arctic-2-LNG-Ramp-Up.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-06-30 01:30"
     },
     {
       "id": "1k60w3j",
@@ -297,6 +308,17 @@
       "source": "UkrAgroConsult",
       "category": "agri",
       "published": "2026-06-29 21:20"
+    },
+    {
+      "id": "vq0wjj",
+      "title": "Fed Hike Bets Lift Dollar Despite Falling Oil Prices And Ebbing Inflation Fears",
+      "title_vi": "Fed tăng cược nâng đô la bất chấp giá dầu giảm và lo ngại lạm phát giảm bớt",
+      "summary_vi": "Đồng Đô la Mỹ tiếp tục tăng trong tuần kết thúc vào ngày 26 tháng 6 khi đặt cược tăng lãi suất mạnh mẽ từ Cục Dự trữ Liên bang đã thúc đẩy đồng USD.",
+      "image": "https://cdn.rttnews.com/articleimages/ustopstories/2026/june/dollarrise-08062026-lt.jpg",
+      "link": "https://www.rttnews.com/amp/3663316/fed-hike-bets-lift-dollar-despite-falling-oil-prices-and-ebbing-inflation-fears.aspx",
+      "source": "RTTNews",
+      "category": "energy",
+      "published": "2026-06-29 21:14"
     },
     {
       "id": "1x0iyk0",
@@ -528,28 +550,6 @@
       "source": "Barchart",
       "category": "agri",
       "published": "2026-06-27 23:12"
-    },
-    {
-      "id": "g8j86m",
-      "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
-      "title_vi": "Bên trong một đội bí mật của Ukraine tiến hành các cuộc tấn công bằng máy bay không người lái sâu vào Nga",
-      "summary_vi": "Máy bay không người lái tầm xa của Ukraine đang tấn công sâu vào bên trong nước Nga, cách xa tới 1.200 dặm, tấn công các nhà máy lọc dầu và kho chứa. NPR gần đây đã dành thời gian cùng với một trong những đội tấn công của Ukraine phóng máy bay không người lái vào các mục tiêu của Nga.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+260/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F16%2F2df3ca194289b3f9b310c90fc8eb%2Fsk-0512.jpg",
-      "link": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
-      "source": "NPR",
-      "category": "energy",
-      "published": "2026-06-27 16:02"
-    },
-    {
-      "id": "1h1mykh",
-      "title": "Mother Nature Ethanol's Friend and Nemesis",
-      "title_vi": "Bạn và kẻ thù của Mẹ Thiên nhiên Ethanol",
-      "summary_vi": "Phần lớn sự kinh ngạc về ethanol từ ngô, bao gồm cả cuộc tranh luận hiện nay về tiêu chuẩn nhiên liệu tái tạo, bắt nguồn từ khả năng sản xuất đủ nhiên liệu của Mỹ.",
-      "image": "https://bbi-strapi.s3.us-east-2.amazonaws.com/archived/epm/posts/magazine/2014/01/MIKE2005-EPM_13896509963475.jpg",
-      "link": "https://biomassmagazine.com/articles/mother-nature-ethanols-friend-and-nemesis-10650",
-      "source": "Biomass Magazine",
-      "category": "energy",
-      "published": "2026-06-27 14:45"
     }
   ]
 }

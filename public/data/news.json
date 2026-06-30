@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30 07:00",
+  "updated_at": "2026-06-30 08:00",
   "items": [
     {
       "id": "u2hsq2",
@@ -132,6 +132,17 @@
       "source": "WWNY",
       "category": "macro",
       "published": "2026-06-30 01:14"
+    },
+    {
+      "id": "xl9ply",
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Traders Focus On Rate Outlook",
+      "title_vi": "Dự báo về Vàng (XAUUSD), Bạc, Bạch kim - Vàng rút lui khi các nhà giao dịch tập trung vào triển vọng tỷ giá",
+      "summary_vi": "Bạc và bạch kim cũng mất điểm vào đầu tuần.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/06/ChatGPT-Image-Jun-8-2025-04_46_16-PM-7.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-retreats-as-traders-focus-on-rate-outlook-1607316",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-06-30 00:48"
     },
     {
       "id": "1dvfmxj",
@@ -431,17 +442,6 @@
       "published": "2026-06-28 07:56"
     },
     {
-      "id": "1f2ts6b",
-      "title": "BTC price analysis: Why a selloff in gold and silver is dragging bitcoin down",
-      "title_vi": "Phân tích giá BTC: Tại sao việc bán tháo vàng và bạc lại kéo bitcoin xuống",
-      "summary_vi": "Bitcoin từ lâu đã được gộp chung với các kim loại quý như một hàng rào chống lại đồng đô la suy yếu. Giao dịch đó đang diễn ra với một Fed diều hâu và bitcoin đang giảm giá cùng với các kim loại mà nó được cho là đối thủ.",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e83ed3c77b09119b6f00c9fcc99749721c317d58-1440x810.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "link": "https://www.coindesk.com/markets/2026/06/27/why-a-selloff-in-gold-and-silver-is-dragging-bitcoin-down",
-      "source": "CoinDesk",
-      "category": "metal",
-      "published": "2026-06-28 01:11"
-    },
-    {
       "id": "62kxyp",
       "title": "Corn. Wheat, Soybean Analysis With Fibonacci & W.D. Gann",
       "title_vi": "Ngô. Phân tích lúa mì, đậu nành với Fibonacci & W.D. Gann",
@@ -497,6 +497,17 @@
       "published": "2026-06-27 12:00"
     },
     {
+      "id": "1rxe0cg",
+      "title": "Trump's 100% tariff threat adds to CUSMA renewal strain",
+      "title_vi": "Lời đe dọa thuế quan 100% của Trump làm tăng thêm căng thẳng gia hạn CUSMA",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.msn.com/en-ca/news/insight/trump-s-100-tariff-threat-adds-to-cusma-renewal-strain/gm-GM7723B100?gemSnapshotKey",
+      "source": "MSN",
+      "category": "macro",
+      "published": "2026-06-27 08:56"
+    },
+    {
       "id": "1b7wdbz",
       "title": "Record European heat pushes French wheat prices to three-month high",
       "title_vi": "Nắng nóng kỷ lục ở châu Âu đẩy giá lúa mì Pháp lên cao nhất 3 tháng",
@@ -539,17 +550,6 @@
       "source": "Spectrum News",
       "category": "soft",
       "published": "2026-06-27 05:35"
-    },
-    {
-      "id": "96yf0c",
-      "title": "Wheat Falls into the Weekend",
-      "title_vi": "Lúa mì rơi vào cuối tuần",
-      "summary_vi": "Tổ hợp lúa mì báo lỗ trên hầu hết các hợp đồng vào thứ Sáu. Các hợp đồng SRW của Chicago đã giảm 9 xuống 12 3/4 xu trong những tháng trước, với mức thấp hơn vào ngày 27 tháng 7 trong tuần. Hợp đồng tương lai KC HRW chìm trong sắc đỏ từ 9 đến 11 ¾ xu vào thứ Sáu, với mức lỗ hàng tuần trong tháng 7 là 33 xu. Lúa mì mùa xuân MPLS là…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://de.tradingview.com/news/barchart:0f5e48e9b094b:0-wheat-falls-into-the-weekend/",
-      "source": "TradingView",
-      "category": "agri",
-      "published": "2026-06-27 05:19"
     }
   ]
 }

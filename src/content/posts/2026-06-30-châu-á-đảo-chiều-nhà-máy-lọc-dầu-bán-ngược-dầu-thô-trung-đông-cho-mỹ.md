@@ -3,13 +3,13 @@ title: "Châu Á đảo chiều: Nhà máy lọc dầu bán ngược dầu thô 
 date: 2026-06-30T21:17
 category: macro
 image: /assets/uploads/pexels-james-smeaton-1060501-12029759.jpg
-summary: "Show moreDòng chảy dầu thô đảo chiều: nhà máy lọc dầu châu Á bắt đầu
-  chào bán dầu Trung Đông ngược sang California, Hawaii (lần đầu sau nhiều năm),
-  do nguồn cung vùng Vịnh phục hồi mạnh sau khi Hormuz thông suốt trở lại và nhu
-  cầu châu Á đã được đáp ứng đủ. WTI hiện đắt hơn Murban, tồn kho Cushing/SPR Mỹ
-  ở mức thấp kỷ lục khiến hàng dư từ châu Á hấp dẫn hơn. Tuy nhiên đây nhiều khả
-  năng là điều chỉnh ngắn hạn, do miễn trừ trừng phạt Iran chỉ kéo dài đến 21/8
-  và an ninh khu vực chưa ổn định bền vững."
+summary: "Dòng chảy dầu thô đảo chiều: nhà máy lọc dầu châu Á bắt đầu chào bán
+  dầu Trung Đông ngược sang California, Hawaii (lần đầu sau nhiều năm), do nguồn
+  cung vùng Vịnh phục hồi mạnh sau khi Hormuz thông suốt trở lại và nhu cầu châu
+  Á đã được đáp ứng đủ. WTI hiện đắt hơn Murban, tồn kho Cushing/SPR Mỹ ở mức
+  thấp kỷ lục khiến hàng dư từ châu Á hấp dẫn hơn. Tuy nhiên đây nhiều khả năng
+  là điều chỉnh ngắn hạn, do miễn trừ trừng phạt Iran chỉ kéo dài đến 21/8 và an
+  ninh khu vực chưa ổn định bền vững."
 ---
 *Dòng chảy qua eo biển Hormuz phục hồi và nguồn cung dư thừa đẩy các nhà máy lọc dầu châu Á chào hàng dầu Trung Đông sang California, Hawaii — đảo ngược xu hướng nhập khẩu chỉ vài tháng trước.*
 

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30 17:04",
+  "updated_at": "2026-06-30 18:00",
   "items": [
     {
       "id": "ntqymt",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-06-30 17:00"
+    },
+    {
+      "id": "1g9mcaq",
+      "title": "Trump said gas prices would fall after the war, defying the experts. So far, he’s right.",
+      "title_vi": "Trump cho biết giá xăng sẽ giảm sau chiến tranh, bất chấp các chuyên gia. Cho đến nay, anh ấy đã đúng.",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.politico.com/news/2026/06/30/trump-said-gas-prices-would-fall-after-the-war-defying-the-experts-so-far-hes-right-00980674",
+      "source": "Politico",
+      "category": "energy",
+      "published": "2026-06-30 16:05"
     },
     {
       "id": "a2lsus",
@@ -539,17 +550,6 @@
       "source": "Crude Oil Prices Today | OilPrice.com",
       "category": "energy",
       "published": "2026-06-28 06:00"
-    },
-    {
-      "id": "115lysa",
-      "title": "Your Forecast 06-27-2026",
-      "title_vi": "Dự báo của bạn 27-06-2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.news8000.com/weather/forecast/your-forecast-06-27-2026/video_8b230919-1b16-5971-9701-2c5fbdd6eb6b.html",
-      "source": "news8000.com",
-      "category": "soft",
-      "published": "2026-06-28 05:01"
     }
   ]
 }

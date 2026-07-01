@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-01 21:01",
+  "updated_at": "2026-07-01 22:01",
   "items": [
+    {
+      "id": "kths7",
+      "title": "EIA: U.S. Crude Inventories Post Another Major Draw",
+      "title_vi": "EIA: Tồn kho dầu thô của Mỹ tiếp tục tăng mạnh",
+      "summary_vi": "Theo dữ liệu mới từ Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA) công bố hôm thứ Tư, tồn kho dầu thô ở Mỹ giảm 3,8 triệu thùng trong tuần kết thúc vào ngày 26 tháng 6. Mức giảm này đưa tồn kho thương mại lên 408,4 triệu thùng, theo",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-01_uc73febwiv.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/EIA-US-Crude-Inventories-Post-Another-Major-Draw.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-01 21:47"
+    },
+    {
+      "id": "1btrobq",
+      "title": "Japan&#039;s Biggest LNG Buyer Creates Standalone Trading Arm",
+      "title_vi": "Người mua LNG lớn nhất Nhật Bản thành lập chi nhánh giao dịch độc lập",
+      "summary_vi": "JERA của Nhật Bản đang thành lập một công ty con thuộc sở hữu hoàn toàn của mình để phát triển và quản lý LNG, nhiên liệu thượng nguồn, nhiên liệu carbon thấp và vận chuyển, nhà nhập khẩu LNG lớn nhất Nhật Bản và nhà sản xuất điện lớn nhất cho biết hôm thứ Tư. Công ty mới, JERA Global Energy Solutions (JERA GES), sẽ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-01_wuuiozv807.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Biggest-LNG-Buyer-Creates-Standalone-Trading-Arm.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-01 21:30"
+    },
     {
       "id": "k9cuel",
       "title": "U.S. Raises Pressure on Iran With Renewed Military Warning",
@@ -123,17 +145,6 @@
       "published": "2026-07-01 14:53"
     },
     {
-      "id": "o8vjoe",
-      "title": "Shell Offloads 50% Stake in Na Kika Platform for $1.7 Billion",
-      "title_vi": "Shell bán 50% cổ phần trong nền tảng Na Kika với giá 1,7 tỷ USD",
-      "summary_vi": "Shell đã đạt được thỏa thuận bán 50% cổ phần của giàn khoan dầu Na Kika và các tài sản liên quan cho Talos Energy và Ridgewood Energy, với mức giá 1,7 tỷ USD, siêu tập đoàn cho biết. Theo đối tác của Shell ở Na Kika, BP, giàn khoan nước sâu ngoài khơi bờ biển Louisiana là",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-01_tqzg1ws5nm.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Offloads-50-Stake-in-Na-Kika-Platform-for-17-Billion.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-01 14:15"
-    },
-    {
       "id": "uwdujz",
       "title": "Palladium (XPDUSD) Volatility Intensified on Jul 1: What to Watch",
       "title_vi": "Biến động của palladium (XPDUSD) tăng cường vào ngày 1 tháng 7: Những điều cần xem",
@@ -154,17 +165,6 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-07-01 13:04"
-    },
-    {
-      "id": "1b8mgo1",
-      "title": "Oil Prices Reflect Optimism That Hormuz Has Yet to Justify",
-      "title_vi": "Giá dầu phản ánh sự lạc quan mà Hormuz vẫn chưa biện minh được",
-      "summary_vi": "Giá dầu thô kết thúc quý 2 năm nay với mức giảm mạnh nhất kể từ năm 2020, trong đó dầu Brent giảm gần 40% do lạc quan về thỏa thuận hòa bình giữa Mỹ và Iran. Nhưng có lẽ còn quá sớm để ăn mừng, các chiến lược gia hàng hóa của ING cho biết hôm nay. Lưu lượng truy cập ở t",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-01_mgb8nrcgkj.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Reflect-Optimism-That-Hormuz-Has-Yet-to-Justify.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-01 13:00"
     },
     {
       "id": "1s9za6",
@@ -231,6 +231,17 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-07-01 05:30"
+    },
+    {
+      "id": "14x7r32",
+      "title": "World Cup fans in North Texas on the hunt for prized jerseys",
+      "title_vi": "Người hâm mộ World Cup ở Bắc Texas săn lùng những chiếc áo đấu giá trị",
+      "summary_vi": "Khách hàng nói rằng họ",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/30/d7f5e625-a8e7-4863-b004-5d92039d63f0/thumbnail/1200x630/a1696280ea5e7d4917517d17839654b5/snapshot-2026-06-30t160738-246.jpg",
+      "link": "https://www.cbsnews.com/texas/news/world-cup-fans-in-north-texas-on-the-hunt-for-prized-jerseys/",
+      "source": "CBS News",
+      "category": "soft",
+      "published": "2026-07-01 04:54"
     },
     {
       "id": "61dm30",
@@ -539,17 +550,6 @@
       "source": "Cotton Grower",
       "category": "soft",
       "published": "2026-06-30 04:56"
-    },
-    {
-      "id": "e3no1e",
-      "title": "Weekly market commentary",
-      "title_vi": "Bình luận thị trường hàng tuần",
-      "summary_vi": "Hãy theo dõi những hiểu biết sâu sắc về các chủ đề nóng và xu hướng mới nhất trên thị trường tài chính thông qua bài bình luận hàng tuần của Viện đầu tư BlackRock.",
-      "image": "/blk-one01-c-assets/include/common/images/blackrock_logo.png",
-      "link": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
-      "source": "BlackRock",
-      "category": "macro",
-      "published": "2026-06-30 04:06"
     }
   ]
 }

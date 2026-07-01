@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-01 12:00",
+  "updated_at": "2026-07-01 13:00",
   "items": [
+    {
+      "id": "1b8mgo1",
+      "title": "Oil Prices Reflect Optimism That Hormuz Has Yet to Justify",
+      "title_vi": "Giá dầu phản ánh sự lạc quan mà Hormuz vẫn chưa biện minh được",
+      "summary_vi": "Giá dầu thô kết thúc quý 2 năm nay với mức giảm mạnh nhất kể từ năm 2020, trong đó dầu Brent giảm gần 40% do lạc quan về thỏa thuận hòa bình giữa Mỹ và Iran. Nhưng có lẽ còn quá sớm để ăn mừng, các chiến lược gia hàng hóa của ING cho biết hôm nay. Lưu lượng truy cập ở t",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-01_mgb8nrcgkj.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Reflect-Optimism-That-Hormuz-Has-Yet-to-Justify.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-01 13:00"
+    },
     {
       "id": "1im0pc8",
       "title": "Commodity Corner: Oil rises on on geopolitical concerns; gold extends losses",
@@ -156,17 +167,6 @@
       "published": "2026-07-01 02:00"
     },
     {
-      "id": "1f24l5h",
-      "title": "The Oil Benchmark Named Brent Is Losing Its Brent",
-      "title_vi": "Chuẩn dầu mang tên Brent đang mất giá trị Brent",
-      "summary_vi": "Tiêu chuẩn dầu quan trọng nhất thế giới sắp trải qua một cuộc khủng hoảng danh tính. Lần đầu tiên kể từ khi hồ sơ bắt đầu được ghi nhận, không có lô hàng dầu thô Brent nào dự kiến ​​được vận chuyển vào tháng 8, theo tính toán của Reuters dựa trên chương trình bốc hàng và dữ liệu LSEG. Nói cách khác, sự",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-30_0h4yo8epfb.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/The-Oil-Benchmark-Named-Brent-Is-Losing-Its-Brent.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-01 01:30"
-    },
-    {
       "id": "rxzqaw",
       "title": "Nestle could lower coffee prices as bean costs fall",
       "title_vi": "Nestle có thể giảm giá cà phê khi giá hạt cà phê giảm",
@@ -286,6 +286,17 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-06-30 17:41"
+    },
+    {
+      "id": "p4bup7",
+      "title": "Palladium (XPDUSD) Is up 2.02% on Jun 30: Here Is Why",
+      "title_vi": "Palladium (XPDUSD) tăng 2,02% vào ngày 30 tháng 6: Đây là lý do",
+      "summary_vi": "Giá palladium tăng do các điều kiện bán quá mức về mặt kỹ thuật và khả năng bù đắp thiếu hụt của các tổ chức. Các cơ quan quản lý của Hoa Kỳ ra phán quyết chống lại việc áp dụng thuế trừng phạt đối với hàng nhập khẩu palladium của Nga. Norilsk Niken dự báo dư thừa palladium toàn cầu, hạn chế đà tăng giá dài hạn.",
+      "image": "https://resource.tradingkey.com/uploads/20260609/commodities-3-0d1e0392023d44378ed4ca2f92f7d442.jpg",
+      "link": "https://www.tradingkey.com/news/market-movers/262000902-market-movers-xpdusd-20260630",
+      "source": "TradingKey",
+      "category": "metal",
+      "published": "2026-06-30 17:40"
     },
     {
       "id": "1g9mcaq",
@@ -539,17 +550,6 @@
       "source": "RTTNews",
       "category": "energy",
       "published": "2026-06-29 21:14"
-    },
-    {
-      "id": "zglutq",
-      "title": "Copper Price Analysis: Why $5.50 Beckons Before the Tariff Verdict",
-      "title_vi": "Phân tích giá đồng: Tại sao lại có giá 5,50 USD trước khi có phán quyết về thuế quan",
-      "summary_vi": "Đồng đang đối mặt với một bước ngoặt lớn. Sự đồng thuận của quyết định thuế quan, sự thay đổi kỳ vọng của Cục Dự trữ Liên bang và khoảng cách ngày càng lớn giữa giá cả ở Mỹ và toàn cầu đang mang lại mức độ bất ổn cao bất thường cho thị trường. Những yếu tố này sẽ xác định liệu những biến động giá gần đây có được thúc đẩy bởi các yếu tố cơ bản hay không.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/06/Copper-cables-5.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/premium-copper-price-analysis-why-5-50-beckons-before-the-tariff-verdict-1607204",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-06-29 20:25"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02 05:01",
+  "updated_at": "2026-07-02 05:57",
   "items": [
     {
       "id": "15lmsj8",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-02 05:00"
+    },
+    {
+      "id": "tsqjq9",
+      "title": "Is Palladium a Good Investment? Compare Before You Buy",
+      "title_vi": "Palladium có phải là một khoản đầu tư tốt? So sánh trước khi mua",
+      "summary_vi": "Tìm hiểu cách thức hoạt động của paladi, điều gì thúc đẩy sự biến động của nó và liệu kim loại quý công nghiệp này có phù hợp với hồ sơ rủi ro của bạn hay không.",
+      "image": "https://xas-new-cdn.xtb.com/branch_configuration_og_image/0104/61/2209dc74-ee4e-4faf-9041-ead995f97acb/og-image-zlatan.png",
+      "link": "https://www.xtb.com/int/education/should-you-invest-in-palladium",
+      "source": "XTB.com",
+      "category": "metal",
+      "published": "2026-07-02 04:29"
     },
     {
       "id": "ec5url",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-06-30 18:25"
-    },
-    {
-      "id": "8xh637",
-      "title": "Hormuz disruption to stall 2026 LNG trade, demand to rise by 2050, says Shell",
-      "title_vi": "Shell cho biết sự gián đoạn của Hormuz làm đình trệ giao dịch LNG năm 2026, nhu cầu sẽ tăng vào năm 2050",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/shell-expects-65-rise-global-lng-demand-by-2050-2026-06-30/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-06-30 17:41"
     }
   ]
 }

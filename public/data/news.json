@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01 23:01",
+  "updated_at": "2026-07-01 23:12",
   "items": [
     {
       "id": "hnlf1k",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-01 21:30"
+    },
+    {
+      "id": "15covsk",
+      "title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis",
+      "title_vi": "Cuộc tấn công bằng máy bay không người lái của Ukraine vào các nhà máy lọc dầu khiến Nga rơi vào cuộc khủng hoảng nhiên liệu mùa hè",
+      "summary_vi": "Các đường dây đang gia tăng tại các trạm xăng của Nga - và sự thất vọng và bất ổn cũng tăng lên khi các cuộc tấn công của Ukraine kéo dài nhiều tháng đã khiến các nhà máy lọc dầu bốc cháy và làm tắc nghẽn nguồn cung cấp cho người lái xe trên khắp đất nước rộng lớn.",
+      "image": "https://dims.apnews.com/dims4/default/db1b401/2147483647/strip/true/crop/7864x5240+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbd%2Fde%2Fcee2ce36c27b49f5f23518c46226%2F12df82c1dca44d028f0832e06088b3f5",
+      "link": "https://apnews.com/article/russia-ukraine-war-fuel-crisis-gas-ec7e67f94ead8bf3ba064c785c2a8871",
+      "source": "AP News",
+      "category": "energy",
+      "published": "2026-07-01 21:14"
     },
     {
       "id": "k9cuel",
@@ -530,26 +541,15 @@
       "published": "2026-06-30 12:16"
     },
     {
-      "id": "1ipnt5u",
-      "title": "Copper Price Spike Likely As El Nino Weather Conditions Develop",
-      "title_vi": "Giá đồng có thể tăng đột biến khi điều kiện thời tiết El Nino phát triển",
-      "summary_vi": "Nhiệt độ nước cao ở Thái Bình Dương đang tạo điều kiện hoàn hảo cho hiện tượng thời tiết El Nino có thể đẩy giá hàng hóa tăng mạnh",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a42fc8dc37eaf9701440b5e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "link": "https://www.forbes.com/sites/timtreadgold/2026/06/29/copper-price-spike-likely-as-el-nino-weather-conditions-develop/",
-      "source": "Forbes",
-      "category": "metal",
-      "published": "2026-06-30 09:14"
-    },
-    {
-      "id": "yzl5gx",
-      "title": "Chevron CFO reveals why gas prices are stuck",
-      "title_vi": "Giám đốc tài chính của Chevron tiết lộ lý do giá xăng bị kẹt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.thestreet.com/economy/chevron-cfo-reveals-why-gas-prices-are-stuck",
-      "source": "thestreet.com",
+      "id": "1u58i20",
+      "title": "The oil market has moved from fearing shortages to pricing in a very different future",
+      "title_vi": "Thị trường dầu mỏ chuyển từ lo ngại thiếu hụt sang định giá trong một tương lai rất khác",
+      "summary_vi": "Sự phục hồi nguồn cung dầu toàn cầu làm giảm bớt nỗi lo thiếu hụt khi dầu thô Brent giảm xuống 73 USD. Phố Wall đang hạ dự báo trong bối cảnh lo ngại về nhu cầu.",
+      "image": "https://i.insider.com/6a433166e218c3b62535f087?width=1200&format=jpeg",
+      "link": "https://www.businessinsider.com/crude-oil-prices-today-supply-demand-outlook-forecast-hormuz-exports-2026-6",
+      "source": "Business Insider",
       "category": "energy",
-      "published": "2026-06-30 05:24"
+      "published": "2026-06-30 12:03"
     }
   ]
 }

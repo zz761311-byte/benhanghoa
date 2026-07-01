@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-01 18:01",
+  "updated_at": "2026-07-01 19:01",
   "items": [
+    {
+      "id": "1a4cct1",
+      "title": "KKR and SK Launch South Korea’s Largest Renewable Energy Platform",
+      "title_vi": "KKR và SK ra mắt nền tảng năng lượng tái tạo lớn nhất Hàn Quốc",
+      "summary_vi": "Công ty đầu tư toàn cầu KKR và tập đoàn công nghiệp SK Inc của Hàn Quốc đang ra mắt nền tảng năng lượng tái tạo lớn nhất ở Hàn Quốc nhằm giúp đáp ứng nhu cầu năng lượng ngày càng tăng từ AI và sản xuất chip. KKR và SK Inc đang tạo ra nền tảng này, trị giá khoảng 1,3 tỷ USD",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-01_mg0wikrt2m.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/KKR-and-SK-Launch-South-Koreas-Largest-Renewable-Energy-Platform.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-01 18:30"
+    },
+    {
+      "id": "1o25gpn",
+      "title": "Platinum Price Forecast: Fed Rate Hike Bets Pressure $1,500 Support",
+      "title_vi": "Dự báo giá bạch kim: Áp lực đặt cược tăng lãi suất của Fed Hỗ trợ 1.500 USD",
+      "summary_vi": "Giá bạch kim vẫn chịu áp lực do đồng đô la Mỹ mạnh, lãi suất trái phiếu kho bạc cao hơn và đặt cược tăng lãi suất của Fed đã đẩy kim loại này về vùng hỗ trợ 1.500 USD.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/04/platinum2-1.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/premium-platinum-price-forecast-fed-rate-hike-bets-pressure-1500-support-1607716",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-07-01 18:12"
+    },
     {
       "id": "t4ns6s",
       "title": "Goldman Sachs Warns Oil Inventory Rebuild Won’t Prevent 2027 Supply Glut",
@@ -200,17 +222,6 @@
       "published": "2026-07-01 04:42"
     },
     {
-      "id": "yzrhht",
-      "title": "Why a Supply Crunch From Iran Could Send Oil Back Below $40 a Barrel",
-      "title_vi": "Tại sao cuộc khủng hoảng nguồn cung từ Iran có thể đẩy dầu trở lại dưới 40 USD/thùng",
-      "summary_vi": "Gần đây đã có nhiều cảnh báo về tình trạng thiếu dầu trong thời gian ngắn xuất phát từ cuộc xung đột ở Iran. Hầu hết các nhà phân tích cho rằng sự thiếu hụt có nghĩa là giá cao hơn. Như tôi sẽ giải thích, động lực của một nền kinh tế tự tổ chức cho thấy kết quả ngược lại - giá thấp hơn, thu nhập ngày càng sâu sắc hơn.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-30_ely7ni42ye.jpg",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Why-a-Supply-Crunch-From-Iran-Could-Send-Oil-Back-Below-40-a-Barrel.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-01 04:00"
-    },
-    {
       "id": "1s7b4ei",
       "title": "Guardian may skip feasibility on $660M Nevada tungsten mine",
       "title_vi": "Người giám hộ có thể bỏ qua tính khả thi của mỏ vonfram Nevada trị giá 660 triệu USD",
@@ -299,6 +310,17 @@
       "published": "2026-06-30 23:09"
     },
     {
+      "id": "426ye1",
+      "title": "Gold Bulls May Need Fed Rate Cuts More Than Geopolitical Tensions",
+      "title_vi": "Những nhà đầu tư vàng có thể cần cắt giảm lãi suất của Fed hơn là căng thẳng địa chính trị",
+      "summary_vi": "Theo CMC Markets, đợt phục hồi tiếp theo của vàng có thể phụ thuộc nhiều hơn vào việc cắt giảm lãi suất của Fed và lãi suất thực giảm hơn là căng thẳng địa chính trị.",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/30/This-Image-Displays-Two-Gleaming-Gold-Ba.jpg",
+      "link": "https://www.benzinga.com/markets/commodities/26/06/60192917/gold-bulls-may-need-fed-rate-cuts-more-than-geopolitical-tensions",
+      "source": "Benzinga",
+      "category": "metal",
+      "published": "2026-06-30 22:43"
+    },
+    {
       "id": "687ee5",
       "title": "Atlantic Strategic confirms viability, 12-month pathway for monazite processing plant",
       "title_vi": "Atlantic Strategic xác nhận khả năng tồn tại, lộ trình 12 tháng cho nhà máy chế biến monazite",
@@ -308,17 +330,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-30 22:37"
-    },
-    {
-      "id": "10t823h",
-      "title": "Fortuna lifts West Africa growth with $1B Senegal gold project",
-      "title_vi": "Fortuna thúc đẩy tăng trưởng Tây Phi với dự án vàng Senegal trị giá 1 tỷ USD",
-      "summary_vi": "Nhà phân tích của BMO cho biết: “Nghiên cứu khả thi của Diamba Sud tốt hơn một chút so với dự báo trước đây của chúng tôi”.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/Diamba-Sud-2024-Pics-25-scaled-1-1024x767.jpg",
-      "link": "https://www.mining.com/fortuna-lifts-west-africa-growth-with-1b-senegal-gold-project/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-30 21:57"
     },
     {
       "id": "nuszjm",
@@ -539,17 +550,6 @@
       "source": "Axios",
       "category": "agri",
       "published": "2026-06-30 01:43"
-    },
-    {
-      "id": "1k60w3j",
-      "title": "New York launches $30M tariff relief program for farmers",
-      "title_vi": "New York triển khai chương trình giảm thuế 30 triệu USD cho nông dân",
-      "summary_vi": "Nông dân ở New York có thể nhận được tới 25.000 USD từ tiểu bang để bù đắp chi phí và tổn thất do chính sách thuế quan liên bang.",
-      "image": "https://gray-wwny-prod.gtv-cdn.com/resizer/v2/MS2XW7OQAFEH7NR5RIJ6KDWKXY.jpg?auth=4d6e67e9c4d12d243841024c8095300a2ae01750c0c12f38782ccefdad527689&width=1200&height=600&smart=true",
-      "link": "https://www.wwnytv.com/2026/06/29/new-york-launches-30m-tariff-relief-program-farmers/",
-      "source": "WWNY",
-      "category": "macro",
-      "published": "2026-06-30 01:14"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-01 19:01",
+  "updated_at": "2026-07-01 20:01",
   "items": [
+    {
+      "id": "1a5tkyg",
+      "title": "Eni Forms Trading Venture With Mercuria to Boost Commodity Profits",
+      "title_vi": "Eni hình thành liên doanh giao dịch với Mercuria để tăng lợi nhuận hàng hóa",
+      "summary_vi": "Eni đang thành lập một liên doanh hàng hóa năng lượng với nhà kinh doanh toàn cầu Mercuria khi tập đoàn năng lượng lớn của Ý hướng tới lợi nhuận cao hơn để cạnh tranh với những nhà kinh doanh tích cực nhất trong số những gã khổng lồ năng lượng châu Âu. Eni hôm thứ Tư cho biết họ đã ký một thỏa thuận với Mercuria có trụ sở tại Geneva, một trong những",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-01_geay3u9hxm.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Eni-Forms-Trading-Venture-With-Mercuria-to-Boost-Commodity-Profits.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-01 19:30"
+    },
     {
       "id": "1a4cct1",
       "title": "KKR and SK Launch South Korea’s Largest Renewable Energy Platform",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-01 16:30"
+    },
+    {
+      "id": "1jfragh",
+      "title": "Committee slams Ministry over gaps in sugar transport reporting",
+      "title_vi": "Ủy ban chỉ trích Bộ về lỗ hổng trong báo cáo vận tải đường",
+      "summary_vi": "",
+      "image": "https://www.fbcnews.com.fj/wp-content/uploads/2023/10/FSC-Railway.jpg",
+      "link": "https://www.fbcnews.com.fj/news/committee-slams-ministry-over-gaps-in-sugar-transport-reporting/",
+      "source": "FBC News",
+      "category": "soft",
+      "published": "2026-07-01 16:27"
     },
     {
       "id": "t0wvwy",
@@ -187,17 +209,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-07-01 05:30"
-    },
-    {
-      "id": "1i798ha",
-      "title": "Australia’s Oil and Gas Exploration Set for Renaissance",
-      "title_vi": "Bộ thăm dò dầu khí của Úc cho thời kỳ Phục hưng",
-      "summary_vi": "Các công ty dầu khí hoạt động tại Úc đang lên kế hoạch tăng cường khai thác dầu khí khi hoạt động tăng lên trong bối cảnh cuộc khủng hoảng năng lượng sau cuộc chiến tranh Iran. Australia, quốc gia đã phải đối mặt với cuộc khủng hoảng nguồn cung nhiên liệu kể từ khi xung đột ở Trung Đông bắt đầu, là một trong những nước",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-30_waigshrpbb.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Australias-Oil-and-Gas-Exploration-Set-for-Renaissance.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-01 05:00"
     },
     {
       "id": "61dm30",
@@ -519,6 +530,17 @@
       "published": "2026-06-30 04:06"
     },
     {
+      "id": "3fikhi",
+      "title": "Raw sugar climbs on improving economic outlook",
+      "title_vi": "Đường thô tăng nhờ triển vọng kinh tế cải thiện",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.brecorder.com/news/40064630",
+      "source": "Business Recorder",
+      "category": "soft",
+      "published": "2026-06-30 03:23"
+    },
+    {
       "id": "46kf1a",
       "title": "Crops Analysis | Pre-report positioning results in grains trading lower",
       "title_vi": "Phân tích cây trồng | Định vị trước báo cáo dẫn đến giao dịch ngũ cốc thấp hơn",
@@ -528,28 +550,6 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-06-30 03:06"
-    },
-    {
-      "id": "2fofbs",
-      "title": "USD/CAD Holds Below 1.4200 as Overbought Signals Cap Gains",
-      "title_vi": "USD/CAD giữ dưới 1,4200 khi tín hiệu quá mua tăng giới hạn",
-      "summary_vi": "BitcoinWorld USD/CAD giữ dưới 1,4200 khi tín hiệu mua quá mức tăng giới hạn Cặp tiền tệ USD/CAD đang giữ mức lỗ dưới mức 1,4200 trong đầu giao dịch",
-      "image": "https://cryptorank.io/static/pages-preview/main-page.png",
-      "link": "https://cryptorank.io/news/feed/7becb-usd-cad-holds-below-14200-overbought-zone",
-      "source": "CryptoRank",
-      "category": "macro",
-      "published": "2026-06-30 02:41"
-    },
-    {
-      "id": "c0lsqq",
-      "title": "A new analysis questions Iowans devotion to eating corn",
-      "title_vi": "Một phân tích mới đặt câu hỏi về sự tận tâm ăn ngô của người dân Iowa",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.axios.com/local/des-moines/2026/06/29/instacart-iowa-grocery-less-corn-eating",
-      "source": "Axios",
-      "category": "agri",
-      "published": "2026-06-30 01:43"
     }
   ]
 }

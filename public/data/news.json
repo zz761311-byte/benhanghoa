@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-07-01 22:01",
+  "updated_at": "2026-07-01 23:01",
   "items": [
+    {
+      "id": "hnlf1k",
+      "title": "Europe’s Nuclear Ambitions Drive New Interest in Italian Uranium Exploration",
+      "title_vi": "Tham vọng hạt nhân của châu Âu thúc đẩy mối quan tâm mới đối với hoạt động thăm dò uranium của Ý",
+      "summary_vi": "Một công ty có kế hoạch khai thác uranium ở miền bắc nước Ý đã vạch ra kế hoạch cho một cuộc nổi ở London khi công ty này tìm cách tận dụng mối quan tâm mới về công nghệ hạt nhân. Reveille Resources, sẽ được điều hành bởi Ippolito Ingo Cattaneo cùng với cha anh, Andrea Cattaneo, đang chuẩn bị",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-01_7yk6qtpmb2.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Nuclear-Ambitions-Drive-New-Interest-in-Italian-Uranium-Exploration.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-01 23:00"
+    },
+    {
+      "id": "1unfl43",
+      "title": "How the cocoa price crash is crushing West African farmers",
+      "title_vi": "Sự sụp đổ giá ca cao đang đè bẹp nông dân Tây Phi như thế nào",
+      "summary_vi": "Giá ca cao đạt đỉnh vào năm 2024 trước khi giảm mạnh gần 75%, giáng đòn tài chính vào hàng triệu nông dân ở Ghana và Cote d'Ivoire. Liệu cuộc khủng hoảng có đánh dấu một bước ngoặt cho ngành?",
+      "image": "https://static.dw.com/image/62290034_6.jpg",
+      "link": "https://www.dw.com/en/how-the-cocoa-price-crash-is-crushing-west-african-farmers/a-77784709",
+      "source": "DW.com",
+      "category": "soft",
+      "published": "2026-07-01 22:47"
+    },
+    {
+      "id": "o2jj2w",
+      "title": "Cameco shuts Cigar Lake mine on Orano mill disruption",
+      "title_vi": "Cameco đóng cửa mỏ Cigar Lake do nhà máy Orano bị gián đoạn",
+      "summary_vi": "Công ty dự kiến ​​nhà máy McClean Lake sẽ hoạt động trở lại sau khoảng hai tuần.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/26a-Cameco.jpg",
+      "link": "https://www.mining.com/cameco-shuts-cigar-lake-mine-on-orano-mill-disruption/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-01 22:46"
+    },
+    {
+      "id": "1ayj9lj",
+      "title": "Renewables Hit Record 58% Share of Germany&#039;s Power Consumption",
+      "title_vi": "Năng lượng tái tạo đạt kỷ lục 58% thị phần tiêu thụ điện của Đức",
+      "summary_vi": "Ước tính mới nhất của các hiệp hội ngành ZSW và BDEW cho thấy năng lượng tái tạo chiếm mức cao kỷ lục 58% lượng điện tiêu thụ của Đức trong nửa đầu năm 2026, tăng từ mức 55,8% cùng kỳ năm ngoái. Đức đang tìm cách tăng cường năng lượng mặt trời và",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-01_dxlojqdcki.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Renewables-Hit-Record-58-Share-of-Germanys-Power-Consumption.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-01 22:30"
+    },
     {
       "id": "kths7",
       "title": "EIA: U.S. Crude Inventories Post Another Major Draw",
@@ -90,17 +134,6 @@
       "published": "2026-07-01 18:12"
     },
     {
-      "id": "t4ns6s",
-      "title": "Goldman Sachs Warns Oil Inventory Rebuild Won’t Prevent 2027 Supply Glut",
-      "title_vi": "Goldman Sachs cảnh báo việc xây dựng lại kho dầu sẽ không ngăn được tình trạng dư cung năm 2027",
-      "summary_vi": "Theo Goldman Sachs, cuộc chạy đua toàn cầu sắp tới nhằm xây dựng lại lượng tồn kho dầu đã cạn kiệt sẽ không đủ để bù đắp tình trạng dư thừa lớn sắp xuất hiện trên thị trường vào năm tới, vì giao thông qua eo biển Hormuz dường như đang hướng tới bình thường hóa. Dự trữ dầu thô và ref",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-Oil-Inventory-Rebuild-Wont-Prevent-2027-Supply-Glut.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-01 16:30"
-    },
-    {
       "id": "1jfragh",
       "title": "Committee slams Ministry over gaps in sugar transport reporting",
       "title_vi": "Ủy ban chỉ trích Bộ về lỗ hổng trong báo cáo vận tải đường",
@@ -121,17 +154,6 @@
       "source": "CME Group",
       "category": "metal",
       "published": "2026-07-01 15:35"
-    },
-    {
-      "id": "yvpygf",
-      "title": "America Bets $50 Billion on Coal and Gas Power as Electricity Demand Soars",
-      "title_vi": "Mỹ đặt cược 50 tỷ USD vào năng lượng than và khí đốt khi nhu cầu điện tăng vọt",
-      "summary_vi": "Tờ Financial Times dẫn lời Cơ quan Năng lượng Quốc tế cho biết các công ty Mỹ sẽ chi khoảng 50 tỷ USD để sản xuất điện từ than và khí đốt tự nhiên trong năm nay. Đây sẽ là lần đầu tiên trong nhiều thập kỷ chi tiêu của Hoa Kỳ cho sản xuất than và khí đốt ở mức cao",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-01_ifole0xns8.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/America-Bets-50-Billion-on-Coal-and-Gas-Power-as-Electricity-Demand-Soars.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-01 15:30"
     },
     {
       "id": "c3kzsv",
@@ -354,17 +376,6 @@
       "published": "2026-06-30 23:09"
     },
     {
-      "id": "687ee5",
-      "title": "Atlantic Strategic confirms viability, 12-month pathway for monazite processing plant",
-      "title_vi": "Atlantic Strategic xác nhận khả năng tồn tại, lộ trình 12 tháng cho nhà máy chế biến monazite",
-      "summary_vi": "Dự án ban đầu sẽ bắt đầu với một nhà máy trình diễn có khả năng sản xuất 1.000 tấn tinh quặng monazite mỗi năm.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/ASM-aerial-image.jpg",
-      "link": "https://www.mining.com/atlantic-strategic-confirms-viability-12-month-pathway-for-monazite-processing-plant/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-30 22:37"
-    },
-    {
       "id": "nuszjm",
       "title": "Trump calls for gas prices to go down ‘IMMEDIATELY!’",
       "title_vi": "Trump kêu gọi giảm giá xăng ‘ NGAY LẬP TỨC!’",
@@ -539,17 +550,6 @@
       "source": "thestreet.com",
       "category": "energy",
       "published": "2026-06-30 05:24"
-    },
-    {
-      "id": "1p99azg",
-      "title": "Cleveland Bids Farewell in Final Cotton Marketing Weekly Column",
-      "title_vi": "Cleveland chào tạm biệt trong chuyên mục tiếp thị bông cuối cùng hàng tuần",
-      "summary_vi": "Đã đến lúc tôi phải bước đi. Các báo cáo hàng tuần của tôi thể hiện sự yêu thích của người lao động đối với sự hợp lực kinh tế đã đưa Hoa Kỳ trở thành một trong những nước tham gia chuỗi dệt may quan trọng nhất trong kinh doanh nông nghiệp thế giới.",
-      "image": "https://df75hwhlfejca.cloudfront.net/cottongrower/wp-content/uploads/2013/01/39857.jpg",
-      "link": "https://www.cottongrower.com/market-analysis/cleveland-bids-farewell-in-final-cotton-marketing-weekly-column/",
-      "source": "Cotton Grower",
-      "category": "soft",
-      "published": "2026-06-30 04:56"
     }
   ]
 }

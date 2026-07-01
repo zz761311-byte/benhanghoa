@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01 13:00",
+  "updated_at": "2026-07-01 13:48",
   "items": [
     {
       "id": "1b8mgo1",
@@ -77,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-01 05:00"
+    },
+    {
+      "id": "61dm30",
+      "title": "OPEC Lowers Second-Quarter Global Oil Demand Forecast on Iran War",
+      "title_vi": "OPEC hạ dự báo nhu cầu dầu toàn cầu trong quý hai do chiến tranh Iran",
+      "summary_vi": "(Reuters) - OPEC hôm thứ Hai đã hạ dự báo về nhu cầu dầu thế giới trong quý II xuống 500.000 thùng mỗi ngày, do ảnh hưởng của cuộc chiến ở Trung Đông, báo cáo dầu hàng tháng của nhóm sản xuất này cho thấy trên trang web của mình. Nhu cầu dầu toàn cầu dự kiến ​​đạt trung bình 105,07 triệu…",
+      "image": "https://energynow.com/wp-content/uploads/Opec-building_1200x810.jpg",
+      "link": "https://energynow.com/2026/04/opec-lowers-second-quarter-global-oil-demand-forecast-on-iran-war/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-07-01 04:48"
     },
     {
       "id": "i82sor",
@@ -242,6 +253,17 @@
       "source": "fox34.com",
       "category": "energy",
       "published": "2026-06-30 21:55"
+    },
+    {
+      "id": "16fg32s",
+      "title": "Russia Boosts Crude Oil Exports to Record While Prices Tumble",
+      "title_vi": "Nga tăng cường xuất khẩu dầu thô lên mức kỷ lục trong khi giá giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-30/russia-boosts-crude-oil-exports-to-record-while-prices-tumble",
+      "source": "Bloomberg.com",
+      "category": "energy",
+      "published": "2026-06-30 20:15"
     },
     {
       "id": "ddnn99",
@@ -528,28 +550,6 @@
       "source": "Kiplinger",
       "category": "energy",
       "published": "2026-06-29 21:24"
-    },
-    {
-      "id": "1x2vutp",
-      "title": "Russia’s wheat harvest faces fuel shortages and rain risks",
-      "title_vi": "Vụ thu hoạch lúa mì của Nga đối mặt với tình trạng thiếu nhiên liệu và rủi ro mưa",
-      "summary_vi": "Nông dân Nga chuẩn bị thu hoạch lúa mì mùa đông đang phải đối mặt với giá dầu diesel tăng cao và điều kiện thời tiết bất lợi, làm dấy lên lo ngại về quy mô vụ mùa cuối cùng và lợi nhuận ở nước xuất khẩu ngũ cốc lớn nhất thế giới. Ukraine đã tăng cường tấn công vào cơ sở hạ tầng năng lượng của Nga kể từ cuối năm ngoái, dẫn đến...",
-      "image": "https://ukragroconsult.com/wp-content/uploads/2026/06/zhnyva-2.jpg",
-      "link": "https://ukragroconsult.com/en/news/russias-wheat-harvest-faces-fuel-shortages-and-rain-risks/",
-      "source": "UkrAgroConsult",
-      "category": "agri",
-      "published": "2026-06-29 21:20"
-    },
-    {
-      "id": "vq0wjj",
-      "title": "Fed Hike Bets Lift Dollar Despite Falling Oil Prices And Ebbing Inflation Fears",
-      "title_vi": "Fed tăng cược nâng đô la bất chấp giá dầu giảm và lo ngại lạm phát giảm bớt",
-      "summary_vi": "Đồng Đô la Mỹ tiếp tục tăng trong tuần kết thúc vào ngày 26 tháng 6 khi đặt cược tăng lãi suất mạnh mẽ từ Cục Dự trữ Liên bang đã thúc đẩy đồng USD.",
-      "image": "https://cdn.rttnews.com/articleimages/ustopstories/2026/june/dollarrise-08062026-lt.jpg",
-      "link": "https://www.rttnews.com/amp/3663316/fed-hike-bets-lift-dollar-despite-falling-oil-prices-and-ebbing-inflation-fears.aspx",
-      "source": "RTTNews",
-      "category": "energy",
-      "published": "2026-06-29 21:14"
     }
   ]
 }

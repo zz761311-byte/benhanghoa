@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-01 16:01",
+  "updated_at": "2026-07-01 17:01",
   "items": [
+    {
+      "id": "t4ns6s",
+      "title": "Goldman Sachs Warns Oil Inventory Rebuild Won’t Prevent 2027 Supply Glut",
+      "title_vi": "Goldman Sachs cảnh báo việc xây dựng lại kho dầu sẽ không ngăn được tình trạng dư cung năm 2027",
+      "summary_vi": "Theo Goldman Sachs, cuộc chạy đua toàn cầu sắp tới nhằm xây dựng lại lượng tồn kho dầu đã cạn kiệt sẽ không đủ để bù đắp tình trạng dư thừa lớn sắp xuất hiện trên thị trường vào năm tới, vì giao thông qua eo biển Hormuz dường như đang hướng tới bình thường hóa. Dự trữ dầu thô và ref",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-Oil-Inventory-Rebuild-Wont-Prevent-2027-Supply-Glut.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-01 16:30"
+    },
     {
       "id": "yvpygf",
       "title": "America Bets $50 Billion on Coal and Gas Power as Electricity Demand Soars",
@@ -189,17 +200,6 @@
       "published": "2026-07-01 04:00"
     },
     {
-      "id": "1hkqkje",
-      "title": "US Crude Oil Inventories Keep Falling As Hormuz Flows Slow To Start",
-      "title_vi": "Tồn kho dầu thô của Mỹ tiếp tục giảm khi Hormuz bắt đầu chảy chậm",
-      "summary_vi": "Viện Dầu khí Hoa Kỳ (API) ước tính tồn kho dầu thô ở Mỹ giảm 6,072 triệu thùng trong tuần kết thúc vào ngày 26 tháng 6. Trong tuần trước, tồn kho dầu thô của Mỹ giảm 765.000 thùng. Mặc dù tồn kho dầu thô thương mại không bao gồm",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Keep-Falling-As-Hormuz-Flows-Slow-To-Start.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-01 03:57"
-    },
-    {
       "id": "1s7b4ei",
       "title": "Guardian may skip feasibility on $660M Nevada tungsten mine",
       "title_vi": "Người giám hộ có thể bỏ qua tính khả thi của mỏ vonfram Nevada trị giá 660 triệu USD",
@@ -376,6 +376,17 @@
       "published": "2026-06-30 17:41"
     },
     {
+      "id": "chif47",
+      "title": "Silver Price Forecast | Dollar Pressure and Deficit",
+      "title_vi": "Dự báo giá bạc | Áp lực đồng đô la và thâm hụt",
+      "summary_vi": "Khám phá dự báo giá Bạc của bên thứ ba, với phân tích kỹ thuật, tâm lý CFD, lịch sử giá XAG/USD và quan điểm phân tích của Capital.com. 78,48% nhà đầu tư bị mất tiền.",
+      "image": "https://img.capital.com/imgs/articles/1200x627x1/articleimg_0759d098ba46a813c81b15746482b32b286f7bb9.webp",
+      "link": "https://capital.com/en-int/market-updates/silver-price-forecast-30-06-2026",
+      "source": "Capital.com",
+      "category": "metal",
+      "published": "2026-06-30 17:02"
+    },
+    {
       "id": "1g9mcaq",
       "title": "Trump said gas prices would fall after the war, defying the experts. So far, he’s right.",
       "title_vi": "Trump cho biết giá xăng sẽ giảm sau chiến tranh, bất chấp các chuyên gia. Cho đến nay, anh ấy đã đúng.",
@@ -539,17 +550,6 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-06-30 01:03"
-    },
-    {
-      "id": "11hu93z",
-      "title": "USDA forecast shows rising costs for corn, soybeans, sorghum and wheat",
-      "title_vi": "USDA dự báo chi phí ngô, đậu nành, lúa miến và lúa mì tăng",
-      "summary_vi": "USDA cho biết chi phí sản xuất trang trại có thể đạt mức cao kỷ lục vào năm 2027. Nhà kinh tế nông nghiệp Brad Lubben của Đại học Nebraska-Lincoln cho biết lạm phát là yếu tố lớn nhất kể từ đại dịch COVID-19. “Chúng ta tiếp tục ở mức cao hơn cùng với những cú sốc thương mại và an ninh toàn cầu đã làm tăng",
-      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2025/09/KH_BradLubben_HHD2025B.jpg",
-      "link": "https://www.brownfieldagnews.com/news/usda-forecast-shows-rising-costs-for-corn-soybeans-sorghum-and-wheat/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-06-29 22:43"
     }
   ]
 }

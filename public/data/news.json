@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-01 15:01",
+  "updated_at": "2026-07-01 16:01",
   "items": [
+    {
+      "id": "yvpygf",
+      "title": "America Bets $50 Billion on Coal and Gas Power as Electricity Demand Soars",
+      "title_vi": "Mỹ đặt cược 50 tỷ USD vào năng lượng than và khí đốt khi nhu cầu điện tăng vọt",
+      "summary_vi": "Tờ Financial Times dẫn lời Cơ quan Năng lượng Quốc tế cho biết các công ty Mỹ sẽ chi khoảng 50 tỷ USD để sản xuất điện từ than và khí đốt tự nhiên trong năm nay. Đây sẽ là lần đầu tiên trong nhiều thập kỷ chi tiêu của Hoa Kỳ cho sản xuất than và khí đốt ở mức cao",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-01_ifole0xns8.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/America-Bets-50-Billion-on-Coal-and-Gas-Power-as-Electricity-Demand-Soars.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-01 15:30"
+    },
+    {
+      "id": "c3kzsv",
+      "title": "US Sugar Market Awaits USTR Ruling as Crop Risks Mount",
+      "title_vi": "Thị trường đường Hoa Kỳ chờ phán quyết của USTR khi rủi ro cây trồng tăng cao",
+      "summary_vi": "Thị trường đường Hoa Kỳ chờ phán quyết của USTR khi rủi ro cây trồng tăng cao",
+      "image": "https://webapi.czapp.com/api/v1/attachments/2a900e5c-0c12-4118-ad71-8b673ce16c04.png",
+      "link": "https://www.czapp.com/analyst-insights/us-sugar-market-awaits-ustr-ruling-as-crop-risks-mount/",
+      "source": "czapp.com",
+      "category": "soft",
+      "published": "2026-07-01 14:53"
+    },
     {
       "id": "o8vjoe",
       "title": "Shell Offloads 50% Stake in Na Kika Platform for $1.7 Billion",
@@ -22,6 +44,17 @@
       "source": "TradingKey",
       "category": "metal",
       "published": "2026-07-01 14:10"
+    },
+    {
+      "id": "129kx9m",
+      "title": "Gold Steadies as US-Iran Peace Talks Frame Inflation Outlook",
+      "title_vi": "Vàng ổn định khi các cuộc đàm phán hòa bình Mỹ-Iran định hình triển vọng lạm phát",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-30/gold-steadies-as-us-iran-peace-talks-frame-inflation-outlook",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-07-01 13:04"
     },
     {
       "id": "1b8mgo1",
@@ -101,6 +134,17 @@
       "published": "2026-07-01 05:44"
     },
     {
+      "id": "sbat7b",
+      "title": "Silver price predictions: What can investors expect over the next 10 years?",
+      "title_vi": "Dự đoán giá bạc: Nhà đầu tư có thể mong đợi điều gì trong 10 năm tới?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-predictions-what-can-investors-expect-over-the-next-10-years-130000730.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-07-01 05:30"
+    },
+    {
       "id": "1i798ha",
       "title": "Australia’s Oil and Gas Exploration Set for Renaissance",
       "title_vi": "Bộ thăm dò dầu khí của Úc cho thời kỳ Phục hưng",
@@ -176,17 +220,6 @@
       "source": "Barron's",
       "category": "metal",
       "published": "2026-07-01 03:07"
-    },
-    {
-      "id": "oskcal",
-      "title": "China&#039;s Energy Future Runs on Coal and Solar",
-      "title_vi": "Tương lai năng lượng của Trung Quốc chạy bằng than và năng lượng mặt trời",
-      "summary_vi": "Kế hoạch 5 năm mới nhất của Bắc Kinh tiết lộ trong tháng này rằng Trung Quốc sẽ tiếp tục chi mạnh tay cho cả than đá và năng lượng thay thế, như gió và mặt trời, trong 5 năm tới. Điều nghịch lý rõ ràng là nguồn phát thải lớn nhất thế giới cho đến nay vẫn tiếp tục tạo ra một phần đáng kể trong số đó",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-30_nvqfxebjyi.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Energy-Future-Runs-on-Coal-and-Solar.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-01 03:00"
     },
     {
       "id": "tw2kkj",
@@ -508,17 +541,6 @@
       "published": "2026-06-30 01:03"
     },
     {
-      "id": "xl9ply",
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Traders Focus On Rate Outlook",
-      "title_vi": "Dự báo về Vàng (XAUUSD), Bạc, Bạch kim - Vàng rút lui khi các nhà giao dịch tập trung vào triển vọng tỷ giá",
-      "summary_vi": "Bạc và bạch kim cũng mất điểm vào đầu tuần.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/06/ChatGPT-Image-Jun-8-2025-04_46_16-PM-7.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-platinum-forecasts-gold-retreats-as-traders-focus-on-rate-outlook-1607316",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-06-30 00:48"
-    },
-    {
       "id": "11hu93z",
       "title": "USDA forecast shows rising costs for corn, soybeans, sorghum and wheat",
       "title_vi": "USDA dự báo chi phí ngô, đậu nành, lúa miến và lúa mì tăng",
@@ -528,28 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-06-29 22:43"
-    },
-    {
-      "id": "1vwqbs2",
-      "title": "From Mine to Megawatt: How NLR Is Securing Critical Mineral Supply Chains for the Power Grid",
-      "title_vi": "Từ mỏ đến megawatt: NLR đang đảm bảo chuỗi cung ứng khoáng sản quan trọng cho lưới điện như thế nào",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nlr.gov/news/detail/program/2026/from-mine-to-megawatt-how-nlr-is-securing-critical-mineral-supply-chains-for-the-power-grid",
-      "source": "nlr.gov",
-      "category": "energy",
-      "published": "2026-06-29 22:38"
-    },
-    {
-      "id": "pfk0e1",
-      "title": "Platinum prices forecast lower as Swiss bank warns of weak investment demand",
-      "title_vi": "Giá bạch kim dự báo giảm do ngân hàng Thụy Sĩ cảnh báo nhu cầu đầu tư yếu",
-      "summary_vi": "UBS đã cắt giảm dự báo giá bạch kim 300 USD/ounce sau khi cảnh báo rằng nhu cầu đầu tư yếu có thể đẩy thị trường vào tình trạng dư thừa vào cuối...",
-      "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA2XC8yMDI2LTA2LTI5LTE2LTA0LTQyLTdiY2NlY2RkZDI5YjVmOGQ0M2U3OTFhMDQyYzVmNTAxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
-      "link": "https://www.proactiveinvestors.co.uk/companies/news/1094659/platinum-prices-forecast-lower-as-swiss-bank-warns-of-weak-investment-demand-1094659.html",
-      "source": "Proactive Investors",
-      "category": "metal",
-      "published": "2026-06-29 21:58"
     }
   ]
 }

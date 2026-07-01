@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01 13:48",
+  "updated_at": "2026-07-01 14:01",
   "items": [
     {
       "id": "1b8mgo1",
@@ -176,6 +176,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-01 02:00"
+    },
+    {
+      "id": "ggqeda",
+      "title": "USDA June Acreage Report Reveals Shifting Crop Intentions Across Oklahoma, Kansas, and Texas",
+      "title_vi": "Báo cáo diện tích tháng 6 của USDA tiết lộ ý định thay đổi cây trồng trên khắp Oklahoma, Kansas và Texas",
+      "summary_vi": "Cơ quan Thống kê Nông nghiệp Quốc gia USDA (NASS) đã công bố báo cáo diện tích hàng năm vào tháng 6, nêu chi tiết những điều chỉnh đáng kể trong ý định trồng và thu hoạch trên khắp Đồng bằng phía Nam. Để đạt được sự cân bằng giữa nhu cầu thị trường biến động và các kiểu thời tiết trong khu vực, các nhà sản xuất ở Oklahoma, Kansas, một",
+      "image": "",
+      "link": "https://www.oklahomafarmreport.com/2026/06/30/usda-june-acreage-report-reveals-shifting-crop-intentions-across-oklahoma-kansas-and-texas/",
+      "source": "Oklahoma Farm Report",
+      "category": "agri",
+      "published": "2026-07-01 01:26"
     },
     {
       "id": "rxzqaw",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "metal",
       "published": "2026-06-29 21:56"
-    },
-    {
-      "id": "1cjqxk3",
-      "title": "Kiplinger Energy Outlook: Some Relief at the Pump in Time for July 4",
-      "title_vi": "Triển vọng năng lượng của Kiplinger: Một số cứu trợ kịp thời tại máy bơm vào ngày 4 tháng 7",
-      "summary_vi": "Gas vẫn còn đắt, nhưng việc đổ đầy ngày càng ít tốn kém hơn khi giá dầu giảm.",
-      "image": "https://cdn.mos.cms.futurecdn.net/VqoAu2CHMSpTb9ZZJ5CPSU-1280-80.jpg",
-      "link": "https://www.kiplinger.com/economic-forecasts/energy",
-      "source": "Kiplinger",
-      "category": "energy",
-      "published": "2026-06-29 21:24"
     }
   ]
 }

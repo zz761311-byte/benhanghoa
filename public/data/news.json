@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01 11:00",
+  "updated_at": "2026-07-01 12:00",
   "items": [
     {
       "id": "1im0pc8",
@@ -277,6 +277,17 @@
       "published": "2026-06-30 18:25"
     },
     {
+      "id": "8xh637",
+      "title": "Hormuz disruption to stall 2026 LNG trade, demand to rise by 2050, says Shell",
+      "title_vi": "Shell cho biết sự gián đoạn của Hormuz làm đình trệ giao dịch LNG năm 2026, nhu cầu sẽ tăng vào năm 2050",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/shell-expects-65-rise-global-lng-demand-by-2050-2026-06-30/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-06-30 17:41"
+    },
+    {
       "id": "1g9mcaq",
       "title": "Trump said gas prices would fall after the war, defying the experts. So far, he’s right.",
       "title_vi": "Trump cho biết giá xăng sẽ giảm sau chiến tranh, bất chấp các chuyên gia. Cho đến nay, anh ấy đã đúng.",
@@ -319,6 +330,17 @@
       "source": "GoldSilver",
       "category": "macro",
       "published": "2026-06-30 14:39"
+    },
+    {
+      "id": "cciye",
+      "title": "Why companies are swapping copper for aluminium",
+      "title_vi": "Tại sao các công ty đổi đồng lấy nhôm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/autos-transportation/why-companies-are-swapping-copper-aluminium-2026-06-30/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-06-30 13:14"
     },
     {
       "id": "19gevzs",
@@ -528,28 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-06-29 20:25"
-    },
-    {
-      "id": "1x0iyk0",
-      "title": "Will tomorrow’s USDA reports shock the market?",
-      "title_vi": "Liệu báo cáo của USDA ngày mai có gây sốc cho thị trường không?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/will-tomorrow-s-usda-reports-shock-the-market-",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-06-29 19:59"
-    },
-    {
-      "id": "jsybdx",
-      "title": "Think You Should Wait Before Drinking Your First Cup of Coffee? Science Says There's No Need (or Benefit)",
-      "title_vi": "Bạn nghĩ mình nên đợi trước khi uống tách cà phê đầu tiên? Khoa học cho biết không cần (hoặc có lợi)",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.inc.com/jeff-haden/think-you-should-wait-before-drinking-your-first-cup-of-coffee-science-says-theres-no-need-or-benefit/91366884",
-      "source": "inc.com",
-      "category": "soft",
-      "published": "2026-06-29 19:30"
     }
   ]
 }

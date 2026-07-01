@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01 09:00",
+  "updated_at": "2026-07-01 10:00",
   "items": [
     {
       "id": "y00iwx",
@@ -13,6 +13,17 @@
       "published": "2026-07-01 07:00"
     },
     {
+      "id": "stcmpy",
+      "title": "Seeing the whole picture: Closing notes from Kazakhstan",
+      "title_vi": "Nhìn toàn cảnh: Lời kết từ Kazakhstan",
+      "summary_vi": "Công văn cuối cùng của Ground View Kazakhstan khám phá lý do tại sao bối cảnh chứ không chỉ dữ liệu lại định hình nên câu chuyện đầu tư thực sự.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/Astana-1.jpeg",
+      "link": "https://www.mining.com/seeing-the-whole-picture-closing-notes-from-kazakhstan/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-01 06:26"
+    },
+    {
       "id": "gllf54",
       "title": "India’s Russian Oil Boom Outlives the Hormuz Shock",
       "title_vi": "Sự bùng nổ dầu mỏ ở Nga của Ấn Độ vượt qua cú sốc Hormuz",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-01 06:00"
+    },
+    {
+      "id": "zqdrtn",
+      "title": "South32 sells nearly all its aluminum business to Alcoa for $5.6B",
+      "title_vi": "South32 bán gần như toàn bộ hoạt động kinh doanh nhôm của mình cho Alcoa với giá 5,6 tỷ USD",
+      "summary_vi": "South32 cho biết, việc mua bán này cho phép công ty thu hẹp hoạt động kinh doanh của mình để tập trung vào \"các hoạt động kinh doanh đồng, kẽm, bạc và chì có tỷ suất lợi nhuận cao\".",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/Hillside-Aluminium-Project-1024x683.jpeg",
+      "link": "https://www.mining.com/south32-sells-nearly-all-its-aluminum-business-to-alcoa-for-5-6b/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-01 05:45"
     },
     {
       "id": "1i798ha",
@@ -55,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-01 03:57"
+    },
+    {
+      "id": "1s7b4ei",
+      "title": "Guardian may skip feasibility on $660M Nevada tungsten mine",
+      "title_vi": "Người giám hộ có thể bỏ qua tính khả thi của mỏ vonfram Nevada trị giá 660 triệu USD",
+      "summary_vi": "Pilot Mountain là một trong những dự án vonfram tiên tiến nhất của Hoa Kỳ.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/Guardian-Metal-Resources-_-Pilot-Mountain-old-pit-1024x606.jpg",
+      "link": "https://www.mining.com/guardian-may-skip-feasibility-on-660m-nevada-tungsten-mine/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-01 03:16"
     },
     {
       "id": "1xxxwja",
@@ -189,17 +222,6 @@
       "published": "2026-06-30 21:55"
     },
     {
-      "id": "1cwfh30",
-      "title": "BHP Invent, MIT spinout trial copper and gold recovery technology from waste streams",
-      "title_vi": "BHP Invent, MIT thử nghiệm công nghệ thu hồi đồng và vàng từ dòng chất thải",
-      "summary_vi": "Công ty cho biết cuộc thử nghiệm đã thu hồi thành công loại vàng thỏi.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/AdobeStock_1978834989-1024x574.jpeg",
-      "link": "https://www.mining.com/bhp-invent-mit-spinout-trial-copper-and-gold-recovery-technology-from-waste-streams/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-30 19:55"
-    },
-    {
       "id": "ddnn99",
       "title": "AI Data Center Boom Reshapes Natural Gas Outlook, Sparks Power Cost Debate",
       "title_vi": "Sự bùng nổ của trung tâm dữ liệu AI định hình lại triển vọng khí đốt tự nhiên, làm dấy lên cuộc tranh luận về chi phí điện năng",
@@ -297,17 +319,6 @@
       "source": "Forbes",
       "category": "metal",
       "published": "2026-06-30 09:14"
-    },
-    {
-      "id": "1w9r160",
-      "title": "Rosh Pinah commissions new SAG mill as mine expansion nears completion",
-      "title_vi": "Rosh Pinah vận hành nhà máy SAG mới khi việc mở rộng mỏ sắp hoàn thành",
-      "summary_vi": "Nhà máy đại diện cho thành phần xử lý chính cuối cùng trong kế hoạch mở rộng mỏ.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/SAGmill_vF-1024x767.jpg",
-      "link": "https://www.mining.com/rosh-pinah-commissions-new-sag-mill-as-mine-expansion-nears-completion/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-30 05:41"
     },
     {
       "id": "yzl5gx",
@@ -453,6 +464,17 @@
       "published": "2026-06-29 21:56"
     },
     {
+      "id": "1cjqxk3",
+      "title": "Kiplinger Energy Outlook: Some Relief at the Pump in Time for July 4",
+      "title_vi": "Triển vọng năng lượng của Kiplinger: Một số cứu trợ kịp thời tại máy bơm vào ngày 4 tháng 7",
+      "summary_vi": "Gas vẫn còn đắt, nhưng việc đổ đầy ngày càng ít tốn kém hơn khi giá dầu giảm.",
+      "image": "https://cdn.mos.cms.futurecdn.net/VqoAu2CHMSpTb9ZZJ5CPSU-1280-80.jpg",
+      "link": "https://www.kiplinger.com/economic-forecasts/energy",
+      "source": "Kiplinger",
+      "category": "energy",
+      "published": "2026-06-29 21:24"
+    },
+    {
       "id": "1x2vutp",
       "title": "Russia’s wheat harvest faces fuel shortages and rain risks",
       "title_vi": "Vụ thu hoạch lúa mì của Nga đối mặt với tình trạng thiếu nhiên liệu và rủi ro mưa",
@@ -528,28 +550,6 @@
       "source": "UBS",
       "category": "macro",
       "published": "2026-06-29 16:32"
-    },
-    {
-      "id": "kxb2vf",
-      "title": "Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure",
-      "title_vi": "Việc Putin thừa nhận tình trạng thiếu nhiên liệu báo hiệu căng thẳng ngày càng tăng đối với cơ sở hạ tầng năng lượng của Nga",
-      "summary_vi": "Bình luận của Putin đánh dấu lần đầu tiên ông nêu chi tiết mức độ thành công của cuộc tấn công sâu của Ukraine đã cản trở việc sản xuất nhiên liệu của Nga.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108327893-1782713596190-gettyimages-2283207369-AFP_B8L38KE.jpeg?v=1782713832&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-06-29 14:41"
-    },
-    {
-      "id": "5hfhwp",
-      "title": "Mid-Year Outlook: Hot Topics Shaping the Economic and Investment Landscape - Natixis Corporate & Investment Banking",
-      "title_vi": "Triển vọng giữa năm: Các chủ đề nóng Định hình bối cảnh kinh tế và đầu tư - Natixis Corporate & Investment Banking",
-      "summary_vi": "Khi chúng ta bước sang nửa cuối năm 2026, sự chú ý đang chuyển sang một số chủ đề. Dưới đây, cùng với Joel Hancock, Benito Berber và Eric Benoist, chúng ta khám phá ...",
-      "image": "https://files.natixis.sbcdnsb.com/images/dt7uf2li9bnv/content/1782479345/1392421/adobestock_379558913.jpeg",
-      "link": "https://home.cib.natixis.com/articles/mid-year-outlook-hot-topics-shaping-the-economic-and-investment-landscape",
-      "source": "Natixis Corporate & Investment Banking - Natixis CIB",
-      "category": "macro",
-      "published": "2026-06-29 14:23"
     }
   ]
 }

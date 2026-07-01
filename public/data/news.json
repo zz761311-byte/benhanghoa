@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02 04:01",
+  "updated_at": "2026-07-02 04:52",
   "items": [
     {
       "id": "ec5url",
@@ -354,6 +354,17 @@
       "published": "2026-07-01 05:30"
     },
     {
+      "id": "ycudx7",
+      "title": "Grains Rally Post USDA Reports With a Few Surprises",
+      "title_vi": "đợt tăng giá ngũ cốc đăng báo cáo của USDA với một vài điều ngạc nhiên",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/grains-rally-post-usda-reports-record-low-wheat-acreage",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-07-01 05:03"
+    },
+    {
       "id": "1gfhjfq",
       "title": "Copper Price Update: Q2 2025 Review - What's Next for the Red Metal?",
       "title_vi": "Cập nhật giá đồng: Đánh giá quý 2 năm 2025 - Điều gì tiếp theo đối với kim loại đỏ?",
@@ -396,6 +407,17 @@
       "source": "CryptoRank",
       "category": "metal",
       "published": "2026-07-01 04:42"
+    },
+    {
+      "id": "o9o2fc",
+      "title": "Corn Prices Can Change Fast — Are You Ready for the Next Trend?",
+      "title_vi": "Giá ngô có thể thay đổi nhanh chóng - Bạn đã sẵn sàng cho xu hướng tiếp theo chưa?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/corn-prices-can-change-fast-are-you-ready-for-the-next-trend-12010275",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-07-01 04:17"
     },
     {
       "id": "1s7b4ei",
@@ -528,28 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-06-30 17:41"
-    },
-    {
-      "id": "chif47",
-      "title": "Silver Price Forecast | Dollar Pressure and Deficit",
-      "title_vi": "Dự báo giá bạc | Áp lực đồng đô la và thâm hụt",
-      "summary_vi": "Khám phá dự báo giá Bạc của bên thứ ba, với phân tích kỹ thuật, tâm lý CFD, lịch sử giá XAG/USD và quan điểm phân tích của Capital.com. 78,48% nhà đầu tư bị mất tiền.",
-      "image": "https://img.capital.com/imgs/articles/1200x627x1/articleimg_0759d098ba46a813c81b15746482b32b286f7bb9.webp",
-      "link": "https://capital.com/en-int/market-updates/silver-price-forecast-30-06-2026",
-      "source": "Capital.com",
-      "category": "metal",
-      "published": "2026-06-30 17:02"
-    },
-    {
-      "id": "1g9mcaq",
-      "title": "Trump said gas prices would fall after the war, defying the experts. So far, he’s right.",
-      "title_vi": "Trump cho biết giá xăng sẽ giảm sau chiến tranh, bất chấp các chuyên gia. Cho đến nay, anh ấy đã đúng.",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.politico.com/news/2026/06/30/trump-said-gas-prices-would-fall-after-the-war-defying-the-experts-so-far-hes-right-00980674",
-      "source": "Politico",
-      "category": "energy",
-      "published": "2026-06-30 16:05"
     }
   ]
 }

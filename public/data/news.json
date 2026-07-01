@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-01 10:00",
+  "updated_at": "2026-07-01 11:00",
   "items": [
+    {
+      "id": "1im0pc8",
+      "title": "Commodity Corner: Oil rises on on geopolitical concerns; gold extends losses",
+      "title_vi": "Góc hàng hóa: Dầu tăng do lo ngại về địa chính trị; vàng kéo dài thua lỗ",
+      "summary_vi": "Thị trường hàng hóa giao dịch trái chiều vào ngày 1 tháng 7, với giá dầu thô phục hồi do những lo ngại địa chính trị mới, trong khi kim loại quý vẫn chịu áp lực trong bối cảnh đồng đô la Mỹ mạnh hơn và lãi suất trái phiếu kho bạc tăng. Giá dầu thô tăng trong phiên giao dịch sớm sau khi có báo cáo rằng Iran sẽ không gặp đại sứ Mỹ…",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://www.tradingview.com/news/moneycontrol:6b712c2f9094b:0-commodity-corner-oil-rises-on-on-geopolitical-concerns-gold-extends-losses/",
+      "source": "TradingView",
+      "category": "macro",
+      "published": "2026-07-01 09:40"
+    },
     {
       "id": "y00iwx",
       "title": "The AI Revolution Needs Electricity More Than Intelligence",
@@ -55,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-01 05:00"
+    },
+    {
+      "id": "i82sor",
+      "title": "Silver Price Forecast: XAG/USD Recovers Toward $60.00, but Bearish Bias Persists",
+      "title_vi": "Dự báo giá bạc: XAG/USD phục hồi về mức 60,00 USD, nhưng xu hướng giảm vẫn tồn tại",
+      "summary_vi": "Dự báo giá bạc BitcoinWorld: XAG/USD phục hồi về mức 60,00 USD, nhưng xu hướng giảm vẫn tồn tại Bạc (XAG/USD) đã tăng cao hơn trong các phiên giao dịch gần đây,",
+      "image": "https://cryptorank.io/static/pages-preview/main-page.png",
+      "link": "https://cryptorank.io/news/feed/cefd9-silver-price-forecast-xagusd-bearish-trend-2",
+      "source": "CryptoRank",
+      "category": "metal",
+      "published": "2026-07-01 04:42"
     },
     {
       "id": "yzrhht",
@@ -528,28 +550,6 @@
       "source": "inc.com",
       "category": "soft",
       "published": "2026-06-29 19:30"
-    },
-    {
-      "id": "1kyrmsz",
-      "title": "Behind the scenes at Cargill’s Dutch cocoa operations as manufacturers face supply volatility",
-      "title_vi": "Hậu trường hoạt động sản xuất ca cao tại Hà Lan của Cargill khi các nhà sản xuất đối mặt với biến động nguồn cung",
-      "summary_vi": "Cargill đang định vị Hà Lan là một trung tâm chế biến ca cao quan trọng trong chuỗi cung ứng toàn cầu của mình, khi sự biến động ngày càng tăng và sự phụ thuộc vào nguồn gốc Tây Phi làm tăng nhu cầu tìm nguồn cung ứng linh hoạt. <strong><em>Thành phần thực phẩm là trên hết</em></strong> tìm hiểu hậu trường cung cấp ca cao tại Hà Lan của Cargill",
-      "image": "https://article.innovamarketinsights360.com/articleimgs/resized_rect_newsimages/jpg/639183290496288677Cargill_s_Dutch_cocoa_operations.jpg",
-      "link": "https://www.foodingredientsfirst.com/news/cargill-dutch-cocoa-supply-chain-volatility.html",
-      "source": "Food Ingredients First",
-      "category": "soft",
-      "published": "2026-06-29 18:47"
-    },
-    {
-      "id": "1cj9uvt",
-      "title": "How will the Iran conflict impact commodities?",
-      "title_vi": "Xung đột Iran sẽ tác động đến hàng hóa như thế nào?",
-      "summary_vi": "Sau khi Mỹ và Iran công bố thỏa thuận mở lại eo biển Hormuz, thị trường hàng hóa sẽ chờ đợi dấu hiệu cho thấy việc vận chuyển qua eo biển có thể bình thường hóa nhanh chóng như thế nào. Trong bối cảnh không chắc chắn, chúng tôi cho rằng hàng hóa là một công cụ đa dạng hóa danh mục đầu tư hữu ích. Duy trì phân bổ cho hàng hóa, tập trung vào",
-      "image": "https://www.ubs.com/cioresearch/34/93/58/7/3493587/en/opengraphimage.629.png",
-      "link": "https://www.ubs.com/sg/en/wealthmanagement/insights/marketnews/article.3493587.html",
-      "source": "UBS",
-      "category": "macro",
-      "published": "2026-06-29 16:32"
     }
   ]
 }

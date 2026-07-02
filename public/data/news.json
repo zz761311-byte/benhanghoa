@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02 08:27",
+  "updated_at": "2026-07-02 09:01",
   "items": [
     {
       "id": "1ivzc6g",
@@ -209,6 +209,17 @@
       "source": "Kavout | AI",
       "category": "metal",
       "published": "2026-07-01 19:29"
+    },
+    {
+      "id": "12hr48r",
+      "title": "Dollar bulls gain ground even as most FX strategists still expect weakness: Reuters poll",
+      "title_vi": "Đồng đô la tăng giá ngay cả khi hầu hết các chiến lược gia ngoại hối vẫn mong đợi điểm yếu: cuộc thăm dò của Reuters",
+      "summary_vi": "Bởi Sarupya Ganguly BENGALURU, ngày 1 tháng 7 (Reuters) - Sự phục hồi gần đây của đồng đô la Mỹ sẽ giảm dần trong những tháng tới khi giá dầu hạ nhiệt làm dịu bớt lo ngại lạm phát và đặt cược tăng lãi suất của Cục Dự trữ Liên bang, đa số các chiến lược gia ngoại hối cho biết trong một cuộc thăm dò của Reuters, mặc dù ...",
+      "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-07/01/2026-07-01T114847Z_1_LYNXMPEM602LE_RTROPTP_3_GLOBAL-FOREX.JPG",
+      "link": "https://wtvbam.com/2026/07/01/dollar-bulls-gain-ground-even-as-most-fx-strategists-still-expect-weakness-reuters-poll/",
+      "source": "WTVB",
+      "category": "macro",
+      "published": "2026-07-01 19:07"
     },
     {
       "id": "1o25gpn",
@@ -539,17 +550,6 @@
       "source": "Bloomberg.com",
       "category": "energy",
       "published": "2026-06-30 20:15"
-    },
-    {
-      "id": "ddnn99",
-      "title": "AI Data Center Boom Reshapes Natural Gas Outlook, Sparks Power Cost Debate",
-      "title_vi": "Sự bùng nổ của trung tâm dữ liệu AI định hình lại triển vọng khí đốt tự nhiên, làm dấy lên cuộc tranh luận về chi phí điện năng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/ai-data-center-boom-reshapes-natural-gas-outlook-sparks-power-cost-debate/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-06-30 19:38"
     }
   ]
 }

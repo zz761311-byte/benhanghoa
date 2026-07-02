@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02 20:01",
+  "updated_at": "2026-07-02 20:12",
   "items": [
     {
       "id": "1vvao3k",
@@ -13,6 +13,17 @@
       "published": "2026-07-02 20:00"
     },
     {
+      "id": "15cucqk",
+      "title": "Gold edges higher as investors await U.S. jobs report",
+      "title_vi": "Vàng tăng cao khi nhà đầu tư chờ đợi báo cáo việc làm của Mỹ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-edges-higher-investors-await-123755344.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-07-02 19:37"
+    },
+    {
       "id": "ki16xw",
       "title": "India Fast-Tracks State Company Stake Sales to Cover Oil Shock Costs",
       "title_vi": "Ấn Độ tăng tốc doanh số bán cổ phần của công ty nhà nước để trang trải chi phí sốc dầu",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-02 19:00"
+    },
+    {
+      "id": "1vs23hn",
+      "title": "U.S. dollar softens ahead of U.S. jobs data as Fed rate hike expectations build into 2026",
+      "title_vi": "Đồng đô la Mỹ giảm giá trước dữ liệu việc làm của Hoa Kỳ khi kỳ vọng tăng lãi suất của Fed được xây dựng vào năm 2026",
+      "summary_vi": "Triển vọng đồng đô la Mỹ năm 2026 suy yếu trước dữ liệu việc làm do kỳ vọng Fed tăng lãi suất, lợi suất và biến động tiền tệ gia tăng trên các thị trường toàn cầu.",
+      "image": "https://economymiddleeast.com/wp-content/uploads/2026/07/u.s.-dollar-1-1.jpg",
+      "link": "https://economymiddleeast.com/news/u-s-dollar-softens-ahead-of-u-s-jobs-data-as-fed-rate-hike-expectations-build-into-2026/",
+      "source": "Economy Middle East",
+      "category": "macro",
+      "published": "2026-07-02 18:16"
     },
     {
       "id": "1h03npu",
@@ -398,17 +420,6 @@
       "published": "2026-07-01 14:10"
     },
     {
-      "id": "uq26b9",
-      "title": "Gold and silver charts forecast more stormy weather ahead",
-      "title_vi": "Biểu đồ vàng và bạc dự báo thời tiết giông bão sắp tới",
-      "summary_vi": "Death cross của vàng ngày hôm qua đã đưa ra cho các nhà giao dịch một cảnh báo đáng ngại rằng kim loại quý này có thể vẫn còn nhiều nỗi đau hơn nữa. Tuy nhiên, có một chỉ báo hàng đầu dự đoán áp lực giảm giá mạnh được chứng kiến ​​ở các kim loại quý khiến giá giảm từ rất lâu trước khi giao cắt tử thần xuất hiện trên radar của bất kỳ ai.",
-      "image": "https://image-api.prod.kitco.com/image/a6182eb4-1664-4b10-9bfa-69205e3085e7.png?top=6.0959147424512&left=0&width=1344&height=755.8081705151&scale_width=1920&token=050ee73337c9a70b0cfabe1d126f884519ad545e0d572dc79b4d973c66675399",
-      "link": "https://www.kitco.com/opinion/2026-07-01/gold-and-silver-charts-forecast-more-stormy-weather-ahead",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-07-01 13:48"
-    },
-    {
       "id": "7rzkcs",
       "title": "AB Foods warns of more sugar losses as Iran war lifts gas costs",
       "title_vi": "AB Foods cảnh báo tổn thất đường nhiều hơn khi chiến tranh Iran làm tăng chi phí gas",
@@ -539,17 +550,6 @@
       "source": "CBS News",
       "category": "soft",
       "published": "2026-07-01 04:54"
-    },
-    {
-      "id": "61dm30",
-      "title": "OPEC Lowers Second-Quarter Global Oil Demand Forecast on Iran War",
-      "title_vi": "OPEC hạ dự báo nhu cầu dầu toàn cầu trong quý hai do chiến tranh Iran",
-      "summary_vi": "(Reuters) - OPEC hôm thứ Hai đã hạ dự báo về nhu cầu dầu thế giới trong quý II xuống 500.000 thùng mỗi ngày, do ảnh hưởng của cuộc chiến ở Trung Đông, báo cáo dầu hàng tháng của nhóm sản xuất này cho thấy trên trang web của mình. Nhu cầu dầu toàn cầu dự kiến ​​đạt trung bình 105,07 triệu…",
-      "image": "https://energynow.com/wp-content/uploads/Opec-building_1200x810.jpg",
-      "link": "https://energynow.com/2026/04/opec-lowers-second-quarter-global-oil-demand-forecast-on-iran-war/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-07-01 04:48"
     }
   ]
 }

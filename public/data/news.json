@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03 05:01",
+  "updated_at": "2026-07-03 05:49",
   "items": [
     {
       "id": "1u28hsi",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-03 04:00"
+    },
+    {
+      "id": "j9rkzi",
+      "title": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026",
+      "title_vi": "Chiến tranh Iran làm đảo lộn triển vọng thị trường dầu mỏ của IEA khi cung và cầu toàn cầu giảm vào năm 2026",
+      "summary_vi": "IEA cắt giảm dự báo tăng trưởng nhu cầu dầu, với lý do Trung Đông và châu Á-Thái Bình Dương thu hẹp eo biển Hormuz, việc đóng cửa và các cuộc tấn công gây ra sự gián đoạn nguồn cung dầu lớn nhất trong lịch sử, IEA báo cáo IEA cảnh báo việc nối lại dòng chảy Hormuz là rất quan trọng; kịch bản thay thế chứng kiến ​​cú sốc cung, cầu sâu hơn (Reuters) - Chiến tranh Iran sẽ buộc",
+      "image": "https://energynow.com/wp-content/uploads/Oil-and-Gas-Industry-1200x810-1.jpg",
+      "link": "https://energynow.com/2026/04/iran-war-upends-ieas-oil-market-outlook-as-global-supply-and-demand-to-contract-in-2026/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-07-03 03:45"
     },
     {
       "id": "mxna9m",
@@ -539,17 +550,6 @@
       "source": "WTVB",
       "category": "macro",
       "published": "2026-07-01 19:07"
-    },
-    {
-      "id": "1pgw34a",
-      "title": "EXCLUSIVE: Russia buys gasoline from India to tackle shortages, sources say",
-      "title_vi": "ĐỘC QUYỀN: Nga mua xăng từ Ấn Độ để giải quyết tình trạng thiếu hụt, các nguồn tin cho biết",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/russia-buys-gasoline-india-tackle-shortages-sources-say-2026-07-01/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-07-01 18:43"
     }
   ]
 }

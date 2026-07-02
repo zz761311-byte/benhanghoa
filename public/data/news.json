@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03 05:49",
+  "updated_at": "2026-07-03 06:01",
   "items": [
     {
       "id": "1u28hsi",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-03 02:30"
+    },
+    {
+      "id": "rwkymy",
+      "title": "China and US Move Toward Farm Tariff Cuts in Major Win for Agricultural Trade",
+      "title_vi": "Trung Quốc và Mỹ hướng tới cắt giảm thuế nông sản mang lại thắng lợi lớn cho thương mại nông sản",
+      "summary_vi": "Trung Quốc và Mỹ đồng ý theo đuổi việc cắt giảm thuế quan lẫn nhau đối với các sản phẩm nông nghiệp, báo hiệu sự thúc đẩy lớn cho thị trường nông sản toàn cầu.",
+      "image": "https://www.agrolatam.com/files/image/76/76635/6a46b90bba7be_600_315!.png?s=72d2d6370a5ba4954a077561ffe62165&d=1782961200",
+      "link": "https://www.agrolatam.com/news/china-us-agricultural-tariff-reductions-soybean-trade-2026/",
+      "source": "Agrolatam",
+      "category": "macro",
+      "published": "2026-07-03 02:20"
     },
     {
       "id": "irg3m4",
@@ -539,17 +550,6 @@
       "source": "Kavout | AI",
       "category": "metal",
       "published": "2026-07-01 19:29"
-    },
-    {
-      "id": "12hr48r",
-      "title": "Dollar bulls gain ground even as most FX strategists still expect weakness: Reuters poll",
-      "title_vi": "Đồng đô la tăng giá ngay cả khi hầu hết các chiến lược gia ngoại hối vẫn mong đợi điểm yếu: cuộc thăm dò của Reuters",
-      "summary_vi": "Bởi Sarupya Ganguly BENGALURU, ngày 1 tháng 7 (Reuters) - Sự phục hồi gần đây của đồng đô la Mỹ sẽ giảm dần trong những tháng tới khi giá dầu hạ nhiệt làm dịu bớt lo ngại lạm phát và đặt cược tăng lãi suất của Cục Dự trữ Liên bang, đa số các chiến lược gia ngoại hối cho biết trong một cuộc thăm dò của Reuters, mặc dù ...",
-      "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-07/01/2026-07-01T114847Z_1_LYNXMPEM602LE_RTROPTP_3_GLOBAL-FOREX.JPG",
-      "link": "https://wtvbam.com/2026/07/01/dollar-bulls-gain-ground-even-as-most-fx-strategists-still-expect-weakness-reuters-poll/",
-      "source": "WTVB",
-      "category": "macro",
-      "published": "2026-07-01 19:07"
     }
   ]
 }

@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-02 06:01",
+  "updated_at": "2026-07-02 07:01",
   "items": [
+    {
+      "id": "1ivzc6g",
+      "title": "5 Under-the-Radar Stocks Fueling the AI Revolution",
+      "title_vi": "5 cổ phiếu chưa được phát hiện đang thúc đẩy cuộc cách mạng AI",
+      "summary_vi": "Nvidia là đứa con cưng đầu tiên của cuộc cách mạng AI. OpenAI đã biến ChatGPT thành một hiện tượng toàn cầu. Google, Microsoft và Anthropic kể từ đó đã thống trị các tiêu đề với những mô hình ngày càng mạnh mẽ hơn. Nhưng trong suốt lịch sử, vận may lớn nhất được tạo ra trong cuộc cách mạng công nghệ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-01_0bcnrvv2my.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/5-Under-the-Radar-Stocks-Fueling-the-AI-Revolution.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-02 07:00"
+    },
+    {
+      "id": "39gu9w",
+      "title": "Trump Targets California Again In SpaceX Feud",
+      "title_vi": "Trump nhắm mục tiêu California một lần nữa trong mối thù SpaceX",
+      "summary_vi": "Trong nhiều năm, Tổng thống Hoa Kỳ Donald Trump đã gây ảnh hưởng lớn đến lĩnh vực năng lượng và môi trường của California khi ông cố gắng thúc đẩy nhiên liệu hóa thạch và đẩy lùi các sáng kiến ​​về khí hậu của bang, với mức độ thành công khác nhau. Trở lại năm 2019, chính quyền Trump đã r",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Energy/Energy-General/Trump-Targets-California-Again-In-SpaceX-Feud.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-02 06:00"
+    },
     {
       "id": "15lmsj8",
       "title": "Wall Street Is Pivoting From Solar To Solar Plus Storage",
@@ -101,17 +123,6 @@
       "published": "2026-07-02 00:27"
     },
     {
-      "id": "17dnies",
-      "title": "Putin Admits Shortage of Fuel After Weeks of Refinery Strikes",
-      "title_vi": "Putin thừa nhận thiếu nhiên liệu sau nhiều tuần đình công ở nhà máy lọc dầu",
-      "summary_vi": "Nga xác nhận chính phủ nước này hiện đang đàm phán với các nước khác để mua xăng trong khi đang cố gắng ổn định thị trường nội địa sau nhiều tháng tình trạng hỗn loạn do máy bay không người lái gây ra ở Ukraine. Người phát ngôn Điện Kremlin Dmitry Peskov cho biết: “Các cuộc thảo luận đang diễn ra tích cực”.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-01_o3khiuree0.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Putin-Admits-Certain-Shortage-of-Fuel-After-Weeks-of-Refinery-Strikes.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-02 00:00"
-    },
-    {
       "id": "1u5fyc6",
       "title": "GreenMet plans $150M rare earth processing hub in West Virginia",
       "title_vi": "GreenMet có kế hoạch xây dựng trung tâm chế biến đất hiếm trị giá 150 triệu USD ở Tây Virginia",
@@ -121,17 +132,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-01 23:36"
-    },
-    {
-      "id": "2mvriu",
-      "title": "Ukraine’s Drone Campaign Forces Russia to Buy Gasoline From India",
-      "title_vi": "Chiến dịch máy bay không người lái của Ukraine buộc Nga phải mua xăng từ Ấn Độ",
-      "summary_vi": "Nga đã bắt đầu nhập khẩu nhiên liệu đã tinh chế từ Ấn Độ bằng đường biển nhằm giảm thiểu tình trạng thiếu nhiên liệu nghiêm trọng trong nước do các cuộc tấn công bằng máy bay không người lái của Ukraine nhằm vào cơ sở hạ tầng năng lượng của nước này. Trong một báo cáo độc quyền của Reuters, các nguồn tin trong ngành tiết lộ rằng lô hàng đầu tiên có giá",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-01_hiectnmu6c.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraines-Drone-Campaign-Forces-Russia-to-Buy-Gasoline-From-India.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-01 23:30"
     },
     {
       "id": "1unfl43",
@@ -220,6 +220,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-07-01 18:12"
+    },
+    {
+      "id": "1qgw6ow",
+      "title": "Market Minute: Why gas prices will fall, but only gradually",
+      "title_vi": "Phút thị trường: Tại sao giá xăng sẽ giảm, nhưng chỉ giảm dần",
+      "summary_vi": "Cứ 10 đô la giá dầu giảm mỗi thùng thì giá xăng chỉ giảm 0,024 đô la mỗi gallon.",
+      "image": "https://realeconomy.rsmus.com/wp-content/uploads/2026/06/7_1_2026_MM.png",
+      "link": "https://realeconomy.rsmus.com/market-minute-why-gas-prices-will-fall-but-only-gradually/",
+      "source": "The Real Economy Blog",
+      "category": "energy",
+      "published": "2026-07-01 17:00"
     },
     {
       "id": "1jfragh",
@@ -330,6 +341,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-01 06:26"
+    },
+    {
+      "id": "1t3xr35",
+      "title": "Silver (XAG) Forecast: Four-Day Range Sets Stage for Breakout on Warsh, NFP",
+      "title_vi": "Dự báo Bạc (XAG): Phạm vi bốn ngày tạo ra giai đoạn đột phá trên Warsh, NFP",
+      "summary_vi": "Giá bạc đang dao động trong phạm vi bốn ngày khi các nhà giao dịch chờ đợi Warsh và NFP. Xem mức hỗ trợ, kháng cự chính và các mức đột phá để theo dõi.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/06/Tuesday.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/silver-xag-forecast-four-day-range-sets-stage-for-breakout-on-warsh-nfp-1607614",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-07-01 06:07"
     },
     {
       "id": "zqdrtn",
@@ -528,28 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-06-30 19:38"
-    },
-    {
-      "id": "jt21i1",
-      "title": "Copper Traders Gear Up for Another Round of Tariff Turmoil",
-      "title_vi": "Các nhà kinh doanh đồng chuẩn bị cho một đợt hỗn loạn thuế quan khác",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-06-30/copper-traders-gear-up-for-another-round-of-tariff-turmoil",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-06-30 19:12"
-    },
-    {
-      "id": "j9rkzi",
-      "title": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026",
-      "title_vi": "Chiến tranh Iran làm đảo lộn triển vọng thị trường dầu mỏ của IEA khi cung và cầu toàn cầu giảm vào năm 2026",
-      "summary_vi": "IEA cắt giảm dự báo tăng trưởng nhu cầu dầu, với lý do Trung Đông và châu Á-Thái Bình Dương thu hẹp eo biển Hormuz, việc đóng cửa và các cuộc tấn công gây ra sự gián đoạn nguồn cung dầu lớn nhất trong lịch sử, IEA báo cáo IEA cảnh báo việc nối lại dòng chảy Hormuz là rất quan trọng; kịch bản thay thế chứng kiến ​​cú sốc cung, cầu sâu hơn (Reuters) - Chiến tranh Iran sẽ buộc",
-      "image": "https://energynow.com/wp-content/uploads/Oil-and-Gas-Industry-1200x810-1.jpg",
-      "link": "https://energynow.com/2026/04/iran-war-upends-ieas-oil-market-outlook-as-global-supply-and-demand-to-contract-in-2026/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-06-30 18:25"
     }
   ]
 }

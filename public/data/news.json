@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02 17:01",
+  "updated_at": "2026-07-02 18:01",
   "items": [
     {
       "id": "vksmjj",
@@ -198,6 +198,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-01 23:36"
+    },
+    {
+      "id": "rt2dqu",
+      "title": "Coffee and sugar continue to rise in price, unfavorable weather fuels supply concerns - media",
+      "title_vi": "Cà phê, đường tiếp tục tăng giá, thời tiết bất lợi gây lo ngại nguồn cung - truyền thông",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://unn.ua/en/amp/coffee-and-sugar-continue-to-rise-in-price-unfavorable-weather-fuels-supply-concerns-media",
+      "source": "Українські Національні Новини (УНН)",
+      "category": "soft",
+      "published": "2026-07-01 23:06"
     },
     {
       "id": "1unfl43",
@@ -539,17 +550,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-07-01 04:17"
-    },
-    {
-      "id": "1s7b4ei",
-      "title": "Guardian may skip feasibility on $660M Nevada tungsten mine",
-      "title_vi": "Người giám hộ có thể bỏ qua tính khả thi của mỏ vonfram Nevada trị giá 660 triệu USD",
-      "summary_vi": "Pilot Mountain là một trong những dự án vonfram tiên tiến nhất của Hoa Kỳ.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/Guardian-Metal-Resources-_-Pilot-Mountain-old-pit-1024x606.jpg",
-      "link": "https://www.mining.com/guardian-may-skip-feasibility-on-660m-nevada-tungsten-mine/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-01 03:16"
     }
   ]
 }

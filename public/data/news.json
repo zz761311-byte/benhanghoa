@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02 07:01",
+  "updated_at": "2026-07-02 08:01",
   "items": [
     {
       "id": "1ivzc6g",
@@ -77,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-02 02:00"
+    },
+    {
+      "id": "bzsvef",
+      "title": "Ukraine hit a Russian oil refinery for the second time in a week, Zelenskyy says",
+      "title_vi": "Ukraine tấn công nhà máy lọc dầu của Nga lần thứ hai trong một tuần, Zelenskyy nói",
+      "summary_vi": "Các cuộc tấn công vào các cơ sở dầu mỏ của Nga đã tạo ra một cuộc khủng hoảng nhiên liệu và gia tăng áp lực chính trị lên Điện Kremlin.",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-06-24T095414Z_752508744_RC2MZLAIMD3A_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-MOSCOW-1024x672.jpg",
+      "link": "https://www.pbs.org/newshour/world/ukraine-hit-a-russian-oil-refinery-for-the-second-time-in-a-week-zelenskyy-says",
+      "source": "PBS",
+      "category": "energy",
+      "published": "2026-07-02 01:27"
     },
     {
       "id": "42zy7d",
@@ -198,17 +209,6 @@
       "source": "Kavout | AI",
       "category": "metal",
       "published": "2026-07-01 19:29"
-    },
-    {
-      "id": "77jluj",
-      "title": "Ukraine strikes Russian oil refinery as Zelenskyy calls for Moscow to end war - ABC News",
-      "title_vi": "Ukraine tấn công nhà máy lọc dầu của Nga khi Zelenskyy kêu gọi Moscow chấm dứt chiến tranh - ABC News",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://abcnews.com/International/ukraine-strikes-russian-oil-refinery-zelenskyy-calls-moscow/story?id",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-07-01 18:52"
     },
     {
       "id": "1o25gpn",

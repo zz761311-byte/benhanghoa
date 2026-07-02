@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02 12:01",
+  "updated_at": "2026-07-02 12:44",
   "items": [
     {
       "id": "1ivzc6g",
@@ -321,6 +321,17 @@
       "published": "2026-07-01 13:04"
     },
     {
+      "id": "3bjbg5",
+      "title": "Corn to 1-month low, soy futures dip on US crop prospects",
+      "title_vi": "Ngô xuống mức thấp nhất 1 tháng, giá đậu nành giảm do triển vọng vụ mùa ở Mỹ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.brecorder.com/news/40008396",
+      "source": "Business Recorder",
+      "category": "agri",
+      "published": "2026-07-01 12:31"
+    },
+    {
       "id": "1s9za6",
       "title": "Gold, silver prices continue to decline in Nepali market",
       "title_vi": "Giá vàng, bạc tiếp tục giảm tại thị trường Nepal",
@@ -539,17 +550,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-06-30 23:31"
-    },
-    {
-      "id": "nuszjm",
-      "title": "Trump calls for gas prices to go down ‘IMMEDIATELY!’",
-      "title_vi": "Trump kêu gọi giảm giá xăng ‘ NGAY LẬP TỨC!’",
-      "summary_vi": "Giá xăng tại Mỹ giảm trung bình 49 cent/gallon trong tháng trước do kỳ vọng gia tăng về việc chấm dứt chiến tranh với Iran. Nhưng họ không rơi đủ nhanh đối với Tổng thống Donald Trump.",
-      "image": "https://gray-kjtv-prod.gtv-cdn.com/resizer/v2/QGUCA47QGFGD3PYRV72FK7E67I.png?auth=ba00ff3363314a27c6370e35861d8b94567fbbbe8ab7818252b3de80429d46ca&width=1200&height=600&smart=true",
-      "link": "https://www.fox34.com/2026/06/30/trump-calls-gas-prices-go-down-immediately/",
-      "source": "fox34.com",
-      "category": "energy",
-      "published": "2026-06-30 21:55"
     }
   ]
 }

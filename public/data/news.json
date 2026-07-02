@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-02 14:01",
+  "updated_at": "2026-07-02 15:01",
   "items": [
+    {
+      "id": "1q08b01",
+      "title": "EU Bows to Tech Lobby, Drops Ten-Year Renewables Rule for Data Centers",
+      "title_vi": "EU cúi đầu trước hành lang công nghệ, bỏ quy tắc về năng lượng tái tạo 10 năm cho các trung tâm dữ liệu",
+      "summary_vi": "Liên minh Châu Âu đã chịu áp lực từ Big Tech để giảm bớt các yêu cầu nghiêm ngặt về năng lượng carbon thấp nhằm theo đuổi chương trình nghị sự AI của mình khi Mỹ và Trung Quốc vượt xa và EU bắt kịp. Trích dẫn một tài liệu dự thảo được công bố trong tuần này, tờ Financial Times đưa tin",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Bows-to-Tech-Lobby-Drops-Ten-Year-Renewables-Rule-for-Data-Centers.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-02 14:01"
+    },
     {
       "id": "fjy53u",
       "title": "Iran Exports Crude at 20% Premium Even as Unsold Barrels Pile Up at Sea",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-02 13:03"
+    },
+    {
+      "id": "1d5tx7d",
+      "title": "Wheat futures rise as USDA cuts outlook after weak winter crop",
+      "title_vi": "Giá lúa mì kỳ hạn tăng do USDA cắt giảm triển vọng sau vụ mùa đông yếu kém",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.msn.com/en-us/money/markets/wheat-futures-rise-as-usda-cuts-outlook-after-weak-winter-crop/ar-AA270OZA",
+      "source": "MSN",
+      "category": "agri",
+      "published": "2026-07-02 08:14"
     },
     {
       "id": "1ivzc6g",
@@ -110,17 +132,6 @@
       "source": "American Ag Network",
       "category": "agri",
       "published": "2026-07-02 01:22"
-    },
-    {
-      "id": "1rsz3x7",
-      "title": "Russia’s Security and Trade Blocs Show Signs of Fracturing",
-      "title_vi": "Các khối an ninh và thương mại của Nga có dấu hiệu rạn nứt",
-      "summary_vi": "Các dấu hiệu đang gia tăng cho thấy sức mạnh ép buộc của Vladimir Putin đang nhanh chóng mờ nhạt và các công cụ đòn bẩy khu vực chính của ông đang tan biến. Máy bay không người lái của Ukraine không chỉ khiến lực lượng Nga phải đối mặt với cuộc xung đột kéo dài giữa hai nước mà còn",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-01_kji0tuxtne.jpg",
-      "link": "https://oilprice.com/Geopolitics/Europe/Russias-Security-and-Trade-Blocs-Show-Signs-of-Fracturing.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-02 01:00"
     },
     {
       "id": "pfzequ",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "soft",
       "published": "2026-07-01 01:04"
-    },
-    {
-      "id": "1botu8m",
-      "title": "Koryx Copper wins analyst support after Namibia assays",
-      "title_vi": "Koryx Copper giành được sự hỗ trợ của nhà phân tích sau các thử nghiệm ở Namibia",
-      "summary_vi": "Nhà phân tích khai thác BMO cho biết tài nguyên được cập nhật hỗ trợ hoạt động lớn hơn.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/06/Better-drill-Koryx-small-1024x501.jpg",
-      "link": "https://www.mining.com/koryx-copper-wins-analyst-support-after-namibia-assays/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-06-30 23:31"
     }
   ]
 }

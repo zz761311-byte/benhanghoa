@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02 15:38",
+  "updated_at": "2026-07-02 16:01",
   "items": [
     {
       "id": "rfhbbp",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-02 07:00"
+    },
+    {
+      "id": "1kmnly7",
+      "title": "Signs of divergence in the Platinum and Palladium markets",
+      "title_vi": "Dấu hiệu phân kỳ trên thị trường Bạch kim và Palladium",
+      "summary_vi": "Có những dấu hiệu phân kỳ trên thị trường bạch kim và paladi khi các nhà đầu tư vẫn lạc quan về bạch kim, trong khi tâm lý giảm giá dường như đang kiểm soát thị trường palladium.",
+      "image": "https://editorial.fxsstatic.com/images/i/Commodities_Platinum-2_Medium.jpg",
+      "link": "https://www.fxstreet.com/analysis/signs-of-divergence-in-the-platinum-and-palladium-markets-202607012302",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-07-02 06:02"
     },
     {
       "id": "39gu9w",
@@ -539,17 +550,6 @@
       "source": "Oklahoma Farm Report",
       "category": "agri",
       "published": "2026-07-01 01:26"
-    },
-    {
-      "id": "rxzqaw",
-      "title": "Nestle could lower coffee prices as bean costs fall",
-      "title_vi": "Nestle có thể giảm giá cà phê khi giá hạt cà phê giảm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/nestle-could-lower-coffee-prices-bean-costs-fall-2026-06-30/",
-      "source": "Reuters",
-      "category": "soft",
-      "published": "2026-07-01 01:04"
     }
   ]
 }

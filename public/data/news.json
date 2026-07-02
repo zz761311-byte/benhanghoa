@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-03 02:01",
+  "updated_at": "2026-07-03 03:01",
   "items": [
+    {
+      "id": "mxna9m",
+      "title": "Carney Backs B.C. Tanker Ban as Alberta Unveils Pipeline Plan",
+      "title_vi": "Carney ủng hộ B.C. Tanker Ban khi Alberta tiết lộ kế hoạch đường ống",
+      "summary_vi": "Thủ tướng Mark Carney đã phá hỏng tham vọng xây dựng đường ống dẫn dầu ở Bờ Tây của Alberta vào thứ Năm chỉ vài giờ trước khi Thủ tướng Danielle Smith chuẩn bị công bố chi tiết về đề xuất được chờ đợi từ lâu của tỉnh. Phát biểu cùng với B.C. Thủ tướng David Eby ở Vancouver, Carney",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-02_cyhdlcsg5e.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Carney-Backs-BC-Tanker-Ban-as-Alberta-Unveils-Pipeline-Plan.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-03 02:30"
+    },
     {
       "id": "irg3m4",
       "title": "Iran Tightens Grip on Strait of Hormuz Tanker Traffic",
@@ -90,6 +101,17 @@
       "published": "2026-07-02 23:53"
     },
     {
+      "id": "1d3rgum",
+      "title": "Impala Platinum: Flat Production, Higher PGM Prices, Vulnerable To Volatility",
+      "title_vi": "Impala Platinum: Sản xuất ổn định, giá PGM cao hơn, dễ bị biến động",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://seekingalpha.com/article/4919526-impala-platinum-flat-production-higher-pgm-prices-vulnerable-to-volatility",
+      "source": "Seeking Alpha",
+      "category": "metal",
+      "published": "2026-07-02 23:24"
+    },
+    {
       "id": "43ml3",
       "title": "Inside the 2026 Coffee Barometer, Part 1: Prices Swing, Structures Don’t",
       "title_vi": "Bên trong Phong vũ biểu cà phê năm 2026, Phần 1: Giá dao động, cơ cấu không",
@@ -143,17 +165,6 @@
       "source": "CBS News",
       "category": "metal",
       "published": "2026-07-02 22:48"
-    },
-    {
-      "id": "1kwq6hl",
-      "title": "Kuwait Wants Consortiums to Bid for $7 Billion Oil Pipeline Deal",
-      "title_vi": "Kuwait muốn các tập đoàn đấu thầu hợp đồng đường ống dẫn dầu trị giá 7 tỷ USD",
-      "summary_vi": "Công ty dầu mỏ nhà nước Kuwait, Tập đoàn Dầu khí Kuwait (KPC), đã yêu cầu một số quỹ quản lý tài sản đấu thầu cổ phần trong mạng lưới đường ống dẫn dầu của mình để thu hút các nhà đầu tư khác trong giá thầu của họ cho thương vụ bán theo kế hoạch ước tính trị giá 7 tỷ USD, các nguồn tin giấu tên quen thuộc với quy trình này.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-02_g1jlhkncyv.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kuwait-Wants-Consortiums-to-Bid-for-7-Billion-Oil-Pipeline-Deal.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-02 22:30"
     },
     {
       "id": "1e1a61n",
@@ -398,6 +409,17 @@
       "published": "2026-07-01 23:06"
     },
     {
+      "id": "ur3baj",
+      "title": "Russian Blood and Treasure: The Ballooning Costs of Putin’s War",
+      "title_vi": "Máu và kho báu nước Nga: Chi phí ngày càng tăng trong cuộc chiến của Putin",
+      "summary_vi": "Theo dữ liệu mới của CSIS, Nga đã phải gánh chịu khoảng 1,4 triệu thương vong và 450.000 người thiệt mạng ở Ukraine chỉ vì giành được lãnh thổ nhỏ. Ngoài ra, Ukraine còn tiến hành các cuộc tấn công sâu vào lãnh thổ Nga, bao gồm cả bằng máy bay không người lái hỗ trợ AI.",
+      "image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2026-06/GettyImages-2281549370_cropped.jpg?VersionId=2htSe8Dy4XcTtnxcm75ZF6n1ndl8m3CS",
+      "link": "https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war",
+      "source": "CSIS | Center for Strategic and International Studies",
+      "category": "energy",
+      "published": "2026-07-01 22:59"
+    },
+    {
       "id": "b39pdj",
       "title": "Top 10 Best Spark Plugs for Toyota Echo You Can’t Miss",
       "title_vi": "Top 10 Bugi đánh lửa tốt nhất cho Toyota Echo bạn không thể bỏ lỡ",
@@ -440,6 +462,17 @@
       "source": "AP News",
       "category": "energy",
       "published": "2026-07-01 21:14"
+    },
+    {
+      "id": "7rzkcs",
+      "title": "AB Foods warns of more sugar losses as Iran war lifts gas costs",
+      "title_vi": "AB Foods cảnh báo tổn thất đường nhiều hơn khi chiến tranh Iran làm tăng chi phí gas",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/retail-consumer/primark-owner-ab-foods-still-expects-lower-annual-profit-2026-07-01/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-07-01 20:30"
     },
     {
       "id": "2ixx02",
@@ -517,39 +550,6 @@
       "source": "FBC News",
       "category": "soft",
       "published": "2026-07-01 16:27"
-    },
-    {
-      "id": "t0wvwy",
-      "title": "June 2026 Metals Options Report",
-      "title_vi": "Báo cáo quyền chọn kim loại tháng 6 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.google.com/recaptcha/enterprise.js",
-      "source": "CME Group",
-      "category": "metal",
-      "published": "2026-07-01 15:35"
-    },
-    {
-      "id": "c3kzsv",
-      "title": "US Sugar Market Awaits USTR Ruling as Crop Risks Mount",
-      "title_vi": "Thị trường đường Hoa Kỳ chờ phán quyết của USTR khi rủi ro cây trồng tăng cao",
-      "summary_vi": "Thị trường đường Hoa Kỳ chờ phán quyết của USTR khi rủi ro cây trồng tăng cao",
-      "image": "https://webapi.czapp.com/api/v1/attachments/2a900e5c-0c12-4118-ad71-8b673ce16c04.png",
-      "link": "https://www.czapp.com/analyst-insights/us-sugar-market-awaits-ustr-ruling-as-crop-risks-mount/",
-      "source": "czapp.com",
-      "category": "soft",
-      "published": "2026-07-01 14:53"
-    },
-    {
-      "id": "uwdujz",
-      "title": "Palladium (XPDUSD) Volatility Intensified on Jul 1: What to Watch",
-      "title_vi": "Biến động của palladium (XPDUSD) tăng cường vào ngày 1 tháng 7: Những điều cần xem",
-      "summary_vi": "Norilsk Niken dự báo thặng dư palladium toàn cầu là 300.000 và 200.000 ounce cho đến năm 2027. Các nhà quản lý Hoa Kỳ ra phán quyết chống lại việc áp thuế đối với hàng nhập khẩu palladium của Nga, đảm bảo nguồn cung ổn định. Lãi suất cao và việc sử dụng xe điện chạy pin ảnh hưởng đến nhu cầu palladium trong dài hạn.",
-      "image": "https://resource.tradingkey.com/uploads/20260609/commodities-6-95be6ad57a434d12982be2121dc1e23d.jpg",
-      "link": "https://www.tradingkey.com/news/market-movers/262003087-market-movers-xpdusd-20260701",
-      "source": "TradingKey",
-      "category": "metal",
-      "published": "2026-07-01 14:10"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04 05:01",
+  "updated_at": "2026-07-04 05:45",
   "items": [
     {
       "id": "1s5p5p2",
@@ -453,6 +453,17 @@
       "published": "2026-07-02 21:45"
     },
     {
+      "id": "porv3e",
+      "title": "With Hormuz reopened, has the oil shortage turned into a glut?",
+      "title_vi": "Khi Hormuz mở cửa trở lại, liệu tình trạng thiếu dầu có trở nên dư thừa?",
+      "summary_vi": "Khi dòng chảy tiếp tục qua eo biển, tình trạng dư thừa dầu có thể một lần nữa gây bất ổn cho thị trường năng lượng toàn cầu.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a464d29-1782992169.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/7/2/with-hormuz-reopened-has-the-oil-shortage-turned-into-a-glut",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-07-02 20:50"
+    },
+    {
       "id": "1wf47qp",
       "title": "LME metals whipsawed by war and peace in first half of 2026",
       "title_vi": "Kim loại LME bị ảnh hưởng bởi chiến tranh và hòa bình trong nửa đầu năm 2026",
@@ -539,17 +550,6 @@
       "source": "Bendigo Advertiser",
       "category": "metal",
       "published": "2026-07-02 10:00"
-    },
-    {
-      "id": "1d5tx7d",
-      "title": "Wheat futures rise as USDA cuts outlook after weak winter crop",
-      "title_vi": "Giá lúa mì kỳ hạn tăng do USDA cắt giảm triển vọng sau vụ mùa đông yếu kém",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.msn.com/en-us/money/markets/wheat-futures-rise-as-usda-cuts-outlook-after-weak-winter-crop/ar-AA270OZA",
-      "source": "MSN",
-      "category": "agri",
-      "published": "2026-07-02 08:14"
     }
   ]
 }

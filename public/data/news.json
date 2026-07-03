@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03 20:01",
+  "updated_at": "2026-07-03 20:15",
   "items": [
     {
       "id": "1fkodo4",
@@ -398,6 +398,17 @@
       "published": "2026-07-02 17:09"
     },
     {
+      "id": "7rzkcs",
+      "title": "AB Foods warns of more sugar losses as Iran war lifts gas costs",
+      "title_vi": "AB Foods cảnh báo tổn thất đường nhiều hơn khi chiến tranh Iran làm tăng chi phí gas",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/retail-consumer/primark-owner-ab-foods-still-expects-lower-annual-profit-2026-07-01/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-07-02 16:45"
+    },
+    {
       "id": "1t5ol77",
       "title": "Cocoa Butter Market Size, Share, Growth, Analysis, Report, 2034",
       "title_vi": "Quy mô thị trường bơ ca cao, thị phần, tăng trưởng, phân tích, báo cáo, 2034",
@@ -539,17 +550,6 @@
       "source": "Українські Національні Новини (УНН)",
       "category": "soft",
       "published": "2026-07-01 23:06"
-    },
-    {
-      "id": "ur3baj",
-      "title": "Russian Blood and Treasure: The Ballooning Costs of Putin’s War",
-      "title_vi": "Máu và kho báu nước Nga: Chi phí ngày càng tăng trong cuộc chiến của Putin",
-      "summary_vi": "Theo dữ liệu mới của CSIS, Nga đã phải gánh chịu khoảng 1,4 triệu thương vong và 450.000 người thiệt mạng ở Ukraine chỉ vì giành được lãnh thổ nhỏ. Ngoài ra, Ukraine còn tiến hành các cuộc tấn công sâu vào lãnh thổ Nga, bao gồm cả bằng máy bay không người lái hỗ trợ AI.",
-      "image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2026-06/GettyImages-2281549370_cropped.jpg?VersionId=2htSe8Dy4XcTtnxcm75ZF6n1ndl8m3CS",
-      "link": "https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war",
-      "source": "CSIS | Center for Strategic and International Studies",
-      "category": "energy",
-      "published": "2026-07-01 22:59"
     }
   ]
 }

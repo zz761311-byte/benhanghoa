@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03 15:01",
+  "updated_at": "2026-07-03 15:30",
   "items": [
     {
       "id": "okgbie",
@@ -154,6 +154,17 @@
       "source": "Agrolatam",
       "category": "macro",
       "published": "2026-07-03 02:20"
+    },
+    {
+      "id": "d852mz",
+      "title": "Ramkumar: Indian Mills Value American Cotton’s Quality and Reliability",
+      "title_vi": "Ramkumar: Các nhà máy Ấn Độ đánh giá cao chất lượng và độ tin cậy của bông Mỹ",
+      "summary_vi": "Ấn Độ là thị trường quan trọng mà ngành bông, dệt may toàn cầu cần hết sức quan tâm.",
+      "image": "https://df75hwhlfejca.cloudfront.net/cottongrower/wp-content/uploads/2016/03/Seshadri-Ramkumar.jpg",
+      "link": "https://www.cottongrower.com/opinion/ramkumar-indian-mills-value-american-cottons-quality-and-reliability/",
+      "source": "Cotton Grower",
+      "category": "soft",
+      "published": "2026-07-03 02:06"
     },
     {
       "id": "irg3m4",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-07-01 20:30"
-    },
-    {
-      "id": "2ixx02",
-      "title": "Silver, Nasdaq Price Outlook: Fed, NFP and DXY in Focus",
-      "title_vi": "Triển vọng giá bạc, Nasdaq: Trọng tâm của Fed, NFP và DXY",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forex.com/ie/news-and-analysis/silver-nasdaq-price-outlook-fed-nfp-and-dxy-in-focus/",
-      "source": "FOREX.com",
-      "category": "metal",
-      "published": "2026-07-01 20:28"
     }
   ]
 }

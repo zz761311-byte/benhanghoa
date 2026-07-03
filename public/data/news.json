@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-03 06:47",
+  "updated_at": "2026-07-03 07:01",
   "items": [
+    {
+      "id": "8h608q",
+      "title": "UAE Rewrites Offshore Oil Pricing To Capture Asian Markets",
+      "title_vi": "UAE viết lại giá dầu ngoài khơi để nắm bắt thị trường châu Á",
+      "summary_vi": "Trước đây, chúng tôi đã báo cáo rằng loại dầu thô hàng đầu của Abu Dhabi, dầu thô Murban, đã nhanh chóng nổi lên, với giá dầu thô kỳ hạn Murban đã nhanh chóng phát triển từ chuẩn mực khu vực thành tiêu chuẩn định giá cơ bản toàn cầu. Được biết đến với trọng lực API cao và hàm lượng lưu huỳnh thấp, Murban",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-02_dkqw96avfx.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/UAE-Rewrites-Offshore-Oil-Pricing-To-Capture-Asian-Markets.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-03 07:00"
+    },
+    {
+      "id": "r0yloy",
+      "title": "Crude oil prices have fallen to pre-war levels, but gas prices haven’t – what gives?",
+      "title_vi": "Giá dầu thô đã giảm xuống mức trước chiến tranh, nhưng giá xăng thì không - điều gì mang lại?",
+      "summary_vi": "Kể từ khi tuyên bố ngừng bắn, giá dầu thô đã giảm. Giá một thùng dầu hôm thứ Tư gần bằng mức giá trước chiến tranh. Nhưng giá xăng vẫn cao hơn khoảng 87 xu so với trước chiến tranh.",
+      "image": "https://gray-wala-prod.gtv-cdn.com/resizer/v2/ZXRXAEBKFZCRVGJ2IWY46FSODU.jpg?auth=362f9d28bd88c825ba310c94a899695f24c6c3e7ccea6b99fe17022987b9e9eb&width=1200&height=600&smart=true",
+      "link": "https://www.fox10tv.com/2026/07/02/crude-oil-prices-have-fallen-pre-war-levels-gas-prices-havent-what-gives/",
+      "source": "fox10tv.com",
+      "category": "energy",
+      "published": "2026-07-03 06:54"
+    },
     {
       "id": "1u28hsi",
       "title": "Tehran Is Racing the Clock to Export as Much Oil as Possible",
@@ -118,17 +140,6 @@
       "summary_vi": "Nhóm bảy thành viên gồm các nhà sản xuất dầu OPEC+ đã hạn chế sản xuất kể từ năm 2023 dự kiến ​​sẽ gia hạn một loạt đợt tăng hạn ngạch sản lượng mà họ đưa ra sau khi Mỹ và Israel tấn công Iran, gây ra cuộc chiến mới nhất ở Trung Đông. Tuy nhiên, UAE đã vận chuyển r",
       "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
       "link": "https://oilprice.com/Energy/Crude-Oil/OPEC-Plans-Another-Output-Hike-The-Market-Barely-Notices.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-03 00:30"
-    },
-    {
-      "id": "bi4j8g",
-      "title": "Trump Administration Advances New California Oil Lease Plans",
-      "title_vi": "Chính quyền Trump thúc đẩy kế hoạch cho thuê dầu mới ở California",
-      "summary_vi": "Cục Quản lý Đất đai đang cho California một cơ hội khác để cân nhắc việc cho thuê dầu khí—dù tiểu bang có muốn hay không. Hôm thứ Năm, BLM đã mở một giai đoạn xác định phạm vi công khai kéo dài 30 ngày đối với 50 lô dầu khí liên bang bao phủ khoảng 36.000 mẫu Anh trên khắp Kern, Kings,",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Administration-Advances-New-California-Oil-Lease-Plans.html",
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-03 00:30"
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "metal",
       "published": "2026-07-01 19:52"
-    },
-    {
-      "id": "18knver",
-      "title": "Why is Impala Platinum (IMPUY) Catching the Eye of Quant Analysts",
-      "title_vi": "Tại sao Impala Platinum (IMPUY) lại lọt vào mắt xanh của các nhà phân tích định lượng",
-      "summary_vi": "Impala Platinum (IMPUY) đang thu hút các nhà phân tích định lượng với xếp hạng \"Rất nên mua\". Động lực giá tích cực và các điều chỉnh ước tính tăng lên, cùng với những cải tiến về hoạt động và sự thay đổi của thị trường, đang thu hút sự quan tâm.",
-      "image": "https://investgpt-test.oss-us-east-1.aliyuncs.com/blog/mini_pexels-photo-8442431.jpeg",
-      "link": "https://www.kavout.com/market-lens/why-is-impala-platinum-impuy-catching-the-eye-of-quant-analysts",
-      "source": "Kavout | AI",
-      "category": "metal",
-      "published": "2026-07-01 19:29"
     }
   ]
 }

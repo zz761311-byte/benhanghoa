@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04 03:05",
+  "updated_at": "2026-07-04 04:01",
   "items": [
     {
       "id": "1s5p5p2",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-03 23:30"
+    },
+    {
+      "id": "8i0lvs",
+      "title": "Will Silver’s Price Action be a Bucking Bronco?",
+      "title_vi": "Liệu hành động giá của Bạc có phải là một Bucking Bronco không?",
+      "summary_vi": "Giá bạc vẫn ở trên mức cao nhất năm 1980, mức kháng cự kỹ thuật dài hạn đã trở thành mức hỗ trợ quan trọng. Ở mức khoảng 62 USD/ounce, bạc đang hấp thụ hành động giá parabol khiến giá vượt quá 120 USD/ounce trước khi điều chỉnh.",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Metals/Silver/Silver%20bullion%20by%20SonerCdem%20via%20iStock.jpg",
+      "link": "https://www.barchart.com/story/news/3118505/will-silvers-price-action-be-a-bucking-bronco",
+      "source": "Barchart.com",
+      "category": "metal",
+      "published": "2026-07-03 23:28"
     },
     {
       "id": "4i22n3",
@@ -539,17 +550,6 @@
       "source": "MSN",
       "category": "agri",
       "published": "2026-07-02 08:14"
-    },
-    {
-      "id": "15rm4yo",
-      "title": "Top 12 Best Spark Plugs For Audi A6 That Boost Performance",
-      "title_vi": "Top 12 Bugi Đánh Lửa Tốt Nhất Cho Xe Audi A6 Giúp Tăng Hiệu Năng Vận Hành",
-      "summary_vi": "Đối với những người sở hữu một chiếc Audi A6, việc duy trì hiệu suất động cơ êm ái và tiết kiệm nhiên liệu thường phụ thuộc vào việc trang bị bugi đánh lửa phù hợp. Tia lửa bị mòn hoặc không phù hợp",
-      "image": "https://mikesmowersspokane.com/wp-content/uploads/2026/06/best-spark-plugs-for-audi-a6.jpg",
-      "link": "https://mikesmowersspokane.com/best-spark-plugs-for-audi-a6/",
-      "source": "mikesmowersspokane.com",
-      "category": "energy",
-      "published": "2026-07-02 06:53"
     }
   ]
 }

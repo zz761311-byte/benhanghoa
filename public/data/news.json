@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-03 23:01",
+  "updated_at": "2026-07-04 00:01",
   "items": [
+    {
+      "id": "12rjf9o",
+      "title": "DOJ Urges States to Enforce Fuel Price-Gouging Laws",
+      "title_vi": "DOJ kêu gọi các bang thực thi luật chống giá nhiên liệu",
+      "summary_vi": "Chính quyền Trump đang thực hiện chiến dịch chống lại giá xăng cao ở các bang và đang thực hiện nó một cách chính thức. Hơn một tuần sau khi Tổng thống Donald Trump ra lệnh cho Bộ Tư pháp điều tra khả năng tăng giá tại máy bơm, cơ quan quản lý chống độc quyền liên bang",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-03_jsinw5y8dq.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/DOJ-Urges-States-to-Enforce-Fuel-Price-Gouging-Laws.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-03 23:30"
+    },
     {
       "id": "4i22n3",
       "title": "Oil Markets Grow Numb to U.S.-Iran Ceasefire Drama",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-03 22:30"
+    },
+    {
+      "id": "c51td8",
+      "title": "Canadian gov’t commits $352M to Red Chris mine expansion in British Columbia",
+      "title_vi": "Chính phủ Canada cam kết chi 352 triệu USD để mở rộng mỏ Red Chris ở British Columbia",
+      "summary_vi": "Tháng trước, dự án đã nhận được sự phê duyệt quan trọng theo quy định.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Red-Chris-Mine-Imperial.jpg",
+      "link": "https://www.mining.com/canadian-govt-commits-352m-to-red-chris-mine-expansion-in-british-columbia/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-03 22:25"
     },
     {
       "id": "p9i4hc",
@@ -88,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-03 19:00"
-    },
-    {
-      "id": "n92f6q",
-      "title": "India Denies Directly Exporting Fuel to Russia, But Admits Traders May Be",
-      "title_vi": "Ấn Độ phủ nhận trực tiếp xuất khẩu nhiên liệu sang Nga nhưng thừa nhận các thương nhân có thể",
-      "summary_vi": "Bộ trưởng Dầu mỏ Ấn Độ Hardeep Singh Puri cho biết các nhà máy lọc dầu Ấn Độ không trực tiếp xuất khẩu bất kỳ sản phẩm dầu mỏ tinh chế nào sang nước Nga đang thiếu nhiên liệu, mặc dù một số nguồn cung cấp từ các thương nhân có thể sẽ đến Nga. Các báo cáo nổi lên vào đầu tuần này rằng Nga đã bắt đầu nhập khẩu",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-03_je2gs1a37o.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Denies-Directly-Exporting-Fuel-to-Russia-But-Admits-Traders-May-Be.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-03 18:00"
     },
     {
       "id": "1nvay5t",
@@ -209,6 +220,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-03 04:50"
+    },
+    {
+      "id": "15tvowb",
+      "title": "US uranium revival gains traction as output triples",
+      "title_vi": "Sự hồi sinh uranium của Mỹ thu hút được sự chú ý khi sản lượng tăng gấp ba lần",
+      "summary_vi": "Hầu hết các biện pháp đo lường hoạt động uranium của Mỹ đều đạt mức cao nhất trong gần một thập kỷ vào năm ngoái.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/DeCroce_Aerial.jpg",
+      "link": "https://www.mining.com/us-uranium-revival-gains-traction-as-output-triples/",
+      "source": "Mining.com",
+      "category": "energy",
+      "published": "2026-07-03 04:20"
     },
     {
       "id": "j9rkzi",
@@ -387,15 +409,15 @@
       "published": "2026-07-02 21:45"
     },
     {
-      "id": "1jz468i",
-      "title": "British Columbia mining hampered by DRIPA ‘confusion’",
-      "title_vi": "Việc khai thác ở British Columbia bị cản trở bởi 'sự nhầm lẫn' của DRIPA",
-      "summary_vi": "Vào tháng 6, Tòa án Tối cao BC đã dỡ bỏ lệnh cấm tạm thời hạn chế các hoạt động xây dựng để chờ giải quyết của cơ quan tư pháp.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Skeena-Eskay-Camp-1024x612.png",
-      "link": "https://www.mining.com/british-columbia-mining-hampered-by-dripa-confusion/",
-      "source": "Mining.com",
+      "id": "1wf47qp",
+      "title": "LME metals whipsawed by war and peace in first half of 2026",
+      "title_vi": "Kim loại LME bị ảnh hưởng bởi chiến tranh và hòa bình trong nửa đầu năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/commentary/reuters-open-interest/lme-metals-whipsawed-by-war-peace-first-half-2026-2026-07-02/",
+      "source": "Reuters",
       "category": "metal",
-      "published": "2026-07-02 19:20"
+      "published": "2026-07-02 20:45"
     },
     {
       "id": "gjyp3e",
@@ -528,28 +550,6 @@
       "source": "XTB.com",
       "category": "metal",
       "published": "2026-07-02 04:29"
-    },
-    {
-      "id": "1yz3cvh",
-      "title": "Inside the California ICE detention boycott over $18 coffee grounds, $21 tampon boxes",
-      "title_vi": "Bên trong cuộc tẩy chay của ICE tại California đối với bã cà phê trị giá 18 đô la, hộp băng vệ sinh trị giá 21 đô la",
-      "summary_vi": "Theo những người ủng hộ Tổ chức Hợp tác vì Công lý Người nhập cư California, ước tính có hơn 300 người bị giam giữ đã ký vào các lá thư khiếu nại gửi đến ban quản lý cơ sở.",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/8c189a2/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F84%2F85%2F6b3cda58463daecf1efd16558639%2Fimmigration-california-senators-98216.jpg",
-      "link": "https://www.latimes.com/politics/story/2026-07-01/california-immigrant-detainees-boycott-over-high-commissary-prices",
-      "source": "Los Angeles Times",
-      "category": "soft",
-      "published": "2026-07-02 04:00"
-    },
-    {
-      "id": "bzsvef",
-      "title": "Ukraine hit a Russian oil refinery for the second time in a week, Zelenskyy says",
-      "title_vi": "Ukraine tấn công nhà máy lọc dầu của Nga lần thứ hai trong một tuần, Zelenskyy nói",
-      "summary_vi": "Các cuộc tấn công vào các cơ sở dầu mỏ của Nga đã tạo ra một cuộc khủng hoảng nhiên liệu và gia tăng áp lực chính trị lên Điện Kremlin.",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-06-24T095414Z_752508744_RC2MZLAIMD3A_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-MOSCOW-1024x672.jpg",
-      "link": "https://www.pbs.org/newshour/world/ukraine-hit-a-russian-oil-refinery-for-the-second-time-in-a-week-zelenskyy-says",
-      "source": "PBS",
-      "category": "energy",
-      "published": "2026-07-02 01:27"
     }
   ]
 }

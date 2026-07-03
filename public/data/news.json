@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-03 11:01",
+  "updated_at": "2026-07-03 12:01",
   "items": [
+    {
+      "id": "1xn72vj",
+      "title": "Weather is now driving the grain market outlook",
+      "title_vi": "Thời tiết hiện đang thúc đẩy triển vọng thị trường ngũ cốc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.iasoybeans.com/newsroom/article/usda-report-shifts-attention-back-to-weather",
+      "source": "Iowa Soybean Association",
+      "category": "agri",
+      "published": "2026-07-03 08:46"
+    },
     {
       "id": "8h608q",
       "title": "UAE Rewrites Offshore Oil Pricing To Capture Asian Markets",
@@ -539,17 +550,6 @@
       "source": "VT Markets",
       "category": "metal",
       "published": "2026-07-01 20:07"
-    },
-    {
-      "id": "1moixmt",
-      "title": "June 2026 Metals Options Report",
-      "title_vi": "Báo cáo quyền chọn kim loại tháng 6 năm 2026",
-      "summary_vi": "Phân tích CVOL vàng thay đổi như thế nào, thanh khoản bạc ổn định và tình trạng thiếu đồng cơ cấu đang xác định các thông số rủi ro trên các đường cong kim loại trong Báo cáo quyền chọn kim loại tháng 6 năm 2026 của chúng tôi.",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/newsletters/metals-update/images/2026/may-metals-options-update-940x600.jpg",
-      "link": "https://www.cmegroup.com/newsletters/metals-options-update/metals-options-report-june-2026.html",
-      "source": "CME Group",
-      "category": "metal",
-      "published": "2026-07-01 19:52"
     }
   ]
 }

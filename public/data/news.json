@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-04 02:01",
+  "updated_at": "2026-07-04 03:01",
   "items": [
+    {
+      "id": "1s5p5p2",
+      "title": "OPEC Oil Production Jumps, But Gulf Supply Is Still Far From Normal",
+      "title_vi": "Sản lượng dầu của OPEC tăng vọt, nhưng nguồn cung ở vùng Vịnh vẫn chưa đạt mức bình thường",
+      "summary_vi": "Sản lượng dầu của OPEC phục hồi mạnh mẽ trong tháng 6 khi các nhà sản xuất vùng Vịnh cuối cùng đã bắt đầu đưa các thùng dầu bị đóng cửa hoạt động trở lại sau nhiều tháng gián đoạn do chiến tranh gây ra. Nhưng bất chấp con số ấn tượng, cartel vẫn không hoạt động được như trước khi có eo biển.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-03_iykhjxrazk.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Oil-Production-Jumps-But-Gulf-Supply-Is-Still-Far-From-Normal.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-04 02:30"
+    },
     {
       "id": "1fj7h1y",
       "title": "Copper&#039;s Next Move Depends On Washington, Not The Strait Of Hormuz",
@@ -101,17 +112,6 @@
       "published": "2026-07-03 22:25"
     },
     {
-      "id": "p9i4hc",
-      "title": "Japan&#039;s Top Oil Refiner Eyes a Post-Hormuz Future",
-      "title_vi": "Nhà máy lọc dầu hàng đầu của Nhật Bản hướng tới tương lai hậu Hormuz",
-      "summary_vi": "Nhà lọc dầu lớn nhất Nhật Bản, Eneos Holdings, có thể sẽ chuyển sang đa dạng hóa nguồn cung dầu thô của mình khỏi sự phụ thuộc nặng nề vào Trung Đông sau sự gián đoạn gây sốc của dòng chảy qua eo biển Hormuz, giám đốc tài chính của công ty, Soichiro Tanaka, nói với Reuters i",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-03_adwhfz9pgy.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Top-Oil-Refiner-Eyes-a-Post-Hormuz-Future.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-03 21:30"
-    },
-    {
       "id": "ak9mus",
       "title": "Copper Climbs With Industrial Metals as Rate-Hike Prospects Fade",
       "title_vi": "Đồng tăng cùng với kim loại công nghiệp khi triển vọng tăng lãi suất mờ dần",
@@ -121,6 +121,17 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-07-03 19:18"
+    },
+    {
+      "id": "1ff1s8p",
+      "title": "US oil companies see big profit jump, gird for clash over pump prices with Trump",
+      "title_vi": "Các công ty dầu mỏ của Mỹ chứng kiến ​​lợi nhuận tăng vọt, chuẩn bị cho cuộc xung đột về giá bơm với Trump",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/us-oil-companies-see-big-profit-jump-gird-clash-over-pump-prices-with-trump-2026-07-03/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-07-03 18:12"
     },
     {
       "id": "1nvay5t",
@@ -387,6 +398,17 @@
       "published": "2026-07-02 22:48"
     },
     {
+      "id": "12rpby8",
+      "title": "USDA Signals Big Soybean Crop—But Strong Demand Keeps Markets Watching",
+      "title_vi": "USDA báo hiệu vụ mùa đậu nành lớn—nhưng nhu cầu mạnh mẽ khiến thị trường phải theo dõi",
+      "summary_vi": "Điều ngạc nhiên không phải là nhiều mẫu đậu nành hơn mà là tốc độ sử dụng đậu nành. Bởi Jacquie Holland, Nhà kinh tế học ASA Mọi con mắt đều đổ dồn vào báo cáo của USDA hôm thứ Ba, với",
+      "image": "https://soygrowers.com/wp-content/uploads/2025/06/Jacqui-Header-Policy.jpg",
+      "link": "https://soygrowers.com/news-releases/usda-signals-big-soybean-crop-but-strong-demand-keeps-markets-watching/",
+      "source": "American Soybean Association",
+      "category": "agri",
+      "published": "2026-07-02 22:42"
+    },
+    {
       "id": "1e1a61n",
       "title": "Hudbay gains Peru approval to further increase Constancia mill throughput",
       "title_vi": "Hudbay được Peru chấp thuận tăng thêm sản lượng tại nhà máy Constancia",
@@ -528,28 +550,6 @@
       "source": "mikesmowersspokane.com",
       "category": "energy",
       "published": "2026-07-02 06:53"
-    },
-    {
-      "id": "1kmnly7",
-      "title": "Signs of divergence in the Platinum and Palladium markets",
-      "title_vi": "Dấu hiệu phân kỳ trên thị trường Bạch kim và Palladium",
-      "summary_vi": "Có những dấu hiệu phân kỳ trên thị trường bạch kim và paladi khi các nhà đầu tư vẫn lạc quan về bạch kim, trong khi tâm lý giảm giá dường như đang kiểm soát thị trường palladium.",
-      "image": "https://editorial.fxsstatic.com/images/i/Commodities_Platinum-2_Medium.jpg",
-      "link": "https://www.fxstreet.com/analysis/signs-of-divergence-in-the-platinum-and-palladium-markets-202607012302",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-07-02 06:02"
-    },
-    {
-      "id": "1pok3ou",
-      "title": "Top 10 Best 24f Car Battery Choices You Can’t Miss!",
-      "title_vi": "Top 10 Lựa Chọn Ắc Quy Ô Tô 24f Tốt Nhất Bạn Không Thể Bỏ Lỡ!",
-      "summary_vi": "Việc chọn loại ắc quy ô tô phù hợp có thể khiến bạn bối rối, đặc biệt khi bạn muốn có hiệu suất đáng tin cậy mà không cần thay thế thường xuyên. Nhiều tài xế chật vật",
-      "image": "https://mikesmowersspokane.com/wp-content/uploads/2026/06/best-24f-car-battery.jpg",
-      "link": "https://mikesmowersspokane.com/best-24f-car-battery/",
-      "source": "mikesmowersspokane.com",
-      "category": "metal",
-      "published": "2026-07-02 05:52"
     }
   ]
 }

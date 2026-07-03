@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03 07:01",
+  "updated_at": "2026-07-03 08:01",
   "items": [
     {
       "id": "8h608q",
@@ -22,6 +22,17 @@
       "source": "fox10tv.com",
       "category": "energy",
       "published": "2026-07-03 06:54"
+    },
+    {
+      "id": "o806hs",
+      "title": "Russia pounds Kyiv with missiles and drones after Ukraine's strikes on oil infrastructure",
+      "title_vi": "Nga tấn công Kiev bằng tên lửa và máy bay không người lái sau cuộc tấn công của Ukraine vào cơ sở hạ tầng dầu mỏ",
+      "summary_vi": "Tổng thống Ukraine Volodymyr Zelenskyy hứa sẽ trả đũa nặng nề sau khi loạt tên lửa và máy bay không người lái của Nga suốt đêm giết chết ít nhất 25 người ở Kyiv. Ukraine đã tiến hành các cuộc tấn công hàng loạt bằng máy bay không người lái vào sâu trong lãnh thổ Nga, nhắm vào các cơ sở quân sự và nhà máy lọc dầu. Kết quả là Nga đã phải gánh chịu tình trạng thiếu nhiên liệu.",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/ukraine-1024x714.jpg",
+      "link": "https://www.pbs.org/newshour/show/russia-pounds-kyiv-with-missiles-and-drones-after-ukraines-strikes-on-oil-infrastructure",
+      "source": "PBS",
+      "category": "energy",
+      "published": "2026-07-03 05:55"
     },
     {
       "id": "1u28hsi",
@@ -495,17 +506,6 @@
       "source": "DW.com",
       "category": "soft",
       "published": "2026-07-01 22:47"
-    },
-    {
-      "id": "15covsk",
-      "title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis",
-      "title_vi": "Cuộc tấn công bằng máy bay không người lái của Ukraine vào các nhà máy lọc dầu khiến Nga rơi vào cuộc khủng hoảng nhiên liệu mùa hè",
-      "summary_vi": "Đường dây xếp hàng ngày càng tăng tại các trạm xăng ở Nga - cùng với đó là sự thất vọng và bất ổn khi các cuộc tấn công của Ukraine kéo dài nhiều tháng đã khiến các nhà máy lọc dầu bốc cháy và làm tắc nghẽn nguồn cung cấp cho người lái xe trên khắp đất nước rộng lớn.",
-      "image": "https://dims.apnews.com/dims4/default/db1b401/2147483647/strip/true/crop/7864x5240+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbd%2Fde%2Fcee2ce36c27b49f5f23518c46226%2F12df82c1dca44d028f0832e06088b3f5",
-      "link": "https://apnews.com/article/russia-ukraine-war-fuel-crisis-gas-ec7e67f94ead8bf3ba064c785c2a8871",
-      "source": "AP News",
-      "category": "energy",
-      "published": "2026-07-01 21:14"
     },
     {
       "id": "7rzkcs",

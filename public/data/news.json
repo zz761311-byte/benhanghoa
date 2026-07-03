@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-03 14:01",
+  "updated_at": "2026-07-03 15:01",
   "items": [
+    {
+      "id": "okgbie",
+      "title": "Japan&#039;s LNG Imports Fall 7% as Utilities Chase Cheaper Coal",
+      "title_vi": "Nhập khẩu LNG của Nhật Bản giảm 7% do các tiện ích chạy theo than rẻ hơn",
+      "summary_vi": "Nhật Bản vào tháng trước đã giảm sản lượng khí đốt để chuyển sang sử dụng than do giá khí đốt tự nhiên hóa lỏng vẫn tăng mặc dù có nhiều báo cáo về dòng năng lượng ra khỏi eo biển Hormuz được cải thiện. Cả nước đã tạo ra 17,3 terawatt giờ từ các nhà máy điện chạy bằng khí đốt vào tháng 6, Bl",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-03_bs0irfzjxh.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-LNG-Imports-Fall-7-as-Utilities-Chase-Cheaper-Coal.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-03 15:00"
+    },
     {
       "id": "1tbvmx0",
       "title": "Alberta and Ottawa Greenlight New Pacific Pipeline",
@@ -20,8 +31,19 @@
       "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Coal-Power-Generation-Jumps-14-in-June.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-07-03 13:00"
+    },
+    {
+      "id": "1nmxh5i",
+      "title": "Japan, India to cooperate on petroleum stockpiling mechanism amid geopolitical woes",
+      "title_vi": "Nhật Bản, Ấn Độ hợp tác về cơ chế dự trữ xăng dầu trong bối cảnh bất ổn địa chính trị",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/refined-products/070226-japan-india-to-cooperate-on-petroleum-stockpiling-mechanism-amid-geopolitical-woes",
+      "source": "S&P Global",
+      "category": "energy",
+      "published": "2026-07-03 09:59"
     },
     {
       "id": "1xn72vj",
@@ -143,17 +165,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-03 01:30"
-    },
-    {
-      "id": "1ex04ma",
-      "title": "Tesla Delivers a Blowout Quarter, Crushing Wall Street Estimates",
-      "title_vi": "Tesla mang lại một quý bùng nổ, đè bẹp các ước tính của Phố Wall",
-      "summary_vi": "Tesla đã có một quý hai thành công hơn nhiều so với dự kiến, báo cáo đã giao được 480.126 xe, vượt xa dự báo của Phố Wall là khoảng 406.600. Công ty cũng đã sản xuất 451.758 xe trong kỳ, báo hiệu sự cải thiện đáng kể sau khởi đầu chậm chạp trong năm.",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Energy/Energy-General/Tesla-Delivers-a-Blowout-Quarter-Crushing-Wall-Street-Estimates.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-03 01:00"
     },
     {
       "id": "rcz4bl",
@@ -539,17 +550,6 @@
       "source": "FOREX.com",
       "category": "metal",
       "published": "2026-07-01 20:28"
-    },
-    {
-      "id": "i75kov",
-      "title": "Copper Slips as US Tariff Report and Fed Rate Bets Pressure Metals",
-      "title_vi": "Đồng trượt giá do báo cáo thuế quan của Mỹ và đặt cược lãi suất của Fed gây áp lực cho kim loại",
-      "summary_vi": "Đồng giảm xuống dưới 6,10 USD khi các nhà giao dịch theo dõi thuế đồng tinh chế của Mỹ, kỳ vọng lãi suất của Fed và tín hiệu nhu cầu công nghiệp.",
-      "image": "https://www.vtmarkets.com/wp-content/themes/vt/images/logo_meta_20201127.jpg",
-      "link": "https://www.vtmarkets.com/en-ca/analysis/copper-slips-as-us-tariff-report-and-fed-rate-bets-pressure-metals/",
-      "source": "VT Markets",
-      "category": "metal",
-      "published": "2026-07-01 20:07"
     }
   ]
 }

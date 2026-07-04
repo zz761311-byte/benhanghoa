@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05 04:15",
+  "updated_at": "2026-07-05 05:00",
   "items": [
     {
       "id": "j6w89t",
@@ -154,6 +154,17 @@
       "source": "Barchart.com",
       "category": "metal",
       "published": "2026-07-03 23:28"
+    },
+    {
+      "id": "1jy1zvl",
+      "title": "Russia unleashes massive barrage on Ukraine, killing at least 30 people, as Putin shrugs off energy concerns",
+      "title_vi": "Nga tung đòn tấn công lớn vào Ukraine, giết chết ít nhất 30 người, khi Putin bác bỏ lo ngại về năng lượng",
+      "summary_vi": "Đã có hơn 50 vụ tấn công được báo cáo của Ukraine vào các cơ sở năng lượng ở Nga và chiếm đóng Crimea kể từ tháng 3, làm suy giảm nghiêm trọng khả năng lọc dầu của nước này.",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-03T152959Z_1582723239_RC2F6MA0GAF6_RTRMADP_3_UKRAINE-CRISIS-1024x577.jpg",
+      "link": "https://www.pbs.org/newshour/world/russia-unleashes-massive-barrage-on-ukraine-killing-at-least-30-people-as-putin-shrugs-off-energy-concerns",
+      "source": "PBS",
+      "category": "energy",
+      "published": "2026-07-03 22:56"
     },
     {
       "id": "c51td8",
@@ -539,17 +550,6 @@
       "source": "American Soybean Association",
       "category": "agri",
       "published": "2026-07-02 22:42"
-    },
-    {
-      "id": "1e1a61n",
-      "title": "Hudbay gains Peru approval to further increase Constancia mill throughput",
-      "title_vi": "Hudbay được Peru chấp thuận tăng thêm sản lượng tại nhà máy Constancia",
-      "summary_vi": "Giấy phép mới tăng công suất chế biến của nhà máy Constancia từ 31 triệu tấn mỗi năm (mtpa) lên 34 mtpa.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Constancia-open-pit.jpg",
-      "link": "https://www.mining.com/hudbay-gains-peru-approval-to-further-increase-constancia-mill-throughput/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-02 22:16"
     }
   ]
 }

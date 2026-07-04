@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04 16:01",
+  "updated_at": "2026-07-04 17:01",
   "items": [
     {
       "id": "jbr2gp",
@@ -156,6 +156,17 @@
       "published": "2026-07-03 16:20"
     },
     {
+      "id": "xbvp04",
+      "title": "How a fertilizer shortage caused by the Iran war could affect U.S. food prices",
+      "title_vi": "Sự thiếu hụt phân bón do chiến tranh Iran có thể ảnh hưởng đến giá lương thực của Mỹ như thế nào",
+      "summary_vi": "Việc đóng cửa eo biển Hormuz đã làm gián đoạn việc vận chuyển phân bón và khí đốt tự nhiên, một thành phần quan trọng trong sản xuất phân bón. Nó khó có thể gây ra sự tăng giá lớn đối với người mua hàng tạp hóa ở Hoa Kỳ.",
+      "image": "https://npr.brightspotcdn.com/dims4/default/055597c/2147483647/strip/true/crop/6000x3150+0+113/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F6000x3375%200%20313%2Fresize%2F6000x3375%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2Fb7%2F200ac7bf4d39a8f60fc4f7560119%2Fgettyimages-2272287965.jpg",
+      "link": "https://www.nhpr.org/2026-07-03/how-a-fertilizer-shortage-caused-by-the-iran-war-could-affect-u-s-food-prices",
+      "source": "New Hampshire Public Radio",
+      "category": "energy",
+      "published": "2026-07-03 16:00"
+    },
+    {
       "id": "dvfxbz",
       "title": "Gold prices set for first weekly rise in a month as investors scale back Fed rate hike bets",
       "title_vi": "Giá vàng chuẩn bị tăng tuần đầu tiên trong tháng khi nhà đầu tư giảm đặt cược Fed tăng lãi suất",
@@ -165,6 +176,17 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-07-03 15:53"
+    },
+    {
+      "id": "1kzjv6j",
+      "title": "Silver price forecast: bulls eye next breakout as dollar pressure fades",
+      "title_vi": "Dự báo giá bạc: xu hướng tăng giá đột phá tiếp theo khi áp lực đồng đô la giảm dần",
+      "summary_vi": "Sự phục hồi của bạc đang thu hút lực lượng vì thị trường không còn giao dịch chỉ vì sợ hãi. Kim loại trắng đã tăng phiên thứ tư liên tiếp vào thứ Sáu, vượt lên trên 62 USD/ounce do báo cáo việc làm yếu kém của Mỹ buộc các nhà đầu tư phải suy nghĩ lại về việc Cục Dự trữ Liên bang có thể tăng lãi suất trong bao lâu nữa. Năng lượng thấp hơn…",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://www.tradingview.com/news/invezz:59e21028a094b:0-silver-price-forecast-bulls-eye-next-breakout-as-dollar-pressure-fades/",
+      "source": "TradingView",
+      "category": "metal",
+      "published": "2026-07-03 12:16"
     },
     {
       "id": "1nmxh5i",
@@ -528,28 +550,6 @@
       "source": "NPR",
       "category": "energy",
       "published": "2026-07-02 17:09"
-    },
-    {
-      "id": "7rzkcs",
-      "title": "AB Foods warns of more sugar losses as Iran war lifts gas costs",
-      "title_vi": "AB Foods cảnh báo tổn thất đường nhiều hơn khi chiến tranh Iran làm tăng chi phí gas",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/retail-consumer/primark-owner-ab-foods-still-expects-lower-annual-profit-2026-07-01/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-07-02 16:45"
-    },
-    {
-      "id": "1t5ol77",
-      "title": "Cocoa Butter Market Size, Share, Growth, Analysis, Report, 2034",
-      "title_vi": "Quy mô thị trường bơ ca cao, thị phần, tăng trưởng, phân tích, báo cáo, 2034",
-      "summary_vi": "Thị trường bơ ca cao được dự đoán sẽ tăng từ 6,65 tỷ USD vào năm 2026 lên 11,80 tỷ USD vào năm 2034, với tốc độ CAGR là 7,4% trong giai đoạn dự báo 2026–2034.",
-      "image": "https://straitsresearch.com/uploads/reports/cocoa-butter-market-58366.jpg",
-      "link": "https://straitsresearch.com/report/cocoa-butter-market",
-      "source": "Straits Research",
-      "category": "soft",
-      "published": "2026-07-02 14:53"
     }
   ]
 }

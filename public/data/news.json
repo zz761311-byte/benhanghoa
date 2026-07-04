@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05 00:48",
+  "updated_at": "2026-07-05 01:01",
   "items": [
     {
       "id": "1vzp5c6",
@@ -176,6 +176,17 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-07-03 19:18"
+    },
+    {
+      "id": "16o1avo",
+      "title": "Why California’s newest gas-price fight is moving to the pump",
+      "title_vi": "Tại sao cuộc chiến giá xăng mới nhất của California lại chuyển sang máy bơm",
+      "summary_vi": "Khi các tài xế phải đối mặt với giá xăng tăng cao trong kỳ nghỉ lễ, các quan chức California đang xem xét các thương hiệu, thuật toán và giá bán lẻ ngoài các nhà máy lọc dầu.",
+      "image": "https://i0.wp.com/calmatters.org/wp-content/uploads/2026/07/031926-Sacramento-Gas-Prices-MG-CM-04.jpg?fit=2000%2C1333&ssl=1",
+      "link": "https://calmatters.org/environment/2026/07/california-gas-prices-july-fourth/",
+      "source": "CalMatters",
+      "category": "energy",
+      "published": "2026-07-03 19:00"
     },
     {
       "id": "1ff1s8p",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-07-02 20:45"
-    },
-    {
-      "id": "gjyp3e",
-      "title": "Cotton-Candy Exoplanets: Two for the Price of One!",
-      "title_vi": "Các ngoại hành tinh kẹo bông: Hai giá một!",
-      "summary_vi": "Vệ tinh Khảo sát Ngoại hành tinh Quá cảnh của NASA đã tìm thấy hai hành tinh \"siêu phồng\" trong cùng một hệ, mỗi hành tinh nhẹ như kẹo bông.",
-      "image": "https://dq0hsqwjhea1.cloudfront.net/super-puff-03-v03-scaled.webp",
-      "link": "https://skyandtelescope.org/astronomy-news/cotton-candy-exoplanets-two-for-the-price-of-one/",
-      "source": "Sky & Telescope",
-      "category": "soft",
-      "published": "2026-07-02 19:05"
     }
   ]
 }

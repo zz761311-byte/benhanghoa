@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06 05:00",
+  "updated_at": "2026-07-06 05:43",
   "items": [
     {
       "id": "1shmf2i",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-06 00:00"
+    },
+    {
+      "id": "15ps713",
+      "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
+      "title_vi": "Ukraine tấn công các cảng dầu gần St. Petersburg ở Nga",
+      "summary_vi": "Các cuộc tấn công tầm xa là loạt đạn mới nhất trong chiến dịch mở rộng của Ukraine nhằm gây thiệt hại kinh tế cho Nga và cản trở cỗ máy chiến tranh của nước này.",
+      "image": "https://static.dw.com/image/77830722_6.jpg",
+      "link": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574",
+      "source": "DW.com",
+      "category": "energy",
+      "published": "2026-07-05 22:59"
     },
     {
       "id": "1ud71yz",
@@ -77,17 +88,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-05 00:00"
-    },
-    {
-      "id": "eoz48l",
-      "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
-      "title_vi": "Ukraine tấn công các cơ sở dầu mỏ và quân sự gần St Petersburg của Nga",
-      "summary_vi": "Máy bay không người lái của Kyiv làm gián đoạn mạng Internet và các chuyến bay ở St Petersburg khi các cuộc tấn công của Nga ngăn chặn một cơ sở khí đốt ở miền trung Ukraine.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a48d1ab-1783157163.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg",
-      "source": "Al Jazeera",
-      "category": "energy",
-      "published": "2026-07-04 23:30"
     },
     {
       "id": "1vycugb",

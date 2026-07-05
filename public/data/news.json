@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05 07:16",
+  "updated_at": "2026-07-05 08:00",
   "items": [
     {
       "id": "8pl47t",
@@ -66,6 +66,17 @@
       "source": "TradingView",
       "category": "metal",
       "published": "2026-07-04 17:14"
+    },
+    {
+      "id": "1jlojgn",
+      "title": "EXPLAINER – From ‘oil state’ to fuel shortages: How Ukraine's strikes are pressuring Russia's energy sector",
+      "title_vi": "NGƯỜI GIẢI THÍCH – Từ ‘trạng thái dầu mỏ’ đến tình trạng thiếu nhiên liệu: Các cuộc đình công của Ukraine đang gây áp lực lên ngành năng lượng của Nga như thế nào",
+      "summary_vi": "Tình trạng thiếu nhiên liệu đã lan rộng khắp hơn 40 khu vực của Nga, khiến chính quyền phải áp đặt giới hạn bán hàng | Anadolu",
+      "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/07/04/thumbs_b_c_9df6e3a97f436aa4bb14cf2a29eb4f7d.jpg",
+      "link": "https://www.aa.com.tr/en/economy/explainer-from-oil-state-to-fuel-shortages-how-ukraines-strikes-are-pressuring-russias-energy-sector/3985972",
+      "source": "Anadolu Ajansı",
+      "category": "energy",
+      "published": "2026-07-04 17:10"
     },
     {
       "id": "15ps713",
@@ -539,17 +550,6 @@
       "source": "CBS News",
       "category": "metal",
       "published": "2026-07-02 22:48"
-    },
-    {
-      "id": "hf961z",
-      "title": "Corn sweat makes hot temperatures feel worse. Ways you can stay safe",
-      "title_vi": "Mồ hôi ngô khiến nhiệt độ nóng bức trở nên tồi tệ hơn. Những cách bạn có thể giữ an toàn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.cincinnati.com/story/weather/2026/07/02/corn-sweat-ohio-crops-temperatures-feel-hotter/90781516007/",
-      "source": "Cincinnati Enquirer",
-      "category": "agri",
-      "published": "2026-07-02 22:42"
     }
   ]
 }

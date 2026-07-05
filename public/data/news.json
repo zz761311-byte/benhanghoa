@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06 03:00",
+  "updated_at": "2026-07-06 03:02",
   "items": [
     {
       "id": "1iojhnc",
@@ -178,6 +178,17 @@
       "published": "2026-07-04 01:38"
     },
     {
+      "id": "13hkci1",
+      "title": "Ottawa’s C$500M Red Chris bet tests British Columbia grid",
+      "title_vi": "Vụ cá cược Red Chris trị giá 500 triệu đô la C của Ottawa kiểm tra lưới British Columbia",
+      "summary_vi": "Red Chris sẽ cần tới 145 MW từ các kế hoạch nâng cấp Đường dây Truyền tải Tây Bắc để hỗ trợ việc mở rộng Block Cave.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/North-Coast-Transmission-Line_BC-Hydro-1024x587.jpg",
+      "link": "https://www.mining.com/ottawas-500m-red-chris-bet-tests-bc-grid/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-04 00:12"
+    },
+    {
       "id": "8i0lvs",
       "title": "Will Silver’s Price Action be a Bucking Bronco?",
       "title_vi": "Liệu hành động giá của Bạc có phải là một Bucking Bronco không?",
@@ -209,6 +220,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-03 22:25"
+    },
+    {
+      "id": "9bmujf",
+      "title": "Justice Department calls on states to join investigation into oil companies",
+      "title_vi": "Bộ Tư pháp kêu gọi các bang tham gia điều tra các công ty dầu mỏ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.politico.com/news/2026/07/03/justice-department-oil-companies-investigation-00986929",
+      "source": "Politico",
+      "category": "energy",
+      "published": "2026-07-03 21:32"
     },
     {
       "id": "ak9mus",
@@ -528,28 +550,6 @@
       "source": "Seeking Alpha",
       "category": "metal",
       "published": "2026-07-02 23:24"
-    },
-    {
-      "id": "43ml3",
-      "title": "Inside the 2026 Coffee Barometer, Part 1: Prices Swing, Structures Don’t",
-      "title_vi": "Bên trong Phong vũ biểu cà phê năm 2026, Phần 1: Giá dao động, cơ cấu không",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/07/02/inside-the-coffee-barometer-part-1-prices-swing-structures-dont/",
-      "source": "Daily Coffee News by Roast Magazine",
-      "category": "soft",
-      "published": "2026-07-02 23:14"
-    },
-    {
-      "id": "124waxz",
-      "title": "When will gas prices go down? What to know as you plan your July 4 road trip.",
-      "title_vi": "Khi nào giá xăng sẽ giảm? Những điều cần biết khi bạn lên kế hoạch cho chuyến đi vào ngày 4 tháng 7.",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/when-will-gas-prices-go-down-what-to-know-as-you-plan-your-july-4-road-trip-154506731.html",
-      "source": "Yahoo Finance",
-      "category": "energy",
-      "published": "2026-07-02 23:01"
     }
   ]
 }

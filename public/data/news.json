@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05 07:00",
+  "updated_at": "2026-07-05 07:16",
   "items": [
     {
       "id": "8pl47t",
@@ -77,6 +77,17 @@
       "source": "DW.com",
       "category": "energy",
       "published": "2026-07-04 16:05"
+    },
+    {
+      "id": "19pqh8i",
+      "title": "Copper prices and miners rise on potential US.-Iran deal that could lift global demand",
+      "title_vi": "Giá đồng và công ty khai thác tăng do thỏa thuận tiềm năng giữa Mỹ và Iran có thể thúc đẩy nhu cầu toàn cầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.msn.com/en-us/money/economy/copper-prices-and-miners-rise-on-potential-us-iran-deal-that-could-lift-global-demand/ar-AA25tCDE?apiversion",
+      "source": "MSN",
+      "category": "metal",
+      "published": "2026-07-04 08:53"
     },
     {
       "id": "jbr2gp",
@@ -537,17 +548,6 @@
       "image": "",
       "link": "https://www.cincinnati.com/story/weather/2026/07/02/corn-sweat-ohio-crops-temperatures-feel-hotter/90781516007/",
       "source": "Cincinnati Enquirer",
-      "category": "agri",
-      "published": "2026-07-02 22:42"
-    },
-    {
-      "id": "12rpby8",
-      "title": "USDA Signals Big Soybean Crop—But Strong Demand Keeps Markets Watching",
-      "title_vi": "USDA báo hiệu vụ mùa đậu nành lớn—nhưng nhu cầu mạnh mẽ khiến thị trường phải theo dõi",
-      "summary_vi": "Điều ngạc nhiên không phải là nhiều mẫu đậu nành hơn mà là tốc độ sử dụng đậu nành. Bởi Jacquie Holland, Nhà kinh tế học ASA Mọi con mắt đều đổ dồn vào báo cáo của USDA hôm thứ Ba, với",
-      "image": "https://soygrowers.com/wp-content/uploads/2025/06/Jacqui-Header-Policy.jpg",
-      "link": "https://soygrowers.com/news-releases/usda-signals-big-soybean-crop-but-strong-demand-keeps-markets-watching/",
-      "source": "American Soybean Association",
       "category": "agri",
       "published": "2026-07-02 22:42"
     }

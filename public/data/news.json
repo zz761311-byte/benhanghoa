@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05 22:57",
+  "updated_at": "2026-07-05 23:00",
   "items": [
     {
       "id": "1ud71yz",
@@ -475,6 +475,17 @@
       "published": "2026-07-03 02:06"
     },
     {
+      "id": "ju8ezx",
+      "title": "Shurley: USDA Acres Report Boosts US Crop, But Not By Much",
+      "title_vi": "Shurley: Báo cáo về mẫu đất của USDA thúc đẩy cây trồng ở Mỹ nhưng không nhiều",
+      "summary_vi": "Các con số cho thấy người trồng trọt sẽ trồng nhiều hơn 210.000 mẫu Anh so với dự định trồng hồi tháng Ba. Báo cáo Diện tích của USDA là ước tính đầu tiên về",
+      "image": "https://df75hwhlfejca.cloudfront.net/cottongrower/wp-content/uploads/2026/07/USDA-Planted-Acreage-2026.png",
+      "link": "https://www.cottongrower.com/opinion/shurley-usda-acres-report-boosts-us-crop-but-not-by-much/",
+      "source": "Cotton Grower",
+      "category": "agri",
+      "published": "2026-07-03 01:44"
+    },
+    {
       "id": "zm0sdy",
       "title": "U.S. Platinum Reserve Price USD, USPR Price Live Charts, Market Cap & News",
       "title_vi": "Giá dự trữ bạch kim của Hoa Kỳ USD, Biểu đồ trực tiếp về giá USPR, vốn hóa thị trường và tin tức",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "energy",
       "published": "2026-07-02 23:01"
-    },
-    {
-      "id": "v08led",
-      "title": "Almonty kicks off processing operations at Sangdong tungsten mine in South Korea",
-      "title_vi": "Almonty khởi động hoạt động chế biến tại mỏ vonfram Sangdong ở Hàn Quốc",
-      "summary_vi": "Mỏ Sangdong trước đây từng là một trong những nhà sản xuất vonfram lớn nhất thế giới trước khi hoạt động bị đình chỉ vào đầu những năm 1990.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Screenshot-2025-12-16-at-09-44-21-Picture1.jpg-JPEG-Image-1204-×-1600-pixels-—-Scaled-59_.png",
-      "link": "https://www.mining.com/almonty-kicks-off-processing-operations-at-sangdong-tungsten-mine-in-south-korea/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-02 22:59"
     }
   ]
 }

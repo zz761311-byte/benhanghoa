@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05 16:00",
+  "updated_at": "2026-07-05 16:58",
   "items": [
     {
       "id": "8pl47t",
@@ -55,6 +55,17 @@
       "source": "NBC News",
       "category": "energy",
       "published": "2026-07-04 20:55"
+    },
+    {
+      "id": "lyvzjv",
+      "title": "US Dollar Index: Unemployment Data and Geopolitical Risks to Test Resilience",
+      "title_vi": "Chỉ số Đô la Mỹ: Dữ liệu Thất nghiệp và Rủi ro địa chính trị để kiểm tra khả năng phục hồi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/analysis/us-dollar-index-unemployment-data-and-geopolitical-risks-to-test-resilience-200679892",
+      "source": "Investing.com",
+      "category": "macro",
+      "published": "2026-07-04 18:57"
     },
     {
       "id": "1s40xgx",
@@ -539,17 +550,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-02 22:59"
-    },
-    {
-      "id": "gk603x",
-      "title": "Silver's price is down 49% since January. Is it still a good investment?",
-      "title_vi": "Giá bạc giảm 49% kể từ tháng 1. Liệu nó vẫn là một khoản đầu tư tốt?",
-      "summary_vi": "Giá bạc đã giảm đáng kể so với mức cao nhất trong tháng Giêng. Đây",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/02/fe8ec416-bf92-41ef-81c0-88934b9290fe/thumbnail/1200x630/71db37f1e65ebbaa55c504e2d03b7001/gettyimages-1282903641.jpg",
-      "link": "https://www.cbsnews.com/news/silvers-price-down-since-january-still-good-investment/",
-      "source": "CBS News",
-      "category": "metal",
-      "published": "2026-07-02 22:48"
     }
   ]
 }

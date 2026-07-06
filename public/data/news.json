@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-06 21:00",
+  "updated_at": "2026-07-06 21:39",
   "items": [
+    {
+      "id": "13v4f26",
+      "title": "Fear of an Oil Glut May Be Overblown, Top Consultancy Says",
+      "title_vi": "Công ty tư vấn hàng đầu cho biết nỗi sợ dư thừa dầu có thể bị thổi phồng quá mức",
+      "summary_vi": "Có tới 75% lượng dầu trước đây chảy qua eo biển Hormuz dự kiến ​​sẽ quay trở lại thị trường vào cuối năm nay, nhưng giá dầu thấp hơn đáng kể không được đảm bảo cho năm 2027 vì căng thẳng Mỹ-Iran đang diễn ra khó có thể sớm được giải quyết tốt đẹp, Fereidun Feshar",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-06_ztwf3qiljm.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/fear-of-an-Oil-Glut-May-Be-Overblown-Top-Consultancy-Says.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-06 21:30"
+    },
     {
       "id": "kc0b36",
       "title": "Trump to Meet Zelenskyy at NATO Summit as Ukraine War Diplomacy Resumes",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-06 20:30"
+    },
+    {
+      "id": "uzruf2",
+      "title": "Gold Slips as Stronger U.S. Dollar Weighs on Bullion",
+      "title_vi": "Vàng trượt dốc khi đồng đô la Mỹ mạnh hơn đè nặng lên vàng thỏi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slips-stronger-u-dollar-130032421.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-07-06 20:00"
     },
     {
       "id": "1np3atc",
@@ -112,6 +134,17 @@
       "published": "2026-07-06 15:30"
     },
     {
+      "id": "19lx2ov",
+      "title": "Copper Price Forecast: Aluminum Substitution and Tariff Risk Test Record Rally",
+      "title_vi": "Dự báo giá đồng: đợt tăng giá kỷ lục kiểm tra rủi ro thuế quan và thay thế nhôm",
+      "summary_vi": "Giá đồng vẫn tăng trên 5,20 USD, nhưng việc thay thế nhôm và sự không chắc chắn về thuế quan của Mỹ có thể khiến đà tăng kỷ lục không ổn định trong ngắn hạn.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/01/Copper-cables.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/premium-copper-price-forecast-aluminum-substitution-and-tariff-risk-test-record-rally-1608432",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-07-06 15:10"
+    },
+    {
       "id": "tt5jnl",
       "title": "Pakistan Buys Second Spot LNG Cargo as Supply Crunch Persists",
       "title_vi": "Pakistan mua lô hàng LNG giao ngay thứ hai khi nguồn cung vẫn tồn tại",
@@ -121,17 +154,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-06 14:00"
-    },
-    {
-      "id": "1b368vb",
-      "title": "South Korea Charges Refiners With Gas Price Gouging",
-      "title_vi": "Hàn Quốc buộc tội các nhà máy lọc dầu bằng cách tăng giá khí đốt",
-      "summary_vi": "Các công tố viên Hàn Quốc đã buộc tội tất cả bốn nhà máy lọc dầu ở nước này tội thông đồng về giá nhiên liệu dẫn đến thiệt hại 17 tỷ USD, Reuters đưa tin, dẫn lời chính quyền Hàn Quốc. Theo một cuộc họp báo trên phương tiện truyền thông của công tố viên chính trong vụ án, hai nhà máy lọc dầu đã phối hợp",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Charges-Refiners-With-Gas-Price-Gouging.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-06 12:33"
     },
     {
       "id": "1ojwhfp",
@@ -165,17 +187,6 @@
       "source": "DW.com",
       "category": "energy",
       "published": "2026-07-05 22:59"
-    },
-    {
-      "id": "1cyequc",
-      "title": "Gold falls below $4,000 on Fed rate hike bets under Kevin Warsh",
-      "title_vi": "Vàng giảm xuống dưới 4.000 USD khi đặt cược tăng lãi suất của Fed dưới thời Kevin Warsh",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://qz.com/gold-price-falls-fed-rate-hike-bets-kevin-warsh-062526",
-      "source": "qz.com",
-      "category": "metal",
-      "published": "2026-07-04 23:09"
     },
     {
       "id": "9j5s1u",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-07-03 03:45"
-    },
-    {
-      "id": "i7xjqy",
-      "title": "2 highly ranked stocks to consider after May's hot CPI report: DOW, GLP",
-      "title_vi": "2 cổ phiếu xếp hạng cao cần cân nhắc sau báo cáo CPI nóng tháng 5: DOW, GLP",
-      "summary_vi": "",
-      "image": "",
-      "link": "http://www.msn.com/en-us/money/markets/2-highly-ranked-stocks-to-consider-after-mays-hot-cpi-report-dow-glp/ar-AA25kHDO?apiversion",
-      "source": "MSN",
-      "category": "macro",
-      "published": "2026-07-03 03:25"
     }
   ]
 }

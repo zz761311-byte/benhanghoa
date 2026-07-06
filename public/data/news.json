@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06 14:00",
+  "updated_at": "2026-07-06 15:00",
   "items": [
     {
       "id": "tt5jnl",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-06 12:33"
+    },
+    {
+      "id": "1ojwhfp",
+      "title": "Global food prices dip in June as cereal and sugar markets soften",
+      "title_vi": "Giá lương thực toàn cầu giảm trong tháng 6 do thị trường ngũ cốc và đường giảm nhẹ",
+      "summary_vi": "Theo dữ liệu mới do UN FAO công bố, giá hàng hóa thực phẩm toàn cầu giảm xuống vào tháng 6 năm 2026. Sự sụt giảm của ngũ cốc, đường và sữa vượt xa mức tăng của dầu thực vật và thịt. Chỉ số giá thực phẩm FAO đạt trung bình 130,3 điểm trong tháng 6, giảm 0,3% so với tháng 5, mặc dù vẫn cao hơn 2,2% điểm",
+      "image": "https://article.innovamarketinsights360.com/articleimgs/resized_rect_newsimages/jpg/639188629323972145Woman_shopping_for_vegetable_oil_in_the_supermarket..jpg",
+      "link": "https://www.foodingredientsfirst.com/news/global-food-prices-dip-june-2026.html",
+      "source": "Food Ingredients First",
+      "category": "soft",
+      "published": "2026-07-06 08:03"
     },
     {
       "id": "1vkxuye",
@@ -266,6 +277,17 @@
       "published": "2026-07-03 21:32"
     },
     {
+      "id": "tc50o2",
+      "title": "Gold Prices Slide 30% but Central Banks Keep Adding to Their Reserves",
+      "title_vi": "Giá vàng trượt 30% nhưng các ngân hàng trung ương tiếp tục bổ sung dự trữ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en/insights/gold-prices-slide-30pct-but-central-banks-keep-adding-to-their-reserves/",
+      "source": "StoneX",
+      "category": "metal",
+      "published": "2026-07-03 21:27"
+    },
+    {
       "id": "ak9mus",
       "title": "Copper Climbs With Industrial Metals as Rate-Hike Prospects Fade",
       "title_vi": "Đồng tăng cùng với kim loại công nghiệp khi triển vọng tăng lãi suất mờ dần",
@@ -319,17 +341,6 @@
       "source": "New Hampshire Public Radio",
       "category": "energy",
       "published": "2026-07-03 16:00"
-    },
-    {
-      "id": "dvfxbz",
-      "title": "Gold prices set for first weekly rise in a month as investors scale back Fed rate hike bets",
-      "title_vi": "Giá vàng chuẩn bị tăng tuần đầu tiên trong tháng khi nhà đầu tư giảm đặt cược Fed tăng lãi suất",
-      "summary_vi": "Kim loại quý được thúc đẩy khi các nhà đầu tư giảm bớt đặt cược vào đợt tăng lãi suất sắp xảy ra.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108272322-17724866482026-02-12t174915z_1354781381_rc2cajazgk8r_rtrmadp_0_ecuador-lundin-gold.jpeg?v=1772487883&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/07/03/gold-silver-price-inflation-fed-rate-hike.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-07-03 15:53"
     },
     {
       "id": "1kzjv6j",
@@ -539,17 +550,6 @@
       "source": "Cotton Grower",
       "category": "soft",
       "published": "2026-07-03 02:06"
-    },
-    {
-      "id": "ju8ezx",
-      "title": "Shurley: USDA Acres Report Boosts US Crop, But Not By Much",
-      "title_vi": "Shurley: Báo cáo về mẫu đất của USDA thúc đẩy cây trồng ở Mỹ nhưng không nhiều",
-      "summary_vi": "Các con số cho thấy người trồng trọt sẽ trồng nhiều hơn 210.000 mẫu Anh so với dự định trồng hồi tháng Ba. Báo cáo Diện tích của USDA là ước tính đầu tiên về",
-      "image": "https://df75hwhlfejca.cloudfront.net/cottongrower/wp-content/uploads/2026/07/USDA-Planted-Acreage-2026.png",
-      "link": "https://www.cottongrower.com/opinion/shurley-usda-acres-report-boosts-us-crop-but-not-by-much/",
-      "source": "Cotton Grower",
-      "category": "agri",
-      "published": "2026-07-03 01:44"
     }
   ]
 }

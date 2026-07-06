@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-07 05:41",
+  "updated_at": "2026-07-07 06:00",
   "items": [
+    {
+      "id": "q83ti5",
+      "title": "Why Abu Dhabi Is Building the World&#039;s First Integrated Energy-AI Economy",
+      "title_vi": "Tại sao Abu Dhabi đang xây dựng nền kinh tế năng lượng-AI tích hợp đầu tiên trên thế giới",
+      "summary_vi": "Trong nhiều thập kỷ, các quốc gia đã cạnh tranh bằng cách thiết lập các lĩnh vực năng lượng lớn hơn, cảng sâu hơn hoặc nền kinh tế kỹ thuật số mạnh hơn. Thời đại đó đang kết thúc. Nền kinh tế toàn cầu mới nổi, ngay cả khi bị rạn nứt, không còn được xác định bởi sự xuất sắc trong từng lĩnh vực riêng lẻ mà bởi khả năng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-06_2dgzfn3j90.jpg",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Why-Abu-Dhabi-Is-Building-the-Worlds-First-Integrated-Energy-AI-Economy.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-07-07 06:00"
+    },
     {
       "id": "cn8pw2",
       "title": "Big Oil Heads for Record Profits as Trump Turns Up the Heat on Gas Prices",
@@ -121,17 +132,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-07-07 00:58"
-    },
-    {
-      "id": "44l9im",
-      "title": "Russia’s Oil Windfall Vanishes as Urals Crashes to $42 a Barrel",
-      "title_vi": "Cơn gió dầu của Nga biến mất khi Urals giảm xuống còn 42 USD một thùng",
-      "summary_vi": "Giá dầu thô của Nga đã giảm trở lại mức trước chiến tranh Trung Đông, với giá dầu Urals hàng đầu của nước này trung bình chỉ 41,66 USD/thùng trong ba ngày đầu tháng Bảy. Sự sụt giảm này làm mất đi nguồn thu mà Moscow nhận được từ cuộc xung đột và gây áp lực lên ngân sách liên bang.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-06_wrptevdm1v.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Windfall-Vanishes-as-Urals-Crashes-to-42-a-Barrel.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-07 00:30"
     },
     {
       "id": "hyf1gv",
@@ -530,6 +530,17 @@
       "published": "2026-07-03 16:00"
     },
     {
+      "id": "1rj67wj",
+      "title": "The Geopolitical Winds Shift, LME Base Metals Experience a Roller-Coaster Ride in the First Half of the Year",
+      "title_vi": "Sự thay đổi gió địa chính trị, Kim loại cơ bản LME trải qua chuyến đi tàu lượn siêu tốc trong nửa đầu năm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://nai500.com/blog/2026/07/the-geopolitical-winds-shift-lme-base-metals-experience-a-roller-coaster-ride-in-the-first-half-of-the-year/",
+      "source": "NAI500",
+      "category": "metal",
+      "published": "2026-07-03 13:43"
+    },
+    {
       "id": "1kzjv6j",
       "title": "Silver price forecast: bulls eye next breakout as dollar pressure fades",
       "title_vi": "Dự báo giá bạc: xu hướng tăng giá đột phá tiếp theo khi áp lực đồng đô la giảm dần",
@@ -539,17 +550,6 @@
       "source": "TradingView",
       "category": "metal",
       "published": "2026-07-03 12:16"
-    },
-    {
-      "id": "1ci3ei1",
-      "title": "How tokenization could reshape commodity supply chains",
-      "title_vi": "Làm thế nào token hóa có thể định hình lại chuỗi cung ứng hàng hóa",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.fastcompany.com/91522267/how-tokenization-could-reshape-commodity-supply-chains",
-      "source": "Fast Company",
-      "category": "macro",
-      "published": "2026-07-03 10:54"
     }
   ]
 }

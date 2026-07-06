@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 04:00",
+  "updated_at": "2026-07-07 04:06",
   "items": [
     {
       "id": "injfds",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-07 01:00"
+    },
+    {
+      "id": "j9rkzi",
+      "title": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026",
+      "title_vi": "Chiến tranh Iran làm đảo lộn triển vọng thị trường dầu mỏ của IEA khi cung và cầu toàn cầu giảm vào năm 2026",
+      "summary_vi": "IEA cắt giảm dự báo tăng trưởng nhu cầu dầu, với lý do Trung Đông và châu Á-Thái Bình Dương thu hẹp eo biển Hormuz, việc đóng cửa và các cuộc tấn công gây ra sự gián đoạn nguồn cung dầu lớn nhất trong lịch sử, IEA báo cáo IEA cảnh báo việc nối lại dòng chảy Hormuz là rất quan trọng; kịch bản thay thế chứng kiến ​​cú sốc cung, cầu sâu hơn (Reuters) - Chiến tranh Iran sẽ buộc",
+      "image": "https://energynow.com/wp-content/uploads/Oil-and-Gas-Industry-1200x810-1.jpg",
+      "link": "https://energynow.com/2026/04/iran-war-upends-ieas-oil-market-outlook-as-global-supply-and-demand-to-contract-in-2026/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-07-07 00:58"
     },
     {
       "id": "44l9im",
@@ -539,17 +550,6 @@
       "source": "New Hampshire Public Radio",
       "category": "energy",
       "published": "2026-07-03 16:00"
-    },
-    {
-      "id": "1kzjv6j",
-      "title": "Silver price forecast: bulls eye next breakout as dollar pressure fades",
-      "title_vi": "Dự báo giá bạc: xu hướng tăng giá đột phá tiếp theo khi áp lực đồng đô la giảm dần",
-      "summary_vi": "Sự phục hồi của bạc đang thu hút lực lượng vì thị trường không còn giao dịch chỉ vì sợ hãi. Kim loại trắng đã tăng phiên thứ tư liên tiếp vào thứ Sáu, vượt lên trên 62 USD/ounce do báo cáo việc làm yếu kém của Mỹ buộc các nhà đầu tư phải suy nghĩ lại về việc Cục Dự trữ Liên bang có thể tăng lãi suất trong bao lâu nữa. Năng lượng thấp hơn…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://www.tradingview.com/news/invezz:59e21028a094b:0-silver-price-forecast-bulls-eye-next-breakout-as-dollar-pressure-fades/",
-      "source": "TradingView",
-      "category": "metal",
-      "published": "2026-07-03 12:16"
     }
   ]
 }

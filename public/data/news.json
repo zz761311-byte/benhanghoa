@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 05:01",
+  "updated_at": "2026-07-07 05:41",
   "items": [
     {
       "id": "cn8pw2",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-07 04:00"
+    },
+    {
+      "id": "lx1m7h",
+      "title": "Saudi Arabia Ships 34 Million Barrels Through Hormuz Despite Thin Tanker Traffic",
+      "title_vi": "Ả Rập Saudi vận chuyển 34 triệu thùng qua Hormuz bất chấp lưu lượng tàu chở dầu thưa thớt",
+      "summary_vi": "Theo dữ liệu theo dõi hàng hóa của Kpler, Ả Rập Saudi đã vận chuyển khoảng 34 triệu thùng dầu thô qua eo biển Hormuz kể từ lệnh ngừng bắn ngày 17 tháng 6, mặc dù chỉ có khoảng 27 tàu thương mại mỗi ngày đi qua tuyến đường thủy này với tín hiệu AIS đang hoạt động.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-06_no2isd7xcz.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Ships-34-Million-Barrels-Through-Hormuz-Despite-Thin-Tanker-Traffic.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-07 03:30"
     },
     {
       "id": "1tp0evf",
@@ -143,17 +154,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-07-07 00:06"
-    },
-    {
-      "id": "3xcoj1",
-      "title": "Carbon Markets Just Had Their Most Important Moment in Years",
-      "title_vi": "Thị trường carbon vừa có thời điểm quan trọng nhất trong nhiều năm",
-      "summary_vi": "Trong phần lớn thập kỷ qua, tín dụng carbon đã gặp phải vấn đề về độ tin cậy. Các nhà phê bình gọi chúng là sự tẩy rửa xanh, các nhóm môi trường đặt câu hỏi về tính hiệu quả của chúng và một loạt dự án được thiết kế kém đã làm tổn hại đến niềm tin của toàn bộ thị trường. Kết quả là, tín chỉ carbon",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-06_dtj0rnnzp8.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Carbon-Markets-Just-Had-Their-Most-Important-Moment-in-Years.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-07-07 00:00"
     },
     {
       "id": "fujcts",

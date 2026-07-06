@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 06:00",
+  "updated_at": "2026-07-07 06:50",
   "items": [
     {
       "id": "q83ti5",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-07-07 06:00"
+    },
+    {
+      "id": "q4u6ck",
+      "title": "Wheat, rice and cotton prices rise as climate, geopolitical risks shape commodity markets",
+      "title_vi": "Giá lúa mì, gạo và bông tăng do khí hậu, rủi ro địa chính trị định hình thị trường hàng hóa",
+      "summary_vi": "Chuyên gia cho biết hàng hóa nông nghiệp khác nhau do El Nino, suy thoái kinh tế từ xung đột Mỹ-Israel-Iran đẩy giá lúa mì, gạo và bông tăng cao, trong khi cà phê, đường và ca cao giảm | Anadolu",
+      "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/07/07/thumbs_b_c_005bacbb919f9dd5de661824f843035e.jpg",
+      "link": "https://www.aa.com.tr/en/economy/wheat-rice-and-cotton-prices-rise-as-climate-geopolitical-risks-shape-commodity-markets/3987940",
+      "source": "Anadolu Ajansı",
+      "category": "macro",
+      "published": "2026-07-07 05:09"
     },
     {
       "id": "cn8pw2",
@@ -539,17 +550,6 @@
       "source": "NAI500",
       "category": "metal",
       "published": "2026-07-03 13:43"
-    },
-    {
-      "id": "1kzjv6j",
-      "title": "Silver price forecast: bulls eye next breakout as dollar pressure fades",
-      "title_vi": "Dự báo giá bạc: xu hướng tăng giá đột phá tiếp theo khi áp lực đồng đô la giảm dần",
-      "summary_vi": "Sự phục hồi của bạc đang thu hút lực lượng vì thị trường không còn giao dịch chỉ vì sợ hãi. Kim loại trắng đã tăng phiên thứ tư liên tiếp vào thứ Sáu, vượt lên trên 62 USD/ounce do báo cáo việc làm yếu kém của Mỹ buộc các nhà đầu tư phải suy nghĩ lại về việc Cục Dự trữ Liên bang có thể tăng lãi suất trong bao lâu nữa. Năng lượng thấp hơn…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://www.tradingview.com/news/invezz:59e21028a094b:0-silver-price-forecast-bulls-eye-next-breakout-as-dollar-pressure-fades/",
-      "source": "TradingView",
-      "category": "metal",
-      "published": "2026-07-03 12:16"
     }
   ]
 }

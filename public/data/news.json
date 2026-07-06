@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06 08:00",
+  "updated_at": "2026-07-06 08:27",
   "items": [
     {
       "id": "1vkxuye",
@@ -343,6 +343,17 @@
       "published": "2026-07-03 11:04"
     },
     {
+      "id": "1ci3ei1",
+      "title": "How tokenization could reshape commodity supply chains",
+      "title_vi": "Làm thế nào token hóa có thể định hình lại chuỗi cung ứng hàng hóa",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.fastcompany.com/91522267/how-tokenization-could-reshape-commodity-supply-chains",
+      "source": "Fast Company",
+      "category": "macro",
+      "published": "2026-07-03 10:54"
+    },
+    {
       "id": "1nmxh5i",
       "title": "Japan, India to cooperate on petroleum stockpiling mechanism amid geopolitical woes",
       "title_vi": "Nhật Bản, Ấn Độ hợp tác về cơ chế dự trữ xăng dầu trong bối cảnh bất ổn địa chính trị",
@@ -453,6 +464,17 @@
       "published": "2026-07-03 04:20"
     },
     {
+      "id": "dkaswd",
+      "title": "Mixed finish to a short week for corn, soybeans, and wheat",
+      "title_vi": "Hỗn hợp kết thúc trong một tuần ngắn cho ngô, đậu nành và lúa mì",
+      "summary_vi": "Đậu nành đã trộn, kết thúc tuần cũng trộn. Nhiệt độ cao cùng với mưa lớn ở một số khu vực dự kiến ​​sẽ ảnh hưởng đến điều kiện mùa màng. Tháng 7 và tháng 8 thường là những tháng quan trọng để xác định năng suất đậu tương ở Bắc bán cầu. Số liệu về tiến độ và tình trạng cây trồng hàng tuần của USDA đã được công bố vào Thứ Hai",
+      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2022/03/CommodityMarkets400x400.jpg",
+      "link": "https://www.brownfieldagnews.com/market-news/mixed-finish-to-a-short-week-for-corn-soybeans-and-wheat/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-07-03 03:54"
+    },
+    {
       "id": "j9rkzi",
       "title": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026",
       "title_vi": "Chiến tranh Iran làm đảo lộn triển vọng thị trường dầu mỏ của IEA khi cung và cầu toàn cầu giảm vào năm 2026",
@@ -528,28 +550,6 @@
       "source": "Cotton Grower",
       "category": "agri",
       "published": "2026-07-03 01:44"
-    },
-    {
-      "id": "zm0sdy",
-      "title": "U.S. Platinum Reserve Price USD, USPR Price Live Charts, Market Cap & News",
-      "title_vi": "Giá dự trữ bạch kim của Hoa Kỳ USD, Biểu đồ trực tiếp về giá USPR, vốn hóa thị trường và tin tức",
-      "summary_vi": "Giá Dự trữ Bạch kim của Hoa Kỳ hôm nay bằng USD là 0,0005184 USD (USPR/USD) từ biểu đồ trực tiếp về giá Dự trữ Bạch kim của Hoa Kỳ. Xem Vốn hóa thị trường USPR, TradingView và tin tức trực tiếp.",
-      "image": "",
-      "link": "https://www.bitget.com/price/u.s.-platinum-reserve",
-      "source": "Bitget",
-      "category": "metal",
-      "published": "2026-07-03 00:46"
-    },
-    {
-      "id": "4pamph",
-      "title": "America’s Wheat Harvest Set to Fall to Lowest Level in 150 Year",
-      "title_vi": "Thu hoạch lúa mì của Mỹ có thể giảm xuống mức thấp nhất trong 150 năm",
-      "summary_vi": "Các số liệu này làm dấy lên mối lo ngại về một trong những cây trồng quan trọng nhất của Mỹ và đặt ra câu hỏi về tác động của nó đối với giá lương thực.",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2026/07/AP19101740908478.jpg?w=1200&crop=1",
-      "link": "https://www.newsweek.com/americas-wheat-harvest-set-to-fall-to-lowest-level-in-150-years-12150306",
-      "source": "Newsweek",
-      "category": "agri",
-      "published": "2026-07-03 00:44"
     }
   ]
 }

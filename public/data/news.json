@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-06 17:01",
+  "updated_at": "2026-07-06 18:00",
   "items": [
+    {
+      "id": "1b0ya4u",
+      "title": "Germany Weathers Energy Crisis With Growing Dependence on American LNG",
+      "title_vi": "Đức vượt qua khủng hoảng năng lượng với sự phụ thuộc ngày càng tăng vào LNG của Mỹ",
+      "summary_vi": "Theo dữ liệu của cơ quan quản lý Đức, tỷ trọng nhập khẩu LNG trong tổng nguồn cung cấp khí đốt của Đức đã tăng lên 12% trong nửa đầu năm, tăng từ mức 10% một năm trước đó, bất chấp sự sụt giảm nguồn cung gây sốc từ Trung Đông do eo biển Hormuz bị đóng cửa. Bundesnetzagentur, F",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-06_a42honuuxy.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germany-Weathers-Energy-Crisis-With-Growing-Dependence-on-American-LNG.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-06 18:00"
+    },
     {
       "id": "1hkm0tg",
       "title": "Gold slips from two-week high on firmer dollar; Fed minutes in focus",
@@ -11,6 +22,17 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-07-06 16:47"
+    },
+    {
+      "id": "93hbe",
+      "title": "Dollar Sinks to a 2-Week Low, Gold and Silver Ride the Slide",
+      "title_vi": "Đồng đô la chìm xuống mức thấp nhất trong 2 tuần, vàng và bạc trượt dốc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/dollar-sinks-2-week-low-093721059.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-07-06 16:37"
     },
     {
       "id": "mj7tue",
@@ -101,17 +123,6 @@
       "published": "2026-07-06 02:00"
     },
     {
-      "id": "fdrc4m",
-      "title": "Starmer Out, Burnham In: What Changes for UK Energy Policy?",
-      "title_vi": "Starmer Out, Burnham In: Chính sách năng lượng của Vương quốc Anh có những thay đổi gì?",
-      "summary_vi": "Với việc Kier Starmer từ chức Thủ tướng (Thủ tướng) Vương quốc Anh, ngày càng có nhiều khả năng Andy Burnham, người được mệnh danh là “Vua phương Bắc”, sẽ đảm nhận vị trí lãnh đạo Đảng Lao động và Thủ tướng vào tháng 7. Đại biểu Quốc hội miền Bắc En",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-03_gmtzvgdcsz.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Starmer-Out-Burnham-In-What-Changes-for-UK-Energy-Policy.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-06 00:00"
-    },
-    {
       "id": "15ps713",
       "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
       "title_vi": "Ukraine tấn công các cảng dầu gần St. Petersburg ở Nga",
@@ -198,17 +209,6 @@
       "source": "TradingView",
       "category": "metal",
       "published": "2026-07-04 01:47"
-    },
-    {
-      "id": "4y0udz",
-      "title": "Gold and silver price update: Is this a repeat of 2025?",
-      "title_vi": "Cập nhật giá vàng bạc: Liệu năm 2025 có lặp lại?",
-      "summary_vi": ".embed-container { vị trí: tương đối; phần đệm đáy: 56,25%; chiều cao: 0; tràn: ẩn; chiều rộng tối đa: 100%; } .embed-container iframe, đối tượng .embed-container, .embed-container embed { vị trí: tuyệt đối; trên cùng: 0; trái: 0; chiều rộng: 100%; chiều cao: 100%; }Trong bài trình bày này, Jeffrey Christian của CPM Group đưa ra một quan điểm quý giá",
-      "image": "https://image-api.prod.kitco.com/image/552fe7e4-b703-4c9b-9968-957ca6a4729f.webp?top=0&left=0.072194021432658&width=1279.8556119571&height=720&scale_width=1920&token=af84d641cb790632eab2735e73a17a466e6d721dfa4573354ce0e9bdbab58114",
-      "link": "https://www.kitco.com/opinion/2026-07-03/gold-and-silver-price-update-repeat-2025",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-07-04 01:38"
     },
     {
       "id": "lpmauy",

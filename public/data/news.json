@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-06 19:00",
+  "updated_at": "2026-07-06 20:00",
   "items": [
+    {
+      "id": "kkcy3r",
+      "title": "Super El Niño Could Trigger a Major Coal Boom in India",
+      "title_vi": "Siêu El Niño có thể gây ra sự bùng nổ than lớn ở Ấn Độ",
+      "summary_vi": "Hiện tượng thời tiết siêu El Niño năm nay sẽ thúc đẩy đáng kể nhu cầu sản xuất điện đốt than của Ấn Độ trong 12 tháng tới, do khoảng cách thế hệ có thể xảy ra khi nhiệt độ cao hơn, Trung tâm Nghiên cứu Năng lượng và Không khí Sạch (CREA) có trụ sở tại Phần Lan",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-06_xedeuin02g.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Super-El-Nio-Could-Trigger-a-Major-Coal-Boom-in-India.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-06 19:15"
+    },
     {
       "id": "1b0ya4u",
       "title": "Germany Weathers Energy Crisis With Growing Dependence on American LNG",
@@ -112,15 +123,15 @@
       "published": "2026-07-06 04:00"
     },
     {
-      "id": "1iojhnc",
-      "title": "The Era of Cheap U.S. Natural Gas May Be Coming to an End",
-      "title_vi": "Kỷ nguyên khí đốt tự nhiên giá rẻ của Hoa Kỳ có thể sắp kết thúc",
-      "summary_vi": "Các nhà phân tích tại Wood Mackenzie cho biết giá khí đốt tự nhiên của Hoa Kỳ sẽ tăng đến năm 2035, sau một thập kỷ giá Henry Hub thấp, do sự bùng nổ của trung tâm dữ liệu AI và việc mở rộng cơ sở hạ tầng xuất khẩu LNG của Hoa Kỳ sẽ thúc đẩy nhu cầu mạnh mẽ. Trong thập kỷ đến năm 2025, điểm chuẩn U",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-03_uyvwelgxc0.jpg",
-      "link": "https://oilprice.com/Energy/Natural-Gas/The-Era-of-Cheap-US-Natural-Gas-May-Be-Coming-to-an-End.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-06 02:00"
+      "id": "1s4aj7c",
+      "title": "China resumes US soybean purchases under trade deal with Trump, but future for farmers remains ‘daunting’",
+      "title_vi": "Trung Quốc nối lại việc mua đậu nành của Mỹ theo thỏa thuận thương mại với Trump, nhưng tương lai của nông dân vẫn 'khó khăn'",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://mississippitoday.org/2026/07/05/china-resumes-u-s-soybean-purchases/",
+      "source": "Mississippi Today",
+      "category": "agri",
+      "published": "2026-07-06 03:00"
     },
     {
       "id": "15ps713",
@@ -539,17 +550,6 @@
       "source": "Weekend Post",
       "category": "macro",
       "published": "2026-07-03 02:53"
-    },
-    {
-      "id": "rwkymy",
-      "title": "China and US Move Toward Farm Tariff Cuts in Major Win for Agricultural Trade",
-      "title_vi": "Trung Quốc và Mỹ hướng tới cắt giảm thuế nông sản mang lại thắng lợi lớn cho thương mại nông sản",
-      "summary_vi": "Trung Quốc và Mỹ đồng ý theo đuổi việc cắt giảm thuế quan lẫn nhau đối với các sản phẩm nông nghiệp, báo hiệu sự thúc đẩy lớn cho thị trường nông sản toàn cầu.",
-      "image": "https://www.agrolatam.com/files/image/76/76635/6a46b90bba7be_600_315!.png?s=72d2d6370a5ba4954a077561ffe62165&d=1782961200",
-      "link": "https://www.agrolatam.com/news/china-us-agricultural-tariff-reductions-soybean-trade-2026/",
-      "source": "Agrolatam",
-      "category": "macro",
-      "published": "2026-07-03 02:20"
     }
   ]
 }

@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-07 00:00",
+  "updated_at": "2026-07-07 00:30",
   "items": [
+    {
+      "id": "44l9im",
+      "title": "Russia’s Oil Windfall Vanishes as Urals Crashes to $42 a Barrel",
+      "title_vi": "Cơn gió dầu của Nga biến mất khi Urals giảm xuống còn 42 USD một thùng",
+      "summary_vi": "Giá dầu thô của Nga đã giảm trở lại mức trước chiến tranh Trung Đông, với giá dầu Urals hàng đầu của nước này trung bình chỉ 41,66 USD/thùng trong ba ngày đầu tháng Bảy. Sự sụt giảm này làm mất đi nguồn thu mà Moscow nhận được từ cuộc xung đột và gây áp lực lên ngân sách liên bang.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-06_wrptevdm1v.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Windfall-Vanishes-as-Urals-Crashes-to-42-a-Barrel.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-07 00:30"
+    },
+    {
+      "id": "hyf1gv",
+      "title": "Op-Ed: Molybdenum and the geopolitics of substitution",
+      "title_vi": "Op-Ed: Molypden và địa chính trị của sự thay thế",
+      "summary_vi": "Giá molypden tăng cao nhấn mạnh căng thẳng nghiêm trọng về nguồn cung khoáng sản, rủi ro vonfram và giá trị chiến lược ngày càng tăng của hợp kim quốc phòng.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Molybdenum-and-the-geopolitics-of-substitution.jpeg",
+      "link": "https://www.mining.com/op-ed-molybdenum-and-the-geopolitics-of-substitution/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-07 00:09"
+    },
     {
       "id": "3xcoj1",
       "title": "Carbon Markets Just Had Their Most Important Moment in Years",
@@ -9,7 +31,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-06_dtj0rnnzp8.jpg",
       "link": "https://oilprice.com/Energy/Energy-General/Carbon-Markets-Just-Had-Their-Most-Important-Moment-in-Years.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-07-07 00:00"
     },
     {
@@ -33,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-06 23:00"
+    },
+    {
+      "id": "fujcts",
+      "title": "Op-Ed: The copper the world needs is already above ground",
+      "title_vi": "Op-Ed: Đồng mà thế giới cần đã ở trên mặt đất",
+      "summary_vi": "Việc xử lý chất thải đồng mang lại một cách nhanh hơn, sạch hơn để giúp thu hẹp khoảng cách cung cấp đồng toàn cầu do điện khí hóa và nhu cầu thúc đẩy AI.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Playa-Verde.jpeg",
+      "link": "https://www.mining.com/op-ed-the-copper-the-world-needs-is-already-above-ground/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-06 22:38"
     },
     {
       "id": "j47340",
@@ -90,6 +123,28 @@
       "published": "2026-07-06 21:02"
     },
     {
+      "id": "plqimp",
+      "title": "The U.S. Is Awash In Oil And Gasoline. So Why Are Pump Prices So High?",
+      "title_vi": "Nước Mỹ tràn ngập dầu và xăng. Vậy tại sao giá máy bơm lại cao như vậy?",
+      "summary_vi": "Có sự không phù hợp giữa loại dầu mà Hoa Kỳ sản xuất và loại dầu mà các nhà máy lọc dầu của chúng ta hiện có thể xử lý. Đó là nguyên nhân sâu xa khiến giá xăng ở đây tăng cao.",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a49338f6a692f54d912c2ba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "link": "https://www.forbes.com/sites/georgecalhoun/2026/07/06/the-us-is-awash-in-oil-and-gasoline-so-why-are-pump-prices-so-high/",
+      "source": "Forbes",
+      "category": "energy",
+      "published": "2026-07-06 21:00"
+    },
+    {
+      "id": "tzqff2",
+      "title": "B2Gold’s new CEO gets his Goose test",
+      "title_vi": "CEO mới của B2Gold nhận bài kiểm tra Goose",
+      "summary_vi": "Mike Cinnamond phải đối mặt với thử thách quan trọng trong việc tăng cường khai thác mỏ vàng Goose của Nunavut nhằm khôi phục sản lượng hàng triệu ounce và chứng minh kỷ luật tăng trưởng.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/B2Gold-CEO-Mike-Cinnamond-in-Mali-May-2026-1024x683.jpg",
+      "link": "https://www.mining.com/b2golds-new-ceo-gets-his-goose-test/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-06 21:00"
+    },
+    {
       "id": "kc0b36",
       "title": "Trump to Meet Zelenskyy at NATO Summit as Ukraine War Diplomacy Resumes",
       "title_vi": "Trump sẽ gặp Zelenskyy tại Hội nghị thượng đỉnh NATO khi ngoại giao chiến tranh Ukraine tiếp tục",
@@ -101,15 +156,15 @@
       "published": "2026-07-06 21:00"
     },
     {
-      "id": "mtke7m",
-      "title": "Hormuz Tanker Traffic Slowly Recovers Despite Persistent Risks",
-      "title_vi": "Lưu lượng tàu chở dầu Hormuz dần dần phục hồi bất chấp rủi ro dai dẳng",
-      "summary_vi": "Lưu lượng tàu chở dầu qua eo biển Hormuz đã tăng tốc trong những tuần gần đây, nhưng dòng dầu vẫn không suôn sẻ. Theo cơ quan theo dõi tàu, ít nhất sáu tàu chở dầu hoặc LNG đã di chuyển ra khỏi Vịnh Ba Tư qua Hormuz trên tuyến đường gần bờ biển Oman vào Chủ nhật.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-06_e3awomtvvt.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slowly-Recovers-Despite-Persistent-Risks.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-06 20:30"
+      "id": "1b86azk",
+      "title": "EnergyX secures $225M investment to advance Black Giant lithium project in Chile",
+      "title_vi": "EnergyX đảm bảo khoản đầu tư 225 triệu USD để thúc đẩy dự án lithium Black Giant ở Chile",
+      "summary_vi": "Black Giant đã lên kế hoạch sản xuất tới 52.500 tấn lithium cacbonat mỗi năm.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Screenshot-2026-07-03-at-5.56.54-PM-1024x514.png",
+      "link": "https://www.mining.com/energyx-secures-225m-investment-to-advance-black-giant-lithium-project-in-chile/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-06 20:24"
     },
     {
       "id": "uzruf2",
@@ -132,6 +187,28 @@
       "source": "Yahoo Finance UK",
       "category": "metal",
       "published": "2026-07-06 20:00"
+    },
+    {
+      "id": "kk6w77",
+      "title": "Genesis trumps Regis with $3.9B takeover bid for Vault",
+      "title_vi": "Genesis vượt qua Regis với giá thầu tiếp quản Vault trị giá 3,9 tỷ USD",
+      "summary_vi": "Vault Minerals cho biết các giám đốc của họ đã nhất trí xác định lời đề nghị mới sẽ tốt hơn thỏa thuận về toàn bộ cổ phiếu với Regis đã đạt được vào tháng 5.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/genesis-leonora.jpg",
+      "link": "https://www.mining.com/genesis-trumps-regis-with-3-9b-takeover-bid-for-vault/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-06 18:49"
+    },
+    {
+      "id": "1ukyv0p",
+      "title": "GoldStone surges 36% as Hong Kong miner takes 21% stake",
+      "title_vi": "GoldStone tăng 36% khi công ty khai thác Hồng Kông nắm giữ 21% cổ phần",
+      "summary_vi": "Nguồn tài trợ và cổ đông chiến lược mới mang lại cho nhà phát triển vàng tập trung vào Ghana sự linh hoạt để mở rộng hoạt động khoan.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/homase-mine.png",
+      "link": "https://www.mining.com/goldstone-surges-36-as-hong-kong-miner-takes-21-stake/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-06 18:06"
     },
     {
       "id": "1fxxnn4",
@@ -473,83 +550,6 @@
       "source": "S&P Global",
       "category": "energy",
       "published": "2026-07-03 09:59"
-    },
-    {
-      "id": "6mnozi",
-      "title": "ASIA WHEAT ROUNDUP: Australian prices fall in June; buyers await new crop from Canada, Black Sea",
-      "title_vi": "TỔNG HỢP LÚA MÌ CHÂU Á: Giá Úc giảm trong tháng 6; người mua chờ vụ mùa mới từ Canada, Biển Đen",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/070326-asia-wheat-roundup-australian-prices-fall-in-june-buyers-await-new-crop-from-canada-black-sea",
-      "source": "S&P Global",
-      "category": "agri",
-      "published": "2026-07-03 09:30"
-    },
-    {
-      "id": "hgr0ad",
-      "title": "Gulke: USDA Reports Confrim the Low in Corn",
-      "title_vi": "Gulke: Báo cáo của USDA xác nhận giá ngô thấp",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/major-low-corn-confirmed-after-usda-reports",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-07-03 08:54"
-    },
-    {
-      "id": "1w6oiz3",
-      "title": "Trade & Tariff Update #23 - Changes to Section 232 Copper, Steel and Aluminum Tariffs",
-      "title_vi": "Cập nhật Thương mại & Thuế quan số 23 - Thay đổi Mục 232 về Thuế đồng, thép và nhôm",
-      "summary_vi": "Thông báo giao dịch mới nhất tính đến ngày 26/4/2026",
-      "image": "",
-      "link": "https://americanpetproducts.org/law-library/trade-tariff-update-23-changes-to-section-232-copper-steel-and-aluminum-tariffs",
-      "source": "American Pet Products Association (APPA)",
-      "category": "metal",
-      "published": "2026-07-03 08:51"
-    },
-    {
-      "id": "1xn72vj",
-      "title": "Weather is now driving the grain market outlook",
-      "title_vi": "Thời tiết hiện đang thúc đẩy triển vọng thị trường ngũ cốc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.iasoybeans.com/newsroom/article/usda-report-shifts-attention-back-to-weather",
-      "source": "Iowa Soybean Association",
-      "category": "agri",
-      "published": "2026-07-03 08:46"
-    },
-    {
-      "id": "kydbn",
-      "title": "Wall Street's H2 Consensus: Markets to Defy Shocks and Keep Rallying, S&P 500 Has Just 3% Upside Left",
-      "title_vi": "Đồng thuận H2 của Phố Wall: Thị trường thách thức những cú sốc và tiếp tục tăng trưởng, S&P 500 chỉ còn tăng 3%",
-      "summary_vi": "Nửa đầu năm 2026 chứng kiến ​​cổ phiếu, trái phiếu và hàng hóa của Hoa Kỳ đồng loạt tăng giá, mang lại hiệu suất đồng bộ mạnh nhất kể từ năm 2021. Tường…",
-      "image": "https://img.biggo.com/fHzndRy1hvYBlpnmMqF0eGb4sdcq0zkB-OEtIf1y_HY/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3Lzc4MmU5NzA5LTgzMzQtNDIzYi05ZGI5LWViYTExYzU2MDYwN18xNzgzMDQzNDEzX2RlZmF1bHQuanBn.jpg",
-      "link": "https://finance.biggo.com/news/782e9709-8334-423b-9db9-eba11c560607",
-      "source": "finance.biggo.com",
-      "category": "macro",
-      "published": "2026-07-03 08:35"
-    },
-    {
-      "id": "1pgw34a",
-      "title": "EXCLUSIVE: Russia buys gasoline from India to tackle shortages, sources say",
-      "title_vi": "ĐỘC QUYỀN: Nga mua xăng từ Ấn Độ để giải quyết tình trạng thiếu hụt, các nguồn tin cho biết",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/russia-buys-gasoline-india-tackle-shortages-sources-say-2026-07-01/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-07-03 07:22"
-    },
-    {
-      "id": "r0yloy",
-      "title": "Crude oil prices have fallen to pre-war levels, but gas prices haven’t – what gives?",
-      "title_vi": "Giá dầu thô đã giảm xuống mức trước chiến tranh, nhưng giá xăng thì không - điều gì mang lại?",
-      "summary_vi": "Kể từ khi tuyên bố ngừng bắn, giá dầu thô đã giảm. Giá một thùng dầu hôm thứ Tư gần bằng mức giá trước chiến tranh. Nhưng giá xăng vẫn cao hơn khoảng 87 xu so với trước chiến tranh.",
-      "image": "https://gray-wala-prod.gtv-cdn.com/resizer/v2/ZXRXAEBKFZCRVGJ2IWY46FSODU.jpg?auth=362f9d28bd88c825ba310c94a899695f24c6c3e7ccea6b99fe17022987b9e9eb&width=1200&height=600&smart=true",
-      "link": "https://www.fox10tv.com/2026/07/02/crude-oil-prices-have-fallen-pre-war-levels-gas-prices-havent-what-gives/",
-      "source": "fox10tv.com",
-      "category": "energy",
-      "published": "2026-07-03 06:54"
     }
   ]
 }

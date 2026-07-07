@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 07:01",
+  "updated_at": "2026-07-07 08:00",
   "items": [
     {
       "id": "1y6zyzb",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-07 05:00"
+    },
+    {
+      "id": "1lbbzyv",
+      "title": "Soybeans Explode Higher with Corn and Wheat on Weather, China Dropping Tariffs",
+      "title_vi": "Đậu nành tăng giá nhờ ngô và lúa mì do thời tiết, Trung Quốc giảm thuế",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/soybeans-explode-higher-corn-and-wheat-weather-china-dropping-tariffs",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-07-07 04:27"
     },
     {
       "id": "injfds",
@@ -508,6 +519,28 @@
       "published": "2026-07-03 22:45"
     },
     {
+      "id": "ah5eyl",
+      "title": "Tracking oil prices and US gas prices amid Iran conflict",
+      "title_vi": "Theo dõi giá dầu và giá khí đốt của Mỹ trong bối cảnh xung đột Iran",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/news/tracking-gas-oil-prices-iran-161551950.html",
+      "source": "Yahoo Finance",
+      "category": "energy",
+      "published": "2026-07-03 22:33"
+    },
+    {
+      "id": "163uvjp",
+      "title": "Bonterra Energy Announces Year-End 2025 Results and Reserves Evaluation; Achieves Record Annual Production",
+      "title_vi": "Bonterra Energy công bố đánh giá kết quả và trữ lượng cuối năm 2025; Đạt kỷ lục sản lượng hàng năm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.ca/2026/03/bonterra-energy-announces-year-end-2025-results-and-reserves-evaluation-achieves-record-annual-production/",
+      "source": "EnergyNow",
+      "category": "energy",
+      "published": "2026-07-03 19:31"
+    },
+    {
       "id": "ak9mus",
       "title": "Copper Climbs With Industrial Metals as Rate-Hike Prospects Fade",
       "title_vi": "Đồng tăng cùng với kim loại công nghiệp khi triển vọng tăng lãi suất mờ dần",
@@ -517,39 +550,6 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-07-03 19:18"
-    },
-    {
-      "id": "16o1avo",
-      "title": "Why California’s newest gas-price fight is moving to the pump",
-      "title_vi": "Tại sao cuộc chiến giá xăng mới nhất của California lại chuyển sang máy bơm",
-      "summary_vi": "Khi các tài xế phải đối mặt với giá xăng tăng cao trong kỳ nghỉ lễ, các quan chức California đang xem xét các thương hiệu, thuật toán và giá bán lẻ ngoài các nhà máy lọc dầu.",
-      "image": "https://i0.wp.com/calmatters.org/wp-content/uploads/2026/07/031926-Sacramento-Gas-Prices-MG-CM-04.jpg?fit=2000%2C1333&ssl=1",
-      "link": "https://calmatters.org/environment/2026/07/california-gas-prices-july-fourth/",
-      "source": "CalMatters",
-      "category": "energy",
-      "published": "2026-07-03 19:00"
-    },
-    {
-      "id": "1ff1s8p",
-      "title": "US oil companies see big profit jump, gird for clash over pump prices with Trump",
-      "title_vi": "Các công ty dầu mỏ của Mỹ chứng kiến ​​lợi nhuận tăng vọt, chuẩn bị cho cuộc xung đột về giá bơm với Trump",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/us-oil-companies-see-big-profit-jump-gird-clash-over-pump-prices-with-trump-2026-07-03/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-07-03 18:12"
-    },
-    {
-      "id": "1nvay5t",
-      "title": "Air quality in Bojanala Platinum",
-      "title_vi": "Chất lượng không khí tại Bojanala Platinum",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.iqair.com/bh/air-quality/south-africa/north-west/bojanala-platinum",
-      "source": "IQAir",
-      "category": "metal",
-      "published": "2026-07-03 16:20"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 14:00",
+  "updated_at": "2026-07-07 15:00",
   "items": [
     {
       "id": "5vlvq6",
@@ -55,6 +55,17 @@
       "source": "Anadolu Ajansı",
       "category": "macro",
       "published": "2026-07-07 05:09"
+    },
+    {
+      "id": "1gixaxp",
+      "title": "Silver Price Forecast: XAG/USD rally stalls, sellers eye $60.00",
+      "title_vi": "Dự báo giá bạc: XAG/USD ngừng tăng giá, người bán để mắt tới 60,00 USD",
+      "summary_vi": "Giá bạc giảm hơn 1% vào thứ Hai, ngay cả khi đồng USD và Kho bạc Hoa Kỳ giảm lãi suất, với kim loại trắng có nguy cơ giảm xuống dưới 60 USD lần đầu tiên trong tuần này. Tại thời điểm viết bài, XAG/USD giao dịch ở mức 61,80 USD, sau khi đạt đỉnh khoảng 63,28 USD trước đó trong ngày,",
+      "image": "https://editorial.fxsstatic.com/images/i/discover-54_Medium.png",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rally-stalls-sellers-eye-6000-202607062207",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-07-07 05:07"
     },
     {
       "id": "cn8pw2",
@@ -361,7 +372,7 @@
       "image": "https://www.ubs.com/cioresearch/35/06/94/7/3506947/en/opengraphimage.923276409.png",
       "link": "https://www.ubs.com/global/en/wealthmanagement/insights/marketnews/article.3506947.html",
       "source": "UBS",
-      "category": "macro",
+      "category": "metal",
       "published": "2026-07-06 17:27"
     },
     {
@@ -539,17 +550,6 @@
       "source": "The Hill",
       "category": "energy",
       "published": "2026-07-04 02:36"
-    },
-    {
-      "id": "ak9mus",
-      "title": "Copper Climbs With Industrial Metals as Rate-Hike Prospects Fade",
-      "title_vi": "Đồng tăng cùng với kim loại công nghiệp khi triển vọng tăng lãi suất mờ dần",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-03/copper-climbs-with-industrial-metals-as-rate-hike-prospects-fade",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-07-04 01:53"
     }
   ]
 }

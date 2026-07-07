@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-07-07 23:01",
+  "updated_at": "2026-07-08 00:01",
   "items": [
+    {
+      "id": "yjy0s1",
+      "title": "Super El Niño Could Push Colombia Into an Energy Crisis",
+      "title_vi": "Siêu El Niño có thể đẩy Colombia vào cuộc khủng hoảng năng lượng",
+      "summary_vi": "Các nhà khoa học dự đoán năm 2026 sẽ mang đến hiện tượng thời tiết Siêu El Niño tàn khốc, với nhiệt độ tăng cao và hạn hán gây thiệt hại về kinh tế. Có những lo ngại rằng kiểu khí hậu này sẽ ảnh hưởng nặng nề đến Colombia, gây ra hạn hán nghiêm trọng làm mực nước thấp hơn và tốc độ tăng đột ngột.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_jkcgscvryp.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Super-El-Nio-Could-Push-Colombia-Into-an-Energy-Crisis.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-08 00:00"
+    },
+    {
+      "id": "1pgj41",
+      "title": "South32 clears key US hurdle for $2B Arizona mine",
+      "title_vi": "South32 vượt qua rào cản chính của Hoa Kỳ đối với mỏ Arizona trị giá 2 tỷ USD",
+      "summary_vi": "Sự chấp thuận của liên bang cho phép South32 mở rộng Hermosa khi Mỹ đẩy mạnh các khoáng sản quan trọng trong nước.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/South32-Hermosa-project-area.jpg",
+      "link": "https://www.mining.com/south32-clears-key-us-hurdle-for-2b-arizona-mine/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-07 23:49"
+    },
+    {
+      "id": "1yg1u29",
+      "title": "PALL: Price Weakness In Palladium Is Creating A Buying Opportunity (NYSEARCA:PALL)",
+      "title_vi": "PALL: Sự yếu kém về giá của Palladium đang tạo ra cơ hội mua (NYSEARCA:PALL)",
+      "summary_vi": "PALL ETF xếp hạng Mua ở mức 23,10 USD khi palladium gần đạt mức hỗ trợ sau khi giảm 47%; khám phá các rủi ro về cung, cầu và chiến lược thu hẹp quy mô—đọc ngay.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1403979701/image_1403979701.jpg?io=getty-c-w1536",
+      "link": "https://seekingalpha.com/article/4920372-pall-price-weakness-in-palladium-creating-buying-opportunity",
+      "source": "Seeking Alpha",
+      "category": "metal",
+      "published": "2026-07-07 23:42"
+    },
+    {
+      "id": "14y2818",
+      "title": "Saudi Arabia Eyes Major Red Sea Pipeline Expansion to Bypass Hormuz",
+      "title_vi": "Ả Rập Saudi để mắt đến việc mở rộng đường ống lớn ở Biển Đỏ để vượt qua Hormuz",
+      "summary_vi": "Ả Rập Saudi đang nhìn xa hơn eo biển Hormuz. Theo Reuters, vương quốc này đang xem xét mở rộng công suất đường ống dẫn dầu thô Đông-Tây lên tới 2 triệu thùng mỗi ngày. Đó là một động thái sẽ cho phép nhiều dầu mỏ của Saudi Arabia và vùng Vịnh lân cận có thể được tái sản xuất.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-07_zrbcwoyv9h.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Eyes-Major-Red-Sea-Pipeline-Expansion-to-Bypass-Hormuz.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-07 23:30"
+    },
     {
       "id": "xzmb2s",
       "title": "Geopolitical Risk Returns as Drone Strikes Hit Hormuz Shipping",
@@ -11,6 +55,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-07-07 22:38"
+    },
+    {
+      "id": "10g3o5",
+      "title": "Beverage prices retreat as supplies recover",
+      "title_vi": "Giá đồ uống giảm khi nguồn cung phục hồi",
+      "summary_vi": "Giá cà phê, ca cao và chè toàn cầu đang giảm do điều kiện nguồn cung được cải thiện. Báo cáo Triển vọng Thị trường Hàng hóa mới nhất xem xét việc phục hồi thu hoạch đang định hình lại thị trường đồ uống và những rủi ro còn tồn tại như thế nào.",
+      "image": "https://s7d1.scene7.com/is/image/wbcollab/shutterstock-2589052133-1?qlt=90&hei=630&wid=1200&fit=hfit",
+      "link": "https://blogs.worldbank.org/en/opendata/beverage-prices-retreat-as-supplies-recover",
+      "source": "World Bank Blogs",
+      "category": "soft",
+      "published": "2026-07-07 22:34"
     },
     {
       "id": "1xfprzi",
@@ -24,6 +79,28 @@
       "published": "2026-07-07 22:30"
     },
     {
+      "id": "146ly49",
+      "title": "ICE takes over platinum and palladium price benchmarks",
+      "title_vi": "ICE tiếp quản tiêu chuẩn giá bạch kim và palladium",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/company-news/ice-takes-over-platinum-and-palladium-price-benchmarks-93CH-4779141",
+      "source": "Investing.com",
+      "category": "metal",
+      "published": "2026-07-07 22:22"
+    },
+    {
+      "id": "2s25ey",
+      "title": "Why Weather Concerns Just Sent Coffee And Chocolate Prices Soaring",
+      "title_vi": "Tại sao lo ngại về thời tiết lại khiến giá cà phê và sô cô la tăng vọt",
+      "summary_vi": "Các nhà phân tích cho biết giá cà phê Arabica kỳ hạn tăng vọt về phía “lãnh thổ cổ phiếu meme” sau động thái trong một ngày lớn nhất trong nhiều thập kỷ.",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a4d1594ffe6adffb05c014c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "link": "https://www.forbes.com/sites/tylerroush/2026/07/07/coffee-price-surge-enters-meme-stock-territory-amid-weather-fears/",
+      "source": "Forbes",
+      "category": "soft",
+      "published": "2026-07-07 22:05"
+    },
+    {
       "id": "15tm2mo",
       "title": "Six Key Issues to Watch at NATO’s Ankara Summit",
       "title_vi": "Sáu vấn đề chính cần theo dõi tại Hội nghị thượng đỉnh Ankara của NATO",
@@ -33,6 +110,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-07 22:00"
+    },
+    {
+      "id": "h43nho",
+      "title": "Canada set to back Teck’s BC smelter to boost germanium output: report",
+      "title_vi": "Canada chuẩn bị hỗ trợ nhà máy luyện BC của Teck để tăng sản lượng germanium: báo cáo",
+      "summary_vi": "Canada lên kế hoạch tài trợ lớn cho cơ sở Teck's Trail để thúc đẩy sản xuất germanium và đảm bảo chuỗi cung ứng khoáng sản quan trọng ở Bắc Mỹ.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Teck-Trail-2023.jpg",
+      "link": "https://www.mining.com/canada-set-to-back-tecks-bc-smelter-to-boost-germanium-output-report/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-07 21:48"
+    },
+    {
+      "id": "1u0qzi1",
+      "title": "Assays hint at future mineable gold at West Red Lake’s Madsen site",
+      "title_vi": "Các thử nghiệm gợi ý về vàng có thể khai thác trong tương lai tại địa điểm Madsen ở Tây Red Lake",
+      "summary_vi": "West Red Lake Gold Mines báo cáo kết quả khoan Madsen cao cấp ở Ontario, hỗ trợ bổ sung kế hoạch khai thác tiềm năng vào năm 2027 tại các khu phức hợp ở Austin.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/West-Red-Lake-Madsen-copy.png",
+      "link": "https://www.mining.com/assays-hint-at-future-mineable-gold-at-west-red-lakes-madsen-site/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-07 21:36"
     },
     {
       "id": "82tpnc",
@@ -68,17 +167,6 @@
       "published": "2026-07-07 21:00"
     },
     {
-      "id": "nnbwe1",
-      "title": "Germany Plans $1.7 Billion Strategic Natural Gas Reserve",
-      "title_vi": "Đức lên kế hoạch dự trữ khí đốt tự nhiên chiến lược trị giá 1,7 tỷ USD",
-      "summary_vi": "Bộ Kinh tế nền kinh tế lớn nhất châu Âu cho biết hôm thứ Ba rằng Đức đang tiến tới thành lập một kho dự trữ khí đốt tự nhiên khẩn cấp chiến lược thuộc sở hữu nhà nước để tăng cường an ninh năng lượng. Đầu ngày hôm nay, Reuters đã đưa tin rằng dự trữ chiến lược thuộc sở hữu của chính phủ sẽ cần tới 1 USD.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-07_qr65xzlfch.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germany-Plans-17-Billion-Strategic-Natural-Gas-Reserve.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-07 20:30"
-    },
-    {
       "id": "1o7ezyn",
       "title": "Hershey’s SWOT analysis: stock gains momentum on cocoa relief",
       "title_vi": "Phân tích SWOT của Hershey: cổ phiếu tăng đà nhờ giảm ca cao",
@@ -90,37 +178,15 @@
       "published": "2026-07-07 20:03"
     },
     {
-      "id": "rg3vrf",
-      "title": "ICE Expands Role in Platinum and Palladium Price Management",
-      "title_vi": "ICE mở rộng vai trò trong quản lý giá bạch kim và palladium",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.gurufocus.com/news/8947269/ice-expands-role-in-platinum-and-palladium-price-management",
-      "source": "GuruFocus",
+      "id": "uu427m",
+      "title": "De Beers cuts diamond prices, axes 25 elite buyers",
+      "title_vi": "De Beers giảm giá kim cương, thu hút 25 khách hàng ưu tú",
+      "summary_vi": "Đợt mở bán đầu tiên theo chiến lược cải tiến dành cho khách hàng sẽ đưa giá chính thức đến gần hơn với mức giá thị trường trong bối cảnh sụt giảm kéo dài.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/debeers-diamonds.png",
+      "link": "https://www.mining.com/de-beers-cuts-diamond-prices-axes-25-elite-buyers/",
+      "source": "Mining.com",
       "category": "metal",
-      "published": "2026-07-07 19:45"
-    },
-    {
-      "id": "1lemh6q",
-      "title": "ADNOC Signs 15-Year LNG Supply Deal With Japan’s Inpex",
-      "title_vi": "ADNOC ký thỏa thuận cung cấp LNG 15 năm với Inpex của Nhật Bản",
-      "summary_vi": "Công ty dầu khí quốc gia ADNOC của Abu Dhabi hôm thứ Ba đã ký một thỏa thuận dài hạn 15 năm để cung cấp khí đốt từ dự án Ruwais LNG của UAE cho công ty Inpex của Nhật Bản bắt đầu từ năm 2028. Theo thỏa thuận này, Inpex, công ty thăm dò và sản xuất lớn nhất Nhật Bản, sẽ nhận được 1 triệu tấn/năm.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-07_qvz0z5kwoa.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Signs-15-Year-LNG-Supply-Deal-With-Japans-Inpex.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-07 19:30"
-    },
-    {
-      "id": "btwibz",
-      "title": "ICE takes over platinum and palladium price benchmarks By Investing.com",
-      "title_vi": "ICE tiếp quản tiêu chuẩn giá bạch kim và palladium Theo Investing.com",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://ca.investing.com/news/stock-market-news/ice-takes-over-platinum-and-palladium-price-benchmarks-93CH-4723006",
-      "source": "Investing.com Canada",
-      "category": "metal",
-      "published": "2026-07-07 19:16"
+      "published": "2026-07-07 19:04"
     },
     {
       "id": "1htusov",
@@ -167,6 +233,17 @@
       "published": "2026-07-07 17:00"
     },
     {
+      "id": "1j6x53r",
+      "title": "How have the Trump tariffs and Iran war affected US Gulf agriculture prices?",
+      "title_vi": "Thuế quan của Trump và chiến tranh Iran ảnh hưởng đến giá nông sản vùng Vịnh của Mỹ như thế nào?",
+      "summary_vi": "Sử dụng bảng tương tác của chúng tôi để theo dõi thuế quan và tác động địa chính trị đối với giá ngô, đậu nành, dầu đậu nành, lúa mì, mỡ động vật và dầu ngô chưng cất, với dữ liệu giá của Fastmarkets và bình luận của nhà phân tích đằng sau mỗi con số.",
+      "image": "https://www.fastmarkets.com/uploads/24/b6/6b74078a4d65829f5190c7fe2220/gettyimages-1147902470-1024x646.jpg",
+      "link": "https://www.fastmarkets.com/insights/how-have-the-trump-tariffs-and-iran-war-affected-us-gulf-agriculture-prices/",
+      "source": "Fastmarkets",
+      "category": "macro",
+      "published": "2026-07-07 16:06"
+    },
+    {
       "id": "kj9zom",
       "title": "Gold, Silver and Platinum Forecast: Fed Minutes Put Key Breakout Levels in Focus",
       "title_vi": "Dự báo vàng, bạc và bạch kim: Biên bản Fed tập trung vào các mức đột phá quan trọng",
@@ -198,6 +275,17 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-07-07 13:34"
+    },
+    {
+      "id": "1ehr69h",
+      "title": "Recycled copper & low-carbon cables: myths and facts",
+      "title_vi": "Cáp đồng tái chế và cáp ít carbon: lầm tưởng và sự thật",
+      "summary_vi": "Những quan niệm sai lầm phổ biến về nguồn cung cấp đồng, kim loại tái chế và cáp có hàm lượng carbon thấp đã được kiểm nghiệm dựa trên bằng chứng. Những phản chứng đằng sau quá trình chuyển đổi năng lượng.",
+      "image": "https://www.nexans.com/app/uploads/2026/07/eight-myths-about-copper-and-low-carbon-cables_banner.jpg",
+      "link": "https://www.nexans.com/perspective/eight-myths-about-copper-and-low-carbon-cables-tested-against-the-evidence/",
+      "source": "Nexans",
+      "category": "metal",
+      "published": "2026-07-07 13:01"
     },
     {
       "id": "1rrw35h",
@@ -299,17 +387,6 @@
       "published": "2026-07-07 02:16"
     },
     {
-      "id": "8gs1ql",
-      "title": "China&#8217;s top ETF is now gold, not stocks",
-      "title_vi": "ETF hàng đầu của Trung Quốc hiện là vàng, không phải cổ phiếu",
-      "summary_vi": "Các ngân hàng trung ương thực hiện giao dịch mua vàng hàng tháng lớn thứ 2; ETF hàng đầu của Trung Quốc hiện tập trung vào vàng và Citi tham gia thanh toán bù trừ vàng thỏi.",
-      "image": "https://www.mining.com/wp-content/uploads/2025/11/gold-bars-china.jpeg",
-      "link": "https://www.mining.com/chinas-top-etf-is-now-gold-not-stocks/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-07 02:10"
-    },
-    {
       "id": "1gv45na",
       "title": "HTBA Introduces Citrose Sweetener Complex for Sugar Reduction Applications",
       "title_vi": "HTBA giới thiệu phức hợp chất làm ngọt Citrose cho các ứng dụng giảm lượng đường",
@@ -398,17 +475,6 @@
       "published": "2026-07-06 22:58"
     },
     {
-      "id": "fujcts",
-      "title": "Op-Ed: The copper the world needs is already above ground",
-      "title_vi": "Op-Ed: Đồng mà thế giới cần đã ở trên mặt đất",
-      "summary_vi": "Việc xử lý chất thải đồng mang lại một cách nhanh hơn, sạch hơn để giúp thu hẹp khoảng cách cung cấp đồng toàn cầu do điện khí hóa và nhu cầu thúc đẩy AI.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Playa-Verde.jpeg",
-      "link": "https://www.mining.com/op-ed-the-copper-the-world-needs-is-already-above-ground/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-06 22:38"
-    },
-    {
       "id": "r3o77y",
       "title": "Efforts to get year-round E15 sales could hurt soybean farmers",
       "title_vi": "Nỗ lực đạt được doanh số bán E15 quanh năm có thể gây thiệt hại cho nông dân trồng đậu nành",
@@ -464,28 +530,6 @@
       "published": "2026-07-06 21:00"
     },
     {
-      "id": "tzqff2",
-      "title": "B2Gold’s new CEO gets his Goose test",
-      "title_vi": "CEO mới của B2Gold nhận bài kiểm tra Goose",
-      "summary_vi": "Mike Cinnamond phải đối mặt với thử thách quan trọng trong việc tăng cường khai thác mỏ vàng Goose của Nunavut nhằm khôi phục sản lượng hàng triệu ounce và chứng minh kỷ luật tăng trưởng.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/B2Gold-CEO-Mike-Cinnamond-in-Mali-May-2026-1024x683.jpg",
-      "link": "https://www.mining.com/b2golds-new-ceo-gets-his-goose-test/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-06 21:00"
-    },
-    {
-      "id": "1b86azk",
-      "title": "EnergyX secures $225M investment to advance Black Giant lithium project in Chile",
-      "title_vi": "EnergyX đảm bảo khoản đầu tư 225 triệu USD để thúc đẩy dự án lithium Black Giant ở Chile",
-      "summary_vi": "Black Giant đã lên kế hoạch sản xuất tới 52.500 tấn lithium cacbonat mỗi năm.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Screenshot-2026-07-03-at-5.56.54-PM-1024x514.png",
-      "link": "https://www.mining.com/energyx-secures-225m-investment-to-advance-black-giant-lithium-project-in-chile/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-06 20:24"
-    },
-    {
       "id": "1fxxnn4",
       "title": "Platinum Price Analyses: XPT Price Moves to $1,650 Amid Early July Volatility",
       "title_vi": "Phân tích giá bạch kim: Giá XPT chuyển sang 1.650 USD trong bối cảnh biến động đầu tháng 7",
@@ -506,50 +550,6 @@
       "source": "UBS",
       "category": "metal",
       "published": "2026-07-06 17:27"
-    },
-    {
-      "id": "4wv8lp",
-      "title": "OPEC is in a struggle for its survival. It could mean $40 oil",
-      "title_vi": "OPEC đang trong một cuộc đấu tranh cho sự sống còn của mình. Nó có thể có nghĩa là dầu có giá 40 USD",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.cnn.com/2026/07/06/economy/the-fight-for-the-future-of-opec-begins-now",
-      "source": "CNN",
-      "category": "energy",
-      "published": "2026-07-06 16:00"
-    },
-    {
-      "id": "19lx2ov",
-      "title": "Copper Price Forecast: Aluminum Substitution and Tariff Risk Test Record Rally",
-      "title_vi": "Dự báo giá đồng: đợt tăng giá kỷ lục kiểm tra rủi ro thuế quan và thay thế nhôm",
-      "summary_vi": "Giá đồng vẫn tăng trên 5,20 USD, nhưng việc thay thế nhôm và sự không chắc chắn về thuế quan của Mỹ có thể khiến đà tăng kỷ lục không ổn định trong ngắn hạn.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/01/Copper-cables.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/premium-copper-price-forecast-aluminum-substitution-and-tariff-risk-test-record-rally-1608432",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-07-06 15:10"
-    },
-    {
-      "id": "1j12yzy",
-      "title": "Farmers in Seaqaqa call for higher cane price and fuel subsidy",
-      "title_vi": "Nông dân ở Seaqaqa kêu gọi giá mía cao hơn và trợ cấp nhiên liệu",
-      "summary_vi": "Nông dân trồng mía ở Seaqaqa đang kêu gọi Chính phủ và Tập đoàn Đường Fiji tăng giá mía đảm bảo, tăng tiền thanh toán cho người giao hàng",
-      "image": "https://www.fijivillage.com/news_images/20260607130640_media_6a1f5dfc253472_00766794.jpg",
-      "link": "https://www.fijivillage.com/ne/farmers-in-seaqaqa-call-for-higher-cane-price-and-fuel-subsidy-730469/",
-      "source": "Fijivillage",
-      "category": "energy",
-      "published": "2026-07-06 13:14"
-    },
-    {
-      "id": "15ydhtu",
-      "title": "Why Iran may find it difficult to clear its oil inventories even after sanctions relief",
-      "title_vi": "Tại sao Iran có thể gặp khó khăn trong việc giải quyết tồn kho dầu ngay cả sau khi dỡ bỏ lệnh trừng phạt",
-      "summary_vi": "Iran có thể phải đối mặt với những thách thức trong việc giải quyết tồn kho dầu ngay cả sau khi các hạn chế được dỡ bỏ, trong bối cảnh nguồn cung dầu ở nơi khác trong khi Trung Quốc trở nên kém nhiệt tình hơn",
-      "image": "https://image.cnbcfm.com/api/v1/image/108284017-1774615135525-gettyimages-2268007114-AFP_A4VU6NZ.jpeg?v=1774615226&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/07/06/iran-oil-supply-hormuz-china-energy.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-07-06 12:06"
     }
   ]
 }

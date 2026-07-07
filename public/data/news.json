@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 22:01",
+  "updated_at": "2026-07-07 22:19",
   "items": [
     {
       "id": "15tm2mo",
@@ -220,6 +220,17 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-07-07 11:51"
+    },
+    {
+      "id": "1esgkqp",
+      "title": "StoneX Natural Resource Summit 4.0: Copper’s Strategic Importance",
+      "title_vi": "Hội nghị thượng đỉnh về tài nguyên thiên nhiên StoneX 4.0: Tầm quan trọng chiến lược của Đồng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en/insights/stonex-natural-resource-summit-4-0-copper-s-strategic-importance/",
+      "source": "StoneX",
+      "category": "metal",
+      "published": "2026-07-07 11:05"
     },
     {
       "id": "tsqlyp",
@@ -539,17 +550,6 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-07-06 12:06"
-    },
-    {
-      "id": "1ojwhfp",
-      "title": "Global food prices dip in June as cereal and sugar markets soften",
-      "title_vi": "Giá lương thực toàn cầu giảm trong tháng 6 do thị trường ngũ cốc và đường giảm nhẹ",
-      "summary_vi": "Theo dữ liệu mới do UN FAO công bố, giá hàng hóa thực phẩm toàn cầu giảm xuống vào tháng 6 năm 2026. Sự sụt giảm của ngũ cốc, đường và sữa vượt xa mức tăng của dầu thực vật và thịt. Chỉ số giá thực phẩm FAO đạt trung bình 130,3 điểm trong tháng 6, giảm 0,3% so với tháng 5, mặc dù vẫn cao hơn 2,2% điểm",
-      "image": "https://article.innovamarketinsights360.com/articleimgs/resized_rect_newsimages/jpg/639188629323972145Woman_shopping_for_vegetable_oil_in_the_supermarket..jpg",
-      "link": "https://www.foodingredientsfirst.com/news/global-food-prices-dip-june-2026.html",
-      "source": "Food Ingredients First",
-      "category": "soft",
-      "published": "2026-07-06 08:03"
     }
   ]
 }

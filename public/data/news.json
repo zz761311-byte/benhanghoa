@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08 04:00",
+  "updated_at": "2026-07-08 04:11",
   "items": [
     {
       "id": "bnhex7",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-08 03:00"
+    },
+    {
+      "id": "oyturl",
+      "title": "EIA Sees Record Power Burn, Soaring LNG and yet Lower Natural Gas Prices in 2027",
+      "title_vi": "EIA chứng kiến ​​mức đốt điện kỷ lục, LNG tăng vọt và giá khí đốt tự nhiên thấp hơn vào năm 2027",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/eia-sees-record-power-burn-soaring-lng-and-yet-lower-natural-gas-prices-in-2027/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-07-08 02:14"
     },
     {
       "id": "1d8tegn",
@@ -539,17 +550,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-07-06 21:33"
-    },
-    {
-      "id": "1erq3mn",
-      "title": "Grains and oilseeds summary: Wheat markets decline, corn prices move higher in US and Argentinian soybean markets quiet",
-      "title_vi": "Tóm tắt về ngũ cốc và hạt có dầu: Thị trường lúa mì giảm, giá ngô tăng cao ở Mỹ và thị trường đậu tương Argentina trầm lắng",
-      "summary_vi": "Bản tóm tắt hàng tuần của Fastmarkets về các biến động chính trên thị trường tiền mặt toàn cầu.",
-      "image": "https://www.fastmarkets.com/tachyon/2024/10/Ag_Grains_WheatCloseupWindBlowing_Getty-107713160_Med.jpg",
-      "link": "https://www.fastmarkets.com/insights/grains-and-oilseeds-summary-wheat-markets-decline-corn-prices-move-higher-in-us-and-argentinian-soybean-markets-quiet/",
-      "source": "Fastmarkets",
-      "category": "agri",
-      "published": "2026-07-06 21:03"
     }
   ]
 }

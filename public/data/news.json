@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-08 06:00",
+  "updated_at": "2026-07-08 06:40",
   "items": [
+    {
+      "id": "nn57oi",
+      "title": "Corn crop outlook for Wichita County",
+      "title_vi": "Triển vọng vụ ngô ở hạt Wichita",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.texomashomepage.com/video/corn-crop-outlook-for-wichita-county/11950208/",
+      "source": "Texomashomepage.com",
+      "category": "agri",
+      "published": "2026-07-08 06:28"
+    },
     {
       "id": "edd9ba",
       "title": "The Next Oil Price Spike Could Come Sooner Than Traders Think",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-07-07 00:58"
-    },
-    {
-      "id": "1afsnjk",
-      "title": "July WASDE unlikely to shake up crop outlook",
-      "title_vi": "WASDE tháng 7 khó có thể thay đổi triển vọng mùa màng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/crop-forecasts-steady-prices-lack-rally-fuel",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-07-07 00:06"
     }
   ]
 }

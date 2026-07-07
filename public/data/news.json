@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-07 19:12",
+  "updated_at": "2026-07-07 20:01",
   "items": [
+    {
+      "id": "rg3vrf",
+      "title": "ICE Expands Role in Platinum and Palladium Price Management",
+      "title_vi": "ICE mở rộng vai trò trong quản lý giá bạch kim và palladium",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.gurufocus.com/news/8947269/ice-expands-role-in-platinum-and-palladium-price-management",
+      "source": "GuruFocus",
+      "category": "metal",
+      "published": "2026-07-07 19:45"
+    },
+    {
+      "id": "1lemh6q",
+      "title": "ADNOC Signs 15-Year LNG Supply Deal With Japan’s Inpex",
+      "title_vi": "ADNOC ký thỏa thuận cung cấp LNG 15 năm với Inpex của Nhật Bản",
+      "summary_vi": "Công ty dầu khí quốc gia ADNOC của Abu Dhabi hôm thứ Ba đã ký một thỏa thuận dài hạn 15 năm để cung cấp khí đốt từ dự án Ruwais LNG của UAE cho công ty Inpex của Nhật Bản bắt đầu từ năm 2028. Theo thỏa thuận này, Inpex, công ty thăm dò và sản xuất lớn nhất Nhật Bản, sẽ nhận được 1 triệu tấn/năm.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-07_qvz0z5kwoa.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Signs-15-Year-LNG-Supply-Deal-With-Japans-Inpex.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-07 19:30"
+    },
     {
       "id": "1qpayvg",
       "title": "ICE takes over LBMA platinum and palladium auctions",
@@ -22,6 +44,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-07 18:30"
+    },
+    {
+      "id": "1htusov",
+      "title": "Corn, Soy Jump Nearly 4% on Weather Risks, China Demand Hopes",
+      "title_vi": "Ngô, đậu nành tăng gần 4% do rủi ro thời tiết, hy vọng về nhu cầu của Trung Quốc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/partners-corn-soybeans-jump-nearly-4-on-weather-risks-and-china-demand-hopes-12013097",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-07-07 18:04"
+    },
+    {
+      "id": "q53oso",
+      "title": "Mining districts could unlock billions in value: study",
+      "title_vi": "Các khu khai thác có thể mở khóa hàng tỷ giá trị: nghiên cứu",
+      "summary_vi": "Nghiên cứu cho thấy sự phối hợp trong khu vực có thể giúp các nhà khai thác vượt qua những hạn chế về giấy phép, nước và cơ sở hạ tầng.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/collahuasi.png",
+      "link": "https://www.mining.com/mining-districts-could-unlock-billions-in-value-study/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-07 17:52"
     },
     {
       "id": "1g0lov2",
@@ -145,17 +189,6 @@
       "published": "2026-07-07 07:00"
     },
     {
-      "id": "q83ti5",
-      "title": "Why Abu Dhabi Is Building the World&#039;s First Integrated Energy-AI Economy",
-      "title_vi": "Tại sao Abu Dhabi đang xây dựng nền kinh tế năng lượng-AI tích hợp đầu tiên trên thế giới",
-      "summary_vi": "Trong nhiều thập kỷ, các quốc gia đã cạnh tranh bằng cách thiết lập các lĩnh vực năng lượng lớn hơn, cảng sâu hơn hoặc nền kinh tế kỹ thuật số mạnh hơn. Thời đại đó đang kết thúc. Nền kinh tế toàn cầu mới nổi, ngay cả khi bị rạn nứt, không còn được xác định bởi sự xuất sắc trong từng lĩnh vực riêng lẻ mà bởi khả năng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-06_2dgzfn3j90.jpg",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Why-Abu-Dhabi-Is-Building-the-Worlds-First-Integrated-Energy-AI-Economy.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-07-07 06:00"
-    },
-    {
       "id": "q4u6ck",
       "title": "Wheat, rice and cotton prices rise as climate, geopolitical risks shape commodity markets",
       "title_vi": "Giá lúa mì, gạo và bông tăng do khí hậu, rủi ro địa chính trị định hình thị trường hàng hóa",
@@ -187,17 +220,6 @@
       "source": "Crude Oil Prices Today | OilPrice.com",
       "category": "energy",
       "published": "2026-07-07 05:00"
-    },
-    {
-      "id": "1lbbzyv",
-      "title": "Soybeans Explode Higher with Corn and Wheat on Weather, China Dropping Tariffs",
-      "title_vi": "Đậu nành tăng giá nhờ ngô và lúa mì do thời tiết, Trung Quốc giảm thuế",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/soybeans-explode-higher-corn-and-wheat-weather-china-dropping-tariffs",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-07-07 04:27"
     },
     {
       "id": "1r48rz2",
@@ -409,17 +431,6 @@
       "published": "2026-07-06 20:24"
     },
     {
-      "id": "kk6w77",
-      "title": "Genesis trumps Regis with $3.9B takeover bid for Vault",
-      "title_vi": "Genesis vượt qua Regis với giá thầu tiếp quản Vault trị giá 3,9 tỷ USD",
-      "summary_vi": "Vault Minerals cho biết các giám đốc của họ đã nhất trí xác định lời đề nghị mới sẽ tốt hơn thỏa thuận về toàn bộ cổ phiếu với Regis đã đạt được vào tháng 5.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/genesis-leonora.jpg",
-      "link": "https://www.mining.com/genesis-trumps-regis-with-3-9b-takeover-bid-for-vault/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-06 18:49"
-    },
-    {
       "id": "1fxxnn4",
       "title": "Platinum Price Analyses: XPT Price Moves to $1,650 Amid Early July Volatility",
       "title_vi": "Phân tích giá bạch kim: Giá XPT chuyển sang 1.650 USD trong bối cảnh biến động đầu tháng 7",
@@ -539,17 +550,6 @@
       "source": "Financial Times",
       "category": "energy",
       "published": "2026-07-05 14:09"
-    },
-    {
-      "id": "36gop6",
-      "title": "Is A 174 Blood Sugar Level High? What It Means And Practical Next Steps [uk3AlcrTKcr]",
-      "title_vi": "Mức đường huyết 174 có cao không? Ý nghĩa và các bước thực tế tiếp theo [uk3AlcrTKcr]",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://kmu.edu.pk/journals/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file",
-      "source": "KMU",
-      "category": "soft",
-      "published": "2026-07-04 20:39"
     }
   ]
 }

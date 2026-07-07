@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07 09:01",
+  "updated_at": "2026-07-07 10:00",
   "items": [
     {
       "id": "1y6zyzb",
@@ -475,6 +475,17 @@
       "published": "2026-07-04 02:36"
     },
     {
+      "id": "ak9mus",
+      "title": "Copper Climbs With Industrial Metals as Rate-Hike Prospects Fade",
+      "title_vi": "Đồng tăng cùng với kim loại công nghiệp khi triển vọng tăng lãi suất mờ dần",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-03/copper-climbs-with-industrial-metals-as-rate-hike-prospects-fade",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-07-04 01:53"
+    },
+    {
       "id": "lpmauy",
       "title": "OPEC oil output jumps in June as Gulf producers begin reviving supply, Reuters survey shows",
       "title_vi": "Khảo sát của Reuters cho thấy sản lượng dầu của OPEC tăng vọt trong tháng 6 khi các nhà sản xuất vùng Vịnh bắt đầu khôi phục nguồn cung",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "energy",
       "published": "2026-07-03 22:33"
-    },
-    {
-      "id": "163uvjp",
-      "title": "Bonterra Energy Announces Year-End 2025 Results and Reserves Evaluation; Achieves Record Annual Production",
-      "title_vi": "Bonterra Energy công bố đánh giá kết quả và trữ lượng cuối năm 2025; Đạt kỷ lục sản lượng hàng năm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.ca/2026/03/bonterra-energy-announces-year-end-2025-results-and-reserves-evaluation-achieves-record-annual-production/",
-      "source": "EnergyNow",
-      "category": "energy",
-      "published": "2026-07-03 19:31"
     }
   ]
 }

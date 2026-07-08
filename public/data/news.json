@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08 11:01",
+  "updated_at": "2026-07-08 12:00",
   "items": [
     {
       "id": "1pwivhh",
@@ -110,6 +110,17 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-07-08 02:14"
+    },
+    {
+      "id": "79bb65",
+      "title": "Where is the Next Big Move in Platinum?",
+      "title_vi": "Bước chuyển lớn tiếp theo của bạch kim ở đâu?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/where-next-big-move-platinum-190002189.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-07-08 02:00"
     },
     {
       "id": "1d8tegn",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "energy",
       "published": "2026-07-07 02:17"
-    },
-    {
-      "id": "1gv45na",
-      "title": "HTBA Introduces Citrose Sweetener Complex for Sugar Reduction Applications",
-      "title_vi": "HTBA giới thiệu phức hợp chất làm ngọt Citrose cho các ứng dụng giảm lượng đường",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nutritionaloutlook.com/view/htba-introduces-citrose-sweetener-complex-for-sugar-reduction-applications",
-      "source": "Nutritional Outlook",
-      "category": "soft",
-      "published": "2026-07-07 01:41"
     }
   ]
 }

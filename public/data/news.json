@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-08 14:17",
+  "updated_at": "2026-07-08 15:00",
   "items": [
+    {
+      "id": "er65sm",
+      "title": "China Lifts Fuel Export Curbs as Refiners Ramp Up Overseas Shipments",
+      "title_vi": "Trung Quốc dỡ bỏ hạn chế xuất khẩu nhiên liệu khi các nhà máy lọc dầu tăng cường vận chuyển ra nước ngoài",
+      "summary_vi": "Reuters đưa tin hôm nay, trích dẫn các nguồn tin giấu tên, Trung Quốc đã dỡ bỏ các hạn chế đối với xuất khẩu nhiên liệu đã lọc, cho phép các nhà máy lọc dầu thuộc sở hữu nhà nước tiếp tục vận chuyển ra nước ngoài trong tháng này, cũng như một nhà máy lọc dầu tư nhân. Đối với nhà máy lọc dầu tư nhân, một công ty thuộc sở hữu phần lớn của Rongsheng Pet",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-08_ccfktl3eb8.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Lifts-Fuel-Export-Curbs-as-Refiners-Ramp-Up-Overseas-Shipments.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-08 14:30"
+    },
     {
       "id": "19j9lpv",
       "title": "Oil Prices Jump After Iran Attacks Commercial Vessels",
@@ -142,17 +153,6 @@
       "link": "https://finance.yahoo.com/markets/commodities/articles/where-next-big-move-platinum-190002189.html",
       "source": "Yahoo Finance",
       "category": "metal",
-      "published": "2026-07-08 02:00"
-    },
-    {
-      "id": "1d8tegn",
-      "title": "Oil Market Swings From Glut Fears to Hormuz Toll Concerns",
-      "title_vi": "Thị trường dầu mỏ chuyển từ lo ngại dư thừa sang lo ngại về phí tổn Hormuz",
-      "summary_vi": "Bất chấp tiến trình đàm phán hòa bình giữa Iran và Mỹ tạm lắng, các nhà phân tích một lần nữa bắt đầu nói về tình trạng dư cung khi các tàu chở dầu rời Vịnh Ba Tư với số lượng lớn hơn ba tháng qua. Các quốc gia nhập khẩu thậm chí còn được cảnh báo về “làn sóng” dầu thô xuất hiện",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_86kqwuv0fo.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Market-Swings-From-Glut-Fears-to-Hormuz-Toll-Concerns.html",
-      "source": "OilPrice",
-      "category": "energy",
       "published": "2026-07-08 02:00"
     },
     {
@@ -341,6 +341,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-07 19:04"
+    },
+    {
+      "id": "1tird3c",
+      "title": "ICE Benchmark Administration Now Operates the LBMA Platinum and Palladium Prices and Auctions",
+      "title_vi": "Cơ quan quản lý điểm chuẩn ICE hiện vận hành giá và đấu giá LBMA Platinum và Palladium",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/ice-benchmark-administration-now-operates-120000413.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-07-07 19:00"
     },
     {
       "id": "1qun7tl",
@@ -539,17 +550,6 @@
       "source": "Anadolu Ajansı",
       "category": "macro",
       "published": "2026-07-07 05:09"
-    },
-    {
-      "id": "1gixaxp",
-      "title": "Silver Price Forecast: XAG/USD rally stalls, sellers eye $60.00",
-      "title_vi": "Dự báo giá bạc: XAG/USD ngừng tăng giá, người bán để mắt tới 60,00 USD",
-      "summary_vi": "Giá bạc giảm hơn 1% vào thứ Hai, ngay cả khi đồng USD và Kho bạc Hoa Kỳ giảm lãi suất, với kim loại trắng có nguy cơ giảm xuống dưới 60 USD lần đầu tiên trong tuần này. Tại thời điểm viết bài, XAG/USD giao dịch ở mức 61,80 USD, sau khi đạt đỉnh khoảng 63,28 USD trước đó trong ngày,",
-      "image": "https://editorial.fxsstatic.com/images/i/discover-54_Medium.png",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rally-stalls-sellers-eye-6000-202607062207",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-07-07 05:07"
     }
   ]
 }

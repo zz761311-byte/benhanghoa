@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09 03:00",
+  "updated_at": "2026-07-09 03:12",
   "items": [
     {
       "id": "1pi785s",
@@ -198,6 +198,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-08 21:37"
+    },
+    {
+      "id": "1vfdbyd",
+      "title": "ICO economist on Hormuz risks for coffee: Cost pressures loom, but shortages unlikely",
+      "title_vi": "Nhà kinh tế học ICO về rủi ro Hormuz đối với cà phê: Áp lực chi phí tăng cao nhưng khó có thể xảy ra tình trạng thiếu hụt",
+      "summary_vi": "Tổ chức Cà phê Quốc tế (ICO) cảnh báo, cuộc khủng hoảng eo biển Hormuz có thể tạo ra những tác động lan tỏa đến ngành cà phê toàn cầu, mặc dù hầu hết các nước sản xuất cà phê không dựa vào tuyến đường xuất khẩu chính của họ. Những lo ngại chỉ ra cú sốc chi phí thứ cấp do giá năng lượng cao hơn, phân bón",
+      "image": "https://article.innovamarketinsights360.com/articleimgs/resized_rect_newsimages/jpg/639191169475170764farmer_drying_coffee_beans.jpg",
+      "link": "https://www.foodingredientsfirst.com/news/hormuz-instability-coffee-sector-costs-ico.html",
+      "source": "Food Ingredients First",
+      "category": "soft",
+      "published": "2026-07-08 21:18"
     },
     {
       "id": "1cigo7m",
@@ -539,17 +550,6 @@
       "source": "ET Manufacturing",
       "category": "metal",
       "published": "2026-07-07 18:10"
-    },
-    {
-      "id": "1htusov",
-      "title": "Corn, Soy Jump Nearly 4% on Weather Risks, China Demand Hopes",
-      "title_vi": "Ngô, đậu nành tăng gần 4% do rủi ro thời tiết, hy vọng về nhu cầu của Trung Quốc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/partners-corn-soybeans-jump-nearly-4-on-weather-risks-and-china-demand-hopes-12013097",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-07-07 18:04"
     }
   ]
 }

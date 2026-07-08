@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08 08:00",
+  "updated_at": "2026-07-08 08:13",
   "items": [
     {
       "id": "1pwivhh",
@@ -398,6 +398,17 @@
       "published": "2026-07-07 15:13"
     },
     {
+      "id": "9m40f9",
+      "title": "Oil prices rise after attacks on tankers in Strait of Hormuz, U.S. revokes Iran sale authorization",
+      "title_vi": "Giá dầu tăng sau các cuộc tấn công vào tàu chở dầu ở eo biển Hormuz, Mỹ thu hồi giấy phép bán hàng của Iran",
+      "summary_vi": "Giá dầu Brent và dầu thô Mỹ kỳ hạn tăng sau báo cáo về cuộc tấn công của Iran vào các tàu thương mại ở eo biển Hormuz.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108330705-17833366872026-07-01t164535z_267159373_rc2kvkadmuk6_rtrmadp_0_global-oil.jpeg?v=1783336748&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/07/07/oil-prices-iran-strait-hormuz.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-07-07 15:06"
+    },
+    {
       "id": "1xw4h33",
       "title": "Shell raises Q2 gas output guidance, flags stronger gas trading results",
       "title_vi": "Shell nâng cao hướng dẫn sản lượng khí quý 2, đánh dấu kết quả giao dịch khí tốt hơn",
@@ -462,17 +473,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-07-07 09:08"
-    },
-    {
-      "id": "1afxzgv",
-      "title": "Oil gains after vessels attacked near Strait of Hormuz",
-      "title_vi": "Giá dầu tăng sau khi tàu bị tấn công gần eo biển Hormuz",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/oil-prices-gain-focus-shifts-supply-recovery-demand-2026-07-07/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-07-07 07:53"
     },
     {
       "id": "zgfdbl",

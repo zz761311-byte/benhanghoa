@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09 01:00",
+  "updated_at": "2026-07-09 01:50",
   "items": [
     {
       "id": "ildhoq",
@@ -453,6 +453,17 @@
       "published": "2026-07-07 22:05"
     },
     {
+      "id": "eq06qw",
+      "title": "A Once-Great Copper Miner Faces a Reckoning Just as AI Power Demand Soars",
+      "title_vi": "Công cụ khai thác đồng vĩ đại một thời phải đối mặt với sự tính toán ngay khi nhu cầu năng lượng AI tăng vọt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-07/codelco-confronts-debt-output-concerns-as-copper-demand-soars-on-ai",
+      "source": "Bloomberg",
+      "category": "metal",
+      "published": "2026-07-07 21:08"
+    },
+    {
       "id": "hiji4d",
       "title": "Zero-Dollar Treatment Charges Signal a Multi-Year Mine Supply Shortfall & Lift Copper Project Values",
       "title_vi": "Phí xử lý không đồng đô la báo hiệu sự thiếu hụt nguồn cung mỏ trong nhiều năm và nâng cao giá trị dự án đồng",
@@ -539,17 +550,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-07-07 18:04"
-    },
-    {
-      "id": "rrda29",
-      "title": "Ukrainian drones hit Russia’s largest oil refinery as Zelenskyy says Siberia now ‘within reach’",
-      "title_vi": "Máy bay không người lái của Ukraine tấn công nhà máy lọc dầu lớn nhất của Nga khi Zelenskyy nói rằng Siberia hiện 'trong tầm tay'",
-      "summary_vi": "Cuộc tấn công nhấn mạnh khả năng máy bay không người lái tầm xa được nâng cao của Kyiv và diễn ra ngay trước hội nghị thượng đỉnh quan trọng của NATO.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108331293-1783419195069-gettyimages-2281586697-AFP_B7JT3EG.jpeg?v=1783419226&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/07/07/ukraine-russia-omsk-oil-refinery-putin-nato.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-07-07 17:13"
     }
   ]
 }

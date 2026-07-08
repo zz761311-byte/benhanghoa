@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08 20:00",
+  "updated_at": "2026-07-08 20:17",
   "items": [
     {
       "id": "d18amc",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-08 17:30"
+    },
+    {
+      "id": "s7qte3",
+      "title": "FOMC Minutes: Are Stocks at Risk if the Fed Gets Inflation Wrong?",
+      "title_vi": "Biên bản FOMC: Cổ phiếu có gặp rủi ro nếu Fed tính sai lạm phát?",
+      "summary_vi": "Thị trường chứng khoán có gặp rắc rối nếu Fed sai về lạm phát? Thương mại chiến tranh với Iran đang mờ dần đối với vàng, trái phiếu và đồng đô la. Xu hướng diều hâu của ngân hàng trung ương Hoa Kỳ có thể trở nên lỗi thời một cách nguy hiểm.",
+      "image": "https://images.contentstack.io/v3/assets/blt40263f25ec36953f/blt7409c1f6d5f4e532/6a4df4d50edfa898dfa3548b/ChatGPT_Image_Jul_7_2026_11_57_04_PM.png?width=1200&height=628&disable=upscale&fit=bounds#time=1783494001",
+      "link": "https://www.tastylive.com/news-insights/fomc-minutes-are-stocks-at-risk-if-the-fed-gets-inflation-wrong",
+      "source": "tastylive",
+      "category": "macro",
+      "published": "2026-07-08 16:57"
     },
     {
       "id": "1hx8hgg",
@@ -189,6 +200,17 @@
       "published": "2026-07-08 02:00"
     },
     {
+      "id": "q1qj72",
+      "title": "EIA boosts oil production forecast after Strait of Hormuz reopening",
+      "title_vi": "EIA tăng dự báo sản lượng dầu sau khi eo biển Hormuz mở cửa trở lại",
+      "summary_vi": "Triển vọng ngắn hạn trong tháng 7 của EIA làm tăng dự báo sản lượng dầu toàn cầu khi hoạt động vận chuyển qua eo biển Hormuz phục hồi, đồng thời dự báo giá dầu thô Brent thấp hơn và sản lượng dầu thô của Mỹ cũng như xuất khẩu LNG tiếp tục tăng trưởng.",
+      "image": "https://www.worldoil.com/media/17213/newsletter-top-permian-pumps.jpg",
+      "link": "https://worldoil.com/news/2026/7/7/eia-boosts-oil-production-forecast-after-strait-of-hormuz-reopening/",
+      "source": "World Oil",
+      "category": "energy",
+      "published": "2026-07-08 01:54"
+    },
+    {
       "id": "y0hgho",
       "title": "Climate Supports a Bullish Outlook for Sugar in the Second Half of 2026",
       "title_vi": "Khí hậu hỗ trợ triển vọng tăng giá cho đường trong nửa cuối năm 2026",
@@ -264,6 +286,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-07 23:47"
+    },
+    {
+      "id": "168fx2",
+      "title": "Ukraine’s Attacks on Oil Infrastructure and the “War-Sustaining” Debate",
+      "title_vi": "Cuộc tấn công của Ukraine vào cơ sở hạ tầng dầu mỏ và cuộc tranh luận về “duy trì chiến tranh”",
+      "summary_vi": "Chiến dịch chống lại cơ sở hạ tầng dầu mỏ của Ukraine làm sống lại cuộc tranh luận kéo dài về việc liệu cái gọi là vật thể “duy trì chiến tranh” có thể bị tấn công hay không.",
+      "image": "https://lieber.westpoint.edu/wp-content/uploads/2026/07/Tanks_with_sunflower_oil_in_Mykolaiv_after_Russian_drone_attack_2022-10-16_03-copy.jpg",
+      "link": "https://lieber.westpoint.edu/ukraines-attacks-oil-infrastructure-war-sustaining-debate/",
+      "source": "United States Military Academy West Point",
+      "category": "energy",
+      "published": "2026-07-07 23:43"
     },
     {
       "id": "1yg1u29",
@@ -517,39 +550,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-07-07 12:34"
-    },
-    {
-      "id": "xz1f9m",
-      "title": "China to Drop 10% Tariff on U.S. Ag Goods, Including Soybeans",
-      "title_vi": "Trung Quốc giảm 10% thuế đối với hàng hóa nông sản của Mỹ, bao gồm cả đậu nành",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/news/china-drop-10-tariff-u-s-ag-goods-including-soybeans",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-07-07 11:51"
-    },
-    {
-      "id": "1esgkqp",
-      "title": "StoneX Natural Resource Summit 4.0: Copper’s Strategic Importance",
-      "title_vi": "Hội nghị thượng đỉnh về tài nguyên thiên nhiên StoneX 4.0: Tầm quan trọng chiến lược của Đồng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en/insights/stonex-natural-resource-summit-4-0-copper-s-strategic-importance/",
-      "source": "StoneX",
-      "category": "metal",
-      "published": "2026-07-07 11:05"
-    },
-    {
-      "id": "9z3n03",
-      "title": "Pan American Silver (TSX:PAAS) Stock Stays Fairly Valued On Silver Price Tension",
-      "title_vi": "Cổ phiếu bạc Pan American (TSX:PAAS) vẫn được định giá khá cao nhờ căng thẳng giá bạc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-tsx-paas-020854255.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-07-07 09:08"
     }
   ]
 }

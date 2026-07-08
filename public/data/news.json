@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-08 15:00",
+  "updated_at": "2026-07-08 16:00",
   "items": [
+    {
+      "id": "1qqonpf",
+      "title": "Oil and LNG Tankers Make U-Turns After Fresh Hormuz Escalation",
+      "title_vi": "Các tàu chở dầu và LNG quay đầu sau đợt leo thang Hormuz mới",
+      "summary_vi": "Các hành động thù địch và tấn công mới nhằm vào các tàu thuyền ở eo biển Hormuz một lần nữa đặt dấu chấm hết đột ngột cho dòng tàu chở dầu và khí đốt ổn định di chuyển ra vào Vịnh Ba Tư. Ít nhất bốn tàu chở dầu và LNG đã quay đầu lại khi cố gắng đi qua eo biển Hormuz ở Indonesia.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-08_zpcs3ugjhv.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-and-LNG-Tankers-Make-U-Turns-After-Fresh-Hormuz-Escalation.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-08 15:30"
+    },
     {
       "id": "er65sm",
       "title": "China Lifts Fuel Export Curbs as Refiners Ramp Up Overseas Shipments",
@@ -33,6 +44,17 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-07-08 12:02"
+    },
+    {
+      "id": "17qvegg",
+      "title": "Gold gains as markets await Fed minutes, US-Iran strikes cap rise",
+      "title_vi": "Vàng tăng khi thị trường chờ đợi biên bản của Fed, đình công Mỹ-Iran tăng trần",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-eases-fresh-us-iran-tensions-lift-oil-prices-rate-hike-bets-2026-07-08/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-07-08 08:28"
     },
     {
       "id": "1pwivhh",
@@ -123,15 +145,15 @@
       "published": "2026-07-08 03:46"
     },
     {
-      "id": "q9wsrc",
-      "title": "Big Oil&#039;s Windfall Earnings Threaten to Reignite Trump&#039;s Price-Gouging Push",
-      "title_vi": "Thu nhập bất ngờ của Big Oil có nguy cơ châm ngòi cho nỗ lực cắt giảm giá của Trump",
-      "summary_vi": "Chevron và Exxon dự kiến ​​​​sẽ báo cáo quý tốt nhất kể từ năm 2022 trong tháng này, khi cuộc chiến mà Hoa Kỳ và Israel bắt đầu chống lại Iran vào ngày 28 tháng 2 đã khiến nguồn cung dầu và khí đốt bị thắt chặt hơn nhiều. Đây có thể là một vấn đề đối với Tổng thống Trump, người đã chỉ trích Big Oil.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_vc1rouiy3g.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Windfall-Earnings-Threaten-to-Reignite-Trumps-Price-Gouging-Push.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-08 03:00"
+      "id": "i9ny89",
+      "title": "Crops Analysis | Corn, soybeans carve five-week highs",
+      "title_vi": "Phân tích cây trồng | Ngô, đậu nành chạm mức cao nhất 5 tuần",
+      "summary_vi": "Ngày 7 tháng 7 năm 2026",
+      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
+      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-corn-soybeans-carve-five-week-highs",
+      "source": "Pro Farmer",
+      "category": "agri",
+      "published": "2026-07-08 03:22"
     },
     {
       "id": "oyturl",
@@ -431,17 +453,6 @@
       "published": "2026-07-07 16:06"
     },
     {
-      "id": "kj9zom",
-      "title": "Gold, Silver and Platinum Forecast: Fed Minutes Put Key Breakout Levels in Focus",
-      "title_vi": "Dự báo vàng, bạc và bạch kim: Biên bản Fed tập trung vào các mức đột phá quan trọng",
-      "summary_vi": "Vàng, bạc và bạch kim phục hồi khi dữ liệu việc làm yếu và thanh khoản dễ dàng hỗ trợ kim loại quý, nhưng biên bản họp của Fed, lợi suất thực và các mức đột phá quan trọng sẽ quyết định bước đi tiếp theo.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/Gold-Platinum.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/premium-gold-silver-and-platinum-forecast-fed-minutes-put-key-breakout-levels-in-focus-1608687",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-07-07 15:18"
-    },
-    {
       "id": "iefym8",
       "title": "Shell boosted by oil price spike due to Iran war — but gas production takes a hit",
       "title_vi": "Shell tăng giá nhờ giá dầu tăng do chiến tranh Iran - nhưng sản xuất khí đốt bị ảnh hưởng",
@@ -539,17 +550,6 @@
       "source": "Cotton Grower",
       "category": "agri",
       "published": "2026-07-07 06:57"
-    },
-    {
-      "id": "q4u6ck",
-      "title": "Wheat, rice and cotton prices rise as climate, geopolitical risks shape commodity markets",
-      "title_vi": "Giá lúa mì, gạo và bông tăng do khí hậu, rủi ro địa chính trị định hình thị trường hàng hóa",
-      "summary_vi": "Chuyên gia cho biết hàng hóa nông nghiệp khác nhau do El Nino, suy thoái kinh tế từ xung đột Mỹ-Israel-Iran đẩy giá lúa mì, gạo và bông tăng cao, trong khi cà phê, đường và ca cao giảm | Anadolu",
-      "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/07/07/thumbs_b_c_005bacbb919f9dd5de661824f843035e.jpg",
-      "link": "https://www.aa.com.tr/en/economy/wheat-rice-and-cotton-prices-rise-as-climate-geopolitical-risks-shape-commodity-markets/3987940",
-      "source": "Anadolu Ajansı",
-      "category": "macro",
-      "published": "2026-07-07 05:09"
     }
   ]
 }

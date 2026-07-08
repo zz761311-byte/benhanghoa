@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09 04:00",
+  "updated_at": "2026-07-09 04:33",
   "items": [
     {
       "id": "yczu97",
@@ -187,6 +187,17 @@
       "source": "Barron's",
       "category": "energy",
       "published": "2026-07-08 22:21"
+    },
+    {
+      "id": "jgcgo5",
+      "title": "When will gas prices go down? What to know as you plan your summer road trip.",
+      "title_vi": "Khi nào giá xăng sẽ giảm? Những điều cần biết khi bạn lên kế hoạch cho chuyến đi mùa hè của mình.",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/when-will-gas-prices-go-down-what-to-know-as-you-plan-your-summer-road-trip-154506731.html",
+      "source": "Yahoo Finance",
+      "category": "energy",
+      "published": "2026-07-08 21:59"
     },
     {
       "id": "ga6ra1",
@@ -539,17 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-07-07 18:52"
-    },
-    {
-      "id": "1mca3z7",
-      "title": "Adani's Kutch Copper secures LME registration for 'Adani Copper' Grade A cathodes",
-      "title_vi": "Kutch Copper của Adani đảm bảo đăng ký LME cho cực âm loại A 'Adani Copper'",
-      "summary_vi": "Kutch Copper Ltd đã đạt được đăng ký tại London Metal Exchange cho cực âm đồng của mình. Sự chấp thuận này cho phép",
-      "image": "https://etimg.etb2bimg.com/thumb/msid-132238111,imgsize-34628,width-1200,height=627,overlay-etmanufacturing,resizemode-75/news/industry/adanis-kutch-copper-secures-lme-registration-for-adani-copper-grade-a-cathodes.jpg",
-      "link": "https://manufacturing.economictimes.indiatimes.com/amp/news/industry/adanis-kutch-copper-secures-lme-registration-for-adani-copper-grade-a-cathodes/132238111",
-      "source": "ET Manufacturing",
-      "category": "metal",
-      "published": "2026-07-07 18:10"
     }
   ]
 }

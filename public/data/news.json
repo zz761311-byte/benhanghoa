@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-09 00:12",
+  "updated_at": "2026-07-09 01:00",
   "items": [
+    {
+      "id": "ildhoq",
+      "title": "West Texas Cowboys Are Cashing In on the AI Land Rush",
+      "title_vi": "Những chàng cao bồi Tây Texas đang kiếm tiền từ AI Land Rush",
+      "summary_vi": "Bốn mươi dặm bên ngoài Abilene, ở vùng cao nguyên giữa các hạt Taylor và Nolan, 421 tuabin gió đã quay kể từ năm 2006. Horse Hollow là trang trại gió lớn nhất trên trái đất khi nó đi vào hoạt động…gần 47.000 mẫu đất trồng gia súc và bụi cây mesquite, được thuê từ các gia đình trang trại, những người chủ yếu thuê",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-08_toqqstmdh0.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/West-Texas-Cowboys-Are-Cashing-In-on-the-AI-Land-Rush.html",
+      "source": "OilPrice",
+      "category": "agri",
+      "published": "2026-07-09 01:00"
+    },
+    {
+      "id": "uvt57q",
+      "title": "Russia Bans Diesel Exports Amid Heavy Ukraine Attacks On Refineries",
+      "title_vi": "Nga cấm xuất khẩu dầu diesel trong bối cảnh Ukraine tấn công nặng nề vào các nhà máy lọc dầu",
+      "summary_vi": "Nga đã chính thức cấm xuất khẩu dầu diesel nhằm đảm bảo thị trường nhiên liệu trong nước sau các cuộc tấn công bằng máy bay không người lái của Ukraine có sức tàn phá nặng nề vào cơ sở hạ tầng năng lượng của nước này. Theo Phó Thủ tướng Alexander Novak, lệnh cấm vận bao gồm tất cả hoạt động xuất khẩu dầu diesel, khép lại một vòng lặp",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-08_uapjytlqn8.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Bans-Diesel-Exports-Amid-Heavy-Ukraine-Attacks-On-Refineries.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-09 00:30"
+    },
     {
       "id": "fkmvz5",
       "title": "China Plans 1,000-Satellite Network to Watch Over Central Asia",
@@ -11,6 +33,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-07-09 00:00"
+    },
+    {
+      "id": "pj8k2y",
+      "title": "China demand, weather risks boost grain market optimism",
+      "title_vi": "Nhu cầu Trung Quốc, rủi ro thời tiết thúc đẩy sự lạc quan của thị trường ngũ cốc",
+      "summary_vi": "Thời tiết là nguyên nhân chính khiến giá ngô và đậu nành tăng vào đầu tuần. Chủ tịch Hàng hóa Hoa Kỳ Don Roose cho biết tình trạng ẩm ướt tiếp tục đang làm dấy lên mối lo ngại ở Vành đai ngô phía Đông. “Khu vực đó ở phía dưới Missouri và phía nam, rất nhiều rễ cây rất nông và bạn thực sự không thể có nhiều",
+      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2023/10/Marketing.jpg",
+      "link": "https://www.brownfieldagnews.com/news/china-demand-weather-risks-boost-grain-market-optimism/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-07-08 23:53"
     },
     {
       "id": "c43rzs",
@@ -46,15 +79,15 @@
       "published": "2026-07-08 22:51"
     },
     {
-      "id": "ssys09",
-      "title": "Oil Prices Jump over 7% as Iran Ceasefire Declared ‘Over’",
-      "title_vi": "Giá dầu tăng hơn 7% khi lệnh ngừng bắn của Iran tuyên bố 'kết thúc'",
-      "summary_vi": "Giá dầu tăng hơn 7% lên mức cao nhất trong hai tuần vào thứ Tư sau khi Tổng thống Mỹ Donald Trump tuyên bố rằng thỏa thuận ngừng bắn tạm thời với Iran đã chính thức kết thúc và bác bỏ biên bản ghi nhớ vừa ký là \"lãng phí thời gian\". Dầu thô Brent giao tháng 9",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-08_z5pxoxialo.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-over-7-as-Iran-Ceasefire-Declared-Over.html",
-      "source": "OilPrice",
+      "id": "cmi432",
+      "title": "Oil prices surge, stocks tumble after Trump says Iran ceasefire is ‘over’",
+      "title_vi": "Giá dầu tăng vọt, chứng khoán sụt giảm sau khi Trump nói lệnh ngừng bắn với Iran đã 'kết thúc'",
+      "summary_vi": "Chứng khoán Mỹ cũng giảm trên diện rộng do lo ngại lạm phát và lo ngại về công nghệ đang thu hút các nhà đầu tư.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260707-strait-of-hormuz-ew-527p-952dc5.jpg",
+      "link": "https://www.nbcnews.com/business/business-news/oil-prices-surge-stocks-tumble-trump-iran-ceasefire-over-hormuz-rcna353446",
+      "source": "NBC News",
       "category": "energy",
-      "published": "2026-07-08 22:31"
+      "published": "2026-07-08 22:45"
     },
     {
       "id": "1kkdgaw",
@@ -165,17 +198,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-08 20:30"
-    },
-    {
-      "id": "d18amc",
-      "title": "Vitol Eyes Venezuela Expansion as Oil Industry Returns",
-      "title_vi": "Vitol hướng tới việc mở rộng Venezuela khi ngành dầu mỏ quay trở lại",
-      "summary_vi": "Reuters đưa tin, trích dẫn các nguồn tin giấu tên, công ty kinh doanh hàng hóa Vitol đang lên kế hoạch thiết lập sự hiện diện ở Venezuela trong bối cảnh mối quan tâm đến nguồn tài nguyên dầu mỏ của nước này tăng vọt từ ngành công nghiệp tài nguyên. Vitol đã xuất khẩu dầu thô của Venezuela, sau thỏa thuận mà Cara",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-08_tnjhjr56zk.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Vitol-Eyes-Venezuela-Expansion-as-Oil-Industry-Returns.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-08 20:00"
     },
     {
       "id": "101k84y",
@@ -528,28 +550,6 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-07-07 17:13"
-    },
-    {
-      "id": "eq06qw",
-      "title": "A Once-Great Copper Miner Faces a Reckoning Just as AI Power Demand Soars",
-      "title_vi": "Công ty khai thác đồng vĩ đại một thời phải đối mặt với sự tính toán ngay khi nhu cầu năng lượng AI tăng vọt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-07/codelco-confronts-debt-output-concerns-as-copper-demand-soars-on-ai",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-07-07 17:00"
-    },
-    {
-      "id": "1j6x53r",
-      "title": "How have the Trump tariffs and Iran war affected US Gulf agriculture prices?",
-      "title_vi": "Thuế quan của Trump và chiến tranh Iran ảnh hưởng đến giá nông sản vùng Vịnh của Mỹ như thế nào?",
-      "summary_vi": "Sử dụng bảng tương tác của chúng tôi để theo dõi thuế quan và tác động địa chính trị đối với giá ngô, đậu nành, dầu đậu nành, lúa mì, mỡ động vật và dầu ngô chưng cất, với dữ liệu giá của Fastmarkets và bình luận của nhà phân tích đằng sau mỗi con số.",
-      "image": "https://www.fastmarkets.com/uploads/24/b6/6b74078a4d65829f5190c7fe2220/gettyimages-1147902470-1024x646.jpg",
-      "link": "https://www.fastmarkets.com/insights/how-have-the-trump-tariffs-and-iran-war-affected-us-gulf-agriculture-prices/",
-      "source": "Fastmarkets",
-      "category": "macro",
-      "published": "2026-07-07 16:06"
     }
   ]
 }

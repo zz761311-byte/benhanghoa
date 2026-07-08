@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-08 12:00",
+  "updated_at": "2026-07-08 13:00",
   "items": [
+    {
+      "id": "19j9lpv",
+      "title": "Oil Prices Jump After Iran Attacks Commercial Vessels",
+      "title_vi": "Giá dầu tăng vọt sau khi Iran tấn công tàu thương mại",
+      "summary_vi": "Giá dầu thô hôm nay tăng cao hơn, kéo dài mức tăng từ đầu tuần này sau khi Hoa Kỳ và Iran trao đổi các cuộc tấn công quân sự một lần nữa, sau các cuộc tấn công của Iran vào ba tàu ngoài khơi bờ biển Omani. Hoa Kỳ cũng hủy bỏ quyền miễn trừ trừng phạt đối với dầu thô của Iran trong năm nay.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-08_3diyhbbpw9.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-After-Iran-Attacks-Commercial-Vessels.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-08 12:58"
+    },
+    {
+      "id": "1uslpb6",
+      "title": "Oil Price Short-Term Trajectory Depends on China Demand",
+      "title_vi": "Quỹ đạo ngắn hạn của giá dầu phụ thuộc vào nhu cầu của Trung Quốc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-renewed-supply-disruption-fears-30598117",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-07-08 12:02"
+    },
     {
       "id": "1pwivhh",
       "title": "Why the AI Boom Is About to Break the U.S. Power Grid",
@@ -176,17 +198,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-08 01:01"
-    },
-    {
-      "id": "z6wna0",
-      "title": "Kazakhstan Bets on Iran Port Despite Regional Tensions",
-      "title_vi": "Kazakhstan đặt cược vào cảng Iran bất chấp căng thẳng khu vực",
-      "summary_vi": "Bất chấp căng thẳng kéo dài giữa Mỹ và Iran, Kazakhstan đang có kế hoạch xây dựng một nhà ga tại cảng Bandar Abbas của Iran để tạo thuận lợi cho xuất khẩu. Trong bình luận được đưa ra trước phiên họp chung của quốc hội Kazakhstan vào cuối tháng 6, Phó Thủ tướng Serik Zhumangar",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_azmy8wiq6e.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Bets-on-Iran-Port-Despite-Regional-Tensions.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-08 01:00"
     },
     {
       "id": "1gcn4y5",
@@ -539,17 +550,6 @@
       "source": "Crude Oil Prices Today | OilPrice.com",
       "category": "energy",
       "published": "2026-07-07 05:00"
-    },
-    {
-      "id": "jgcgo5",
-      "title": "When will gas prices go down? What to know as you plan your summer road trip.",
-      "title_vi": "Khi nào giá xăng sẽ giảm? Những điều cần biết khi bạn lên kế hoạch cho chuyến đi mùa hè của mình.",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/when-will-gas-prices-go-down-what-to-know-as-you-plan-your-summer-road-trip-154506731.html",
-      "source": "Yahoo Finance",
-      "category": "energy",
-      "published": "2026-07-07 02:17"
     }
   ]
 }

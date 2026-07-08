@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-09 04:33",
+  "updated_at": "2026-07-09 05:00",
   "items": [
+    {
+      "id": "gj4gry",
+      "title": "Gulf Oil Producers Relaunch Fight for Market Share in Asia",
+      "title_vi": "Các nhà sản xuất dầu vùng Vịnh khởi động lại cuộc chiến giành thị phần ở châu Á",
+      "summary_vi": "Ả Rập Saudi đã giảm giá dầu thô chở sang châu Á vào tháng tới với mức giảm mạnh nhất trong hai thập kỷ khi nước xuất khẩu dầu thô hàng đầu thế giới và các nhà xuất khẩu lớn khác ở Vịnh Ba Tư bắt đầu lại cuộc cạnh tranh để bán vào thị trường lớn nhất của họ, châu Á, sau đợt giảm giá dự kiến.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-08_48qrpymvf7.jpg",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Gulf-Oil-Producers-Relaunch-Fight-for-Market-Share-in-Asia.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-09 05:00"
+    },
     {
       "id": "yczu97",
       "title": "How an Accidental Discovery in a Texas Lab Could Reshape Battery Manufacturing",
@@ -165,17 +176,6 @@
       "source": "TradingView",
       "category": "metal",
       "published": "2026-07-08 22:39"
-    },
-    {
-      "id": "1kkdgaw",
-      "title": "Global Nuclear Power Capacity Set to Jump by 44% by 2036",
-      "title_vi": "Công suất điện hạt nhân toàn cầu sẽ tăng 44% vào năm 2036",
-      "summary_vi": "Công suất điện hạt nhân của thế giới dự kiến ​​sẽ tăng 44% trong thập kỷ tới khi Trung Quốc sẽ lật đổ Hoa Kỳ để trở thành quốc gia nắm giữ công suất điện hạt nhân lớn nhất và Ấn Độ sẽ tăng công suất để tăng cường an ninh năng lượng. Đây là những ước tính trong một báo cáo mới của B",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-08_frcu9norgt.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-Nuclear-Power-Capacity-Set-to-Jump-by-44-by-2036.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-08 22:30"
     },
     {
       "id": "1il6jq4",
@@ -376,6 +376,17 @@
       "published": "2026-07-08 02:00"
     },
     {
+      "id": "11sl7ek",
+      "title": "Summer of Silver: The Case for Buying and Holding",
+      "title_vi": "Mùa hè bạc: Trường hợp mua và nắm giữ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://etfdb.com/gold-silver-investing-content-hub/summer-silver/",
+      "source": "ETF Database",
+      "category": "metal",
+      "published": "2026-07-08 01:56"
+    },
+    {
       "id": "q1qj72",
       "title": "EIA boosts oil production forecast after Strait of Hormuz reopening",
       "title_vi": "EIA tăng dự báo sản lượng dầu sau khi eo biển Hormuz mở cửa trở lại",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-07-07 19:00"
-    },
-    {
-      "id": "1qun7tl",
-      "title": "Watch these grain price flash points",
-      "title_vi": "Xem những điểm chớp nhoáng về giá ngũ cốc này",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/watch-these-grain-price-flash-points",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-07-07 18:52"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09 00:00",
+  "updated_at": "2026-07-09 00:12",
   "items": [
     {
       "id": "fkmvz5",
@@ -9,8 +9,19 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-08_f5k8xanecx.jpg",
       "link": "https://oilprice.com/Geopolitics/International/China-Plans-1000-Satellite-Network-to-Watch-Over-Central-Asia.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-07-09 00:00"
+    },
+    {
+      "id": "c43rzs",
+      "title": "Schiff: ‘Trapped’ Fed sets up $200 silver, $10,000 gold",
+      "title_vi": "Schiff: Fed 'bị mắc kẹt' thiết lập 200 đô la bạc, 10.000 đô la vàng",
+      "summary_vi": "Peter Schiff cho biết nợ của Mỹ chứ không phải lãi suất sẽ khiến kim loại quý tăng mạnh khi Fed mất khả năng hành động.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Peter-Schiff.png",
+      "link": "https://www.mining.com/schiff-trapped-fed-sets-up-200-silver-10000-gold/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-08 23:50"
     },
     {
       "id": "k9kxhs",
@@ -66,6 +77,17 @@
       "source": "Barron's",
       "category": "energy",
       "published": "2026-07-08 22:21"
+    },
+    {
+      "id": "ga6ra1",
+      "title": "Productive but Priced Out: The Input Cost Challenge Facing U.S. Corn Growers",
+      "title_vi": "Năng suất nhưng giá cao: Thách thức về chi phí đầu vào mà người trồng ngô Hoa Kỳ phải đối mặt",
+      "summary_vi": "Phân tích so sánh chi phí đầu vào ngô và đậu nành ở Hoa Kỳ và Brazil Những người trồng ngô ở Hoa Kỳ là những nông dân có năng suất cao nhất trên thế giới, nhưng ngay cả những trang trại có năng suất cao cũng có thể mất chỗ đứng trên toàn cầu khi họ buộc phải cạnh tranh ở vị thế chi phí cao hơn. Một phân tích mới được chuẩn bị...",
+      "image": "https://dt176nijwh14e.cloudfront.net/image/2856/1000/20240711_064726_crop_466_466.jpg",
+      "link": "https://www.ncga.com/stay-informed/media/the-corn-economy/article/2026/07/productive-but-priced-out-the-input-cost-challenge-facing-u-s-corn-growers",
+      "source": "National Corn Growers Association",
+      "category": "agri",
+      "published": "2026-07-08 21:50"
     },
     {
       "id": "1nmbzzi",
@@ -187,17 +209,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-08 19:03"
-    },
-    {
-      "id": "1lig8yc",
-      "title": "Trump puts Greenland’s rare earths back on the table for NATO",
-      "title_vi": "Trump đưa đất hiếm của Greenland trở lại bàn đàm phán cho NATO",
-      "summary_vi": "Trump nhắc lại tuyên bố của mình rằng Greenland rất quan trọng đối với Hoa Kỳ và an ninh toàn cầu, nhưng Đan Mạch khẳng định đảo Bắc Cực không phải để bán.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/greenland.jpeg",
-      "link": "https://www.mining.com/trump-puts-greenlands-rare-earths-back-on-the-table-for-nato/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-08 17:48"
     },
     {
       "id": "1lzsv93",
@@ -539,17 +550,6 @@
       "source": "Fastmarkets",
       "category": "macro",
       "published": "2026-07-07 16:06"
-    },
-    {
-      "id": "kj9zom",
-      "title": "Gold, Silver and Platinum Forecast: Fed Minutes Put Key Breakout Levels in Focus",
-      "title_vi": "Dự báo vàng, bạc và bạch kim: Biên bản Fed tập trung vào các mức đột phá quan trọng",
-      "summary_vi": "Vàng, bạc và bạch kim phục hồi khi dữ liệu việc làm yếu và thanh khoản dễ dàng hỗ trợ kim loại quý, nhưng biên bản họp của Fed, lợi suất thực và các mức đột phá quan trọng sẽ quyết định bước đi tiếp theo.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/Gold-Platinum.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/premium-gold-silver-and-platinum-forecast-fed-minutes-put-key-breakout-levels-in-focus-1608687",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-07-07 15:43"
     }
   ]
 }

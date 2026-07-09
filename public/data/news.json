@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-09 23:46",
+  "updated_at": "2026-07-10 00:00",
   "items": [
+    {
+      "id": "1bksq7w",
+      "title": "Iran War May Ignite Middle East Market Share Race, But Not Yet",
+      "title_vi": "Chiến tranh Iran có thể châm ngòi cho cuộc đua giành thị phần ở Trung Đông, nhưng vẫn chưa",
+      "summary_vi": "Khi UAE cho biết họ sẽ rời OPEC để có thể tăng sản lượng theo ý muốn, điều này lại làm dấy lên suy đoán rằng OPEC đang tan rã. Thỏa thuận hòa bình giữa Hoa Kỳ và Iran là một thỏa thuận đã được thực hiện trong mắt các nhà kinh doanh dầu mỏ, và cuộc chạy đua giành thị phần đang diễn ra.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-09_qbh6xm2jgp.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Iran-War-May-Ignite-Middle-East-Market-Share-Race-But-Not-Yet.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-10 00:00"
+    },
     {
       "id": "5s28tf",
       "title": "Flynn: US billions for rare earths &#8216;missing the mark&#8217;",
@@ -123,17 +134,6 @@
       "published": "2026-07-09 19:04"
     },
     {
-      "id": "llpga0",
-      "title": "Pakistan Rushes to Buy Emergency LNG After Qatar Cargo Is Canceled",
-      "title_vi": "Pakistan gấp rút mua LNG khẩn cấp sau khi hàng hóa qua Qatar bị hủy",
-      "summary_vi": "Pakistan buộc phải chuyển sang thị trường LNG giao ngay một lần nữa sau khi căng thẳng leo thang ở eo biển Hormuz khiến một chuyến hàng từ Qatar bị hủy. Pakistan LNG do nhà nước kiểm soát vừa phát hành gói thầu mua một lô hàng LNG cho đợt giao hàng từ ngày 15-16/7. Quyết định được đưa ra hôm thứ Tư, một",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-09_u1earwjhs4.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Rushes-to-Buy-Emergency-LNG-After-Qatar-Cargo-Is-Canceled.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-09 18:30"
-    },
-    {
       "id": "1jxvh7u",
       "title": "Study values GBM’s Ontario graphite mine restart at $183M",
       "title_vi": "Nghiên cứu đánh giá mỏ than chì Ontario của GBM khởi động lại ở mức 183 triệu USD",
@@ -242,6 +242,17 @@
       "source": "American Ag Network",
       "category": "macro",
       "published": "2026-07-09 02:25"
+    },
+    {
+      "id": "1nw98v",
+      "title": "The tenuous state of a US-Iran ceasefire renews anxiety over high fuel prices",
+      "title_vi": "Tình trạng ngừng bắn mong manh của Mỹ-Iran làm gia tăng nỗi lo về giá nhiên liệu cao",
+      "summary_vi": "Khả năng làm sáng tỏ thỏa thuận ngừng bắn mong manh giữa Iran và Mỹ đã làm dấy lên lo ngại về giá nhiên liệu.",
+      "image": "https://dims.apnews.com/dims4/default/3c01bdd/2147483647/strip/true/crop/4426x2949+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb9%2F98%2Fcdba218696e428e750733b15e61c%2F345216ed7b614f9696a1d6d9b4b36583",
+      "link": "https://apnews.com/article/oil-gasoline-prices-iran-trump-strait-72181b48494a6367c40cf6e9a817e6b4",
+      "source": "AP News",
+      "category": "energy",
+      "published": "2026-07-09 01:29"
     },
     {
       "id": "1qhcojn",
@@ -539,17 +550,6 @@
       "source": "ETF Database",
       "category": "metal",
       "published": "2026-07-08 01:56"
-    },
-    {
-      "id": "q1qj72",
-      "title": "EIA boosts oil production forecast after Strait of Hormuz reopening",
-      "title_vi": "EIA tăng dự báo sản lượng dầu sau khi eo biển Hormuz mở cửa trở lại",
-      "summary_vi": "Triển vọng ngắn hạn trong tháng 7 của EIA làm tăng dự báo sản lượng dầu toàn cầu khi hoạt động vận chuyển qua eo biển Hormuz phục hồi, đồng thời dự báo giá dầu thô Brent thấp hơn và sản lượng dầu thô của Mỹ cũng như xuất khẩu LNG tiếp tục tăng trưởng.",
-      "image": "https://www.worldoil.com/media/17213/newsletter-top-permian-pumps.jpg",
-      "link": "https://worldoil.com/news/2026/7/7/eia-boosts-oil-production-forecast-after-strait-of-hormuz-reopening/",
-      "source": "World Oil",
-      "category": "energy",
-      "published": "2026-07-08 01:54"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-09 08:21",
+  "updated_at": "2026-07-09 09:00",
   "items": [
+    {
+      "id": "pku933",
+      "title": "Freeport McMoRan (FCX) Faces Grasberg Output Pressure As Copper Demand Stays Strong",
+      "title_vi": "Freeport McMoRan (FCX) đối mặt với áp lực đầu ra ở Grasberg khi nhu cầu đồng vẫn ở mức cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://sg.finance.yahoo.com/news/freeport-mcmoran-fcx-faces-grasberg-011338052.html",
+      "source": "Yahoo Finance Singapore",
+      "category": "metal",
+      "published": "2026-07-09 08:13"
+    },
     {
       "id": "1293zz9",
       "title": "$130 Billion in AI Data Centers were Just Blocked. Where Does the AI Boom Go Now",
@@ -55,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-09 03:00"
+    },
+    {
+      "id": "1hl6zyv",
+      "title": "Markets Balance Geopolitical Risk and Weather Uncertainty",
+      "title_vi": "Cân bằng thị trường Rủi ro địa chính trị và sự không chắc chắn về thời tiết",
+      "summary_vi": "Căng thẳng địa chính trị trở lại hàng đầu sau khi Tổng thống Trump tuyên bố rằng lệnh ngừng bắn với Iran đã chấm dứt hiệu quả sau các báo cáo cho biết Lực lượng Vệ binh Cách mạng Iran nhắm mục tiêu vào nhiều tàu thương mại đi qua eo biển Hormuz. Sự không chắc chắn mới được thêm vào",
+      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2470/2024/12/23112316/AdobeStock_369373093-scaled-1-844x563.jpeg",
+      "link": "https://www.americanagnetwork.com/2026/07/08/markets-balance-geopolitical-risk-and-weather-uncertainty/",
+      "source": "American Ag Network",
+      "category": "macro",
+      "published": "2026-07-09 02:25"
     },
     {
       "id": "1nzqrof",
@@ -528,28 +550,6 @@
       "source": "Investing.com",
       "category": "soft",
       "published": "2026-07-07 20:03"
-    },
-    {
-      "id": "1p9at0o",
-      "title": "Gunnison Copper eliminates debt overhang with cash settlement of convertible debentures",
-      "title_vi": "Gunnison Copper loại bỏ nợ nần bằng cách thanh toán bằng tiền mặt các trái phiếu chuyển đổi",
-      "summary_vi": "Gunnison Copper Corp (TSX:GCU, OTCQB:GCUMF, FRA:3XS0) đã thanh toán các khoản nợ chuyển đổi còn tồn đọng bằng tiền mặt thay vì cho phép chuyển đổi thành...",
-      "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA3XC90cmFkaW5nc2NyZWVuc182YTRjZjM0OWIzZjg5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
-      "link": "https://www.proactiveinvestors.ca/companies/news/1095046/gunnison-copper-eliminates-debt-overhang-with-cash-settlement-of-convertible-debentures-1095046.html",
-      "source": "Proactive financial news",
-      "category": "metal",
-      "published": "2026-07-07 19:37"
-    },
-    {
-      "id": "1tird3c",
-      "title": "ICE Benchmark Administration Now Operates the LBMA Platinum and Palladium Prices and Auctions",
-      "title_vi": "Cơ quan quản lý điểm chuẩn ICE hiện vận hành giá và đấu giá LBMA Platinum và Palladium",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/ice-benchmark-administration-now-operates-120000413.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-07-07 19:00"
     }
   ]
 }

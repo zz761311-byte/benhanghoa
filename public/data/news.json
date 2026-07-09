@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-10 04:01",
+  "updated_at": "2026-07-10 05:00",
   "items": [
+    {
+      "id": "f4eszn",
+      "title": "The Strait Of Malacca Faces Growing Fears Of Copycat Shipping Fees",
+      "title_vi": "Eo biển Malacca đối mặt với nỗi lo ngày càng tăng về phí vận chuyển bắt chước",
+      "summary_vi": "Giá dầu tăng vọt trở lại vào thứ Tư sau khi Tổng thống Mỹ Donald Trump tuyên bố rằng thỏa thuận ngừng bắn với Iran đã kết thúc và tuyên bố sẽ tấn công Iran một lần nữa, chấm dứt hiệu quả thỏa thuận hòa bình dự kiến ​​chỉ một tháng sau khi ký kết. Iran tấn công ba tàu thương mại ở eo biển",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-09_kijgbq5glh.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Strait-Of-Malacca-Faces-Growing-Fears-Of-Copycat-Shipping-Fees.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-10 05:00"
+    },
     {
       "id": "1aq8mjq",
       "title": "America&#039;s Answer to China&#039;s Molten Salt Reactor",
@@ -176,17 +187,6 @@
       "source": "Nature",
       "category": "soft",
       "published": "2026-07-09 23:21"
-    },
-    {
-      "id": "1eqteg8",
-      "title": "NATO Projects Unity as Leaders Rally Behind Ukraine",
-      "title_vi": "NATO dự án đoàn kết khi các nhà lãnh đạo tập hợp đằng sau Ukraine",
-      "summary_vi": "Công bằng mà nói, ngày cuối cùng của hội nghị thượng đỉnh NATO ở Ankara vào ngày 8/7 đã có khởi đầu căng thẳng. Qua đêm, Hoa Kỳ đã nối lại các cuộc tấn công vào Iran sau một lệnh ngừng bắn khó chịu. Toàn bộ cuộc xung đột đã làm rung chuyển liên minh quân sự, với việc Tổng thống Mỹ Donald Trump chỉ trích",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-09_ie3odcq1bg.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/NATO-Projects-Unity-as-Leaders-Rally-Behind-Ukraine.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-09 23:00"
     },
     {
       "id": "14lyeax",
@@ -409,6 +409,17 @@
       "published": "2026-07-08 23:46"
     },
     {
+      "id": "tf26th",
+      "title": "Bank of America raises natural gas forecast on supply concerns",
+      "title_vi": "Bank of America tăng dự báo khí đốt tự nhiên do lo ngại về nguồn cung",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/stock-market-news/bank-of-america-raises-natural-gas-forecast-on-supply-concerns-93CH-4782084",
+      "source": "Investing.com",
+      "category": "energy",
+      "published": "2026-07-08 23:30"
+    },
+    {
       "id": "arqql5",
       "title": "Keeping Aluminum in Allied Hands: The Stakes of Alcoa’s South Africa Bet",
       "title_vi": "Giữ nhôm trong tay đồng minh: Lợi ích của vụ cá cược Nam Phi của Alcoa",
@@ -539,17 +550,6 @@
       "source": "Global Market Insights Inc.",
       "category": "soft",
       "published": "2026-07-08 17:30"
-    },
-    {
-      "id": "s7qte3",
-      "title": "FOMC Minutes: Are Stocks at Risk if the Fed Gets Inflation Wrong?",
-      "title_vi": "Biên bản FOMC: Cổ phiếu có gặp rủi ro nếu Fed tính sai lạm phát?",
-      "summary_vi": "Thị trường chứng khoán có gặp rắc rối nếu Fed sai về lạm phát? Thương mại chiến tranh với Iran đang mờ dần đối với vàng, trái phiếu và đồng đô la. Xu hướng diều hâu của ngân hàng trung ương Hoa Kỳ có thể trở nên lỗi thời một cách nguy hiểm.",
-      "image": "https://images.contentstack.io/v3/assets/blt40263f25ec36953f/blt7409c1f6d5f4e532/6a4df4d50edfa898dfa3548b/ChatGPT_Image_Jul_7_2026_11_57_04_PM.png?width=1200&height=628&disable=upscale&fit=bounds#time=1783494001",
-      "link": "https://www.tastylive.com/news-insights/fomc-minutes-are-stocks-at-risk-if-the-fed-gets-inflation-wrong",
-      "source": "tastylive",
-      "category": "macro",
-      "published": "2026-07-08 16:57"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10 01:00",
+  "updated_at": "2026-07-10 01:31",
   "items": [
     {
       "id": "1rcf3rw",
@@ -13,6 +13,17 @@
       "published": "2026-07-10 01:00"
     },
     {
+      "id": "1buu8r0",
+      "title": "Carney seeks deeper Saudi mining, energy partnership",
+      "title_vi": "Carney tìm kiếm quan hệ đối tác năng lượng và khai thác sâu hơn ở Saudi",
+      "summary_vi": "Canada và Ả Rập Saudi công bố các thỏa thuận trị giá hơn 1,4 tỷ USD khi Ottawa thúc đẩy đa dạng hóa thương mại ngoài Mỹ.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/carney-aljaber.jpeg",
+      "link": "https://www.mining.com/carney-seeks-deeper-saudi-mining-energy-partnership/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-10 00:49"
+    },
+    {
       "id": "1f388pp",
       "title": "U.S. Oil Dominance Keeps Growing Despite Lower Prices",
       "title_vi": "Sự thống trị về dầu mỏ của Mỹ tiếp tục tăng trưởng mặc dù giá thấp hơn",
@@ -22,6 +33,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-10 00:30"
+    },
+    {
+      "id": "1eat9bz",
+      "title": "Lowry reserves extend Sandfire’s Black Butte copper mine life to 12 years",
+      "title_vi": "Dự trữ Lowry kéo dài tuổi thọ mỏ đồng Black Butte của Sandfire lên 12 năm",
+      "summary_vi": "PFS cập nhật cho đồng Black Butte ở Montana tăng cường dự trữ ở Lowry, nhưng lợi nhuận khiêm tốn đã làm giảm tiềm năng cung cấp của Mỹ.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Black-Butte-scaled-1-1024x683.jpg",
+      "link": "https://www.mining.com/lowry-reserves-extend-sandfires-black-butte-copper-mine-life-to-12-years/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-10 00:12"
+    },
+    {
+      "id": "wff0r9",
+      "title": "Devolution may see made-in-Nunavut model",
+      "title_vi": "Sự chuyển giao quyền lực có thể thấy mô hình sản xuất tại Nunavut",
+      "summary_vi": "Việc chuyển giao quyền lực của Nunavut có thể định hình lại hoạt động khai thác, kiểm soát tài nguyên và tiền bản quyền khi lãnh thổ chuẩn bị quản lý đất đai, nguồn nước và giấy phép của Crown vào năm 2026.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/mary-river-iron-ore-mine.jpeg",
+      "link": "https://www.mining.com/devolution-may-see-made-in-nunavut-model/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-10 00:10"
     },
     {
       "id": "1bksq7w",
@@ -44,6 +77,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-09 23:26"
+    },
+    {
+      "id": "1jqv0kw",
+      "title": "A two-stage hierarchical support vector machine framework detects roasted coffee adulterants through principal component analysis of hyperspectral imaging data",
+      "title_vi": "Khung máy vectơ hỗ trợ phân cấp hai giai đoạn phát hiện tạp chất cà phê rang thông qua phân tích thành phần chính của dữ liệu hình ảnh siêu phổ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nature.com/articles/s41598-026-60975-z",
+      "source": "Nature",
+      "category": "soft",
+      "published": "2026-07-09 23:21"
     },
     {
       "id": "1eqteg8",
@@ -101,6 +145,17 @@
       "published": "2026-07-09 21:30"
     },
     {
+      "id": "1icdmbl",
+      "title": "NexGold boosts Goldboro drilling as assays lift hopes",
+      "title_vi": "NexGold tăng cường hoạt động khoan Goldboro khi các cuộc thử nghiệm nâng cao hy vọng",
+      "summary_vi": "NexGold Mining mở rộng hoạt động khoan tại dự án vàng Goldboro của Nova Scotia, nâng cao cổ phần và niềm tin vào nguồn tài nguyên.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Anaconda-Mining-Goldboro.jpg",
+      "link": "https://www.mining.com/nexgold-boosts-goldboro-drilling-as-assays-lift-hopes/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-09 21:27"
+    },
+    {
       "id": "qjq5v7",
       "title": "High Oil Prices Are Fueling a New Heavy Crude Rush in Canada",
       "title_vi": "Giá dầu cao đang thúc đẩy một cơn sốt dầu thô mới ở Canada",
@@ -121,6 +176,17 @@
       "source": "South China Morning Post",
       "category": "metal",
       "published": "2026-07-09 20:30"
+    },
+    {
+      "id": "gps3vl",
+      "title": "Ukrainian drones batter Russian oil facilities and set more oil tankers ablaze",
+      "title_vi": "Máy bay không người lái của Ukraine tấn công các cơ sở dầu mỏ của Nga và khiến nhiều tàu chở dầu bốc cháy",
+      "summary_vi": "Tổng thống Volodymyr Zelenskyy mô tả các cuộc tấn công mới nhất vào cơ sở hạ tầng của Nga là một phần trong chiến dịch “trừng phạt tầm xa” của Kyiv.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260709-ukraine-zelenskyy-nato-mn-0830-bc3a5f.jpg",
+      "link": "https://www.nbcnews.com/world/ukraine/ukraine-drones-russia-oil-facilities-tankers-fire-patriots-trump-rcna353649",
+      "source": "NBC News",
+      "category": "energy",
+      "published": "2026-07-09 19:57"
     },
     {
       "id": "g9obe2",
@@ -266,17 +332,6 @@
       "published": "2026-07-09 01:13"
     },
     {
-      "id": "19xzq0x",
-      "title": "Copper-gold assays boost gravity of Jupiter at NGEx’s Lunahuasi project",
-      "title_vi": "Các thử nghiệm đồng-vàng tăng cường lực hấp dẫn của Sao Mộc tại dự án Lunahuasi của NGEx",
-      "summary_vi": "NGEx Minerals báo cáo kết quả khoan mạnh mẽ ở Argentina, mở rộng các vùng đồng-vàng-bạc cao cấp tại Sao Mộc và Sao Thổ.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/1aezmuop.png",
-      "link": "https://www.mining.com/copper-gold-assays-boost-gravity-of-jupiter-at-ngexs-lunahuasi-project/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-09 00:31"
-    },
-    {
       "id": "pj8k2y",
       "title": "China demand, weather risks boost grain market optimism",
       "title_vi": "Nhu cầu Trung Quốc, rủi ro thời tiết thúc đẩy sự lạc quan của thị trường ngũ cốc",
@@ -286,17 +341,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-07-08 23:53"
-    },
-    {
-      "id": "c43rzs",
-      "title": "Schiff: ‘Trapped’ Fed sets up $200 silver, $10,000 gold",
-      "title_vi": "Schiff: Fed 'bị mắc kẹt' thiết lập 200 đô la bạc, 10.000 đô la vàng",
-      "summary_vi": "Peter Schiff cho biết nợ của Mỹ chứ không phải lãi suất sẽ khiến kim loại quý tăng mạnh khi Fed mất khả năng hành động.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Peter-Schiff.png",
-      "link": "https://www.mining.com/schiff-trapped-fed-sets-up-200-silver-10000-gold/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-08 23:50"
     },
     {
       "id": "11u0b5x",
@@ -319,17 +363,6 @@
       "source": "CSIS | Center for Strategic and International Studies",
       "category": "metal",
       "published": "2026-07-08 23:27"
-    },
-    {
-      "id": "10yycxx",
-      "title": "Chile lithium exports top $3.2B, best since 2023",
-      "title_vi": "Xuất khẩu lithium của Chile đạt 3,2 tỷ USD, tốt nhất kể từ năm 2023",
-      "summary_vi": "Giá lithium tăng và nhu cầu mạnh mẽ đã nâng doanh thu xuất khẩu của Chile cao hơn nhiều so với tốc độ của năm ngoái mặc dù chỉ có hai nhà sản xuất.",
-      "image": "https://www.mining.com/wp-content/uploads/2025/10/albemarle_salar_de_atacama_chile-1024x683.jpeg",
-      "link": "https://www.mining.com/chile-lithium-exports-top-3-2b-best-since-2023/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-08 22:51"
     },
     {
       "id": "cmi432",
@@ -409,13 +442,13 @@
       "published": "2026-07-08 21:18"
     },
     {
-      "id": "1cigo7m",
-      "title": "Royalty juniors seek higher value in metals rally",
-      "title_vi": "Những người thuộc tầng lớp hoàng gia tìm kiếm giá trị cao hơn trong đợt tăng giá của kim loại",
-      "summary_vi": "Các công ty hoàng gia nhỏ hơn như Ecora và Empress nhận thấy giá kim loại tăng và nhu cầu tài trợ cho hoạt động khai thác mỏ đang thu hẹp khoảng cách định giá với các công ty lớn.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Voisey27s-Bay-mine-and-concentrator2c-Newfoundland-and-Labrador-Snow-web-scaled-1-1024x522.jpg",
-      "link": "https://www.mining.com/royalty-juniors-seek-higher-value-in-metals-rally/",
-      "source": "Mining.com",
+      "id": "31la2l",
+      "title": "Gold and Silver Sink as Death of US-Iran MOU Sends Oil, Rates Jumping",
+      "title_vi": "Vàng và Bạc chìm khi bản ghi nhớ MOU Mỹ-Iran bị hủy bỏ khiến giá dầu tăng vọt",
+      "summary_vi": "Giá vàng và bạc giảm mạnh hôm thứ Tư do kỳ vọng lãi suất tăng vọt do dầu thô sau khi Trump hủy bỏ MOU với Iran >>",
+      "image": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/2026-07-08-brent-gold.png",
+      "link": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-trump-iran-070820261",
+      "source": "BullionVault",
       "category": "metal",
       "published": "2026-07-08 21:14"
     },
@@ -517,39 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-07-08 02:14"
-    },
-    {
-      "id": "p66g39",
-      "title": "7 Best Oil and Gas Stocks to Buy in 2026 - U.S. News",
-      "title_vi": "7 cổ phiếu dầu khí tốt nhất nên mua năm 2026 - Tin tức Mỹ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://money.usnews.com/investing/articles/best-oil-and-gas-stocks-to-buy",
-      "source": "U.S. News - Money",
-      "category": "energy",
-      "published": "2026-07-08 02:05"
-    },
-    {
-      "id": "79bb65",
-      "title": "Where is the Next Big Move in Platinum?",
-      "title_vi": "Bước chuyển lớn tiếp theo của bạch kim ở đâu?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/where-next-big-move-platinum-190002189.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-07-08 02:00"
-    },
-    {
-      "id": "11sl7ek",
-      "title": "Summer of Silver: The Case for Buying and Holding",
-      "title_vi": "Mùa hè bạc: Trường hợp mua và nắm giữ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://etfdb.com/gold-silver-investing-content-hub/summer-silver/",
-      "source": "ETF Database",
-      "category": "metal",
-      "published": "2026-07-08 01:56"
     }
   ]
 }

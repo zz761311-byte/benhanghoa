@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09 10:00",
+  "updated_at": "2026-07-09 11:00",
   "items": [
     {
       "id": "pku933",
@@ -209,6 +209,17 @@
       "source": "Barron's",
       "category": "energy",
       "published": "2026-07-08 22:21"
+    },
+    {
+      "id": "exhr4e",
+      "title": "Oil prices rise sharply after Iran launches attacks on tankers near strait of Hormuz",
+      "title_vi": "Giá dầu tăng mạnh sau khi Iran tấn công tàu chở dầu gần eo biển Hormuz",
+      "summary_vi": "Giá dầu thô Brent chuẩn tăng lên hơn 80 USD/thùng, mức tăng mạnh nhất kể từ khi lệnh ngừng bắn bắt đầu",
+      "image": "https://i.guim.co.uk/img/media/b5e33962f75563f683c78735e78a3502099f560f/373_0_3728_2982/master/3728.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df1c31451990b16fa87a529516f7b2fb",
+      "link": "https://www.theguardian.com/world/2026/jul/08/oil-prices-rise-iran-attack-tankers-strait-of-hormuz",
+      "source": "The Guardian",
+      "category": "energy",
+      "published": "2026-07-08 22:18"
     },
     {
       "id": "jgcgo5",
@@ -539,17 +550,6 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-07-07 21:03"
-    },
-    {
-      "id": "1o7ezyn",
-      "title": "Hershey’s SWOT analysis: stock gains momentum on cocoa relief",
-      "title_vi": "Phân tích SWOT của Hershey: cổ phiếu tăng đà nhờ giảm ca cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/swot-analysis/hersheys-swot-analysis-stock-gains-momentum-on-cocoa-relief-93CH-4779294",
-      "source": "Investing.com",
-      "category": "soft",
-      "published": "2026-07-07 20:03"
     }
   ]
 }

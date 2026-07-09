@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-09 15:00",
+  "updated_at": "2026-07-09 15:49",
   "items": [
+    {
+      "id": "1hcvtpk",
+      "title": "Goldman Sachs Sounds Alarm Over Fresh Threat to Global Oil Supplies",
+      "title_vi": "Goldman Sachs đưa ra cảnh báo về mối đe dọa mới đối với nguồn cung dầu toàn cầu",
+      "summary_vi": "Một tuần sau khi cảnh báo rằng tình trạng dư thừa dầu sắp xảy ra, Goldman Sachs đã quay đầu lại, cảnh báo rằng sự thù địch mới ở Vịnh Ba Tư có nguy cơ làm gián đoạn nguồn cung kéo dài. “Trong khi các nhà sản xuất Trung Đông đã bắt đầu mở lại các giếng đã đóng cửa của họ trong tháng trước, Hor",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-09_59kfmenatb.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sounds-Alarm-Over-Fresh-Threat-to-Global-Oil-Supplies.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-09 15:15"
+    },
     {
       "id": "b2s4dy",
       "title": "Hormuz Tanker Traffic Grinds to a Halt After U.S.-Iran Escalation",
@@ -90,6 +101,17 @@
       "published": "2026-07-09 04:00"
     },
     {
+      "id": "xqn4tg",
+      "title": "Crops Analysis | Profit taking pressure in corn",
+      "title_vi": "Phân tích cây trồng | Áp lực chốt lời ở ngô",
+      "summary_vi": "Ngày 8 tháng 7 năm 2026",
+      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
+      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-profit-taking-pressure-corn",
+      "source": "Pro Farmer",
+      "category": "agri",
+      "published": "2026-07-09 03:19"
+    },
+    {
       "id": "1pi785s",
       "title": "India’s $100 Billion Grid Bet Is Accelerating A Solar Manufacturing Boom",
       "title_vi": "Đặt cược lưới điện trị giá 100 tỷ USD của Ấn Độ đang thúc đẩy sự bùng nổ sản xuất năng lượng mặt trời",
@@ -110,17 +132,6 @@
       "source": "American Ag Network",
       "category": "macro",
       "published": "2026-07-09 02:25"
-    },
-    {
-      "id": "1nzqrof",
-      "title": "Canada Eyes Two New Oil Pipelines",
-      "title_vi": "Canada để mắt đến hai đường ống dẫn dầu mới",
-      "summary_vi": "Chính phủ Canada và Alberta đã ký Biên bản ghi nhớ (MOU) về đường ống dẫn dầu ở Bờ Tây vào ngày 27 tháng 11 năm 2025. Biên bản ghi nhớ mang tính bước ngoặt tuyên bố đường ống dẫn dầu được đề xuất tới thị trường châu Á là một dự án tiềm năng vì lợi ích quốc gia. Thủ tướng Mark Carney và Thủ tướng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-08_uwyjxb75k0.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Canada-Eyes-Two-New-Oil-Pipelines.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-09 02:00"
     },
     {
       "id": "1qhcojn",
@@ -396,17 +407,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-07-08 03:46"
-    },
-    {
-      "id": "i9ny89",
-      "title": "Crops Analysis | Corn, soybeans carve five-week highs",
-      "title_vi": "Phân tích cây trồng | Ngô, đậu nành chạm mức cao nhất 5 tuần",
-      "summary_vi": "Ngày 7 tháng 7 năm 2026",
-      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
-      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-corn-soybeans-carve-five-week-highs",
-      "source": "Pro Farmer",
-      "category": "agri",
-      "published": "2026-07-08 03:22"
     },
     {
       "id": "oyturl",

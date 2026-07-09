@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10 06:00",
+  "updated_at": "2026-07-10 06:40",
   "items": [
     {
       "id": "3fbhsq",
@@ -66,6 +66,17 @@
       "source": "Brownfield Ag News",
       "category": "energy",
       "published": "2026-07-10 03:26"
+    },
+    {
+      "id": "iiwz9j",
+      "title": "Crops Analysis | Wheat sees relative strength",
+      "title_vi": "Phân tích cây trồng | Lúa mì nhìn thấy sức mạnh tương đối",
+      "summary_vi": "Ngô và đậu nành tiếp tục suy yếu tương đối.",
+      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
+      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-wheat-sees-relative-strength",
+      "source": "Pro Farmer",
+      "category": "agri",
+      "published": "2026-07-10 03:16"
     },
     {
       "id": "1fimrmc",
@@ -233,6 +244,17 @@
       "published": "2026-07-09 20:30"
     },
     {
+      "id": "1sx7707",
+      "title": "The United States produced more crude oil than any other country in 2025",
+      "title_vi": "Hoa Kỳ sản xuất nhiều dầu thô hơn bất kỳ quốc gia nào khác vào năm 2025",
+      "summary_vi": "Cơ quan Thông tin Năng lượng - EIA - Thống kê Năng lượng Chính thức của Chính phủ Hoa Kỳ",
+      "image": "",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id",
+      "source": "U.S. Energy Information Administration (EIA) (.gov)",
+      "category": "energy",
+      "published": "2026-07-09 20:04"
+    },
+    {
       "id": "gps3vl",
       "title": "Ukrainian drones batter Russian oil facilities and set more oil tankers ablaze",
       "title_vi": "Máy bay không người lái của Ukraine tấn công các cơ sở dầu mỏ của Nga và khiến nhiều tàu chở dầu bốc cháy",
@@ -341,17 +363,6 @@
       "source": "Yahoo Finance Singapore",
       "category": "metal",
       "published": "2026-07-09 08:13"
-    },
-    {
-      "id": "xqn4tg",
-      "title": "Crops Analysis | Profit taking pressure in corn",
-      "title_vi": "Phân tích cây trồng | Áp lực chốt lời ở ngô",
-      "summary_vi": "Ngày 8 tháng 7 năm 2026",
-      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
-      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-profit-taking-pressure-corn",
-      "source": "Pro Farmer",
-      "category": "agri",
-      "published": "2026-07-09 03:19"
     },
     {
       "id": "1hl6zyv",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-07-08 17:35"
-    },
-    {
-      "id": "1lzsv93",
-      "title": "Tea & Coffee Packaging Machinery Market Size & Share | Industry Report, 2035",
-      "title_vi": "Quy mô và chia sẻ thị trường máy đóng gói trà & cà phê | Báo cáo ngành, 2035",
-      "summary_vi": "Thị trường máy móc đóng gói trà và cà phê ước tính đạt 3,3 tỷ USD vào năm 2025 và dự kiến ​​sẽ tăng trưởng với tốc độ CAGR là 6,3% từ năm 2026 đến năm 2035, do mức tiêu thụ trà và cà phê toàn cầu tăng thúc đẩy nhu cầu về dây chuyền đóng gói tốc độ cao.",
-      "image": "https://cdn.gminsights.com/cdn-cgi/image/fit=scale-down,format=webp,quality=60,width=1200/image/rd/packaging/tea-and-coffee-packaging-machinery-market-research-report.webp?t=1783353525812",
-      "link": "https://www.gminsights.com/industry-analysis/tea-and-coffee-packaging-machinery-market",
-      "source": "Global Market Insights Inc.",
-      "category": "soft",
-      "published": "2026-07-08 17:30"
     }
   ]
 }

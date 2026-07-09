@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09 14:05",
+  "updated_at": "2026-07-09 15:00",
   "items": [
     {
       "id": "b2s4dy",
@@ -176,6 +176,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-08 23:38"
+    },
+    {
+      "id": "arqql5",
+      "title": "Keeping Aluminum in Allied Hands: The Stakes of Alcoa’s South Africa Bet",
+      "title_vi": "Giữ nhôm trong tay đồng minh: Lợi ích của vụ cá cược Nam Phi của Alcoa",
+      "summary_vi": "Alcoa đã thực hiện khoản đầu tư chuỗi cung ứng khai thác mỏ lớn nhất của Hoa Kỳ vào Nam Phi trong nhiều năm. Liệu nó có đánh dấu sự khởi đầu của một làn sóng đầu tư mới của phương Tây hay không sẽ phụ thuộc vào các lựa chọn chính sách của Nam Phi – và khả năng cạnh tranh giành nguồn vốn khai thác chiến lược của nước này.",
+      "image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2026-07/AdobeStock_263983451_cropped.jpg?VersionId=0HAieNl27yWnd5WPk2uHN8ZzWRlsZRHR",
+      "link": "https://www.csis.org/analysis/keeping-aluminum-allied-hands-stakes-alcoas-south-africa-bet",
+      "source": "CSIS | Center for Strategic and International Studies",
+      "category": "metal",
+      "published": "2026-07-08 23:27"
     },
     {
       "id": "10yycxx",
@@ -539,17 +550,6 @@
       "source": "Forbes",
       "category": "soft",
       "published": "2026-07-07 22:05"
-    },
-    {
-      "id": "eq06qw",
-      "title": "A Once-Great Copper Miner Faces a Reckoning Just as AI Power Demand Soars",
-      "title_vi": "Công cụ khai thác đồng vĩ đại một thời phải đối mặt với sự tính toán ngay khi nhu cầu năng lượng AI tăng vọt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-07/codelco-confronts-debt-output-concerns-as-copper-demand-soars-on-ai",
-      "source": "Bloomberg",
-      "category": "metal",
-      "published": "2026-07-07 21:08"
     }
   ]
 }

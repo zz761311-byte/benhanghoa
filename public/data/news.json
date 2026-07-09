@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-09 18:05",
+  "updated_at": "2026-07-09 18:38",
   "items": [
+    {
+      "id": "llpga0",
+      "title": "Pakistan Rushes to Buy Emergency LNG After Qatar Cargo Is Canceled",
+      "title_vi": "Pakistan gấp rút mua LNG khẩn cấp sau khi hàng hóa qua Qatar bị hủy",
+      "summary_vi": "Pakistan buộc phải chuyển sang thị trường LNG giao ngay một lần nữa sau khi căng thẳng leo thang ở eo biển Hormuz khiến một chuyến hàng từ Qatar bị hủy. Pakistan LNG do nhà nước kiểm soát vừa phát hành gói thầu mua một lô hàng LNG cho đợt giao hàng từ ngày 15-16/7. Quyết định được đưa ra hôm thứ Tư, một",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-09_u1earwjhs4.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Rushes-to-Buy-Emergency-LNG-After-Qatar-Cargo-Is-Canceled.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-09 18:30"
+    },
     {
       "id": "nm59dc",
       "title": "Escalation Continues as U.S. and Iran Face Off Over Hormuz",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-09 16:20"
+    },
+    {
+      "id": "1uuryxz",
+      "title": "Bernstein sets new copper price target amid supply tightness, Fed policy",
+      "title_vi": "Bernstein đặt mục tiêu giá đồng mới trong bối cảnh nguồn cung thắt chặt, chính sách của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/commodities-news/bernstein-sets-new-copper-price-target-amid-supply-tightness-fed-policy-93CH-4783163",
+      "source": "Investing.com",
+      "category": "metal",
+      "published": "2026-07-09 15:51"
     },
     {
       "id": "1hcvtpk",
@@ -110,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-09 06:00"
-    },
-    {
-      "id": "gj4gry",
-      "title": "Gulf Oil Producers Relaunch Fight for Market Share in Asia",
-      "title_vi": "Các nhà sản xuất dầu vùng Vịnh khởi động lại cuộc chiến giành thị phần ở châu Á",
-      "summary_vi": "Ả Rập Saudi đã giảm giá dầu thô chở sang châu Á vào tháng tới với mức giảm mạnh nhất trong hai thập kỷ khi nước xuất khẩu dầu thô hàng đầu thế giới và các nhà xuất khẩu lớn khác ở Vịnh Ba Tư bắt đầu lại cuộc cạnh tranh để bán vào thị trường lớn nhất của họ, châu Á, sau đợt giảm giá dự kiến.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-08_48qrpymvf7.jpg",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Gulf-Oil-Producers-Relaunch-Fight-for-Market-Share-in-Asia.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-09 05:00"
     },
     {
       "id": "xqn4tg",
@@ -539,17 +550,6 @@
       "source": "StoneX",
       "category": "soft",
       "published": "2026-07-07 22:24"
-    },
-    {
-      "id": "146ly49",
-      "title": "ICE takes over platinum and palladium price benchmarks",
-      "title_vi": "ICE tiếp quản tiêu chuẩn giá bạch kim và palladium",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/company-news/ice-takes-over-platinum-and-palladium-price-benchmarks-93CH-4779141",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-07-07 22:22"
     }
   ]
 }

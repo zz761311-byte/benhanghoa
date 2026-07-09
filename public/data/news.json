@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09 18:38",
+  "updated_at": "2026-07-09 19:00",
   "items": [
     {
       "id": "llpga0",
@@ -198,6 +198,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-08 23:50"
+    },
+    {
+      "id": "11u0b5x",
+      "title": "Mapped: Colombia and Argentina’s energy transition copper boom",
+      "title_vi": "Bản đồ: Sự bùng nổ chuyển đổi năng lượng đồng của Colombia và Argentina",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://dialogue.earth/en/energy/mapped-colombia-and-argentinas-energy-transition-copper-boom/",
+      "source": "Dialogue Earth",
+      "category": "metal",
+      "published": "2026-07-08 23:46"
     },
     {
       "id": "j3shbh",
@@ -539,17 +550,6 @@
       "source": "World Bank Blogs",
       "category": "soft",
       "published": "2026-07-07 22:34"
-    },
-    {
-      "id": "vic59g",
-      "title": "Coffee Inventories Stay Tight Despite Record Brazil Crop",
-      "title_vi": "Tồn kho cà phê vẫn thắt chặt mặc dù vụ mùa ở Brazil đạt kỷ lục",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en/insights/coffee-inventories-stay-tight-despite-record-brazil-crop/",
-      "source": "StoneX",
-      "category": "soft",
-      "published": "2026-07-07 22:24"
     }
   ]
 }

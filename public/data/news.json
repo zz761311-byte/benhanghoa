@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-10 19:01",
+  "updated_at": "2026-07-10 20:01",
   "items": [
+    {
+      "id": "1j5uojb",
+      "title": "India’s State Nuclear Firm In Search of Global Uranium Assets",
+      "title_vi": "Công ty hạt nhân nhà nước Ấn Độ đang tìm kiếm tài sản uranium toàn cầu",
+      "summary_vi": "NTPC Ltd thuộc sở hữu nhà nước của Ấn Độ, công ty tiện ích lớn nhất nước này, đang tìm cách mua cổ phần trong các tài sản uranium trên toàn cầu để đảm bảo nhiên liệu cho việc mở rộng quy mô lớn công suất điện hạt nhân của Ấn Độ. NTPC, hiện là nhà máy điện hạt nhân duy nhất trong nước, gặp sự cố",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-10_hqpetgcasj.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-State-Nuclear-Firm-In-Search-of-Global-Uranium-Assets.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-10 19:30"
+    },
     {
       "id": "h3ngbb",
       "title": "Oil Prices Rally on Renewed Hormuz Supply Risks",
@@ -88,17 +99,6 @@
       "source": "STiR Coffee and Tea Magazine",
       "category": "soft",
       "published": "2026-07-10 14:49"
-    },
-    {
-      "id": "1xh2q85",
-      "title": "India Expands Strategic Oil Reserves With New ONGC Storage Plan",
-      "title_vi": "Ấn Độ mở rộng trữ lượng dầu chiến lược với kế hoạch lưu trữ ONGC mới",
-      "summary_vi": "ONGC của Ấn Độ có kế hoạch xây dựng kho dự trữ dầu thô chiến lược quốc gia với tổng trị giá 1,75 triệu tấn, tương đương 12,8 triệu thùng. Công ty cũng sẽ yêu cầu chính phủ cho phép sử dụng kho dự trữ cho mục đích thương mại, Reuters đưa tin. Ấn Độ hiện có trữ lượng dầu thô quốc gia là",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Expands-Strategic-Oil-Reserves-With-New-ONGC-Storage-Plan.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-10 14:30"
     },
     {
       "id": "tm9hgn",
@@ -442,6 +442,17 @@
       "published": "2026-07-09 08:13"
     },
     {
+      "id": "1516874",
+      "title": "Connecticut drivers should get ready for possible gas price jump on crude oil hike, experts warn",
+      "title_vi": "Các chuyên gia cảnh báo các tài xế ở Connecticut nên sẵn sàng cho khả năng giá xăng có thể tăng do dầu thô tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.ctinsider.com/business/article/ct-gas-price-crude-oil-iran-trump-22337572.php",
+      "source": "CT Insider",
+      "category": "energy",
+      "published": "2026-07-09 02:33"
+    },
+    {
       "id": "1hl6zyv",
       "title": "Markets Balance Geopolitical Risk and Weather Uncertainty",
       "title_vi": "Cân bằng thị trường Rủi ro địa chính trị và sự không chắc chắn về thời tiết",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "energy",
       "published": "2026-07-08 22:53"
-    },
-    {
-      "id": "cmi432",
-      "title": "Oil prices surge, stocks tumble after Trump says Iran ceasefire is ‘over’",
-      "title_vi": "Giá dầu tăng vọt, chứng khoán sụt giảm sau khi Trump nói lệnh ngừng bắn với Iran đã 'kết thúc'",
-      "summary_vi": "Chứng khoán Mỹ cũng giảm trên diện rộng do lo ngại lạm phát và lo ngại về công nghệ đang thu hút các nhà đầu tư.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260707-strait-of-hormuz-ew-527p-952dc5.jpg",
-      "link": "https://www.nbcnews.com/business/business-news/oil-prices-surge-stocks-tumble-trump-iran-ceasefire-over-hormuz-rcna353446",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-07-08 22:45"
     }
   ]
 }

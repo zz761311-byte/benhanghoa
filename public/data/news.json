@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-11 00:00",
+  "updated_at": "2026-07-11 01:00",
   "items": [
+    {
+      "id": "q2t8xe",
+      "title": "Crop Production Report Lowers Oklahoma Wheat Production Forecast",
+      "title_vi": "Báo cáo sản xuất cây trồng làm giảm dự báo sản lượng lúa mì ở Oklahoma",
+      "summary_vi": "Cơ quan Thống kê Nông nghiệp Quốc gia (NASS) của Bộ Nông nghiệp Hoa Kỳ đã công bố báo cáo Sản lượng Cây trồng tháng 7, cho thấy sản lượng lúa mì mùa đông của Hoa Kỳ tiếp tục giảm so với dự báo tháng trước. Các ước tính mới chỉ ra cây trồng nhỏ hơn ở một số loại lúa mì mùa đông, với mức tiêu thụ quốc gia",
+      "image": "",
+      "link": "https://www.oklahomafarmreport.com/2026/07/10/crop-production-report-lowers-oklahoma-wheat-production-forecast/",
+      "source": "Oklahoma Farm Report",
+      "category": "agri",
+      "published": "2026-07-11 00:02"
+    },
     {
       "id": "n18sf2",
       "title": "China Tightens Its Grip on Namibia&#039;s Next Energy Boom",
@@ -165,6 +176,17 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "energy",
       "published": "2026-07-10 07:00"
+    },
+    {
+      "id": "1jxnpa4",
+      "title": "Gas prices rise again in Ohio as oil prices climb after weeks of steady decline",
+      "title_vi": "Giá xăng tăng trở lại ở Ohio khi giá dầu tăng sau nhiều tuần giảm liên tục",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wkyc.com/article/traffic/gas-prices/ohio-gas-prices-continue-to-rise-oil-price-per-barrel-pumps-cars-traffic-northeast-ohio/95-c64f39cf-31e8-4b31-aca0-45583298790d",
+      "source": "WKYC",
+      "category": "energy",
+      "published": "2026-07-10 06:48"
     },
     {
       "id": "k4lcgu",
@@ -528,28 +550,6 @@
       "source": "GoldSilver",
       "category": "metal",
       "published": "2026-07-09 02:06"
-    },
-    {
-      "id": "1nw98v",
-      "title": "The tenuous state of a US-Iran ceasefire renews anxiety over high fuel prices",
-      "title_vi": "Tình trạng ngừng bắn mong manh của Mỹ-Iran làm gia tăng nỗi lo về giá nhiên liệu cao",
-      "summary_vi": "Khả năng làm sáng tỏ thỏa thuận ngừng bắn mong manh giữa Iran và Mỹ đã làm dấy lên lo ngại về giá nhiên liệu.",
-      "image": "https://dims.apnews.com/dims4/default/3c01bdd/2147483647/strip/true/crop/4426x2949+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb9%2F98%2Fcdba218696e428e750733b15e61c%2F345216ed7b614f9696a1d6d9b4b36583",
-      "link": "https://apnews.com/article/oil-gasoline-prices-iran-trump-strait-72181b48494a6367c40cf6e9a817e6b4",
-      "source": "AP News",
-      "category": "energy",
-      "published": "2026-07-09 01:29"
-    },
-    {
-      "id": "1qhcojn",
-      "title": "Global Coffee Price Volatility Squeezes Mexican Producers",
-      "title_vi": "Biến động giá cà phê toàn cầu gây áp lực lên các nhà sản xuất Mexico",
-      "summary_vi": "Sự gián đoạn nguồn cung toàn cầu đã đẩy giá cà phê lên mức cao lịch sử, thúc đẩy xuất khẩu của Mexico nhưng khiến nhiều nhà sản xuất dễ bị tổn thương.",
-      "image": "https://mexicobusiness.news/sites/default/files/styles/crop_16_9/public/2026-07/acekreations-coffee-1117933_640.jpg?h=65619468&itok=rolpn3AD",
-      "link": "https://mexicobusiness.news/agribusiness/news/global-coffee-price-volatility-squeezes-mexican-producers",
-      "source": "Mexico Business News",
-      "category": "soft",
-      "published": "2026-07-09 01:13"
     }
   ]
 }

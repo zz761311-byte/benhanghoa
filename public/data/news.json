@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10 07:01",
+  "updated_at": "2026-07-10 08:00",
   "items": [
     {
       "id": "1v92jkw",
@@ -321,6 +321,17 @@
       "published": "2026-07-09 17:04"
     },
     {
+      "id": "13x3n9g",
+      "title": "Bernstein Lifts Copper Outlook Despite Ongoing Macro Challenges",
+      "title_vi": "Bernstein nâng cao triển vọng đồng bất chấp những thách thức vĩ mô đang diễn ra",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://uk.finance.yahoo.com/news/bernstein-lifts-copper-outlook-despite-095806558.html",
+      "source": "Yahoo Finance UK",
+      "category": "metal",
+      "published": "2026-07-09 16:58"
+    },
+    {
       "id": "tb2eg4",
       "title": "The Iran war has pushed some countries away from oil and toward clean energy",
       "title_vi": "Chiến tranh Iran đã đẩy một số nước rời xa dầu mỏ và hướng tới năng lượng sạch",
@@ -539,17 +550,6 @@
       "source": "World-Grain.com",
       "category": "agri",
       "published": "2026-07-08 19:29"
-    },
-    {
-      "id": "1ccaadi",
-      "title": "Silver Price Forecast: Final Drop May Complete Silver Bottom Near $50",
-      "title_vi": "Dự báo giá bạc: Lần giảm cuối cùng có thể hoàn thành đáy bạc gần $ 50",
-      "summary_vi": "Bạc có thể hoàn thành đợt giảm giá cuối cùng gần vùng mua 50 USD khi sức mạnh đồng đô la gây áp lực lên kim loại gần vùng mua chính.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/03/ChatGPT-Image-Jul-1-2025-05_15_26-PM-2.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/premium-silver-price-forecast-final-drop-may-complete-silver-bottom-near-50-1608969",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-07-08 17:35"
     }
   ]
 }

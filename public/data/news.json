@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10 11:00",
+  "updated_at": "2026-07-10 12:00",
   "items": [
     {
       "id": "1v92jkw",
@@ -22,6 +22,17 @@
       "source": "CEPR",
       "category": "metal",
       "published": "2026-07-10 06:39"
+    },
+    {
+      "id": "u8wpvz",
+      "title": "Dollar Bulls Find an Unlikely Ally in the U.S.-Iran Oil Escalation",
+      "title_vi": "Dollar Bulls tìm thấy một đồng minh khó có thể xảy ra trong cuộc leo thang dầu mỏ Mỹ-Iran",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en/insights/dollar-bulls-find-an-unlikely-ally-in-the-u-s-iran-oil-escalation/",
+      "source": "StoneX",
+      "category": "energy",
+      "published": "2026-07-10 06:11"
     },
     {
       "id": "3fbhsq",
@@ -475,6 +486,17 @@
       "published": "2026-07-08 23:27"
     },
     {
+      "id": "1g6ed8w",
+      "title": "5 ways higher oil prices could impact your wallet",
+      "title_vi": "5 cách giá dầu cao hơn có thể ảnh hưởng đến ví của bạn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/5-ways-higher-oil-prices-could-impact-your-wallet-203144728.html",
+      "source": "Yahoo Finance",
+      "category": "energy",
+      "published": "2026-07-08 22:53"
+    },
+    {
       "id": "cmi432",
       "title": "Oil prices surge, stocks tumble after Trump says Iran ceasefire is ‘over’",
       "title_vi": "Giá dầu tăng vọt, chứng khoán sụt giảm sau khi Trump nói lệnh ngừng bắn với Iran đã 'kết thúc'",
@@ -528,28 +550,6 @@
       "source": "Yahoo Finance",
       "category": "energy",
       "published": "2026-07-08 21:59"
-    },
-    {
-      "id": "ga6ra1",
-      "title": "Productive but Priced Out: The Input Cost Challenge Facing U.S. Corn Growers",
-      "title_vi": "Năng suất nhưng giá cao: Thách thức về chi phí đầu vào mà người trồng ngô Hoa Kỳ phải đối mặt",
-      "summary_vi": "Phân tích so sánh chi phí đầu vào ngô và đậu nành ở Hoa Kỳ và Brazil Những người trồng ngô ở Hoa Kỳ là những nông dân có năng suất cao nhất trên thế giới, nhưng ngay cả những trang trại có năng suất cao cũng có thể mất chỗ đứng trên toàn cầu khi họ buộc phải cạnh tranh ở vị thế chi phí cao hơn. Một phân tích mới được chuẩn bị...",
-      "image": "https://dt176nijwh14e.cloudfront.net/image/2856/1000/20240711_064726_crop_466_466.jpg",
-      "link": "https://www.ncga.com/stay-informed/media/the-corn-economy/article/2026/07/productive-but-priced-out-the-input-cost-challenge-facing-u-s-corn-growers",
-      "source": "National Corn Growers Association",
-      "category": "agri",
-      "published": "2026-07-08 21:50"
-    },
-    {
-      "id": "1vfdbyd",
-      "title": "ICO economist on Hormuz risks for coffee: Cost pressures loom, but shortages unlikely",
-      "title_vi": "Nhà kinh tế học ICO về rủi ro Hormuz đối với cà phê: Áp lực chi phí tăng cao nhưng khó có thể xảy ra tình trạng thiếu hụt",
-      "summary_vi": "Tổ chức Cà phê Quốc tế (ICO) cảnh báo, cuộc khủng hoảng eo biển Hormuz có thể tạo ra những tác động lan tỏa đến ngành cà phê toàn cầu, mặc dù hầu hết các nước sản xuất cà phê không dựa vào tuyến đường xuất khẩu chính của họ. Những lo ngại chỉ ra cú sốc chi phí thứ cấp do giá năng lượng cao hơn, phân bón",
-      "image": "https://article.innovamarketinsights360.com/articleimgs/resized_rect_newsimages/jpg/639191169475170764farmer_drying_coffee_beans.jpg",
-      "link": "https://www.foodingredientsfirst.com/news/hormuz-instability-coffee-sector-costs-ico.html",
-      "source": "Food Ingredients First",
-      "category": "soft",
-      "published": "2026-07-08 21:18"
     }
   ]
 }

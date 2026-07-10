@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-11 05:00",
+  "updated_at": "2026-07-11 05:27",
   "items": [
+    {
+      "id": "1qotf03",
+      "title": "PepsiCo CFO says tariff refund will help offset inflation",
+      "title_vi": "Giám đốc tài chính của PepsiCo cho biết việc hoàn thuế sẽ giúp bù đắp lạm phát",
+      "summary_vi": "Giám đốc tài chính Steve Schmitt cho biết: “Chúng tôi thực sự mong đợi sẽ có thêm áp lực đối với hoạt động kinh doanh từ góc độ hàng hóa”.",
+      "image": "https://imgproxy.divecdn.com/Dja35bhK46G3kJS1864rdgY43ss0IVHF2i7C3QR_RUo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTk4NDI2NTUxX29yTVNMbGkuanBn.webp",
+      "link": "https://www.cfodive.com/news/pepsico-cfo-says-tariff-refunds-will-help-offset-inflation/825005/",
+      "source": "CFO Dive",
+      "category": "macro",
+      "published": "2026-07-11 04:02"
+    },
     {
       "id": "1mbxayn",
       "title": "Kazakhstan Extends Petroleum Export Ban Six Months as Hormuz Tensions Flare",
@@ -35,6 +46,17 @@
       "published": "2026-07-11 03:42"
     },
     {
+      "id": "7o8rz7",
+      "title": "Russian attacks kill five as Ukraine continues to target oil infrastructure",
+      "title_vi": "Các cuộc tấn công của Nga giết chết 5 người khi Ukraine tiếp tục nhắm mục tiêu vào cơ sở hạ tầng dầu mỏ",
+      "summary_vi": "Các quan chức Ukraine cho biết cuộc tấn công của Nga vào Kramatorsk khiến 4 người thiệt mạng, trong khi cuộc tấn công vào Zaporizhzhia khiến 1 người thiệt mạng.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a511be9-1783700457.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-07-11 03:27"
+    },
+    {
       "id": "126q0uo",
       "title": "Summer Heatwaves Are Rewriting the Rules for Britain&#039;s Power Grid",
       "title_vi": "Sóng nhiệt mùa hè đang viết lại các quy tắc cho lưới điện của Anh",
@@ -66,6 +88,17 @@
       "source": "Oklahoma Farm Report",
       "category": "agri",
       "published": "2026-07-11 00:02"
+    },
+    {
+      "id": "1tfg922",
+      "title": "USDA Cuts Corn Ending Stocks More Than Expected in July WASDE",
+      "title_vi": "USDA cắt giảm lượng ngô tồn kho cuối kỳ nhiều hơn dự kiến ​​trong tháng 7 WASDE",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/july-usda-wasde-report-12014120",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-07-10 23:43"
     },
     {
       "id": "n18sf2",
@@ -517,39 +550,6 @@
       "source": "Yahoo Finance Singapore",
       "category": "metal",
       "published": "2026-07-09 08:13"
-    },
-    {
-      "id": "v52g6b",
-      "title": "India silver import curbs create shortages, push premiums to six-month high",
-      "title_vi": "Hạn chế nhập khẩu bạc của Ấn Độ tạo ra tình trạng thiếu hụt, đẩy phí bảo hiểm lên mức cao nhất trong 6 tháng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/china/india-silver-import-curbs-create-shortages-push-premiums-six-month-high-2026-07-08/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-07-09 06:10"
-    },
-    {
-      "id": "cmi432",
-      "title": "Oil prices surge, stocks slide after Trump says Iran ceasefire is ‘over’",
-      "title_vi": "Giá dầu tăng vọt, chứng khoán trượt dốc sau khi Trump nói lệnh ngừng bắn với Iran đã 'kết thúc'",
-      "summary_vi": "Sự đảo chiều của thị trường dầu mỏ có thể đồng nghĩa với việc giá xăng sẽ tăng trở lại sau nhiều tuần giảm.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260707-strait-of-hormuz-ew-527p-952dc5.jpg",
-      "link": "https://www.nbcnews.com/business/business-news/oil-prices-surge-stocks-tumble-trump-iran-ceasefire-over-hormuz-rcna353446",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-07-09 04:02"
-    },
-    {
-      "id": "1516874",
-      "title": "Connecticut drivers should get ready for possible gas price jump on crude oil hike, experts warn",
-      "title_vi": "Các chuyên gia cảnh báo các tài xế ở Connecticut nên sẵn sàng cho khả năng giá xăng có thể tăng do dầu thô tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.ctinsider.com/business/article/ct-gas-price-crude-oil-iran-trump-22337572.php",
-      "source": "CT Insider",
-      "category": "energy",
-      "published": "2026-07-09 02:33"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-11 03:01",
+  "updated_at": "2026-07-11 03:57",
   "items": [
+    {
+      "id": "mcjo6d",
+      "title": "July WASDE maintains outlook for 2026-’27 corn use in ethanol",
+      "title_vi": "Tháng 7 WASDE duy trì triển vọng sử dụng ngô trong ethanol năm 2026-27",
+      "summary_vi": "USDA duy trì dự báo về việc sử dụng ngô từ năm 2026 đến năm 2027 trong sản xuất ethanol nhiên liệu trong báo cáo Ước tính Cung và Cầu Nông nghiệp Thế giới mới nhất, liên quan",
+      "image": "https://bbi-strapi.s3.us-east-2.amazonaws.com/archived/epm/posts/web/2014/06/CornCobBig_14025216574144.jpg",
+      "link": "https://ethanolproducer.com/articles/july-wasde-maintains-outlook-for-2026-27-corn-use-in-ethanol",
+      "source": "Ethanol Producer Magazine",
+      "category": "agri",
+      "published": "2026-07-11 03:42"
+    },
     {
       "id": "126q0uo",
       "title": "Summer Heatwaves Are Rewriting the Rules for Britain&#039;s Power Grid",
@@ -231,6 +242,17 @@
       "source": "S&P Global",
       "category": "metal",
       "published": "2026-07-10 10:27"
+    },
+    {
+      "id": "hagnws",
+      "title": "Platinum and palladium lag rally but eye breakout potential",
+      "title_vi": "Sự phục hồi của bạch kim và palladium nhưng có tiềm năng đột phá",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.msn.com/en-us/news/insight/platinum-and-palladium-lag-rally-but-eye-breakout-potential/gm-GMAA5A1585?gemSnapshotKey",
+      "source": "MSN",
+      "category": "metal",
+      "published": "2026-07-10 08:19"
     },
     {
       "id": "1p5ekxk",
@@ -528,28 +550,6 @@
       "source": "American Ag Network",
       "category": "macro",
       "published": "2026-07-09 02:25"
-    },
-    {
-      "id": "3sppw2",
-      "title": "How To Perform Silver Technical Analysis (in 5 Steps)",
-      "title_vi": "Cách thực hiện phân tích kỹ thuật bạc (trong 5 bước)",
-      "summary_vi": "Cách thực hiện phân tích kỹ thuật bạc (trong 5 bước) - Bài viết",
-      "image": "https://goldsilver.com/wp-content/uploads/2026/07/silver-technical-analysis.jpg",
-      "link": "https://goldsilver.com/industry-news/article/silver-technical-analysis-5-steps/",
-      "source": "GoldSilver",
-      "category": "metal",
-      "published": "2026-07-09 02:06"
-    },
-    {
-      "id": "1qhcojn",
-      "title": "Global Coffee Price Volatility Squeezes Mexican Producers",
-      "title_vi": "Biến động giá cà phê toàn cầu gây áp lực lên các nhà sản xuất Mexico",
-      "summary_vi": "Sự gián đoạn nguồn cung toàn cầu đã đẩy giá cà phê lên mức cao lịch sử, thúc đẩy xuất khẩu của Mexico nhưng khiến nhiều nhà sản xuất dễ bị tổn thương.",
-      "image": "https://mexicobusiness.news/sites/default/files/styles/crop_16_9/public/2026-07/acekreations-coffee-1117933_640.jpg?h=65619468&itok=rolpn3AD",
-      "link": "https://mexicobusiness.news/agribusiness/news/global-coffee-price-volatility-squeezes-mexican-producers",
-      "source": "Mexico Business News",
-      "category": "soft",
-      "published": "2026-07-09 01:13"
     }
   ]
 }

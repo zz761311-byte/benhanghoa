@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-10 20:46",
+  "updated_at": "2026-07-10 21:00",
   "items": [
+    {
+      "id": "ht0w93",
+      "title": "Bureaucracy Is Strangling America&#039;s Clean Energy Buildout",
+      "title_vi": "Bộ máy quan liêu đang bóp nghẹt quá trình xây dựng năng lượng sạch của Mỹ",
+      "summary_vi": "Hệ thống năng lượng toàn cầu đang phải đối mặt với tình trạng đa khủng hoảng. Các cuộc khủng hoảng địa chính trị liên tiếp và leo thang đã khiến thị trường dầu khí thế giới rơi vào tình trạng hỗn loạn, sự bùng nổ trí tuệ nhân tạo đang gây áp lực chưa từng có lên lưới điện và đe dọa thúc đẩy nguồn cung năng lượng lớn.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-10_cwq2v9rles.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Bureaucracy-Is-Strangling-Americas-Clean-Energy-Buildout.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-07-10 21:00"
+    },
     {
       "id": "117katt",
       "title": "IEA Cuts Russia&#039;s Oil Production Forecast Due to Ukrainian Attacks",
@@ -90,17 +101,6 @@
       "published": "2026-07-10 16:45"
     },
     {
-      "id": "1u09i7u",
-      "title": "Fuel Refining Margins Hit Record Highs as Markets Tighten",
-      "title_vi": "Biên lợi nhuận lọc nhiên liệu đạt mức cao kỷ lục khi thị trường thắt chặt",
-      "summary_vi": "Biên lợi nhuận lọc xăng và dầu diesel đã tăng trong tuần này lên mức cao kỷ lục mới sau khi tái leo thang ở Trung Đông, lệnh cấm xuất khẩu dầu diesel của Nga và tồn kho nhiên liệu toàn cầu sụt giảm. Biên lợi nhuận nhiên liệu tăng vọt và chênh lệch giá theo giá dầu thô cho thấy thị trường toàn cầu",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-10_8iisbfhnuo.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Fuel-Refining-Margins-Hit-Record-Highs-as-Markets-Tighten.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-10 16:30"
-    },
-    {
       "id": "1epsu85",
       "title": "The Global Coffee Price Paradox",
       "title_vi": "Nghịch lý giá cà phê toàn cầu",
@@ -110,6 +110,17 @@
       "source": "STiR Coffee and Tea Magazine",
       "category": "soft",
       "published": "2026-07-10 14:49"
+    },
+    {
+      "id": "jw4o56",
+      "title": "Lavazza warns of two-year coffee price volatility",
+      "title_vi": "Lavazza cảnh báo biến động giá cà phê trong hai năm",
+      "summary_vi": "Nhà rang xay cà phê Ý Lavazza SpA cho biết sự biến động đang diễn ra trên thị trường cà phê toàn cầu có thể sẽ trì hoãn bất kỳ đợt giảm giá cà phê nào.",
+      "image": "https://www.gcrmag.com/wp-content/uploads/2026/07/AdobeStock_717970681_Editorial_Use_Only.jpeg",
+      "link": "https://www.gcrmag.com/lavazza-warns-of-two-year-coffee-price-volatility/",
+      "source": "Global Coffee Report",
+      "category": "soft",
+      "published": "2026-07-10 10:55"
     },
     {
       "id": "tm9hgn",
@@ -539,17 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-07-08 23:53"
-    },
-    {
-      "id": "11u0b5x",
-      "title": "Mapped: Colombia and Argentina’s energy transition copper boom",
-      "title_vi": "Bản đồ: Sự bùng nổ chuyển đổi năng lượng đồng của Colombia và Argentina",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://dialogue.earth/en/energy/mapped-colombia-and-argentinas-energy-transition-copper-boom/",
-      "source": "Dialogue Earth",
-      "category": "metal",
-      "published": "2026-07-08 23:46"
     }
   ]
 }

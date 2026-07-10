@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11 02:00",
+  "updated_at": "2026-07-11 02:54",
   "items": [
     {
       "id": "126q0uo",
@@ -46,6 +46,39 @@
       "published": "2026-07-10 23:30"
     },
     {
+      "id": "1k1w7p2",
+      "title": "Ex-US Navy commander quits NovaRed copper firm over Noem hire",
+      "title_vi": "Cựu chỉ huy Hải quân Hoa Kỳ rời công ty đồng NovaRed vì thuê Noem",
+      "summary_vi": "Phil Ehr từ chức khỏi ban cố vấn của NovaRed Mining sau khi thuê Kristi Noem, cựu giám đốc DHS, thu hút sự giám sát.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Kristi-Noem.jpg",
+      "link": "https://www.mining.com/ex-us-navy-commander-quits-novared-copper-firm-over-noem-hire/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-10 23:21"
+    },
+    {
+      "id": "6mf7o1",
+      "title": "Giustra: Copper market needs six new mines a year to 2050",
+      "title_vi": "Giustra: Thị trường đồng cần sáu mỏ mới mỗi năm cho đến năm 2050",
+      "summary_vi": "Frank Giustra nhận thấy tình trạng thiếu đồng đang gia tăng và nợ nần chồng chất đang định hình lại các dòng vốn khai thác, vàng và toàn cầu.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Frank-Giustra-1024x570.png",
+      "link": "https://www.mining.com/giustra-copper-market-needs-six-new-mines-a-year-to-2050/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-10 23:15"
+    },
+    {
+      "id": "znz2xu",
+      "title": "IDEX finds tungsten in Idaho copper drilling",
+      "title_vi": "IDEX tìm thấy vonfram trong hoạt động khoan đồng ở Idaho",
+      "summary_vi": "IDEX Metals đã bổ sung thêm góc kim loại tới hạn cho mục tiêu Kismet tại dự án đồng Freeze ở Idaho.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Freeze-1024x558.jpg",
+      "link": "https://www.mining.com/idex-finds-tungsten-in-idaho-copper-drilling/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-10 23:01"
+    },
+    {
       "id": "1c05pjn",
       "title": "Oil’s Calm Is Over as Middle East Risks Return",
       "title_vi": "Sự bình yên của giá dầu đã kết thúc khi rủi ro ở Trung Đông quay trở lại",
@@ -66,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-10 23:00"
+    },
+    {
+      "id": "civi88",
+      "title": "Mogotes says drilling expands Andes copper-gold target",
+      "title_vi": "Mogotes cho biết việc khoan mở rộng mục tiêu vàng đồng của Andes",
+      "summary_vi": "Mogotes Metals mở rộng hoạt động phát hiện vàng đồng Albor tại Filo Sur với kết quả khoan gần bề mặt ở quận Vicuña trù phú.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-10.51.05-AM-1024x650.png",
+      "link": "https://www.mining.com/mogotes-says-drilling-expands-andes-copper-gold-target/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-10 22:37"
     },
     {
       "id": "cnvz2q",
@@ -90,6 +134,17 @@
       "published": "2026-07-10 21:30"
     },
     {
+      "id": "11ci92d",
+      "title": "Fortuna bets $71M on Latin America gold growth",
+      "title_vi": "Fortuna đặt cược 71 triệu USD vào tăng trưởng vàng ở Mỹ Latinh",
+      "summary_vi": "Fortuna đặt mục tiêu tăng sản lượng vàng bằng các khoản chi tiêu mới ở Argentina và Peru đồng thời thúc đẩy hoạt động thăm dò và mở rộng mỏ.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Caylloma-mine-Fortuna-1024x576.jpg",
+      "link": "https://www.mining.com/fortuna-bets-71m-on-latin-america-gold-growth/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-10 21:13"
+    },
+    {
       "id": "ht0w93",
       "title": "Bureaucracy Is Strangling America&#039;s Clean Energy Buildout",
       "title_vi": "Bộ máy quan liêu đang bóp nghẹt quá trình xây dựng năng lượng sạch của Mỹ",
@@ -99,6 +154,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-07-10 21:00"
+    },
+    {
+      "id": "10lk1zs",
+      "title": "BHP strike threat lifts iron ore price for best week since May",
+      "title_vi": "Mối đe dọa đình công của BHP nâng giá quặng sắt lên tuần tốt nhất kể từ tháng 5",
+      "summary_vi": "Rủi ro nguồn cung ở Úc bù đắp cho nhu cầu thép yếu của Trung Quốc, nâng quặng sắt lên mức hoạt động hàng tuần mạnh nhất trong hai tháng.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/jimblebar.png",
+      "link": "https://www.mining.com/bhp-strike-threat-lifts-iron-ore-price-for-best-week-since-may/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-10 19:26"
     },
     {
       "id": "haip35",
@@ -222,17 +288,6 @@
       "published": "2026-07-10 04:07"
     },
     {
-      "id": "1fdrczb",
-      "title": "Gold and Silver Forecast: Are Precious Metals Near a Major Turning Point?",
-      "title_vi": "Dự báo vàng và bạc: Kim loại quý có gần bước ngoặt lớn không?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forex.com/ie/news-and-analysis/gold-and-silver-forecast-are-precious-metals-near-a-major-turning-point/",
-      "source": "FOREX.com",
-      "category": "metal",
-      "published": "2026-07-10 03:42"
-    },
-    {
       "id": "z454kb",
       "title": "China demand, biofuels policy fuel better 2026 soybean profit outlook",
       "title_vi": "Nhu cầu của Trung Quốc, chính sách nhiên liệu sinh học tốt hơn Triển vọng lợi nhuận đậu nành năm 2026",
@@ -277,28 +332,6 @@
       "published": "2026-07-10 00:49"
     },
     {
-      "id": "1eat9bz",
-      "title": "Lowry reserves extend Sandfire’s Black Butte copper mine life to 12 years",
-      "title_vi": "Dự trữ Lowry kéo dài tuổi thọ mỏ đồng Black Butte của Sandfire lên 12 năm",
-      "summary_vi": "PFS cập nhật cho đồng Black Butte ở Montana tăng cường dự trữ ở Lowry, nhưng lợi nhuận khiêm tốn đã làm giảm tiềm năng cung cấp của Mỹ.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Black-Butte-scaled-1-1024x683.jpg",
-      "link": "https://www.mining.com/lowry-reserves-extend-sandfires-black-butte-copper-mine-life-to-12-years/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-10 00:12"
-    },
-    {
-      "id": "wff0r9",
-      "title": "Devolution may see made-in-Nunavut model",
-      "title_vi": "Sự chuyển giao quyền lực có thể thấy mô hình sản xuất tại Nunavut",
-      "summary_vi": "Việc chuyển giao quyền lực của Nunavut có thể định hình lại hoạt động khai thác, kiểm soát tài nguyên và tiền bản quyền khi lãnh thổ chuẩn bị quản lý đất đai, nguồn nước và giấy phép của Crown vào năm 2026.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/mary-river-iron-ore-mine.jpeg",
-      "link": "https://www.mining.com/devolution-may-see-made-in-nunavut-model/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-10 00:10"
-    },
-    {
       "id": "ubcriq",
       "title": "Market Shrugs at Record Demand Outlook",
       "title_vi": "Thị trường nhún vai trước triển vọng nhu cầu kỷ lục",
@@ -319,17 +352,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-07-09 23:33"
-    },
-    {
-      "id": "5s28tf",
-      "title": "Flynn: US billions for rare earths &#8216;missing the mark&#8217;",
-      "title_vi": "Flynn: Hàng tỷ USD dành cho đất hiếm 'không đạt mục tiêu'",
-      "summary_vi": "Vị tướng về hưu nói rằng Washington phải hỗ trợ cấp dưới, nhà cung cấp và công nhân xây dựng chuỗi cung ứng khoáng sản quan trọng an toàn.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Charles-Flynn.png",
-      "link": "https://www.mining.com/flynn-us-billions-for-rare-earths-missing-the-mark/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-09 23:26"
     },
     {
       "id": "1jqv0kw",
@@ -387,28 +409,6 @@
       "published": "2026-07-09 21:33"
     },
     {
-      "id": "1icdmbl",
-      "title": "NexGold boosts Goldboro drilling as assays lift hopes",
-      "title_vi": "NexGold tăng cường hoạt động khoan Goldboro khi các cuộc thử nghiệm nâng cao hy vọng",
-      "summary_vi": "NexGold Mining mở rộng hoạt động khoan tại dự án vàng Goldboro của Nova Scotia, nâng cao cổ phần và niềm tin vào nguồn tài nguyên.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Anaconda-Mining-Goldboro.jpg",
-      "link": "https://www.mining.com/nexgold-boosts-goldboro-drilling-as-assays-lift-hopes/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-09 21:27"
-    },
-    {
-      "id": "k2aonm",
-      "title": "Chinese firms look to strike gold in a volatile global metals market",
-      "title_vi": "Các công ty Trung Quốc tìm cách khai thác vàng trong thị trường kim loại toàn cầu đầy biến động",
-      "summary_vi": "Các công ty môi giới và trao đổi hợp đồng tương lai nhằm mục đích phát triển dấu ấn thị trường của họ và cung cấp các công cụ phòng ngừa rủi ro hiệu quả hơn trên thị trường hàng hóa toàn cầu.",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/09/d4d3d657-dc7c-45ba-af76-c7b7b46259eb_7e580b9a.jpg?itok=TbFqxTgf&v=1783593779",
-      "link": "https://www.scmp.com/economy/china-economy/article/3360004/chinese-firms-look-strike-gold-volatile-global-metals-market",
-      "source": "South China Morning Post",
-      "category": "metal",
-      "published": "2026-07-09 20:30"
-    },
-    {
       "id": "1sx7707",
       "title": "The United States produced more crude oil than any other country in 2025",
       "title_vi": "Hoa Kỳ sản xuất nhiều dầu thô hơn bất kỳ quốc gia nào khác vào năm 2025",
@@ -418,28 +418,6 @@
       "source": "U.S. Energy Information Administration (EIA) (.gov)",
       "category": "energy",
       "published": "2026-07-09 20:04"
-    },
-    {
-      "id": "g9obe2",
-      "title": "Deep-sea mining threatens 60% of vent species: IUCN",
-      "title_vi": "Khai thác biển sâu đe dọa 60% loài miệng núi lửa: IUCN",
-      "summary_vi": "Những loài nhuyễn thể quý hiếm có thể thúc đẩy y học và công nghệ đang ngày càng gặp nguy hiểm khi hoạt động khai thác khoáng sản dưới đáy biển mở rộng.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/desert-rain-frog.jpeg",
-      "link": "https://www.mining.com/deep-sea-mining-threatens-60-of-vent-species-iucn/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-09 19:04"
-    },
-    {
-      "id": "1jxvh7u",
-      "title": "Study values GBM’s Ontario graphite mine restart at $183M",
-      "title_vi": "Nghiên cứu đánh giá mỏ than chì Ontario của GBM khởi động lại ở mức 183 triệu USD",
-      "summary_vi": "Việc khởi động lại mỏ than chì Kearney của GBM ở Ontario được định giá 183 triệu USD, nêu bật lợi nhuận cao và sự thúc đẩy khoáng sản quan trọng của Canada.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Global-Battery-Materials-Mill-Area.jpg",
-      "link": "https://www.mining.com/study-values-gbms-ontario-graphite-mine-restart-at-183m/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-09 18:00"
     },
     {
       "id": "13x3n9g",
@@ -508,6 +486,17 @@
       "published": "2026-07-09 08:13"
     },
     {
+      "id": "v52g6b",
+      "title": "India silver import curbs create shortages, push premiums to six-month high",
+      "title_vi": "Hạn chế nhập khẩu bạc của Ấn Độ tạo ra tình trạng thiếu hụt, đẩy phí bảo hiểm lên mức cao nhất trong 6 tháng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/china/india-silver-import-curbs-create-shortages-push-premiums-six-month-high-2026-07-08/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-07-09 06:10"
+    },
+    {
       "id": "cmi432",
       "title": "Oil prices surge, stocks slide after Trump says Iran ceasefire is ‘over’",
       "title_vi": "Giá dầu tăng vọt, chứng khoán trượt dốc sau khi Trump nói lệnh ngừng bắn với Iran đã 'kết thúc'",
@@ -550,6 +539,17 @@
       "source": "GoldSilver",
       "category": "metal",
       "published": "2026-07-09 02:06"
+    },
+    {
+      "id": "1qhcojn",
+      "title": "Global Coffee Price Volatility Squeezes Mexican Producers",
+      "title_vi": "Biến động giá cà phê toàn cầu gây áp lực lên các nhà sản xuất Mexico",
+      "summary_vi": "Sự gián đoạn nguồn cung toàn cầu đã đẩy giá cà phê lên mức cao lịch sử, thúc đẩy xuất khẩu của Mexico nhưng khiến nhiều nhà sản xuất dễ bị tổn thương.",
+      "image": "https://mexicobusiness.news/sites/default/files/styles/crop_16_9/public/2026-07/acekreations-coffee-1117933_640.jpg?h=65619468&itok=rolpn3AD",
+      "link": "https://mexicobusiness.news/agribusiness/news/global-coffee-price-volatility-squeezes-mexican-producers",
+      "source": "Mexico Business News",
+      "category": "soft",
+      "published": "2026-07-09 01:13"
     }
   ]
 }

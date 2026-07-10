@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10 09:01",
+  "updated_at": "2026-07-10 10:00",
   "items": [
     {
       "id": "1v92jkw",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-10 04:30"
+    },
+    {
+      "id": "179240n",
+      "title": "Silver Price Forecast: Rebounds towards $60, but lower-low structure holds",
+      "title_vi": "Dự báo giá bạc: Phục hồi về mức 60 USD, nhưng cấu trúc thấp hơn-thấp được giữ vững",
+      "summary_vi": "Giá bạc đã tăng hơn 2,70% vào thứ Năm, tăng gần 60,00 USD khi lãi suất trái phiếu kho bạc Hoa Kỳ giảm và đồng Đô la Mỹ tăng hơn 0,12%. Tại thời điểm viết bài, XAG/USD giao dịch ở mức 59,94 USD, sau khi thoát khỏi mức thấp hàng ngày là 57,59 USD.",
+      "image": "https://editorial.fxsstatic.com/images/i/Silver4_Medium.png",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-rebounds-towards-60-but-lower-low-structure-holds-202607092107",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-07-10 04:07"
     },
     {
       "id": "1aq8mjq",
@@ -539,17 +550,6 @@
       "source": "Food Ingredients First",
       "category": "soft",
       "published": "2026-07-08 21:18"
-    },
-    {
-      "id": "1r8jtbx",
-      "title": "Heat stress, storms curb Pakistan’s wheat outlook - World-Grain.com",
-      "title_vi": "Căng thẳng nhiệt độ, bão cản trở triển vọng lúa mì của Pakistan - World-Grain.com",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.world-grain.com/articles/22951-heat-stress-storms-curb-pakistans-wheat-outlook",
-      "source": "World-Grain.com",
-      "category": "agri",
-      "published": "2026-07-08 19:29"
     }
   ]
 }

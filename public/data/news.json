@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11 10:01",
+  "updated_at": "2026-07-11 11:01",
   "items": [
     {
       "id": "1feklbz",
@@ -44,6 +44,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-11 05:42"
+    },
+    {
+      "id": "j871kw",
+      "title": "Wall Street and Main Street sentiment split after another week of weakness from gold as all eyes turn to CPI and Warsh testimony",
+      "title_vi": "Tâm lý Phố Wall và nền kinh tế thực chia rẽ sau một tuần yếu kém trước vàng khi mọi con mắt đổ dồn vào chỉ số CPI và lời khai của Warsh",
+      "summary_vi": "(Kitco News) - Giá vàng chứng kiến ​​một tuần biến động khác, do sự bất ổn mới ở Trung Đông và hoạt động săn lùng món hời không bù đắp được áp lực từ lãi suất trái phiếu Kho bạc tăng cao, đồng đô la Mỹ kiên cường và bằng chứng mới cho thấy Cục Dự trữ Liên bang vẫn lo ngại về lạm phát. Vàng giao ngay bắt đầu giao dịch trong tuần ở mức 4.175,71 USD/pe",
+      "image": "https://image-api.prod.kitco.com/image/fbb23120-3a53-48cb-9eba-bdff36f0b58f.png?top=0.15981657608696&left=0&width=1672&height=940.68036684783&scale_width=1920&token=45696a8f4ba80d8c28f8b086bf392b42019637f8d745bc948c2be90ad1bca88c",
+      "link": "https://www.kitco.com/news/article/2026-07-10/wall-street-and-main-street-sentiment-split-after-another-week-weakness",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-07-11 05:23"
     },
     {
       "id": "1qotf03",
@@ -255,6 +266,17 @@
       "published": "2026-07-10 19:26"
     },
     {
+      "id": "1a1njyh",
+      "title": "IEA cuts Russian oil output forecasts on Ukrainian attacks",
+      "title_vi": "IEA cắt giảm dự báo sản lượng dầu của Nga do các cuộc tấn công của Ukraine",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/ieas-russian-oil-output-forecasts-cut-after-ukraine-attacks-2026-07-10/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-07-10 18:44"
+    },
+    {
       "id": "haip35",
       "title": "June 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
       "title_vi": "Tháng 6 năm 2026 — Phân tích hàng tháng về hoạt động xuất khẩu nhiên liệu hóa thạch của Nga và các biện pháp trừng phạt",
@@ -352,17 +374,6 @@
       "source": "WKYC",
       "category": "energy",
       "published": "2026-07-10 06:48"
-    },
-    {
-      "id": "k4lcgu",
-      "title": "Dollar liquidity, gold reserves, and US monetary spillovers in a fragmenting world",
-      "title_vi": "Thanh khoản đồng đô la, dự trữ vàng và sự lan tỏa tiền tệ của Mỹ trong một thế giới phân mảnh",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://cepr.org/voxeu/columns/dollar-liquidity-gold-reserves-and-us-monetary-spillovers-fragmenting-world",
-      "source": "CEPR",
-      "category": "metal",
-      "published": "2026-07-10 06:39"
     },
     {
       "id": "u8wpvz",
@@ -539,17 +550,6 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-07-09 15:53"
-    },
-    {
-      "id": "1uuryxz",
-      "title": "Bernstein sets new copper price target amid supply tightness, Fed policy",
-      "title_vi": "Bernstein đặt mục tiêu giá đồng mới trong bối cảnh nguồn cung thắt chặt, chính sách của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/commodities-news/bernstein-sets-new-copper-price-target-amid-supply-tightness-fed-policy-93CH-4783163",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-07-09 15:51"
     }
   ]
 }

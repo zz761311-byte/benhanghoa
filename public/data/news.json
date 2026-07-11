@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12 01:01",
+  "updated_at": "2026-07-12 01:39",
   "items": [
     {
       "id": "1gb78vi",
@@ -497,6 +497,17 @@
       "published": "2026-07-09 23:07"
     },
     {
+      "id": "kcegm6",
+      "title": "Corn, Soybeans See Further Profit Taking Eyeing Weather, WASDE: Fade Additional China Buys",
+      "title_vi": "Ngô, đậu nành thu được lợi nhuận cao hơn Thời tiết đang chú ý, WASDE: Fade Trung Quốc mua thêm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/grains-see-further-profit-taking-eyeing-weather-wasde-fade-additional-chi",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-07-09 23:02"
+    },
+    {
       "id": "14lyeax",
       "title": "Platinum and Palladium Have Been Left Behind in the Precious Metals Rally and These 3 ETFs Could Be the Next Catch Up Trade",
       "title_vi": "Bạch kim và Palladium đã bị bỏ lại phía sau trong cuộc đua kim loại quý và 3 quỹ ETF này có thể là giao dịch bắt kịp tiếp theo",
@@ -539,17 +550,6 @@
       "source": "Forbes",
       "category": "metal",
       "published": "2026-07-09 21:12"
-    },
-    {
-      "id": "1sx7707",
-      "title": "The United States produced more crude oil than any other country in 2025",
-      "title_vi": "Hoa Kỳ sản xuất nhiều dầu thô hơn bất kỳ quốc gia nào khác vào năm 2025",
-      "summary_vi": "Cơ quan Thông tin Năng lượng - EIA - Thống kê Năng lượng Chính thức của Chính phủ Hoa Kỳ",
-      "image": "",
-      "link": "https://www.eia.gov/todayinenergy/detail.php?id",
-      "source": "U.S. Energy Information Administration (EIA) (.gov)",
-      "category": "energy",
-      "published": "2026-07-09 20:04"
     }
   ]
 }

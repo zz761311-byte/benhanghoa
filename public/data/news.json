@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11 14:01",
+  "updated_at": "2026-07-11 15:01",
   "items": [
     {
       "id": "1hgh62a",
@@ -508,6 +508,17 @@
       "published": "2026-07-09 21:33"
     },
     {
+      "id": "5vd8ks",
+      "title": "Silver Price For Today, 9 July 2026",
+      "title_vi": "Giá Bạc hôm nay, ngày 9 tháng 7 năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
+      "source": "Forbes",
+      "category": "metal",
+      "published": "2026-07-09 21:12"
+    },
+    {
       "id": "1sx7707",
       "title": "The United States produced more crude oil than any other country in 2025",
       "title_vi": "Hoa Kỳ sản xuất nhiều dầu thô hơn bất kỳ quốc gia nào khác vào năm 2025",
@@ -539,17 +550,6 @@
       "source": "NPR",
       "category": "energy",
       "published": "2026-07-09 16:00"
-    },
-    {
-      "id": "8x3l1h",
-      "title": "Nickel's Price Dip Hides a Tightening Market",
-      "title_vi": "Giá niken giảm ẩn giấu thị trường đang thắt chặt",
-      "summary_vi": "Niken giảm do sức mạnh của USD và hạn ngạch của Indonesia, nhưng mức độ thắt chặt NPI và nhu cầu pin EV vẫn ổn định. Niken Canada ký MOU RWE cho Châu Âu",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a4e470761efef9ed5dca0e8_pexels-patrickbevan08-23439083%20(1)%20(1).jpg",
-      "link": "https://www.cruxinvestor.com/posts/nickels-price-dip-hides-a-tightening-market",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-07-09 15:53"
     }
   ]
 }

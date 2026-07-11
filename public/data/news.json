@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11 12:01",
+  "updated_at": "2026-07-11 13:01",
   "items": [
     {
       "id": "1hgh62a",
@@ -409,6 +409,17 @@
       "published": "2026-07-10 03:16"
     },
     {
+      "id": "6pzwiq",
+      "title": "Macquarie says copper price rally still running ahead of reality",
+      "title_vi": "Macquarie cho biết đà tăng giá đồng vẫn đi trước thực tế",
+      "summary_vi": "Giá đồng lại tiến gần tới mức 14.000 USD, nhưng dự trữ đồng - vốn đã ở mức chưa từng có - vẫn tiếp tục tăng trên toàn cầu.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/First-Quantum-Minerals-Kansanshi-smelter-in-Zambia-1024x833.jpg",
+      "link": "https://www.mining.com/macquarie-says-copper-price-rally-still-running-ahead-of-reality/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-10 01:35"
+    },
+    {
       "id": "ubcriq",
       "title": "Market Shrugs at Record Demand Outlook",
       "title_vi": "Thị trường nhún vai trước triển vọng nhu cầu kỷ lục",
@@ -539,17 +550,6 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-07-09 15:53"
-    },
-    {
-      "id": "1a8ms9r",
-      "title": "Barry Callebaut volumes recover, analysts question cocoa price assumptions",
-      "title_vi": "Khối lượng Barry Callebaut phục hồi, các nhà phân tích đặt câu hỏi về giả định giá ca cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/chocolate-maker-barry-callebauts-q3-volumes-rise-first-time-two-years-2026-07-09/",
-      "source": "Reuters",
-      "category": "soft",
-      "published": "2026-07-09 13:12"
     }
   ]
 }

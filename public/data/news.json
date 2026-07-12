@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13 01:01",
+  "updated_at": "2026-07-13 01:41",
   "items": [
     {
       "id": "11ele3s",
@@ -398,6 +398,17 @@
       "published": "2026-07-10 14:49"
     },
     {
+      "id": "my7osy",
+      "title": "Farm Futures morning grain market analysis",
+      "title_vi": "Phân tích thị trường ngũ cốc buổi sáng của Farm Futures",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-07-10 14:00"
+    },
+    {
       "id": "bwmeld",
       "title": "Average prices for Arabica and robusta coffee worldwide from 2014 to 2027",
       "title_vi": "Giá trung bình cà phê Arabica và Robusta trên thế giới từ 2014 đến 2027",
@@ -539,17 +550,6 @@
       "source": "AAA Gas Prices",
       "category": "energy",
       "published": "2026-07-09 23:30"
-    },
-    {
-      "id": "ykhflg",
-      "title": "5 Best Copper ETFs to Buy in 2026 for the AI Data Center Boom",
-      "title_vi": "5 quỹ ETF đồng tốt nhất nên mua vào năm 2026 cho sự bùng nổ của trung tâm dữ liệu AI",
-      "summary_vi": "Khám phá các quỹ ETF đồng hàng đầu cho năm 2026 khi nhu cầu công nghiệp về trung tâm dữ liệu AI và điện khí hóa tăng cao. So sánh các quỹ khai thác và tương lai hàng đầu tại đây.",
-      "image": "https://marketwise.com/wp-content/uploads/2026/04/Copper-scaled.jpg",
-      "link": "https://marketwise.com/investing/best-copper-etfs/",
-      "source": "MarketWise",
-      "category": "metal",
-      "published": "2026-07-09 23:23"
     }
   ]
 }

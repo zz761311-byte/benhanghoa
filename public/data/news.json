@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-12 21:18",
+  "updated_at": "2026-07-12 22:01",
   "items": [
+    {
+      "id": "19wvhip",
+      "title": "Britain Bets on Hydropower to Boost Energy Security",
+      "title_vi": "Anh đặt cược vào thủy điện để tăng cường an ninh năng lượng",
+      "summary_vi": "Sau nhiều năm bị lãng quên, Vương quốc Anh đã có những kế hoạch lớn về thủy điện như một phần trong kế hoạch rộng lớn hơn cho quá trình chuyển đổi xanh. Chính phủ đang hỗ trợ phát triển ba dự án lưu trữ thủy điện quy mô lớn như một phần trong kế hoạch đa dạng hóa cơ cấu năng lượng của Vương quốc Anh, hỗ trợ phát triển xanh",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-10_pc8ehlx5m0.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Hydroelectric/Britain-Bets-on-Hydropower-to-Boost-Energy-Security.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-12 22:00"
+    },
     {
       "id": "ntdbx7",
       "title": "The Next Bull Market Could Be Built on Inventory Replenishment",
@@ -277,17 +288,6 @@
       "published": "2026-07-11 01:48"
     },
     {
-      "id": "1vfseui",
-      "title": "US Oil, Gas Drillers Hang Back in Volatile Market",
-      "title_vi": "Các công ty khoan dầu, khí đốt Hoa Kỳ quay trở lại thị trường đầy biến động",
-      "summary_vi": "Theo dữ liệu mới mà Baker Hughes công bố hôm thứ Sáu, tổng số giàn khoan đang hoạt động ở Mỹ đã tăng trong tuần này, nâng tổng số giàn khoan ở Mỹ lên 581, tăng 44 giàn so với cùng thời điểm này năm ngoái. Số giàn khoan dầu đang hoạt động ở mức 4",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Gas-Drillers-Hang-Back-in-Volatile-Market.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-11 01:00"
-    },
-    {
       "id": "q2t8xe",
       "title": "Crop Production Report Lowers Oklahoma Wheat Production Forecast",
       "title_vi": "Báo cáo sản xuất cây trồng làm giảm dự báo sản lượng lúa mì ở Oklahoma",
@@ -396,6 +396,17 @@
       "source": "STiR Coffee and Tea Magazine",
       "category": "soft",
       "published": "2026-07-10 14:49"
+    },
+    {
+      "id": "bwmeld",
+      "title": "Average prices for Arabica and robusta coffee worldwide from 2014 to 2027",
+      "title_vi": "Giá trung bình cà phê Arabica và Robusta trên thế giới từ 2014 đến 2027",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.statista.com/statistics/675807/average-prices-arabica-and-robusta-coffee-worldwide/",
+      "source": "Statista",
+      "category": "soft",
+      "published": "2026-07-10 14:00"
     },
     {
       "id": "jw4o56",
@@ -539,17 +550,6 @@
       "source": "MarketWise",
       "category": "metal",
       "published": "2026-07-09 23:23"
-    },
-    {
-      "id": "1jqv0kw",
-      "title": "A two-stage hierarchical support vector machine framework detects roasted coffee adulterants through principal component analysis of hyperspectral imaging data",
-      "title_vi": "Khung máy vectơ hỗ trợ phân cấp hai giai đoạn phát hiện tạp chất cà phê rang thông qua phân tích thành phần chính của dữ liệu hình ảnh siêu phổ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nature.com/articles/s41598-026-60975-z",
-      "source": "Nature",
-      "category": "soft",
-      "published": "2026-07-09 23:21"
     }
   ]
 }

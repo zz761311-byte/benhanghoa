@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12 07:01",
+  "updated_at": "2026-07-12 08:01",
   "items": [
     {
       "id": "ntdbx7",
@@ -99,6 +99,17 @@
       "source": "WyomingNews.com",
       "category": "energy",
       "published": "2026-07-11 09:11"
+    },
+    {
+      "id": "kk140e",
+      "title": "Global oil demand is dropping, but US drivers keep buying more gas - ABC News",
+      "title_vi": "Nhu cầu dầu toàn cầu đang giảm nhưng tài xế Mỹ tiếp tục mua thêm xăng - ABC News",
+      "summary_vi": "Nhu cầu dầu toàn cầu dự kiến ​​sẽ giảm trong năm nay lần đầu tiên kể từ năm 2020",
+      "image": "https://i.abcnewsfe.com/a/81d37bda-e38b-404f-8ae8-bd1389beef83/wirestory_de45ede94f992da07d35a8b737fdeacf_16x9.jpg?w=1600",
+      "link": "https://abcnews.com/Business/wireStory/global-oil-demand-dropping-us-drivers-buying-gas-134663982",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-07-11 07:17"
     },
     {
       "id": "1qirogz",
@@ -539,17 +550,6 @@
       "source": "farmdoc daily",
       "category": "agri",
       "published": "2026-07-09 22:34"
-    },
-    {
-      "id": "13xqvx4",
-      "title": "Energy commodity prices fall, but geopolitical risks cloud outlook",
-      "title_vi": "Giá hàng hóa năng lượng giảm, nhưng triển vọng mây mù về rủi ro địa chính trị",
-      "summary_vi": "Giá dầu, khí tự nhiên và than giảm trong tháng 6 đã đẩy Brazil đi xuống",
-      "image": "https://s2-valorinternational.glbimg.com/YEQDyqg9-6aIinslisz35SfyTek=/2560x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_37554604729d4b2f9f3eb9ad8a691345/internal_photos/bs/2024/U/E/198CeBQDCkMeMjgGw1Ng/seacrest-petroleo-operations-brazil-5-scaled.jpg",
-      "link": "https://valorinternational.globo.com/economy/news/2026/07/09/energy-commodity-prices-fall-but-geopolitical-risks-cloud-outlook.ghtml",
-      "source": "Valor International",
-      "category": "macro",
-      "published": "2026-07-09 21:33"
     }
   ]
 }

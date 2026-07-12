@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13 02:01",
+  "updated_at": "2026-07-13 02:56",
   "items": [
     {
       "id": "i4dbyy",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-13 02:00"
+    },
+    {
+      "id": "nwme8u",
+      "title": "Ukrainian attacks on Russia kill 1 as Kyiv continues to target oil tankers and refineries - ABC News",
+      "title_vi": "Ukraine tấn công Nga, 1 người thiệt mạng khi Kiev tiếp tục nhắm vào tàu chở dầu và nhà máy lọc dầu - ABC News",
+      "summary_vi": "Các quan chức địa phương cho biết hôm Chủ Nhật rằng một cuộc tấn công của Ukraina ở phía tây nam nước Nga đã giết chết một người và làm bị thương ba người khác, khi lực lượng của Kyiv tiếp tục bắn phá các cơ sở dầu mỏ của Nga.",
+      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "link": "https://abcnews.com/International/wireStory/ukrainian-attacks-russia-kill-1-kyiv-continues-target-134689098",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-07-13 00:36"
     },
     {
       "id": "11ele3s",
@@ -244,6 +255,17 @@
       "published": "2026-07-11 04:02"
     },
     {
+      "id": "1b7rzkq",
+      "title": "US pain at the pump worsens after more US-Iran fighting lifts oil prices",
+      "title_vi": "Nỗi đau của Mỹ tại máy bơm trở nên tồi tệ hơn sau khi cuộc chiến giữa Mỹ và Iran nâng giá dầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/us-pain-pump-worsens-after-more-us-iran-fighting-lifts-oil-prices-2026-07-10/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-07-11 03:42"
+    },
+    {
       "id": "mcjo6d",
       "title": "July WASDE maintains outlook for 2026-’27 corn use in ethanol",
       "title_vi": "Tháng 7 WASDE duy trì triển vọng sử dụng ngô trong ethanol năm 2026-27",
@@ -253,17 +275,6 @@
       "source": "Ethanol Producer Magazine",
       "category": "agri",
       "published": "2026-07-11 03:42"
-    },
-    {
-      "id": "7o8rz7",
-      "title": "Russian attacks kill five as Ukraine continues to target oil infrastructure",
-      "title_vi": "Các cuộc tấn công của Nga giết chết 5 người khi Ukraine tiếp tục nhắm mục tiêu vào cơ sở hạ tầng dầu mỏ",
-      "summary_vi": "Các quan chức Ukraine cho biết cuộc tấn công của Nga vào Kramatorsk khiến 4 người thiệt mạng, trong khi cuộc tấn công vào Zaporizhzhia khiến 1 người thiệt mạng.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a511be9-1783700457.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure",
-      "source": "Al Jazeera",
-      "category": "energy",
-      "published": "2026-07-11 03:27"
     },
     {
       "id": "112zdln",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-07-09 23:33"
-    },
-    {
-      "id": "1pg7fr",
-      "title": "Gas Prices Reverse Course and Start Rising Again",
-      "title_vi": "Giá xăng đảo chiều và bắt đầu tăng trở lại",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://gasprices.aaa.com/gas-prices-reverse-course-and-start-rising-again/",
-      "source": "AAA Gas Prices",
-      "category": "energy",
-      "published": "2026-07-09 23:30"
     }
   ]
 }

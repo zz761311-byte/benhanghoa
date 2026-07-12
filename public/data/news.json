@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13 04:09",
+  "updated_at": "2026-07-13 05:01",
   "items": [
     {
       "id": "i4dbyy",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-12 22:00"
+    },
+    {
+      "id": "vxqay5",
+      "title": "Gas queues grow as Ukraine targets Russia's fuel supply",
+      "title_vi": "Hàng chờ mua xăng ngày càng tăng khi Ukraine nhắm tới nguồn cung cấp nhiên liệu của Nga",
+      "summary_vi": "Các cuộc tấn công của Ukraine đã gây ra cuộc khủng hoảng nhiên liệu ở Nga. Các báo cáo từ khắp nước Nga cho thấy người dân đang đối phó với những gián đoạn trong cuộc sống hàng ngày của họ như thế nào.",
+      "image": "https://static.dw.com/image/77766779_6.jpg",
+      "link": "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russias-fuel-supply/a-77887704",
+      "source": "DW.com",
+      "category": "energy",
+      "published": "2026-07-12 12:09"
     },
     {
       "id": "ntdbx7",
@@ -539,17 +550,6 @@
       "source": "Department of Energy (.gov)",
       "category": "energy",
       "published": "2026-07-10 00:30"
-    },
-    {
-      "id": "ubcriq",
-      "title": "Market Shrugs at Record Demand Outlook",
-      "title_vi": "Thị trường nhún vai trước triển vọng nhu cầu kỷ lục",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/market-shrugs-at-record-demand-outlook/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-07-09 23:55"
     }
   ]
 }

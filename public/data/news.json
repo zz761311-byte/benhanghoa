@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12 08:14",
+  "updated_at": "2026-07-12 09:01",
   "items": [
     {
       "id": "ntdbx7",
@@ -77,6 +77,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-07-11 19:09"
+    },
+    {
+      "id": "1e00qzf",
+      "title": "Silver futures slide amid rising geopolitical tensions.",
+      "title_vi": "Giá bạc kỳ hạn trượt dốc trong bối cảnh căng thẳng địa chính trị gia tăng.",
+      "summary_vi": "Hợp đồng bạc kỳ hạn phải đối mặt với áp lực giảm giá để kết thúc tuần, kết thúc ở mức thấp hơn cả trong ngày và trong tuần mặc dù đã tổ chức một đợt tăng giá trong ngày do hỗ trợ kỹ thuật. Tổ hợp kim loại đã tìm được nơi trú ẩn an toàn do căng thẳng địa chính trị leo thang, bao gồm các cuộc xung đột đang diễn ra của Mỹ ở Trung Đông và những lo ngại về nguồn cung.",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/silver-futures-slide-amid-rising-geopolitical-tensions-7-10-26.jpg",
+      "link": "https://www.cmegroup.com/videos/2026/07/10/silver-futures-slide-amid-rising-geopolitical-tensions-7-10-26.html",
+      "source": "CME Group",
+      "category": "metal",
+      "published": "2026-07-11 11:21"
     },
     {
       "id": "1hgh62a",
@@ -539,17 +550,6 @@
       "source": "24/7 Wall St.",
       "category": "metal",
       "published": "2026-07-09 22:41"
-    },
-    {
-      "id": "qntnkz",
-      "title": "Specialty Corn and Soybean Market Opportunities",
-      "title_vi": "Cơ hội thị trường ngô và đậu nành đặc sản",
-      "summary_vi": "Nick Paulson, Gary Schnitkey và Joe Janzen -",
-      "image": "https://farmdocdaily.illinois.edu/wp-content/uploads/2026/07/07092026_fig1.png",
-      "link": "https://farmdocdaily.illinois.edu/2026/07/specialty-corn-and-soybean-market-opportunities.html",
-      "source": "farmdoc daily",
-      "category": "agri",
-      "published": "2026-07-09 22:34"
     }
   ]
 }

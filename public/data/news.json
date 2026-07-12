@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13 02:56",
+  "updated_at": "2026-07-13 03:01",
   "items": [
     {
       "id": "i4dbyy",
@@ -530,6 +530,17 @@
       "published": "2026-07-10 01:35"
     },
     {
+      "id": "hzgosk",
+      "title": "HyBlend: Opportunities for Hydrogen Blending in Natural Gas Pipelines",
+      "title_vi": "HyBlend: Cơ hội pha trộn hydro trong đường ống khí đốt tự nhiên",
+      "summary_vi": "Sáng kiến ​​HyBlend nhằm mục đích giải quyết các rào cản kỹ thuật trong việc trộn hydro trong đường ống dẫn khí đốt tự nhiên.",
+      "image": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
+      "link": "https://www.energy.gov/cmei/fuels/hyblend-opportunities-hydrogen-blending-natural-gas-pipelines",
+      "source": "Department of Energy (.gov)",
+      "category": "energy",
+      "published": "2026-07-10 00:30"
+    },
+    {
       "id": "ubcriq",
       "title": "Market Shrugs at Record Demand Outlook",
       "title_vi": "Thị trường nhún vai trước triển vọng nhu cầu kỷ lục",
@@ -539,17 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-07-09 23:55"
-    },
-    {
-      "id": "1ss33r8",
-      "title": "Fuel markets flash supply crunch despite calmer oil prices",
-      "title_vi": "Thị trường nhiên liệu khủng hoảng nguồn cung mặc dù giá dầu bình ổn hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/fuel-markets-flash-supply-crunch-despite-calmer-oil-prices-2026-07-09/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-07-09 23:33"
     }
   ]
 }

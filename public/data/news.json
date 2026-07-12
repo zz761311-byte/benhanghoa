@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-13 05:10",
+  "updated_at": "2026-07-13 06:01",
   "items": [
+    {
+      "id": "dsh50i",
+      "title": "Big Oil’s War-Related Profits Anger Governments",
+      "title_vi": "Lợi nhuận liên quan đến chiến tranh của Big Oil khiến các chính phủ tức giận",
+      "summary_vi": "Các siêu thị dự kiến ​​​​sẽ báo cáo lợi nhuận bội thu trong quý thứ hai nhờ giá dầu và khí đốt tăng cao, do căng thẳng giữa Hoa Kỳ, Israel và Iran. Đây là một vấn đề đối với các chính phủ - đặc biệt là chính quyền Trump, nhưng các chính trị gia ở Euro",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-10_sixah7imca.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-War-Related-Profits-Anger-Governments.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-13 06:00"
+    },
     {
       "id": "i4dbyy",
       "title": "Is the AI Bubble About to Burst?",
@@ -112,17 +123,6 @@
       "published": "2026-07-12 00:00"
     },
     {
-      "id": "esahs8",
-      "title": "Can Europe Beat the Heat Without More Air Conditioners?",
-      "title_vi": "Châu Âu có thể đánh bại cái nóng mà không cần thêm máy điều hòa không?",
-      "summary_vi": "Với việc châu Âu phải đối mặt với những đợt nắng nóng thường xuyên hơn và nóng hơn, việc sử dụng hệ thống điều hòa không khí đã tăng vọt trên toàn khu vực trong những năm gần đây. Xu hướng này đang thúc đẩy nhu cầu năng lượng và khiến các quốc gia gặp khó khăn hơn trong việc giảm sự phụ thuộc vào nhiên liệu hóa thạch để chuyển sang sử dụng năng lượng tái tạo.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-10_l4yxwv0vcr.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Can-Europe-Beat-the-Heat-Without-More-Air-Conditioners.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-11 22:00"
-    },
-    {
       "id": "1lrkwix",
       "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
       "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
@@ -143,6 +143,17 @@
       "source": "Brave New Coin",
       "category": "metal",
       "published": "2026-07-11 15:50"
+    },
+    {
+      "id": "1ss33r8",
+      "title": "Fuel markets flash supply crunch despite calmer oil prices",
+      "title_vi": "Thị trường nhiên liệu bùng nổ nguồn cung mặc dù giá dầu bình ổn hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/fuel-markets-flash-supply-crunch-despite-calmer-oil-prices-2026-07-09/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-07-11 12:37"
     },
     {
       "id": "1e00qzf",
@@ -539,17 +550,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-10 01:35"
-    },
-    {
-      "id": "hzgosk",
-      "title": "HyBlend: Opportunities for Hydrogen Blending in Natural Gas Pipelines",
-      "title_vi": "HyBlend: Cơ hội pha trộn hydro trong đường ống khí đốt tự nhiên",
-      "summary_vi": "Sáng kiến ​​HyBlend nhằm mục đích giải quyết các rào cản kỹ thuật trong việc trộn hydro trong đường ống dẫn khí đốt tự nhiên.",
-      "image": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
-      "link": "https://www.energy.gov/cmei/fuels/hyblend-opportunities-hydrogen-blending-natural-gas-pipelines",
-      "source": "Department of Energy (.gov)",
-      "category": "energy",
-      "published": "2026-07-10 00:30"
     }
   ]
 }

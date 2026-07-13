@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13 23:00",
+  "updated_at": "2026-07-13 23:01",
   "items": [
     {
       "id": "89zjai",
@@ -541,14 +541,14 @@
       "published": "2026-07-10 14:49"
     },
     {
-      "id": "r6x4k4",
-      "title": "Platinum Live Chart - Metals CFD Trading",
-      "title_vi": "Biểu đồ trực tiếp bạch kim - Giao dịch CFD kim loại",
+      "id": "my7osy",
+      "title": "Farm Futures morning grain market analysis",
+      "title_vi": "Phân tích thị trường ngũ cốc buổi sáng của Farm Futures",
       "summary_vi": "",
       "image": "",
-      "link": "https://www.forex.com/en-sg/gold-silver-trading/platinum/",
-      "source": "FOREX.com",
-      "category": "metal",
+      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+      "source": "Farm Progress",
+      "category": "agri",
       "published": "2026-07-10 14:00"
     }
   ]

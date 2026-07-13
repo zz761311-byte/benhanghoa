@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13 11:01",
+  "updated_at": "2026-07-13 11:05",
   "items": [
     {
       "id": "dsh50i",
@@ -442,6 +442,17 @@
       "published": "2026-07-10 14:49"
     },
     {
+      "id": "r6x4k4",
+      "title": "Platinum Live Chart - Metals CFD Trading",
+      "title_vi": "Biểu đồ trực tiếp bạch kim - Giao dịch CFD kim loại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forex.com/en-sg/gold-silver-trading/platinum/",
+      "source": "FOREX.com",
+      "category": "metal",
+      "published": "2026-07-10 14:00"
+    },
+    {
       "id": "my7osy",
       "title": "Farm Futures morning grain market analysis",
       "title_vi": "Phân tích thị trường ngũ cốc buổi sáng của Farm Futures",
@@ -539,17 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "energy",
       "published": "2026-07-10 03:26"
-    },
-    {
-      "id": "iiwz9j",
-      "title": "Crops Analysis | Wheat sees relative strength",
-      "title_vi": "Phân tích cây trồng | Lúa mì nhìn thấy sức mạnh tương đối",
-      "summary_vi": "Ngô và đậu nành tiếp tục suy yếu tương đối.",
-      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
-      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-wheat-sees-relative-strength",
-      "source": "Pro Farmer",
-      "category": "agri",
-      "published": "2026-07-10 03:16"
     }
   ]
 }

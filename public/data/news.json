@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13 09:01",
+  "updated_at": "2026-07-13 10:01",
   "items": [
     {
       "id": "dsh50i",
@@ -321,6 +321,17 @@
       "published": "2026-07-11 03:14"
     },
     {
+      "id": "8713fu",
+      "title": "USDA Makes Friendly Cut to Corn Stocks in WASDE, as Weather Threats Loom",
+      "title_vi": "USDA thực hiện cắt giảm dự trữ ngô ở WASDE một cách thân thiện khi các mối đe dọa về thời tiết đang xuất hiện",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/usda-reports/usda-cuts-corn-stocks-weather-threats-loom-over-tight-supplies",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-07-11 01:31"
+    },
+    {
       "id": "q2t8xe",
       "title": "Crop Production Report Lowers Oklahoma Wheat Production Forecast",
       "title_vi": "Báo cáo sản xuất cây trồng làm giảm dự báo sản lượng lúa mì ở Oklahoma",
@@ -539,17 +550,6 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-07-10 03:16"
-    },
-    {
-      "id": "6pzwiq",
-      "title": "Macquarie says copper price rally still running ahead of reality",
-      "title_vi": "Macquarie cho biết đà tăng giá đồng vẫn đi trước thực tế",
-      "summary_vi": "Giá đồng lại tiến gần tới mức 14.000 USD, nhưng dự trữ đồng - vốn đã ở mức chưa từng có - vẫn tiếp tục tăng trên toàn cầu.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/First-Quantum-Minerals-Kansanshi-smelter-in-Zambia-1024x833.jpg",
-      "link": "https://www.mining.com/macquarie-says-copper-price-rally-still-running-ahead-of-reality/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-10 01:35"
     }
   ]
 }

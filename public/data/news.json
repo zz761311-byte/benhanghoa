@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-14 04:39",
+  "updated_at": "2026-07-14 05:00",
   "items": [
+    {
+      "id": "qd2j6a",
+      "title": "OPEC Cuts Demand Forecast Again as the Oil Market Starts Looking Past Hormuz",
+      "title_vi": "OPEC cắt giảm dự báo nhu cầu một lần nữa khi thị trường dầu bắt đầu nhìn qua Hormuz",
+      "summary_vi": "OPEC đã cắt giảm dự báo tăng trưởng nhu cầu dầu toàn cầu năm 2026 trong tháng thứ ba liên tiếp, ngay cả khi sản lượng dầu thô phục hồi trên khắp vùng Vịnh và lưu lượng tàu chở dầu dần quay trở lại eo biển Hormuz. Trong báo cáo thị trường dầu hàng tháng được công bố hôm thứ Hai, OPEC đã hạ dự kiến ​​nhu cầu dầu.",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Cuts-Demand-Forecast-Again-as-the-Oil-Market-Starts-Looking-Past-Hormuz.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-14 04:30"
+    },
     {
       "id": "j2q0ov",
       "title": "Why the UAE Is Taking a Bigger Piece of America’s LNG Crown Jewel",
@@ -123,17 +134,6 @@
       "published": "2026-07-14 00:00"
     },
     {
-      "id": "89zjai",
-      "title": "IEA Chief Slams Europe’s Slow Electrification as Energy Crisis Deepens",
-      "title_vi": "Giám đốc IEA chỉ trích quá trình điện khí hóa chậm ở châu Âu khi khủng hoảng năng lượng ngày càng sâu sắc",
-      "summary_vi": "Người đứng đầu Cơ quan Năng lượng Quốc tế đã cảnh báo châu Âu đã phạm “sai lầm lớn” khi không chấm dứt đủ nhanh sự phụ thuộc của nền kinh tế vào nhiên liệu hóa thạch nhập khẩu kể từ cuộc khủng hoảng năng lượng năm 2022. Fatih Birol cho biết tỷ lệ điện khí hóa thấp ở châu Âu, tỷ trọng điện trong năng lượng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-13_yzjwpfosij.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/IEA-Chief-Slams-Europes-Slow-Electrification-as-Energy-Crisis-Deepens.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-07-13 23:00"
-    },
-    {
       "id": "47gyge",
       "title": "Platinum and Palladium Forecast: Platinum Eyes $1,500 as Palladium Tests Key Support",
       "title_vi": "Dự báo bạch kim và Palladium: Platinum nhắm tới 1.500 USD khi thử nghiệm Palladium Hỗ trợ chính",
@@ -209,6 +209,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-13 20:04"
+    },
+    {
+      "id": "1trwxjn",
+      "title": "OPEC further lowers 2026 global oil demand growth forecast",
+      "title_vi": "OPEC tiếp tục hạ dự báo tăng trưởng nhu cầu dầu toàn cầu năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/opec-further-lowers-2026-global-oil-demand-growth-forecast-2026-07-13/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-07-13 19:46"
     },
     {
       "id": "1aiwytb",
@@ -539,17 +550,6 @@
       "source": "Centre for Research on Energy and Clean Air",
       "category": "energy",
       "published": "2026-07-10 16:45"
-    },
-    {
-      "id": "1rt30z4",
-      "title": "World oil demand set for first annual decline since 2020, IEA says",
-      "title_vi": "IEA cho biết nhu cầu dầu thế giới sẽ giảm hàng năm lần đầu tiên kể từ năm 2020",
-      "summary_vi": "IEA cảnh báo hôm thứ Sáu rằng sự leo thang mới trong cuộc chiến Mỹ-Iran có thể làm phức tạp vấn đề và làm mờ thêm triển vọng.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108323731-1781772896911-gettyimages-2281441526-AA_17062026_2833472.jpeg?v=1781772970&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/07/10/iea-world-oil-demand-declines-iran-war.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-07-10 15:32"
     }
   ]
 }

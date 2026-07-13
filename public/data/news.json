@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14 02:00",
+  "updated_at": "2026-07-14 02:53",
   "items": [
     {
       "id": "op6kwf",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-07-14 01:00"
+    },
+    {
+      "id": "tauutx",
+      "title": "Gold slides to $4,150 as Fed stance, dollar strength weigh",
+      "title_vi": "Vàng trượt xuống 4.150 USD theo quan điểm của Fed, sức mạnh của đồng đô la đè nặng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.msn.com/en-in/news/insight/gold-slides-to-4-150-as-fed-stance-dollar-strength-weigh/gm-GMA1B59E6F?gemSnapshotKey",
+      "source": "MSN",
+      "category": "metal",
+      "published": "2026-07-14 00:59"
     },
     {
       "id": "dryqzz",
@@ -154,6 +165,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-13 20:04"
+    },
+    {
+      "id": "1aiwytb",
+      "title": "Precious metals prices slide amid renewed Gulf strikes, Perth Mint silver bar and coin demand collapses – Heraeus",
+      "title_vi": "Giá kim loại quý trượt dốc trong bối cảnh các cuộc đình công mới ở vùng Vịnh, nhu cầu về bạc và tiền xu ở Perth Mint sụt giảm - Heraeus",
+      "summary_vi": "(Kitco News) - Giá vàng và bạc đã chứng kiến ​​​​sự đảo chiều mạnh mẽ so với vận may gần đây sau vòng xung đột mới nhất giữa Iran và Hoa Kỳ, và trong khi các ngân hàng trung ương đang tận dụng cơ hội để tích trữ vàng, thì sự thèm muốn của các nhà đầu tư đối với bạc vật chất đang bốc hơi, theo các nhà phân tích kim loại quý.",
+      "image": "https://image-api.prod.kitco.com/image/65ebbd79-b23f-4b73-9ac4-daa7920429ec.png?top=0.15981657608696&left=0&width=1672&height=940.68036684783&scale_width=1920&token=a380de65bc1aa766932ff7d45ccf34106543cd9101999539df2413a943a6c5d7",
+      "link": "https://www.kitco.com/news/article/2026-07-13/precious-metals-prices-slide-amid-renewed-gulf-strikes-perth-mint-silver",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-07-13 19:20"
     },
     {
       "id": "6ubdl5",
@@ -343,17 +365,6 @@
       "published": "2026-07-11 08:27"
     },
     {
-      "id": "1vsg7dg",
-      "title": "Gold, Silver Pullback Is Not The End Of Rally, JPMorgan Reportedly Says After Forecast Cut",
-      "title_vi": "JPMorgan cho biết sự thoái lui của vàng, bạc không phải là sự kết thúc của đợt tăng giá sau khi cắt giảm dự báo",
-      "summary_vi": "Bất chấp việc cắt giảm ngắn hạn, JPMorgan dự đoán giá vàng và bạc sẽ tăng vào cuối năm nay trong bối cảnh những bất ổn về năng lượng và lạm phát giảm bớt.",
-      "image": "https://news.stocktwits-cdn.com/large_Gold_Silver_jpg_c77de4fb71.webp",
-      "link": "https://stocktwits.com/news-articles/markets/equity/gold-silver-pullback-is-not-the-end-of-rally-jpmorgan-reportedly-says-after-forecast-cut/cZXrBxmRelk",
-      "source": "Stocktwits",
-      "category": "metal",
-      "published": "2026-07-11 08:22"
-    },
-    {
       "id": "kk140e",
       "title": "Global oil demand is dropping, but US drivers keep buying more gas - ABC News",
       "title_vi": "Nhu cầu dầu toàn cầu đang giảm nhưng tài xế Mỹ tiếp tục mua thêm xăng - ABC News",
@@ -539,17 +550,6 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-07-10 15:32"
-    },
-    {
-      "id": "1wgznhm",
-      "title": "Antero’s Growth Story Gets Drier",
-      "title_vi": "Câu chuyện tăng trưởng của Antero ngày càng khô khan",
-      "summary_vi": "Antero Midstream đã sử dụng bản cập nhật quý 1 năm 26 để nêu bật một cột mốc đáng chú ý: tấm đệm khí Marcellus khô đầu tiên trong hơn một thập kỷ trên diện tích chuyên dụng, được kết nối trong quý 2 năm 26. Cột mốc quan trọng này đánh dấu sự tăng giá đối với lượng khí đốt của AM ...",
-      "image": "https://eastdaley.com/wp-content/uploads/2026/06/Antero-Dry-GP-6.23.26-1.png",
-      "link": "https://eastdaley.com/daley-note/anteros-growth-story-gets-drier",
-      "source": "East Daley",
-      "category": "energy",
-      "published": "2026-07-10 15:02"
     }
   ]
 }

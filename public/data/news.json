@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13 20:01",
+  "updated_at": "2026-07-13 20:09",
   "items": [
     {
       "id": "4klr2o",
@@ -22,6 +22,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-13 18:30"
+    },
+    {
+      "id": "pbkrxh",
+      "title": "Brazil coffee faces El Niño headwinds, but crops more resilient",
+      "title_vi": "Cà phê Brazil đối mặt với những cơn gió ngược El Niño, nhưng cây trồng kiên cường hơn",
+      "summary_vi": "Theo Victoria Pacheco SAO PAULO, ngày 13 tháng 7 (Reuters) - El Niño có thể cắt giảm tới 1/5 sản lượng thu hoạch kỷ lục dự kiến ​​của Brazil, theo Hiệp hội Công nghiệp Cà phê Brazil (Abic), do nhiệt độ quá cao và lượng mưa không đều đe dọa sản xuất. Đối với điều này...",
+      "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-07/13/2026-07-13T110620Z_2_LYNXMPEM6C0K2_RTROPTP_3_BRAZIL-COFFEE-ROBUSTA.JPG",
+      "link": "https://wtaq.com/2026/07/13/brazil-coffee-faces-el-nino-headwinds-but-crops-more-resilient/",
+      "source": "WTAQ",
+      "category": "soft",
+      "published": "2026-07-13 18:24"
+    },
+    {
+      "id": "1xrdsni",
+      "title": "De Beers idles South Africa&#8217;s top diamond mine for two years",
+      "title_vi": "De Beers ngừng hoạt động mỏ kim cương hàng đầu Nam Phi trong hai năm",
+      "summary_vi": "Các biện pháp cắt giảm chi phí ngày càng sâu sắc hơn khi công ty khai thác cơ cấu lại hoạt động và chuẩn bị cho đợt bán hàng được chờ đợi từ lâu.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/venetia-mine-debeers.png",
+      "link": "https://www.mining.com/de-beers-idles-south-africas-top-diamond-mine-for-two-years/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-13 17:45"
     },
     {
       "id": "1i7tawt",
@@ -528,28 +550,6 @@
       "source": "S&P Global",
       "category": "metal",
       "published": "2026-07-10 10:27"
-    },
-    {
-      "id": "hagnws",
-      "title": "Platinum and palladium lag rally but eye breakout potential",
-      "title_vi": "Sự phục hồi của bạch kim và palladium nhưng có tiềm năng đột phá",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.msn.com/en-us/news/insight/platinum-and-palladium-lag-rally-but-eye-breakout-potential/gm-GMAA5A1585?gemSnapshotKey",
-      "source": "MSN",
-      "category": "metal",
-      "published": "2026-07-10 08:19"
-    },
-    {
-      "id": "1jxnpa4",
-      "title": "Gas prices rise again in Ohio as oil prices climb after weeks of steady decline",
-      "title_vi": "Giá xăng tăng trở lại ở Ohio khi giá dầu tăng sau nhiều tuần giảm liên tục",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wkyc.com/article/traffic/gas-prices/ohio-gas-prices-continue-to-rise-oil-price-per-barrel-pumps-cars-traffic-northeast-ohio/95-c64f39cf-31e8-4b31-aca0-45583298790d",
-      "source": "WKYC",
-      "category": "energy",
-      "published": "2026-07-10 06:48"
     }
   ]
 }

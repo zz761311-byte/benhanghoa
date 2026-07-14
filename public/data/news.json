@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-14 09:00",
+  "updated_at": "2026-07-14 10:00",
   "items": [
+    {
+      "id": "1d5k9rn",
+      "title": "CHART: Mining vs AI – Nvidia sneezes, sheds five BHPs",
+      "title_vi": "BIỂU ĐỒ: Khai thác so với AI – Nvidia hắt hơi, loại bỏ 5 BHP",
+      "summary_vi": "Nvidia đã lỗ một nghìn tỷ đô la trong quý này và được giao dịch trong thời gian ngắn như một cổ phiếu giá trị. 50 công ty khai thác lớn nhất thế giới, tất cả đều trị giá 2,19 nghìn tỷ USD, trông giống như những công ty này trong nhiều năm.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/ai-vs-mining-top-50-wall-street-mining-safety-truck--1024x576.jpg",
+      "link": "https://www.mining.com/chart-mining-vs-ai-nvidia-sneezes-sheds-five-bhps/",
+      "source": "Mining.com",
+      "category": "macro",
+      "published": "2026-07-14 08:41"
+    },
     {
       "id": "trr1ea",
       "title": "Oil Refiners Are Cashing In on a Market That Won’t Stay Broken",
@@ -99,6 +110,17 @@
       "source": "RFD-TV",
       "category": "agri",
       "published": "2026-07-14 02:24"
+    },
+    {
+      "id": "htc09l",
+      "title": "USDA Leaves Soybean Outlook Largely Unchanged in July WASDE",
+      "title_vi": "USDA giữ nguyên triển vọng đậu tương không thay đổi trong tháng 7 WASDE",
+      "summary_vi": "",
+      "image": "https://grainnet-com.s3.amazonaws.com/defaults/_1200x630_crop_center-center_82_none/GJ_default_image_1200x630.webp?mtime=1708746861",
+      "link": "https://www.grainjournal.com/article/1147996/usda-leaves-soybean-outlook-largely-unchanged-in-july-wasde",
+      "source": "Grain Journal",
+      "category": "agri",
+      "published": "2026-07-14 02:18"
     },
     {
       "id": "145o2tn",
@@ -231,17 +253,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-13 20:46"
-    },
-    {
-      "id": "18b8t2u",
-      "title": "Regis quits Vault chase, clearing way for Genesis takeover",
-      "title_vi": "Regis từ bỏ cuộc theo đuổi Vault, dọn đường cho Genesis tiếp quản",
-      "summary_vi": "Genesis hiện được thiết lập để đảm bảo việc mua lại Vault trị giá 3,9 tỷ USD, kết thúc cuộc chiến đấu thầu được thúc đẩy bởi giá vàng kỷ lục.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/leonora-vault.jpg",
-      "link": "https://www.mining.com/regis-quits-vault-chase-clearing-way-for-genesis-takeover/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-13 20:04"
     },
     {
       "id": "1trwxjn",
@@ -539,17 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-07-11 02:29"
-    },
-    {
-      "id": "8713fu",
-      "title": "USDA Makes Friendly Cut to Corn Stocks in WASDE, as Weather Threats Loom",
-      "title_vi": "USDA thực hiện cắt giảm dự trữ ngô ở WASDE một cách thân thiện khi các mối đe dọa về thời tiết đang xuất hiện",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/usda-reports/usda-cuts-corn-stocks-weather-threats-loom-over-tight-supplies",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-07-11 01:31"
     }
   ]
 }

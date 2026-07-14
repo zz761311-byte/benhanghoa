@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14 17:58",
+  "updated_at": "2026-07-14 18:00",
   "items": [
     {
       "id": "1j4of51",
@@ -420,6 +420,17 @@
       "published": "2026-07-12 00:07"
     },
     {
+      "id": "oo7php",
+      "title": "Oil demand is falling, and crude prices are down. But here's why gasoline, diesel are still costly",
+      "title_vi": "Nhu cầu dầu đang giảm và giá dầu thô giảm. Nhưng đây là lý do xăng, dầu diesel vẫn đắt",
+      "summary_vi": "Ngoại lệ chính dẫn đến sự sụt giảm trong việc sử dụng dầu trên toàn cầu là ở Mỹ, nơi việc sử dụng xăng tăng lên trong quý 2 năm 2026.",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26181385886757-e1783780069697.jpg?resize=1200,600",
+      "link": "https://fortune.com/2026/07/11/global-oil-demand-crude-prices-gasoline-diesel-refined-products-inflation/",
+      "source": "Fortune",
+      "category": "energy",
+      "published": "2026-07-11 21:35"
+    },
+    {
       "id": "1lrkwix",
       "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
       "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
@@ -539,17 +550,6 @@
       "source": "DW.com",
       "category": "energy",
       "published": "2026-07-11 05:09"
-    },
-    {
-      "id": "1qotf03",
-      "title": "PepsiCo CFO says tariff refund will help offset inflation",
-      "title_vi": "Giám đốc tài chính của PepsiCo cho biết việc hoàn thuế sẽ giúp bù đắp lạm phát",
-      "summary_vi": "Giám đốc tài chính Steve Schmitt cho biết: “Chúng tôi thực sự mong đợi sẽ có thêm áp lực đối với hoạt động kinh doanh từ góc độ hàng hóa”.",
-      "image": "https://imgproxy.divecdn.com/Dja35bhK46G3kJS1864rdgY43ss0IVHF2i7C3QR_RUo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTk4NDI2NTUxX29yTVNMbGkuanBn.webp",
-      "link": "https://www.cfodive.com/news/pepsico-cfo-says-tariff-refunds-will-help-offset-inflation/825005/",
-      "source": "CFO Dive",
-      "category": "macro",
-      "published": "2026-07-11 04:02"
     }
   ]
 }

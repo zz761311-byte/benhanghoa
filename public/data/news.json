@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-14 14:00",
+  "updated_at": "2026-07-14 15:00",
   "items": [
+    {
+      "id": "f01g4f",
+      "title": "China’s Crude Oil Imports Crash to Decade Low as Hormuz Crisis Bites",
+      "title_vi": "Nhập khẩu dầu thô của Trung Quốc giảm xuống mức thấp nhất trong thập kỷ do khủng hoảng Hormuz xảy ra",
+      "summary_vi": "Nhập khẩu dầu thô của Trung Quốc đã giảm xuống mức thấp nhất trong thập kỷ vào tháng 6 do dòng chảy qua eo biển Hormuz giảm làm giá dầu tăng cao và nhu cầu dầu thô đắt đỏ của các nhà lọc dầu giảm. Tổng lượng dầu thô nhập khẩu của Trung Quốc trong tháng 6 giảm 41,3% so với một năm trước đó, xuống chỉ còn 29,27 triệu tấn.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-14_3zzfpvcw5r.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Oil-Imports-Crash-to-Decade-Low-as-Hormuz-Crisis-Bites.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-14 14:15"
+    },
     {
       "id": "18yupbb",
       "title": "Oil Prices Have Jumped 12% Since Friday as War Risks Return",
@@ -187,17 +198,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-14 02:00"
-    },
-    {
-      "id": "39xavm",
-      "title": "Oil Prices Surge 8% After Trump Reimposes Iran Blockade",
-      "title_vi": "Giá dầu tăng 8% sau khi Trump tái áp đặt lệnh phong tỏa Iran",
-      "summary_vi": "Giá dầu đã tăng hơn 8% vào thứ Hai sau khi Tổng thống Mỹ Donald Trump tuyên bố Hoa Kỳ sẽ khôi phục lệnh phong tỏa đối với Iran, buộc các nhà giao dịch một lần nữa phải đối mặt với nguy cơ gián đoạn kéo dài đối với dòng năng lượng qua eo biển Hormuz. Dầu thô Brent tăng một",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-13_k70acowuqs.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-8-After-Trump-Reimposes-Iran-Blockade.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-14 01:30"
     },
     {
       "id": "tauutx",
@@ -387,6 +387,17 @@
       "published": "2026-07-12 12:09"
     },
     {
+      "id": "1ea0t81",
+      "title": "College Friends Curate a Caring Coffee Culture",
+      "title_vi": "Những người bạn đại học quản lý một nền văn hóa cà phê quan tâm",
+      "summary_vi": "Hai người bạn đại học đang mang niềm yêu thích trải nghiệm quán cà phê đến Burbank. Bella Favata và Zach Jones đã mở quán cà phê Baja Beans tại 2221 W. Olive Avenue vào đầu năm nay",
+      "image": "https://bloximages.chicago2.vip.townnews.com/outlooknewspapers.com/content/tncms/assets/v3/editorial/e/dd/eddf1a69-3584-4765-9248-f27cfb46e921/6a4b23b0ca29e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "link": "https://outlooknewspapers.com/burbankleader/college-friends-curate-a-caring-coffee-culture/article_5de985e0-c6fe-4f2e-8b79-2740f86ac51d.html",
+      "source": "Outlook Newspapers",
+      "category": "soft",
+      "published": "2026-07-12 10:32"
+    },
+    {
       "id": "1gb78vi",
       "title": "First Majestic Silver (TSX:AG) Appoints CFO As 2026 Production Outlook Jumps",
       "title_vi": "First Majestic Silver (TSX:AG) bổ nhiệm giám đốc tài chính khi triển vọng sản xuất năm 2026 tăng vọt",
@@ -538,17 +549,6 @@
       "link": "https://www.reuters.com/business/energy/us-pain-pump-worsens-after-more-us-iran-fighting-lifts-oil-prices-2026-07-10/",
       "source": "Reuters",
       "category": "energy",
-      "published": "2026-07-11 03:42"
-    },
-    {
-      "id": "mcjo6d",
-      "title": "July WASDE maintains outlook for 2026-’27 corn use in ethanol",
-      "title_vi": "Tháng 7 WASDE duy trì triển vọng sử dụng ngô trong ethanol năm 2026-27",
-      "summary_vi": "USDA duy trì dự báo về việc sử dụng ngô từ năm 2026 đến năm 2027 trong sản xuất ethanol nhiên liệu trong báo cáo Ước tính Cung và Cầu Nông nghiệp Thế giới mới nhất, liên quan",
-      "image": "https://bbi-strapi.s3.us-east-2.amazonaws.com/archived/epm/posts/web/2014/06/CornCobBig_14025216574144.jpg",
-      "link": "https://ethanolproducer.com/articles/july-wasde-maintains-outlook-for-2026-27-corn-use-in-ethanol",
-      "source": "Ethanol Producer Magazine",
-      "category": "agri",
       "published": "2026-07-11 03:42"
     }
   ]

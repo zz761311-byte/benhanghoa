@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-14 23:04",
+  "updated_at": "2026-07-15 00:00",
   "items": [
+    {
+      "id": "hv37v2",
+      "title": "New York Imposes First Ever Moratorium On U.S. Data Centers",
+      "title_vi": "New York áp đặt lệnh cấm đầu tiên đối với các trung tâm dữ liệu của Hoa Kỳ",
+      "summary_vi": "Thống đốc New York Kathy Hochul đã ký sắc lệnh hành pháp đầu tiên của đất nước áp đặt lệnh cấm trên toàn tiểu bang đối với các trung tâm dữ liệu quy mô lớn mới trong tối đa một năm. Lệnh này đóng băng quy trình cấp phép cho các trung tâm dữ liệu mới cần 50 megawatt điện trở lên.",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/New-York-Imposes-First-Ever-Moratorium-On-US-Data-Centers.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-14 23:30"
+    },
     {
       "id": "3xvd3k",
       "title": "Oil’s Oversupply Narrative Just Died",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-14 23:00"
+    },
+    {
+      "id": "ftc2yy",
+      "title": "Dollar slides as rate hike prospects ease, oil gains moderate",
+      "title_vi": "Đồng đô la trượt dốc khi triển vọng tăng lãi suất giảm bớt, giá dầu tăng vừa phải",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/energy/articles/oil-extends-gains-latest-us-024733929.html",
+      "source": "Yahoo Finance",
+      "category": "energy",
+      "published": "2026-07-14 22:59"
     },
     {
       "id": "ojnjzn",
@@ -112,15 +134,15 @@
       "published": "2026-07-14 17:55"
     },
     {
-      "id": "1j4of51",
-      "title": "Asian Oil Importers Pivot to U.S. Supplies as Hormuz Risks Intensify",
-      "title_vi": "Các nhà nhập khẩu dầu châu Á chuyển hướng sang nguồn cung của Mỹ khi rủi ro Hormuz gia tăng",
-      "summary_vi": "Những người mua châu Á đang quay trở lại đàm phán các lô hàng dầu thô Mỹ giao ngay sau khi sự phục hồi dự kiến ​​của dòng chảy qua eo biển Hormuz bị dừng lại vào đầu tuần này do căng thẳng Mỹ-Iran tái leo thang mới nhất. Các nhà máy lọc dầu châu Á hiện đang quay trở lại hoạt động thương mại đã cứu được",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-14_ptrlhk8ffs.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Oil-Importers-Pivot-to-US-Supplies-as-Hormuz-Risks-Intensify.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-14 17:45"
+      "id": "1k2x25q",
+      "title": "Accidental stimulus: the economy's tariff refund cushion",
+      "title_vi": "Kích thích ngẫu nhiên: đệm hoàn thuế của nền kinh tế",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.axios.com/2026/07/13/trump-tariffs-refund-pepsico",
+      "source": "Axios",
+      "category": "macro",
+      "published": "2026-07-14 15:49"
     },
     {
       "id": "1r8d6oc",
@@ -528,28 +550,6 @@
       "source": "CryptoRank",
       "category": "metal",
       "published": "2026-07-11 06:30"
-    },
-    {
-      "id": "tm9hgn",
-      "title": "TRADE REVIEW: Rising China smelter demand to keep Q3 copper TC/RCs under pressure",
-      "title_vi": "ĐÁNH GIÁ THƯƠNG MẠI: Nhu cầu luyện kim ngày càng tăng của Trung Quốc khiến TC/RC đồng quý 3 chịu áp lực",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/071026-trade-review-rising-china-smelter-demand-to-keep-q3-copper-tcrcs-under-pressure",
-      "source": "S&P Global",
-      "category": "metal",
-      "published": "2026-07-11 06:19"
-    },
-    {
-      "id": "vrm4vv",
-      "title": "Grain Markets Surge as Black Sea Tensions, USDA Supply Cuts Ignite Price Rally",
-      "title_vi": "Thị trường ngũ cốc tăng vọt khi căng thẳng ở Biển Đen, USDA cắt giảm nguồn cung kích thích giá tăng",
-      "summary_vi": "Sự kết hợp đầy biến động giữa xung đột địa chính trị leo thang ở Biển Đen và dự báo nguồn cung trong nước yếu bất ngờ đã khiến thị trường ngũ cốc tăng mạnh hôm thứ Sáu, khi các nhà dự báo liên bang cảnh báo về trữ lượng ngũ cốc thắt chặt trong lịch sử và vụ lúa mì của Mỹ",
-      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2103/2024/06/29020315/GRAIN-BINS-CORN-FIELD.jpeg",
-      "link": "https://www.hoosieragtoday.com/2026/07/10/grain-markets-surge/",
-      "source": "Hoosier Ag Today",
-      "category": "agri",
-      "published": "2026-07-11 05:34"
     }
   ]
 }

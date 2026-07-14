@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14 23:00",
+  "updated_at": "2026-07-14 23:04",
   "items": [
     {
       "id": "3xvd3k",
@@ -35,6 +35,17 @@
       "published": "2026-07-14 22:00"
     },
     {
+      "id": "1xsanjw",
+      "title": "SuperCritical lands US Gov&#8217;t licence for seawater uranium",
+      "title_vi": "SuperCritical nhận được giấy phép của Chính phủ Hoa Kỳ về uranium nước biển",
+      "summary_vi": "Công nghệ DOE độc quyền mang lại cho công ty khởi nghiệp một con đường hướng tới việc phục hồi uranium thương mại khi nhu cầu nhiên liệu hạt nhân của Hoa Kỳ tăng lên.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/super-critical.jpeg",
+      "link": "https://www.mining.com/supercritical-lands-us-govt-licence-for-seawater-uranium/",
+      "source": "Mining.com",
+      "category": "energy",
+      "published": "2026-07-14 21:55"
+    },
+    {
       "id": "1tuijqk",
       "title": "Oil Jumps Above $87 as Russia-Ukraine Black Sea Attacks Escalate",
       "title_vi": "Dầu tăng vọt lên trên 87 USD khi các cuộc tấn công ở Biển Đen Nga-Ukraine leo thang",
@@ -66,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-14 20:00"
+    },
+    {
+      "id": "1eygf9w",
+      "title": "Canada bets on digital hub to speed mine permitting",
+      "title_vi": "Canada đặt cược vào trung tâm kỹ thuật số để tăng tốc độ cấp phép khai thác mỏ",
+      "summary_vi": "Nền tảng NRCan tập trung dữ liệu khoa học và quy định để giúp hợp lý hóa các đánh giá đồng thời cải thiện tính minh bạch.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/red-chris-mine-bc.jpg",
+      "link": "https://www.mining.com/canada-bets-on-digital-hub-to-speed-mine-permitting/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-14 19:03"
     },
     {
       "id": "l8nm37",
@@ -266,17 +288,6 @@
       "published": "2026-07-13 22:19"
     },
     {
-      "id": "18as8ev",
-      "title": "India to invest in foreign uranium mines",
-      "title_vi": "Ấn Độ đầu tư vào các mỏ uranium nước ngoài",
-      "summary_vi": "NTPC của Ấn Độ đang tìm kiếm nguồn tài trợ cho mỏ uranium ở nước ngoài để đảm bảo nhiên liệu cho việc mở rộng điện hạt nhân quy mô lớn nhằm đạt công suất 100 GW vào năm 2047.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Kudankulam-Nuclear-Power-Plant.png",
-      "link": "https://www.mining.com/india-to-invest-in-foreign-uranium-mines/",
-      "source": "Mining.com",
-      "category": "energy",
-      "published": "2026-07-13 22:16"
-    },
-    {
       "id": "js8gnh",
       "title": "America barely uses OPEC oil. Why are oil and gas prices so high?",
       "title_vi": "Mỹ hầu như không sử dụng dầu của OPEC. Tại sao giá dầu và khí đốt lại cao như vậy?",
@@ -286,17 +297,6 @@
       "source": "USA Today",
       "category": "energy",
       "published": "2026-07-13 21:55"
-    },
-    {
-      "id": "1qaf37q",
-      "title": "Stormlands AI remodels Bralorne, results show higher NPV",
-      "title_vi": "Stormlands AI tu sửa Bralorne, kết quả cho thấy NPV cao hơn",
-      "summary_vi": "Bằng cách sử dụng giá cả hàng hóa cập nhật, Stormlands đã tăng doanh thu vòng đời mỏ từ 551,9 triệu USD lên 841,2 triệu USD.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Talisker.-udg-at-Bralorne-gold-project.png",
-      "link": "https://www.mining.com/stormlands-ai-remodels-bralorne-results-show-higher-npv/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-13 21:24"
     },
     {
       "id": "17wloc5",

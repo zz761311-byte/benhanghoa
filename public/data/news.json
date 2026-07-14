@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-15 04:00",
+  "updated_at": "2026-07-15 04:18",
   "items": [
+    {
+      "id": "1am055a",
+      "title": "US Crude Oil, Gasoline Inventories Still Falling",
+      "title_vi": "Tồn kho dầu thô, xăng của Mỹ vẫn giảm",
+      "summary_vi": "Viện Dầu khí Hoa Kỳ (API) ước tính tồn kho dầu thô ở Mỹ giảm 564.000 thùng trong tuần kết thúc vào ngày 10 tháng 7. Trong tuần trước đó, tồn kho dầu thô của Mỹ giảm 399.000 thùng. Mặc dù tồn kho dầu thô thương mại không bao gồm SPR ha",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Gasoline-Inventories-Still-Falling.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-15 04:04"
+    },
     {
       "id": "1fpcd",
       "title": "Could Geothermal Energy Rescue Germany&#039;s Fading Coal Towns?",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-07-15 04:00"
+    },
+    {
+      "id": "1ril1hf",
+      "title": "Almonty Industries, Global Tungsten expand offtake agreement",
+      "title_vi": "Almonty Industries, Global Vonfram mở rộng thỏa thuận bao tiêu",
+      "summary_vi": "Kéo dài thời gian tập trung vonfram được sản xuất từ ​​mỏ Sangdong ở Hàn Quốc thêm sáu năm.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Sangdon-mine.jpg",
+      "link": "https://www.mining.com/almonty-industries-global-tungsten-expand-offtake-agreement/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-15 03:43"
     },
     {
       "id": "1qq61p9",
@@ -35,6 +57,17 @@
       "published": "2026-07-15 03:00"
     },
     {
+      "id": "dkit9i",
+      "title": "Alsym Energy, ERITY sign 9 GWh sodium-ion battery deal for mining sector",
+      "title_vi": "Alsym Energy, ERITY ký thỏa thuận sản xuất pin natri-ion 9 GWh cho lĩnh vực khai thác mỏ",
+      "summary_vi": "Các công ty cho biết thỏa thuận này là thỏa thuận pin natri-ion lớn nhất được biết đến cho đến nay trong ngành khai thác mỏ toàn cầu.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/AdobeStock_1670353596-scaled-e1768488193378.jpeg",
+      "link": "https://www.mining.com/alsym-energy-erity-sign-9-gwh-sodium-ion-battery-agreement-for-mining-sector/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-15 02:38"
+    },
+    {
       "id": "u6ugtb",
       "title": "Trump Scraps Hormuz Toll Plan as U.S.-Iran Conflict Deepens",
       "title_vi": "Trump hủy bỏ kế hoạch thu phí Hormuz khi xung đột Mỹ-Iran ngày càng sâu sắc",
@@ -55,6 +88,28 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-07-15 01:00"
+    },
+    {
+      "id": "19ariov",
+      "title": "Abasca expands Loki graphite resource in Saskatchewan",
+      "title_vi": "Abasca mở rộng nguồn than chì Loki ở Saskatchewan",
+      "summary_vi": "Việc công ty nâng cấp nguồn than chì Loki ở Saskatchewan, củng cố các kế hoạch cho PEA và đẩy nhanh quá trình sản xuất.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/this-Loki-helicopter-1-1024x570.jpeg",
+      "link": "https://www.mining.com/abasca-expands-loki-graphite-resource-in-saskatchewan/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-15 00:58"
+    },
+    {
+      "id": "1amvako",
+      "title": "Montage sees Côte d’Ivoire’s Didievi as next gold asset",
+      "title_vi": "Montage coi Didievi của Côte d'Ivoire là tài sản vàng tiếp theo",
+      "summary_vi": "Cổ phiếu tăng sau kết quả khoan cao cấp tại dự án Didievi ở Côte d'Ivoire đã thúc đẩy niềm tin vào tài sản phát triển vàng trong tương lai.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/featured-img-didievi.jpg",
+      "link": "https://www.mining.com/montage-sees-cote-divoires-didievi-as-next-gold-asset/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-15 00:57"
     },
     {
       "id": "wvxbqh",
@@ -101,17 +156,6 @@
       "published": "2026-07-14 22:59"
     },
     {
-      "id": "ojnjzn",
-      "title": "U.S. Gasoline Prices Rise for First Time Since May as Iran Ceasefire Collapses",
-      "title_vi": "Giá xăng của Mỹ tăng lần đầu tiên kể từ tháng 5 khi lệnh ngừng bắn của Iran sụp đổ",
-      "summary_vi": "Giá xăng của Mỹ đã tăng lần đầu tiên kể từ tháng 5, với sự đảo chiều đột ngột liên quan trực tiếp đến sự sụp đổ của lệnh ngừng bắn dự kiến ​​giữa Mỹ và Iran. Theo dữ liệu của AAA, giá xăng trung bình trên toàn quốc của Hoa Kỳ ở mức 3,8590 USD/gallon vào ngày 11/11.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-14_lrh3pdxcws.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Prices-Rise-for-First-Time-Since-May-as-Iran-Ceasefire-Collapses.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-14 22:30"
-    },
-    {
       "id": "1xsanjw",
       "title": "SuperCritical lands US Gov&#8217;t licence for seawater uranium",
       "title_vi": "SuperCritical nhận được giấy phép của Chính phủ Hoa Kỳ về uranium nước biển",
@@ -121,6 +165,17 @@
       "source": "Mining.com",
       "category": "energy",
       "published": "2026-07-14 21:55"
+    },
+    {
+      "id": "cb8hwv",
+      "title": "Canadian Copper advances Murray Brook with EIA filing",
+      "title_vi": "Đồng Canada thúc đẩy Murray Brook nộp đơn EIA",
+      "summary_vi": "Đồng Canada (CSE: CCI) đã nộp hồ sơ đăng ký Đánh giá tác động môi trường (EIA) cho mỏ Murray Brook của mình tới cơ quan quản lý của New Brunswick […]",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/photo-a-murray-brook-site-1024x579.jpg",
+      "link": "https://www.mining.com/canadian-copper-advances-murray-brook-with-eia-filing/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-14 21:05"
     },
     {
       "id": "1eygf9w",
@@ -200,28 +255,6 @@
       "published": "2026-07-14 09:47"
     },
     {
-      "id": "1d5k9rn",
-      "title": "CHART: Mining vs AI – Nvidia sneezes, sheds five BHPs",
-      "title_vi": "BIỂU ĐỒ: Khai thác so với AI – Nvidia hắt hơi, loại bỏ 5 BHP",
-      "summary_vi": "Nvidia đã lỗ một nghìn tỷ đô la trong quý này và được giao dịch trong thời gian ngắn như một cổ phiếu giá trị. 50 công ty khai thác lớn nhất thế giới, tất cả đều trị giá 2,19 nghìn tỷ USD, trông giống như những công ty này trong nhiều năm.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/ai-vs-mining-top-50-wall-street-mining-safety-truck--1024x576.jpg",
-      "link": "https://www.mining.com/chart-mining-vs-ai-nvidia-sneezes-sheds-five-bhps/",
-      "source": "Mining.com",
-      "category": "macro",
-      "published": "2026-07-14 08:41"
-    },
-    {
-      "id": "1rympva",
-      "title": "Industry partners form North American Critical Manganese Alliance",
-      "title_vi": "Các đối tác trong ngành thành lập Liên minh Mangan quan trọng Bắc Mỹ",
-      "summary_vi": "Mục tiêu là phát triển hai nền tảng công nghiệp bổ sung cho nhau; Canada và Mỹ.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Canadian-Manganese-Woodstock-Overview-02-1024x530-1.jpg",
-      "link": "https://www.mining.com/industry-partners-form-north-american-critical-manganese-alliance/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-14 05:53"
-    },
-    {
       "id": "5p2e16",
       "title": "Gold Dips Below $4,000. Silver Prices Also Down.",
       "title_vi": "Vàng giảm xuống dưới 4.000 USD Giá bạc cũng giảm.",
@@ -242,17 +275,6 @@
       "source": "AP News",
       "category": "energy",
       "published": "2026-07-14 03:19"
-    },
-    {
-      "id": "wriln1",
-      "title": "US Vanadium awarded gov&#8217;t offtake contract for National Defense Stockpile",
-      "title_vi": "Vanadi Hoa Kỳ trao hợp đồng cung cấp cho Chính phủ cho Kho dự trữ Quốc phòng",
-      "summary_vi": "Công ty vận hành hai cơ sở ở Arkansas chuyên thu hồi và xử lý vanadi từ quá trình lọc dầu.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/us-vanadium-techmet.jpeg",
-      "link": "https://www.mining.com/us-vanadium-awarded-govt-offtake-contract-for-national-defense-stockpile/",
-      "source": "Mining.com",
-      "category": "energy",
-      "published": "2026-07-14 03:16"
     },
     {
       "id": "pl4jkb",
@@ -299,17 +321,6 @@
       "published": "2026-07-14 00:59"
     },
     {
-      "id": "1pbxkzi",
-      "title": "Galway’s New Brunswick gold resource misses analyst forecast",
-      "title_vi": "Nguồn vàng New Brunswick của Galway bỏ lỡ dự báo của nhà phân tích",
-      "summary_vi": "Tháng trước, Red Cloud Securities dự báo tổng nguồn tài nguyên mới có thể đạt tới 3 triệu oz. vàng.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Galway-1-2-1024x630.jpg",
-      "link": "https://www.mining.com/galways-new-brunswick-gold-resource-misses-analyst-forecast/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-14 00:05"
-    },
-    {
       "id": "47gyge",
       "title": "Platinum and Palladium Forecast: Platinum Eyes $1,500 as Palladium Tests Key Support",
       "title_vi": "Dự báo bạch kim và Palladium: Platinum nhắm tới 1.500 USD khi thử nghiệm Palladium Hỗ trợ chính",
@@ -319,17 +330,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-07-13 22:37"
-    },
-    {
-      "id": "e827b2",
-      "title": "AbraSilver drilling at Diablillos suggests resource growth",
-      "title_vi": "Việc khoan AbraSilver tại Diablillos cho thấy sự tăng trưởng tài nguyên",
-      "summary_vi": "Kết quả khoan Diablillos mới nhất chỉ ra sự tăng trưởng tài nguyên bạc-vàng ngoài kế hoạch khai thác DFS.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/CerroViejo-11.jpg",
-      "link": "https://www.mining.com/abrasilver-drilling-at-diablillos-suggests-resource-growth/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-13 22:19"
     },
     {
       "id": "js8gnh",

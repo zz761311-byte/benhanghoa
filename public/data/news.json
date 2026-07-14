@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14 11:00",
+  "updated_at": "2026-07-14 11:19",
   "items": [
     {
       "id": "1sw6yg6",
@@ -88,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-14 04:00"
+    },
+    {
+      "id": "zugm3h",
+      "title": "Oil prices jump following the latest fighting in the Middle East, while AI stocks sink",
+      "title_vi": "Giá dầu tăng vọt sau cuộc giao tranh mới nhất ở Trung Đông, trong khi cổ phiếu AI sụt giảm",
+      "summary_vi": "Giá dầu tăng vọt sau các cuộc tấn công vào cuối tuần ở Trung Đông, trong khi cổ phiếu AI sụt giảm gây áp lực lên thị trường chứng khoán.",
+      "image": "https://dims.apnews.com/dims4/default/5b84cb2/2147483647/strip/true/crop/4589x3058+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F39%2Fd1%2Fcfe29938019c5838b141dc3b9582%2F56576febbf92483aa02503c41ca35eb0",
+      "link": "https://apnews.com/article/stocks-markets-iran-trump-ai-2d6744b09c68b5473d0bc8584b89e60e",
+      "source": "AP News",
+      "category": "energy",
+      "published": "2026-07-14 03:19"
     },
     {
       "id": "wriln1",
@@ -539,17 +550,6 @@
       "source": "American Soybean Association",
       "category": "agri",
       "published": "2026-07-11 03:19"
-    },
-    {
-      "id": "112zdln",
-      "title": "ICE margin hikes deepen coffee price slump amid volatility",
-      "title_vi": "Biên lợi nhuận ICE tăng khiến giá cà phê sụt giảm sâu hơn trong bối cảnh biến động",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.msn.com/en-us/news/insight/ice-margin-hikes-deepen-coffee-price-slump-amid-volatility/gm-GMF83B7E6F?gemSnapshotKey",
-      "source": "MSN",
-      "category": "soft",
-      "published": "2026-07-11 03:14"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-14 21:30",
+  "updated_at": "2026-07-14 22:00",
   "items": [
+    {
+      "id": "11rsu0i",
+      "title": "Venezuela’s Oil Revival Faces a Critical Services Bottleneck",
+      "title_vi": "Sự hồi sinh dầu mỏ của Venezuela phải đối mặt với nút thắt cổ chai dịch vụ quan trọng",
+      "summary_vi": "Ngành công nghiệp thượng nguồn của Venezuela đã bước vào một giai đoạn mới. Sau những cải cách sâu rộng về hydrocarbon và những phát triển địa chính trị rộng lớn hơn vào đầu năm 2026, cuộc thảo luận đã chuyển từ việc liệu nước này có thể mở cửa trở lại ngành dầu mỏ sang liệu nước này có thể thực hiện thành công một ý nghĩa hay không.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-14_unqt5vstmh.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Revival-Faces-a-Critical-Services-Bottleneck.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-14 22:00"
+    },
     {
       "id": "1tuijqk",
       "title": "Oil Jumps Above $87 as Russia-Ukraine Black Sea Attacks Escalate",
@@ -90,17 +101,6 @@
       "published": "2026-07-14 15:45"
     },
     {
-      "id": "1tvy85d",
-      "title": "Iran Sneaks 12 Million Barrels Past Renewed U.S. Oil Blockade",
-      "title_vi": "Iran lén lấy 12 triệu thùng trước lệnh phong tỏa dầu mới của Mỹ",
-      "summary_vi": "Iran được ước tính đã đánh lén các tàu siêu tải chở tổng cộng 12 triệu thùng dầu thô trong tuần từ khi kết thúc lệnh miễn trừ của Mỹ đối với việc bán dầu của Iran vào ngày 7 tháng 7 và ngày 14 tháng 7, ngay khi Mỹ tuyên bố phong tỏa mới đối với các cảng và hàng hóa dầu của Iran. Thứ ba tuần trước",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-14_njv9f5rtjb.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Sneaks-12-Million-Barrels-Past-Renewed-US-Oil-Blockade.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-14 15:20"
-    },
-    {
       "id": "1r8d6oc",
       "title": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook",
       "title_vi": "Giá dầu đạt mức cao nhất trong 1 tháng khi các cuộc tấn công của Mỹ-Iran làm mờ triển vọng eo biển Hormuz",
@@ -121,6 +121,17 @@
       "source": "IndexBox",
       "category": "metal",
       "published": "2026-07-14 10:21"
+    },
+    {
+      "id": "1jfso5g",
+      "title": "Oil Gains On Fresh Attacks, Dollar Slides As Inflation Slows",
+      "title_vi": "Dầu tăng nhờ các cuộc tấn công mới, đồng đô la trượt dốc khi lạm phát chậm lại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barrons.com/news/oil-extends-gains-after-latest-us-strikes-tech-suffers-more-losses-17d63e8b",
+      "source": "Barron's",
+      "category": "energy",
+      "published": "2026-07-14 09:47"
     },
     {
       "id": "1d5k9rn",
@@ -539,17 +550,6 @@
       "source": "Hoosier Ag Today",
       "category": "agri",
       "published": "2026-07-11 05:34"
-    },
-    {
-      "id": "1g8dm5y",
-      "title": "Ukrainian drone strikes ignite fires at Russian oil sites",
-      "title_vi": "Cuộc tấn công bằng máy bay không người lái của Ukraine gây ra hỏa hoạn tại các cơ sở dầu mỏ của Nga",
-      "summary_vi": "Một cuộc tấn công trong đêm đã nhằm vào các cơ sở dầu mỏ quan trọng ở miền nam nước Nga, gây thêm áp lực lên mạng lưới nhiên liệu vốn đã căng thẳng do các cuộc tấn công liên tục của Ukraine.",
-      "image": "https://static.dw.com/image/65525202_6.jpg",
-      "link": "https://www.dw.com/en/ukrainian-drone-strikes-ignite-fires-at-russian-oil-sites/a-77900682",
-      "source": "DW.com",
-      "category": "energy",
-      "published": "2026-07-11 05:09"
     }
   ]
 }

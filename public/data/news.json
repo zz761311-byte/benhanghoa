@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-14 12:00",
+  "updated_at": "2026-07-14 13:00",
   "items": [
+    {
+      "id": "18yupbb",
+      "title": "Oil Prices Have Jumped 12% Since Friday as War Risks Return",
+      "title_vi": "Giá dầu đã tăng 12% kể từ thứ Sáu khi rủi ro chiến tranh quay trở lại",
+      "summary_vi": "Giá dầu kéo dài đà tăng vọt của ngày thứ Hai sang giao dịch châu Á vào thứ Ba, với giá dầu thô Brent đạt mức cao nhất trong một tháng, do phí bảo hiểm rủi ro chiến tranh mới đã phá vỡ giao dịch bình tĩnh hơn trong những tuần qua trong bối cảnh căng thẳng Mỹ-Iran gia tăng và việc Mỹ khôi phục lệnh phong tỏa xuất khẩu dầu của Iran.",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Have-Jumped-12-Since-Friday-as-War-Risks-Return.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-14 12:44"
+    },
+    {
+      "id": "1r8d6oc",
+      "title": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook",
+      "title_vi": "Giá dầu đạt mức cao nhất trong 1 tháng khi các cuộc tấn công của Mỹ-Iran làm mờ triển vọng eo biển Hormuz",
+      "summary_vi": "Dầu thô Brent gần 85 USD/thùng trong bối cảnh căng thẳng giữa Washington và Tehran gia tăng.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26167496323276-1783994234.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-07-14 10:43"
+    },
     {
       "id": "1sw6yg6",
       "title": "Palladium Hydroxide Market Forecast Points Higher Toward 2035, Driven by Electronics Miniaturization",
@@ -176,17 +198,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-14 01:30"
-    },
-    {
-      "id": "t2vkng",
-      "title": "EU Drops Sanctions on Lukoil Founder and Russian Patriarch",
-      "title_vi": "EU bỏ lệnh trừng phạt đối với người sáng lập Lukoil và tộc trưởng Nga",
-      "summary_vi": "Liên minh châu Âu sẽ không áp đặt các biện pháp trừng phạt đối với người đứng đầu Giáo hội Chính thống Nga và người đứng đầu công ty dầu khí tư nhân lớn nhất Nga, sau khi Bulgaria phủ quyết đề xuất này. Thượng phụ Kirill, người lớn tiếng ủng hộ Tổng thống Vladimir Putin và là người công khai ủng hộ cuộc chiến ở Ukrai",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-13_mawpeqi5dg.jpg",
-      "link": "https://oilprice.com/Geopolitics/Europe/EU-Drops-Sanctions-on-Lukoil-Founder-and-Russian-Patriarch.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-07-14 01:00"
     },
     {
       "id": "tauutx",
@@ -539,17 +550,6 @@
       "source": "Ethanol Producer Magazine",
       "category": "agri",
       "published": "2026-07-11 03:42"
-    },
-    {
-      "id": "hyylgg",
-      "title": "Export Demand Keeps Soybean Prices Firm Despite Bigger Crop",
-      "title_vi": "Nhu cầu xuất khẩu giữ giá đậu nành ổn định mặc dù vụ mùa tăng trưởng",
-      "summary_vi": "Xuất khẩu của Mỹ tăng và dự báo nhập khẩu mạnh hơn của Trung Quốc đã lấn át sản lượng tăng, giúp giá đậu tương kỳ hạn tăng sau báo cáo hôm thứ Sáu của USDA.",
-      "image": "https://soygrowers.com/wp-content/uploads/2025/06/Jacqui-Header-Policy.jpg",
-      "link": "https://soygrowers.com/news-releases/export-demand-keeps-soybean-prices-firm-despite-bigger-crop/",
-      "source": "American Soybean Association",
-      "category": "agri",
-      "published": "2026-07-11 03:19"
     }
   ]
 }

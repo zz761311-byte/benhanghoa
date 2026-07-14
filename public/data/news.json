@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14 08:00",
+  "updated_at": "2026-07-14 08:05",
   "items": [
     {
       "id": "trr1ea",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-14 06:00"
+    },
+    {
+      "id": "1rympva",
+      "title": "Industry partners form North American Critical Manganese Alliance",
+      "title_vi": "Các đối tác trong ngành thành lập Liên minh Mangan quan trọng Bắc Mỹ",
+      "summary_vi": "Mục tiêu là phát triển hai nền tảng công nghiệp bổ sung cho nhau; Canada và Mỹ.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Canadian-Manganese-Woodstock-Overview-02-1024x530-1.jpg",
+      "link": "https://www.mining.com/industry-partners-form-north-american-critical-manganese-alliance/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-14 05:53"
     },
     {
       "id": "5p2e16",
@@ -253,17 +264,6 @@
       "source": "KITCO",
       "category": "metal",
       "published": "2026-07-13 19:20"
-    },
-    {
-      "id": "6ubdl5",
-      "title": "Codelco chair puts profit ahead of copper output",
-      "title_vi": "Chủ tịch Codelco đặt lợi nhuận lên trên sản lượng đồng",
-      "summary_vi": "Chủ tịch mới Bernardo Fontaine ra lệnh thiết lập lại chiến lược khi nợ nần, các vấn đề về sản xuất và quản trị yếu kém đè nặng lên nhà khai thác mỏ.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/bernardo_fontaine.png",
-      "link": "https://www.mining.com/codelco-chair-puts-profit-ahead-of-copper-output/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-13 18:59"
     },
     {
       "id": "pbkrxh",

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-15 05:16",
+  "updated_at": "2026-07-15 06:00",
   "items": [
+    {
+      "id": "wianmm",
+      "title": "Bangladesh&#039;s Nuclear Power Play Is a Test for Emerging Economies",
+      "title_vi": "Cuộc chơi điện hạt nhân của Bangladesh là phép thử cho các nền kinh tế mới nổi",
+      "summary_vi": "Trước đây, chúng tôi đã đưa tin rằng Ấn Độ đang đặt cược lớn vào năng lượng mặt trời để cung cấp năng lượng cho quá trình công nghiệp hóa của mình, từ bỏ các kế hoạch dựa vào than trước đó. Quả thực, Ấn Độ đang đi chệch hướng khi cố gắng trở thành quốc gia đầu tiên công nghiệp hóa bằng cách sử dụng năng lượng sạch thay vì sử dụng năng lượng sạch.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-14_hl2jfyteba.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Bangladeshs-Nuclear-Power-Play-Is-a-Test-for-Emerging-Economies.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-15 06:00"
+    },
     {
       "id": "1gn61v0",
       "title": "Canada Ties New West Coast Pipeline to Oil Sands Expansion",
@@ -134,17 +145,6 @@
       "published": "2026-07-15 00:30"
     },
     {
-      "id": "hv37v2",
-      "title": "New York Imposes First Ever Moratorium On U.S. Data Centers",
-      "title_vi": "New York áp đặt lệnh cấm đầu tiên đối với các trung tâm dữ liệu của Hoa Kỳ",
-      "summary_vi": "Thống đốc New York Kathy Hochul đã ký sắc lệnh hành pháp đầu tiên của đất nước áp đặt lệnh cấm trên toàn tiểu bang đối với các trung tâm dữ liệu quy mô lớn mới trong tối đa một năm. Lệnh này đóng băng quy trình cấp phép cho các trung tâm dữ liệu mới cần 50 megawatt điện trở lên.",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/New-York-Imposes-First-Ever-Moratorium-On-US-Data-Centers.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-14 23:30"
-    },
-    {
       "id": "ftc2yy",
       "title": "Dollar slides as rate hike prospects ease, oil gains moderate",
       "title_vi": "Đồng đô la trượt dốc khi triển vọng tăng lãi suất giảm bớt, giá dầu tăng vừa phải",
@@ -253,6 +253,17 @@
       "source": "Barron's",
       "category": "energy",
       "published": "2026-07-14 09:47"
+    },
+    {
+      "id": "8pzsgv",
+      "title": "Dollar weakens on soft U.S. inflation data for June",
+      "title_vi": "Đồng đô la suy yếu do dữ liệu lạm phát yếu của Mỹ trong tháng 6",
+      "summary_vi": "",
+      "image": "https://image.cnbcfm.com/api/v1/image/107335411-1700183678546-gettyimages-1779672989-cfoto-japanese231113_npg8Q.jpeg?v=1783990980&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/07/14/dollar-steady-before-us-inflation-data-yen-under-pressure.html",
+      "source": "CNBC",
+      "category": "macro",
+      "published": "2026-07-14 09:12"
     },
     {
       "id": "5p2e16",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-07-11 08:27"
-    },
-    {
-      "id": "kk140e",
-      "title": "Global oil demand is dropping, but US drivers keep buying more gas - ABC News",
-      "title_vi": "Nhu cầu dầu toàn cầu đang giảm nhưng tài xế Mỹ tiếp tục mua thêm xăng - ABC News",
-      "summary_vi": "Nhu cầu dầu toàn cầu dự kiến ​​sẽ giảm trong năm nay lần đầu tiên kể từ năm 2020",
-      "image": "https://i.abcnewsfe.com/a/81d37bda-e38b-404f-8ae8-bd1389beef83/wirestory_de45ede94f992da07d35a8b737fdeacf_16x9.jpg?w=1600",
-      "link": "https://abcnews.com/Business/wireStory/global-oil-demand-dropping-us-drivers-buying-gas-134663982",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-07-11 07:17"
     }
   ]
 }

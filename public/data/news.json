@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14 07:00",
+  "updated_at": "2026-07-14 08:00",
   "items": [
     {
       "id": "trr1ea",
@@ -88,6 +88,17 @@
       "source": "RFD-TV",
       "category": "agri",
       "published": "2026-07-14 02:24"
+    },
+    {
+      "id": "145o2tn",
+      "title": "Global Wheat Outlook Remains Uncertain As Drought Relief Arrives Too Late for Some Crops - RFD-TV",
+      "title_vi": "Triển vọng lúa mì toàn cầu vẫn chưa chắc chắn vì hạn hán đến quá muộn đối với một số cây trồng - RFD-TV",
+      "summary_vi": "Công cụ theo dõi hạn hán tiếp theo của Hoa Kỳ dự kiến ​​​​phát hành vào thứ Năm, cung cấp cái nhìn cập nhật về điều kiện độ ẩm trên toàn quốc.",
+      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/378ea87/2147483647/strip/true/crop/720x404+0+1/resize/730x410!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2Fp0O5kSjt%2Fthumbnails%2FgIBuITHn.jpg",
+      "link": "https://www.rfdtv.com/global-wheat-outlook-remains-uncertain-as-drought-relief-arrives-too-late-for-some-crops",
+      "source": "RFD-TV",
+      "category": "agri",
+      "published": "2026-07-14 02:02"
     },
     {
       "id": "op6kwf",
@@ -519,6 +530,17 @@
       "published": "2026-07-11 03:14"
     },
     {
+      "id": "dygfw3",
+      "title": "Record-low wheat plantings position market for rally",
+      "title_vi": "Diện tích trồng lúa mì thấp kỷ lục khiến thị trường phục hồi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/wheat/where-does-wheat-go-from-here-",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-07-11 02:29"
+    },
+    {
       "id": "8713fu",
       "title": "USDA Makes Friendly Cut to Corn Stocks in WASDE, as Weather Threats Loom",
       "title_vi": "USDA thực hiện cắt giảm dự trữ ngô ở WASDE một cách thân thiện khi các mối đe dọa về thời tiết đang xuất hiện",
@@ -528,28 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-07-11 01:31"
-    },
-    {
-      "id": "1d3ooc5",
-      "title": "Oil fears risk another geopolitical quagmire, Robin Brooks says (CL1:COM:Commodity)",
-      "title_vi": "Robin Brooks cho biết những lo ngại về dầu mỏ có nguy cơ dẫn đến một vũng lầy địa chính trị khác (CL1:COM:Commodity)",
-      "summary_vi": "Robin Brooks của Brookings cho biết những lo ngại của phương Tây về giá dầu cao hơn có thể kéo dài cuộc xung đột với Iran.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1323151704/image_1323151704.jpg?io=getty-c-w630",
-      "link": "https://seekingalpha.com/news/4612973-oil-fears-risk-another-geopolitical-quagmire-robin-brooks-says",
-      "source": "Seeking Alpha",
-      "category": "energy",
-      "published": "2026-07-10 23:46"
-    },
-    {
-      "id": "1tfg922",
-      "title": "USDA Cuts Corn Ending Stocks More Than Expected in July WASDE",
-      "title_vi": "USDA cắt giảm lượng ngô tồn kho cuối kỳ nhiều hơn dự kiến ​​trong tháng 7 WASDE",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/july-usda-wasde-report-12014120",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-07-10 23:43"
     }
   ]
 }

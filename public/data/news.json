@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16 01:01",
+  "updated_at": "2026-07-16 01:33",
   "items": [
     {
       "id": "mkewct",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-16 01:00"
+    },
+    {
+      "id": "fge4j8",
+      "title": "Silver slips as hawkish Fed outlook persists despite soft US inflation data",
+      "title_vi": "Bạc trượt dốc khi triển vọng diều hâu của Fed vẫn tồn tại bất chấp dữ liệu lạm phát của Mỹ yếu",
+      "summary_vi": "Bạc (XAG/USD) giao dịch không thuận lợi vào thứ Tư, gặp khó khăn trong việc tận dụng đồng Đô la Mỹ (USD) yếu hơn khi những kỳ vọng diều hâu của Cục Dự trữ Liên bang (Fed) khiến phe gấu trong tầm kiểm soát. Tại thời điểm viết bài, XAG/USD giao dịch quanh mức 57,55 USD, giảm 1,90% trong ngày.",
+      "image": "https://editorial.fxsstatic.com/images/i/Commodities_Silver-1_Medium.jpg",
+      "link": "https://www.fxstreet.com/news/silver-slips-as-hawkish-fed-outlook-persists-despite-soft-us-inflation-data-202607151743",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-07-16 00:43"
     },
     {
       "id": "1vxy9fz",
@@ -539,17 +550,6 @@
       "source": "RFD-TV",
       "category": "agri",
       "published": "2026-07-14 02:02"
-    },
-    {
-      "id": "zf99r7",
-      "title": "Cocoa Prices Slump on Abundant Ivory Coast Supplies",
-      "title_vi": "Giá ca cao sụt giảm do nguồn cung dồi dào ở Bờ Biển Ngà",
-      "summary_vi": "Ca cao ICE NY tháng 9 (CCU26) vào thứ Hai đóng cửa ở mức giảm -223 (-3,68%) và ca cao ICE London #7 (CAU26) tháng 9 đóng cửa ở mức -149 (-3,31%). Giá ca cao giảm mạnh vào thứ Hai trong phiên thứ hai, trong bối cảnh chuyển giao âm từ thứ Sáu tuần trước, khi tin tức giao hàng ở Bờ Biển Ngà làm giảm bớt lo ngại về nguồn cung…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://es.tradingview.com/news/barchart:cb14bec7a094b:0-cocoa-prices-slump-on-abundant-ivory-coast-supplies/",
-      "source": "TradingView",
-      "category": "soft",
-      "published": "2026-07-14 01:26"
     }
   ]
 }

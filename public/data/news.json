@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15 11:00",
+  "updated_at": "2026-07-15 12:01",
   "items": [
     {
       "id": "nh3wyh",
@@ -198,6 +198,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-15 00:57"
+    },
+    {
+      "id": "z1zalq",
+      "title": "Nasdaq rebounds as cooling US inflation weighs on dollar",
+      "title_vi": "Nasdaq phục hồi khi lạm phát của Mỹ hạ nhiệt đè nặng lên đồng đô la",
+      "summary_vi": "Chứng khoán Phố Wall tăng sau thu nhập mạnh mẽ từ các ngân hàng lớn của Mỹ và báo cáo lạm phát lành tính bất ngờ gây áp lực lên đồng đô la.",
+      "image": "https://s.rfi.fr/media/display/20b1c72e-7f9d-11f1-b4fd-005056a90284/w:1280/p:16x9/Part-GTY-2275622607-1-1-0.jpg",
+      "link": "https://www.rfi.fr/en/middle-east/20260714-dollar-slides-as-rate-hike-prospects-ease-oil-gains-moderate",
+      "source": "RFI",
+      "category": "macro",
+      "published": "2026-07-14 23:00"
     },
     {
       "id": "ftc2yy",
@@ -539,17 +550,6 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "energy",
       "published": "2026-07-13 00:36"
-    },
-    {
-      "id": "vxqay5",
-      "title": "Gas queues grow as Ukraine targets Russia's fuel supply",
-      "title_vi": "Hàng chờ mua xăng ngày càng tăng khi Ukraine nhắm tới nguồn cung cấp nhiên liệu của Nga",
-      "summary_vi": "Các cuộc tấn công của Ukraine đã gây ra cuộc khủng hoảng nhiên liệu ở Nga. Các báo cáo từ khắp nước Nga cho thấy người dân đang đối phó với những gián đoạn trong cuộc sống hàng ngày của họ như thế nào.",
-      "image": "https://static.dw.com/image/77766779_6.jpg",
-      "link": "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russias-fuel-supply/a-77887704",
-      "source": "DW.com",
-      "category": "energy",
-      "published": "2026-07-12 12:09"
     }
   ]
 }

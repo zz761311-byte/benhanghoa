@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16 02:01",
+  "updated_at": "2026-07-16 02:55",
   "items": [
     {
       "id": "1ibvtpl",
@@ -165,6 +165,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-15 22:01"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "(Reuters) – Khí đốt tự nhiên chạm đến hầu hết mọi ngóc ngách của nền kinh tế Hoa Kỳ, cung cấp nhiên liệu cho các nhà máy điện, nhà cửa, nhà máy và lĩnh vực xuất khẩu LNG đang bùng nổ. Nhưng nguồn cung cần thiết để đáp ứng tất cả những mục đích sử dụng đó lại đến từ một mảnh đất đá phiến ngày càng hẹp của Mỹ. Sự không phù hợp này giữa một nhóm người tiêu dùng ngày càng mở rộng…",
+      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Flame-1200x810-1.jpg",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-07-15 21:43"
     },
     {
       "id": "oim6zt",
@@ -539,17 +550,6 @@
       "source": "RFD-TV",
       "category": "agri",
       "published": "2026-07-14 02:24"
-    },
-    {
-      "id": "htc09l",
-      "title": "USDA Leaves Soybean Outlook Largely Unchanged in July WASDE",
-      "title_vi": "USDA giữ nguyên triển vọng đậu tương không thay đổi trong tháng 7 WASDE",
-      "summary_vi": "",
-      "image": "https://grainnet-com.s3.amazonaws.com/defaults/_1200x630_crop_center-center_82_none/GJ_default_image_1200x630.webp?mtime=1708746861",
-      "link": "https://www.grainjournal.com/article/1147996/usda-leaves-soybean-outlook-largely-unchanged-in-july-wasde",
-      "source": "Grain Journal",
-      "category": "agri",
-      "published": "2026-07-14 02:18"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15 15:01",
+  "updated_at": "2026-07-15 15:38",
   "items": [
     {
       "id": "1w0a4jt",
@@ -121,6 +121,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-07-15 04:00"
+    },
+    {
+      "id": "rl2wxu",
+      "title": "New Russia Oil Sanctions Bill Aims Tariffs at China, India",
+      "title_vi": "Dự luật trừng phạt dầu mỏ mới của Nga nhắm đến thuế quan đối với Trung Quốc, Ấn Độ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-14/new-russia-oil-sanctions-bill-targets-china-india-for-tariffs",
+      "source": "Bloomberg.com",
+      "category": "energy",
+      "published": "2026-07-15 03:43"
     },
     {
       "id": "1ril1hf",
@@ -539,17 +550,6 @@
       "source": "Recycling Today",
       "category": "metal",
       "published": "2026-07-13 16:59"
-    },
-    {
-      "id": "1vpflhj",
-      "title": "A growing paradox at the heart of the global economy",
-      "title_vi": "Một nghịch lý ngày càng gia tăng ở trung tâm nền kinh tế toàn cầu",
-      "summary_vi": "Thông tin chi tiết về thị trường hàng tuần của Doric",
-      "image": "http://static1.squarespace.com/static/5a4d1d26e5dd5b537a6647c5/t/6a5493ca8668e102f93ae72e/1783927754224/unsplash-image-TH7TW20de9s.jpg?format=1500w",
-      "link": "https://www.breakwaveadvisors.com/insights/2026/7/13/a-growing-paradox-at-the-heart-of-the-global-economy",
-      "source": "Breakwave Advisors",
-      "category": "macro",
-      "published": "2026-07-13 14:30"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15 12:01",
+  "updated_at": "2026-07-15 13:01",
   "items": [
     {
       "id": "nh3wyh",
@@ -165,6 +165,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-15 02:00"
+    },
+    {
+      "id": "1pggoj6",
+      "title": "Wheat prices expected to decline as harvest gets underway",
+      "title_vi": "Giá lúa mì dự kiến ​​giảm khi vụ thu hoạch sắp diễn ra",
+      "summary_vi": "Các nhà phân tích thị trường lúa mì cho biết thị trường lúa mì Tây Bắc Thái Bình Dương có thể đạt mức cao nhất là 6,55 USD/giạ khi nông dân bắt đầu thu hoạch. “Tôi dự đoán giá sẽ giảm khi ngày càng nhiều […]",
+      "image": "https://capitalpress.com/wp-content/uploads/sites/11/2026/07/Wheat-harvest-is-underway-in-Kahlotus-Wash.-Wheat-market-analysts-say-prices-will-likely-declin.jpg",
+      "link": "https://capitalpress.com/2026/07/14/wheat-prices-expected-to-decline-as-harvest-gets-underway/",
+      "source": "Capital Press",
+      "category": "agri",
+      "published": "2026-07-15 01:00"
     },
     {
       "id": "3fswu7",
@@ -431,6 +442,17 @@
       "published": "2026-07-13 23:45"
     },
     {
+      "id": "1qvylb8",
+      "title": "3 Best Platinum Stocks for 2026 and How to Invest",
+      "title_vi": "3 cổ phiếu bạch kim tốt nhất năm 2026 và cách đầu tư",
+      "summary_vi": "Một cái nhìn sâu sắc về các cổ phiếu bạch kim hàng đầu trên thị trường chứng khoán Hoa Kỳ trong năm nay. Đây là những gì bạn cần biết.",
+      "image": "",
+      "link": "https://www.fool.com/investing/stock-market/market-sectors/materials/metal-stocks/platinum-stocks/",
+      "source": "The Motley Fool",
+      "category": "metal",
+      "published": "2026-07-13 22:46"
+    },
+    {
       "id": "47gyge",
       "title": "Platinum and Palladium Forecast: Platinum Eyes $1,500 as Palladium Tests Key Support",
       "title_vi": "Dự báo bạch kim và Palladium: Platinum nhắm tới 1.500 USD khi thử nghiệm Palladium Hỗ trợ chính",
@@ -528,28 +550,6 @@
       "source": "FarmWeekNow",
       "category": "agri",
       "published": "2026-07-13 13:00"
-    },
-    {
-      "id": "3uad0a",
-      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
-      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
-      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
-      "image": "https://www.cmegroup.com/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium",
-      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-07-13 11:35"
-    },
-    {
-      "id": "nwme8u",
-      "title": "Ukrainian attacks on Russia kill 1 as Kyiv continues to target oil tankers and refineries - ABC News",
-      "title_vi": "Ukraine tấn công Nga, 1 người thiệt mạng khi Kiev tiếp tục nhắm vào tàu chở dầu và nhà máy lọc dầu - ABC News",
-      "summary_vi": "Các quan chức địa phương cho biết hôm Chủ Nhật rằng một cuộc tấn công của Ukraina ở phía tây nam nước Nga đã giết chết một người và làm bị thương ba người khác, khi lực lượng của Kyiv tiếp tục bắn phá các cơ sở dầu mỏ của Nga.",
-      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "link": "https://abcnews.com/International/wireStory/ukrainian-attacks-russia-kill-1-kyiv-continues-target-134689098",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-07-13 00:36"
     }
   ]
 }

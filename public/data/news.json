@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-16 04:17",
+  "updated_at": "2026-07-16 05:01",
   "items": [
+    {
+      "id": "16qxeyv",
+      "title": "AI Boom Sends U.S. Electricity Demand to New High",
+      "title_vi": "Sự bùng nổ AI đưa nhu cầu điện của Hoa Kỳ lên mức cao mới",
+      "summary_vi": "Mức tiêu thụ điện của Hoa Kỳ đã lập mức cao kỷ lục mới vào năm ngoái và đang trên đà đạt mức cao mới mọi thời đại trong năm nay và năm tới, khi sự bùng nổ AI đã chấm dứt thập kỷ sử dụng năng lượng trì trệ của Hoa Kỳ. Tỷ lệ điện khí hóa tăng một phần là nguyên nhân dẫn đến nhu cầu năng lượng cao hơn, nhưng AI",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-15_qt9lqc024x.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/AI-Boom-Sends-US-Electricity-Demand-to-New-High.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-16 05:00"
+    },
     {
       "id": "1hqr4lh",
       "title": "Five Oil and Gas Stocks Ready for a Hormuz Spike and a Hawkish Fed",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-16 04:00"
+    },
+    {
+      "id": "d2cy2p",
+      "title": "U.S. Strikes Iran Again as Brent Slips Despite Escalating Conflict",
+      "title_vi": "Mỹ tấn công Iran một lần nữa khi giá dầu Brent trượt dốc bất chấp xung đột leo thang",
+      "summary_vi": "Thị trường dầu mỏ đang coi một cuộc leo thang khác giữa Mỹ và Iran là tiếng ồn xung quanh. Mỹ hôm thứ Tư đã phát động một làn sóng tấn công khác nhằm vào Iran, mở rộng các cuộc tấn công vào các mục tiêu quân sự dọc theo bờ biển phía nam của đất nước. Dầu thô Brent hầu như không nao núng. Điểm chuẩn toàn cầu được giao dịch",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Strikes-Iran-Again-as-Brent-Slips-Despite-Escalating-Conflict.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-16 03:30"
     },
     {
       "id": "8rzimw",
@@ -112,17 +134,6 @@
       "published": "2026-07-15 23:41"
     },
     {
-      "id": "1pqann2",
-      "title": "Engie Brasil Raises $1.7B In Latest Share Offering",
-      "title_vi": "Engie Brasil huy động được 1,7 tỷ USD trong đợt chào bán cổ phiếu mới nhất",
-      "summary_vi": "Nhà sản xuất điện tư nhân lớn nhất Brazil, Engie Brasil, đã huy động thành công 8,4 tỷ reais (1,66 tỷ USD) với mức giá 30,50 rea/cổ phiếu trong đợt chào bán cổ phiếu tiếp theo, một trong những đợt chào bán tiếp theo lớn nhất trên thị trường vốn của đất nước trong năm nay, Reuters r",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-15_sozn63fdry.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Engie-Brasil-Raises-17B-In-Latest-Share-Offering.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-15 23:30"
-    },
-    {
       "id": "x741g4",
       "title": "Greenland Mines lifts contained PGM by 31% at Skaergaard",
       "title_vi": "Greenland Mines tăng 31% PGM tại Skaergaard",
@@ -143,17 +154,6 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-07-15 23:15"
-    },
-    {
-      "id": "13i4wpf",
-      "title": "PJM Auction Comes Up 6.8 Gigawatts Short As Data Centers Devour Power",
-      "title_vi": "Cuộc đấu giá PJM thiếu 6,8 Gigawatt khi các trung tâm dữ liệu ngốn điện",
-      "summary_vi": "Lưới điện lớn nhất của Hoa Kỳ đã không thể đảm bảo đủ cam kết cung cấp trong tương lai nhằm đảm bảo độ tin cậy trong tương lai trong bối cảnh nhu cầu trung tâm dữ liệu bùng nổ lịch sử. PJM Interconnection, lưới điện lớn nhất Hoa Kỳ (Tổ chức truyền tải khu vực), phục vụ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-15_szkhrboxq4.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/PJM-Auction-Comes-Up-68-Gigawatts-Short-As-Data-Centers-Devour-Power.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-07-15 23:00"
     },
     {
       "id": "ape4hc",
@@ -330,6 +330,17 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-07-15 07:08"
+    },
+    {
+      "id": "esbycl",
+      "title": "Initial 2025 FSA Yields and ARC-CO for Corn, Soybeans, and Wheat",
+      "title_vi": "Sản lượng FSA ban đầu năm 2025 và ARC-CO đối với ngô, đậu nành và lúa mì",
+      "summary_vi": "Nick Paulson, Carl Zulauf, Henrique Monaco và Gary Schnitkey - Cơ quan Dịch vụ Nông nghiệp (FSA) của USDA đã công bố một số sản lượng cuối cùng của quận cho niên vụ 2025. Dựa trên ước tính mới nhất của USDA về giá trung bình của ngô và đậu nành trong năm tiếp thị 2025, sản lượng của quận cho thấy các khoản thanh toán ARC-CO sẽ",
+      "image": "https://farmdocdaily.illinois.edu/wp-content/uploads/2026/07/07142026_fig1-1024x576.png",
+      "link": "https://farmdocdaily.illinois.edu/2026/07/initial-2025-fsa-yields-and-arc-co-for-corn-soybeans-and-wheat.html",
+      "source": "farmdoc daily",
+      "category": "agri",
+      "published": "2026-07-15 06:38"
     },
     {
       "id": "yom9g4",
@@ -539,17 +550,6 @@
       "source": "CBS News",
       "category": "soft",
       "published": "2026-07-14 03:39"
-    },
-    {
-      "id": "1k9mjlm",
-      "title": "Platinum Price Analysis Shows Consolidation With Potential Volatility Ahead",
-      "title_vi": "Phân tích giá bạch kim cho thấy sự hợp nhất với biến động tiềm ẩn phía trước",
-      "summary_vi": "Báo hiệu cả sự hợp nhất và biến động giá đáng kể, các chỉ báo kỹ thuật chính cho thấy thị trường đang tìm kiếm sự ổn định về giá.",
-      "image": "https://bravenewcoin.com/wp-content/uploads/2026/07/Bnc-Jul-14-193.jpg",
-      "link": "https://bravenewcoin.com/insights/platinum-price-analysis-shows-consolidation-with-potential-volatility-ahead",
-      "source": "Brave New Coin",
-      "category": "metal",
-      "published": "2026-07-14 03:30"
     }
   ]
 }

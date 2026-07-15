@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-15 17:01",
+  "updated_at": "2026-07-15 17:30",
   "items": [
+    {
+      "id": "gklr1y",
+      "title": "USD/JPY & Silver Outlook: Dollar Holds, Silver Weakens",
+      "title_vi": "Triển vọng USD/JPY & Bạc: Đồng đô la được giữ vững, Bạc suy yếu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forex.com/en-us/news-and-analysis/usd-jpy-and-silver-outlook-dollar-holds-silver-weakens/?amp",
+      "source": "FOREX.com",
+      "category": "metal",
+      "published": "2026-07-15 16:51"
+    },
     {
       "id": "bmpudg",
       "title": "Brent Futures Flip to Backwardation as Middle East Supply Risks Return",
@@ -539,17 +550,6 @@
       "source": "WTAQ",
       "category": "soft",
       "published": "2026-07-13 18:24"
-    },
-    {
-      "id": "1warzyt",
-      "title": "LME reports active Q2 2026",
-      "title_vi": "Báo cáo LME hoạt động vào Quý 2 năm 2026",
-      "summary_vi": "Các hợp đồng gắn liền với kim loại màu trên Sàn giao dịch kim loại Luân Đôn sôi động hơn trong quý 2 năm nay so với một năm trước đó.",
-      "image": "https://www.recyclingtoday.com/fileuploads/image/2026/07/13/cathodesaurubis.jpg",
-      "link": "https://www.recyclingtoday.com/news/london-metal-exchange-aluminum-copper-adv-activity-q2-2026-wray-bond/",
-      "source": "Recycling Today",
-      "category": "metal",
-      "published": "2026-07-13 16:59"
     }
   ]
 }

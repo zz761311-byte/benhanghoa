@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-16 00:01",
+  "updated_at": "2026-07-16 01:01",
   "items": [
+    {
+      "id": "mkewct",
+      "title": "China Expands Energy and Trade Partnerships in Central Asia",
+      "title_vi": "Trung Quốc mở rộng quan hệ đối tác thương mại và năng lượng ở Trung Á",
+      "summary_vi": "Chủ tịch Cơ quan Năng lượng Nguyên tử Kazakhstan, Almassadam Satkaliyev, đang có chuyến tham quan kéo dài tới các cơ sở điện hạt nhân ở Trung Quốc để hiểu rõ hơn về các kỹ thuật quản lý của Trung Quốc trong toàn bộ chu trình phát triển, từ thiết kế, xây dựng đến vận hành các cơ quan đó.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-15_mvahqyswj4.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Expands-Energy-and-Trade-Partnerships-in-Central-Asia.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-16 01:00"
+    },
+    {
+      "id": "1vxy9fz",
+      "title": "Critical Data For India’s Largest Nuclear Plant Exposed In Massive Breach",
+      "title_vi": "Dữ liệu quan trọng của nhà máy hạt nhân lớn nhất Ấn Độ bị vi phạm nghiêm trọng",
+      "summary_vi": "Một vụ vi phạm dữ liệu lớn đã làm lộ khoảng 19.000 tệp cực kỳ nhạy cảm liên quan đến Nhà máy điện hạt nhân Kudankulam (KKNPP) trên web đen. Các tài liệu chủ yếu liên quan đến Tổ máy 3 và 4 của nhà máy 2.400 MW, cả hai vẫn đang được xây dựng và dự kiến ​​sẽ đi vào hoạt động vào",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-15_pds9kglm3w.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Critical-Data-For-Indias-Largest-Nuclear-Plant-Exposed-In-Massive-Breach.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-16 00:30"
+    },
     {
       "id": "194ki36",
       "title": "Five Ways China Is Shielding Itself as the Hormuz Cease-Fire Collapses",
@@ -22,6 +44,39 @@
       "source": "Investing News Network",
       "category": "metal",
       "published": "2026-07-15 23:46"
+    },
+    {
+      "id": "geyhu6",
+      "title": "Altius raises $130M after royalty buys",
+      "title_vi": "Altius huy động được 130 triệu USD sau khi mua tiền bản quyền",
+      "summary_vi": "Công ty có trụ sở tại St. John có kế hoạch phát hành 3 triệu cổ phiếu phổ thông với giá 60,50 đô la Canada mỗi cổ phiếu,",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Altius.jpeg",
+      "link": "https://www.mining.com/altius-raises-130m-after-royalty-buys/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-15 23:41"
+    },
+    {
+      "id": "1pqann2",
+      "title": "Engie Brasil Raises $1.7B In Latest Share Offering",
+      "title_vi": "Engie Brasil huy động được 1,7 tỷ USD trong đợt chào bán cổ phiếu mới nhất",
+      "summary_vi": "Nhà sản xuất điện tư nhân lớn nhất Brazil, Engie Brasil, đã huy động thành công 8,4 tỷ reais (1,66 tỷ USD) với mức giá 30,50 rea/cổ phiếu trong đợt chào bán cổ phiếu tiếp theo, một trong những đợt chào bán tiếp theo lớn nhất trên thị trường vốn của đất nước trong năm nay, Reuters r",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-15_sozn63fdry.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Engie-Brasil-Raises-17B-In-Latest-Share-Offering.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-15 23:30"
+    },
+    {
+      "id": "x741g4",
+      "title": "Greenland Mines lifts contained PGM by 31% at Skaergaard",
+      "title_vi": "Greenland Mines tăng 31% PGM tại Skaergaard",
+      "summary_vi": "Dự án Skaergaard thúc đẩy tích cực tiền gửi PGM của Greenland trong số các tài sản chưa được phát triển hàng đầu.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/m5gah3yh-1024x685.png",
+      "link": "https://www.mining.com/greenland-mines-lifts-contained-pgm-by-31-at-skaergaard/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-15 23:18"
     },
     {
       "id": "i50mau",
@@ -90,6 +145,17 @@
       "published": "2026-07-15 22:01"
     },
     {
+      "id": "oim6zt",
+      "title": "Revival Gold drills shallow gold at Mercur project in Utah",
+      "title_vi": "Revival Gold khoan vàng nông tại dự án Mercur ở Utah",
+      "summary_vi": "Báo cáo cho thấy lượng vàng cạn kiệt tại dự án Mercur của Utah, mở rộng quá trình khoáng hóa có thể lọc thành đống khi hoạt động khoan tiến triển.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/07/Mercur-Site-copy.webp",
+      "link": "https://www.mining.com/revival-gold-drills-shallow-gold-at-mercur-project-in-utah/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-15 21:09"
+    },
+    {
       "id": "1cgu99x",
       "title": "Bessent says Fort Knox gold intact amid debt debate",
       "title_vi": "Bessent nói rằng vàng Fort Knox nguyên vẹn giữa cuộc tranh luận về nợ nần",
@@ -123,28 +189,6 @@
       "published": "2026-07-15 20:41"
     },
     {
-      "id": "cr8n37",
-      "title": "Japan Trade Chief Says Hormuz Is Off-Limits as Hostilities Reignite",
-      "title_vi": "Giám đốc Thương mại Nhật Bản cho biết Hormuz bị giới hạn khi sự thù địch bùng phát",
-      "summary_vi": "Theo Masahiro Okafuji, chủ tịch Japan F, việc vận chuyển thương mại qua eo biển Hormuz một lần nữa bị hạn chế trong thời gian tới do các hành động thù địch và đe dọa mới đối với các tàu thuyền dẫn đến rủi ro tăng đột biến khi đi qua tuyến đường vận chuyển tàu chở dầu và container quan trọng.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-15_fkszppyyd4.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Trade-Chief-Says-Hormuz-Is-Off-Limits-as-Hostilities-Reignite.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-15 20:30"
-    },
-    {
-      "id": "heqr3y",
-      "title": "IMO Urges Shippers Not to Risk Strait of Hormuz Transits",
-      "title_vi": "IMO kêu gọi các chủ hàng không mạo hiểm qua eo biển Hormuz quá cảnh",
-      "summary_vi": "Người đứng đầu Tổ chức Hàng hải Quốc tế (IMO) của Liên hợp quốc cho biết hôm thứ Tư rằng việc di chuyển qua eo biển Hormuz vẫn còn quá nguy hiểm đối với các chủ tàu và người điều hành tàu nếu có thể vượt qua điểm thắt cổ chai. “Tôi sẽ duy trì thông điệp đề cao luật pháp quốc tế, vì tính",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-15_pvcgbgd4jt.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/IMO-Urges-Shippers-Not-to-Risk-Strait-of-Hormuz-Transits.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-15 19:30"
-    },
-    {
       "id": "sji605",
       "title": "Antofagasta banks on stronger second-half to hit copper goal",
       "title_vi": "Antofagasta nỗ lực hơn trong hiệp hai để đạt được mục tiêu đồng",
@@ -154,17 +198,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-15 18:59"
-    },
-    {
-      "id": "7lnbwu",
-      "title": "Ukraine Intensifies Attacks on Russian Tankers in the Black Sea",
-      "title_vi": "Ukraine tăng cường tấn công tàu chở dầu Nga ở Biển Đen",
-      "summary_vi": "Sau khi tấn công 116 tàu có liên kết với hạm đội bóng tối của Nga ở Biển Azov trong những tuần gần đây, quân đội Ukraine đang chuyển mục tiêu sang các tàu ở Biển Đen, tấn công bằng máy bay không người lái lên tới 20 tàu chỉ trong đêm thứ Tư. Lực lượng Ukraine tấn công 17 tàu dầu liên kết với Nga",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-15_u3y0ol7xi1.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Intensifies-Attacks-on-Russian-Tankers-in-the-Black-Sea.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-15 18:00"
     },
     {
       "id": "74t7n3",
@@ -255,17 +288,6 @@
       "published": "2026-07-15 07:08"
     },
     {
-      "id": "1u25etq",
-      "title": "British Columbia issues environmental assessment for Vitreo&#8217;s $300M silica sand mine",
-      "title_vi": "British Columbia đưa ra đánh giá môi trường đối với mỏ cát silic trị giá 300 triệu USD của Vitreo",
-      "summary_vi": "EAO kết luận rằng dự án Angus sẽ không gây ra tác động tiêu cực đáng kể một khi các biện pháp giảm nhẹ và các điều kiện đề xuất được áp dụng.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-163731.png",
-      "link": "https://www.mining.com/british-columbia-issues-environmental-assessment-for-vitreos-300m-silica-sand-mine/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-15 06:39"
-    },
-    {
       "id": "yom9g4",
       "title": "Corn, Soybeans Slide While Wheat Rallies on Export Concerns: Cattle Melt Down",
       "title_vi": "Ngô, đậu nành trượt dốc trong khi lúa mì tăng do lo ngại xuất khẩu: Gia súc tan chảy",
@@ -299,28 +321,6 @@
       "published": "2026-07-15 03:43"
     },
     {
-      "id": "1ril1hf",
-      "title": "Almonty Industries, Global Tungsten expand offtake agreement",
-      "title_vi": "Almonty Industries, Global Vonfram mở rộng thỏa thuận bao tiêu",
-      "summary_vi": "Kéo dài thời gian tập trung vonfram được sản xuất từ ​​mỏ Sangdong ở Hàn Quốc thêm sáu năm.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/Sangdon-mine.jpg",
-      "link": "https://www.mining.com/almonty-industries-global-tungsten-expand-offtake-agreement/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-15 03:43"
-    },
-    {
-      "id": "1qq61p9",
-      "title": "Gold gains over 2% after soft U.S. inflation data - Honolulu Star-Advertiser",
-      "title_vi": "Vàng tăng hơn 2% sau dữ liệu lạm phát yếu của Mỹ - Honolulu Star-Advertiser",
-      "summary_vi": "Vàng đã tăng hơn 2% hôm nay sau khi dữ liệu lạm phát yếu hơn dự kiến ​​làm tăng hy vọng Cục Dự trữ Liên bang Hoa Kỳ sẽ áp dụng lập trường ít diều hâu hơn.",
-      "image": "https://www.staradvertiser.com/wp-content/uploads/2023/02/Star-Advertiser-thumbnail-image.jpg",
-      "link": "https://www.staradvertiser.com/2026/07/14/breaking-news/gold-gains-over-2-after-soft-u-s-inflation-data/",
-      "source": "Honolulu Star-Advertiser",
-      "category": "metal",
-      "published": "2026-07-15 03:39"
-    },
-    {
       "id": "6shp73",
       "title": "Silver Price Outlook July 2026: Two Catalysts, One Setup",
       "title_vi": "Triển vọng giá bạc tháng 7 năm 2026: Hai chất xúc tác, một thiết lập",
@@ -341,17 +341,6 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "energy",
       "published": "2026-07-15 02:54"
-    },
-    {
-      "id": "dkit9i",
-      "title": "Alsym Energy, ERITY sign 9 GWh sodium-ion battery deal for mining sector",
-      "title_vi": "Alsym Energy, ERITY ký thỏa thuận sản xuất pin natri-ion 9 GWh cho lĩnh vực khai thác mỏ",
-      "summary_vi": "Các công ty cho biết thỏa thuận này là thỏa thuận pin natri-ion lớn nhất được biết đến cho đến nay trong ngành khai thác mỏ toàn cầu.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/AdobeStock_1670353596-scaled-e1768488193378.jpeg",
-      "link": "https://www.mining.com/alsym-energy-erity-sign-9-gwh-sodium-ion-battery-agreement-for-mining-sector/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-15 02:38"
     },
     {
       "id": "1pggoj6",
@@ -550,6 +539,17 @@
       "source": "RFD-TV",
       "category": "agri",
       "published": "2026-07-14 02:02"
+    },
+    {
+      "id": "zf99r7",
+      "title": "Cocoa Prices Slump on Abundant Ivory Coast Supplies",
+      "title_vi": "Giá ca cao sụt giảm do nguồn cung dồi dào ở Bờ Biển Ngà",
+      "summary_vi": "Ca cao ICE NY tháng 9 (CCU26) vào thứ Hai đóng cửa ở mức giảm -223 (-3,68%) và ca cao ICE London #7 (CAU26) tháng 9 đóng cửa ở mức -149 (-3,31%). Giá ca cao giảm mạnh vào thứ Hai trong phiên thứ hai, trong bối cảnh chuyển giao âm từ thứ Sáu tuần trước, khi tin tức giao hàng ở Bờ Biển Ngà làm giảm bớt lo ngại về nguồn cung…",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://es.tradingview.com/news/barchart:cb14bec7a094b:0-cocoa-prices-slump-on-abundant-ivory-coast-supplies/",
+      "source": "TradingView",
+      "category": "soft",
+      "published": "2026-07-14 01:26"
     }
   ]
 }

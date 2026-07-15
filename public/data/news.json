@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-15 22:55",
+  "updated_at": "2026-07-15 23:01",
   "items": [
+    {
+      "id": "13i4wpf",
+      "title": "PJM Auction Comes Up 6.8 Gigawatts Short As Data Centers Devour Power",
+      "title_vi": "Cuộc đấu giá PJM thiếu 6,8 Gigawatt khi các trung tâm dữ liệu ngốn điện",
+      "summary_vi": "Lưới điện lớn nhất của Hoa Kỳ đã không thể đảm bảo đủ cam kết cung cấp trong tương lai nhằm đảm bảo độ tin cậy trong tương lai trong bối cảnh nhu cầu trung tâm dữ liệu bùng nổ lịch sử. PJM Interconnection, lưới điện lớn nhất Hoa Kỳ (Tổ chức truyền tải khu vực), phục vụ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-15_szkhrboxq4.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/PJM-Auction-Comes-Up-68-Gigawatts-Short-As-Data-Centers-Devour-Power.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-15 23:00"
+    },
     {
       "id": "46vvqf",
       "title": "Mining companies are on their own in the Sahel, says risk analyst",
@@ -134,6 +145,17 @@
       "published": "2026-07-15 17:58"
     },
     {
+      "id": "xrgy2l",
+      "title": "First Thing Today | Surging wheat prices lead grain rally overnight",
+      "title_vi": "Điều đầu tiên hôm nay | Giá lúa mì tăng khiến ngũ cốc tăng qua đêm",
+      "summary_vi": "Hệ thống áp cao mạnh bất thường ngừng hoạt động trên đồng bằng Bắc Bộ",
+      "image": "https://assets.farmjournal.com/dims4/default/5ab490b/2147483647/strip/true/crop/2500x1406+0+189/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2F85%2F60%2F624ec10049ea9aeddb947b528f60%2Fprofarmer-first-thing-today.jpg",
+      "link": "https://www.profarmer.com/news/first-thing-today/first-thing-today-surging-wheat-prices-lead-grains-rallies-overnight",
+      "source": "Pro Farmer",
+      "category": "agri",
+      "published": "2026-07-15 17:50"
+    },
+    {
       "id": "13vvs01",
       "title": "Gold weakens as higher oil prices reinforce expectations for elevated U.S. interest rates",
       "title_vi": "Vàng suy yếu khi giá dầu tăng củng cố kỳ vọng về lãi suất tăng của Mỹ",
@@ -165,17 +187,6 @@
       "source": "FOREX.com",
       "category": "metal",
       "published": "2026-07-15 16:51"
-    },
-    {
-      "id": "bmpudg",
-      "title": "Brent Futures Flip to Backwardation as Middle East Supply Risks Return",
-      "title_vi": "Giá dầu Brent tương lai chuyển sang trạng thái dự phòng khi rủi ro nguồn cung ở Trung Đông quay trở lại",
-      "summary_vi": "Đường cong giá dầu thô Brent tương lai chuyển sang trạng thái lạc hậu trong tuần này, báo hiệu kỳ vọng về nguồn cung nhanh chóng thắt chặt lần đầu tiên trong một tháng, khi thị trường bắt đầu định giá do tình trạng thù địch mới ở Trung Đông, sự sụt giảm lưu thông tàu chở dầu qua eo biển Hormuz và",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-15_vzfxi0z32h.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Futures-Flip-to-Backwardation-as-Middle-East-Supply-Risks-Return.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-15 16:50"
     },
     {
       "id": "1ukp0bw",
@@ -539,17 +550,6 @@
       "source": "inc.com",
       "category": "soft",
       "published": "2026-07-13 23:45"
-    },
-    {
-      "id": "u3pxv4",
-      "title": "Cocoa’s Uneven Demand Recovery Runs Into Fresh Price Volatility",
-      "title_vi": "Sự phục hồi nhu cầu không đồng đều của ca cao dẫn đến biến động giá mới",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-13/cocoa-s-uneven-demand-recovery-runs-into-fresh-price-volatility",
-      "source": "Bloomberg.com",
-      "category": "soft",
-      "published": "2026-07-13 22:58"
     }
   ]
 }

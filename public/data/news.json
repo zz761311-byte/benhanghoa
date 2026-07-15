@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15 08:00",
+  "updated_at": "2026-07-15 09:00",
   "items": [
     {
       "id": "1otsenq",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-15 05:00"
+    },
+    {
+      "id": "1h2s9ww",
+      "title": "Texas wheat: More problems than bright spots this year",
+      "title_vi": "Lúa mì Texas: Nhiều vấn đề hơn điểm sáng năm nay",
+      "summary_vi": "Mùa lúa mì Texas 2025-2026 được đặc trưng bởi những thách thức từ hạn hán, căng thẳng nhiệt độ và các vấn đề về sâu bệnh trên khắp tiểu bang.",
+      "image": "https://media.agrilifetoday.tamu.edu/2026/07/20260519_Wheat_Variety_Testing_HH-5.jpg",
+      "link": "https://agrilifetoday.tamu.edu/2026/07/14/texas-wheat-more-problems-than-bright-spots-this-year/",
+      "source": "AgriLife Today",
+      "category": "agri",
+      "published": "2026-07-15 04:17"
     },
     {
       "id": "1am055a",
@@ -539,17 +550,6 @@
       "source": "Brave New Coin",
       "category": "metal",
       "published": "2026-07-11 15:50"
-    },
-    {
-      "id": "1ss33r8",
-      "title": "Fuel markets flash supply crunch despite calmer oil prices",
-      "title_vi": "Thị trường nhiên liệu bùng nổ nguồn cung mặc dù giá dầu bình ổn hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/fuel-markets-flash-supply-crunch-despite-calmer-oil-prices-2026-07-09/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-07-11 12:37"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15 18:01",
+  "updated_at": "2026-07-15 19:01",
   "items": [
     {
       "id": "7lnbwu",
@@ -244,6 +244,17 @@
       "published": "2026-07-15 00:57"
     },
     {
+      "id": "1sbrypf",
+      "title": "Oil prices jump as US-Iran conflict escalates again",
+      "title_vi": "Giá dầu tăng vọt khi xung đột Mỹ-Iran leo thang trở lại",
+      "summary_vi": "Giá dầu tăng vọt khi xung đột giữa Mỹ và Iran nóng lên trở lại. Dầu thô WTI chuẩn của Mỹ được giao dịch ở mức khoảng 79 USD/thùng vào thứ Ba, tăng từ mức khoảng 74 USD/thùng kể từ…",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AP26194329729132-e1784028994128.jpg?w=1280",
+      "link": "https://thehill.com/policy/energy-environment/5967770-strait-of-hormuz-oil-prices-iran/",
+      "source": "The Hill",
+      "category": "energy",
+      "published": "2026-07-15 00:31"
+    },
+    {
       "id": "z1zalq",
       "title": "Nasdaq rebounds as cooling US inflation weighs on dollar",
       "title_vi": "Nasdaq phục hồi khi lạm phát của Mỹ hạ nhiệt đè nặng lên đồng đô la",
@@ -299,17 +310,6 @@
       "published": "2026-07-14 19:03"
     },
     {
-      "id": "1lda9hd",
-      "title": "Oil price jumps as US-Iran clashes raise odds of interest rate rises",
-      "title_vi": "Giá dầu tăng vọt khi xung đột Mỹ-Iran làm tăng khả năng tăng lãi suất",
-      "summary_vi": "Giá năng lượng sau đó ổn định sau khi Trump từ bỏ kế hoạch đánh thuế 20% đối với giao thông qua eo biển Hormuz",
-      "image": "https://i.guim.co.uk/img/media/e6c7ce469c8590ceb99cf6b22a1645c9d0dd0d6f/263_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32086fad2a94bb0ab9877dbaaa1a85cd",
-      "link": "https://www.theguardian.com/business/2026/jul/14/oil-price-gas-rise-us-iran-interest-rates-stock-markets",
-      "source": "The Guardian",
-      "category": "energy",
-      "published": "2026-07-14 18:21"
-    },
-    {
       "id": "1k2x25q",
       "title": "Accidental stimulus: the economy's tariff refund cushion",
       "title_vi": "Kích thích ngẫu nhiên: đệm hoàn thuế của nền kinh tế",
@@ -330,17 +330,6 @@
       "source": "Future Market Insights",
       "category": "soft",
       "published": "2026-07-14 13:57"
-    },
-    {
-      "id": "1r8d6oc",
-      "title": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook",
-      "title_vi": "Giá dầu đạt mức cao nhất trong 1 tháng khi các cuộc tấn công của Mỹ-Iran làm mờ triển vọng eo biển Hormuz",
-      "summary_vi": "Dầu thô Brent gần 85 USD/thùng trong bối cảnh căng thẳng giữa Washington và Tehran gia tăng.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26167496323276-1783994234.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook",
-      "source": "Al Jazeera",
-      "category": "energy",
-      "published": "2026-07-14 10:43"
     },
     {
       "id": "1sw6yg6",
@@ -473,6 +462,17 @@
       "source": "inc.com",
       "category": "soft",
       "published": "2026-07-13 23:45"
+    },
+    {
+      "id": "u3pxv4",
+      "title": "Cocoa’s Uneven Demand Recovery Runs Into Fresh Price Volatility",
+      "title_vi": "Sự phục hồi nhu cầu không đồng đều của ca cao dẫn đến biến động giá mới",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-13/cocoa-s-uneven-demand-recovery-runs-into-fresh-price-volatility",
+      "source": "Bloomberg.com",
+      "category": "soft",
+      "published": "2026-07-13 22:58"
     },
     {
       "id": "1qvylb8",

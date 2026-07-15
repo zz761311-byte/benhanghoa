@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-15 10:00",
+  "updated_at": "2026-07-15 10:40",
   "items": [
+    {
+      "id": "nh3wyh",
+      "title": "Dollar struggles as softer inflation dims Fed hike bets",
+      "title_vi": "Đồng đô la gặp khó khăn khi lạm phát giảm làm giảm mức đặt cược tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/africa/dollar-struggles-softer-inflation-dims-fed-hike-bets-2026-07-15/",
+      "source": "Reuters",
+      "category": "macro",
+      "published": "2026-07-15 08:51"
+    },
     {
       "id": "1blwjyx",
       "title": "Rio Tinto Iron Ore Shipments Rise; Copper Cost Guidance Lowered",
@@ -343,6 +354,17 @@
       "published": "2026-07-14 03:19"
     },
     {
+      "id": "1qh7wle",
+      "title": "Russian Energy Is Now at Ukraine’s Mercy",
+      "title_vi": "Năng lượng Nga đang nằm trong tay Ukraine",
+      "summary_vi": "Cuộc tấn công bằng máy bay không người lái của Kyiv nhằm vào các cơ sở dầu mỏ của Nga đã đạt được mục tiêu thứ sáu.",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/07/GettyImages-2281563554.jpg",
+      "link": "https://foreignpolicy.com/2026/07/13/ukraine-drone-strike-russia-energy-oil-refinery-putin/",
+      "source": "Foreign Policy",
+      "category": "energy",
+      "published": "2026-07-14 03:12"
+    },
+    {
       "id": "pl4jkb",
       "title": "U.S. Wheat Production Forecast Lowest Since 1970 Crop - RFD-TV",
       "title_vi": "Dự báo sản lượng lúa mì của Mỹ thấp nhất kể từ vụ mùa 1970 - RFD-TV",
@@ -528,28 +550,6 @@
       "source": "Outlook Newspapers",
       "category": "soft",
       "published": "2026-07-12 10:32"
-    },
-    {
-      "id": "1gb78vi",
-      "title": "First Majestic Silver (TSX:AG) Appoints CFO As 2026 Production Outlook Jumps",
-      "title_vi": "First Majestic Silver (TSX:AG) bổ nhiệm giám đốc tài chính khi triển vọng sản xuất năm 2026 tăng vọt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-majestic-silver-tsx-ag-170717300.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-07-12 00:07"
-    },
-    {
-      "id": "oo7php",
-      "title": "Oil demand is falling, and crude prices are down. But here's why gasoline, diesel are still costly",
-      "title_vi": "Nhu cầu dầu đang giảm và giá dầu thô giảm. Nhưng đây là lý do xăng, dầu diesel vẫn đắt",
-      "summary_vi": "Ngoại lệ chính dẫn đến sự sụt giảm trong việc sử dụng dầu trên toàn cầu là ở Mỹ, nơi việc sử dụng xăng tăng lên trong quý 2 năm 2026.",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26181385886757-e1783780069697.jpg?resize=1200,600",
-      "link": "https://fortune.com/2026/07/11/global-oil-demand-crude-prices-gasoline-diesel-refined-products-inflation/",
-      "source": "Fortune",
-      "category": "energy",
-      "published": "2026-07-11 21:35"
     }
   ]
 }

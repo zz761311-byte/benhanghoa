@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-15 09:00",
+  "updated_at": "2026-07-15 10:00",
   "items": [
+    {
+      "id": "1blwjyx",
+      "title": "Rio Tinto Iron Ore Shipments Rise; Copper Cost Guidance Lowered",
+      "title_vi": "Xuất khẩu quặng sắt Rio Tinto tăng; Hướng dẫn chi phí đồng giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/rio-tinto-iron-ore-shipments-rise-copper-cost-guidance-lowered-53145661",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-07-15 07:08"
+    },
     {
       "id": "1otsenq",
       "title": "The Next Oil Rally May Depend On China, Not The Middle East",
@@ -376,6 +387,17 @@
       "published": "2026-07-14 00:59"
     },
     {
+      "id": "ory05y",
+      "title": "Coffee Prices Are Skyrocketing—but an Analyst Says Consumers Are Missing the Real Culprit",
+      "title_vi": "Giá cà phê đang tăng vọt nhưng một nhà phân tích cho biết người tiêu dùng đang bỏ lỡ thủ phạm thực sự",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.inc.com/amaya-nichole/coffee-prices-skyrocketing-analyst-says-consumers-missing-real-culprit/91371234",
+      "source": "inc.com",
+      "category": "soft",
+      "published": "2026-07-13 23:45"
+    },
+    {
       "id": "47gyge",
       "title": "Platinum and Palladium Forecast: Platinum Eyes $1,500 as Palladium Tests Key Support",
       "title_vi": "Dự báo bạch kim và Palladium: Platinum nhắm tới 1.500 USD khi thử nghiệm Palladium Hỗ trợ chính",
@@ -528,28 +550,6 @@
       "source": "Fortune",
       "category": "energy",
       "published": "2026-07-11 21:35"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "(Reuters) – Khí đốt tự nhiên chạm đến hầu hết mọi ngóc ngách của nền kinh tế Hoa Kỳ, cung cấp nhiên liệu cho các nhà máy điện, nhà cửa, nhà máy và lĩnh vực xuất khẩu LNG đang bùng nổ. Nhưng nguồn cung cần thiết để đáp ứng tất cả những mục đích sử dụng đó lại đến từ một mảnh đất đá phiến ngày càng hẹp của Mỹ. Sự không phù hợp này giữa một nhóm người tiêu dùng ngày càng mở rộng…",
-      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Flame-1200x810-1.jpg",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-07-11 19:09"
-    },
-    {
-      "id": "zc5fjg",
-      "title": "Palladium Price Analysis Shows Bearish Pressure as Falling Wedge Resistance Holds",
-      "title_vi": "Phân tích giá Palladium cho thấy áp lực giảm giá khi mức kháng cự nêm giảm được giữ nguyên",
-      "summary_vi": "Palladium một lần nữa chịu áp lực và không thể thoát ra khỏi đường xu hướng kháng cự hình nêm giảm, với hành động giá cho thấy phe gấu đã nắm quyền kiểm soát.",
-      "image": "https://bravenewcoin.com/wp-content/uploads/2026/07/Bnc-Jul-11-146.jpg",
-      "link": "https://bravenewcoin.com/insights/palladium-price-analysis-shows-bearish-pressure-as-falling-wedge-resistance-holds",
-      "source": "Brave New Coin",
-      "category": "metal",
-      "published": "2026-07-11 15:50"
     }
   ]
 }

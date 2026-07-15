@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16 06:01",
+  "updated_at": "2026-07-16 06:15",
   "items": [
     {
       "id": "rm382i",
@@ -178,6 +178,17 @@
       "published": "2026-07-15 22:51"
     },
     {
+      "id": "in7cx",
+      "title": "Copper is shadowing the AI hyperscaler stocks — but wait for a dip before buying",
+      "title_vi": "Đồng đang theo dõi các cổ phiếu siêu quy mô AI - nhưng hãy chờ giá giảm trước khi mua",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.marketwatch.com/story/copper-is-shadowing-the-hyperscaler-stocks-but-wait-for-a-dip-before-buying-8fe7adcc",
+      "source": "MarketWatch",
+      "category": "metal",
+      "published": "2026-07-15 22:32"
+    },
+    {
       "id": "18a44wd",
       "title": "It’s Time to Buy Commodities, This Pro Says. Why Copper Could Be a Standout.",
       "title_vi": "Đã đến lúc mua hàng hóa, chuyên gia này cho biết. Tại sao đồng có thể nổi bật",
@@ -198,6 +209,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-07-15 21:43"
+    },
+    {
+      "id": "1rz2lkz",
+      "title": "Ukraine Strikes Russia’s Central Nervous System",
+      "title_vi": "Ukraine tấn công hệ thần kinh trung ương của Nga",
+      "summary_vi": "Chỉ có nỗi đau mới có thể thuyết phục được Nga xem xét lại cuộc chiến tranh xâm lược của mình. Ukraine có thể đã tìm ra cách.",
+      "image": "https://cepa.org/wp-content/uploads/2023/06/2023-06-24T145540Z_714981523_RC2QP1A1LUNI_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-VORONEZH-FIRE-scaled.jpg",
+      "link": "https://cepa.org/article/ukraine-strikes-russias-central-nervous-system/",
+      "source": "Center for European Policy Analysis (CEPA)",
+      "category": "energy",
+      "published": "2026-07-15 21:28"
     },
     {
       "id": "oim6zt",
@@ -528,28 +550,6 @@
       "source": "CNBC",
       "category": "macro",
       "published": "2026-07-14 09:12"
-    },
-    {
-      "id": "1usvtvt",
-      "title": "Crude oil, natural gas prices begin to surge in Alaska as Iranian tensions flare",
-      "title_vi": "Giá dầu thô, khí tự nhiên bắt đầu tăng ở Alaska khi căng thẳng Iran bùng phát",
-      "summary_vi": "Giá dầu thô và khí tự nhiên ở Alaska đang bắt đầu tăng, Bộ Doanh thu báo cáo về giá hàng ngày hôm thứ Ba.",
-      "image": "https://gray-ktuu-prod.gtv-cdn.com/resizer/v2/LB6SCBFTHFCYLCB6LPAMIPAZB4.jpg?auth=32e25261c937c8305a28cba0c57ed8f852a6d33790be8a2b34b08bb90f02dcb9&width=1200&height=600&smart=true",
-      "link": "https://www.alaskasnewssource.com/2026/07/13/president-reinstated-blockade-strait-hormuz-what-does-that-mean-alaska/",
-      "source": "Alaska's News Source",
-      "category": "energy",
-      "published": "2026-07-14 06:56"
-    },
-    {
-      "id": "1g3384y",
-      "title": "Commonplace Coffee opens Shadyside location",
-      "title_vi": "Commonplace Coffee mở địa điểm Shadyside",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.cbsnews.com/pittsburgh/video/commonplace-coffee-opens-shadyside-location/",
-      "source": "CBS News",
-      "category": "soft",
-      "published": "2026-07-14 03:39"
     }
   ]
 }

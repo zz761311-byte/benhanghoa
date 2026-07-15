@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15 21:14",
+  "updated_at": "2026-07-15 22:01",
   "items": [
     {
       "id": "ilbbl6",
@@ -165,6 +165,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-15 06:39"
+    },
+    {
+      "id": "yom9g4",
+      "title": "Corn, Soybeans Slide While Wheat Rallies on Export Concerns: Cattle Melt Down",
+      "title_vi": "Ngô, đậu nành trượt dốc trong khi lúa mì tăng do lo ngại xuất khẩu: Gia súc tan chảy",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/corn-soybeans-slide-while-wheat-rallies-export-concerns-cattle-melt-down",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-07-15 04:50"
     },
     {
       "id": "1h2s9ww",
@@ -539,17 +550,6 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-07-13 21:10"
-    },
-    {
-      "id": "1as6obh",
-      "title": "Silver Surged, Then Slumped, in the First Half of 2026. Here's My Prediction of What's Ahead for the Precious Metal.",
-      "title_vi": "Bạc tăng giá, sau đó sụt giảm trong nửa đầu năm 2026. Đây là dự đoán của tôi về những gì sắp xảy ra đối với kim loại quý.",
-      "summary_vi": "Giảm khoảng 50% so với mức cao nhất trong năm nay, bạc có thể đã chạm đáy.",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876413%2Fminer-holds-silver.jpg&w=1200&op=resize",
-      "link": "https://www.fool.com/investing/2026/07/13/silver-surged-then-slumped-in-the-first-half-of-20/",
-      "source": "The Motley Fool",
-      "category": "metal",
-      "published": "2026-07-13 20:43"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-17 00:43",
+  "updated_at": "2026-07-17 01:01",
   "items": [
+    {
+      "id": "hnkiee",
+      "title": "Government Takes Control of British Steel, Citing National Interest",
+      "title_vi": "Chính phủ nắm quyền kiểm soát thép của Anh, trích dẫn lợi ích quốc gia",
+      "summary_vi": "Chính phủ đã đưa British Steel thuộc quyền sở hữu nhà nước sau khi việc quốc hữu hóa nhà sản xuất thép này vượt qua bài kiểm tra lợi ích công cộng. Thủ tướng cho biết động thái này “đảm bảo tương lai của ngành sản xuất thép của Anh” và tuân theo việc ban hành luật mới giúp việc này trở nên dễ dàng hơn.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-16_uzt3eo20xa.jpg",
+      "link": "https://oilprice.com/Metals/Commodities/Government-Takes-Control-of-British-Steel-Citing-National-Interest.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-07-17 01:00"
+    },
     {
       "id": "1a52z9h",
       "title": "EU Sets Target To Double Electrification Rate, Cut Oil & Gas Use",
@@ -99,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-16 21:00"
-    },
-    {
-      "id": "1hxmop5",
-      "title": "China’s Critical Minerals Grip Puts $6.5 Trillion of Global Industry at Risk",
-      "title_vi": "Sự kiểm soát khoáng sản quan trọng của Trung Quốc khiến 6,5 nghìn tỷ USD ngành công nghiệp toàn cầu gặp rủi ro",
-      "summary_vi": "Cơ quan Năng lượng Quốc tế cho biết hôm thứ Năm rằng thị trường khoáng sản quan trọng toàn cầu vẫn tập trung cao độ và các mối đe dọa mới đối với an ninh nguồn cung đã xuất hiện trong những tháng gần đây khi Trung Quốc hạn chế xuất khẩu một số nguyên tố đất hiếm. Chính phủ Trung Quốc giới thiệu kinh nghiệm lớn",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-16_s1b6rgunas.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Critical-Minerals-Grip-Puts-65-Trillion-of-Global-Industry-at-Risk.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-16 20:30"
     },
     {
       "id": "1ve4kn1",
@@ -508,6 +508,17 @@
       "published": "2026-07-15 16:51"
     },
     {
+      "id": "6ydzkc",
+      "title": "Europe’s Scramble for Gas Ahead of Winter Gets Harder",
+      "title_vi": "Cuộc tranh giành khí đốt của châu Âu trước mùa đông ngày càng khó khăn hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/europes-scramble-for-gas-ahead-of-winter-gets-harder-d970ba5f",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-07-15 16:17"
+    },
+    {
       "id": "sarqct",
       "title": "U.S. Gasoline Prices Could Hit $4 Per Gallon Within Days",
       "title_vi": "Giá xăng ở Mỹ có thể đạt 4 USD/gallon trong vài ngày tới",
@@ -530,26 +541,15 @@
       "published": "2026-07-15 14:38"
     },
     {
-      "id": "1m3y0l0",
-      "title": "Wheat futures gained as corn and soybeans retreated",
-      "title_vi": "Giá lúa mì kỳ hạn tăng do ngô và đậu nành giảm giá",
-      "summary_vi": "Giá lúa mì kỳ hạn tăng khi giá lúa mì Chicago tháng 12 tăng 9'2 để ổn định ở mức 659'6, dẫn đầu nhóm ngũ cốc trong khi giá ngô và đậu tương kỳ hạn giảm sau mức cao đầu tuần. Dữ liệu Tiến độ trồng trọt của USDA cho thấy xếp hạng từ tốt đến xuất sắc ở mức 68% đối với ngô và 65% đối với đậu nành, cả hai đều phản ánh mức cải thiện 1% hàng tuần. Trong khi đó, chúng tôi",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/wheat-futures-gained-as-corn-and-soybeans-retreated-7-14-26.jpg",
-      "link": "https://www.cmegroup.com/videos/2026/07/14/wheat-futures-gained-as-corn-and-soybeans-retreated-7-14-26.html",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-07-15 10:40"
-    },
-    {
-      "id": "1mjli9j",
-      "title": "Dollar struggles after softer inflation blunts Fed hike bets",
-      "title_vi": "Đồng đô la gặp khó khăn sau khi lạm phát giảm làm giảm mức đặt cược tăng lãi suất của Fed",
-      "summary_vi": "Bởi Samuel Indyk và Jiaxing Li LONDON, ngày 15 tháng 7 (Reuters) - Đồng đô la ổn định vào thứ Tư sau khi giảm một ngày trước đó do dữ liệu lạm phát yếu hơn dự kiến ​​đã hạn chế đặt cược vào việc tăng lãi suất trong thời gian ngắn từ Cục Dự trữ Liên bang, bất chấp những lo ngại rằng...",
-      "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-07/15/2026-07-15T015314Z_2_LYNXMPEM6E03Y_RTROPTP_3_USA-TRUMP-TARIFFS-INDONESIA.JPG",
-      "link": "https://kfgo.com/2026/07/14/dollar-struggles-as-softer-inflation-dims-fed-hike-bets/",
-      "source": "The Mighty 790 KFGO",
-      "category": "macro",
-      "published": "2026-07-15 10:21"
+      "id": "1blwjyx",
+      "title": "Rio Tinto Iron Ore Shipments Rise; Copper Cost Guidance Lowered",
+      "title_vi": "Xuất khẩu quặng sắt Rio Tinto tăng; Hướng dẫn chi phí đồng giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/rio-tinto-iron-ore-shipments-rise-copper-cost-guidance-lowered-53145661",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-07-15 10:45"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16 19:11",
+  "updated_at": "2026-07-16 20:01",
   "items": [
     {
       "id": "rw9n02",
@@ -409,6 +409,17 @@
       "published": "2026-07-15 16:51"
     },
     {
+      "id": "z8wxcc",
+      "title": "The ICO reports coffee prices rebound from lows in early June",
+      "title_vi": "ICO báo cáo giá cà phê phục hồi từ mức thấp vào đầu tháng 6",
+      "summary_vi": "ICO tiết lộ rằng I-CIP trong tháng đã tăng do lo ngại về Super El Niño và lượng mưa làm chậm vụ thu hoạch ở Brazil.",
+      "image": "https://www.teaandcoffee.net/wp-content/uploads/2022-Colombia-Credit-Those-Coffee-People-0030-1-scaled.jpg",
+      "link": "https://www.teaandcoffee.net/news/39630/the-ico-reports-coffee-prices-rebound-from-lows-in-early-june/",
+      "source": "Tea & Coffee Trade Journal",
+      "category": "soft",
+      "published": "2026-07-15 14:38"
+    },
+    {
       "id": "1ukp0bw",
       "title": "Gold and Silver Price Forecast: Softer CPI Fuels Rebound as Oil Raises Inflation Risks",
       "title_vi": "Dự báo giá vàng và bạc: CPI nhẹ hơn thúc đẩy sự phục hồi khi dầu làm tăng rủi ro lạm phát",
@@ -539,17 +550,6 @@
       "source": "The Hill",
       "category": "energy",
       "published": "2026-07-15 00:31"
-    },
-    {
-      "id": "gkalpm",
-      "title": "Wallet check: Gas prices are cooling, but inflation still stings",
-      "title_vi": "Kiểm tra ví: Giá xăng đang hạ nhiệt, nhưng lạm phát vẫn tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/economy/article/wallet-check-gas-prices-are-cooling-but-inflation-still-stings-174715796.html",
-      "source": "Yahoo Finance",
-      "category": "energy",
-      "published": "2026-07-14 23:51"
     }
   ]
 }

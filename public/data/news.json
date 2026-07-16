@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16 07:13",
+  "updated_at": "2026-07-16 08:01",
   "items": [
     {
       "id": "1sm7edh",
@@ -88,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-16 03:00"
+    },
+    {
+      "id": "1gxxb4b",
+      "title": "New Study Rates Potential of Coffee as Cash Crop for Florida",
+      "title_vi": "Tỷ lệ nghiên cứu mới về tiềm năng coi cà phê là cây trồng thu lợi nhuận ở Florida",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.growingproduce.com/production/new-study-rates-potential-of-coffee-as-cash-crop-for-florida/",
+      "source": "Growing Produce",
+      "category": "soft",
+      "published": "2026-07-16 02:45"
     },
     {
       "id": "1jpe12k",
@@ -539,17 +550,6 @@
       "source": "czapp.com",
       "category": "soft",
       "published": "2026-07-14 14:30"
-    },
-    {
-      "id": "1sw6yg6",
-      "title": "Palladium Hydroxide Market Forecast Points Higher Toward 2035, Driven by Electronics Miniaturization",
-      "title_vi": "Dự báo thị trường paladi hydroxit sẽ cao hơn vào năm 2035, nhờ thu nhỏ thiết bị điện tử",
-      "summary_vi": "Phân tích thị trường Palladium Hydroxide thế giới giai đoạn 2026-2035: tăng trưởng nhờ thu nhỏ PCB, nút bán dẫn và đa dạng hóa nguồn cung. CAGR và những người chơi chính.",
-      "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-palladium-hydroxide-market-analysis-forecast-size-trends-and-insights-1783999325.webp",
-      "link": "https://www.indexbox.io/blog/palladium-hydroxide-market-forecast-points-higher-toward-2035-driven-by-electronics-miniaturization/",
-      "source": "IndexBox",
-      "category": "metal",
-      "published": "2026-07-14 10:21"
     }
   ]
 }

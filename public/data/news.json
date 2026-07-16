@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-16 14:01",
+  "updated_at": "2026-07-16 15:01",
   "items": [
+    {
+      "id": "b8386f",
+      "title": "IEA Warns World Has Just Weeks to Avoid Hormuz Economic Shock",
+      "title_vi": "IEA cảnh báo thế giới chỉ còn vài tuần để tránh cú sốc kinh tế Hormuz",
+      "summary_vi": "Theo Fatih Birol, Giám đốc Điều hành của Cơ quan Năng lượng Quốc tế (IEA), thế giới chỉ còn vài tuần nữa trước khi phải gánh chịu thiệt hại kinh tế do tình trạng leo thang tái leo thang ở Trung Đông và việc dừng vận chuyển tàu chở dầu qua eo biển Hormuz mới. Tình hình ở",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-16_5n8h6xntrl.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-World-Has-Just-Weeks-to-Avoid-Hormuz-Economic-Shock.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-07-16 14:30"
+    },
+    {
+      "id": "fhj32k",
+      "title": "Vale CFO Sees Strong Demand for Iron Ore, Copper; But Iran War Looms as Risk",
+      "title_vi": "CFO của Vale nhận thấy nhu cầu mạnh mẽ về quặng sắt và đồng; Nhưng chiến tranh Iran hiện ra như một rủi ro",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barrons.com/articles/vale-cfo-iron-ore-copper-iran-war-china-supply-demand-42556873",
+      "source": "Barron's",
+      "category": "metal",
+      "published": "2026-07-16 13:15"
+    },
     {
       "id": "biejg",
       "title": "U.S. Strikes Iran-Linked Tanker Near Kharg Island",
@@ -121,17 +143,6 @@
       "source": "Mining.com",
       "category": "energy",
       "published": "2026-07-16 02:24"
-    },
-    {
-      "id": "1ibvtpl",
-      "title": "World-First Floating Wind Technology to Help Power Oil Rigs",
-      "title_vi": "Công nghệ gió nổi đầu tiên trên thế giới giúp cung cấp năng lượng cho các giàn khoan dầu",
-      "summary_vi": "Không hiếm khi năng lượng gió và dầu khí được nhắc đến cùng một lúc. Trường hợp hiếm hoi liên quan đến một loại tuabin gió ngoài khơi mới được ra mắt ở Trung Quốc sẽ cung cấp năng lượng cho việc khai thác nhiên liệu hóa thạch bằng các giàn khoan dầu ngoài khơi. Được phát triển bởi Công ty Dầu khí Ngoài khơi Quốc gia Trung Quốc",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-15_8tqcwl2p7k.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/World-First-Floating-Wind-Technology-to-Help-Power-Oil-Rigs.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-16 02:00"
     },
     {
       "id": "fge4j8",
@@ -539,17 +550,6 @@
       "source": "Axios",
       "category": "macro",
       "published": "2026-07-14 15:49"
-    },
-    {
-      "id": "1c3m012",
-      "title": "US Sugar Market Awaits USTR Tariff Decision",
-      "title_vi": "Thị trường đường Hoa Kỳ đang chờ quyết định thuế quan của USTR",
-      "summary_vi": "Thị trường đường Hoa Kỳ đang chờ quyết định thuế quan của USTR",
-      "image": "https://www.czapp.com/wp-content/uploads/2026/07/4192f741-4607-4b13-b6f8-7265b3d85b03.jpg",
-      "link": "https://www.czapp.com/analyst-insights/us-sugar-market-awaits-ustr-tariff-decision/",
-      "source": "czapp.com",
-      "category": "soft",
-      "published": "2026-07-14 14:30"
     }
   ]
 }

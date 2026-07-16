@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17 04:01",
+  "updated_at": "2026-07-17 04:48",
   "items": [
     {
       "id": "1ppnsg5",
@@ -176,6 +176,17 @@
       "source": "Investing.com",
       "category": "macro",
       "published": "2026-07-16 15:14"
+    },
+    {
+      "id": "18knver",
+      "title": "Why is Impala Platinum (IMPUY) Catching the Eye of Quant Analysts",
+      "title_vi": "Tại sao Impala Platinum (IMPUY) lại lọt vào mắt xanh của các nhà phân tích định lượng",
+      "summary_vi": "Impala Platinum (IMPUY) đang thu hút các nhà phân tích định lượng với xếp hạng \"Rất nên mua\". Động lực giá tích cực và các điều chỉnh ước tính tăng lên, cùng với những cải tiến về hoạt động và sự thay đổi của thị trường, đang thu hút sự quan tâm.",
+      "image": "https://investgpt-test.oss-us-east-1.aliyuncs.com/blog/mini_pexels-photo-8442431.jpeg",
+      "link": "https://www.kavout.com/market-lens/why-is-impala-platinum-impuy-catching-the-eye-of-quant-analysts",
+      "source": "Kavout | AI",
+      "category": "metal",
+      "published": "2026-07-16 14:25"
     },
     {
       "id": "1lbaa7w",
@@ -539,17 +550,6 @@
       "source": "FOREX.com",
       "category": "metal",
       "published": "2026-07-15 16:51"
-    },
-    {
-      "id": "6ydzkc",
-      "title": "Europe’s Scramble for Gas Ahead of Winter Gets Harder",
-      "title_vi": "Cuộc tranh giành khí đốt của châu Âu trước mùa đông ngày càng khó khăn hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/europes-scramble-for-gas-ahead-of-winter-gets-harder-d970ba5f",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-07-15 16:17"
     }
   ]
 }

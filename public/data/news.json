@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16 23:01",
+  "updated_at": "2026-07-16 23:04",
   "items": [
     {
       "id": "xx4v8y",
@@ -20,7 +20,7 @@
       "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Instructs-Houthis-to-Prepare-Red-Sea-Shipping-Attacks.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-07-16 22:45"
     },
     {
@@ -134,6 +134,17 @@
       "published": "2026-07-16 13:15"
     },
     {
+      "id": "rj8165",
+      "title": "Russia and Ukraine strike vessels in Black Sea, wheat prices jump",
+      "title_vi": "Nga và Ukraine tấn công tàu ở Biển Đen, giá lúa mì tăng vọt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/aerospace-defense/russia-says-it-hits-military-targets-kyiv-ukrainian-ports-2026-07-16/",
+      "source": "Reuters",
+      "category": "agri",
+      "published": "2026-07-16 12:40"
+    },
+    {
       "id": "1au3x6k",
       "title": "[SMM PGM Express] ICE Benchmark Administration (IBA) officially assum",
       "title_vi": "[SMM PGM Express] Cơ quan quản lý điểm chuẩn ICE (IBA) chính thức thừa nhận",
@@ -242,6 +253,17 @@
       "source": "Mining.com",
       "category": "energy",
       "published": "2026-07-16 02:24"
+    },
+    {
+      "id": "1l90gk7",
+      "title": "Bank of America Now Sees Platinum Hitting $3,000 an Ounce by Q4 2026",
+      "title_vi": "Bank of America hiện thấy bạch kim đạt 3.000 USD/ounce vào quý 4 năm 2026",
+      "summary_vi": "Bank of America đã nâng mục tiêu giá của mình lên 3.000 USD/ounce đối với bạch kim và 2.200 USD đối với palađi vào quý 4 năm 2026, tăng mạnh so với dự báo hồi tháng 1. các",
+      "image": "https://startupfortune.com/wp-content/uploads/2026/07/sf-15772-1784141499423.jpg",
+      "link": "https://startupfortune.com/bank-of-america-now-sees-platinum-hitting-3000-an-ounce-by-q4-2026/",
+      "source": "Startup Fortune",
+      "category": "metal",
+      "published": "2026-07-16 01:51"
     },
     {
       "id": "1nd9bop",
@@ -528,28 +550,6 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-07-15 07:08"
-    },
-    {
-      "id": "esbycl",
-      "title": "Initial 2025 FSA Yields and ARC-CO for Corn, Soybeans, and Wheat",
-      "title_vi": "Sản lượng FSA ban đầu năm 2025 và ARC-CO đối với ngô, đậu nành và lúa mì",
-      "summary_vi": "Nick Paulson, Carl Zulauf, Henrique Monaco và Gary Schnitkey - Cơ quan Dịch vụ Nông nghiệp (FSA) của USDA đã công bố một số sản lượng cuối cùng của quận cho niên vụ 2025. Dựa trên ước tính mới nhất của USDA về giá trung bình của ngô và đậu nành trong năm tiếp thị 2025, sản lượng của quận cho thấy các khoản thanh toán ARC-CO sẽ",
-      "image": "https://farmdocdaily.illinois.edu/wp-content/uploads/2026/07/07142026_fig1-1024x576.png",
-      "link": "https://farmdocdaily.illinois.edu/2026/07/initial-2025-fsa-yields-and-arc-co-for-corn-soybeans-and-wheat.html",
-      "source": "farmdoc daily",
-      "category": "agri",
-      "published": "2026-07-15 06:38"
-    },
-    {
-      "id": "yom9g4",
-      "title": "Corn, Soybeans Slide While Wheat Rallies on Export Concerns: Cattle Melt Down",
-      "title_vi": "Ngô, đậu nành trượt dốc trong khi lúa mì tăng do lo ngại xuất khẩu: Gia súc tan chảy",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/corn-soybeans-slide-while-wheat-rallies-export-concerns-cattle-melt-down",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-07-15 04:50"
     }
   ]
 }

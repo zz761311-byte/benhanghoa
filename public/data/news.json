@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-17 18:00",
+  "updated_at": "2026-07-17 19:01",
   "items": [
+    {
+      "id": "ijqro4",
+      "title": "South Korea Bets on Red Sea Route as Hormuz Disruptions Persist",
+      "title_vi": "Hàn Quốc đặt cược vào tuyến đường Biển Đỏ khi tình trạng gián đoạn Hormuz vẫn tiếp diễn",
+      "summary_vi": "Kể từ khi chiến tranh Iran làm gián đoạn các chuyến hàng qua eo biển Hormuz vào đầu tháng 3, Hàn Quốc ngày càng đặt cược vào tuyến đường Biển Đỏ và nhà ga xuất khẩu Yanbu của Saudi để nạp dầu lên tàu chở dầu và vận chuyển đến châu Á. Trước khi chiến tranh Iran bắt đầu, Hàn Quốc phụ thuộc vào",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-17_4hqpnaf0oc.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Bets-on-Red-Sea-Route-as-Hormuz-Disruptions-Persist.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-17 18:30"
+    },
     {
       "id": "1bc7at9",
       "title": "Japan&#039;s LNG Giant Weighs U.S. IPO to Accelerate Global Expansion",
@@ -22,6 +33,17 @@
       "source": "Automotive News",
       "category": "macro",
       "published": "2026-07-17 17:00"
+    },
+    {
+      "id": "1re3tcb",
+      "title": "Gas Prices Will Stay Higher for Longer, Even if Oil Falls",
+      "title_vi": "Giá xăng sẽ cao hơn trong thời gian dài hơn, ngay cả khi dầu giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/gas-prices-will-stay-higher-for-longer-even-if-oil-falls-93b61566",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-07-17 16:30"
     },
     {
       "id": "p6yqci",
@@ -121,17 +143,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-17 06:00"
-    },
-    {
-      "id": "hzei2y",
-      "title": "India, South Africa To Boost Their Strategic Petroleum Reserves",
-      "title_vi": "Ấn Độ, Nam Phi tăng cường dự trữ dầu mỏ chiến lược",
-      "summary_vi": "Trở lại vào tháng 3, 32 quốc gia thành viên của Cơ quan Năng lượng Quốc tế (IEA) đã đồng ý giải phóng kỷ lục 400 triệu thùng dầu và các sản phẩm đã lọc từ kho dự trữ khẩn cấp của họ sau khi chiến tranh Iran làm gián đoạn dòng năng lượng toàn cầu và khiến giá dầu tăng vọt. U",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-16_zjxhuq5aax.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/India-South-Africa-To-Boost-Their-Strategic-Petroleum-Reserves.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-17 05:00"
     },
     {
       "id": "1qpxb14",
@@ -539,17 +550,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-15 22:51"
-    },
-    {
-      "id": "in7cx",
-      "title": "Copper is shadowing the AI hyperscaler stocks — but wait for a dip before buying",
-      "title_vi": "Đồng đang theo dõi các cổ phiếu siêu quy mô AI - nhưng hãy chờ giá giảm trước khi mua",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.marketwatch.com/story/copper-is-shadowing-the-hyperscaler-stocks-but-wait-for-a-dip-before-buying-8fe7adcc",
-      "source": "MarketWatch",
-      "category": "metal",
-      "published": "2026-07-15 22:32"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18 01:44",
+  "updated_at": "2026-07-18 02:00",
   "items": [
     {
       "id": "1lxgxj5",
@@ -132,6 +132,17 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-07-17 19:13"
+    },
+    {
+      "id": "343boy",
+      "title": "Russia roils global market for diesel after Ukraine attacks",
+      "title_vi": "Nga khuấy động thị trường dầu diesel toàn cầu sau vụ tấn công Ukraine",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.axios.com/2026/07/17/russia-diesel-oil-drones",
+      "source": "Axios",
+      "category": "energy",
+      "published": "2026-07-17 18:23"
     },
     {
       "id": "1w5gdz4",
@@ -539,17 +550,6 @@
       "source": "Russia Matters",
       "category": "energy",
       "published": "2026-07-16 03:25"
-    },
-    {
-      "id": "1gxxb4b",
-      "title": "New Study Rates Potential of Coffee as Cash Crop for Florida",
-      "title_vi": "Tỷ lệ nghiên cứu mới về tiềm năng coi cà phê là cây trồng thu lợi nhuận ở Florida",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.growingproduce.com/production/new-study-rates-potential-of-coffee-as-cash-crop-for-florida/",
-      "source": "Growing Produce",
-      "category": "soft",
-      "published": "2026-07-16 02:45"
     }
   ]
 }

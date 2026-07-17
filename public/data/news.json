@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18 04:36",
+  "updated_at": "2026-07-18 05:00",
   "items": [
     {
       "id": "15creoy",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-18 03:00"
+    },
+    {
+      "id": "fa3tug",
+      "title": "Crops Analysis | Wheat continues to notch gains on geopolitical tensions",
+      "title_vi": "Phân tích cây trồng | Lúa mì tiếp tục tăng do căng thẳng địa chính trị",
+      "summary_vi": "Ngày 17 tháng 7 năm 2026",
+      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
+      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-wheat-continues-gain-geopolitical-t",
+      "source": "Pro Farmer",
+      "category": "agri",
+      "published": "2026-07-18 02:58"
     },
     {
       "id": "1lxgxj5",
@@ -539,17 +550,6 @@
       "source": "Midland Reporter-Telegram",
       "category": "energy",
       "published": "2026-07-16 04:22"
-    },
-    {
-      "id": "16zbsnr",
-      "title": "Waning Heat in Forecast Sends Physical Natural Gas Prices Lower",
-      "title_vi": "Dự báo nhiệt độ suy yếu khiến giá khí đốt tự nhiên vật chất thấp hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/waning-heat-in-forecast-sends-physical-natural-gas-prices-lower/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-07-16 04:08"
     }
   ]
 }

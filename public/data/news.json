@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18 02:00",
+  "updated_at": "2026-07-18 02:52",
   "items": [
     {
       "id": "1lxgxj5",
@@ -321,6 +321,17 @@
       "published": "2026-07-16 22:20"
     },
     {
+      "id": "4yu0tb",
+      "title": "Nickel price hits three-week high on Indonesia supply risks, Fed view",
+      "title_vi": "Giá niken đạt mức cao nhất trong ba tuần do rủi ro nguồn cung ở Indonesia, quan điểm của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.mining.com/web/nickel-hits-three-week-high-on-indonesia-supply-risks-fed-view/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-16 21:52"
+    },
+    {
       "id": "bit74z",
       "title": "Gold and silver fall as Fed-rate relief fades after data - Kitco AM Report",
       "title_vi": "Vàng và bạc giảm khi Fed giảm lãi suất sau dữ liệu - Báo cáo Kitco AM",
@@ -464,6 +475,17 @@
       "published": "2026-07-16 10:58"
     },
     {
+      "id": "pt9qx3",
+      "title": "EEX CEGH VTP EGSI Natural Gas Weekend Futures (Jul 2026 W3) Trade Ideas — EEX:G8W3N2026",
+      "title_vi": "Ý tưởng giao dịch cuối tuần về khí đốt tự nhiên EEX CEGH VTP EGSI (Tháng 7 năm 2026 W3) - EEX:G8W3N2026",
+      "summary_vi": "Xem các ý tưởng đầu tư và giao dịch mới nhất cho Hợp đồng tương lai khí đốt tự nhiên cuối tuần EEX CEGH VTP EGSI (tháng 7 năm 2026 W3) từ các tác giả hàng đầu của chúng tôi. Họ chia sẻ ý kiến ​​về xu hướng giá và triển vọng kỹ thuật của thị trường.",
+      "image": "https://s3-symbol-logo.tradingview.com/natural-gas--600.png",
+      "link": "https://www.tradingview.com/symbols/EEX-G8W1!/ideas/page-5/?contract",
+      "source": "TradingView",
+      "category": "energy",
+      "published": "2026-07-16 10:35"
+    },
+    {
       "id": "1t7r8th",
       "title": "Dollar firms as US-Iran tensions renew oil price risk",
       "title_vi": "Đồng đô la tăng giá khi căng thẳng Mỹ-Iran làm gia tăng rủi ro về giá dầu",
@@ -528,28 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-07-16 04:08"
-    },
-    {
-      "id": "qqkpnw",
-      "title": "Sugar-Sweetened Beverages Tied to Increased Risk for Liver Cancer Subtypes",
-      "title_vi": "Đồ uống có đường làm tăng nguy cơ mắc các loại ung thư gan",
-      "summary_vi": "Dữ liệu mới liên kết việc tiêu thụ đồ uống có đường nhưng không được làm ngọt nhân tạo với nguy cơ mắc HCC và ICC cao hơn.",
-      "image": "https://cdn.physiciansweekly.com/wp-content/uploads/2026/07/iStock-2098434340-modified-aa60d402-2d76-44d8-8781-2dce2d21e1f8.jpg",
-      "link": "https://www.physiciansweekly.com/post/sugar-sweetened-beverages-tied-to-increased-risk-for-liver-cancer-subtypes",
-      "source": "Physician's Weekly",
-      "category": "soft",
-      "published": "2026-07-16 03:26"
-    },
-    {
-      "id": "1tb4fvf",
-      "title": "The Russia-Ukraine War Report Card, July 15, 2026",
-      "title_vi": "Thẻ Báo cáo Chiến tranh Nga-Ukraine, ngày 15 tháng 7 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-july-15-2026",
-      "source": "Russia Matters",
-      "category": "energy",
-      "published": "2026-07-16 03:25"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18 05:00",
+  "updated_at": "2026-07-18 05:34",
   "items": [
     {
       "id": "15creoy",
@@ -220,6 +220,17 @@
       "source": "EY",
       "category": "macro",
       "published": "2026-07-17 12:21"
+    },
+    {
+      "id": "8ktpx6",
+      "title": "US imposes new tariff on Brazil but exempts pig iron, rare earths",
+      "title_vi": "Mỹ áp thuế mới đối với Brazil nhưng miễn thuế gang, đất hiếm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/071626-us-imposes-new-tariff-on-brazil-but-exempts-pig-iron-rare-earths",
+      "source": "S&P Global",
+      "category": "macro",
+      "published": "2026-07-17 10:06"
     },
     {
       "id": "6gzjkh",
@@ -539,17 +550,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-16 05:43"
-    },
-    {
-      "id": "12t9cxc",
-      "title": "Why oil prices and gas prices can move in different directions - Midland Reporter-Telegram",
-      "title_vi": "Tại sao giá dầu và giá xăng có thể diễn biến theo các hướng khác nhau - Phóng viên Midland-Telegram",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.mrt.com/business/oil/article/why-crude-oil-gasoline-prices-differ-22346960.php",
-      "source": "Midland Reporter-Telegram",
-      "category": "energy",
-      "published": "2026-07-16 04:22"
     }
   ]
 }

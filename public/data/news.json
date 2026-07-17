@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17 19:38",
+  "updated_at": "2026-07-17 20:00",
   "items": [
     {
       "id": "orccij",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-17 16:30"
+    },
+    {
+      "id": "10c4d1i",
+      "title": "Soybean futures slip on milder weather outlook - CBOT",
+      "title_vi": "Giá đậu tương kỳ hạn giảm do triển vọng thời tiết ôn hòa hơn - CBOT",
+      "summary_vi": "Doanh số xuất khẩu vụ mùa mới đạt kỳ vọng cao nhất bất chấp áp lực",
+      "image": "https://cdn1.globalagmedia.com/soybean-plants-in-field.jpg",
+      "link": "https://www.thepoultrysite.com/news/2026/07/soybean-futures-slip-on-milder-weather-outlook-cbot",
+      "source": "The Poultry Site",
+      "category": "agri",
+      "published": "2026-07-17 16:26"
     },
     {
       "id": "1hnrypg",
@@ -539,17 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-07-15 22:58"
-    },
-    {
-      "id": "46vvqf",
-      "title": "Mining companies are on their own in the Sahel, says risk analyst",
-      "title_vi": "Nhà phân tích rủi ro cho biết các công ty khai thác mỏ đang tự mình hoạt động ở Sahel",
-      "summary_vi": "George McLeod của Nhóm Rủi ro Quan trọng cho biết những thất bại của Nga, các cuộc nổi dậy của phiến quân thánh chiến và chủ nghĩa dân tộc tài nguyên đang gia tăng đang định hình lại bản đồ rủi ro cho các thợ mỏ trên khắp Tây Phi và hơn thế nữa.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/07/george-mcleod--1024x576.png",
-      "link": "https://www.mining.com/mining-companies-are-on-their-own-in-the-sahel-says-risk-analyst/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-15 22:51"
     }
   ]
 }

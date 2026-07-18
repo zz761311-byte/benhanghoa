@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18 15:01",
+  "updated_at": "2026-07-18 15:13",
   "items": [
     {
       "id": "3t4ioa",
@@ -475,6 +475,17 @@
       "published": "2026-07-16 14:25"
     },
     {
+      "id": "vtdbtu",
+      "title": "BHP wins higher quarterly iron ore prices, overcoming China's buying curbs",
+      "title_vi": "BHP giành được giá quặng sắt hàng quý cao hơn, vượt qua giới hạn mua của Trung Quốc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/bhp-misses-quarterly-copper-output-estimates-flags-lower-chilean-production-2026-07-15/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-07-16 14:23"
+    },
+    {
       "id": "1fyrtu3",
       "title": "Executive summary – Global Critical Minerals Outlook 2026 – Analysis",
       "title_vi": "Tóm tắt điều hành – Triển vọng khoáng sản quan trọng toàn cầu 2026 – Phân tích",
@@ -539,17 +550,6 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-07-16 11:48"
-    },
-    {
-      "id": "1au3x6k",
-      "title": "[SMM PGM Express] ICE Benchmark Administration (IBA) officially assum",
-      "title_vi": "[SMM PGM Express] Cơ quan quản lý điểm chuẩn ICE (IBA) chính thức thừa nhận",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.metal.com/en/newscontent/104008194-iba-takes-over-lbma-platinum-and-palladium-price-benchmarks-replacing-lme-on-july-1st-2026",
-      "source": "Shanghai Metals Market",
-      "category": "metal",
-      "published": "2026-07-16 11:07"
     }
   ]
 }

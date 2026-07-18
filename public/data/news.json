@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18 14:00",
+  "updated_at": "2026-07-18 15:01",
   "items": [
     {
       "id": "3t4ioa",
@@ -156,6 +156,17 @@
       "published": "2026-07-17 22:18"
     },
     {
+      "id": "1v50ewh",
+      "title": "Sugar Prices Aren’t So Sweet. 1 Trade to Make Now.",
+      "title_vi": "Giá đường không quá ngọt. 1 giao dịch để thực hiện ngay bây giờ.",
+      "summary_vi": "Hợp đồng đường kỳ hạn tháng 10 mang đến cơ hội bán khi giá giảm nhiều hơn.",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Soft%20Commodities/Sugar/Many%20sugar%20cubes%20in%20pile%20by%20Pasja1000%20via%20Pixabay.jpg",
+      "link": "https://www.barchart.com/story/news/3336781/sugar-prices-arent-so-sweet-1-trade-to-make-now",
+      "source": "Barchart.com",
+      "category": "soft",
+      "published": "2026-07-17 21:06"
+    },
+    {
       "id": "1rudvu3",
       "title": "China to Hike Retail Gasoline and Diesel Prices as Oil Jumps 12% in a Week",
       "title_vi": "Trung Quốc tăng giá xăng và dầu diesel bán lẻ khi dầu tăng 12% trong một tuần",
@@ -286,6 +297,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-17 07:43"
+    },
+    {
+      "id": "1t7r8th",
+      "title": "Dollar firms as US-Iran tensions renew oil price risk",
+      "title_vi": "Đồng đô la tăng giá khi căng thẳng Mỹ-Iran làm gia tăng rủi ro về giá dầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/africa/dollar-near-one-month-low-cooling-inflation-curbs-fed-hike-bets-2026-07-16/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-07-17 06:17"
     },
     {
       "id": "1shjnzx",
@@ -528,28 +550,6 @@
       "source": "Shanghai Metals Market",
       "category": "metal",
       "published": "2026-07-16 11:07"
-    },
-    {
-      "id": "1qt37zi",
-      "title": "Barry Callebaut assesses cocoa threat as El Niño intensifies",
-      "title_vi": "Barry Callebaut đánh giá mối đe dọa ca cao khi El Niño tăng cường",
-      "summary_vi": "Barry Callebaut cho biết họ không mong đợi El Niño mạnh lên sẽ gây ra biến động cực độ trên thị trường ca cao như đã thấy trong những năm gần đây, với lý do mức tồn kho toàn cầu mạnh hơn, tính linh hoạt trong tìm nguồn cung ứng và các biện pháp phục hồi được cải thiện bất chấp những lo ngại về thời tiết đang diễn ra.",
-      "image": "https://www.foodnavigator.com/resizer/v2/IGM23A7XBNHGDFH3Y4ODQGAQYE.jpg?auth=39ef85b6d32ad8686a6b922afea213255b542436979a4f76b8d9c845667c7843&width=1200&height=630&smart=true",
-      "link": "https://www.foodnavigator.com/Article/2026/07/16/barry-callebaut-says-cocoa-sector-prepared-for-el-nino-disruption/",
-      "source": "FoodNavigator.com",
-      "category": "soft",
-      "published": "2026-07-16 10:58"
-    },
-    {
-      "id": "pt9qx3",
-      "title": "EEX CEGH VTP EGSI Natural Gas Weekend Futures (Jul 2026 W3) Trade Ideas — EEX:G8W3N2026",
-      "title_vi": "Ý tưởng giao dịch cuối tuần về khí đốt tự nhiên EEX CEGH VTP EGSI (Tháng 7 năm 2026 W3) - EEX:G8W3N2026",
-      "summary_vi": "Xem các ý tưởng đầu tư và giao dịch mới nhất cho Hợp đồng tương lai khí đốt tự nhiên cuối tuần EEX CEGH VTP EGSI (tháng 7 năm 2026 W3) từ các tác giả hàng đầu của chúng tôi. Họ chia sẻ ý kiến ​​về xu hướng giá và triển vọng kỹ thuật của thị trường.",
-      "image": "https://s3-symbol-logo.tradingview.com/natural-gas--600.png",
-      "link": "https://www.tradingview.com/symbols/EEX-G8W1!/ideas/page-5/?contract",
-      "source": "TradingView",
-      "category": "energy",
-      "published": "2026-07-16 10:35"
     }
   ]
 }

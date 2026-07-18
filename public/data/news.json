@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18 16:49",
+  "updated_at": "2026-07-18 17:01",
   "items": [
     {
       "id": "3t4ioa",
@@ -354,6 +354,17 @@
       "published": "2026-07-17 03:35"
     },
     {
+      "id": "hzgosk",
+      "title": "HyBlend: Opportunities for Hydrogen Blending in Natural Gas Pipelines",
+      "title_vi": "HyBlend: Cơ hội pha trộn hydro trong đường ống khí đốt tự nhiên",
+      "summary_vi": "Sáng kiến ​​HyBlend nhằm mục đích giải quyết các rào cản kỹ thuật trong việc trộn hydro trong đường ống dẫn khí đốt tự nhiên.",
+      "image": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
+      "link": "https://www.energy.gov/cmei/fuels/hyblend-opportunities-hydrogen-blending-natural-gas-pipelines",
+      "source": "Department of Energy (.gov)",
+      "category": "energy",
+      "published": "2026-07-17 00:51"
+    },
+    {
       "id": "13jfiza",
       "title": "El Niño 2026/27: Coffee, Cocoa, Seafood – Fundamentals in Focus",
       "title_vi": "El Niño 2026/27: Cà phê, Ca cao, Hải sản – Trọng tâm các nguyên tắc cơ bản",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "agri",
       "published": "2026-07-16 12:40"
-    },
-    {
-      "id": "1c52006",
-      "title": "Dollar hovers near one-month low as oil price risk lingers",
-      "title_vi": "Đồng đô la dao động gần mức thấp nhất trong một tháng do rủi ro về giá dầu kéo dài",
-      "summary_vi": "Đồng đô la dao động gần mức thấp nhất trong một tháng ⁠vào thứ Năm khi các nhà đầu tư cân nhắc dữ liệu lạm phát của Hoa Kỳ, điều này làm giảm kỳ vọng tăng lãi suất.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107374603-1708052811033-gettyimages-1850858830-baglietto-notitle231215_npGCu.jpeg?v=1784168788&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/07/16/dollar-near-one-month-low-as-cooling-inflation-curbs-fed-hike-bets.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-07-16 11:48"
     }
   ]
 }

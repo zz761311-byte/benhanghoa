@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18 11:17",
+  "updated_at": "2026-07-18 12:00",
   "items": [
     {
       "id": "3t4ioa",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-18 01:30"
+    },
+    {
+      "id": "k4z35",
+      "title": "Coffee prices are soaring. But one Bay Area coffee shop is lowering them for the next month",
+      "title_vi": "Giá cà phê đang tăng cao. Nhưng một quán cà phê ở Bay Area sẽ giảm giá trong tháng tới",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.sfchronicle.com/food/restaurants/article/the-crown-oakland-discount-tariffs-22336613.php",
+      "source": "San Francisco Chronicle",
+      "category": "soft",
+      "published": "2026-07-18 01:15"
     },
     {
       "id": "lujrlz",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-07-16 08:54"
-    },
-    {
-      "id": "livdjn",
-      "title": "BHP Annual Copper Production Falls; Iron Ore Output Notches Record High",
-      "title_vi": "Sản lượng đồng hàng năm của BHP giảm; Sản lượng quặng sắt đạt mức cao kỷ lục",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/bhp-annual-copper-production-falls-iron-ore-output-notches-record-high-b13b5219",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-07-16 07:47"
     }
   ]
 }

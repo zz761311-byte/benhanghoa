@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18 09:00",
+  "updated_at": "2026-07-18 10:00",
   "items": [
     {
       "id": "3t4ioa",
@@ -33,6 +33,17 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-07-18 02:58"
+    },
+    {
+      "id": "1j3tvig",
+      "title": "U.S. Wheat Harvest Advances Despite Smaller Crop Forecast",
+      "title_vi": "Thu hoạch lúa mì của Hoa Kỳ tiến bộ mặc dù dự báo sản lượng nhỏ hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.grainjournal.com/article/1148421/u-s-wheat-harvest-advances-despite-smaller-crop-forecast",
+      "source": "Grain Journal",
+      "category": "agri",
+      "published": "2026-07-18 02:45"
     },
     {
       "id": "1lxgxj5",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-07-16 07:47"
-    },
-    {
-      "id": "vtdbtu",
-      "title": "BHP wins higher quarterly iron ore prices, overcoming China's buying curbs",
-      "title_vi": "BHP giành được giá quặng sắt hàng quý cao hơn, vượt qua giới hạn mua của Trung Quốc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/bhp-misses-quarterly-copper-output-estimates-flags-lower-chilean-production-2026-07-15/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-07-16 06:17"
     }
   ]
 }

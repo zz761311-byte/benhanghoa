@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18 13:23",
+  "updated_at": "2026-07-18 14:00",
   "items": [
     {
       "id": "3t4ioa",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-18 06:00"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "(Reuters) – Khí đốt tự nhiên chạm đến hầu hết mọi ngóc ngách của nền kinh tế Hoa Kỳ, cung cấp nhiên liệu cho các nhà máy điện, nhà cửa, nhà máy và lĩnh vực xuất khẩu LNG đang bùng nổ. Nhưng nguồn cung cần thiết để đáp ứng tất cả những mục đích sử dụng đó lại đến từ một mảnh đất đá phiến ngày càng hẹp của Mỹ. Sự không phù hợp này giữa một nhóm người tiêu dùng ngày càng mở rộng…",
+      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Flame-1200x810-1.jpg",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-07-18 04:42"
     },
     {
       "id": "15creoy",
@@ -539,17 +550,6 @@
       "source": "TradingView",
       "category": "energy",
       "published": "2026-07-16 10:35"
-    },
-    {
-      "id": "1t7r8th",
-      "title": "Dollar firms as US-Iran tensions renew oil price risk",
-      "title_vi": "Đồng đô la tăng giá khi căng thẳng Mỹ-Iran làm gia tăng rủi ro về giá dầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/africa/dollar-near-one-month-low-cooling-inflation-curbs-fed-hike-bets-2026-07-16/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-07-16 08:54"
     }
   ]
 }

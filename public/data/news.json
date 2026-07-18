@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-19 03:32",
+  "updated_at": "2026-07-19 04:01",
   "items": [
+    {
+      "id": "91kzza",
+      "title": "What Is a Microgrid? How They Work and Why They&#039;re Suddenly Everywhere",
+      "title_vi": "Lưới điện siêu nhỏ là gì? Cách chúng hoạt động và tại sao chúng đột nhiên có mặt ở mọi nơi",
+      "summary_vi": "Khi cơn bão Maria san phẳng lưới điện của Puerto Rico vào năm 2017, một tòa nhà ở thị trấn miền núi Adjuntas không bao giờ chìm trong bóng tối. Casa Pueblo, một nhóm môi trường địa phương, đã lắp đặt các tấm pin và pin mặt trời cho trụ sở chính. Hệ thống đó giữ đèn sáng trong khi",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-16_jeyni4lake.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/What-Is-a-Microgrid-How-They-Work-and-Why-Theyre-Suddenly-Everywhere.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-19 04:00"
+    },
     {
       "id": "1ms44nh",
       "title": "Canada Unveils New Pipeline to Cut Reliance on U.S. Oil Routes",
@@ -132,17 +143,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-18 00:30"
-    },
-    {
-      "id": "1p6513o",
-      "title": "US Oil Drilling Picks Up As Brent Gains 4%",
-      "title_vi": "Hoạt động khoan dầu của Mỹ tăng khi dầu Brent tăng 4%",
-      "summary_vi": "Theo dữ liệu mới mà Baker Hughes công bố hôm thứ Sáu, tổng số giàn khoan đang hoạt động ở Mỹ đã tăng trong tuần này, nâng tổng số giàn khoan ở Mỹ lên 588, tăng 44 giàn so với cùng thời điểm này năm ngoái. Số giàn khoan đang hoạt động tăng 7 giàn",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drilling-Picks-Up-As-Brent-Gains-4.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-18 00:27"
     },
     {
       "id": "dszktd",
@@ -409,6 +409,17 @@
       "published": "2026-07-17 00:25"
     },
     {
+      "id": "3uad0a",
+      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
+      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
+      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
+      "image": "https://www.cmegroup.com/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium",
+      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-07-17 00:06"
+    },
+    {
       "id": "39ujyn",
       "title": "New EIA Analysis: The United States Produced More Crude Oil in 2025 Than Any Other Country in History",
       "title_vi": "Phân tích EIA mới: Hoa Kỳ sản xuất nhiều dầu thô vào năm 2025 hơn bất kỳ quốc gia nào khác trong lịch sử",
@@ -539,17 +550,6 @@
       "source": "StoneX",
       "category": "soft",
       "published": "2026-07-16 14:00"
-    },
-    {
-      "id": "1lbaa7w",
-      "title": "Why is Silver price down over 1% even as traders scale back hawkish Fed bets?",
-      "title_vi": "Tại sao giá Bạc giảm hơn 1% ngay cả khi các nhà giao dịch giảm bớt mức đặt cược diều hâu của Fed?",
-      "summary_vi": "Giá bạc (XAG/USD) giao dịch thấp hơn 1,33% xuống gần $58,00 trong phiên giao dịch châu Âu vào thứ Năm. Kim loại trắng phải đối mặt với áp lực bán khi giá năng lượng tăng cao do sự gây hấn mới giữa Hoa Kỳ (Mỹ) và Iran đã làm giảm kỳ vọng lạm phát một lần nữa.",
-      "image": "https://editorial.fxsstatic.com/images/i/Commodities_Silver-2_Medium.jpg",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-tumbles-to-near-57-as-inflation-projections-remain-de-anchored-202607160620",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-07-16 13:20"
     }
   ]
 }

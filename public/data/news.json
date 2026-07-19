@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19 09:01",
+  "updated_at": "2026-07-19 10:01",
   "items": [
     {
       "id": "1gefjcd",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-18 22:00"
+    },
+    {
+      "id": "6hr02s",
+      "title": "Wheat futures rallied 45.5 cents amid new soybean flash sales.",
+      "title_vi": "Giá lúa mì kỳ hạn tăng 45,5 cent trong bối cảnh doanh số bán đậu nành mới tăng nhanh.",
+      "summary_vi": "Trên thị trường nông sản ngày nay, giá ngũ cốc kỳ hạn đóng cửa tuần trong sắc xanh, nổi bật là đợt tăng mạnh hàng tuần 45,5 cent của hợp đồng tương lai lúa mì Chicago tháng 12. Giá ngô kỳ hạn tháng 12 và giá đậu nành kỳ hạn tháng 11 cũng tăng cao hơn, lần lượt tăng 6,5 cent và 12 cent trong tuần. USDA đã báo cáo ba dấu hiệu",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/wheat-futures-rallied-45-5-cents-amid-new-soybean-flash-sales-7.jpg",
+      "link": "https://www.cmegroup.com/videos/2026/07/17/wheat-futures-rallied-45-5-cents-amid-new-soybean-flash-sales-7.html",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-07-18 11:00"
     },
     {
       "id": "3t4ioa",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-07-16 14:23"
-    },
-    {
-      "id": "1fyrtu3",
-      "title": "Executive summary – Global Critical Minerals Outlook 2026 – Analysis",
-      "title_vi": "Tóm tắt điều hành – Triển vọng khoáng sản quan trọng toàn cầu 2026 – Phân tích",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.iea.org/reports/global-critical-minerals-outlook-2026/executive-summary",
-      "source": "IEA – International Energy Agency",
-      "category": "metal",
-      "published": "2026-07-16 14:10"
     }
   ]
 }

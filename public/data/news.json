@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20 00:01",
+  "updated_at": "2026-07-20 00:44",
   "items": [
     {
       "id": "kmu35g",
@@ -299,6 +299,17 @@
       "published": "2026-07-17 15:40"
     },
     {
+      "id": "my7osy",
+      "title": "Farm Futures morning grain market analysis",
+      "title_vi": "Phân tích thị trường ngũ cốc buổi sáng của Farm Futures",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-07-17 14:00"
+    },
+    {
       "id": "eb5mtb",
       "title": "Who’s ahead on the generic congressional ballot?",
       "title_vi": "Ai dẫn trước trong cuộc bỏ phiếu chung của quốc hội?",
@@ -539,17 +550,6 @@
       "source": "Agrolatam",
       "category": "macro",
       "published": "2026-07-16 18:52"
-    },
-    {
-      "id": "5vd8ks",
-      "title": "Silver Price For Today, 16 July 2026",
-      "title_vi": "Giá Bạc hôm nay, ngày 16 tháng 7 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
-      "source": "Forbes",
-      "category": "metal",
-      "published": "2026-07-16 18:48"
     }
   ]
 }

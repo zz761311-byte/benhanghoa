@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19 12:01",
+  "updated_at": "2026-07-19 13:01",
   "items": [
     {
       "id": "1gefjcd",
@@ -475,6 +475,17 @@
       "published": "2026-07-16 22:20"
     },
     {
+      "id": "rj8165",
+      "title": "Russia and Ukraine strike vessels in Black Sea, wheat prices jump",
+      "title_vi": "Nga và Ukraine tấn công tàu ở Biển Đen, giá lúa mì tăng vọt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/aerospace-defense/russia-says-it-hits-military-targets-kyiv-ukrainian-ports-2026-07-16/",
+      "source": "Reuters",
+      "category": "agri",
+      "published": "2026-07-16 22:16"
+    },
+    {
       "id": "4yu0tb",
       "title": "Nickel price hits three-week high on Indonesia supply risks, Fed view",
       "title_vi": "Giá niken đạt mức cao nhất trong ba tuần do rủi ro nguồn cung ở Indonesia, quan điểm của Fed",
@@ -539,17 +550,6 @@
       "source": "Kavout | AI",
       "category": "metal",
       "published": "2026-07-16 14:25"
-    },
-    {
-      "id": "vtdbtu",
-      "title": "BHP wins higher quarterly iron ore prices, overcoming China's buying curbs",
-      "title_vi": "BHP giành được giá quặng sắt hàng quý cao hơn, vượt qua giới hạn mua của Trung Quốc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/bhp-misses-quarterly-copper-output-estimates-flags-lower-chilean-production-2026-07-15/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-07-16 14:23"
     }
   ]
 }

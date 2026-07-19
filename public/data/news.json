@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19 13:01",
+  "updated_at": "2026-07-19 14:01",
   "items": [
     {
       "id": "1gefjcd",
@@ -66,6 +66,17 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-07-18 11:00"
+    },
+    {
+      "id": "6tztie",
+      "title": "Robert Kiyosaki and Jim Rogers Give Moonshot Prediction for Gold and Silver",
+      "title_vi": "Robert Kiyosaki và Jim Rogers đưa ra dự đoán về mặt trăng cho vàng và bạc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/robert-kiyosaki-jim-rogers-moonshot-003000833.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-07-18 07:30"
     },
     {
       "id": "3t4ioa",
@@ -462,17 +473,6 @@
       "source": "Waste Dive",
       "category": "macro",
       "published": "2026-07-16 23:42"
-    },
-    {
-      "id": "av2qd2",
-      "title": "Gold and Silver Prices Hit New 8-Month Lows as Dollar, Oil Rise",
-      "title_vi": "Giá vàng và bạc chạm mức thấp mới trong 8 tháng khi đồng đô la, dầu tăng",
-      "summary_vi": "Giá vàng và bạc giảm mạnh hôm thứ Năm khi dầu tăng cùng với đồng Đô la trong bối cảnh bạo lực ngày càng gia tăng trên khắp Trung Đông >>",
-      "image": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/2026-07-16-wti-dxy.png",
-      "link": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-oil-low-071620261",
-      "source": "BullionVault",
-      "category": "macro",
-      "published": "2026-07-16 22:20"
     },
     {
       "id": "rj8165",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21 06:01",
+  "updated_at": "2026-07-21 06:42",
   "items": [
     {
       "id": "gmee5y",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-21 06:00"
+    },
+    {
+      "id": "1r3fl75",
+      "title": "Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’",
+      "title_vi": "Vì sao giá xăng tăng nhanh hơn giá dầu? Đổ lỗi cho 'vết nứt'.",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7",
+      "source": "MarketWatch",
+      "category": "energy",
+      "published": "2026-07-21 05:55"
     },
     {
       "id": "vy0ne1",
@@ -539,17 +550,6 @@
       "source": "Stocktwits",
       "category": "metal",
       "published": "2026-07-17 14:12"
-    },
-    {
-      "id": "1qnc4nf",
-      "title": "How AI data centers are tightening copper supply",
-      "title_vi": "Các trung tâm dữ liệu AI đang thắt chặt nguồn cung đồng như thế nào",
-      "summary_vi": "Đồng tăng 10% so với đầu năm khi việc xây dựng trung tâm dữ liệu AI gặp khó khăn với sản lượng khai thác giảm từ Chile, Grasberg và Codelco.",
-      "image": "https://cdn.prod.website-files.com/65059ad784ac02253c62356c/6a5e25849253fee5b500800b_open_pit_mine_1920x1080_under400kb.jpg",
-      "link": "https://www.kpler.com/fr/blog/copper-the-perfect-squeeze",
-      "source": "Kpler",
-      "category": "metal",
-      "published": "2026-07-17 14:00"
     }
   ]
 }

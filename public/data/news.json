@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-20 14:01",
+  "updated_at": "2026-07-20 14:33",
   "items": [
+    {
+      "id": "1gzjada",
+      "title": "LNG Shipments Through Strait of Hormuz Grind to a Halt as Conflict Escalates",
+      "title_vi": "Các chuyến hàng LNG qua eo biển Hormuz bị đình trệ khi xung đột leo thang",
+      "summary_vi": "Reuters hôm nay đưa tin, dữ liệu từ các công ty theo dõi tàu chở dầu cho thấy việc xuất khẩu khí đốt tự nhiên hóa lỏng qua eo biển Hormuz dường như đã bị đình trệ trong ba ngày qua, trong khi lưu lượng tàu chở dầu đã giảm đáng kể. Trong khi đó, các nhà phân tích của ING đã viết trong một ghi chú",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-20_owdqj1i4gt.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Shipments-Through-Strait-of-Hormuz-Grind-to-a-Halt-as-Conflict-Escalates.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-20 14:10"
+    },
     {
       "id": "nkz7tc",
       "title": "Gulf Oil Exports Briefly Recovered to Pre-War Levels Before Latest Escalation",
@@ -101,17 +112,6 @@
       "published": "2026-07-19 04:00"
     },
     {
-      "id": "1ms44nh",
-      "title": "Canada Unveils New Pipeline to Cut Reliance on U.S. Oil Routes",
-      "title_vi": "Canada công bố đường ống mới để giảm sự phụ thuộc vào các tuyến đường dầu của Mỹ",
-      "summary_vi": "Một đường ống dẫn dầu mới có thể kết nối miền đông và miền tây Canada khi quốc gia giàu dầu mỏ này tìm cách trở nên tự chủ hơn và giảm sự phụ thuộc năng lượng vào Hoa Kỳ. Tuy nhiên, không phải ai cũng ủng hộ dự án, điều này đi ngược lại với các mục tiêu về khí hậu của Canada. Alberta",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-16_krazsgt5qe.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Canada-Unveils-New-Pipeline-to-Cut-Reliance-on-US-Oil-Routes.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-19 02:00"
-    },
-    {
       "id": "12a1gem",
       "title": "Soybean Oil Methyl Ester Market Forecast Points Higher Toward 2035, Driven by Electronics-Grade Demand and Sustainability Mandates",
       "title_vi": "Dự báo thị trường Methyl Ester dầu đậu nành sẽ cao hơn vào năm 2035, được thúc đẩy bởi nhu cầu cấp điện tử và các yêu cầu bền vững",
@@ -187,6 +187,17 @@
       "source": "San Francisco Chronicle",
       "category": "soft",
       "published": "2026-07-18 01:15"
+    },
+    {
+      "id": "1yv0vdo",
+      "title": "Black Sea wheat prices hit multiweek highs amid shipping disruptions",
+      "title_vi": "Giá lúa mì Biển Đen đạt mức cao nhất trong nhiều tuần do gián đoạn vận chuyển",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/071726-black-sea-wheat-prices-hit-multiweek-highs-amid-shipping-disruptions",
+      "source": "S&P Global",
+      "category": "agri",
+      "published": "2026-07-18 01:01"
     },
     {
       "id": "1sdiok9",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-07-17 00:06"
-    },
-    {
-      "id": "39ujyn",
-      "title": "New EIA Analysis: The United States Produced More Crude Oil in 2025 Than Any Other Country in History",
-      "title_vi": "Phân tích EIA mới: Hoa Kỳ sản xuất nhiều dầu thô vào năm 2025 hơn bất kỳ quốc gia nào khác trong lịch sử",
-      "summary_vi": "Theo dữ liệu mới từ Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA), vào năm 2025, Hoa Kỳ sản xuất nhiều dầu thô hơn bất kỳ quốc gia nào khác và nhiều hơn bất kỳ quốc gia nào trong lịch sử. Sản lượng dầu thô của Mỹ, bao gồm cả sản phẩm ngưng tụ cho thuê, đạt trung bình kỷ lục 13,6 triệu thùng/ngày, phá vỡ kỷ lục trước đó.",
-      "image": "https://www.energyindepth.org/wp-content/uploads/2026/07/EID-Oil-Production.png",
-      "link": "https://www.energyindepth.org/new-eia-analysis-the-united-states-produced-more-crude-oil-in-2025-than-any-other-country-in-history/",
-      "source": "Energy In Depth",
-      "category": "energy",
-      "published": "2026-07-17 00:04"
     }
   ]
 }

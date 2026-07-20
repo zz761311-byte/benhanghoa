@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20 07:15",
+  "updated_at": "2026-07-20 08:01",
   "items": [
     {
       "id": "1o6urw1",
@@ -299,6 +299,17 @@
       "published": "2026-07-17 15:40"
     },
     {
+      "id": "21ksix",
+      "title": "Futures Copper Chart Daily",
+      "title_vi": "Biểu đồ đồng kỳ hạn hàng ngày",
+      "summary_vi": "Sàng lọc cổ phiếu dành cho nhà đầu tư và nhà giao dịch, trực quan hóa tài chính.",
+      "image": "",
+      "link": "https://finviz.com/futures_charts?p",
+      "source": "Finviz",
+      "category": "metal",
+      "published": "2026-07-17 14:00"
+    },
+    {
       "id": "my7osy",
       "title": "Farm Futures morning grain market analysis",
       "title_vi": "Phân tích thị trường ngũ cốc buổi sáng của Farm Futures",
@@ -539,17 +550,6 @@
       "source": "fastcasual.com",
       "category": "soft",
       "published": "2026-07-16 20:47"
-    },
-    {
-      "id": "1ve4kn1",
-      "title": "Will U.S. Tariffs on Brazil Trigger a New Global Trade War?",
-      "title_vi": "Liệu thuế quan của Mỹ đối với Brazil có gây ra một cuộc chiến thương mại toàn cầu mới không?",
-      "summary_vi": "Thuế quan mới của Mỹ áp lên Brazil có thể định hình lại dòng chảy thương mại toàn cầu, tác động đến xuất khẩu nông sản và làm tăng sự bất ổn đối với chuỗi cung ứng và hàng hóa trên toàn thế giới.",
-      "image": "https://www.agrolatam.com/files/image/77/77111/6a58c485c43fe_600_315!.png?s=88e0656986cbc8c0e0e95a359fba7261&d=1784202770",
-      "link": "https://www.agrolatam.com/amp/us-brazil-tariffs-global-trade-war-agriculture-impact/",
-      "source": "Agrolatam",
-      "category": "macro",
-      "published": "2026-07-16 18:52"
     }
   ]
 }

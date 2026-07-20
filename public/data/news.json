@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-21 02:01",
+  "updated_at": "2026-07-21 03:01",
   "items": [
+    {
+      "id": "myfh7u",
+      "title": "Why the EU Still Can’t Agree on Its Next Round of Russia Sanctions",
+      "title_vi": "Tại sao EU vẫn không thể đồng ý về vòng trừng phạt tiếp theo của Nga",
+      "summary_vi": "Nhiều nhà ngoại giao Liên minh châu Âu cho rằng việc thông qua các lệnh trừng phạt đối với Nga sẽ trở nên dễ dàng hơn sau sự ra đi của cựu Thủ tướng Hungary Viktor Orban vào tháng 5, sau 16 năm nắm quyền. Được coi là nhà lãnh đạo thân thiện với Điện Kremlin nhất trong khối, các chính trị gia châu Âu khác cũng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-20_g9odsdnsr5.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-the-EU-Still-Cant-Agree-on-Its-Next-Round-of-Russia-Sanctions.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-07-21 03:00"
+    },
     {
       "id": "1gkzuto",
       "title": "The U.S. Needs 5000 Miles of New High-Voltage Lines Annually. It Only Built 392",
@@ -77,17 +88,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-20 22:25"
-    },
-    {
-      "id": "1r9ya3n",
-      "title": "U.S.-Iran Conflict Enters Dangerous New Phase With Fresh Missile Exchanges",
-      "title_vi": "Xung đột Mỹ-Iran bước vào giai đoạn mới nguy hiểm với các vụ trao đổi tên lửa mới",
-      "summary_vi": "Còi báo động không kích vang lên ở Bahrain và các quốc gia vùng Vịnh khác khi cuộc đấu tranh giành quyền kiểm soát eo biển Hormuz tiếp tục sau khi lực lượng Mỹ tiến hành cuộc không kích ngày thứ chín vào các mục tiêu xung quanh Iran. Căng thẳng gia tăng cuối tuần ở vùng Vịnh sau cái chết của 3 lính Mỹ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-20_wha5jyfos4.jpg",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/US-Iran-Conflict-Enters-Dangerous-New-Phase-With-Fresh-Missile-Exchanges.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-20 22:00"
     },
     {
       "id": "5vd8ks",
@@ -264,6 +264,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-07-18 04:42"
+    },
+    {
+      "id": "mqbbql",
+      "title": "Grains Close Higher a Second Week: How High Will Prices Rally?",
+      "title_vi": "Ngũ cốc đóng cửa cao hơn vào tuần thứ hai: Giá sẽ tăng cao đến mức nào?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/grains-close-higher-second-week-how-high-will-prices-rally",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-07-18 04:17"
     },
     {
       "id": "hl7zpw",
@@ -539,17 +550,6 @@
       "source": "Dirt on Dirt",
       "category": "metal",
       "published": "2026-07-17 12:57"
-    },
-    {
-      "id": "1cu0udg",
-      "title": "Qatar issues decree updating Integrated Customs Tariff",
-      "title_vi": "Qatar ban hành nghị định cập nhật Biểu thuế hải quan tích hợp",
-      "summary_vi": "",
-      "image": "https://taxnews.ey.com/Resources/Images/LinkedInSharePreview/GettyImages-115970447.jpeg",
-      "link": "https://taxnews.ey.com/news/2026-1531-qatar-issues-decree-updating-integrated-customs-tariff",
-      "source": "EY",
-      "category": "macro",
-      "published": "2026-07-17 12:21"
     }
   ]
 }

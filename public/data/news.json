@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-21 05:41",
+  "updated_at": "2026-07-21 06:01",
   "items": [
+    {
+      "id": "gmee5y",
+      "title": "With The U.S.-Iran Deal Collapsing, How Exposed Are Oil Markets Right Now?",
+      "title_vi": "Với việc thỏa thuận Mỹ-Iran sụp đổ, thị trường dầu mỏ hiện đang bị ảnh hưởng như thế nào?",
+      "summary_vi": "Ngay cả trước khi đạt được mốc 30 ngày trong quá trình đàm phán kéo dài 60 ngày để chứng kiến ​​bản ghi nhớ (MOU) 14 điểm được thống nhất giữa Washington và Tehran kết tinh thành một thỏa thuận hòa bình đầy đủ và cuối cùng, điểm khởi đầu cho toàn bộ quá trình đã bị phá vỡ bởi b.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-20_qyvod7taes.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/With-The-US-Iran-Deal-Collapsing-How-Exposed-Are-Oil-Markets-Right-Now.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-21 06:00"
+    },
     {
       "id": "vy0ne1",
       "title": "Why India Could Dominate The Sustainable Aviation Fuel Market",
@@ -88,17 +99,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-21 00:00"
-    },
-    {
-      "id": "ogq0cy",
-      "title": "Houthis Declare Naval Blockade on Saudi Arabia as Red Sea Crisis Deepens",
-      "title_vi": "Houthis tuyên bố phong tỏa hải quân vào Ả Rập Saudi khi khủng hoảng Biển Đỏ ngày càng sâu sắc",
-      "summary_vi": "Reuters đưa tin, lực lượng Houthis liên kết với Iran của Yemen đã tuyên bố phong tỏa hải quân ngay lập tức đối với Ả Rập Saudi vào thứ Hai, Reuters đưa tin, đưa cuộc chiến tranh Mỹ-Iran chính thức đến lối vào phía nam của Biển Đỏ và đe dọa tuyến đường xuất khẩu được Riyadh sử dụng để vượt qua sự gián đoạn ở eo biển Hormu.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-20_sijyjbzucn.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Declare-Naval-Blockade-on-Saudi-Arabia-as-Red-Sea-Crisis-Deepens.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-07-20 23:30"
     },
     {
       "id": "lwsrov",
@@ -541,14 +541,14 @@
       "published": "2026-07-17 14:12"
     },
     {
-      "id": "my7osy",
-      "title": "Farm Futures morning grain market analysis",
-      "title_vi": "Phân tích thị trường ngũ cốc buổi sáng của Farm Futures",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
-      "source": "Farm Progress",
-      "category": "agri",
+      "id": "1qnc4nf",
+      "title": "How AI data centers are tightening copper supply",
+      "title_vi": "Các trung tâm dữ liệu AI đang thắt chặt nguồn cung đồng như thế nào",
+      "summary_vi": "Đồng tăng 10% so với đầu năm khi việc xây dựng trung tâm dữ liệu AI gặp khó khăn với sản lượng khai thác giảm từ Chile, Grasberg và Codelco.",
+      "image": "https://cdn.prod.website-files.com/65059ad784ac02253c62356c/6a5e25849253fee5b500800b_open_pit_mine_1920x1080_under400kb.jpg",
+      "link": "https://www.kpler.com/fr/blog/copper-the-perfect-squeeze",
+      "source": "Kpler",
+      "category": "metal",
       "published": "2026-07-17 14:00"
     }
   ]

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-20 14:33",
+  "updated_at": "2026-07-20 15:01",
   "items": [
+    {
+      "id": "15qvmu0",
+      "title": "Gas prices hit $4 again after oil soars more than 15% in a week",
+      "title_vi": "Giá xăng lại chạm mốc 4 USD sau khi dầu tăng hơn 15% trong một tuần",
+      "summary_vi": "Kể từ đầu năm, cả giá dầu thô Mỹ và dầu Brent quốc tế hiện đã tăng khoảng 45%.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260529-gas-prices-rs-086688.jpg",
+      "link": "https://www.nbcnews.com/business/energy/gas-prices-hit-4-dollars-renewed-iran-russia-tensions-rcna588055",
+      "source": "NBC News",
+      "category": "energy",
+      "published": "2026-07-20 14:47"
+    },
     {
       "id": "1gzjada",
       "title": "LNG Shipments Through Strait of Hormuz Grind to a Halt as Conflict Escalates",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-20 14:10"
+    },
+    {
+      "id": "jl4l9k",
+      "title": "Natural Gas and Oil Forecast: OPEC Demand Cut Meets Hormuz Tensions What’s Next for Oil?",
+      "title_vi": "Dự báo khí đốt tự nhiên và dầu: Việc cắt giảm nhu cầu của OPEC đáp ứng căng thẳng Hormuz Điều gì tiếp theo đối với dầu?",
+      "summary_vi": "Sự gián đoạn vận chuyển của Hormuz và triển vọng nhu cầu yếu hơn của OPEC khiến thị trường dầu mỏ đứng trước nguy cơ bị ảnh hưởng. Xem triển vọng mới nhất về WTI, Brent và khí đốt tự nhiên.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/Main-Images-3-4.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-opec-demand-cut-meets-hormuz-tensions-whats-next-for-oil-1611408",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-07-20 13:34"
     },
     {
       "id": "nkz7tc",
@@ -528,28 +550,6 @@
       "source": "Food Industry Executive",
       "category": "soft",
       "published": "2026-07-17 00:41"
-    },
-    {
-      "id": "1dhngeo",
-      "title": "China's AI ambitions could make platinum the next strategic precious metal after gold - WPIC",
-      "title_vi": "Tham vọng AI của Trung Quốc có thể biến bạch kim trở thành kim loại quý chiến lược tiếp theo sau vàng - WPIC",
-      "summary_vi": "(Kitco News) - Trung Quốc đã củng cố vị thế là một trong những thị trường vàng quan trọng nhất thế giới và làn sóng đầu tư công nghiệp tiếp theo của nước này có thể nâng bạch kim lên vai trò chiến lược tương tự khi trí tuệ nhân tạo và năng lượng sạch định hình lại nhu cầu toàn cầu, theo báo cáo mới nhất.",
-      "image": "https://image-api.prod.kitco.com/image/9e0e9b20-d20c-48e4-9d69-dfb029f7bc15.png?top=0.19282786885246&left=0&width=1672&height=940.6143442623&scale_width=1920&token=09258c668467e1adfea0df17571e8b9abdb7d5d8ce403ddf5d840c4fdfd542e6",
-      "link": "https://www.kitco.com/news/article/2026-07-16/chinas-ai-ambitions-could-make-platinum-next-strategic-precious-metal-after",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-07-17 00:25"
-    },
-    {
-      "id": "3uad0a",
-      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
-      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
-      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
-      "image": "https://www.cmegroup.com/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium",
-      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-07-17 00:06"
     }
   ]
 }

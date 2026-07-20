@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-20 11:09",
+  "updated_at": "2026-07-20 12:01",
   "items": [
+    {
+      "id": "1pskfy7",
+      "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
+      "title_vi": "Giá dầu vượt 90 USD/thùng khi xung đột Mỹ-Iran ngày càng mở rộng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html",
+      "source": "The New York Times",
+      "category": "energy",
+      "published": "2026-07-20 10:22"
+    },
     {
       "id": "1ldaf54",
       "title": "Europe Was Supposed to Run Out of Jet Fuel by June. It Didn’t",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "agri",
       "published": "2026-07-16 22:16"
-    },
-    {
-      "id": "4yu0tb",
-      "title": "Nickel price hits three-week high on Indonesia supply risks, Fed view",
-      "title_vi": "Giá niken đạt mức cao nhất trong ba tuần do rủi ro nguồn cung ở Indonesia, quan điểm của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.mining.com/web/nickel-hits-three-week-high-on-indonesia-supply-risks-fed-view/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-16 21:52"
     }
   ]
 }

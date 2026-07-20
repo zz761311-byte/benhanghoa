@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-20 19:01",
+  "updated_at": "2026-07-20 19:57",
   "items": [
+    {
+      "id": "fvdeo1",
+      "title": "Copper Price Rally Powers Hudbay Minerals (HBM) in Q2",
+      "title_vi": "Sự phục hồi giá đồng đã thúc đẩy Hudbay Minerals (HBM) trong quý 2",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://sg.finance.yahoo.com/news/copper-price-rally-powers-hudbay-122410347.html",
+      "source": "Yahoo Finance Singapore",
+      "category": "metal",
+      "published": "2026-07-20 19:24"
+    },
     {
       "id": "1270r87",
       "title": "India’s Crude Oil Import Bill Soars 60% as Iran War Drives Prices Higher",
@@ -187,6 +198,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-20 02:00"
+    },
+    {
+      "id": "vxqay5",
+      "title": "Gas queues grow as Ukraine targets Russia's fuel supply",
+      "title_vi": "Hàng chờ mua xăng ngày càng tăng khi Ukraine nhắm tới nguồn cung cấp nhiên liệu của Nga",
+      "summary_vi": "Các cuộc tấn công của Ukraine đã gây ra cuộc khủng hoảng nhiên liệu ở Nga. Các báo cáo từ khắp nước Nga cho thấy người dân đang đối phó với những gián đoạn trong cuộc sống hàng ngày của họ như thế nào.",
+      "image": "https://static.dw.com/image/77766779_6.jpg",
+      "link": "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russias-fuel-supply/a-77887704",
+      "source": "DW.com",
+      "category": "energy",
+      "published": "2026-07-19 22:39"
     },
     {
       "id": "12a1gem",
@@ -420,6 +442,17 @@
       "published": "2026-07-17 15:40"
     },
     {
+      "id": "1vsg7dg",
+      "title": "Gold, Silver Pullback Is Not The End Of Rally, JPMorgan Reportedly Says After Forecast Cut",
+      "title_vi": "JPMorgan cho biết sự thoái lui của vàng, bạc không phải là sự kết thúc của đợt tăng giá sau khi cắt giảm dự báo",
+      "summary_vi": "Bất chấp việc cắt giảm ngắn hạn, JPMorgan dự đoán giá vàng và bạc sẽ tăng vào cuối năm nay trong bối cảnh những bất ổn về năng lượng và lạm phát giảm bớt.",
+      "image": "https://news.stocktwits-cdn.com/large_Gold_Silver_jpg_c77de4fb71.webp",
+      "link": "https://stocktwits.com/news-articles/markets/equity/gold-silver-pullback-is-not-the-end-of-rally-jpmorgan-reportedly-says-after-forecast-cut/cZXrBxmRelk",
+      "source": "Stocktwits",
+      "category": "metal",
+      "published": "2026-07-17 14:12"
+    },
+    {
       "id": "21ksix",
       "title": "Futures Copper Chart Daily",
       "title_vi": "Biểu đồ đồng kỳ hạn hàng ngày",
@@ -517,39 +550,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-17 07:43"
-    },
-    {
-      "id": "1t7r8th",
-      "title": "Dollar firms as US-Iran tensions renew oil price risk",
-      "title_vi": "Đồng đô la tăng giá khi căng thẳng Mỹ-Iran làm gia tăng rủi ro về giá dầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/africa/dollar-near-one-month-low-cooling-inflation-curbs-fed-hike-bets-2026-07-16/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-07-17 06:17"
-    },
-    {
-      "id": "1shjnzx",
-      "title": "Acid test: IEA warns copper supply outlook has “worsened considerably”",
-      "title_vi": "Thử nghiệm axit: IEA cảnh báo triển vọng nguồn cung đồng đã “xấu đi đáng kể”",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.mining.com/acid-test-iea-warns-copper-supply-outlook-has-worsened-considerably/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-17 05:07"
-    },
-    {
-      "id": "1i6oqev",
-      "title": "Platinum Demand in China: AI, Hydrogen, and the 15th Five-Year Plan | WPIC 2026 - News and Statistics",
-      "title_vi": "Nhu cầu bạch kim ở Trung Quốc: AI, Hydro và Kế hoạch 5 năm lần thứ 15 | WPIC 2026 - Tin tức và Thống kê",
-      "summary_vi": "Kế hoạch 5 năm lần thứ 15 của Trung Quốc và nỗ lực thúc đẩy AI trị giá 300 tỷ USD đang thúc đẩy nhu cầu bạch kim mới trong chất bán dẫn, hydro và trung tâm dữ liệu, trong khi WPIC dự báo thâm hụt nguồn cung lần thứ tư liên tiếp vào năm 2026, hỗ trợ giá gần 1.600 USD/oz.",
-      "image": "https://www.indexbox.io/landing/img/blog/telegram-fallback/1e2357f24b9ed0047e04de172223a6b4.webp",
-      "link": "https://www.indexbox.io/blog/chinas-ai-and-hydrogen-push-could-make-platinum-a-strategic-asset-like-gold/",
-      "source": "IndexBox",
-      "category": "metal",
-      "published": "2026-07-17 04:41"
     }
   ]
 }

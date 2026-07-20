@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21 05:01",
+  "updated_at": "2026-07-21 05:41",
   "items": [
     {
       "id": "vy0ne1",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-21 05:00"
+    },
+    {
+      "id": "rthuq7",
+      "title": "Early weather issues give way to promising Minnesota crop outlook",
+      "title_vi": "Các vấn đề thời tiết ban đầu nhường chỗ cho triển vọng mùa màng đầy hứa hẹn ở Minnesota",
+      "summary_vi": "Một người hướng dẫn quản lý kinh doanh trang trại cho biết cây trồng ở miền trung nam Minnesota đã phục hồi trở lại sau một số khó khăn đầu mùa. Kristina McVicker thuộc trường Cao đẳng South Central ở Mankato cho biết lớp vỏ đất ở Brownfield là một vấn đề sau những trận mưa lớn vào cuối tháng Tư. “Nhưng không có nhiều sự phổ biến với t",
+      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2025/07/Corn-Tassel_4_NorthMO_July-5_2-e1751907466428.jpg",
+      "link": "https://www.brownfieldagnews.com/news/early-weather-issues-give-way-to-promising-minnesota-crop-outlook/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-07-21 04:11"
     },
     {
       "id": "2m8wwv",
@@ -530,25 +541,14 @@
       "published": "2026-07-17 14:12"
     },
     {
-      "id": "18a4xhw",
-      "title": "U.S. companies have received $71 billion in tariff refunds but now must combat Iran war inflation",
-      "title_vi": "Các công ty Mỹ đã nhận được 71 tỷ USD tiền hoàn thuế nhưng giờ phải chống lại lạm phát do chiến tranh Iran",
-      "summary_vi": "Giám đốc tài chính của McCormick & Company cho biết: “Xung đột ở Trung Đông thực sự đang khiến lạm phát gia tăng… vì vậy chúng tôi sẽ sử dụng phần lớn số tiền hoàn thuế để bù đắp những chi phí cao hơn này”.",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285445608-e1784248354334.jpg?resize=1200,600",
-      "link": "https://fortune.com/2026/07/17/71-billion-tariff-refunds-iran-war-inflation/",
-      "source": "Fortune",
-      "category": "macro",
-      "published": "2026-07-17 14:00"
-    },
-    {
-      "id": "bn0l2o",
-      "title": "How AI data centers are tightening copper supply",
-      "title_vi": "Các trung tâm dữ liệu AI đang thắt chặt nguồn cung đồng như thế nào",
-      "summary_vi": "Đồng tăng 10% so với đầu năm khi việc xây dựng trung tâm dữ liệu AI gặp khó khăn với sản lượng khai thác giảm từ Chile, Grasberg và Codelco.",
-      "image": "https://cdn.prod.website-files.com/65059ad784ac02253c62356c/6a5e25849253fee5b500800b_open_pit_mine_1920x1080_under400kb.jpg",
-      "link": "https://www.kpler.com/blog/copper-the-perfect-squeeze",
-      "source": "Kpler",
-      "category": "metal",
+      "id": "my7osy",
+      "title": "Farm Futures morning grain market analysis",
+      "title_vi": "Phân tích thị trường ngũ cốc buổi sáng của Farm Futures",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+      "source": "Farm Progress",
+      "category": "agri",
       "published": "2026-07-17 14:00"
     }
   ]

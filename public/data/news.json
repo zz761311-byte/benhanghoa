@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20 17:01",
+  "updated_at": "2026-07-20 17:33",
   "items": [
     {
       "id": "i4tspk",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-20 16:35"
+    },
+    {
+      "id": "i8t8y1",
+      "title": "Gold holds near $4,000 as Fed rate expectations offset safe-haven demand",
+      "title_vi": "Vàng giữ gần 4.000 USD khi kỳ vọng lãi suất của Fed bù đắp cho nhu cầu trú ẩn an toàn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-4-000-092317256.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-07-20 16:23"
     },
     {
       "id": "1ree03",
@@ -110,6 +121,17 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-07-20 10:22"
+    },
+    {
+      "id": "n08zrs",
+      "title": "Oil prices erase gains after Iran says U.S. talks could be pursued based on national interests",
+      "title_vi": "Giá dầu xóa đi mức tăng sau khi Iran cho biết các cuộc đàm phán với Mỹ có thể được theo đuổi dựa trên lợi ích quốc gia",
+      "summary_vi": "Lực lượng Mỹ đã bắt đầu đêm thứ chín liên tiếp tấn công các mục tiêu của Iran.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108327785-1782560045329-gettyimages-1188056001-AFP_1MX6AU.jpeg?v=1782560074&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-07-20 08:14"
     },
     {
       "id": "1ldaf54",
@@ -528,28 +550,6 @@
       "source": "Stocktwits",
       "category": "metal",
       "published": "2026-07-17 04:39"
-    },
-    {
-      "id": "1qpxb14",
-      "title": "New US 25% tariff on Brazil not expected to impact chemical supply chains",
-      "title_vi": "Mức thuế 25% mới của Mỹ đối với Brazil dự kiến ​​sẽ không ảnh hưởng đến chuỗi cung ứng hóa chất",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/chemicals/071626-new-us-25-tariff-on-brazil-not-expected-to-impact-chemical-supply-chains",
-      "source": "S&P Global",
-      "category": "macro",
-      "published": "2026-07-17 04:33"
-    },
-    {
-      "id": "12nu370",
-      "title": "BMI hikes copper price forecast 6.7% on supply deficits",
-      "title_vi": "BMI tăng dự báo giá đồng 6,7% do thiếu hụt nguồn cung",
-      "summary_vi": "Bạn đã đạt đến giới hạn số bài viết miễn phí hàng tuần. Hãy tiếp tục đọc The Northern Miner với tư cách thành viên TNM NEWS+MARKETS. Tư cách thành viên TNM là chìa khóa để bạn mở khóa quyền truy cập vào những tin tức hay nhất,...",
-      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
-      "link": "https://www.northernminer.com/news/bmi-hikes-copper-price-forecast-6-7-on-supply-deficits/1003893099/",
-      "source": "The Northern Miner",
-      "category": "metal",
-      "published": "2026-07-17 03:35"
     }
   ]
 }

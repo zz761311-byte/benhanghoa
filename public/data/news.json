@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-20 15:01",
+  "updated_at": "2026-07-20 16:01",
   "items": [
+    {
+      "id": "1ree03",
+      "title": "China’s Fuel Oil Exports Hit 2026 High as Shipping Demand Rebounds",
+      "title_vi": "Xuất khẩu dầu nhiên liệu của Trung Quốc đạt mức cao nhất năm 2026 khi nhu cầu vận chuyển phục hồi",
+      "summary_vi": "Reuters hôm nay đưa tin, Trung Quốc đã xuất khẩu 577.000 thùng dầu mazut mỗi ngày vào tháng trước, mức cao nhất kể từ đầu năm và tăng 18% kể từ tháng 6 năm 2025, Reuters đưa tin hôm nay, trích dẫn dữ liệu hải quan chính thức. Đồng thời, xuất khẩu các sản phẩm đã lọc nói chung giảm do xuất khẩu xăng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-20_kaoiejbyan.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Fuel-Oil-Exports-Hit-2026-High-as-Shipping-Demand-Rebounds.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-20 15:20"
+    },
     {
       "id": "15qvmu0",
       "title": "Gas prices hit $4 again after oil soars more than 15% in a week",
@@ -46,6 +57,17 @@
       "published": "2026-07-20 12:47"
     },
     {
+      "id": "1qu568h",
+      "title": "Wheat leads grain rally on war and weather risks",
+      "title_vi": "Lúa mì dẫn đầu đợt tăng giá ngũ cốc do rủi ro chiến tranh và thời tiết",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmweeknow.com/opinion/market_focus/wheat-leads-grain-rally-on-war-and-weather-risks/article_0e5be899-d6b2-4e8c-b7cf-a73c22e7909b.html",
+      "source": "FarmWeekNow",
+      "category": "agri",
+      "published": "2026-07-20 12:00"
+    },
+    {
       "id": "hzqgq4",
       "title": "Platinum price consolidated on a subdued note intraday, with subdued spot market consumption [SMM Daily Review]",
       "title_vi": "Giá bạch kim ổn định ở mức thấp trong ngày, với mức tiêu thụ trên thị trường giao ngay giảm [Đánh giá hàng ngày của SMM]",
@@ -55,6 +77,17 @@
       "source": "SMM Metal",
       "category": "metal",
       "published": "2026-07-20 11:11"
+    },
+    {
+      "id": "1yfz47h",
+      "title": "Coffee drinkers turning to whole beans as prices soar, says Lavazza",
+      "title_vi": "Lavazza cho biết những người uống cà phê chuyển sang uống cà phê nguyên hạt khi giá tăng cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.ft.com/content/99bcda06-731d-49a8-bda2-ad4335bdca37?syn-25a6b1a6",
+      "source": "Financial Times",
+      "category": "soft",
+      "published": "2026-07-20 11:01"
     },
     {
       "id": "1pskfy7",
@@ -121,17 +154,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-19 06:00"
-    },
-    {
-      "id": "91kzza",
-      "title": "What Is a Microgrid? How They Work and Why They&#039;re Suddenly Everywhere",
-      "title_vi": "Lưới điện siêu nhỏ là gì? Cách chúng hoạt động và tại sao chúng đột nhiên có mặt ở mọi nơi",
-      "summary_vi": "Khi cơn bão Maria san phẳng lưới điện của Puerto Rico vào năm 2017, một tòa nhà ở thị trấn miền núi Adjuntas không bao giờ chìm trong bóng tối. Casa Pueblo, một nhóm môi trường địa phương, đã lắp đặt các tấm pin và pin mặt trời cho trụ sở chính. Hệ thống đó giữ đèn sáng trong khi",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-16_jeyni4lake.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/What-Is-a-Microgrid-How-They-Work-and-Why-Theyre-Suddenly-Everywhere.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-19 04:00"
     },
     {
       "id": "12a1gem",
@@ -242,6 +264,17 @@
       "source": "MarketScale",
       "category": "energy",
       "published": "2026-07-18 00:15"
+    },
+    {
+      "id": "1m1uvwo",
+      "title": "Heat Wave Coming to an End, But With Limited Rainfall for Western Corn Belt",
+      "title_vi": "Sóng nhiệt sắp kết thúc nhưng lượng mưa hạn chế ở vành đai ngô phía Tây",
+      "summary_vi": "Một đợt nắng nóng thường kết thúc bằng mưa rào và giông bão trên diện rộng, nhưng đợt nắng nóng này có thể không xảy ra. Nếu đúng như vậy, căng thẳng đối với cây trồng có thể sẽ tiếp tục diễn ra khi không khí mát mẻ hơn sau đó.",
+      "image": "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredImage?category=CMS&symbolicName=n1726_ag_weather_forum.png",
+      "link": "https://www.dtnpf.com/agriculture/web/ag/news/article/2026/07/17/heat-wave-coming-end-limited-western",
+      "source": "DTN Progressive Farmer",
+      "category": "agri",
+      "published": "2026-07-17 22:21"
     },
     {
       "id": "1gglrrj",
@@ -517,39 +550,6 @@
       "source": "The Northern Miner",
       "category": "metal",
       "published": "2026-07-17 03:35"
-    },
-    {
-      "id": "1j3xi9p",
-      "title": "Why are World Sugar Futures Stuck in Neutral?",
-      "title_vi": "Tại sao hợp đồng tương lai đường thế giới lại ở trạng thái trung lập?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/why-world-sugar-futures-stuck-190002308.html",
-      "source": "Yahoo Finance",
-      "category": "soft",
-      "published": "2026-07-17 02:00"
-    },
-    {
-      "id": "hzgosk",
-      "title": "HyBlend: Opportunities for Hydrogen Blending in Natural Gas Pipelines",
-      "title_vi": "HyBlend: Cơ hội pha trộn hydro trong đường ống khí đốt tự nhiên",
-      "summary_vi": "Sáng kiến ​​HyBlend nhằm mục đích giải quyết các rào cản kỹ thuật trong việc trộn hydro trong đường ống dẫn khí đốt tự nhiên.",
-      "image": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
-      "link": "https://www.energy.gov/cmei/fuels/hyblend-opportunities-hydrogen-blending-natural-gas-pipelines",
-      "source": "Department of Energy (.gov)",
-      "category": "energy",
-      "published": "2026-07-17 00:51"
-    },
-    {
-      "id": "13jfiza",
-      "title": "El Niño 2026/27: Coffee, Cocoa, Seafood – Fundamentals in Focus",
-      "title_vi": "El Niño 2026/27: Cà phê, Ca cao, Hải sản – Trọng tâm các nguyên tắc cơ bản",
-      "summary_vi": "Đăng ký tại đây Nếu chuỗi cung ứng và chiến lược giá cả của bạn coi ca cao, cà phê và hải sản đều bị ảnh hưởng bởi El Niño như nhau, thì bạn có thể đã lập kế hoạch cho những rủi ro sai lầm. Với El […]",
-      "image": "https://foodindustryexecutive.com/wp-content/uploads/2025/08/Expana_Logo_.png",
-      "link": "https://foodindustryexecutive.com/food-industry-webinar/el-nino-2026-27-coffee-cocoa-seafood-fundamentals-in-focus/",
-      "source": "Food Industry Executive",
-      "category": "soft",
-      "published": "2026-07-17 00:41"
     }
   ]
 }

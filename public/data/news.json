@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21 04:01",
+  "updated_at": "2026-07-21 04:36",
   "items": [
     {
       "id": "2m8wwv",
@@ -88,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-20 23:00"
+    },
+    {
+      "id": "lwsrov",
+      "title": "Why oil prices haven't gone crazy despite 5 months of US-Iran war",
+      "title_vi": "Tại sao giá dầu không tăng điên cuồng dù 5 tháng chiến tranh Mỹ-Iran",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/why-oil-prices-havent-gone-crazy-despite-5-months-us-iran-war-2026-07-20/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-07-20 22:32"
     },
     {
       "id": "5vd8ks",
@@ -508,6 +519,17 @@
       "published": "2026-07-17 14:12"
     },
     {
+      "id": "bn0l2o",
+      "title": "How AI data centers are tightening copper supply",
+      "title_vi": "Các trung tâm dữ liệu AI đang thắt chặt nguồn cung đồng như thế nào",
+      "summary_vi": "Đồng tăng 10% so với đầu năm khi việc xây dựng trung tâm dữ liệu AI gặp khó khăn với sản lượng khai thác giảm từ Chile, Grasberg và Codelco.",
+      "image": "https://cdn.prod.website-files.com/65059ad784ac02253c62356c/6a5e25849253fee5b500800b_open_pit_mine_1920x1080_under400kb.jpg",
+      "link": "https://www.kpler.com/blog/copper-the-perfect-squeeze",
+      "source": "Kpler",
+      "category": "metal",
+      "published": "2026-07-17 14:00"
+    },
+    {
       "id": "21ksix",
       "title": "Futures Copper Chart Daily",
       "title_vi": "Biểu đồ đồng kỳ hạn hàng ngày",
@@ -527,28 +549,6 @@
       "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
       "source": "Farm Progress",
       "category": "agri",
-      "published": "2026-07-17 14:00"
-    },
-    {
-      "id": "eb5mtb",
-      "title": "Who’s ahead on the generic congressional ballot?",
-      "title_vi": "Ai dẫn trước trong cuộc bỏ phiếu chung của quốc hội?",
-      "summary_vi": "Công cụ theo dõi các cuộc thăm dò được cập nhật liên tục của chúng tôi về chỉ số quan trọng nhất trong cuộc đua vào Quốc hội.",
-      "image": "https://substackcdn.com/image/fetch/$s_!DHD9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b7584a6-a95a-4054-90c6-ca160d014d37_1200x831.jpeg",
-      "link": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls",
-      "source": "Silver Bulletin",
-      "category": "metal",
-      "published": "2026-07-17 14:00"
-    },
-    {
-      "id": "18a4xhw",
-      "title": "U.S. companies have received $71 billion in tariff refunds but now must combat Iran war inflation",
-      "title_vi": "Các công ty Mỹ đã nhận được 71 tỷ USD tiền hoàn thuế nhưng giờ phải chống lại lạm phát do chiến tranh Iran",
-      "summary_vi": "Giám đốc tài chính của McCormick & Company cho biết: “Xung đột ở Trung Đông thực sự đang khiến lạm phát gia tăng… vì vậy chúng tôi sẽ sử dụng phần lớn số tiền hoàn thuế để bù đắp những chi phí cao hơn này”.",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285445608-e1784248354334.jpg?resize=1200,600",
-      "link": "https://fortune.com/2026/07/17/71-billion-tariff-refunds-iran-war-inflation/",
-      "source": "Fortune",
-      "category": "macro",
       "published": "2026-07-17 14:00"
     }
   ]

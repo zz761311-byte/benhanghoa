@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-21 03:13",
+  "updated_at": "2026-07-21 04:01",
   "items": [
+    {
+      "id": "2m8wwv",
+      "title": "Oil Market Loses Its Safety Net as Iran Conflict Reignites",
+      "title_vi": "Thị trường dầu mỏ mất mạng lưới an toàn khi xung đột Iran bùng phát",
+      "summary_vi": "Thị trường dầu mỏ toàn cầu dễ bị ảnh hưởng nhiều hơn trước sự leo thang mới nhất ở Trung Đông, vì hầu hết các tấm đệm giúp giảm bớt cú sốc ban đầu của cuộc chiến tranh Iran đang ngày càng mỏng đi và không thể ngăn chặn đợt tăng giá dầu tiếp theo. Trong nhiều tuần, những người tham gia thị trường đã quá tự mãn",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-20_qp9yajemun.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Market-Loses-Its-Safety-Net-as-Iran-Conflict-Reignites.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-21 04:00"
+    },
     {
       "id": "myfh7u",
       "title": "Why the EU Still Can’t Agree on Its Next Round of Russia Sanctions",
@@ -77,17 +88,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-20 23:00"
-    },
-    {
-      "id": "1pt4kb1",
-      "title": "Drone Strike Halts Exports at Strategic Black Sea Oil Terminal",
-      "title_vi": "Cuộc tấn công bằng máy bay không người lái tạm dừng xuất khẩu tại cảng dầu chiến lược Biển Đen",
-      "summary_vi": "Theo báo cáo của các phương tiện truyền thông khu vực, một máy bay không người lái đã tấn công một tàu chở dầu thô tại kho xuất khẩu Biển Đen của Caspian Pipeline Consortium (CPC) vào thứ Hai, theo báo cáo của các phương tiện truyền thông khu vực, buộc phải đình chỉ xuất khẩu lần thứ hai trong vòng chưa đầy 24 giờ. CPC cho biết tàu chở dầu NELSA đang bốc hàng lúc",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-20_nsnrlkdboa.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strike-Halts-Exports-at-Strategic-Black-Sea-Oil-Terminal.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-20 22:25"
     },
     {
       "id": "5vd8ks",
@@ -231,6 +231,17 @@
       "source": "IndexBox",
       "category": "energy",
       "published": "2026-07-18 23:46"
+    },
+    {
+      "id": "3uad0a",
+      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
+      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
+      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
+      "image": "https://www.cmegroup.com/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium",
+      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-07-18 12:00"
     },
     {
       "id": "6hr02s",
@@ -539,17 +550,6 @@
       "source": "Fortune",
       "category": "macro",
       "published": "2026-07-17 14:00"
-    },
-    {
-      "id": "zi03ss",
-      "title": "Instant reaction, analysis from Silver Dollar opener",
-      "title_vi": "Phản ứng tức thì, phân tích từ bàn mở tỷ số Silver Dollar",
-      "summary_vi": "DirtonDirt.com đưa tin về cuộc đua Dirt Late Model không giống bất kỳ ấn phẩm, tạp chí hoặc trang web nào khác với lượng lớn nội dung gốc bao gồm video, ảnh, câu chuyện, chuyên mục, blog, v.v. Đường đua Eldora",
-      "image": "",
-      "link": "https://www.dirtondirt.com/story_14596.html",
-      "source": "Dirt on Dirt",
-      "category": "metal",
-      "published": "2026-07-17 12:57"
     }
   ]
 }

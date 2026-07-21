@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21 23:01",
+  "updated_at": "2026-07-21 23:48",
   "items": [
     {
       "id": "1whuvb3",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-21 22:53"
+    },
+    {
+      "id": "hvb9h7",
+      "title": "Copper Price Rebound Lifts FCX; This Stock Is Actionable",
+      "title_vi": "Giá đồng phục hồi FCX; Cổ phiếu này có thể giao dịch được",
+      "summary_vi": "Giá đồng đạt mức cao nhất trong một tháng, nâng CPER ETF vượt qua điểm mua vào sớm khi cổ phiếu FCX tăng điểm trước báo cáo thu nhập.",
+      "image": "https://www.investors.com/wp-content/uploads/2016/07/stock-copper-4-adobe.jpg",
+      "link": "https://www.investors.com/news/copper-price-fcx-earnings-due-q2-cper-stock-etf/",
+      "source": "Investor's Business Daily",
+      "category": "metal",
+      "published": "2026-07-21 22:35"
     },
     {
       "id": "1pszyh3",
@@ -539,17 +550,6 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-07-18 02:58"
-    },
-    {
-      "id": "1j3tvig",
-      "title": "U.S. Wheat Harvest Advances Despite Smaller Crop Forecast",
-      "title_vi": "Thu hoạch lúa mì của Hoa Kỳ tiến bộ mặc dù dự báo sản lượng nhỏ hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.grainjournal.com/article/1148421/u-s-wheat-harvest-advances-despite-smaller-crop-forecast",
-      "source": "Grain Journal",
-      "category": "agri",
-      "published": "2026-07-18 02:45"
     }
   ]
 }

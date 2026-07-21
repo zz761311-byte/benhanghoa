@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-22 02:01",
+  "updated_at": "2026-07-22 02:55",
   "items": [
+    {
+      "id": "15i1aku",
+      "title": "Crops Analysis | December corn notches close above key resistance",
+      "title_vi": "Phân tích cây trồng | Các bậc ngô tháng 12 đóng cửa trên mức kháng cự quan trọng",
+      "summary_vi": "Ngày 21 tháng 7 năm 2026",
+      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
+      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-december-corn-notches-close-above-key-resistance",
+      "source": "Pro Farmer",
+      "category": "agri",
+      "published": "2026-07-22 02:52"
+    },
     {
       "id": "c6pivm",
       "title": "Kazakhstan Suspends Major Oil Exports as Black Sea Risks Escalate",
@@ -154,6 +165,17 @@
       "source": "The Mighty 790 KFGO",
       "category": "metal",
       "published": "2026-07-21 15:21"
+    },
+    {
+      "id": "1jwv88f",
+      "title": "US Sugar Prices Gain on Tight Supply, Tariff Support",
+      "title_vi": "Giá đường Mỹ tăng do nguồn cung thắt chặt, hỗ trợ thuế quan",
+      "summary_vi": "Giá đường Mỹ tăng do nguồn cung thắt chặt, hỗ trợ thuế quan",
+      "image": "https://www.czapp.com/wp-content/uploads/2026/07/6035cb84-136c-4d27-8d65-1ee295f52c40.jpg",
+      "link": "https://www.czapp.com/analyst-insights/us-sugar-prices-gain-on-tight-supply-tariff-support/",
+      "source": "czapp.com",
+      "category": "soft",
+      "published": "2026-07-21 14:00"
     },
     {
       "id": "6t4vby",
@@ -528,28 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-07-18 11:00"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "(Reuters) – Khí đốt tự nhiên chạm đến hầu hết mọi ngóc ngách của nền kinh tế Hoa Kỳ, cung cấp nhiên liệu cho các nhà máy điện, nhà cửa, nhà máy và lĩnh vực xuất khẩu LNG đang bùng nổ. Nhưng nguồn cung cần thiết để đáp ứng tất cả những mục đích sử dụng đó lại đến từ một mảnh đất đá phiến ngày càng hẹp của Mỹ. Sự không phù hợp này giữa một nhóm người tiêu dùng ngày càng mở rộng…",
-      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Flame-1200x810-1.jpg",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-07-18 04:42"
-    },
-    {
-      "id": "mqbbql",
-      "title": "Grains Close Higher a Second Week: How High Will Prices Rally?",
-      "title_vi": "Ngũ cốc đóng cửa cao hơn vào tuần thứ hai: Giá sẽ tăng cao đến mức nào?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/grains-close-higher-second-week-how-high-will-prices-rally",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-07-18 04:17"
     }
   ]
 }

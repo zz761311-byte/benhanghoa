@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-21 14:23",
+  "updated_at": "2026-07-21 15:01",
   "items": [
+    {
+      "id": "1pn4o6v",
+      "title": "Iran Says U.S. Struck Unfinished Nuclear Plant, Warns of Safety Risk",
+      "title_vi": "Iran cho biết Mỹ tấn công nhà máy hạt nhân chưa hoàn thiện, cảnh báo rủi ro an toàn",
+      "summary_vi": "Iran đã cảnh báo có nguy cơ an toàn hạt nhân sau khi Mỹ tấn công một nhà máy điện hạt nhân đang được xây dựng ở tỉnh Khuzestan phía tây nam nước này. Lực lượng Mỹ đã bắn nhiều tên lửa vào cơ sở này, đại sứ Iran tại Liên hợp quốc Amir Saeid Iravani nói với An ninh",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-21_73vy8zl2ts.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-US-Struck-Unfinished-Nuclear-Plant-Warns-of-Safety-Risk.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-21 14:44"
+    },
     {
       "id": "1b4kf6p",
       "title": "Oil Reverses Gains on Renewed Hope of Peace in Iran",
@@ -112,17 +123,6 @@
       "published": "2026-07-21 03:00"
     },
     {
-      "id": "1gkzuto",
-      "title": "The U.S. Needs 5000 Miles of New High-Voltage Lines Annually. It Only Built 392",
-      "title_vi": "Hoa Kỳ cần 5000 dặm đường dây điện cao thế mới hàng năm. Nó chỉ được xây dựng 392",
-      "summary_vi": "Có một thành ngữ cổ của người Yiddish dịch theo nghĩa đen là “đừng đập ấm trà nữa” mà chúng tôi có thể dịch thoải mái là “Chúng tôi đã nghe điều này trước đây, vậy tại sao bạn không dừng lại?” Chà, khi những con số mới xuất hiện và các nhà lãnh đạo vĩ đại của chúng ta tiếp tục đưa ra những giải pháp mới cho bất cứ vấn đề gì.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-20_vt1hkiipzs.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/The-US-Needs-5000-Miles-of-New-High-Voltage-Lines-Annually-It-Only-Built-392.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-21 02:00"
-    },
-    {
       "id": "1s4480s",
       "title": "Silver rebounds from 8-month low, gold price defends $4,000",
       "title_vi": "Bạc phục hồi từ mức thấp nhất trong 8 tháng, giá vàng bảo vệ 4.000 USD",
@@ -132,6 +132,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-21 00:52"
+    },
+    {
+      "id": "1s8h0dg",
+      "title": "China imports at nine-month high buoy copper prices",
+      "title_vi": "Nhập khẩu của Trung Quốc ở mức giá đồng cao nhất trong 9 tháng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/asia-pacific/china-imports-nine-month-high-buoy-copper-prices-2026-07-20/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-07-20 23:11"
     },
     {
       "id": "lwsrov",
@@ -539,17 +550,6 @@
       "source": "Crude Oil Prices Today | OilPrice.com",
       "category": "energy",
       "published": "2026-07-17 20:30"
-    },
-    {
-      "id": "1t0fc4u",
-      "title": "Natural Gas Futures on Shaky Ground Amid Mixed Outlook",
-      "title_vi": "Hợp đồng tương lai khí đốt tự nhiên trên mặt đất rung chuyển giữa triển vọng hỗn hợp",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/natural-gas-futures-on-shaky-ground-amid-mixed-outlook/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-07-17 19:46"
     }
   ]
 }

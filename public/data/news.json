@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21 10:01",
+  "updated_at": "2026-07-21 11:01",
   "items": [
     {
       "id": "136jg8v",
@@ -288,6 +288,17 @@
       "published": "2026-07-19 22:39"
     },
     {
+      "id": "ju8ezx",
+      "title": "Shurley: USDA Acres Report Boosts US Crop, But Not By Much",
+      "title_vi": "Shurley: Báo cáo về mẫu đất của USDA thúc đẩy cây trồng ở Mỹ nhưng không nhiều",
+      "summary_vi": "Những con số cho thấy người trồng trọt sẽ trồng nhiều hơn 210.000 mẫu Anh so với dự định trồng hồi tháng Ba. Báo cáo Diện tích của USDA là ước tính đầu tiên về",
+      "image": "https://df75hwhlfejca.cloudfront.net/cottongrower/wp-content/uploads/2026/07/USDA-Planted-Acreage-2026.png",
+      "link": "https://www.cottongrower.com/opinion/shurley-usda-acres-report-boosts-us-crop-but-not-by-much/",
+      "source": "Cotton Grower",
+      "category": "agri",
+      "published": "2026-07-19 12:19"
+    },
+    {
       "id": "s59qh1",
       "title": "Ukraine drones target Russian warehouses and oil sites",
       "title_vi": "Máy bay không người lái của Ukraine nhắm vào các kho và cơ sở dầu mỏ của Nga",
@@ -539,17 +550,6 @@
       "source": "Automotive News",
       "category": "macro",
       "published": "2026-07-17 17:00"
-    },
-    {
-      "id": "10c4d1i",
-      "title": "Soybean futures slip on milder weather outlook - CBOT",
-      "title_vi": "Giá đậu tương kỳ hạn giảm do triển vọng thời tiết ôn hòa hơn - CBOT",
-      "summary_vi": "Doanh số xuất khẩu vụ mùa mới đạt kỳ vọng cao nhất bất chấp áp lực",
-      "image": "https://cdn1.globalagmedia.com/soybean-plants-in-field.jpg",
-      "link": "https://www.thepoultrysite.com/news/2026/07/soybean-futures-slip-on-milder-weather-outlook-cbot",
-      "source": "The Poultry Site",
-      "category": "agri",
-      "published": "2026-07-17 16:26"
     }
   ]
 }

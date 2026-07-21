@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-21 13:01",
+  "updated_at": "2026-07-21 14:01",
   "items": [
+    {
+      "id": "1b4kf6p",
+      "title": "Oil Reverses Gains on Renewed Hope of Peace in Iran",
+      "title_vi": "Giá dầu đảo chiều tăng do hy vọng hòa bình mới ở Iran",
+      "summary_vi": "Giá dầu thô đã đảo ngược đà tăng sáng nay, giảm do có báo cáo cho rằng những nỗ lực đang được thực hiện để đàm phán một lệnh ngừng bắn khác giữa Hoa Kỳ và Iran. Dầu thô Brent đang giao dịch ở mức 88,77 USD/thùng tại thời điểm viết bài, giảm từ mức trên 90 USD/thùng và giá dầu West Te.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-21_fmrsj3pgwa.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Reverses-Gains-on-Renewed-Hope-of-Peace-in-Iran.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-21 13:09"
+    },
     {
       "id": "33zn0n",
       "title": "Goldman Warns Oil Could Hit $120 as Middle East War Drags On",
@@ -112,15 +123,15 @@
       "published": "2026-07-21 02:00"
     },
     {
-      "id": "1yyvs5i",
-      "title": "Russia&#039;s Financial Crisis Casts a Shadow Over Central Asia&#039;s Nuclear Future",
-      "title_vi": "Khủng hoảng tài chính ở Nga phủ bóng đen lên tương lai hạt nhân của Trung Á",
-      "summary_vi": "Kazakhstan và Uzbekistan có thể sẽ sớm phải suy nghĩ lại kế hoạch phát triển năng lượng hạt nhân của mình. Rosatom, công ty hạt nhân của Nga có thỏa thuận xây dựng nhà máy hạt nhân ở cả hai quốc gia Trung Á, đang gặp khó khăn lớn về tài chính. Alexei Likhachev, ông chủ của Rosatom,",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-20_i1efzcpe5l.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Russias-Financial-Crisis-Casts-a-Shadow-Over-Central-Asias-Nuclear-Future.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-21 01:00"
+      "id": "1s4480s",
+      "title": "Silver rebounds from 8-month low, gold price defends $4,000",
+      "title_vi": "Bạc phục hồi từ mức thấp nhất trong 8 tháng, giá vàng bảo vệ 4.000 USD",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.mining.com/silver-rebounds-from-8-month-low-gold-price-defends-4000/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-21 00:52"
     },
     {
       "id": "lwsrov",
@@ -134,6 +145,17 @@
       "published": "2026-07-20 22:32"
     },
     {
+      "id": "1kgq08j",
+      "title": "U.S. Gasoline Prices Climb Back Above $4 Per Gallon",
+      "title_vi": "Giá xăng ở Mỹ tăng trở lại trên 4 USD/gallon",
+      "summary_vi": "Giá xăng trung bình trên toàn quốc của Hoa Kỳ đã tăng trở lại trên 4 USD/gallon do xung đột mới ở Trung Đông và giá dầu thô cao hơn khiến chi phí nhiên liệu tăng cao.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-20_cvzc1ibqtl.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Prices-Climb-Back-Above-4-Per-Gallon.html",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "energy",
+      "published": "2026-07-20 21:15"
+    },
+    {
       "id": "5vd8ks",
       "title": "Silver Price For Today, 20 July 2026",
       "title_vi": "Giá Bạc hôm nay, ngày 20 tháng 7 năm 2026",
@@ -143,6 +165,17 @@
       "source": "Forbes",
       "category": "metal",
       "published": "2026-07-20 19:47"
+    },
+    {
+      "id": "1sx5zxr",
+      "title": "Natural Gas Ends Week Down 1%, but Is the Outlook Improving?",
+      "title_vi": "Khí đốt tự nhiên kết thúc tuần giảm 1%, nhưng triển vọng có cải thiện không?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/energy/articles/natural-gas-ends-week-down-123500137.html",
+      "source": "Yahoo Finance",
+      "category": "energy",
+      "published": "2026-07-20 19:35"
     },
     {
       "id": "fvdeo1",
@@ -517,39 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-07-17 19:46"
-    },
-    {
-      "id": "1g841mv",
-      "title": "Valterra Platinum (JSE:VAL) Stock Gets Fair Value Trim As Analysts Split On Platinum Outlook",
-      "title_vi": "Cổ phiếu Valterra Platinum (JSE:VAL) bị cắt giảm giá trị hợp lý khi các nhà phân tích chia rẽ về triển vọng bạch kim",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/valterra-platinum-jse-val-stock-121354863.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-07-17 19:13"
-    },
-    {
-      "id": "343boy",
-      "title": "Russia roils global market for diesel after Ukraine attacks",
-      "title_vi": "Nga khuấy động thị trường dầu diesel toàn cầu sau vụ tấn công Ukraine",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.axios.com/2026/07/17/russia-diesel-oil-drones",
-      "source": "Axios",
-      "category": "energy",
-      "published": "2026-07-17 18:23"
-    },
-    {
-      "id": "1w5gdz4",
-      "title": "Trump’s temporary global tariff ends soon. Here’s what the auto industry should know about its replacement",
-      "title_vi": "Thuế quan toàn cầu tạm thời của Trump sẽ sớm kết thúc. Đây là những điều ngành công nghiệp ô tô nên biết về sự thay thế của nó",
-      "summary_vi": "Mức thuế toàn cầu tạm thời 10% của Trump sẽ kết thúc vào ngày 24 tháng 7, ảnh hưởng đến nhiều bộ phận không bị áp thuế ô tô. Các mức thuế mới, vĩnh viễn nhắm vào các đối tác thương mại lớn của Hoa Kỳ có thể sẽ thay thế nó.",
-      "image": "https://www.autonews.com/resizer/v2/GHCIMDBWQJGQ7A4JM2Q6F7NCOY.jpg?auth=a43d59fda50b56bea5a334312d708d8b6ef798fd55fb05a2e994782550a1acbe&width=1200#.jpg",
-      "link": "https://www.autonews.com/manufacturing/an-trump-global-tariffs-section-301-0717/",
-      "source": "Automotive News",
-      "category": "macro",
-      "published": "2026-07-17 17:00"
     }
   ]
 }

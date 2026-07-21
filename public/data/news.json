@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21 09:01",
+  "updated_at": "2026-07-21 10:01",
   "items": [
     {
       "id": "136jg8v",
@@ -167,6 +167,17 @@
       "published": "2026-07-20 18:06"
     },
     {
+      "id": "sat6b",
+      "title": "Dollar Drops As Soft Inflation Dims Fed Hike Bets",
+      "title_vi": "Đồng đô la giảm khi lạm phát yếu làm giảm mức đặt cược tăng lãi suất của Fed",
+      "summary_vi": "Chỉ số lạm phát tốt hơn mong đợi từ Hoa Kỳ đã hỗ trợ và tiếp tay cho sự sụt giảm nhẹ của đồng đô la trong tuần kết thúc vào ngày 17 tháng 7.",
+      "image": "https://cdn.rttnews.com/articleimages/ustopstories/2026/july/dollardown-20072026-lt.jpg",
+      "link": "https://www.rttnews.com/amp/3668335/dollar-drops-as-soft-inflation-dims-fed-hike-bets.aspx",
+      "source": "RTTNews",
+      "category": "macro",
+      "published": "2026-07-20 17:32"
+    },
+    {
       "id": "i8t8y1",
       "title": "Gold holds near $4,000 as Fed rate expectations offset safe-haven demand",
       "title_vi": "Vàng giữ gần 4.000 USD khi kỳ vọng lãi suất của Fed bù đắp cho nhu cầu trú ẩn an toàn",
@@ -253,6 +264,17 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-07-20 08:14"
+    },
+    {
+      "id": "6hbyjq",
+      "title": "Oil tops $90 as Middle East fighting escalates",
+      "title_vi": "Dầu lên tới 90 USD khi xung đột ở Trung Đông leo thang",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.axios.com/2026/07/19/oil-prices-90-middle-east-fighting-gas-prices",
+      "source": "Axios",
+      "category": "energy",
+      "published": "2026-07-20 06:38"
     },
     {
       "id": "vxqay5",
@@ -528,28 +550,6 @@
       "source": "The Poultry Site",
       "category": "agri",
       "published": "2026-07-17 16:26"
-    },
-    {
-      "id": "15pi44t",
-      "title": "Platinum price propels Valterra to half year earnings beat",
-      "title_vi": "Giá bạch kim đẩy Valterra vượt qua thu nhập nửa năm",
-      "summary_vi": "VALTERRA Platinum sẽ báo cáo thu nhập được cải thiện đáng kể trong nửa đầu năm 2026 nhờ giá rand của kim loại nhóm bạch kim tăng 2/3 so với cùng kỳ năm ngoái. Có khả năng tăng gần 15 lần – khoảng 1.388% lên từ R18,5 tỷ đến R22,2 tỷ R hoặc R70,47 và R84,56 trong điều khoản thu nhập trên mỗi cổ phiếu – cũng được thúc đẩy",
-      "image": "https://www.miningmx.com/wp-content/uploads/2025/06/Valterra-Team-Listing-scaled-e1749471505758.jpg",
-      "link": "https://www.miningmx.com/top-story/65925-valterra-beats-consensus-as-metal-prices-propel-earnings/",
-      "source": "Miningmx",
-      "category": "metal",
-      "published": "2026-07-17 15:40"
-    },
-    {
-      "id": "1vsg7dg",
-      "title": "Gold, Silver Pullback Is Not The End Of Rally, JPMorgan Reportedly Says After Forecast Cut",
-      "title_vi": "JPMorgan cho biết sự thoái lui của vàng, bạc không phải là sự kết thúc của đợt tăng giá sau khi cắt giảm dự báo",
-      "summary_vi": "Bất chấp việc cắt giảm ngắn hạn, JPMorgan dự đoán giá vàng và bạc sẽ tăng vào cuối năm nay trong bối cảnh những bất ổn về năng lượng và lạm phát giảm bớt.",
-      "image": "https://news.stocktwits-cdn.com/large_Gold_Silver_jpg_c77de4fb71.webp",
-      "link": "https://stocktwits.com/news-articles/markets/equity/gold-silver-pullback-is-not-the-end-of-rally-jpmorgan-reportedly-says-after-forecast-cut/cZXrBxmRelk",
-      "source": "Stocktwits",
-      "category": "metal",
-      "published": "2026-07-17 14:12"
     }
   ]
 }

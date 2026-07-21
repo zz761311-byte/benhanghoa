@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-22 04:01",
+  "updated_at": "2026-07-22 04:35",
   "items": [
+    {
+      "id": "1qk6m7r",
+      "title": "US Crude Oil Inventories Build As Hormuz Shipping Headache Drags On",
+      "title_vi": "Tồn kho dầu thô của Mỹ tăng khi cơn đau đầu vận chuyển Hormuz kéo dài",
+      "summary_vi": "Viện Dầu khí Hoa Kỳ (API) ước tính tồn kho dầu thô ở Mỹ tăng 2,603 ​​triệu thùng trong tuần kết thúc vào ngày 17 tháng 7. Trong tuần trước đó, tồn kho dầu thô của Mỹ giảm 564.000 thùng. Mặc dù tồn kho dầu thô thương mại không bao gồm",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Build-As-Hormuz-Shipping-Headache-Drags-On.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-22 04:10"
+    },
     {
       "id": "15u2bmw",
       "title": "Energy IPOs Are Booming Thanks to AI’s Insatiable Thirst for Power",
@@ -121,17 +132,6 @@
       "source": "Daily Coffee News by Roast Magazine",
       "category": "soft",
       "published": "2026-07-21 23:54"
-    },
-    {
-      "id": "1whuvb3",
-      "title": "Houthi Threats Ignite New Oil Price Surge",
-      "title_vi": "Các mối đe dọa của Houthi châm ngòi cho đợt tăng giá dầu mới",
-      "summary_vi": "Các cuộc tấn công của Houthi đang mở rộng cuộc xung đột ở Trung Đông sang Biển Đỏ, buộc các tàu chở dầu phải định tuyến lại và đẩy giá dầu Brent lên trên 91 USD trong bối cảnh lo ngại ngày càng tăng về sự gián đoạn nguồn cung kéo dài. Aramco tràn ngập Biển Đỏ bằng dầu thô trước sự leo thang của Houthi - Có lẽ báo trước một sự leo thang",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-21_i7u4htyl26.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Houthi-Threats-Ignite-New-Oil-Price-Surge.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-21 22:53"
     },
     {
       "id": "hvb9h7",
@@ -286,6 +286,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-07-21 00:52"
+    },
+    {
+      "id": "mibrva",
+      "title": "Fastmarkets suspends 10 FOB Azov and CIF Marmara Russian wheat price assessments: pricing notice",
+      "title_vi": "Fastmarkets đình chỉ 10 đợt đánh giá giá lúa mì Nga FOB Azov và CIF Marmara: thông báo về giá",
+      "summary_vi": "Fastmarkets đã đình chỉ 10 đánh giá giá hàng hóa lúa mì của Nga từ thứ Hai ngày 20 tháng 7, trong bối cảnh gần đây có báo cáo về việc đóng cửa các cảng Biển Azov và Eo biển Kerch để vận chuyển và vì dữ liệu giá tương đối, liên quan không có sẵn ngay lập tức. Việc đình chỉ diễn ra sau khi có tin Nga đóng cửa biển Azov và",
+      "image": "https://www.fastmarkets.com/tachyon/49/3a/9fabb45d432fb63a8ae2834ffe31/pricenotice-thumbnail-490x275.jpg",
+      "link": "https://www.fastmarkets.com/insights/fastmarkets-suspends-10-fob-azov-and-cif-marmara-russian-wheat-price-assessments-pricing-notice/",
+      "source": "Fastmarkets",
+      "category": "agri",
+      "published": "2026-07-20 23:39"
     },
     {
       "id": "1qp9569",
@@ -539,17 +550,6 @@
       "source": "Cotton Grower",
       "category": "agri",
       "published": "2026-07-19 12:19"
-    },
-    {
-      "id": "s59qh1",
-      "title": "Ukraine drones target Russian warehouses and oil sites",
-      "title_vi": "Máy bay không người lái của Ukraine nhắm vào các kho và cơ sở dầu mỏ của Nga",
-      "summary_vi": "Máy bay không người lái của Ukraine đã tấn công các nhà kho, kho chứa dầu và các mục tiêu khác trên khắp nước Nga, khiến 9 người thiệt mạng và hơn 80 người khác bị thương. Kyiv cho biết các cuộc tấn công của họ nhắm vào các nhà cung cấp cho cuộc xâm lược Ukraine đang diễn ra của Moscow.",
-      "image": "https://static.dw.com/image/78020346_6.jpg",
-      "link": "https://www.dw.com/en/ukraine-drones-target-russian-warehouses-and-oil-sites/a-78018446",
-      "source": "DW.com",
-      "category": "energy",
-      "published": "2026-07-19 05:12"
     }
   ]
 }

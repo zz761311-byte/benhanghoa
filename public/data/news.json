@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23 01:01",
+  "updated_at": "2026-07-23 01:50",
   "items": [
     {
       "id": "1o454h0",
@@ -143,6 +143,17 @@
       "source": "Energy & Climate Intelligence Unit | ECIU",
       "category": "agri",
       "published": "2026-07-22 14:56"
+    },
+    {
+      "id": "q37s20",
+      "title": "Why Silver is advancing despite rising oil prices, inflation fears?",
+      "title_vi": "Tại sao Bạc tăng giá bất chấp giá dầu tăng, lo ngại lạm phát?",
+      "summary_vi": "Giá bạc (XAG/USD) tăng điểm trong ngày thứ tư liên tiếp, giao dịch quanh mức 59,70 USD mỗi troy ounce trong giờ châu Á vào thứ Tư. Giá bạc đang tăng bất chấp kỳ vọng tăng lãi suất tăng, do lực lượng thị trường mạnh mẽ lấn át lực cản của lãi suất cao hơn.",
+      "image": "https://editorial.fxsstatic.com/images/i/Silver5_Medium.png",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6000-despite-surging-inflation-fears-202607220309",
+      "source": "FXStreet",
+      "category": "macro",
+      "published": "2026-07-22 10:09"
     },
     {
       "id": "1fh04rs",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-07-20 23:11"
-    },
-    {
-      "id": "lwsrov",
-      "title": "Why oil prices haven't gone crazy despite 5 months of US-Iran war",
-      "title_vi": "Tại sao giá dầu không tăng điên cuồng dù 5 tháng chiến tranh Mỹ-Iran",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/why-oil-prices-havent-gone-crazy-despite-5-months-us-iran-war-2026-07-20/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-07-20 22:32"
     }
   ]
 }

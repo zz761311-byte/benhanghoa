@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22 08:01",
+  "updated_at": "2026-07-22 08:10",
   "items": [
     {
       "id": "ofm7yo",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-22 07:00"
+    },
+    {
+      "id": "1x7o55i",
+      "title": "Oil Futures Rise on Middle East Escalation Fears",
+      "title_vi": "Giá dầu kỳ hạn tăng do lo ngại leo thang ở Trung Đông",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-escalating-supply-disruption-concerns-c3dcf86d",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-07-22 06:23"
     },
     {
       "id": "a546a7",
@@ -539,17 +550,6 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-07-20 08:14"
-    },
-    {
-      "id": "6hbyjq",
-      "title": "Oil tops $90 as Middle East fighting escalates",
-      "title_vi": "Dầu lên tới 90 USD khi xung đột ở Trung Đông leo thang",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.axios.com/2026/07/19/oil-prices-90-middle-east-fighting-gas-prices",
-      "source": "Axios",
-      "category": "energy",
-      "published": "2026-07-20 06:38"
     }
   ]
 }

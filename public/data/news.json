@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-23 06:01",
+  "updated_at": "2026-07-23 06:45",
   "items": [
+    {
+      "id": "19u2elq",
+      "title": "Southern rust confirmed in Iowa corn, but expert says weather outlook eases concerns",
+      "title_vi": "Bệnh gỉ sắt miền Nam được xác nhận ở ngô Iowa, nhưng chuyên gia cho biết triển vọng thời tiết làm giảm bớt lo ngại",
+      "summary_vi": "Bệnh gỉ sắt miền Nam đã được xác nhận ở ngô Iowa. Một nhà nông học của bang Iowa cho biết triển vọng thời tiết làm giảm bớt lo ngại về một đợt bùng phát như năm ngoái.",
+      "image": "https://media.tegna-media.com/assets/WQAD/images/f25ebd5f-57a0-4f26-a3d7-c3f8d5dcffba/20250731T214459/f25ebd5f-57a0-4f26-a3d7-c3f8d5dcffba_1140x641.jpg",
+      "link": "https://www.wqad.com/article/news/local/the-current/southern-rust-corn-crops-fungal-disease-iowa-state-university-extension-office/526-a5d26e70-c2b4-4f74-9a78-a74f3238077a",
+      "source": "WQAD",
+      "category": "agri",
+      "published": "2026-07-23 06:34"
+    },
     {
       "id": "1yqw53j",
       "title": "New Pipelines Set To Ease Permian Natural Gas Glut",
@@ -66,6 +77,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-07-23 03:59"
+    },
+    {
+      "id": "1yvj6b5",
+      "title": "Why Are Corn, Soybean and Wheat Prices Surging Again?",
+      "title_vi": "Tại sao giá ngô, đậu nành và lúa mì lại tăng?",
+      "summary_vi": "Ngô, đậu nành và lúa mì tăng giá do rủi ro chiến tranh và thời tiết bất lợi đã làm sống lại tâm lý lạc quan trên thị trường nông sản và giao dịch hàng hóa.",
+      "image": "https://www.agrolatam.com/files/image/77/77427/6a61252f8a638_600_315!.png?s=104a1d71dc03f1d49a6b6e7fc510a726&d=1784689200",
+      "link": "https://www.agrolatam.com/amp/grain-markets-rally-black-sea-war-weather-corn-soybeans-wheat/",
+      "source": "Agrolatam",
+      "category": "agri",
+      "published": "2026-07-23 03:27"
     },
     {
       "id": "14xzb5n",
@@ -528,28 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-07-21 02:36"
-    },
-    {
-      "id": "15qvmu0",
-      "title": "Gas prices hit $4 again after oil soars more than 15% in a week",
-      "title_vi": "Giá xăng lại chạm mốc 4 USD sau khi dầu tăng hơn 15% trong một tuần",
-      "summary_vi": "Kể từ đầu năm, giá dầu thô Mỹ và dầu Brent quốc tế đã tăng khoảng 45%.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260529-gas-prices-rs-086688.jpg",
-      "link": "https://www.nbcnews.com/business/energy/gas-prices-hit-4-dollars-renewed-iran-russia-tensions-rcna588055",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-07-21 01:53"
-    },
-    {
-      "id": "15i9kqd",
-      "title": "Cocoa Prices Pressured by Dollar Strength and Rising ICE Inventories",
-      "title_vi": "Giá ca cao bị áp lực bởi sức mạnh đồng đô la và hàng tồn kho ICE tăng",
-      "summary_vi": "Ca cao ICE NY tháng 9 (CCU26) vào thứ Hai đóng cửa ở mức giảm -13 (-0,23%) và ca cao ICE London #7 (CAU26) tháng 9 đóng cửa tăng +1 (+0,02%). Giá ca cao chịu áp lực khiêm tốn vào thứ Hai trong bối cảnh đồng đô la mạnh hơn, gây áp lực lên hầu hết các mặt hàng. Ngoài ra, lượng tồn kho ca cao tăng đang làm giảm giá sau…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://es.tradingview.com/news/barchart:e70a7bb71094b:0-cocoa-prices-pressured-by-dollar-strength-and-rising-ice-inventories/",
-      "source": "TradingView",
-      "category": "soft",
-      "published": "2026-07-21 01:25"
     }
   ]
 }

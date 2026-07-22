@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-22 22:01",
+  "updated_at": "2026-07-22 23:01",
   "items": [
+    {
+      "id": "ez7hrp",
+      "title": "LNG Supply Crisis Pushes Buyers Toward Coal and Oil",
+      "title_vi": "Khủng hoảng nguồn cung LNG đẩy người mua hướng tới than và dầu",
+      "summary_vi": "Việc nối lại cuộc xung đột ở Iran, bao gồm cả việc đóng cửa eo biển Hormuz và bây giờ là eo biển Bab el-Mandeb, đã đẩy giá khí đốt tự nhiên tăng cao, đặc biệt là ở châu Âu và châu Á. Châu Á chiếm gần 90% lượng vận chuyển khí tự nhiên hóa lỏng (LNG) từ Trung Đông",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-22_aw7fmzeui9.jpg",
+      "link": "https://oilprice.com/Energy/Natural-Gas/LNG-Supply-Crisis-Pushes-Buyers-Toward-Coal-and-Oil.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-22 23:00"
+    },
+    {
+      "id": "1ika5qr",
+      "title": "Anaerobic dry processing unlocks flavor precursors in Arabica coffee beans | Newswise",
+      "title_vi": "Quá trình xử lý khô kỵ khí giải phóng các tiền chất hương vị trong hạt cà phê Arabica | Theo bản tin",
+      "summary_vi": "Một nhóm nghiên cứu đã vạch ra cách thức bốn phương pháp chế biến sau thu hoạch định hình lại tiền chất hương vị trong hạt cà phê Arabica, cho thấy quá trình lên men kỵ khí—đặc biệt là lên men kỵ khí chế biến khô—làm tăng đáng kể các chất chuyển hóa không bay hơi quan trọng liên quan đến mùi thơm, hương vị, độ axit, độ đậm đà và sự cân bằng. Bằng cách kết nối",
+      "image": "https://www.newswise.com/images/uploads/2026/07/22/6a60e43b27328_1.jpg",
+      "link": "https://www.newswise.com/articles/anaerobic-dry-processing-unlocks-flavor-precursors-in-arabica-coffee-beans",
+      "source": "Newswise",
+      "category": "soft",
+      "published": "2026-07-22 22:30"
+    },
     {
       "id": "18i2v8h",
       "title": "US Oil, Product Inventories See Builds Across the Board",
@@ -90,15 +112,26 @@
       "published": "2026-07-22 17:30"
     },
     {
-      "id": "14cv511",
-      "title": "Equinor Profit Soars 93% as Oil and Gas Price Spike Fuels Windfall",
-      "title_vi": "Lợi nhuận Equinor tăng vọt 93% khi giá dầu và khí đốt tăng vọt",
-      "summary_vi": "Equinor (EQNR:NYSE) chứng kiến ​​lợi nhuận quý hai tăng 93% so với một năm trước đó khi giá dầu và khí đốt tăng vọt trong cuộc khủng hoảng Trung Đông và mang lại thu nhập trời cho cho các công ty năng lượng lớn nhất. Công ty lớn của Na Uy hôm thứ Tư đã báo cáo thu nhập hoạt động được điều chỉnh sau",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-22_ozpniewb1n.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Profit-Soars-93-as-Oil-and-Gas-Price-Spike-Fuels-Windfall.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-22 16:30"
+      "id": "chkbw7",
+      "title": "China's Scrap Crackdown and Chile Storms Tighten Copper Supply: Watch the $100 Import Premium",
+      "title_vi": "Cuộc đàn áp phế liệu của Trung Quốc và các cơn bão ở Chile thắt chặt nguồn cung đồng: Theo dõi mức phí nhập khẩu 100 USD",
+      "summary_vi": "Cuộc đàn áp phế liệu của Trung Quốc và các cơn bão ở Chile đã thắt chặt nguồn cung đồng, nâng giá khi phí nhập khẩu đạt 100 USD. Việc giảm xuống dưới 50 USD báo hiệu sự phục hồi nguồn cung.",
+      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a5f80f33cc951f9a53dff9f_Scrap%20copper.jpg",
+      "link": "https://www.cruxinvestor.com/posts/chinas-scrap-crackdown-and-chile-storms-tighten-copper-supply-watch-the-100-import-premium",
+      "source": "Crux Investor",
+      "category": "metal",
+      "published": "2026-07-22 16:45"
+    },
+    {
+      "id": "1a7k2jf",
+      "title": "June heatwave knocks €2 billion off European harvest prospects – new analysis",
+      "title_vi": "Đợt nắng nóng tháng 6 làm mất đi 2 tỷ euro triển vọng thu hoạch ở châu Âu – phân tích mới",
+      "summary_vi": "Dự báo của ngành cho thấy sản lượng thu hoạch ngũ cốc ở châu Âu sẽ giảm 9 triệu tấn do ảnh hưởng của đợt nắng nóng tháng 6",
+      "image": "https://ca1-eci.edcdn.com/_1200x630_crop_center-center_82_none/Drought_2025-03-25-063526_yies.jpg?v=1768397308",
+      "link": "https://eciu.net/media/press-releases/june-heatwave-knocks-2-billion-off-european-harvest-prospects-new-analysis",
+      "source": "Energy & Climate Intelligence Unit | ECIU",
+      "category": "agri",
+      "published": "2026-07-22 14:56"
     },
     {
       "id": "1fh04rs",
@@ -517,39 +550,6 @@
       "source": "PBS",
       "category": "energy",
       "published": "2026-07-20 20:32"
-    },
-    {
-      "id": "5vd8ks",
-      "title": "Silver Price For Today, 20 July 2026",
-      "title_vi": "Giá Bạc hôm nay, ngày 20 tháng 7 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
-      "source": "Forbes",
-      "category": "metal",
-      "published": "2026-07-20 19:47"
-    },
-    {
-      "id": "1sx5zxr",
-      "title": "Natural Gas Ends Week Down 1%, but Is the Outlook Improving?",
-      "title_vi": "Khí đốt tự nhiên kết thúc tuần giảm 1%, nhưng triển vọng có cải thiện không?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/energy/articles/natural-gas-ends-week-down-123500137.html",
-      "source": "Yahoo Finance",
-      "category": "energy",
-      "published": "2026-07-20 19:35"
-    },
-    {
-      "id": "fvdeo1",
-      "title": "Copper Price Rally Powers Hudbay Minerals (HBM) in Q2",
-      "title_vi": "Sự phục hồi giá đồng đã thúc đẩy Hudbay Minerals (HBM) trong quý 2",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://sg.finance.yahoo.com/news/copper-price-rally-powers-hudbay-122410347.html",
-      "source": "Yahoo Finance Singapore",
-      "category": "metal",
-      "published": "2026-07-20 19:24"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-22 14:26",
+  "updated_at": "2026-07-22 15:01",
   "items": [
+    {
+      "id": "czzpt0",
+      "title": "Surging Oil Prices Push Japan’s Import Bill to an Unprecedented High",
+      "title_vi": "Giá dầu tăng đẩy chi phí nhập khẩu của Nhật Bản lên mức cao chưa từng thấy",
+      "summary_vi": "Reuters đưa tin, trích dẫn dữ liệu của chính phủ, giá dầu tăng đã khiến hóa đơn nhập khẩu của Nhật Bản tăng đáng kể, đạt mức cao nhất mọi thời đại vào tháng trước là 89,46 tỷ USD. Tổng số tháng 6 cao hơn 25,4% so với một năm trước đó do giá dầu quốc tế tăng hơn 50% trong",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-22_mtea49vrob.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Surging-Oil-Prices-Push-Japans-Import-Bill-to-an-Unprecedented-High.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-22 14:30"
+    },
     {
       "id": "1bffcpy",
       "title": "U.S.-Iran Conflict Threatens Long-Term Energy Shock Across Asia",
@@ -167,17 +178,6 @@
       "published": "2026-07-22 01:33"
     },
     {
-      "id": "30tw43",
-      "title": "India Pulls Back From Iraqi Oil as Hormuz Turns Too Dangerous",
-      "title_vi": "Ấn Độ rút lui khỏi dầu mỏ của Iraq vì Hormuz trở nên quá nguy hiểm",
-      "summary_vi": "Các nhà máy lọc dầu nhà nước lớn nhất của Ấn Độ không còn sẵn sàng đánh bạc ở eo biển Hormuz nữa. Tập đoàn Dầu khí Ấn Độ và Nhà máy lọc dầu & hóa dầu Mangalore đã đình chỉ vận chuyển dầu thô từ Iraq sau một loạt các cuộc tấn công vào tàu chở dầu thương mại đã trở thành nguồn cung dầu quan trọng nhất thế giới.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-21_flin0anohc.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Pulls-Back-From-Iraqi-Oil-as-Hormuz-Turns-Too-Dangerous.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-22 01:30"
-    },
-    {
       "id": "1eo7mup",
       "title": "ING appoints Van de Water as Americas commodity finance head",
       "title_vi": "ING bổ nhiệm Van de Water làm giám đốc tài chính hàng hóa châu Mỹ",
@@ -187,6 +187,17 @@
       "source": "Global Trade Review (GTR)",
       "category": "metal",
       "published": "2026-07-22 01:21"
+    },
+    {
+      "id": "1peheel",
+      "title": "Goldman Sachs hikes European gas price forecast on Hormuz disruption",
+      "title_vi": "Goldman Sachs tăng dự báo giá khí đốt châu Âu do sự gián đoạn của Hormuz",
+      "summary_vi": "Tin tức mới nhất về dầu khí, dành riêng cho tất cả mọi thứ về dầu khí: con người, công nghệ, giao dịch, xu hướng và phân tích kinh tế vĩ mô tác động đến giá cả hàng hóa.",
+      "image": "https://www.oilandgas360.com/wp-content/uploads/2026/07/goldman-sachs.jpg",
+      "link": "https://www.oilandgas360.com/goldman-sachs-hikes-european-gas-price-forecast-on-hormuz-disruption/",
+      "source": "Oil & Gas 360",
+      "category": "energy",
+      "published": "2026-07-22 00:48"
     },
     {
       "id": "sut059",
@@ -539,17 +550,6 @@
       "source": "RTTNews",
       "category": "macro",
       "published": "2026-07-20 17:32"
-    },
-    {
-      "id": "15qvmu0",
-      "title": "Gas prices hit $4 again after oil soars more than 15% in a week",
-      "title_vi": "Giá xăng lại chạm mốc 4 USD sau khi dầu tăng hơn 15% trong một tuần",
-      "summary_vi": "Kể từ đầu năm, cả giá dầu thô Mỹ và dầu Brent quốc tế hiện đã tăng khoảng 45%.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260529-gas-prices-rs-086688.jpg",
-      "link": "https://www.nbcnews.com/business/energy/gas-prices-hit-4-dollars-renewed-iran-russia-tensions-rcna588055",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-07-20 14:47"
     }
   ]
 }

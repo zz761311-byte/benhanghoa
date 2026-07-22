@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-22 15:01",
+  "updated_at": "2026-07-22 16:01",
   "items": [
+    {
+      "id": "ia2lyt",
+      "title": "China&#039;s Oil Output Hits Record High",
+      "title_vi": "Sản lượng dầu của Trung Quốc đạt mức cao kỷ lục",
+      "summary_vi": "Cơ quan Năng lượng Quốc gia hôm nay báo cáo rằng Trung Quốc đã sản xuất lượng dầu thô kỷ lục vào năm ngoái, ở mức 216 triệu tấn, với sản lượng khí đốt tự nhiên cũng tăng đáng kể. Tổng cộng, sản lượng dầu và khí đốt của Trung Quốc tính theo quy đổi dầu đã tăng lên 420 triệu tấn - một mức tăng đáng kể.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-22_53alb6rtow.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Oil-Output-Hits-Record-High.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-22 15:30"
+    },
     {
       "id": "czzpt0",
       "title": "Surging Oil Prices Push Japan’s Import Bill to an Unprecedented High",
@@ -79,6 +90,17 @@
       "published": "2026-07-22 06:23"
     },
     {
+      "id": "1kpnhdt",
+      "title": "Cotton prices rally as Texas growing conditions turn mixed",
+      "title_vi": "Giá bông tăng do điều kiện trồng trọt ở Texas trở nên trái chiều",
+      "summary_vi": "Giá bông ở Texas tăng do thời tiết hỗn hợp khiến người trồng phải đối mặt với những điều kiện khác nhau rõ rệt trên toàn bang.",
+      "image": "https://media.agrilifetoday.tamu.edu/2026/07/20220809_Cotton_Drought_Cattle_SC_017.jpg",
+      "link": "https://agrilifetoday.tamu.edu/2026/07/21/cotton-prices-rally-as-texas-growing-conditions-turn-mixed/",
+      "source": "AgriLife Today",
+      "category": "soft",
+      "published": "2026-07-22 05:15"
+    },
+    {
       "id": "a546a7",
       "title": "Platinum and Palladium Price Trends: H1 2026 Review and Forecast",
       "title_vi": "Xu hướng giá bạch kim và Palladium: Đánh giá và dự báo nửa đầu năm 2026",
@@ -154,17 +176,6 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-07-22 02:52"
-    },
-    {
-      "id": "c6pivm",
-      "title": "Kazakhstan Suspends Major Oil Exports as Black Sea Risks Escalate",
-      "title_vi": "Kazakhstan đình chỉ xuất khẩu dầu lớn khi rủi ro Biển Đen leo thang",
-      "summary_vi": "Sau một cuộc tấn công bằng máy bay không người lái vào nhà ga của Hiệp hội Đường ống Caspian (CPC) dọc theo Bờ Biển Đen, Kazakhstan mới xác nhận việc dừng vận chuyển dầu thô tới đó. Kazakhstan chuẩn bị ngừng vận chuyển dầu thô tới một cảng trên bờ Biển Đen của Nga sau một loạt các cuộc tấn công vào tàu chở dầu",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-21_bmvq13uozf.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Kazakhstan-Suspends-Major-Oil-Exports-as-Black-Sea-Risks-Escalate.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-22 02:00"
     },
     {
       "id": "1dfrr2b",
@@ -365,6 +376,17 @@
       "published": "2026-07-21 02:36"
     },
     {
+      "id": "15qvmu0",
+      "title": "Gas prices hit $4 again after oil soars more than 15% in a week",
+      "title_vi": "Giá xăng lại chạm mốc 4 USD sau khi dầu tăng hơn 15% trong một tuần",
+      "summary_vi": "Kể từ đầu năm, giá dầu thô Mỹ và dầu Brent quốc tế đã tăng khoảng 45%.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260529-gas-prices-rs-086688.jpg",
+      "link": "https://www.nbcnews.com/business/energy/gas-prices-hit-4-dollars-renewed-iran-russia-tensions-rcna588055",
+      "source": "NBC News",
+      "category": "energy",
+      "published": "2026-07-21 01:53"
+    },
+    {
       "id": "15i9kqd",
       "title": "Cocoa Prices Pressured by Dollar Strength and Rising ICE Inventories",
       "title_vi": "Giá ca cao bị áp lực bởi sức mạnh đồng đô la và hàng tồn kho ICE tăng",
@@ -528,28 +550,6 @@
       "source": "MindBodyGreen",
       "category": "soft",
       "published": "2026-07-20 17:46"
-    },
-    {
-      "id": "170unuh",
-      "title": "U.S. Gas Prices Top $4 Again As Iran War Continues To Escalate",
-      "title_vi": "Giá xăng của Mỹ lại lên tới 4 USD khi chiến tranh Iran tiếp tục leo thang",
-      "summary_vi": "Giá dầu toàn cầu nhanh chóng chạm mức 90 USD/gallon vào đầu ngày thứ Hai trước khi cả hai nước phát tín hiệu sẵn sàng nối lại đàm phán.",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a5df98671acad057a0f6a81/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "link": "https://www.forbes.com/sites/siladityaray/2026/07/20/us-gas-prices-top-4-again-as-iran-war-continues-to-escalate/",
-      "source": "Forbes",
-      "category": "energy",
-      "published": "2026-07-20 17:34"
-    },
-    {
-      "id": "sat6b",
-      "title": "Dollar Drops As Soft Inflation Dims Fed Hike Bets",
-      "title_vi": "Đồng đô la giảm khi lạm phát yếu làm giảm mức đặt cược tăng lãi suất của Fed",
-      "summary_vi": "Chỉ số lạm phát tốt hơn mong đợi từ Hoa Kỳ đã hỗ trợ và tiếp tay cho sự sụt giảm nhẹ của đồng đô la trong tuần kết thúc vào ngày 17 tháng 7.",
-      "image": "https://cdn.rttnews.com/articleimages/ustopstories/2026/july/dollardown-20072026-lt.jpg",
-      "link": "https://www.rttnews.com/amp/3668335/dollar-drops-as-soft-inflation-dims-fed-hike-bets.aspx",
-      "source": "RTTNews",
-      "category": "macro",
-      "published": "2026-07-20 17:32"
     }
   ]
 }

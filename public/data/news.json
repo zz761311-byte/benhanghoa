@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23 04:01",
+  "updated_at": "2026-07-23 04:31",
   "items": [
     {
       "id": "1cty00l",
@@ -110,6 +110,17 @@
       "source": "Newswise",
       "category": "soft",
       "published": "2026-07-22 22:30"
+    },
+    {
+      "id": "13zkh31",
+      "title": "US Natural Gas Falls on Warmer Outlook, Growing Storage Surplus",
+      "title_vi": "Khí đốt tự nhiên của Hoa Kỳ giảm do triển vọng ấm hơn, dư thừa kho dự trữ ngày càng tăng",
+      "summary_vi": "Bởi Julian Hast Giá khí tự nhiên kỳ hạn của Mỹ kết thúc ở mức thấp hơn do dự báo cho thấy thời tiết ấm hơn dự kiến ​​trước đây ở miền đông Hoa Kỳ, cũng như kỳ vọng của thị trường rằng tồn kho trong nước sẽ tăng so với mức bình thường theo mùa trong những tuần tới khi nhu cầu giảm đi vào mùa xuân. Mức dự trữ khí đốt của Hoa Kỳ&hellip",
+      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Terminal-1200x810-1.jpg",
+      "link": "https://energynow.com/2026/03/us-natural-gas-falls-on-warmer-outlook-growing-storage-surplus/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-07-22 22:12"
     },
     {
       "id": "18i2v8h",
@@ -539,17 +550,6 @@
       "source": "Farms.com",
       "category": "agri",
       "published": "2026-07-20 23:22"
-    },
-    {
-      "id": "1s8h0dg",
-      "title": "China imports at nine-month high buoy copper prices",
-      "title_vi": "Nhập khẩu của Trung Quốc ở mức giá đồng cao nhất trong 9 tháng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/asia-pacific/china-imports-nine-month-high-buoy-copper-prices-2026-07-20/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-07-20 23:11"
     }
   ]
 }

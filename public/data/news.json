@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22 14:01",
+  "updated_at": "2026-07-22 14:26",
   "items": [
     {
       "id": "1bffcpy",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-22 13:30"
+    },
+    {
+      "id": "1fh04rs",
+      "title": "Gold hits two-week high as Fed outlook, Mideast conflict stay in focus",
+      "title_vi": "Vàng đạt mức cao nhất trong hai tuần khi triển vọng của Fed và xung đột Trung Đông vẫn là tâm điểm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-nears-two-week-high-fed-outlook-middle-east-conflict-stay-focus-2026-07-22/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-07-22 08:51"
     },
     {
       "id": "ofm7yo",
@@ -189,6 +200,17 @@
       "published": "2026-07-21 23:54"
     },
     {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "(Reuters) – Khí đốt tự nhiên chạm đến hầu hết mọi ngóc ngách của nền kinh tế Hoa Kỳ, cung cấp nhiên liệu cho các nhà máy điện, nhà cửa, nhà máy và lĩnh vực xuất khẩu LNG đang bùng nổ. Nhưng nguồn cung cần thiết để đáp ứng tất cả những mục đích sử dụng đó lại đến từ một mảnh đất đá phiến ngày càng hẹp của Mỹ. Sự không phù hợp này giữa một nhóm người tiêu dùng ngày càng mở rộng…",
+      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Flame-1200x810-1.jpg",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-07-21 23:17"
+    },
+    {
       "id": "1d3mw84",
       "title": "America’s Most Prolific Oil Field Has a Natural-Gas Problem",
       "title_vi": "Mỏ dầu dồi dào nhất nước Mỹ gặp vấn đề về khí đốt tự nhiên",
@@ -365,17 +387,6 @@
       "published": "2026-07-21 01:07"
     },
     {
-      "id": "1s4480s",
-      "title": "Silver rebounds from 8-month low, gold price defends $4,000",
-      "title_vi": "Bạc phục hồi từ mức thấp nhất trong 8 tháng, giá vàng bảo vệ 4.000 USD",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.mining.com/silver-rebounds-from-8-month-low-gold-price-defends-4000/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-21 00:52"
-    },
-    {
       "id": "mibrva",
       "title": "Fastmarkets suspends 10 FOB Azov and CIF Marmara Russian wheat price assessments: pricing notice",
       "title_vi": "Fastmarkets đình chỉ 10 đợt đánh giá giá lúa mì Nga FOB Azov và CIF Marmara: thông báo về giá",
@@ -539,17 +550,6 @@
       "source": "NBC News",
       "category": "energy",
       "published": "2026-07-20 14:47"
-    },
-    {
-      "id": "jl4l9k",
-      "title": "Natural Gas and Oil Forecast: OPEC Demand Cut Meets Hormuz Tensions What’s Next for Oil?",
-      "title_vi": "Dự báo khí đốt tự nhiên và dầu: Việc cắt giảm nhu cầu của OPEC đáp ứng căng thẳng Hormuz Điều gì tiếp theo đối với dầu?",
-      "summary_vi": "Sự gián đoạn vận chuyển của Hormuz và triển vọng nhu cầu yếu hơn của OPEC khiến thị trường dầu mỏ đứng trước nguy cơ bị ảnh hưởng. Xem triển vọng mới nhất về WTI, Brent và khí đốt tự nhiên.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/Main-Images-3-4.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-opec-demand-cut-meets-hormuz-tensions-whats-next-for-oil-1611408",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-07-20 13:34"
     }
   ]
 }

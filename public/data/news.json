@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22 07:01",
+  "updated_at": "2026-07-22 08:01",
   "items": [
     {
       "id": "ofm7yo",
@@ -99,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-22 02:00"
+    },
+    {
+      "id": "1dfrr2b",
+      "title": "Silver price jumps 5%, gold attracts bargain hunters above $4,000",
+      "title_vi": "Giá bạc tăng 5%, vàng thu hút những người săn hàng giá hời trên 4.000 USD",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.mining.com/silver-price-surges-5-on-coppers-coattails-gold-price-finds-footing-above-4000/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-22 01:33"
     },
     {
       "id": "30tw43",
@@ -354,6 +365,17 @@
       "published": "2026-07-20 20:59"
     },
     {
+      "id": "1ib23p9",
+      "title": "U.S. gas prices hit an average of $4 a gallon again as the U.S. and Iran launch attacks",
+      "title_vi": "Giá xăng ở Mỹ lại đạt mức trung bình 4 USD/gallon khi Mỹ và Iran tiến hành các cuộc tấn công",
+      "summary_vi": "Đây là mức giá trung bình trên toàn quốc, có nghĩa là người lái xe ở một số bang đã phải trả hơn 4 USD một gallon trong một thời gian.",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/AP26177445561767-1024x683.jpg",
+      "link": "https://www.pbs.org/newshour/nation/u-s-gas-prices-hit-an-average-of-4-a-gallon-again-as-the-u-s-and-iran-launch-attacks",
+      "source": "PBS",
+      "category": "energy",
+      "published": "2026-07-20 20:32"
+    },
+    {
       "id": "5vd8ks",
       "title": "Silver Price For Today, 20 July 2026",
       "title_vi": "Giá Bạc hôm nay, ngày 20 tháng 7 năm 2026",
@@ -442,17 +464,6 @@
       "published": "2026-07-20 17:32"
     },
     {
-      "id": "i8t8y1",
-      "title": "Gold holds near $4,000 as Fed rate expectations offset safe-haven demand",
-      "title_vi": "Vàng giữ gần 4.000 USD khi kỳ vọng lãi suất của Fed bù đắp cho nhu cầu trú ẩn an toàn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-holds-near-4-000-092317256.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-07-20 16:23"
-    },
-    {
       "id": "15qvmu0",
       "title": "Gas prices hit $4 again after oil soars more than 15% in a week",
       "title_vi": "Giá xăng lại chạm mốc 4 USD sau khi dầu tăng hơn 15% trong một tuần",
@@ -539,17 +550,6 @@
       "source": "Axios",
       "category": "energy",
       "published": "2026-07-20 06:38"
-    },
-    {
-      "id": "vxqay5",
-      "title": "Gas queues grow as Ukraine targets Russia's fuel supply",
-      "title_vi": "Hàng chờ mua xăng ngày càng tăng khi Ukraine nhắm tới nguồn cung cấp nhiên liệu của Nga",
-      "summary_vi": "Các cuộc tấn công của Ukraine đã gây ra cuộc khủng hoảng nhiên liệu ở Nga. Các báo cáo từ khắp nước Nga cho thấy người dân đang đối phó với những gián đoạn trong cuộc sống hàng ngày của họ như thế nào.",
-      "image": "https://static.dw.com/image/77766779_6.jpg",
-      "link": "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russias-fuel-supply/a-77887704",
-      "source": "DW.com",
-      "category": "energy",
-      "published": "2026-07-19 22:39"
     }
   ]
 }

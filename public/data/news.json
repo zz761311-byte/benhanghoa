@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22 08:10",
+  "updated_at": "2026-07-22 09:01",
   "items": [
     {
       "id": "ofm7yo",
@@ -167,6 +167,17 @@
       "published": "2026-07-21 23:54"
     },
     {
+      "id": "1d3mw84",
+      "title": "America’s Most Prolific Oil Field Has a Natural-Gas Problem",
+      "title_vi": "Mỏ dầu dồi dào nhất nước Mỹ gặp vấn đề về khí đốt tự nhiên",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/americas-most-prolific-oil-field-has-a-natural-gas-problem-22b816b0",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-07-21 23:01"
+    },
+    {
       "id": "hvb9h7",
       "title": "Copper Price Rebound Lifts FCX; This Stock Is Actionable",
       "title_vi": "Giá đồng phục hồi FCX; Cổ phiếu này có thể giao dịch được",
@@ -209,6 +220,17 @@
       "source": "Baird Maritime",
       "category": "energy",
       "published": "2026-07-21 19:16"
+    },
+    {
+      "id": "1t16q91",
+      "title": "Gold stays above $4,000 as easing Middle East tensions shift focus to the Federal Reserve",
+      "title_vi": "Vàng duy trì trên 4.000 USD khi căng thẳng ở Trung Đông giảm bớt, chuyển trọng tâm sang Cục Dự trữ Liên bang",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://uk.finance.yahoo.com/news/gold-stays-above-4-000-103135487.html",
+      "source": "Yahoo Finance UK",
+      "category": "metal",
+      "published": "2026-07-21 17:31"
     },
     {
       "id": "40y0te",
@@ -365,17 +387,6 @@
       "published": "2026-07-20 22:32"
     },
     {
-      "id": "11b45md",
-      "title": "Gold SWOT: Genesis Minerals’ billion-dollar merger pushes stock higher",
-      "title_vi": "Gold SWOT: Việc sáp nhập hàng tỷ đô la của Genesis Minerals đẩy cổ phiếu lên cao hơn",
-      "summary_vi": "Điểm mạnhKim loại quý hoạt động tốt nhất trong tuần là bạch kim, tuy nhiên lại tăng 1,44%. Vàng tăng vào thứ Ba và thứ Tư sau khi dữ liệu lạm phát thấp hơn dự kiến ​​của Mỹ làm giảm bớt lo ngại rằng Cục Dự trữ Liên bang sẽ cần sớm tăng lãi suất để hạn chế áp lực giá cả. Chủ tịch Fed Kevin Warsh đã hạ thấp quan điểm",
-      "image": "https://image-api.prod.kitco.com/image/fdef9f39-d4d2-483e-9a32-42de4a392db3.png?top=8.575117370892&left=0&width=624&height=351&scale_width=1920&token=70b246b957bcb4ed426a14686401af91ee514c8b5a36375b866f95a330801a79",
-      "link": "https://www.kitco.com/opinion/2026-07-20/gold-swot-genesis-minerals-billion-dollar-merger-pushes-stock-higher",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-07-20 20:59"
-    },
-    {
       "id": "1ib23p9",
       "title": "U.S. gas prices hit an average of $4 a gallon again as the U.S. and Iran launch attacks",
       "title_vi": "Giá xăng ở Mỹ lại đạt mức trung bình 4 USD/gallon khi Mỹ và Iran tiến hành các cuộc tấn công",
@@ -464,6 +475,17 @@
       "published": "2026-07-20 17:46"
     },
     {
+      "id": "170unuh",
+      "title": "U.S. Gas Prices Top $4 Again As Iran War Continues To Escalate",
+      "title_vi": "Giá xăng của Mỹ lại lên tới 4 USD khi chiến tranh Iran tiếp tục leo thang",
+      "summary_vi": "Giá dầu toàn cầu nhanh chóng chạm mức 90 USD/gallon vào đầu ngày thứ Hai trước khi cả hai nước phát tín hiệu sẵn sàng nối lại đàm phán.",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a5df98671acad057a0f6a81/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "link": "https://www.forbes.com/sites/siladityaray/2026/07/20/us-gas-prices-top-4-again-as-iran-war-continues-to-escalate/",
+      "source": "Forbes",
+      "category": "energy",
+      "published": "2026-07-20 17:34"
+    },
+    {
       "id": "sat6b",
       "title": "Dollar Drops As Soft Inflation Dims Fed Hike Bets",
       "title_vi": "Đồng đô la giảm khi lạm phát yếu làm giảm mức đặt cược tăng lãi suất của Fed",
@@ -528,28 +550,6 @@
       "source": "Financial Times",
       "category": "soft",
       "published": "2026-07-20 11:01"
-    },
-    {
-      "id": "1pskfy7",
-      "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
-      "title_vi": "Giá dầu vượt 90 USD/thùng khi xung đột Mỹ-Iran ngày càng mở rộng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-07-20 10:22"
-    },
-    {
-      "id": "n08zrs",
-      "title": "Oil prices erase gains after Iran says U.S. talks could be pursued based on national interests",
-      "title_vi": "Giá dầu xóa đi mức tăng sau khi Iran cho biết các cuộc đàm phán với Mỹ có thể được theo đuổi dựa trên lợi ích quốc gia",
-      "summary_vi": "Lực lượng Mỹ đã bắt đầu đêm thứ chín liên tiếp tấn công các mục tiêu của Iran.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108327785-1782560045329-gettyimages-1188056001-AFP_1MX6AU.jpeg?v=1782560074&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-07-20 08:14"
     }
   ]
 }

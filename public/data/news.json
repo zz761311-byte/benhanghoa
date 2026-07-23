@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-23 21:01",
+  "updated_at": "2026-07-23 22:01",
   "items": [
+    {
+      "id": "1bb4cj3",
+      "title": "Greece Exposes the Limits of Europe&#039;s Russia Energy Sanctions",
+      "title_vi": "Hy Lạp vạch trần giới hạn của các lệnh trừng phạt năng lượng Nga của châu Âu",
+      "summary_vi": "Thỏa thuận cuối cùng của EU về gói trừng phạt mới nhất chống lại Nga đang được Brussels trình bày như một minh chứng khác cho sự đoàn kết và quyết tâm của châu Âu trong việc duy trì áp lực kinh tế đối với Điện Kremlin. Kể từ tháng 2 năm 2022, các biện pháp trừng phạt đã trở thành một trong những biện pháp chính của EU.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-23_pqebnnig1d.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Greece-Exposes-the-Limits-of-Europes-Russia-Energy-Sanctions.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-07-23 22:00"
+    },
+    {
+      "id": "1a2dla6",
+      "title": "India’s Fuel Exports Set to Soar in July as Refining Margins Jump",
+      "title_vi": "Xuất khẩu nhiên liệu của Ấn Độ sẽ tăng vọt trong tháng 7 khi lợi nhuận lọc dầu tăng",
+      "summary_vi": "Ấn Độ đang trên đà xuất khẩu khối lượng sản phẩm dầu mỏ tinh chế cao nhất trong nhiều tháng do lợi nhuận lọc dầu tăng vọt do xung đột Trung Đông tái leo thang. Ấn Độ ước tính xuất khẩu tới 1,55 triệu thùng mỗi ngày (bpd) sản phẩm chưng cất nhẹ và trung bình ở J.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-23_4dzev7ejgl.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Fuel-Exports-Set-to-Soar-in-July-as-Refining-Margins-Jump.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-23 21:30"
+    },
     {
       "id": "xjdrk1",
       "title": "U.S. and Ukraine Sign Landmark Drone Cooperation Agreement",
@@ -9,8 +31,19 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-23_noqsyp0z3c.jpg",
       "link": "https://oilprice.com/Geopolitics/Europe/US-and-Ukraine-Sign-Landmark-Drone-Cooperation-Agreement.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-07-23 21:00"
+    },
+    {
+      "id": "6oe952",
+      "title": "Brent crude tops $100 a barrel. How the next stop could be $120",
+      "title_vi": "Dầu Brent vượt mốc 100 USD/thùng. Điểm dừng tiếp theo có thể là $120 như thế nào",
+      "summary_vi": "Goldman Sachs cảnh báo về giá dầu và cái gọi là đáy bể (và thích một cái tên mới liên quan đến khí đốt tự nhiên).",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338085-1784660991043-gettyimages-2287085140-l1110389_jedrjjpw.jpeg?v=1784661019&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/07/23/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-07-23 20:36"
     },
     {
       "id": "1gbweov",
@@ -79,17 +112,6 @@
       "published": "2026-07-23 16:02"
     },
     {
-      "id": "9ae13a",
-      "title": "EU Concedes to Greek LNG Demand in Russian Sanctions Row",
-      "title_vi": "EU thừa nhận nhu cầu LNG của Hy Lạp trước lệnh trừng phạt của Nga",
-      "summary_vi": "Liên minh châu Âu sẽ miễn trừ Dynagas của Hy Lạp khỏi gói trừng phạt mới nhất dành cho Nga sau áp lực từ chính phủ Hy Lạp, vốn cho rằng gói này sẽ gây tổn hại cho nền kinh tế nước này. Gói này sẽ được bỏ phiếu vào ngày hôm nay, bao gồm lệnh cấm vận chuyển LNG tới các nước thứ ba.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-23_0lu8qkbv96.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Concedes-to-Greek-LNG-Demand-in-Russian-Sanctions-Row.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-23 15:30"
-    },
-    {
       "id": "10otabs",
       "title": "Geopolitical stress escalation and impact on commodities [Video]",
       "title_vi": "Căng thẳng địa chính trị leo thang và tác động lên hàng hóa [Video]",
@@ -110,17 +132,6 @@
       "source": "Moomoo",
       "category": "energy",
       "published": "2026-07-23 14:41"
-    },
-    {
-      "id": "xqjsn4",
-      "title": "India’s Solar Manufacturing Push Backfires as Panel Factories Shut Down",
-      "title_vi": "Hoạt động sản xuất năng lượng mặt trời của Ấn Độ gặp khó khăn khi các nhà máy sản xuất tấm pin đóng cửa",
-      "summary_vi": "Ấn Độ gặp trở ngại trong tham vọng thúc đẩy sản xuất năng lượng mặt trời khi các nhà máy địa phương bắt đầu đóng cửa vì thiếu linh kiện, Reuters hôm nay đưa tin, trích dẫn các nguồn tin giấu tên trong ngành. Sự thiếu hụt là kết quả của luật mới nhằm giảm sự phụ thuộc của Ấn Độ.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-23_t2oyzftrzv.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Solar-Manufacturing-Push-Backfires-as-Panel-Factories-Shut-Down.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-07-23 14:30"
     },
     {
       "id": "a3l9x1",
@@ -539,17 +550,6 @@
       "source": "Investing News Network",
       "category": "metal",
       "published": "2026-07-22 05:00"
-    },
-    {
-      "id": "y228kc",
-      "title": "Copper price nearing US record as premium doubles, Shanghai stockpiles drop 82%",
-      "title_vi": "Giá đồng gần kỷ lục của Mỹ khi giá cao gấp đôi, tồn kho Thượng Hải giảm 82%",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.mining.com/copper-price-nearing-us-record-as-premium-doubles-shanghai-stockpiles-drop-82/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-22 04:47"
     }
   ]
 }

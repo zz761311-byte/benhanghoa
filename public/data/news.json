@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24 01:01",
+  "updated_at": "2026-07-24 01:40",
   "items": [
     {
       "id": "hu0nh9",
@@ -365,6 +365,17 @@
       "published": "2026-07-23 03:11"
     },
     {
+      "id": "ipgqct",
+      "title": "4 Best Copper ETFs in 2026 - U.S. News",
+      "title_vi": "4 quỹ ETF đồng tốt nhất năm 2026 - Tin tức Hoa Kỳ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://money.usnews.com/investing/articles/best-copper-etfs-to-buy",
+      "source": "U.S. News - Money",
+      "category": "metal",
+      "published": "2026-07-23 02:47"
+    },
+    {
       "id": "1cbo3r3",
       "title": "The Russia-Ukraine War Report Card, July 22, 2026",
       "title_vi": "Thẻ Báo cáo Chiến tranh Nga-Ukraine, ngày 22 tháng 7 năm 2026",
@@ -539,17 +550,6 @@
       "source": "Energy & Climate Intelligence Unit | ECIU",
       "category": "agri",
       "published": "2026-07-22 14:56"
-    },
-    {
-      "id": "syezcj",
-      "title": "Gold Approaches a Key Inflection Point With Eyes on Fed Signals",
-      "title_vi": "Vàng tiếp cận điểm uốn quan trọng khi chú ý đến tín hiệu của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://m.za.investing.com/analysis/gold-approaches-a-key-inflection-point-with-eyes-on-fed-signals-200621597?ampMode",
-      "source": "Investing.com South Africa",
-      "category": "metal",
-      "published": "2026-07-22 14:28"
     }
   ]
 }

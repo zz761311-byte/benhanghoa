@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-23 12:01",
+  "updated_at": "2026-07-23 13:01",
   "items": [
+    {
+      "id": "19zb4w",
+      "title": "Silver and gold prices stage a cautious rebound — but analysts see slim hopes for a sustained rally",
+      "title_vi": "Giá bạc và vàng phục hồi một cách thận trọng - nhưng các nhà phân tích nhận thấy hy vọng mong manh về một đợt phục hồi bền vững",
+      "summary_vi": "Kim loại quý đã tăng giá trong những ngày gần đây, nhưng các nhà phân tích cho rằng giá có thể phải đối mặt với một chặng đường khó khăn để quay trở lại mức cao nhất mọi thời đại đạt được vào đầu năm nay.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108256504-17691942812026-01-23t182552z_1555020399_rc2xav9y5ez9_rtrmadp_0_global-metals-silver.jpeg?v=1769194324&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/07/23/silver-gold-prices-rebound-rally-correction.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-07-23 12:00"
+    },
     {
       "id": "1gz9k9g",
       "title": "Gold off two-week peak as oil advances; Fed meeting in focus",
@@ -211,6 +222,17 @@
       "published": "2026-07-23 01:41"
     },
     {
+      "id": "174f1kz",
+      "title": "Copper’s Biggest Intraday Drop in 2026: 5 Stocks Most at Risk Today",
+      "title_vi": "Đồng giảm giá lớn nhất trong ngày vào năm 2026: 5 cổ phiếu có nguy cơ cao nhất hiện nay",
+      "summary_vi": "Copper vừa công bố đợt rút lui trong một ngày mạnh nhất vào năm 2026 và thiệt hại sẽ không xảy ra như nhau đối với mọi thợ mỏ. Năm cổ phiếu đồng niêm yết trên NYSE phải đối mặt với mức độ phơi nhiễm rất khác nhau và thứ hạng có thể làm bạn ngạc nhiên.",
+      "image": "https://247wallst.com/wp-content/uploads/2024/07/shutterstock-2479295885-huge-licensed-scaled.jpg",
+      "link": "https://247wallst.com/investing/2026/07/22/coppers-biggest-intraday-drop-in-2026-5-stocks-most-at-risk-today/",
+      "source": "24/7 Wall St.",
+      "category": "metal",
+      "published": "2026-07-23 00:46"
+    },
+    {
       "id": "1slc482",
       "title": "Commodities Strength Boosts TSX Futures Amid Geopolitical Premiums and Trade Uncertainties",
       "title_vi": "Sức mạnh hàng hóa thúc đẩy hợp đồng tương lai TSX trong bối cảnh phí bảo hiểm địa chính trị và những bất ổn thương mại",
@@ -288,6 +310,17 @@
       "published": "2026-07-22 19:56"
     },
     {
+      "id": "vxqay5",
+      "title": "Gas queues grow as Ukraine targets Russia's fuel supply",
+      "title_vi": "Hàng chờ mua xăng ngày càng tăng khi Ukraine nhắm tới nguồn cung cấp nhiên liệu của Nga",
+      "summary_vi": "Các cuộc tấn công của Ukraine đã gây ra cuộc khủng hoảng nhiên liệu ở Nga. Các báo cáo từ khắp nước Nga cho thấy người dân đang đối phó với những gián đoạn trong cuộc sống hàng ngày của họ như thế nào.",
+      "image": "https://static.dw.com/image/77766779_6.jpg",
+      "link": "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russias-fuel-supply/a-77887704",
+      "source": "DW.com",
+      "category": "energy",
+      "published": "2026-07-22 19:18"
+    },
+    {
       "id": "5id72i",
       "title": "Platinum and Palladium Price Forecast: Rebound Faces Critical Resistance Levels",
       "title_vi": "Dự báo giá bạch kim và Palladium: Sự phục hồi phải đối mặt với các mức kháng cự quan trọng",
@@ -352,17 +385,6 @@
       "source": "FXStreet",
       "category": "macro",
       "published": "2026-07-22 10:09"
-    },
-    {
-      "id": "1fh04rs",
-      "title": "Gold hits two-week high as Fed outlook, Mideast conflict stay in focus",
-      "title_vi": "Vàng đạt mức cao nhất trong hai tuần khi triển vọng của Fed và xung đột Trung Đông vẫn là tâm điểm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-nears-two-week-high-fed-outlook-middle-east-conflict-stay-focus-2026-07-22/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-07-22 08:51"
     },
     {
       "id": "1gmwroy",
@@ -528,28 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-07-21 23:01"
-    },
-    {
-      "id": "hvb9h7",
-      "title": "Copper Price Rebound Lifts FCX; This Stock Is Actionable",
-      "title_vi": "Giá đồng phục hồi FCX; Cổ phiếu này có thể giao dịch được",
-      "summary_vi": "Giá đồng đạt mức cao nhất trong một tháng, nâng CPER ETF vượt qua điểm mua vào sớm khi cổ phiếu FCX tăng điểm trước báo cáo thu nhập.",
-      "image": "https://www.investors.com/wp-content/uploads/2016/07/stock-copper-4-adobe.jpg",
-      "link": "https://www.investors.com/news/copper-price-fcx-earnings-due-q2-cper-stock-etf/",
-      "source": "Investor's Business Daily",
-      "category": "metal",
-      "published": "2026-07-21 22:35"
-    },
-    {
-      "id": "1ohtp0g",
-      "title": "Indian Refiners Come to the Rescue of Russia’s Oil Exporters",
-      "title_vi": "Các nhà lọc dầu Ấn Độ đến giải cứu các nhà xuất khẩu dầu của Nga",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-21/india-s-refiners-come-to-the-rescue-of-russia-s-oil-exporters",
-      "source": "Bloomberg.com",
-      "category": "energy",
-      "published": "2026-07-21 21:50"
     }
   ]
 }

@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-07-23 15:01",
+  "updated_at": "2026-07-23 16:01",
   "items": [
+    {
+      "id": "9ae13a",
+      "title": "EU Concedes to Greek LNG Demand in Russian Sanctions Row",
+      "title_vi": "EU thừa nhận nhu cầu LNG của Hy Lạp trước lệnh trừng phạt của Nga",
+      "summary_vi": "Liên minh châu Âu sẽ miễn trừ Dynagas của Hy Lạp khỏi gói trừng phạt mới nhất dành cho Nga sau áp lực từ chính phủ Hy Lạp, vốn cho rằng gói này sẽ gây tổn hại cho nền kinh tế nước này. Gói này sẽ được bỏ phiếu vào ngày hôm nay, bao gồm lệnh cấm vận chuyển LNG tới các nước thứ ba.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-23_0lu8qkbv96.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Concedes-to-Greek-LNG-Demand-in-Russian-Sanctions-Row.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-23 15:30"
+    },
+    {
+      "id": "10otabs",
+      "title": "Geopolitical stress escalation and impact on commodities [Video]",
+      "title_vi": "Căng thẳng địa chính trị leo thang và tác động lên hàng hóa [Video]",
+      "summary_vi": "Chu kỳ thời gian của các loại tiền tệ khác nhau và chỉ số đô la đều kết hợp với nhau. Chúng ta cũng đang chứng kiến ​​một giai đoạn căng thẳng địa chính trị lớn chắc chắn sẽ tác động đến dầu mỏ.",
+      "image": "https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2_Medium.png",
+      "link": "https://www.fxstreet.com/analysis/geopolitical-stress-escalation-and-impact-on-commodities-video-202607230802",
+      "source": "FXStreet",
+      "category": "macro",
+      "published": "2026-07-23 15:02"
+    },
+    {
+      "id": "lge9ou",
+      "title": "The 'double-edged sword' of rising oil prices: boosting the Canadian dollar while also reinforcing market expectations of Federal Reserve rate hikes",
+      "title_vi": "'Con dao hai lưỡi' của giá dầu tăng: thúc đẩy đồng đô la Canada đồng thời củng cố kỳ vọng thị trường về việc tăng lãi suất của Cục Dự trữ Liên bang",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.moomoo.com/news/post/73409514/the-double-edged-sword-of-rising-oil-prices-boosting-the",
+      "source": "Moomoo",
+      "category": "energy",
+      "published": "2026-07-23 14:41"
+    },
     {
       "id": "xqjsn4",
       "title": "India’s Solar Manufacturing Push Backfires as Panel Factories Shut Down",
@@ -9,7 +42,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-23_t2oyzftrzv.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Solar-Manufacturing-Push-Backfires-as-Panel-Factories-Shut-Down.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-07-23 14:30"
     },
     {
@@ -90,6 +123,17 @@
       "published": "2026-07-23 06:56"
     },
     {
+      "id": "1ika5qr",
+      "title": "Anaerobic Dry Processing Unlocks Flavor Precursors in Arabica Coffee Beans | Newswise",
+      "title_vi": "Chế biến khô kỵ khí giải phóng các tiền chất hương vị trong hạt cà phê Arabica | Theo bản tin",
+      "summary_vi": "Một nhóm nghiên cứu đã vạch ra cách thức bốn phương pháp chế biến sau thu hoạch định hình lại các tiền chất hương vị trong hạt cà phê Arabica, cho thấy rằng quá trình lên men kỵ khí—đặc biệt là chế biến khô lên men kỵ khí—làm tăng đáng kể các chất chuyển hóa không bay hơi quan trọng liên quan đến mùi thơm, hương vị, độ chua, độ đậm đà và sự cân bằng. Bằng cách kết nối",
+      "image": "https://www.newswise.com/images/uploads/2026/07/22/6a60e43b27328_1.jpg",
+      "link": "https://www.newswise.com/articles/anaerobic-dry-processing-unlocks-flavor-precursors-in-arabica-coffee-beans",
+      "source": "Newswise",
+      "category": "soft",
+      "published": "2026-07-23 06:45"
+    },
+    {
       "id": "19u2elq",
       "title": "Southern rust confirmed in Iowa corn, but expert says weather outlook eases concerns",
       "title_vi": "Bệnh gỉ sắt miền Nam được xác nhận ở ngô Iowa, nhưng chuyên gia cho biết triển vọng thời tiết làm giảm bớt lo ngại",
@@ -154,28 +198,6 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-07-23 04:15"
-    },
-    {
-      "id": "1cty00l",
-      "title": "MIT Framework Maps Grid Weak Spots Before Climate Disasters Hit",
-      "title_vi": "MIT Framework Maps Lưới điểm yếu trước khi thảm họa khí hậu xảy ra",
-      "summary_vi": "Các nhà nghiên cứu tại MIT đã phát triển một khuôn khổ mới để vạch ra các điểm nóng về mặt địa lý và các điểm yếu đối với lưới điện đang bị bao vây của chúng ta. Khi các hiện tượng thời tiết cực đoan và các đợt nắng nóng mùa hè tăng cao trở nên phổ biến hơn, đồng thời nhu cầu năng lượng trên lưới điện tăng vọt nhờ vào",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-22_6npbsilcp1.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/MIT-Framework-Maps-Grid-Weak-Spots-Before-Climate-Disasters-Hit.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-23 04:00"
-    },
-    {
-      "id": "1dbaewn",
-      "title": "Anaerobic dry processing unlocks flavor precursors in Arabica coffee beans",
-      "title_vi": "Quá trình xử lý khô kỵ khí giải phóng tiền chất hương vị trong hạt cà phê Arabica",
-      "summary_vi": "Một nhóm nghiên cứu đã vạch ra cách thức bốn phương pháp chế biến sau thu hoạch định hình lại các tiền chất hương vị trong hạt cà phê Arabica, cho thấy rằng quá trình lên men kỵ khí - đặc biệt là lên men kỵ khí chế biến khô - làm tăng đáng kể các chất chuyển hóa không bay hơi quan trọng liên quan đến mùi thơm, hương vị, độ axit, độ đậm đà và sự cân bằng",
-      "image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/955bc2e4-d5de-48c6-aae2-414b1e03ec1c/Rendition/thumbnail/Content/Public",
-      "link": "https://www.eurekalert.org/news-releases/1137176",
-      "source": "EurekAlert!",
-      "category": "soft",
-      "published": "2026-07-23 03:59"
     },
     {
       "id": "16xh9ni",
@@ -528,28 +550,6 @@
       "source": "CP24",
       "category": "metal",
       "published": "2026-07-21 23:36"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "(Reuters) – Khí đốt tự nhiên chạm đến hầu hết mọi ngóc ngách của nền kinh tế Hoa Kỳ, cung cấp nhiên liệu cho các nhà máy điện, nhà cửa, nhà máy và lĩnh vực xuất khẩu LNG đang bùng nổ. Nhưng nguồn cung cần thiết để đáp ứng tất cả những mục đích sử dụng đó lại đến từ một mảnh đất đá phiến ngày càng hẹp của Mỹ. Sự không phù hợp này giữa một nhóm người tiêu dùng ngày càng mở rộng…",
-      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Flame-1200x810-1.jpg",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-07-21 23:17"
-    },
-    {
-      "id": "1d3mw84",
-      "title": "America’s Most Prolific Oil Field Has a Natural-Gas Problem",
-      "title_vi": "Mỏ dầu dồi dào nhất nước Mỹ gặp vấn đề về khí đốt tự nhiên",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/americas-most-prolific-oil-field-has-a-natural-gas-problem-22b816b0",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-07-21 23:01"
     }
   ]
 }

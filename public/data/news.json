@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23 17:01",
+  "updated_at": "2026-07-23 18:01",
   "items": [
     {
       "id": "16chpxx",
@@ -497,6 +497,17 @@
       "published": "2026-07-22 04:24"
     },
     {
+      "id": "lwsrov",
+      "title": "Why oil prices haven't gone crazy despite 5 months of US-Iran war",
+      "title_vi": "Tại sao giá dầu không tăng điên cuồng dù 5 tháng chiến tranh Mỹ-Iran",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/why-oil-prices-havent-gone-crazy-despite-5-months-us-iran-war-2026-07-20/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-07-22 03:42"
+    },
+    {
       "id": "1l1e1ei",
       "title": "Federal Reserve seen holding rates next week amid Oil shock ‒ Reuters",
       "title_vi": "Cục Dự trữ Liên bang dự kiến ​​sẽ giữ lãi suất vào tuần tới trong bối cảnh cú sốc dầu mỏ - Reuters",
@@ -539,17 +550,6 @@
       "source": "Oil & Gas 360",
       "category": "energy",
       "published": "2026-07-22 00:48"
-    },
-    {
-      "id": "sut059",
-      "title": "Study Links Filter Coffee to Lower Blood Sugar via the Gut",
-      "title_vi": "Liên kết nghiên cứu Lọc cà phê để giảm lượng đường trong máu qua đường ruột",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/07/21/study-links-filter-coffee-to-lower-blood-sugar-via-the-gut/",
-      "source": "Daily Coffee News by Roast Magazine",
-      "category": "soft",
-      "published": "2026-07-21 23:54"
     }
   ]
 }

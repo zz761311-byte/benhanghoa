@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23 16:42",
+  "updated_at": "2026-07-23 17:01",
   "items": [
     {
       "id": "16chpxx",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-07-23 14:30"
+    },
+    {
+      "id": "a3l9x1",
+      "title": "Two Wars Put Stranglehold on Global Energy Supplies",
+      "title_vi": "Hai cuộc chiến tranh bóp nghẹt nguồn cung năng lượng toàn cầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/global-economy-is-suddenly-fighting-an-energy-stranglehold-on-three-fronts-93f28d2b",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-07-23 14:01"
     },
     {
       "id": "1pi9b5j",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News by Roast Magazine",
       "category": "soft",
       "published": "2026-07-21 23:54"
-    },
-    {
-      "id": "1d77kfr",
-      "title": "Tariffs on jewelry and metals threaten Toronto business’s U.S. sales — again",
-      "title_vi": "Thuế quan đối với đồ trang sức và kim loại đe dọa doanh số bán hàng của doanh nghiệp Toronto ở Mỹ - một lần nữa",
-      "summary_vi": "Khi khách hàng ở Hoa Kỳ đặt hàng với công ty trang sức Suetables của Sue Henderson, cô ấy sẽ làm một việc khác thường đối với một chủ doanh nghiệp: cô ấy hỏi họ xem họ có thực sự chắc chắn muốn mua hàng hay không.",
-      "image": "https://www.cp24.com/resizer/v2/2YRT2OK5SNFTPPW2YCYXRBZMNA.JPG?smart=true&auth=ac3db89a9cc99fce18296992a6b4e82630f7dcf96b753f5e1fa1749f501b0d19&width=1200&height=630",
-      "link": "https://www.cp24.com/news/money/2026/07/21/tariffs-on-jewelry-and-metals-threaten-toronto-businesss-us-sales-again/",
-      "source": "CP24",
-      "category": "metal",
-      "published": "2026-07-21 23:36"
     }
   ]
 }

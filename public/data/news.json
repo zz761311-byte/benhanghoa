@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-24 04:01",
+  "updated_at": "2026-07-24 04:30",
   "items": [
+    {
+      "id": "nrrjvb",
+      "title": "Coffee prices are grinding consumers. When could relief arrive?",
+      "title_vi": "Giá cà phê đang làm đau đầu người tiêu dùng. Khi nào cứu trợ có thể đến?",
+      "summary_vi": "Những người uống cà phê đang trả nhiều tiền hơn cho cốc cà phê buổi sáng của họ, khiến một số người mua hàng phải cắt giảm hoặc bỏ hẳn việc đến quán cà phê.",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/7027eff/2147483647/strip/true/crop/1228x645+0+17/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F7a%2Fcd%2F24587dd947938f01c23d17045899%2Fscreenshot-2026-07-23-at-3-38-56-pm.png",
+      "link": "https://www.news5cleveland.com/money/consumer/coffee-prices-are-grinding-consumers-when-could-relief-arrive",
+      "source": "News 5 Cleveland WEWS",
+      "category": "soft",
+      "published": "2026-07-24 04:20"
+    },
     {
       "id": "123hs6w",
       "title": "The AI Paradox Reshaping Clean Energy Research",
@@ -539,17 +550,6 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-07-22 20:00"
-    },
-    {
-      "id": "15pyx20",
-      "title": "Stifel cuts Hershey stock price target on cocoa cost concerns",
-      "title_vi": "Stifel cắt giảm mục tiêu giá cổ phiếu Hershey do lo ngại chi phí ca cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/analyst-ratings/stifel-cuts-hershey-stock-price-target-on-cocoa-cost-concerns-93CH-4805827",
-      "source": "Investing.com",
-      "category": "soft",
-      "published": "2026-07-22 19:56"
     }
   ]
 }

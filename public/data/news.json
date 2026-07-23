@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23 10:01",
+  "updated_at": "2026-07-23 11:01",
   "items": [
     {
       "id": "1egd82w",
@@ -88,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-23 05:00"
+    },
+    {
+      "id": "fbyshc",
+      "title": "Silver's correction has reset the market, clearing the way for a sustainable rally to $70 – WisdomTree's Nitesh Shah",
+      "title_vi": "Sự điều chỉnh của Bạc đã thiết lập lại thị trường, dọn đường cho một đợt phục hồi bền vững lên 70 USD – Nitesh Shah của WisdomTree",
+      "summary_vi": "(Kitco News) - Sự điều chỉnh tàn bạo của bạc so với mức cao kỷ lục trong tháng 1 đã khiến các nhà đầu tư thất vọng, nhưng một chiến lược gia kim loại quý cho biết giá thấp hơn chính xác là những gì thị trường cần để xây dựng một thị trường tăng giá bền vững hơn. Trong triển vọng mới nhất của mình, Nitesh Shah, Trưởng phòng Nghiên cứu Hàng hóa và Kinh tế Vĩ mô tại",
+      "image": "https://image-api.prod.kitco.com/image/7494588e-b3c7-46d5-80e5-5259d2e8aa2d.jpeg?top=17.846153846154&left=0&width=650&height=366.15384615385&scale_width=1920&token=bae9ebda187d996d0f8da90463b165fce1a2c3d0d691df6daa97b01c49ee8b52",
+      "link": "https://www.kitco.com/news/article/2026-07-22/silvers-correction-has-reset-market-clearing-way-sustainable-rally-70",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-07-23 04:51"
     },
     {
       "id": "8xgbgr",
@@ -539,17 +550,6 @@
       "source": "Bloomberg.com",
       "category": "energy",
       "published": "2026-07-21 21:50"
-    },
-    {
-      "id": "x8ali6",
-      "title": "Crop Market Volatility Surges: Wheat Rallies on Black Sea Disruptions & Milo Face Export Challenges",
-      "title_vi": "Biến động thị trường cây trồng gia tăng: Lúa mì tăng do gián đoạn ở Biển Đen & Những thách thức xuất khẩu Milo đối mặt",
-      "summary_vi": "Todd Hubbs của OSU cho biết thị trường cây trồng đã tăng mạnh trong tuần qua do giá lúa mì tăng mạnh. Diễn biến ở Biển Đen đã đẩy giá lúa mì tăng cao do dòng chảy thương mại ra khỏi khu vực bị gián đoạn. Dự đoán mô hình thời tiết hiện tại dự báo các đợt mưa lớn trong tuần tới ở Nebraska, NE",
-      "image": "",
-      "link": "https://www.oklahomafarmreport.com/2026/07/21/crop-market-volatility-surges-wheat-rallies-on-black-sea-disruptions-milo-face-export-challenges/",
-      "source": "Oklahoma Farm Report",
-      "category": "agri",
-      "published": "2026-07-21 21:32"
     }
   ]
 }

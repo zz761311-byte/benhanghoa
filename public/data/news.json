@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-23 19:01",
+  "updated_at": "2026-07-23 20:01",
   "items": [
+    {
+      "id": "11u5das",
+      "title": "Global Oil Price Nears $100 a Barrel as Conflict With Iran Deepens",
+      "title_vi": "Giá dầu toàn cầu đạt gần 100 USD/thùng khi xung đột với Iran ngày càng sâu sắc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/07/23/business/iran-crude-oil-gas-stock-prices.html",
+      "source": "The New York Times",
+      "category": "energy",
+      "published": "2026-07-23 19:42"
+    },
+    {
+      "id": "1civsxn",
+      "title": "U.S. Refinery Utilization Hits 96.2% as Fuel Markets Tighten Worldwide",
+      "title_vi": "Mức sử dụng nhà máy lọc dầu của Hoa Kỳ đạt 96,2% khi thị trường nhiên liệu thắt chặt trên toàn thế giới",
+      "summary_vi": "Việc sử dụng nhà máy lọc dầu của Mỹ đã gần đạt công suất trong nhiều tuần, với xuất khẩu nhiên liệu của Mỹ tăng lên mức cao kỷ lục trong bối cảnh thị trường nhiên liệu toàn cầu thắt chặt sau chiến tranh Iran và việc đóng cửa eo biển Hormuz. Công suất sử dụng công suất lọc dầu trung bình trên toàn nước Mỹ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-23_zdcebhiqdq.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Refinery-Utilization-Hits-962-as-Fuel-Markets-Tighten-Worldwide.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-23 19:30"
+    },
     {
       "id": "1ps8uco",
       "title": "Chinese Tankers Push Through Bab el-Mandeb Despite Houthi Blockade Threats",
@@ -101,6 +123,17 @@
       "published": "2026-07-23 13:30"
     },
     {
+      "id": "14p1nkf",
+      "title": "Russia forced to import fuel from India as Ukrainian strikes damage refineries",
+      "title_vi": "Nga buộc phải nhập khẩu nhiên liệu từ Ấn Độ khi Ukraine tấn công các nhà máy lọc dầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.ft.com/content/fda9e7c8-87cd-49f8-bdf1-01adf293670f?syn-25a6b1a6",
+      "source": "Financial Times",
+      "category": "energy",
+      "published": "2026-07-23 12:29"
+    },
+    {
       "id": "19zb4w",
       "title": "Silver and gold prices stage a cautious rebound — but analysts see slim hopes for a sustained rally",
       "title_vi": "Giá bạc và vàng phục hồi một cách thận trọng - nhưng các nhà phân tích nhận thấy hy vọng mong manh về một đợt phục hồi bền vững",
@@ -143,17 +176,6 @@
       "source": "The Mighty 790 KFGO",
       "category": "macro",
       "published": "2026-07-23 08:10"
-    },
-    {
-      "id": "vicnam",
-      "title": "Global Refiners Are Cutting Out Oil Traders To Buy Venezuelan Crude Directly",
-      "title_vi": "Các nhà lọc dầu toàn cầu đang cắt giảm các thương nhân dầu để mua trực tiếp dầu thô của Venezuela",
-      "summary_vi": "Theo Reuters, các nhà giao dịch hàng hóa đang phải rút tấm thảm ra khỏi một trong những ngày trả lương lớn nhất của họ khi các nhà lọc dầu bắt đầu bỏ qua dầu và các nhà giao dịch mà mua trực tiếp dầu thô của Venezuela. Các nhà máy lọc dầu và các công ty sản xuất dầu lớn đang nhanh chóng giành được thị phần ở Venezuela",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-22_t72r3fy9bs.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Global-Refiners-Are-Cutting-Out-Oil-Traders-To-Buy-Venezuelan-Crude-Directly.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-23 07:00"
     },
     {
       "id": "1l1hzp9",
@@ -242,6 +264,17 @@
       "source": "KITCO",
       "category": "metal",
       "published": "2026-07-23 03:11"
+    },
+    {
+      "id": "1cbo3r3",
+      "title": "The Russia-Ukraine War Report Card, July 22, 2026",
+      "title_vi": "Thẻ Báo cáo Chiến tranh Nga-Ukraine, ngày 22 tháng 7 năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-july-22-2026",
+      "source": "Russia Matters",
+      "category": "energy",
+      "published": "2026-07-23 02:22"
     },
     {
       "id": "1jdb9c5",
@@ -517,39 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-07-22 03:42"
-    },
-    {
-      "id": "1l1e1ei",
-      "title": "Federal Reserve seen holding rates next week amid Oil shock ‒ Reuters",
-      "title_vi": "Cục Dự trữ Liên bang dự kiến ​​sẽ giữ lãi suất vào tuần tới trong bối cảnh cú sốc dầu mỏ - Reuters",
-      "summary_vi": "Một cuộc thăm dò của Reuters tiết lộ rằng Cục Dự trữ Liên bang rất có thể sẽ giữ nguyên lãi suất trong thời gian còn lại của năm khi cơ quan này phải đối mặt với tình trạng lạm phát cao dai dẳng vẫn ở trên mục tiêu 2% của Fed trong ít nhất 5 năm.",
-      "image": "https://editorial.fxsstatic.com/images/i/Federal-Reserve-Building_1_Medium.png",
-      "link": "https://www.fxstreet.com/news/federal-reserve-seen-holding-rates-next-week-amid-oil-shock-reuters-202607212027",
-      "source": "FXStreet",
-      "category": "energy",
-      "published": "2026-07-22 03:27"
-    },
-    {
-      "id": "1eo7mup",
-      "title": "ING appoints Van de Water as Americas commodity finance head",
-      "title_vi": "ING bổ nhiệm Van de Water làm giám đốc tài chính hàng hóa châu Mỹ",
-      "summary_vi": "ING đã bổ nhiệm Remko van de Water làm người đứng đầu bộ phận thương mại và tài chính hàng hóa (TCF) khu vực Châu Mỹ, sau khi bổ nhiệm Cauê Todeschini làm người đứng đầu TCF toàn cầu vào tháng 3. Có hiệu lực từ ngày 1 tháng 7, việc bổ nhiệm này mở rộng vai trò của ông với tư cách là người đứng đầu lĩnh vực khai thác và kim loại của ING ở Châu Mỹ mà ông đã nắm giữ từ năm 2008. Van de Water joi",
-      "image": "https://www.gtreview.com/wp-content/uploads/2026/07/Remkoe-van-der-Water_news.jpeg",
-      "link": "https://www.gtreview.com/news/on-the-move/ing-appoints-van-de-water-as-americas-commodity-finance-head/",
-      "source": "Global Trade Review (GTR)",
-      "category": "metal",
-      "published": "2026-07-22 01:21"
-    },
-    {
-      "id": "c8v2nu",
-      "title": "Silver Price Jumps Over 5% As Buyers Regain Control",
-      "title_vi": "Giá bạc tăng hơn 5% khi người mua giành lại quyền kiểm soát",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://seekingalpha.com/article/4923888-silver-price-jumps-over-5-percent-buyers-regain-control",
-      "source": "Seeking Alpha",
-      "category": "metal",
-      "published": "2026-07-22 00:50"
     }
   ]
 }

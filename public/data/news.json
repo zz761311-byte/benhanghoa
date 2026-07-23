@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-23 11:40",
+  "updated_at": "2026-07-23 12:01",
   "items": [
+    {
+      "id": "1gz9k9g",
+      "title": "Gold off two-week peak as oil advances; Fed meeting in focus",
+      "title_vi": "Vàng rời khỏi đỉnh hai tuần khi giá dầu tăng; Trọng tâm cuộc họp của Fed",
+      "summary_vi": "Vàng giữ ổn định vào thứ Năm, giảm từ mức cao nhất trong hai tuần, do xung đột ở Trung Đông leo thang khiến giá dầu tăng cao, trong khi các nhà giao dịch trông chờ vào cuộc họp của Fed vào tuần tới để tìm manh mối về khả năng tăng lãi suất.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107343525-1701808821163-2017-07-23T095142Z_1172305496_RC1333BEC120_RTRMADP_3_SINGAPORE-GOLD.JPG?v=1784779654&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/07/23/gold-off-two-week-peak-as-oil-advances-fed-meeting-in-focus.html",
+      "source": "CNBC",
+      "category": "macro",
+      "published": "2026-07-23 11:24"
+    },
     {
       "id": "1egd82w",
       "title": "Brent Nears $96 as U.S. Strikes Iran for 12th Consecutive Night",
@@ -440,17 +451,6 @@
       "source": "FXStreet",
       "category": "energy",
       "published": "2026-07-22 03:27"
-    },
-    {
-      "id": "1dfrr2b",
-      "title": "Silver price jumps 5%, gold attracts bargain hunters above $4,000",
-      "title_vi": "Giá bạc tăng 5%, vàng thu hút những người săn hàng giá hời trên 4.000 USD",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.mining.com/silver-price-surges-5-on-coppers-coattails-gold-price-finds-footing-above-4000/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-07-22 01:33"
     },
     {
       "id": "1eo7mup",

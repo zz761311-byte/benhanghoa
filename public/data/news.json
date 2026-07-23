@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23 20:01",
+  "updated_at": "2026-07-23 20:15",
   "items": [
     {
       "id": "11u5das",
@@ -165,6 +165,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-23 09:26"
+    },
+    {
+      "id": "15h724r",
+      "title": "Dollar hits fresh 40-year high versus yen, edges down against euro",
+      "title_vi": "Đồng đô la đạt mức cao mới trong 40 năm so với đồng yên, giảm nhẹ so với đồng euro",
+      "summary_vi": "Đồng đô la giảm giá so với đồng euro trước cuộc họp chính sách của Ngân hàng Trung ương Châu Âu vào thứ Năm và đạt mức cao mới trong 40 năm so với đồng yên.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107433512-1719411053654-gettyimages-2152131083-JAPAN_YEN.jpeg?v=1784769421&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/07/23/us-iran-tensions-underpin-dollar-as-yen-nears-40-year-low.html",
+      "source": "CNBC",
+      "category": "macro",
+      "published": "2026-07-23 08:46"
     },
     {
       "id": "1g1jycm",
@@ -539,17 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-07-22 04:24"
-    },
-    {
-      "id": "lwsrov",
-      "title": "Why oil prices haven't gone crazy despite 5 months of US-Iran war",
-      "title_vi": "Tại sao giá dầu không tăng điên cuồng dù 5 tháng chiến tranh Mỹ-Iran",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/why-oil-prices-havent-gone-crazy-despite-5-months-us-iran-war-2026-07-20/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-07-22 03:42"
     }
   ]
 }

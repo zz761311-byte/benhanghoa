@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-24 06:44",
+  "updated_at": "2026-07-24 07:01",
   "items": [
+    {
+      "id": "1s5qvag",
+      "title": "Lithium Prices Sink To Five-Month Lows Amid Oversupply Jitters",
+      "title_vi": "Giá lithium giảm xuống mức thấp nhất trong 5 tháng trong bối cảnh lo lắng về tình trạng dư cung",
+      "summary_vi": "Giá lithium đã giảm xuống mức thấp nhất trong 5 tháng do công suất mỏ không hoạt động trở lại trước đây gây ra lo ngại về tình trạng dư cung trên thị trường. Giá lithium trên Sàn giao dịch tương lai Quảng Châu (GFEX), hợp đồng lithium cacbonat hoạt động mạnh nhất, giảm xuống 136.800 nhân dân tệ (20.210 USD)/tấn",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-23_wtpcey9tzs.jpg",
+      "link": "https://oilprice.com/Metals/Commodities/Lithium-Prices-Sink-To-Five-Month-Lows-Amid-Oversupply-Jitters.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-24 07:00"
+    },
     {
       "id": "jla0on",
       "title": "Trump Administration Eyes Offshore Nuclear to Power AI Boom",
@@ -134,15 +145,15 @@
       "published": "2026-07-23 22:52"
     },
     {
-      "id": "16tjsgb",
-      "title": "India Targets Five Small Modular Reactors by 2033",
-      "title_vi": "Ấn Độ đặt mục tiêu năm lò phản ứng mô-đun nhỏ vào năm 2033",
-      "summary_vi": "Bộ trưởng Năng lượng nguyên tử Ấn Độ Jitendra Singh cho biết Ấn Độ dự kiến ​​sẽ xây dựng trong nước 5 lò phản ứng mô-đun nhỏ (SMR) vào năm 2033. Bộ trưởng nói với la: 5 SMR sẽ là một phần trong nỗ lực của Ấn Độ nhằm đẩy nhanh việc lắp đặt công suất điện hạt nhân trong hai thập kỷ tới.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-23_wdat9jylkb.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Targets-Five-Small-Modular-Reactors-by-2033.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-23 22:30"
+      "id": "1jp53lm",
+      "title": "21st package of sanctions: EU hits Russian energy, financial services and crypto hard",
+      "title_vi": "Gói trừng phạt thứ 21: EU tấn công mạnh vào năng lượng, dịch vụ tài chính và tiền điện tử của Nga",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/21st-package-of-sanctions-eu-hits-russian-energy-financial-services-and-crypto-hard/",
+      "source": "consilium.europa.eu",
+      "category": "macro",
+      "published": "2026-07-23 22:44"
     },
     {
       "id": "wgdnbo",
@@ -539,17 +550,6 @@
       "source": "Caledonian Record",
       "category": "macro",
       "published": "2026-07-22 21:30"
-    },
-    {
-      "id": "1bt1tk2",
-      "title": "Copper Rally Tests Supply Tightness as Tariff Positioning Pushes the Comex Premium to $600",
-      "title_vi": "Copper Rally thử nghiệm độ thắt chặt của nguồn cung khi định vị thuế quan đẩy Comex Premium lên 600 USD",
-      "summary_vi": "Giá đồng tăng do kỳ vọng về thuế quan và nguồn cung toàn cầu thắt chặt đã đẩy mức chênh lệch Comex-LME lên 600 USD, trong đó phán quyết về thuế quan của Mỹ hiện là rủi ro chính.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a60bba695bb588f30e08f44_Commodity%20Exchange.jpg",
-      "link": "https://www.cruxinvestor.com/posts/copper-rally-tests-supply-tightness-as-tariff-positioning-pushes-the-comex-premium-to-600",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-07-22 20:00"
     }
   ]
 }

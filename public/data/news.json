@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24 09:01",
+  "updated_at": "2026-07-24 10:01",
   "items": [
     {
       "id": "tkoap0",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-24 06:00"
+    },
+    {
+      "id": "1fi8aac",
+      "title": "Corn Holds onto Gains on Thursday with Drier Forecast Remaining",
+      "title_vi": "Ngô giữ mức tăng vào thứ Năm với dự báo khô hạn còn lại",
+      "summary_vi": "Giá ngô kỳ hạn đóng cửa phiên giao dịch thứ Năm với các hợp đồng tăng từ 2 đến 3 cent trong những tháng trước và hợp đồng hoãn lại năm 2027 thấp hơn một chút. Giá ngô tiền mặt trung bình trên toàn quốc của CmdtyView đã tăng 2 xu ở mức 4,34 1/2. Xuất dữ liệu bán hàng...",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Agricultural%20Commodities/Corn/Market%20corn%20on%20the%20cob%20via%20Storyblocks.jpg",
+      "link": "https://www.barchart.com/story/news/3437959/corn-holds-onto-gains-on-thursday-with-drier-forecast-remaining",
+      "source": "Barchart.com",
+      "category": "agri",
+      "published": "2026-07-24 05:30"
     },
     {
       "id": "1b4922v",
@@ -539,17 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-07-22 22:33"
-    },
-    {
-      "id": "13zkh31",
-      "title": "US Natural Gas Falls on Warmer Outlook, Growing Storage Surplus",
-      "title_vi": "Khí đốt tự nhiên của Hoa Kỳ giảm do triển vọng ấm hơn, dư thừa kho dự trữ ngày càng tăng",
-      "summary_vi": "Bởi Julian Hast Giá khí tự nhiên kỳ hạn của Mỹ kết thúc ở mức thấp hơn do dự báo cho thấy thời tiết ấm hơn dự kiến ​​trước đây ở miền đông Hoa Kỳ, cũng như kỳ vọng của thị trường rằng tồn kho trong nước sẽ tăng so với mức bình thường theo mùa trong những tuần tới khi nhu cầu giảm đi vào mùa xuân. Mức dự trữ khí đốt của Hoa Kỳ&hellip",
-      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Terminal-1200x810-1.jpg",
-      "link": "https://energynow.com/2026/03/us-natural-gas-falls-on-warmer-outlook-growing-storage-surplus/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-07-22 22:12"
     }
   ]
 }

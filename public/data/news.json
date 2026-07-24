@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24 18:01",
+  "updated_at": "2026-07-24 18:27",
   "items": [
     {
       "id": "1gqzs1y",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-24 18:00"
+    },
+    {
+      "id": "1e4n5dp",
+      "title": "How might threat of ‘super’ El Niño impact coffee prices?",
+      "title_vi": "Mối đe dọa 'siêu' El Niño có thể tác động đến giá cà phê như thế nào?",
+      "summary_vi": "Fiona Holland khám phá mối đe dọa từ 'siêu' El Niño có thể ảnh hưởng như thế nào đến sản xuất cà phê, chất lượng sản phẩm và giá cả.",
+      "image": "https://www.just-drinks.com/wp-content/uploads/sites/29/2026/07/shutterstock_1423586189.jpg",
+      "link": "https://www.just-drinks.com/features/how-might-threat-of-super-el-nino-impact-coffee-prices/",
+      "source": "Just Drinks",
+      "category": "soft",
+      "published": "2026-07-24 17:35"
     },
     {
       "id": "oo2b7w",
@@ -539,17 +550,6 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-07-23 01:57"
-    },
-    {
-      "id": "1on6n8n",
-      "title": "Maxon Lift Awarded the Wabash Platinum Award for Supply Chain Performance",
-      "title_vi": "Maxon Lift được trao Giải thưởng Bạch kim Wabash cho Hiệu suất Chuỗi Cung ứng",
-      "summary_vi": "Maxon Lift, nhà sản xuất cửa nâng từ năm 1957, đã nhận được Giải thưởng Bạch kim Wabash cho hiệu suất của chuỗi cung ứng vào năm 2025. Hàng năm, Wabash trao giải thưởng cho các nhà cung cấp hàng đầu về sự xuất sắc trong cung ứng...",
-      "image": "https://assets.bobitstudios.com/image/upload/f_auto,q_auto,dpr_auto/20260722-Wabash-Award_-Maxon_ewxsna.jpg",
-      "link": "https://www.worktruckonline.com/news/maxon-lift-awarded-the-wabash-platinum-award-for-supply-chain-performance",
-      "source": "Work Truck Online",
-      "category": "metal",
-      "published": "2026-07-23 01:41"
     }
   ]
 }

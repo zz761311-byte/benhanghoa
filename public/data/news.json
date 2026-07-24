@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-25 04:32",
+  "updated_at": "2026-07-25 05:01",
   "items": [
+    {
+      "id": "1bksggx",
+      "title": "Metals, seeds, live primates: Trump tariff blow softened by extensive carve-outs",
+      "title_vi": "Kim loại, hạt giống, động vật linh trưởng sống: đòn thuế quan của Trump được xoa dịu nhờ sự cắt giảm sâu rộng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.politico.com/news/2026/07/24/trump-tariffs-carve-outs-01011751",
+      "source": "Politico",
+      "category": "metal",
+      "published": "2026-07-25 04:30"
+    },
     {
       "id": "1osz55x",
       "title": "China commitments offer support for soybean futures",
@@ -539,17 +550,6 @@
       "source": "Moomoo",
       "category": "energy",
       "published": "2026-07-23 14:41"
-    },
-    {
-      "id": "a3l9x1",
-      "title": "Two Wars Put Stranglehold on Global Energy Supplies",
-      "title_vi": "Hai cuộc chiến tranh bóp nghẹt nguồn cung năng lượng toàn cầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/global-economy-is-suddenly-fighting-an-energy-stranglehold-on-three-fronts-93f28d2b",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-07-23 14:01"
     }
   ]
 }

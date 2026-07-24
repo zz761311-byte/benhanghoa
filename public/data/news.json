@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-25 03:05",
+  "updated_at": "2026-07-25 04:01",
   "items": [
+    {
+      "id": "1osz55x",
+      "title": "China commitments offer support for soybean futures",
+      "title_vi": "Cam kết của Trung Quốc hỗ trợ giá đậu nành tương lai",
+      "summary_vi": "Một nhà kinh tế nông nghiệp cho biết thị trường đậu tương gần đây đã nhận được sự hỗ trợ từ xuất khẩu. Jim McCormick của AgMarket.Net cho biết đó là do các giao dịch mua hàng gần đây từ Trung Quốc. Ông nói: “Có vẻ như Trung Quốc tiếp tục thực hiện nghĩa vụ mua đậu”. “Họ đã cam kết mua 12 triệu tấn đậu mùa mới và",
+      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2025/08/7-31-25-LAte-July-Soybeans-JW-flowering-soybeans-soybean-flowers-e1754338647589.jpg",
+      "link": "https://www.brownfieldagnews.com/news/china-commitments-offer-support-for-soybean-futures/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-07-25 02:46"
+    },
     {
       "id": "r785sx",
       "title": "Gold price WARNING: China’s July 24 “shock” or not?",
@@ -198,6 +209,17 @@
       "source": "Just Drinks",
       "category": "soft",
       "published": "2026-07-24 17:35"
+    },
+    {
+      "id": "msngle",
+      "title": "Natural Gas and Oil Forecast: LNG Supply Fears Build Is Oil Ready for Another Breakout?",
+      "title_vi": "Dự báo khí đốt tự nhiên và dầu: Nỗi lo về nguồn cung LNG tăng lên Dầu đã sẵn sàng cho một bước đột phá khác chưa?",
+      "summary_vi": "Sự gián đoạn nguồn cung LNG và căng thẳng ở Trung Đông khiến thị trường năng lượng luôn trong tình trạng khó khăn. Khám phá triển vọng mới nhất về WTI, Brent và khí đốt tự nhiên.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/Main-Images.png?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-lng-supply-fears-build-is-oil-ready-for-another-breakout-1612489",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-07-24 14:47"
     },
     {
       "id": "4uihg0",
@@ -528,28 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-07-23 14:01"
-    },
-    {
-      "id": "kguxut",
-      "title": "Silver Price Outlook Turns Bullish Above Key Support",
-      "title_vi": "Triển vọng giá bạc tăng lên trên mức hỗ trợ quan trọng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.tradingpedia.com/2026/07/23/silver-price-outlook-turns-bullish-above-key-support/",
-      "source": "TradingPedia",
-      "category": "metal",
-      "published": "2026-07-23 13:43"
-    },
-    {
-      "id": "14p1nkf",
-      "title": "Russia forced to import fuel from India as Ukrainian strikes damage refineries",
-      "title_vi": "Nga buộc phải nhập khẩu nhiên liệu từ Ấn Độ khi Ukraine tấn công các nhà máy lọc dầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.ft.com/content/fda9e7c8-87cd-49f8-bdf1-01adf293670f?syn-25a6b1a6",
-      "source": "Financial Times",
-      "category": "energy",
-      "published": "2026-07-23 12:29"
     }
   ]
 }

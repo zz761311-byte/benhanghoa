@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24 11:38",
+  "updated_at": "2026-07-24 12:01",
   "items": [
     {
       "id": "1bc7vs9",
@@ -277,6 +277,17 @@
       "published": "2026-07-23 19:42"
     },
     {
+      "id": "1fh04rs",
+      "title": "Gold firms to two-week peak on softer dollar, Fed outlook in focus",
+      "title_vi": "Các công ty vàng đạt đỉnh hai tuần nhờ đồng đô la mềm hơn, trọng tâm là triển vọng của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-nears-two-week-high-fed-outlook-middle-east-conflict-stay-focus-2026-07-22/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-07-23 16:22"
+    },
+    {
       "id": "10otabs",
       "title": "Geopolitical stress escalation and impact on commodities [Video]",
       "title_vi": "Căng thẳng địa chính trị leo thang và tác động lên hàng hóa [Video]",
@@ -341,17 +352,6 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-07-23 12:00"
-    },
-    {
-      "id": "1gz9k9g",
-      "title": "Gold off two-week peak as oil advances; Fed meeting in focus",
-      "title_vi": "Vàng rời khỏi đỉnh hai tuần khi giá dầu tăng; Trọng tâm cuộc họp của Fed",
-      "summary_vi": "Vàng giữ ổn định vào thứ Năm, giảm từ mức cao nhất trong hai tuần, do xung đột ở Trung Đông leo thang khiến giá dầu tăng cao, trong khi các nhà giao dịch trông chờ vào cuộc họp của Fed vào tuần tới để tìm manh mối về khả năng tăng lãi suất.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107343525-1701808821163-2017-07-23T095142Z_1172305496_RC1333BEC120_RTRMADP_3_SINGAPORE-GOLD.JPG?v=1784779654&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/07/23/gold-off-two-week-peak-as-oil-advances-fed-meeting-in-focus.html",
-      "source": "CNBC",
-      "category": "macro",
-      "published": "2026-07-23 11:24"
     },
     {
       "id": "15h724r",

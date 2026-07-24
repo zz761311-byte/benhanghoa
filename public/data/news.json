@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-24 18:27",
+  "updated_at": "2026-07-24 19:01",
   "items": [
+    {
+      "id": "lkjl83",
+      "title": "Saudi Crude Tanker Goes Dark to Slip Through Bab el-Mandeb",
+      "title_vi": "Tàu chở dầu thô của Saudi đi trong bóng tối để trượt qua Bab el-Mandeb",
+      "summary_vi": "Ít nhất một tàu chở dầu chở dầu thô của Saudi đã đi qua eo biển Bab al-Mandeb và tắt bộ phát đáp do rủi ro đối với các tàu ở Biển Đỏ tăng vọt trong tuần này sau khi Houthi tuyên bố phong tỏa các chuyến hàng của Saudi và các tàu mục tiêu ngoài khơi Yemen. Merbabu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-24_d3quvlv5sx.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Crude-Tanker-Goes-Dark-to-Slip-Through-Bab-el-Mandeb.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-24 18:30"
+    },
     {
       "id": "1gqzs1y",
       "title": "WTI Explodes Higher as Middle East Shipping Risks Multiply",
@@ -90,17 +101,6 @@
       "published": "2026-07-24 14:45"
     },
     {
-      "id": "afgnpx",
-      "title": "Trump Threatens Iran After Houthi Tanker Attacks",
-      "title_vi": "Trump đe dọa Iran sau vụ tấn công tàu chở dầu của Houthi",
-      "summary_vi": "Tổng thống Trump đã đe dọa sẽ \"trừng phạt\" Iran vì các cuộc tấn công gần đây của lực lượng Houthi ở Yemen nhằm vào các tàu chở dầu ở eo biển Bab el-Mandeb, nói rằng, \"Nếu họ làm điều này một lần nữa, Mỹ sẽ buộc Iran phải chịu trách nhiệm, trong đó Houthis là Người thay thế và/hoặc Người được ủy quyền của Iran, đồng thời là một hình phạt quân sự lớn.\"",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-24_8zfrrez2b3.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Threatens-Iran-After-Houthi-Tanker-Attacks.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-24 13:45"
-    },
-    {
       "id": "1bc7vs9",
       "title": "Why Are Gold and Silver Underperforming Amid Geopolitical Turmoil",
       "title_vi": "Tại sao Vàng và Bạc hoạt động kém hiệu quả trong bối cảnh bất ổn địa chính trị",
@@ -110,6 +110,17 @@
       "source": "Kavout | AI",
       "category": "metal",
       "published": "2026-07-24 08:12"
+    },
+    {
+      "id": "vxqay5",
+      "title": "Gas queues grow as Ukraine targets Russia's fuel supply",
+      "title_vi": "Hàng chờ mua xăng ngày càng tăng khi Ukraine nhắm tới nguồn cung cấp nhiên liệu của Nga",
+      "summary_vi": "Các cuộc tấn công của Ukraine đã gây ra cuộc khủng hoảng nhiên liệu ở Nga. Các báo cáo từ khắp nước Nga cho thấy người dân đang đối phó với những gián đoạn trong cuộc sống hàng ngày của họ như thế nào.",
+      "image": "https://static.dw.com/image/77766779_6.jpg",
+      "link": "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russias-fuel-supply/a-77887704",
+      "source": "DW.com",
+      "category": "energy",
+      "published": "2026-07-24 08:08"
     },
     {
       "id": "tkoap0",
@@ -539,17 +550,6 @@
       "source": "Russia Matters",
       "category": "energy",
       "published": "2026-07-23 02:22"
-    },
-    {
-      "id": "1jdb9c5",
-      "title": "Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb",
-      "title_vi": "Phân tích: Cú sốc năng lượng chiến tranh Iran ảnh hưởng đến nền kinh tế Mỹ khi giá xăng và dầu diesel tăng cao",
-      "summary_vi": "Sự bất cân xứng mới trên thị trường có nghĩa là giá nhiên liệu sẽ không giảm nhanh ngay cả khi cuộc chiến tranh Iran và eo biển Hormuz chấm dứt.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108275556-1773075481078-gettyimages-2265610013-bb1_4582_nmofo9s5.jpeg?v=1784755178&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/07/22/iran-war-energy-markets-gas-diesel-prices-us-economy-analysis.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-07-23 01:57"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-24 07:01",
+  "updated_at": "2026-07-24 08:01",
   "items": [
+    {
+      "id": "tkoap0",
+      "title": "Gold Declines on Stronger Dollar, Fed Rate Hike Prospects",
+      "title_vi": "Vàng giảm do đồng đô la mạnh hơn, triển vọng tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-on-stronger-dollar-fed-rate-hike-prospects-71b26469",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-07-24 07:44"
+    },
     {
       "id": "1s5qvag",
       "title": "Lithium Prices Sink To Five-Month Lows Amid Oversupply Jitters",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-07-22 22:12"
-    },
-    {
-      "id": "1vrgw5e",
-      "title": "US dollar safe-haven status in 2026: De-dollarization explained for traders",
-      "title_vi": "Tình trạng trú ẩn an toàn của đồng đô la Mỹ vào năm 2026: Giải thích về việc phi đô la hóa cho các nhà giao dịch",
-      "summary_vi": "Plus500 báo cáo rằng đồng đô la Mỹ",
-      "image": "https://bloximages.newyork1.vip.townnews.com/caledonianrecord.com/content/tncms/assets/v3/editorial/a/10/a10efb83-0973-575f-9b78-9fe3988128b7/6a60d78fe7379.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-      "link": "https://www.caledonianrecord.com/us-dollar-safe-haven-status-in-2026-de-dollarization-explained-for-traders/article_9c8e8a2a-c92c-5542-a6b1-ee32bc3bc533.html",
-      "source": "Caledonian Record",
-      "category": "macro",
-      "published": "2026-07-22 21:30"
     }
   ]
 }

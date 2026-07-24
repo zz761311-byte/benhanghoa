@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-24 13:01",
+  "updated_at": "2026-07-24 14:01",
   "items": [
+    {
+      "id": "afgnpx",
+      "title": "Trump Threatens Iran After Houthi Tanker Attacks",
+      "title_vi": "Trump đe dọa Iran sau vụ tấn công tàu chở dầu của Houthi",
+      "summary_vi": "Tổng thống Trump đã đe dọa sẽ \"trừng phạt\" Iran vì các cuộc tấn công gần đây của lực lượng Houthi ở Yemen nhằm vào các tàu chở dầu ở eo biển Bab el-Mandeb, nói rằng, \"Nếu họ làm điều này một lần nữa, Mỹ sẽ buộc Iran phải chịu trách nhiệm, trong đó Houthis là Người thay thế và/hoặc Người được ủy quyền của Iran, đồng thời là một hình phạt quân sự lớn.\"",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-24_8zfrrez2b3.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Threatens-Iran-After-Houthi-Tanker-Attacks.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-24 13:45"
+    },
     {
       "id": "1igtsix",
       "title": "Oil Tops $100 as Supply Crisis Deepens",
@@ -66,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-24 06:00"
+    },
+    {
+      "id": "183xq7v",
+      "title": "US Dollar Rally Builds Momentum, Crude Oil Holds the Key",
+      "title_vi": "Đồng đô la Mỹ tăng giá tạo đà, dầu thô giữ chìa khóa",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forex.com/en-us/news-and-analysis/us-dollar-rally-builds-momentum-crude-oil-holds-the-key/",
+      "source": "FOREX.com",
+      "category": "energy",
+      "published": "2026-07-24 05:30"
     },
     {
       "id": "1fi8aac",
@@ -143,17 +165,6 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-07-24 02:00"
-    },
-    {
-      "id": "hu0nh9",
-      "title": "Ukraine’s Drone War Is Choking Kazakhstan’s Oil Exports",
-      "title_vi": "Cuộc chiến máy bay không người lái của Ukraine đang bóp nghẹt xuất khẩu dầu của Kazakhstan",
-      "summary_vi": "Về lý thuyết, Kazakhstan sẽ là một trong những nước hưởng lợi chính từ việc Nga ngày càng bị cô lập khỏi thị trường năng lượng toàn cầu. Dầu thô của nước này không bị trừng phạt và các nhà máy lọc dầu châu Âu cần các nguồn thay thế cho dầu thô của Nga. Tuy nhiên, thay vì đạt được lợi thế địa chính trị rõ ràng, Kazakhstan lại",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-23_kuhr6nnqld.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Ukraines-Drone-War-Is-Choking-Kazakhstans-Oil-Exports.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-24 01:00"
     },
     {
       "id": "qewksh",
@@ -539,17 +550,6 @@
       "source": "Bitget",
       "category": "macro",
       "published": "2026-07-23 00:39"
-    },
-    {
-      "id": "cb1187",
-      "title": "Middle East war deepens 2026 oil deficit outlook, but 2027 glut still looms",
-      "title_vi": "Chiến tranh Trung Đông làm sâu sắc thêm triển vọng thâm hụt dầu năm 2026, nhưng tình trạng dư thừa năm 2027 vẫn lờ mờ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/middle-east-war-deepens-2026-oil-deficit-outlook-2027-glut-still-looms-2026-07-22/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-07-22 23:46"
     }
   ]
 }

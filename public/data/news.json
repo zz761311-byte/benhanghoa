@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-24 19:01",
+  "updated_at": "2026-07-24 20:01",
   "items": [
+    {
+      "id": "1utx37u",
+      "title": "Hormuz Tanker Crossings Sink to Lowest Level Since May as War Risk Spikes",
+      "title_vi": "Các điểm giao cắt của tàu chở dầu Hormuz chìm xuống mức thấp nhất kể từ tháng 5 khi rủi ro chiến tranh tăng đột biến",
+      "summary_vi": "Chỉ có một tàu chở dầu đi qua eo biển Hormuz hôm thứ Năm, số lần đi qua eo biển Hormuz thấp nhất kể từ ngày 7 tháng 5, do rủi ro chiến tranh tăng vọt trong tuần này khiến giá dầu thô tăng lên trên 100 USD/thùng một lần nữa. Ba tàu chở dầu đã đi qua eo biển Hormuz vào thứ Tư, nhưng con số này đã giảm xuống chỉ còn j",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-24_qyezkur63w.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Crossings-Sink-to-Lowest-Level-Since-May-as-War-Risk-Spikes.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-24 19:30"
+    },
     {
       "id": "lkjl83",
       "title": "Saudi Crude Tanker Goes Dark to Slip Through Bab el-Mandeb",
@@ -88,17 +99,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-24 15:45"
-    },
-    {
-      "id": "1c1if7t",
-      "title": "Global LNG Giants Target Cambodia as New Energy Market",
-      "title_vi": "Những gã khổng lồ LNG toàn cầu nhắm đến Campuchia như một thị trường năng lượng mới",
-      "summary_vi": "Một số ông lớn nhất thế giới trong lĩnh vực xuất khẩu khí tự nhiên hóa lỏng đang quan tâm đến việc bổ sung Campuchia vào danh sách khách hàng của họ khi quốc gia Đông Nam Á này xây dựng nhà máy điện sử dụng nhiên liệu LNG đầu tiên. Hoa Kỳ, Úc, Canada và một số nước Đông Nam Á là",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-24_hgyj2obzxd.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-LNG-Giants-Target-Cambodia-as-New-Energy-Market.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-24 14:45"
     },
     {
       "id": "1bc7vs9",
@@ -343,6 +343,17 @@
       "published": "2026-07-23 19:42"
     },
     {
+      "id": "8yf6cm",
+      "title": "Maxon earns Wabash Platinum Award for supply chain performance",
+      "title_vi": "Maxon giành được Giải thưởng Bạch kim Wabash cho hiệu quả hoạt động của chuỗi cung ứng",
+      "summary_vi": "Wabash đã công nhận 37 nhà cung cấp xuất sắc về đổi mới, chất lượng, giao hàng, chi phí và dịch vụ.",
+      "image": "https://img.fleetowner.com/files/base/ebm/fleetowner/image/2026/07/6a61127c1938ad9727d1d413-wabash_award__maxon_june2026.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "link": "https://www.fleetowner.com/refrigerated-transporter/refrigerated-vehicles-equipment/news/55392915/maxon-receives-wabash-platinum-award-for-2025-commercial-truck-supply-chain-performance",
+      "source": "FleetOwner",
+      "category": "metal",
+      "published": "2026-07-23 19:35"
+    },
+    {
       "id": "1fh04rs",
       "title": "Gold firms to two-week peak on softer dollar, Fed outlook in focus",
       "title_vi": "Các công ty vàng đạt đỉnh hai tuần nhờ đồng đô la mềm hơn, trọng tâm là triển vọng của Fed",
@@ -539,17 +550,6 @@
       "source": "U.S. News - Money",
       "category": "metal",
       "published": "2026-07-23 02:47"
-    },
-    {
-      "id": "1cbo3r3",
-      "title": "The Russia-Ukraine War Report Card, July 22, 2026",
-      "title_vi": "Thẻ Báo cáo Chiến tranh Nga-Ukraine, ngày 22 tháng 7 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-july-22-2026",
-      "source": "Russia Matters",
-      "category": "energy",
-      "published": "2026-07-23 02:22"
     }
   ]
 }

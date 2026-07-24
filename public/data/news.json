@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-24 10:01",
+  "updated_at": "2026-07-24 11:01",
   "items": [
+    {
+      "id": "1bc7vs9",
+      "title": "Why Are Gold and Silver Underperforming Amid Geopolitical Turmoil",
+      "title_vi": "Tại sao Vàng và Bạc hoạt động kém hiệu quả trong bối cảnh bất ổn địa chính trị",
+      "summary_vi": "Vàng và bạc đang hoạt động kém hiệu quả bất chấp bất ổn địa chính trị do đồng đô la mạnh và lo ngại lãi suất tăng. Sức mạnh của đồng đô la hiện đang vượt qua nhu cầu trú ẩn an toàn. Trong khi hoạt động mua của ngân hàng trung ương mang lại sự hỗ trợ, thì động lực ngắn hạn lại có lợi cho tính thanh khoản của đồng đô la hơn là các tài sản không mang lại lợi nhuận.",
+      "image": "https://investgpt-test.oss-us-east-1.aliyuncs.com/blog/mini_pexels-photo-16055836.jpeg",
+      "link": "https://www.kavout.com/market-lens/why-are-gold-and-silver-underperforming-amid-geopolitical-turmoil",
+      "source": "Kavout | AI",
+      "category": "metal",
+      "published": "2026-07-24 08:12"
+    },
     {
       "id": "tkoap0",
       "title": "Gold Declines on Stronger Dollar, Fed Rate Hike Prospects",
@@ -187,6 +198,17 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-07-23 21:43"
+    },
+    {
+      "id": "kr4zp6",
+      "title": "$100 Oil Is Back, Raising The Specter Of $5 Gasoline Prices To Come",
+      "title_vi": "Dầu 100 USD đã quay trở lại, làm dấy lên nỗi ám ảnh về giá xăng 5 USD sắp tới",
+      "summary_vi": "Cuộc tấn công tuần này của phiến quân Houthi vào giao thông tàu chở dầu ở Biển Đỏ có nghĩa là giá xăng sẽ tăng trở lại, có thể kéo dài hơn mọi người mong đợi.",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a6222a38f96276639c98c6e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "link": "https://www.forbes.com/sites/davidblackmon/2026/07/23/100-oil-is-back-raising-the-specter-of-5-gasoline-prices-to-come/",
+      "source": "Forbes",
+      "category": "energy",
+      "published": "2026-07-23 21:35"
     },
     {
       "id": "ipygyr",
@@ -442,17 +464,6 @@
       "published": "2026-07-23 03:27"
     },
     {
-      "id": "14xzb5n",
-      "title": "Gold is ‘insurance’ against currency crisis, inflation overreaction, dollar devaluation – Steve Forbes",
-      "title_vi": "Vàng là ‘bảo hiểm’ trước khủng hoảng tiền tệ, phản ứng thái quá của lạm phát, đồng đô la mất giá – Steve Forbes",
-      "summary_vi": "(Kitco News) - Theo Steve Forbes, Chủ tịch kiêm Tổng biên tập của Forbes Media, các thị trường đã trải qua sự phục hồi của đồng đô la hơn là giá vàng giảm, trong khi chiến tranh Iran - và phản ứng của Hoa Kỳ trước áp lực lạm phát - khiến vàng trở thành sự bảo hiểm thiết yếu cho các nhà đầu tư, theo Steve Forbes, Chủ tịch kiêm Tổng biên tập của Forbes Media.",
-      "image": "https://image-api.prod.kitco.com/image/0561090c-87c8-4492-be46-a930e63c4235.png?top=0.15981657608696&left=0&width=1672&height=940.68036684783&scale_width=1920&token=a180ec178d7f303b4d3366c09f504654e0e09b2faf647247d4c5f6d1268ade1e",
-      "link": "https://www.kitco.com/news/article/2026-07-22/gold-insurance-against-currency-crisis-inflation-overreaction-dollar",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-07-23 03:11"
-    },
-    {
       "id": "ipgqct",
       "title": "4 Best Copper ETFs in 2026 - U.S. News",
       "title_vi": "4 quỹ ETF đồng tốt nhất năm 2026 - Tin tức Hoa Kỳ",
@@ -539,17 +550,6 @@
       "source": "Barchart.com",
       "category": "soft",
       "published": "2026-07-22 22:55"
-    },
-    {
-      "id": "vp7hti",
-      "title": "EQT Boosts Natural Gas Production Guidance, Strengthening Supply Outlook",
-      "title_vi": "EQT tăng cường hướng dẫn sản xuất khí đốt tự nhiên, tăng cường triển vọng cung ứng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/eqt-boosts-natural-gas-production-guidance-strengthening-supply-outlook/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-07-22 22:33"
     }
   ]
 }

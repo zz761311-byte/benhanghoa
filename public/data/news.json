@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25 07:01",
+  "updated_at": "2026-07-25 08:01",
   "items": [
     {
       "id": "1lrkwix",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "agri",
       "published": "2026-07-25 06:00"
+    },
+    {
+      "id": "l3eu06",
+      "title": "Freeport McMoRan (FCX) Stock May Look Reasonable Following Lower Copper Sales Outlook",
+      "title_vi": "Cổ phiếu Freeport McMoRan (FCX) có thể trông hợp lý sau triển vọng doanh số bán đồng thấp hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/freeport-mcmoran-fcx-stock-may-221345144.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-07-25 05:13"
     },
     {
       "id": "1bksggx",
@@ -539,17 +550,6 @@
       "source": "Shanghai Metals Market",
       "category": "metal",
       "published": "2026-07-23 18:25"
-    },
-    {
-      "id": "10otabs",
-      "title": "Geopolitical stress escalation and impact on commodities [Video]",
-      "title_vi": "Căng thẳng địa chính trị leo thang và tác động lên hàng hóa [Video]",
-      "summary_vi": "Chu kỳ thời gian của các loại tiền tệ khác nhau và chỉ số đô la đều kết hợp với nhau. Chúng ta cũng đang chứng kiến ​​một giai đoạn căng thẳng địa chính trị lớn chắc chắn sẽ tác động đến dầu mỏ.",
-      "image": "https://editorial.fxsstatic.com/images/i/West-Texas-Intermediate_2_Medium.png",
-      "link": "https://www.fxstreet.com/analysis/geopolitical-stress-escalation-and-impact-on-commodities-video-202607230802",
-      "source": "FXStreet",
-      "category": "macro",
-      "published": "2026-07-23 15:02"
     }
   ]
 }

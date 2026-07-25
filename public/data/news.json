@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25 20:01",
+  "updated_at": "2026-07-25 21:01",
   "items": [
     {
       "id": "11kcsfx",
@@ -420,6 +420,17 @@
       "published": "2026-07-24 02:28"
     },
     {
+      "id": "1h047k4",
+      "title": "Cotton Prices Rally as Texas Growing Conditions Turn Mixed",
+      "title_vi": "Giá bông tăng khi điều kiện trồng trọt ở Texas trở nên hỗn tạp",
+      "summary_vi": "Các chuyên gia của Cơ quan Khuyến nông A&M AgriLife Texas cho biết giá bông đã tăng, nhưng điều kiện trồng trọt vẫn không đồng đều trên khắp các vùng sản xuất chính của bang.",
+      "image": "https://df75hwhlfejca.cloudfront.net/cottongrower/wp-content/uploads/2026/07/Cotton-Closeup.jpg",
+      "link": "https://www.cottongrower.com/cotton-production/cotton-prices-rally-as-texas-growing-conditions-turn-mixed/",
+      "source": "Cotton Grower",
+      "category": "soft",
+      "published": "2026-07-24 01:14"
+    },
+    {
       "id": "qewksh",
       "title": "Can Regenerative Coffee Farming Deliver Living Incomes? It Depends, Analysis Shows",
       "title_vi": "Canh tác cà phê tái sinh có thể mang lại thu nhập đủ sống không? Nó phụ thuộc, phân tích cho thấy",
@@ -539,17 +550,6 @@
       "source": "AAA Gas Prices",
       "category": "energy",
       "published": "2026-07-23 21:30"
-    },
-    {
-      "id": "5kjvfb",
-      "title": "Freeport-McMoRan Earnings Beat Estimates on Rising Copper Prices",
-      "title_vi": "Thu nhập của Freeport-McMoRan đánh bại ước tính về giá đồng tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barrons.com/articles/freeport-mcmoran-earnings-stock-price-426bb602",
-      "source": "Barron's",
-      "category": "metal",
-      "published": "2026-07-23 21:28"
     }
   ]
 }

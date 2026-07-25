@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-25 08:14",
+  "updated_at": "2026-07-25 09:01",
   "items": [
+    {
+      "id": "11kcsfx",
+      "title": "Heat worries US wheat farmers just as crop prices surge - The Spokesman-Review",
+      "title_vi": "Nắng nóng khiến nông dân trồng lúa mì Mỹ lo lắng khi giá nông sản tăng cao - The Spokesman-Review",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spokesman.com/stories/2026/jul/23/heat-worries-us-wheat-farmers-just-as-crop-prices-/",
+      "source": "The Spokesman-Review",
+      "category": "agri",
+      "published": "2026-07-25 07:07"
+    },
     {
       "id": "1lrkwix",
       "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
@@ -46,6 +57,17 @@
       "published": "2026-07-25 04:30"
     },
     {
+      "id": "1oul3qf",
+      "title": "The Defensive Shift: This Week’s Top 10 ETF Inflows",
+      "title_vi": "Sự thay đổi phòng thủ: 10 dòng vốn ETF hàng đầu trong tuần này",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://etfdb.com/equity-etf-content-hub/shiftin-defense-top-10-etf-inflows/",
+      "source": "ETF Database",
+      "category": "macro",
+      "published": "2026-07-25 03:53"
+    },
+    {
       "id": "qotj5s",
       "title": "Gold continues to hold $4,000, which could signal an inflection point, analysts say",
       "title_vi": "Các nhà phân tích cho biết vàng tiếp tục giữ mức 4.000 USD, điều này có thể báo hiệu một điểm uốn",
@@ -75,7 +97,7 @@
       "image": "https://goldsilver.com/wp-content/uploads/2026/07/silver_price_today.jpeg",
       "link": "https://goldsilver.com/industry-news/goldsilver-news/silver-price-today-july-24-2026-fomc/",
       "source": "GoldSilver",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-07-25 02:32"
     },
     {
@@ -528,28 +550,6 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-07-23 19:42"
-    },
-    {
-      "id": "8yf6cm",
-      "title": "Maxon earns Wabash Platinum Award for supply chain performance",
-      "title_vi": "Maxon giành được Giải thưởng Bạch kim Wabash cho hiệu quả hoạt động của chuỗi cung ứng",
-      "summary_vi": "Wabash đã công nhận 37 nhà cung cấp xuất sắc về đổi mới, chất lượng, giao hàng, chi phí và dịch vụ.",
-      "image": "https://img.fleetowner.com/files/base/ebm/fleetowner/image/2026/07/6a61127c1938ad9727d1d413-wabash_award__maxon_june2026.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-      "link": "https://www.fleetowner.com/refrigerated-transporter/refrigerated-vehicles-equipment/news/55392915/maxon-receives-wabash-platinum-award-for-2025-commercial-truck-supply-chain-performance",
-      "source": "FleetOwner",
-      "category": "metal",
-      "published": "2026-07-23 19:35"
-    },
-    {
-      "id": "m76y3d",
-      "title": "To end the wars in Ukraine and Iran, starve Russia’s gas pumps",
-      "title_vi": "Để chấm dứt chiến tranh ở Ukraine và Iran, hãy bỏ đói các máy bơm khí đốt của Nga",
-      "summary_vi": "Việc trừng phạt nhập khẩu xăng dầu của Nga có thể dẫn đến hòa bình ở Ukraine - và Iran.",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/07/russia_gas_shortage_station_06302026_AP26181606929718-1.jpg?w=1280",
-      "link": "https://thehill.com/opinion/international/5983456-sanction-russia-energy-imports/",
-      "source": "The Hill",
-      "category": "energy",
-      "published": "2026-07-23 19:30"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26 00:44",
+  "updated_at": "2026-07-26 01:01",
   "items": [
     {
       "id": "va1e6y",
@@ -242,6 +242,17 @@
       "source": "24/7 Wall St.",
       "category": "macro",
       "published": "2026-07-24 22:03"
+    },
+    {
+      "id": "1e6e8fg",
+      "title": "US Expands Tariffs on 60 Trading Partners Amid Trade Policy Shift",
+      "title_vi": "Mỹ mở rộng thuế quan đối với 60 đối tác thương mại trong bối cảnh thay đổi chính sách thương mại",
+      "summary_vi": "Hoa Kỳ đã đưa ra một khung thuế quan mới rộng rãi ảnh hưởng đến hàng nhập khẩu từ 60 đối tác thương mại, đánh dấu sự leo thang mới trong chính sách thương mại của nước này sau một thời gian tương đối ổn định.",
+      "image": "",
+      "link": "https://www.chemanalyst.com/NewsAndDeals/NewsDetails/us-expands-tariffs-on-60-trading-partners-amid-trade-policy-43528",
+      "source": "ChemAnalyst",
+      "category": "macro",
+      "published": "2026-07-24 21:51"
     },
     {
       "id": "1fwak24",
@@ -539,17 +550,6 @@
       "source": "Investor's Business Daily",
       "category": "metal",
       "published": "2026-07-23 21:32"
-    },
-    {
-      "id": "16zl3kx",
-      "title": "Gas Prices Keep Climbing, National Average Jumps 15 Cents",
-      "title_vi": "Giá xăng tiếp tục tăng, mức trung bình toàn quốc tăng 15 xu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://gasprices.aaa.com/gas-prices-keep-climbing-national-average-jumps-15-cents/",
-      "source": "AAA Gas Prices",
-      "category": "energy",
-      "published": "2026-07-23 21:30"
     }
   ]
 }

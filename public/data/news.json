@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-26 01:42",
+  "updated_at": "2026-07-26 02:01",
   "items": [
+    {
+      "id": "1aavbla",
+      "title": "The Carbon Capture Boom Is Starting to Crack",
+      "title_vi": "Sự bùng nổ thu giữ carbon đang bắt đầu rạn nứt",
+      "summary_vi": "Công nghệ thu giữ và lưu trữ carbon (CCS) ngày càng phổ biến trong đại dịch Covid-19 khi một số chính phủ và công ty tư nhân cam kết hỗ trợ quá trình chuyển đổi xanh. Việc sử dụng CCS được kỳ vọng sẽ giúp loại bỏ cacbon trong các ngành công nghiệp khó giảm thiểu cho đến khi có sự chuyển đổi dài hạn sang",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-23_i8lqpe65ol.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Carbon-Capture-Boom-Is-Starting-to-Crack.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-26 02:00"
+    },
     {
       "id": "va1e6y",
       "title": "EU Backs Off Methane Rules as Energy Security Fears Mount",
@@ -187,17 +198,6 @@
       "source": "ETF Database",
       "category": "metal",
       "published": "2026-07-24 23:51"
-    },
-    {
-      "id": "1gb3sxm",
-      "title": "Saudi Red Sea Crude Exports Have Sank 41% Since March Peak",
-      "title_vi": "Xuất khẩu dầu thô từ Biển Đỏ của Saudi Arabia đã giảm 41% kể từ mức đỉnh tháng 3",
-      "summary_vi": "Ả Rập Saudi, khi bắt đầu chiến tranh Iran đã chuyển hướng hầu như tất cả xuất khẩu dầu thô qua đường ống Đông-Tây đến Yanbu trên Biển Đỏ, đã chứng kiến ​​xuất khẩu dầu thô từ Yanbu giảm 41% xuống còn khoảng 2,39 triệu thùng mỗi ngày (bpd) vào tháng 6, từ mức cao nhất 4,07 triệu thùng/ngày trong tháng 6.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-24_zb7bigjtsh.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Red-Sea-Crude-Exports-Have-Sank-41-Since-March-Peak.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-24 23:30"
     },
     {
       "id": "1h10l9n",
@@ -442,6 +442,17 @@
       "published": "2026-07-24 01:14"
     },
     {
+      "id": "1h9pqo2",
+      "title": "OPEC+ likely to again raise oil output targets from September, sources say",
+      "title_vi": "Các nguồn tin cho biết OPEC+ có thể sẽ lại nâng mục tiêu sản lượng dầu từ tháng 9",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/opec-likely-raise-oil-output-targets-september-again-sources-say-2026-07-23/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-07-24 00:32"
+    },
+    {
       "id": "qewksh",
       "title": "Can Regenerative Coffee Farming Deliver Living Incomes? It Depends, Analysis Shows",
       "title_vi": "Canh tác cà phê tái sinh có thể mang lại thu nhập đủ sống không? Nó phụ thuộc, phân tích cho thấy",
@@ -539,17 +550,6 @@
       "source": "StoneX",
       "category": "energy",
       "published": "2026-07-23 21:33"
-    },
-    {
-      "id": "1d9u7yt",
-      "title": "FCX Stock Falls Amid Soft Q3 Outlook As Copper Price Slips",
-      "title_vi": "Cổ phiếu FCX giảm trong bối cảnh triển vọng quý 3 yếu khi giá đồng trượt dốc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investors.com/news/fcx-stock-q2-earnings-outlook-copper-price/",
-      "source": "Investor's Business Daily",
-      "category": "metal",
-      "published": "2026-07-23 21:32"
     }
   ]
 }

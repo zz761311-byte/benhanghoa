@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26 07:16",
+  "updated_at": "2026-07-26 08:01",
   "items": [
     {
       "id": "1l76yjf",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-26 04:00"
+    },
+    {
+      "id": "18knver",
+      "title": "Why is Impala Platinum (IMPUY) Catching the Eye of Quant Analysts",
+      "title_vi": "Tại sao Impala Platinum (IMPUY) lại lọt vào mắt xanh của các nhà phân tích định lượng",
+      "summary_vi": "Impala Platinum (IMPUY) đang thu hút các nhà phân tích định lượng với xếp hạng \"Rất nên mua\". Động lực giá tích cực và các điều chỉnh ước tính tăng lên, cùng với những cải tiến về hoạt động và sự thay đổi của thị trường, đang thu hút sự quan tâm.",
+      "image": "https://investgpt-test.oss-us-east-1.aliyuncs.com/blog/mini_pexels-photo-8442431.jpeg",
+      "link": "https://www.kavout.com/market-lens/why-is-impala-platinum-impuy-catching-the-eye-of-quant-analysts",
+      "source": "Kavout | AI",
+      "category": "metal",
+      "published": "2026-07-26 03:46"
     },
     {
       "id": "1aavbla",
@@ -176,6 +187,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-07-25 01:00"
+    },
+    {
+      "id": "12zm9ky",
+      "title": "Price Forecasts: Investors Never So Bullish on Gold and Silver",
+      "title_vi": "Dự báo giá: Các nhà đầu tư chưa bao giờ quá lạc quan về vàng và bạc",
+      "summary_vi": "Dự báo giá vàng và bạc chưa bao giờ lạc quan đến thế trên BullionVault",
+      "image": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/2026-07-24-bv-mid-26-forecasts.png",
+      "link": "https://www.bullionvault.com/gold-news/opinion-analysis/gold-silver-price-forecast-survey-072420262",
+      "source": "BullionVault",
+      "category": "metal",
+      "published": "2026-07-25 00:41"
     },
     {
       "id": "1clyb49",
@@ -354,17 +376,6 @@
       "published": "2026-07-24 10:41"
     },
     {
-      "id": "1bc7vs9",
-      "title": "Why Are Gold and Silver Underperforming Amid Geopolitical Turmoil",
-      "title_vi": "Tại sao Vàng và Bạc hoạt động kém hiệu quả trong bối cảnh bất ổn địa chính trị",
-      "summary_vi": "Vàng và bạc đang hoạt động kém hiệu quả bất chấp bất ổn địa chính trị do đồng đô la mạnh và lo ngại lãi suất tăng. Sức mạnh của đồng đô la hiện đang vượt qua nhu cầu trú ẩn an toàn. Trong khi hoạt động mua của ngân hàng trung ương mang lại sự hỗ trợ, thì động lực ngắn hạn lại có lợi cho tính thanh khoản của đồng đô la hơn là các tài sản không mang lại lợi nhuận.",
-      "image": "https://investgpt-test.oss-us-east-1.aliyuncs.com/blog/mini_pexels-photo-16055836.jpeg",
-      "link": "https://www.kavout.com/market-lens/why-are-gold-and-silver-underperforming-amid-geopolitical-turmoil",
-      "source": "Kavout | AI",
-      "category": "metal",
-      "published": "2026-07-24 08:12"
-    },
-    {
       "id": "vxqay5",
       "title": "Gas queues grow as Ukraine targets Russia's fuel supply",
       "title_vi": "Hàng chờ mua xăng ngày càng tăng khi Ukraine nhắm tới nguồn cung cấp nhiên liệu của Nga",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-07-23 21:43"
-    },
-    {
-      "id": "kr4zp6",
-      "title": "$100 Oil Is Back, Raising The Specter Of $5 Gasoline Prices To Come",
-      "title_vi": "Dầu 100 USD đã quay trở lại, làm dấy lên nỗi ám ảnh về giá xăng 5 USD sắp tới",
-      "summary_vi": "Cuộc tấn công tuần này của phiến quân Houthi vào giao thông tàu chở dầu ở Biển Đỏ có nghĩa là giá xăng sẽ tăng trở lại, có thể kéo dài hơn mọi người mong đợi.",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a6222a38f96276639c98c6e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "link": "https://www.forbes.com/sites/davidblackmon/2026/07/23/100-oil-is-back-raising-the-specter-of-5-gasoline-prices-to-come/",
-      "source": "Forbes",
-      "category": "energy",
-      "published": "2026-07-23 21:35"
     }
   ]
 }

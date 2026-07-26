@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-27 01:45",
+  "updated_at": "2026-07-27 02:01",
   "items": [
+    {
+      "id": "kn0xwu",
+      "title": "Argentina’s Oil Production Soars as Vaca Muerta Breaks New Records",
+      "title_vi": "Sản lượng dầu của Argentina tăng vọt khi Vaca Muerta phá kỷ lục mới",
+      "summary_vi": "Sự bùng nổ dầu khí đá phiến khổng lồ của Argentina đang ngày càng mạnh mẽ. Quốc gia Nam Mỹ đang gặp khủng hoảng kinh tế này một lần nữa báo cáo sản lượng dầu và khí đốt tự nhiên hàng tháng kỷ lục vào tháng 5 năm 2026. Điều này đến vào thời điểm không thể tốt hơn đối với Argentina và Nam Mỹ.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-23_onjhwn0hfk.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Argentinas-Oil-Production-Soars-as-Vaca-Muerta-Breaks-New-Records.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-27 02:00"
+    },
     {
       "id": "6b20mc",
       "title": "Molten Salt Reactors Just Cleared A Major U.S. Regulatory Hurdle",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-26 22:00"
+    },
+    {
+      "id": "dwpy7d",
+      "title": "Deadly storm in Chile disrupts copper mines and raises AI supply concerns",
+      "title_vi": "Cơn bão chết người ở Chile làm gián đoạn các mỏ đồng và làm dấy lên mối lo ngại về nguồn cung AI",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.ft.com/content/cd0b6148-a9a7-4763-b6d3-bb33e10b9899?syn-25a6b1a6",
+      "source": "Financial Times",
+      "category": "metal",
+      "published": "2026-07-26 16:58"
     },
     {
       "id": "xnu269",
@@ -242,17 +264,6 @@
       "source": "Silver Bulletin",
       "category": "metal",
       "published": "2026-07-25 02:01"
-    },
-    {
-      "id": "1c2rh8p",
-      "title": "The Red Sea Is Becoming Saudi Arabia&#039;s Biggest Oil Bottleneck",
-      "title_vi": "Biển Đỏ đang trở thành nút thắt cổ chai dầu lớn nhất của Ả Rập Saudi",
-      "summary_vi": "Trong nhiều năm, câu trả lời chiến lược của Ả Rập Saudi trước bất kỳ sự gián đoạn nào ở eo biển Hormuz rất đơn giản. Nếu khối lượng qua Vịnh Ba Tư bị đe dọa, câu trả lời là bơm về phía tây qua Đường ống Đông-Tây tới Yanbu trên Biển Đỏ. Các thị trường luôn có",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-24_opnr5v0wml.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/The-Red-Sea-Is-Becoming-Saudi-Arabias-Biggest-Oil-Bottleneck.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-25 02:00"
     },
     {
       "id": "12zm9ky",
@@ -538,17 +549,6 @@
       "link": "https://www.forex.com/en-us/news-and-analysis/us-dollar-rally-builds-momentum-crude-oil-holds-the-key/",
       "source": "FOREX.com",
       "category": "energy",
-      "published": "2026-07-24 05:30"
-    },
-    {
-      "id": "1fi8aac",
-      "title": "Corn Holds onto Gains on Thursday with Drier Forecast Remaining",
-      "title_vi": "Ngô giữ mức tăng vào thứ Năm với dự báo khô hạn còn lại",
-      "summary_vi": "Giá ngô kỳ hạn đóng cửa phiên giao dịch thứ Năm với các hợp đồng tăng từ 2 đến 3 cent trong những tháng trước và hợp đồng hoãn lại năm 2027 thấp hơn một chút. Giá ngô tiền mặt trung bình trên toàn quốc của CmdtyView đã tăng 2 xu ở mức 4,34 1/2. Xuất dữ liệu bán hàng...",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Agricultural%20Commodities/Corn/Market%20corn%20on%20the%20cob%20via%20Storyblocks.jpg",
-      "link": "https://www.barchart.com/story/news/3437959/corn-holds-onto-gains-on-thursday-with-drier-forecast-remaining",
-      "source": "Barchart.com",
-      "category": "agri",
       "published": "2026-07-24 05:30"
     }
   ]

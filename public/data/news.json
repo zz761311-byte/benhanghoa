@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26 06:15",
+  "updated_at": "2026-07-26 07:01",
   "items": [
     {
       "id": "1l76yjf",
@@ -264,6 +264,17 @@
       "source": "Daily Coffee News by Roast Magazine",
       "category": "soft",
       "published": "2026-07-24 21:44"
+    },
+    {
+      "id": "5vd8ks",
+      "title": "Silver Price For Today, 24 July 2026",
+      "title_vi": "Giá Bạc hôm nay, ngày 24 tháng 7 năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
+      "source": "Forbes",
+      "category": "metal",
+      "published": "2026-07-24 21:29"
     },
     {
       "id": "1s4wyqd",
@@ -539,17 +550,6 @@
       "source": "Forbes",
       "category": "energy",
       "published": "2026-07-23 21:35"
-    },
-    {
-      "id": "ipygyr",
-      "title": "Oil's Surge Puts the Fed's Preferred Inflation Gauge Back in Focus",
-      "title_vi": "Giá dầu tăng vọt khiến thước đo lạm phát ưu tiên của Fed trở lại trọng tâm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en/insights/oil-s-surge-puts-the-fed-s-preferred-inflation-gauge-back-in-focus/",
-      "source": "StoneX",
-      "category": "energy",
-      "published": "2026-07-23 21:33"
     }
   ]
 }

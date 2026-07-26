@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26 17:01",
+  "updated_at": "2026-07-26 18:01",
   "items": [
     {
       "id": "v9rple",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-25 22:00"
+    },
+    {
+      "id": "o91vld",
+      "title": "Americans pay $5,500+ a year on coffee as prices hit 25-year volatility — but cutting the habit could cost you more",
+      "title_vi": "Người Mỹ trả hơn 5.500 USD mỗi năm cho cà phê khi giá cà phê biến động trong 25 năm - nhưng việc cắt bỏ thói quen này có thể khiến bạn tốn nhiều tiền hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://sg.finance.yahoo.com/news/americans-pay-5-500-coffee-093000253.html",
+      "source": "Yahoo Finance Singapore",
+      "category": "soft",
+      "published": "2026-07-25 16:30"
     },
     {
       "id": "1vsg7dg",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News by Roast Magazine",
       "category": "soft",
       "published": "2026-07-23 23:03"
-    },
-    {
-      "id": "1kofxjp",
-      "title": "Will coffee prices continue to rise?",
-      "title_vi": "Giá cà phê sẽ tiếp tục tăng?",
-      "summary_vi": "Giá cà phê đã tăng lên do hoạt động sôi nổi của các thương nhân, trong nhiều đợt liên tiếp. Tuy nhiên, liệu giá có còn cao hay không một phần phụ thuộc vào bản thân người trồng cà phê và liệu họ có bán hay giữ nguồn cung cà phê của mình hay không.",
-      "image": "https://www.foodnavigator.com/resizer/v2/656BVLV3LZAEVLPVT4DB56I3IU.jpg?auth=d2933f94d06a47b76c4b7d0e772d8aa240839105d21c52326d7112cf5d79fc8e&width=1200&height=630&smart=true",
-      "link": "https://www.foodnavigator.com/Article/2026/07/23/coffee-price-spike-explained/",
-      "source": "FoodNavigator.com",
-      "category": "soft",
-      "published": "2026-07-23 22:55"
     }
   ]
 }

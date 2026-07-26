@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26 11:01",
+  "updated_at": "2026-07-26 12:01",
   "items": [
     {
       "id": "1l76yjf",
@@ -365,6 +365,17 @@
       "published": "2026-07-24 17:13"
     },
     {
+      "id": "mf8rfz",
+      "title": "Russian attack cuts power to around 150,000 in Ukraine’s north as Kyiv hits missile, oil facilities",
+      "title_vi": "Cuộc tấn công của Nga cắt điện khoảng 150.000 người ở miền bắc Ukraine khi Kiev tấn công các cơ sở tên lửa, dầu mỏ",
+      "summary_vi": "Thông tin cập nhật được đưa ra trong bối cảnh Tổng thống Ukraine Volodymyr Zelenskyy hoan nghênh cuộc tấn công vào cơ sở sản xuất linh kiện tên lửa quan trọng ở thành phố Kirov của Nga.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108339708-1784886458587-gettyimages-2286774139-AFP_C32J4ZG.jpeg?v=1784886529&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/07/24/russia-ukraine-war-zelenskyy-putin-oil.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-07-24 17:07"
+    },
+    {
       "id": "msngle",
       "title": "Natural Gas and Oil Forecast: LNG Supply Fears Build Is Oil Ready for Another Breakout?",
       "title_vi": "Dự báo khí đốt tự nhiên và dầu: Nỗi lo về nguồn cung LNG tăng lên Dầu đã sẵn sàng cho một bước đột phá khác chưa?",
@@ -539,17 +550,6 @@
       "source": "consilium.europa.eu",
       "category": "macro",
       "published": "2026-07-23 22:44"
-    },
-    {
-      "id": "1swjwni",
-      "title": "New Sorghum Futures Target Basis Risk Against Corn - RFD-TV",
-      "title_vi": "Rủi ro cơ sở mục tiêu mới của lúa miến tương lai đối với ngô - RFD-TV",
-      "summary_vi": "Mỗi hợp đồng bao gồm 5.000 giạ và được định giá chênh lệch với giá ngô kỳ hạn. Cấu trúc đó cho phép người dùng phòng ngừa những thay đổi trong chênh lệch tiền mặt từ lúa miến sang ngô mà không phải tham gia hoàn toàn với biến động giá thị trường ngũ cốc rộng hơn.",
-      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/6168108/2147483647/strip/true/crop/720x404+0+1/resize/730x410!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2FfgV4yjVC%2Fthumbnails%2F0cTPqhHm.jpg",
-      "link": "https://www.rfdtv.com/new-sorghum-futures-target-basis-risk-against-corn",
-      "source": "RFD-TV",
-      "category": "agri",
-      "published": "2026-07-23 22:11"
     }
   ]
 }

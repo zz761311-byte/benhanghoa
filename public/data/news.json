@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26 16:01",
+  "updated_at": "2026-07-26 16:26",
   "items": [
     {
       "id": "v9rple",
@@ -354,6 +354,17 @@
       "published": "2026-07-24 19:41"
     },
     {
+      "id": "1mct2zc",
+      "title": "Global grain market outlook: Hormuz, the Sea of Azov and China's soybean commitment",
+      "title_vi": "Triển vọng thị trường ngũ cốc toàn cầu: Hormuz, Biển Azov và cam kết đậu tương của Trung Quốc",
+      "summary_vi": "Việc đóng cửa Biển Azov, định tuyến lại Hormuz và khoảng cách về đậu tương của Trung Quốc đang định hình lại thị trường ngũ cốc. Đây là những gì các nhà phân tích Kpler đang theo dõi tiếp theo.",
+      "image": "https://cdn.prod.website-files.com/65059ad784ac02253c62356c/6a633d49d31f9b208f7894df_grains-compress.jpeg",
+      "link": "https://www.kpler.com/blog/global-grain-market-outlook-hormuz-the-sea-of-azov-and-chinas-soybean-commitment",
+      "source": "Kpler",
+      "category": "agri",
+      "published": "2026-07-24 17:44"
+    },
+    {
       "id": "1e4n5dp",
       "title": "How might threat of ‘super’ El Niño impact coffee prices?",
       "title_vi": "Mối đe dọa 'siêu' El Niño có thể tác động đến giá cà phê như thế nào?",
@@ -539,17 +550,6 @@
       "source": "FoodNavigator.com",
       "category": "soft",
       "published": "2026-07-23 22:55"
-    },
-    {
-      "id": "7rfqk2",
-      "title": "Trump's Tariff Strategy Reshapes Trade Outlook for U.S. Agriculture",
-      "title_vi": "Chiến lược thuế quan của Trump định hình lại triển vọng thương mại cho ngành nông nghiệp Hoa Kỳ",
-      "summary_vi": "Trump chuyển sang áp dụng thuế quan vĩnh viễn, tạo ra những thách thức và cơ hội mới cho ngành nông nghiệp Hoa Kỳ.",
-      "image": "",
-      "link": "https://www.agrolatam.com/amp/trumps-tariff-strategy-reshapes-trade-outlook-for-u-s-agriculture/",
-      "source": "Agrolatam",
-      "category": "macro",
-      "published": "2026-07-23 22:52"
     }
   ]
 }

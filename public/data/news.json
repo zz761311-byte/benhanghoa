@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-26 13:01",
+  "updated_at": "2026-07-26 14:01",
   "items": [
+    {
+      "id": "v9rple",
+      "title": "Cocoa prices are easing. So why is chocolate still so expensive?",
+      "title_vi": "Giá ca cao đang giảm bớt. Vậy tại sao sô cô la vẫn đắt như vậy?",
+      "summary_vi": "Các công ty sô cô la mong muốn thu hút người mua hàng trở lại bằng các sản phẩm cao cấp và xu hướng truyền thông xã hội sau khi điều kiện thời tiết xấu, thuế quan và chiến tranh Iran ảnh hưởng đến doanh số bán hàng.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108339667-1784875454983-gettyimages-1890499902-friedman-lindtcho231209_npP3C.jpeg?v=1784875475&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html",
+      "source": "CNBC",
+      "category": "soft",
+      "published": "2026-07-26 12:00"
+    },
     {
       "id": "1l76yjf",
       "title": "Can an AI Black Box Be Trusted to Run a Nuclear Reactor?",
@@ -539,17 +550,6 @@
       "source": "Agrolatam",
       "category": "macro",
       "published": "2026-07-23 22:52"
-    },
-    {
-      "id": "1jp53lm",
-      "title": "21st package of sanctions: EU hits Russian energy, financial services and crypto hard",
-      "title_vi": "Gói trừng phạt thứ 21: EU tấn công mạnh vào năng lượng, dịch vụ tài chính và tiền điện tử của Nga",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.consilium.europa.eu/en/press/press-releases/2026/07/23/21st-package-of-sanctions-eu-hits-russian-energy-financial-services-and-crypto-hard/",
-      "source": "consilium.europa.eu",
-      "category": "macro",
-      "published": "2026-07-23 22:44"
     }
   ]
 }

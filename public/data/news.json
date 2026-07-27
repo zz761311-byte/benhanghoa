@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-27 13:01",
+  "updated_at": "2026-07-27 14:01",
   "items": [
+    {
+      "id": "butxfj",
+      "title": "China’s Crude Oil Imports Surge",
+      "title_vi": "Nhập khẩu dầu thô của Trung Quốc tăng vọt",
+      "summary_vi": "Theo tính toán của Kpler, Bloomberg trích dẫn, Trung Quốc có thể sẽ tăng nhập khẩu dầu thô trong tháng này, với mức trung bình hàng ngày là 7,8 triệu thùng. Các nhà máy lọc dầu đã mua thêm dầu thô của Nga và nhận thấy nhiều tàu chở dầu đến từ Trung Đông hơn.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-27_yiswd9o2vp.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Oil-Imports-Surge.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-27 13:45"
+    },
     {
       "id": "1p1wbqg",
       "title": "Oil Prices Plunge 5% After U.S. and Iran Halt Attacks",
@@ -99,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-26 23:00"
-    },
-    {
-      "id": "1szvipg",
-      "title": "Australia’s Clean Energy Boom Is Gathering Speed",
-      "title_vi": "Sự bùng nổ năng lượng sạch của Úc đang tăng tốc",
-      "summary_vi": "Úc có tham vọng lớn về năng lượng tái tạo và đang trên đường chuyển sự phụ thuộc từ than đá sang các giải pháp thay thế sạch hơn. Từ lâu đã phụ thuộc vào than đá, chính phủ hiện đặt mục tiêu thiết lập cơ cấu năng lượng đa dạng hơn để đảm bảo Australia có thể tự chủ về năng lượng.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-23_qk8fyobrtj.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Australias-Clean-Energy-Boom-Is-Gathering-Speed.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-26 22:00"
     },
     {
       "id": "dwpy7d",
@@ -431,6 +431,17 @@
       "published": "2026-07-24 21:29"
     },
     {
+      "id": "uu7dya",
+      "title": "Tracking Trump’s Tariffs Across the Global Economy",
+      "title_vi": "Theo dõi thuế quan của Trump trên toàn bộ nền kinh tế toàn cầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/graphics/trump-tariffs-tracker/",
+      "source": "Bloomberg.com",
+      "category": "macro",
+      "published": "2026-07-24 21:00"
+    },
+    {
       "id": "5rbnlc",
       "title": "Why Trump is facing his biggest danger from rising oil prices since the war began",
       "title_vi": "Tại sao Trump phải đối mặt với mối nguy hiểm lớn nhất từ ​​​​giá dầu tăng kể từ khi chiến tranh bắt đầu",
@@ -538,17 +549,6 @@
       "link": "https://www.forex.com/en-sg/gold-silver-trading/platinum/",
       "source": "FOREX.com",
       "category": "metal",
-      "published": "2026-07-24 14:00"
-    },
-    {
-      "id": "my7osy",
-      "title": "Farm Futures morning grain market analysis",
-      "title_vi": "Phân tích thị trường ngũ cốc buổi sáng của Farm Futures",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
-      "source": "Farm Progress",
-      "category": "agri",
       "published": "2026-07-24 14:00"
     }
   ]

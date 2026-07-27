@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-28 00:01",
+  "updated_at": "2026-07-28 01:01",
   "items": [
+    {
+      "id": "opitsu",
+      "title": "A Skeptical Look at Elon Musk&#039;s AI Utopia",
+      "title_vi": "Một cái nhìn hoài nghi về AI Utopia của Elon Musk",
+      "summary_vi": "Các ông trùm công nghệ nói với chúng ta rằng trí tuệ nhân tạo sẽ sớm tạo ra một thế giới thịnh vượng đồng thời giải quyết các vấn đề lớn của chúng ta như biến đổi khí hậu. Để bạn biết tôi đang nói về ai, trước đây tôi đã định nghĩa các ông trùm công nghệ của chúng ta là \"một nhóm các công ty công nghệ,",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-26_7updawbexu.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/A-Skeptical-Look-at-Elon-Musks-AI-Utopia.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-28 01:00"
+    },
+    {
+      "id": "1q88s9b",
+      "title": "Kazakhstan Restarts CPC Oil Exports After Week-Long Black Sea Shutdown",
+      "title_vi": "Kazakhstan khởi động lại hoạt động xuất khẩu dầu của CPC sau khi Biển Đen đóng cửa kéo dài một tuần",
+      "summary_vi": "Kazakhstan đã nối lại xuất khẩu dầu thô thông qua Hiệp hội đường ống Caspian (CPC) vào thứ Hai sau khi nhà điều hành này mở lại kho cảng biển Biển Đen và tiếp tục nhận dầu thô từ các nhà sản xuất sau lệnh đình chỉ kéo dài một tuần do các cuộc tấn công bằng máy bay không người lái gây ra, đại diện Astana Times của Kazakhstan cho biết.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-27_jl7xmhkpuz.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Restarts-CPC-Oil-Exports-After-Week-Long-Black-Sea-Shutdown.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-28 00:30"
+    },
     {
       "id": "1xtnj2c",
       "title": "Nvidia&#039;s $250 Billion OpenAI Guarantee Puts AI Capex Concerns Back in Focus",
@@ -68,17 +90,6 @@
       "published": "2026-07-27 21:30"
     },
     {
-      "id": "n94sgx",
-      "title": "Temporary Calm in Iran Conflict Masks Risk of Broader Middle East War",
-      "title_vi": "Bình tĩnh tạm thời ở Iran Mặt nạ xung đột Nguy cơ chiến tranh Trung Đông rộng hơn",
-      "summary_vi": "Tehran cho biết họ đã tạm dừng các cuộc tấn công trả đũa nhằm vào các đồng minh của Mỹ ở Trung Đông khi Washington kiềm chế không tấn công Iran trong đêm thứ hai liên tiếp. Trong khi đó, một quan chức quân sự hàng đầu ở Tehran đe dọa sẽ mở rộng các cuộc tấn công của Iran trên toàn khu vực, cho rằng Iran-a",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-26_ekzkgxib3h.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Temporary-Calm-in-Iran-Conflict-Masks-Risk-of-Broader-Middle-East-War.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-27 21:00"
-    },
-    {
       "id": "nq5zbz",
       "title": "Fed July Meeting Preview: Rate Hike Still Possible As Markets Await Impact on US Stocks, Dollar, and Gold",
       "title_vi": "Xem trước cuộc họp tháng 7 của Fed: Vẫn có thể tăng lãi suất khi thị trường đang chờ tác động đến chứng khoán, đô la và vàng của Mỹ",
@@ -88,17 +99,6 @@
       "source": "TradingKey",
       "category": "metal",
       "published": "2026-07-27 20:41"
-    },
-    {
-      "id": "1jmxyu4",
-      "title": "Russia Says Fuel Crisis Is Easing as Refineries Restart",
-      "title_vi": "Nga cho biết khủng hoảng nhiên liệu đang giảm bớt khi các nhà máy lọc dầu khởi động lại",
-      "summary_vi": "Phó Thủ tướng Nga Alexander Novak cho biết cuộc khủng hoảng nhiên liệu ở Nga đã bắt đầu giảm bớt trong những ngày gần đây khi một số nhà máy lọc dầu khởi động lại hoạt động. “Tình hình đang dần ổn định, một số nhà máy lọc dầu đã hoạt động trở lại.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-27_s2x0yvytrw.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Says-Fuel-Crisis-Is-Easing-as-Refineries-Restart.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-27 20:30"
     },
     {
       "id": "1e613kh",

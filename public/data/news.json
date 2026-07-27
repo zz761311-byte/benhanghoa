@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-27 14:01",
+  "updated_at": "2026-07-27 14:56",
   "items": [
+    {
+      "id": "1b3l532",
+      "title": "Japan Eyes Foreign Banks to Back $33 Billion U.S. Natural Gas Investment",
+      "title_vi": "Nhật Bản để mắt đến các ngân hàng nước ngoài để hỗ trợ khoản đầu tư khí đốt tự nhiên trị giá 33 tỷ USD của Mỹ",
+      "summary_vi": "Chính phủ Nhật Bản có thể tiếp cận các ngân hàng nước ngoài để hỗ trợ tài chính cho các khoản đầu tư đã cam kết vào sản xuất khí đốt tự nhiên của Mỹ, một phần trong thỏa thuận thương mại giữa Tokyo với chính quyền Trump, đã được nhất trí vào năm ngoái. “Nếu nguồn tài trợ từ các ngân hàng nước ngoài thành hiện thực, điều đó sẽ tạo điều kiện thuận lợi hơn nữa cho",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-27_3suto6vyxu.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Eyes-Foreign-Banks-to-Back-33-Billion-US-Natural-Gas-Investment.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-27 14:45"
+    },
     {
       "id": "butxfj",
       "title": "China’s Crude Oil Imports Surge",
@@ -99,17 +110,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-07-26 23:55"
-    },
-    {
-      "id": "1m7vw2e",
-      "title": "Oil Market&#039;s Glut Narrative Just Blew Up",
-      "title_vi": "Câu chuyện về tình trạng dư thừa của thị trường dầu mỏ vừa bùng nổ",
-      "summary_vi": "Cách đây chưa đầy một tháng, các nhà phân tích đã cảnh báo về tình trạng dư thừa dầu thô khi lưu lượng tàu chở dầu qua eo biển Hormuz bắt đầu phục hồi trong bối cảnh lệnh ngừng bắn giữa Mỹ và Iran. Trong vòng vài ngày sau những cảnh báo này, lệnh ngừng bắn là một ký ức đau đớn, tên lửa lại bay trở lại và giờ đây lực lượng Houth của Yemen",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-26_9fyisrxlwm.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Glut-Narrative-Just-Blew-Up.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-26 23:00"
     },
     {
       "id": "dwpy7d",
@@ -541,14 +541,14 @@
       "published": "2026-07-24 14:47"
     },
     {
-      "id": "r6x4k4",
-      "title": "Platinum Live Chart - Metals CFD Trading",
-      "title_vi": "Biểu đồ trực tiếp bạch kim - Giao dịch CFD kim loại",
+      "id": "my7osy",
+      "title": "Farm Futures morning grain market analysis",
+      "title_vi": "Phân tích thị trường ngũ cốc buổi sáng của Farm Futures",
       "summary_vi": "",
       "image": "",
-      "link": "https://www.forex.com/en-sg/gold-silver-trading/platinum/",
-      "source": "FOREX.com",
-      "category": "metal",
+      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+      "source": "Farm Progress",
+      "category": "agri",
       "published": "2026-07-24 14:00"
     }
   ]

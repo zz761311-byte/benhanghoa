@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27 14:56",
+  "updated_at": "2026-07-27 15:01",
   "items": [
     {
       "id": "1b3l532",
@@ -187,6 +187,17 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-07-25 10:59"
+    },
+    {
+      "id": "cn6cjz",
+      "title": "Oil Pulls Back, Easing Pressure on Interest Rates and Weighing on the Dollar",
+      "title_vi": "Dầu giảm trở lại, giảm bớt áp lực lên lãi suất và đè nặng lên đồng đô la",
+      "summary_vi": "Dầu BitcoinWorld giảm trở lại, giảm bớt áp lực lên lãi suất và đè nặng lên đồng đô la Giá dầu đã rút lui khỏi mức cao gần đây vào thứ Ba, mang lại một số",
+      "image": "https://cryptorank.io/static/pages-preview/main-page.png",
+      "link": "https://cryptorank.io/news/feed/dbdee-oil-pullback-interest-rates-dollar",
+      "source": "CryptoRank",
+      "category": "energy",
+      "published": "2026-07-25 08:04"
     },
     {
       "id": "11kcsfx",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-07-24 14:47"
-    },
-    {
-      "id": "my7osy",
-      "title": "Farm Futures morning grain market analysis",
-      "title_vi": "Phân tích thị trường ngũ cốc buổi sáng của Farm Futures",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-07-24 14:00"
     }
   ]
 }

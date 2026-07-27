@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-27 17:01",
+  "updated_at": "2026-07-27 18:01",
   "items": [
+    {
+      "id": "dcshlk",
+      "title": "Irish Energy Distributor Agrees to $7.7 Billion Takeover by KKR-Led Consortium",
+      "title_vi": "Nhà phân phối năng lượng Ireland đồng ý tiếp quản 7,7 tỷ USD bởi tập đoàn do KKR lãnh đạo",
+      "summary_vi": "Nhà phân phối năng lượng Ireland DCC Energy đã đồng ý để một tập đoàn do KKR và Energy Capital Partners đứng đầu tiếp quản. Thỏa thuận này định giá công ty ở mức gần 7,7 tỷ USD và cao hơn khoảng 1 tỷ USD so với lời đề nghị ban đầu của KKR được đưa ra vào tháng 6.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-27_cjmhe63v7t.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Irish-Energy-Distributor-Agrees-to-77-Billion-Takeover-by-KKR-Led-Consortium.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-27 17:45"
+    },
     {
       "id": "1kwnbt",
       "title": "Red Sea Tanker Traffic Falls to Multi-Month Low After Houthi Threats",
@@ -110,17 +121,6 @@
       "source": "Brave New Coin",
       "category": "metal",
       "published": "2026-07-27 04:01"
-    },
-    {
-      "id": "ap3yo8",
-      "title": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
-      "title_vi": "Chi phí nhiên liệu máy bay phản lực của Mỹ tăng vọt khi chiến tranh Iran lại tấn công các hãng hàng không",
-      "summary_vi": "Các hãng hàng không Mỹ lại phải vật lộn với chi phí nhiên liệu máy bay tăng vọt sau khi xung đột bùng phát trở lại ở Trung Đông phá vỡ “thỏa thuận” kéo dài 3 tuần giữa Mỹ và Iran và khiến giá dầu thô Brent lại tăng vọt hơn 100 USD/thùng. Thị trường nhiên liệu máy bay phản lực của Mỹ đang gặp khó khăn",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-26_t7jsk4qcie.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Jet-Fuel-Costs-Soar-as-Iran-War-Hits-Airlines-Again.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-27 04:00"
     },
     {
       "id": "a5endk",
@@ -343,6 +343,17 @@
       "published": "2026-07-25 02:01"
     },
     {
+      "id": "8lxuvf",
+      "title": "Canadian dollar slips as oil retreats, Fed decision looms",
+      "title_vi": "Đồng đô la Canada trượt dốc khi giá dầu giảm, quyết định của Fed sắp xuất hiện",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-slips-as-oil-retreats-fed-decision-looms-93CH-4812379",
+      "source": "Investing.com",
+      "category": "energy",
+      "published": "2026-07-25 01:27"
+    },
+    {
       "id": "w0xl73",
       "title": "Russia's Biggest Black Sea Oil Port Goes Quiet as Drone Threat Grows",
       "title_vi": "Cảng dầu Biển Đen lớn nhất của Nga trở nên yên tĩnh khi mối đe dọa từ máy bay không người lái ngày càng gia tăng",
@@ -539,17 +550,6 @@
       "source": "Just Drinks",
       "category": "soft",
       "published": "2026-07-24 17:35"
-    },
-    {
-      "id": "nh9y6k",
-      "title": "Massive Corn Options Bet Could Accelerate Harvest Rally - RFD-TV",
-      "title_vi": "Đặt cược quyền chọn ngô khổng lồ có thể đẩy nhanh tốc độ thu hoạch - RFD-TV",
-      "summary_vi": "Vị thế quyền chọn khổng lồ đã thu hút sự chú ý trong ngành buôn bán ngũ cốc vì quy mô và tác động tiềm tàng của nó lên thị trường.",
-      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/2d22a0f/2147483647/strip/true/crop/1920x1078+0+1/resize/730x410!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2F38%2F27%2Fe08b9b854ce086835a50a178a0e6%2Fcorn-combine-auger-adobestock-422368315-1920x1080.jpg",
-      "link": "https://www.rfdtv.com/massive-corn-options-bet-could-accelerate-harvest-rally",
-      "source": "RFD-TV",
-      "category": "agri",
-      "published": "2026-07-24 17:13"
     }
   ]
 }

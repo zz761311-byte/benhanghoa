@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-27 22:01",
+  "updated_at": "2026-07-27 23:01",
   "items": [
+    {
+      "id": "1ftng99",
+      "title": "Leaked UK Grid Report Warns Net Zero Push Raises Blackout Risks",
+      "title_vi": "Báo cáo lưới điện bị rò rỉ của Vương quốc Anh cảnh báo Net Zero Push làm tăng rủi ro mất điện",
+      "summary_vi": "Theo một báo cáo bị rò rỉ do hệ thống lưới điện quốc gia ủy quyền, mức tăng ròng bằng 0 của Vương quốc Anh có nguy cơ khiến đất nước phải trả hóa đơn tiền điện cao hơn và dễ bị mất điện hơn. Báo cáo do công ty tư vấn năng lượng Cornwall Insight cho Hệ thống Năng lượng Quốc gia thực hiện",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-27_w6lmcp5sar.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Leaked-UK-Grid-Report-Warns-Net-Zero-Push-Raises-Blackout-Risks.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-27 23:00"
+    },
+    {
+      "id": "1xkdzlk",
+      "title": "TotalEnergies to Appeal Court Order to Adapt Business to Climate Goals",
+      "title_vi": "TotalEnergies kháng cáo lệnh của tòa án nhằm điều chỉnh hoạt động kinh doanh cho phù hợp với các mục tiêu về khí hậu",
+      "summary_vi": "TotalEnergies sẽ kháng cáo một quyết định mang tính bước ngoặt của Tòa án Tư pháp Paris từ tháng trước, ra lệnh cho tập đoàn lớn của Pháp điều chỉnh hoạt động kinh doanh của mình theo các mục tiêu về biến đổi khí hậu vì họ cho rằng họ phải chịu trách nhiệm về biến đổi khí hậu. Trong một tuyên bố hôm thứ Hai, TotalEnergies cho biết họ đã quyết định",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-27_nmhlo0fj24.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-to-Appeal-Court-Order-to-Adapt-Business-to-Climate-Goals.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-27 22:30"
+    },
     {
       "id": "mwhktp",
       "title": "Pentagon Suppliers Warn U.S. Won&#039;t Have Magnet Capacity By 2027",
@@ -9,7 +31,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-27_dj8ilebukz.jpg",
       "link": "https://oilprice.com/Metals/Commodities/Pentagon-Suppliers-Warn-US-Wont-Have-Magnet-Capacity-By-2027.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-07-27 22:00"
     },
     {
@@ -55,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-27 20:30"
+    },
+    {
+      "id": "1e613kh",
+      "title": "Where will silver and gold prices head this August? Experts weigh in",
+      "title_vi": "Giá bạc và vàng sẽ đi về đâu trong tháng 8 này? Các chuyên gia cân nhắc",
+      "summary_vi": "Liệu giá vàng và bạc có thể phục hồi trong tháng 8 này sau khi sụt giảm trong những tháng gần đây? Đây",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/27/8cc4f5d7-7f52-47e2-8618-24770b3efc07/thumbnail/1200x630/5879fb91f54eeb60ccc04f3c431cc2ea/gettyimages-2260004064.jpg",
+      "link": "https://www.cbsnews.com/news/silver-and-gold-prices-forecast-august-2026-experts/",
+      "source": "CBS News",
+      "category": "metal",
+      "published": "2026-07-27 20:17"
     },
     {
       "id": "96hz72",
@@ -134,17 +167,6 @@
       "published": "2026-07-27 17:53"
     },
     {
-      "id": "dcshlk",
-      "title": "Irish Energy Distributor Agrees to $7.7 Billion Takeover by KKR-Led Consortium",
-      "title_vi": "Nhà phân phối năng lượng Ireland đồng ý tiếp quản 7,7 tỷ USD bởi tập đoàn do KKR lãnh đạo",
-      "summary_vi": "Nhà phân phối năng lượng Ireland DCC Energy đã đồng ý để một tập đoàn do KKR và Energy Capital Partners đứng đầu tiếp quản. Thỏa thuận này định giá công ty ở mức gần 7,7 tỷ USD và cao hơn khoảng 1 tỷ USD so với lời đề nghị ban đầu của KKR được đưa ra vào tháng 6.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-27_cjmhe63v7t.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Irish-Energy-Distributor-Agrees-to-77-Billion-Takeover-by-KKR-Led-Consortium.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-27 17:45"
-    },
-    {
       "id": "13xv9kd",
       "title": "Gold edges higher as softer dollar offsets easing geopolitical tensions",
       "title_vi": "Vàng tăng cao hơn khi đồng đô la giảm bớt căng thẳng địa chính trị",
@@ -154,17 +176,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-07-27 17:13"
-    },
-    {
-      "id": "1kwnbt",
-      "title": "Red Sea Tanker Traffic Falls to Multi-Month Low After Houthi Threats",
-      "title_vi": "Lưu lượng tàu chở dầu Biển Đỏ giảm xuống mức thấp nhất trong nhiều tháng sau các mối đe dọa của Houthi",
-      "summary_vi": "Lưu lượng tàu chở dầu qua eo biển Bab el-Mandeb đã giảm xuống mức thấp nhất trong nhiều tháng vào Chủ nhật trong bối cảnh Houthi tấn công vào cơ sở hạ tầng dầu mỏ của Saudi trên bờ Biển Đỏ. Chỉ có 11 tàu chở hàng chở hàng hóa đi qua điểm nghẽn Bab el-Mandeb giữa Biển Đỏ và Biển Ả Rập vào ngày Sund",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-27_m9obsht1oy.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Red-Sea-Tanker-Traffic-Falls-to-Multi-Month-Low-After-Houthi-Threats.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-27 16:40"
     },
     {
       "id": "aupwug",
@@ -297,17 +308,6 @@
       "source": "Yahoo Finance Singapore",
       "category": "soft",
       "published": "2026-07-25 16:30"
-    },
-    {
-      "id": "1vsg7dg",
-      "title": "Gold, Silver Pullback Is Not The End Of Rally, JPMorgan Reportedly Says After Forecast Cut",
-      "title_vi": "JPMorgan cho biết sự thoái lui của vàng, bạc không phải là sự kết thúc của đợt tăng giá sau khi cắt giảm dự báo",
-      "summary_vi": "Bất chấp việc cắt giảm ngắn hạn, JPMorgan dự đoán giá vàng và bạc sẽ tăng vào cuối năm nay trong bối cảnh những bất ổn về năng lượng và lạm phát giảm bớt.",
-      "image": "https://news.stocktwits-cdn.com/large_Gold_Silver_jpg_c77de4fb71.webp",
-      "link": "https://stocktwits.com/news-articles/markets/equity/gold-silver-pullback-is-not-the-end-of-rally-jpmorgan-reportedly-says-after-forecast-cut/cZXrBxmRelk",
-      "source": "Stocktwits",
-      "category": "metal",
-      "published": "2026-07-25 16:27"
     },
     {
       "id": "3uad0a",

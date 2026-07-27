@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28 04:00",
+  "updated_at": "2026-07-28 04:32",
   "items": [
     {
       "id": "nnzrd5",
@@ -387,6 +387,17 @@
       "published": "2026-07-25 23:34"
     },
     {
+      "id": "142j1wg",
+      "title": "Colombia Coffee Outlook: Production, Contract, and Challenges",
+      "title_vi": "Triển vọng cà phê Colombia: Sản xuất, hợp đồng và thách thức",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en/insights/colombia-coffee-outlook-production-contract-and-challenges/",
+      "source": "StoneX",
+      "category": "soft",
+      "published": "2026-07-25 19:11"
+    },
+    {
       "id": "o91vld",
       "title": "Americans pay $5,500+ a year on coffee as prices hit 25-year volatility — but cutting the habit could cost you more",
       "title_vi": "Người Mỹ trả hơn 5.500 USD mỗi năm cho cà phê khi giá cà phê biến động trong 25 năm - nhưng việc cắt bỏ thói quen này có thể khiến bạn tốn nhiều tiền hơn",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-07-24 23:56"
-    },
-    {
-      "id": "jaqywg",
-      "title": "How an Industrial Surge Can Drive Silver Price Comeback",
-      "title_vi": "Làm thế nào một sự đột biến công nghiệp có thể thúc đẩy sự trở lại của giá bạc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://etfdb.com/gold-silver-investing-content-hub/industrial-surge-drive-silver-price/",
-      "source": "ETF Database",
-      "category": "metal",
-      "published": "2026-07-24 23:51"
     }
   ]
 }

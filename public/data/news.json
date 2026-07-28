@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29 00:00",
+  "updated_at": "2026-07-29 00:49",
   "items": [
     {
       "id": "x9cczy",
@@ -299,6 +299,17 @@
       "published": "2026-07-27 21:33"
     },
     {
+      "id": "1xn341p",
+      "title": "Black Sea grain trapped as Russia, Ukraine attacks continue - World-Grain.com",
+      "title_vi": "Ngũ cốc ở Biển Đen bị mắc kẹt khi Nga và Ukraine tiếp tục tấn công - World-Grain.com",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.world-grain.com/articles/23027-black-sea-grain-trapped-as-russia-ukraine-attacks-continue",
+      "source": "World-Grain.com",
+      "category": "agri",
+      "published": "2026-07-27 19:49"
+    },
+    {
       "id": "96hz72",
       "title": "Bears in Control as Natural Gas Futures Follow Oil, LNG Downward",
       "title_vi": "Xu hướng giảm đang được kiểm soát khi hợp đồng tương lai khí đốt tự nhiên theo sau dầu, LNG đi xuống",
@@ -539,17 +550,6 @@
       "source": "Kavout | AI",
       "category": "metal",
       "published": "2026-07-26 03:46"
-    },
-    {
-      "id": "1h047k4",
-      "title": "Cotton Prices Rally as Texas Growing Conditions Turn Mixed",
-      "title_vi": "Giá bông tăng khi điều kiện trồng trọt ở Texas trở nên hỗn tạp",
-      "summary_vi": "Các chuyên gia của Cơ quan Khuyến nông A&M AgriLife Texas cho biết giá bông đã tăng, nhưng điều kiện trồng trọt vẫn không đồng đều trên khắp các vùng sản xuất chính của bang.",
-      "image": "https://df75hwhlfejca.cloudfront.net/cottongrower/wp-content/uploads/2026/07/Cotton-Closeup.jpg",
-      "link": "https://www.cottongrower.com/cotton-production/cotton-prices-rally-as-texas-growing-conditions-turn-mixed/",
-      "source": "Cotton Grower",
-      "category": "soft",
-      "published": "2026-07-26 01:13"
     }
   ]
 }

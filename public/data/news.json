@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-29 03:36",
+  "updated_at": "2026-07-29 04:00",
   "items": [
+    {
+      "id": "1wegowt",
+      "title": "US Crude Oil Inventories Build Again Despite Hormuz Disruption",
+      "title_vi": "Tồn kho dầu thô của Mỹ tăng trở lại bất chấp sự gián đoạn của Hormuz",
+      "summary_vi": "Viện Dầu khí Hoa Kỳ (API) ước tính rằng tồn kho dầu thô ở Hoa Kỳ đã tăng 3,296 triệu thùng trong tuần kết thúc vào ngày 24 tháng 7. Trong tuần trước, tồn kho dầu thô của Hoa Kỳ đã tăng 2,603 ​​triệu thùng. Tồn kho dầu thô thương mại không bao gồm SPR",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Build-Again-Despite-Hormuz-Disruption.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-29 03:58"
+    },
+    {
+      "id": "k83eyc",
+      "title": "Platinum Price Forecast: Widening Deficit Puts $1,900 Back in Focus",
+      "title_vi": "Dự báo giá bạch kim: Thâm hụt ngày càng mở rộng khiến 1.900 USD trở lại trọng tâm",
+      "summary_vi": "Thâm hụt bạch kim tiếp tục gia tăng mặc dù lượng bán ETF kỷ lục. Xem lý do tại sao mức hỗ trợ 1.540 USD có thể mở ra sự phục hồi lên mức 1.800-1.950 USD sau FOMC.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/platinum-metal-illustration-02.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/premium-platinum-price-forecast-widening-deficit-puts-1900-back-in-focus-1613445",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-07-29 03:36"
+    },
     {
       "id": "qfm90r",
       "title": "New Solar Cell Design Solves A Problem That&#039;s Plagued Panels for Decades",
@@ -110,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-28 23:00"
-    },
-    {
-      "id": "1insaoj",
-      "title": "Hitting EU Renewables Targets Could Slash Gas Demand a Quarter by 2030",
-      "title_vi": "Đạt được các mục tiêu về năng lượng tái tạo của EU có thể làm giảm nhu cầu khí đốt một phần tư vào năm 2030",
-      "summary_vi": "Viện Kinh tế Năng lượng và Phân tích Tài chính (IEEFA) cho biết hôm thứ Ba rằng Liên minh châu Âu có thể tiết kiệm rất nhiều khi nhập khẩu LNG vào năm 2030 nếu đạt được các mục tiêu lắp đặt máy bơm nhiệt, năng lượng mặt trời và gió… đến mức khối này có thể tiết kiệm gấp đôi lượng khí đốt nhập khẩu từ Qatar.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-28_sezao7wvau.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hitting-EU-Renewables-Targets-Could-Slash-Gas-Demand-a-Quarter-by-2030.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-28 22:30"
     },
     {
       "id": "1unp0jy",
@@ -539,17 +550,6 @@
       "source": "Financial Times",
       "category": "metal",
       "published": "2026-07-26 16:58"
-    },
-    {
-      "id": "xnu269",
-      "title": "Local, National, & Global Daily Weather Forecast | AccuWeather",
-      "title_vi": "Dự báo thời tiết hàng ngày của địa phương, quốc gia và toàn cầu | AccuWeather",
-      "summary_vi": "AccuWeather có dự báo thời tiết địa phương và quốc tế từ công nghệ dự báo thời tiết chính xác nhất với các báo cáo thời tiết cập nhật từng phút",
-      "image": "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
-      "link": "https://www.accuweather.com/",
-      "source": "AccuWeather",
-      "category": "agri",
-      "published": "2026-07-26 16:38"
     }
   ]
 }

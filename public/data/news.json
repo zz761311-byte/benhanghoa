@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29 05:00",
+  "updated_at": "2026-07-29 05:44",
   "items": [
     {
       "id": "1qxhdjm",
@@ -187,6 +187,17 @@
       "source": "Investing.com",
       "category": "metal",
       "published": "2026-07-28 16:23"
+    },
+    {
+      "id": "iumbct",
+      "title": "Will the Natural Gas Spike Make the Euro Fall?",
+      "title_vi": "Liệu sự tăng đột biến của khí đốt tự nhiên có làm đồng Euro sụt giảm?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://robinjbrooks.substack.com/p/will-the-natural-gas-spike-get-the",
+      "source": "Robin J Brooks | Substack",
+      "category": "energy",
+      "published": "2026-07-28 16:02"
     },
     {
       "id": "1hzgv8k",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-07-27 00:30"
-    },
-    {
-      "id": "a5endk",
-      "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
-      "title_vi": "'Đóng băng xung đột': Máy bay không người lái làm chậm dòng chảy dầu của Kazakhstan trong bối cảnh chiến tranh Nga-Ukraine",
-      "summary_vi": "Xuất khẩu dầu của Kazakhstan tạm dừng sau khi các cuộc tấn công bằng máy bay không người lái làm gián đoạn nguồn cung, gây rủi ro cho nền kinh tế và thị trường năng lượng.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2017-10-12T112527Z_1201155321_RC18CAC35D90_RTRMADP_3_CPC-PIPELINE-1785084392.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war",
-      "source": "Al Jazeera",
-      "category": "energy",
-      "published": "2026-07-27 00:20"
     }
   ]
 }

@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-07-28 18:00",
+  "updated_at": "2026-07-28 19:00",
   "items": [
+    {
+      "id": "1q2amx5",
+      "title": "Red Sea Tanker Traffic Hits Multi-Month Low as Houthi Threat Holds",
+      "title_vi": "Lưu lượng tàu chở dầu Biển Đỏ đạt mức thấp nhất trong nhiều tháng khi mối đe dọa của Houthi vẫn tồn tại",
+      "summary_vi": "Hơn nửa tá tàu chở dầu rỗng hiện đang trên đường tới cảng Sidi Kerir của Ai Cập để đón dầu thô của Saudi khi nhà xuất khẩu dầu thô hàng đầu thế giới đang tái định tuyến - một lần nữa - các chiến thuật xuất khẩu của mình để tránh mối đe dọa mới đối với các điểm huyết mạch của Trung Đông, Bab el-Mandeb ở khu vực Trung Đông.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-28_rvt7k3euwo.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Red-Sea-Tanker-Traffic-Hits-Multi-Month-Low-as-Houthi-Threat-Holds.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-28 18:30"
+    },
+    {
+      "id": "1iy83ea",
+      "title": "Monolith Coffee is Building Something Different in Los Angeles",
+      "title_vi": "Cà phê Monolith đang xây dựng một cái gì đó khác biệt ở Los Angeles",
+      "summary_vi": "Vợ chồng đồng sáng lập Nikki Jin và Eli Wang đã mở Monolith Coffee vào đầu năm nay tại Alhambra, California, mang cà phê rang tại nhà và ý tưởng đồ uống theo mùa phức tạp vào một không gian được xây dựng xung quanh...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/07/28/monolith-coffee-is-building-something-different-in-los-angeles/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-07-28 17:40"
+    },
+    {
+      "id": "kqlfho",
+      "title": "Mundo Novo Launches Pro Model for Automated Pourovers",
+      "title_vi": "Mundo Novo ra mắt mẫu Pro cho máy rót tự động",
+      "summary_vi": "Công ty thiết bị cà phê thương mại Mundo Novo có trụ sở tại New York đang tung ra MN-CS1-Pro, phiên bản nâng cấp của máy rót tự động một vòi với khả năng điều khiển công thức sâu hơn và kết nối không dây. Cái...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/07/28/mundo-novo-launches-pro-model-for-automated-pourovers/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-07-28 17:39"
+    },
     {
       "id": "1rhxupy",
       "title": "Iran Races to Fortify Its Most Vital Oil Terminal as U.S. Threats Persist",
@@ -68,6 +101,17 @@
       "published": "2026-07-28 14:30"
     },
     {
+      "id": "f8rkb0",
+      "title": "Corn over $5 or below $4? USDA numbers widen price spread",
+      "title_vi": "Ngô trên 5 USD hay dưới 4 USD? Số USDA mở rộng chênh lệch giá",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/marketing/corn-over-5-or-below-4-usda-numbers-widen-price-spread",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-07-28 14:02"
+    },
+    {
       "id": "1r3vb9m",
       "title": "Saudi Arabia Weighs Higher Asia Crude Prices as Red Sea Shipping Costs Rise",
       "title_vi": "Ả Rập Saudi nâng giá dầu thô châu Á cao hơn khi chi phí vận chuyển biển Đỏ tăng",
@@ -132,17 +176,6 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-07-28 07:00"
-    },
-    {
-      "id": "fzc88p",
-      "title": "$100 Oil Puts Big Tech’s $725 Billion AI Bet at Risk",
-      "title_vi": "Dầu trị giá 100 USD đặt cược AI trị giá 725 tỷ USD của Big Tech gặp rủi ro",
-      "summary_vi": "Giá dầu thô đang giảm sau khi Brent đạt 100 USD một lần nữa vào tuần trước khi Mỹ và Iran tạm dừng xung đột vào cuối tuần qua. Tuy nhiên, với kết quả của cuộc chiến vẫn còn rất không chắc chắn, triển vọng về thị trường chứng khoán đã trở nên mờ mịt. Thêm vào đó là chi tiêu cho AI của Big Tech",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-27_dumchfn3ki.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/100-Oil-Puts-Big-Techs-725-Billion-AI-Bet-at-Risk.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-28 06:00"
     },
     {
       "id": "171a7s9",
@@ -517,39 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-07-25 10:59"
-    },
-    {
-      "id": "cn6cjz",
-      "title": "Oil Pulls Back, Easing Pressure on Interest Rates and Weighing on the Dollar",
-      "title_vi": "Dầu giảm trở lại, giảm bớt áp lực lên lãi suất và đè nặng lên đồng đô la",
-      "summary_vi": "Dầu BitcoinWorld giảm trở lại, giảm bớt áp lực lên lãi suất và đè nặng lên đồng đô la Giá dầu đã rút lui khỏi mức cao gần đây vào thứ Ba, mang lại một số",
-      "image": "https://cryptorank.io/static/pages-preview/main-page.png",
-      "link": "https://cryptorank.io/news/feed/dbdee-oil-pullback-interest-rates-dollar",
-      "source": "CryptoRank",
-      "category": "energy",
-      "published": "2026-07-25 08:04"
-    },
-    {
-      "id": "11kcsfx",
-      "title": "Heat worries US wheat farmers just as crop prices surge - The Spokesman-Review",
-      "title_vi": "Nắng nóng khiến nông dân trồng lúa mì Mỹ lo lắng khi giá nông sản tăng cao - The Spokesman-Review",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spokesman.com/stories/2026/jul/23/heat-worries-us-wheat-farmers-just-as-crop-prices-/",
-      "source": "The Spokesman-Review",
-      "category": "agri",
-      "published": "2026-07-25 07:07"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "(Reuters) – Khí đốt tự nhiên chạm đến hầu hết mọi ngóc ngách của nền kinh tế Hoa Kỳ, cung cấp nhiên liệu cho các nhà máy điện, nhà cửa, nhà máy và lĩnh vực xuất khẩu LNG đang bùng nổ. Nhưng nguồn cung cần thiết để đáp ứng tất cả những mục đích sử dụng đó lại đến từ một mảnh đất đá phiến ngày càng hẹp của Mỹ. Sự không phù hợp này giữa một nhóm người tiêu dùng ngày càng mở rộng…",
-      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Flame-1200x810-1.jpg",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-07-25 06:02"
     }
   ]
 }

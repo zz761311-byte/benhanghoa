@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-28 09:01",
+  "updated_at": "2026-07-28 10:00",
   "items": [
+    {
+      "id": "v7w1kf",
+      "title": "Oil Prices Extend Losses as U.S.-Iran Calm Holds for Another Night",
+      "title_vi": "Giá dầu tiếp tục thua lỗ khi sự bình tĩnh giữa Mỹ và Iran tiếp tục kéo dài thêm một đêm nữa",
+      "summary_vi": "Giá dầu tiếp tục có xu hướng giảm vào đầu phiên giao dịch châu Á vào thứ Ba khi đêm thứ tư trôi qua mà không có bất kỳ cuộc tấn công nào từ Iran hoặc Hoa Kỳ. Tại thời điểm viết bài, dầu thô WTI đang giao dịch ở mức 81,55 USD/thùng, giảm 1,28% trong phiên, trong khi dầu thô Brent giảm xuống mức",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Extend-Losses-as-US-Iran-Calm-Holds-for-Another-Night.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-28 10:00"
+    },
     {
       "id": "1uhpjt7",
       "title": "Gold slips as firm dollar weighs; focus turns to Fed meeting",
@@ -68,6 +79,17 @@
       "published": "2026-07-28 04:00"
     },
     {
+      "id": "1dxq9ya",
+      "title": "Analysis: Key U.S. Energy Metrics Face Test as Middle East Risks Escalate",
+      "title_vi": "Phân tích: Thử thách đối mặt với các chỉ số năng lượng quan trọng của Hoa Kỳ khi rủi ro ở Trung Đông leo thang",
+      "summary_vi": "Khi căng thẳng gia tăng ở Trung Đông, các chỉ số quan trọng của thị trường dầu, khí tự nhiên và điện của Hoa Kỳ đang trở thành thước đo quan trọng để xác định liệu nguồn cung năng lượng trong nước có thể theo kịp nhu cầu ngày càng tăng hay không.",
+      "image": "https://pgjonline.com/media/4184/khurais-oil-plant.jpg?v=1dc1b2467ad8570",
+      "link": "https://pgjonline.com/news/2026/july/analysis-key-us-energy-metrics-face-test-as-middle-east-risks-escalate",
+      "source": "Pipeline and Gas Journal",
+      "category": "energy",
+      "published": "2026-07-28 03:19"
+    },
+    {
       "id": "u9f81a",
       "title": "Greenland Mines (GRML) Advances World-Class Palladium Deposit With Major Resource Upgrade",
       "title_vi": "Mỏ Greenland (GRML) nâng cao trữ lượng palladium đẳng cấp thế giới bằng việc nâng cấp nguồn tài nguyên lớn",
@@ -121,17 +143,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-28 01:00"
-    },
-    {
-      "id": "1q88s9b",
-      "title": "Kazakhstan Restarts CPC Oil Exports After Week-Long Black Sea Shutdown",
-      "title_vi": "Kazakhstan khởi động lại hoạt động xuất khẩu dầu của CPC sau khi Biển Đen đóng cửa kéo dài một tuần",
-      "summary_vi": "Kazakhstan đã nối lại xuất khẩu dầu thô thông qua Hiệp hội đường ống Caspian (CPC) vào thứ Hai sau khi nhà điều hành này mở lại kho cảng biển Biển Đen và tiếp tục nhận dầu thô từ các nhà sản xuất sau lệnh đình chỉ kéo dài một tuần do các cuộc tấn công bằng máy bay không người lái gây ra, đại diện Astana Times của Kazakhstan cho biết.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-27_jl7xmhkpuz.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Restarts-CPC-Oil-Exports-After-Week-Long-Black-Sea-Shutdown.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-28 00:30"
     },
     {
       "id": "y0tgfp",
@@ -539,17 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-07-25 02:46"
-    },
-    {
-      "id": "1hsve2f",
-      "title": "‘Not even break-even’: Nebraska farmers may confront deep losses amid low crop prices",
-      "title_vi": "‘Thậm chí không hòa vốn’: Nông dân Nebraska có thể phải đối mặt với thua lỗ nặng nề trong bối cảnh giá nông sản thấp",
-      "summary_vi": "“Chúng ta đang nói về việc mất tiền cho mỗi giạ và mẫu ngô hoặc đậu nành.”",
-      "image": "https://gray-koln-prod.gtv-cdn.com/resizer/v2/PHZNOIUVLFD7NMFJRCQUQFSG24.jpg?auth=511ed72a0c4dbfb64af562cbee1a89fce6dfe4a5172a37b704c3ffb64de8f33e&width=1200&height=600&smart=true",
-      "link": "https://www.1011now.com/2026/07/24/not-even-break-even-nebraska-farmers-may-confront-deep-losses-amid-low-crop-prices/",
-      "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "category": "agri",
-      "published": "2026-07-25 02:39"
     }
   ]
 }

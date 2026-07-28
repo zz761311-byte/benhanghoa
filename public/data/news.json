@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-07-29 01:00",
+  "updated_at": "2026-07-29 01:59",
   "items": [
+    {
+      "id": "1svhv70",
+      "title": "Crops Analysis | Corn bulls show fresh strength",
+      "title_vi": "Phân tích cây trồng | Bò đực phô diễn sức mạnh tươi mới",
+      "summary_vi": "Ngày 28 tháng 7 năm 2026",
+      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
+      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-corn-bulls-show-fresh-strength",
+      "source": "Pro Farmer",
+      "category": "agri",
+      "published": "2026-07-29 01:53"
+    },
+    {
+      "id": "50c6ny",
+      "title": "Tightness in the Near-Term Supply Outlook Boosts Coffee Prices",
+      "title_vi": "Triển vọng nguồn cung ngắn hạn thắt chặt thúc đẩy giá cà phê",
+      "summary_vi": "Cà phê arabica tháng 9 (KCU26 ) vào thứ Ba đóng cửa tăng +14,85 (+4,58%) và cà phê Robusta ICE tháng 9 (RMU26 ) đóng cửa tăng +78 (+2,05%). Giá cà phê tăng mạnh vào thứ Ba trong ngày thứ hai liên tiếp, đạt mức cao nhất trong 2 tuần trong bối cảnh lo ngại...",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Soft%20Commodities/Coffee/Cup%20of%20coffee%20with%20coffee%20beans%20in%20burlap%20sack%20on%20coffee%20tree%20background%20by%20Amenic181%20via%20Shutterstock.jpg",
+      "link": "https://www.barchart.com/story/news/3507749/tightness-in-the-near-term-supply-outlook-boosts-coffee-prices",
+      "source": "Barchart.com",
+      "category": "soft",
+      "published": "2026-07-29 01:31"
+    },
+    {
+      "id": "ed8iyl",
+      "title": "Saudi Aramco Shuts 400,000-Bpd Refinery After Houthi Strike",
+      "title_vi": "Saudi Aramco đóng cửa nhà máy lọc dầu 400.000 Bpd sau cuộc tấn công của Houthi",
+      "summary_vi": "Saudi Aramco đã đóng cửa nhà máy lọc dầu Jazan công suất 400.000 thùng mỗi ngày vào ngày 27 tháng 7 sau khi một cuộc tấn công của Houthi làm hư hại cơ sở này, theo một ghi chú của IIR mà Reuters nhìn thấy. IIR cho biết cuộc đình công đã làm hư hại khu phức hợp Chu trình hỗn hợp khí hóa tích hợp và bể chứa của nhà máy lọc dầu. Sửa chữa là dự kiến",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Shuts-400000-Bpd-Refinery-After-Houthi-Strike.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-29 01:00"
+    },
     {
       "id": "16qs8uq",
       "title": "Central Asia Seeks New Trade Route to Pakistani Ports",
@@ -77,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-28 21:00"
-    },
-    {
-      "id": "1kiry2i",
-      "title": "Economists Cut India’s GDP Growth Forecast on Oil Price Shock",
-      "title_vi": "Các nhà kinh tế cắt giảm dự báo tăng trưởng GDP của Ấn Độ do cú sốc giá dầu",
-      "summary_vi": "Giá dầu tăng vọt và đầu tư tư nhân chậm lại đã đè nặng lên tăng trưởng kinh tế của Ấn Độ, hiện ở mức 6,6% trong năm tài chính tính đến tháng 3 năm 2027, giảm toàn bộ điểm phần trăm so với mức tăng trưởng GDP 7,7% trong năm tài chính trước đó, một cuộc thăm dò ý kiến ​​các nhà kinh tế của Reuters cho thấy.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-28_sa8tyqvuuw.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Economists-Cut-Indias-GDP-Growth-Forecast-on-Oil-Price-Shock.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-28 20:30"
     },
     {
       "id": "1unp0jy",
@@ -297,6 +319,17 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-07-27 21:33"
+    },
+    {
+      "id": "5vd8ks",
+      "title": "Silver Price For Today, 27 July 2026",
+      "title_vi": "Giá Bạc hôm nay, ngày 27 tháng 7 năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
+      "source": "Forbes",
+      "category": "metal",
+      "published": "2026-07-27 21:09"
     },
     {
       "id": "1xn341p",
@@ -517,39 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-07-26 12:00"
-    },
-    {
-      "id": "v9rple",
-      "title": "Cocoa prices are easing. So why is chocolate still so expensive?",
-      "title_vi": "Giá ca cao đang giảm bớt. Vậy tại sao sô cô la vẫn đắt như vậy?",
-      "summary_vi": "Các công ty sô cô la mong muốn thu hút người mua hàng trở lại bằng các sản phẩm cao cấp và xu hướng truyền thông xã hội sau khi điều kiện thời tiết xấu, thuế quan và chiến tranh Iran ảnh hưởng đến doanh số bán hàng.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108339667-1784875454983-gettyimages-1890499902-friedman-lindtcho231209_npP3C.jpeg?v=1784875475&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html",
-      "source": "CNBC",
-      "category": "soft",
-      "published": "2026-07-26 12:00"
-    },
-    {
-      "id": "tfd07r",
-      "title": "Cars & Coffee South Mississippi draws crowd to Treasure Bay",
-      "title_vi": "Ô tô & Cà phê Nam Mississippi thu hút đám đông đến Vịnh Treasure",
-      "summary_vi": "Những người đam mê ô tô tụ tập ở Bờ Vịnh để chia sẻ những câu chuyện và khoe xe của họ",
-      "image": "https://gray-wlox-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F07-26-2026%2Ft_fe6643260c8745129e1445dff446d14a_name_file_1280x720_2000_v3_1_.jpg?auth=4c882efc07752b9bde158a73a2a2496c74136d82b2c8606eca83583b64955b7a&width=1200&height=600&smart=true",
-      "link": "https://www.wlox.com/video/2026/07/26/cars-coffee-south-mississippi-draws-crowd-treasure-bay/",
-      "source": "WLOX",
-      "category": "soft",
-      "published": "2026-07-26 08:30"
-    },
-    {
-      "id": "18knver",
-      "title": "Why is Impala Platinum (IMPUY) Catching the Eye of Quant Analysts",
-      "title_vi": "Tại sao Impala Platinum (IMPUY) lại lọt vào mắt xanh của các nhà phân tích định lượng",
-      "summary_vi": "Impala Platinum (IMPUY) đang thu hút các nhà phân tích định lượng với xếp hạng \"Rất nên mua\". Động lực giá tích cực và các điều chỉnh ước tính tăng lên, cùng với những cải tiến về hoạt động và sự thay đổi của thị trường, đang thu hút sự quan tâm.",
-      "image": "https://investgpt-test.oss-us-east-1.aliyuncs.com/blog/mini_pexels-photo-8442431.jpeg",
-      "link": "https://www.kavout.com/market-lens/why-is-impala-platinum-impuy-catching-the-eye-of-quant-analysts",
-      "source": "Kavout | AI",
-      "category": "metal",
-      "published": "2026-07-26 03:46"
     }
   ]
 }

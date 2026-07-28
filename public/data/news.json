@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28 11:30",
+  "updated_at": "2026-07-28 12:00",
   "items": [
     {
       "id": "v7w1kf",
@@ -77,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-28 04:00"
+    },
+    {
+      "id": "171a7s9",
+      "title": "FCG: The Best ETF To Get Long Natural Gas (NYSEARCA:FCG)",
+      "title_vi": "FCG: ETF tốt nhất để mua khí đốt tự nhiên (NYSEARCA: FCG)",
+      "summary_vi": "Tăng giá trên First Trust Natural Gas ETF: tăng trưởng nhu cầu cơ cấu từ xuất khẩu LNG và trung tâm dữ liệu cộng với nguồn cung thắt chặt có thể thúc đẩy Henry Hub. Tìm hiểu thêm về FCG ETF tại đây.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2170083109/image_2170083109.jpg?io=getty-c-w1536",
+      "link": "https://seekingalpha.com/article/4925983-fcg-the-best-etf-to-get-long-natural-gas",
+      "source": "Seeking Alpha",
+      "category": "energy",
+      "published": "2026-07-28 03:39"
     },
     {
       "id": "1dxq9ya",
@@ -539,17 +550,6 @@
       "source": "ETF Database",
       "category": "macro",
       "published": "2026-07-25 03:53"
-    },
-    {
-      "id": "1osz55x",
-      "title": "China commitments offer support for soybean futures",
-      "title_vi": "Cam kết của Trung Quốc hỗ trợ giá đậu nành tương lai",
-      "summary_vi": "Một nhà kinh tế nông nghiệp cho biết thị trường đậu tương gần đây đã nhận được sự hỗ trợ từ xuất khẩu. Jim McCormick của AgMarket.Net cho biết đó là do các giao dịch mua hàng gần đây từ Trung Quốc. Ông nói: “Có vẻ như Trung Quốc tiếp tục thực hiện nghĩa vụ mua đậu”. “Họ đã cam kết mua 12 triệu tấn đậu mùa mới và",
-      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2025/08/7-31-25-LAte-July-Soybeans-JW-flowering-soybeans-soybean-flowers-e1754338647589.jpg",
-      "link": "https://www.brownfieldagnews.com/news/china-commitments-offer-support-for-soybean-futures/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-07-25 02:46"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-30 02:00",
+  "updated_at": "2026-07-30 03:00",
   "items": [
+    {
+      "id": "1blqtug",
+      "title": "Trump Administration Picks Five States for Nuclear Fuel-Cycle Hubs",
+      "title_vi": "Chính quyền Trump chọn 5 bang làm trung tâm chu trình nhiên liệu hạt nhân",
+      "summary_vi": "Bộ Năng lượng Hoa Kỳ đã chọn năm bang do các thống đốc Đảng Cộng hòa lãnh đạo có khả năng lưu trữ chất thải nhiên liệu hạt nhân để đổi lấy hàng tỷ đô la hỗ trợ nhằm thúc đẩy sản xuất trong chu trình nhiên liệu hạt nhân đầy đủ. Những cái gọi là Cơ sở đổi mới vòng đời hạt nhân này ar",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-29_wp5hrfalrs.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Trump-Administration-Picks-Five-States-for-Nuclear-Fuel-Cycle-Hubs.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-30 03:00"
+    },
     {
       "id": "17j87hy",
       "title": "BMW Targets 8,000 More Job Cuts in Fresh Cost-Cutting Drive",
@@ -9,7 +20,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-29_wotgxahn0p.jpg",
       "link": "https://oilprice.com/Energy/Energy-General/BMW-Targets-8000-More-Job-Cuts-in-Fresh-Cost-Cutting-Drive.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-07-30 02:00"
     },
     {
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-07-30 01:00"
+    },
+    {
+      "id": "8kwy83",
+      "title": "Ukraine says it hits 2 major Russian oil refineries hours after Zelenskyy's meeting with Trump",
+      "title_vi": "Ukraine cho biết họ tấn công 2 nhà máy lọc dầu lớn của Nga vài giờ sau cuộc gặp của Zelenskyy với Trump",
+      "summary_vi": "Ukraine cho biết lực lượng của họ đã tấn công hai nhà máy lọc dầu lớn của Nga trong cuộc tấn công tầm xa mới nhất của họ.",
+      "image": "https://dims.apnews.com/dims4/default/98b50b8/2147483647/strip/true/crop/2645x1762+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8e%2Fcc%2F050144148d5e0ef804460564278e%2Fbb023ef87e6a433ea1c91662fd62ef49",
+      "link": "https://apnews.com/article/russia-ukraine-war-oil-refinery-trump-zelenskyy-4275c2280107aedba37df8704f226ce6",
+      "source": "AP News",
+      "category": "energy",
+      "published": "2026-07-30 00:37"
     },
     {
       "id": "1qaqkrm",
@@ -77,17 +99,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-29 21:44"
-    },
-    {
-      "id": "vxgnog",
-      "title": "Taiwan Halts $800 Million in Spot LNG Buys From Papua New Guinea",
-      "title_vi": "Đài Loan ngừng mua 800 triệu USD LNG giao ngay từ Papua New Guinea",
-      "summary_vi": "Đài Loan đã đình chỉ mua khoảng 500.000 tấn khí đốt tự nhiên hóa lỏng từ Papua New Guinea cứ sau sáu tháng, loại bỏ khoảng 800 triệu USD nhu cầu thị trường giao ngay sau khi Port Moresby ra lệnh đóng cửa văn phòng đại diện của Đài Bắc. Quyết định rời khỏi Đài Loan",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-29_kx0oqowdzm.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Taiwan-Halts-800-Million-in-Spot-LNG-Buys-From-Papua-New-Guinea.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-29 21:30"
     },
     {
       "id": "9lzfom",
@@ -154,17 +165,6 @@
       "source": "WSJ",
       "category": "agri",
       "published": "2026-07-29 17:52"
-    },
-    {
-      "id": "13yshcp",
-      "title": "Ukraine says it hit a major Russian oil refinery, hours after Zelenskyy's meeting with Trump - ABC News",
-      "title_vi": "Ukraine cho biết họ đã tấn công một nhà máy lọc dầu lớn của Nga, vài giờ sau cuộc gặp của Zelenskyy với Trump - ABC News",
-      "summary_vi": "Ukraine cho biết đã tấn công một trong những nhà máy lọc dầu lớn nhất của Nga, làm gia tăng áp lực kinh tế và ngoại giao đối với Moscow.",
-      "image": "https://i.abcnewsfe.com/a/ec9059fb-2e07-45a5-8fce-11ac75eb97a3/wirestory_4275c2280107aedba37df8704f226ce6_16x9.jpg?w=1600",
-      "link": "https://abcnews.com/International/wireStory/ukraine-hit-major-russian-oil-refinery-hours-after-135181989",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-07-29 17:26"
     },
     {
       "id": "1ycdh7r",

@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-29 18:00",
+  "updated_at": "2026-07-29 19:00",
   "items": [
+    {
+      "id": "mrnrrt",
+      "title": "Iran Rejects Oman’s Proposal to Evenly Divide Hormuz Control",
+      "title_vi": "Iran bác bỏ đề xuất của Oman về việc chia đều quyền kiểm soát Hormuz",
+      "summary_vi": "Iran đã từ chối đề xuất của Oman về việc chia sẻ quyền kiểm soát đồng đều các tuyến đường ở eo biển Hormuz, vì Tehran yêu cầu họ kiểm soát hầu hết các điểm kiểm soát dầu và LNG quan trọng, một quan chức cấp cao của Iran nói với Reuters hôm thứ Tư, khi các cuộc đình công trong khu vực bùng phát và làm tiêu tan hy vọng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-29_edquzbio5u.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Rejects-Omans-Proposal-to-Evenly-Divide-Hormuz-Control.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-29 18:30"
+    },
+    {
+      "id": "h7juqc",
+      "title": "Bunge Raises Outlook on Soybean, Softsead Outperformance",
+      "title_vi": "Bunge nâng cao triển vọng về đậu tương, Softsead vượt trội",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/earnings/bunge-raises-outlook-on-soybean-softsead-outperformance-97731bea",
+      "source": "WSJ",
+      "category": "agri",
+      "published": "2026-07-29 17:52"
+    },
     {
       "id": "qf2eqw",
       "title": "Houthis Claim Attack on Saudi Oil Tanker in Red Sea",
@@ -110,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-29 07:00"
-    },
-    {
-      "id": "1x938ht",
-      "title": "Oil Prices Ignore the Warning Signs in Physical Markets",
-      "title_vi": "Giá dầu bỏ qua các dấu hiệu cảnh báo trên thị trường vật chất",
-      "summary_vi": "Diễn biến giá dầu kể từ đầu tháng 3 năm nay đã trở thành chủ đề của hàng chục cuộc thảo luận. Nhiều người đã bối rối trước giá tương lai và tại sao chúng chưa tăng vọt do nguồn cung ở Trung Đông bị gián đoạn nghiêm trọng. Có vẻ như lý do là sự lạc quan tuyệt đối",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-28_phkrqcecl5.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Ignore-the-Warning-Signs-in-Physical-Markets.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-29 06:00"
     },
     {
       "id": "k83eyc",
@@ -539,17 +550,6 @@
       "source": "FarmWeekNow",
       "category": "agri",
       "published": "2026-07-27 12:00"
-    },
-    {
-      "id": "v6ttwn",
-      "title": "What is next for commodities?",
-      "title_vi": "Điều gì tiếp theo cho hàng hóa?",
-      "summary_vi": "Căng thẳng gia tăng ở Trung Đông củng cố khả năng tham gia rộng rãi với hàng hóa vừa là nguồn lợi nhuận vừa là biện pháp phòng ngừa lạm phát. Năng lượng có thể hỗ trợ danh mục đầu tư nếu tình trạng gián đoạn vận chuyển hoặc sản xuất vẫn tiếp diễn, kim loại công nghiệp sẽ tiếp tục được hỗ trợ nhờ đầu tư vào AI và điện khí hóa. hàng hóa nông nghiệp",
-      "image": "https://www.ubs.com/cioresearch/35/74/25/4/3574254/en/opengraphimage.1584279769png",
-      "link": "https://www.ubs.com/global/en/wealthmanagement/insights/marketnews/article.3574254.html",
-      "source": "UBS",
-      "category": "macro",
-      "published": "2026-07-27 10:05"
     }
   ]
 }

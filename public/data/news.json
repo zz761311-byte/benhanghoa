@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30 00:00",
+  "updated_at": "2026-07-30 00:42",
   "items": [
     {
       "id": "1qaqkrm",
@@ -343,6 +343,17 @@
       "published": "2026-07-28 17:39"
     },
     {
+      "id": "uzy5xa",
+      "title": "Coca-Cola hikes full-year forecast. CEO tells CNBC the World Cup boosted its brands",
+      "title_vi": "Coca-Cola tăng dự báo cả năm CEO nói với CNBC rằng World Cup đã thúc đẩy thương hiệu của mình",
+      "summary_vi": "Coca-Cola cho biết nhu cầu về đồ uống của họ đã tăng ở mọi thị trường trong quý 2, một phần nhờ World Cup.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108337402-17845636522026-07-20t160703z_320739973_rc2phmamt9vv_rtrmadp_0_usa-stocks.jpeg?v=1784563722&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
+      "source": "cnbc.com",
+      "category": "soft",
+      "published": "2026-07-28 17:25"
+    },
+    {
       "id": "ngn0z8",
       "title": "UBS cuts palladium price target on oversupply concerns",
       "title_vi": "UBS cắt giảm mục tiêu giá palladium do lo ngại cung vượt cầu",
@@ -539,17 +550,6 @@
       "source": "Atlantic Council",
       "category": "macro",
       "published": "2026-07-27 23:57"
-    },
-    {
-      "id": "1r8odu8",
-      "title": "First Thing Today | Grains sell off overnight; bulls unwilling to advance their campaigns",
-      "title_vi": "Điều đầu tiên hôm nay | Ngũ cốc bán hết qua đêm; những con bò đực không muốn thúc đẩy chiến dịch của họ",
-      "summary_vi": "USDA thông báo mở lại dần biên giới phía Nam Hoa Kỳ để buôn bán gia súc",
-      "image": "https://assets.farmjournal.com/dims4/default/5ab490b/2147483647/strip/true/crop/2500x1406+0+189/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2F85%2F60%2F624ec10049ea9aeddb947b528f60%2Fprofarmer-first-thing-today.jpg",
-      "link": "https://www.profarmer.com/news/first-thing-today/first-thing-today-grains-sell-overnight-bulls-unwilling-advance-their-campaigns",
-      "source": "Pro Farmer",
-      "category": "agri",
-      "published": "2026-07-27 22:04"
     }
   ]
 }

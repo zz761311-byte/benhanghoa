@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-29 17:20",
+  "updated_at": "2026-07-29 18:00",
   "items": [
+    {
+      "id": "qf2eqw",
+      "title": "Houthis Claim Attack on Saudi Oil Tanker in Red Sea",
+      "title_vi": "Houthis tuyên bố tấn công tàu chở dầu của Saudi ở Biển Đỏ",
+      "summary_vi": "Lực lượng Houthi của Yemen vào cuối ngày thứ Ba đã tuyên bố tấn công một tàu chở dầu của Saudi ở Biển Đỏ, nói rằng tàu này đã vi phạm lệnh phong tỏa mà nhóm liên kết với Iran đã công bố vào tuần trước đối với các chuyến hàng của Saudi ở Biển Đỏ và Eo biển Bab el-Mandeb. “Các lực lượng vũ trang Yemen đã thực hiện một cuộc tấn công",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-29_xzu5fn1ocq.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Attack-on-Saudi-Oil-Tanker-in-Red-Sea.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-29 17:30"
+    },
     {
       "id": "1b71vsy",
       "title": "Eni Increases 2026 Buybacks as Production Growth Accelerates",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-29 14:30"
+    },
+    {
+      "id": "13buwzt",
+      "title": "Gold edges up ahead of Fed decision as softer dollar offsets inflation worries",
+      "title_vi": "Vàng tăng trước quyết định của Fed khi đồng đô la mềm hơn bù đắp lo lắng lạm phát",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/commodities-news/gold-prices-steady-ahead-of-fed-decision-oil-rebound-revives-inflation-concerns-4818551",
+      "source": "Investing.com",
+      "category": "metal",
+      "published": "2026-07-29 14:18"
     },
     {
       "id": "1pwliik",
@@ -79,17 +101,6 @@
       "published": "2026-07-29 10:01"
     },
     {
-      "id": "1q8xejm",
-      "title": "Gold ticks up ahead of Fed rate decision",
-      "title_vi": "Vàng tăng trước quyết định lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/asia-pacific/gold-edges-lower-ahead-fed-decision-interest-rates-2026-07-29/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-07-29 08:14"
-    },
-    {
       "id": "uduqh0",
       "title": "The U.S. Army Just Called China’s Bluff in the Rare Earth War",
       "title_vi": "Quân đội Mỹ vừa gọi Trung Quốc là trò bịp bợm trong cuộc chiến đất hiếm",
@@ -110,17 +121,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-29 06:00"
-    },
-    {
-      "id": "1qxhdjm",
-      "title": "The World’s Largest Sand Battery Is Now Online",
-      "title_vi": "Pin cát lớn nhất thế giới hiện đang hoạt động",
-      "summary_vi": "Lưới điện hiện đại đòi hỏi sự cân bằng liên tục, theo thời gian thực giữa nguồn cung và mức tiêu thụ. Thật không may, sự tích hợp của năng lượng gió và mặt trời làm cho lưới điện không ổn định do tính chất không liên tục của việc sản xuất năng lượng tái tạo. Để ngăn ngừa mất điện lưới cục bộ hoặc gây hại",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-28_6mmkwbr4ti.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Worlds-Largest-Sand-Battery-Is-Now-Online.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-29 05:00"
     },
     {
       "id": "k83eyc",
@@ -332,6 +332,17 @@
       "published": "2026-07-28 07:36"
     },
     {
+      "id": "r15f2h",
+      "title": "Op-Ed: Copper supply gap — good news on borrowed time",
+      "title_vi": "Op-Ed: Khoảng cách nguồn cung đồng - tin tốt về thời gian vay",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.mining.com/op-ed-copper-supply-gap-good-news-on-borrowed-time/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-07-28 04:51"
+    },
+    {
       "id": "171a7s9",
       "title": "FCG: The Best ETF To Get Long Natural Gas (NYSEARCA:FCG)",
       "title_vi": "FCG: ETF tốt nhất để mua khí đốt tự nhiên (NYSEARCA: FCG)",
@@ -539,17 +550,6 @@
       "source": "UBS",
       "category": "macro",
       "published": "2026-07-27 10:05"
-    },
-    {
-      "id": "d8mwaz",
-      "title": "Why Retail Chocolate Prices Stay High Despite Cocoa Crash",
-      "title_vi": "Tại sao giá sô cô la bán lẻ vẫn cao bất chấp sự sụt giảm của ca cao",
-      "summary_vi": "Hợp đồng tương lai ca cao giảm 34% nhưng giá sô cô la bán lẻ vẫn ở mức cao do phòng ngừa rủi ro và thương hiệu cao cấp. Các nhà sản xuất xoay quanh các xu hướng lan truyền và các quán bar sang trọng. Tìm hiểu lý do tại sao.",
-      "image": "https://www.briefs.co/wp-content/uploads/2026/07/retail-chocolate-prices-defy-falling-cocoa-costs.png",
-      "link": "https://www.briefs.co/news/retail-chocolate-prices-defy-falling-cocoa-costs/",
-      "source": "Briefs Finance",
-      "category": "soft",
-      "published": "2026-07-27 06:50"
     }
   ]
 }

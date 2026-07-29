@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-29 10:00",
+  "updated_at": "2026-07-29 11:00",
   "items": [
+    {
+      "id": "1bnl82z",
+      "title": "Oil Prices Surge on Fresh Middle East Strikes and API Crude Draw",
+      "title_vi": "Giá dầu tăng do các cuộc đình công mới ở Trung Đông và giá dầu thô API",
+      "summary_vi": "Giá dầu tăng vọt vào đầu phiên giao dịch châu Á vào thứ Tư, xóa đi một phần đáng kể đợt bán tháo hôm thứ Ba do tình trạng thù địch mới ở Trung Đông và báo cáo tồn kho của Mỹ tăng giá từ API. Tại thời điểm viết bài, dầu thô Brent đã tăng lên 87,95 USD/thùng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-28_cubaj9bmca.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-on-Fresh-Middle-East-Strikes-and-API-Crude-Draw.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-29 10:01"
+    },
     {
       "id": "uduqh0",
       "title": "The U.S. Army Just Called China’s Bluff in the Rare Earth War",
@@ -96,17 +107,6 @@
       "summary_vi": "Tổng thống Donald Trump hôm thứ Hai tiết lộ rằng doanh số bán dầu của Venezuela bởi chính quyền của ông đã tạo ra hơn 13 tỷ USD kể từ khi bắt giữ cựu Tổng thống Nicolás Maduro vào ngày 3 tháng 1, đồng thời tuyên bố rằng doanh thu này đã “trả cho cuộc chiến đó gấp nhiều lần”. đặc biệt",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-28_vdjzc7pzew.jpg",
       "link": "https://oilprice.com/Energy/Crude-Oil/US-Sale-Of-Venezuelas-Oil-Hits-13-Billion-Since-Trumps-Takeover.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-29 02:00"
-    },
-    {
-      "id": "unz4zx",
-      "title": "OPEC+ Prepares to Stop Raising Oil Output Targets",
-      "title_vi": "OPEC+ chuẩn bị ngừng nâng mục tiêu sản lượng dầu",
-      "summary_vi": "OPEC+ đang chuẩn bị phê duyệt thêm một đợt tăng sản lượng vào tháng 9 và sau đó tạm dừng cuộc duyệt hạn ngạch hàng tháng cho đến cuối năm. Ả Rập Saudi, Nga, Iraq, Kuwait, Algeria, Kazakhstan và Oman dự kiến ​​sẽ tăng mục tiêu tổng hợp trong tháng 9 của họ lên khoảng 188.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-28_yqvl1xdqwf.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Prepares-to-Stop-Raising-Oil-Output-Targets.html",
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-29 02:00"
@@ -297,6 +297,17 @@
       "source": "The Mighty 790 KFGO",
       "category": "macro",
       "published": "2026-07-28 08:01"
+    },
+    {
+      "id": "1lj3a8v",
+      "title": "Dollar eases as markets await Fed decision",
+      "title_vi": "Đồng đô la giảm khi thị trường chờ đợi quyết định của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/china/dollar-hits-one-month-high-lingering-chances-fed-hike-2026-07-28/",
+      "source": "Reuters",
+      "category": "macro",
+      "published": "2026-07-28 07:36"
     },
     {
       "id": "171a7s9",
@@ -539,17 +550,6 @@
       "source": "TradingView",
       "category": "macro",
       "published": "2026-07-27 04:07"
-    },
-    {
-      "id": "3uad0a",
-      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
-      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
-      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
-      "image": "https://www.cmegroup.com/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium",
-      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-07-27 04:03"
     }
   ]
 }

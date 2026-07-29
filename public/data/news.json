@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-30 01:42",
+  "updated_at": "2026-07-30 02:00",
   "items": [
+    {
+      "id": "17j87hy",
+      "title": "BMW Targets 8,000 More Job Cuts in Fresh Cost-Cutting Drive",
+      "title_vi": "BMW đặt mục tiêu cắt giảm thêm 8.000 việc làm trong nỗ lực cắt giảm chi phí mới",
+      "summary_vi": "Cổ phiếu của BMW tại Đức đã giảm 36% từ đầu năm đến nay do việc hạ dự báo mới nhất của hãng xe này được nhà phân tích Jose Asumendi của JPMorgan mô tả là “lời cảnh tỉnh cho ngành công nghiệp ô tô”. Triển vọng của BMW tiếp tục xấu đi khi Bloomberg đưa tin rằng ô tô",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-29_wotgxahn0p.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/BMW-Targets-8000-More-Job-Cuts-in-Fresh-Cost-Cutting-Drive.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-30 02:00"
+    },
     {
       "id": "9o7v2",
       "title": "Ukraine’s Attack on Iranian Cargo Ship Links Two Wars",
@@ -88,17 +99,6 @@
       "source": "Bloomberg.com",
       "category": "energy",
       "published": "2026-07-29 21:13"
-    },
-    {
-      "id": "15f5w1z",
-      "title": "U.S. Senate Advances Sweeping Russia Sanctions Bill in 86-12 Vote",
-      "title_vi": "Thượng viện Hoa Kỳ tiến bộ trong việc quét sạch Dự luật trừng phạt Nga trong cuộc bỏ phiếu 86-12",
-      "summary_vi": "Thượng viện Hoa Kỳ đã đưa ra một trong những sự tán thành lưỡng đảng mạnh mẽ nhất đối với Ukraine kể từ khi Tổng thống Donald Trump trở lại nắm quyền, bỏ phiếu 86-12 vào ngày 28 tháng 7 để thúc đẩy luật sâu rộng nhằm thắt chặt áp lực kinh tế đối với Nga và Iran. Cuộc bỏ phiếu theo thủ tục, diễn ra chỉ trong vài giờ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-29_pshcgkbh3y.jpg",
-      "link": "https://oilprice.com/Geopolitics/Europe/US-Senate-Advances-Sweeping-Russia-Sanctions-Bill-in-86-12-Vote.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-07-29 21:00"
     },
     {
       "id": "6l9rez",
@@ -211,6 +211,17 @@
       "published": "2026-07-29 14:00"
     },
     {
+      "id": "1u3i25a",
+      "title": "The U.S. Dollar's Long Slide May Finally Be Ending as the Fed Digs In",
+      "title_vi": "Đà trượt dài của đồng đô la Mỹ cuối cùng có thể kết thúc khi Fed tham gia",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-us/insights/the-u-s-dollar-s-long-slide-may-finally-be-ending-as-the-fed-digs-in/",
+      "source": "StoneX",
+      "category": "macro",
+      "published": "2026-07-29 13:30"
+    },
+    {
       "id": "1c31gc0",
       "title": "Valterra profit leaps on higher prices, sees AI driving future platinum demand",
       "title_vi": "Lợi nhuận của Valterra tăng nhờ giá cao hơn, chứng kiến ​​AI thúc đẩy nhu cầu bạch kim trong tương lai",
@@ -275,6 +286,17 @@
       "source": "ConstructConnect News",
       "category": "metal",
       "published": "2026-07-29 02:53"
+    },
+    {
+      "id": "17dw3tg",
+      "title": "Commerzbank downgrades gold and silver prices as Middle East conflict takes its toll",
+      "title_vi": "Commerzbank hạ giá vàng và bạc khi xung đột ở Trung Đông gây thiệt hại",
+      "summary_vi": "(Kitco News) - Thị trường vàng đang gặp khó khăn để giữ mức hỗ trợ trên 4.000 USD và có thể phải đối mặt với áp lực bán thêm, vì một ngân hàng cho biết khả năng phục hồi vẫn khó có thể xảy ra chừng nào cuộc chiến ở Iran vẫn tiếp diễn. Hôm thứ Ba, các nhà phân tích hàng hóa tại Commerzbank do Thu Lan Nguyen dẫn đầu đã hạ dự báo giá vàng của họ lần thứ hai",
+      "image": "https://image-api.prod.kitco.com/image/71f90520-7b0f-4b62-8bf6-4e15c169b25d.jpeg?top=0&left=0&width=500&height=281.54487179487&scale_width=1920&token=c21a884e384b9788b9e4e98e345949c03da45a0264df9f8018b6fb3a27204ab4",
+      "link": "https://www.kitco.com/news/article/2026-07-28/commerzbank-downgrades-gold-and-silver-prices-middle-east-conflict-takes",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-07-29 02:39"
     },
     {
       "id": "1svhv70",
@@ -431,17 +453,6 @@
       "published": "2026-07-28 13:26"
     },
     {
-      "id": "1b4mjcw",
-      "title": "Gold Traders Watch Two Key Catalysts: The Middle East and the Federal Reserve",
-      "title_vi": "Các nhà giao dịch vàng theo dõi hai yếu tố xúc tác chính: Trung Đông và Cục Dự trữ Liên bang",
-      "summary_vi": "Vàng từ lâu đã được coi là một trong những tài sản trú ẩn an toàn cuối cùng trên thế giới, thu hút các nhà đầu tư mỗi khi bất ổn địa chính trị hoặc bất ổn kinh tế gia tăng. Tuy nhiên, môi trường thị trường hiện nay đang tỏ ra phức tạp hơn nhiều so với các giai đoạn xung đột quốc tế trước đây.",
-      "image": "https://investinglive.com/cms/media/Processed/Categories/featured/gold%201%201-featured-1785216465-featured-1785217185.jpg",
-      "link": "https://investinglive.com/education/gold-traders-watch-two-key-catalysts-the-middle-east-and-the-federal-reserve/",
-      "source": "investingLive",
-      "category": "metal",
-      "published": "2026-07-28 12:45"
-    },
-    {
       "id": "3uad0a",
       "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
       "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
@@ -539,17 +550,6 @@
       "source": "Utica Observer Dispatch",
       "category": "metal",
       "published": "2026-07-28 01:50"
-    },
-    {
-      "id": "1cg66cm",
-      "title": "Two Wars Converge in the Caspian Sea as Ukraine Hits Iranian Supply Line to Russia",
-      "title_vi": "Hai cuộc chiến hội tụ ở biển Caspian khi Ukraine tấn công đường cung cấp của Iran tới Nga",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/world/two-wars-converge-in-the-caspian-sea-as-ukraine-hits-iranian-supply-line-to-russia-e036fb27",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-07-28 00:45"
     }
   ]
 }

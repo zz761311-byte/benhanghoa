@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-29 14:00",
+  "updated_at": "2026-07-29 14:33",
   "items": [
+    {
+      "id": "1hv3i8u",
+      "title": "ADNOC Defies Hormuz Risks as UAE LNG Exports Continue",
+      "title_vi": "ADNOC thách thức rủi ro Hormuz khi tiếp tục xuất khẩu LNG của UAE",
+      "summary_vi": "UAE vẫn đang xuất khẩu khí đốt tự nhiên hóa lỏng, bất chấp nguy cơ đình công ở eo biển Hormuz. Theo báo cáo của Bloomberg, một tàu chở dầu ADNOC LNG đã xuất hiện ở Vịnh Ba Tư vào hôm nay, rời khỏi eo biển Hormuz thành công, được cho là có trang bị thiết bị định vị.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-29_i09t1mo5wf.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Defies-Hormuz-Risks-as-UAE-LNG-Exports-Continue.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-29 14:30"
+    },
+    {
+      "id": "1pwliik",
+      "title": "Heat Threatens Spring Wheat, Corn Outlook; House Approves Up to $12B in Farm Aid",
+      "title_vi": "Nắng nóng đe dọa lúa mì mùa xuân, triển vọng ngô; Hạ viện phê duyệt khoản hỗ trợ trang trại lên tới 12 tỷ USD",
+      "summary_vi": "AccuWeather",
+      "image": "https://www.aginfo.net/Assets/ReportImages/report_6a63994be1861871596093_1920_1080.jpeg",
+      "link": "https://www.aginfo.net/report/65946/Line-on-Agriculture/Heat-Threatens-Spring-Wheat-Corn-Outlook-House-Approves-Up-to-12B-in-Farm-Aid",
+      "source": "AG INFORMATION NETWORK OF THE WEST",
+      "category": "agri",
+      "published": "2026-07-29 14:00"
+    },
     {
       "id": "wuehwp",
       "title": "New Zealand Awards First Offshore Oil License Since Ending Drilling Ban",
@@ -33,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-29 10:01"
+    },
+    {
+      "id": "1q8xejm",
+      "title": "Gold ticks up ahead of Fed rate decision",
+      "title_vi": "Vàng tăng trước quyết định lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/asia-pacific/gold-edges-lower-ahead-fed-decision-interest-rates-2026-07-29/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-07-29 08:14"
     },
     {
       "id": "uduqh0",
@@ -99,17 +132,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-07-29 03:36"
-    },
-    {
-      "id": "qfm90r",
-      "title": "New Solar Cell Design Solves A Problem That&#039;s Plagued Panels for Decades",
-      "title_vi": "Thiết kế pin mặt trời mới giải quyết vấn đề gây khó khăn cho các tấm pin trong nhiều thập kỷ",
-      "summary_vi": "Năng lượng mặt trời là dạng năng lượng mới rẻ nhất được lắp đặt ở hầu hết mọi bối cảnh trên thế giới. Ngay cả ở Hoa Kỳ, nơi chi phí bổ sung năng lượng mặt trời đã tăng 18% kể từ khi thuế quan của Trump có hiệu lực, năng lượng mặt trời vẫn là lựa chọn hợp lý nhất cho ene.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-28_y5qef4biz0.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/New-Solar-Cell-Design-Solves-A-Problem-Thats-Plagued-Panels-for-Decades.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-07-29 03:00"
     },
     {
       "id": "uf45u4",
@@ -275,17 +297,6 @@
       "source": "investingLive",
       "category": "metal",
       "published": "2026-07-28 12:45"
-    },
-    {
-      "id": "q250o3",
-      "title": "Gold prices slip as firm dollar weighs, Fed decision eyed",
-      "title_vi": "Giá vàng trượt dốc khi đồng đô la tăng giá, quyết định của Fed được chú ý",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/commodities-news/gold-prices-slip-as-firm-dollar-weighs-fed-decision-eyed-4815435",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-07-28 11:32"
     },
     {
       "id": "1o27gd5",
@@ -539,17 +550,6 @@
       "source": "Briefs Finance",
       "category": "soft",
       "published": "2026-07-27 06:50"
-    },
-    {
-      "id": "1q0iq8f",
-      "title": "Oil Prices Sink After U.S. and Iran Pause Fighting a Second Day",
-      "title_vi": "Giá dầu sụt giảm sau khi Mỹ và Iran tạm dừng xung đột sang ngày thứ hai",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/07/26/business/oil-prices-fall-iran-war.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-07-27 06:06"
     }
   ]
 }

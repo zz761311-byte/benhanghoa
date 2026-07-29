@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-29 21:00",
+  "updated_at": "2026-07-29 21:36",
   "items": [
+    {
+      "id": "vxgnog",
+      "title": "Taiwan Halts $800 Million in Spot LNG Buys From Papua New Guinea",
+      "title_vi": "Đài Loan ngừng mua 800 triệu USD LNG giao ngay từ Papua New Guinea",
+      "summary_vi": "Đài Loan đã đình chỉ mua khoảng 500.000 tấn khí đốt tự nhiên hóa lỏng từ Papua New Guinea cứ sau sáu tháng, loại bỏ khoảng 800 triệu USD nhu cầu thị trường giao ngay sau khi Port Moresby ra lệnh đóng cửa văn phòng đại diện của Đài Bắc. Quyết định rời khỏi Đài Loan",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-29_kx0oqowdzm.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Taiwan-Halts-800-Million-in-Spot-LNG-Buys-From-Papua-New-Guinea.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-29 21:30"
+    },
     {
       "id": "15f5w1z",
       "title": "U.S. Senate Advances Sweeping Russia Sanctions Bill in 86-12 Vote",
@@ -145,17 +156,6 @@
       "published": "2026-07-29 16:30"
     },
     {
-      "id": "j3l1ii",
-      "title": "U.S.-Saudi Consortium Plans $5 Billion Gulf Refinery Outside Hormuz",
-      "title_vi": "Liên minh Mỹ-Saudi lên kế hoạch xây dựng nhà máy lọc dầu vùng Vịnh trị giá 5 tỷ USD bên ngoài Hormuz",
-      "summary_vi": "Một tập đoàn gồm các công ty Mỹ và Saudi chuẩn bị xây dựng một nhà máy lọc dầu mới ở Vịnh Ba Tư bất chấp tình hình hiện tại trong khu vực. Reuters đưa tin, cơ sở này sẽ có mức giá 5 tỷ USD và công suất 200.000 thùng dầu thô mỗi ngày. Tập đoàn, du",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-29_gbitsp5hyo.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Saudi-Consortium-Plans-5-Billion-Gulf-Refinery-Outside-Hormuz.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-29 15:30"
-    },
-    {
       "id": "1ycdh7r",
       "title": "At Least 3 Dead in Russia and Crimea After Ukraine Strikes Industrial Sites",
       "title_vi": "Ít nhất 3 người chết ở Nga và Crimea sau khi Ukraine tấn công các khu công nghiệp",
@@ -209,6 +209,17 @@
       "source": "Brave New Coin",
       "category": "metal",
       "published": "2026-07-29 13:06"
+    },
+    {
+      "id": "1q8xejm",
+      "title": "Gold edges down as dollar, yields rise ahead of Fed rate decision, Warsh remarks",
+      "title_vi": "Vàng giảm do đồng đô la, lợi suất tăng trước quyết định lãi suất của Fed, Warsh nhận xét",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/asia-pacific/gold-edges-lower-ahead-fed-decision-interest-rates-2026-07-29/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-07-29 08:14"
     },
     {
       "id": "k83eyc",
@@ -385,17 +396,6 @@
       "source": "investingLive",
       "category": "metal",
       "published": "2026-07-28 12:45"
-    },
-    {
-      "id": "q250o3",
-      "title": "Gold prices slip about 1% as traders show caution a day ahead of Fed rate decision",
-      "title_vi": "Gold prices slip about 1% as traders show caution a day ahead of Fed rate decision",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/commodities-news/gold-prices-slip-as-firm-dollar-weighs-fed-decision-eyed-4815435",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-07-28 11:00"
     },
     {
       "id": "wz1biz",

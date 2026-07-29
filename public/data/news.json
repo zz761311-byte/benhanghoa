@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-07-29 19:00",
+  "updated_at": "2026-07-29 19:25",
   "items": [
+    {
+      "id": "6l9rez",
+      "title": "EUDR is Accelerating Farm Modernization, But Threats to Smallholders Remain",
+      "title_vi": "EUDR đang tăng tốc hiện đại hóa trang trại, nhưng các mối đe dọa đối với các hộ sản xuất nhỏ vẫn còn",
+      "summary_vi": "Quy định phá rừng của EU yêu cầu các công ty nhập khẩu cà phê từ Honduras vào thị trường châu Âu phải theo dõi chuỗi cung ứng của họ từ tận đến những nông dân quy mô nhỏ trồng...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/07/29/eudr-is-accelerating-farm-modernization-but-threats-to-smallholders-remain/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-07-29 19:02"
+    },
+    {
+      "id": "aw0m8f",
+      "title": "New Research Digs Into the Bitter Truth About Coffee",
+      "title_vi": "Nghiên cứu mới đi sâu vào sự thật cay đắng về cà phê",
+      "summary_vi": "Dù tốt hay xấu, một trong những hương vị đặc trưng của cà phê - thần dược mang lại sự sống khiến thế giới quay cuồng - là vị đắng.  Một nghiên cứu mới có sự tham gia của các nhà nghiên cứu tại...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/07/29/new-research-digs-into-the-bitter-truth-about-coffee/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-07-29 19:00"
+    },
+    {
+      "id": "tbmr6k",
+      "title": "Victoria Arduino Introduces Record, a New Take on Undercounter Espresso",
+      "title_vi": "Victoria Arduino giới thiệu bản ghi âm, một sản phẩm mới cho cà phê Undercounter",
+      "summary_vi": "Thương hiệu máy pha cà phê espresso của Ý Victoria Arduino đã giới thiệu Record, một máy pha cà phê espresso thương mại có thể đặt hoàn toàn trên quầy cà phê hoặc được nhúng một phần bên dưới nó. Trưởng nhóm Record...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/07/29/victoria-arduino-introduces-record-a-new-take-on-undercounter-espresso/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-07-29 18:58"
+    },
+    {
+      "id": "1ibmx",
+      "title": "Mother Parkers Expands Into Coffee Extract Manufacturing",
+      "title_vi": "Mother Parkers mở rộng sang sản xuất chiết xuất cà phê",
+      "summary_vi": "Mother Parkers Tea & Coffee đã mở một cơ sở sản xuất chiết xuất cà phê mới ở Mississauga, Ontario, theo những gì chuyên gia nhãn hiệu tư nhân mô tả là khoản đầu tư trị giá hàng triệu đô la trong nhiều năm. Được gọi là trích xuất hoàn chỉnh ...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/07/29/mother-parkers-expands-into-coffee-extract-manufacturing/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-07-29 18:55"
+    },
     {
       "id": "mrnrrt",
       "title": "Iran Rejects Oman’s Proposal to Evenly Divide Hormuz Control",
@@ -99,6 +143,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-29 13:30"
+    },
+    {
+      "id": "1c31gc0",
+      "title": "Valterra profit leaps on higher prices, sees AI driving future platinum demand",
+      "title_vi": "Lợi nhuận của Valterra tăng nhờ giá cao hơn, chứng kiến ​​AI thúc đẩy nhu cầu bạch kim trong tương lai",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/africa/valterra-platinum-interim-profit-surges-higher-output-prices-2026-07-29/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-07-29 13:20"
     },
     {
       "id": "1k3sfm4",
@@ -495,61 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-07-27 17:57"
-    },
-    {
-      "id": "4uet9w",
-      "title": "Natalie Scott-Gray: Copper supply disruptions remain temporary and limited",
-      "title_vi": "Natalie Scott-Gray: Sự gián đoạn nguồn cung đồng chỉ là tạm thời và hạn chế",
-      "summary_vi": "Natalie Scott-Gray, Nhà chiến lược cấp cao về nhu cầu kim loại tại StoneX, cho biết tồn kho đồng đang thắt chặt khi các chuyến hàng chuyển sang Mỹ và Trung Quốc, trong khi những thách thức về nguồn cung dài hạn của Chile tiếp tục hỗ trợ giá.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108340375-2ED1-MC-072726-Nat.jpg?v=1785149316&w=1920&h=1080",
-      "link": "https://www.cnbc.com/video/2026/07/27/natalie-scott-gray-copper-supply-disruptions-remain-temporary-and-limited.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-07-27 17:53"
-    },
-    {
-      "id": "kcc8l6",
-      "title": "Is a record soybean crop in the works?",
-      "title_vi": "Liệu một vụ thu hoạch đậu nành kỷ lục có đang được thực hiện?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/is-a-record-soybean-crop-in-the-works-",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-07-27 14:02"
-    },
-    {
-      "id": "fu7ipc",
-      "title": "Natural Gas and Oil Forecast: OPEC+ Meeting Looms; Can WTI Hold Above $83?",
-      "title_vi": "Dự báo về khí đốt và dầu tự nhiên: Cuộc họp của OPEC+ sắp diễn ra; WTI có thể giữ trên 83 USD không?",
-      "summary_vi": "Thị trường dầu chờ đợi cuộc họp OPEC+ ngày 2 tháng 8 trong khi căng thẳng ở Trung Đông và nhu cầu LNG tiếp tục định hình triển vọng năng lượng.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/main.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-opec-meeting-looms-can-wti-hold-above-83-1612908",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-07-27 13:48"
-    },
-    {
-      "id": "11lyekj",
-      "title": "Are global coffee sustainability strategies falling short?",
-      "title_vi": "Các chiến lược bền vững cà phê toàn cầu có bị thiếu sót không?",
-      "summary_vi": "Tính bền vững của cà phê trên toàn thế giới đang ở ngã ba đường, khi giá biến động và mối lo ngại ngày càng tăng về biến đổi khí hậu, thu nhập của nông dân và khả năng phục hồi nguồn cung dài hạn",
-      "image": "https://www.foodnavigator.com/resizer/v2/7D43E7EUMRAWZM5M35V42V4XVM.jpg?auth=a34fb39eebb17fae08390fa3eb05aad11bfb6814beb5d6adc8644d124268c1b1&width=1200&height=630&smart=true",
-      "link": "https://www.foodnavigator.com/Article/2026/07/27/are-global-coffee-sustainability-strategies-falling-short/",
-      "source": "FoodNavigator.com",
-      "category": "soft",
-      "published": "2026-07-27 12:16"
-    },
-    {
-      "id": "87p9d8",
-      "title": "Grain marketing involves prices, timing, events",
-      "title_vi": "Tiếp thị ngũ cốc liên quan đến giá cả, thời gian, sự kiện",
-      "summary_vi": "Lập kế hoạch cẩn thận về khả năng đặt mục tiêu giá, thời điểm và các sự kiện thị trường lớn đều phù hợp trong tháng 8.",
-      "image": "https://bloximages.newyork1.vip.townnews.com/farmweeknow.com/content/tncms/assets/v3/editorial/c/43/c43b14a2-e0bb-402e-ace7-fe535a19b250/6a624c3d9588b.preview.jpg?crop=600%2C315%2C0%2C292",
-      "link": "https://www.farmweeknow.com/opinion/market_focus/grain-marketing-involves-prices-timing-events/article_c43b14a2-e0bb-402e-ace7-fe535a19b250.html",
-      "source": "FarmWeekNow",
-      "category": "agri",
-      "published": "2026-07-27 12:00"
     }
   ]
 }

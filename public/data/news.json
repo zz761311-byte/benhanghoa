@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29 09:00",
+  "updated_at": "2026-07-29 10:00",
   "items": [
     {
       "id": "uduqh0",
@@ -77,6 +77,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-07-29 03:00"
+    },
+    {
+      "id": "uf45u4",
+      "title": "Copper Costs Surge as Supply Disruptions and Infrastructure Demand Converge",
+      "title_vi": "Chi phí đồng tăng vọt khi nguồn cung bị gián đoạn và nhu cầu cơ sở hạ tầng hội tụ",
+      "summary_vi": "Giá đồng đã tăng gần 30% trong năm qua, theo Chỉ số giá sản xuất, do sự gián đoạn nguồn cung toàn cầu và nhu cầu tăng nhanh.",
+      "image": "https://news.constructconnect.com/hubfs/shutterstock_435162145.jpg",
+      "link": "https://news.constructconnect.com/copper-costs-surge-as-supply-disruptions-and-infrastructure-demand-converge?hs_amp",
+      "source": "ConstructConnect News",
+      "category": "metal",
+      "published": "2026-07-29 02:53"
     },
     {
       "id": "tjmk27",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-07-27 04:03"
-    },
-    {
-      "id": "1186a1i",
-      "title": "Palladium Price Analysis: Metal Holds Near $1,245 as Recovery Attempts Face Resistance",
-      "title_vi": "Phân tích giá Palladium: Kim loại giữ ở mức gần 1.245 USD khi nỗ lực phục hồi đối mặt với mức kháng cự",
-      "summary_vi": "Giá palladium đang gặp khó khăn trong việc đạt được lực kéo sau một thời gian biến động khiến nó giảm từ mức cao đạt được trước đó vào năm 2026.",
-      "image": "https://bravenewcoin.com/wp-content/uploads/2026/07/Bnc-Jul-27-268.jpg",
-      "link": "https://bravenewcoin.com/insights/palladium-price-analysis-metal-holds-near-1245-as-recovery-attempts-face-resistance",
-      "source": "Brave New Coin",
-      "category": "metal",
-      "published": "2026-07-27 04:01"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30 04:00",
+  "updated_at": "2026-07-30 04:14",
   "items": [
     {
       "id": "aw3imq",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-30 03:00"
+    },
+    {
+      "id": "iq4ojg",
+      "title": "Starbucks stock jumps as coffee giant raises full-year outlook",
+      "title_vi": "Cổ phiếu Starbucks tăng vọt khi gã khổng lồ cà phê nâng triển vọng cả năm",
+      "summary_vi": "Starbucks đã công bố quý thứ tư liên tiếp về mức tăng trưởng doanh số bán hàng tại cùng một cửa hàng, khi hãng này tiếp tục phục hồi dưới thời CEO Brian Niccol.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108341310-1785265724425-gettyimages-2286959399-260722_dctarget_203.jpeg?v=1785349527&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
+      "source": "CNBC",
+      "category": "soft",
+      "published": "2026-07-30 02:35"
     },
     {
       "id": "17j87hy",
@@ -539,17 +550,6 @@
       "source": "NewMediaWire",
       "category": "metal",
       "published": "2026-07-28 02:33"
-    },
-    {
-      "id": "i5nk56",
-      "title": "Mohawk Valley copper producers work to wean U.S. AI from China copper",
-      "title_vi": "Các nhà sản xuất đồng ở Thung lũng Mohawk nỗ lực loại bỏ AI của Hoa Kỳ khỏi đồng Trung Quốc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.uticaod.com/videos/news/regional/2026/07/27/mohawk-valley-towns-fuel-ai-copper-supply/91066354007/",
-      "source": "Utica Observer Dispatch",
-      "category": "metal",
-      "published": "2026-07-28 01:50"
     }
   ]
 }

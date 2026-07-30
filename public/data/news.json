@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30 19:57",
+  "updated_at": "2026-07-30 20:01",
   "items": [
     {
       "id": "1xnnkjc",
@@ -508,6 +508,17 @@
       "published": "2026-07-28 22:15"
     },
     {
+      "id": "ngn0z8",
+      "title": "UBS cuts palladium price target on oversupply concerns",
+      "title_vi": "UBS cắt giảm mục tiêu giá palladium do lo ngại cung vượt cầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/commodities-news/ubs-cuts-palladium-price-target-on-oversupply-concerns-93CH-4815814",
+      "source": "Investing.com",
+      "category": "metal",
+      "published": "2026-07-28 18:42"
+    },
+    {
       "id": "1unp0jy",
       "title": "UBS Lowers Palladium Price Forecast as Oversupply Outlook Weighs on Market",
       "title_vi": "UBS hạ dự báo giá Palladium do triển vọng dư cung đè nặng lên thị trường",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-07-28 17:39"
-    },
-    {
-      "id": "uzy5xa",
-      "title": "Coca-Cola hikes full-year forecast. CEO tells CNBC the World Cup boosted its brands",
-      "title_vi": "Coca-Cola tăng dự báo cả năm CEO nói với CNBC rằng World Cup đã thúc đẩy thương hiệu của mình",
-      "summary_vi": "Coca-Cola cho biết nhu cầu về đồ uống của họ đã tăng ở mọi thị trường trong quý 2, một phần nhờ World Cup.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108337402-17845636522026-07-20t160703z_320739973_rc2phmamt9vv_rtrmadp_0_usa-stocks.jpeg?v=1784563722&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
-      "source": "cnbc.com",
-      "category": "soft",
-      "published": "2026-07-28 17:25"
     }
   ]
 }

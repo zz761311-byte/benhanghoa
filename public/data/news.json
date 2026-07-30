@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-30 16:07",
+  "updated_at": "2026-07-30 17:01",
   "items": [
+    {
+      "id": "17kv4tj",
+      "title": "China’s Coal Prices Surge as Scorching Heat Drives Power Demand",
+      "title_vi": "Giá than của Trung Quốc tăng do nhiệt độ tăng cao thúc đẩy nhu cầu điện",
+      "summary_vi": "Nhu cầu và giá than ở Trung Quốc đã tăng vọt trong những ngày gần đây khi đợt nắng nóng thiêu đốt trên hầu hết đất nước thúc đẩy nhu cầu điện. Giá than giao ngay chuẩn tại cảng Tần Hoàng Đảo đã xóa đi đà sụt giảm từ đầu tháng này và đang trên đà tăng thêm trong thời gian tới.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-30_usjfit9xgu.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Coal-Prices-Surge-as-Scorching-Heat-Drives-Power-Demand.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-30 17:00"
+    },
     {
       "id": "44ryjj",
       "title": "Shell Reports $9.8 Billion in Adjusted Earnings as Energy Prices Surge",
@@ -121,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-30 05:00"
-    },
-    {
-      "id": "aw3imq",
-      "title": "Cooling Emissions Are Set to Triple by 2050 as Heat Waves Intensify",
-      "title_vi": "Lượng phát thải làm mát sẽ tăng gấp ba vào năm 2050 khi các đợt nắng nóng tăng cường",
-      "summary_vi": "Điều hòa không khí đã trở thành một vấn đề địa chính trị nóng bỏng khi nhiệt độ tăng cao tạo ra các điều kiện nguy hiểm trên toàn cầu. Các thiết bị điều hòa không khí ngày càng được coi là “cơ sở hạ tầng thiết yếu” khi các đợt nắng nóng mùa hè trở thành nguy hiểm chết người và ngày càng thường xuyên hơn.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-29_byxpn3etqk.jpg",
-      "link": "https://oilprice.com/The-Environment/Global-Warming/Cooling-Emissions-Are-Set-to-Triple-by-2050-as-Heat-Waves-Intensify.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-07-30 04:00"
     },
     {
       "id": "57mlym",
@@ -376,6 +376,17 @@
       "published": "2026-07-29 08:14"
     },
     {
+      "id": "7f56s9",
+      "title": "Gold falls as dollar hovers near one-month peak, Fed meet in focus",
+      "title_vi": "Vàng giảm khi đồng đô la dao động gần mức cao nhất trong một tháng, cuộc họp tập trung của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-slips-firm-dollar-weighs-focus-turns-fed-meeting-2026-07-28/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-07-29 04:18"
+    },
+    {
       "id": "1wtxuhy",
       "title": "Wheat farmers protest price dockage for low protein",
       "title_vi": "Nông dân trồng lúa mì phản đối việc định giá do hàm lượng protein thấp",
@@ -407,17 +418,6 @@
       "source": "ConstructConnect News",
       "category": "metal",
       "published": "2026-07-29 02:53"
-    },
-    {
-      "id": "17dw3tg",
-      "title": "Commerzbank downgrades gold and silver prices as Middle East conflict takes its toll",
-      "title_vi": "Commerzbank hạ giá vàng và bạc khi xung đột ở Trung Đông gây thiệt hại",
-      "summary_vi": "(Kitco News) - Thị trường vàng đang gặp khó khăn để giữ mức hỗ trợ trên 4.000 USD và có thể phải đối mặt với áp lực bán thêm, vì một ngân hàng cho biết khả năng phục hồi vẫn khó có thể xảy ra chừng nào cuộc chiến ở Iran vẫn tiếp diễn. Hôm thứ Ba, các nhà phân tích hàng hóa tại Commerzbank do Thu Lan Nguyen dẫn đầu đã hạ dự báo giá vàng của họ lần thứ hai",
-      "image": "https://image-api.prod.kitco.com/image/71f90520-7b0f-4b62-8bf6-4e15c169b25d.jpeg?top=0&left=0&width=500&height=281.54487179487&scale_width=1920&token=c21a884e384b9788b9e4e98e345949c03da45a0264df9f8018b6fb3a27204ab4",
-      "link": "https://www.kitco.com/news/article/2026-07-28/commerzbank-downgrades-gold-and-silver-prices-middle-east-conflict-takes",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-07-29 02:39"
     },
     {
       "id": "t4giwe",

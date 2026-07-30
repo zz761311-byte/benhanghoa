@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-31 00:11",
+  "updated_at": "2026-07-31 01:01",
   "items": [
+    {
+      "id": "1mj1pmt",
+      "title": "China’s Trade With Central Asia Surges 6.5%",
+      "title_vi": "Thương mại của Trung Quốc với Trung Á tăng 6,5%",
+      "summary_vi": "Kim ngạch thương mại của Trung Quốc với Kazakhstan và Uzbekistan, những nền kinh tế lớn nhất ở Trung Á, cho thấy sự tăng trưởng mạnh mẽ trong nửa đầu năm 2026, cũng như thương mại với Tajikistan. Trong khi đó, con số ở Kyrgyzstan và Turkmenistan đã giảm, theo Tổng cục PRC.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-29_wvuqf4elgk.jpg",
+      "link": "https://oilprice.com/Geopolitics/Asia/Chinas-Trade-With-Central-Asia-Surges-65.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-31 01:00"
+    },
+    {
+      "id": "2t0m9o",
+      "title": "Desperate for Fuel, Russia Looks to Kazakhstan for Refining Capacity",
+      "title_vi": "Tuyệt vọng về nhiên liệu, Nga tìm đến Kazakhstan để tăng công suất lọc dầu",
+      "summary_vi": "Nga đang thiếu công suất lọc dầu nguyên vẹn và đang tìm kiếm sự giúp đỡ từ Kazakhstan. Kazakhstan hôm thứ Năm cho biết họ đang đàm phán với Moscow để xử lý dầu của Nga tại các nhà máy lọc dầu ở Kazakhstan, bán một phần nhiên liệu thu được trong nước và gửi một phần trở lại nước này.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-30_jgvl6cbdft.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Desperate-for-Fuel-Russia-Looks-to-Kazakhstan-for-Refining-Capacity.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-31 00:30"
+    },
     {
       "id": "1jbq11b",
       "title": "Record U.S. Refinery Runs Fail to Ease Global Fuel Crunch",
@@ -101,17 +123,6 @@
       "published": "2026-07-30 22:00"
     },
     {
-      "id": "1e5d86m",
-      "title": "Oil Price Shock Fuels 35% Surge in Global EV Sales",
-      "title_vi": "Cú sốc giá dầu khiến doanh số bán xe điện toàn cầu tăng 35%",
-      "summary_vi": "Cơ quan Năng lượng Quốc tế (IEA) cho biết trong một báo cáo hôm thứ Năm rằng sau khởi đầu năm mới ảm đạm, doanh số bán xe điện (EV) đã tăng vọt trong quý hai sau khi cuộc khủng hoảng Trung Đông làm giảm nguồn cung dầu thô và giá dầu và nhiên liệu tăng cao. Doanh số bán ô tô điện toàn cầu",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-30_u9js7cqfht.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Price-Shock-Fuels-35-Surge-in-Global-EV-Sales.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-30 21:30"
-    },
-    {
       "id": "1kiq1al",
       "title": "Grains juggling weather, wheat rally and China demand",
       "title_vi": "Ngũ cốc thay đổi thời tiết, lúa mì tăng và nhu cầu của Trung Quốc",
@@ -121,17 +132,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-07-30 21:20"
-    },
-    {
-      "id": "1wk64ae",
-      "title": "Shell Maintains Bumper Buyback as Profit Surges",
-      "title_vi": "Shell duy trì hoạt động mua lại bội thu khi lợi nhuận tăng",
-      "summary_vi": "Shell cho biết họ sẽ tiếp tục chương trình mua lại cổ phiếu bội thu sau khi tiết lộ ảnh hưởng của cuộc chiến tranh Iran đối với giá dầu và khối lượng giao dịch đã giúp hãng đạt được lợi nhuận gần kỷ lục. Lợi nhuận ròng của gã khổng lồ Anh-Hà Lan tăng vọt lên 9,8 tỷ USD từ tháng 4 đến tháng 7, cao hơn gấp đôi so với cùng kỳ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-30_gcjuxuqc25.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Shell-Maintains-Bumper-Buyback-as-Profit-Surges.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-30 21:00"
     },
     {
       "id": "1ki569",
@@ -154,6 +154,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-07-30 19:10"
+    },
+    {
+      "id": "1b10q42",
+      "title": "Natural Gas and Oil Forecast: Can WTI Break $84.75 as Brent Recovery Builds?",
+      "title_vi": "Dự báo về khí đốt tự nhiên và dầu: WTI có thể phá vỡ mức 84,75 USD khi mức phục hồi của Brent tăng lên không?",
+      "summary_vi": "WTI và Brent kéo dài thời gian phục hồi khi tình trạng gián đoạn nguồn cung toàn cầu vẫn tiếp diễn, trong khi khí đốt tự nhiên phải đối mặt với lực cản chính mặc dù đà tăng đã được cải thiện.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/Main-Images-2.png?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-can-wti-break-84-75-as-brent-recovery-builds-1613738",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-07-30 17:02"
     },
     {
       "id": "19lvzj3",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-07-29 00:05"
-    },
-    {
-      "id": "5vd8ks",
-      "title": "Silver Price For Today, 28 July 2026",
-      "title_vi": "Giá Bạc hôm nay, ngày 28 tháng 7 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
-      "source": "Forbes",
-      "category": "metal",
-      "published": "2026-07-28 22:15"
     }
   ]
 }

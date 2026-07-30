@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-30 12:00",
+  "updated_at": "2026-07-30 13:01",
   "items": [
+    {
+      "id": "162hdlm",
+      "title": "Copper's tariff dislocation risks becoming structural split",
+      "title_vi": "Rủi ro phân bổ thuế quan của đồng trở thành sự chia rẽ về cấu trúc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/commentary/reuters-open-interest/coppers-tariff-dislocation-risks-becoming-structural-split-2026-07-30/",
+      "source": "reuters.com",
+      "category": "metal",
+      "published": "2026-07-30 12:05"
+    },
     {
       "id": "151dg58",
       "title": "Oil Prices Slip Despite New Attacks Across the Middle East",
@@ -35,6 +46,17 @@
       "published": "2026-07-30 06:00"
     },
     {
+      "id": "15dpvui",
+      "title": "Starbucks reports strong quarterly sales and raises annual outlook - ABC News",
+      "title_vi": "Starbucks báo cáo doanh thu hàng quý mạnh mẽ và nâng cao triển vọng hàng năm - ABC News",
+      "summary_vi": "Cổ phiếu Starbucks tăng vọt sau khi gã khổng lồ cà phê báo cáo doanh thu và lợi nhuận hàng quý tốt hơn mong đợi",
+      "image": "https://i.abcnewsfe.com/a/6c1aad59-7caf-452d-a4e3-44ed1d3f6c97/wirestory_f1bbcee3ab22b4da67b64c0adeb4adb1_16x9.jpg?w=1600",
+      "link": "https://abcnews.com/Business/wireStory/starbucks-reports-strong-quarterly-sales-raises-annual-outlook-135207618",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "soft",
+      "published": "2026-07-30 05:06"
+    },
+    {
       "id": "ed6qzf",
       "title": "Low Gas Storage and Diesel Shortages Threaten Europe’s Winter Supply",
       "title_vi": "Mức dự trữ khí thấp và tình trạng thiếu dầu diesel đe dọa nguồn cung mùa đông của châu Âu",
@@ -44,17 +66,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-30 05:00"
-    },
-    {
-      "id": "47tsqe",
-      "title": "Starbucks reports strong quarterly sales and raises annual outlook",
-      "title_vi": "Starbucks báo cáo doanh thu hàng quý mạnh mẽ và nâng cao triển vọng hàng năm",
-      "summary_vi": "Cổ phiếu của Starbucks tăng vọt hôm thứ Tư sau khi gã khổng lồ cà phê báo cáo doanh thu và lợi nhuận hàng quý tốt hơn mong đợi, đồng thời nâng cao triển vọng tài chính trong năm.",
-      "image": "https://images.wral.com/9370cd6d-603b-5022-84a0-2c7cb8618dae?w=1200&#x26;h=630&#x26;height=630",
-      "link": "https://www.wral.com/news/ap/f1bbc-starbucks-reports-strong-quarterly-sales-and-raises-annual-outlook/",
-      "source": "WRAL",
-      "category": "soft",
-      "published": "2026-07-30 04:10"
     },
     {
       "id": "aw3imq",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "macro",
       "published": "2026-07-28 07:36"
-    },
-    {
-      "id": "yhiyrv",
-      "title": "Pepsi, Frito-Lay Accuse Sugar Companies Of Price Fixing",
-      "title_vi": "Pepsi, Frito-Lay cáo buộc các công ty đường ấn định giá",
-      "summary_vi": "Các công ty thực phẩm và đồ uống nổi tiếng bao gồm Pepsi, Quaker Oats, Bimbo Bakeries và Frito-Lay đã đệ đơn kiện chống độc quyền lên tòa án liên bang Minnesota hôm thứ Sáu, cáo buộc rằng các nhà máy và nhà sản xuất đường lớn đã tham gia vào kế hoạch ấn định giá kể từ năm 2019.",
-      "image": "https://www.law360.com/images/law360-stacked.png",
-      "link": "https://www.law360.com/articles/2506154/pepsi-frito-lay-accuse-sugar-companies-of-price-fixing",
-      "source": "Law360",
-      "category": "soft",
-      "published": "2026-07-28 06:04"
     }
   ]
 }

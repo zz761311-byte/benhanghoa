@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 04:01",
+  "updated_at": "2026-07-31 04:35",
   "items": [
     {
       "id": "iws9no",
@@ -132,6 +132,17 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-07-30 22:33"
+    },
+    {
+      "id": "twr1hm",
+      "title": "Ukraine’s drone campaign is dismantling Russia’s military supply network in the occupied south",
+      "title_vi": "Chiến dịch máy bay không người lái của Ukraine đang phá hủy mạng lưới cung cấp quân sự của Nga ở miền nam bị chiếm đóng",
+      "summary_vi": "Ukraine đã thực hiện một cuộc tấn công thành công vào cơ sở hậu cần quân sự của Nga trong ba giai đoạn leo thang bằng cách đáp trả những điều chỉnh của Nga và sử dụng máy bay không người lái giá rẻ.",
+      "image": "https://acleddata.com/sites/default/files/styles/og_image/public/2026-07/GettyImages-2282447942.jpg?itok=k8sMl1N_",
+      "link": "https://acleddata.com/report/ukraines-drone-campaign-dismantling-russias-military-supply-network-occupied-south",
+      "source": "ACLED",
+      "category": "energy",
+      "published": "2026-07-30 22:21"
     },
     {
       "id": "10w4u6",
@@ -539,17 +550,6 @@
       "source": "Capital Press",
       "category": "agri",
       "published": "2026-07-29 03:48"
-    },
-    {
-      "id": "k83eyc",
-      "title": "Platinum Price Forecast: Widening Deficit Puts $1,900 Back in Focus",
-      "title_vi": "Dự báo giá bạch kim: Thâm hụt ngày càng mở rộng khiến 1.900 USD trở lại trọng tâm",
-      "summary_vi": "Thâm hụt bạch kim tiếp tục gia tăng mặc dù lượng bán ETF kỷ lục. Xem lý do tại sao mức hỗ trợ 1.540 USD có thể mở ra sự phục hồi lên mức 1.800-1.950 USD sau FOMC.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/platinum-metal-illustration-02.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/premium-platinum-price-forecast-widening-deficit-puts-1900-back-in-focus-1613445",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-07-29 03:36"
     }
   ]
 }

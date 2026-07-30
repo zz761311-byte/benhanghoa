@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 00:01",
+  "updated_at": "2026-07-31 00:11",
   "items": [
     {
       "id": "1jbq11b",
@@ -77,6 +77,17 @@
       "source": "Food Dive",
       "category": "soft",
       "published": "2026-07-30 22:13"
+    },
+    {
+      "id": "1gy1698",
+      "title": "Wheat price jump attracting acres",
+      "title_vi": "Giá lúa mì tăng vọt thu hút nhiều diện tích",
+      "summary_vi": "Sự tăng vọt của thị trường lúa mì đang thu hút sự chú ý của các nhà sản xuất. \"Giá đã tăng vọt trong tuần trước. Chúng tôi định trồng 90 mẫu vào mùa thu này, nhưng giờ chúng tôi đã lên tới 300 mẫu.\" Nông dân miền Trung Illinois, Lance Muirhead, người đã đưa lúa mì vào luân canh ngô và đậu tương của mình khoảng 5 năm trước, […]",
+      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2026/06/Winterwheat_midJune_MO2_2026-e1781550314848.jpg",
+      "link": "https://www.brownfieldagnews.com/news/wheat-price-jump-attracting-acres/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-07-30 22:02"
     },
     {
       "id": "not2bx",
@@ -539,17 +550,6 @@
       "source": "Forbes",
       "category": "metal",
       "published": "2026-07-28 22:15"
-    },
-    {
-      "id": "ngn0z8",
-      "title": "UBS cuts palladium price target on oversupply concerns",
-      "title_vi": "UBS cắt giảm mục tiêu giá palladium do lo ngại cung vượt cầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/commodities-news/ubs-cuts-palladium-price-target-on-oversupply-concerns-93CH-4815814",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-07-28 18:42"
     }
   ]
 }

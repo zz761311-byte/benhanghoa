@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-31 05:48",
+  "updated_at": "2026-07-31 06:01",
   "items": [
+    {
+      "id": "1uhdrbe",
+      "title": "How China Became the Ultimate Swing Oil Buyer",
+      "title_vi": "Làm thế nào Trung Quốc trở thành người mua dầu xoay vòng cuối cùng",
+      "summary_vi": "Năm tháng gần như đóng cửa eo biển Hormuz đã không khiến giá dầu tăng vọt lên 150 hoặc 200 USD/thùng như nhiều nhà phân tích đã cảnh báo vào tháng 3. Ngay cả khi hơn 10% nguồn cung dầu thô toàn cầu đột nhiên biến mất khỏi thị trường, dầu vẫn không đạt mức cao kỷ lục. Giá dầu thô",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-30_t3dugkbcbh.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/How-China-Became-the-Ultimate-Swing-Oil-Buyer.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-31 06:00"
+    },
+    {
+      "id": "11t2jio",
+      "title": "Middle East Oil Shock Could Hand Upstream Sector a $495 Billion Windfall",
+      "title_vi": "Cú sốc dầu mỏ ở Trung Đông có thể mang lại cho khu vực thượng nguồn khoản tiền 495 tỷ USD",
+      "summary_vi": "Wood Mackenzie hiện ước tính rằng lĩnh vực dầu khí thượng nguồn toàn cầu có thể tạo ra dòng tiền tự do 495 tỷ USD vào năm 2026 nếu giá dầu thô trung bình là 90 USD/thùng, cao hơn gấp đôi so với dự báo trước đó dựa trên giả định giá dầu là 60 USD. Bản sửa đổi theo sau bước nhảy vọt trong cr",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-30_7hxyysz4cp.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Middle-East-Oil-Shock-Could-Hand-Upstream-Sector-a-495-Billion-Windfall.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-31 05:00"
+    },
     {
       "id": "iws9no",
       "title": "John Kerry: Europe&#039;s Energy Crisis Is a Bigger Threat Than Any Weapon",
@@ -90,17 +112,6 @@
       "published": "2026-07-31 00:00"
     },
     {
-      "id": "1myzukg",
-      "title": "U.S. GDP Growth Slows to 1.5% in Second Quarter, Missing Forecasts",
-      "title_vi": "Tăng trưởng GDP của Mỹ chậm lại còn 1,5% trong quý 2, thiếu dự báo",
-      "summary_vi": "Nền kinh tế Mỹ tăng trưởng với tốc độ yếu hơn nhiều so với dự kiến ​​trong quý 2 mặc dù chi tiêu tiêu dùng và đầu tư kinh doanh vững chắc tăng lên. Theo BEA, GDP (đã điều chỉnh lạm phát) chỉ tăng 1,5% trong giai đoạn này, theo ước tính đầu tiên được đưa ra hôm thứ Năm bởi Bu.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-30_fghbdopuwj.jpg",
-      "link": "https://oilprice.com/Finance/the-Economy/US-GDP-Growth-Slows-to-15-in-Second-Quarter-Missing-Forecasts.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-07-31 00:00"
-    },
-    {
       "id": "lxbfl",
       "title": "Copper Supply Faces a New China Driven Squeeze",
       "title_vi": "Nguồn cung đồng phải đối mặt với sức ép mới do Trung Quốc thúc đẩy",
@@ -112,15 +123,15 @@
       "published": "2026-07-30 23:33"
     },
     {
-      "id": "1ixf2v4",
-      "title": "Russia Extends Diesel and Gasoline Export Bans Into 2027",
-      "title_vi": "Nga gia hạn lệnh cấm xuất khẩu dầu diesel và xăng đến năm 2027",
-      "summary_vi": "Nga đã gia hạn hạn chế xuất khẩu xăng và dầu diesel cho đến ngày 31 tháng 1 năm 2027, chỉ 5 ngày sau khi tuyên bố lệnh cấm dầu diesel sẽ biến mất sau khi thị trường nhiên liệu trong nước hồi phục. Có vẻ như quá trình phục hồi đã được dời lại. Moscow lần đầu tiên cấm xuất khẩu dầu diesel từ ngày 8/7",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-30_hqy6gbezxk.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Extends-Diesel-and-Gasoline-Export-Bans-Into-2027.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-30 23:30"
+      "id": "nyjbai",
+      "title": "Dry Weather Forecast for Brazil Weighs on Arabica Coffee Prices",
+      "title_vi": "Dự báo thời tiết khô hạn ở Brazil ảnh hưởng đến giá cà phê Arabica",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/dry-weather-forecast-brazil-weighs-155510729.html",
+      "source": "Yahoo Finance",
+      "category": "soft",
+      "published": "2026-07-30 22:55"
     },
     {
       "id": "k41xzv",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-07-29 04:18"
-    },
-    {
-      "id": "1wtxuhy",
-      "title": "Wheat farmers protest price dockage for low protein",
-      "title_vi": "Nông dân trồng lúa mì phản đối việc định giá do hàm lượng protein thấp",
-      "summary_vi": "Nông dân trồng lúa mì ở Washington đang yêu cầu các cơ chế xuất khẩu ngũ cốc hủy bỏ ngay lập tức mức giá lên tới 50 xu mỗi giạ đối với việc kiểm tra lúa mì trắng mềm có hàm lượng protein dưới 9%. Hợp đồng hiện tại được viết […]",
-      "image": "https://capitalpress.com/wp-content/uploads/sites/11/2026/07/news_proteindockage_073126_cap_01.jpeg",
-      "link": "https://capitalpress.com/2026/07/28/wheat-farmers-protest-price-dockage-for-low-protein/",
-      "source": "Capital Press",
-      "category": "agri",
-      "published": "2026-07-29 03:48"
     }
   ]
 }

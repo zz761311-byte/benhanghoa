@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-30 13:01",
+  "updated_at": "2026-07-30 13:13",
   "items": [
+    {
+      "id": "1q39cff",
+      "title": "Japan Buys Rare Canadian Oil Cargo",
+      "title_vi": "Nhật Bản mua lô dầu hiếm của Canada",
+      "summary_vi": "Nhà máy lọc dầu lớn nhất Nhật Bản, Eneos, đã mua một lô dầu thô hiếm của Canada khi nước này tìm cách đa dạng hóa nguồn cung từ dầu thô Trung Đông. Đây là chuyến hàng dầu đầu tiên của Canada được một công ty Nhật Bản mua kể từ năm 2025, Reuters lưu ý trong một báo cáo, trích dẫn dữ liệu theo dõi tàu từ K.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-30_wissb3nat1.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Buys-Rare-Canadian-Oil-Cargo.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-30 13:10"
+    },
     {
       "id": "162hdlm",
       "title": "Copper's tariff dislocation risks becoming structural split",
@@ -79,6 +90,17 @@
       "published": "2026-07-30 04:00"
     },
     {
+      "id": "57mlym",
+      "title": "Weather forecast pulls soybeans lower",
+      "title_vi": "Dự báo thời tiết kéo giá đậu nành xuống thấp",
+      "summary_vi": "Đậu nành giảm mạnh do bán quỹ và kỹ thuật. Dự báo thời tiết ngắn hạn có vẻ không gây đe dọa ở nhiều khu vực đang phát triển chính. Triển vọng dài hạn kém chắc chắn hơn một chút và tháng 8 là tháng quan trọng đối với đậu, vì vậy điều đó sẽ tiếp tục được theo dõi chặt chẽ và có thể khiến thị trường biến động. M càng cao hơn",
+      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2022/03/CommodityMarkets400x400.jpg",
+      "link": "https://www.brownfieldagnews.com/market-news/weather-forecast-pulls-soybeans-lower/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-07-30 03:54"
+    },
+    {
       "id": "1blqtug",
       "title": "Trump Administration Picks Five States for Nuclear Fuel-Cycle Hubs",
       "title_vi": "Chính quyền Trump chọn 5 bang làm trung tâm chu trình nhiên liệu hạt nhân",
@@ -88,6 +110,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-30 03:00"
+    },
+    {
+      "id": "yh1jg3",
+      "title": "Crops Analysis | Wheat classes see mixed price action",
+      "title_vi": "Phân tích cây trồng | Các loại lúa mì có hành động giá hỗn hợp",
+      "summary_vi": "Ngày 29 tháng 7 năm 2026",
+      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
+      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-wheat-classes-see-mixed-price-action",
+      "source": "Pro Farmer",
+      "category": "agri",
+      "published": "2026-07-30 02:40"
     },
     {
       "id": "iq4ojg",
@@ -110,17 +143,6 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-07-30 02:00"
-    },
-    {
-      "id": "9o7v2",
-      "title": "Ukraine’s Attack on Iranian Cargo Ship Links Two Wars",
-      "title_vi": "Cuộc tấn công của Ukraine vào tàu chở hàng Iran liên kết hai cuộc chiến",
-      "summary_vi": "Cuộc tấn công của Ukraine vào một tàu thương mại của Iran ở Biển Caspian đánh dấu mối liên hệ trực tiếp đầu tiên giữa các cuộc chiến ở Ukraine và Iran. Trong khi thông tin chi tiết về vụ việc ngày 25 tháng 7 còn mù mờ, cơ quan tình báo SBU của Ukraine cho biết máy bay không người lái của họ đã tấn công một giàn khoan dầu ở Biển Caspian.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-29_edlcsbmhn8.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Ukraines-Attack-on-Iranian-Cargo-Ship-Links-Two-Wars.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-07-30 01:00"
     },
     {
       "id": "9a8x87",
@@ -365,17 +387,6 @@
       "published": "2026-07-29 02:39"
     },
     {
-      "id": "1svhv70",
-      "title": "Crops Analysis | Corn bulls show fresh strength",
-      "title_vi": "Phân tích cây trồng | Bò đực phô diễn sức mạnh tươi mới",
-      "summary_vi": "Ngày 28 tháng 7 năm 2026",
-      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
-      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-corn-bulls-show-fresh-strength",
-      "source": "Pro Farmer",
-      "category": "agri",
-      "published": "2026-07-29 01:53"
-    },
-    {
       "id": "t4giwe",
       "title": "Grain Price Volatility Creates a Second Chance to Sell",
       "title_vi": "Biến động giá ngũ cốc tạo cơ hội bán thứ hai",
@@ -539,17 +550,6 @@
       "source": "The Mighty 790 KFGO",
       "category": "macro",
       "published": "2026-07-28 08:01"
-    },
-    {
-      "id": "1lj3a8v",
-      "title": "Dollar eases as markets await Fed decision",
-      "title_vi": "Đồng đô la giảm khi thị trường chờ đợi quyết định của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/china/dollar-hits-one-month-high-lingering-chances-fed-hike-2026-07-28/",
-      "source": "Reuters",
-      "category": "macro",
-      "published": "2026-07-28 07:36"
     }
   ]
 }

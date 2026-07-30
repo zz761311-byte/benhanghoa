@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 06:01",
+  "updated_at": "2026-07-31 06:44",
   "items": [
     {
       "id": "1uhdrbe",
@@ -132,6 +132,17 @@
       "source": "Yahoo Finance",
       "category": "soft",
       "published": "2026-07-30 22:55"
+    },
+    {
+      "id": "1l0d7s3",
+      "title": "Copper price jumps on tightening supply, mining stocks rally",
+      "title_vi": "Giá đồng tăng do nguồn cung thắt chặt, cổ phiếu khai thác tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.mining.com/copper-price-jumps-on-tightening-supply-mining-stocks-rally/",
+      "source": "mining.com",
+      "category": "metal",
+      "published": "2026-07-30 22:51"
     },
     {
       "id": "k41xzv",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-07-29 08:14"
-    },
-    {
-      "id": "7f56s9",
-      "title": "Gold falls as dollar hovers near one-month peak, Fed meet in focus",
-      "title_vi": "Vàng giảm khi đồng đô la dao động gần mức cao nhất trong một tháng, cuộc họp tập trung của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-slips-firm-dollar-weighs-focus-turns-fed-meeting-2026-07-28/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-07-29 04:18"
     }
   ]
 }

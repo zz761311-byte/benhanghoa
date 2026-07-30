@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 02:01",
+  "updated_at": "2026-07-31 03:01",
   "items": [
     {
       "id": "xmzvxe",
@@ -99,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-30 23:00"
+    },
+    {
+      "id": "k41xzv",
+      "title": "Wheat Soars, Pulling up Corn and Soybeans: Outside Markets See Fed Fallout",
+      "title_vi": "Lúa mì tăng vọt, ngô và đậu nành tăng: Thị trường bên ngoài chứng kiến ​​sự sụp đổ của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/wheat-soars-pulling-corn-and-soybeans-outside-markets-see-fed-fallout",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-07-30 22:33"
     },
     {
       "id": "97otmk",
@@ -387,6 +398,28 @@
       "published": "2026-07-29 17:52"
     },
     {
+      "id": "118g5p5",
+      "title": "Gold Edges Higher as Weaker Dollar Supports Prices Ahead of Fed Decision",
+      "title_vi": "Vàng tăng cao hơn khi đồng đô la yếu hơn hỗ trợ giá trước quyết định của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-edges-higher-weaker-dollar-102013220.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-07-29 17:20"
+    },
+    {
+      "id": "1ovnj1h",
+      "title": "Ukraine adapts strikes on Russian energy industry to hit critical components",
+      "title_vi": "Ukraine điều chỉnh các cuộc tấn công vào ngành năng lượng của Nga để tấn công các bộ phận quan trọng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.ft.com/content/5ca782bd-5c4a-45f8-9a7a-5793d800321d?syn-25a6b1a6",
+      "source": "Financial Times",
+      "category": "energy",
+      "published": "2026-07-29 15:02"
+    },
+    {
       "id": "1ycdh7r",
       "title": "At Least 3 Dead in Russia and Crimea After Ukraine Strikes Industrial Sites",
       "title_vi": "Ít nhất 3 người chết ở Nga và Crimea sau khi Ukraine tấn công các khu công nghiệp",
@@ -407,17 +440,6 @@
       "source": "ING Think",
       "category": "macro",
       "published": "2026-07-29 14:19"
-    },
-    {
-      "id": "13buwzt",
-      "title": "Gold edges up ahead of Fed decision as softer dollar offsets inflation worries",
-      "title_vi": "Vàng tăng trước quyết định của Fed khi đồng đô la mềm hơn bù đắp lo lắng lạm phát",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/commodities-news/gold-prices-steady-ahead-of-fed-decision-oil-rebound-revives-inflation-concerns-4818551",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-07-29 14:18"
     },
     {
       "id": "1pwliik",
@@ -528,28 +550,6 @@
       "source": "ConstructConnect News",
       "category": "metal",
       "published": "2026-07-29 02:53"
-    },
-    {
-      "id": "t4giwe",
-      "title": "Grain Price Volatility Creates a Second Chance to Sell",
-      "title_vi": "Biến động giá ngũ cốc tạo cơ hội bán thứ hai",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/grain-price-volatility-creates-a-second-chance-to-sell-12028743",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-07-29 01:46"
-    },
-    {
-      "id": "50c6ny",
-      "title": "Tightness in the Near-Term Supply Outlook Boosts Coffee Prices",
-      "title_vi": "Triển vọng nguồn cung ngắn hạn thắt chặt thúc đẩy giá cà phê",
-      "summary_vi": "Cà phê arabica tháng 9 (KCU26 ) vào thứ Ba đóng cửa tăng +14,85 (+4,58%) và cà phê Robusta ICE tháng 9 (RMU26 ) đóng cửa tăng +78 (+2,05%). Giá cà phê tăng mạnh vào thứ Ba trong ngày thứ hai liên tiếp, đạt mức cao nhất trong 2 tuần trong bối cảnh lo ngại...",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Soft%20Commodities/Coffee/Cup%20of%20coffee%20with%20coffee%20beans%20in%20burlap%20sack%20on%20coffee%20tree%20background%20by%20Amenic181%20via%20Shutterstock.jpg",
-      "link": "https://www.barchart.com/story/news/3507749/tightness-in-the-near-term-supply-outlook-boosts-coffee-prices",
-      "source": "Barchart.com",
-      "category": "soft",
-      "published": "2026-07-29 01:31"
     }
   ]
 }

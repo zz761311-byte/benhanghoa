@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30 17:01",
+  "updated_at": "2026-07-30 18:01",
   "items": [
     {
       "id": "17kv4tj",
@@ -99,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-30 07:00"
+    },
+    {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "Goldman Sachs đã hạ dự báo giá dầu thô Brent trong quý 4 xuống còn 80 USD từ mức 90 USD và giảm ước tính trung bình năm 2027 từ 80 USD xuống còn 75 USD, sau khi Mỹ và Iran ký thỏa thuận sơ bộ để mở lại eo biển Hormuz. Các nhà phân tích tại ngân hàng đầu tư cho biết trong một báo cáo nghiên cứu…",
+      "image": "https://energynow.com/wp-content/uploads/Goldman-Sachs-June-2026-1200x810-1.jpg",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-07-30 06:04"
     },
     {
       "id": "mlqeub",
@@ -539,17 +550,6 @@
       "source": "S&P Global",
       "category": "macro",
       "published": "2026-07-28 14:53"
-    },
-    {
-      "id": "f8rkb0",
-      "title": "Corn over $5 or below $4? USDA numbers widen price spread",
-      "title_vi": "Ngô trên 5 USD hay dưới 4 USD? Số USDA mở rộng chênh lệch giá",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/corn-over-5-or-below-4-usda-numbers-widen-price-spread",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-07-28 14:02"
     }
   ]
 }

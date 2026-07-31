@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 10:01",
+  "updated_at": "2026-07-31 11:01",
   "items": [
     {
       "id": "7w0b9z",
@@ -398,6 +398,17 @@
       "published": "2026-07-29 22:34"
     },
     {
+      "id": "1q8xejm",
+      "title": "Gold rises 2% as Fed holds rates steady, markets parse Warsh's comments",
+      "title_vi": "Vàng tăng 2% khi Fed giữ lãi suất ổn định, thị trường phân tích nhận xét của Warsh",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/asia-pacific/gold-edges-lower-ahead-fed-decision-interest-rates-2026-07-29/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-07-29 22:23"
+    },
+    {
       "id": "1utw7ty",
       "title": "Natural Gas (Sep 2026) Trade Ideas — CMCMARKETS:USNATGASU2026",
       "title_vi": "Ý tưởng thương mại về khí đốt tự nhiên (Tháng 9 năm 2026) — CMCMARKETS:USNATGASU2026",
@@ -530,26 +541,15 @@
       "published": "2026-07-29 15:02"
     },
     {
-      "id": "1ycdh7r",
-      "title": "At Least 3 Dead in Russia and Crimea After Ukraine Strikes Industrial Sites",
-      "title_vi": "Ít nhất 3 người chết ở Nga và Crimea sau khi Ukraine tấn công các khu công nghiệp",
-      "summary_vi": "Các cuộc tấn công của Ukraine trên khắp Nga và sáp nhập Crimea đã giết chết ít nhất ba người, chính quyền cho biết vào sáng thứ Tư, khi Tổng thống Ukraine Volodymyr Zelensky tuyên bố quân đội của ông đã tấn công một số khu công nghiệp trong một trận chớp nhoáng chỉ trong một đêm.",
-      "image": "https://static.themoscowtimes.com/image/og/c9/93363__c93c3c6c564196a469c9067fe7459f8a.jpg",
-      "link": "https://www.themoscowtimes.com/2026/07/29/at-least-3-dead-in-russia-and-crimea-after-ukraine-strikes-industrial-sites-a93363",
-      "source": "The Moscow Times",
-      "category": "energy",
-      "published": "2026-07-29 14:30"
-    },
-    {
-      "id": "1lv4uod",
-      "title": "FX Daily: Fed hold can hit the dollar today",
-      "title_vi": "FX Daily: Việc Fed nắm giữ có thể chạm tới đồng đô la ngày hôm nay",
-      "summary_vi": "Rủi ro giảm giá lớn hơn đối với đồng đô la ngày hôm nay",
-      "image": "https://think.ing.com/uploads/hero/_w800h450/shutterstock_editorial_16965432a.jpg",
-      "link": "https://think.ing.com/articles/fx-daily-fed-hold-can-hit-the-dollar-today/",
-      "source": "ING Think",
-      "category": "macro",
-      "published": "2026-07-29 14:19"
+      "id": "1pwliik",
+      "title": "Heat Threatens Spring Wheat, Corn Outlook; House Approves Up to $12B in Farm Aid",
+      "title_vi": "Nắng nóng đe dọa lúa mì mùa xuân, triển vọng ngô; Hạ viện phê duyệt khoản hỗ trợ trang trại lên tới 12 tỷ USD",
+      "summary_vi": "AccuWeather",
+      "image": "https://www.aginfo.net/Assets/ReportImages/report_6a63994be1861871596093_1920_1080.jpeg",
+      "link": "https://www.aginfo.net/report/65946/Line-on-Agriculture/Heat-Threatens-Spring-Wheat-Corn-Outlook-House-Approves-Up-to-12B-in-Farm-Aid",
+      "source": "AG INFORMATION NETWORK OF THE WEST",
+      "category": "agri",
+      "published": "2026-07-29 14:46"
     }
   ]
 }

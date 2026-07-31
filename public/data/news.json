@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-07-31 22:01",
+  "updated_at": "2026-07-31 23:01",
   "items": [
+    {
+      "id": "ik23lf",
+      "title": "Ukraine Is Now Targeting Iranian Shipping in the Caspian Sea",
+      "title_vi": "Ukraine hiện đang nhắm mục tiêu vận chuyển của Iran ở biển Caspian",
+      "summary_vi": "Máy bay không người lái do Iran thiết kế đã tàn phá lực lượng Ukraine đang chiến đấu với quân đội Nga khi Moscow tiếp nhận công nghệ của Tehran và chạy theo nó, tăng cường sản xuất và triển khai máy bay không người lái với số lượng tàn khốc trong cuộc chiến tổng lực chống lại Kyiv. Đối với Ukraine, điều này",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-31_7qeev2pavn.jpg",
+      "link": "https://oilprice.com/Geopolitics/Europe/Ukraine-Is-Now-Targeting-Iranian-Shipping-in-the-Caspian-Sea.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-31 23:00"
+    },
+    {
+      "id": "y0xku8",
+      "title": "China&#039;s Solar Capacity Set to Overtake Coal This Quarter",
+      "title_vi": "Công suất năng lượng mặt trời của Trung Quốc sẽ vượt than trong quý này",
+      "summary_vi": "Chính quyền Trung Quốc cho biết, Trung Quốc sẽ có công suất lắp đặt năng lượng mặt trời nhiều hơn công suất sản xuất điện đốt than ngay từ quý này. Tính đến cuối tháng 6, công suất điện mặt trời ở mức 1.274 gigawatt (GW), chỉ kém tổng công suất lắp đặt điện than là 1.275 GW.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-31_yuneoxbdsc.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Solar-Capacity-Set-to-Overtake-Coal-This-Quarter.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-31 22:30"
+    },
     {
       "id": "1dewl1n",
       "title": "ADNOC Makes One of the Biggest Changes to Middle East Crude Pricing in Years",
@@ -85,28 +107,6 @@
       "summary_vi": "September WTI crude oil futures were trading at $84.12 late Thursday, down $6.35, or 7.02%, for the week. With Friday’s session still ahead, the weekly result is not final. But the week’s main story is clear: crude sold off hard when traders thought diplomacy could restore a work",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-31_mu1qvkvnsl.jpg",
       "link": "https://oilprice.com/Energy/Energy-General/Hormuz-Uncertainty-Keeps-Oil-Markets-on-Edge.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-31 19:00"
-    },
-    {
-      "id": "k8l3d7",
-      "title": "The Drone Attack That Exposed Egypt’s Energy Defenses",
-      "title_vi": "Cuộc tấn công bằng máy bay không người lái làm lộ hàng phòng thủ năng lượng của Ai Cập",
-      "summary_vi": "Chính trị, Địa chính trị & Xung đột Một cuộc tấn công bằng máy bay không người lái đã tấn công cơ sở hạ tầng khí đốt Địa Trung Hải của Ai Cập lần đầu tiên trong chiến tranh. Ít nhất hai máy bay không người lái đã tấn công cơ sở lưu trữ và tái hóa khí nổi Energos Winter thuộc sở hữu của Hoa Kỳ và một tàu xử lý khí thứ hai tại cảng Damietta trên đường W.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-31_54bbhk7i6n.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Drone-Attack-That-Exposed-Egypts-Energy-Defenses.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-31 19:00"
-    },
-    {
-      "id": "1iqoi4m",
-      "title": "Libya&#039;s Fragile Peace Faces a New Threat",
-      "title_vi": "Hòa bình mong manh của Libya đối mặt với mối đe dọa mới",
-      "summary_vi": "Thỏa thuận tham nhũng đôi bên cùng có lợi giữa phe Haftar và Dbeibah đối thủ đã giúp Libya không quay trở lại nội chiến có thể bị hủy bỏ bởi một lực lượng thứ ba thường nằm ngoài các tính toán chính trị: công dân Libya. Trong gần sáu năm, miền đông và Libya của Libya",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-31_vdkpqoklv4.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Libyas-Fragile-Peace-Faces-a-New-Threat.html",
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-31 19:00"
@@ -253,6 +253,17 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-07-31 02:12"
+    },
+    {
+      "id": "de8u9l",
+      "title": "Gas prices stabilize, still over $4",
+      "title_vi": "Giá xăng ổn định, vẫn trên 4 USD",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://vermontbiz.com/news/2026/july/30/gas-prices-stabilize-still-over-4",
+      "source": "Vermont Business Magazine",
+      "category": "energy",
+      "published": "2026-07-31 00:01"
     },
     {
       "id": "lxbfl",
@@ -508,6 +519,17 @@
       "published": "2026-07-30 05:06"
     },
     {
+      "id": "ed6qzf",
+      "title": "Low Gas Storage and Diesel Shortages Threaten Europe's Winter Supply",
+      "title_vi": "Lượng dự trữ khí thấp và tình trạng thiếu dầu diesel đe dọa nguồn cung mùa đông của châu Âu",
+      "summary_vi": "Châu Âu phải đối mặt với một mùa đông khó khăn khi nguồn cung dầu và khí đốt toàn cầu thắt chặt khiến lượng dự trữ khí đốt thấp hơn nhiều so với mục tiêu và tồn kho dầu diesel ở mức thấp nhất kể từ năm 2022.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-29_c1h7ywsuen.jpg",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Low-Gas-Storage-and-Diesel-Shortages-Threaten-Europes-Winter-Supply.html",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "energy",
+      "published": "2026-07-30 05:00"
+    },
+    {
       "id": "57mlym",
       "title": "Weather forecast pulls soybeans lower",
       "title_vi": "Dự báo thời tiết kéo giá đậu nành xuống thấp",
@@ -528,28 +550,6 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-07-30 02:40"
-    },
-    {
-      "id": "iq4ojg",
-      "title": "Starbucks stock jumps as coffee giant raises full-year outlook",
-      "title_vi": "Cổ phiếu Starbucks tăng vọt khi gã khổng lồ cà phê nâng triển vọng cả năm",
-      "summary_vi": "Starbucks đã công bố quý thứ tư liên tiếp về mức tăng trưởng doanh số bán hàng tại cùng một cửa hàng, khi hãng này tiếp tục phục hồi dưới thời CEO Brian Niccol.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108341310-1785265724425-gettyimages-2286959399-260722_dctarget_203.jpeg?v=1785349527&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
-      "source": "CNBC",
-      "category": "soft",
-      "published": "2026-07-30 02:35"
-    },
-    {
-      "id": "1f6e9qk",
-      "title": "Cotton, Rice Producers Squeezed Despite Falling Fertilizer Prices",
-      "title_vi": "Các nhà sản xuất bông, gạo gặp khó khăn dù giá phân bón giảm",
-      "summary_vi": "(Baton Rouge, LA) - Những người trồng lúa ở miền Nam mới bắt đầu thu hoạch lúa và những con số đưa ra trong mùa này cho thấy hai câu chuyện rất khác nhau cùng một lúc: chi phí đầu vào cuối cùng đã giảm so với mức đỉnh mùa xuân,",
-      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2470/2026/07/29085434/web-photo-template-onecms-1000-x-563-px-11.jpg",
-      "link": "https://www.americanagnetwork.com/2026/07/29/cotton-rice-producers-squeezed-despite-falling-fertilizer-prices/",
-      "source": "American Ag Network",
-      "category": "soft",
-      "published": "2026-07-30 01:46"
     }
   ]
 }

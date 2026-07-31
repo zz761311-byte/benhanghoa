@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 08:01",
+  "updated_at": "2026-07-31 08:17",
   "items": [
     {
       "id": "7w0b9z",
@@ -187,6 +187,17 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-07-30 22:02"
+    },
+    {
+      "id": "1we3h4b",
+      "title": "Putin The Puppeteer: How Russia Benefits From Trump’s War in Iran",
+      "title_vi": "Người múa rối Putin: Nga được hưởng lợi như thế nào từ cuộc chiến của Trump ở Iran",
+      "summary_vi": "Chiến tranh ở Iran \"đã cung cấp huyết mạch chính xác mà Putin cần để giải cứu ông ta khỏi thảm họa kinh tế.\"",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt81e23088012fdd9f/6a6b5cc50cddc6c1a78b834a/Russia-President-Vladimir-Putin.jpg?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
+      "link": "https://time.com/article/2026/07/30/putin-the-puppeteer-how-russia-benefits-from-trump-s-war-in-iran/",
+      "source": "Time Magazine",
+      "category": "macro",
+      "published": "2026-07-30 21:22"
     },
     {
       "id": "1kiq1al",
@@ -539,17 +550,6 @@
       "source": "Brave New Coin",
       "category": "metal",
       "published": "2026-07-29 13:06"
-    },
-    {
-      "id": "tm4j2h",
-      "title": "Dollar eases ahead of Fed decision, Aussie falls after inflation data",
-      "title_vi": "Đồng đô la giảm trước quyết định của Fed, đồng Úc giảm sau dữ liệu lạm phát",
-      "summary_vi": "Bởi Rae Wee SINGAPORE, ngày 29 tháng 7 (Reuters) - Đồng đô la Mỹ đã tạm dừng tăng giá vào thứ Tư nhưng vẫn giữ gần mức cao nhất trong một tháng, do các nhà giao dịch chờ đợi quyết định lãi suất của Cục Dự trữ Liên bang vào cuối ngày. Sự thù địch ở Trung Đông lại bùng lên, khiến...",
-      "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-07/29/2026-07-29T003733Z_1_LYNXMPEM6S016_RTROPTP_3_USA-FED.JPG",
-      "link": "https://wtvbam.com/2026/07/28/dollar-holds-steady-as-fed-decision-looms/",
-      "source": "WTVB",
-      "category": "macro",
-      "published": "2026-07-29 10:38"
     }
   ]
 }

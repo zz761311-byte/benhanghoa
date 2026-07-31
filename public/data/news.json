@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 11:01",
+  "updated_at": "2026-07-31 11:46",
   "items": [
     {
       "id": "7w0b9z",
@@ -176,6 +176,17 @@
       "source": "Food Dive",
       "category": "soft",
       "published": "2026-07-30 22:13"
+    },
+    {
+      "id": "1k3dial",
+      "title": "Move on 2026 and 2027 grain prices before Aug. 12 USDA report",
+      "title_vi": "Diễn biến giá ngũ cốc năm 2026 và 2027 trước báo cáo ngày 12 tháng 8 của USDA",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/marketing/move-on-2026-and-2027-grain-prices-before-aug-12-usda-report",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-07-30 22:03"
     },
     {
       "id": "1gy1698",
@@ -539,17 +550,6 @@
       "source": "Financial Times",
       "category": "energy",
       "published": "2026-07-29 15:02"
-    },
-    {
-      "id": "1pwliik",
-      "title": "Heat Threatens Spring Wheat, Corn Outlook; House Approves Up to $12B in Farm Aid",
-      "title_vi": "Nắng nóng đe dọa lúa mì mùa xuân, triển vọng ngô; Hạ viện phê duyệt khoản hỗ trợ trang trại lên tới 12 tỷ USD",
-      "summary_vi": "AccuWeather",
-      "image": "https://www.aginfo.net/Assets/ReportImages/report_6a63994be1861871596093_1920_1080.jpeg",
-      "link": "https://www.aginfo.net/report/65946/Line-on-Agriculture/Heat-Threatens-Spring-Wheat-Corn-Outlook-House-Approves-Up-to-12B-in-Farm-Aid",
-      "source": "AG INFORMATION NETWORK OF THE WEST",
-      "category": "agri",
-      "published": "2026-07-29 14:46"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-31 23:27",
+  "updated_at": "2026-08-01 00:01",
   "items": [
+    {
+      "id": "sx53yc",
+      "title": "Ukraine Strikes Lukoil&#039;s Volgograd Refinery as Drone Attacks Resume",
+      "title_vi": "Ukraine tấn công nhà máy lọc dầu Volgograd của Lukoil khi các cuộc tấn công bằng máy bay không người lái tiếp tục",
+      "summary_vi": "Ukraine đã tấn công một trong những nhà máy lọc dầu lớn nhất của Nga, cơ sở chế biến Volgograd của Lukoil, lực lượng Ukraine cho biết hôm thứ Sáu khi họ nối lại các cuộc tấn công vào năng lực lọc dầu của Nga. Nhà máy lọc dầu Volgograd, có công suất xử lý 300.000 thùng dầu thô mỗi ngày (bpd)",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-31_fymqsntn9r.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Strikes-Lukoils-Volgograd-Refinery-as-Drone-Attacks-Resume.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-31 23:30"
+    },
     {
       "id": "589y1p",
       "title": "Saudis Push Maritime Coalition as Oil Finds Support",
@@ -88,17 +99,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-07-31 19:52"
-    },
-    {
-      "id": "1pnlvcm",
-      "title": "Oil Prices Inch Higher as Iran Strikes U.S. Bases in Kuwait and Bahrain",
-      "title_vi": "Giá dầu tăng cao khi Iran tấn công các căn cứ của Mỹ ở Kuwait và Bahrain",
-      "summary_vi": "Iran hôm thứ Sáu tuyên bố họ đã tiến hành các cuộc tấn công vào tài sản quân sự của Mỹ ở Bahrain và Kuwait trong bối cảnh tình trạng thù địch tái leo thang mới nhất trong khu vực, điều này làm tiêu tan hy vọng từ đầu tuần rằng có thể nhanh chóng quay trở lại hoạt động ngoại giao. Quân đội Iran nhắm vào Ahmad al-Jabe",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-31_pytuyza4ib.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Inch-Higher-as-Iran-Strikes-US-Bases-in-Kuwait-and-Bahrain.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-31 19:30"
     },
     {
       "id": "1lc9ygq",
@@ -486,17 +486,6 @@
       "published": "2026-07-30 08:25"
     },
     {
-      "id": "1g8dm5y",
-      "title": "Ukrainian drone strikes ignite fires at Russian oil sites",
-      "title_vi": "Cuộc tấn công bằng máy bay không người lái của Ukraine gây ra hỏa hoạn tại các cơ sở dầu mỏ của Nga",
-      "summary_vi": "Một cuộc tấn công trong đêm đã nhằm vào các cơ sở dầu mỏ quan trọng ở miền nam nước Nga, gây thêm áp lực lên mạng lưới nhiên liệu vốn đã căng thẳng do các cuộc tấn công liên tục của Ukraine.",
-      "image": "https://static.dw.com/image/65525202_6.jpg",
-      "link": "https://www.dw.com/en/ukrainian-drone-strikes-ignite-fires-at-russian-oil-sites/a-77900682",
-      "source": "DW.com",
-      "category": "energy",
-      "published": "2026-07-30 07:26"
-    },
-    {
       "id": "1xmztgd",
       "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
       "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
@@ -550,6 +539,17 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-07-30 02:40"
+    },
+    {
+      "id": "iq4ojg",
+      "title": "Starbucks raises full-year outlook as CEO tells CNBC the chain is winning back customer loyalty",
+      "title_vi": "Starbucks nâng cao triển vọng cả năm khi CEO nói với CNBC rằng chuỗi này đang lấy lại lòng trung thành của khách hàng",
+      "summary_vi": "Starbucks đã công bố quý thứ tư liên tiếp về mức tăng trưởng doanh số bán hàng tại cùng một cửa hàng, khi hãng này tiếp tục phục hồi dưới thời CEO Brian Niccol.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108341310-1785265724425-gettyimages-2286959399-260722_dctarget_203.jpeg?v=1785349527&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
+      "source": "CNBC",
+      "category": "soft",
+      "published": "2026-07-30 02:35"
     }
   ]
 }

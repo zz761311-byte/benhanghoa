@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 17:01",
+  "updated_at": "2026-07-31 17:21",
   "items": [
     {
       "id": "1uo4li5",
@@ -9,7 +9,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-31_tqvpcankae.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Buys-Five-Supertankers-as-Hormuz-Crisis-Tightens-Shipping.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-07-31 16:45"
     },
     {
@@ -88,6 +88,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-31 11:56"
+    },
+    {
+      "id": "etuuv2",
+      "title": "Copper Set for Monthly Gain on Tightening Global Supply Outlook",
+      "title_vi": "Bộ đồng để kiếm được hàng tháng nhờ thắt chặt triển vọng nguồn cung toàn cầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-31/copper-set-for-monthly-gain-on-tightening-global-supply-outlook",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-07-31 10:53"
+    },
+    {
+      "id": "uv39ak",
+      "title": "Gold and Silver Price Forecast: XAUUSD Rebound Faces Key Resistance",
+      "title_vi": "Dự báo giá vàng và bạc: Sự phục hồi của XAUUSD đối mặt với mức kháng cự chính",
+      "summary_vi": "Vàng và bạc vẫn nằm trong phạm vi hợp nhất quan trọng do lạm phát ở Mỹ giảm nhẹ, biến động của đồng đô la và căng thẳng địa chính trị định hình triển vọng cho kim loại quý.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/gold-and-silver-precious-metals-04.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-xauusd-rebound-faces-key-resistance-1614000",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-07-31 10:44"
     },
     {
       "id": "g4wxzf",
@@ -486,17 +508,6 @@
       "published": "2026-07-29 21:13"
     },
     {
-      "id": "6gy1dr",
-      "title": "Gold, Silver Price Forecast: Fed Decision, Long-Term & Short-Term Outlook",
-      "title_vi": "Dự báo giá vàng, bạc: Quyết định của Fed, triển vọng dài hạn và ngắn hạn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forex.com/ie/news-and-analysis/gold-silver-price-forecast-fed-decision-long-term-and-short-term-outlook/",
-      "source": "FOREX.com",
-      "category": "metal",
-      "published": "2026-07-29 20:17"
-    },
-    {
       "id": "1jxtggf",
       "title": "Technical Support Slows Natural Gas Freefall as Struggling Futures Recalibrate",
       "title_vi": "Hỗ trợ kỹ thuật làm chậm sự rơi tự do của khí đốt tự nhiên khi tương lai đang gặp khó khăn được điều chỉnh lại",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-07-29 18:58"
-    },
-    {
-      "id": "1ibmx",
-      "title": "Mother Parkers Expands Into Coffee Extract Manufacturing",
-      "title_vi": "Mother Parkers mở rộng sang sản xuất chiết xuất cà phê",
-      "summary_vi": "Mother Parkers Tea & Coffee đã mở một cơ sở sản xuất chiết xuất cà phê mới ở Mississauga, Ontario, theo những gì chuyên gia nhãn hiệu tư nhân mô tả là khoản đầu tư trị giá hàng triệu đô la trong nhiều năm. Được gọi là trích xuất hoàn chỉnh ...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/07/29/mother-parkers-expands-into-coffee-extract-manufacturing/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-07-29 18:55"
     }
   ]
 }

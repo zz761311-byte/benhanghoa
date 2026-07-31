@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 09:01",
+  "updated_at": "2026-07-31 10:01",
   "items": [
     {
       "id": "7w0b9z",
@@ -497,6 +497,17 @@
       "published": "2026-07-29 17:52"
     },
     {
+      "id": "1c31gc0",
+      "title": "Valterra profit leaps on higher prices, sees AI driving future platinum demand",
+      "title_vi": "Lợi nhuận của Valterra tăng nhờ giá cao hơn, chứng kiến ​​AI thúc đẩy nhu cầu bạch kim trong tương lai",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/africa/valterra-platinum-interim-profit-surges-higher-output-prices-2026-07-29/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-07-29 17:35"
+    },
+    {
       "id": "118g5p5",
       "title": "Gold Edges Higher as Weaker Dollar Supports Prices Ahead of Fed Decision",
       "title_vi": "Vàng tăng cao hơn khi đồng đô la yếu hơn hỗ trợ giá trước quyết định của Fed",
@@ -539,17 +550,6 @@
       "source": "ING Think",
       "category": "macro",
       "published": "2026-07-29 14:19"
-    },
-    {
-      "id": "1pwliik",
-      "title": "Heat Threatens Spring Wheat, Corn Outlook; House Approves Up to $12B in Farm Aid",
-      "title_vi": "Nắng nóng đe dọa lúa mì mùa xuân, triển vọng ngô; Hạ viện phê duyệt khoản hỗ trợ trang trại lên tới 12 tỷ USD",
-      "summary_vi": "AccuWeather",
-      "image": "https://www.aginfo.net/Assets/ReportImages/report_6a63994be1861871596093_1920_1080.jpeg",
-      "link": "https://www.aginfo.net/report/65946/Line-on-Agriculture/Heat-Threatens-Spring-Wheat-Corn-Outlook-House-Approves-Up-to-12B-in-Farm-Aid",
-      "source": "AG INFORMATION NETWORK OF THE WEST",
-      "category": "agri",
-      "published": "2026-07-29 14:00"
     }
   ]
 }

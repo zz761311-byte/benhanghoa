@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-01 01:11",
+  "updated_at": "2026-08-01 02:01",
   "items": [
+    {
+      "id": "1j10soe",
+      "title": "Why Trump’s Trade Threat Puts Spain’s Energy Security on the Line",
+      "title_vi": "Tại sao mối đe dọa thương mại của Trump lại đặt an ninh năng lượng của Tây Ban Nha vào tình thế nguy hiểm",
+      "summary_vi": "Lệnh ngừng thương mại với Tây Ban Nha vào ngày 8 tháng 7 của Donald Trump vẫn chưa trở thành lệnh cấm vận năng lượng, nhưng Madrid không còn có thể coi đó là một vở kịch chính trị. Đây là mối đe dọa thứ hai như vậy kể từ tháng 3 năm 2026, lần này được chuyển trực tiếp tới Bộ trưởng Tài chính Scott Bessent sau khi Tây Ban Nha từ chối.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-31_bzx96pjbrz.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-Trumps-Trade-Threat-Puts-Spains-Energy-Security-on-the-Line.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-01 02:00"
+    },
     {
       "id": "16u4as7",
       "title": "Exxon and Chevron’s $26.5 Billion Quarter Draws Trump’s Ire",
@@ -46,6 +57,17 @@
       "published": "2026-07-31 23:30"
     },
     {
+      "id": "15d97vt",
+      "title": "Major oil companies reap massive profits as U.S. and Iran fighting drives energy prices higher",
+      "title_vi": "Các công ty dầu mỏ lớn thu được lợi nhuận khổng lồ khi cuộc chiến giữa Mỹ và Iran khiến giá năng lượng tăng cao",
+      "summary_vi": "Các gã khổng lồ dầu khí của Mỹ đã thu về khoản lợi nhuận khổng lồ vào mùa xuân trong khi cuộc chiến giữa Iran và Mỹ đã cản trở việc vận chuyển xăng dầu và người tiêu dùng trên khắp thế giới phải trả nhiều tiền hơn cho nhiên liệu và đối mặt với tình trạng thiếu hụt.",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-20T080935Z_891312163_RC2WZS9YMQH6_RTRMADP_3_USA-OIL-GASOLINE-1024x683.jpg",
+      "link": "https://www.pbs.org/newshour/economy/major-oil-companies-reap-massive-profits-as-u-s-and-iran-fighting-drives-energy-prices-higher",
+      "source": "PBS",
+      "category": "energy",
+      "published": "2026-07-31 23:26"
+    },
+    {
       "id": "589y1p",
       "title": "Saudis Push Maritime Coalition as Oil Finds Support",
       "title_vi": "Saudis thúc đẩy liên minh hàng hải khi dầu tìm thấy sự hỗ trợ",
@@ -77,17 +99,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-31 22:30"
-    },
-    {
-      "id": "1dewl1n",
-      "title": "ADNOC Makes One of the Biggest Changes to Middle East Crude Pricing in Years",
-      "title_vi": "ADNOC thực hiện một trong những thay đổi lớn nhất đối với giá dầu thô Trung Đông trong nhiều năm",
-      "summary_vi": "Công ty Dầu mỏ Quốc gia Abu Dhabi (ADNOC) đang thực hiện một trong những thay đổi quan trọng nhất đối với giá dầu thô Trung Đông trong nhiều năm, thông báo rằng tất cả các loại dầu thô Abu Dhabi của họ sẽ chuyển sang phương pháp định giá theo tháng dựa trên tiêu chuẩn Platts Dubai từ ngày 1 tháng 11.",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Energy/Oil-Prices/ADNOC-Makes-One-of-the-Biggest-Changes-to-Middle-East-Crude-Pricing-in-Years.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-07-31 21:52"
     },
     {
       "id": "1weumhe",
@@ -539,17 +550,6 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-07-30 02:40"
-    },
-    {
-      "id": "iq4ojg",
-      "title": "Starbucks raises full-year outlook as CEO tells CNBC the chain is winning back customer loyalty",
-      "title_vi": "Starbucks nâng cao triển vọng cả năm khi CEO nói với CNBC rằng chuỗi này đang lấy lại lòng trung thành của khách hàng",
-      "summary_vi": "Starbucks đã công bố quý thứ tư liên tiếp về mức tăng trưởng doanh số bán hàng tại cùng một cửa hàng, khi hãng này tiếp tục phục hồi dưới thời CEO Brian Niccol.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108341310-1785265724425-gettyimages-2286959399-260722_dctarget_203.jpeg?v=1785349527&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
-      "source": "CNBC",
-      "category": "soft",
-      "published": "2026-07-30 02:35"
     }
   ]
 }

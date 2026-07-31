@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-31 12:01",
+  "updated_at": "2026-07-31 13:01",
   "items": [
+    {
+      "id": "wbwjil",
+      "title": "Copper may hit new high as AI demand collides with deadly storms, strategists say",
+      "title_vi": "Các chiến lược gia cho biết đồng có thể đạt mức cao mới khi nhu cầu AI gặp phải những cơn bão chết người",
+      "summary_vi": "Các chiến lược gia cho biết các cơn bão chết người ở Chile đã làm gián đoạn hoạt động khai thác, làm nguồn cung thêm căng thẳng và có khả năng đẩy giá lên cao hơn.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108170094-1752147517661-gettyimages-2207676853-CHILE_COPPER.jpeg?v=1772450643&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/07/31/copper-prices-chile-storms-mines-ai.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-07-31 12:00"
+    },
     {
       "id": "14s9rea",
       "title": "Oil Prices Head for 20% Monthly Surge Despite Recent Pullback",
@@ -44,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-31 06:00"
+    },
+    {
+      "id": "1c54qv8",
+      "title": "The Federal Reserve Has Eroded 97% of Your Dollar's Value Since 1913. Here's the Mechanism.",
+      "title_vi": "Cục Dự trữ Liên bang đã làm xói mòn 97% giá trị đồng đô la của bạn kể từ năm 1913. Đây là Cơ chế.",
+      "summary_vi": "Cục Dự trữ Liên bang đã làm xói mòn 97% giá trị đồng đô la của bạn kể từ năm 1913. Đây là Cơ chế. - Bài viết",
+      "image": "https://goldsilver.com/wp-content/uploads/2026/07/what-is-the-federal-reserve.jpeg",
+      "link": "https://goldsilver.com/industry-news/article/what-is-the-federal-reserve/",
+      "source": "GoldSilver",
+      "category": "macro",
+      "published": "2026-07-31 05:54"
     },
     {
       "id": "11t2jio",
@@ -528,28 +550,6 @@
       "source": "WSJ",
       "category": "agri",
       "published": "2026-07-29 17:52"
-    },
-    {
-      "id": "1c31gc0",
-      "title": "Valterra profit leaps on higher prices, sees AI driving future platinum demand",
-      "title_vi": "Lợi nhuận của Valterra tăng nhờ giá cao hơn, chứng kiến ​​AI thúc đẩy nhu cầu bạch kim trong tương lai",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/africa/valterra-platinum-interim-profit-surges-higher-output-prices-2026-07-29/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-07-29 17:35"
-    },
-    {
-      "id": "118g5p5",
-      "title": "Gold Edges Higher as Weaker Dollar Supports Prices Ahead of Fed Decision",
-      "title_vi": "Vàng tăng cao hơn khi đồng đô la yếu hơn hỗ trợ giá trước quyết định của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-edges-higher-weaker-dollar-102013220.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-07-29 17:20"
     }
   ]
 }

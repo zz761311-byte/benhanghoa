@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-07-31 16:01",
+  "updated_at": "2026-07-31 17:01",
   "items": [
+    {
+      "id": "1uo4li5",
+      "title": "ADNOC Buys Five Supertankers as Hormuz Crisis Tightens Shipping",
+      "title_vi": "ADNOC mua 5 siêu tàu chở dầu khi khủng hoảng Hormuz thắt chặt vận chuyển",
+      "summary_vi": "Trong bối cảnh nguồn cung tàu bị thắt chặt do cuộc khủng hoảng ở Trung Đông, công ty dầu khí quốc gia ADNOC của Abu Dhabi đã trả khoảng 590 triệu USD để mua 5 siêu tàu chở dầu nhằm quản lý tốt hơn việc vận chuyển dầu thô của mình, Reuters đưa tin hôm thứ Sáu, trích dẫn các nguồn thạo tin về thỏa thuận này. ADNOC đã có được",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-31_tqvpcankae.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Buys-Five-Supertankers-as-Hormuz-Crisis-Tightens-Shipping.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-07-31 16:45"
+    },
     {
       "id": "1kt5zuc",
       "title": "BP Puts Its North Sea Oil Business Up for Sale",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-31 14:35"
+    },
+    {
+      "id": "1za8yh",
+      "title": "Ghana’s cocoa production is expected to fall 16% next season",
+      "title_vi": "Sản lượng ca cao của Ghana dự kiến ​​giảm 16% trong mùa tới",
+      "summary_vi": "ACCRA (Reuters) – Sản lượng ca cao của Ghana dự kiến ​​sẽ giảm ít nhất 16% trong niên vụ 2026-2027, cơ quan quản lý thị trường COCOBOD cho biết, trích dẫn ảnh hưởng của thời tiết, chu kỳ sinh trái tự nhiên của cây trồng và bệnh tật, đồng thời bổ sung chi tiết cho những cảnh báo mà nông dân đã đưa ra. Cơ quan quản lý, trả lời các câu hỏi từ Reuters, cho biết t",
+      "image": "https://cdn.cnbc.africa/wp-content/uploads/2026/07/25Z76Q3NRBMWRNURH2M4PV3PPQ-scaled.jpg",
+      "link": "https://www.cnbcafrica.com/2026/ghanas-cocoa-production-is-expected-to-fall-16-next-season/",
+      "source": "CNBC Africa",
+      "category": "soft",
+      "published": "2026-07-31 14:34"
     },
     {
       "id": "qnfwss",
@@ -123,17 +145,6 @@
       "published": "2026-07-31 05:00"
     },
     {
-      "id": "iws9no",
-      "title": "John Kerry: Europe&#039;s Energy Crisis Is a Bigger Threat Than Any Weapon",
-      "title_vi": "John Kerry: Khủng hoảng năng lượng ở châu Âu là mối đe dọa lớn hơn bất kỳ loại vũ khí nào",
-      "summary_vi": "Theo cựu Ngoại trưởng Hoa Kỳ John Kerry, việc không thừa nhận đầy đủ mức độ mất an ninh năng lượng của châu Âu có thể dẫn đến những lỗ hổng an ninh quốc gia. Hội nghị thượng đỉnh NATO tại Ankara, Türkiye trong tháng này đã thể hiện cam kết về sự gắn kết và hợp tác",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-30_vkenpsqrzu.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/John-Kerry-Europes-Energy-Crisis-Is-a-Bigger-Threat-Than-Any-Weapon.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-07-31 04:00"
-    },
-    {
       "id": "1ommnx",
       "title": "Storage Surprise Boosts Prompt Month Natural Gas, Winter Outlook Unchanged",
       "title_vi": "Lưu trữ bất ngờ tăng cường khí đốt tự nhiên trong tháng, triển vọng mùa đông không thay đổi",
@@ -143,17 +154,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-07-31 02:12"
-    },
-    {
-      "id": "7smsad",
-      "title": "Ghana's cocoa production is expected to fall 16% next season",
-      "title_vi": "Sản lượng ca cao của Ghana dự kiến ​​giảm 16% trong mùa tới",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/africa/ghanas-cocoa-production-is-expected-fall-16-next-season-2026-07-30/",
-      "source": "Reuters",
-      "category": "soft",
-      "published": "2026-07-31 00:58"
     },
     {
       "id": "lxbfl",
@@ -308,6 +308,17 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-07-30 17:02"
+    },
+    {
+      "id": "9rgyes",
+      "title": "Gold Retreats as Stronger Dollar and Fed Commentary Weigh on Prices",
+      "title_vi": "Vàng rút lui khi đồng đô la mạnh hơn và bình luận của Fed gây áp lực lên giá",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://uk.finance.yahoo.com/news/gold-retreats-stronger-dollar-fed-091902288.html",
+      "source": "Yahoo Finance UK",
+      "category": "metal",
+      "published": "2026-07-30 16:19"
     },
     {
       "id": "162hdlm",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-07-29 18:55"
-    },
-    {
-      "id": "h7juqc",
-      "title": "Bunge Raises Outlook on Soybean, Softsead Outperformance",
-      "title_vi": "Bunge nâng cao triển vọng về đậu tương, Softsead vượt trội",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/earnings/bunge-raises-outlook-on-soybean-softsead-outperformance-97731bea",
-      "source": "WSJ",
-      "category": "agri",
-      "published": "2026-07-29 17:52"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 21:01",
+  "updated_at": "2026-07-31 21:41",
   "items": [
     {
       "id": "1byl88x",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-31 20:30"
+    },
+    {
+      "id": "1weumhe",
+      "title": "Natural Gas Futures Trying to Build on Gains as Hot West Beckons",
+      "title_vi": "Hợp đồng tương lai về khí đốt tự nhiên đang cố gắng tăng trưởng nhờ sự nóng lên của West Beckons",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/natural-gas-futures-trying-to-build-on-gains-as-hot-west-beckons/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-07-31 19:52"
     },
     {
       "id": "1pnlvcm",
@@ -110,6 +121,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-07-31 18:30"
+    },
+    {
+      "id": "3nkllf",
+      "title": "Oil prices seen gaining as Middle East supply disruptions persist: Reuters poll",
+      "title_vi": "Giá dầu tăng khi tình trạng gián đoạn nguồn cung ở Trung Đông vẫn tiếp diễn: cuộc thăm dò của Reuters",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/oil-prices-seen-gaining-middle-east-supply-disruptions-persist-2026-07-31/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-07-31 18:07"
     },
     {
       "id": "13r4qs",
@@ -528,28 +550,6 @@
       "source": "AP News",
       "category": "energy",
       "published": "2026-07-30 00:37"
-    },
-    {
-      "id": "qp9t1p",
-      "title": "Oil Jumps as Fresh Middle East Strikes Threaten Fragile Diplomacy",
-      "title_vi": "Dầu tăng vọt khi các cuộc đình công mới ở Trung Đông đe dọa nền ngoại giao mong manh",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/economy/oil-surges-as-fresh-middle-east-strikes-threaten-fragile-diplomacy-7fd2d4e8",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-07-29 22:34"
-    },
-    {
-      "id": "1utw7ty",
-      "title": "Natural Gas (Sep 2026) Trade Ideas — CMCMARKETS:USNATGASU2026",
-      "title_vi": "Ý tưởng thương mại về khí đốt tự nhiên (Tháng 9 năm 2026) — CMCMARKETS:USNATGASU2026",
-      "summary_vi": "Xem các ý tưởng giao dịch và đầu tư mới nhất về Khí tự nhiên (tháng 9 năm 2026) từ các tác giả hàng đầu của chúng tôi. Họ chia sẻ ý kiến ​​về xu hướng giá và triển vọng kỹ thuật của thị trường.",
-      "image": "https://s3-symbol-logo.tradingview.com/natural-gas--600.png",
-      "link": "https://www.tradingview.com/symbols/CMCMARKETS-USNATGAS1!/ideas/page-6/?contract",
-      "source": "TradingView",
-      "category": "energy",
-      "published": "2026-07-29 21:17"
     }
   ]
 }

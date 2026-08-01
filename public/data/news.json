@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01 23:00",
+  "updated_at": "2026-08-01 23:41",
   "items": [
     {
       "id": "pnjzw1",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-01 22:00"
+    },
+    {
+      "id": "1g2nnfl",
+      "title": "Mondelez (MDLZ) Tackles Cocoa Costs While Recalling Cadbury Oreo Candy Bar",
+      "title_vi": "Mondelez (MDLZ) giải quyết vấn đề chi phí ca cao khi thu hồi thanh kẹo Cadbury Oreo",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mondelez-mdlz-tackles-cocoa-costs-020655695.html",
+      "source": "Yahoo Finance",
+      "category": "soft",
+      "published": "2026-08-01 09:06"
     },
     {
       "id": "1owsjcv",
@@ -35,6 +46,17 @@
       "published": "2026-08-01 05:00"
     },
     {
+      "id": "nkneix",
+      "title": "International report - Fears of wheat price surge amid Ukraine-Russia clashes in the Black Sea",
+      "title_vi": "Báo cáo quốc tế - Lo ngại giá lúa mì tăng vọt trong bối cảnh đụng độ Ukraine-Nga ở Biển Đen",
+      "summary_vi": "Các cuộc đụng độ ngày càng gia tăng giữa Ukraine và Nga ở Biển Đen đang đe dọa tuyến đường thương mại quan trọng cung cấp gần 1/3 nguồn cung lúa mì cho thế giới, làm dấy lên lo ngại về giá cả tăng vọt và…",
+      "image": "https://s.rfi.fr/media/display/afa92442-844b-11f1-9ca2-005056a97e36/w:1280/p:16x9/AP26200564414743.jpg",
+      "link": "https://www.rfi.fr/en/podcasts/international-report/20260731-fears-of-wheat-price-surge-amid-ukraine-russia-clashes-in-the-black-sea",
+      "source": "RFI",
+      "category": "agri",
+      "published": "2026-08-01 04:20"
+    },
+    {
       "id": "1hunj84",
       "title": "Gas prices climb as oil companies report soaring profits",
       "title_vi": "Giá xăng tăng khi các công ty dầu báo cáo lợi nhuận tăng vọt",
@@ -55,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-01 03:00"
+    },
+    {
+      "id": "js5yiw",
+      "title": "Crops Analysis | Wheat sees sharp losses to end the week",
+      "title_vi": "Phân tích cây trồng | Lúa mì giảm mạnh vào cuối tuần",
+      "summary_vi": "Ngày 31 tháng 7 năm 2026",
+      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
+      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-wheat-sees-sharp-losses-end-week",
+      "source": "profarmer.com",
+      "category": "agri",
+      "published": "2026-08-01 02:36"
     },
     {
       "id": "wvuzz1",
@@ -343,6 +376,17 @@
       "published": "2026-07-31 02:12"
     },
     {
+      "id": "2t0m9o",
+      "title": "Desperate for Fuel, Russia Looks to Kazakhstan for Refining Capacity",
+      "title_vi": "Tuyệt vọng về nhiên liệu, Nga tìm đến Kazakhstan để tăng công suất lọc dầu",
+      "summary_vi": "Nga đang thiếu công suất lọc dầu nguyên vẹn và đang tìm kiếm sự giúp đỡ từ Kazakhstan.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-30_jgvl6cbdft.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Desperate-for-Fuel-Russia-Looks-to-Kazakhstan-for-Refining-Capacity.html",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "energy",
+      "published": "2026-07-31 00:30"
+    },
+    {
       "id": "de8u9l",
       "title": "Gas prices stabilize, still over $4",
       "title_vi": "Giá xăng ổn định, vẫn trên 4 USD",
@@ -506,50 +550,6 @@
       "source": "Yahoo Finance",
       "category": "soft",
       "published": "2026-07-30 20:30"
-    },
-    {
-      "id": "1xm19js",
-      "title": "Gold rises on weaker US dollar, soft inflation data",
-      "title_vi": "Vàng tăng do đồng đô la Mỹ yếu hơn, dữ liệu lạm phát yếu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-edges-higher-markets-weigh-warshs-inflation-message-after-fed-decision-2026-07-30/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-07-30 19:54"
-    },
-    {
-      "id": "1ki569",
-      "title": "Pinup Coffee Takes Off with Standalone Cafe in Virginia Beach",
-      "title_vi": "Cà phê Pinup cất cánh với quán cà phê độc lập ở bãi biển Virginia",
-      "summary_vi": "Virginia Beach, công ty rang cà phê Pinup Coffee Co. có trụ sở tại Virginia gần đây đã thực hiện dự án lớn nhất cho đến nay với việc khai trương quán cà phê độc lập đầu tiên, bao gồm cả nhà bếp đầy đủ tiện nghi.  Với khoảng 2.500...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/07/30/pinup-coffee-takes-off-with-standalone-cafe-in-virginia-beach/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-07-30 19:12"
-    },
-    {
-      "id": "1hxxhfi",
-      "title": "Coffee Doesn&#8217;t Taste Like Caffeine, Thank Goodness (and Roasting)",
-      "title_vi": "Cà phê không có vị như Caffeine, Cảm ơn Chúa (và khi rang)",
-      "summary_vi": "Caffeine là một hợp chất có vị đắng mạnh và đồ uống cà phê có thể chứa caffeine ở nồng độ vượt xa ngưỡng cảm nhận vị đắng của con người. Một nghiên cứu mới của các nhà nghiên cứu ở Đức giải thích...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/07/30/coffee-doesnt-taste-like-caffeine-thank-goodness-and-roasting/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-07-30 19:10"
-    },
-    {
-      "id": "1b10q42",
-      "title": "Natural Gas and Oil Forecast: Can WTI Break $84.75 as Brent Recovery Builds?",
-      "title_vi": "Dự báo về khí đốt tự nhiên và dầu: WTI có thể phá vỡ mức 84,75 USD khi mức phục hồi của Brent tăng lên không?",
-      "summary_vi": "WTI và Brent kéo dài thời gian phục hồi khi tình trạng gián đoạn nguồn cung toàn cầu vẫn tiếp diễn, trong khi khí đốt tự nhiên phải đối mặt với lực cản chính mặc dù đà tăng đã được cải thiện.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/Main-Images-2.png?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-can-wti-break-84-75-as-brent-recovery-builds-1613738",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-07-30 17:02"
     }
   ]
 }

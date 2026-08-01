@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01 08:19",
+  "updated_at": "2026-08-01 09:01",
   "items": [
     {
       "id": "1owsjcv",
@@ -24,13 +24,13 @@
       "published": "2026-08-01 05:00"
     },
     {
-      "id": "w3xoxh",
-      "title": "Gas prices climb as oil companies report soaring profits - WBAL-TV",
-      "title_vi": "Giá xăng tăng khi các công ty dầu mỏ báo lợi nhuận tăng vọt - WBAL-TV",
+      "id": "1hunj84",
+      "title": "Gas prices climb as oil companies report soaring profits",
+      "title_vi": "Giá xăng tăng khi các công ty dầu báo cáo lợi nhuận tăng vọt",
       "summary_vi": "Người Mỹ đang trả nhiều tiền hơn cho khí đốt khi Chevron và ExxonMobil báo cáo lợi nhuận tăng đáng kể do sự gián đoạn nguồn cung dầu toàn cầu.",
       "image": "https://kubrick.htvapps.com/vidthumb/ebf5dc08-1c53-43ce-a863-0a4c745e8a9f/1fff1314-2184-49e4-8fd1-4fcfceef5ee6.jpg?crop=1xw%3A0.8433382137628112xh%3Bcenter%2Ctop&resize=1200%3A*",
-      "link": "https://www.wbaltv.com/article/gas-prices-oil-companies-soaring-profits/73320141",
-      "source": "WBAL-TV",
+      "link": "https://www.kcra.com/article/gas-prices-oil-companies-soaring-profits/73320141",
+      "source": "kcra.com",
       "category": "energy",
       "published": "2026-08-01 03:53"
     },
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-01 03:00"
+    },
+    {
+      "id": "ds2hb1",
+      "title": "Why gasoline prices don’t always move in lockstep with crude oil prices",
+      "title_vi": "Tại sao giá xăng không phải lúc nào cũng biến động theo giá dầu thô",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://wtop.com/sponsored-content/2026/07/why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
+      "source": "wtop.com",
+      "category": "energy",
+      "published": "2026-08-01 02:18"
     },
     {
       "id": "1j10soe",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-07-30 06:04"
-    },
-    {
-      "id": "15dpvui",
-      "title": "Starbucks reports strong quarterly sales and raises annual outlook - ABC News",
-      "title_vi": "Starbucks báo cáo doanh thu hàng quý mạnh mẽ và nâng cao triển vọng hàng năm - ABC News",
-      "summary_vi": "Cổ phiếu Starbucks tăng vọt sau khi gã khổng lồ cà phê báo cáo doanh thu và lợi nhuận hàng quý tốt hơn mong đợi",
-      "image": "https://i.abcnewsfe.com/a/6c1aad59-7caf-452d-a4e3-44ed1d3f6c97/wirestory_f1bbcee3ab22b4da67b64c0adeb4adb1_16x9.jpg?w=1600",
-      "link": "https://abcnews.com/Business/wireStory/starbucks-reports-strong-quarterly-sales-raises-annual-outlook-135207618",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "soft",
-      "published": "2026-07-30 05:06"
     }
   ]
 }

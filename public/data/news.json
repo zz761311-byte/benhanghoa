@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01 12:01",
+  "updated_at": "2026-08-01 13:01",
   "items": [
     {
       "id": "1owsjcv",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-01 03:00"
+    },
+    {
+      "id": "wvuzz1",
+      "title": "Platinum surges toward $3,000 as a four-year supply deficit resets the metal's price floor",
+      "title_vi": "Bạch kim tăng lên 3.000 USD khi nguồn cung thiếu hụt trong 4 năm đặt lại mức giá sàn của kim loại",
+      "summary_vi": "Bạch kim đạt 1.665,60 USD/oz vào ngày 30 tháng 7 khi nguồn cung thâm hụt lần thứ tư liên tiếp và mục tiêu 3.000 USD trong quý 4 năm 2026 của Bank of America đã đặt lại kỳ vọng của thị trường về",
+      "image": "https://startupfortune.com/wp-content/uploads/2026/07/sf-17543-1785526171790.jpg",
+      "link": "https://startupfortune.com/platinum-surges-toward-3000-as-a-four-year-supply-deficit-resets-the-metals-price-floor/",
+      "source": "startupfortune.com",
+      "category": "metal",
+      "published": "2026-08-01 02:29"
     },
     {
       "id": "ds2hb1",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-07-30 08:25"
-    },
-    {
-      "id": "1xmztgd",
-      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
-      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
-      "summary_vi": "Goldman Sachs đã hạ dự báo giá dầu thô Brent trong quý 4 xuống còn 80 USD từ mức 90 USD và giảm ước tính trung bình năm 2027 từ 80 USD xuống còn 75 USD, sau khi Mỹ và Iran ký thỏa thuận sơ bộ để mở lại eo biển Hormuz. Các nhà phân tích tại ngân hàng đầu tư cho biết trong một báo cáo nghiên cứu…",
-      "image": "https://energynow.com/wp-content/uploads/Goldman-Sachs-June-2026-1200x810-1.jpg",
-      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-07-30 06:04"
     }
   ]
 }

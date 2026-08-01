@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02 00:00",
+  "updated_at": "2026-08-02 00:46",
   "items": [
     {
       "id": "18ge0cu",
@@ -77,6 +77,17 @@
       "source": "kcra.com",
       "category": "energy",
       "published": "2026-08-01 03:53"
+    },
+    {
+      "id": "1hoxr5k",
+      "title": "Oil companies report sky-high profits thanks to wartime crude prices",
+      "title_vi": "Các hãng dầu báo lãi cao ngất trời nhờ giá dầu thời chiến",
+      "summary_vi": "Chevron báo cáo thu nhập hàng quý cao nhất từ ​​trước đến nay. Shell có quý lớn thứ hai và ExxonMobil đã tăng gấp đôi thu nhập so với cùng kỳ năm ngoái.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4b%2Fd5%2F6ea402bc4858b540b5075c4b8cdd%2Fgettyimages-2287468883.jpg",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026",
+      "source": "NPR",
+      "category": "energy",
+      "published": "2026-08-01 03:28"
     },
     {
       "id": "1m06fx0",
@@ -539,17 +550,6 @@
       "source": "Forbes",
       "category": "metal",
       "published": "2026-07-30 21:00"
-    },
-    {
-      "id": "1su28p6",
-      "title": "Fairtrade Strengthens Safety Net for Coffee Farmers",
-      "title_vi": "Fairtrade tăng cường mạng lưới an toàn cho nông dân trồng cà phê",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/fairtrade-strengthens-safety-net-coffee-133000036.html",
-      "source": "Yahoo Finance",
-      "category": "soft",
-      "published": "2026-07-30 20:30"
     }
   ]
 }

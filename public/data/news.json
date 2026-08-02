@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02 19:43",
+  "updated_at": "2026-08-02 20:00",
   "items": [
     {
       "id": "ouhwlq",
@@ -376,6 +376,17 @@
       "published": "2026-07-31 14:28"
     },
     {
+      "id": "my7osy",
+      "title": "Farm Futures morning grain market analysis",
+      "title_vi": "Phân tích thị trường ngũ cốc buổi sáng của Farm Futures",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-07-31 14:00"
+    },
+    {
       "id": "1p9p8ms",
       "title": "How US Senate Russia sanctions could spell 100% tariffs for India, China",
       "title_vi": "Các biện pháp trừng phạt Nga của Thượng viện Hoa Kỳ có thể gây ra mức thuế 100% đối với Ấn Độ, Trung Quốc như thế nào",
@@ -539,17 +550,6 @@
       "source": "AAA Gas Prices",
       "category": "energy",
       "published": "2026-07-30 22:29"
-    },
-    {
-      "id": "twr1hm",
-      "title": "Ukraine’s drone campaign is dismantling Russia’s military supply network in the occupied south",
-      "title_vi": "Chiến dịch máy bay không người lái của Ukraine đang phá hủy mạng lưới cung cấp quân sự của Nga ở miền nam bị chiếm đóng",
-      "summary_vi": "Ukraine đã thực hiện một cuộc tấn công thành công vào cơ sở hậu cần quân sự của Nga trong ba giai đoạn leo thang bằng cách đáp trả những điều chỉnh của Nga và sử dụng máy bay không người lái giá rẻ.",
-      "image": "https://acleddata.com/sites/default/files/styles/og_image/public/2026-07/GettyImages-2282447942.jpg?itok=k8sMl1N_",
-      "link": "https://acleddata.com/report/ukraines-drone-campaign-dismantling-russias-military-supply-network-occupied-south",
-      "source": "ACLED",
-      "category": "energy",
-      "published": "2026-07-30 22:21"
     }
   ]
 }

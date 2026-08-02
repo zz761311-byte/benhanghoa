@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02 15:00",
+  "updated_at": "2026-08-02 16:00",
   "items": [
     {
       "id": "ouhwlq",
@@ -88,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-01 22:00"
+    },
+    {
+      "id": "yun9r3",
+      "title": "Should Freeport-McMoRan’s (FCX) Strong Q2 and Higher Copper-Gold Sales Outlook Require Investor Action?",
+      "title_vi": "Triển vọng doanh số bán vàng đồng và đồng cao hơn trong quý 2 của Freeport-McMoRan (FCX) có nên yêu cầu nhà đầu tư hành động không?",
+      "summary_vi": "Vào tháng 7 năm 2026, Freeport-McMoRan đã báo cáo kết quả quý hai cho thấy doanh thu là 7.029 triệu USD và thu nhập ròng là 984 triệu USD, cùng với dự báo về doanh số bán đồng và vàng cao hơn đáng kể trong nửa cuối năm 2026 và sang năm 2027. Sự kết hợp giữa thu nhập trên mỗi cổ phiếu cao hơn so với một năm trước và ban lãnh đạo",
+      "image": "https://images.simplywall.st/asset/company-cover/273607-main-header/1756254820574",
+      "link": "https://simplywall.st/stocks/us/materials/nyse-fcx/freeport-mcmoran/news/should-freeport-mcmorans-fcx-strong-q2-and-higher-copper-gol",
+      "source": "simplywall.st",
+      "category": "metal",
+      "published": "2026-08-01 18:16"
     },
     {
       "id": "1g2nnfl",
@@ -539,17 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-07-30 22:03"
-    },
-    {
-      "id": "1gy1698",
-      "title": "Wheat price jump attracting acres",
-      "title_vi": "Giá lúa mì tăng vọt thu hút nhiều diện tích",
-      "summary_vi": "Sự tăng vọt của thị trường lúa mì đang thu hút sự chú ý của các nhà sản xuất. \"Giá đã tăng vọt trong tuần trước. Chúng tôi định trồng 90 mẫu vào mùa thu này, nhưng giờ chúng tôi đã lên tới 300 mẫu.\" Nông dân miền Trung Illinois, Lance Muirhead, người đã đưa lúa mì vào luân canh ngô và đậu tương của mình khoảng 5 năm trước, […]",
-      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2026/06/Winterwheat_midJune_MO2_2026-e1781550314848.jpg",
-      "link": "https://www.brownfieldagnews.com/news/wheat-price-jump-attracting-acres/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-07-30 22:02"
     }
   ]
 }

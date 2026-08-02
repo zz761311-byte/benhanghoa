@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-02 14:00",
+  "updated_at": "2026-08-02 15:00",
   "items": [
+    {
+      "id": "ouhwlq",
+      "title": "Ukraine war briefing: Strikes on three Russian oil refineries and sanctioned ship",
+      "title_vi": "Tóm tắt chiến tranh Ukraine: Tấn công ba nhà máy lọc dầu của Nga và tàu bị trừng phạt",
+      "summary_vi": "Cắt điện nhà máy điện hạt nhân Zaporizhzhia; xếp hàng nhận bữa ăn ở Crimea, nơi các cuộc đình công của Ukraine đã cắt giảm nguồn cung cấp nhiên liệu và năng lượng. Những gì chúng ta biết vào ngày 1.621",
+      "image": "https://i.guim.co.uk/img/media/e99a717c09e2554b11ee3c7a42c93c285a64e6d2/0_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=962688f67c3635d0598f001df61c332c",
+      "link": "https://www.theguardian.com/world/2026/aug/02/ukraine-war-briefing-strikes-on-three-russian-oil-refineries-and-sanctioned-ship",
+      "source": "The Guardian",
+      "category": "energy",
+      "published": "2026-08-02 08:55"
+    },
     {
       "id": "7fu81u",
       "title": "Record Vaca Muerta Output Fails to Lift Argentina’s Wider Economy",
@@ -539,17 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-07-30 22:02"
-    },
-    {
-      "id": "15kpekq",
-      "title": "Fairtrade International updates minimum prices for coffee",
-      "title_vi": "Fairtrade International cập nhật giá tối thiểu cho cà phê",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/fairtrade-international-updates-minimum-prices-142656567.html",
-      "source": "Yahoo Finance",
-      "category": "soft",
-      "published": "2026-07-30 21:26"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-02 21:18",
+  "updated_at": "2026-08-02 22:00",
   "items": [
+    {
+      "id": "jzg156",
+      "title": "China Doubles Down on Clean Energy Even as Coal Keeps Growing",
+      "title_vi": "Trung Quốc tăng gấp đôi năng lượng sạch ngay cả khi than tiếp tục phát triển",
+      "summary_vi": "Trung Quốc đã công bố kế hoạch tăng gấp đôi các mục tiêu năng lượng tái tạo vốn đầy tham vọng của mình bằng cách mở rộng ồ ạt công suất năng lượng mặt trời và gió vào cuối thập kỷ này. Trung Quốc đã nhanh chóng phát triển danh mục năng lượng tái tạo trong nhiều thập kỷ để trở thành nước dẫn đầu thế giới về",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-31_pzfhon726l.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Doubles-Down-on-Clean-Energy-Even-as-Coal-Keeps-Growing.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-02 22:00"
+    },
     {
       "id": "ouhwlq",
       "title": "Ukraine war briefing: Strikes on three Russian oil refineries and sanctioned ship",
@@ -176,17 +187,6 @@
       "source": "NPR",
       "category": "energy",
       "published": "2026-08-01 03:28"
-    },
-    {
-      "id": "1m06fx0",
-      "title": "Abqaiq Is a Warning That Oil Markets May Be Misreading",
-      "title_vi": "Abqaiq là một cảnh báo rằng thị trường dầu mỏ có thể đang hiểu sai",
-      "summary_vi": "Trong khi bụi đang lắng xuống và sự thật lộ ra, rõ ràng là cuộc tấn công mới nhất vào khu phức hợp chế biến dầu Abqaiq của Saudi Aramco đang nhanh chóng trở thành một trong những sự phát triển năng lượng có hậu quả lớn nhất vào năm 2026. Sự kiện này không nên được đánh giá trên cơ sở rằng nó đã xảy ra ngay lập tức.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-31_6pz08yj5fs.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Abqaiq-Is-a-Warning-That-Oil-Markets-May-Be-Misreading.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-01 03:00"
     },
     {
       "id": "js5yiw",
@@ -387,6 +387,17 @@
       "published": "2026-07-31 14:28"
     },
     {
+      "id": "x8j0v3",
+      "title": "Iran war impact on global oil markets",
+      "title_vi": "Chiến tranh Iran tác động đến thị trường dầu mỏ toàn cầu",
+      "summary_vi": "Chiến tranh Iran đang định hình lại thị trường dầu mỏ toàn cầu, làm gián đoạn chuỗi cung ứng và làm tăng rủi ro địa chính trị trên các hệ thống năng lượng. Trang này cung cấp phân tích liên tục về cách ...",
+      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/03/69aae05a999f030bc5e82a13-69a8b23ec8ca96ecffe5dc85ogj_offshore.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "link": "https://www.ogj.com/IranWar",
+      "source": "Oil & Gas Journal",
+      "category": "energy",
+      "published": "2026-07-31 14:00"
+    },
+    {
       "id": "my7osy",
       "title": "Farm Futures morning grain market analysis",
       "title_vi": "Phân tích thị trường ngũ cốc buổi sáng của Farm Futures",
@@ -539,17 +550,6 @@
       "source": "mining.com",
       "category": "metal",
       "published": "2026-07-30 22:51"
-    },
-    {
-      "id": "k41xzv",
-      "title": "Wheat Soars, Pulling up Corn and Soybeans: Outside Markets See Fed Fallout",
-      "title_vi": "Lúa mì tăng vọt, ngô và đậu nành tăng: Thị trường bên ngoài chứng kiến ​​sự sụp đổ của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/wheat-soars-pulling-corn-and-soybeans-outside-markets-see-fed-fallout",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-07-30 22:33"
     }
   ]
 }

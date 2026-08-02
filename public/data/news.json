@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-03 01:44",
+  "updated_at": "2026-08-03 02:00",
   "items": [
+    {
+      "id": "1ufwsiy",
+      "title": "China&#039;s Car Market Stalls Even as Global Demand Keeps Growing",
+      "title_vi": "Thị trường ô tô Trung Quốc đình trệ ngay cả khi nhu cầu toàn cầu tiếp tục tăng",
+      "summary_vi": "Doanh số bán ô tô nội địa của Trung Quốc đã giảm đáng kể trong năm nay; tuy nhiên, doanh số bán ô tô Trung Quốc đã tăng đáng kể ở một số thị trường quốc tế, chẳng hạn như Mexico, chứng tỏ nhu cầu toàn cầu ngày càng tăng đối với xe do Trung Quốc sản xuất. Sự tăng trưởng nhu cầu này được thúc đẩy bởi việc ra mắt",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-31_u16bds8h9k.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Car-Market-Stalls-Even-as-Global-Demand-Keeps-Growing.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-03 02:00"
+    },
     {
       "id": "jzg156",
       "title": "China Doubles Down on Clean Energy Even as Coal Keeps Growing",
@@ -112,6 +123,17 @@
       "published": "2026-08-01 18:16"
     },
     {
+      "id": "1h047k4",
+      "title": "Cotton Prices Rally as Texas Growing Conditions Turn Mixed",
+      "title_vi": "Giá bông tăng khi điều kiện trồng trọt ở Texas trở nên hỗn tạp",
+      "summary_vi": "Các chuyên gia của Cơ quan Khuyến nông A&M AgriLife Texas cho biết giá bông đã tăng, nhưng điều kiện trồng trọt vẫn không đồng đều trên khắp các vùng sản xuất chính của bang.",
+      "image": "https://df75hwhlfejca.cloudfront.net/cottongrower/wp-content/uploads/2026/07/Cotton-Closeup.jpg",
+      "link": "https://www.cottongrower.com/cotton-production/cotton-prices-rally-as-texas-growing-conditions-turn-mixed/",
+      "source": "Cotton Grower",
+      "category": "soft",
+      "published": "2026-08-01 17:33"
+    },
+    {
       "id": "1g2nnfl",
       "title": "Mondelez (MDLZ) Tackles Cocoa Costs While Recalling Cadbury Oreo Candy Bar",
       "title_vi": "Mondelez (MDLZ) giải quyết vấn đề chi phí ca cao khi thu hồi thanh kẹo Cadbury Oreo",
@@ -132,17 +154,6 @@
       "source": "EnergyNow.com",
       "category": "metal",
       "published": "2026-08-01 05:08"
-    },
-    {
-      "id": "1nkmp32",
-      "title": "VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes",
-      "title_vi": "Tiền VC tràn vào các công ty khởi nghiệp hạt nhân của Hoa Kỳ khi nhu cầu năng lượng AI bùng nổ",
-      "summary_vi": "Các nhà đầu tư mạo hiểm đang quan tâm nhiều đến các công ty khởi nghiệp về năng lượng hạt nhân. Nguồn tài trợ đang tăng lên cho cả các công ty phản ứng tổng hợp và phân hạch hạt nhân khi công nghệ này ngày càng trở thành một phần thiết yếu của con đường khả thi hướng tới an ninh năng lượng bền vững trước sự nhân tạo",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-31_7oxor3vrz1.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/VC-Money-Floods-Into-US-Nuclear-Startups-as-AI-Power-Demand-Explodes.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-01 05:00"
     },
     {
       "id": "s1wotp",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "soft",
       "published": "2026-07-30 22:55"
-    },
-    {
-      "id": "1l0d7s3",
-      "title": "Copper price jumps on tightening supply, mining stocks rally",
-      "title_vi": "Giá đồng tăng do nguồn cung thắt chặt, cổ phiếu khai thác tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.mining.com/copper-price-jumps-on-tightening-supply-mining-stocks-rally/",
-      "source": "mining.com",
-      "category": "metal",
-      "published": "2026-07-30 22:51"
     }
   ]
 }

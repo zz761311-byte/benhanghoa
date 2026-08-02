@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02 17:53",
+  "updated_at": "2026-08-02 18:00",
   "items": [
     {
       "id": "ouhwlq",
@@ -253,6 +253,17 @@
       "source": "Silver Bulletin",
       "category": "metal",
       "published": "2026-07-31 20:56"
+    },
+    {
+      "id": "eb5mtb",
+      "title": "Who’s ahead on the generic congressional ballot?",
+      "title_vi": "Ai dẫn trước trong cuộc bỏ phiếu chung của quốc hội?",
+      "summary_vi": "Công cụ theo dõi các cuộc thăm dò được cập nhật liên tục của chúng tôi về chỉ số quan trọng nhất trong cuộc đua vào Quốc hội.",
+      "image": "https://substackcdn.com/image/fetch/$s_!DHD9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b7584a6-a95a-4054-90c6-ca160d014d37_1200x831.jpeg",
+      "link": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls",
+      "source": "Silver Bulletin",
+      "category": "metal",
+      "published": "2026-07-31 20:55"
     },
     {
       "id": "1weumhe",
@@ -539,17 +550,6 @@
       "source": "ACLED",
       "category": "energy",
       "published": "2026-07-30 22:21"
-    },
-    {
-      "id": "10w4u6",
-      "title": "How chocolate makers are defending themselves against cocoa price swings",
-      "title_vi": "Các nhà sản xuất sô cô la đang tự bảo vệ mình trước sự biến động của giá ca cao",
-      "summary_vi": "Bất chấp sự sụt giảm giá gần đây, Mondelēz International và Hershey đang xem xét lại chuỗi cung ứng của họ và dựa vào sự đổi mới để giảm sự phụ thuộc vào hàng hóa này.",
-      "image": "https://imgproxy.divecdn.com/DeWqQmxdzLxgKLINZk2S5bL_0FpdzSkFMB75Necf0AM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MTI4MjAyMi5qcGc=.webp",
-      "link": "https://www.fooddive.com/news/chocolate-cocoa-prices-mondelez-hershey/826592/",
-      "source": "Food Dive",
-      "category": "soft",
-      "published": "2026-07-30 22:13"
     }
   ]
 }

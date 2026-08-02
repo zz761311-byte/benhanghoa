@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02 12:00",
+  "updated_at": "2026-08-02 13:00",
   "items": [
     {
       "id": "7fu81u",
@@ -209,6 +209,17 @@
       "source": "PBS",
       "category": "energy",
       "published": "2026-07-31 23:26"
+    },
+    {
+      "id": "5vd8ks",
+      "title": "Silver Price For Today, 31 July 2026",
+      "title_vi": "Giá Bạc hôm nay, ngày 31 tháng 7 năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
+      "source": "Forbes",
+      "category": "metal",
+      "published": "2026-07-31 21:06"
     },
     {
       "id": "1weumhe",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "soft",
       "published": "2026-07-30 21:26"
-    },
-    {
-      "id": "1we3h4b",
-      "title": "Putin The Puppeteer: How Russia Benefits From Trump’s War in Iran",
-      "title_vi": "Người múa rối Putin: Nga được hưởng lợi như thế nào từ cuộc chiến của Trump ở Iran",
-      "summary_vi": "Chiến tranh ở Iran \"đã cung cấp huyết mạch chính xác mà Putin cần để giải cứu ông ta khỏi thảm họa kinh tế.\"",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt81e23088012fdd9f/6a6b5cc50cddc6c1a78b834a/Russia-President-Vladimir-Putin.jpg?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
-      "link": "https://time.com/article/2026/07/30/putin-the-puppeteer-how-russia-benefits-from-trump-s-war-in-iran/",
-      "source": "Time Magazine",
-      "category": "macro",
-      "published": "2026-07-30 21:22"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02 21:00",
+  "updated_at": "2026-08-02 21:18",
   "items": [
     {
       "id": "ouhwlq",
@@ -132,6 +132,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-01 05:00"
+    },
+    {
+      "id": "s1wotp",
+      "title": "Palladium (PAW00) Future Contract Prices & News - Google Finance",
+      "title_vi": "Tin tức và giá hợp đồng tương lai Palladium (PAW00) - Google Finance",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.google.com/finance/quote/PAW00:NYMEX",
+      "source": "Google",
+      "category": "metal",
+      "published": "2026-08-01 04:51"
     },
     {
       "id": "nkneix",
@@ -539,17 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-07-30 22:33"
-    },
-    {
-      "id": "v2mk4n",
-      "title": "Little Change to National Average, Pump Prices Remain High",
-      "title_vi": "Mức trung bình quốc gia ít thay đổi, giá máy bơm vẫn ở mức cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://gasprices.aaa.com/little-change-to-national-average-pump-prices-remain-high/",
-      "source": "AAA Gas Prices",
-      "category": "energy",
-      "published": "2026-07-30 22:29"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02 10:00",
+  "updated_at": "2026-08-02 10:58",
   "items": [
     {
       "id": "7fu81u",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-08-02 06:00"
+    },
+    {
+      "id": "zvdnft",
+      "title": "AI’s Electricity Demand Is Not the Real Problem. Its Inflexibility Is",
+      "title_vi": "Nhu cầu điện của AI không phải là vấn đề thực sự Tính không linh hoạt của nó là",
+      "summary_vi": "Nhu cầu điện do trí tuệ nhân tạo tạo ra thường được trình bày dưới dạng bài toán cung cấp đơn giản. AI đòi hỏi các trung tâm dữ liệu ngày càng lớn, những cơ sở đó tiêu thụ lượng điện khổng lồ và các tiện ích bằng cách nào đó phải xây dựng đủ nhà máy điện để phục vụ chúng. Th",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-01_qb2c8hb0ow.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/AIs-Electricity-Demand-Is-Not-the-Real-Problem-Its-Inflexibility-Is.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-02 04:00"
     },
     {
       "id": "90qujs",
@@ -165,17 +176,6 @@
       "source": "wtop.com",
       "category": "energy",
       "published": "2026-08-01 02:18"
-    },
-    {
-      "id": "1j10soe",
-      "title": "Why Trump’s Trade Threat Puts Spain’s Energy Security on the Line",
-      "title_vi": "Tại sao mối đe dọa thương mại của Trump lại đặt an ninh năng lượng của Tây Ban Nha vào tình thế nguy hiểm",
-      "summary_vi": "Lệnh ngừng thương mại với Tây Ban Nha vào ngày 8 tháng 7 của Donald Trump vẫn chưa trở thành lệnh cấm vận năng lượng, nhưng Madrid không còn có thể coi đó là một vở kịch chính trị. Đây là mối đe dọa thứ hai như vậy kể từ tháng 3 năm 2026, lần này được chuyển trực tiếp tới Bộ trưởng Tài chính Scott Bessent sau khi Tây Ban Nha từ chối.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-31_bzx96pjbrz.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Trumps-Trade-Threat-Puts-Spains-Energy-Security-on-the-Line.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-01 02:00"
     },
     {
       "id": "167zckg",

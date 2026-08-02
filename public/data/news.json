@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02 11:00",
+  "updated_at": "2026-08-02 12:00",
   "items": [
     {
       "id": "7fu81u",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-02 00:00"
+    },
+    {
+      "id": "6ol7ji",
+      "title": "The world's second-largest cocoa producer warns output could fall 16%, raising fears of higher chocolate prices",
+      "title_vi": "Nhà sản xuất ca cao lớn thứ hai thế giới cảnh báo sản lượng có thể giảm 16%, làm dấy lên lo ngại giá sôcôla cao hơn",
+      "summary_vi": "Ghana, nước sản xuất ca cao lớn thứ hai thế giới, dự kiến ​​sản lượng ca cao của nước này sẽ giảm ít nhất 16% trong niên vụ 2026/2027, làm dấy lên lo ngại về nguồn cung ca cao toàn cầu và khả năng giá sô cô la tăng cao.",
+      "image": "https://ocdn.eu/pulscms-transforms/1/MxrktkpTURBXy80ZDM3YjIzYTAwYmJjMmVjNzcyMmZhZGM3MGE1YWViYi5qcGeSlQMAAM0EsM0Co5MFzQSwzQJ2",
+      "link": "https://africa.businessinsider.com/local/markets/the-worlds-second-largest-cocoa-producer-warns-output-could-fall-16-raising-fears-of/x220h05",
+      "source": "Business Insider Africa",
+      "category": "soft",
+      "published": "2026-08-01 22:00"
     },
     {
       "id": "pnjzw1",
@@ -220,6 +231,17 @@
       "source": "theoutlookonline.com",
       "category": "soft",
       "published": "2026-07-31 19:14"
+    },
+    {
+      "id": "pcao38",
+      "title": "Functional Sugar Market Size, Share | Growth Forecast [2034]",
+      "title_vi": "Quy mô thị trường đường chức năng, thị phần | Dự báo tăng trưởng [2034]",
+      "summary_vi": "Quy mô thị trường đường chức năng toàn cầu được dự đoán sẽ tăng từ 1.557,76 triệu USD vào năm 2026 lên 2.677,20 triệu USD vào năm 2034, đạt tốc độ CAGR là 7,00%.",
+      "image": "https://www.fortunebusinessinsights.com/accets/frontend/img/twitter-logo.png",
+      "link": "https://www.fortunebusinessinsights.com/functional-sugar-market-118601",
+      "source": "Fortune Business Insights",
+      "category": "soft",
+      "published": "2026-07-31 19:07"
     },
     {
       "id": "1qqrw06",
@@ -528,28 +550,6 @@
       "source": "Time Magazine",
       "category": "macro",
       "published": "2026-07-30 21:22"
-    },
-    {
-      "id": "1kiq1al",
-      "title": "Grains juggling weather, wheat rally and China demand",
-      "title_vi": "Ngũ cốc thay đổi thời tiết, lúa mì tăng và nhu cầu của Trung Quốc",
-      "summary_vi": "Một nhà môi giới hàng hóa cho biết anh ấy đang theo dõi chặt chẽ một số yếu tố thị trường ngũ cốc sắp bước vào tháng 8. Tommy Grisafi của Ag Bull Trading cho biết điều kiện thời tiết thay đổi đã ảnh hưởng đến giá ngũ cốc. Ông nói: “Nhiệt độ rộng, nhiệt độ nóng. “Một số nơi mưa quá nhiều nhưng có nơi chúng tôi lại không đủ mưa”.",
-      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2026/07/Tommy-Grisafi.jpg",
-      "link": "https://www.brownfieldagnews.com/news/grains-juggling-weather-wheat-rally-and-china-demand/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-07-30 21:20"
-    },
-    {
-      "id": "5vd8ks",
-      "title": "Silver Price For Today, 30 July 2026",
-      "title_vi": "Giá Bạc hôm nay, ngày 30 tháng 7 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
-      "source": "Forbes",
-      "category": "metal",
-      "published": "2026-07-30 21:00"
     }
   ]
 }

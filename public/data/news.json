@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02 17:00",
+  "updated_at": "2026-08-02 17:53",
   "items": [
     {
       "id": "ouhwlq",
@@ -242,6 +242,17 @@
       "source": "Forbes",
       "category": "metal",
       "published": "2026-07-31 21:06"
+    },
+    {
+      "id": "vkt8yl",
+      "title": "How popular is Donald Trump?",
+      "title_vi": "Donald Trump được yêu thích đến mức nào?",
+      "summary_vi": "Xếp hạng phê duyệt của Silver Bulletin dành cho Tổng thống Trump - và tất cả các tổng thống kể từ Truman.",
+      "image": "https://substackcdn.com/image/fetch/$s_!Xfx5!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47c9842-cfbc-4300-8bea-3c73291e02c3_1200x634.jpeg",
+      "link": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
+      "source": "Silver Bulletin",
+      "category": "metal",
+      "published": "2026-07-31 20:56"
     },
     {
       "id": "1weumhe",
@@ -539,17 +550,6 @@
       "source": "Food Dive",
       "category": "soft",
       "published": "2026-07-30 22:13"
-    },
-    {
-      "id": "1k3dial",
-      "title": "Move on 2026 and 2027 grain prices before Aug. 12 USDA report",
-      "title_vi": "Diễn biến giá ngũ cốc năm 2026 và 2027 trước báo cáo ngày 12 tháng 8 của USDA",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/move-on-2026-and-2027-grain-prices-before-aug-12-usda-report",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-07-30 22:03"
     }
   ]
 }

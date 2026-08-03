@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-04 01:29",
+  "updated_at": "2026-08-04 02:00",
   "items": [
+    {
+      "id": "1snbouk",
+      "title": "Big Oil Companies Report Record Profits Amid High Oil Prices",
+      "title_vi": "Các công ty dầu mỏ lớn báo cáo lợi nhuận kỷ lục trong bối cảnh giá dầu cao",
+      "summary_vi": "Chúng ta vẫn đang ở giai đoạn đầu của mùa thu nhập, với khoảng một phần ba số công ty thuộc S&P 500 đã gửi lại bảng điểm quý hai của họ. Và sắp tới đây lại là một mùa thu nhập bội thu nữa: theo dữ liệu của FactSet, 86% trong số các công ty đó đã vượt qua Wall.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-03_eciihacfyb.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Companies-Report-Record-Profits-Amid-High-Oil-Prices.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-04 02:00"
+    },
     {
       "id": "vfevbv",
       "title": "Ukrainian Drone Attacks Push Russia&#039;s Largest Online Retailer Abroad",
@@ -99,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-03 22:00"
-    },
-    {
-      "id": "xoc1lo",
-      "title": "Dark Tanker Transits Surge at Bab el-Mandeb as Houthi Threat Persists",
-      "title_vi": "Tàu chở dầu đen tăng vọt tại Bab el-Mandeb khi mối đe dọa của Houthi vẫn tồn tại",
-      "summary_vi": "Mối đe dọa của Houthi đối với các chuyến hàng dầu thô của Saudi từ Biển Đỏ vẫn chưa giảm bớt và nhiều tàu chở đầy dầu của Saudi dường như đã thực hiện quá trình vận chuyển qua điểm nghẽn Bab el-Mandeb ở chế độ tối. Hai tàu chở dầu đã chở dầu thô của Saudi tại cảng Yanbu ở Biển Đỏ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-03_vr789twq0u.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Dark-Tanker-Transits-Surge-at-Bab-el-Mandeb-as-Houthi-Threat-Persists.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-03 21:30"
     },
     {
       "id": "ai3m7i",
@@ -376,17 +376,6 @@
       "published": "2026-08-01 04:20"
     },
     {
-      "id": "1hunj84",
-      "title": "Gas prices climb as oil companies report soaring profits",
-      "title_vi": "Giá xăng tăng khi các công ty dầu báo cáo lợi nhuận tăng vọt",
-      "summary_vi": "Người Mỹ đang trả nhiều tiền hơn cho khí đốt khi Chevron và ExxonMobil báo cáo lợi nhuận tăng đáng kể do sự gián đoạn nguồn cung dầu toàn cầu.",
-      "image": "https://kubrick.htvapps.com/vidthumb/ebf5dc08-1c53-43ce-a863-0a4c745e8a9f/1fff1314-2184-49e4-8fd1-4fcfceef5ee6.jpg?crop=1xw%3A0.8433382137628112xh%3Bcenter%2Ctop&resize=1200%3A*",
-      "link": "https://www.kcra.com/article/gas-prices-oil-companies-soaring-profits/73320141",
-      "source": "kcra.com",
-      "category": "energy",
-      "published": "2026-08-01 03:53"
-    },
-    {
       "id": "1hoxr5k",
       "title": "Oil companies report sky-high profits thanks to wartime crude prices",
       "title_vi": "Các hãng dầu báo lãi cao ngất trời nhờ giá dầu thời chiến",
@@ -429,6 +418,17 @@
       "source": "wtop.com",
       "category": "energy",
       "published": "2026-08-01 02:18"
+    },
+    {
+      "id": "3nkllf",
+      "title": "Oil prices seen gaining as Middle East supply disruptions persist: Reuters poll",
+      "title_vi": "Giá dầu tăng khi tình trạng gián đoạn nguồn cung ở Trung Đông vẫn tiếp diễn: cuộc thăm dò của Reuters",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/oil-prices-seen-gaining-middle-east-supply-disruptions-persist-2026-07-31/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-08-01 00:40"
     },
     {
       "id": "15d97vt",

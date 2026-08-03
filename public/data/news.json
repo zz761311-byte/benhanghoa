@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-03 16:00",
+  "updated_at": "2026-08-03 17:00",
   "items": [
+    {
+      "id": "2ixtxd",
+      "title": "BP Completes Sale of German Refinery as Portfolio Overhaul Accelerates",
+      "title_vi": "BP hoàn tất việc bán nhà máy lọc dầu ở Đức khi việc đại tu danh mục đầu tư tăng tốc",
+      "summary_vi": "BP đã hoàn tất việc bán nhà máy lọc dầu của mình ở Gelsenkirchen, Đức, cho Tập đoàn Klesch, khi tập đoàn lớn của Anh tiếp tục hợp lý hóa hoạt động kinh doanh và nâng cấp danh mục đầu tư của mình dưới thời Giám đốc điều hành Meg O'Neill. Giao dịch có số tiền không được tiết lộ là một phần trong kế hoạch tiếp tục tập trung vào giải quyết vấn đề của BP.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-03_iybkwxnjhs.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Completes-Sale-of-German-Refinery-as-Portfolio-Overhaul-Accelerates.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-03 16:30"
+    },
     {
       "id": "1sm1i23",
       "title": "Platinum and Palladium Price Forecast: Platinum Leads as EV Risks Grow",
@@ -165,17 +176,6 @@
       "source": "The Guardian",
       "category": "energy",
       "published": "2026-08-02 08:55"
-    },
-    {
-      "id": "7fu81u",
-      "title": "Record Vaca Muerta Output Fails to Lift Argentina’s Wider Economy",
-      "title_vi": "Sản lượng Vaca Muerta kỷ lục không thể nâng cao nền kinh tế rộng lớn hơn của Argentina",
-      "summary_vi": "Vaca Muerta của Argentina đang bùng nổ khi tỉnh đá phiến quan trọng bên ngoài Hoa Kỳ chứng kiến ​​sản lượng dầu kỷ lục và gần kỷ lục khí đốt tự nhiên trong những tháng gần đây. Tuy nhiên, vận may của Vaca Muerta dường như chỉ giới hạn ở khu vực có mỏ đá phiến,",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-31_1scg0pomti.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Record-Vaca-Muerta-Output-Fails-to-Lift-Argentinas-Wider-Economy.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-08-02 06:00"
     },
     {
       "id": "6ol7ji",
@@ -352,6 +352,17 @@
       "source": "PBS",
       "category": "energy",
       "published": "2026-07-31 23:26"
+    },
+    {
+      "id": "1cafz55",
+      "title": "How Trump’s newest tariffs and rising U.S.-Canada tensions could impact automakers, suppliers",
+      "title_vi": "Mức thuế mới nhất của Trump và căng thẳng Mỹ-Canada gia tăng có thể tác động đến các nhà sản xuất ô tô, nhà cung cấp như thế nào",
+      "summary_vi": "Tổng thống Donald Trump đã áp đặt mức thuế mới đối với hơn 80 quốc gia vào cuối tháng 7. Các cuộc điều tra về tình trạng dư thừa công suất sản xuất có thể tăng gấp đôi thuế đối với một số đối tác thương mại trong những tháng tới.",
+      "image": "https://www.autonews.com/resizer/v2/KNGT6VNQHNBSBI5U3B4LQIXHMY.jpg?auth=6bdb4e4490308ac513810fef162c5f93380b5bed0f35c7c658dfa0eccb1ba07d&width=1200#.jpg",
+      "link": "https://www.autonews.com/manufacturing/an-trump-tariffs-section-301-explained-0731/",
+      "source": "Automotive News",
+      "category": "macro",
+      "published": "2026-07-31 22:34"
     },
     {
       "id": "5vd8ks",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-07-31 13:16"
-    },
-    {
-      "id": "wbwjil",
-      "title": "Copper may hit new high as AI demand collides with deadly storms, strategists say",
-      "title_vi": "Các chiến lược gia cho biết đồng có thể đạt mức cao mới khi nhu cầu AI gặp phải những cơn bão chết người",
-      "summary_vi": "Các chiến lược gia cho biết các cơn bão chết người ở Chile đã làm gián đoạn hoạt động khai thác, làm nguồn cung thêm căng thẳng và có khả năng đẩy giá lên cao hơn.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108170094-1752147517661-gettyimages-2207676853-CHILE_COPPER.jpeg?v=1772450643&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/07/31/copper-prices-chile-storms-mines-ai.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-07-31 12:00"
     }
   ]
 }

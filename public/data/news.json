@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-04 05:43",
+  "updated_at": "2026-08-04 06:00",
   "items": [
+    {
+      "id": "8ntfnt",
+      "title": "Big Oil Warns Global Fuel Stocks Are Running Dangerously Low",
+      "title_vi": "Các ông lớn dầu cảnh báo tồn kho nhiên liệu toàn cầu đang ở mức thấp nguy hiểm",
+      "summary_vi": "Thế giới đang thiếu nhiên liệu - cảnh báo lần đầu tiên được đưa ra bởi một số nhà phân tích đang theo dõi thị trường vật chất hơn là biểu đồ tương lai. Giờ đây, Big Oil đang tham gia vào dàn hợp xướng cảnh báo, với Shell, Exxon và Chevron đều nói rằng giá tại máy bơm sẽ ở mức cao.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-03_r05gbksijh.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Warns-Global-Fuel-Stocks-Are-Running-Dangerously-Low.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-04 06:00"
+    },
     {
       "id": "pgq1ar",
       "title": "Harold Hamm Bets Bigger on Argentina’s Vaca Muerta Shale Boom",
@@ -77,17 +88,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-04 00:30"
-    },
-    {
-      "id": "sarlo9",
-      "title": "Why Have China and Russia Just Stepped Out Of The Shadows In The U.S.-Iran War?",
-      "title_vi": "Tại sao Trung Quốc và Nga vừa bước ra khỏi bóng tối trong cuộc chiến Mỹ-Iran?",
-      "summary_vi": "Giống như tất cả các cuộc chiến tranh, đặc biệt là tại kho dầu khí chính của thế giới ở Trung Đông, xung đột Mỹ/Israel-Iran từ lâu đã đe dọa mở rộng và bao gồm các bên quan tâm khác ngoài các nhân vật chính. Sự tham gia của các đồng minh của Washington và Tel Aviv",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-03_h7cxkhinei.jpg",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Why-Have-China-and-Russia-Just-Stepped-Out-Of-The-Shadows-In-The-US-Iran-War.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-04 00:00"
     },
     {
       "id": "dmus51",
@@ -264,6 +264,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-08-03 10:56"
+    },
+    {
+      "id": "1krfxpp",
+      "title": "What is next for commodities?",
+      "title_vi": "Điều gì tiếp theo cho hàng hóa?",
+      "summary_vi": "Sự không chắc chắn ở Trung Đông củng cố khả năng tham gia rộng rãi với hàng hóa vừa là nguồn lợi nhuận vừa là biện pháp phòng ngừa lạm phát. Năng lượng có thể hỗ trợ danh mục đầu tư nếu tình trạng gián đoạn vận chuyển hoặc sản xuất vẫn tiếp diễn, kim loại công nghiệp sẽ tiếp tục được hỗ trợ nhờ đầu tư vào AI và điện khí hóa. Hàng nông sản h",
+      "image": "https://www.ubs.com/cioresearch/36/00/01/0/3600010/en/opengraphimage.979479169png",
+      "link": "https://www.ubs.com/hk/en/wealthmanagement/insights/marketnews/article.3600010.html",
+      "source": "UBS",
+      "category": "macro",
+      "published": "2026-08-03 10:08"
     },
     {
       "id": "lmvae6",
@@ -539,17 +550,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-07-31 22:00"
-    },
-    {
-      "id": "5vd8ks",
-      "title": "Silver Price For Today, 31 July 2026",
-      "title_vi": "Giá Bạc hôm nay, ngày 31 tháng 7 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
-      "source": "Forbes",
-      "category": "metal",
-      "published": "2026-07-31 21:06"
     }
   ]
 }

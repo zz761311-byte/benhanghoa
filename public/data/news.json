@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03 07:00",
+  "updated_at": "2026-08-03 07:15",
   "items": [
     {
       "id": "1lm51fu",
@@ -519,6 +519,17 @@
       "published": "2026-07-31 05:54"
     },
     {
+      "id": "12z136y",
+      "title": "Copper Supply Faces a New China Driven Squeeze",
+      "title_vi": "Nguồn cung đồng phải đối mặt với sức ép mới do Trung Quốc thúc đẩy",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en/insights/copper-supply-faces-a-new-china-driven-squeeze/",
+      "source": "StoneX",
+      "category": "metal",
+      "published": "2026-07-31 05:20"
+    },
+    {
       "id": "1ommnx",
       "title": "Storage Surprise Boosts Prompt Month Natural Gas, Winter Outlook Unchanged",
       "title_vi": "Lưu trữ bất ngờ tăng cường khí đốt tự nhiên trong tháng, triển vọng mùa đông không thay đổi",
@@ -539,17 +550,6 @@
       "source": "Crude Oil Prices Today | OilPrice.com",
       "category": "energy",
       "published": "2026-07-31 00:30"
-    },
-    {
-      "id": "de8u9l",
-      "title": "Gas prices stabilize, still over $4",
-      "title_vi": "Giá xăng ổn định, vẫn trên 4 USD",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://vermontbiz.com/news/2026/july/30/gas-prices-stabilize-still-over-4",
-      "source": "Vermont Business Magazine",
-      "category": "energy",
-      "published": "2026-07-31 00:01"
     }
   ]
 }

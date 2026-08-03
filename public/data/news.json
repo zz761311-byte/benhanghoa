@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03 12:00",
+  "updated_at": "2026-08-03 13:00",
   "items": [
     {
       "id": "1tvgwfb",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-02 22:00"
+    },
+    {
+      "id": "lhl3cw",
+      "title": "OPEC, Allies Increase Oil Output for Sixth Time in a Row",
+      "title_vi": "OPEC và các đồng minh tăng sản lượng dầu lần thứ sáu liên tiếp",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/opec-allies-increase-oil-output-for-sixth-time-in-a-row-e56378d9",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-08-02 18:57"
     },
     {
       "id": "dz0wui",
@@ -539,17 +550,6 @@
       "source": "GoldSilver",
       "category": "macro",
       "published": "2026-07-31 05:54"
-    },
-    {
-      "id": "1k2ws3f",
-      "title": "Silver Price Forecast: XAG/USD Targets $60.00 as Rebound Gains Momentum",
-      "title_vi": "Dự báo giá bạc: XAG/USD nhắm mục tiêu 60,00 USD khi có đà phục hồi",
-      "summary_vi": "Dự báo giá bạc thế giới Bitcoin: XAG/USD nhắm mục tiêu 60,00 USD khi đà tăng phục hồi Thị trường bạc đang có dấu hiệu phục hồi bền vững, với",
-      "image": "https://cryptorank.io/static/pages-preview/main-page.png",
-      "link": "https://cryptorank.io/news/feed/7a200-silver-price-forecast-xag-usd-targets-60",
-      "source": "CryptoRank",
-      "category": "metal",
-      "published": "2026-07-31 05:34"
     }
   ]
 }

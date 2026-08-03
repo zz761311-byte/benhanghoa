@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-03 06:15",
+  "updated_at": "2026-08-03 07:00",
   "items": [
+    {
+      "id": "1lm51fu",
+      "title": "Saudi Oil Reroutes Hit Capacity and Security Limits",
+      "title_vi": "Việc định tuyến lại dầu của Saudi đạt đến giới hạn năng lực và an ninh",
+      "summary_vi": "Khi Iran đóng cửa eo biển Hormuz, Ả Rập Saudi đã nhanh chóng chuyển hướng dòng dầu của mình sang Biển Đỏ. Giờ đây, tuyến đường đó đã trở nên nguy hiểm do sự phong tỏa của Houthi, vì vậy Saudi đang định tuyến lại tới Ai Cập — và hai tàu chở dầu LNG ở cảng Damietta của Ai Cập vừa bị máy bay không người lái tấn công",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Reroutes-Hit-Capacity-and-Security-Limits.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-03 06:00"
+    },
     {
       "id": "rzi8ik",
       "title": "Santacruz Silver Mining (SCZM) Stock Forecast and Price Target 2026",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-02 22:00"
+    },
+    {
+      "id": "dz0wui",
+      "title": "August Weather Could Determine Corn and Soybean Outlook",
+      "title_vi": "Thời tiết tháng 8 có thể quyết định triển vọng ngô và đậu tương",
+      "summary_vi": "Một nhà phân tích thị trường nông nghiệp dự đoán sản lượng ngô trung bình của Mỹ trong năm nay nhưng cho biết thời tiết tháng 8 sẽ rất quan trọng đối với cả ngô và đậu nành. Scott Custard của Công ty Moving Parts có trụ sở tại Nebraska cho biết hầu hết ngô đều được thụ phấn trong điều kiện tốt. Hai đến bốn tuần tới sẽ rất quan trọng đối với việc cung cấp ngũ cốc, đặc biệt",
+      "image": "https://ingstadmedia.com/wp-content/uploads/2026/08/exec-627969de-b98c-4f85-a3ee-e340913d7368-1024x576.png",
+      "link": "https://ingstadmedia.com/august-weather-could-determine-corn-and-soybean-outlook/",
+      "source": "Ingstad Media",
+      "category": "agri",
+      "published": "2026-08-02 18:46"
     },
     {
       "id": "ouhwlq",
@@ -109,17 +131,6 @@
       "link": "https://africa.businessinsider.com/local/markets/the-worlds-second-largest-cocoa-producer-warns-output-could-fall-16-raising-fears-of/x220h05",
       "source": "Business Insider Africa",
       "category": "soft",
-      "published": "2026-08-01 22:00"
-    },
-    {
-      "id": "pnjzw1",
-      "title": "The Bank of England Is Moving Away From Coal",
-      "title_vi": "Ngân hàng Anh đang rời xa than đá",
-      "summary_vi": "Các nhóm môi trường đã vận động để khuyến khích các ngân hàng và tổ chức tài chính khác thoái vốn khỏi nhiên liệu hóa thạch trong nhiều năm, với nỗ lực ngày càng mạnh mẽ kể từ đại dịch Covid-19 và nỗ lực toàn cầu chuyển đổi từ dầu, khí đốt và than đá sang các giải pháp thay thế tái tạo.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-31_oaixeas6mz.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Bank-of-England-Is-Moving-Away-From-Coal.html",
-      "source": "OilPrice",
-      "category": "energy",
       "published": "2026-08-01 22:00"
     },
     {
@@ -539,17 +550,6 @@
       "source": "Vermont Business Magazine",
       "category": "energy",
       "published": "2026-07-31 00:01"
-    },
-    {
-      "id": "lxbfl",
-      "title": "Copper Supply Faces a New China Driven Squeeze",
-      "title_vi": "Nguồn cung đồng phải đối mặt với sức ép mới do Trung Quốc thúc đẩy",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-us/insights/copper-supply-faces-a-new-china-driven-squeeze/",
-      "source": "StoneX",
-      "category": "metal",
-      "published": "2026-07-30 23:33"
     }
   ]
 }

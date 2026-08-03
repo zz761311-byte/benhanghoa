@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04 06:00",
+  "updated_at": "2026-08-04 06:53",
   "items": [
     {
       "id": "8ntfnt",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-04 05:00"
+    },
+    {
+      "id": "22ydtq",
+      "title": "Trump says oil companies should cut gas prices after making \"too much money\"",
+      "title_vi": "Trump nói các công ty dầu mỏ nên giảm giá xăng sau khi kiếm được \"quá nhiều tiền\"",
+      "summary_vi": "Tổng thống Trump cho biết các công ty dầu mỏ của Mỹ kiếm được \"quá nhiều tiền\" từ giá dầu cao. \"TÔI",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/09/85e14faa-081c-4ee2-8e62-297cdb3157a0/thumbnail/1200x630/43aad9305ff04849e7c4326d14bb9598/cbsn-fusion-trump-revoking-irans-oil-waver-could-push-gas-prices-up-thumbnail.jpg",
+      "link": "https://www.cbsnews.com/news/trump-oil-companies-cut-gas-prices/",
+      "source": "cbsnews.com",
+      "category": "energy",
+      "published": "2026-08-04 04:08"
     },
     {
       "id": "kfacvj",
@@ -539,17 +550,6 @@
       "source": "Automotive News",
       "category": "macro",
       "published": "2026-07-31 22:34"
-    },
-    {
-      "id": "e9p5mu",
-      "title": "Is the Corn Rally Over or Just Getting Started?",
-      "title_vi": "đợt tăng giá ngô đã kết thúc hay chỉ mới bắt đầu?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/is-the-corn-rally-over-or-just-getting-started-12031733",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-07-31 22:00"
     }
   ]
 }

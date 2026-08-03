@@ -1,6 +1,6 @@
 ---
 title: '# Vàng-Bạc: JPMorgan "Hạ Dự Báo Nhưng Không Từ Bỏ" — Nên Tin Hay Không?'
-date: 2026-08-03T11:05
+date: 2026-08-03T11:16
 category: metal
 image: /assets/uploads/pexels-zlataky-cz-61823415-8442325.jpg
 summary: >-
@@ -16,10 +16,9 @@ summary: >-
   → Điều đó có nghĩa: Vàng sẽ tăng, nhưng BỀN HƠN lần trước.
 
 
-  🔥 BẠC tăng 133% trong năm. Nhưng tuần này giảm 19%. Đó là dip hay bẫy?
+  🔥 BẠC tăng 133% trong năm. Nhưng tuần này giảm 19%. "Kịch bản 1 vs Kịch bản 2"
 
-
-  Nếu lạm phát tiếp tăng → Vàng quay lại mạnh. Nếu Fed nâng lãi suất → Vàng chết tiệt.
+  Nếu lạm phát tiếp tăng → Vàng quay lại mạnh. Nếu Fed nâng lãi suất → "Vàng tiếp tục bị ép giá"
 
 
   50-50 trò chơi. Không ai thắng chắc.
@@ -86,10 +85,10 @@ Nhà kinh tế lạc quan **Peter Schiff** chỉ ra một điểm mà mainstream
 
 **Đây là tranh luận đôi chiều:**
 
-**🟢 Bullish vàng:**
+**🟢 Vàng Hồi Phục:**
 - Lãi suất thực âm = vàng là tài sản bảo vệ sức mua tốt nhất
 
-**🔴 Bearish vàng:**
+**🔴 Vàng Tiếp Tục Yếu:**
 - Lãi suất danh nghĩa tăng = vàng mất hấp dẫn so với tiền gửi/trái phiếu
 
 **Ai đúng?** Tuỳ thuộc vào **nên tin Fed sẽ nâng lãi suất hay sẽ bị ép phải hạ lãi suất vì sụt giảm kinh tế**.

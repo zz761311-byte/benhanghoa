@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04 05:00",
+  "updated_at": "2026-08-04 05:43",
   "items": [
     {
       "id": "pgq1ar",
@@ -88,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-04 00:00"
+    },
+    {
+      "id": "dmus51",
+      "title": "OPEC+ oil output hike is irrelevant for now, not for later",
+      "title_vi": "Việc tăng sản lượng dầu của OPEC+ không còn phù hợp vào lúc này, không phải sau này",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/commentary/reuters-open-interest/opec-oil-output-hike-is-irrelevant-now-not-later-2026-08-03/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-08-03 23:28"
     },
     {
       "id": "jtk2cr",
@@ -253,6 +264,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-08-03 10:56"
+    },
+    {
+      "id": "lmvae6",
+      "title": "Oil prices drop 7% to three-week low after Trump cancels attack on Iran",
+      "title_vi": "Giá dầu giảm 7% xuống mức thấp nhất trong ba tuần sau khi Trump hủy bỏ cuộc tấn công vào Iran",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/oil-tumbles-trump-cancels-attack-iran-reach-nuclear-deal-2026-08-03/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-08-03 07:11"
     },
     {
       "id": "l4m5q1",
@@ -464,6 +486,17 @@
       "published": "2026-08-01 02:18"
     },
     {
+      "id": "1lc9ygq",
+      "title": "Fire Cup Coffee serves locally-sourced ingredients in accepting space",
+      "title_vi": "Fire Cup Coffee phục vụ các nguyên liệu có nguồn gốc địa phương trong không gian tiếp nhận",
+      "summary_vi": "Quán cà phê mới nhất ở Gresham được điều hành bởi một cặp người cấy ghép ở Los Angeles, những người đã bị thu hút đến Tây Bắc Thái Bình Dương bởi sự chấp nhận văn hóa và những người sành caffeine của nơi này. Thử […]",
+      "image": "https://theoutlookonline.com/wp-content/uploads/sites/24/2026/07/business_firecoffee_081226_gro_1.jpg",
+      "link": "https://theoutlookonline.com/2026/07/31/fire-cup-coffee-serves-locally-sourced-offerings-in-accepting-space/",
+      "source": "theoutlookonline.com",
+      "category": "soft",
+      "published": "2026-08-01 00:43"
+    },
+    {
       "id": "3nkllf",
       "title": "Oil prices seen gaining as Middle East supply disruptions persist: Reuters poll",
       "title_vi": "Giá dầu tăng khi tình trạng gián đoạn nguồn cung ở Trung Đông vẫn tiếp diễn: cuộc thăm dò của Reuters",
@@ -517,39 +550,6 @@
       "source": "Forbes",
       "category": "metal",
       "published": "2026-07-31 21:06"
-    },
-    {
-      "id": "vkt8yl",
-      "title": "How popular is Donald Trump?",
-      "title_vi": "Donald Trump được yêu thích đến mức nào?",
-      "summary_vi": "Xếp hạng phê duyệt của Silver Bulletin dành cho Tổng thống Trump - và tất cả các tổng thống kể từ Truman.",
-      "image": "https://substackcdn.com/image/fetch/$s_!Xfx5!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47c9842-cfbc-4300-8bea-3c73291e02c3_1200x634.jpeg",
-      "link": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
-      "source": "Silver Bulletin",
-      "category": "metal",
-      "published": "2026-07-31 20:56"
-    },
-    {
-      "id": "eb5mtb",
-      "title": "Who’s ahead on the generic congressional ballot?",
-      "title_vi": "Ai dẫn trước trong cuộc bỏ phiếu chung của quốc hội?",
-      "summary_vi": "Công cụ theo dõi các cuộc thăm dò được cập nhật liên tục của chúng tôi về chỉ số quan trọng nhất trong cuộc đua vào Quốc hội.",
-      "image": "https://substackcdn.com/image/fetch/$s_!DHD9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b7584a6-a95a-4054-90c6-ca160d014d37_1200x831.jpeg",
-      "link": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls",
-      "source": "Silver Bulletin",
-      "category": "metal",
-      "published": "2026-07-31 20:55"
-    },
-    {
-      "id": "1weumhe",
-      "title": "Natural Gas Futures Trying to Build on Gains as Hot West Beckons",
-      "title_vi": "Hợp đồng tương lai về khí đốt tự nhiên đang cố gắng tăng trưởng nhờ sự nóng lên của West Beckons",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/natural-gas-futures-trying-to-build-on-gains-as-hot-west-beckons/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-07-31 19:52"
     }
   ]
 }

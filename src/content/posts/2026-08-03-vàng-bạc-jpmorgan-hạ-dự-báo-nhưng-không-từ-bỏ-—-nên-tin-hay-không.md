@@ -93,9 +93,11 @@ Nhà kinh tế lạc quan **Peter Schiff** chỉ ra một điểm mà mainstream
 
 **Ai đúng?** Tuỳ thuộc vào **nên tin Fed sẽ nâng lãi suất hay sẽ bị ép phải hạ lãi suất vì sụt giảm kinh tế**.
 
-Hiện tại, **CME FedWatch** cho biết thị trường dự báo xác suất Fed **tăng** lãi suất:
-- 40,7% xác suất tăng 25 bps vào tháng 12
-- 12,1% xác suất tăng 50 bps
+Theo công cụ **CME FedWatch**, tại thời điểm 03/08/2026 thị trường đang định giá xác suất Fed **tăng** lãi suất như sau:
+- 40,7% xác suất tăng 25 điểm cơ bản (bps) vào tháng 12
+- 12,1% xác suất tăng 50 điểm cơ bản
+
+Đây là mức định giá của thị trường tại một thời điểm, thay đổi liên tục theo từng phiên — không phải dự báo của Bến Hàng Hóa.
 
 ---
 
@@ -165,3 +167,5 @@ Tuần này là một **"thử nghiệm tự nhiên" cho vàng**, như Brooks n�
 ---
 
 **— Bến Hàng Hóa**
+
+*Bến Hàng Hóa | Thông tin mang tính tham khảo, không phải khuyến nghị đầu tư.*

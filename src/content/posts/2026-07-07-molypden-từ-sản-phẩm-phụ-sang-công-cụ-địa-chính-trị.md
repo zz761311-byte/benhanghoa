@@ -74,3 +74,5 @@ Latam (Chile, Peru) ở vị trí chiến lược để tối ưu hóa giá tr�
 ---
 
 **— Bến Hàng Hóa**
+
+*Bến Hàng Hóa | Thông tin mang tính tham khảo, không phải khuyến nghị đầu tư.*

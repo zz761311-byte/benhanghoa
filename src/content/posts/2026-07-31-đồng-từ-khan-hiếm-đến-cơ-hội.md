@@ -84,3 +84,5 @@ Nhưng cho đến khi những yếu tố ấy đảo chiều, thị trường đ
 Chúng tôi sẽ theo dõi.
 
 — Bến Hàng Hóa
+
+*Bến Hàng Hóa | Thông tin mang tính tham khảo, không phải khuyến nghị đầu tư.*

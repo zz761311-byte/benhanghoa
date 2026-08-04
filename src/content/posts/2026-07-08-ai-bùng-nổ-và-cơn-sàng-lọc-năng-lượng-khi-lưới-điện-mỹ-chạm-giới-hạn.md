@@ -50,3 +50,5 @@ Anh em nghĩ sao về cuộc khủng hoảng năng lượng này? Hãy để l�
 Bến Hàng Hóa - Phân tích chuyên sâu, tư duy logic.
 
 Lưu ý: Bài viết nhằm mục đích cung cấp góc nhìn thông tin vĩ mô, không mang tính chất khuyến nghị đầu tư mua/bán cụ thể đối với bất kỳ mã cổ phiếu nào được đề cập.
+
+*Bến Hàng Hóa | Thông tin mang tính tham khảo, không phải khuyến nghị đầu tư.*

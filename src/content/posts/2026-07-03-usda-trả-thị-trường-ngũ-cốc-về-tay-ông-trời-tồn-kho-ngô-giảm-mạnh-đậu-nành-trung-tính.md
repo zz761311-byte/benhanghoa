@@ -10,7 +10,7 @@ summary: >-
 
   Dự trữ ngô 1/6 chỉ còn 5,29 tỷ bushel, giảm 41% so với tháng 3, thấp hơn dự báo → giá ngô bật tăng nhờ nhu cầu thức ăn chăn nuôi, xuất khẩu và ethanol đều mạnh. Đậu nành thì "không tin xấu là tin tốt", giá cũng tăng nhẹ.
 
-  Tháng 7 khô hơn bình thường ở Vành đai Ngô nhưng chưa đáng lo. Vụ cũ: nên bán gần hết. Vụ mới: chưa vội bán, chờ thời tiết rõ hơn.
+  Tháng 7 khô hơn bình thường ở Vành đai Ngô nhưng chưa đáng lo. Với hàng vụ cũ, áp lực chi phí lưu kho và chênh lệch cơ sở đang bất lợi cho bên giữ hàng; hàng vụ mới thì thời tiết tháng 7 vẫn là ẩn số lớn nhất.
 
   — Bến Hàng Hóa
 ---
@@ -55,11 +55,13 @@ Dự báo hiện tại cho thấy nắng nóng sẽ kéo dài đến hết kỳ 
 
 Thị trường sẽ theo dõi sát ba yếu tố trong suốt tháng 7: lượng mưa thực tế, diễn biến nhiệt độ, và các báo cáo đánh giá tình trạng mùa vụ (crop condition) hàng tuần của USDA.
 
-### 5. Góc nhìn chiến lược cho người bán hàng thực
+### 5. Những yếu tố người bán hàng thực đang cân nhắc
 
-**Với ngũ cồn vụ cũ**: nên bán ra phần lớn, nếu chưa muốn nói là toàn bộ, lượng hàng tồn ở giai đoạn này của mùa vụ. Kinh nghiệm nhiều năm gần đây cho thấy việc giữ hàng qua hè hiếm khi mang lại lợi ích cho người bán — nếu giá kỳ hạn giảm, giá thu mua tiền mặt giảm theo tương ứng; nếu giá kỳ hạn tăng, chênh lệch cơ sở (basis) thường mở rộng theo hướng bất lợi cho người nắm giữ hàng tồn.
+**Với ngũ cốc vụ cũ**: điều đáng chú ý là chi phí của việc giữ hàng qua hè. Kinh nghiệm nhiều năm gần đây cho thấy giữ hàng tồn qua giai đoạn này hiếm khi có lợi cho người bán — nếu giá kỳ hạn giảm, giá thu mua tiền mặt giảm theo tương ứng; nếu giá kỳ hạn tăng, chênh lệch cơ sở (basis) thường mở rộng theo hướng bất lợi cho người nắm giữ hàng tồn. Nói cách khác, hai kịch bản giá đều không ưu ái bên còn ôm hàng.
 
-**Với vụ mới**: triển vọng dài hạn được đánh giá tích cực hơn. Ở vùng giá ngô và đậu nành vụ mới hiện tại, chưa có động lực để chốt bán thêm — ưu tiên là chờ đợi diễn biến thời tiết tháng 7 rõ ràng hơn trước khi ra quyết định tiếp theo.
+**Với vụ mới**: triển vọng dài hạn được giới phân tích đánh giá tích cực hơn, nhưng vùng giá ngô và đậu nành vụ mới hiện tại chưa phản ánh rủi ro thời tiết tháng 7 — biến số lớn nhất còn ở phía trước.
+
+*Phần trên chỉ nêu các yếu tố thị trường để tham khảo. Mỗi nông hộ, doanh nghiệp có cơ cấu chi phí, kho bãi và nghĩa vụ hợp đồng khác nhau — quyết định bán hay giữ hàng cần dựa trên tình hình cụ thể của chính mình.*
 
 ### Nhận định
 

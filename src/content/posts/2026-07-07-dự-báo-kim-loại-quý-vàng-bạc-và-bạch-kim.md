@@ -13,10 +13,10 @@ summary: >-
   **Ngắn hạn:** Chờ Fed meeting + lợi suất thực tế. Vàng cần giữ $3,950, bạc cần vượt $72, bạch kim cần $1,700.
 
 
-  **Dài hạn:** Rất tích cực. Vàng > Bạc > Bạch kim (về hiệu suất). Điều chỉnh này = cơ hội mua vào.
+  **Dài hạn:** Các yếu tố nền tảng vẫn nghiêng về hướng tích cực, với vàng dẫn đầu, kế đến là bạc rồi bạch kim.
 
 
-  **Chìa khóa:** 46% xác suất Fed tăng lãi suất tháng 9 - nếu tăng = cơ hội mua sâu hơn.
+  **Chìa khóa:** Thị trường đang định giá khả năng Fed tăng lãi suất trong tháng 9 ở mức gần một nửa — đây là biến số chi phối diễn biến giá trong quý.
 
 
   — Bến Hàng Hóa
@@ -39,7 +39,7 @@ Vàng, bạc, bạch kim đang ở giai đoạn **phục hồi yếu ớt từ s
 - **Kỳ vọng tăng lãi suất giảm** → hỗ trợ kim loại quý
 
 ### Yếu tố tiêu cực:
-- **Fed vẫn có rủi ro tăng lãi suất**: FedWatch tool cho xác suất 46.2% tăng lãi suất tháng 9/2026
+- **Fed vẫn có rủi ro tăng lãi suất**: theo công cụ CME FedWatch, tại ngày 07/07/2026 thị trường định giá xác suất 46,2% Fed tăng lãi suất trong kỳ họp tháng 9/2026 (mức này thay đổi theo từng phiên)
 - **Rủi ro địa chính trị giảm**: Trung Đông ổn định gần đây → nhu cầu vàng trú ẩn an toàn giảm bớt
 - **Lợi suất thực tế vẫn cao**: Nếu lạm phát không giảm, Fed vẫn có lý do để thắt chặt
 - **Thị trường chờ đợi**: Biên bản họp Fed mới sẽ quyết định diễn biến tiếp theo
@@ -128,16 +128,16 @@ Vàng, bạc, bạch kim đang ở giai đoạn **phục hồi yếu ớt từ s
 ✓ Hiểu rằng **vàng ≠ bạc ≠ bạch kim** - từng cái có động lực riêng  
 ✓ Biết **vàng là tài sản trú ẩn/dự trữ giá trị** (quan trọng nhất)  
 ✓ Nhìn bạc như **công cụ leverage** (biến động hơn, tăng hơn, rơi hơn)  
-✓ Chờ bạch kim điều chỉnh xuống **$1,200-1,350** trước khi mua dài hạn  
+✓ Với bạch kim, vùng **$1,200-1,350** là mốc kỹ thuật nhiều nhà phân tích theo dõi  
 ✓ Theo dõi **Fed meetings + lợi suất thực tế + đồng USD** (ba yếu tố then chốt)  
 
 ### Ba tình huống để xem:
 
-**1. Nếu Fed tăng lãi suất (46% xác suất tháng 9)**
+**1. Nếu Fed tăng lãi suất** (thị trường hợp đồng tương lai lãi suất định giá khả năng này ở mức gần một nửa cho kỳ họp tháng 9, tính đến ngày 07/07/2026)
 - Vàng: rơi xuống $3,950 hay thấp hơn
 - Bạc: rơi xuống $55-60
 - Bạch kim: rơi xuống $1,400-1,500
-→ **Cơ hội mua vào mạnh cho những người dài hạn**
+→ **Vùng giá thấp hơn, nhưng đi kèm môi trường lãi suất bất lợi cho kim loại quý**
 
 **2. Nếu Fed cắt giảm lãi suất (khi kinh tế yếu)**
 - Vàng: bứt phá trên $4,350 → $5,000+
@@ -192,3 +192,5 @@ Vàng, bạc, bạch kim đang ở giai đoạn **phục hồi yếu ớt từ s
 ---
 
 **— Bến Hàng Hóa**
+
+*Bến Hàng Hóa | Thông tin mang tính tham khảo, không phải khuyến nghị đầu tư.*

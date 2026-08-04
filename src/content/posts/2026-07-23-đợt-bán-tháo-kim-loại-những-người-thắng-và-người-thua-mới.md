@@ -100,7 +100,7 @@ Nói cách khác, lợi thế cạnh tranh đã chuyển sang những nơi khác
 
 **Đánh giá:**
 
-Nhà đầu tư dài hạn nên hỏi: *Nếu sản lượng châu Á mạnh như vậy, tại sao lại kỳ vọng giá sẽ quay lại mức 3.700 USD/tấn?* Câu trả lời có thể là **không**. Việc bán tháo có thể là một cơ hội **thoát ra**, chứ không phải là một cơ hội **mua vào**.
+Câu hỏi đáng đặt ra: *nếu sản lượng châu Á mạnh như vậy, cơ sở nào để kỳ vọng giá quay lại mức 3.700 USD/tấn?* Cách đọc của StanChart nghiêng về hướng đợt giảm giá này phản ánh thay đổi cơ cấu nguồn cung, chứ không đơn thuần là biến động nhất thời — nghĩa là mức giá cũ chưa chắc là mốc để lấy làm chuẩn tham chiếu.
 
 ---
 
@@ -147,3 +147,5 @@ Người thắng từ đợt bán tháo này không nhất thiết là những a
 **— Bến Hàng Hóa**
 
 *Tháng 7, 2026*
+
+*Bến Hàng Hóa | Thông tin mang tính tham khảo, không phải khuyến nghị đầu tư.*

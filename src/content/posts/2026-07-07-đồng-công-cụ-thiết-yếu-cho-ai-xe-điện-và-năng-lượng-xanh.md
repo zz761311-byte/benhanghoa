@@ -135,3 +135,5 @@ Tuy nhiên, **không phải tất cả mở rộng đều bằng nhau**. Resolut
 ---
 
 **— Bến Hàng Hóa**
+
+*Bến Hàng Hóa | Thông tin mang tính tham khảo, không phải khuyến nghị đầu tư.*

@@ -49,3 +49,5 @@ Bạch kim đang ở vị trí giống như vàng cách đây hai thập kỷ �
 Những ai đang theo dõi định hướng công nghiệp toàn cầu nên chú ý. Bạch kim không phải là một thị trường nóng lên tức thì, nhưng nó là một xu hướng dài hạn sâu sắc.
 
 — Bến Hàng Hóa
+
+*Bến Hàng Hóa | Thông tin mang tính tham khảo, không phải khuyến nghị đầu tư.*

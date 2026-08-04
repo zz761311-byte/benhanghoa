@@ -66,3 +66,5 @@ Với vai trò là thị trường xuất khẩu Robusta hàng đầu, Việt Na
 *Nguồn tham khảo: Coffee Barometer 2026 (Ethos Agriculture, Vocal, Conservation International, Solidaridad), công bố ngày 10/06/2026.*
 
 — Bến Hàng Hóa
+
+*Bến Hàng Hóa | Thông tin mang tính tham khảo, không phải khuyến nghị đầu tư.*

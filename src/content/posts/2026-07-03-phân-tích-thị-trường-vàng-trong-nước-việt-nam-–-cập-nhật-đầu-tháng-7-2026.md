@@ -37,7 +37,7 @@ Sau cú sốc đó, giá đã đi ngang và nhích nhẹ trở lại quanh vùng
 
 Đây là điểm cần nhấn mạnh vì nó ảnh hưởng trực tiếp đến hiệu quả đầu tư vàng vật chất tại Việt Nam. Quy đổi theo tỷ giá trung tâm, giá vàng thế giới hiện tương đương khoảng 132-134 triệu đồng/lượng, trong khi SJC đang niêm yết cao hơn 10-13 triệu đồng/lượng — mức chênh lệch phản ánh tình trạng khan hiếm nguồn cung vàng miếng SJC và cơ chế quản lý đặc thù của Ngân hàng Nhà nước.
 
-Một biến số chính sách quan trọng đang định hình lại cấu trúc thị trường: Nghị định 232/2025/NĐ-CP đã xóa bỏ thế độc quyền sản xuất-kinh doanh vàng miếng của SJC, nhằm tăng cạnh tranh nguồn cung và giúp giá trong nước bám sát hơn với biến động thế giới. Đây là điều đáng theo dõi trong nửa cuối năm — nếu chính sách này được triển khai thực chất, khoảng cách 10-13 triệu đồng có thể dần thu hẹp, tạo rủi ro giảm giá cho người đang nắm giữ vàng miếng SJC mua ở vùng chênh lệch cao.
+Một biến số chính sách quan trọng đang định hình lại cấu trúc thị trường: Nghị định 232/2025/NĐ-CP đã xóa bỏ thế độc quyền sản xuất-kinh doanh vàng miếng của SJC, nhằm tăng cạnh tranh nguồn cung và giúp giá trong nước bám sát hơn với biến động thế giới. Đây là điều đáng theo dõi trong nửa cuối năm — nếu chính sách này được triển khai thực chất, khoảng cách 10-13 triệu đồng có thể dần thu hẹp, tạo rủi ro giảm giá cho người đang nắm giữ vàng miếng SJC đã mua khi chênh lệch còn ở vùng cao.
 
 **3. Các yếu tố chi phối giá thế giới**
 

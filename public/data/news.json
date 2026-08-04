@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04 07:00",
+  "updated_at": "2026-08-04 08:00",
   "items": [
     {
       "id": "1135vn8",
@@ -332,6 +332,17 @@
       "published": "2026-08-03 02:23"
     },
     {
+      "id": "1krt7xa",
+      "title": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
+      "title_vi": "Các nhà đầu tư ghi điểm về sự bùng nổ thị trường dầu mỏ của chiến tranh Iran Ở lại lâu giao dịch sẽ trở nên phức tạp hơn",
+      "summary_vi": "Biến động giá dầu do chiến tranh Mỹ-Iran gây ra đã tạo ra những người chiến thắng lớn trên thị trường, nhưng đối với các nhà đầu tư mua và nắm giữ, có những chủ đề năng lượng dài hạn tốt hơn để theo dõi.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108330705-17833366872026-07-01t164535z_267159373_rc2kvkadmuk6_rtrmadp_0_global-oil.jpeg?v=1783336748&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-08-02 20:00"
+    },
+    {
       "id": "lhl3cw",
       "title": "OPEC, Allies Increase Oil Output for Sixth Time in a Row",
       "title_vi": "OPEC và các đồng minh tăng sản lượng dầu lần thứ sáu liên tiếp",
@@ -539,17 +550,6 @@
       "source": "PBS",
       "category": "energy",
       "published": "2026-07-31 23:26"
-    },
-    {
-      "id": "1cafz55",
-      "title": "How Trump’s newest tariffs and rising U.S.-Canada tensions could impact automakers, suppliers",
-      "title_vi": "Mức thuế mới nhất của Trump và căng thẳng Mỹ-Canada gia tăng có thể tác động đến các nhà sản xuất ô tô, nhà cung cấp như thế nào",
-      "summary_vi": "Tổng thống Donald Trump đã áp đặt mức thuế mới đối với hơn 80 quốc gia vào cuối tháng 7. Các cuộc điều tra về tình trạng dư thừa công suất sản xuất có thể tăng gấp đôi thuế đối với một số đối tác thương mại trong những tháng tới.",
-      "image": "https://www.autonews.com/resizer/v2/KNGT6VNQHNBSBI5U3B4LQIXHMY.jpg?auth=6bdb4e4490308ac513810fef162c5f93380b5bed0f35c7c658dfa0eccb1ba07d&width=1200#.jpg",
-      "link": "https://www.autonews.com/manufacturing/an-trump-tariffs-section-301-explained-0731/",
-      "source": "Automotive News",
-      "category": "macro",
-      "published": "2026-07-31 22:34"
     }
   ]
 }

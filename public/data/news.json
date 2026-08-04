@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04 17:00",
+  "updated_at": "2026-08-04 17:21",
   "items": [
     {
       "id": "kcnm62",
@@ -143,6 +143,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-04 04:00"
+    },
+    {
+      "id": "wmdcbn",
+      "title": "Russia Is Running Out of Soldiers, Oil, and Time",
+      "title_vi": "Nga đang cạn kiệt binh lính, dầu mỏ và thời gian",
+      "summary_vi": "Căng thẳng kinh tế đang gia tăng, khi Nga phải đối mặt với tình trạng tăng trưởng trì trệ, dự trữ quốc gia bị thu hẹp, cuộc khủng hoảng nhiên liệu ngày càng tồi tệ và triển vọng phải thực hiện nghĩa vụ quân sự rộng rãi hơn sau cuộc bầu cử vào tháng 9.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-03_vrstognha6.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Russia-Is-Running-Out-of-Soldiers-Oil-and-Time.html",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "energy",
+      "published": "2026-08-04 03:00"
     },
     {
       "id": "1v2bkpc",
@@ -539,17 +550,6 @@
       "source": "NPR",
       "category": "energy",
       "published": "2026-08-01 03:28"
-    },
-    {
-      "id": "js5yiw",
-      "title": "Crops Analysis | Wheat sees sharp losses to end the week",
-      "title_vi": "Phân tích cây trồng | Lúa mì giảm mạnh vào cuối tuần",
-      "summary_vi": "Ngày 31 tháng 7 năm 2026",
-      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
-      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-wheat-sees-sharp-losses-end-week",
-      "source": "profarmer.com",
-      "category": "agri",
-      "published": "2026-08-01 02:36"
     }
   ]
 }

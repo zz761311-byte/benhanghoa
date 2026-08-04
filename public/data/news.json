@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04 10:00",
+  "updated_at": "2026-08-04 11:00",
   "items": [
     {
       "id": "1135vn8",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-04 07:00"
+    },
+    {
+      "id": "gkw5bz",
+      "title": "Gold, Silver Prices Dip — But Wall Street Sees 'Most Bullish Set-Up' For This Metal",
+      "title_vi": "Giá vàng, bạc giảm - Nhưng Phố Wall nhận thấy 'thiết lập tăng giá mạnh nhất' đối với kim loại này",
+      "summary_vi": "Citi đang quảng cáo nhôm là kim loại tiếp theo nên mua, với giá dự kiến ​​sẽ trung bình khoảng 4.000 USD/tấn vào nửa cuối năm 2026.",
+      "image": "https://news.stocktwits-cdn.com/large_resized_generic_metal_image_aluminium_jpg_f1a6dd7f89.webp",
+      "link": "https://stocktwits.com/news-articles/markets/equity/gold-silver-prices-dip-but-wall-street-sees-most-bullish-set-up-for-this-metal/cZXD8hMReV3",
+      "source": "Stocktwits",
+      "category": "metal",
+      "published": "2026-08-04 06:26"
     },
     {
       "id": "8ntfnt",
@@ -407,17 +418,6 @@
       "source": "Business Insider Africa",
       "category": "soft",
       "published": "2026-08-01 22:00"
-    },
-    {
-      "id": "yun9r3",
-      "title": "Should Freeport-McMoRan’s (FCX) Strong Q2 and Higher Copper-Gold Sales Outlook Require Investor Action?",
-      "title_vi": "Triển vọng doanh số bán vàng đồng và đồng cao hơn trong quý 2 của Freeport-McMoRan (FCX) có nên yêu cầu nhà đầu tư hành động không?",
-      "summary_vi": "Vào tháng 7 năm 2026, Freeport-McMoRan đã báo cáo kết quả quý hai cho thấy doanh thu là 7.029 triệu USD và thu nhập ròng là 984 triệu USD, cùng với dự báo về doanh số bán đồng và vàng cao hơn đáng kể trong nửa cuối năm 2026 và sang năm 2027. Sự kết hợp giữa thu nhập trên mỗi cổ phiếu cao hơn so với một năm trước và ban lãnh đạo",
-      "image": "https://images.simplywall.st/asset/company-cover/273607-main-header/1756254820574",
-      "link": "https://simplywall.st/stocks/us/materials/nyse-fcx/freeport-mcmoran/news/should-freeport-mcmorans-fcx-strong-q2-and-higher-copper-gol",
-      "source": "simplywall.st",
-      "category": "metal",
-      "published": "2026-08-01 18:16"
     },
     {
       "id": "1h047k4",

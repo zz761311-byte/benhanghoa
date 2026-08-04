@@ -1,9 +1,12 @@
 # 📝 Thư mục BẢN NHÁP (drafts)
 
-Đây là nơi **trợ lý AI tự để bản nháp bài phân tích** mỗi sáng (08:07 giờ VN).
+Đây là nơi **trợ lý AI tự để bản nháp bài phân tích** mỗi sáng (08:17 giờ VN,
+có lượt dự phòng 08:47 phòng khi GitHub bỏ lỡ lượt đầu).
 
 ## Quan trọng
 - File trong thư mục này **KHÔNG hiển thị trên web** (vì không nằm trong `src/content/posts/`).
+- 🗑️ **Bản nháp cũ hơn 14 ngày tự bị xoá** mỗi lượt bot chạy, để thư mục không phình mãi.
+  Bài nào muốn giữ thì chuyển sang `src/content/posts/` trước khi quá 14 ngày.
 - Mỗi sáng bot tạo, ví dụ, 2 bản cho cùng 1 tin:
   - `2026-06-18-dau-wti....gemini.md`  ← bản do Gemini viết
   - `2026-06-18-dau-wti....groq.md`    ← bản do Groq viết

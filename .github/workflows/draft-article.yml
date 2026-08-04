@@ -1,9 +1,11 @@
 name: Soạn nháp bài phân tích (Bến Hàng Hóa)
 
-# Tự chạy 08:07 sáng giờ VN mỗi ngày (01:07 UTC) + cho phép bấm chạy tay.
+# Tự chạy 08:17 sáng giờ VN mỗi ngày (01:17 UTC), thêm lượt dự phòng 08:47
+# (01:47 UTC) phòng khi GitHub bỏ lỡ lượt đầu + cho phép bấm chạy tay.
 # ⚠️ Tránh phút :00 — GitHub free tier hay bỏ lịch đầu giờ (giống bot tin tức).
 # Bản nháp được lưu vào thư mục drafts/ — KHÔNG nằm trong src/content nên
 # KHÔNG tự lên web. Bạn mở ra duyệt, sửa mốc giá, rồi mới đăng.
+# Mỗi lượt chạy tự dọn bản nháp cũ hơn 14 ngày để thư mục không phình mãi.
 on:
   schedule:
     - cron: "17 1 * * *"   # 01:17 UTC = 08:17 sáng VN
@@ -43,11 +45,36 @@ jobs:
           FOCUS: ${{ github.event.inputs.trong_tam }}
         run: node scripts/draft-article.mjs
 
+      - name: Dọn bản nháp cũ hơn 14 ngày
+        run: |
+          # Tên tập tin nháp luôn mở đầu bằng ngày, ví dụ: 2026-06-19-vang-....gemini.md
+          # Lấy ngày ngay trong tên tập tin (đáng tin hơn ngày sửa tập tin, vì mỗi lần
+          # máy chủ tải mã nguồn về thì ngày sửa đều bị đặt lại thành hôm nay).
+          moc=$(date -u -d "14 days ago" +%Y-%m-%d)
+          echo "Xoá bản nháp có ngày trước $moc"
+          dem=0
+          for f in drafts/*.md drafts/*.fanpage.txt; do
+            [ -e "$f" ] || continue
+            ten=$(basename "$f")
+            [ "$ten" = "README.md" ] && continue
+            ngay=${ten:0:10}
+            # Bỏ qua tập tin không mở đầu bằng ngày đúng dạng NĂM-THÁNG-NGÀY
+            case "$ngay" in
+              [0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]) ;;
+              *) continue ;;
+            esac
+            if [[ "$ngay" < "$moc" ]]; then
+              rm -f "$f"
+              dem=$((dem+1))
+            fi
+          done
+          echo "Đã xoá $dem tập tin nháp cũ."
+
       - name: Commit bản nháp nếu có thay đổi
         run: |
           git config user.name  "benhanghoa-bot"
           git config user.email "bot@benhanghoa.local"
-          git add drafts
+          git add -A drafts   # -A để ghi nhận cả tập tin bị xoá ở bước dọn
           if git diff --staged --quiet; then
             echo "Không có bản nháp mới."
           else

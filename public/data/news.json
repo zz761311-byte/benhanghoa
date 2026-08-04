@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05 05:00",
+  "updated_at": "2026-08-05 05:47",
   "items": [
     {
       "id": "w3xvzr",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-05 03:00"
+    },
+    {
+      "id": "1yvbr1i",
+      "title": "Hard Red Spring Wheat Price Trends: 50 & 200-Month Moving Averages",
+      "title_vi": "Xu hướng giá lúa mì mùa xuân đỏ cứng: Đường trung bình động 50 và 200 tháng",
+      "summary_vi": "Phân tích biểu đồ hàng tháng của Hard Red Spring Wheat và sự kết hợp của các đường trung bình động 50 tháng và 200 tháng đối với thị trường ngũ cốc Prairie.",
+      "image": "https://assets.barchart.com/img/barchart-og.png",
+      "link": "https://www.barchart.com/story/news/3644688/hard-red-spring-wheat-price-trends-50-200-month-moving-averages",
+      "source": "Barchart.com",
+      "category": "agri",
+      "published": "2026-08-05 02:40"
     },
     {
       "id": "1j5m4hm",
@@ -189,6 +200,17 @@
       "published": "2026-08-04 19:21"
     },
     {
+      "id": "1664noo",
+      "title": "Get Used to High Gas Prices",
+      "title_vi": "Làm quen với giá xăng cao",
+      "summary_vi": "Ngay cả khi chiến tranh Iran kết thúc vào ngày mai, đừng mong đợi máy bơm sẽ sớm được cứu trợ.",
+      "image": "https://cdn.theatlantic.com/thumbor/uZYCzkZtga2Rw1fTy1pDpISfUT0=/0x85:3994x2165/1200x625/media/img/mt/2026/08/2026_08_03_Gas_Prices_Wont_Fall_James_Surowiecki/original.jpg",
+      "link": "https://www.theatlantic.com/ideas/2026/08/oil-iran-high-gas-price/688155/",
+      "source": "The Atlantic",
+      "category": "energy",
+      "published": "2026-08-04 18:00"
+    },
+    {
       "id": "1oulyxs",
       "title": "ADM raises annual profit forecast as soybean processing outlook improves",
       "title_vi": "ADM tăng dự báo lợi nhuận hàng năm khi triển vọng chế biến đậu nành được cải thiện",
@@ -275,6 +297,17 @@
       "source": "Crude Oil Prices Today | OilPrice.com",
       "category": "energy",
       "published": "2026-08-04 03:00"
+    },
+    {
+      "id": "1sgjcag",
+      "title": "Comparative dynamics of coffee–tea cultural spaces in two Chinese cities: Evidence from Qingdao and Jinan, 2018–2024 | PLOS One",
+      "title_vi": "So sánh động lực của không gian văn hóa cà phê-trà ở hai thành phố Trung Quốc: Bằng chứng từ Thanh Đảo và Tế Nam, 2018–2024 | XIN VUI LÒNG MỘT",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://journals.plos.org/plosone/article/figures?id",
+      "source": "PLOS",
+      "category": "soft",
+      "published": "2026-08-04 01:14"
     },
     {
       "id": "1v2bkpc",
@@ -517,39 +550,6 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-08-02 20:00"
-    },
-    {
-      "id": "lhl3cw",
-      "title": "OPEC, Allies Increase Oil Output for Sixth Time in a Row",
-      "title_vi": "OPEC và các đồng minh tăng sản lượng dầu lần thứ sáu liên tiếp",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/opec-allies-increase-oil-output-for-sixth-time-in-a-row-e56378d9",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-08-02 18:57"
-    },
-    {
-      "id": "dz0wui",
-      "title": "August Weather Could Determine Corn and Soybean Outlook",
-      "title_vi": "Thời tiết tháng 8 có thể quyết định triển vọng ngô và đậu tương",
-      "summary_vi": "Một nhà phân tích thị trường nông nghiệp dự đoán sản lượng ngô trung bình của Mỹ trong năm nay nhưng cho biết thời tiết tháng 8 sẽ rất quan trọng đối với cả ngô và đậu nành. Scott Custard của Công ty Moving Parts có trụ sở tại Nebraska cho biết hầu hết ngô đều được thụ phấn trong điều kiện tốt. Hai đến bốn tuần tới sẽ rất quan trọng đối với việc cung cấp ngũ cốc, đặc biệt",
-      "image": "https://ingstadmedia.com/wp-content/uploads/2026/08/exec-627969de-b98c-4f85-a3ee-e340913d7368-1024x576.png",
-      "link": "https://ingstadmedia.com/august-weather-could-determine-corn-and-soybean-outlook/",
-      "source": "Ingstad Media",
-      "category": "agri",
-      "published": "2026-08-02 18:46"
-    },
-    {
-      "id": "3uad0a",
-      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
-      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
-      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
-      "image": "https://www.cmegroup.com/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium",
-      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-08-02 14:22"
     }
   ]
 }

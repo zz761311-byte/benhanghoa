@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-04 21:00",
+  "updated_at": "2026-08-04 21:44",
   "items": [
+    {
+      "id": "jl1q5k",
+      "title": "India&#039;s HPCL Snaps Up Nigerian Crude To Dodge The Hormuz Bottleneck",
+      "title_vi": "HPCL của Ấn Độ khai thác dầu thô Nigeria để tránh nút thắt cổ chai Hormuz",
+      "summary_vi": "Nhà máy lọc dầu thuộc sở hữu nhà nước Ấn Độ Hindustan Petroleum Corporation Limited (HPCL) đã mua 2 triệu thùng dầu thô từ Nigeria, các nguồn tin thương mại nói với Reuters hôm thứ Ba, do Ấn Độ tìm cách bù đắp sự thiếu hụt nguồn cung từ Trung Đông bằng việc giao hàng từ các nhà sản xuất ở xa hơn. HPC",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-04_84zsoltdfc.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-HPCL-Snaps-Up-Nigerian-Crude-To-Dodge-The-Hormuz-Bottleneck.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-04 21:30"
+    },
     {
       "id": "a575ve",
       "title": "BP Retreats Further From Green Energy With Archaea Sale",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-04 19:30"
+    },
+    {
+      "id": "m9v0kb",
+      "title": "July 2026 Metals Options Report",
+      "title_vi": "Báo cáo quyền chọn kim loại tháng 7 năm 2026",
+      "summary_vi": "Phân tích CVOL vàng thay đổi như thế nào, thanh khoản bạc ổn định và tình trạng thiếu đồng cơ cấu đang xác định các thông số rủi ro trên các đường cong kim loại trong Báo cáo quyền chọn kim loại tháng 6 năm 2026 của chúng tôi.",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/newsletters/metals-update/images/2026/may-metals-options-update-940x600.jpg",
+      "link": "https://www.cmegroup.com/newsletters/metals-options-update/metals-options-report-july-2026.html",
+      "source": "cmegroup.com",
+      "category": "metal",
+      "published": "2026-08-04 19:28"
     },
     {
       "id": "1piqh8i",
@@ -110,17 +132,6 @@
       "source": "czapp.com",
       "category": "soft",
       "published": "2026-08-04 14:00"
-    },
-    {
-      "id": "18hzksp",
-      "title": "Tanker Traffic Remains Subdued Despite Trump’s Talk of Peace",
-      "title_vi": "Giao thông tàu chở dầu vẫn bị khuất phục bất chấp cuộc nói chuyện hòa bình của Trump",
-      "summary_vi": "Các chuyến tàu chở dầu qua eo biển Hormuz và Bab el-Mandeb vẫn trầm lắng vào đầu tuần này bất chấp các báo cáo về khả năng nối lại các cuộc đàm phán hòa bình dựa trên tuyên bố của Tổng thống Donald Trump. Hàng chục tàu chở dầu đã vượt qua eo biển Bab el-Mandeb vào thứ Hai, dữ liệu Kpler",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-04_hfewjr1acx.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-Remains-Subdued-Despite-Trumps-Talk-of-Peace.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-04 13:45"
     },
     {
       "id": "1grd9xd",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "metal",
       "published": "2026-08-01 05:08"
-    },
-    {
-      "id": "s1wotp",
-      "title": "Palladium (PAW00) Future Contract Prices & News - Google Finance",
-      "title_vi": "Tin tức và giá hợp đồng tương lai Palladium (PAW00) - Google Finance",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.google.com/finance/quote/PAW00:NYMEX",
-      "source": "Google",
-      "category": "metal",
-      "published": "2026-08-01 04:51"
     }
   ]
 }

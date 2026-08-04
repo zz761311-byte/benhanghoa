@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04 11:33",
+  "updated_at": "2026-08-04 12:00",
   "items": [
     {
       "id": "1135vn8",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-04 05:00"
+    },
+    {
+      "id": "b4tyca",
+      "title": "US copper inflows surge as market awaits Trump tariff call",
+      "title_vi": "Dòng vốn đồng vào Mỹ tăng vọt khi thị trường chờ lệnh áp thuế của Trump",
+      "summary_vi": "Khoảng 200.000 tấn đã đến vào tháng 7, lượng hàng nhập hàng tháng lớn nhất được ghi nhận trong dữ liệu vận chuyển của IHS Markit.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/08/AdobeStock_578889746-1024x681.jpeg",
+      "link": "https://www.mining.com/web/us-copper-inflows-surge-as-market-awaits-trump-tariff-call/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-08-04 04:14"
     },
     {
       "id": "22ydtq",
@@ -539,17 +550,6 @@
       "source": "wtop.com",
       "category": "energy",
       "published": "2026-08-01 02:18"
-    },
-    {
-      "id": "1lc9ygq",
-      "title": "Fire Cup Coffee serves locally-sourced ingredients in accepting space",
-      "title_vi": "Fire Cup Coffee phục vụ các nguyên liệu có nguồn gốc địa phương trong không gian tiếp nhận",
-      "summary_vi": "Quán cà phê mới nhất ở Gresham được điều hành bởi một cặp người cấy ghép ở Los Angeles, những người đã bị thu hút đến Tây Bắc Thái Bình Dương bởi sự chấp nhận văn hóa và những người sành caffeine của nơi này. Thử […]",
-      "image": "https://theoutlookonline.com/wp-content/uploads/sites/24/2026/07/business_firecoffee_081226_gro_1.jpg",
-      "link": "https://theoutlookonline.com/2026/07/31/fire-cup-coffee-serves-locally-sourced-offerings-in-accepting-space/",
-      "source": "theoutlookonline.com",
-      "category": "soft",
-      "published": "2026-08-01 00:43"
     }
   ]
 }

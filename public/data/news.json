@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05 06:00",
+  "updated_at": "2026-08-05 06:46",
   "items": [
     {
       "id": "13gzjhj",
@@ -176,6 +176,17 @@
       "source": "TradingView",
       "category": "metal",
       "published": "2026-08-04 20:59"
+    },
+    {
+      "id": "1o84vmg",
+      "title": "Plump Supply Dictating Sentiment as Natural Gas Futures Erase Monday Gains",
+      "title_vi": "Nguồn cung dồi dào quyết định tâm lý khi hợp đồng tương lai khí đốt tự nhiên xóa bỏ mức tăng thứ Hai",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/plump-supply-dictating-sentiment-as-natural-gas-futures-erase-monday-gains/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-08-04 19:43"
     },
     {
       "id": "m9v0kb",
@@ -539,17 +550,6 @@
       "source": "dw.com",
       "category": "energy",
       "published": "2026-08-03 02:23"
-    },
-    {
-      "id": "1krt7xa",
-      "title": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
-      "title_vi": "Các nhà đầu tư ghi điểm về sự bùng nổ thị trường dầu mỏ của chiến tranh Iran Ở lại lâu giao dịch sẽ trở nên phức tạp hơn",
-      "summary_vi": "Biến động giá dầu do chiến tranh Mỹ-Iran gây ra đã tạo ra những người chiến thắng lớn trên thị trường, nhưng đối với các nhà đầu tư mua và nắm giữ, có những chủ đề năng lượng dài hạn tốt hơn để theo dõi.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108330705-17833366872026-07-01t164535z_267159373_rc2kvkadmuk6_rtrmadp_0_global-oil.jpeg?v=1783336748&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-08-02 20:00"
     }
   ]
 }

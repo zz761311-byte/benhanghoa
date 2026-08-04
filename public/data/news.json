@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-04 15:00",
+  "updated_at": "2026-08-04 16:00",
   "items": [
+    {
+      "id": "ezhk3u",
+      "title": "Germany’s Energy Demand Falls as High Prices Hit Oil Consumption",
+      "title_vi": "Nhu cầu năng lượng của Đức giảm do giá cao ảnh hưởng đến mức tiêu thụ dầu",
+      "summary_vi": "Theo dữ liệu sơ bộ do Nhóm công tác về cân bằng năng lượng (AGEB), một hiệp hội các tổ chức kinh tế và năng lượng của Đức, nhu cầu năng lượng của Đức giảm 1,9% trong nửa đầu năm nay do giá dầu và khí đốt tăng cao. Tiêu thụ sản phẩm dầu mỏ trong",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-04_twnjxg0pdr.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germanys-Energy-Demand-Falls-as-High-Prices-Hit-Oil-Consumption.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-04 15:15"
+    },
+    {
+      "id": "r934du",
+      "title": "US Sugar Prices Firm as Drought Concerns Persist",
+      "title_vi": "Giá đường Mỹ ổn định do lo ngại hạn hán vẫn tồn tại",
+      "summary_vi": "Giá đường Mỹ ổn định do lo ngại hạn hán vẫn tồn tại",
+      "image": "https://www.czapp.com/wp-content/uploads/2026/08/0ea2fd8b-b072-43a1-b5c9-8620aa9e61c6.jpg",
+      "link": "https://www.czapp.com/analyst-insights/us-sugar-prices-firm-as-drought-concerns-persist/",
+      "source": "czapp.com",
+      "category": "soft",
+      "published": "2026-08-04 14:00"
+    },
     {
       "id": "18hzksp",
       "title": "Tanker Traffic Remains Subdued Despite Trump’s Talk of Peace",
@@ -110,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-04 03:00"
-    },
-    {
-      "id": "12r7ile",
-      "title": "Ukraine’s Drone Campaign Drives Russian Oil Refining to 24-Year Low",
-      "title_vi": "Chiến dịch máy bay không người lái của Ukraine đẩy hoạt động lọc dầu của Nga xuống mức thấp nhất trong 24 năm",
-      "summary_vi": "Theo The Moscow Times, trích dẫn phân tích của Bloomberg, chế biến dầu thô của Nga đã giảm xuống mức thấp nhất trong hơn hai thập kỷ vào tháng 7 sau khi Ukraine mở rộng chiến dịch máy bay không người lái từ nhà máy lọc dầu đến tàu chở dầu, đường ống và cơ sở hạ tầng xuất khẩu. Các nhà máy lọc dầu của Nga đã xử lý một",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-03_tsgmvxy7f0.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraines-Drone-Campaign-Drives-Russian-Oil-Refining-to-24-Year-Low.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-04 02:30"
     },
     {
       "id": "1v2bkpc",
@@ -539,17 +550,6 @@
       "source": "startupfortune.com",
       "category": "metal",
       "published": "2026-08-01 02:29"
-    },
-    {
-      "id": "ds2hb1",
-      "title": "Why gasoline prices don’t always move in lockstep with crude oil prices",
-      "title_vi": "Tại sao giá xăng không phải lúc nào cũng biến động theo giá dầu thô",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://wtop.com/sponsored-content/2026/07/why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
-      "source": "wtop.com",
-      "category": "energy",
-      "published": "2026-08-01 02:18"
     }
   ]
 }

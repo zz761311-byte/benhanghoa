@@ -2,7 +2,7 @@
 title: "Đồng: Công cụ thiết yếu cho AI, Xe Điện, và Năng Lượng Xanh"
 date: 2026-07-07T13:00
 category: metal
-image: /assets/uploads/gemini_generated_image_icq4jbicq4jbicq4.png
+image: /assets/uploads/gemini_generated_image_icq4jbicq4jbicq4.jpg
 summary: >-
   # Đồng: Kim Loại của AI, EV, và Năng Lượng Xanh
 

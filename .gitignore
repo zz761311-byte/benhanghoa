@@ -26,3 +26,11 @@ dist/
 # Công cụ NỘI BỘ — KHÔNG đăng công khai (chứa dữ liệu đọc từ TradingView Premium)
 bang-gia-premium.html
 data/gia.json
+
+# Thông tin riêng — KHÔNG đưa lên GitHub (kho mã này đang để CÔNG KHAI)
+# Chứa link quản trị, địa chỉ thư điện tử, tên tài khoản.
+# Đã lên GitHub một lần là còn trong lịch sử, xoá cũng không sạch.
+HUONG-DAN-VAN-HANH-WEB.md
+SO-TAY-VAN-HANH-BEN-HANG-HOA.docx
+CLAUDE.local.md
+.gitignore.bak-*

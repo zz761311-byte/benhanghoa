@@ -2,7 +2,7 @@
 title: "Bạch Kim: Kim Loại Chiến Lược Mới Trong Cuộc Đua AI Của Trung Quốc"
 date: 2026-07-17T09:24
 category: metal
-image: /assets/uploads/gemini_generated_image_aj0d6gaj0d6gaj0d.png
+image: /assets/uploads/gemini_generated_image_aj0d6gaj0d6gaj0d.jpg
 summary: >-
   # Bạch Kim: Kim Loại Chiến Lược Mới Của Trung Quốc
 

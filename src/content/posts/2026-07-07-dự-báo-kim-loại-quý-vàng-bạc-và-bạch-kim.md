@@ -2,7 +2,7 @@
 title: "Dự Báo Kim Loại Quý: Vàng, Bạc và Bạch Kim"
 date: 2026-07-07T17:50
 category: metal
-image: /assets/uploads/gemini_generated_image_45l7g145l7g145l7.png
+image: /assets/uploads/gemini_generated_image_45l7g145l7g145l7.jpg
 summary: >-
   # Kim Loại Quý: Phục Hồi Yếu Nhưng Dài Hạn Tích Cực
 

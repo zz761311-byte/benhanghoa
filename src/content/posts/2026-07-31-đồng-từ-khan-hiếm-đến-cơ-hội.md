@@ -2,7 +2,7 @@
 title: "# Đồng: Từ Khan Hiếm Đến Cơ Hội"
 date: 2026-07-31T11:05
 category: metal
-image: /assets/uploads/gemini_generated_image_icq4jbicq4jbicq4.png
+image: /assets/uploads/gemini_generated_image_icq4jbicq4jbicq4.jpg
 summary: >-
   # 🔴 ĐỒNG: Thị Trường Vừa Vào Chế Độ "THIẾU HỤT"
 

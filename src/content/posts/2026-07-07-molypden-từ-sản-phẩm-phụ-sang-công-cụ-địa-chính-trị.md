@@ -2,7 +2,7 @@
 title: "Molypden: Từ Sản Phẩm Phụ Sang Công Cụ Địa Chính Trị"
 date: 2026-07-07T12:51
 category: macro
-image: /assets/uploads/gemini_generated_image_andzgandzgandzga.png
+image: /assets/uploads/gemini_generated_image_andzgandzgandzga.jpg
 summary: >-
   # Molypden: Từ Phụ Phẩm Thành Vũ Khí Địa Chính Trị
 

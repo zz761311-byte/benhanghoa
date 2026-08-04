@@ -9,7 +9,9 @@
     "preview": "astro preview",
     "fetch-news": "node scripts/fetch-news.mjs",
     "draft": "node scripts/draft-article.mjs",
-    "check-posts": "node scripts/check-posts.mjs"
+    "check-posts": "node scripts/check-posts.mjs",
+    "xem-anh": "node scripts/nen-anh.mjs --xem",
+    "nen-anh": "node scripts/nen-anh.mjs"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^11.2.0",

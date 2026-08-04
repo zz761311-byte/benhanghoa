@@ -2,7 +2,7 @@
 title: "# Đợt Bán Tháo Kim Loại: Những Người Thắng Và Người Thua Mới"
 date: 2026-07-23T08:04
 category: metal
-image: /assets/uploads/gemini_generated_image_4mzlbt4mzlbt4mzl.png
+image: /assets/uploads/gemini_generated_image_4mzlbt4mzlbt4mzl.jpg
 summary: >-
   Bán Tháo Kim Loại: Ai Thắng, Ai Thua?
 

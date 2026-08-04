@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-08-04 22:00",
+  "updated_at": "2026-08-04 23:00",
   "items": [
+    {
+      "id": "1xc6fq7",
+      "title": "Iron Ore Prices Hit One-Year Low as China Demand Slump Deepens",
+      "title_vi": "Giá quặng sắt chạm mức thấp nhất trong một năm khi nhu cầu của Trung Quốc sụt giảm sâu hơn",
+      "summary_vi": "Giá quặng sắt kỳ hạn ở Singapore giảm xuống mức thấp nhất trong một năm do các yếu tố cơ bản xấu đi tiếp tục đè nặng lên thị trường. Nhu cầu thép ở Trung Quốc vẫn yếu trong bối cảnh hoạt động xây dựng đang sụt giảm và biên lợi nhuận của các nhà máy suy yếu, trong khi nguồn cung tiếp tục tăng.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-04_kwxvuy2qfz.jpg",
+      "link": "https://oilprice.com/Metals/Commodities/Iron-Ore-Prices-Hit-One-Year-Low-as-China-Demand-Slump-Deepens.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-08-04 23:00"
+    },
+    {
+      "id": "1tfpkfh",
+      "title": "Oil Extends Losses After US, Qatar Signal Progress on Iran Draft Deal",
+      "title_vi": "Dầu tiếp tục thua lỗ sau khi Mỹ, Qatar báo hiệu tiến triển về dự thảo thỏa thuận với Iran",
+      "summary_vi": "Dầu thô Brent giảm trở lại khoảng 80 USD/thùng sau khi sự lạc quan mới về thỏa thuận dự thảo tiềm năng giữa Mỹ và Iran làm giảm bớt lo ngại địa chính trị, ngay cả khi Tổng thống Trump chỉ trích các nhà máy lọc dầu của Mỹ vì lợi nhuận nhiên liệu cao. Trump nhắm tới lợi nhuận chiến tranh của các ông lớn dầu mỏ - Thu nhập quý 2 của dầu mỏ Mỹ tăng vọt",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-04_flp0qzecqt.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Extends-Losses-After-US-Qatar-Signal-Progress-on-Iran-Draft-Deal.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-04 22:45"
+    },
+    {
+      "id": "e0hef2",
+      "title": "Fairtrade International Raises Price Minimums Again",
+      "title_vi": "Fairtrade International tăng giá tối thiểu một lần nữa",
+      "summary_vi": "Fairtrade International đang tăng giá tối thiểu đối với cà phê được chứng nhận lần thứ hai trong vòng chưa đầy bốn năm, với lý do chi phí sản xuất tăng và thị trường biến động đòi hỏi...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/08/04/fairtrade-international-raises-price-minimums-again/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-08-04 22:40"
+    },
+    {
+      "id": "17gsm1g",
+      "title": "Pentagon Scraps $300 Million Lithium Tender for Defense Stockpile",
+      "title_vi": "Lầu Năm Góc loại bỏ gói thầu lithium trị giá 300 triệu USD cho kho dự trữ quốc phòng",
+      "summary_vi": "Bộ Quốc phòng Hoa Kỳ đã hủy gói thầu mua lithium cacbonat trị giá tới 300 triệu USD cho kho dự trữ chiến lược quốc gia, một đòn giáng khác vào Chính quyền đang tìm cách đảm bảo các khoáng sản quan trọng cho quốc phòng và các ngành chiến lược khác. Phòng thủ của DoD L",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-04_wor1yqcou7.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pentagon-Scraps-300-Million-Lithium-Tender-for-Defense-Stockpile.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-04 22:30"
+    },
+    {
+      "id": "ovq66t",
+      "title": "Study: Bird-Friendly Coffee Landscapes Need Forest Alongside Shade",
+      "title_vi": "Nghiên cứu: Cảnh quan cà phê thân thiện với chim cần có rừng bên cạnh bóng mát",
+      "summary_vi": "Cà phê được trồng dưới bóng râm từ lâu đã được quảng bá như một phương tiện chính để bảo vệ sự đa dạng của các loài chim ở các vùng cà phê nhiệt đới. Một nghiên cứu mới từ dãy Andes ở Colombia đã làm phức tạp thêm bức tranh đó, phát hiện ra rằng...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/08/04/study-bird-friendly-coffee-landscapes-need-forest-alongside-shade/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-08-04 21:37"
+    },
     {
       "id": "jl1q5k",
       "title": "India&#039;s HPCL Snaps Up Nigerian Crude To Dodge The Hormuz Bottleneck",
@@ -88,39 +143,6 @@
       "source": "Reuters",
       "category": "agri",
       "published": "2026-08-04 17:30"
-    },
-    {
-      "id": "1c9r7iy",
-      "title": "BP Earnings Surge to $5.7 Billion on Oil Price and Refining Boom",
-      "title_vi": "Thu nhập của BP tăng lên 5,7 tỷ USD nhờ giá dầu và sự bùng nổ lọc dầu",
-      "summary_vi": "BP đã tăng hơn gấp đôi lợi nhuận trong quý thứ hai so với một năm trước đó nhờ giá dầu và khí đốt cao hơn và tỷ suất lợi nhuận lọc dầu cao hơn do sự gián đoạn nguồn cung gây sốc ở Trung Đông. BP hôm thứ Ba đã báo cáo lợi nhuận về chi phí thay thế cơ bản (RC), mức đóng cửa",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-04_l2gow9d7jb.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Earnings-Surge-to-57-Billion-on-Oil-Price-and-Refining-Boom.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-04 17:30"
-    },
-    {
-      "id": "kcnm62",
-      "title": "Saudi Aramco’s Adjusted Profit Jumps 33% as Oil Prices Surge",
-      "title_vi": "Lợi nhuận điều chỉnh của Saudi Aramco tăng 33% khi giá dầu tăng",
-      "summary_vi": "Saudi Aramco chứng kiến ​​thu nhập ròng được điều chỉnh tăng 33% trong quý hai so với một năm trước do giá dầu cao và khả năng tái định tuyến hầu hết xuất khẩu dầu thô của gã khổng lồ dầu mỏ này nhiều hơn bù đắp cho dòng chảy bị hạn chế tại eo biển Hormuz. Công ty nhà nước khổng lồ Aramco hôm thứ ba đã báo cáo",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-04_ugsmv4b07l.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramcos-Adjusted-Profit-Jumps-33-as-Oil-Prices-Surge.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-04 16:30"
-    },
-    {
-      "id": "ezhk3u",
-      "title": "Germany’s Energy Demand Falls as High Prices Hit Oil Consumption",
-      "title_vi": "Nhu cầu năng lượng của Đức giảm do giá cao ảnh hưởng đến mức tiêu thụ dầu",
-      "summary_vi": "Theo dữ liệu sơ bộ do Nhóm công tác về cân bằng năng lượng (AGEB), một hiệp hội các tổ chức kinh tế và năng lượng của Đức, nhu cầu năng lượng của Đức giảm 1,9% trong nửa đầu năm nay do giá dầu và khí đốt tăng cao. Tiêu thụ sản phẩm dầu mỏ trong",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-04_twnjxg0pdr.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germanys-Energy-Demand-Falls-as-High-Prices-Hit-Oil-Consumption.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-04 15:15"
     },
     {
       "id": "r934du",
@@ -528,28 +550,6 @@
       "source": "Yahoo Finance",
       "category": "soft",
       "published": "2026-08-01 09:06"
-    },
-    {
-      "id": "d76g63",
-      "title": "Americas Silver Stock Price Forecast. Should You Buy USAS?",
-      "title_vi": "Dự báo giá cổ phiếu bạc châu Mỹ. Bạn có nên mua USAS?",
-      "summary_vi": "Kiểm tra xem Cổ phiếu USAS có Đánh giá Mua hoặc Bán hay không. Giá cổ phiếu USAS (NYSE), Dự báo, Dự đoán, Phân tích chứng khoán và Tin tức về Tập đoàn Bạc Châu Mỹ.",
-      "image": "https://stockinvest.us/storage/chart/USAS/main/3.png",
-      "link": "https://stockinvest.us/stock/USAS",
-      "source": "StockInvest.us",
-      "category": "metal",
-      "published": "2026-08-01 06:13"
-    },
-    {
-      "id": "1owsjcv",
-      "title": "US Natgas Output to Hit Record High in 2026, While Demand Holds Steady, EIA Says",
-      "title_vi": "EIA cho biết sản lượng Natgas của Mỹ sẽ đạt mức cao kỷ lục vào năm 2026, trong khi nhu cầu vẫn ổn định",
-      "summary_vi": "(Reuters) – Sản lượng khí đốt tự nhiên của Hoa Kỳ sẽ tăng lên mức cao kỷ lục vào năm 2026, trong khi nhu cầu sẽ giữ ổn định, Cơ quan Thông tin Năng lượng Hoa Kỳ cho biết trong Báo cáo Triển vọng Năng lượng Ngắn hạn hôm thứ Ba. EIA dự kiến ​​sản lượng khí khô sẽ tăng từ mức kỷ lục 107,6 tỷ feet khối mỗi ngày vào năm 2025…",
-      "image": "https://energynow.com/wp-content/uploads/colorado-oil-gas-rig-1200x810.jpg",
-      "link": "https://energynow.com/2026/02/us-natgas-output-to-hit-record-high-in-2026-while-demand-holds-steady-eia-says/",
-      "source": "EnergyNow.com",
-      "category": "metal",
-      "published": "2026-08-01 05:08"
     }
   ]
 }

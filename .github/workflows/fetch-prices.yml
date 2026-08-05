@@ -22,13 +22,13 @@ name: Cập nhật giá hàng hóa (Bến Hàng Hóa)
 #    của gói miễn phí. Trang bảng giá đọc thẳng tập tin này lúc khách truy cập
 #    nên KHÔNG cần dựng lại web.
 #
-# 🔴 LỊCH ĐANG TẮT — mở lại bằng cách xoá dấu # ở 3 dòng "schedule" bên dưới,
-#    SAU KHI đã thêm loại trừ trên Cloudflare Pages như ghi chú ở trên.
-#    Trong lúc chờ, vẫn bấm chạy tay được ở tab Actions trên GitHub.
+# ✅ LỊCH ĐANG BẬT (từ 05/08/2026). Cloudflare Pages đã loại trừ `public/data/*`
+#    khỏi Build watch paths nên bot ghi giá KHÔNG làm web dựng lại.
+#    Muốn tạm dừng: thêm dấu # vào 3 dòng "schedule" bên dưới.
 on:
-  # schedule:
-  #   - cron: "12 * * * 1-5"    # mỗi giờ, phút :12, thứ Hai đến thứ Sáu (UTC)
-  #   - cron: "12 22,23 * * 0"  # Chủ nhật tối — lúc sàn mở lại tuần mới
+  schedule:
+    - cron: "12 * * * 1-5"    # mỗi giờ, phút :12, thứ Hai đến thứ Sáu (UTC)
+    - cron: "12 22,23 * * 0"  # Chủ nhật tối — lúc sàn mở lại tuần mới
   workflow_dispatch:
 
 permissions:

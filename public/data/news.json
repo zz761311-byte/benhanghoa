@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06 02:00",
+  "updated_at": "2026-08-06 02:59",
   "items": [
     {
       "id": "wb766y",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-06 02:00"
+    },
+    {
+      "id": "1cpg5c4",
+      "title": "Italian Study Says Espresso and Moka Pot May Reduce This Liver Disease",
+      "title_vi": "Nghiên cứu của Ý cho biết Espresso và Moka Pot có thể làm giảm bệnh gan này",
+      "summary_vi": "Một nghiên cứu mới giữa những người uống cà phê ở miền nam nước Ý cho thấy những người uống cà phê espresso hoặc moka pot hàng ngày ít có khả năng phát triển bệnh gan...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/08/05/italian-study-says-espresso-and-moka-pot-may-reduce-this-liver-disease/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-08-06 01:07"
     },
     {
       "id": "1g2im1q",
@@ -154,6 +165,17 @@
       "source": "EBC Financial Group",
       "category": "metal",
       "published": "2026-08-05 16:28"
+    },
+    {
+      "id": "1f025c7",
+      "title": "Promising Rain Forecast for Corn Belt Through Mid-August",
+      "title_vi": "Dự báo mưa đầy hứa hẹn cho vành đai ngô đến giữa tháng 8",
+      "summary_vi": "Nửa đầu tháng 8 có thể có lượng mưa tương đối thuận lợi trên phần lớn Vành đai ngô khi ngô và đậu nành tiếp tục trải qua các giai đoạn sinh sản quan trọng.",
+      "image": "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredBlogImage?symbolicName=2026q05-us-ag-wx-blog.png&category=CMS",
+      "link": "https://www.dtnpf.com/agriculture/web/ag/blogs/ag-weather-forum/blog-post/2026/08/05/promising-rain-forecast-corn-belt",
+      "source": "DTN Progressive Farmer",
+      "category": "agri",
+      "published": "2026-08-05 14:32"
     },
     {
       "id": "1gvxkw7",
@@ -528,28 +550,6 @@
       "source": "PLOS",
       "category": "soft",
       "published": "2026-08-04 01:14"
-    },
-    {
-      "id": "1v2bkpc",
-      "title": "Mike Armanini seeks relief for PA powder metal industry",
-      "title_vi": "Mike Armanini tìm kiếm sự cứu trợ cho ngành kim loại bột PA",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://pro.stateaffairs.com/pa/economy/tariff-relief-sought-for-powder-metals-industry",
-      "source": "State Affairs",
-      "category": "metal",
-      "published": "2026-08-04 00:31"
-    },
-    {
-      "id": "1vuv7xl",
-      "title": "Russian Oil Refining Falls to 24-Year Low After Ukrainian Drone Strikes – Bloomberg",
-      "title_vi": "Hoạt động lọc dầu của Nga giảm xuống mức thấp nhất trong 24 năm sau cuộc đình công của máy bay không người lái Ukraine - Bloomberg",
-      "summary_vi": "Bloomberg đưa tin hôm thứ Hai rằng hoạt động lọc dầu của Nga đã giảm trong tháng 7 xuống mức thấp nhất trong hơn hai thập kỷ khi các cuộc tấn công bằng máy bay không người lái của Ukraine tăng cường nhằm vào các nhà máy lọc dầu, tàu chở dầu và cơ sở hạ tầng năng lượng khác.",
-      "image": "https://static.themoscowtimes.com/image/og/ff/93404__ff3faa8a3a1cbf69dd7995191750a478.jpg",
-      "link": "https://www.themoscowtimes.com/2026/08/03/russian-oil-refining-falls-to-24-year-low-after-ukrainian-drone-strikes-bloomberg-a93404",
-      "source": "The Moscow Times",
-      "category": "energy",
-      "published": "2026-08-03 23:38"
     }
   ]
 }

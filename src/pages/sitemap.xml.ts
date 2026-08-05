@@ -20,6 +20,10 @@ export const GET: APIRoute = async () => {
     { path: "phan-tich" },
     { path: "kien-thuc" },
     { path: "gioi-thieu" },
+    // Hai trang pháp lý — với website tài chính, Google xét cả những trang này
+    // khi đánh giá độ tin cậy của trang, nên phải khai báo chứ đừng bỏ sót
+    { path: "chinh-sach-bao-mat" },
+    { path: "dieu-khoan-su-dung" },
     ...ALL.map((it) => ({ path: `hang-hoa/${it.slug}` })),
     ...knowledge.map((d) => ({ path: `kien-thuc/${d.slug}`, lastmod: fmt(d.data.updated) })),
     ...posts.map((p) => ({ path: `phan-tich/${p.slug}`, lastmod: fmt(p.data.date) }))

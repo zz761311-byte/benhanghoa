@@ -64,7 +64,15 @@ export const GROUPS = [
       { name: "Kẽm",       slug: "kem",       tv: "CAPITALCOM:ZINC",     unit: "USD/tấn" },
       { name: "Chì",       slug: "chi",       tv: "CAPITALCOM:LEAD",     unit: "USD/tấn" },
       { name: "Niken",     slug: "niken",     tv: "CAPITALCOM:NICKEL",   unit: "USD/tấn" },
-      { name: "Thiếc",     slug: "thiec",     tv: "CAPITALCOM:TIN",      unit: "USD/tấn" }
+      // ⚠️ THIẾC — KHÔNG có mã nào dùng được, đã dò ngày 05/08/2026:
+      //   CAPITALCOM:TIN → khách vãng lai thấy cổ phiếu CORNISH METALS INC. giá 1,11
+      //     (thiếc thật khoảng 30.000–40.000 USD/tấn) — sai hoàn toàn
+      //   LME:SN → TradingView đổi thành LME_EOD:SN, chỉ có giá cuối ngày, cần mua dữ liệu
+      //   SHFE:SN1! → không tải được dữ liệu
+      //   MCX:TIN1! → có dữ liệu nhưng là sàn Ấn Độ, tính bằng INR/kg, sai đơn vị
+      // Vì vậy để trống, KHÔNG hiện số. Thà trống còn hơn cho nhà đầu tư số sai.
+      // Tìm được nguồn đúng thì điền `tv` và bỏ cờ `chuaCoNguon`.
+      { name: "Thiếc",     slug: "thiec",     tv: "",                    unit: "USD/tấn", chuaCoNguon: true }
     ]
   }
 ];

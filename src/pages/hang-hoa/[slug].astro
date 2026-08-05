@@ -137,6 +137,23 @@ const faqSchema = d && d.faq ? {
 </style>
 
 <script define:vars={{ sym: item.tv }}>
+  // Mặt hàng chưa tìm được nguồn giá đáng tin (xem ghi chú trong commodities.mjs)
+  // thì KHÔNG nạp khung nào — nạp với mã rỗng thì TradingView tự khớp sang mã
+  // trùng tên và hiện giá của thứ khác hoàn toàn.
+  if (!sym) {
+    for (const id of ["symbol-info", "adv-chart"]) {
+      const o = document.getElementById(id);
+      if (o) {
+        o.innerHTML =
+          '<p style="color:var(--muted);font-size:14px;padding:18px 0;margin:0">' +
+          "Mặt hàng này chưa có nguồn dữ liệu giá đáng tin cậy dùng được miễn phí. " +
+          "Chúng tôi để trống thay vì hiển thị số liệu có thể sai. " +
+          "Cần thông tin, vui lòng liên hệ để được tư vấn." +
+          "</p>";
+        o.closest(".detail-chart")?.style.setProperty("height", "auto");
+      }
+    }
+  } else {
   // Hộp thông tin giá
   const info = document.getElementById("symbol-info");
   if (info) {
@@ -160,5 +177,6 @@ const faqSchema = d && d.faq ? {
       allow_symbol_change: false, calendar: false
     });
     chart.appendChild(s);
+  }
   }
 </script>

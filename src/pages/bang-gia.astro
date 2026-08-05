@@ -139,20 +139,32 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
                         </>
                       ) : (
                         <td class="c-chuaco" colspan="8">
-                          {/* Mặt hàng sàn LME / ICE châu Âu / Thượng Hải: dữ liệu giá có
-                              bản quyền nên máy chủ mình không lấy số về được. Thay vào đó
-                              nhúng ô giá chính thức của TradingView — khách vẫn thấy giá
-                              và mức thay đổi thật. Ô này tải khi cuộn tới, không tải sẵn. */}
-                          <div class="o-gia-tv" data-symbol={mh.tv} data-ten={mh.name}>
-                            <span class="o-gia-cho">Đang tải giá…</span>
-                            {/* Lớp phủ vô hình: khách bấm vào ô giá thì sang trang chi tiết
-                                của mình, không bị nhảy sang TradingView */}
-                            <a class="o-gia-phu" href={`/hang-hoa/${mh.slug}`}
-                               aria-label={`Xem chi tiết ${mh.name}`}></a>
-                          </div>
+                          {mh.chuaCoNguon ? (
+                            /* Không có mã nào cho số đúng — thà để trống còn hơn hiện
+                               nhầm giá của thứ khác cho nhà đầu tư đọc */
+                            <span class="o-gia-trong">
+                              <span class="lim-badge">chưa có dữ liệu</span>
+                              <span class="nho">chưa tìm được nguồn giá đáng tin cho mặt hàng này</span>
+                            </span>
+                          ) : (
+                            /* Mặt hàng sàn LME / ICE châu Âu / Thượng Hải: dữ liệu giá có
+                               bản quyền nên máy chủ mình không lấy số về được. Thay vào đó
+                               nhúng ô giá chính thức của TradingView — khách vẫn thấy giá
+                               và mức thay đổi thật. Ô này tải khi cuộn tới, không tải sẵn. */
+                            <div class="o-gia-tv" data-symbol={mh.tv} data-ten={mh.name}>
+                              <span class="o-gia-cho">Đang tải giá…</span>
+                              {/* Lớp phủ vô hình: khách bấm vào ô giá thì sang trang chi tiết
+                                  của mình, không bị nhảy sang TradingView */}
+                              <a class="o-gia-phu" href={`/hang-hoa/${mh.slug}`}
+                                 aria-label={`Xem chi tiết ${mh.name}`}></a>
+                            </div>
+                          )}
                         </td>
                       )}
                       <td class="c-bieudo">
+                        {mh.chuaCoNguon ? (
+                          <span class="nho">—</span>
+                        ) : (
                         <button type="button" class="nut-bieudo" data-symbol={mh.tv}
                                 aria-label={`Xem biểu đồ ${mh.name}`}>
                           <svg class="nut-icon" viewBox="0 0 20 20" width="15" height="15" aria-hidden="true">
@@ -163,6 +175,7 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
                           </svg>
                           <span class="nut-chu">Biểu đồ</span>
                         </button>
+                        )}
                       </td>
                     </tr>
                   );
@@ -223,7 +236,19 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
       enable_publishing: false, hide_side_toolbar: false,
       allow_symbol_change: true, container_id: "tv_chart"
     });
-    khungChart?.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    // Đưa biểu đồ lên giữa màn hình. Trừ chiều cao đầu trang dính (khoảng 70px)
+    // để biểu đồ không bị thanh menu che mất phần trên.
+    if (khungChart) {
+      const CAO_DAU_TRANG = 76;
+      const oViTri = khungChart.getBoundingClientRect();
+      const chua = window.innerHeight - CAO_DAU_TRANG;
+      // Biểu đồ thấp hơn màn hình thì căn giữa; cao hơn thì đưa mép trên lên đầu
+      const chenhLech = oViTri.height < chua
+        ? (chua - oViTri.height) / 2
+        : 0;
+      const diToi = window.scrollY + oViTri.top - CAO_DAU_TRANG - chenhLech;
+      window.scrollTo({ top: Math.max(0, diToi), behavior: "smooth" });
+    }
   }
 
   document.querySelectorAll(".nut-bieudo").forEach((nut) => {
@@ -326,6 +351,8 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
   .o-gia-tv { min-height: 52px; max-width: 320px; margin-left: -6px; position: relative; }
   .o-gia-tv :global(.tradingview-widget-container) { min-height: 52px; }
   .o-gia-cho { font-size: 12.5px; color: var(--muted); line-height: 52px; }
+  .o-gia-trong { display: inline-flex; align-items: center; gap: 10px; min-height: 52px; }
+  .o-gia-trong .nho { font-size: 12.5px; }
   /* Phủ kín ô giá: chặn bấm vào logo TradingView, đưa khách về trang chi tiết của mình */
   .o-gia-phu { position: absolute; inset: 0; z-index: 3; display: block; cursor: pointer; }
 

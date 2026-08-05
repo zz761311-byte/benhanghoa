@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06 04:00",
+  "updated_at": "2026-08-06 04:37",
   "items": [
     {
       "id": "1erxlmm",
@@ -343,6 +343,17 @@
       "published": "2026-08-05 00:01"
     },
     {
+      "id": "1xc6fq7",
+      "title": "Iron Ore Prices Hit One-Year Low as China Demand Slump Deepens",
+      "title_vi": "Giá quặng sắt chạm mức thấp nhất trong một năm khi nhu cầu của Trung Quốc sụt giảm sâu hơn",
+      "summary_vi": "Giá quặng sắt kỳ hạn chạm mức thấp nhất một năm do thép Trung Quốc sụt giảm và nguồn cung gia tăng khiến tâm lý giảm giá, với việc UBS dự báo giá sẽ tiếp tục giảm cho đến năm 2027.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-04_kwxvuy2qfz.jpg",
+      "link": "https://oilprice.com/Metals/Commodities/Iron-Ore-Prices-Hit-One-Year-Low-as-China-Demand-Slump-Deepens.html",
+      "source": "oilprice.com",
+      "category": "metal",
+      "published": "2026-08-04 23:00"
+    },
+    {
       "id": "e0hef2",
       "title": "Fairtrade International Raises Price Minimums Again",
       "title_vi": "Fairtrade International tăng giá tối thiểu một lần nữa",
@@ -363,6 +374,17 @@
       "source": "Brownfield Ag News",
       "category": "energy",
       "published": "2026-08-04 22:12"
+    },
+    {
+      "id": "10gticb",
+      "title": "Dollar Holds Steady as Oil Slump Reduces Fed Rate Hike Bets",
+      "title_vi": "Đồng đô la giữ ổn định khi dầu sụt giảm làm giảm đặt cược tăng lãi suất của Fed",
+      "summary_vi": "Chỉ số đồng đô la dao động quanh mức 100 vào thứ Ba, trong khi lãi suất trái phiếu kho bạc Mỹ giảm do giá dầu giảm do ngày càng lạc quan rằng các nỗ lực ngoại giao có thể chấm dứt xung đột Mỹ-Iran, khiến các nhà đầu tư giảm kỳ vọng về việc Cục Dự trữ Liên bang tăng lãi suất vào tháng 9. Qatar…",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://www.tradingview.com/news/te_news:572623:0-dollar-holds-steady-as-oil-slump-reduces-fed-rate-hike-bets/",
+      "source": "TradingView",
+      "category": "energy",
+      "published": "2026-08-04 21:44"
     },
     {
       "id": "ovq66t",
@@ -528,28 +550,6 @@
       "source": "Crude Oil Prices Today | OilPrice.com",
       "category": "energy",
       "published": "2026-08-04 03:00"
-    },
-    {
-      "id": "lmvae6",
-      "title": "Oil prices drop 7% to three-week low after Trump cancels attack on Iran",
-      "title_vi": "Giá dầu giảm 7% xuống mức thấp nhất trong ba tuần sau khi Trump hủy bỏ cuộc tấn công vào Iran",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/oil-tumbles-trump-cancels-attack-iran-reach-nuclear-deal-2026-08-03/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-08-04 01:38"
-    },
-    {
-      "id": "1y0osi7",
-      "title": "Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'",
-      "title_vi": "Trump nói Exxon và Chevron đã kiếm được 'quá nhiều tiền' nhờ giá dầu cao trong cuộc xung đột ở Iran: 'Tôi không thích điều đó'",
-      "summary_vi": "Giá dầu thô của Mỹ đã tăng khoảng 20% ​​kể từ khi Mỹ và Israel tấn công Iran vào ngày 28/2.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108344012-1785780377913-108344012-1785780287973-gettyimages-2288162378-AFP_C3VK32V.jpg?v=1785780393&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-08-04 01:32"
     }
   ]
 }

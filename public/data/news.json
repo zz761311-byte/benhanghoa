@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-06 00:57",
+  "updated_at": "2026-08-06 01:00",
   "items": [
+    {
+      "id": "1g2im1q",
+      "title": "China Accelerates Its Economic Push Across Central Asia",
+      "title_vi": "Trung Quốc tăng tốc thúc đẩy kinh tế khắp Trung Á",
+      "summary_vi": "Uzbekistan, một trong những động lực kinh tế của Trung Á, đang trải qua sự mở rộng đáng kể ảnh hưởng kinh tế của Trung Quốc. Theo dữ liệu chính thức của chính phủ Uzbekistan, thương mại song phương trong nửa đầu năm 2026 đã tăng lên 7,7 tỷ USD, khiến Trung Quốc trở thành thị trường thương mại lớn nhất của Uzbekistan cho đến nay.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-05_jsviusxdam.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Accelerates-Its-Economic-Push-Across-Central-Asia.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-08-06 01:00"
+    },
     {
       "id": "ovkmb3",
       "title": "India Hopes To Take Over Operation Of Venezuelan Oil Fields From PDVSA",
@@ -112,17 +123,6 @@
       "published": "2026-08-05 21:08"
     },
     {
-      "id": "1cp904f",
-      "title": "Ukraine Calls for Faster Patriot Deliveries After Deadly Russian Missile Barrage",
-      "title_vi": "Ukraine kêu gọi giao hàng Patriot nhanh hơn sau vụ tấn công tên lửa chết người của Nga",
-      "summary_vi": "Các cuộc tấn công bằng máy bay không người lái và tên lửa đạn đạo trong đêm của Nga đã giết chết ít nhất 17 người ở Kiev và khu vực xung quanh, trong khi Ukraine cảnh báo về tình trạng thiếu hụt phòng không nghiêm trọng và kêu gọi các đồng minh đẩy nhanh việc chuyển giao tên lửa phòng không Patriot và các vũ khí khác đang cần khẩn cấp trong bối cảnh căng thẳng quốc tế.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-05_neicd8zfsa.jpg",
-      "link": "https://oilprice.com/Geopolitics/Europe/Ukraine-Calls-for-Faster-Patriot-Deliveries-After-Deadly-Russian-Missile-Barrage.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-05 21:00"
-    },
-    {
       "id": "x8ozsf",
       "title": "Copper floods US as traders anticipate Trump tariffs while ‘Taco’ concerns loom",
       "title_vi": "Đồng tràn ngập nước Mỹ khi các thương nhân dự đoán thuế quan của Trump trong khi lo ngại về 'Taco' xuất hiện",
@@ -154,6 +154,17 @@
       "source": "EBC Financial Group",
       "category": "metal",
       "published": "2026-08-05 16:28"
+    },
+    {
+      "id": "1gvxkw7",
+      "title": "Natural Gas and Oil Forecast: Middle East Risks, EIA Inventory Draw Keep Energy Markets in Focus",
+      "title_vi": "Dự báo về khí đốt và dầu tự nhiên: Rủi ro ở Trung Đông, EIA rút hàng tồn kho khiến thị trường năng lượng luôn được chú ý",
+      "summary_vi": "Thị trường dầu và khí đốt tự nhiên vẫn được thúc đẩy bởi sự phát triển ở Trung Đông, lượng tồn kho dầu thô EIA giảm mạnh, hoạt động lọc dầu mạnh mẽ và nhu cầu LNG phục hồi khi các nhà giao dịch theo dõi rủi ro nguồn cung toàn cầu.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/08/Main-Images-11-2.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-middle-east-risks-eia-inventory-draw-keep-energy-markets-in-focus-1614853",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-08-05 12:16"
     },
     {
       "id": "uih8lh",
@@ -539,17 +550,6 @@
       "source": "The Moscow Times",
       "category": "energy",
       "published": "2026-08-03 23:38"
-    },
-    {
-      "id": "14usi57",
-      "title": "US and China AI demand drives copper prices to near-record highs",
-      "title_vi": "Nhu cầu AI của Mỹ và Trung Quốc đẩy giá đồng lên mức cao kỷ lục",
-      "summary_vi": "Hàng tồn kho bên ngoài nước Mỹ giảm do người mua Mỹ vội vã vượt qua các mức thuế tiềm năng",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F5%2F6%2F12936516-2-eng-GB%2Fbe01062cd9dc-photo_SXM2026073000004818.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630",
-      "link": "https://asia.nikkei.com/business/markets/commodities/us-and-china-ai-demand-drives-copper-prices-to-near-record-highs",
-      "source": "Nikkei Asia",
-      "category": "metal",
-      "published": "2026-08-03 23:34"
     }
   ]
 }

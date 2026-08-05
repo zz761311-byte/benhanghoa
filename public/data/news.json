@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05 11:32",
+  "updated_at": "2026-08-05 12:00",
   "items": [
     {
       "id": "bjhqjd",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-05 03:00"
+    },
+    {
+      "id": "1p59tr9",
+      "title": "FCX Flashes Buy Signal; This Is Fueling Copper, Rare Earth Stocks",
+      "title_vi": "Tín hiệu mua FCX nhấp nháy; Đây là nguồn cung cấp đồng, trữ lượng đất hiếm",
+      "summary_vi": "Cổ phiếu FCX, các công ty khai thác khác và quỹ ETF giá đồng đều đưa ra tín hiệu mua nhờ tin tốt về tăng trưởng toàn cầu và khả năng hỗ trợ của chính quyền Trump.",
+      "image": "https://www.investors.com/wp-content/uploads/2016/07/stock-copper-4-adobe.jpg",
+      "link": "https://www.investors.com/news/fcx-stock-copper-price-etf-cper-trump-tariff-nb-rare-earth/",
+      "source": "Investor's Business Daily",
+      "category": "metal",
+      "published": "2026-08-05 02:45"
     },
     {
       "id": "1yvbr1i",
@@ -539,17 +550,6 @@
       "source": "UBS",
       "category": "macro",
       "published": "2026-08-03 10:08"
-    },
-    {
-      "id": "lmvae6",
-      "title": "Oil prices drop 7% to three-week low after Trump cancels attack on Iran",
-      "title_vi": "Giá dầu giảm 7% xuống mức thấp nhất trong ba tuần sau khi Trump hủy bỏ cuộc tấn công vào Iran",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/oil-tumbles-trump-cancels-attack-iran-reach-nuclear-deal-2026-08-03/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-08-03 07:11"
     }
   ]
 }

@@ -15,6 +15,7 @@ export const GET: APIRoute = async () => {
   const entries: Entry[] = [
     { path: "" },              // trang chủ
     { path: "bang-gia" },
+    { path: "quy-doi" },
     { path: "tin-tuc" },
     { path: "phan-tich" },
     { path: "kien-thuc" },

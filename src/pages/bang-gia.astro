@@ -4,6 +4,7 @@ export const prerender = false;   // Dựng tại chỗ trên Cloudflare mỗi l
 import Layout from "../layouts/Layout.astro";
 import LeadCTA from "../components/LeadCTA.astro";
 import { GROUPS, TICKER } from "../data/commodities.mjs";
+import { quyDoiVND, tienVN, giaHienThi, MIEN_TRU } from "../data/quy-doi.mjs";
 
 // ── Lấy gia.json ngay lúc khách truy cập, giống cách trang tin tức làm.
 // Nhờ vậy SỐ GIÁ nằm sẵn trong trang: Google đọc được, khách thấy ngay không
@@ -12,8 +13,14 @@ import { GROUPS, TICKER } from "../data/commodities.mjs";
 const NGUON_GITHUB = "https://raw.githubusercontent.com/zz761311-byte/benhanghoa/main/public/data/gia.json";
 const NGUON_TAI_CHO = new URL("/data/gia.json", Astro.url).href;
 
-let duLieuGia = { items: {}, capNhat: "", nguon: "" };
-for (const url of [NGUON_GITHUB, NGUON_TAI_CHO]) {
+// Lúc chạy thử trên máy thì đọc tập tin trên máy trước — có vậy mới xem được
+// kết quả `npm run gia` vừa chạy. Trên web thật vẫn ưu tiên GitHub cho tươi.
+const THU_TU_NGUON = import.meta.env.DEV
+  ? [NGUON_TAI_CHO, NGUON_GITHUB]
+  : [NGUON_GITHUB, NGUON_TAI_CHO];
+
+let duLieuGia = { items: {}, capNhat: "", nguon: "", tyGia: null };
+for (const url of THU_TU_NGUON) {
   try {
     const r = await fetch(url, { cache: "no-store" });
     if (r.ok) { duLieuGia = await r.json(); break; }
@@ -59,6 +66,26 @@ if (duLieuGia.capNhat) {
 }
 const soMatHangCoGia = Object.keys(bangGia).length;
 
+// ── Quy đổi sang tiền Việt ────────────────────────────────────────────────
+// Không lấy được tỷ giá thì ẩn hẳn cột quy đổi. Thà thiếu một cột còn hơn
+// quy đổi bằng tỷ giá đoán bừa — sai tỷ giá là sai toàn bộ con số.
+const tyGia = duLieuGia.tyGia?.gia || null;
+const coQuyDoi = tyGia > 0;
+
+let thoiDiemTyGia = "";
+if (coQuyDoi && duLieuGia.tyGia?.capNhat) {
+  const d = new Date(duLieuGia.tyGia.capNhat);
+  if (!isNaN(d.getTime())) {
+    thoiDiemTyGia = d.toLocaleString("vi-VN", {
+      timeZone: "Asia/Ho_Chi_Minh", day: "2-digit", month: "2-digit", year: "numeric",
+      hour: "2-digit", minute: "2-digit",
+    });
+  }
+}
+
+// Số cột bị gộp lại khi một mặt hàng tạm chưa lấy được giá
+const soCotSoLieu = coQuyDoi ? 9 : 8;
+
 // Mặt hàng chưa tìm được nguồn giá đáng tin thì KHÔNG đưa vào bảng.
 // Lý do: mã TradingView của những mặt hàng này tự khớp sang thứ khác khi khách
 // chưa đăng nhập, hiện ra số sai hoàn toàn (thiếc từng hiện giá cổ phiếu
@@ -92,9 +119,22 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
         {soMatHangCoGia > 0
           ? `Giá ${soMatHangCoGia} mặt hàng cập nhật lúc ${thoiDiem} (giờ Việt Nam), nguồn ${duLieuGia.nguon || "Yahoo Finance"}.`
           : "Đang cập nhật giá — vui lòng tải lại trang sau ít phút."}
-        Giá hợp đồng tương lai, có thể chênh với giá giao ngay. Chỉ mang tính tham khảo,
+        Vàng, bạc, bạch kim hiện <b>giá giao ngay</b> (kèm giá hợp đồng tương lai bên dưới).
+        Các mặt hàng còn lại là <b>giá hợp đồng tương lai</b>, có ghi rõ kỳ hạn — hợp đồng
+        càng xa ngày đáo hạn thì giá càng chênh so với giao ngay. Chỉ mang tính tham khảo,
         không phải khuyến nghị đầu tư.
       </p>
+
+      {coQuyDoi && (
+        <p class="gia-tygia">
+          <b>Cột “Quy ra tiền Việt”</b> tính theo tỷ giá
+          <b> 1 USD = {tienVN(tyGia)} đồng</b>
+          {thoiDiemTyGia && <span class="nho"> (cập nhật {thoiDiemTyGia})</span>}.
+          Đây là phép quy đổi thô, <b>không phải giá mua bán tại Việt Nam</b> —
+          chưa gồm thuế, cước vận chuyển và chi phí chế biến.
+          <a href="/quy-doi">Xem công cụ quy đổi đầy đủ →</a>
+        </p>
+      )}
 
       {NHOM_HIEN.map((nhom) => (
         <div class="gia-khoi">
@@ -105,7 +145,8 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
                 <tr>
                   <th class="c-ten">Mặt hàng</th>
                   <th class="c-so">Giá</th>
-                  <th class="c-so">Thay đổi</th>
+                  {coQuyDoi && <th class="c-so c-vnd">Quy ra tiền Việt</th>}
+                  <th class="c-so c-an-dt">Thay đổi</th>
                   <th class="c-so">%</th>
                   <th class="c-bd">30 phiên</th>
                   <th class="c-so c-an">Thấp/Cao ngày</th>
@@ -119,6 +160,12 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
                 {nhom.items.map((mh) => {
                   const g = bangGia[mh.slug];
                   const sp = g ? duongGiaSVG(g.duongGia) : null;
+                  // Kim loại quý lấy giá giao ngay làm số chính, còn lại giữ giá
+                  // hợp đồng tương lai — quy đổi tiền Việt cũng theo số này
+                  const hienThi = giaHienThi(g);
+                  const qd = hienThi && coQuyDoi
+                    ? quyDoiVND(mh.slug, hienThi.gia, g.tienTe, tyGia)
+                    : null;
                   return (
                     <tr class="gia-hang" data-symbol={mh.tv}>
                       <td class="c-ten">
@@ -127,8 +174,38 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
                       </td>
                       {g ? (
                         <>
-                          <td class="c-so gia-chinh">{soVN(g.gia)}</td>
-                          <td class={"c-so " + huong(g.doi)}>{g.doi > 0 ? "+" : ""}{soVN(g.doi)}</td>
+                          <td class="c-so gia-chinh">
+                            {soVN(hienThi.gia)}
+                            {hienThi.laGiaoNgay ? (
+                              /* Kim loại quý: nói rõ đây là giá giao ngay, rồi ghi
+                                 thêm giá hợp đồng tương lai để người giao dịch
+                                 phái sinh vẫn có số mình cần */
+                              <>
+                                <span class="gia-loai">giao ngay</span>
+                                <span class="gia-hopdong">
+                                  {hienThi.kyHan ? "hđ " + hienThi.kyHan : "hợp đồng"}: {soVN(hienThi.giaHopDong)}
+                                </span>
+                              </>
+                            ) : (
+                              hienThi.kyHan && <span class="gia-loai">hđ {hienThi.kyHan}</span>
+                            )}
+                          </td>
+                          {coQuyDoi && (
+                            <td class="c-so c-vnd">
+                              {qd ? (
+                                <>
+                                  <span class="vnd-so">{tienVN(qd.gia)}</span>
+                                  <span class="vnd-dv">{qd.donVi}</span>
+                                  {qd.luuY.startsWith("⚠️") && (
+                                    <span class="vnd-canhbao" title={qd.luuY.replace("⚠️ ", "")}>
+                                      dễ nhầm — bấm tên mặt hàng để đọc kỹ
+                                    </span>
+                                  )}
+                                </>
+                              ) : "—"}
+                            </td>
+                          )}
+                          <td class={"c-so c-an-dt " + huong(g.doi)}>{g.doi > 0 ? "+" : ""}{soVN(g.doi)}</td>
                           <td class={"c-so " + huong(g.doiPhanTram)}>{phanTram(g.doiPhanTram)}</td>
                           <td class="c-bd">
                             {sp && (
@@ -146,7 +223,7 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
                         </>
                       ) : (
                         /* Mặt hàng có mã Yahoo nhưng lượt lấy giá gần nhất bị lỗi */
-                        <td class="c-chuaco" colspan="8">
+                        <td class="c-chuaco" colspan={soCotSoLieu}>
                           <span class="o-gia-trong">
                             <span class="lim-badge">tạm chưa có số</span>
                             <span class="nho">lượt cập nhật gần nhất chưa lấy được giá</span>
@@ -178,6 +255,42 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
         <div class="chart-nhan" id="chart-nhan">Bấm “Xem” ở một mặt hàng để mở biểu đồ chi tiết</div>
         <div id="tv_chart"></div>
       </div>
+
+      {coQuyDoi && (
+        <div class="gia-ghichu">
+          <b>Hiểu đúng cột “Quy ra tiền Việt”</b>
+          <p>{MIEN_TRU}</p>
+          <p>
+            Hai chỗ dễ hiểu nhầm nhất:
+          </p>
+          <ul class="ghichu-ds">
+            <li>
+              <b>Vàng</b> — con số trong bảng là giá vàng <b>thế giới</b> quy đổi, không phải
+              giá vàng miếng SJC hay vàng nhẫn bán trong nước. Giá trong nước lâu nay
+              cao hơn một khoảng đáng kể do hạn chế nhập khẩu và độc quyền thương hiệu.
+            </li>
+            <li>
+              <b>Cà phê</b> — bảng này yết cà phê <b>Arabica</b> (sàn New York), trong khi
+              Tây Nguyên chủ yếu trồng <b>Robusta</b> (sàn London). Hai loại khác nhau,
+              giá cũng khác nhau. Đừng lấy số này tính giá cà phê nhân xô.
+            </li>
+            <li>
+              <b>Giá giao ngay khác giá hợp đồng tương lai.</b> Hợp đồng tương lai là
+              cam kết mua bán vào một tháng trong tương lai, nên giá đã cộng sẵn chi phí
+              lưu kho và lãi suất từ nay đến lúc đó — càng xa ngày đáo hạn càng chênh
+              nhiều. Ví dụ hợp đồng vàng tháng 12 thường cao hơn giá giao ngay khoảng
+              1–2%. Vàng, bạc, bạch kim trong bảng lấy giá giao ngay để khớp với con số
+              bạn tra được ở nơi khác; các mặt hàng còn lại giữ giá hợp đồng vì đó mới
+              là chuẩn của thị trường và của sàn giao dịch.
+            </li>
+          </ul>
+          <p>
+            Muốn tính thành tiền theo số lượng cụ thể, dùng
+            <a href="/quy-doi"> công cụ quy đổi</a> — nhập số kg, số lít, số lượng vàng
+            là ra ngay thành tiền.
+          </p>
+        </div>
+      )}
 
       {chuaCoNguon.length > 0 && (
         <div class="gia-ghichu">
@@ -274,8 +387,19 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
 <style>
   .gia-tomtat {
     color: var(--muted); font-size: 14px; line-height: 1.65;
-    margin: 0 0 22px; max-width: 900px;
+    margin: 0 0 12px; max-width: 900px;
   }
+  /* Dòng nêu tỷ giá đang dùng — phải nổi hơn chữ thường vì mọi con số quy đổi
+     trong bảng đều phụ thuộc vào nó */
+  .gia-tygia {
+    color: var(--muted); font-size: 13.5px; line-height: 1.7;
+    margin: 0 0 22px; max-width: 900px;
+    padding: 10px 14px; border-left: 3px solid var(--accent);
+    background: rgba(217, 164, 65, 0.06); border-radius: 0 8px 8px 0;
+  }
+  .gia-tygia b { color: var(--text); }
+  .gia-tygia .nho { font-size: 12.5px; }
+  .gia-tygia a { margin-left: 4px; white-space: nowrap; }
   .gia-khoi { margin-bottom: 26px; }
   .gia-nhom {
     font-size: 17px; margin: 0 0 10px; padding-bottom: 8px;
@@ -300,8 +424,35 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
   .c-ten .dv { display: block; font-size: 11.5px; color: var(--muted); margin-top: 2px; }
 
   .gia-chinh { font-weight: 700; font-size: 15px; white-space: nowrap; }
+  /* Dòng nhỏ dưới giá: cho biết đang là giá giao ngay hay hợp đồng tháng nào.
+     Không ghi rõ thì khách so với chỗ khác thấy lệch mà không hiểu vì sao. */
+  .gia-loai {
+    display: block; font-size: 11px; font-weight: 400; color: var(--muted);
+    margin-top: 1px; letter-spacing: 0.2px;
+  }
+  .gia-hopdong {
+    display: block; font-size: 10.5px; font-weight: 400; color: var(--muted);
+    margin-top: 1px; opacity: 0.85;
+  }
   .c-so { white-space: nowrap; font-variant-numeric: tabular-nums; }
   .nho { font-size: 12.5px; color: var(--muted); }
+
+  /* Cột quy ra tiền Việt — đây là thứ khách Việt nhìn đầu tiên nên để màu nổi */
+  .c-vnd { min-width: 118px; }
+  .vnd-so {
+    display: block; font-weight: 700; font-size: 14.5px; color: var(--accent);
+    font-variant-numeric: tabular-nums;
+  }
+  .vnd-dv { display: block; font-size: 11.5px; color: var(--muted); margin-top: 1px; }
+  /* Mặt hàng dễ bị hiểu nhầm (vàng thế giới ≠ vàng SJC, Arabica ≠ Robusta) */
+  .vnd-canhbao {
+    display: block; margin-top: 3px; font-size: 10.5px; line-height: 1.35;
+    color: #e3c172; cursor: help; max-width: 130px; text-align: right;
+    margin-left: auto;
+  }
+
+  .ghichu-ds { margin: 8px 0 0; padding-left: 20px; }
+  .ghichu-ds li { margin-bottom: 7px; }
 
   .len { color: #34c759; }
   .xuong { color: #ff4d4f; }
@@ -362,6 +513,12 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
   @media (max-width: 760px) {
     .gia-bang { min-width: 0; font-size: 13px; }
     .gia-bang .c-an { display: none; }
+    /* Cột "Thay đổi" tuyệt đối bỏ đi trên điện thoại — nhường chỗ cho cột tiền
+       Việt, vốn quan trọng hơn với khách. Cột % vẫn còn nên không mất thông tin */
+    .gia-bang .c-an-dt { display: none; }
+    .c-vnd { min-width: 92px; }
+    .vnd-so { font-size: 13.5px; }
+    .vnd-canhbao { max-width: 96px; font-size: 10px; }
     .gia-bang td, .gia-bang thead th { padding: 8px 6px; }
     .c-bd { width: 70px; }
     /* Màn hình hẹp: nút chỉ còn biểu tượng cho đỡ chật, vẫn bấm được thoải mái */

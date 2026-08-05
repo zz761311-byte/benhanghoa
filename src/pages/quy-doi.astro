@@ -1,0 +1,509 @@
+---
+export const prerender = false;   // Dựng tại chỗ để giá và tỷ giá luôn tươi
+
+import Layout from "../layouts/Layout.astro";
+import LeadCTA from "../components/LeadCTA.astro";
+import { GROUPS } from "../data/commodities.mjs";
+import { quyDoiVND, tienVN, giaHienThi, MIEN_TRU } from "../data/quy-doi.mjs";
+
+// Lấy giá giống hệt cách trang bảng giá làm: thử GitHub trước cho tươi nhất,
+// lỗi thì quay về bản kèm trong lượt dựng.
+const NGUON_GITHUB = "https://raw.githubusercontent.com/zz761311-byte/benhanghoa/main/public/data/gia.json";
+const NGUON_TAI_CHO = new URL("/data/gia.json", Astro.url).href;
+
+// Lúc chạy thử trên máy thì đọc tập tin trên máy trước — có vậy mới xem được
+// kết quả `npm run gia` vừa chạy. Trên web thật vẫn ưu tiên GitHub cho tươi.
+const THU_TU_NGUON = import.meta.env.DEV
+  ? [NGUON_TAI_CHO, NGUON_GITHUB]
+  : [NGUON_GITHUB, NGUON_TAI_CHO];
+
+let duLieuGia = { items: {}, capNhat: "", nguon: "", tyGia: null };
+for (const url of THU_TU_NGUON) {
+  try {
+    const r = await fetch(url, { cache: "no-store" });
+    if (r.ok) { duLieuGia = await r.json(); break; }
+  } catch (e) {}
+}
+const bangGia = duLieuGia.items || {};
+const tyGia = duLieuGia.tyGia?.gia || null;
+const coQuyDoi = tyGia > 0;
+
+function gioVN(chuoiThoiGian) {
+  if (!chuoiThoiGian) return "";
+  const d = new Date(chuoiThoiGian);
+  if (isNaN(d.getTime())) return "";
+  return d.toLocaleString("vi-VN", {
+    timeZone: "Asia/Ho_Chi_Minh", day: "2-digit", month: "2-digit", year: "numeric",
+    hour: "2-digit", minute: "2-digit",
+  });
+}
+const thoiDiemGia = gioVN(duLieuGia.capNhat);
+const thoiDiemTyGia = gioVN(duLieuGia.tyGia?.capNhat);
+
+// Số sàn viết theo kiểu Việt: dấu chấm ngăn nghìn, dấu phẩy thập phân
+function soVN(n, chuSoThapPhan) {
+  if (n === null || n === undefined) return "—";
+  const soLe = chuSoThapPhan ?? (Math.abs(n) >= 1000 ? 0 : Math.abs(n) >= 10 ? 2 : 3);
+  return n.toLocaleString("vi-VN", { minimumFractionDigits: soLe, maximumFractionDigits: soLe });
+}
+
+// ── Dựng danh sách mặt hàng quy đổi được ──────────────────────────────────
+// Chỉ nhận mặt hàng vừa có giá vừa có bảng hệ số. Thiếu một trong hai thì bỏ
+// hẳn — không đoán, không điền tạm.
+const NHOM_QUY_DOI = GROUPS.map((nhom) => ({
+  ...nhom,
+  items: nhom.items
+    .filter((mh) => !mh.chuaCoNguon && bangGia[mh.slug])
+    .map((mh) => {
+      const g = bangGia[mh.slug];
+      // Kim loại quý quy đổi theo giá giao ngay, còn lại theo giá hợp đồng
+      const hienThi = giaHienThi(g);
+      const qd = coQuyDoi ? quyDoiVND(mh.slug, hienThi.gia, g.tienTe, tyGia) : null;
+      return qd ? { ...mh, gia: g, hienThi, quyDoi: qd } : null;
+    })
+    .filter(Boolean),
+})).filter((nhom) => nhom.items.length > 0);
+
+const tatCaMatHang = NHOM_QUY_DOI.flatMap((n) => n.items);
+
+// Dữ liệu gọn để máy tính bỏ túi phía khách dùng — chỉ gửi đúng thứ cần,
+// không gửi cả chuỗi giá 30 phiên cho nhẹ trang
+const DU_LIEU_TINH = tatCaMatHang.map((mh) => ({
+  slug: mh.slug,
+  ten: mh.name,
+  nhom: mh.group,
+  giaSan: mh.hienThi.gia,
+  loaiGia: mh.hienThi.laGiaoNgay
+    ? "giá giao ngay"
+    : mh.hienThi.kyHan ? "hợp đồng " + mh.hienThi.kyHan : "hợp đồng tương lai",
+  donViGoc: mh.quyDoi.donViGoc,
+  luuY: mh.quyDoi.luuY,
+  giaiThich: mh.quyDoi.giaiThich,
+  donVi: [
+    { ten: mh.quyDoi.donVi, gia: mh.quyDoi.gia },
+    ...(mh.quyDoi.phu ? [{ ten: mh.quyDoi.phu.donVi, gia: mh.quyDoi.phu.gia }] : []),
+  ],
+}));
+
+Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
+
+const title = "Quy đổi giá hàng hóa thế giới ra tiền Việt — đồng/kg, đồng/lít, đồng/lượng";
+const description =
+  "Đổi giá dầu, vàng, cà phê, ngô, đồng... từ USD/thùng, USD/ounce, cents/pound sang đồng/lít, đồng/lượng, đồng/kg theo tỷ giá hôm nay. Có công cụ nhập số lượng tính thành tiền.";
+---
+<Layout page="convert" title={title} description={description}>
+  <section class="section">
+    <div class="container qd-wrap">
+      <div class="section-head">
+        <h1>Quy đổi giá hàng hóa thế giới ra tiền Việt</h1>
+      </div>
+
+      <p class="qd-mo-dau">
+        Giá trên sàn quốc tế yết bằng những đơn vị người Việt khó hình dung —
+        <i>cents/giạ</i>, <i>USD/pound</i>, <i>USD/ounce</i>, <i>USD/thùng</i>.
+        Trang này đổi hết sang <b>đồng/kg</b>, <b>đồng/lít</b>, <b>đồng/lượng</b> để
+        bạn nhìn phát biết ngay đắt hay rẻ.
+      </p>
+
+      {!coQuyDoi ? (
+        <div class="qd-loi">
+          <b>Tạm thời chưa quy đổi được.</b>
+          <p>
+            Lượt cập nhật gần nhất chưa lấy được tỷ giá USD/VND. Chúng tôi để trống
+            thay vì quy đổi bằng một tỷ giá đoán bừa — sai tỷ giá là sai toàn bộ con số.
+            Vui lòng tải lại trang sau ít phút, hoặc xem
+            <a href="/bang-gia">bảng giá gốc bằng USD</a>.
+          </p>
+        </div>
+      ) : (
+        <>
+          <div class="qd-tygia">
+            <div class="qd-tygia-so">
+              <span class="nhan">Tỷ giá đang dùng</span>
+              <b>1 USD = {tienVN(tyGia)} đồng</b>
+              {thoiDiemTyGia && <span class="nho">cập nhật {thoiDiemTyGia}</span>}
+            </div>
+            <div class="qd-tygia-so">
+              <span class="nhan">Giá hàng hóa</span>
+              <b>{tatCaMatHang.length} mặt hàng</b>
+              {thoiDiemGia && <span class="nho">cập nhật {thoiDiemGia}</span>}
+            </div>
+            <div class="qd-tygia-ghi">
+              Nguồn: {duLieuGia.nguon || "Yahoo Finance"}. Tỷ giá thị trường quốc tế,
+              không phải giá mua bán đô la tại quầy ngân hàng.
+            </div>
+          </div>
+
+          {/* ── Máy tính bỏ túi ── */}
+          <h2 id="may-tinh">Tính thành tiền theo số lượng</h2>
+          <div class="qd-maytinh">
+            <div class="qd-hang-nhap">
+              <label class="qd-o">
+                <span class="qd-nhan">Mặt hàng</span>
+                <select id="chon-mat-hang">
+                  {NHOM_QUY_DOI.map((nhom) => (
+                    <optgroup label={nhom.label}>
+                      {nhom.items.map((mh) => <option value={mh.slug}>{mh.name}</option>)}
+                    </optgroup>
+                  ))}
+                </select>
+              </label>
+
+              <label class="qd-o qd-o-hep">
+                <span class="qd-nhan">Số lượng</span>
+                <input type="number" id="so-luong" value="1" min="0" step="any" inputmode="decimal" />
+              </label>
+
+              <label class="qd-o qd-o-hep">
+                <span class="qd-nhan">Đơn vị</span>
+                <select id="chon-don-vi"></select>
+              </label>
+            </div>
+
+            <div class="qd-ketqua" id="qd-ketqua" aria-live="polite">
+              <div class="qd-kq-so" id="kq-so">—</div>
+              <div class="qd-kq-phu" id="kq-phu"></div>
+            </div>
+
+            <div class="qd-congthuc" id="kq-congthuc"></div>
+            <div class="qd-luuy" id="kq-luuy"></div>
+          </div>
+
+          {/* ── Bảng đầy đủ ── */}
+          <h2 id="bang">Bảng quy đổi đầy đủ hôm nay</h2>
+          <p class="qd-ghi-bang">
+            Số ở cột “Giá quy đổi” là kết quả của phép tính:
+            <b> giá sàn × tỷ giá ÷ hệ số đổi đơn vị</b>. Bấm vào tên mặt hàng để xem
+            biểu đồ và thông số hợp đồng.
+          </p>
+
+          <div class="qd-hai-loai">
+            <b>Vì sao giá vàng ở đây có thể khác chỗ khác?</b>
+            <p>
+              Hàng hoá có hai loại giá. <b>Giá giao ngay</b> là giá mua bán ngay lúc này.
+              <b> Giá hợp đồng tương lai</b> là cam kết mua bán vào một tháng trong tương
+              lai, nên đã cộng sẵn chi phí lưu kho và lãi suất từ nay đến lúc đó — hợp đồng
+              càng xa ngày đáo hạn thì giá càng cao hơn giao ngay.
+            </p>
+            <p>
+              Trang này lấy <b>giá giao ngay</b> cho vàng, bạc, bạch kim, vì đó là con số
+              bạn tra ở đâu cũng thấy. Các mặt hàng còn lại (dầu, ngô, cà phê, đường…) dùng
+              <b> giá hợp đồng tương lai</b> có ghi rõ kỳ hạn, vì với những mặt hàng đó thì
+              chính hợp đồng tương lai mới là giá chuẩn mà thị trường và báo chí dùng.
+            </p>
+          </div>
+
+          {NHOM_QUY_DOI.map((nhom) => (
+            <div class="qd-khoi">
+              <h3 class="qd-nhom">{nhom.icon} {nhom.label}</h3>
+              <div class="qd-cuon">
+                <table class="qd-bang">
+                  <thead>
+                    <tr>
+                      <th class="c-ten">Mặt hàng</th>
+                      <th class="c-so">Giá sàn</th>
+                      <th class="c-so c-nhan">Giá quy đổi</th>
+                      <th class="c-so c-an">Đơn vị khác</th>
+                      <th class="c-cach">Cách đổi đơn vị</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {nhom.items.map((mh) => (
+                      <tr>
+                        <td class="c-ten">
+                          <a href={`/hang-hoa/${mh.slug}`}>{mh.name}</a>
+                        </td>
+                        <td class="c-so">
+                          {soVN(mh.hienThi.gia)}
+                          <span class="dv-nho">{mh.unit}</span>
+                          <span class="dv-nho loai-gia">
+                            {mh.hienThi.laGiaoNgay
+                              ? "giao ngay"
+                              : mh.hienThi.kyHan ? "hđ " + mh.hienThi.kyHan : "hợp đồng tương lai"}
+                          </span>
+                        </td>
+                        <td class="c-so c-nhan">
+                          <span class="qd-so-chinh">{tienVN(mh.quyDoi.gia)}</span>
+                          <span class="dv-nho">{mh.quyDoi.donVi}</span>
+                        </td>
+                        <td class="c-so c-an">
+                          {mh.quyDoi.phu ? (
+                            <>
+                              {tienVN(mh.quyDoi.phu.gia, true)}
+                              <span class="dv-nho">{mh.quyDoi.phu.donVi}</span>
+                            </>
+                          ) : "—"}
+                        </td>
+                        <td class="c-cach">{mh.quyDoi.giaiThich}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          ))}
+
+          {/* ── Lưu ý riêng từng mặt hàng ── */}
+          <h2 id="luu-y">Từng mặt hàng cần lưu ý gì</h2>
+          <p class="qd-ghi-bang">
+            Con số quy đổi <b>không phải giá mua bán tại Việt Nam</b>. Mỗi mặt hàng
+            chênh lệch vì một lý do khác nhau — đọc kỹ trước khi dùng số để tính toán.
+          </p>
+          <div class="qd-luuy-ds">
+            {tatCaMatHang.map((mh) => (
+              <details class="qd-luuy-item" name="luu-y-mat-hang">
+                <summary>
+                  <span class="ly-ten">{mh.name}</span>
+                  <span class="ly-so">{tienVN(mh.quyDoi.gia)} <i>{mh.quyDoi.donVi}</i></span>
+                </summary>
+                <p>{mh.quyDoi.luuY}</p>
+                <p class="ly-cong-thuc">
+                  Cách tính: {soVN(mh.hienThi.gia)} {mh.unit}
+                  ({mh.hienThi.laGiaoNgay
+                    ? "giá giao ngay"
+                    : mh.hienThi.kyHan ? "hợp đồng " + mh.hienThi.kyHan : "hợp đồng tương lai"})
+                  {/* Không hạ chữ thường: câu giải thích có tên riêng như "Việt Nam",
+                      "Bộ Nông nghiệp Mỹ" — hạ hết thành chữ thường trông rất cẩu thả */}
+                  × {tienVN(tyGia)} đồng/USD ÷ ({mh.quyDoi.giaiThich})
+                  {mh.hienThi.laGiaoNgay && mh.hienThi.lechHopDong !== null && (
+                    <> — hợp đồng tương lai {mh.hienThi.kyHan} đang{" "}
+                      {mh.hienThi.lechHopDong >= 0 ? "cao hơn" : "thấp hơn"} giá giao ngay{" "}
+                      {soVN(Math.abs(mh.hienThi.lechHopDong), 2)}%.</>
+                  )}
+                </p>
+              </details>
+            ))}
+          </div>
+
+          <div class="qd-mientru">
+            <b>Miễn trừ trách nhiệm.</b> {MIEN_TRU}
+          </div>
+        </>
+      )}
+
+      <LeadCTA item="hàng hóa" />
+
+      <p class="back-link">
+        <a href="/bang-gia">← Bảng giá đầy đủ</a> ·
+        <a href="/kien-thuc">Kiến thức về hàng hóa →</a>
+      </p>
+    </div>
+  </section>
+</Layout>
+
+<script define:vars={{ DU_LIEU_TINH, TY_GIA: tyGia || 0 }}>
+  // ── Máy tính bỏ túi: nhập số lượng → ra thành tiền ────────────────────────
+  // Không lấy được tỷ giá thì trang không dựng ra mấy ô nhập, đoạn mã này tự
+  // dừng ở câu kiểm tra cuối cùng.
+    const oMatHang = document.getElementById("chon-mat-hang");
+    const oSoLuong = document.getElementById("so-luong");
+    const oDonVi   = document.getElementById("chon-don-vi");
+    const oKqSo    = document.getElementById("kq-so");
+    const oKqPhu   = document.getElementById("kq-phu");
+    const oCongThuc = document.getElementById("kq-congthuc");
+    const oLuuY    = document.getElementById("kq-luuy");
+
+    const timMatHang = (slug) => DU_LIEU_TINH.find((m) => m.slug === slug);
+
+    // Viết số tiền cho dễ đọc — dùng lại quy tắc của trang: dưới 1.000 đồng thì
+    // giữ một chữ số lẻ, còn lại làm tròn đến đồng
+    function tienVN(so) {
+      if (so === null || so === undefined || Number.isNaN(so)) return "—";
+      const soLe = Math.abs(so) < 1000 ? 1 : 0;
+      return so.toLocaleString("vi-VN", { minimumFractionDigits: soLe, maximumFractionDigits: soLe });
+    }
+    function rutGon(so) {
+      if (Math.abs(so) >= 1e9) return (so / 1e9).toLocaleString("vi-VN", { maximumFractionDigits: 2 }) + " tỷ đồng";
+      if (Math.abs(so) >= 1e6) return (so / 1e6).toLocaleString("vi-VN", { maximumFractionDigits: 1 }) + " triệu đồng";
+      return null;
+    }
+
+    // Đổi danh sách đơn vị mỗi khi chọn mặt hàng khác
+    function napDonVi() {
+      const mh = timMatHang(oMatHang.value);
+      oDonVi.innerHTML = "";
+      if (!mh) return;
+      mh.donVi.forEach((dv, i) => {
+        const o = document.createElement("option");
+        o.value = String(i);
+        // "đồng/kg" → chỉ hiện "kg" cho gọn ô chọn
+        o.textContent = dv.ten.replace(/^đồng\//, "");
+        oDonVi.appendChild(o);
+      });
+    }
+
+    function tinh() {
+      const mh = timMatHang(oMatHang.value);
+      if (!mh) return;
+      const dv = mh.donVi[Number(oDonVi.value) || 0];
+      const soLuong = parseFloat(String(oSoLuong.value).replace(",", "."));
+
+      if (!dv || !(soLuong >= 0) || Number.isNaN(soLuong)) {
+        oKqSo.textContent = "—";
+        oKqPhu.textContent = "Nhập một số lượng hợp lệ";
+        oCongThuc.textContent = "";
+        oLuuY.textContent = "";
+        return;
+      }
+
+      const thanhTien = soLuong * dv.gia;
+      const donViGon = dv.ten.replace(/^đồng\//, "");
+
+      oKqSo.textContent = tienVN(thanhTien) + " đồng";
+      const gon = rutGon(thanhTien);
+      oKqPhu.textContent =
+        (gon ? "≈ " + gon + "  ·  " : "") +
+        soLuong.toLocaleString("vi-VN", { maximumFractionDigits: 4 }) + " " + donViGon +
+        " × " + tienVN(dv.gia) + " đồng/" + donViGon;
+
+      oCongThuc.innerHTML =
+        "<b>Giá gốc:</b> " +
+        mh.giaSan.toLocaleString("vi-VN", { maximumFractionDigits: 4 }) + " " + mh.donViGoc +
+        " (" + mh.loaiGia + ")" +
+        "  ·  <b>Tỷ giá:</b> 1 USD = " + TY_GIA.toLocaleString("vi-VN") + " đồng" +
+        "  ·  <b>Đổi đơn vị:</b> " + mh.giaiThich;
+
+      oLuuY.textContent = mh.luuY;
+      // Mặt hàng dễ hiểu nhầm (vàng, cà phê) thì tô cảnh báo cho nổi hẳn lên
+      oLuuY.classList.toggle("manh", mh.luuY.startsWith("⚠️"));
+    }
+
+    if (oMatHang && oSoLuong && oDonVi) {
+      oMatHang.addEventListener("change", () => { napDonVi(); tinh(); });
+      oDonVi.addEventListener("change", tinh);
+      oSoLuong.addEventListener("input", tinh);
+      napDonVi();
+      tinh();
+    }
+</script>
+
+<style>
+  .qd-wrap { max-width: 980px; }
+  .qd-wrap h1 { font-size: clamp(23px, 3.2vw, 32px); }
+  .qd-wrap h2 { font-size: 21px; margin: 34px 0 10px; }
+  .qd-wrap h3 { font-size: 16px; }
+  .qd-mo-dau { color: var(--muted); font-size: 15px; line-height: 1.75; max-width: 780px; }
+  .qd-mo-dau b { color: var(--text); }
+
+  .qd-loi {
+    background: var(--bg-2); border: 1px solid var(--line); border-left: 3px solid #e3c172;
+    border-radius: var(--radius); padding: 16px 18px; color: var(--muted); line-height: 1.7;
+  }
+  .qd-loi b { color: var(--text); }
+  .qd-loi p { margin: 8px 0 0; font-size: 14.5px; }
+
+  /* ── Dải nêu tỷ giá và thời điểm ── */
+  .qd-tygia {
+    display: flex; flex-wrap: wrap; gap: 10px 28px; align-items: flex-start;
+    background: var(--bg-2); border: 1px solid var(--line); border-radius: var(--radius);
+    padding: 14px 18px; margin-top: 16px;
+  }
+  .qd-tygia-so { display: flex; flex-direction: column; gap: 2px; }
+  .qd-tygia-so .nhan { font-size: 11.5px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.4px; }
+  .qd-tygia-so b { font-size: 17px; color: var(--accent); font-variant-numeric: tabular-nums; }
+  .qd-tygia-so .nho { font-size: 12px; color: var(--muted); }
+  .qd-tygia-ghi { flex: 1 1 260px; font-size: 12.5px; color: var(--muted); line-height: 1.6; }
+
+  /* ── Máy tính bỏ túi ── */
+  .qd-maytinh {
+    background: var(--bg-2); border: 1px solid var(--line); border-radius: var(--radius);
+    padding: 16px 18px 18px;
+  }
+  .qd-hang-nhap { display: flex; flex-wrap: wrap; gap: 12px; }
+  .qd-o { display: flex; flex-direction: column; gap: 5px; flex: 1 1 220px; }
+  .qd-o-hep { flex: 0 1 150px; }
+  .qd-nhan { font-size: 12.5px; color: var(--muted); font-weight: 600; }
+  .qd-o select, .qd-o input {
+    background: var(--bg); color: var(--text);
+    border: 1px solid var(--line); border-radius: 9px;
+    padding: 10px 12px; font-size: 15px; font-family: inherit; width: 100%;
+  }
+  .qd-o select:focus, .qd-o input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+  .qd-ketqua {
+    margin-top: 16px; padding: 14px 16px; border-radius: 10px;
+    background: rgba(217, 164, 65, 0.09); border: 1px solid rgba(217, 164, 65, 0.3);
+  }
+  .qd-kq-so {
+    font-size: clamp(22px, 4vw, 30px); font-weight: 800; color: var(--accent);
+    font-variant-numeric: tabular-nums; line-height: 1.2;
+  }
+  .qd-kq-phu { font-size: 13px; color: var(--muted); margin-top: 5px; line-height: 1.6; }
+
+  .qd-congthuc {
+    margin-top: 12px; font-size: 12.5px; color: var(--muted); line-height: 1.75;
+    padding-top: 10px; border-top: 1px solid var(--line);
+  }
+  .qd-luuy {
+    margin-top: 10px; font-size: 13px; color: var(--muted); line-height: 1.7;
+    padding-left: 12px; border-left: 2px solid var(--line);
+  }
+  .qd-luuy.manh { border-left-color: #e3c172; color: #e3c172; }
+
+  /* ── Bảng quy đổi ── */
+  .qd-ghi-bang { color: var(--muted); font-size: 13.5px; line-height: 1.7; margin: 0 0 14px; max-width: 820px; }
+  .qd-ghi-bang b { color: var(--text); }
+  /* Giải thích khác biệt giữa giá giao ngay và giá hợp đồng tương lai —
+     đây là chỗ khách hay thắc mắc nhất khi thấy số lệch với nơi khác */
+  .qd-hai-loai {
+    background: var(--bg-2); border: 1px solid var(--line);
+    border-left: 3px solid var(--accent); border-radius: var(--radius);
+    padding: 13px 17px; margin-bottom: 20px; max-width: 860px;
+  }
+  .qd-hai-loai b { color: var(--text); }
+  .qd-hai-loai p { color: var(--muted); font-size: 13.5px; line-height: 1.75; margin: 7px 0 0; }
+
+  .qd-khoi { margin-bottom: 22px; }
+  .qd-nhom { margin: 0 0 8px; padding-bottom: 7px; border-bottom: 1px solid var(--line); }
+  .qd-cuon { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .qd-bang { width: 100%; border-collapse: collapse; font-size: 14px; min-width: 620px; }
+  .qd-bang thead th {
+    text-align: right; font-weight: 600; font-size: 12px; color: var(--muted);
+    padding: 8px 10px; white-space: nowrap; border-bottom: 1px solid var(--line);
+  }
+  .qd-bang thead th.c-ten, .qd-bang thead th.c-cach { text-align: left; }
+  .qd-bang td { padding: 10px; border-bottom: 1px solid var(--line); text-align: right; }
+  .qd-bang tr:hover { background: rgba(255, 255, 255, 0.03); }
+  .qd-bang .c-ten { text-align: left; }
+  .qd-bang .c-ten a { font-weight: 600; text-decoration: none; }
+  .qd-bang .c-ten a:hover { text-decoration: underline; }
+  .qd-bang .c-so { white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .qd-bang .c-nhan { background: rgba(217, 164, 65, 0.06); }
+  .qd-so-chinh { font-weight: 700; font-size: 15px; color: var(--accent); }
+  .dv-nho { display: block; font-size: 11.5px; color: var(--muted); margin-top: 2px; }
+  /* Cho biết con số là giá giao ngay hay giá hợp đồng tương lai tháng nào */
+  .loai-gia { font-size: 10.5px; opacity: 0.85; }
+  .c-cach { text-align: left !important; font-size: 12.5px; color: var(--muted); line-height: 1.5; min-width: 210px; }
+
+  /* ── Lưu ý từng mặt hàng ── */
+  .qd-luuy-ds { display: flex; flex-direction: column; gap: 8px; }
+  .qd-luuy-item {
+    background: var(--bg-2); border: 1px solid var(--line); border-radius: 10px;
+    padding: 11px 15px;
+  }
+  .qd-luuy-item summary {
+    cursor: pointer; display: flex; justify-content: space-between; align-items: baseline;
+    gap: 14px; flex-wrap: wrap;
+  }
+  .ly-ten { font-weight: 600; color: var(--text); }
+  .ly-so { color: var(--accent); font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .ly-so i { font-style: normal; font-weight: 400; font-size: 12px; color: var(--muted); }
+  .qd-luuy-item p { color: var(--muted); margin: 10px 0 0; font-size: 14px; line-height: 1.75; }
+  .ly-cong-thuc { font-size: 12.5px !important; padding-top: 8px; border-top: 1px solid var(--line); }
+
+  .qd-mientru {
+    margin-top: 24px; padding: 14px 16px; border-radius: 10px;
+    background: rgba(227, 193, 114, 0.07); border: 1px solid rgba(227, 193, 114, 0.25);
+    color: var(--muted); font-size: 13px; line-height: 1.75;
+  }
+  .qd-mientru b { color: #e3c172; }
+
+  .back-link { margin-top: 26px; font-size: 14.5px; }
+
+  @media (max-width: 760px) {
+    .qd-bang { min-width: 0; font-size: 13px; }
+    .qd-bang .c-an, .qd-bang .c-cach { display: none; }
+    .qd-bang td, .qd-bang thead th { padding: 8px 6px; }
+    .qd-o, .qd-o-hep { flex: 1 1 100%; }
+  }
+</style>

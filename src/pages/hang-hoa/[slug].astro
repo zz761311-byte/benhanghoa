@@ -3,6 +3,7 @@ import Layout from "../../layouts/Layout.astro";
 import LeadCTA from "../../components/LeadCTA.astro";
 import { ALL } from "../../data/commodities.mjs";
 import { DETAILS } from "../../data/details.mjs";
+import { QUY_DOI } from "../../data/quy-doi.mjs";
 
 export function getStaticPaths() {
   return ALL.map((item) => ({ params: { slug: item.slug }, props: { item } }));
@@ -10,6 +11,12 @@ export function getStaticPaths() {
 
 const { item } = Astro.props;
 const d = DETAILS[item.slug] || null;
+
+// Bảng hệ số quy đổi sang tiền Việt (nếu mặt hàng này có).
+// Trang chi tiết là trang TĨNH — nhúng thẳng con số vào lúc dựng thì giá sẽ
+// đóng băng mãi, vì Cloudflare không dựng lại web mỗi lượt bot ghi giá. Nên
+// chỉ gửi sang phần hệ số (không đổi), còn giá và tỷ giá thì tải lúc khách mở.
+const bangQuyDoi = QUY_DOI[item.slug] || null;
 
 const title = `Giá ${item.name} hôm nay — biểu đồ & thông số hợp đồng | Bến Hàng Hóa`;
 const description = `Cập nhật giá ${item.name} real-time, biểu đồ chi tiết, thông số hợp đồng giao dịch và các yếu tố ảnh hưởng giá. ${d ? d.intro.slice(0, 90) : ""}`;
@@ -39,6 +46,21 @@ const faqSchema = d && d.faq ? {
         <div id="symbol-info" class="tradingview-widget-container detail-quote"></div>
         <span class="detail-quote-chan" aria-hidden="true"></span>
       </div>
+
+      <!-- Quy ra tiền Việt. Khối này ẩn sẵn, chỉ hiện khi tải được giá và tỷ giá.
+           Không có dữ liệu thì thà không hiện còn hơn hiện số đoán. -->
+      {bangQuyDoi && (
+        <div class="qd-hop" id="qd-hop" hidden>
+          <div class="qd-hop-dau">
+            <span class="qd-hop-nhan">Quy ra tiền Việt</span>
+            <span class="qd-hop-thoi" id="qd-thoi"></span>
+          </div>
+          <div class="qd-hop-so" id="qd-so">—</div>
+          <div class="qd-hop-phu" id="qd-phu"></div>
+          <div class="qd-hop-luuy" id="qd-luuy"></div>
+          <a class="qd-hop-link" href="/quy-doi">Tính thành tiền theo số lượng →</a>
+        </div>
+      )}
 
       <!-- Biểu đồ lớn -->
       <div class="detail-chart"><div id="adv-chart" class="tradingview-widget-container"></div></div>
@@ -134,6 +156,34 @@ const faqSchema = d && d.faq ? {
   .faq-item summary { cursor: pointer; font-weight: 600; color: var(--text); }
   .faq-item p { color: var(--muted); margin: 10px 0 0; }
   .back-link { margin-top: 26px; font-size: 14.5px; }
+
+  /* ── Khối quy ra tiền Việt ── */
+  .qd-hop {
+    background: var(--bg-2); border: 1px solid var(--line);
+    border-left: 3px solid var(--accent); border-radius: var(--radius);
+    padding: 14px 18px 16px; margin-bottom: 14px;
+  }
+  .qd-hop-dau {
+    display: flex; justify-content: space-between; align-items: baseline;
+    gap: 12px; flex-wrap: wrap;
+  }
+  .qd-hop-nhan {
+    font-size: 11.5px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px;
+    font-weight: 600;
+  }
+  .qd-hop-thoi { font-size: 11.5px; color: var(--muted); }
+  .qd-hop-so {
+    font-size: clamp(21px, 3.6vw, 27px); font-weight: 800; color: var(--accent);
+    font-variant-numeric: tabular-nums; line-height: 1.25; margin-top: 3px;
+  }
+  .qd-hop-phu { font-size: 13px; color: var(--muted); margin-top: 4px; line-height: 1.6; }
+  .qd-hop-luuy {
+    font-size: 12.5px; color: var(--muted); line-height: 1.7; margin-top: 10px;
+    padding-top: 10px; border-top: 1px solid var(--line);
+  }
+  /* Mặt hàng dễ hiểu nhầm (vàng thế giới ≠ vàng SJC, Arabica ≠ Robusta) */
+  .qd-hop-luuy.manh { color: #e3c172; }
+  .qd-hop-link { display: inline-block; margin-top: 9px; font-size: 13px; }
 </style>
 
 <script define:vars={{ sym: item.tv }}>
@@ -178,5 +228,97 @@ const faqSchema = d && d.faq ? {
     });
     chart.appendChild(s);
   }
+  }
+</script>
+
+<script define:vars={{ slug: item.slug, bangQuyDoi, donViSan: item.unit }}>
+  // ── Quy giá mặt hàng này ra tiền Việt ─────────────────────────────────────
+  // Chạy phía khách vì trang chi tiết là trang tĩnh: nhúng số lúc dựng thì giá
+  // sẽ đứng yên mãi. Lấy bản trên GitHub trước cho tươi nhất, hỏng thì lấy bản
+  // kèm theo lượt dựng — bản đó cũ hơn nhưng vẫn ghi rõ thời điểm cho khách biết.
+  if (bangQuyDoi) {
+    const NGUON = [
+      "https://raw.githubusercontent.com/zz761311-byte/benhanghoa/main/public/data/gia.json",
+      "/data/gia.json",
+    ];
+
+    const tienVN = (so) => {
+      const soLe = Math.abs(so) < 1000 ? 1 : 0;
+      return so.toLocaleString("vi-VN", { minimumFractionDigits: soLe, maximumFractionDigits: soLe });
+    };
+
+    (async () => {
+      let duLieu = null;
+      for (const url of NGUON) {
+        try {
+          const r = await fetch(url, { cache: "no-store" });
+          if (r.ok) { duLieu = await r.json(); break; }
+        } catch (e) {}
+      }
+      const g = duLieu?.items?.[slug];
+      const tyGia = duLieu?.tyGia?.gia;
+      // Thiếu giá hoặc thiếu tỷ giá thì để khối ẩn nguyên — không hiện số nửa vời
+      if (!g || !(g.gia > 0) || !(tyGia > 0)) return;
+
+      // Vàng, bạc, bạch kim quy đổi theo GIÁ GIAO NGAY — đó mới là con số ai tra
+      // "giá vàng thế giới" cũng thấy. Hợp đồng tương lai tháng xa cao hơn giao
+      // ngay 1-2% vì cộng chi phí lưu kho và lãi suất, quy ra tiền Việt là lệch
+      // cả triệu đồng một lượng.
+      const coGiaoNgay = g.giaoNgay?.gia > 0;
+      const giaDung = coGiaoNgay ? g.giaoNgay.gia : g.gia;
+      const kyHan = g.kyHan || null;   // bot ghi sẵn, ví dụ "T12/26"
+
+      // Yahoo yết vài mặt hàng bằng cents (mã tiền tệ "USX"), phải chia 100 trước
+      const giaUSD = g.tienTe === "USX" ? giaDung / 100 : giaDung;
+      const dongMoiDonViSan = giaUSD * tyGia;
+      const giaChinh = dongMoiDonViSan / bangQuyDoi.heSo;
+
+      document.getElementById("qd-so").textContent =
+        tienVN(giaChinh) + " " + bangQuyDoi.donViVN;
+
+      const phanPhu = [];
+      if (bangQuyDoi.phu) {
+        phanPhu.push(
+          "≈ " + tienVN(dongMoiDonViSan / bangQuyDoi.phu.heSo) + " " + bangQuyDoi.phu.donViVN
+        );
+      }
+      phanPhu.push(
+        "Từ " + giaDung.toLocaleString("vi-VN", { maximumFractionDigits: 4 }) + " " + donViSan +
+        (coGiaoNgay ? " (giá giao ngay)" : kyHan ? " (hợp đồng " + kyHan + ")" : "") +
+        ", tỷ giá 1 USD = " + tyGia.toLocaleString("vi-VN") + " đồng"
+      );
+      // Kim loại quý: ghi thêm giá hợp đồng tương lai để người giao dịch phái
+      // sinh vẫn thấy con số mình cần, và hiểu vì sao hai số lệch nhau
+      if (coGiaoNgay) {
+        const lech = g.giaoNgay.lechSoVoiHopDong;
+        // Hợp đồng có thể cao hơn hoặc thấp hơn giao ngay — phải nói đúng chiều,
+        // không thể viết "cao hơn -0,04%"
+        const soSanh = lech == null ? "" :
+          " (" + (lech >= 0 ? "cao hơn" : "thấp hơn") + " giao ngay " +
+          Math.abs(lech).toLocaleString("vi-VN") + "%)";
+        phanPhu.push(
+          "Hợp đồng tương lai" + (kyHan ? " " + kyHan : "") + ": " +
+          g.gia.toLocaleString("vi-VN", { maximumFractionDigits: 4 }) + " " + donViSan + soSanh
+        );
+      }
+      phanPhu.push(bangQuyDoi.giaiThich);
+      document.getElementById("qd-phu").textContent = phanPhu.join("  ·  ");
+
+      const oLuuY = document.getElementById("qd-luuy");
+      oLuuY.textContent = bangQuyDoi.luuY;
+      oLuuY.classList.toggle("manh", bangQuyDoi.luuY.startsWith("⚠️"));
+
+      // Thời điểm của số giá đang dùng — bắt buộc hiện, để khách biết số cũ hay mới
+      const luc = new Date(g.capNhat || duLieu.capNhat);
+      if (!isNaN(luc.getTime())) {
+        document.getElementById("qd-thoi").textContent =
+          "giá lúc " + luc.toLocaleString("vi-VN", {
+            timeZone: "Asia/Ho_Chi_Minh", day: "2-digit", month: "2-digit",
+            hour: "2-digit", minute: "2-digit",
+          });
+      }
+
+      document.getElementById("qd-hop").hidden = false;
+    })();
   }
 </script>

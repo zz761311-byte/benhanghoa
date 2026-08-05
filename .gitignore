@@ -33,7 +33,10 @@ data/gia.json
 HUONG-DAN-VAN-HANH-WEB.md
 SO-TAY-VAN-HANH-BEN-HANG-HOA.docx
 CLAUDE.local.md
-.gitignore.bak-*
+# Mọi bản sao lưu đặt theo quy ước "<tên>.bak-NĂMTHÁNGNGÀY".
+# Chặn cả mẫu này vì bản sao lưu của một tập tin riêng tư thì cũng riêng tư —
+# ngày 06/08/2026 đã suýt để CLAUDE.md.bak-20260806 lọt lên kho công khai.
+*.bak-*
 
 # Quy ước làm việc + công cụ sao lưu nội bộ — giữ riêng, sao lưu ở kho GitHub RIÊNG TƯ
 # (xem F:\ben-hang-hoa-noi-bo). Chạy "npm run sao-luu" để cập nhật bản sao.

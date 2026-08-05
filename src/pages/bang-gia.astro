@@ -145,6 +145,10 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
                               và mức thay đổi thật. Ô này tải khi cuộn tới, không tải sẵn. */}
                           <div class="o-gia-tv" data-symbol={mh.tv} data-ten={mh.name}>
                             <span class="o-gia-cho">Đang tải giá…</span>
+                            {/* Lớp phủ vô hình: khách bấm vào ô giá thì sang trang chi tiết
+                                của mình, không bị nhảy sang TradingView */}
+                            <a class="o-gia-phu" href={`/hang-hoa/${mh.slug}`}
+                               aria-label={`Xem chi tiết ${mh.name}`}></a>
                           </div>
                         </td>
                       )}
@@ -239,10 +243,12 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
   function napOGia(o) {
     if (o.dataset.daNap) return;
     o.dataset.daNap = "1";
-    o.innerHTML = "";
+    // Bỏ chữ "Đang tải giá…" nhưng GIỮ lớp phủ — xoá sạch bằng innerHTML thì
+    // mất luôn lớp phủ, khách lại bấm trúng logo TradingView.
+    o.querySelector(".o-gia-cho")?.remove();
     const khung = document.createElement("div");
     khung.className = "tradingview-widget-container";
-    o.appendChild(khung);
+    o.insertBefore(khung, o.firstChild);
     const s = document.createElement("script");
     s.async = true;
     s.src = "https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js";
@@ -317,9 +323,11 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
   .c-chuaco { text-align: left !important; color: var(--muted); padding: 4px 10px !important; }
   /* Ô giá nhúng: ghìm chiều cao lại cho hàng không bị đội lên quá, và kéo sát
      mép trái để thẳng hàng với các cột số bên trên */
-  .o-gia-tv { min-height: 52px; max-width: 320px; margin-left: -6px; }
+  .o-gia-tv { min-height: 52px; max-width: 320px; margin-left: -6px; position: relative; }
   .o-gia-tv :global(.tradingview-widget-container) { min-height: 52px; }
   .o-gia-cho { font-size: 12.5px; color: var(--muted); line-height: 52px; }
+  /* Phủ kín ô giá: chặn bấm vào logo TradingView, đưa khách về trang chi tiết của mình */
+  .o-gia-phu { position: absolute; inset: 0; z-index: 3; display: block; cursor: pointer; }
 
   /* Nút mở biểu đồ — nổi bật hơn chữ "Xem" trơn, có biểu tượng đường giá đi lên
      để nhìn phát biết ngay bấm vào sẽ ra cái gì */

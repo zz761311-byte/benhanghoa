@@ -33,8 +33,12 @@ const faqSchema = d && d.faq ? {
 
       <h1>Giá {item.name} hôm nay {item.limited && <span class="lim-badge">dữ liệu hạn chế</span>}</h1>
 
-      <!-- Hộp giá real-time -->
-      <div id="symbol-info" class="tradingview-widget-container detail-quote"></div>
+      <!-- Hộp giá real-time. Bọc thêm lớp chặn bấm: khung này chỉ để xem số,
+           không cần bấm vào đâu — chặn để khách không lỡ tay nhảy sang TradingView. -->
+      <div class="detail-quote-boc">
+        <div id="symbol-info" class="tradingview-widget-container detail-quote"></div>
+        <span class="detail-quote-chan" aria-hidden="true"></span>
+      </div>
 
       <!-- Biểu đồ lớn -->
       <div class="detail-chart"><div id="adv-chart" class="tradingview-widget-container"></div></div>
@@ -111,6 +115,10 @@ const faqSchema = d && d.faq ? {
   .detail-wrap h2 { font-size: 21px; margin: 28px 0 12px; }
   .detail-wrap h3 { font-size: 17px; margin: 18px 0 8px; }
   .detail-quote { min-height: 220px; margin-bottom: 12px; }
+  /* Khung giá chỉ để đọc số — lớp chặn phủ kín để khách không bấm trúng logo
+     TradingView rồi bị đưa sang trang của họ */
+  .detail-quote-boc { position: relative; }
+  .detail-quote-chan { position: absolute; inset: 0; z-index: 3; display: block; }
   .detail-chart { height: 460px; background: var(--bg-2); border: 1px solid var(--line); border-radius: var(--radius); padding: 8px; }
   .detail-chart .tradingview-widget-container, .detail-chart #adv-chart { height: 100% !important; }
   .spec-table { width: 100%; border-collapse: collapse; background: var(--bg-2); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }

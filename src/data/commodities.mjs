@@ -3,15 +3,26 @@
 // thanh ticker, và sinh trang chi tiết từng mặt hàng (Astro import được).
 //
 // Ý nghĩa các trường:
-//   tv      — mã biểu đồ TradingView (dùng cho widget biểu đồ)
-//   yahoo   — mã lấy SỐ GIÁ về máy chủ mình (bot scripts/fetch-prices.mjs).
-//             Không có mã này thì bảng giá chỉ hiện biểu đồ, không hiện số.
-//   limited — chưa có dữ liệu miễn phí công khai, biểu đồ có thể không hiện
-//             cho khách chưa đăng nhập TradingView
+//   tv          — mã biểu đồ TradingView (dùng cho widget biểu đồ)
+//   yahoo       — mã lấy SỐ GIÁ về máy chủ mình (bot scripts/fetch-prices.mjs)
+//   chuaCoNguon — chưa tìm được nguồn giá đáng tin. Mặt hàng này KHÔNG hiện
+//                 trong bảng giá và KHÔNG nạp khung TradingView nào. Trang chi
+//                 tiết vẫn giữ (để không chết địa chỉ web) nhưng chỉ ghi rõ là
+//                 chưa có dữ liệu.
 //
-// ⚠️ Khi thêm mã `yahoo` mới, PHẢI kiểm bằng `npm run gia -- --thu` xem tên
-//    hợp đồng trả về có đúng mặt hàng và còn hạn không. Đã từng gặp: mã RU=F
-//    trả về đồng Rúp Nga (không phải cao su), ZNC=F trả hợp đồng hết hạn 2019.
+// ⚠️ HAI BÀI HỌC — đọc trước khi thêm mã mới:
+//
+// 1. Mã `yahoo` mới phải kiểm bằng `npm run gia -- --thu`, xem tên hợp đồng trả
+//    về có ĐÚNG mặt hàng và còn hạn không. Đã gặp: RU=F trả về đồng Rúp Nga
+//    (không phải cao su); ZNC=F trả hợp đồng kẽm hết hạn từ 2019; TIO=F quặng
+//    sắt có khối lượng giao dịch bằng 0 suốt 30 phiên.
+//
+// 2. Mã `tv` mới phải xem BẰNG MẮT trên trang thật, ở cửa sổ ẩn danh (tức là
+//    giống khách vãng lai chưa đăng nhập TradingView). Mã nào TradingView không
+//    phục vụ khách vãng lai thì nó TỰ KHỚP sang mã trùng tên và hiện giá của thứ
+//    khác — không báo lỗi gì. Đã gặp: CAPITALCOM:TIN hiện giá cổ phiếu
+//    CORNISH METALS INC. 1,11 USD trong khi thiếc thật khoảng 30.000 USD/tấn.
+//    Công cụ tra cứu mã của TradingView KHÔNG phát hiện được lỗi này.
 // ============================================================
 
 export const GROUPS = [
@@ -38,13 +49,11 @@ export const GROUPS = [
     key: "soft", label: "Nguyên liệu CN", icon: "☕",
     items: [
       { name: "Cà phê Arabica", slug: "ca-phe-arabica", tv: "CAPITALCOM:COFFEE", yahoo: "KC=F", unit: "cents/pound" },
-      // Robusta giao dịch trên ICE châu Âu — chưa tìm được nguồn số miễn phí
-      { name: "Cà phê Robusta", slug: "ca-phe-robusta", tv: "ICEEUR:RC1!",       unit: "USD/tấn", limited: true },
+      { name: "Cà phê Robusta", slug: "ca-phe-robusta", tv: "", unit: "USD/tấn", chuaCoNguon: true },
       { name: "Đường",          slug: "duong",          tv: "CAPITALCOM:SUGAR",  yahoo: "SB=F", unit: "cents/pound" },
       { name: "Cacao",          slug: "cacao",          tv: "CAPITALCOM:COCOA",  yahoo: "CC=F", unit: "USD/tấn" },
       { name: "Bông",           slug: "bong",           tv: "CAPITALCOM:COTTON", yahoo: "CT=F", unit: "cents/pound" },
-      // Cao su giao dịch ở Thượng Hải — chưa tìm được nguồn số miễn phí
-      { name: "Cao su",         slug: "cao-su",         tv: "SHFE:RU1!",         unit: "CNY/tấn", limited: true }
+      { name: "Cao su",         slug: "cao-su",         tv: "", unit: "CNY/tấn", chuaCoNguon: true }
     ]
   },
   {
@@ -57,22 +66,12 @@ export const GROUPS = [
       // Quặng sắt: mã TIO=F trên Yahoo là hợp đồng gần như không giao dịch
       // (khối lượng 0 suốt 30 phiên, giá niêm yết lệch 73% so với chuỗi lịch sử)
       // → không dùng được. Chỉ hiện biểu đồ.
-      { name: "Quặng sắt", slug: "quang-sat", tv: "SGX:FEF1!",           unit: "USD/tấn", limited: true },
+      { name: "Quặng sắt", slug: "quang-sat", tv: "", unit: "USD/tấn", chuaCoNguon: true },
       { name: "Nhôm",      slug: "nhom",      tv: "CAPITALCOM:ALUMINUM", yahoo: "ALI=F", unit: "USD/tấn" },
-      // Kẽm, chì, niken, thiếc giao dịch trên LME — dữ liệu LME có bản quyền,
-      // chưa tìm được nguồn số miễn phí hợp lệ. Chỉ hiện biểu đồ.
-      { name: "Kẽm",       slug: "kem",       tv: "CAPITALCOM:ZINC",     unit: "USD/tấn" },
-      { name: "Chì",       slug: "chi",       tv: "CAPITALCOM:LEAD",     unit: "USD/tấn" },
-      { name: "Niken",     slug: "niken",     tv: "CAPITALCOM:NICKEL",   unit: "USD/tấn" },
-      // ⚠️ THIẾC — KHÔNG có mã nào dùng được, đã dò ngày 05/08/2026:
-      //   CAPITALCOM:TIN → khách vãng lai thấy cổ phiếu CORNISH METALS INC. giá 1,11
-      //     (thiếc thật khoảng 30.000–40.000 USD/tấn) — sai hoàn toàn
-      //   LME:SN → TradingView đổi thành LME_EOD:SN, chỉ có giá cuối ngày, cần mua dữ liệu
-      //   SHFE:SN1! → không tải được dữ liệu
-      //   MCX:TIN1! → có dữ liệu nhưng là sàn Ấn Độ, tính bằng INR/kg, sai đơn vị
-      // Vì vậy để trống, KHÔNG hiện số. Thà trống còn hơn cho nhà đầu tư số sai.
-      // Tìm được nguồn đúng thì điền `tv` và bỏ cờ `chuaCoNguon`.
-      { name: "Thiếc",     slug: "thiec",     tv: "",                    unit: "USD/tấn", chuaCoNguon: true }
+      { name: "Kẽm",       slug: "kem",       tv: "", unit: "USD/tấn", chuaCoNguon: true },
+      { name: "Chì",       slug: "chi",       tv: "", unit: "USD/tấn", chuaCoNguon: true },
+      { name: "Niken",     slug: "niken",     tv: "", unit: "USD/tấn", chuaCoNguon: true },
+      { name: "Thiếc",     slug: "thiec",     tv: "", unit: "USD/tấn", chuaCoNguon: true }
     ]
   }
 ];

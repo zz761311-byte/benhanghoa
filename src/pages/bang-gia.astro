@@ -58,10 +58,17 @@ if (duLieuGia.capNhat) {
   }
 }
 const soMatHangCoGia = Object.keys(bangGia).length;
-// Mặt hàng chưa lấy được số — liệt kê ở cuối trang cho người đọc biết vì sao trống
-const thieuSo = GROUPS.flatMap((n) => n.items)
-  .filter((mh) => !bangGia[mh.slug])
-  .map((mh) => mh.name);
+
+// Mặt hàng chưa tìm được nguồn giá đáng tin thì KHÔNG đưa vào bảng.
+// Lý do: mã TradingView của những mặt hàng này tự khớp sang thứ khác khi khách
+// chưa đăng nhập, hiện ra số sai hoàn toàn (thiếc từng hiện giá cổ phiếu
+// Cornish Metals 1,11 USD trong khi thiếc thật khoảng 30.000 USD/tấn).
+const NHOM_HIEN = GROUPS
+  .map((nhom) => ({ ...nhom, items: nhom.items.filter((mh) => !mh.chuaCoNguon) }))
+  .filter((nhom) => nhom.items.length > 0);
+
+// Danh sách bỏ ra ngoài — nêu ở cuối trang cho minh bạch, kèm đường dẫn trang chi tiết
+const chuaCoNguon = GROUPS.flatMap((n) => n.items).filter((mh) => mh.chuaCoNguon);
 
 // Cache ở biên Cloudflare 5 phút — đỡ gọi GitHub liên tục mà vẫn đủ tươi
 Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
@@ -89,7 +96,7 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
         không phải khuyến nghị đầu tư.
       </p>
 
-      {GROUPS.map((nhom) => (
+      {NHOM_HIEN.map((nhom) => (
         <div class="gia-khoi">
           <h2 class="gia-nhom">{nhom.icon} {nhom.label}</h2>
           <div class="gia-cuon">
@@ -138,33 +145,15 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
                           <td class={"c-so c-an " + huong(g.doiMotNam)}>{phanTram(g.doiMotNam)}</td>
                         </>
                       ) : (
+                        /* Mặt hàng có mã Yahoo nhưng lượt lấy giá gần nhất bị lỗi */
                         <td class="c-chuaco" colspan="8">
-                          {mh.chuaCoNguon ? (
-                            /* Không có mã nào cho số đúng — thà để trống còn hơn hiện
-                               nhầm giá của thứ khác cho nhà đầu tư đọc */
-                            <span class="o-gia-trong">
-                              <span class="lim-badge">chưa có dữ liệu</span>
-                              <span class="nho">chưa tìm được nguồn giá đáng tin cho mặt hàng này</span>
-                            </span>
-                          ) : (
-                            /* Mặt hàng sàn LME / ICE châu Âu / Thượng Hải: dữ liệu giá có
-                               bản quyền nên máy chủ mình không lấy số về được. Thay vào đó
-                               nhúng ô giá chính thức của TradingView — khách vẫn thấy giá
-                               và mức thay đổi thật. Ô này tải khi cuộn tới, không tải sẵn. */
-                            <div class="o-gia-tv" data-symbol={mh.tv} data-ten={mh.name}>
-                              <span class="o-gia-cho">Đang tải giá…</span>
-                              {/* Lớp phủ vô hình: khách bấm vào ô giá thì sang trang chi tiết
-                                  của mình, không bị nhảy sang TradingView */}
-                              <a class="o-gia-phu" href={`/hang-hoa/${mh.slug}`}
-                                 aria-label={`Xem chi tiết ${mh.name}`}></a>
-                            </div>
-                          )}
+                          <span class="o-gia-trong">
+                            <span class="lim-badge">tạm chưa có số</span>
+                            <span class="nho">lượt cập nhật gần nhất chưa lấy được giá</span>
+                          </span>
                         </td>
                       )}
                       <td class="c-bieudo">
-                        {mh.chuaCoNguon ? (
-                          <span class="nho">—</span>
-                        ) : (
                         <button type="button" class="nut-bieudo" data-symbol={mh.tv}
                                 aria-label={`Xem biểu đồ ${mh.name}`}>
                           <svg class="nut-icon" viewBox="0 0 20 20" width="15" height="15" aria-hidden="true">
@@ -175,7 +164,6 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
                           </svg>
                           <span class="nut-chu">Biểu đồ</span>
                         </button>
-                        )}
                       </td>
                     </tr>
                   );
@@ -191,13 +179,27 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
         <div id="tv_chart"></div>
       </div>
 
-      {thieuSo.length > 0 && (
-        <p class="gia-ghichu">
-          {thieuSo.length} mặt hàng chưa có số ({thieuSo.join(", ")}) giao dịch trên các sàn
-          LME, ICE châu Âu, Thượng Hải và Singapore — dữ liệu giá của những sàn này có
-          bản quyền, chưa có nguồn miễn phí công khai. Với các mặt hàng đó, trang vẫn
-          hiện biểu đồ để bạn theo dõi.
-        </p>
+      {chuaCoNguon.length > 0 && (
+        <div class="gia-ghichu">
+          <b>Vì sao bảng này không có {chuaCoNguon.map((mh) => mh.name).join(", ")}?</b>
+          <p>
+            Những mặt hàng đó giao dịch trên các sàn LME, ICE châu Âu, Thượng Hải và
+            Singapore. Dữ liệu giá của các sàn này có bản quyền, không có nguồn miễn phí
+            công khai nào đủ tin cậy. Chúng tôi đã thử và phát hiện các nguồn miễn phí
+            trả về <b>giá của mặt hàng khác</b> — nên quyết định để trống thay vì đưa bạn
+            một con số sai.
+          </p>
+          <p>
+            Cần giá những mặt hàng này, vui lòng
+            <a href="#dang-ky">liên hệ để được tư vấn</a>. Trang giới thiệu từng mặt hàng
+            vẫn còn: {chuaCoNguon.map((mh, i) => (
+              <>
+                {i > 0 && ", "}
+                <a href={`/hang-hoa/${mh.slug}`}>{mh.name}</a>
+              </>
+            ))}.
+          </p>
+        </div>
       )}
     </div>
   </section>
@@ -261,44 +263,6 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
     });
   });
 
-  // Ô giá TradingView cho các mặt hàng máy chủ mình không lấy được số.
-  // Chỉ nạp khi ô sắp lọt vào tầm nhìn — tránh tải cùng lúc nhiều khung nhúng
-  // làm chậm trang trên điện thoại.
-  const cacOGia = document.querySelectorAll(".o-gia-tv");
-  function napOGia(o) {
-    if (o.dataset.daNap) return;
-    o.dataset.daNap = "1";
-    // Bỏ chữ "Đang tải giá…" nhưng GIỮ lớp phủ — xoá sạch bằng innerHTML thì
-    // mất luôn lớp phủ, khách lại bấm trúng logo TradingView.
-    o.querySelector(".o-gia-cho")?.remove();
-    const khung = document.createElement("div");
-    khung.className = "tradingview-widget-container";
-    o.insertBefore(khung, o.firstChild);
-    const s = document.createElement("script");
-    s.async = true;
-    s.src = "https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js";
-    s.innerHTML = JSON.stringify({
-      symbol: o.dataset.symbol,
-      width: "100%",
-      isTransparent: true,
-      colorTheme: "dark",
-      locale: "vi_VN"
-    });
-    khung.appendChild(s);
-  }
-  if (cacOGia.length) {
-    if ("IntersectionObserver" in window) {
-      const theoDoi = new IntersectionObserver((cacMuc, boTheoDoi) => {
-        cacMuc.forEach((muc) => {
-          if (muc.isIntersecting) { napOGia(muc.target); boTheoDoi.unobserve(muc.target); }
-        });
-      }, { rootMargin: "200px" });
-      cacOGia.forEach((o) => theoDoi.observe(o));
-    } else {
-      cacOGia.forEach(napOGia);   // trình duyệt cũ: nạp hết
-    }
-  }
-
   // Vào thẳng bằng đường dẫn có ?symbol=... thì mở luôn biểu đồ đó
   const maMuonXem = new URLSearchParams(location.search).get("symbol");
   if (maMuonXem) {
@@ -345,16 +309,9 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
   .spark.xuong { color: #ff4d4f; }
   .c-bd { width: 96px; }
 
-  .c-chuaco { text-align: left !important; color: var(--muted); padding: 4px 10px !important; }
-  /* Ô giá nhúng: ghìm chiều cao lại cho hàng không bị đội lên quá, và kéo sát
-     mép trái để thẳng hàng với các cột số bên trên */
-  .o-gia-tv { min-height: 52px; max-width: 320px; margin-left: -6px; position: relative; }
-  .o-gia-tv :global(.tradingview-widget-container) { min-height: 52px; }
-  .o-gia-cho { font-size: 12.5px; color: var(--muted); line-height: 52px; }
-  .o-gia-trong { display: inline-flex; align-items: center; gap: 10px; min-height: 52px; }
+  .c-chuaco { text-align: left !important; color: var(--muted); }
+  .o-gia-trong { display: inline-flex; align-items: center; gap: 10px; flex-wrap: wrap; }
   .o-gia-trong .nho { font-size: 12.5px; }
-  /* Phủ kín ô giá: chặn bấm vào logo TradingView, đưa khách về trang chi tiết của mình */
-  .o-gia-phu { position: absolute; inset: 0; z-index: 3; display: block; cursor: pointer; }
 
   /* Nút mở biểu đồ — nổi bật hơn chữ "Xem" trơn, có biểu tượng đường giá đi lên
      để nhìn phát biết ngay bấm vào sẽ ra cái gì */
@@ -395,9 +352,11 @@ Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
   #tv_chart { min-height: 420px; }
 
   .gia-ghichu {
-    margin-top: 22px; font-size: 13px; color: var(--muted); line-height: 1.65;
+    margin-top: 22px; font-size: 13.5px; color: var(--muted); line-height: 1.7;
     padding-top: 14px; border-top: 1px solid var(--line); max-width: 900px;
   }
+  .gia-ghichu p { margin: 8px 0 0; }
+  .gia-ghichu b { color: var(--text); }
 
   /* Điện thoại: giấu bớt cột phụ cho bảng vừa màn hình, giữ lại phần quan trọng nhất */
   @media (max-width: 760px) {

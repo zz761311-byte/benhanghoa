@@ -1,9 +1,75 @@
 ---
+export const prerender = false;   // Dựng tại chỗ trên Cloudflare mỗi lần khách vào
+
 import Layout from "../layouts/Layout.astro";
 import LeadCTA from "../components/LeadCTA.astro";
 import { GROUPS, TICKER } from "../data/commodities.mjs";
+
+// ── Lấy gia.json ngay lúc khách truy cập, giống cách trang tin tức làm.
+// Nhờ vậy SỐ GIÁ nằm sẵn trong trang: Google đọc được, khách thấy ngay không
+// phải chờ khung nhúng TradingView tải xong. Cloudflare không có node:fs nên
+// phải dùng fetch. Thử GitHub trước (tươi nhất), lỗi thì lấy bản kèm trong build.
+const NGUON_GITHUB = "https://raw.githubusercontent.com/zz761311-byte/benhanghoa/main/public/data/gia.json";
+const NGUON_TAI_CHO = new URL("/data/gia.json", Astro.url).href;
+
+let duLieuGia = { items: {}, capNhat: "", nguon: "" };
+for (const url of [NGUON_GITHUB, NGUON_TAI_CHO]) {
+  try {
+    const r = await fetch(url, { cache: "no-store" });
+    if (r.ok) { duLieuGia = await r.json(); break; }
+  } catch (e) {}
+}
+const bangGia = duLieuGia.items || {};
+
+// Định dạng số theo kiểu Việt Nam: dấu chấm ngăn nghìn, dấu phẩy thập phân
+function soVN(n, chuSoThapPhan) {
+  if (n === null || n === undefined) return "—";
+  const soLe = chuSoThapPhan ?? (Math.abs(n) >= 1000 ? 0 : Math.abs(n) >= 10 ? 2 : 3);
+  return n.toLocaleString("vi-VN", { minimumFractionDigits: soLe, maximumFractionDigits: soLe });
+}
+const phanTram = (n) => (n === null || n === undefined ? "—" : (n > 0 ? "+" : "") + soVN(n, 2) + "%");
+const huong = (n) => (n === null || n === undefined ? "" : n > 0 ? "len" : n < 0 ? "xuong" : "");
+
+// Vẽ đường giá tí hon bằng SVG — không cần thư viện, nhẹ, hiện được cả khi
+// chưa tải xong JavaScript
+function duongGiaSVG(cacGia) {
+  if (!cacGia || cacGia.length < 2) return null;
+  const rong = 90, cao = 26, le = 2;
+  const nhoNhat = Math.min(...cacGia);
+  const lonNhat = Math.max(...cacGia);
+  const bienDo = lonNhat - nhoNhat || 1;
+  const diem = cacGia.map((g, i) => {
+    const x = le + (i / (cacGia.length - 1)) * (rong - le * 2);
+    const y = cao - le - ((g - nhoNhat) / bienDo) * (cao - le * 2);
+    return x.toFixed(1) + "," + y.toFixed(1);
+  });
+  return { d: "M" + diem.join(" L"), rong, cao, tang: cacGia[cacGia.length - 1] >= cacGia[0] };
+}
+
+// Thời điểm cập nhật, hiện theo giờ Việt Nam
+let thoiDiem = "";
+if (duLieuGia.capNhat) {
+  const d = new Date(duLieuGia.capNhat);
+  if (!isNaN(d.getTime())) {
+    thoiDiem = d.toLocaleString("vi-VN", {
+      timeZone: "Asia/Ho_Chi_Minh", day: "2-digit", month: "2-digit", year: "numeric",
+      hour: "2-digit", minute: "2-digit",
+    });
+  }
+}
+const soMatHangCoGia = Object.keys(bangGia).length;
+// Mặt hàng chưa lấy được số — liệt kê ở cuối trang cho người đọc biết vì sao trống
+const thieuSo = GROUPS.flatMap((n) => n.items)
+  .filter((mh) => !bangGia[mh.slug])
+  .map((mh) => mh.name);
+
+// Cache ở biên Cloudflare 5 phút — đỡ gọi GitHub liên tục mà vẫn đủ tươi
+Astro.response.headers.set("Cache-Control", "public, max-age=0, s-maxage=300");
 ---
-<Layout page="prices" title="Bảng giá hàng hóa — Bến Hàng Hóa" description="Bảng giá hàng hóa: dầu, vàng, bạc, đồng, ngô, đậu tương, cà phê... với biểu đồ chi tiết.">
+<Layout
+  page="prices"
+  title="Bảng giá hàng hóa thế giới hôm nay — Bến Hàng Hóa"
+  description="Giá dầu thô, vàng, bạc, đồng, cà phê, ngô, đậu tương... cập nhật liên tục kèm mức thay đổi trong ngày, tuần, tháng và năm.">
   <div class="ticker-host">
     <div id="ticker" class="tradingview-widget-container"></div>
     <span class="ticker-link" aria-hidden="true"></span>
@@ -11,30 +77,111 @@ import { GROUPS, TICKER } from "../data/commodities.mjs";
 
   <section class="section">
     <div class="container">
-      <div class="section-head"><h1>📊 Bảng giá hàng hóa</h1></div>
-      <div class="notice" style="margin-bottom:16px">
-        Bấm vào một mặt hàng bên trái để xem biểu đồ. Phần lớn mã là <b>real-time miễn phí</b>
-        (vàng, bạc, đồng, dầu, kim loại cơ bản, nông sản, cà phê...). Vài mã gắn nhãn
-        <span class="lim-badge">hạn chế</span> chưa có dữ liệu miễn phí công khai. Chỉ mang tính tham khảo.
+      <div class="section-head">
+        <h1>Bảng giá hàng hóa thế giới hôm nay</h1>
       </div>
 
-      <div class="price-layout">
-        <div id="price-list" class="price-list">
-          {GROUPS.map((g) => (
-            <Fragment>
-              <div class="price-group-title">{g.icon} {g.label}</div>
-              {g.items.map((it) => (
-                <div class="price-row" data-symbol={it.tv} role="button" tabindex="0">
-                  <span class="nm">{it.name}{it.limited && (<span class="lim-badge" title="Chưa có dữ liệu miễn phí công khai — biểu đồ chỉ hiện khi đã đăng nhập TradingView">hạn chế</span>)}</span>
-                  <span class="unit">{it.unit}</span>
-                  <a class="row-detail" href={`/hang-hoa/${it.slug}`} title={`Trang chi tiết ${it.name}`} onclick="event.stopPropagation()">↗</a>
-                </div>
-              ))}
-            </Fragment>
-          ))}
+      <p class="gia-tomtat">
+        {soMatHangCoGia > 0
+          ? `Giá ${soMatHangCoGia} mặt hàng cập nhật lúc ${thoiDiem} (giờ Việt Nam), nguồn ${duLieuGia.nguon || "Yahoo Finance"}.`
+          : "Đang cập nhật giá — vui lòng tải lại trang sau ít phút."}
+        Giá hợp đồng tương lai, có thể chênh với giá giao ngay. Chỉ mang tính tham khảo,
+        không phải khuyến nghị đầu tư.
+      </p>
+
+      {GROUPS.map((nhom) => (
+        <div class="gia-khoi">
+          <h2 class="gia-nhom">{nhom.icon} {nhom.label}</h2>
+          <div class="gia-cuon">
+            <table class="gia-bang">
+              <thead>
+                <tr>
+                  <th class="c-ten">Mặt hàng</th>
+                  <th class="c-so">Giá</th>
+                  <th class="c-so">Thay đổi</th>
+                  <th class="c-so">%</th>
+                  <th class="c-bd">30 phiên</th>
+                  <th class="c-so c-an">Thấp/Cao ngày</th>
+                  <th class="c-so c-an">1 tuần</th>
+                  <th class="c-so c-an">1 tháng</th>
+                  <th class="c-so c-an">1 năm</th>
+                  <th class="c-bieudo">Biểu đồ</th>
+                </tr>
+              </thead>
+              <tbody>
+                {nhom.items.map((mh) => {
+                  const g = bangGia[mh.slug];
+                  const sp = g ? duongGiaSVG(g.duongGia) : null;
+                  return (
+                    <tr class="gia-hang" data-symbol={mh.tv}>
+                      <td class="c-ten">
+                        <a href={`/hang-hoa/${mh.slug}`}>{mh.name}</a>
+                        <span class="dv">{mh.unit}</span>
+                      </td>
+                      {g ? (
+                        <>
+                          <td class="c-so gia-chinh">{soVN(g.gia)}</td>
+                          <td class={"c-so " + huong(g.doi)}>{g.doi > 0 ? "+" : ""}{soVN(g.doi)}</td>
+                          <td class={"c-so " + huong(g.doiPhanTram)}>{phanTram(g.doiPhanTram)}</td>
+                          <td class="c-bd">
+                            {sp && (
+                              <svg viewBox={`0 0 ${sp.rong} ${sp.cao}`} width={sp.rong} height={sp.cao}
+                                   class={"spark " + (sp.tang ? "len" : "xuong")} aria-hidden="true">
+                                <path d={sp.d} fill="none" stroke="currentColor" stroke-width="1.6"
+                                      stroke-linejoin="round" stroke-linecap="round" />
+                              </svg>
+                            )}
+                          </td>
+                          <td class="c-so c-an nho">{soVN(g.thapTrongNgay)} – {soVN(g.caoTrongNgay)}</td>
+                          <td class={"c-so c-an " + huong(g.doiMotTuan)}>{phanTram(g.doiMotTuan)}</td>
+                          <td class={"c-so c-an " + huong(g.doiMotThang)}>{phanTram(g.doiMotThang)}</td>
+                          <td class={"c-so c-an " + huong(g.doiMotNam)}>{phanTram(g.doiMotNam)}</td>
+                        </>
+                      ) : (
+                        <td class="c-chuaco" colspan="8">
+                          {/* Mặt hàng sàn LME / ICE châu Âu / Thượng Hải: dữ liệu giá có
+                              bản quyền nên máy chủ mình không lấy số về được. Thay vào đó
+                              nhúng ô giá chính thức của TradingView — khách vẫn thấy giá
+                              và mức thay đổi thật. Ô này tải khi cuộn tới, không tải sẵn. */}
+                          <div class="o-gia-tv" data-symbol={mh.tv} data-ten={mh.name}>
+                            <span class="o-gia-cho">Đang tải giá…</span>
+                          </div>
+                        </td>
+                      )}
+                      <td class="c-bieudo">
+                        <button type="button" class="nut-bieudo" data-symbol={mh.tv}
+                                aria-label={`Xem biểu đồ ${mh.name}`}>
+                          <svg class="nut-icon" viewBox="0 0 20 20" width="15" height="15" aria-hidden="true">
+                            <path d="M2.5 13.5 L7 8.5 L10.5 11.5 L17 4" fill="none" stroke="currentColor"
+                                  stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                            <path d="M13 4 H17 V8" fill="none" stroke="currentColor"
+                                  stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                          </svg>
+                          <span class="nut-chu">Biểu đồ</span>
+                        </button>
+                      </td>
+                    </tr>
+                  );
+                })}
+              </tbody>
+            </table>
+          </div>
         </div>
-        <div class="chart-panel"><div id="tv_chart"></div></div>
+      ))}
+
+      <div class="chart-panel" id="khung-bieudo">
+        <div class="chart-nhan" id="chart-nhan">Bấm “Xem” ở một mặt hàng để mở biểu đồ chi tiết</div>
+        <div id="tv_chart"></div>
       </div>
+
+      {thieuSo.length > 0 && (
+        <p class="gia-ghichu">
+          {thieuSo.length} mặt hàng chưa có số ({thieuSo.join(", ")}) giao dịch trên các sàn
+          LME, ICE châu Âu, Thượng Hải và Singapore — dữ liệu giá của những sàn này có
+          bản quyền, chưa có nguồn miễn phí công khai. Với các mặt hàng đó, trang vẫn
+          hiện biểu đồ để bạn theo dõi.
+        </p>
+      )}
     </div>
   </section>
 
@@ -45,7 +192,7 @@ import { GROUPS, TICKER } from "../data/commodities.mjs";
 
 <script is:inline src="https://s3.tradingview.com/tv.js"></script>
 <script define:vars={{ TICKER }}>
-  // Thanh ticker
+  // Thanh giá chạy
   const tickerHost = document.getElementById("ticker");
   if (tickerHost) {
     const s = document.createElement("script");
@@ -58,39 +205,173 @@ import { GROUPS, TICKER } from "../data/commodities.mjs";
     tickerHost.appendChild(s);
   }
 
-  // Danh sách → biểu đồ
-  const listEl = document.getElementById("price-list");
-  const chartEl = document.getElementById("tv_chart");
-  if (listEl && chartEl) {
-    function loadChart(symbol) {
-      chartEl.innerHTML = "";
-      new TradingView.widget({
-        autosize: true, symbol, interval: "D", timezone: "Asia/Ho_Chi_Minh",
-        theme: "dark", style: "1", locale: "vi_VN", toolbar_bg: "#0e2138",
-        enable_publishing: false, hide_side_toolbar: false,
-        allow_symbol_change: true, container_id: "tv_chart"
-      });
-    }
-    function select(row) {
-      listEl.querySelectorAll(".price-row.active").forEach((r) => r.classList.remove("active"));
-      row.classList.add("active");
-    }
-    listEl.querySelectorAll(".price-row").forEach((row) => {
-      row.addEventListener("click", () => { select(row); loadChart(row.dataset.symbol); });
+  // Biểu đồ chi tiết — chỉ tải khi khách bấm, không tải sẵn cho nhẹ trang
+  const oChart = document.getElementById("tv_chart");
+  const nhanChart = document.getElementById("chart-nhan");
+  const khungChart = document.getElementById("khung-bieudo");
+  function moBieuDo(maTV, tenMatHang) {
+    if (!oChart) return;
+    oChart.innerHTML = "";
+    if (nhanChart) nhanChart.textContent = "Biểu đồ: " + tenMatHang;
+    new TradingView.widget({
+      autosize: true, symbol: maTV, interval: "D", timezone: "Asia/Ho_Chi_Minh",
+      theme: "dark", style: "1", locale: "vi_VN", toolbar_bg: "#0e2138",
+      enable_publishing: false, hide_side_toolbar: false,
+      allow_symbol_change: true, container_id: "tv_chart"
     });
-    const wanted = new URLSearchParams(location.search).get("symbol");
-    const start = wanted
-      ? listEl.querySelector('.price-row[data-symbol="' + (window.CSS ? CSS.escape(wanted) : wanted) + '"]')
-      : listEl.querySelector(".price-row");
-    if (start) { select(start); loadChart(start.dataset.symbol); }
+    khungChart?.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  }
+
+  document.querySelectorAll(".nut-bieudo").forEach((nut) => {
+    nut.addEventListener("click", () => {
+      const hang = nut.closest(".gia-hang");
+      const ten = hang?.querySelector(".c-ten a")?.textContent || "";
+      document.querySelectorAll(".gia-hang.dang-xem").forEach((h) => h.classList.remove("dang-xem"));
+      hang?.classList.add("dang-xem");
+      moBieuDo(nut.dataset.symbol, ten);
+    });
+  });
+
+  // Ô giá TradingView cho các mặt hàng máy chủ mình không lấy được số.
+  // Chỉ nạp khi ô sắp lọt vào tầm nhìn — tránh tải cùng lúc nhiều khung nhúng
+  // làm chậm trang trên điện thoại.
+  const cacOGia = document.querySelectorAll(".o-gia-tv");
+  function napOGia(o) {
+    if (o.dataset.daNap) return;
+    o.dataset.daNap = "1";
+    o.innerHTML = "";
+    const khung = document.createElement("div");
+    khung.className = "tradingview-widget-container";
+    o.appendChild(khung);
+    const s = document.createElement("script");
+    s.async = true;
+    s.src = "https://s3.tradingview.com/external-embedding/embed-widget-single-quote.js";
+    s.innerHTML = JSON.stringify({
+      symbol: o.dataset.symbol,
+      width: "100%",
+      isTransparent: true,
+      colorTheme: "dark",
+      locale: "vi_VN"
+    });
+    khung.appendChild(s);
+  }
+  if (cacOGia.length) {
+    if ("IntersectionObserver" in window) {
+      const theoDoi = new IntersectionObserver((cacMuc, boTheoDoi) => {
+        cacMuc.forEach((muc) => {
+          if (muc.isIntersecting) { napOGia(muc.target); boTheoDoi.unobserve(muc.target); }
+        });
+      }, { rootMargin: "200px" });
+      cacOGia.forEach((o) => theoDoi.observe(o));
+    } else {
+      cacOGia.forEach(napOGia);   // trình duyệt cũ: nạp hết
+    }
+  }
+
+  // Vào thẳng bằng đường dẫn có ?symbol=... thì mở luôn biểu đồ đó
+  const maMuonXem = new URLSearchParams(location.search).get("symbol");
+  if (maMuonXem) {
+    const nut = document.querySelector('.nut-bieudo[data-symbol="' + (window.CSS ? CSS.escape(maMuonXem) : maMuonXem) + '"]');
+    if (nut) nut.click();
   }
 </script>
 
 <style>
-  .price-row { gap: 8px; }
-  .row-detail {
-    color: var(--muted); font-size: 13px; font-weight: 700; text-decoration: none;
-    padding: 2px 7px; border-radius: 6px; border: 1px solid transparent;
+  .gia-tomtat {
+    color: var(--muted); font-size: 14px; line-height: 1.65;
+    margin: 0 0 22px; max-width: 900px;
   }
-  .row-detail:hover { color: var(--accent); border-color: var(--line); background: var(--bg); }
+  .gia-khoi { margin-bottom: 26px; }
+  .gia-nhom {
+    font-size: 17px; margin: 0 0 10px; padding-bottom: 8px;
+    border-bottom: 1px solid var(--line);
+  }
+  /* Bảng rộng hơn màn hình điện thoại thì cho cuộn ngang trong khung riêng,
+     không để cả trang bị đẩy ngang */
+  .gia-cuon { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .gia-bang { width: 100%; border-collapse: collapse; font-size: 14px; min-width: 560px; }
+  .gia-bang thead th {
+    text-align: right; font-weight: 600; font-size: 12px; color: var(--muted);
+    padding: 8px 10px; white-space: nowrap; border-bottom: 1px solid var(--line);
+  }
+  .gia-bang thead th.c-ten { text-align: left; }
+  .gia-bang td { padding: 9px 10px; border-bottom: 1px solid var(--line); text-align: right; }
+  .gia-hang:hover { background: rgba(255, 255, 255, 0.03); }
+  .gia-hang.dang-xem { background: rgba(217, 164, 65, 0.08); }
+
+  .c-ten { text-align: left !important; }
+  .c-ten a { font-weight: 600; text-decoration: none; }
+  .c-ten a:hover { text-decoration: underline; }
+  .c-ten .dv { display: block; font-size: 11.5px; color: var(--muted); margin-top: 2px; }
+
+  .gia-chinh { font-weight: 700; font-size: 15px; white-space: nowrap; }
+  .c-so { white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .nho { font-size: 12.5px; color: var(--muted); }
+
+  .len { color: #34c759; }
+  .xuong { color: #ff4d4f; }
+  .spark.len { color: #34c759; }
+  .spark.xuong { color: #ff4d4f; }
+  .c-bd { width: 96px; }
+
+  .c-chuaco { text-align: left !important; color: var(--muted); padding: 4px 10px !important; }
+  /* Ô giá nhúng: ghìm chiều cao lại cho hàng không bị đội lên quá, và kéo sát
+     mép trái để thẳng hàng với các cột số bên trên */
+  .o-gia-tv { min-height: 52px; max-width: 320px; margin-left: -6px; }
+  .o-gia-tv :global(.tradingview-widget-container) { min-height: 52px; }
+  .o-gia-cho { font-size: 12.5px; color: var(--muted); line-height: 52px; }
+
+  /* Nút mở biểu đồ — nổi bật hơn chữ "Xem" trơn, có biểu tượng đường giá đi lên
+     để nhìn phát biết ngay bấm vào sẽ ra cái gì */
+  .nut-bieudo {
+    display: inline-flex; align-items: center; gap: 6px;
+    background: linear-gradient(180deg, rgba(217, 164, 65, 0.16), rgba(217, 164, 65, 0.07));
+    color: var(--accent);
+    border: 1px solid rgba(217, 164, 65, 0.42);
+    border-radius: 999px; padding: 5px 13px 5px 11px;
+    font-size: 12.5px; font-weight: 700; letter-spacing: 0.2px;
+    cursor: pointer; font-family: inherit; white-space: nowrap;
+    transition: background 0.18s ease, border-color 0.18s ease, transform 0.12s ease,
+                box-shadow 0.18s ease, color 0.18s ease;
+  }
+  .nut-icon { flex: none; transition: transform 0.18s ease; }
+
+  .nut-bieudo:hover {
+    background: linear-gradient(180deg, rgba(217, 164, 65, 0.34), rgba(217, 164, 65, 0.18));
+    border-color: var(--accent);
+    box-shadow: 0 3px 12px rgba(217, 164, 65, 0.28);
+    transform: translateY(-1px);
+  }
+  .nut-bieudo:hover .nut-icon { transform: scale(1.12); }
+  .nut-bieudo:active { transform: translateY(0); box-shadow: none; }
+  .nut-bieudo:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+  /* Hàng đang mở biểu đồ: nút đổi thành nền vàng đặc cho thấy rõ đang xem cái nào */
+  .gia-hang.dang-xem .nut-bieudo {
+    background: var(--accent); color: #14243a; border-color: var(--accent);
+    box-shadow: 0 3px 12px rgba(217, 164, 65, 0.32);
+  }
+
+  .chart-panel { margin-top: 8px; }
+  .chart-nhan {
+    font-size: 13px; color: var(--muted); padding: 8px 2px; border-bottom: 1px solid var(--line);
+    margin-bottom: 10px;
+  }
+  #tv_chart { min-height: 420px; }
+
+  .gia-ghichu {
+    margin-top: 22px; font-size: 13px; color: var(--muted); line-height: 1.65;
+    padding-top: 14px; border-top: 1px solid var(--line); max-width: 900px;
+  }
+
+  /* Điện thoại: giấu bớt cột phụ cho bảng vừa màn hình, giữ lại phần quan trọng nhất */
+  @media (max-width: 760px) {
+    .gia-bang { min-width: 0; font-size: 13px; }
+    .gia-bang .c-an { display: none; }
+    .gia-bang td, .gia-bang thead th { padding: 8px 6px; }
+    .c-bd { width: 70px; }
+    /* Màn hình hẹp: nút chỉ còn biểu tượng cho đỡ chật, vẫn bấm được thoải mái */
+    .nut-chu { display: none; }
+    .nut-bieudo { padding: 7px 9px; border-radius: 10px; }
+  }
 </style>

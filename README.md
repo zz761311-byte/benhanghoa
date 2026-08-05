@@ -31,6 +31,7 @@ Các lệnh phụ:
 ```bash
 npm run check-posts    # kiểm tra bài viết thiếu khai báo đầu bài
 npm run fetch-news     # chạy tay bot lấy tin
+npm run gia            # chạy tay bot lấy giá hàng hoá
 npm run draft          # chạy tay bot soạn nháp bài phân tích
 npm run xem-anh        # liệt kê ảnh bìa, chỉ ra ảnh nào quá nặng
 npm run nen-anh        # nén ảnh bìa cho trang nhẹ đi
@@ -65,6 +66,7 @@ npm run nen-anh        # nén ảnh bìa cho trang nhẹ đi
 | Cái gì | Lịch chạy | Việc làm | Tự lên web? |
 |---|---|---|---|
 | `fetch-news.yml` | phút :25 và :55 mỗi giờ | Lấy tin RSS, dịch, ghi `public/data/news.json` | ✅ có |
+| `fetch-prices.yml` | mỗi giờ phút :12, ngày thị trường mở | Lấy giá 18 mặt hàng, ghi `public/data/gia.json` | ✅ có |
 | `draft-article.yml` | 08:17 sáng VN (dự phòng 08:47) | Soạn nháp vào `drafts/`, tự xoá nháp cũ hơn 14 ngày | ❌ phải duyệt tay |
 | Worker Cloudflare | mỗi đầu giờ | Gọi GitHub kích hoạt bot tin tức cho đúng giờ | — |
 

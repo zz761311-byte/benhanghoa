@@ -1,0 +1,63 @@
+name: Cập nhật giá hàng hóa (Bến Hàng Hóa)
+
+# Lấy giá 18 mặt hàng ghi vào public/data/gia.json để bảng giá hiện SỐ THẬT
+# ngay trong trang (Google đọc được, khách không phải chờ khung nhúng tải).
+#
+# LỊCH CHẠY — bám theo giờ mở cửa của sàn, không chạy phí lúc thị trường đóng:
+#   Sàn CME/ICE mở từ khoảng 22:00 UTC Chủ nhật đến 21:00 UTC thứ Sáu,
+#   nghỉ mỗi ngày khoảng một tiếng. Vì vậy:
+#     - Thứ Hai đến thứ Sáu (giờ UTC): chạy mỗi giờ
+#     - Chủ nhật tối: chạy 2 lượt lúc thị trường vừa mở lại
+#   Riêng thứ Bảy không đặt lịch vì cả ngày thị trường đóng.
+#
+# ⚠️ Tránh phút :00 và tránh trùng phút bot tin tức (:25, :55) — đầu giờ GitHub
+#    kẹt tải, gói miễn phí hay bỏ lượt.
+#
+# Bot tự BỎ QUA việc lưu phiên bản khi giá không đổi, nên lúc thị trường đóng
+# cửa sẽ không sinh ra lượt lưu thừa.
+#
+# ⚠️ QUAN TRỌNG — trước khi bật lịch này, phải vào Cloudflare Pages thêm
+#    `public/data/gia.json` vào phần loại trừ "Build watch paths". Không làm thì
+#    mỗi lần bot ghi giá, Cloudflare lại dựng web một lần → cạn hạn mức dựng
+#    của gói miễn phí. Trang bảng giá đọc thẳng tập tin này lúc khách truy cập
+#    nên KHÔNG cần dựng lại web.
+#
+# 🔴 LỊCH ĐANG TẮT — mở lại bằng cách xoá dấu # ở 3 dòng "schedule" bên dưới,
+#    SAU KHI đã thêm loại trừ trên Cloudflare Pages như ghi chú ở trên.
+#    Trong lúc chờ, vẫn bấm chạy tay được ở tab Actions trên GitHub.
+on:
+  # schedule:
+  #   - cron: "12 * * * 1-5"    # mỗi giờ, phút :12, thứ Hai đến thứ Sáu (UTC)
+  #   - cron: "12 22,23 * * 0"  # Chủ nhật tối — lúc sàn mở lại tuần mới
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lấy mã nguồn
+        uses: actions/checkout@v4
+
+      - name: Cài Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Lấy giá hàng hóa
+        run: node scripts/fetch-prices.mjs
+
+      - name: Commit gia.json nếu giá có thay đổi
+        run: |
+          git config user.name  "benhanghoa-bot"
+          git config user.email "bot@benhanghoa.local"
+          git add public/data/gia.json
+          if git diff --staged --quiet; then
+            echo "Giá không đổi — không cần lưu phiên bản."
+          else
+            git commit -m "chore: cập nhật giá hàng hóa tự động"
+            git pull --rebase --autostash origin "${{ github.ref_name }}" || true
+            git push
+          fi

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-06 19:21",
+  "updated_at": "2026-08-06 20:01",
   "items": [
+    {
+      "id": "1ts85wc",
+      "title": "Indian Refiners Continue West Africa Crude Buying Spree",
+      "title_vi": "Các nhà máy lọc dầu Ấn Độ tiếp tục mua dầu thô Tây Phi",
+      "summary_vi": "Các nhà máy lọc dầu quốc doanh của Ấn Độ tiếp tục mua dầu thô từ Tây Phi do cuộc khủng hoảng ở Trung Đông đã làm giảm nguồn cung và khiến việc giao hàng không chắc chắn. Trong một trong những giao dịch mua mới nhất thông qua đấu thầu, nhà máy lọc dầu nhà nước Hindustan Petroleum Corporation Limited (HPCL) của Ấn Độ đã",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-06_uaxocbh2zy.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Continue-West-Africa-Crude-Buying-Spree.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-06 19:30"
+    },
     {
       "id": "vwgd1p",
       "title": "Nigeria Eyes $50 Billion From 22 Offshore Oil and Gas Projects",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-06 16:40"
+    },
+    {
+      "id": "1ebak6m",
+      "title": "Ukraine’s military hits one of Russia’s biggest oil refineries in long-range drone attack",
+      "title_vi": "Quân đội Ukraine tấn công một trong những nhà máy lọc dầu lớn nhất của Nga trong cuộc tấn công bằng máy bay không người lái tầm xa",
+      "summary_vi": "Cơ sở Slavneft-Yanos ở Yaroslavl, cách biên giới Ukraine hàng trăm dặm, là một trong những nhà máy lọc dầu lớn nhất của Nga.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108345888-1786016561222-2012-10-25T120000Z_1768709429_GM1E8AQ03ZE01_RTRMADP_3_RUSSIA.JPG?v=1786016647&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/06/ukraine-war-russia-zelenskyy-oil-refinery.html",
+      "source": "cnbc.com",
+      "category": "energy",
+      "published": "2026-08-06 16:07"
     },
     {
       "id": "17qqgu2",
@@ -121,17 +143,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-06 07:00"
-    },
-    {
-      "id": "7xt8l0",
-      "title": "Middle East War Throws LNG’s Growth Story Into Doubt",
-      "title_vi": "Chiến tranh Trung Đông khiến câu chuyện tăng trưởng của LNG bị nghi ngờ",
-      "summary_vi": "Cuộc chiến ở Trung Đông đã gây ra sự gián đoạn chưa từng có trong dòng năng lượng toàn cầu. Trong khi dầu thô nhận được nhiều sự chú ý – và có lý do chính đáng – thì tình hình về khí hóa lỏng được cho là tồi tệ hơn và đáng được chú ý hơn. Chiến tranh, một số người tin rằng,",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-05_tvqxp1jpsa.jpg",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Middle-East-War-Throws-LNGs-Growth-Story-Into-Doubt.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-06 06:00"
     },
     {
       "id": "zmugdh",
@@ -539,17 +550,6 @@
       "source": "TradingView",
       "category": "metal",
       "published": "2026-08-04 20:59"
-    },
-    {
-      "id": "1o84vmg",
-      "title": "Plump Supply Dictating Sentiment as Natural Gas Futures Erase Monday Gains",
-      "title_vi": "Nguồn cung dồi dào quyết định tâm lý khi hợp đồng tương lai khí đốt tự nhiên xóa bỏ mức tăng thứ Hai",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/plump-supply-dictating-sentiment-as-natural-gas-futures-erase-monday-gains/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-08-04 19:43"
     }
   ]
 }

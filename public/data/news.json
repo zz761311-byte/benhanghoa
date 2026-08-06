@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-07 04:01",
+  "updated_at": "2026-08-07 05:01",
   "items": [
+    {
+      "id": "17l5d6t",
+      "title": "UK Drivers Take To Fuel Theft amid War-Driven Price Surge",
+      "title_vi": "Các tài xế ở Vương quốc Anh thực hiện hành vi trộm cắp nhiên liệu trong bối cảnh giá cả tăng vọt do chiến tranh",
+      "summary_vi": "Các tài xế ở Vương quốc Anh đã bắt đầu đổ đầy bình xăng mà không phải trả tiền nhiên liệu khi chi phí lái xe tăng cao do cuộc khủng hoảng nguồn cung nhiên liệu do cuộc chiến ở Trung Đông gây ra. Các tội ác bao gồm những người lái xe đi sau khi đổ xăng mà không trả tiền và những người tuyên bố họ không thể trả tiền.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-06_b5viokgge9.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/UK-Drivers-Take-To-Fuel-Theft-amid-War-Driven-Price-Surge.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-07 05:00"
+    },
     {
       "id": "t9syij",
       "title": "Europe&#039;s Electricity Prices Spike to €500 a Megawatt-Hour as Drought Bites",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-07 03:00"
+    },
+    {
+      "id": "n12wp5",
+      "title": "Tighter grain supplies could spark a rally. Will cattle prices hold up?",
+      "title_vi": "Nguồn cung ngũ cốc thắt chặt hơn có thể châm ngòi cho một đợt tăng giá. Liệu giá gia súc có giữ vững?",
+      "summary_vi": "Bởi Mike Zuzolo, Công ty TNHH Tư vấn & Phân tích Hàng hóa Toàn cầu Khi tôi viết bài đăng trong tháng này,",
+      "image": "https://ocj.com/wp-content/uploads/2026/08/Tighter-grain-supplies-could-spark-a-rally.-Will-cattle-prices-hold-up.png",
+      "link": "https://ocj.com/2026/08/tighter-grain-supplies-could-spark-a-rally-will-cattle-prices-hold-up/",
+      "source": "ocj.com",
+      "category": "agri",
+      "published": "2026-08-07 02:00"
     },
     {
       "id": "1uijpad",
@@ -121,17 +143,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-06 23:30"
-    },
-    {
-      "id": "fn8w96",
-      "title": "Weak Energy Demand May Signal a Much Bigger Economic Problem",
-      "title_vi": "Nhu cầu năng lượng yếu có thể báo hiệu một vấn đề kinh tế lớn hơn nhiều",
-      "summary_vi": "Với việc đóng cửa eo biển Hormuz gần đây, nhiều người dự đoán giá dầu sẽ tăng đột biến và duy trì ở mức cao. Thay vào đó, họ hầu như không nhúc nhích. Lần tăng giá mới nhất là một đợt tăng giá nhỏ. Nếu những giá dầu này được điều chỉnh theo lạm phát thì mức tăng đột biến trong quá khứ sẽ còn cao hơn. Nhân vật",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-06_pyglte2tzx.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Weak-Energy-Demand-May-Signal-a-Much-Bigger-Economic-Problem.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-08-06 23:00"
     },
     {
       "id": "ewpk6n",
@@ -539,17 +550,6 @@
       "source": "Barchart.com",
       "category": "agri",
       "published": "2026-08-05 02:40"
-    },
-    {
-      "id": "eb5mtb",
-      "title": "Who’s ahead on the generic congressional ballot?",
-      "title_vi": "Ai dẫn trước trong cuộc bỏ phiếu chung của quốc hội?",
-      "summary_vi": "Công cụ theo dõi các cuộc thăm dò được cập nhật liên tục của chúng tôi về chỉ số quan trọng nhất trong cuộc đua vào Quốc hội.",
-      "image": "https://substackcdn.com/image/fetch/$s_!DHD9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b7584a6-a95a-4054-90c6-ca160d014d37_1200x831.jpeg",
-      "link": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls",
-      "source": "Silver Bulletin",
-      "category": "metal",
-      "published": "2026-08-05 02:22"
     }
   ]
 }

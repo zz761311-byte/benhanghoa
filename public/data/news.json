@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-06 06:41",
+  "updated_at": "2026-08-06 07:00",
   "items": [
+    {
+      "id": "1ief3ac",
+      "title": "Europe’s Heatwave Is Hitting Refineries And Power Supplies",
+      "title_vi": "Đợt nắng nóng ở Châu Âu đang tấn công các nhà máy lọc dầu và nguồn cung cấp điện",
+      "summary_vi": "Nắng nóng gay gắt và hạn hán đang bắt đầu làm suy yếu hệ thống năng lượng của châu Âu. Các nhà máy lọc dầu đang mất hiệu quả làm mát, mực nước sông buộc phải cắt giảm sản xuất điện hạt nhân, sản lượng thủy điện giảm và vận chuyển nhiên liệu nội địa ngày càng trở nên đắt đỏ hơn do sà lan chở ô tô nhỏ hơn.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-05_bgkcinoont.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Heatwave-Is-Hitting-Refineries-And-Power-Supplies.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-06 07:00"
+    },
     {
       "id": "7xt8l0",
       "title": "Middle East War Throws LNG’s Growth Story Into Doubt",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-06 06:00"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "(Reuters) – Khí đốt tự nhiên chạm đến hầu hết mọi ngóc ngách của nền kinh tế Hoa Kỳ, cung cấp nhiên liệu cho các nhà máy điện, nhà cửa, nhà máy và lĩnh vực xuất khẩu LNG đang bùng nổ. Nhưng nguồn cung cần thiết để đáp ứng tất cả những mục đích sử dụng đó lại đến từ một mảnh đất đá phiến ngày càng hẹp của Mỹ. Sự không phù hợp này giữa một nhóm người tiêu dùng ngày càng mở rộng…",
+      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Flame-1200x810-1.jpg",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-08-06 05:25"
     },
     {
       "id": "1717nro",
@@ -101,17 +123,6 @@
       "published": "2026-08-06 00:30"
     },
     {
-      "id": "12m0fr9",
-      "title": "Aramco&#039;s Record Profits Hide a Growing Cash Flow Crisis",
-      "title_vi": "Lợi nhuận kỷ lục của Aramco che giấu cuộc khủng hoảng dòng tiền đang gia tăng",
-      "summary_vi": "Trong khi hầu hết các phương tiện truyền thông đang tập trung vào vận may tài chính do bất ổn địa chính trị (chiến tranh Iran), kết quả quý 2 năm 2026 của Saudi Aramco ẩn chứa những rủi ro mà Vương quốc này phải đối mặt. Thu nhập ròng đã điều chỉnh của nhà sản xuất dầu lớn nhất thế giới đã đạt 33,4 tỷ USD, chiếm nửa đầu năm",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-05_lypwaizt90.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Aramcos-Record-Profits-Hide-a-Growing-Cash-Flow-Crisis.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-08-06 00:00"
-    },
-    {
       "id": "1dl0d9q",
       "title": "Professional Education Event Level Up to Rise Again in Minneapolis",
       "title_vi": "Sự kiện giáo dục chuyên nghiệp nâng cấp để trỗi dậy lần nữa ở Minneapolis",
@@ -132,6 +143,17 @@
       "source": "24/7 Wall St.",
       "category": "metal",
       "published": "2026-08-05 22:57"
+    },
+    {
+      "id": "fit8v6",
+      "title": "Silver Price Forecast: Daily momentum improves, but weekly outlook stays bearish",
+      "title_vi": "Dự báo giá bạc: Động lực hàng ngày được cải thiện, nhưng triển vọng hàng tuần vẫn giảm",
+      "summary_vi": "Bạc (XAG/USD) tăng hơn 4% vào thứ Tư do dữ liệu việc làm ADP của Hoa Kỳ yếu hơn dự kiến ​​và lạm phát do năng lượng giảm khiến các nhà giao dịch giảm bớt kỳ vọng về việc tăng lãi suất của Cục Dự trữ Liên bang (Fed). Tại thời điểm viết bài, XAG/USD giao dịch quanh mức 62,30 USD, gần mức cao nhất trong một tháng.",
+      "image": "https://editorial.fxsstatic.com/images/i/Silver4_Medium.png",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-daily-momentum-improves-but-weekly-outlook-stays-bearish-202608051513",
+      "source": "fxstreet.com",
+      "category": "metal",
+      "published": "2026-08-05 22:15"
     },
     {
       "id": "tq817a",
@@ -528,28 +550,6 @@
       "source": "FoodNavigator.com",
       "category": "soft",
       "published": "2026-08-04 10:08"
-    },
-    {
-      "id": "1boljx7",
-      "title": "Trump has been able to keep oil prices low. But that power may not last forever.",
-      "title_vi": "Trump đã có thể giữ giá dầu ở mức thấp. Nhưng sức mạnh đó có thể không tồn tại mãi mãi.",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.politico.com/news/2026/08/03/trump-gas-oil-prices-iran-01022998",
-      "source": "Politico",
-      "category": "energy",
-      "published": "2026-08-04 04:23"
-    },
-    {
-      "id": "b4tyca",
-      "title": "US copper inflows surge as market awaits Trump tariff call",
-      "title_vi": "Dòng vốn đồng vào Mỹ tăng vọt khi thị trường chờ lệnh áp thuế của Trump",
-      "summary_vi": "Khoảng 200.000 tấn đã đến vào tháng 7, lượng hàng nhập hàng tháng lớn nhất được ghi nhận trong dữ liệu vận chuyển của IHS Markit.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/08/AdobeStock_578889746-1024x681.jpeg",
-      "link": "https://www.mining.com/web/us-copper-inflows-surge-as-market-awaits-trump-tariff-call/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-08-04 04:14"
     }
   ]
 }

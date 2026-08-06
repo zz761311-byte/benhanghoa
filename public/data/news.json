@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-06 16:01",
+  "updated_at": "2026-08-06 17:01",
   "items": [
+    {
+      "id": "obmx0p",
+      "title": "How the UAE Has Kept Its Oil Flowing Through Hormuz",
+      "title_vi": "UAE đã giữ dầu chảy qua Hormuz như thế nào",
+      "summary_vi": "Các Tiểu vương quốc Ả Rập Thống nhất đã tìm cách tăng cường xuất khẩu dầu của mình lên mức trước khủng hoảng ngay từ tháng 6, vì nước này tiếp tục đẩy dầu thô qua eo biển Hormuz và ra bên ngoài eo biển này. UAE, nước đã rời OPEC vào ngày 1 tháng 5, đã tìm ra giải pháp giải quyết tình trạng tắc nghẽn ở eo biển Hormuz. Nó có",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-06_ryb7hpqkn5.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/How-the-UAE-Has-Kept-Its-Oil-Flowing-Through-Hormuz.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-06 16:40"
+    },
     {
       "id": "17qqgu2",
       "title": "China’s Top Refiner Pivots to Russian Crude",
@@ -176,17 +187,6 @@
       "source": "KITCO",
       "category": "metal",
       "published": "2026-08-06 03:24"
-    },
-    {
-      "id": "s3fvye",
-      "title": "Philippines Could Become the World&#039;s First Geologic Hydrogen Hub",
-      "title_vi": "Philippines có thể trở thành trung tâm hydro địa chất đầu tiên trên thế giới",
-      "summary_vi": "Philippines đang trở thành điểm khởi đầu cho cuộc cách mạng hydro địa chất toàn cầu. Quốc gia Đông Nam Á này được cho là có lượng hydro tự nhiên rò rỉ lớn nhất trên Trái đất, cho thấy khối lượng khổng lồ hydro có thể được lưu trữ dưới lòng đất, chờ đợi để được thải ra ngoài.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-05_xkcfde1x2h.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Philippines-Could-Become-the-Worlds-First-Geologic-Hydrogen-Hub.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-06 03:00"
     },
     {
       "id": "1cpg5c4",
@@ -475,6 +475,17 @@
       "published": "2026-08-04 22:40"
     },
     {
+      "id": "1oulyxs",
+      "title": "ADM lifts 2026 profit forecast on strong margins, favorable biofuels outlook",
+      "title_vi": "ADM nâng dự báo lợi nhuận năm 2026 nhờ tỷ suất lợi nhuận cao, triển vọng nhiên liệu sinh học thuận lợi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/retail-consumer/adm-raises-annual-profit-forecast-soybean-processing-outlook-improves-2026-08-04/",
+      "source": "Reuters",
+      "category": "agri",
+      "published": "2026-08-04 22:22"
+    },
+    {
       "id": "1cxrvub",
       "title": "China, Mexico demand fuels optimism for grain markets",
       "title_vi": "Trung Quốc, Mexico yêu cầu thúc đẩy sự lạc quan cho thị trường ngũ cốc",
@@ -539,17 +550,6 @@
       "source": "cmegroup.com",
       "category": "metal",
       "published": "2026-08-04 19:28"
-    },
-    {
-      "id": "1piqh8i",
-      "title": "200,000-Ton US Copper Imports Tighten Supply Outside the US Despite Tariff Uncertainty",
-      "title_vi": "Nhập khẩu 200.000 tấn đồng của Mỹ thắt chặt nguồn cung bên ngoài nước Mỹ bất chấp sự không chắc chắn về thuế quan",
-      "summary_vi": "Nhập khẩu đồng kỷ lục của Hoa Kỳ đã thắt chặt nguồn cung bên ngoài Hoa Kỳ, hỗ trợ giá cao hơn do nhu cầu AI và dự báo thâm hụt vượt xa sự không chắc chắn về thuế quan.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a71d7c5ecb926a4080c06a9_Copper%20Wire.png",
-      "link": "https://www.cruxinvestor.com/posts/200-000-ton-us-copper-imports-tighten-supply-outside-the-us-despite-tariff-uncertainty",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-08-04 19:21"
     }
   ]
 }

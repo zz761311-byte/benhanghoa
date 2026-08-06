@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-06 12:01",
+  "updated_at": "2026-08-06 13:01",
   "items": [
+    {
+      "id": "111l45r",
+      "title": "Iran and Oman Near Landmark Deal to Manage Strait of Hormuz",
+      "title_vi": "Iran và Oman Gần đạt được thỏa thuận quan trọng về quản lý eo biển Hormuz",
+      "summary_vi": "Iran và Oman gần đạt được đồng ý về việc quản lý chung eo biển Hormuz, truyền thông đưa tin, dẫn tuyên bố của người phát ngôn Bộ Ngoại giao Iran, Esmaeil Baghaei. Trong khi đó, giá dầu thô đang có xu hướng giảm với giá dầu thô Brent giảm xuống dưới 80 USD/thùng.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-06_hkdfgv12e3.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-and-Oman-Near-Landmark-Deal-to-Manage-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-06 12:10"
+    },
+    {
+      "id": "1f8gth5",
+      "title": "Copper Tariff Decision Will Reshape Metal Supply One of Four Ways",
+      "title_vi": "Quyết định về thuế đồng sẽ định hình lại nguồn cung kim loại theo một trong bốn cách",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en/insights/copper-tariff-decision-will-reshape-metal-supply-one-of-four-ways/",
+      "source": "StoneX",
+      "category": "metal",
+      "published": "2026-08-06 08:41"
+    },
     {
       "id": "1ief3ac",
       "title": "Europe’s Heatwave Is Hitting Refineries And Power Supplies",
@@ -132,17 +154,6 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-08-06 01:00"
-    },
-    {
-      "id": "ovkmb3",
-      "title": "India Hopes To Take Over Operation Of Venezuelan Oil Fields From PDVSA",
-      "title_vi": "Ấn Độ hy vọng tiếp quản hoạt động khai thác các mỏ dầu của Venezuela từ PDVSA",
-      "summary_vi": "ONGC của Ấn Độ sẵn sàng tiếp quản hoạt động hai dự án dầu mỏ của Venezuela từ PDVSA thuộc sở hữu nhà nước, điều này sẽ trao cho nhà sản xuất Ấn Độ quyền kiểm soát hoạt động trực tiếp đối với tài sản của trữ lượng dầu thô đã được chứng minh lớn nhất thế giới. Reuters đưa tin độc quyền hôm thứ Tư rằng ONGC sẽ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-05_5cyvlohk9q.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Hopes-To-Take-Over-Operation-Of-Venezuelan-Oil-Fields-From-PDVSA.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-06 00:30"
     },
     {
       "id": "1dl0d9q",
@@ -538,17 +549,6 @@
       "link": "https://www.cruxinvestor.com/posts/platinums-range-bound-at-1-580--1-640-is-the-supply-deficit-going-away",
       "source": "Crux Investor",
       "category": "metal",
-      "published": "2026-08-04 14:00"
-    },
-    {
-      "id": "r934du",
-      "title": "US Sugar Prices Firm as Drought Concerns Persist",
-      "title_vi": "Giá đường Mỹ ổn định do lo ngại hạn hán vẫn tồn tại",
-      "summary_vi": "Giá đường Mỹ ổn định do lo ngại hạn hán vẫn tồn tại",
-      "image": "https://www.czapp.com/wp-content/uploads/2026/08/0ea2fd8b-b072-43a1-b5c9-8620aa9e61c6.jpg",
-      "link": "https://www.czapp.com/analyst-insights/us-sugar-prices-firm-as-drought-concerns-persist/",
-      "source": "czapp.com",
-      "category": "soft",
       "published": "2026-08-04 14:00"
     }
   ]

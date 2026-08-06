@@ -1,6 +1,83 @@
 {
-  "updated_at": "2026-08-06 22:01",
+  "updated_at": "2026-08-07 01:03",
   "items": [
+    {
+      "id": "ln6z6x",
+      "title": "Mexico Bans Fracking in Key Shale Basin",
+      "title_vi": "Mexico cấm fracking trong lưu vực đá phiến chính",
+      "summary_vi": "Mexico đã loại trừ việc sử dụng fracking tại lưu vực đá phiến quan trọng, vạch ra một ranh giới xuyên suốt khu vực giàu tài nguyên ngay cả khi nước này đang tìm cách cắt giảm sự phụ thuộc vào khí đốt tự nhiên của Mỹ. Tổng thống Claudia Sheinbaum cho biết việc bẻ gãy thủy lực sẽ không được phép ở lưu vực Tampico-Misantla.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-06_isg7ginxm9.jpg",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Mexico-Bans-Fracking-in-Key-Shale-Basin.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-07 01:00"
+    },
+    {
+      "id": "yz0kn1",
+      "title": "This Megaproject Could Keep Brazil&#039;s Oil Boom Running Deep Into The 2030&#039;s",
+      "title_vi": "Siêu dự án này có thể giúp sự bùng nổ dầu mỏ của Brazil tiến sâu vào những năm 2030",
+      "summary_vi": "Phát hiện Bumerangue của BP không chỉ là một phát hiện dầu mỏ khổng lồ khác của Brazil: nó có thể trở thành dự án giúp duy trì cả danh mục đầu tư thượng nguồn của BP lẫn sự bùng nổ sản xuất của Brazil cho đến những năm 2030. Với ước tính khoảng 2,5 tỷ thùng có khả năng phục hồi và sản lượng đạt đỉnh",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-06_z4banbsuqt.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/This-Megaproject-Could-Keep-Brazils-Oil-Boom-Running-Deep-Into-The-2030s.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-07 00:00"
+    },
+    {
+      "id": "2bmhgz",
+      "title": "Lower Crude Oil Prices Driving Down National Average",
+      "title_vi": "Giá dầu thô thấp hơn làm giảm mức trung bình quốc gia",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://newsroom.aaa.com/2026/08/lower-crude-oil-prices-driving-down-national-average/",
+      "source": "AAA Newsroom",
+      "category": "energy",
+      "published": "2026-08-06 23:49"
+    },
+    {
+      "id": "j1897z",
+      "title": "Aramco Deepens Asia Oil Discount Ahead of Possible Hormuz Deal",
+      "title_vi": "Aramco tăng cường giảm giá dầu ở châu Á trước thỏa thuận Hormuz có thể xảy ra",
+      "summary_vi": "Ả Rập Saudi lại giảm giá loại dầu thô hàng đầu của mình cho người mua châu Á do hy vọng về thỏa thuận di chuyển thêm tàu ​​chở dầu qua eo biển Hormuz đã đẩy giá dầu xuống thấp. Saudi Aramco sẽ giảm giá bán chính thức tháng 9 cho Arab Light 50 xu/thùng, đưa nó xuống mức",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-06_phywj8ne34.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-Deepens-Asia-Oil-Discount-Ahead-of-Possible-Hormuz-Deal.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-06 23:30"
+    },
+    {
+      "id": "fn8w96",
+      "title": "Weak Energy Demand May Signal a Much Bigger Economic Problem",
+      "title_vi": "Nhu cầu năng lượng yếu có thể báo hiệu một vấn đề kinh tế lớn hơn nhiều",
+      "summary_vi": "Với việc đóng cửa eo biển Hormuz gần đây, nhiều người dự đoán giá dầu sẽ tăng đột biến và duy trì ở mức cao. Thay vào đó, họ hầu như không nhúc nhích. Lần tăng giá mới nhất là một đợt tăng giá nhỏ. Nếu những giá dầu này được điều chỉnh theo lạm phát thì mức tăng đột biến trong quá khứ sẽ còn cao hơn. Nhân vật",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-06_pyglte2tzx.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Weak-Energy-Demand-May-Signal-a-Much-Bigger-Economic-Problem.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-08-06 23:00"
+    },
+    {
+      "id": "gv0o3m",
+      "title": "Chinese Oil Giant Launches World-First 16MW Floating Wind Turbine",
+      "title_vi": "Gã khổng lồ dầu mỏ Trung Quốc ra mắt tuabin gió nổi 16MW đầu tiên trên thế giới",
+      "summary_vi": "Tập đoàn Dầu khí Ngoài khơi Quốc gia Trung Quốc (CNOOC) thuộc sở hữu nhà nước hôm thứ Năm tuyên bố bắt đầu vận hành nền tảng năng lượng gió nổi chân căng (TLP) 16 megawatt đầu tiên trên thế giới, bắt đầu cung cấp điện cho một mỏ dầu ngoài khơi. CNOOC, một trong những công ty lớn nhất",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-06_fw9tx7moca.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Oil-Giant-Launches-World-First-16MW-Floating-Wind-Turbine.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-06 22:30"
+    },
+    {
+      "id": "ewpk6n",
+      "title": "Dutch Bros Pursues Dozens of Recently Closed Salad and Go Sites",
+      "title_vi": "Dutch Bros theo đuổi hàng chục trang web Salad and Go đã đóng cửa gần đây",
+      "summary_vi": "Chuỗi cà phê Dutch Bros của Hoa Kỳ đang theo đuổi thương vụ mua lại hàng chục địa điểm cũ của Salad and Go, một chuỗi cửa hàng bán salad nhanh ra đời ở Arizona hiện đang tham gia vào Chapter...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/08/06/dutch-bros-pursues-dozens-of-recently-closed-salad-and-go-sites/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-08-06 22:13"
+    },
     {
       "id": "1k2fq8y",
       "title": "Argentina&#039;s Shale Boom Is Reshaping Energy Security Across the Americas",
@@ -46,59 +123,15 @@
       "published": "2026-08-06 21:00"
     },
     {
-      "id": "1l30s6f",
-      "title": "Gulf Shipping Grinds to a Halt Following Houthi Missile Claim",
-      "title_vi": "Vận tải vùng Vịnh ngừng hoạt động sau tuyên bố về tên lửa của Houthi",
-      "summary_vi": "Giao thông tàu thuyền tại eo biển Hormuz và eo biển Bab el-Mandeb đã ngừng hoạt động vào thứ Tư so với ngày hôm trước trong bối cảnh Houthi tuyên bố họ đã tấn công một tàu chở dầu của Saudi ở Biển Đỏ và hy vọng rằng Oman và Iran có thể đạt được thỏa thuận về việc cùng quản lý Hormuz. Vào thứ Tư, chỉ có hai v",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-06_afjuk93rqy.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Shipping-Grinds-to-a-Halt-Following-Houthi-Missile-Claim.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-06 20:30"
-    },
-    {
-      "id": "1ts85wc",
-      "title": "Indian Refiners Continue West Africa Crude Buying Spree",
-      "title_vi": "Các nhà máy lọc dầu Ấn Độ tiếp tục mua dầu thô Tây Phi",
-      "summary_vi": "Các nhà máy lọc dầu quốc doanh của Ấn Độ tiếp tục mua dầu thô từ Tây Phi do cuộc khủng hoảng ở Trung Đông đã làm giảm nguồn cung và khiến việc giao hàng không chắc chắn. Trong một trong những giao dịch mua mới nhất thông qua đấu thầu, nhà máy lọc dầu nhà nước Hindustan Petroleum Corporation Limited (HPCL) của Ấn Độ đã",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-06_uaxocbh2zy.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Continue-West-Africa-Crude-Buying-Spree.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-06 19:30"
-    },
-    {
-      "id": "vwgd1p",
-      "title": "Nigeria Eyes $50 Billion From 22 Offshore Oil and Gas Projects",
-      "title_vi": "Nigeria hướng tới 50 tỷ USD từ 22 dự án dầu khí ngoài khơi",
-      "summary_vi": "Ủy ban Điều tiết Dầu mỏ Thượng nguồn của nước này cho biết Nigeria dự kiến ​​sẽ thu hút các khoản đầu tư trị giá từ 30 tỷ đến 50 tỷ USD từ 22 dự án dầu khí ngoài khơi trong vòng 5 năm. “Ngoài việc tăng sản lượng, những khoản đầu tư này sẽ tạo ra việc làm, kinh nghiệm",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-06_dqxgtfrzmo.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Nigeria-Eyes-50-Billion-From-22-Offshore-Oil-and-Gas-Projects.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-06 18:30"
-    },
-    {
-      "id": "16ss2us",
-      "title": "Europe&#039;s Gas Storage Hits Lowest Level Since 2011 as Winter Looms",
-      "title_vi": "Kho dự trữ khí đốt của châu Âu đạt mức thấp nhất kể từ năm 2011 khi mùa đông sắp đến",
-      "summary_vi": "Châu Âu phải đối mặt với giá khí đốt tự nhiên tăng vọt trong mùa đông này trong bối cảnh mức dự trữ khí đốt thấp nhất trong hơn một thập kỷ và thị trường LNG thắt chặt trong bối cảnh khủng hoảng Trung Đông. Dữ liệu từ Cơ sở hạ tầng khí đốt châu Âu cho thấy các kho lưu trữ của EU chỉ đầy 57% tính đến ngày 5 tháng 8. Đó là mức thấp nhất",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-06_pgkraouqsv.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Gas-Storage-Hits-Lowest-Level-Since-2011-as-Winter-Looms.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-06 17:30"
-    },
-    {
-      "id": "obmx0p",
-      "title": "How the UAE Has Kept Its Oil Flowing Through Hormuz",
-      "title_vi": "UAE đã giữ dầu chảy qua Hormuz như thế nào",
-      "summary_vi": "Các Tiểu vương quốc Ả Rập Thống nhất đã tìm cách tăng cường xuất khẩu dầu của mình lên mức trước khủng hoảng ngay từ tháng 6, vì nước này tiếp tục đẩy dầu thô qua eo biển Hormuz và ra bên ngoài eo biển này. UAE, nước đã rời OPEC vào ngày 1 tháng 5, đã tìm ra giải pháp giải quyết tình trạng tắc nghẽn ở eo biển Hormuz. Nó có",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-06_ryb7hpqkn5.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/How-the-UAE-Has-Kept-Its-Oil-Flowing-Through-Hormuz.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-06 16:40"
+      "id": "1seiiua",
+      "title": "Keurig Dr Pepper reaffirms forecast on strong soda, energy drink demand",
+      "title_vi": "Keurig Dr Pepper tái khẳng định dự báo về nhu cầu soda mạnh, nước tăng lực",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/keurig-dr-pepper-beats-quarterly-sales-estimates-2026-08-06/",
+      "source": "Reuters",
+      "category": "soft",
+      "published": "2026-08-06 20:34"
     },
     {
       "id": "1ebak6m",
@@ -517,39 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-04 22:40"
-    },
-    {
-      "id": "1oulyxs",
-      "title": "ADM lifts 2026 profit forecast on strong margins, favorable biofuels outlook",
-      "title_vi": "ADM nâng dự báo lợi nhuận năm 2026 nhờ tỷ suất lợi nhuận cao, triển vọng nhiên liệu sinh học thuận lợi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/retail-consumer/adm-raises-annual-profit-forecast-soybean-processing-outlook-improves-2026-08-04/",
-      "source": "Reuters",
-      "category": "agri",
-      "published": "2026-08-04 22:22"
-    },
-    {
-      "id": "1cxrvub",
-      "title": "China, Mexico demand fuels optimism for grain markets",
-      "title_vi": "Trung Quốc, Mexico yêu cầu thúc đẩy sự lạc quan cho thị trường ngũ cốc",
-      "summary_vi": "Hai nhà kinh tế nông nghiệp cho biết nhu cầu xuất khẩu mạnh có thể giúp thắt chặt nguồn cung ngũ cốc và hỗ trợ giá cho nông dân. Dan O’Brien của Đại học K-State cho biết Trung Quốc đã hoàn thành khoảng 11% trong tổng số 25 triệu tấn cam kết trong năm nay. “Nếu Trung Quốc ngồi vào bàn đàm phán, đó là một vấn đề lớn liên quan đến",
-      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2024/04/Exports.jpg",
-      "link": "https://www.brownfieldagnews.com/news/china-mexico-demand-fuels-optimism-for-grain-markets/",
-      "source": "Brownfield Ag News",
-      "category": "energy",
-      "published": "2026-08-04 22:12"
-    },
-    {
-      "id": "10gticb",
-      "title": "Dollar Holds Steady as Oil Slump Reduces Fed Rate Hike Bets",
-      "title_vi": "Đồng đô la giữ ổn định khi dầu sụt giảm làm giảm đặt cược tăng lãi suất của Fed",
-      "summary_vi": "Chỉ số đồng đô la dao động quanh mức 100 vào thứ Ba, trong khi lãi suất trái phiếu kho bạc Mỹ giảm do giá dầu giảm do ngày càng lạc quan rằng các nỗ lực ngoại giao có thể chấm dứt xung đột Mỹ-Iran, khiến các nhà đầu tư giảm kỳ vọng về việc Cục Dự trữ Liên bang tăng lãi suất vào tháng 9. Qatar…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://www.tradingview.com/news/te_news:572623:0-dollar-holds-steady-as-oil-slump-reduces-fed-rate-hike-bets/",
-      "source": "TradingView",
-      "category": "energy",
-      "published": "2026-08-04 21:44"
     }
   ]
 }

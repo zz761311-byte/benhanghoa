@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06 19:01",
+  "updated_at": "2026-08-06 19:21",
   "items": [
     {
       "id": "vwgd1p",
@@ -187,6 +187,17 @@
       "source": "KITCO",
       "category": "metal",
       "published": "2026-08-06 03:24"
+    },
+    {
+      "id": "kdroox",
+      "title": "India sugar prices hit record high on tight supplies, festival demand",
+      "title_vi": "Giá đường Ấn Độ đạt mức cao kỷ lục do nguồn cung khan hiếm và nhu cầu lễ hội",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/india-sugar-prices-hit-record-high-tight-supplies-festival-demand-2026-08-05/",
+      "source": "Reuters",
+      "category": "soft",
+      "published": "2026-08-06 01:27"
     },
     {
       "id": "1cpg5c4",
@@ -539,17 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-08-04 19:43"
-    },
-    {
-      "id": "m9v0kb",
-      "title": "July 2026 Metals Options Report",
-      "title_vi": "Báo cáo quyền chọn kim loại tháng 7 năm 2026",
-      "summary_vi": "Phân tích CVOL vàng thay đổi như thế nào, thanh khoản bạc ổn định và tình trạng thiếu đồng cơ cấu đang xác định các thông số rủi ro trên các đường cong kim loại trong Báo cáo quyền chọn kim loại tháng 6 năm 2026 của chúng tôi.",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/newsletters/metals-update/images/2026/may-metals-options-update-940x600.jpg",
-      "link": "https://www.cmegroup.com/newsletters/metals-options-update/metals-options-report-july-2026.html",
-      "source": "cmegroup.com",
-      "category": "metal",
-      "published": "2026-08-04 19:28"
     }
   ]
 }

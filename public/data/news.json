@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06 07:00",
+  "updated_at": "2026-08-06 08:00",
   "items": [
     {
       "id": "1ief3ac",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-06 04:00"
+    },
+    {
+      "id": "1xhlwsq",
+      "title": "Weather forecast keeping pressure on corn and soybean marketplace",
+      "title_vi": "Dự báo thời tiết tiếp tục gây áp lực lên thị trường ngô và đậu tương",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://iowaagribusinessradionetwork.com/weather-forecast-keeping-pressure-on-corn-and-soybean-marketplace/",
+      "source": "Iowa Agribusiness Radio Network |",
+      "category": "agri",
+      "published": "2026-08-06 03:29"
     },
     {
       "id": "bh72mz",
@@ -539,17 +550,6 @@
       "source": "TradingKey",
       "category": "metal",
       "published": "2026-08-04 11:15"
-    },
-    {
-      "id": "1grd9xd",
-      "title": "Sustainability Snippets: Coffee strategies, Coca-Cola and food waste",
-      "title_vi": "Đoạn trích về tính bền vững: Chiến lược cà phê, Coca-Cola và chất thải thực phẩm",
-      "summary_vi": "Chiến lược cà phê, Coca-Cola và tính năng lãng phí thực phẩm trong ấn bản Đoạn trích bền vững này",
-      "image": "https://www.foodnavigator.com/resizer/v2/TJ7ZGNPWOBBVRD5RS2GNOQPTN4.jpg?auth=c8244510477a5d8b022a5761b081d87b7cc7dcac3afa32907130a266cfbfe61d&width=1200&height=630&smart=true",
-      "link": "https://www.foodnavigator.com/Article/2026/08/04/sustainability-snippets-coffee-strategies-coca-cola-and-food-waste/",
-      "source": "FoodNavigator.com",
-      "category": "soft",
-      "published": "2026-08-04 10:08"
     }
   ]
 }

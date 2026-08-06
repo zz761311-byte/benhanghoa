@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-06 14:01",
+  "updated_at": "2026-08-06 14:28",
   "items": [
+    {
+      "id": "mozpeu",
+      "title": "Platinum Price Analysis: XPT/USD Holds $1,740 Zone After Sharp Correction",
+      "title_vi": "Phân tích giá bạch kim: XPT/USD giữ vùng 1.740 USD sau khi điều chỉnh mạnh",
+      "summary_vi": "Giá bạch kim đang cố gắng thiết lập mức sàn ở vùng 1.740 USD sau phản ứng giá mạnh mẽ với mức đỉnh năm 2026.",
+      "image": "https://bravenewcoin.com/wp-content/uploads/2026/08/Bnc-Aug-6-362.jpg",
+      "link": "https://bravenewcoin.com/insights/platinum-price-analysis-xpt-usd-holds-1740-zone-after-sharp-correction",
+      "source": "Brave New Coin",
+      "category": "metal",
+      "published": "2026-08-06 14:18"
+    },
     {
       "id": "q2eko6",
       "title": "U.S. Diesel Exports Hit Record High as Domestic Stockpiles Slide",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-06 12:10"
+    },
+    {
+      "id": "10dy3sl",
+      "title": "Grocery Chains Accuse Refined Sugar Cos. Of Price-Fixing",
+      "title_vi": "Chuỗi cửa hàng tạp hóa cáo buộc công ty đường tinh luyện ấn định giá",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.law360.com/amp/articles/2509323",
+      "source": "Law360",
+      "category": "soft",
+      "published": "2026-08-06 09:56"
     },
     {
       "id": "1f8gth5",
@@ -55,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-06 06:00"
+    },
+    {
+      "id": "zmugdh",
+      "title": "NDSU publishes sugar tariff study as groups react - Tri-State Livestock News",
+      "title_vi": "NDSU công bố nghiên cứu về thuế đường khi các nhóm phản ứng - Tin tức chăn nuôi ba bang",
+      "summary_vi": "VAIL, Colo. - Ngay khi Liên minh Đường Hoa Kỳ, đại diện cho những người trồng củ cải và mía, bắt đầu Hội nghị chuyên đề về chất làm ngọt quốc tế hàng năm tại đây, Trung tâm Nghiên cứu Nông nghiệp và Thương mại của Đại học Bang North Dakota đã công bố một...",
+      "image": "https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/13/2023/02/17223834/facebook-thumbnail-1200.jpg",
+      "link": "https://www.tsln.com/news/ndsu-publishes-sugar-tariff-study-as-groups-react/",
+      "source": "Tri-State Livestock News",
+      "category": "macro",
+      "published": "2026-08-06 05:56"
     },
     {
       "id": "1lrkwix",
@@ -517,39 +550,6 @@
       "source": "The Atlantic",
       "category": "energy",
       "published": "2026-08-04 18:00"
-    },
-    {
-      "id": "1oulyxs",
-      "title": "ADM raises annual profit forecast as soybean processing outlook improves",
-      "title_vi": "ADM tăng dự báo lợi nhuận hàng năm khi triển vọng chế biến đậu nành được cải thiện",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/retail-consumer/adm-raises-annual-profit-forecast-soybean-processing-outlook-improves-2026-08-04/",
-      "source": "Reuters",
-      "category": "agri",
-      "published": "2026-08-04 17:30"
-    },
-    {
-      "id": "pt50fa",
-      "title": "Coffee Ingredients & Sustainable Sourcing Market",
-      "title_vi": "Nguyên liệu Cà phê & Thị trường Nguồn cung ứng Bền vững",
-      "summary_vi": "Thị trường Nguyên liệu Cà phê & Nguồn cung ứng Bền vững trị giá 67,8 tỷ USD vào năm 2026 đang tăng trưởng với tốc độ CAGR là 3,5% để đạt 95,6 tỷ USD vào năm 2036. Nestlé S.A., Keurig Dr Pepper Inc. và JDE Peet's.",
-      "image": "https://www.futuremarketinsights.com/report-images/image/coffee-ingredients-&-sustainable-sourcing-market-value-analysis.webp",
-      "link": "https://www.futuremarketinsights.com/reports/coffee-ingredients-and-sustainable-sourcing-market",
-      "source": "Future Market Insights",
-      "category": "soft",
-      "published": "2026-08-04 14:50"
-    },
-    {
-      "id": "r934du",
-      "title": "US Sugar Prices Firm as Drought Concerns Persist",
-      "title_vi": "Giá đường Mỹ ổn định do lo ngại hạn hán vẫn tồn tại",
-      "summary_vi": "Giá đường Mỹ ổn định do lo ngại hạn hán vẫn tồn tại",
-      "image": "https://www.czapp.com/wp-content/uploads/2026/08/0ea2fd8b-b072-43a1-b5c9-8620aa9e61c6.jpg",
-      "link": "https://www.czapp.com/analyst-insights/us-sugar-prices-firm-as-drought-concerns-persist/",
-      "source": "czapp.com",
-      "category": "soft",
-      "published": "2026-08-04 14:00"
     }
   ]
 }

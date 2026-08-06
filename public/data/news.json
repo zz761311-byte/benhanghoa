@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-06 13:01",
+  "updated_at": "2026-08-06 14:01",
   "items": [
+    {
+      "id": "q2eko6",
+      "title": "U.S. Diesel Exports Hit Record High as Domestic Stockpiles Slide",
+      "title_vi": "Xuất khẩu dầu diesel của Mỹ đạt mức cao kỷ lục do tồn kho trong nước trượt dốc",
+      "summary_vi": "Xuất khẩu nhiên liệu diesel từ Mỹ đạt mức cao nhất mọi thời đại vào tuần trước, do tình trạng thiếu nhiên liệu ở các nơi khác trên thế giới do cuộc khủng hoảng năng lượng ở Trung Đông. Theo Cơ quan Thông tin Năng lượng, Hoa Kỳ đã xuất khẩu nhiên liệu diesel một lượng lớn",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-06_ovq5317n2g.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Exports-Hit-Record-High-as-Domestic-Stockpiles-Slide.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-06 13:30"
+    },
     {
       "id": "111l45r",
       "title": "Iran and Oman Near Landmark Deal to Manage Strait of Hormuz",
@@ -143,17 +154,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-06 01:07"
-    },
-    {
-      "id": "1g2im1q",
-      "title": "China Accelerates Its Economic Push Across Central Asia",
-      "title_vi": "Trung Quốc tăng tốc thúc đẩy kinh tế khắp Trung Á",
-      "summary_vi": "Uzbekistan, một trong những động lực kinh tế của Trung Á, đang trải qua sự mở rộng đáng kể ảnh hưởng kinh tế của Trung Quốc. Theo dữ liệu chính thức của chính phủ Uzbekistan, thương mại song phương trong nửa đầu năm 2026 đã tăng lên 7,7 tỷ USD, khiến Trung Quốc trở thành thị trường thương mại lớn nhất của Uzbekistan cho đến nay.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-05_jsviusxdam.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/China-Accelerates-Its-Economic-Push-Across-Central-Asia.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-08-06 01:00"
     },
     {
       "id": "1dl0d9q",
@@ -541,14 +541,14 @@
       "published": "2026-08-04 14:50"
     },
     {
-      "id": "13awab3",
-      "title": "Platinum's Range-Bound at $1,580–$1,640: Is the Supply Deficit Going Away?",
-      "title_vi": "Giới hạn phạm vi của bạch kim ở mức $1.580–$1.640: Tình trạng thiếu hụt nguồn cung có biến mất không?",
-      "summary_vi": "Đặt cược lãi suất của Fed giữ cho bạch kim bị giới hạn trong phạm vi bất chấp thâm hụt nguồn cung hàng năm. Nguồn cung mỏ Nam Phi bị trì hoãn và các mức quan trọng $1,580/$1,640 vẫn đang được chú ý.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a733c1c65a8d306ae4ff897_Platinum%20Bars.png",
-      "link": "https://www.cruxinvestor.com/posts/platinums-range-bound-at-1-580--1-640-is-the-supply-deficit-going-away",
-      "source": "Crux Investor",
-      "category": "metal",
+      "id": "r934du",
+      "title": "US Sugar Prices Firm as Drought Concerns Persist",
+      "title_vi": "Giá đường Mỹ ổn định do lo ngại hạn hán vẫn tồn tại",
+      "summary_vi": "Giá đường Mỹ ổn định do lo ngại hạn hán vẫn tồn tại",
+      "image": "https://www.czapp.com/wp-content/uploads/2026/08/0ea2fd8b-b072-43a1-b5c9-8620aa9e61c6.jpg",
+      "link": "https://www.czapp.com/analyst-insights/us-sugar-prices-firm-as-drought-concerns-persist/",
+      "source": "czapp.com",
+      "category": "soft",
       "published": "2026-08-04 14:00"
     }
   ]

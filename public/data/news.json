@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-07 02:01",
+  "updated_at": "2026-08-07 04:01",
   "items": [
+    {
+      "id": "t9syij",
+      "title": "Europe&#039;s Electricity Prices Spike to €500 a Megawatt-Hour as Drought Bites",
+      "title_vi": "Giá điện ở Châu Âu tăng vọt lên €500 một MW/giờ do hạn hán",
+      "summary_vi": "Những đợt nắng nóng gay gắt mùa hè đang đe dọa an ninh năng lượng trên khắp châu Âu. Châu lục đang đối mặt với một mùa hè nắng nóng và khô cằn, khiến nhu cầu điện cho điều hòa tăng vọt đồng thời khiến các dòng sông nóng lên và khô cạn kéo theo hậu quả tàn khốc cho hạt nhân.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-06_vhgordo6zm.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Electricity-Prices-Spike-to-500-a-Megawatt-Hour-as-Drought-Bites.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-07 04:00"
+    },
+    {
+      "id": "71a1pl",
+      "title": "U.S. Diesel Exports Hit Record High as Global Supply Crunch Deepens",
+      "title_vi": "Xuất khẩu dầu diesel của Mỹ đạt mức cao kỷ lục khi cuộc khủng hoảng nguồn cung toàn cầu ngày càng sâu sắc",
+      "summary_vi": "Xuất khẩu sản phẩm chưng cất của Mỹ tăng lên mức kỷ lục vào tuần trước do nguồn cung toàn cầu thắt chặt. Sự gián đoạn trên khắp khu vực vùng Vịnh và các điểm tắc nghẽn hàng hải xung quanh, cũng như các cuộc tấn công bằng máy bay không người lái tấn công một chiều của Ukraine đã làm tê liệt một phần cơ sở hạ tầng năng lượng của Nga.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-06_phag9f5qyc.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Diesel-Exports-Hit-Record-High-as-Global-Supply-Crunch-Deepens.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-07 03:00"
+    },
     {
       "id": "1uijpad",
       "title": "Mining Giant Glencore Looks Beyond London With Secondary ASX Listing",
@@ -24,6 +46,17 @@
       "published": "2026-08-07 01:48"
     },
     {
+      "id": "1fep00",
+      "title": "The Outlook for Brazil’s Coffee Harvest to Accelerate Weighs on Prices",
+      "title_vi": "Triển vọng tăng tốc thu hoạch cà phê của Brazil ảnh hưởng đến giá cả",
+      "summary_vi": "Cà phê arabica tháng 9 (KCU26) đóng cửa giảm -5,25 (-1,61%) vào thứ Năm và cà phê Robusta ICE tháng 9 (RMU26) đóng cửa giảm -93 (-2,39%). Giá cà phê giảm vào thứ Năm do dự báo thời tiết khô hạn ở các vùng trồng cà phê của Brazil trong...",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Soft%20Commodities/Coffee/Cup%20of%20roasted%20coffee%20beans%20on%20pile%20by%20Negative-Space%20via%20Pixabay.jpg",
+      "link": "https://www.barchart.com/story/news/3699917/the-outlook-for-brazils-coffee-harvest-to-accelerate-weighs-on-prices",
+      "source": "Barchart.com",
+      "category": "soft",
+      "published": "2026-08-07 01:30"
+    },
+    {
       "id": "16o5hg8",
       "title": "Russian Oil Production Climbs Above 9 Million Bpd in July",
       "title_vi": "Sản lượng dầu của Nga tăng trên 9 triệu thùng/ngày trong tháng 7",
@@ -44,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-07 01:00"
+    },
+    {
+      "id": "pw47n",
+      "title": "Gas prices could remain high this fall even if crude prices stabilize. Here's why",
+      "title_vi": "Giá xăng có thể vẫn ở mức cao trong mùa thu này ngay cả khi giá dầu thô ổn định. Đây là lý do tại sao",
+      "summary_vi": "Thị trường lọc dầu rất thắt chặt do chiến tranh Ukraine và Iran, khiến giá khí đốt tăng cao ngay cả khi giá dầu thô giảm.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108290790-1776276588339-108290790-1776118085723-gettyimages-2271203894-jr_13535_q5qr9nxg-1.jpg?v=1786047777&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/06/refinery-gas-oil-prices-iran-ukraine-war.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-08-07 00:39"
     },
     {
       "id": "yz0kn1",
@@ -90,17 +134,6 @@
       "published": "2026-08-06 23:00"
     },
     {
-      "id": "gv0o3m",
-      "title": "Chinese Oil Giant Launches World-First 16MW Floating Wind Turbine",
-      "title_vi": "Gã khổng lồ dầu mỏ Trung Quốc ra mắt tuabin gió nổi 16MW đầu tiên trên thế giới",
-      "summary_vi": "Tập đoàn Dầu khí Ngoài khơi Quốc gia Trung Quốc (CNOOC) thuộc sở hữu nhà nước hôm thứ Năm tuyên bố bắt đầu vận hành nền tảng năng lượng gió nổi chân căng (TLP) 16 megawatt đầu tiên trên thế giới, bắt đầu cung cấp điện cho một mỏ dầu ngoài khơi. CNOOC, một trong những công ty lớn nhất",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-06_fw9tx7moca.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Oil-Giant-Launches-World-First-16MW-Floating-Wind-Turbine.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-06 22:30"
-    },
-    {
       "id": "ewpk6n",
       "title": "Dutch Bros Pursues Dozens of Recently Closed Salad and Go Sites",
       "title_vi": "Dutch Bros theo đuổi hàng chục trang web Salad and Go đã đóng cửa gần đây",
@@ -112,17 +145,6 @@
       "published": "2026-08-06 22:13"
     },
     {
-      "id": "1k2fq8y",
-      "title": "Argentina&#039;s Shale Boom Is Reshaping Energy Security Across the Americas",
-      "title_vi": "Sự bùng nổ đá phiến của Argentina đang định hình lại an ninh năng lượng trên khắp châu Mỹ",
-      "summary_vi": "Sản lượng dầu và khí đốt tự nhiên kỷ lục gần đây của Argentina từ đá phiến Vaca Muerta đang thúc đẩy an ninh năng lượng ở châu Mỹ. Trong một thập kỷ, sản lượng dầu khí đá phiến đã tăng trưởng ở mức đáng kinh ngạc và hiện chiếm hơn 70% sản lượng hydrocarbon của Argentina. Cái này",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-05_y9sgrwolzm.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Argentinas-Shale-Boom-Is-Reshaping-Energy-Security-Across-the-Americas.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-06 22:00"
-    },
-    {
       "id": "o5lpw0",
       "title": "Two Fold Doubles Down on Quality in Tampa",
       "title_vi": "Chất lượng tăng gấp đôi ở Tampa",
@@ -132,6 +154,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-06 21:08"
+    },
+    {
+      "id": "1an5waj",
+      "title": "Copper Supply Tightens While Junior Equities Stay Discounted: What the Market May Be Missing",
+      "title_vi": "Nguồn cung đồng thắt chặt trong khi cổ phiếu cấp thấp vẫn được chiết khấu: Thị trường có thể thiếu điều gì",
+      "summary_vi": "Kỳ vọng thuế quan của Mỹ thắt chặt nguồn cung đồng khi hàng tồn kho thay đổi, trong khi cổ phiếu cơ sở giảm giá trái ngược với mức giá kỷ lục trước quyết định Mục 232.",
+      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a7490348d5d8ae054795d7e_copper%20sheets.png",
+      "link": "https://www.cruxinvestor.com/posts/copper-supply-tightens-while-junior-equities-stay-discounted-what-the-market-may-be-missing",
+      "source": "Crux Investor",
+      "category": "metal",
+      "published": "2026-08-06 20:51"
     },
     {
       "id": "1seiiua",
@@ -517,39 +550,6 @@
       "source": "Silver Bulletin",
       "category": "metal",
       "published": "2026-08-05 02:22"
-    },
-    {
-      "id": "14qhhgp",
-      "title": "Tighter Supply Outlook Lifts Sugar Prices",
-      "title_vi": "Triển vọng nguồn cung thắt chặt nâng giá đường",
-      "summary_vi": "Đường trắng thế giới NY #11 (SBV26 ) tháng 10 vào thứ Ba đóng cửa tăng +0,03 (+0,20%) và đường trắng ICE tháng 10 London ICE #5 (SWV26 ) đóng cửa tăng +3,20 (+0,69%). Giá đường kéo dài đợt tăng kéo dài 3 phiên vào thứ Ba, với đường NY đạt mức cao nhất trong 3,5 tuần và London...",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Soft%20Commodities/Sugar/Glass%20jar%20and%20bowl%20with%20white%20sugar%20cubes%20on%20table%20by%20Liudmila%20Chernetska%20via%20iStock.jpg",
-      "link": "https://www.barchart.com/story/news/3643701/tighter-supply-outlook-lifts-sugar-prices",
-      "source": "Barchart.com",
-      "category": "soft",
-      "published": "2026-08-05 01:29"
-    },
-    {
-      "id": "y6zosv",
-      "title": "Copper price tops $14,000 as US stockpiles swell before tariff call",
-      "title_vi": "Giá đồng lên tới 14.000 USD khi dự trữ của Mỹ tăng vọt trước lệnh áp thuế",
-      "summary_vi": "Hàng tồn kho tại mạng lưới kho bãi của LME cũng giảm xuống mức thấp nhất trong 5 tháng.",
-      "image": "https://www.mining.com/wp-content/uploads/2022/08/AdobeStock_370002426.jpeg",
-      "link": "https://www.mining.com/web/copper-price-tops-14000-as-us-stockpiles-swell-before-tariff-call/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-08-05 01:07"
-    },
-    {
-      "id": "dx0mzd",
-      "title": "Beyond Brand Launches Around Übermilk and Plus X Platform",
-      "title_vi": "Beyond Brand ra mắt xung quanh nền tảng Übermilk và Plus X",
-      "summary_vi": "Innoroc, công ty Đức đứng sau dòng sản phẩm máy làm lạnh sữa tự động thương mại Übermilk, đã giới thiệu Beyond, một thương hiệu thiết bị bao gồm Übermilk và Bộ sưu tập Plus X mới ra mắt...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/08/04/beyond-brand-launches-around-ubermilk-and-plus-x-platform/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-08-05 00:01"
     }
   ]
 }

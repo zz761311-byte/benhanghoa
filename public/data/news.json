@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-07 12:06",
+  "updated_at": "2026-08-07 13:01",
   "items": [
+    {
+      "id": "avyyhy",
+      "title": "Oil Prices Jump as Houthi Attacks Raise Saudi Supply Risks",
+      "title_vi": "Giá dầu tăng vọt khi các cuộc tấn công của Houthi làm tăng rủi ro nguồn cung của Saudi",
+      "summary_vi": "Reuters dẫn lời một phát ngôn viên của liên minh quân sự do Ả Rập Saudi dẫn đầu chống lại người Houthis ở Yemen cho biết lực lượng Houthi ở Yemen đã tấn công tỉnh Najran ở phía nam Ả Rập Saudi trong đợt bùng phát mới nhất của các hoạt động thù địch ở Trung Đông, khiến 11 dân thường thiệt mạng. tin tức",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-07_kodvupecgu.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-as-Houthi-Attacks-Raise-Saudi-Supply-Risks.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-07 12:40"
+    },
     {
       "id": "306s7d",
       "title": "Silver Price Canada Today | Live Silver Price in CAD",
@@ -143,17 +154,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-07 01:30"
-    },
-    {
-      "id": "ln6z6x",
-      "title": "Mexico Bans Fracking in Key Shale Basin",
-      "title_vi": "Mexico cấm fracking trong lưu vực đá phiến chính",
-      "summary_vi": "Mexico đã loại trừ việc sử dụng fracking tại lưu vực đá phiến quan trọng, vạch ra một ranh giới xuyên suốt khu vực giàu tài nguyên ngay cả khi nước này đang tìm cách cắt giảm sự phụ thuộc vào khí đốt tự nhiên của Mỹ. Tổng thống Claudia Sheinbaum cho biết việc bẻ gãy thủy lực sẽ không được phép ở lưu vực Tampico-Misantla.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-06_isg7ginxm9.jpg",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Mexico-Bans-Fracking-in-Key-Shale-Basin.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-07 01:00"
     },
     {
       "id": "pw47n",
@@ -541,15 +541,15 @@
       "published": "2026-08-05 03:14"
     },
     {
-      "id": "y6zosv",
-      "title": "Copper price tops $14,000 as US stockpiles swell before tariff call",
-      "title_vi": "Giá đồng lên tới 14.000 USD khi dự trữ của Mỹ tăng vọt trước lệnh áp thuế",
-      "summary_vi": "Hàng tồn kho tại mạng lưới kho bãi của LME cũng giảm xuống mức thấp nhất trong 5 tháng.",
-      "image": "https://www.mining.com/wp-content/uploads/2022/08/AdobeStock_370002426.jpeg",
-      "link": "https://www.mining.com/web/copper-price-tops-14000-as-us-stockpiles-swell-before-tariff-call/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-08-05 01:07"
+      "id": "1yvbr1i",
+      "title": "Hard Red Spring Wheat Price Trends: 50 & 200-Month Moving Averages",
+      "title_vi": "Xu hướng giá lúa mì mùa xuân đỏ cứng: Đường trung bình động 50 và 200 tháng",
+      "summary_vi": "Phân tích biểu đồ hàng tháng của Hard Red Spring Wheat và sự kết hợp của các đường trung bình động 50 tháng và 200 tháng đối với thị trường ngũ cốc Prairie.",
+      "image": "https://assets.barchart.com/img/barchart-og.png",
+      "link": "https://www.barchart.com/story/news/3644688/hard-red-spring-wheat-price-trends-50-200-month-moving-averages",
+      "source": "Barchart.com",
+      "category": "agri",
+      "published": "2026-08-05 02:40"
     }
   ]
 }

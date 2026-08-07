@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-08 02:01",
+  "updated_at": "2026-08-08 02:40",
   "items": [
+    {
+      "id": "1nt2moy",
+      "title": "Silver Price Forecast: XAG/USD clears 50-day SMA, eyes $65",
+      "title_vi": "Dự báo giá bạc: XAG/USD vượt qua SMA 50 ngày, hướng tới 65 USD",
+      "summary_vi": "Giá bạc tăng gần 3% khi vượt qua Đường trung bình động đơn giản (SMA) 50 ngày ở mức 62,13 USD và lấy lại con số 63,00 USD khi nó cố gắng vượt qua ngưỡng kháng cự quan trọng được thấy ở mức 63,28 USD, mức cao nhất ngày 6 tháng 7.",
+      "image": "https://editorial.fxsstatic.com/images/i/Silver4_Medium.png",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-clears-50-day-sma-eyes-65-202608071904",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-08-08 02:04"
+    },
     {
       "id": "1cmr3i1",
       "title": "Russia’s Labor Shortage Worsens as Central Asian Workers Stay Away",
@@ -9,7 +20,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-07_pqdcid68tw.jpg",
       "link": "https://oilprice.com/Energy/Energy-General/Russias-Labor-Shortage-Worsens-as-Central-Asian-Workers-Stay-Away.html",
       "source": "OilPrice",
-      "category": "macro",
+      "category": "metal",
       "published": "2026-08-08 02:00"
     },
     {
@@ -407,17 +418,6 @@
       "source": "Investing.com",
       "category": "energy",
       "published": "2026-08-06 14:15"
-    },
-    {
-      "id": "jq8kyi",
-      "title": "Silver Price Forecast: XAG/USD Climbs Above $62.00 as Inflation Pressures Ease",
-      "title_vi": "Dự báo giá bạc: XAG/USD tăng lên trên $62,00 khi áp lực lạm phát giảm bớt",
-      "summary_vi": "Dự báo giá bạc BitcoinWorld: XAG/USD tăng lên trên 62,00 USD khi áp lực lạm phát giảm bớt Giá bạc đã tăng trên 62,00 USD mỗi ounce vào [ngày], kéo dài",
-      "image": "https://cryptorank.io/static/pages-preview/main-page.png",
-      "link": "https://cryptorank.io/news/feed/d0461-silver-price-forecast-xag-usd-above-62-inflation",
-      "source": "CryptoRank",
-      "category": "metal",
-      "published": "2026-08-06 12:30"
     },
     {
       "id": "10dy3sl",

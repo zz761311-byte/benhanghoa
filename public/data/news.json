@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08 05:00",
+  "updated_at": "2026-08-08 05:58",
   "items": [
     {
       "id": "y92ylu",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-08-08 03:00"
+    },
+    {
+      "id": "2nkbz0",
+      "title": "Dutch Bros Tops TD Cowen’s Coffee Sector Pick With $73 Price Target",
+      "title_vi": "Dutch Bros đứng đầu lựa chọn ngành cà phê của TD Cowen với mục tiêu giá 73 USD",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/stock-market-news/dutch-bros-tops-td-cowens-coffee-sector-pick-with-73-price-target-93CH-4847340",
+      "source": "Investing.com",
+      "category": "soft",
+      "published": "2026-08-08 02:50"
     },
     {
       "id": "1nt2moy",
@@ -187,6 +198,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-08-07 09:18"
+    },
+    {
+      "id": "5hy7bj",
+      "title": "Gold set for best week since late January after jobs data dents Fed rate hike bets",
+      "title_vi": "Vàng thiết lập tuần tốt nhất kể từ cuối tháng 1 sau khi dữ liệu việc làm giảm Đặt cược tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/commodities-news/gold-steady-as-hormuz-tensions-cloud-fed-outlook-traders-eye-payrolls-4844993",
+      "source": "Investing.com",
+      "category": "metal",
+      "published": "2026-08-07 07:54"
     },
     {
       "id": "306s7d",
@@ -431,17 +453,6 @@
       "published": "2026-08-06 15:56"
     },
     {
-      "id": "1079wvf",
-      "title": "Gold (XAU/USD) & Silver Price Forecast: NFP Outlook Keeps Bullion Rally in Focus",
-      "title_vi": "Dự báo giá vàng (XAU/USD) và bạc: Triển vọng NFP khiến tập trung vào cuộc đua vàng thỏi",
-      "summary_vi": "Mô tả Meta: Vàng và bạc vẫn được hỗ trợ trước báo cáo Bảng lương phi nông nghiệp của Hoa Kỳ vào thứ Sáu do dữ liệu thị trường lao động yếu hơn, kỳ vọng về lãi suất của Fed và nhu cầu của ngân hàng trung ương khiến vàng thỏi trở thành tâm điểm chú ý.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/08/Main-Images-12-3.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-xau-usd-silver-price-forecast-nfp-outlook-keeps-bullion-rally-in-focus-1615114",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-08-06 14:30"
-    },
-    {
       "id": "mozpeu",
       "title": "Platinum Price Analysis: XPT/USD Holds $1,740 Zone After Sharp Correction",
       "title_vi": "Phân tích giá bạch kim: XPT/USD giữ vùng 1.740 USD sau khi điều chỉnh mạnh",
@@ -539,17 +550,6 @@
       "source": "wsj.com",
       "category": "macro",
       "published": "2026-08-06 03:30"
-    },
-    {
-      "id": "1xhlwsq",
-      "title": "Weather forecast keeping pressure on corn and soybean marketplace",
-      "title_vi": "Dự báo thời tiết tiếp tục gây áp lực lên thị trường ngô và đậu tương",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://iowaagribusinessradionetwork.com/weather-forecast-keeping-pressure-on-corn-and-soybean-marketplace/",
-      "source": "Iowa Agribusiness Radio Network |",
-      "category": "agri",
-      "published": "2026-08-06 03:29"
     }
   ]
 }

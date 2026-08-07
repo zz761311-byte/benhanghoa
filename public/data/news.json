@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08 06:00",
+  "updated_at": "2026-08-08 06:51",
   "items": [
     {
       "id": "1vfai2q",
@@ -66,6 +66,17 @@
       "source": "Investing.com",
       "category": "soft",
       "published": "2026-08-08 02:50"
+    },
+    {
+      "id": "n92z5o",
+      "title": "Dollar Retreats and Gold Rallies on Fed Rate Hike Doubts",
+      "title_vi": "Sự rút lui của đồng đô la và sự phục hồi của vàng do nghi ngờ về việc tăng lãi suất của Fed",
+      "summary_vi": "Chỉ số đô la (DXY00) giảm xuống mức thấp nhất trong 7 tuần vào thứ Sáu và kết thúc ở mức giảm -0,41%. Đồng đô la giảm vào thứ Sáu sau khi báo cáo bảng lương tháng 7 của Hoa Kỳ cho thấy sự sụt giảm bất ngờ trong bảng lương phi nông nghiệp và mức tăng giờ trung bình nhỏ hơn dự kiến.",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Government/Federal%20Reserve%20Building%202%20by%20Jeremy%20Edwards%20via%20iStock.jpg",
+      "link": "https://www.barchart.com/story/news/3725840/dollar-retreats-and-gold-rallies-on-fed-rate-hike-doubts",
+      "source": "Barchart.com",
+      "category": "metal",
+      "published": "2026-08-08 02:34"
     },
     {
       "id": "1nt2moy",
@@ -143,6 +154,17 @@
       "source": "World Grain",
       "category": "agri",
       "published": "2026-08-07 21:46"
+    },
+    {
+      "id": "11e955w",
+      "title": "Fed Hawkish Pivot Tests Silver Prices, but the 46.3 Million-Ounce Deficit Remains",
+      "title_vi": "Fed Hawkish Pivot kiểm tra giá bạc, nhưng vẫn còn thiếu hụt 46,3 triệu ounce",
+      "summary_vi": "Chính sách của Fed có thể thúc đẩy giá bạc trong ngắn hạn, nhưng thâm hụt nguồn cung 46,3 triệu ounce tiếp tục hỗ trợ triển vọng đầu tư dài hạn",
+      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a75d7ade550221d7e40b62c_Silver%20Bullion.png",
+      "link": "https://www.cruxinvestor.com/posts/fed-hawkish-pivot-tests-silver-prices-but-the-46-3-million-ounce-deficit-remains",
+      "source": "Crux Investor",
+      "category": "metal",
+      "published": "2026-08-07 20:25"
     },
     {
       "id": "17q02t4",
@@ -420,17 +442,6 @@
       "published": "2026-08-06 18:00"
     },
     {
-      "id": "17pcs93",
-      "title": "Gold stays elevated as easing energy concerns temper Fed rate expectations",
-      "title_vi": "Vàng vẫn tăng khi mối lo ngại về năng lượng giảm bớt kỳ vọng về lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://uk.finance.yahoo.com/news/gold-stays-elevated-easing-energy-093254360.html",
-      "source": "Yahoo Finance UK",
-      "category": "metal",
-      "published": "2026-08-06 16:32"
-    },
-    {
       "id": "1ebak6m",
       "title": "Ukraine’s military hits one of Russia’s biggest oil refineries in long-range drone attack",
       "title_vi": "Quân đội Ukraine tấn công một trong những nhà máy lọc dầu lớn nhất của Nga trong cuộc tấn công bằng máy bay không người lái tầm xa",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-08-06 04:05"
-    },
-    {
-      "id": "gttonp",
-      "title": "Home-Building Is Sputtering, but Lumber Prices Haven’t Been So High in Years",
-      "title_vi": "Việc xây nhà đang tăng vọt, nhưng giá gỗ chưa cao trong nhiều năm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/home-building-is-sputtering-but-lumber-prices-havent-been-so-high-in-years-a2ef1cf2",
-      "source": "wsj.com",
-      "category": "macro",
-      "published": "2026-08-06 03:30"
     }
   ]
 }

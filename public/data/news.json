@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-07 21:01",
+  "updated_at": "2026-08-07 21:41",
   "items": [
+    {
+      "id": "1g06vt0",
+      "title": "ADNOC Buys 11 Supertankers for $1.3 Billion to Expand Export Fleet",
+      "title_vi": "ADNOC mua 11 siêu tàu chở dầu với giá 1,3 tỷ USD để mở rộng đội tàu xuất khẩu",
+      "summary_vi": "ADNOC đã mua 11 tàu chở dầu thô và khí đốt rất lớn với giá 1,3 tỷ USD khi công ty dầu khí quốc gia Abu Dhabi tiếp tục mở rộng đội tàu siêu chở dầu của mình để thúc đẩy xuất khẩu dầu thô và LNG. Đơn vị ADNOC Logistics & Services plc của ADNOC hôm thứ Sáu thông báo họ đã mua lại 5 công ty hiện đại.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-07_nmh20zpbjt.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Buys-11-Supertankers-for-13-Billion-to-Expand-Export-Fleet.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-07 21:30"
+    },
     {
       "id": "1w5ant",
       "title": "Ukraine Faces a Growing Air Defense Crisis as Patriot Supplies Dwindle",
@@ -99,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-07 18:00"
-    },
-    {
-      "id": "1we6wka",
-      "title": "Shipping Through Hormuz Drops Sharply as Tensions Rise",
-      "title_vi": "Vận chuyển qua Hormuz giảm mạnh khi căng thẳng gia tăng",
-      "summary_vi": "Lưu lượng tàu qua eo biển Hormuz trong tuần này đã giảm so với tuần trước trong bối cảnh không chắc chắn về các cuộc đàm phán Mỹ-Iran và khả năng mở lại điểm huyết mạch dầu mỏ và LNG quan trọng của Trung Đông. Từ thứ Hai đến thứ Năm, tổng cộng 33 tàu đã đi qua eo biển này",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-07_nsopyxfizx.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Through-Hormuz-Drops-Sharply-as-Tensions-Rise.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-07 16:30"
     },
     {
       "id": "306s7d",
@@ -275,6 +275,17 @@
       "source": "Reuters",
       "category": "soft",
       "published": "2026-08-06 20:34"
+    },
+    {
+      "id": "hnyk4",
+      "title": "Could copper lose its tariff premium?",
+      "title_vi": "Đồng có thể mất phí bảo hiểm thuế quan?",
+      "summary_vi": "Đồng đã phục hồi trở lại mức cao kỷ lục",
+      "image": "https://think.ing.com/uploads/hero/_w800h450/shutterstock_2732785991.jpg",
+      "link": "https://think.ing.com/articles/could-copper-lose-its-tariff-premium/",
+      "source": "ING Think",
+      "category": "metal",
+      "published": "2026-08-06 19:46"
     },
     {
       "id": "mvaxdm",
@@ -539,17 +550,6 @@
       "source": "EBC Financial Group",
       "category": "metal",
       "published": "2026-08-05 16:28"
-    },
-    {
-      "id": "1f025c7",
-      "title": "Promising Rain Forecast for Corn Belt Through Mid-August",
-      "title_vi": "Dự báo mưa đầy hứa hẹn cho vành đai ngô đến giữa tháng 8",
-      "summary_vi": "Nửa đầu tháng 8 có thể có lượng mưa tương đối thuận lợi trên phần lớn Vành đai ngô khi ngô và đậu nành tiếp tục trải qua các giai đoạn sinh sản quan trọng.",
-      "image": "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredBlogImage?symbolicName=2026q05-us-ag-wx-blog.png&category=CMS",
-      "link": "https://www.dtnpf.com/agriculture/web/ag/blogs/ag-weather-forum/blog-post/2026/08/05/promising-rain-forecast-corn-belt",
-      "source": "DTN Progressive Farmer",
-      "category": "agri",
-      "published": "2026-08-05 14:32"
     }
   ]
 }

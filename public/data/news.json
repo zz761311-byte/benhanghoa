@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07 17:14",
+  "updated_at": "2026-08-07 18:01",
   "items": [
     {
       "id": "1we6wka",
@@ -176,6 +176,17 @@
       "source": "AAA Newsroom",
       "category": "energy",
       "published": "2026-08-06 23:49"
+    },
+    {
+      "id": "1xz0co6",
+      "title": "Commerce Department proposes tariffs on more steel, aluminum, copper goods",
+      "title_vi": "Bộ Thương mại đề xuất áp thuế nhiều mặt hàng thép, nhôm, đồng",
+      "summary_vi": "Cơ quan này muốn áp thuế đối với các sản phẩm phái sinh, từ dụng cụ gió bằng đồng và két sàn cho đến rơ moóc chở dầu và sơ mi rơ moóc.",
+      "image": "https://imgproxy.divecdn.com/6hdYcYLE4AdMf_O-IiSY1fQCn782lK6S1Ld88-0mNaA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9KNEpFMUYuanBn.webp",
+      "link": "https://www.supplychaindive.com/news/commerce-department-proposes-tariffs-on-more-steel-aluminum-copper-goods/827125/",
+      "source": "Supply Chain Dive",
+      "category": "metal",
+      "published": "2026-08-06 23:44"
     },
     {
       "id": "z5s3f0",
@@ -539,17 +550,6 @@
       "source": "farmdoc daily",
       "category": "agri",
       "published": "2026-08-05 06:27"
-    },
-    {
-      "id": "13zkh31",
-      "title": "US Natural Gas Falls on Warmer Outlook, Growing Storage Surplus",
-      "title_vi": "Khí đốt tự nhiên của Hoa Kỳ giảm do triển vọng ấm hơn, dư thừa kho dự trữ ngày càng tăng",
-      "summary_vi": "Bởi Julian Hast Giá khí đốt tự nhiên kỳ hạn của Mỹ kết thúc ở mức thấp hơn do dự báo cho thấy thời tiết ấm hơn dự kiến ​​trước đây ở miền đông Hoa Kỳ, cũng như kỳ vọng của thị trường rằng tồn kho trong nước sẽ tăng so với mức bình thường theo mùa trong những tuần tới khi nhu cầu giảm đi vào mùa xuân. Mức dự trữ khí đốt của Hoa Kỳ&hellip",
-      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Terminal-1200x810-1.jpg",
-      "link": "https://energynow.com/2026/03/us-natural-gas-falls-on-warmer-outlook-growing-storage-surplus/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-08-05 05:25"
     }
   ]
 }

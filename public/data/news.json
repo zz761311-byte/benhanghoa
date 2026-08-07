@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-08 00:36",
+  "updated_at": "2026-08-08 01:32",
   "items": [
+    {
+      "id": "1olws03",
+      "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
+      "title_vi": "Citi nâng triển vọng giá dầu Brent nhưng vẫn thấy dầu giảm vào năm 2027",
+      "summary_vi": "Citi đã nâng dự báo giá dầu thô Brent quý 3 lên 80 USD/thùng từ mức 75 USD do chiến tranh Mỹ-Iran kéo dài và nhiều nỗ lực đạt được thỏa thuận không thể khôi phục dòng dầu bình thường qua eo biển Hormuz. Ngân hàng vẫn kỳ vọng xung đột sẽ được giải quyết nhưng thời hạn 5 tháng",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-08 01:05"
+    },
     {
       "id": "suli39",
       "title": "Norway’s $2.3-Trillion Fund Opposes SEC Idea to Rescind Climate Reporting",
@@ -88,17 +99,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-07 21:30"
-    },
-    {
-      "id": "1w5ant",
-      "title": "Ukraine Faces a Growing Air Defense Crisis as Patriot Supplies Dwindle",
-      "title_vi": "Ukraine đối mặt với cuộc khủng hoảng phòng không ngày càng gia tăng khi nguồn cung cấp cho Patriot ngày càng cạn kiệt",
-      "summary_vi": "Việc Ukraine không đánh chặn được một tên lửa của Nga trong cuộc tấn công quy mô lớn qua đêm trong tuần này đã làm dấy lên mối lo ngại mới về nguồn cung cấp máy bay đánh chặn phòng không của Kyiv đang cạn kiệt khi Moscow leo thang các cuộc tấn công bằng tên lửa đạn đạo vào thủ đô gần như không có khả năng phòng thủ này.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-06_j0aqh2bern.jpg",
-      "link": "https://oilprice.com/Geopolitics/Europe/Ukraine-Faces-a-Growing-Air-Defense-Crisis-as-Patriot-Supplies-Dwindle.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-07 21:00"
     },
     {
       "id": "17q02t4",
@@ -530,6 +530,17 @@
       "published": "2026-08-06 01:07"
     },
     {
+      "id": "kye3do",
+      "title": "Copper price sets fresh US record as tariff-driven hoarding meets shrinking supply",
+      "title_vi": "Giá đồng lập kỷ lục mới tại Mỹ do việc tích trữ do thuế quan đáp ứng nguồn cung sụt giảm",
+      "summary_vi": "Thỏa thuận mở lại eo biển Hormuz có thể còn vài ngày nữa, nhưng việc đóng cửa 5 tháng và Trung Quốc",
+      "image": "https://www.mining.com/wp-content/uploads/2026/06/AdobeStock_698888895-1024x683.jpeg",
+      "link": "https://www.mining.com/copper-price-sets-fresh-us-record-as-tariff-driven-hoarding-meets-shrinking-supply/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-08-05 23:28"
+    },
+    {
       "id": "1dl0d9q",
       "title": "Professional Education Event Level Up to Rise Again in Minneapolis",
       "title_vi": "Sự kiện giáo dục chuyên nghiệp nâng cấp để trỗi dậy lần nữa ở Minneapolis",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-05 23:10"
-    },
-    {
-      "id": "ln2e3y",
-      "title": "Corn, Soybeans Test Support on Weather, Yield Estimates but Wheat Pops: Cattle Test Resistance",
-      "title_vi": "Hỗ trợ thử nghiệm ngô, đậu nành về thời tiết, ước tính năng suất nhưng lúa mì bùng phát: Khả năng kháng thử nghiệm của gia súc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/corn-soybeans-test-support-weather-yield-estimates-wheat-pops-cattle-test",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-08-05 22:55"
     }
   ]
 }

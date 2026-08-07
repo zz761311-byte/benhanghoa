@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-07 15:01",
+  "updated_at": "2026-08-07 16:01",
   "items": [
+    {
+      "id": "ec7lvy",
+      "title": "China’s Crude Imports Bounce Back After Historic June Slump",
+      "title_vi": "Nhập khẩu dầu thô của Trung Quốc phục hồi sau đợt sụt giảm lịch sử trong tháng 6",
+      "summary_vi": "Bloomberg đưa tin hôm nay, trích dẫn dữ liệu hải quan, nhập khẩu dầu thô của Trung Quốc đã đảo ngược mức giảm trước đó, tăng 22% so với tháng 6 lên mức trung bình hàng ngày là 8,45 triệu thùng, tương đương tổng cộng 35,73 triệu tấn. Trung Quốc đã cắt giảm tổng lượng dầu thô nhập khẩu xuống mức thấp nhất trong một thập kỷ vào tháng 6",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-07_dgdts1hmvp.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Bounce-Back-After-Historic-June-Slump.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-07 15:15"
+    },
     {
       "id": "13kg1p9",
       "title": "Russia Turns to South Korea for Fuel as Refinery Crisis Deepens",
@@ -120,17 +131,6 @@
       "link": "https://ocj.com/2026/08/tighter-grain-supplies-could-spark-a-rally-will-cattle-prices-hold-up/",
       "source": "ocj.com",
       "category": "agri",
-      "published": "2026-08-07 02:00"
-    },
-    {
-      "id": "1uijpad",
-      "title": "Mining Giant Glencore Looks Beyond London With Secondary ASX Listing",
-      "title_vi": "Công ty khai thác khổng lồ Glencore nhìn xa hơn London với danh sách ASX thứ cấp",
-      "summary_vi": "Glencore sẽ tung ra danh sách thứ cấp tại Úc trong một đòn giáng mới nhất vào thị trường chứng khoán ốm yếu của London khi các công ty khai thác tiếp tục để mắt tới các cơ hội rời khỏi Vương quốc Anh. Công ty khai thác và kinh doanh khổng lồ này là một trong những công ty lớn nhất trên FTSE 100 với mức vốn hóa thị trường là 64 bảng Anh.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-06_lsnq8gx5iw.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Mining-Giant-Glencore-Looks-Beyond-London-With-Secondary-ASX-Listing.html",
-      "source": "OilPrice",
-      "category": "energy",
       "published": "2026-08-07 02:00"
     },
     {
@@ -365,6 +365,17 @@
       "published": "2026-08-06 05:25"
     },
     {
+      "id": "gttonp",
+      "title": "Home-Building Is Sputtering, but Lumber Prices Haven’t Been So High in Years",
+      "title_vi": "Việc xây nhà đang tăng vọt, nhưng giá gỗ chưa cao trong nhiều năm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/home-building-is-sputtering-but-lumber-prices-havent-been-so-high-in-years-a2ef1cf2",
+      "source": "wsj.com",
+      "category": "macro",
+      "published": "2026-08-06 03:30"
+    },
+    {
       "id": "1xhlwsq",
       "title": "Weather forecast keeping pressure on corn and soybean marketplace",
       "title_vi": "Dự báo thời tiết tiếp tục gây áp lực lên thị trường ngô và đậu tương",
@@ -539,17 +550,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-08-05 03:34"
-    },
-    {
-      "id": "13lrann",
-      "title": "Crop Production Report and Geopolitical Conflicts Drive Market Volatility",
-      "title_vi": "Báo cáo sản xuất cây trồng và xung đột địa chính trị thúc đẩy biến động thị trường",
-      "summary_vi": "Trong bản tin mới nhất từ ​​Tiến sĩ Todd Hubbs của OSU, ông cho biết Thời tiết và những diễn biến địa chính trị tiếp tục thúc đẩy thị trường cây trồng và hứa hẹn sẽ tiếp tục biến động. Các xung đột ở Biển Đen và Iran dường như còn lâu mới đi đến bất kỳ giải pháp nào vào thời điểm này. Báo cáo sản lượng cây trồng vào thứ Tư tới cung cấp dấu hiệu đầu tiên của USDA",
-      "image": "",
-      "link": "https://www.oklahomafarmreport.com/2026/08/04/crop-production-report-and-geopolitical-conflicts-drive-market-volatility/",
-      "source": "Oklahoma Farm Report",
-      "category": "agri",
-      "published": "2026-08-05 03:14"
     }
   ]
 }

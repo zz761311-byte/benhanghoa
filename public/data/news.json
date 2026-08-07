@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-07 16:18",
+  "updated_at": "2026-08-07 17:01",
   "items": [
+    {
+      "id": "1we6wka",
+      "title": "Shipping Through Hormuz Drops Sharply as Tensions Rise",
+      "title_vi": "Vận chuyển qua Hormuz giảm mạnh khi căng thẳng gia tăng",
+      "summary_vi": "Lưu lượng tàu qua eo biển Hormuz trong tuần này đã giảm so với tuần trước trong bối cảnh không chắc chắn về các cuộc đàm phán Mỹ-Iran và khả năng mở lại điểm huyết mạch dầu mỏ và LNG quan trọng của Trung Đông. Từ thứ Hai đến thứ Năm, tổng cộng 33 tàu đã đi qua eo biển này",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-07_nsopyxfizx.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Through-Hormuz-Drops-Sharply-as-Tensions-Rise.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-07 16:30"
+    },
     {
       "id": "ec7lvy",
       "title": "China’s Crude Imports Bounce Back After Historic June Slump",
@@ -101,17 +112,6 @@
       "published": "2026-08-07 04:00"
     },
     {
-      "id": "71a1pl",
-      "title": "U.S. Diesel Exports Hit Record High as Global Supply Crunch Deepens",
-      "title_vi": "Xuất khẩu dầu diesel của Mỹ đạt mức cao kỷ lục khi cuộc khủng hoảng nguồn cung toàn cầu ngày càng sâu sắc",
-      "summary_vi": "Xuất khẩu sản phẩm chưng cất của Mỹ tăng lên mức kỷ lục vào tuần trước do nguồn cung toàn cầu thắt chặt. Sự gián đoạn trên khắp khu vực vùng Vịnh và các điểm tắc nghẽn hàng hải xung quanh, cũng như các cuộc tấn công bằng máy bay không người lái tấn công một chiều của Ukraine đã làm tê liệt một phần cơ sở hạ tầng năng lượng của Nga.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-06_phag9f5qyc.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Diesel-Exports-Hit-Record-High-as-Global-Supply-Crunch-Deepens.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-07 03:00"
-    },
-    {
       "id": "1o8nit2",
       "title": "Copper jumps to its highest level ever. What the metal is telling us",
       "title_vi": "Đồng nhảy lên mức cao nhất từ ​​trước đến nay. Kim loại đang nói với chúng ta điều gì",
@@ -187,6 +187,17 @@
       "source": "BBC",
       "category": "energy",
       "published": "2026-08-06 22:41"
+    },
+    {
+      "id": "1cfsv7l",
+      "title": "An update on Europe’s Russia sanctions",
+      "title_vi": "Cập nhật về lệnh trừng phạt Nga của Châu Âu",
+      "summary_vi": "Thông tin cập nhật về cách EU, Anh và Mỹ trừng phạt các tàu chở dầu của hạm đội bóng tối của Nga—và tại sao khoảng cách giữa họ vẫn còn quan trọng.",
+      "image": "https://www.brookings.edu/wp-content/uploads/2026/08/EuropeRussiaSanctions_Svet-foto_shutterstock_2208687589.jpg",
+      "link": "https://www.brookings.edu/articles/an-update-on-europes-russia-sanctions/",
+      "source": "Brookings",
+      "category": "macro",
+      "published": "2026-08-06 22:25"
     },
     {
       "id": "ewpk6n",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-08-05 05:25"
-    },
-    {
-      "id": "35xx5b",
-      "title": "StoneX Forecasts U.S. 2026 Corn Yield at 184.8 Bushels per Acre",
-      "title_vi": "StoneX dự báo năng suất ngô năm 2026 của Hoa Kỳ ở mức 184,8 giạ trên mỗi mẫu Anh",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/partners-stonex-forecasts-u-s-2026-corn-yield-at-184-8-bushels-per-acre-12034110",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-08-05 03:34"
     }
   ]
 }

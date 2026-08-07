@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08 04:58",
+  "updated_at": "2026-08-08 05:00",
   "items": [
     {
       "id": "y92ylu",
@@ -165,6 +165,17 @@
       "source": "Resolution Copper mine",
       "category": "metal",
       "published": "2026-08-07 18:05"
+    },
+    {
+      "id": "otxqcq",
+      "title": "US sugar outlook leaning into bullish territory",
+      "title_vi": "Triển vọng đường của Mỹ nghiêng về vùng tăng giá",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bakingbusiness.com/articles/66701-us-sugar-outlook-leaning-into-bullish-territory",
+      "source": "Baking Business",
+      "category": "soft",
+      "published": "2026-08-07 11:00"
     },
     {
       "id": "10oudpi",
@@ -453,6 +464,17 @@
       "published": "2026-08-06 14:15"
     },
     {
+      "id": "1yaw58b",
+      "title": "Ukraine Hits Russia’s Top-5 Oil Refinery as Fuel Shortages Spread Across Country",
+      "title_vi": "Ukraine tấn công nhà máy lọc dầu top 5 của Nga khi tình trạng thiếu nhiên liệu lan rộng khắp đất nước",
+      "summary_vi": "Ukraine đã mở rộng đáng kể chiến dịch chống lại cơ sở hạ tầng dầu mỏ của Nga trong năm nay, nhắm vào các nhà máy lọc dầu cung cấp nhiên liệu cho cả tiêu dùng dân sự và quân đội Nga.",
+      "image": "https://static.kyivpost.com/storage/2026/04/26/d04c89b2b244abe99fca5584b8b2c867.png?w=1200&q=90&f=jpg",
+      "link": "https://www.kyivpost.com/post/81805",
+      "source": "Kyiv Post",
+      "category": "energy",
+      "published": "2026-08-06 12:38"
+    },
+    {
       "id": "10dy3sl",
       "title": "Grocery Chains Accuse Refined Sugar Cos. Of Price-Fixing",
       "title_vi": "Chuỗi cửa hàng tạp hóa cáo buộc công ty đường tinh luyện ấn định giá",
@@ -528,28 +550,6 @@
       "source": "Iowa Agribusiness Radio Network |",
       "category": "agri",
       "published": "2026-08-06 03:29"
-    },
-    {
-      "id": "kdroox",
-      "title": "India sugar prices hit record high on tight supplies, festival demand",
-      "title_vi": "Giá đường Ấn Độ đạt mức cao kỷ lục do nguồn cung khan hiếm và nhu cầu lễ hội",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/india-sugar-prices-hit-record-high-tight-supplies-festival-demand-2026-08-05/",
-      "source": "Reuters",
-      "category": "soft",
-      "published": "2026-08-06 01:27"
-    },
-    {
-      "id": "1cpg5c4",
-      "title": "Italian Study Says Espresso and Moka Pot May Reduce This Liver Disease",
-      "title_vi": "Nghiên cứu của Ý cho biết Espresso và Moka Pot có thể làm giảm bệnh gan này",
-      "summary_vi": "Một nghiên cứu mới giữa những người uống cà phê ở miền nam nước Ý cho thấy những người uống cà phê espresso hoặc moka pot hàng ngày ít có khả năng phát triển bệnh gan...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/08/05/italian-study-says-espresso-and-moka-pot-may-reduce-this-liver-disease/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-08-06 01:07"
     }
   ]
 }

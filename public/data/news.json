@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08 20:16",
+  "updated_at": "2026-08-08 21:00",
   "items": [
     {
       "id": "arpsdq",
@@ -264,6 +264,17 @@
       "source": "KITCO",
       "category": "metal",
       "published": "2026-08-07 17:51"
+    },
+    {
+      "id": "19a72oh",
+      "title": "What 7 Key Indicators Tell Investors About US Markets Right Now",
+      "title_vi": "7 chỉ số chính cho nhà đầu tư biết điều gì về thị trường Hoa Kỳ hiện nay",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://global.morningstar.com/en-gb/markets/what-7-key-indicators-tell-investors-about-us-markets-right-now",
+      "source": "Morningstar",
+      "category": "macro",
+      "published": "2026-08-07 13:09"
     },
     {
       "id": "otxqcq",
@@ -539,17 +550,6 @@
       "source": "Investing.com",
       "category": "energy",
       "published": "2026-08-06 14:15"
-    },
-    {
-      "id": "1yaw58b",
-      "title": "Ukraine Hits Russia’s Top-5 Oil Refinery as Fuel Shortages Spread Across Country",
-      "title_vi": "Ukraine tấn công nhà máy lọc dầu top 5 của Nga khi tình trạng thiếu nhiên liệu lan rộng khắp đất nước",
-      "summary_vi": "Ukraine đã mở rộng đáng kể chiến dịch chống lại cơ sở hạ tầng dầu mỏ của Nga trong năm nay, nhắm vào các nhà máy lọc dầu cung cấp nhiên liệu cho cả tiêu dùng dân sự và quân đội Nga.",
-      "image": "https://static.kyivpost.com/storage/2026/04/26/d04c89b2b244abe99fca5584b8b2c867.png?w=1200&q=90&f=jpg",
-      "link": "https://www.kyivpost.com/post/81805",
-      "source": "Kyiv Post",
-      "category": "energy",
-      "published": "2026-08-06 12:38"
     }
   ]
 }

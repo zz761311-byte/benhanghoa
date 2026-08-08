@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08 06:51",
+  "updated_at": "2026-08-08 07:01",
   "items": [
     {
       "id": "1vfai2q",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-08 06:00"
+    },
+    {
+      "id": "fsw5of",
+      "title": "Crude falls on possible Hormuz arrangement",
+      "title_vi": "Dầu thô giảm do khả năng sắp xếp Hormuz",
+      "summary_vi": "Mối quan hệ Mỹ-Iran vẫn căng thẳng dẫn đến bi quan về một thỏa thuận hòa bình lâu dài.",
+      "image": "https://img.ogj.com/files/base/ebm/ogj/image/website/logos/1752245958870-ogj_horizontalcolor_reg2.png?auto=format,compress&fit=fill&fill=solid&fill-color=&w=1200&h=627",
+      "link": "https://www.ogj.com/general-interest/economics-markets/article/55396683/crude-oil-falls-on-possible-strait-of-hormuz-arrangement",
+      "source": "Oil & Gas Journal",
+      "category": "energy",
+      "published": "2026-08-08 05:37"
     },
     {
       "id": "y92ylu",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-08-06 05:25"
-    },
-    {
-      "id": "3uad0a",
-      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
-      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
-      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
-      "image": "https://www.cmegroup.com/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium",
-      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-08-06 04:05"
     }
   ]
 }

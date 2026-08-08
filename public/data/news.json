@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-09 01:14",
+  "updated_at": "2026-08-09 02:00",
   "items": [
+    {
+      "id": "ji735o",
+      "title": "Airlines Scramble for Jet Fuel as Hormuz Disruption Drags On",
+      "title_vi": "Các hãng hàng không tranh giành nhiên liệu máy bay phản lực khi sự gián đoạn của Hormuz kéo dài",
+      "summary_vi": "Việc đóng cửa eo biển Hormuz kéo dài nhiều tháng đã dẫn đến tình trạng thiếu nhiên liệu nghiêm trọng trên toàn cầu, khi các công ty phải vật lộn để tiếp tục hoạt động. Các hãng hàng không đã bị ảnh hưởng nặng nề khi họ phải vật lộn để có đủ nhiên liệu máy bay để duy trì lịch trình bay thường xuyên. Cuộc chiến Mỹ-Israel",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-06_68csbi0rtm.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Airlines-Scramble-for-Jet-Fuel-as-Hormuz-Disruption-Drags-On.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-09 02:00"
+    },
     {
       "id": "ihidaa",
       "title": "Berkeley Lab&#039;s New Fusion Materials Breakthrough, Explained",
@@ -156,6 +167,17 @@
       "published": "2026-08-08 02:34"
     },
     {
+      "id": "1s4mns3",
+      "title": "Crops Analysis | Wheat bounces on Black Sea concerns",
+      "title_vi": "Phân tích cây trồng | Lúa mì tăng do lo ngại Biển Đen",
+      "summary_vi": "Ngày 7 tháng 8 năm 2026",
+      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
+      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-wheat-bounces-black-sea-concerns",
+      "source": "Pro Farmer",
+      "category": "agri",
+      "published": "2026-08-08 02:19"
+    },
+    {
       "id": "1nt2moy",
       "title": "Silver Price Forecast: XAG/USD clears 50-day SMA, eyes $65",
       "title_vi": "Dự báo giá bạc: XAG/USD vượt qua SMA 50 ngày, hướng tới 65 USD",
@@ -165,17 +187,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-08-08 02:04"
-    },
-    {
-      "id": "1cmr3i1",
-      "title": "Russia’s Labor Shortage Worsens as Central Asian Workers Stay Away",
-      "title_vi": "Tình trạng thiếu lao động ở Nga ngày càng trầm trọng hơn khi công nhân Trung Á rời xa",
-      "summary_vi": "Những tin tức kinh tế xấu liên tục đến với nền kinh tế Nga. Một phân tích về dữ liệu của chính phủ Nga do nhật báo kinh doanh Vedomosti thực hiện cho thấy dòng người di cư lao động Trung Á đến Nga đã giảm khoảng 15% trong nửa đầu năm 2026, làm sâu sắc thêm quan điểm vốn đã bị chỉ trích.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-07_pqdcid68tw.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Russias-Labor-Shortage-Worsens-as-Central-Asian-Workers-Stay-Away.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-08-08 02:00"
     },
     {
       "id": "19z6o95",
@@ -539,17 +550,6 @@
       "source": "cnbc.com",
       "category": "energy",
       "published": "2026-08-06 16:07"
-    },
-    {
-      "id": "nr8686",
-      "title": "Zacks Industry Outlook Southern Copper, Freeport, Lundin, Energy and Ero",
-      "title_vi": "Triển vọng ngành của Zacks Southern Copper, Freeport, Lundin, Energy và Ero",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/zacks-industry-outlook-southern-copper-085600492.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-08-06 15:56"
     }
   ]
 }

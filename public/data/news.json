@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08 08:01",
+  "updated_at": "2026-08-08 09:01",
   "items": [
     {
       "id": "1vfai2q",
@@ -222,6 +222,17 @@
       "published": "2026-08-07 18:05"
     },
     {
+      "id": "1n9h535",
+      "title": "Gold, silver rally as yields fall after surprise jobs loss - Kitco AM Report",
+      "title_vi": "Vàng, bạc tăng khi lợi suất giảm sau khi mất việc làm bất ngờ - Báo cáo Kitco AM",
+      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay tăng mạnh vào đầu phiên giao dịch tại Hoa Kỳ hôm thứ Sáu, do bảng lương tháng 7 bất ngờ sụt giảm khiến lãi suất trái phiếu Kho bạc giảm và giảm kỳ vọng tăng lãi suất trong ngắn hạn của Fed. Tại thời điểm viết bài, vàng giao ngay đang giao dịch ở mức gần 4.352,60 USD/ounce, tăng 2,67%, trong khi bạc giao ngay đang giao dịch.",
+      "image": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0&left=0.45511111111112&width=1023.0897777778&height=576&scale_width=1920&token=aec88b3ebee0e209220621be3a11392aba39804c29e146b836dc73faa18f12b0",
+      "link": "https://www.kitco.com/news/article/2026-08-07/gold-silver-rally-yields-fall-after-surprise-jobs-loss-kitco-am-report",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-08-07 17:51"
+    },
+    {
       "id": "otxqcq",
       "title": "US sugar outlook leaning into bullish territory",
       "title_vi": "Triển vọng đường của Mỹ nghiêng về vùng tăng giá",
@@ -242,17 +253,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-08-07 09:18"
-    },
-    {
-      "id": "5hy7bj",
-      "title": "Gold set for best week since late January after jobs data dents Fed rate hike bets",
-      "title_vi": "Vàng thiết lập tuần tốt nhất kể từ cuối tháng 1 sau khi dữ liệu việc làm giảm Đặt cược tăng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/commodities-news/gold-steady-as-hormuz-tensions-cloud-fed-outlook-traders-eye-payrolls-4844993",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-08-07 07:54"
     },
     {
       "id": "306s7d",

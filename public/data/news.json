@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08 07:34",
+  "updated_at": "2026-08-08 08:01",
   "items": [
     {
       "id": "1vfai2q",
@@ -121,6 +121,17 @@
       "source": "Springfield Business Journal",
       "category": "soft",
       "published": "2026-08-08 01:57"
+    },
+    {
+      "id": "1rkrci",
+      "title": "Gold, silver rally as weak payrolls cut Fed hike pressure - Kitco PM Report",
+      "title_vi": "Vàng, bạc tăng khi bảng lương yếu làm giảm áp lực tăng lãi suất của Fed - Báo cáo của Kitco PM",
+      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay tăng sau khi thị trường chứng khoán Bắc Mỹ đóng cửa vào thứ Sáu, do bảng lương tháng 7 âm khiến lãi suất trái phiếu kho bạc giảm, đồng đô la Mỹ giảm giá (Kitco Global Index cho thấy mức độ biến động của vàng hôm nay là do đồng đô la so với chính thị trường vàng.) và giảm bớt áp lực lên thị trường vàng.",
+      "image": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0&left=0.45511111111112&width=1023.0897777778&height=576&scale_width=1920&token=54658afb5de4fa4439a66922e2acc390e7a3140be045e5b034faaf0d9c23776b",
+      "link": "https://www.kitco.com/news/article/2026-08-07/gold-silver-rally-weak-payrolls-cut-fed-hike-pressure-kitco-pm-report",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-08-08 01:20"
     },
     {
       "id": "1olws03",
@@ -429,17 +440,6 @@
       "source": "ING Think",
       "category": "metal",
       "published": "2026-08-06 19:46"
-    },
-    {
-      "id": "mvaxdm",
-      "title": "Daily: Gold’s rally has support",
-      "title_vi": "Hàng ngày: đợt tăng giá của vàng có hỗ trợ",
-      "summary_vi": "Báo cáo thị trường tài chính của UBS CIO House View. Vàng đã tăng lên mức cao nhất trong 7 tuần và chúng tôi cho rằng khả năng nắm giữ kim loại này trong trung và dài hạn vẫn được hỗ trợ bởi lãi suất thực thấp hơn, đồng đô la yếu hơn và lực mua của ngân hàng trung ương.",
-      "image": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2026/latest-06082026/_jcr_content/root/pagehead/opengraphimage.coreimg.1280.jpg/1901191032/office-equipment-two.jpg",
-      "link": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2026/latest-06082026.html",
-      "source": "UBS",
-      "category": "metal",
-      "published": "2026-08-06 18:51"
     },
     {
       "id": "14j6y74",

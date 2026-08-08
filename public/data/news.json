@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08 12:10",
+  "updated_at": "2026-08-08 12:59",
   "items": [
     {
       "id": "1wj7l6a",
@@ -253,6 +253,17 @@
       "source": "Baking Business",
       "category": "soft",
       "published": "2026-08-07 11:00"
+    },
+    {
+      "id": "psedux",
+      "title": "Dollar drops, stocks climb as weak US jobs data eases rate fears",
+      "title_vi": "Đồng đô la giảm, chứng khoán tăng khi dữ liệu việc làm yếu của Mỹ làm giảm bớt lo ngại về lãi suất",
+      "summary_vi": "Đồng đô la giảm mạnh hôm thứ Sáu sau khi nền kinh tế Mỹ mất hàng nghìn việc làm trong tháng 7, một đòn giáng kinh tế làm giảm nguy cơ Cục Dự trữ Liên bang tăng lãi suất có thể làm chậm tốc độ tăng trưởng của…",
+      "image": "https://s.france24.com/media/display/5c9cba1e-929e-11f1-a6e5-005056a97e36/w:1280/p:16x9/df82fac038a2669f340210f9d9194003d1500d48.jpg",
+      "link": "https://www.france24.com/en/live-news/20260807-oil-extends-gains-and-stocks-fall-on-fresh-hormuz-worries",
+      "source": "France 24",
+      "category": "macro",
+      "published": "2026-08-07 09:49"
     },
     {
       "id": "10oudpi",
@@ -539,17 +550,6 @@
       "source": "StoneX",
       "category": "metal",
       "published": "2026-08-06 08:41"
-    },
-    {
-      "id": "zmugdh",
-      "title": "NDSU publishes sugar tariff study as groups react - Tri-State Livestock News",
-      "title_vi": "NDSU công bố nghiên cứu về thuế đường khi các nhóm phản ứng - Tin tức chăn nuôi ba bang",
-      "summary_vi": "VAIL, Colo. - Ngay khi Liên minh Đường Hoa Kỳ, đại diện cho những người trồng củ cải và mía, bắt đầu Hội nghị chuyên đề về chất làm ngọt quốc tế hàng năm tại đây, Trung tâm Nghiên cứu Nông nghiệp và Thương mại của Đại học Bang North Dakota đã công bố một...",
-      "image": "https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/13/2023/02/17223834/facebook-thumbnail-1200.jpg",
-      "link": "https://www.tsln.com/news/ndsu-publishes-sugar-tariff-study-as-groups-react/",
-      "source": "Tri-State Livestock News",
-      "category": "macro",
-      "published": "2026-08-06 05:56"
     }
   ]
 }

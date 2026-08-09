@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09 21:02",
+  "updated_at": "2026-08-09 21:55",
   "items": [
     {
       "id": "l0034y",
@@ -77,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-08 22:00"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "(Reuters) – Khí đốt tự nhiên chạm đến hầu hết mọi ngóc ngách của nền kinh tế Hoa Kỳ, cung cấp nhiên liệu cho các nhà máy điện, nhà cửa, nhà máy và lĩnh vực xuất khẩu LNG đang bùng nổ. Nhưng nguồn cung cần thiết để đáp ứng tất cả những mục đích sử dụng đó lại đến từ một mảnh đất đá phiến ngày càng hẹp của Mỹ. Sự không phù hợp này giữa một nhóm người tiêu dùng ngày càng mở rộng…",
+      "image": "https://energynow.com/wp-content/uploads/Natural-Gas-Flame-1200x810-1.jpg",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-08-08 19:22"
     },
     {
       "id": "gwhjhn",
@@ -539,17 +550,6 @@
       "source": "Supply Chain Dive",
       "category": "metal",
       "published": "2026-08-06 23:44"
-    },
-    {
-      "id": "z5s3f0",
-      "title": "Ukraine hits two oil refineries deep in Russian territory",
-      "title_vi": "Ukraine tấn công hai nhà máy lọc dầu nằm sâu trong lãnh thổ Nga",
-      "summary_vi": "Tổng thống Ukraine nói rằng các cuộc tấn công nhằm mục đích hạn chế nguồn thu mà Nga “dùng để tài trợ” cho cuộc chiến của mình.",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4e4c/live/d37c5f10-9184-11f1-9587-294e25c71c14.png",
-      "link": "https://www.bbc.com/news/articles/cwymv212xrxo",
-      "source": "BBC",
-      "category": "energy",
-      "published": "2026-08-06 22:41"
     }
   ]
 }

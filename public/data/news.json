@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 02:51",
+  "updated_at": "2026-08-10 03:00",
   "items": [
     {
       "id": "jiie3z",
@@ -387,6 +387,17 @@
       "published": "2026-08-07 17:28"
     },
     {
+      "id": "he5afc",
+      "title": "FAO Food Price Index edges up amid weather, energy and geopolitical concerns",
+      "title_vi": "Chỉ số giá thực phẩm FAO tăng trong bối cảnh lo ngại về thời tiết, năng lượng và địa chính trị",
+      "summary_vi": "Giá đường, ngũ cốc và dầu thực vật quốc tế bù đắp cho sự sụt giảm của thịt và các sản phẩm từ sữa.",
+      "image": "https://www.fao.org/media/images/newsroomlibraries/default-album/uf178yc-_cav2152.jpg?sfvrsn=292bbf01_2",
+      "link": "https://www.fao.org/newsroom/detail/fao-food-price-index-edges-up-amid-weather--energy-and-geopolitical-concerns/en",
+      "source": "Food and Agriculture Organization",
+      "category": "macro",
+      "published": "2026-08-07 16:12"
+    },
+    {
       "id": "bbg4mv",
       "title": "Farm Futures afternoon grain market commentary",
       "title_vi": "Bình luận thị trường ngũ cốc buổi chiều của Farm Futures",
@@ -539,17 +550,6 @@
       "source": "Barchart.com",
       "category": "soft",
       "published": "2026-08-07 01:30"
-    },
-    {
-      "id": "1d5d8w6",
-      "title": "Lower Crude Oil Prices Driving Down National Average",
-      "title_vi": "Giá dầu thô thấp hơn làm giảm mức trung bình quốc gia",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://gasprices.aaa.com/lower-crude-oil-prices-driving-down-national-average/",
-      "source": "AAA Gas Prices",
-      "category": "energy",
-      "published": "2026-08-07 00:53"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 00:00",
+  "updated_at": "2026-08-10 00:51",
   "items": [
     {
       "id": "tdissm",
@@ -165,6 +165,17 @@
       "source": "Oil & Gas Journal",
       "category": "energy",
       "published": "2026-08-08 05:37"
+    },
+    {
+      "id": "f3hat4",
+      "title": "Starbucks reports strong quarterly sales and raises annual outlook",
+      "title_vi": "Starbucks báo cáo doanh thu hàng quý mạnh mẽ và nâng cao triển vọng hàng năm",
+      "summary_vi": "Cổ phiếu của Starbucks đã tăng vọt sau khi gã khổng lồ cà phê báo cáo doanh thu và lợi nhuận hàng quý tốt hơn mong đợi. Công ty ở Seattle cho biết doanh số bán hàng tại cùng một cửa hàng trên toàn cầu và ở Mỹ đã tăng 7,9% trong thời gian này.",
+      "image": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/d/10/d10614fe-a77b-5b4c-ae32-317aa9e6121d/6a6a6bdfb7b81.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+      "link": "https://www.bozemandailychronicle.com/wire/business/starbucks-reports-strong-quarterly-sales-and-raises-annual-outlook/article_38a8c12e-b5e0-5480-8e25-51cf06f24360.html",
+      "source": "Bozeman Daily Chronicle",
+      "category": "soft",
+      "published": "2026-08-08 04:34"
     },
     {
       "id": "1yrsfdt",
@@ -376,12 +387,12 @@
       "published": "2026-08-07 17:28"
     },
     {
-      "id": "my7osy",
-      "title": "Farm Futures morning grain market analysis",
-      "title_vi": "Phân tích thị trường ngũ cốc buổi sáng của Farm Futures",
+      "id": "bbg4mv",
+      "title": "Farm Futures afternoon grain market commentary",
+      "title_vi": "Bình luận thị trường ngũ cốc buổi chiều của Farm Futures",
       "summary_vi": "",
       "image": "",
-      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+      "link": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-08-07 14:00"
@@ -539,17 +550,6 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-08-07 00:39"
-    },
-    {
-      "id": "2bmhgz",
-      "title": "Lower Crude Oil Prices Driving Down National Average",
-      "title_vi": "Giá dầu thô thấp hơn làm giảm mức trung bình quốc gia",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://newsroom.aaa.com/2026/08/lower-crude-oil-prices-driving-down-national-average/",
-      "source": "AAA Newsroom",
-      "category": "energy",
-      "published": "2026-08-06 23:49"
     }
   ]
 }

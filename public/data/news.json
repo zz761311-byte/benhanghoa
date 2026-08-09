@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09 09:00",
+  "updated_at": "2026-08-09 09:52",
   "items": [
     {
       "id": "3dedp9",
@@ -332,6 +332,17 @@
       "published": "2026-08-07 13:09"
     },
     {
+      "id": "15ggfgi",
+      "title": "El Niño threatens to disrupt the world’s most-traded commodities",
+      "title_vi": "El Niño đe dọa làm gián đoạn những mặt hàng được giao dịch nhiều nhất trên thế giới",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.ft.com/content/7c35f5dd-7c40-4748-a103-f47ab44c858d?syn-25a6b1a6",
+      "source": "Financial Times",
+      "category": "soft",
+      "published": "2026-08-07 11:01"
+    },
+    {
       "id": "otxqcq",
       "title": "US sugar outlook leaning into bullish territory",
       "title_vi": "Triển vọng đường của Mỹ nghiêng về vùng tăng giá",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "soft",
       "published": "2026-08-06 20:34"
-    },
-    {
-      "id": "hnyk4",
-      "title": "Could copper lose its tariff premium?",
-      "title_vi": "Đồng có thể mất phí bảo hiểm thuế quan?",
-      "summary_vi": "Đồng đã phục hồi trở lại mức cao kỷ lục",
-      "image": "https://think.ing.com/uploads/hero/_w800h450/shutterstock_2732785991.jpg",
-      "link": "https://think.ing.com/articles/could-copper-lose-its-tariff-premium/",
-      "source": "ING Think",
-      "category": "metal",
-      "published": "2026-08-06 19:46"
     }
   ]
 }

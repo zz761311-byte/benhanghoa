@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 19:34",
+  "updated_at": "2026-08-10 20:00",
   "items": [
     {
       "id": "6k1yyl",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-10 18:30"
+    },
+    {
+      "id": "1u18wu4",
+      "title": "Ukrainian drone attack on a Russian city kills 13, with a refinery reportedly hit",
+      "title_vi": "Cuộc tấn công bằng máy bay không người lái của Ukraine vào một thành phố của Nga khiến 13 người thiệt mạng, một nhà máy lọc dầu được cho là đã bị tấn công",
+      "summary_vi": "Tổng thống Ukraine Volodymyr Zelenskyy cho rằng đây là chiến dịch nhằm buộc Tổng thống Nga Vladimir Putin ngồi vào bàn đàm phán và ngăn chặn cuộc xâm lược kéo dài hơn 4 năm của ông.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260810-ukr-rs-709a70.jpg",
+      "link": "https://www.nbcnews.com/world/russia/ukraine-drone-strikes-russian-city-nizhnekamsk-oil-refinery-rcna591666",
+      "source": "nbcnews.com",
+      "category": "energy",
+      "published": "2026-08-10 17:53"
     },
     {
       "id": "iarwrv",
@@ -55,17 +66,6 @@
       "source": "The New Republic",
       "category": "macro",
       "published": "2026-08-10 17:00"
-    },
-    {
-      "id": "1jsmks8",
-      "title": "Ukrainian Drone Strike Kills 12 in Major Attack on Russian Refining Hub",
-      "title_vi": "Cuộc tấn công bằng máy bay không người lái của Ukraine giết chết 12 người trong cuộc tấn công lớn vào trung tâm lọc dầu của Nga",
-      "summary_vi": "Một cuộc tấn công bằng máy bay không người lái của Ukraine vào một thành phố ở vùng Tatarstan của Nga đã giết chết 12 người và làm bị thương ít nhất 39 người khác trong một cuộc tấn công lớn cũng nhằm vào một trong những nhà máy lọc dầu có công nghệ tiên tiến nhất ở Nga. Radmir Belyayev, thị trưởng thành phố Nizhnekamsk, nơi tổ chức",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-10_ihne5mqtg6.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Strike-Kills-12-in-Major-Attack-on-Russian-Refining-Hub.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-10 16:00"
     },
     {
       "id": "1dpqp62",

@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-10 12:00",
+  "updated_at": "2026-08-10 13:00",
   "items": [
+    {
+      "id": "1t1em68",
+      "title": "Oil Prices Rise as Iran Hardens Hormuz Demands",
+      "title_vi": "Giá dầu tăng khi Iran tăng cường nhu cầu Hormuz",
+      "summary_vi": "Giá dầu thô bắt đầu trong tuần này với mức tăng sau tuyên bố của Iran đặt ra sáu yêu cầu về một thỏa thuận hòa bình với Hoa Kỳ và tuyên bố từ người Houthis rằng họ đã tấn công một nhà máy lọc dầu Aramco ở Jazan. Tại thời điểm viết bài, dầu thô Brent đang giao dịch ở mức 84,24 USD/thùng.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-10_3pacofuayl.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-as-Iran-Hardens-Hormuz-Demands.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-10 12:30"
+    },
+    {
+      "id": "6yze1e",
+      "title": "Copper Holds $14,000 as Weaker US Rate Outlook Boosts Metals",
+      "title_vi": "Đồng giữ mức 14.000 USD khi triển vọng lãi suất của Mỹ yếu hơn thúc đẩy kim loại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-10/copper-holds-14-000-as-weaker-us-rate-outlook-boosts-metals",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-08-10 11:39"
+    },
     {
       "id": "19ml0oa",
       "title": "Amid global copper supply chain upheaval, security demands focus",
@@ -121,17 +143,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-09 02:00"
-    },
-    {
-      "id": "ihidaa",
-      "title": "Berkeley Lab&#039;s New Fusion Materials Breakthrough, Explained",
-      "title_vi": "Giải thích về đột phá về vật liệu nhiệt hạch mới của Phòng thí nghiệm Berkeley",
-      "summary_vi": "Các nhà khoa học tại UC Davis và Phòng thí nghiệm quốc gia Lawrence Berkeley vừa đạt được bước đột phá lớn trong thiết kế lò phản ứng tổng hợp hạt nhân. Nhóm nghiên cứu đang đi tiên phong trong một lĩnh vực nghiên cứu phản ứng tổng hợp hạt nhân mới được gọi là phản ứng tổng hợp dựa trên vật liệu, tập trung vào các lò phản ứng là gì",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-07_ruaeco481r.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Berkeley-Labs-New-Fusion-Materials-Breakthrough-Explained.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-09 00:00"
     },
     {
       "id": "1lrkwix",
@@ -297,6 +308,17 @@
       "source": "Crude Oil Prices Today | OilPrice.com",
       "category": "energy",
       "published": "2026-08-08 01:05"
+    },
+    {
+      "id": "13tfgc0",
+      "title": "Trump vs. trumpets: New tariff plan hits the orchestra’s brass section",
+      "title_vi": "Trump vs kèn: Kế hoạch thuế quan mới đánh vào bộ phận kèn đồng của dàn nhạc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.washingtontimes.com/news/2026/aug/7/trump-vs-trumpets-new-tariff-plan-hits-orchestras-brass-section/",
+      "source": "Washington Times",
+      "category": "macro",
+      "published": "2026-08-07 23:09"
     },
     {
       "id": "1f7uaf3",
@@ -528,28 +550,6 @@
       "source": "Silver And Black Pride",
       "category": "metal",
       "published": "2026-08-07 06:09"
-    },
-    {
-      "id": "w0al0j",
-      "title": "Americans Pay the Price for Trump’s War While Oil and Gas Companies Get Rich",
-      "title_vi": "Người Mỹ phải trả giá cho cuộc chiến của Trump trong khi các công ty dầu khí trở nên giàu có",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.americanprogress.org/article/americans-pay-the-price-for-trumps-war-while-oil-and-gas-companies-get-rich/",
-      "source": "Center for American Progress",
-      "category": "energy",
-      "published": "2026-08-07 02:59"
-    },
-    {
-      "id": "1o8nit2",
-      "title": "Copper jumps to its highest level ever. What the metal is telling us",
-      "title_vi": "Đồng nhảy lên mức cao nhất từ ​​trước đến nay. Kim loại đang nói với chúng ta điều gì",
-      "summary_vi": "Từng là thước đo đáng tin cậy về sức khỏe kinh tế, “Tiến sĩ Đồng” có thể sẽ đưa ra những tín hiệu phức tạp trong năm nay.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108346260-1786046336064-gettyimages-2228106290-US_COPPER.jpeg?v=1786046387&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-08-07 02:51"
     }
   ]
 }

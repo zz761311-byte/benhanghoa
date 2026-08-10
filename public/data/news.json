@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 15:00",
+  "updated_at": "2026-08-10 15:17",
   "items": [
     {
       "id": "8f48tw",
@@ -242,6 +242,17 @@
       "source": "Hart Energy",
       "category": "energy",
       "published": "2026-08-08 03:26"
+    },
+    {
+      "id": "1mx67se",
+      "title": "Dollar drops, stocks climb as weak US jobs data eases rate fears",
+      "title_vi": "Đồng đô la giảm, chứng khoán tăng khi dữ liệu việc làm yếu của Mỹ làm giảm bớt lo ngại về lãi suất",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/energy/articles/oil-extends-gains-stocks-fall-024841858.html",
+      "source": "finance.yahoo.com",
+      "category": "macro",
+      "published": "2026-08-08 03:25"
     },
     {
       "id": "16hhdtb",
@@ -539,17 +550,6 @@
       "source": "Baking Business",
       "category": "soft",
       "published": "2026-08-07 11:00"
-    },
-    {
-      "id": "1nuf0aa",
-      "title": "Corn and Soybean futures recovered to post small gains.",
-      "title_vi": "Giá ngô và đậu tương kỳ hạn phục hồi để đạt mức tăng nhỏ.",
-      "summary_vi": "Oliver Sloup thảo luận về hành động giá gần đây của hợp đồng tương lai Ngũ cốc, lưu ý rằng mặc dù thị trường nhìn chung đều giảm vào sáng sớm, nhưng hợp đồng tương lai Ngô và Đậu tương đã cố gắng chống trả và đạt mức tăng nhỏ vào cuối phiên. Tuy nhiên, giá lúa mì kỳ hạn vẫn là mắt xích yếu. Sloup cũng chia nhỏ doanh số xuất khẩu hàng tuần mới nhất,",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/corn-and-soybean-futures-recovered-to-post-small-gains-8-6-26.jpg",
-      "link": "https://www.cmegroup.com/videos/2026/08/06/corn-and-soybean-futures-recovered-to-post-small-gains-8-6-26.html",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-08-07 10:29"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-10 10:01",
+  "updated_at": "2026-08-10 11:00",
   "items": [
+    {
+      "id": "19ml0oa",
+      "title": "Amid global copper supply chain upheaval, security demands focus",
+      "title_vi": "Trong bối cảnh biến động của chuỗi cung ứng đồng toàn cầu, nhu cầu an ninh tập trung",
+      "summary_vi": "Khi Trung Quốc giành được ưu thế trong lĩnh vực luyện đồng, nước này không chỉ tăng cường sức mạnh kinh tế mà còn tăng cường khả năng nắm giữ một kim loại quan trọng trong quốc phòng.",
+      "image": "https://cdn.sanity.io/images/5dcouzig/production/4e6aaef8598348b433db93c066d6dfbeaa84a394-4000x2666.jpg?rect=0,283,4000,2100&w=1200&h=630&fm=webp&q=85&fit=crop",
+      "link": "https://www.lowyinstitute.org/the-interpreter/amid-global-copper-supply-chain-upheaval-security-demands-focus",
+      "source": "lowyinstitute.org",
+      "category": "metal",
+      "published": "2026-08-10 10:31"
+    },
     {
       "id": "15hoh3i",
       "title": "US Dollar Near 2-Month Low as Markets Await Key Inflation Data",
@@ -539,17 +550,6 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-08-07 02:51"
-    },
-    {
-      "id": "n12wp5",
-      "title": "Tighter grain supplies could spark a rally. Will cattle prices hold up?",
-      "title_vi": "Nguồn cung ngũ cốc thắt chặt hơn có thể châm ngòi cho một đợt tăng giá. Liệu giá gia súc có giữ vững?",
-      "summary_vi": "Bởi Mike Zuzolo, Công ty TNHH Tư vấn & Phân tích Hàng hóa Toàn cầu Khi tôi viết bài đăng trong tháng này,",
-      "image": "https://ocj.com/wp-content/uploads/2026/08/Tighter-grain-supplies-could-spark-a-rally.-Will-cattle-prices-hold-up.png",
-      "link": "https://ocj.com/2026/08/tighter-grain-supplies-could-spark-a-rally-will-cattle-prices-hold-up/",
-      "source": "ocj.com",
-      "category": "agri",
-      "published": "2026-08-07 02:00"
     }
   ]
 }

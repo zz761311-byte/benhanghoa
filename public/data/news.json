@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-11 00:00",
+  "updated_at": "2026-08-11 00:39",
   "items": [
+    {
+      "id": "7kj2o0",
+      "title": "BofA: Hormuz Needs 10 Times More Ships to Stabilize Oil Markets",
+      "title_vi": "BofA: Hormuz cần số tàu gấp 10 lần để ổn định thị trường dầu mỏ",
+      "summary_vi": "Ngân hàng Mỹ (BoFA) đang cảnh báo rằng giá dầu có thể tiếp tục tăng vào mùa đông nếu Mỹ và Iran không đạt được thỏa thuận mở lại eo biển Hormuz, với tình trạng thiếu hụt trầm trọng trên thị trường dầu diesel, xăng và khí đốt tự nhiên toàn cầu. “Chúng tôi đã mong đợi",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-10_revk1zmwnt.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/BofA-Hormuz-Needs-10-Times-More-Ships-to-Stabilize-Oil-Markets.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-11 00:30"
+    },
     {
       "id": "14ln0dp",
       "title": "Why Iran Just Replaced Its Security Chief Days After A Hardline Ultimatum",
@@ -79,6 +90,17 @@
       "published": "2026-08-10 22:30"
     },
     {
+      "id": "17h5d4i",
+      "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+      "title_vi": "Ukraine tấn công nhà máy lọc dầu sâu bên trong Nga, ít nhất 13 người thiệt mạng",
+      "summary_vi": "Tấn công hàng trăm dặm từ biên giới sẽ là một trong những cuộc chiến nguy hiểm nhất khi Kyiv nhằm mục đích bóp nghẹt nền kinh tế Nga",
+      "image": "https://i.guim.co.uk/img/media/c3ddc8f9aef2cdda8bb7bbbca0d04cc087cae526/0_600_1214_971/master/1214.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=020bcad3c610e57d5d5b40b03e41bcb3",
+      "link": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+      "source": "The Guardian",
+      "category": "energy",
+      "published": "2026-08-10 22:12"
+    },
+    {
       "id": "1mvq9ja",
       "title": "Ukraine’s Drone War Is Breaking Russia’s Fuel Grip on Central Asia",
       "title_vi": "Cuộc chiến máy bay không người lái của Ukraine đang phá vỡ sự kiểm soát nhiên liệu của Nga ở Trung Á",
@@ -121,28 +143,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-10 21:00"
-    },
-    {
-      "id": "8dyxvz",
-      "title": "U.S. Bets $400 Million on Australian Scandium Miner to Break China&#039;s Grip",
-      "title_vi": "Hoa Kỳ đặt cược 400 triệu USD vào công ty khai thác Scandium của Úc để phá vỡ sự kìm kẹp của Trung Quốc",
-      "summary_vi": "Cổ phiếu của Sunrise Energy Metals Ltd (SRL:ASX) niêm yết tại Úc đã tăng 29% khi mở cửa vào thứ Hai sau khi Bộ Chiến tranh Hoa Kỳ công bố cam kết có điều kiện về khoản vay 400 triệu USD để công ty xây dựng các hoạt động scandium của mình. Văn phòng Bộ Chiến tranh",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-10_epvgxdvsz2.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Bets-400-Million-on-Australian-Scandium-Miner-to-Break-Chinas-Grip.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-08-10 20:30"
-    },
-    {
-      "id": "1u18wu4",
-      "title": "Ukrainian drone attack on a Russian city kills 13, with a refinery reportedly hit",
-      "title_vi": "Cuộc tấn công bằng máy bay không người lái của Ukraine vào một thành phố của Nga khiến 13 người thiệt mạng, một nhà máy lọc dầu được cho là đã bị tấn công",
-      "summary_vi": "Tổng thống Ukraine Volodymyr Zelenskyy cho rằng đây là chiến dịch nhằm buộc Tổng thống Nga Vladimir Putin ngồi vào bàn đàm phán và ngăn chặn cuộc xâm lược kéo dài hơn 4 năm của ông.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260810-ukr-rs-709a70.jpg",
-      "link": "https://www.nbcnews.com/world/russia/ukraine-drone-strikes-russian-city-nizhnekamsk-oil-refinery-rcna591666",
-      "source": "nbcnews.com",
-      "category": "energy",
-      "published": "2026-08-10 17:53"
     },
     {
       "id": "iarwrv",

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-11 03:25",
+  "updated_at": "2026-08-11 04:00",
   "items": [
+    {
+      "id": "ogb8c0",
+      "title": "Iraq’s Oil Lifeline Reopens — But Can Baghdad Trust Turkey for Even One Year?",
+      "title_vi": "Đường huyết mạch dầu mỏ của Iraq mở lại - Nhưng liệu Baghdad có thể tin tưởng Thổ Nhĩ Kỳ dù chỉ một năm?",
+      "summary_vi": "Với hơn 90% ngân sách hàng năm của Iraq vẫn đến từ xuất khẩu dầu và trong lịch sử khoảng 95% lượng dầu thô đó được vận chuyển qua eo biển Hormuz, việc đảm bảo một tuyến đường xuất khẩu thay thế trong khi eo biển này vẫn bị phong tỏa hiệu quả đã trở thành một vấn đề sống còn đối với Baghdad. BẰNG",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-10_qzdfurd89i.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Iraqs-Oil-Lifeline-Reopens-But-Can-Baghdad-Trust-Turkey-for-Even-One-Year.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-11 04:00"
+    },
     {
       "id": "1x83iqn",
       "title": "Greenland Warns Trump-Linked Firm over Unauthorized Drilling Plan",
@@ -123,17 +134,6 @@
       "published": "2026-08-10 22:37"
     },
     {
-      "id": "fi83y6",
-      "title": "Russia Rebuilds Nuclear Workforce at Iran’s Bushehr Plant",
-      "title_vi": "Nga xây dựng lại lực lượng lao động hạt nhân tại nhà máy Bushehr của Iran",
-      "summary_vi": "Theo hãng tin TASS, Nga đang tăng cường công việc mở rộng nhà máy hạt nhân Bushehr của Iran, trong đó Rosatom có ​​kế hoạch tăng lực lượng lao động người Nga tại địa điểm này từ 25 lên khoảng 100 người vào mùa thu khi việc xây dựng hai lò phản ứng bổ sung tiến triển, bất chấp xung đột và các cuộc xung đột đang diễn ra.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-10_uaiy6j5duc.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Rebuilds-Nuclear-Workforce-at-Irans-Bushehr-Plant.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-10 22:30"
-    },
-    {
       "id": "17h5d4i",
       "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
       "title_vi": "Ukraine tấn công nhà máy lọc dầu sâu bên trong Nga, ít nhất 13 người thiệt mạng",
@@ -242,6 +242,17 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-08-10 09:37"
+    },
+    {
+      "id": "1s2bb7z",
+      "title": "Dollar gains, yen weakens as markets eye U.S. CPI",
+      "title_vi": "Đồng đô la tăng, đồng yên suy yếu khi thị trường để mắt tới CPI của Mỹ",
+      "summary_vi": "Đồng đô la Mỹ tăng giá khi giá dầu tăng trước báo cáo lạm phát giá tiêu dùng được theo dõi chặt chẽ vào thứ Tư cho tháng Bảy.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108292457-1776344977367-gettyimages-2271011731-baglietto-notitle260415_npPd0.jpeg?v=1776345017&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/10/dollar-near-two-month-trough-as-us-inflation-data-awaited.html",
+      "source": "CNBC",
+      "category": "macro",
+      "published": "2026-08-10 09:24"
     },
     {
       "id": "15hoh3i",
@@ -539,17 +550,6 @@
       "source": "Washington Times",
       "category": "macro",
       "published": "2026-08-07 23:09"
-    },
-    {
-      "id": "1f7uaf3",
-      "title": "Slight dip forecast for Brazil’s corn output",
-      "title_vi": "Dự báo sản lượng ngô của Brazil giảm nhẹ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.world-grain.com/articles/23080-slight-dip-forecast-for-brazils-corn-output",
-      "source": "World Grain",
-      "category": "agri",
-      "published": "2026-08-07 21:46"
     }
   ]
 }

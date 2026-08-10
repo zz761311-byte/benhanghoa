@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 13:45",
+  "updated_at": "2026-08-10 14:00",
   "items": [
     {
       "id": "1q4pmi6",
@@ -9,7 +9,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-10_wbncjcwgtm.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tensions-Surge-After-Reports-of-Another-Tanker-Strike.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-08-10 13:30"
     },
     {
@@ -464,6 +464,17 @@
       "published": "2026-08-07 16:12"
     },
     {
+      "id": "l1wxsr",
+      "title": "National average gas price falls to $4.06 as crude oil prices ease, AAA says",
+      "title_vi": "AAA cho biết giá xăng trung bình toàn quốc giảm xuống còn 4,06 USD do giá dầu thô giảm",
+      "summary_vi": "Giá trung bình toàn quốc cho một gallon xăng thông thường đã giảm 3 xu trong tuần qua xuống còn 4,06 USD, một phần do giá dầu thô giảm và thời tiết theo mùa…",
+      "image": "https://wrnjradio.com/wp-content/uploads/Screenshot-2025-04-11-041835.png",
+      "link": "https://wrnjradio.com/national-average-gas-price-falls-to-4-06-as-crude-oil-prices-ease-aaa-says/",
+      "source": "WRNJ Radio",
+      "category": "energy",
+      "published": "2026-08-07 15:46"
+    },
+    {
       "id": "1294zx5",
       "title": "Soybean futures slipped as traders prepped for WASDE report.",
       "title_vi": "Giá đậu nành kỳ hạn giảm do các nhà giao dịch chuẩn bị cho báo cáo WASDE.",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-08-07 10:29"
-    },
-    {
-      "id": "psedux",
-      "title": "Dollar drops, stocks climb as weak US jobs data eases rate fears",
-      "title_vi": "Đồng đô la giảm, chứng khoán tăng khi dữ liệu việc làm yếu của Mỹ làm giảm bớt lo ngại về lãi suất",
-      "summary_vi": "Đồng đô la giảm mạnh hôm thứ Sáu sau khi nền kinh tế Mỹ mất hàng nghìn việc làm trong tháng 7, một đòn giáng kinh tế làm giảm nguy cơ Cục Dự trữ Liên bang tăng lãi suất có thể làm chậm tốc độ tăng trưởng của…",
-      "image": "https://s.france24.com/media/display/5c9cba1e-929e-11f1-a6e5-005056a97e36/w:1280/p:16x9/df82fac038a2669f340210f9d9194003d1500d48.jpg",
-      "link": "https://www.france24.com/en/live-news/20260807-oil-extends-gains-and-stocks-fall-on-fresh-hormuz-worries",
-      "source": "France 24",
-      "category": "macro",
-      "published": "2026-08-07 09:49"
     }
   ]
 }

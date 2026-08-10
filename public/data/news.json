@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-10 13:00",
+  "updated_at": "2026-08-10 13:45",
   "items": [
+    {
+      "id": "1q4pmi6",
+      "title": "Hormuz Tensions Surge After Reports of Another Tanker Strike",
+      "title_vi": "Căng thẳng Hormuz gia tăng sau khi có báo cáo về một cuộc tấn công tàu chở dầu khác",
+      "summary_vi": "Iran được cho là đã tấn công một tàu chở dầu khác ở Vịnh Ba Tư, ngoài khơi bờ biển Oman, khiến nó bốc cháy, Gulf News đưa tin trước đó hôm nay, lưu ý rằng thông tin vẫn chưa được xác minh. Thông tin lần đầu tiên xuất hiện trên mạng xã hội, kèm theo đoạn video cho thấy một con tàu đang bốc cháy. Luận văn",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-10_wbncjcwgtm.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tensions-Surge-After-Reports-of-Another-Tanker-Strike.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-10 13:30"
+    },
     {
       "id": "1t1em68",
       "title": "Oil Prices Rise as Iran Hardens Hormuz Demands",
@@ -44,6 +55,17 @@
       "source": "Global Banking & Finance Review",
       "category": "macro",
       "published": "2026-08-10 08:40"
+    },
+    {
+      "id": "1oc0v3m",
+      "title": "Dollar climbs from two-month trough as oil gains, inflation data eyed",
+      "title_vi": "Đồng đô la tăng từ đáy hai tháng khi giá dầu tăng, dữ liệu lạm phát được chú ý",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/asia-pacific/dollar-near-two-month-trough-us-inflation-data-awaited-2026-08-10/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-08-10 08:31"
     },
     {
       "id": "ojdqsy",
@@ -90,6 +112,17 @@
       "published": "2026-08-09 22:00"
     },
     {
+      "id": "szwuwu",
+      "title": "Gold, silver prices seen rising next week as US inflation data, West Asia tensions guide markets",
+      "title_vi": "Giá vàng, bạc dự kiến ​​sẽ tăng vào tuần tới khi dữ liệu lạm phát của Mỹ, căng thẳng Tây Á định hướng thị trường",
+      "summary_vi": "Các nhà phân tích cho biết giá vàng và bạc dự kiến ​​sẽ tiếp tục ổn định trong tuần tới, với dữ liệu lạm phát từ các nền kinh tế lớn và những diễn biến xung quanh nỗ lực chấm dứt tình trạng thù địch ở Tây Á có thể ảnh hưởng đến thị trường vàng thỏi.",
+      "image": "https://static.toiimg.com/thumb/msid-133067517,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-prices-seen-rising-next-week-as-us-inflation-data-west-asia-tensions-guide-markets/articleshow/133067433.cms",
+      "source": "The Times of India",
+      "category": "metal",
+      "published": "2026-08-09 19:13"
+    },
+    {
       "id": "1gj7o09",
       "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
       "title_vi": "Houthis của Yemen tuyên bố tấn công cơ sở dầu Aramco ở Ả Rập Saudi và các tin tức khác ở Trung Đông",
@@ -132,17 +165,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-09 04:00"
-    },
-    {
-      "id": "ji735o",
-      "title": "Airlines Scramble for Jet Fuel as Hormuz Disruption Drags On",
-      "title_vi": "Các hãng hàng không tranh giành nhiên liệu máy bay phản lực khi sự gián đoạn của Hormuz kéo dài",
-      "summary_vi": "Việc đóng cửa eo biển Hormuz kéo dài nhiều tháng đã dẫn đến tình trạng thiếu nhiên liệu nghiêm trọng trên toàn cầu, khi các công ty phải vật lộn để tiếp tục hoạt động. Các hãng hàng không đã bị ảnh hưởng nặng nề khi họ phải vật lộn để có đủ nhiên liệu máy bay để duy trì lịch trình bay thường xuyên. Cuộc chiến Mỹ-Israel",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-06_68csbi0rtm.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Airlines-Scramble-for-Jet-Fuel-as-Hormuz-Disruption-Drags-On.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-09 02:00"
     },
     {
       "id": "1lrkwix",
@@ -528,28 +550,6 @@
       "source": "France 24",
       "category": "macro",
       "published": "2026-08-07 09:49"
-    },
-    {
-      "id": "10oudpi",
-      "title": "Gold and Silver Price Forecast: US Jobs Data Puts $4,300 and $64 in Focus",
-      "title_vi": "Dự báo giá vàng và bạc: Dữ liệu việc làm của Hoa Kỳ tập trung vào mức 4.300 USD và 64 USD",
-      "summary_vi": "Vàng và bạc kiểm tra mức kháng cự quan trọng khi các nhà đầu tư chờ đợi dữ liệu việc làm của Hoa Kỳ, với 4.300 USD vàng và 64 USD bạc có khả năng quyết định động thái tiếp theo.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/gold-and-silver-precious-metals-02.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-us-jobs-data-puts-4300-and-64-in-focus-1615355",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-08-07 09:18"
-    },
-    {
-      "id": "164ppqd",
-      "title": "I’m rejoining Silver And Black Pride",
-      "title_vi": "Tôi đang tham gia lại Silver And Black Pride",
-      "summary_vi": "Phil Robinson III trở lại lần thứ 2 với silverandblackpride.com",
-      "image": "https://platform.silverandblackpride.com/wp-content/uploads/sites/143/2026/08/gettyimages-2288914578.jpg?quality=90&strip=all&crop=0%2C17.0783457525%2C100%2C65.843308495&w=1200",
-      "link": "https://www.silverandblackpride.com/las-vegas-raiders-analysis/136085/im-rejoining-silver-and-black-pride",
-      "source": "Silver And Black Pride",
-      "category": "metal",
-      "published": "2026-08-07 06:09"
     }
   ]
 }

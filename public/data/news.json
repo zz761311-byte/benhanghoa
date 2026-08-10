@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 15:17",
+  "updated_at": "2026-08-10 16:00",
   "items": [
     {
       "id": "8f48tw",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-08-10 13:30"
+    },
+    {
+      "id": "1igy54v",
+      "title": "Cocoa farmers in southeast Cameroon are adapting to EU regulations, but they still want a fair price",
+      "title_vi": "Nông dân trồng ca cao ở đông nam Cameroon đang thích nghi với các quy định của EU nhưng họ vẫn muốn có mức giá hợp lý",
+      "summary_vi": "“Chúng tôi sản xuất ca cao được chứng nhận theo tiêu chuẩn, có nghĩa là chúng tôi đã học cách giữ môi trường, con người và hạt ca cao trong lành – hài hòa giữa thiên nhiên, con người và ca cao.”",
+      "image": "https://globalvoices.org/wp-content/uploads/2026/07/Cocoa-farm-in-Ekombitie-800x450.webp",
+      "link": "https://globalvoices.org/2026/08/10/cocoa-farmers-in-southeast-cameroon-are-adapting-to-eu-regulations-but-they-still-want-a-fair-price/",
+      "source": "Global Voices",
+      "category": "soft",
+      "published": "2026-08-10 13:26"
     },
     {
       "id": "1t1em68",
@@ -187,6 +198,17 @@
       "source": "Medium",
       "category": "metal",
       "published": "2026-08-08 17:31"
+    },
+    {
+      "id": "3uad0a",
+      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
+      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
+      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
+      "image": "https://www.cmegroup.com/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium",
+      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-08-08 10:59"
     },
     {
       "id": "1wj7l6a",
@@ -528,28 +550,6 @@
       "source": "Morningstar",
       "category": "macro",
       "published": "2026-08-07 13:09"
-    },
-    {
-      "id": "15ggfgi",
-      "title": "El Niño threatens to disrupt the world’s most-traded commodities",
-      "title_vi": "El Niño đe dọa làm gián đoạn những mặt hàng được giao dịch nhiều nhất trên thế giới",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.ft.com/content/7c35f5dd-7c40-4748-a103-f47ab44c858d?syn-25a6b1a6",
-      "source": "Financial Times",
-      "category": "soft",
-      "published": "2026-08-07 11:01"
-    },
-    {
-      "id": "otxqcq",
-      "title": "US sugar outlook leaning into bullish territory",
-      "title_vi": "Triển vọng đường của Mỹ nghiêng về vùng tăng giá",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bakingbusiness.com/articles/66701-us-sugar-outlook-leaning-into-bullish-territory",
-      "source": "Baking Business",
-      "category": "soft",
-      "published": "2026-08-07 11:00"
     }
   ]
 }

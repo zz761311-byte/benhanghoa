@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-10 09:00",
+  "updated_at": "2026-08-10 10:00",
   "items": [
+    {
+      "id": "15hoh3i",
+      "title": "US Dollar Near 2-Month Low as Markets Await Key Inflation Data",
+      "title_vi": "Đô la Mỹ gần mức thấp nhất trong 2 tháng khi thị trường chờ đợi dữ liệu lạm phát quan trọng",
+      "summary_vi": "Đồng đô la Mỹ dao động gần mức thấp nhất trong hai tháng khi các nhà đầu tư chờ đợi dữ liệu lạm phát về tín hiệu lãi suất của Fed. Nhận thông tin chi tiết về tiền tệ và thị trường mới nhất.",
+      "image": "https://www.globalbankingandfinance.com/i/cloud-2a2499ad-8b95-492a-9b59-9e3e022528c4/width=1200,height=630,quality=80,format=auto,fit=cover/",
+      "link": "https://www.globalbankingandfinance.com/dollar-near-two-month-trough-us-inflation-data-awaited/",
+      "source": "Global Banking & Finance Review",
+      "category": "macro",
+      "published": "2026-08-10 08:40"
+    },
     {
       "id": "ojdqsy",
       "title": "Why Trump’s Waiver of the Jones Act Is Unlikely To Lower Gas Prices",
@@ -398,6 +409,17 @@
       "published": "2026-08-07 16:12"
     },
     {
+      "id": "1294zx5",
+      "title": "Soybean futures slipped as traders prepped for WASDE report.",
+      "title_vi": "Giá đậu nành kỳ hạn giảm do các nhà giao dịch chuẩn bị cho báo cáo WASDE.",
+      "summary_vi": "Hợp đồng tương lai ngũ cốc chứng kiến ​​hành động giá đa dạng để kết thúc tuần, với hợp đồng lúa mì kỳ hạn tăng cao trong khi hợp đồng tương lai ngô kết thúc không đổi và hợp đồng tương lai đậu nành giảm thấp hơn. Những người tham gia thị trường cân nhắc các tín hiệu nhu cầu gần đây, bao gồm doanh số bán nhanh 238.000 tấn đậu nành của USDA sang Trung Quốc và 286.000 tấn ngô cho Mỹ",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/soybean-futures-slipped-as-traders-prepped-for-wasde-report-8-7.jpg",
+      "link": "https://www.cmegroup.com/content/cmegroup/en/videos/2026/08/07/soybean-futures-slipped-as-traders-prepped-for-wasde-report-8-7.html",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-08-07 14:00"
+    },
+    {
       "id": "bbg4mv",
       "title": "Farm Futures afternoon grain market commentary",
       "title_vi": "Bình luận thị trường ngũ cốc buổi chiều của Farm Futures",
@@ -528,28 +550,6 @@
       "source": "ocj.com",
       "category": "agri",
       "published": "2026-08-07 02:00"
-    },
-    {
-      "id": "11nki50",
-      "title": "Palladium Price Analysis: XPD Tests Recovery Zone as Momentum Indicators Remain Weak",
-      "title_vi": "Phân tích giá Palladium: XPD kiểm tra vùng phục hồi khi các chỉ báo động lượng vẫn còn yếu",
-      "summary_vi": "Phục hồi thử nghiệm giá Palladium (XPD); Động lực yếu. Palladium (XPD) đang tìm cách tiếp tục quỹ đạo đi lên sau đợt giảm dài từ mức đỉnh năm 2026, với mức giá giao dịch gần 1.381 USD/ounce.",
-      "image": "https://bravenewcoin.com/wp-content/uploads/2026/08/Bnc-Aug-6-387.jpg",
-      "link": "https://bravenewcoin.com/insights/palladium-price-analysis-xpd-tests-recovery-zone-as-momentum-indicators-remain-weak",
-      "source": "Brave New Coin",
-      "category": "metal",
-      "published": "2026-08-07 01:48"
-    },
-    {
-      "id": "1fep00",
-      "title": "The Outlook for Brazil’s Coffee Harvest to Accelerate Weighs on Prices",
-      "title_vi": "Triển vọng tăng tốc thu hoạch cà phê của Brazil ảnh hưởng đến giá cả",
-      "summary_vi": "Cà phê arabica tháng 9 (KCU26) đóng cửa giảm -5,25 (-1,61%) vào thứ Năm và cà phê Robusta ICE tháng 9 (RMU26) đóng cửa giảm -93 (-2,39%). Giá cà phê giảm vào thứ Năm do dự báo thời tiết khô hạn ở các vùng trồng cà phê của Brazil trong...",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Soft%20Commodities/Coffee/Cup%20of%20roasted%20coffee%20beans%20on%20pile%20by%20Negative-Space%20via%20Pixabay.jpg",
-      "link": "https://www.barchart.com/story/news/3699917/the-outlook-for-brazils-coffee-harvest-to-accelerate-weighs-on-prices",
-      "source": "Barchart.com",
-      "category": "soft",
-      "published": "2026-08-07 01:30"
     }
   ]
 }

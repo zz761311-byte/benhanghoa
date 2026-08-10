@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 17:51",
+  "updated_at": "2026-08-10 18:00",
   "items": [
     {
       "id": "iarwrv",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-10 16:00"
+    },
+    {
+      "id": "1nc6b8f",
+      "title": "July 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
+      "title_vi": "Tháng 7 năm 2026 — Phân tích hàng tháng về hoạt động xuất khẩu nhiên liệu hóa thạch của Nga và các biện pháp trừng phạt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energyandcleanair.org/july-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
+      "source": "Centre for Research on Energy and Clean Air",
+      "category": "energy",
+      "published": "2026-08-10 15:00"
     },
     {
       "id": "8f48tw",
@@ -266,6 +277,17 @@
       "published": "2026-08-08 05:37"
     },
     {
+      "id": "gt3z9l",
+      "title": "Dollar drops as weak US jobs data pushes out Fed hike expectations",
+      "title_vi": "Đồng đô la giảm khi dữ liệu việc làm yếu kém của Mỹ đẩy kỳ vọng tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/asia-pacific/dollar-drifts-higher-traders-eye-iran-talks-ahead-us-jobs-data-2026-08-07/",
+      "source": "Reuters",
+      "category": "macro",
+      "published": "2026-08-08 05:02"
+    },
+    {
       "id": "f3hat4",
       "title": "Starbucks reports strong quarterly sales and raises annual outlook",
       "title_vi": "Starbucks báo cáo doanh thu hàng quý mạnh mẽ và nâng cao triển vọng hàng năm",
@@ -286,17 +308,6 @@
       "source": "Hart Energy",
       "category": "energy",
       "published": "2026-08-08 03:26"
-    },
-    {
-      "id": "1mx67se",
-      "title": "Dollar drops, stocks climb as weak US jobs data eases rate fears",
-      "title_vi": "Đồng đô la giảm, chứng khoán tăng khi dữ liệu việc làm yếu của Mỹ làm giảm bớt lo ngại về lãi suất",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/energy/articles/oil-extends-gains-stocks-fall-024841858.html",
-      "source": "finance.yahoo.com",
-      "category": "macro",
-      "published": "2026-08-08 03:25"
     },
     {
       "id": "16hhdtb",
@@ -539,17 +550,6 @@
       "source": "WRNJ Radio",
       "category": "energy",
       "published": "2026-08-07 15:46"
-    },
-    {
-      "id": "my7osy",
-      "title": "Farm Futures morning grain market analysis",
-      "title_vi": "Phân tích thị trường ngũ cốc buổi sáng của Farm Futures",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-08-07 14:00"
     }
   ]
 }

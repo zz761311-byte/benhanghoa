@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-11 11:08",
+  "updated_at": "2026-08-11 12:01",
   "items": [
+    {
+      "id": "17shmam",
+      "title": "Oil Prices Climb as U.S.-Iran Peace Hopes Fade",
+      "title_vi": "Giá dầu tăng khi hy vọng hòa bình Mỹ-Iran tan biến",
+      "summary_vi": "Giá dầu thô hôm nay tăng cao hơn khi cơ hội đạt được hòa bình lâu dài giữa Hoa Kỳ và Iran giảm dần sau khi Iran đưa ra sáu điều kiện vào đầu tuần này và phản ứng không ngạc nhiên của Tổng thống Trump đối với chúng. Tại thời điểm viết bài, dầu thô Brent giao dịch ở mức 87,7 USD",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-10_em5krptaq6.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-US-Iran-Peace-Hopes-Fade.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-11 11:39"
+    },
     {
       "id": "civo9o",
       "title": "[MARKET ANALYSIS] Commodities extend on recent gains with oil underpinned by geopolitical uncertainty following Iran and Trump tit-for-tat raparation demands",
@@ -90,6 +101,17 @@
       "published": "2026-08-11 02:00"
     },
     {
+      "id": "8d6p2l",
+      "title": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows",
+      "title_vi": "Khảo sát của Reuters cho thấy sản lượng dầu của OPEC tăng thêm trong tháng 7 do các nhà sản xuất vùng Vịnh dẫn đầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/opec-oil-output-rises-further-july-led-by-gulf-producers-reuters-survey-shows-2026-08-10/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-08-11 01:59"
+    },
+    {
       "id": "12yy85u",
       "title": "The Outlook for Smaller West African Cocoa Production Lifts Prices",
       "title_vi": "Triển vọng sản xuất ca cao Tây Phi nhỏ hơn sẽ nâng giá",
@@ -132,17 +154,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-08-11 00:37"
-    },
-    {
-      "id": "7kj2o0",
-      "title": "BofA: Hormuz Needs 10 Times More Ships to Stabilize Oil Markets",
-      "title_vi": "BofA: Hormuz cần số tàu gấp 10 lần để ổn định thị trường dầu mỏ",
-      "summary_vi": "Ngân hàng Mỹ (BoFA) đang cảnh báo rằng giá dầu có thể tiếp tục tăng vào mùa đông nếu Mỹ và Iran không đạt được thỏa thuận mở lại eo biển Hormuz, với tình trạng thiếu hụt trầm trọng trên thị trường dầu diesel, xăng và khí đốt tự nhiên toàn cầu. “Chúng tôi đã mong đợi",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-10_revk1zmwnt.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/BofA-Hormuz-Needs-10-Times-More-Ships-to-Stabilize-Oil-Markets.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-11 00:30"
     },
     {
       "id": "14ohn46",
@@ -198,6 +209,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-10 21:57"
+    },
+    {
+      "id": "1y4vwh3",
+      "title": "First Thing Today | Wheat leads grain market gains overnight",
+      "title_vi": "Điều đầu tiên hôm nay | Lúa mì dẫn đầu thị trường ngũ cốc tăng chỉ sau một đêm",
+      "summary_vi": "Các nhà giao dịch ngũ cốc định vị trước báo cáo WASDE hôm thứ Tư.",
+      "image": "https://assets.farmjournal.com/dims4/default/5ab490b/2147483647/strip/true/crop/2500x1406+0+189/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2F85%2F60%2F624ec10049ea9aeddb947b528f60%2Fprofarmer-first-thing-today.jpg",
+      "link": "https://www.profarmer.com/news/first-thing-today/first-thing-today-wheat-leads-grain-market-gains-overnight",
+      "source": "Pro Farmer",
+      "category": "agri",
+      "published": "2026-08-10 19:08"
     },
     {
       "id": "iarwrv",
@@ -528,28 +550,6 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-08-08 02:19"
-    },
-    {
-      "id": "1nt2moy",
-      "title": "Silver Price Forecast: XAG/USD clears 50-day SMA, eyes $65",
-      "title_vi": "Dự báo giá bạc: XAG/USD vượt qua SMA 50 ngày, hướng tới 65 USD",
-      "summary_vi": "Giá bạc tăng gần 3% khi vượt qua Đường trung bình động đơn giản (SMA) 50 ngày ở mức 62,13 USD và lấy lại con số 63,00 USD khi nó cố gắng vượt qua ngưỡng kháng cự quan trọng được thấy ở mức 63,28 USD, mức cao nhất ngày 6 tháng 7.",
-      "image": "https://editorial.fxsstatic.com/images/i/Silver4_Medium.png",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-clears-50-day-sma-eyes-65-202608071904",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-08-08 02:04"
-    },
-    {
-      "id": "19z6o95",
-      "title": "Brewing Resilience: Coffee shops navigate ongoing high costs of business",
-      "title_vi": "Khả năng phục hồi sản xuất bia: Các quán cà phê điều chỉnh chi phí kinh doanh cao liên tục",
-      "summary_vi": "",
-      "image": "",
-      "link": "http://sbj.net/stories/brewing-resilience,105276",
-      "source": "Springfield Business Journal",
-      "category": "soft",
-      "published": "2026-08-08 01:57"
     }
   ]
 }

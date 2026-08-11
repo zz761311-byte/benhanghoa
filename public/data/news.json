@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-12 04:31",
+  "updated_at": "2026-08-12 05:01",
   "items": [
+    {
+      "id": "182kci5",
+      "title": "Sodium-Ion Batteries Gain Ground as Lithium Alternative",
+      "title_vi": "Pin natri-Ion đạt được vị thế thay thế lithium",
+      "summary_vi": "Pin đã là chủ đề nóng trong nhiều năm trong bối cảnh vội vã chuyển đổi năng lượng của nhiều chính phủ, nhưng giờ đây, nó càng trở nên nóng hơn khi việc tìm kiếm các giải pháp thay thế cho năng lượng truyền thống trở nên điên cuồng. Trong khi lithium tiếp tục thống trị ở cả xe điện và bộ lưu trữ, các đối thủ đang nổi lên",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-11_lomcqdih0g.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Sodium-Ion-Batteries-Gain-Ground-as-Lithium-Alternative.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-12 05:00"
+    },
     {
       "id": "ihaibu",
       "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -121,17 +132,6 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-08-12 00:00"
-    },
-    {
-      "id": "csb0sr",
-      "title": "Russian Crude Exports Drop to Lowest Since May",
-      "title_vi": "Xuất khẩu dầu thô của Nga giảm xuống mức thấp nhất kể từ tháng 5",
-      "summary_vi": "Xuất khẩu dầu thô bằng đường biển của Nga giảm xuống mức thấp nhất kể từ tháng 5 do hoạt động lọc dầu phục hồi kéo thùng trở lại chế biến trong nước và các cuộc tấn công làm gián đoạn việc bốc hàng tại các cảng quan trọng. Nga đã vận chuyển 3,71 triệu thùng mỗi ngày trong 4 tuần tính đến ngày 9 tháng 8, theo v.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-11_eattmnx8yc.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Crude-Exports-Drop-to-Lowest-Since-May.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-11 23:30"
     },
     {
       "id": "u94kl2",
@@ -297,6 +297,17 @@
       "source": "Newsquawk",
       "category": "energy",
       "published": "2026-08-11 09:01"
+    },
+    {
+      "id": "h8y6s3",
+      "title": "Dollar steady as traders await key US inflation data",
+      "title_vi": "Đồng đô la ổn định khi các nhà giao dịch chờ đợi dữ liệu lạm phát quan trọng của Mỹ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/asia-pacific/yen-steadies-intervention-boost-fades-rba-focus-2026-08-11/",
+      "source": "reuters.com",
+      "category": "macro",
+      "published": "2026-08-11 08:34"
     },
     {
       "id": "1t8i8ro",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-08-10 17:29"
-    },
-    {
-      "id": "1mg4gg8",
-      "title": "Why Does the World Put Up With the Dollar?",
-      "title_vi": "Tại sao thế giới lại ủng hộ đồng đô la?",
-      "summary_vi": "Nền kinh tế toàn cầu phụ thuộc vào đồng đô la Mỹ, ngay cả khi Mỹ hành động thất thường.",
-      "image": "https://images.newrepublic.com/3ec316a49132ca83d292b02c6e07dd7bbfec9093.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "link": "https://newrepublic.com/article/213742/us-dollar-erratic-global-economy",
-      "source": "The New Republic",
-      "category": "macro",
-      "published": "2026-08-10 17:00"
     }
   ]
 }

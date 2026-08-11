@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-11 23:40",
+  "updated_at": "2026-08-12 00:01",
   "items": [
+    {
+      "id": "l7pjkz",
+      "title": "Gold Nears Two-Month High Ahead of Wednesday&#039;s CPI Report",
+      "title_vi": "Vàng gần đạt mức cao nhất trong hai tháng trước báo cáo CPI hôm thứ Tư",
+      "summary_vi": "Vàng đã tăng lên 4.450 USD/ounce vào thứ Ba, mức tốt nhất trong khoảng hai tháng, do thỏa thuận Mỹ-Iran nhằm mở lại eo biển Hormuz bị đình trệ khiến giá dầu tăng cao và các nhà giao dịch chuẩn bị cho báo cáo lạm phát vào thứ Tư có thể quyết định liệu việc tăng lãi suất của Fed vào tháng 9 có thực sự không diễn ra hay không.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-11_uecrwtidip.jpg",
+      "link": "https://oilprice.com/Metals/Gold/Gold-Nears-Two-Month-High-Ahead-of-Wednesdays-CPI-Report.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-08-12 00:00"
+    },
     {
       "id": "csb0sr",
       "title": "Russian Crude Exports Drop to Lowest Since May",
@@ -156,17 +167,6 @@
       "published": "2026-08-11 19:34"
     },
     {
-      "id": "qdm5d6",
-      "title": "OPEC Output Climbs Again, But Still Trails Quota Targets",
-      "title_vi": "Sản lượng của OPEC tăng trở lại nhưng vẫn kém mục tiêu hạn ngạch",
-      "summary_vi": "Tổng sản lượng dầu của OPEC đã tăng 1,17 triệu thùng mỗi ngày trong tháng 7 so với tháng 6 do nhiều nhà sản xuất vùng Vịnh khôi phục một số sản lượng đã bị đóng cửa trong ba tháng do eo biển Hormuz đóng cửa. Sản lượng tại OPEC gồm 11 thành viên đã tăng lên 19,85 triệu thùng/ngày trong tháng 7, kéo dài thời hạn tháng 7.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-11_khymg50ywl.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Output-Climbs-Again-But-Still-Trails-Quota-Targets.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-11 19:30"
-    },
-    {
       "id": "hmrlne",
       "title": "Why the Real Oil Squeeze Is Happening in Refineries",
       "title_vi": "Tại sao quá trình ép dầu thực sự lại xảy ra trong các nhà máy lọc dầu",
@@ -286,6 +286,17 @@
       "source": "Reuters",
       "category": "macro",
       "published": "2026-08-11 01:51"
+    },
+    {
+      "id": "o0jrqp",
+      "title": "Electrostates vs. petrostates: The US, China, and the Hormuz energy shock",
+      "title_vi": "Các bang điện và các bang dầu lửa: Mỹ, Trung Quốc và cú sốc năng lượng Hormuz",
+      "summary_vi": "Mỹ đã tăng cường sản xuất dầu khí, nhưng Trung Quốc đã giảm mạnh nhập khẩu dầu trong khi tăng cường xuất khẩu công nghệ sạch.",
+      "image": "https://www.brookings.edu/wp-content/uploads/2026/08/GettyImages-2271675897.jpg?quality=50&w=500",
+      "link": "https://www.brookings.edu/articles/electrostates-vs-petrostates-the-us-china-and-the-hormuz-energy-shock/",
+      "source": "Brookings",
+      "category": "energy",
+      "published": "2026-08-11 01:41"
     },
     {
       "id": "12yy85u",
@@ -506,17 +517,6 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-08-10 09:37"
-    },
-    {
-      "id": "1wu96pj",
-      "title": "Gold climbs to nine-week high on buying momentum as inflation data looms",
-      "title_vi": "Vàng tăng lên mức cao nhất trong 9 tuần nhờ đà mua khi dữ liệu lạm phát xuất hiện",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-drifts-lower-seven-week-peak-us-inflation-data-looms-2026-08-10/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-08-10 09:22"
     },
     {
       "id": "15hoh3i",

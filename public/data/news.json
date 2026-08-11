@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-11 21:46",
+  "updated_at": "2026-08-11 22:01",
   "items": [
+    {
+      "id": "v0ft7e",
+      "title": "Brent Could Hit $100 as Hormuz Crisis Flares Again",
+      "title_vi": "Brent có thể đạt 100 USD khi khủng hoảng Hormuz bùng phát trở lại",
+      "summary_vi": "Căng thẳng Hormuz lại bùng lên khi xuất khẩu của Iran sụt giảm, đẩy giá dầu Brent lên 87 USD và làm tăng nguy cơ một đợt tăng giá khác lên 100 USD. Sự sụt giảm dầu thô của Trung Quốc khiến nhu cầu về thùng dầu của Iran tăng trở lại - Tồn kho dầu thô giảm ở Trung Quốc có thể thúc đẩy làn sóng mua vào trong thời gian sắp tới.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-11_d4bvfe6cnh.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Brent-Could-Hit-100-as-Hormuz-Crisis-Flares-Again.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-11 21:52"
+    },
     {
       "id": "1pr8b3a",
       "title": "Ukraine Drone Attack Hits Major Oil Refinery Deep Inside Russia",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-11 21:30"
+    },
+    {
+      "id": "19dsavq",
+      "title": "August USDA Crop Production Report Preview: Soybean & Milo Market Outlook",
+      "title_vi": "Xem trước báo cáo sản xuất cây trồng USDA tháng 8: Triển vọng thị trường đậu nành và Milo",
+      "summary_vi": "Báo cáo Sản xuất cây trồng tháng 8 được công bố vào ngày mai cung cấp thông tin thích hợp nhất tác động đến động lực thị trường trong thời gian tới. Kỳ vọng của ngành đặt mức sản xuất các loại cây trồng chính vụ xuân gần mức USDA hiện tại. Sự biến động do các sự kiện địa chính trị vẫn là một vấn đề. Một bất ngờ lớn trong Crop Pr",
+      "image": "",
+      "link": "https://www.oklahomafarmreport.com/2026/08/11/august-usda-crop-production-report-preview-soybean-milo-market-outlook/",
+      "source": "Oklahoma Farm Report",
+      "category": "agri",
+      "published": "2026-08-11 21:20"
     },
     {
       "id": "1e26sjv",
@@ -112,17 +134,6 @@
       "published": "2026-08-11 16:30"
     },
     {
-      "id": "17ijqe7",
-      "title": "Global Gas Turbine Orders Hit Record High as Power Demand Surges",
-      "title_vi": "Đơn đặt hàng tuabin khí toàn cầu đạt mức cao kỷ lục khi nhu cầu điện tăng cao",
-      "summary_vi": "Theo JP Morgan, đơn đặt hàng tuabin khí toàn cầu đã đạt mức cao kỷ lục do nhu cầu sản xuất điện tăng cao. Ngân hàng cho biết các đơn đặt hàng tuabin khí mới trong quý 2 đạt 38 GW, cao hơn 29% so với các đơn đặt hàng trong quý đầu tiên của năm, theo trích dẫn của Bloombe.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-11_5ybvmbodqk.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-Gas-Turbine-Orders-Hit-Record-High-as-Power-Demand-Surges.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-11 14:45"
-    },
-    {
       "id": "3flrix",
       "title": "Copper in Power: How AI-Driven Data Centers Affect Copper Demand",
       "title_vi": "Đồng có sức mạnh: Các trung tâm dữ liệu do AI điều khiển ảnh hưởng như thế nào đến nhu cầu về đồng",
@@ -176,6 +187,17 @@
       "source": "Eurasia Review",
       "category": "energy",
       "published": "2026-08-11 07:40"
+    },
+    {
+      "id": "306s7d",
+      "title": "Silver Price Canada Today | Live Silver Price in CAD",
+      "title_vi": "Giá Bạc Canada Hôm Nay | Giá bạc trực tiếp bằng CAD",
+      "summary_vi": "Giá bạc trực tiếp bằng CAD. Theo dõi giá bạc giao ngay hôm nay bằng đô la Canada mỗi ounce, gam và kilo bằng biểu đồ bạc Canada theo thời gian thực của Kitco.",
+      "image": "",
+      "link": "https://www.kitco.com/price/silver-price-cad",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-08-11 07:00"
     },
     {
       "id": "mc7f88",
@@ -528,28 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-08-08 14:31"
-    },
-    {
-      "id": "3uad0a",
-      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
-      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
-      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
-      "image": "https://www.cmegroup.com/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium",
-      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-08-08 10:59"
-    },
-    {
-      "id": "1wj7l6a",
-      "title": "Colombia’s Coffee Growers Federation , Government Renew Administration of Coffee Price Stabilization Fund",
-      "title_vi": "Liên đoàn người trồng cà phê Colombia, Chính phủ đổi mới Cơ quan quản lý Quỹ bình ổn giá cà phê",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-gb/insights/colombia-s-coffee-growers-federation-government-renew-administration-of-coffee-price-stabilization-fund/",
-      "source": "StoneX",
-      "category": "soft",
-      "published": "2026-08-08 10:41"
     }
   ]
 }

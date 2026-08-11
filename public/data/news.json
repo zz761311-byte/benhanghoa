@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-11 13:01",
+  "updated_at": "2026-08-11 13:39",
   "items": [
+    {
+      "id": "p9kp2u",
+      "title": "Libya Weighs Force Majeure After Drone Attacks on Zawiya Oil Hub",
+      "title_vi": "Libya cân nhắc tình trạng bất khả kháng sau cuộc tấn công bằng máy bay không người lái vào trung tâm dầu mỏ Zawiya",
+      "summary_vi": "Tập đoàn Dầu mỏ Quốc gia Libya có thể tuyên bố tình trạng bất khả kháng đối với hàng xuất khẩu từ kho cảng dầu Zawya do các cuộc tấn công bằng máy bay không người lái vào cơ sở này. Nhà ga Zawya có công suất hàng ngày là 120.000 thùng, được lấy từ mỏ dầu lớn nhất đất nước, Sharara, có thể sản xuất tới",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-11_nztpxgk3wq.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Weighs-Force-Majeure-After-Drone-Attacks-on-Zawiya-Oil-Hub.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-11 13:30"
+    },
     {
       "id": "17shmam",
       "title": "Oil Prices Climb as U.S.-Iran Peace Hopes Fade",
@@ -79,6 +90,17 @@
       "published": "2026-08-11 04:00"
     },
     {
+      "id": "mc7f88",
+      "title": "Price correction ‘improved the long-term risk-reward profile’ for both gold and silver – Sprott’s Smirnova",
+      "title_vi": "Điều chỉnh giá 'cải thiện hồ sơ thưởng rủi ro dài hạn' cho cả vàng và bạc - Smirnova của Sprott",
+      "summary_vi": "(Kitco News) - Sự sụt giảm giá kéo dài hàng tháng của vàng không phải là một sự đảo ngược xu hướng mà chỉ là một sự điều chỉnh, với nợ gia tăng, thâm hụt cao, hoạt động mua của ngân hàng trung ương và sự phân mảnh địa chính trị củng cố vai trò chiến lược của vàng, trong khi triển vọng của bạc vẫn hấp dẫn do nguồn cung hạn chế và nhu cầu ngày càng tăng, accor",
+      "image": "https://image-api.prod.kitco.com/image/62fa0f0c-ded6-4120-a65d-26dddc9eec6b.png?top=0.15981657608696&left=0&width=1672&height=940.68036684783&scale_width=1920&token=53a16fafddbd55a83b5380b7372a5081e28c920fa752cac39f5284693d467da7",
+      "link": "https://www.kitco.com/news/article/2026-08-10/price-correction-improved-long-term-risk-reward-profile-both-gold-and",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-08-11 03:53"
+    },
+    {
       "id": "1x83iqn",
       "title": "Greenland Warns Trump-Linked Firm over Unauthorized Drilling Plan",
       "title_vi": "Greenland cảnh báo công ty liên kết với Trump về kế hoạch khoan trái phép",
@@ -131,17 +153,6 @@
       "link": "https://naturalgasintel.com/news/global-natural-gas-prices-rebound-as-iran-hardens-terms-for-hormuz-reopening/",
       "source": "Natural Gas Intelligence",
       "category": "energy",
-      "published": "2026-08-11 01:00"
-    },
-    {
-      "id": "1atohjv",
-      "title": "The Hormuz Crisis Has Forever Changed the Economics of Energy Security",
-      "title_vi": "Cuộc khủng hoảng Hormuz đã thay đổi vĩnh viễn nền kinh tế an ninh năng lượng",
-      "summary_vi": "Các hệ thống phức tạp chỉ bộc lộ những đặc điểm thực sự của chúng khi bị căng thẳng. Sự xáo trộn làm bộc lộ những giả định mà hoạt động thường ngày che giấu và trở thành chất xúc tác cho sự thích nghi. Vốn đánh giá lại rủi ro, chính phủ xem xét lại chính sách và thị trường thiết lập trạng thái cân bằng mới. kết quả",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-09_lesd3cskv0.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Hormuz-Crisis-Has-Forever-Changed-the-Economics-of-Energy-Security.html",
-      "source": "OilPrice",
-      "category": "macro",
       "published": "2026-08-11 01:00"
     },
     {
@@ -539,17 +550,6 @@
       "source": "Department of Energy (.gov)",
       "category": "energy",
       "published": "2026-08-08 02:32"
-    },
-    {
-      "id": "1s4mns3",
-      "title": "Crops Analysis | Wheat bounces on Black Sea concerns",
-      "title_vi": "Phân tích cây trồng | Lúa mì tăng do lo ngại Biển Đen",
-      "summary_vi": "Ngày 7 tháng 8 năm 2026",
-      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
-      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-wheat-bounces-black-sea-concerns",
-      "source": "Pro Farmer",
-      "category": "agri",
-      "published": "2026-08-08 02:19"
     }
   ]
 }

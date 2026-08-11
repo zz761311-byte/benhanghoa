@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-11 09:01",
+  "updated_at": "2026-08-11 09:55",
   "items": [
+    {
+      "id": "civo9o",
+      "title": "[MARKET ANALYSIS] Commodities extend on recent gains with oil underpinned by geopolitical uncertainty following Iran and Trump tit-for-tat raparation demands",
+      "title_vi": "[PHÂN TÍCH THỊ TRƯỜNG] Hàng hóa mở rộng nhờ mức tăng gần đây với giá dầu được củng cố bởi sự bất ổn địa chính trị sau các yêu cầu ăn miếng trả miếng của Iran và Trump",
+      "summary_vi": "WTI/Brent: WTI tháng 9'26 +0,4% / Brent tháng 9'26 +0,3% Dầu kỳ hạn vẫn tăng sau khi tăng hơn 5% ngày hôm qua do không có thỏa thuận ở eo biển Hormuz…",
+      "image": "https://www.newsquawk.com/assets/placeholder_images_for_news_by_category/Energy/3.png",
+      "link": "https://www.newsquawk.com/headlines/market-analysis-commodities-extend-on-recent-gains-with-oil-underpinned-by-geopolitical-uncertainty-following-iran-and-trump-tit-for-tat-raparation-demands",
+      "source": "Newsquawk",
+      "category": "energy",
+      "published": "2026-08-11 09:01"
+    },
+    {
+      "id": "1t8i8ro",
+      "title": "Security Risks In The Strait Of Hormuz And The Fallout For Oil, Gas And Global Commodities - Analysis",
+      "title_vi": "Rủi ro an ninh ở eo biển Hormuz và hậu quả đối với dầu, khí đốt và hàng hóa toàn cầu - Phân tích",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.eurasiareview.com/11082026-security-risks-in-the-strait-of-hormuz-and-the-fallout-for-oil-gas-and-global-commodities-analysis/",
+      "source": "Eurasia Review",
+      "category": "energy",
+      "published": "2026-08-11 07:40"
+    },
     {
       "id": "eyy45a",
       "title": "The Hormuz Shock Is Far From Over",
@@ -528,28 +550,6 @@
       "source": "KITCO",
       "category": "metal",
       "published": "2026-08-08 01:20"
-    },
-    {
-      "id": "1olws03",
-      "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
-      "title_vi": "Citi nâng triển vọng giá dầu Brent nhưng vẫn thấy dầu giảm vào năm 2027",
-      "summary_vi": "Citi đã nâng dự báo giá dầu thô Brent quý 3 lên 80 USD/thùng từ mức 75 USD do chiến tranh Mỹ-Iran kéo dài và nhiều nỗ lực đạt được thỏa thuận không thể khôi phục dòng dầu bình thường qua eo biển Hormuz.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-07_lcibgkul0d.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-08-08 01:05"
-    },
-    {
-      "id": "ke6r6x",
-      "title": "US Dollar Weakens as Soft Payrolls Complicate Fed Rate Path, ING Says",
-      "title_vi": "Đồng đô la Mỹ suy yếu khi bảng lương mềm làm phức tạp đường dẫn lãi suất của Fed, ING cho biết",
-      "summary_vi": "BitcoinThế giới Đô la Mỹ suy yếu khi bảng lương mềm làm phức tạp đường dẫn lãi suất của Fed, ING cho biết Đồng đô la Mỹ phải đối mặt với áp lực bán mới do số việc làm yếu hơn dự kiến",
-      "image": "https://cryptorank.io/static/pages-preview/main-page.png",
-      "link": "https://cryptorank.io/news/feed/1b06c-us-dollar-weakens-soft-payrolls-complicate-fed-rate-path",
-      "source": "CryptoRank",
-      "category": "macro",
-      "published": "2026-08-08 00:58"
     }
   ]
 }

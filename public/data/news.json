@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11 16:01",
+  "updated_at": "2026-08-11 16:17",
   "items": [
     {
       "id": "17ijqe7",
@@ -143,6 +143,17 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-08-11 01:59"
+    },
+    {
+      "id": "1oc0v3m",
+      "title": "Dollar gains, yen weakens as markets eye US CPI",
+      "title_vi": "Đồng đô la tăng, đồng yên suy yếu khi thị trường để mắt tới CPI của Mỹ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/asia-pacific/dollar-near-two-month-trough-us-inflation-data-awaited-2026-08-10/",
+      "source": "Reuters",
+      "category": "macro",
+      "published": "2026-08-11 01:51"
     },
     {
       "id": "12yy85u",
@@ -341,17 +352,6 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-08-10 09:37"
-    },
-    {
-      "id": "1s2bb7z",
-      "title": "Dollar gains, yen weakens as markets eye U.S. CPI",
-      "title_vi": "Đồng đô la tăng, đồng yên suy yếu khi thị trường để mắt tới CPI của Mỹ",
-      "summary_vi": "Đồng đô la Mỹ tăng giá khi giá dầu tăng trước báo cáo lạm phát giá tiêu dùng được theo dõi chặt chẽ vào thứ Tư cho tháng Bảy.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108292457-1776344977367-gettyimages-2271011731-baglietto-notitle260415_npPd0.jpeg?v=1776345017&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/08/10/dollar-near-two-month-trough-as-us-inflation-data-awaited.html",
-      "source": "CNBC",
-      "category": "macro",
-      "published": "2026-08-10 09:24"
     },
     {
       "id": "15hoh3i",

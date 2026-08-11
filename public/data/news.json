@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-11 13:39",
+  "updated_at": "2026-08-11 14:01",
   "items": [
+    {
+      "id": "9f1ur4",
+      "title": "Copper price rally: which miners still have room to run?",
+      "title_vi": "Giá đồng tăng: thợ mỏ nào vẫn còn chỗ để chạy?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/stock-market-news/copper-price-rally-which-miners-still-have-room-to-run-93CH-4850801",
+      "source": "Investing.com",
+      "category": "metal",
+      "published": "2026-08-11 13:34"
+    },
     {
       "id": "p9kp2u",
       "title": "Libya Weighs Force Majeure After Drone Attacks on Zawiya Oil Hub",
@@ -539,17 +550,6 @@
       "source": "Barchart.com",
       "category": "metal",
       "published": "2026-08-08 02:34"
-    },
-    {
-      "id": "hzgosk",
-      "title": "HyBlend: Opportunities for Hydrogen Blending in Natural Gas Pipelines",
-      "title_vi": "HyBlend: Cơ hội pha trộn hydro trong đường ống khí đốt tự nhiên",
-      "summary_vi": "Sáng kiến ​​HyBlend nhằm mục đích giải quyết các rào cản kỹ thuật trong việc trộn hydro trong đường ống dẫn khí đốt tự nhiên.",
-      "image": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
-      "link": "https://www.energy.gov/cmei/fuels/hyblend-opportunities-hydrogen-blending-natural-gas-pipelines",
-      "source": "Department of Energy (.gov)",
-      "category": "energy",
-      "published": "2026-08-08 02:32"
     }
   ]
 }

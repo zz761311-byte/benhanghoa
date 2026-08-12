@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12 10:01",
+  "updated_at": "2026-08-12 11:01",
   "items": [
     {
       "id": "1g4sxsk",
@@ -11,6 +11,17 @@
       "source": "Yahoo Finance",
       "category": "soft",
       "published": "2026-08-12 08:07"
+    },
+    {
+      "id": "306s7d",
+      "title": "Silver Price Canada Today | Live Silver Price in CAD",
+      "title_vi": "Giá Bạc Canada Hôm Nay | Giá bạc trực tiếp bằng CAD",
+      "summary_vi": "Giá bạc trực tiếp bằng CAD. Theo dõi giá bạc giao ngay hôm nay bằng đô la Canada mỗi ounce, gam và kilo bằng biểu đồ bạc Canada theo thời gian thực của Kitco.",
+      "image": "",
+      "link": "https://www.kitco.com/price/silver-price-cad",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-08-12 07:00"
     },
     {
       "id": "hchh5u",
@@ -244,17 +255,6 @@
       "published": "2026-08-11 21:20"
     },
     {
-      "id": "5vd8ks",
-      "title": "Silver Price For Today, 11 August 2026",
-      "title_vi": "Giá Bạc Hôm Nay, ngày 11 tháng 8 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
-      "source": "Forbes",
-      "category": "metal",
-      "published": "2026-08-11 21:04"
-    },
-    {
       "id": "1s61qen",
       "title": "Corn price commentary: Futures fall marginally ahead of the WASDE report",
       "title_vi": "Bình luận về giá ngô: Hợp đồng tương lai giảm nhẹ trước báo cáo WASDE",
@@ -341,6 +341,17 @@
       "source": "Investing.com",
       "category": "metal",
       "published": "2026-08-11 13:34"
+    },
+    {
+      "id": "1g06o8y",
+      "title": "Hormuz deadlock: Where oil prices could head next as prospects for an imminent deal fade",
+      "title_vi": "Bế tắc ở Hormuz: Giá dầu có thể hướng tới đâu khi triển vọng về một thỏa thuận sắp xảy ra mờ nhạt",
+      "summary_vi": "Các nhà kinh doanh dầu tiếp tục bám víu vào hy vọng eo biển Hormuz sẽ mở cửa trở lại. Điều đó sẽ không kéo dài mãi mãi.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108326595-1782375177613-gettyimages-2282087363-AA_21062026_2840956.jpeg?v=1782389474&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-08-11 12:01"
     },
     {
       "id": "q8ojvt",
@@ -539,17 +550,6 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-08-10 23:05"
-    },
-    {
-      "id": "1vk4zh0",
-      "title": "Development Stage to Explore Coffee ‘Beyond the Cup’ in Oakland",
-      "title_vi": "Giai đoạn phát triển để khám phá cà phê 'Beyond the Cup' ở Oakland",
-      "summary_vi": "Sự kiện Giai đoạn phát triển của Royal Coffee sẽ quay trở lại Oakland, California vào mùa thu này, với hội nghị chuyên đề về cà phê kéo dài hai ngày với chủ đề “Biên giới: Cà phê ngoài cốc”. Diễn ra từ ngày 18 đến ngày 19 tháng 9...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/08/10/development-stage-to-explore-coffee-beyond-the-cup-in-oakland/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-08-10 23:02"
     }
   ]
 }

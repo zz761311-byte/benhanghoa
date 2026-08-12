@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12 09:01",
+  "updated_at": "2026-08-12 09:59",
   "items": [
     {
       "id": "1g4sxsk",
@@ -77,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-12 03:47"
+    },
+    {
+      "id": "1u279dd",
+      "title": "US Dollar Index Lacks Dovish Tail as Markets Reassess Fed Rate Cut Bets",
+      "title_vi": "Chỉ số đô la Mỹ thiếu đuôi Dovish khi thị trường đánh giá lại cược cắt giảm lãi suất của Fed",
+      "summary_vi": "BitcoinWorld Chỉ số đô la Mỹ thiếu đuôi Dovish khi thị trường đánh giá lại cược cắt giảm lãi suất của Fed Chỉ số đô la Mỹ (DXY) đang giao dịch mà không có đuôi ôn hòa đối với giá cả, vì",
+      "image": "https://cryptorank.io/static/pages-preview/main-page.png",
+      "link": "https://cryptorank.io/news/feed/ece07-us-dollar-index-no-dovish-tail",
+      "source": "CryptoRank",
+      "category": "macro",
+      "published": "2026-08-12 03:33"
     },
     {
       "id": "m8cyw3",
@@ -253,6 +264,17 @@
       "source": "Fastmarkets",
       "category": "agri",
       "published": "2026-08-11 20:33"
+    },
+    {
+      "id": "wu7mov",
+      "title": "Copper's Congo panic says more about copper than Congo",
+      "title_vi": "Sự hoảng loạn ở Congo nói nhiều về đồng hơn Congo",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/commentary/reuters-open-interest/coppers-congo-panic-says-more-about-copper-than-congo-2026-08-11/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-08-11 20:10"
     },
     {
       "id": "tgdy21",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-10 23:02"
-    },
-    {
-      "id": "wuamfr",
-      "title": "Michigan gas prices continue to fluctuate as conflict and uncertainty in the Mideast put pressure on crude oil prices over the weekend. See link below ⬇️ 📸 dkhoriaty, Getty Images/iStockphoto",
-      "title_vi": "Giá xăng ở Michigan tiếp tục biến động do xung đột và bất ổn ở Trung Đông gây áp lực lên giá dầu thô cuối tuần qua. Xem liên kết bên dưới ⬇️ 📸 dkhoriaty, Getty Images/iStockphoto",
-      "summary_vi": "Giá xăng ở Michigan tiếp tục biến động do xung đột và bất ổn ở Trung Đông gây áp lực lên giá dầu thô cuối tuần qua. Xem liên kết bên dưới ⬇️ &#x1f4f8; dkhoriaty, Getty Images/iStockphoto",
-      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/769168803_1819722336067700_2000069487194562566_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=107&ccb=1-7&_nc_sid=cae128&_nc_ohc=Lhj-PE0iHYYQ7kNvwEg4G5i&_nc_oc=Adoc8CffusaDYILXAVCCvbjcILKZeii34FCl5HK7jVIF_T5YdHFNSb4x79-slrvZBpw&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=5q3Q4Y7v3v33FD4rI-WnWg&_nc_ss=7d289&oh=00_AQEcUFI-pN38unBz_sQayssMTY6n74nc7hgaTILCxCmSmg&oe=6A81541D",
-      "link": "https://www.facebook.com/detroitfreepress/posts/michigan-gas-prices-continue-to-fluctuate-as-conflict-and-uncertainty-in-the-mid/1517749303730550/",
-      "source": "facebook.com",
-      "category": "energy",
-      "published": "2026-08-10 23:00"
-    },
-    {
-      "id": "k8s2cw",
-      "title": "Platinum Deficit Forecast at 297,000 Ounces as Q1 Surplus Tests the Supply Thesis",
-      "title_vi": "Dự báo thâm hụt bạch kim ở mức 297.000 ounce khi thặng dư Q1 kiểm tra luận điểm nguồn cung",
-      "summary_vi": "Bạch kim đặt mục tiêu thâm hụt 297.000 ounce do thặng dư trong quý 1 kiểm tra luận điểm nguồn cung, trong khi lượng dự trữ eo hẹp có thể tạo ra cơ hội trái ngược.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a79eeb6f32ca8eb982ddba5_Platinum%20Bracelet.png",
-      "link": "https://www.cruxinvestor.com/posts/platinum-deficit-forecast-at-297-000-ounces-as-q1-surplus-tests-the-supply-thesis",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-08-10 22:37"
     }
   ]
 }

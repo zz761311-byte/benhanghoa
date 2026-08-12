@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-13 01:10",
+  "updated_at": "2026-08-13 02:01",
   "items": [
+    {
+      "id": "163i10a",
+      "title": "5 LNG Megaprojects Poised to Power the Next Gas Boom",
+      "title_vi": "5 siêu dự án LNG sẵn sàng cung cấp năng lượng cho sự bùng nổ khí đốt tiếp theo",
+      "summary_vi": "Cuộc chiến giữa Mỹ và Iran đã đẩy giá khí đốt tự nhiên tăng cao, đặc biệt là ở châu Âu và châu Á. Châu Á chiếm gần 90% lượng vận chuyển khí tự nhiên hóa lỏng (LNG) từ các nhà sản xuất chủ chốt ở Trung Đông như Qatar và UAE, trong khi châu Âu nhập khẩu 7-11% lượng LNG từ khu vực này. D",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-12_gesemirzkk.jpg",
+      "link": "https://oilprice.com/Energy/Natural-Gas/5-LNG-Megaprojects-Poised-to-Power-the-Next-Gas-Boom.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-13 02:00"
+    },
     {
       "id": "8wrho5",
       "title": "Crop Production Report Shows Strong Corn Outlook, Continued Wheat Declines",
@@ -145,6 +156,17 @@
       "published": "2026-08-12 21:38"
     },
     {
+      "id": "1dyayxv",
+      "title": "Platinum climbs back above $1,760 as a fourth straight annual supply deficit bites",
+      "title_vi": "Bạch kim tăng trở lại trên 1.760 USD khi thâm hụt nguồn cung hàng năm lần thứ tư liên tiếp",
+      "summary_vi": "Dữ liệu WPIC cho thấy bạch kim đã tăng lên 1.761 USD/oz vào ngày 12 tháng 8 năm 2026 do dự báo thâm hụt nguồn cung là 297.000 ounce vào năm 2026, mức thiếu hụt hàng năm thứ tư liên tiếp.",
+      "image": "https://startupfortune.com/wp-content/uploads/2026/08/sf-18415-1786545449625.jpg",
+      "link": "https://startupfortune.com/platinum-climbs-back-above-1760-as-a-fourth-straight-annual-supply-deficit-bites/",
+      "source": "Startup Fortune",
+      "category": "metal",
+      "published": "2026-08-12 21:37"
+    },
+    {
       "id": "1g37jho",
       "title": "Ukraine Halts Oil Tanker Attacks on JD Vance Request",
       "title_vi": "Ukraine tạm dừng các cuộc tấn công tàu chở dầu theo yêu cầu của JD Vance",
@@ -165,17 +187,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-08-12 21:02"
-    },
-    {
-      "id": "4zkzbx",
-      "title": "LME Aluminum Stockpiles Sink to Lowest Level Since 1990",
-      "title_vi": "Tồn kho nhôm LME giảm xuống mức thấp nhất kể từ năm 1990",
-      "summary_vi": "Nhà máy Alunorte của nhà sản xuất nhôm Na Uy Norsk Hydro ở Brazil, một trong những nhà máy lọc alumina lớn nhất thế giới, đã giảm sản lượng 50% do nguồn cung khí đốt tự nhiên bị gián đoạn. Bloomberg báo cáo rằng sự gián đoạn về tính khả dụng của NatGas tại Alunorte đã buộc phải cắt giảm 50%",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-12_f2oggpvd7y.jpg",
-      "link": "https://oilprice.com/Metals/Commodities/LME-Aluminum-Stockpiles-Sink-to-Lowest-Level-Since-1990.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-08-12 21:00"
     },
     {
       "id": "1sx7707",
@@ -539,17 +550,6 @@
       "source": "Moomoo",
       "category": "metal",
       "published": "2026-08-11 16:29"
-    },
-    {
-      "id": "hpkr7",
-      "title": "Watch for price rally in wheat as global production drops",
-      "title_vi": "Theo dõi giá lúa mì tăng do sản lượng toàn cầu giảm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/watch-for-price-rally-in-wheat-as-global-production-drops",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-08-11 16:03"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-13 00:16",
+  "updated_at": "2026-08-13 01:01",
   "items": [
+    {
+      "id": "1my4k62",
+      "title": "Putin Opens New Front in Shadow Fleet Fight With Threat to Seize EU Ships",
+      "title_vi": "Putin mở mặt trận mới trong cuộc chiến Hạm đội Bóng tối với mối đe dọa chiếm giữ tàu EU",
+      "summary_vi": "Tổng thống Nga Vladimir Putin hôm thứ Tư đe dọa bắt giữ các tàu châu Âu để trả đũa hành động của EU chống lại đội tàu dầu ngầm của Nga, mở ra khả năng Nga can thiệp trực tiếp vào hoạt động vận chuyển thương mại khi châu Âu tăng cường nỗ lực làm gián đoạn hoạt động xuất khẩu dầu thô của Moscow.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-12_vjzc8fypbd.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Putin-Opens-New-Front-in-Shadow-Fleet-Fight-With-Threat-to-Seize-EU-Ships.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-13 00:30"
+    },
     {
       "id": "1h5q1v1",
       "title": "Solar Power Is Gaining Traction With Farmers",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-13 00:00"
+    },
+    {
+      "id": "1o238jv",
+      "title": "USDA Makes Surprise Cut to Corn Yield Projections",
+      "title_vi": "USDA gây bất ngờ khi cắt giảm dự báo năng suất ngô",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/usda-makes-surprise-cut-to-corn-yield-projections-da91542a",
+      "source": "WSJ",
+      "category": "agri",
+      "published": "2026-08-12 23:48"
     },
     {
       "id": "jjsx9y",
@@ -131,17 +153,6 @@
       "link": "https://oilprice.com/Metals/Commodities/LME-Aluminum-Stockpiles-Sink-to-Lowest-Level-Since-1990.html",
       "source": "OilPrice",
       "category": "metal",
-      "published": "2026-08-12 21:00"
-    },
-    {
-      "id": "w9l5gj",
-      "title": "Iran’s Leadership Reshuffle Signals a New Era of Centralized Command",
-      "title_vi": "Cuộc cải tổ lãnh đạo của Iran báo hiệu một kỷ nguyên mới của Bộ chỉ huy tập trung",
-      "summary_vi": "Quyết định của Lãnh đạo tối cao Iran Mojtaba Khamenei về việc chính thức hóa sáu vị trí quân sự và an ninh cấp cao trong vòng 48 giờ không phải là một câu chuyện về nhân sự mà là chương kết thúc của một sự ứng biến kéo dài 5 tháng. Cùng đọc, những cuộc hẹn được công bố ngày 10/8 cho thấy sức mạnh mới",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-12_g6sjuzey0p.jpg",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Irans-Leadership-Reshuffle-Signals-a-New-Era-of-Centralized-Command.html",
-      "source": "OilPrice",
-      "category": "energy",
       "published": "2026-08-12 21:00"
     },
     {
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-08-11 14:40"
-    },
-    {
-      "id": "3flrix",
-      "title": "Copper in Power: How AI-Driven Data Centers Affect Copper Demand",
-      "title_vi": "Đồng có sức mạnh: Các trung tâm dữ liệu do AI điều khiển ảnh hưởng như thế nào đến nhu cầu về đồng",
-      "summary_vi": "Các trung tâm dữ liệu phụ thuộc vào điện và điện cần có đồng. Đồng được biết đến là chất dẫn điện tốt thứ hai trong số tất cả các kim loại, chỉ sau bạc. Nó giữ khoảng 95% độ dẫn điện của bạc nhưng vẫn là lựa chọn phổ biến để làm dây điện nhờ hiệu quả đã được chứng minh của nó...",
-      "image": "https://investingnews.com/media-library/brightly-lit-server-room-with-rows-of-metal-racks-on-shiny-floors-and-colorful-cables-overhead.png?id=67578959&width=1200&height=600&coordinates=0%2C89%2C0%2C89",
-      "link": "https://investingnews.com/copper-in-power-how-ai-driven-data-centers-affect-copper-demand/",
-      "source": "Investing News Network",
-      "category": "metal",
-      "published": "2026-08-11 14:14"
     }
   ]
 }

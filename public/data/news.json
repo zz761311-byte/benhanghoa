@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-08-12 21:08",
+  "updated_at": "2026-08-12 22:01",
   "items": [
+    {
+      "id": "1mn4qy6",
+      "title": "Gold Up 10% MTD as US Inflation Soothes Fed Rate-Hike Fears",
+      "title_vi": "Vàng tăng 10% MTD khi lạm phát Mỹ xoa dịu nỗi lo tăng lãi suất của Fed",
+      "summary_vi": "Giá vàng đạt mức cao nhất 10 tuần mới vào thứ Tư, tăng thêm 10% trong tháng này, do dữ liệu lạm phát của Mỹ chạm đến nỗi lo Fed tăng lãi suất >>",
+      "image": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/2026-08-12-fed-cme-gold.png",
+      "link": "https://www.bullionvault.com/gold-news/gold-price-news/gold-inflation-fed-081220261",
+      "source": "BullionVault",
+      "category": "metal",
+      "published": "2026-08-12 21:44"
+    },
+    {
+      "id": "1n8pq3t",
+      "title": "EIA Sees Massive Uptick in US Crude Oil Inventories",
+      "title_vi": "EIA nhận thấy lượng dầu thô tồn kho của Mỹ tăng mạnh",
+      "summary_vi": "Theo dữ liệu mới từ Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA) công bố hôm thứ Tư, dự trữ dầu thô ở Mỹ đã tăng mạnh 17,4 triệu thùng trong tuần kết thúc vào ngày 7 tháng 8. Sự gia tăng này đưa dự trữ thương mại lên 424,4 triệu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-12_ekail12ikx.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/EIA-Sees-Massive-Uptick-in-US-Crude-Oil-Inventories.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-12 21:38"
+    },
+    {
+      "id": "1g37jho",
+      "title": "Ukraine Halts Oil Tanker Attacks on JD Vance Request",
+      "title_vi": "Ukraine tạm dừng các cuộc tấn công tàu chở dầu theo yêu cầu của JD Vance",
+      "summary_vi": "Tờ Financial Times hôm nay dẫn lời các quan chức Ukraine giấu tên cho biết lực lượng Ukraine đã đình chỉ các cuộc tấn công bằng máy bay không người lái vào các tàu chở dầu tại cảng Novorossiysk theo yêu cầu của Phó Tổng thống Mỹ JD Vance. Yêu cầu được đưa ra do lo ngại rằng máy bay không người lái có thể tấn công",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-12_smpu1gvxkp.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Halts-Oil-Tanker-Attacks-on-JD-Vance-Request.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-12 21:30"
+    },
+    {
+      "id": "159pygv",
+      "title": "U.S. Natural Gas Futures Gain on Hotter Weather Outlook",
+      "title_vi": "Hợp đồng tương lai khí tự nhiên của Mỹ tăng do thời tiết nóng hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-gain-on-hotter-weather-outlook-dbc58b4a",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-08-12 21:02"
+    },
     {
       "id": "4zkzbx",
       "title": "LME Aluminum Stockpiles Sink to Lowest Level Since 1990",
@@ -112,28 +156,6 @@
       "published": "2026-08-12 17:47"
     },
     {
-      "id": "1q2gs6t",
-      "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz",
-      "title_vi": "Giá dầu Brent đạt 89 USD trong bối cảnh Mỹ-Iran bế tắc về vấn đề Hormuz",
-      "summary_vi": "Giá dầu thô Brent đã tăng trên 89 USD/thùng trong phiên giao dịch sớm ở châu Âu hôm thứ Tư khi Iran và Hoa Kỳ đưa ra những tuyên bố trái ngược nhau về việc ai kiểm soát eo biển Hormuz. Giá dầu thô Brent tăng 0,64% ở mức 89,60 USD vào buổi sáng ở châu Âu và dầu thô WTI đang tăng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-12_aeals8ivnz.jpg",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Brent-Tops-89-Amid-US-Iran-Stalemate-Over-Hormuz.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-12 16:30"
-    },
-    {
-      "id": "wzoct7",
-      "title": "Tanker Data Contradicts U.S. Claim That Middle East Oil Flows Have Normalized",
-      "title_vi": "Dữ liệu tàu chở dầu mâu thuẫn với tuyên bố của Hoa Kỳ rằng dòng dầu ở Trung Đông đã bình thường hóa",
-      "summary_vi": "Bộ trưởng Năng lượng Hoa Kỳ Chris Wright cho biết hôm thứ Ba trong một tuyên bố dường như không được hỗ trợ bởi dữ liệu theo dõi tàu thuyền, các dòng dầu từ Trung Đông đã bình thường hóa, chỉ riêng lưu lượng giao thông vào Chủ Nhật đã cao hơn mức trung bình trước xung đột. Vào thứ Ba, Bộ trưởng Wright đã đăng trên X rằng “Cảm ơn",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-12_9qnjxa0u35.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Data-Contradicts-US-Claim-That-Middle-East-Oil-Flows-Have-Normalized.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-12 16:20"
-    },
-    {
       "id": "l0mnrr",
       "title": "How a 21% Nickel Price Rally Is Reshaping Kabanga's Margin Case",
       "title_vi": "Mức tăng giá niken 21% đang định hình lại kịch bản ký quỹ của Kabanga như thế nào",
@@ -165,6 +187,17 @@
       "source": "futuremarketinsights.com",
       "category": "soft",
       "published": "2026-08-12 12:47"
+    },
+    {
+      "id": "11u3zcc",
+      "title": "Dollar falls as tame U.S. inflation dims Fed rate-hike bets",
+      "title_vi": "Đồng đô la giảm khi lạm phát ở Mỹ giảm bớt đặt cược tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-dollar-tread-water-ahead-of-us-cpi-hormuz-tensions-lift-oil-4853635",
+      "source": "Investing.com",
+      "category": "macro",
+      "published": "2026-08-12 10:54"
     },
     {
       "id": "9rbagw",
@@ -517,39 +550,6 @@
       "source": "Eurasia Review",
       "category": "energy",
       "published": "2026-08-11 07:40"
-    },
-    {
-      "id": "11a6il",
-      "title": "Gold and Silver Prices Surge After Weak July Jobs Report",
-      "title_vi": "Giá vàng và bạc tăng vọt sau báo cáo việc làm tháng 7 yếu kém",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.usgoldbureau.com/news/post/gold-and-silver-prices-surge-after-weak-july-jobs-report",
-      "source": "U.S. Gold Bureau",
-      "category": "metal",
-      "published": "2026-08-11 07:11"
-    },
-    {
-      "id": "1xmztgd",
-      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
-      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
-      "summary_vi": "Goldman Sachs hạ dự báo giá dầu thô Brent trong quý 4 xuống 80 USD từ 90 USD và giảm ước tính trung bình năm 2027 xuống 75 USD từ 80 USD, sau khi Mỹ và Iran ký thỏa thuận sơ bộ để mở lại eo biển Hormuz. Các nhà phân tích tại ngân hàng đầu tư cho biết trong một báo cáo nghiên cứu…",
-      "image": "https://energynow.com/wp-content/uploads/Goldman-Sachs-June-2026-1200x810-1.jpg",
-      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-08-11 04:03"
-    },
-    {
-      "id": "mc7f88",
-      "title": "Price correction ‘improved the long-term risk-reward profile’ for both gold and silver – Sprott’s Smirnova",
-      "title_vi": "Điều chỉnh giá 'cải thiện hồ sơ thưởng rủi ro dài hạn' cho cả vàng và bạc - Smirnova của Sprott",
-      "summary_vi": "(Kitco News) - Sự sụt giảm giá kéo dài hàng tháng của vàng không phải là một sự đảo ngược xu hướng mà chỉ là một sự điều chỉnh, với nợ gia tăng, thâm hụt cao, hoạt động mua của ngân hàng trung ương và sự phân mảnh địa chính trị củng cố vai trò chiến lược của vàng, trong khi triển vọng của bạc vẫn hấp dẫn do nguồn cung hạn chế và nhu cầu ngày càng tăng, accor",
-      "image": "https://image-api.prod.kitco.com/image/62fa0f0c-ded6-4120-a65d-26dddc9eec6b.png?top=0.15981657608696&left=0&width=1672&height=940.68036684783&scale_width=1920&token=53a16fafddbd55a83b5380b7372a5081e28c920fa752cac39f5284693d467da7",
-      "link": "https://www.kitco.com/news/article/2026-08-10/price-correction-improved-long-term-risk-reward-profile-both-gold-and",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-08-11 03:53"
     }
   ]
 }

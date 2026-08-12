@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12 16:33",
+  "updated_at": "2026-08-12 17:01",
   "items": [
     {
       "id": "1q2gs6t",
@@ -231,6 +231,17 @@
       "source": "The Guardian",
       "category": "energy",
       "published": "2026-08-12 00:15"
+    },
+    {
+      "id": "1jnzleo",
+      "title": "Silver price slips as investors bank gains ahead of US CPI",
+      "title_vi": "Giá bạc trượt dốc khi ngân hàng nhà đầu tư tăng trước chỉ số CPI của Mỹ",
+      "summary_vi": "Giá kim loại giảm từ mức cao nhất trong 7 tuần khi các nhà giao dịch chốt lời trước khi dữ liệu lạm phát của Mỹ được công bố.",
+      "image": "https://www.mining.com/wp-content/uploads/2025/06/AdobeStock_128990891-1024x525.jpeg",
+      "link": "https://www.mining.com/silver-price-slips-as-investors-bank-gains-ahead-of-us-cpi/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-08-11 23:24"
     },
     {
       "id": "u94kl2",
@@ -539,17 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-08-11 01:00"
-    },
-    {
-      "id": "1d0uii9",
-      "title": "Gold and silver rise as oil jump revives inflation-risk trade - Kitco PM Report",
-      "title_vi": "Vàng và bạc tăng khi dầu tăng vọt làm hồi sinh giao dịch có rủi ro lạm phát - Báo cáo của Kitco PM",
-      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc cao hơn trong phiên giao dịch cuối giờ chiều thứ Hai tại Hoa Kỳ, do thị trường cân bằng giữa dữ liệu lao động yếu kém của tuần trước với sự phục hồi của giá dầu, lãi suất trái phiếu kho bạc và kỳ vọng tăng lãi suất của Fed. Tại thời điểm viết bài, vàng giao ngay đang giao dịch ở mức gần 4.358,71 USD/ounce, tăng 0,4%, trong khi giá vàng giao ngay trước đó đã giảm.",
-      "image": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0&left=0.11633719609183&width=1023.7673256078&height=576&scale_width=1920&token=513177cd0086e442567d66f5878adc120fa83d62fc964cf147bf94921045d151",
-      "link": "https://www.kitco.com/news/article/2026-08-10/gold-and-silver-rise-oil-jump-revives-inflation-risk-trade-kitco-pm-report",
-      "source": "KITCO",
-      "category": "macro",
-      "published": "2026-08-11 00:57"
     }
   ]
 }

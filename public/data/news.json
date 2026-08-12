@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-13 01:01",
+  "updated_at": "2026-08-13 01:10",
   "items": [
+    {
+      "id": "8wrho5",
+      "title": "Crop Production Report Shows Strong Corn Outlook, Continued Wheat Declines",
+      "title_vi": "Báo cáo sản xuất cây trồng cho thấy triển vọng ngô tăng trưởng mạnh, lúa mì tiếp tục giảm",
+      "summary_vi": "Cơ quan Thống kê Nông nghiệp Quốc gia (NASS) của Bộ Nông nghiệp Hoa Kỳ đã công bố báo cáo Sản lượng cây trồng tháng 8, cập nhật dự báo về các loại cây trồng chính của Hoa Kỳ sau khi xem xét diện tích và điều kiện tính đến ngày 1 tháng 8. Báo cáo dự báo sản lượng ngô cao thứ hai của Hoa Kỳ được ghi nhận, diện tích trồng bông lớn hơn",
+      "image": "",
+      "link": "https://www.oklahomafarmreport.com/2026/08/12/crop-production-report-shows-strong-corn-outlook-continued-wheat-declines/",
+      "source": "Oklahoma Farm Report",
+      "category": "agri",
+      "published": "2026-08-13 01:00"
+    },
     {
       "id": "1my4k62",
       "title": "Putin Opens New Front in Shadow Fleet Fight With Threat to Seize EU Ships",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-13 00:30"
+    },
+    {
+      "id": "1sjrr47",
+      "title": "Bonds, Dollar and Gold Are Flashing an Inflation Warning",
+      "title_vi": "Trái phiếu, đồng đô la và vàng đang cảnh báo lạm phát",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-08-12/bonds-dollar-and-gold-are-flashing-an-inflation-warning",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-08-13 00:13"
     },
     {
       "id": "1h5q1v1",
@@ -528,28 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-08-11 16:03"
-    },
-    {
-      "id": "hmrlne",
-      "title": "Why the Real Oil Squeeze Is Happening in Refineries",
-      "title_vi": "Tại sao quá trình ép dầu thực sự lại xảy ra trong các nhà máy lọc dầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/why-the-real-oil-squeeze-is-happening-in-refineries-cff62ff6",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-08-11 15:27"
-    },
-    {
-      "id": "121g8n7",
-      "title": "Gold (XAU/USD) & Silver Price Forecast: Can CPI Revive Gold After $4,430 Rejection?",
-      "title_vi": "Dự báo giá vàng (XAU/USD) và bạc: CPI có thể phục hồi vàng sau khi bị từ chối 4.430 USD không?",
-      "summary_vi": "Vàng và bạc củng cố trước CPI của Mỹ khi các nhà giao dịch cân nhắc chính sách của Fed, rủi ro năng lượng ở Trung Đông và nhu cầu vàng mới của ngân hàng trung ương Trung Quốc.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/08/Main-Images-12-6.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-xau-usd-silver-price-forecast-can-cpi-revive-gold-after-4430-rejection-1616005",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-08-11 14:40"
     }
   ]
 }

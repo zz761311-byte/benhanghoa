@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12 18:01",
+  "updated_at": "2026-08-12 18:34",
   "items": [
     {
       "id": "1w64ddb",
@@ -88,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-12 12:45"
+    },
+    {
+      "id": "9rbagw",
+      "title": "US-China Trade War 2025: Trump’s Tariffs, Rare Earth Metals And A Fragile Truce Canadian Lawful Access Act (Rak9nF0cfy)",
+      "title_vi": "Chiến tranh thương mại Mỹ-Trung 2025: Thuế quan của Trump, kim loại đất hiếm và thỏa thuận đình chiến mong manh Đạo luật tiếp cận hợp pháp của Canada (Rak9nF0cfy)",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://mshale.com/7c7783b0/c3103b5aCkY9NR0tXCUHGBo",
+      "source": "Mshale",
+      "category": "metal",
+      "published": "2026-08-12 08:10"
     },
     {
       "id": "1g4sxsk",
@@ -354,6 +365,17 @@
       "published": "2026-08-11 18:29"
     },
     {
+      "id": "pipqtf",
+      "title": "Gold & Silver Outlook: CPI Could Set the Next Direction",
+      "title_vi": "Triển vọng vàng và bạc: CPI có thể thiết lập hướng đi tiếp theo",
+      "summary_vi": "Vàng (XAU/USD) vẫn nằm trong kênh tăng giá rộng hơn, nhưng mức kháng cự gần 4.430 USD đã chuyển sự chú ý sang dữ liệu lạm phát sắp tới của Hoa Kỳ. Báo cáo CPI có thể là chất xúc tác ngắn hạn quan trọng khi thị trường đánh giá lại đường hướng chính sách của Cục Dự trữ Liên bang sau các dấu hiệu về điều kiện thị trường lao động yếu hơn.",
+      "image": "https://ussnsimg.moomoo.com/sns_client_feed/108310869/20260811/web-1786440553666-wPjBMQR2SM.webp?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
+      "link": "https://www.moomoo.com/community/feed/gold-silver-outlook-cpi-could-set-the-next-direction-117076169261065",
+      "source": "Moomoo",
+      "category": "metal",
+      "published": "2026-08-11 16:29"
+    },
+    {
       "id": "hpkr7",
       "title": "Watch for price rally in wheat as global production drops",
       "title_vi": "Theo dõi giá lúa mì tăng do sản lượng toàn cầu giảm",
@@ -528,28 +550,6 @@
       "source": "Brookings",
       "category": "energy",
       "published": "2026-08-11 01:41"
-    },
-    {
-      "id": "12yy85u",
-      "title": "The Outlook for Smaller West African Cocoa Production Lifts Prices",
-      "title_vi": "Triển vọng sản xuất ca cao Tây Phi nhỏ hơn sẽ nâng giá",
-      "summary_vi": "Ca cao ICE NY tháng 9 (CCU26 ) đóng cửa tăng +39 (+0,67%) vào thứ Hai và ca cao ICE London #7 tháng 9 (CAU26 ) đóng cửa tăng +5 (+0,12%). Giá ca cao đã xóa khoản lỗ ban đầu vào thứ Hai và ổn định ở mức cao hơn nhờ hoạt động mua của quỹ trong bối cảnh thời tiết xấu từ...",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Soft%20Commodities/Cocoa/Cocoa%20by%20Ha11ok%20via%20Pixabay.jpg",
-      "link": "https://www.barchart.com/story/news/3761230/the-outlook-for-smaller-west-african-cocoa-production-lifts-prices",
-      "source": "Barchart.com",
-      "category": "soft",
-      "published": "2026-08-11 01:23"
-    },
-    {
-      "id": "zhfyb3",
-      "title": "Global Natural Gas Prices Rebound as Iran Hardens Terms for Hormuz Reopening",
-      "title_vi": "Giá khí đốt tự nhiên toàn cầu phục hồi khi Iran thắt chặt các điều khoản để mở cửa trở lại Hormuz",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/global-natural-gas-prices-rebound-as-iran-hardens-terms-for-hormuz-reopening/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-08-11 01:00"
     }
   ]
 }

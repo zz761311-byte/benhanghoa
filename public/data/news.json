@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 00:01",
+  "updated_at": "2026-08-13 00:16",
   "items": [
     {
       "id": "1h5q1v1",
@@ -22,6 +22,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-12 23:30"
+    },
+    {
+      "id": "15knwyi",
+      "title": "Coffee and Sleep May Not Be the Nightmare Pairing We Think",
+      "title_vi": "Cà phê và giấc ngủ có thể không phải là sự kết hợp ác mộng như chúng ta nghĩ",
+      "summary_vi": "Cà phê có thể không phải là kẻ thù của giấc ngủ như người ta vẫn thường nói. Trong một nghiên cứu lớn của Thụy Điển về người trung niên, việc uống cà phê theo thói quen cho thấy ít có ý nghĩa...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/08/12/coffee-and-sleep-may-not-be-the-nightmare-pairing-we-think/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-08-12 23:17"
+    },
+    {
+      "id": "ftktxo",
+      "title": "Jefferies maintains Keurig Dr Pepper and Smucker ratings amid coffee price surge",
+      "title_vi": "Jefferies duy trì xếp hạng Keurig Dr Pepper và Smucker trong bối cảnh giá cà phê tăng cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/stock-market-news/jefferies-maintains-keurig-dr-pepper-and-smucker-ratings-amid-coffee-price-surge-93CH-4855647",
+      "source": "Investing.com",
+      "category": "soft",
+      "published": "2026-08-12 23:02"
     },
     {
       "id": "a8q3sh",
@@ -508,6 +530,17 @@
       "published": "2026-08-11 15:27"
     },
     {
+      "id": "121g8n7",
+      "title": "Gold (XAU/USD) & Silver Price Forecast: Can CPI Revive Gold After $4,430 Rejection?",
+      "title_vi": "Dự báo giá vàng (XAU/USD) và bạc: CPI có thể phục hồi vàng sau khi bị từ chối 4.430 USD không?",
+      "summary_vi": "Vàng và bạc củng cố trước CPI của Mỹ khi các nhà giao dịch cân nhắc chính sách của Fed, rủi ro năng lượng ở Trung Đông và nhu cầu vàng mới của ngân hàng trung ương Trung Quốc.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/08/Main-Images-12-6.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/gold-xau-usd-silver-price-forecast-can-cpi-revive-gold-after-4430-rejection-1616005",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-08-11 14:40"
+    },
+    {
       "id": "3flrix",
       "title": "Copper in Power: How AI-Driven Data Centers Affect Copper Demand",
       "title_vi": "Đồng có sức mạnh: Các trung tâm dữ liệu do AI điều khiển ảnh hưởng như thế nào đến nhu cầu về đồng",
@@ -517,39 +550,6 @@
       "source": "Investing News Network",
       "category": "metal",
       "published": "2026-08-11 14:14"
-    },
-    {
-      "id": "9f1ur4",
-      "title": "Copper price rally: which miners still have room to run?",
-      "title_vi": "Giá đồng tăng: thợ mỏ nào vẫn còn chỗ để chạy?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/stock-market-news/copper-price-rally-which-miners-still-have-room-to-run-93CH-4850801",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-08-11 13:34"
-    },
-    {
-      "id": "1g06o8y",
-      "title": "Hormuz deadlock: Where oil prices could head next as prospects for an imminent deal fade",
-      "title_vi": "Bế tắc ở Hormuz: Giá dầu có thể hướng tới đâu khi triển vọng về một thỏa thuận sắp xảy ra mờ nhạt",
-      "summary_vi": "Các nhà kinh doanh dầu tiếp tục bám víu vào hy vọng eo biển Hormuz sẽ mở cửa trở lại. Điều đó sẽ không kéo dài mãi mãi.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108326595-1782375177613-gettyimages-2282087363-AA_21062026_2840956.jpeg?v=1782389474&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-08-11 12:01"
-    },
-    {
-      "id": "q8ojvt",
-      "title": "California’s Gas Crisis Is a Policy Failure at Every Level",
-      "title_vi": "Khủng hoảng khí đốt ở California là một thất bại chính sách ở mọi cấp độ",
-      "summary_vi": "Những sai lầm về chính sách trong lịch sử đã khiến California dễ bị tổn thương trước giá dầu tăng.",
-      "image": "https://www.theregreview.org/wp-content/uploads/2026/08/briggs2264208891.jpg",
-      "link": "https://www.theregreview.org/2026/08/11/briggs-californias-gas-crisis-is-a-policy-failure-at-every-level/",
-      "source": "The Regulatory Review",
-      "category": "energy",
-      "published": "2026-08-11 11:18"
     }
   ]
 }

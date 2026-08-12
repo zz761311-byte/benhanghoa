@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-13 02:30",
+  "updated_at": "2026-08-13 03:01",
   "items": [
+    {
+      "id": "py89os",
+      "title": "Refinery Attacks Deepen Global Diesel Supply Crunch",
+      "title_vi": "Các cuộc tấn công nhà máy lọc dầu làm trầm trọng thêm cuộc khủng hoảng nguồn cung diesel toàn cầu",
+      "summary_vi": "Giá dầu diesel tăng vọt vào đầu tuần này do có tin tức về một cuộc tấn công khác của Ukraine vào một nhà máy lọc dầu của Nga và một cuộc tấn công của Houthi vào một cơ sở lọc dầu của Saudi. Nguồn cung nhiên liệu toàn cầu đã mất cân bằng và việc nhà máy lọc dầu tiếp tục bị gián đoạn sẽ chỉ làm tình hình trở nên trầm trọng hơn, phải b",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-12_kdgav19z4m.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Refinery-Attacks-Deepen-Global-Diesel-Supply-Crunch.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-13 03:00"
+    },
     {
       "id": "163i10a",
       "title": "5 LNG Megaprojects Poised to Power the Next Gas Boom",
@@ -46,6 +57,28 @@
       "published": "2026-08-13 00:13"
     },
     {
+      "id": "oqead8",
+      "title": "IEA revises down 2026 oil demand forecast",
+      "title_vi": "IEA điều chỉnh giảm dự báo nhu cầu dầu năm 2026",
+      "summary_vi": "Cơ quan Năng lượng Quốc tế đã cắt giảm triển vọng nhu cầu dầu toàn cầu năm 2026 và cảnh báo rằng rủi ro nguồn cung dầu vẫn tăng cao trong bối cảnh xuất khẩu của vùng Vịnh bị gián đoạn.",
+      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/08/6a7ca4403cc13d2f51ac577b-260812_187813688__khwaneigq_dreamstime.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "link": "https://www.ogj.com/general-interest/economics-markets/news/55397558/iea-revises-down-2026-oil-demand-forecast",
+      "source": "Oil & Gas Journal",
+      "category": "energy",
+      "published": "2026-08-13 00:08"
+    },
+    {
+      "id": "12hmjjx",
+      "title": "USDA cuts corn and soybean yield forecasts in August reports",
+      "title_vi": "USDA cắt giảm dự báo năng suất ngô và đậu tương trong báo cáo tháng 8",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/marketing/corn-soybeans-rally-after-usda-yields-come-up-short",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-08-13 00:01"
+    },
+    {
       "id": "1h5q1v1",
       "title": "Solar Power Is Gaining Traction With Farmers",
       "title_vi": "Năng lượng mặt trời đang thu hút được sự chú ý của nông dân",
@@ -55,17 +88,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-13 00:00"
-    },
-    {
-      "id": "1o238jv",
-      "title": "USDA Makes Surprise Cut to Corn Yield Projections",
-      "title_vi": "USDA gây bất ngờ khi cắt giảm dự báo năng suất ngô",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/usda-makes-surprise-cut-to-corn-yield-projections-da91542a",
-      "source": "WSJ",
-      "category": "agri",
-      "published": "2026-08-12 23:48"
     },
     {
       "id": "jjsx9y",
@@ -165,17 +187,6 @@
       "source": "Startup Fortune",
       "category": "metal",
       "published": "2026-08-12 21:37"
-    },
-    {
-      "id": "1g37jho",
-      "title": "Ukraine Halts Oil Tanker Attacks on JD Vance Request",
-      "title_vi": "Ukraine tạm dừng các cuộc tấn công tàu chở dầu theo yêu cầu của JD Vance",
-      "summary_vi": "Tờ Financial Times hôm nay dẫn lời các quan chức Ukraine giấu tên cho biết lực lượng Ukraine đã đình chỉ các cuộc tấn công bằng máy bay không người lái vào các tàu chở dầu tại cảng Novorossiysk theo yêu cầu của Phó Tổng thống Mỹ JD Vance. Yêu cầu được đưa ra do lo ngại rằng máy bay không người lái có thể tấn công",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-12_smpu1gvxkp.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Halts-Oil-Tanker-Attacks-on-JD-Vance-Request.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-12 21:30"
     },
     {
       "id": "159pygv",
@@ -539,17 +550,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-08-11 18:29"
-    },
-    {
-      "id": "pipqtf",
-      "title": "Gold & Silver Outlook: CPI Could Set the Next Direction",
-      "title_vi": "Triển vọng vàng và bạc: CPI có thể thiết lập hướng đi tiếp theo",
-      "summary_vi": "Vàng (XAU/USD) vẫn nằm trong kênh tăng giá rộng hơn, nhưng mức kháng cự gần 4.430 USD đã chuyển sự chú ý sang dữ liệu lạm phát sắp tới của Hoa Kỳ. Báo cáo CPI có thể là chất xúc tác ngắn hạn quan trọng khi thị trường đánh giá lại đường hướng chính sách của Cục Dự trữ Liên bang sau các dấu hiệu về điều kiện thị trường lao động yếu hơn.",
-      "image": "https://ussnsimg.moomoo.com/sns_client_feed/108310869/20260811/web-1786440553666-wPjBMQR2SM.webp?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
-      "link": "https://www.moomoo.com/community/feed/gold-silver-outlook-cpi-could-set-the-next-direction-117076169261065",
-      "source": "Moomoo",
-      "category": "metal",
-      "published": "2026-08-11 16:29"
     }
   ]
 }

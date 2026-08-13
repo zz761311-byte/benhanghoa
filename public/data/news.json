@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-13 21:10",
+  "updated_at": "2026-08-13 22:01",
   "items": [
+    {
+      "id": "4xw8l8",
+      "title": "Romania Shuts Down Last Nuclear Reactor As Danube Hits 90-Year Low",
+      "title_vi": "Romania đóng cửa lò phản ứng hạt nhân cuối cùng khi sông Danube chạm mức thấp nhất trong 90 năm",
+      "summary_vi": "Romania hôm thứ Năm đã bắt đầu đóng cửa lò phản ứng hạt nhân đang hoạt động duy nhất còn lại của mình do mực nước thấp kỷ lục trên sông Danube đã buộc các nhà máy điện hạt nhân ở Trung và Đông Âu phải đóng cửa trong những tuần gần đây. Điện hạt nhân đã đưa ra quy trình ngắt kết nối một hoạt động",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-13_829t6pav0t.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Romania-Shuts-Down-Last-Nuclear-Reactor-As-Danube-Hits-90-Year-Low.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-13 21:30"
+    },
     {
       "id": "6k3xk7",
       "title": "America’s Authoritarian Adversaries Are Forging a New Power Bloc",
@@ -33,6 +44,17 @@
       "source": "The Fence Post",
       "category": "soft",
       "published": "2026-08-13 20:36"
+    },
+    {
+      "id": "xh9wwo",
+      "title": "Groundswell Brings Fine Coffees to Chicago&#8217;s Fine Arts Building",
+      "title_vi": "Groundswell mang cà phê hảo hạng đến tòa nhà Mỹ thuật Chicago",
+      "summary_vi": "Groundswell Coffee Roasters có trụ sở tại Chicago đã thúc đẩy làn sóng tăng trưởng chậm nhưng ổn định thành quán cà phê thứ ba bên trong Tòa nhà Mỹ thuật lịch sử trên Đại lộ Michigan.  Khai trương vào tháng 7, rộng 1.000 mét vuông...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/08/13/groundswell-brings-fine-coffees-to-chicagos-fine-arts-building/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-08-13 20:31"
     },
     {
       "id": "mklb8y",
@@ -79,6 +101,17 @@
       "published": "2026-08-13 18:30"
     },
     {
+      "id": "n8lj2r",
+      "title": "Why Isn’t the Price of Oil Even Higher?",
+      "title_vi": "Tại sao giá dầu không cao hơn nữa?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://paulkrugman.substack.com/p/why-isnt-the-price-of-oil-even-higher",
+      "source": "Paul Krugman | Substack",
+      "category": "energy",
+      "published": "2026-08-13 17:31"
+    },
+    {
       "id": "1liyu78",
       "title": "High Oil Prices Deliver a Windfall for China’s Coal-to-Chemicals Industry",
       "title_vi": "Giá dầu cao mang lại vận may lớn cho ngành công nghiệp chuyển hóa than thành hóa chất của Trung Quốc",
@@ -121,17 +154,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-08-13 14:19"
-    },
-    {
-      "id": "8tsmr2",
-      "title": "South Korean Fleet Reshuffle Creates Asia’s Largest LNG Carrier Operator",
-      "title_vi": "Cải tổ đội tàu Hàn Quốc tạo ra nhà khai thác tàu sân bay LNG lớn nhất châu Á",
-      "summary_vi": "Công ty cổ phần tư nhân Hàn Quốc Hahn & Co có kế hoạch cải tổ đội tàu chở khí đốt tự nhiên hóa lỏng của các công ty vận tải SK Shipping và H-Line Shipping để tạo ra nhà khai thác tàu chở LNG lớn nhất châu Á và lớn thứ ba thế giới. Theo thỏa thuận được công bố bởi sh",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-13_tc0y8zo3mi.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/SK-Shipping-to-Become-Asias-Largest-LNG-Carrier-Operator.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-13 13:50"
     },
     {
       "id": "5919i3",
@@ -528,28 +550,6 @@
       "source": "CryptoRank",
       "category": "macro",
       "published": "2026-08-12 03:33"
-    },
-    {
-      "id": "h8y6s3",
-      "title": "Dollar steady as traders await key US inflation data",
-      "title_vi": "Đồng đô la ổn định khi các nhà giao dịch chờ đợi dữ liệu lạm phát quan trọng của Mỹ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/asia-pacific/yen-steadies-intervention-boost-fades-rba-focus-2026-08-11/",
-      "source": "Reuters",
-      "category": "macro",
-      "published": "2026-08-12 03:21"
-    },
-    {
-      "id": "5wo7ny",
-      "title": "What is &#8220;Strong&#8221; Coffee? It May Depend on Cultural Context",
-      "title_vi": "Cà phê “Mạnh” là gì? Nó có thể phụ thuộc vào bối cảnh văn hóa",
-      "summary_vi": "Khi người tiêu dùng nói rằng họ muốn một loại cà phê “mạnh”, họ có thể đang đề cập đến bất kỳ đặc tính nào - vị đắng, màu sẫm, mùi thơm khi rang hoặc sự kích thích liên quan đến caffeine - trong phạm vi rộng hơn...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/08/11/what-is-strong-coffee-it-may-depend-on-cultural-context/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-08-12 02:37"
     }
   ]
 }

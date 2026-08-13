@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 10:02",
+  "updated_at": "2026-08-13 11:01",
   "items": [
     {
       "id": "zm3e9f",
@@ -77,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-13 04:00"
+    },
+    {
+      "id": "1oriqn4",
+      "title": "Gold price tops $4,400 as cooling US inflation fuels Fed rate-cut hopes",
+      "title_vi": "Giá vàng lên tới 4.400 USD khi lạm phát ở Mỹ giảm bớt hy vọng cắt giảm lãi suất của Fed",
+      "summary_vi": "BitcoinWorld Giá vàng đạt mức 4.400 USD khi lạm phát ở Mỹ giảm bớt hy vọng cắt giảm lãi suất của Fed Giá vàng đã tăng lên trên 4.400 USD/ounce vào [Date], đánh dấu một",
+      "image": "https://cryptorank.io/static/pages-preview/main-page.png",
+      "link": "https://cryptorank.io/news/feed/e96ef-gold-price-tops-4400-inflation-fed",
+      "source": "CryptoRank",
+      "category": "macro",
+      "published": "2026-08-13 03:58"
     },
     {
       "id": "1lkwmz1",
@@ -352,17 +363,6 @@
       "source": "futuremarketinsights.com",
       "category": "soft",
       "published": "2026-08-12 12:47"
-    },
-    {
-      "id": "1ezo73s",
-      "title": "Gold rises over 1% as US inflation data dents rate hike bets",
-      "title_vi": "Vàng tăng hơn 1% khi dữ liệu lạm phát của Mỹ làm giảm kỳ vọng tăng lãi suất",
-      "summary_vi": "Vàng tăng, được hỗ trợ bởi kỳ vọng giảm bớt kỳ vọng về việc tăng lãi suất của Cục Dự trữ Liên bang vào tháng tới khi những người tham gia thị trường chờ đợi dữ liệu lạm phát quan trọng của Hoa Kỳ.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108272851-1772555762829-gettyimages-2259128701-20090101260203-99-367219.jpeg?v=1774608087&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/08/12/gold-rebounds-towards-10-week-high-as-markets-brace-for-us-cpi-data.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-08-12 12:15"
     },
     {
       "id": "62of3l",

@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-13 22:18",
+  "updated_at": "2026-08-13 23:01",
   "items": [
+    {
+      "id": "503lfp",
+      "title": "UK Economy Remains Resilient Despite Iran War and Higher Energy Prices",
+      "title_vi": "Nền kinh tế Anh vẫn kiên cường bất chấp chiến tranh Iran và giá năng lượng cao hơn",
+      "summary_vi": "Dữ liệu chính thức tiết lộ nền kinh tế Anh đã tăng trưởng 0,4% trong khoảng thời gian từ tháng 4 đến tháng 6, một dấu hiệu cho thấy các doanh nghiệp và người tiêu dùng cho đến nay đã vượt qua được những cú sốc tồi tệ nhất của cuộc chiến ở Iran. Con số tăng trưởng từ Văn phòng Thống kê Quốc gia phù hợp với kỳ vọng của các nhà phân tích",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-13_3nxlz2rk4j.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/UK-Economy-Remains-Resilient-Despite-Iran-War-and-Higher-Energy-Prices.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-08-13 23:00"
+    },
+    {
+      "id": "brxay5",
+      "title": "Ukraine Strikes Gazprom&#039;s 200,000-Bpd Salavat Refinery in the Urals",
+      "title_vi": "Ukraine tấn công nhà máy lọc dầu Salavat công suất 200.000 Bpd của Gazprom ở vùng Urals",
+      "summary_vi": "Ukraine hôm thứ Năm đã tấn công một nhà máy lọc dầu lớn khác của Nga, tấn công khu phức hợp Neftekhim Salavat của Gazprom ở Urals khi Kyiv tăng cường các cuộc tấn công buộc Moscow phải hạn chế xuất khẩu nhiên liệu và thậm chí nhập khẩu xăng. Vụ tấn công gây ra hỏa hoạn tại nhà máy sản xuất 200.000 thùng mỗi ngày",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-13_usnbfjpmt2.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Strikes-Gazproms-200000-Bpd-Salavat-Refinery-in-the-Urals.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-13 22:30"
+    },
     {
       "id": "16pet8c",
       "title": "CONAB raises Brazil corn outlook, cuts soybeans slightly",
@@ -132,28 +154,6 @@
       "source": "Paul Krugman | Substack",
       "category": "energy",
       "published": "2026-08-13 17:31"
-    },
-    {
-      "id": "1liyu78",
-      "title": "High Oil Prices Deliver a Windfall for China’s Coal-to-Chemicals Industry",
-      "title_vi": "Giá dầu cao mang lại vận may lớn cho ngành công nghiệp chuyển hóa than thành hóa chất của Trung Quốc",
-      "summary_vi": "Nhà sản xuất than thành hóa chất lớn nhất Trung Quốc đã báo cáo lợi nhuận kỷ lục trong nửa đầu năm, thu về tương đương 1,4 tỷ USD khi giá dầu thô tăng vọt trên thị trường quốc tế, củng cố khả năng kinh doanh chuyển đổi than thành hóa chất. Bloomberg đưa tin hôm nay rằng Ninh Hạ Baof",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-13_821rajstxe.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/High-Oil-Prices-Deliver-a-Windfall-for-Chinas-Coal-to-Chemicals-Industry.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-13 17:30"
-    },
-    {
-      "id": "16k1zms",
-      "title": "New Zealand Approves New Oil and Gas Production as Energy Security Concerns Grow",
-      "title_vi": "New Zealand phê duyệt sản xuất dầu khí mới khi mối lo ngại về an ninh năng lượng ngày càng tăng",
-      "summary_vi": "Cơ quan quản lý dầu mỏ và khai thác mỏ của New Zealand đã cấp giấy phép khai thác dầu khí 10 năm ở khu vực Taranaki trên đất liền khi nước này tìm cách tăng cường cung cấp khí đốt tự nhiên cho thị trường nội địa. Cơ quan quản lý Dầu khí và Khoáng sản New Zealand (NZP&M), hôm thứ Năm đã cấp cho Matahi",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-13_u7ijsgez8p.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/New-Zealand-Approves-New-Oil-and-Gas-Production-as-Energy-Security-Concerns-Grow.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-13 16:30"
     },
     {
       "id": "eqrsmw",
@@ -365,6 +365,17 @@
       "published": "2026-08-12 22:03"
     },
     {
+      "id": "1x3zo26",
+      "title": "China’s Sinopec Buys Russian Oil Imports to Offset Middle East Supply Cuts",
+      "title_vi": "Sinopec của Trung Quốc mua dầu nhập khẩu của Nga để bù đắp việc cắt giảm nguồn cung ở Trung Đông",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.instituteforenergyresearch.org/international-issues/chinas-sinopec-buys-russian-oil-imports-to-offset-middle-east-supply-cuts/",
+      "source": "The Institute for Energy Research",
+      "category": "energy",
+      "published": "2026-08-12 22:00"
+    },
+    {
       "id": "1dyayxv",
       "title": "Platinum climbs back above $1,760 as a fourth straight annual supply deficit bites",
       "title_vi": "Bạch kim tăng trở lại trên 1.760 USD khi thâm hụt nguồn cung hàng năm lần thứ tư liên tiếp",
@@ -539,17 +550,6 @@
       "source": "KITCO",
       "category": "metal",
       "published": "2026-08-12 07:00"
-    },
-    {
-      "id": "145wwj2",
-      "title": "Barclays Keeps $100 Brent Oil Forecast for 2026 But Risks Skew Higher",
-      "title_vi": "Barclays giữ dự báo giá dầu Brent 100 USD cho năm 2026 nhưng rủi ro nghiêng cao hơn",
-      "summary_vi": "Ngân hàng cho biết trong một báo cáo hôm thứ Sáu rằng Barclays đang duy trì dự báo giá dầu thô Brent trung bình năm 2026 ở mức 100 USD/thùng mặc dù rủi ro đang cao hơn. Trong giao dịch hôm thứ Sáu, giá dầu Brent tương lai ở mức khoảng 105 USD/thùng do các nhà đầu tư nghi ngờ về triển vọng đột phá trong hòa bình Mỹ-Iran…",
-      "image": "https://energynow.com/wp-content/uploads/Oil-Price-Shock-Oil-Over-100-1200x810-1.jpg",
-      "link": "https://energynow.com/2026/05/barclays-keeps-100-brent-oil-forecast-for-2026-but-risks-skew-higher/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-08-12 06:01"
     }
   ]
 }

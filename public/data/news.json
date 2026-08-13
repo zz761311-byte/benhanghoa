@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-14 02:29",
+  "updated_at": "2026-08-14 03:01",
   "items": [
+    {
+      "id": "1vj9oaw",
+      "title": "Solar Surpasses Wind In Global Electricity Generation For The First Time",
+      "title_vi": "Lần đầu tiên năng lượng mặt trời vượt qua gió trong sản xuất điện toàn cầu",
+      "summary_vi": "Năm 2007, gần hai thập kỷ trước, tôi đã viết một bài báo có tựa đề “Tương lai là năng lượng mặt trời”. Vào thời điểm đó, lập luận của tôi chủ yếu dựa trên tính hiệu quả. Tôi đã so sánh nhiên liệu sinh học với năng lượng mặt trời trực tiếp và nhận thấy các tấm pin mặt trời có thể thu năng lượng mặt trời hiệu quả hơn bao nhiêu so với các tấm pin mặt trời.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-13_nqkfnpe243.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Surpasses-Wind-In-Global-Electricity-Generation-For-The-First-Time.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-14 03:00"
+    },
+    {
+      "id": "1cg0y22",
+      "title": "U.S. Backs X-Energy Reactor With Up to $2.15 Billion",
+      "title_vi": "Hoa Kỳ ủng hộ lò phản ứng năng lượng X với số tiền lên tới 2,15 tỷ USD",
+      "summary_vi": "Washington đang đầu tư tiền thật vào chương trình hạt nhân tiên tiến. Bộ Năng lượng Hoa Kỳ đang chuẩn bị trao cho X-energy thêm 1 tỷ USD cho dự án hạt nhân theo kế hoạch của họ với Dow ở Texas, nâng tổng nguồn vốn liên bang dành cho dự án kể từ năm 2021 lên tới 2,15 tỷ USD.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-13_z3wzlogmsb.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Backs-X-Energy-Reactor-With-Up-to-215-Billion.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-14 02:30"
+    },
     {
       "id": "da20",
       "title": "Russia’s Diesel Exports Crash to Multiyear-Low amid Tight Global Market",
@@ -112,17 +134,6 @@
       "published": "2026-08-13 23:00"
     },
     {
-      "id": "brxay5",
-      "title": "Ukraine Strikes Gazprom&#039;s 200,000-Bpd Salavat Refinery in the Urals",
-      "title_vi": "Ukraine tấn công nhà máy lọc dầu Salavat công suất 200.000 Bpd của Gazprom ở vùng Urals",
-      "summary_vi": "Ukraine hôm thứ Năm đã tấn công một nhà máy lọc dầu lớn khác của Nga, tấn công khu phức hợp Neftekhim Salavat của Gazprom ở Urals khi Kyiv tăng cường các cuộc tấn công buộc Moscow phải hạn chế xuất khẩu nhiên liệu và thậm chí nhập khẩu xăng. Vụ tấn công gây ra hỏa hoạn tại nhà máy sản xuất 200.000 thùng mỗi ngày",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-13_usnbfjpmt2.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Strikes-Gazproms-200000-Bpd-Salavat-Refinery-in-the-Urals.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-13 22:30"
-    },
-    {
       "id": "16pet8c",
       "title": "CONAB raises Brazil corn outlook, cuts soybeans slightly",
       "title_vi": "CONAB nâng triển vọng ngô Brazil, giảm nhẹ đậu nành",
@@ -132,17 +143,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-08-13 22:13"
-    },
-    {
-      "id": "wtpknm",
-      "title": "Hormuz Stalemate Raises Risk of $120 Oil",
-      "title_vi": "Bế tắc Hormuz làm tăng rủi ro giá dầu lên 120 USD",
-      "summary_vi": "Trong nhiều tháng nay, các nhà giao dịch và nhà phân tích thị trường đã phải cân nhắc hai kịch bản trái ngược nhau về giá dầu – chiến tranh đang diễn ra và dòng chảy dầu bị gián đoạn nghiêm trọng ở eo biển Hormuz và hy vọng rằng một thỏa thuận Mỹ-Iran sẽ giải phóng hàng triệu thùng dầu và các sản phẩm đã lọc bị mắc kẹt trong eo biển này.",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Hormuz-Stalemate-Raises-Risk-of-120-Oil.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-13 22:00"
     },
     {
       "id": "dozios",
@@ -200,6 +200,17 @@
       "published": "2026-08-13 19:25"
     },
     {
+      "id": "n3ltc2",
+      "title": "Gold, Silver, US Dollar Outlook: Reversal Risks in Focus",
+      "title_vi": "Triển vọng về Vàng, Bạc, Đô la Mỹ: Trọng tâm là Rủi ro đảo ngược",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forex.com/en-us/news-and-analysis/gold-silver-us-dollar-outlook-reversal-risks-in-focus/?amp",
+      "source": "FOREX.com",
+      "category": "metal",
+      "published": "2026-08-13 19:22"
+    },
+    {
       "id": "1crerma",
       "title": "Ukraine’s drones hit a major Russian refinery 800 miles from the border, sparking a fire - ABC News",
       "title_vi": "Máy bay không người lái của Ukraine tấn công một nhà máy lọc dầu lớn của Nga cách biên giới 800 dặm, gây cháy - ABC News",
@@ -220,6 +231,28 @@
       "source": "Paul Krugman | Substack",
       "category": "energy",
       "published": "2026-08-13 17:31"
+    },
+    {
+      "id": "1yjsrhy",
+      "title": "World’s largest jeweler bets on platinum despite falling silver prices, CEO tells CNBC",
+      "title_vi": "CEO nói với CNBC: Hãng kim hoàn lớn nhất thế giới đặt cược vào bạch kim dù giá bạc giảm",
+      "summary_vi": "Pandora đang tiến lên phía trước với đồ trang sức mạ bạch kim khi hãng tìm cách giảm mức độ tham gia với giá bạc biến động bất chấp sự sụt giảm gần đây của kim loại này.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108142042-1746613916225-gettyimages-1162844937-DENMARK_PANDORA.jpeg?v=1746614079&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/13/pandora-platinum-plated-jewelry-silver-prices.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-08-13 15:59"
+    },
+    {
+      "id": "p9ymvj",
+      "title": "China has wrested control of oil markets from OPEC",
+      "title_vi": "Trung Quốc giành quyền kiểm soát thị trường dầu mỏ từ OPEC",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.economist.com/leaders/2026/08/13/china-has-wrested-control-of-oil-markets-from-opec",
+      "source": "The Economist",
+      "category": "energy",
+      "published": "2026-08-13 15:45"
     },
     {
       "id": "1sjrr47",
@@ -264,17 +297,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-08-13 13:10"
-    },
-    {
-      "id": "yvojco",
-      "title": "Gold, silver price prediction: Is gold, silver bull run back? Check outlook on August 13, 2026",
-      "title_vi": "Dự đoán giá vàng, bạc: Vàng, bạc bò trở lại? Kiểm tra triển vọng vào ngày 13 tháng 8 năm 2026",
-      "summary_vi": "Dự đoán giá vàng và bạc hôm nay: Cả giá vàng và bạc đều có xu hướng tăng trong vài phiên qua, Abhilash Koikkara, Trưởng bộ phận Forex & Hàng hóa, Nhóm khách hàng chuyên nghiệp Nuvama cho biết.",
-      "image": "https://static.toiimg.com/thumb/msid-133200175,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-august-13-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/133200029.cms",
-      "source": "The Times of India",
-      "category": "metal",
-      "published": "2026-08-13 13:04"
     },
     {
       "id": "dkklzl",
@@ -528,28 +550,6 @@
       "source": "eia.gov",
       "category": "energy",
       "published": "2026-08-12 20:12"
-    },
-    {
-      "id": "migunf",
-      "title": "Aillio Opens Latin America Showroom in El Salvador",
-      "title_vi": "Aillio mở phòng trưng bày Châu Mỹ Latinh ở El Salvador",
-      "summary_vi": "Nhà sản xuất thiết bị rang cà phê Aillio do Đan Mạch sáng lập đã mở trụ sở và phòng trưng bày ở Châu Mỹ Latinh tại San Salvador, El Salvador vào tháng 7, thu hút nhiều khách hàng hơn ở những nơi sản xuất cà phê...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/08/12/aillio-opens-latin-america-showroom-in-el-salvador/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-08-12 19:45"
-    },
-    {
-      "id": "ga829r",
-      "title": "Proposed tariff on brass instruments raises concerns for music retailers, students",
-      "title_vi": "Mức thuế đề xuất đối với nhạc cụ bằng đồng gây lo ngại cho các nhà bán lẻ âm nhạc, sinh viên",
-      "summary_vi": "Mức thuế dành cho nhạc cụ bằng đồng được đề xuất có thể làm tăng chi phí cho kèn, kèn trombone và các loại gió bằng đồng khác. Đây là ý nghĩa của nó đối với học sinh và gia đình.",
-      "image": "https://kubrick.htvapps.com/vidthumb/011a820b-67c4-4cf9-ad1b-d86cb100d302/16d47d5a-799c-49f6-8789-f045b72a6522.jpg?crop=0.795xw%3A0.795xh%3B0.0163xw%2C0&resize=1200%3A*",
-      "link": "https://www.kcci.com/article/tariff-brass-instruments-concerns-music-retailers-students-iowa/73408784",
-      "source": "KCCI",
-      "category": "macro",
-      "published": "2026-08-12 19:07"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 23:01",
+  "updated_at": "2026-08-13 23:12",
   "items": [
     {
       "id": "503lfp",
@@ -299,6 +299,17 @@
       "published": "2026-08-13 01:00"
     },
     {
+      "id": "oqead8",
+      "title": "IEA revises down 2026 oil demand forecast",
+      "title_vi": "IEA điều chỉnh giảm dự báo nhu cầu dầu năm 2026",
+      "summary_vi": "Cơ quan Năng lượng Quốc tế đã cắt giảm triển vọng nhu cầu dầu toàn cầu năm 2026 và cảnh báo rằng rủi ro nguồn cung dầu vẫn tăng cao trong bối cảnh xuất khẩu của vùng Vịnh bị gián đoạn.",
+      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/08/6a7ca4403cc13d2f51ac577b-260812_187813688__khwaneigq_dreamstime.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "link": "https://www.ogj.com/general-interest/economics-markets/news/55397558/iea-revises-down-2026-oil-demand-forecast",
+      "source": "Oil & Gas Journal",
+      "category": "energy",
+      "published": "2026-08-13 00:08"
+    },
+    {
       "id": "12hmjjx",
       "title": "USDA cuts corn and soybean yield forecasts in August reports",
       "title_vi": "USDA cắt giảm dự báo năng suất ngô và đậu tương trong báo cáo tháng 8",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "soft",
       "published": "2026-08-12 08:07"
-    },
-    {
-      "id": "306s7d",
-      "title": "Silver Price Canada Today | Live Silver Price in CAD",
-      "title_vi": "Giá Bạc Canada Hôm Nay | Giá bạc trực tiếp bằng CAD",
-      "summary_vi": "Giá bạc trực tiếp bằng CAD. Theo dõi giá bạc giao ngay hôm nay bằng đô la Canada mỗi ounce, gam và kilo bằng biểu đồ bạc Canada theo thời gian thực của Kitco.",
-      "image": "",
-      "link": "https://www.kitco.com/price/silver-price-cad",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-08-12 07:00"
     }
   ]
 }

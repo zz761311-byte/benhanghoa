@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 19:35",
+  "updated_at": "2026-08-13 20:01",
   "items": [
     {
       "id": "xv3by",
@@ -176,6 +176,17 @@
       "source": "CryptoRank",
       "category": "macro",
       "published": "2026-08-13 03:58"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-08-13 03:03"
     },
     {
       "id": "1lkwmz1",
@@ -539,17 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-08-12 01:39"
-    },
-    {
-      "id": "1t4bfx5",
-      "title": "Copper price back at record’s edge as Grasberg smelter halt bites, aluminum surges",
-      "title_vi": "Giá đồng trở lại mức kỷ lục khi nhà máy luyện Grasberg ngừng sản xuất, nhôm tăng vọt",
-      "summary_vi": "Toàn bộ đường cong Comex đang ở mức kỷ lục, với hợp đồng năm 2027 trên 7 đô la một pound, tuy nhiên các cổ phiếu khai thác đồng đã có một trong những phiên tồi tệ nhất trong mùa hè.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/04/AdobeStock_517714385-1024x683.jpeg",
-      "link": "https://www.mining.com/copper-price-back-at-records-edge-as-grasberg-smelter-halt-bites-aluminum-surges/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-08-12 01:12"
     }
   ]
 }

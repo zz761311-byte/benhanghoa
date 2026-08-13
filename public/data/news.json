@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-14 04:09",
+  "updated_at": "2026-08-14 05:06",
   "items": [
+    {
+      "id": "onshf6",
+      "title": "U.S. Power Grid Strains Under Record Electricity Demand",
+      "title_vi": "Lưới điện Hoa Kỳ căng thẳng vì nhu cầu điện kỷ lục",
+      "summary_vi": "Nhu cầu điện của Hoa Kỳ dự kiến ​​sẽ đạt mức cao nhất mọi thời đại trong cả năm nay và năm tới, do việc xây dựng trung tâm dữ liệu của Big Tech. Đây là dự báo mới nhất trong loạt dự báo về nhu cầu kỷ lục của Cơ quan Thông tin Năng lượng. Tuy nhiên, có một vấn đề. Vấn đề đó",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-13_mnkzab4gye.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Power-Grid-Strains-Under-Record-Electricity-Demand.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-14 05:00"
+    },
+    {
+      "id": "1g1wwm",
+      "title": "Lower Production Increases the Global Sugar Deficit",
+      "title_vi": "Sản lượng thấp hơn làm tăng thâm hụt đường toàn cầu",
+      "summary_vi": "Sản lượng thấp hơn làm tăng thâm hụt đường toàn cầu",
+      "image": "https://webapi.czapp.com/api/v1/attachments/3445a133-70c0-4ba6-a076-56da14ca1572.png",
+      "link": "https://www.czapp.com/analyst-insights/lower-production-increases-the-global-sugar-deficit/",
+      "source": "czapp.com",
+      "category": "soft",
+      "published": "2026-08-14 04:22"
+    },
     {
       "id": "1verobp",
       "title": "China Races to Finish Molten-Salt Solar Plant as Stocks Whipsaw",
@@ -121,17 +143,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-08-13 23:47"
-    },
-    {
-      "id": "1ms1vfv",
-      "title": "Porsche to Phase Out Taycan by 2030 Amid Weak EV Demand",
-      "title_vi": "Porsche sẽ loại bỏ Taycan vào năm 2030 trong bối cảnh nhu cầu xe điện yếu",
-      "summary_vi": "Porsche được cho là đang chuẩn bị ngừng sản xuất mẫu xe thể thao chạy điện hàng đầu Taycan vào năm 2030, đánh dấu bước thụt lùi lớn cho chiến lược điện khí hóa mạnh mẽ một thời của hãng xe Đức. WirtschaftsWoche của Đức đã báo cáo hôm thứ Năm rằng ban lãnh đạo Porsche và các hoạt động của nó",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-13_kcdgxlvfq0.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Porsche-to-Phase-Out-Taycan-by-2030-Amid-Weak-EV-Demand.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-13 23:30"
     },
     {
       "id": "16pet8c",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-08-12 21:02"
-    },
-    {
-      "id": "1sx7707",
-      "title": "United States on track for record natural gas production in 2026",
-      "title_vi": "Hoa Kỳ trên đà sản xuất khí đốt tự nhiên kỷ lục vào năm 2026",
-      "summary_vi": "Cơ quan Thông tin Năng lượng - EIA - Thống kê Năng lượng Chính thức của Chính phủ Hoa Kỳ",
-      "image": "",
-      "link": "https://www.eia.gov/todayinenergy/detail.php?id",
-      "source": "eia.gov",
-      "category": "energy",
-      "published": "2026-08-12 20:12"
     }
   ]
 }

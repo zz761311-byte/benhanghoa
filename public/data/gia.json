@@ -1,5 +1,5 @@
 {
- "capNhat": "2026-08-14T21:39:11.783Z",
+ "capNhat": "2026-08-14T22:38:50.390Z",
  "nguon": "Yahoo Finance",
  "soMatHang": 18,
  "tyGia": {
@@ -13,7 +13,7 @@
    "dongCuaTruoc": 81.25,
    "doi": 1.15,
    "doiPhanTram": 1.42,
-   "caoTrongNgay": 82.99,
+   "caoTrongNgay": 82.98,
    "thapTrongNgay": 80.71,
    "cao52Tuan": 119.48,
    "thap52Tuan": 54.98,
@@ -166,7 +166,7 @@
    "dongCuaTruoc": 3.128,
    "doi": -0.2272,
    "doiPhanTram": -7.26,
-   "caoTrongNgay": 2.9096,
+   "caoTrongNgay": 2.9094,
    "thapTrongNgay": 2.8327,
    "cao52Tuan": 3.8232,
    "thap52Tuan": 1.6656,
@@ -725,7 +725,7 @@
     "gia": 4377.6001,
     "lechSoVoiHopDong": 1.24,
     "nguon": "gold-api.com",
-    "capNhat": "2026-08-14T21:38:54Z"
+    "capNhat": "2026-08-14T22:38:24Z"
    }
   },
   "bac": {
@@ -733,7 +733,7 @@
    "dongCuaTruoc": 64.873,
    "doi": -0.048,
    "doiPhanTram": -0.07,
-   "caoTrongNgay": 65.885,
+   "caoTrongNgay": 65.875,
    "thapTrongNgay": 63.645,
    "cao52Tuan": 121.3,
    "thap52Tuan": 37.205,
@@ -782,7 +782,7 @@
     "gia": 64.827,
     "lechSoVoiHopDong": 0,
     "nguon": "gold-api.com",
-    "capNhat": "2026-08-14T21:38:54Z"
+    "capNhat": "2026-08-14T22:38:24Z"
    }
   },
   "dong": {
@@ -848,7 +848,7 @@
    "doiMotTuan": 0.38,
    "doiMotThang": 7.68,
    "doiMotNam": 30.1,
-   "khoiLuong30Phien": 12097,
+   "khoiLuong30Phien": 12081,
    "tienTe": "USD",
    "tenHopDong": "Platinum Oct 26",
    "kyHan": "T10/26",
@@ -890,7 +890,7 @@
     "gia": 1755,
     "lechSoVoiHopDong": 0.1,
     "nguon": "gold-api.com",
-    "capNhat": "2026-08-14T21:38:57Z"
+    "capNhat": "2026-08-14T22:38:27Z"
    }
   },
   "nhom": {

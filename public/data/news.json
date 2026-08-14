@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 22:01",
+  "updated_at": "2026-08-14 22:09",
   "items": [
     {
       "id": "1k8brwf",
@@ -22,6 +22,17 @@
       "source": "techcrunch.com",
       "category": "energy",
       "published": "2026-08-14 21:05"
+    },
+    {
+      "id": "1v23fih",
+      "title": "The 2026 World AeroPress Championship Heads to Mexico City",
+      "title_vi": "Giải vô địch hàng không thế giới năm 2026 hướng tới thành phố Mexico",
+      "summary_vi": "Lần đầu tiên sau 18 mùa giải, Giải vô địch hàng không thế giới diễn ra tại Thành phố Mexico.  Sự kiện sẽ diễn ra vào Chủ Nhật, ngày 6 tháng 12, tại Frontón Bucareli ở...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/08/14/the-2026-world-aeropress-championship-heads-to-mexico-city/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-08-14 21:03"
     },
     {
       "id": "r0iwzb",
@@ -539,17 +550,6 @@
       "source": "Advisor Perspectives",
       "category": "energy",
       "published": "2026-08-13 03:01"
-    },
-    {
-      "id": "1bfbfen",
-      "title": "US Natural Gas Production Seen Hitting Record Despite Lower Prices",
-      "title_vi": "Sản lượng khí đốt tự nhiên của Hoa Kỳ đạt kỷ lục mặc dù giá thấp hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/us-natural-gas-production-seen-hitting-record-despite-lower-prices/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-08-13 02:15"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-14 18:01",
+  "updated_at": "2026-08-14 18:32",
   "items": [
+    {
+      "id": "ugv1aq",
+      "title": "Drone Strike Sparks Blaze at Key Russian Oil and Fuel Terminal",
+      "title_vi": "Máy bay không người lái tấn công gây cháy nổ tại nhà ga nhiên liệu và dầu mỏ quan trọng của Nga",
+      "summary_vi": "Ust-Luga, cảng hàng đầu của Nga về xuất khẩu dầu và các hàng hóa khác từ Biển Baltic, đã bốc cháy vào sáng sớm thứ Sáu sau một cuộc tấn công bằng máy bay không người lái trong đêm từ Ukraine. Thống đốc Alexander Drozdenko phát hiện đám cháy tại cảng Ust-Luga do máy bay không người lái gây hư hại",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-14_v6cjdmexpj.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strike-Sparks-Blaze-at-Key-Russian-Oil-and-Fuel-Terminal.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-14 18:30"
+    },
     {
       "id": "8cj7he",
       "title": "Middle East Oil Tankers Are Going Dark for Longer",
@@ -121,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-14 06:00"
-    },
-    {
-      "id": "onshf6",
-      "title": "U.S. Power Grid Strains Under Record Electricity Demand",
-      "title_vi": "Lưới điện Hoa Kỳ căng thẳng vì nhu cầu điện kỷ lục",
-      "summary_vi": "Nhu cầu điện của Hoa Kỳ dự kiến ​​sẽ đạt mức cao nhất mọi thời đại trong cả năm nay và năm tới, do việc xây dựng trung tâm dữ liệu của Big Tech. Đây là dự báo mới nhất trong loạt dự báo về nhu cầu kỷ lục của Cơ quan Thông tin Năng lượng. Tuy nhiên, có một vấn đề. Vấn đề đó",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-13_mnkzab4gye.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Power-Grid-Strains-Under-Record-Electricity-Demand.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-14 05:00"
     },
     {
       "id": "s7avnb",
@@ -286,17 +286,6 @@
       "source": "upi.com",
       "category": "agri",
       "published": "2026-08-13 19:14"
-    },
-    {
-      "id": "1crerma",
-      "title": "Ukraine’s drones hit a major Russian refinery 800 miles from the border, sparking a fire - ABC News",
-      "title_vi": "Máy bay không người lái của Ukraine tấn công một nhà máy lọc dầu lớn của Nga cách biên giới 800 dặm, gây cháy - ABC News",
-      "summary_vi": "Máy bay không người lái của Ukraine đã tấn công một nhà máy lọc dầu lớn ở Nga, đánh dấu cuộc tấn công thứ tư trong ba ngày",
-      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "link": "https://abcnews.com/International/wireStory/ukraines-drones-hit-major-russian-refinery-800-miles-135605504",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-08-13 18:56"
     },
     {
       "id": "n8lj2r",
@@ -550,6 +539,17 @@
       "source": "Investing.com",
       "category": "soft",
       "published": "2026-08-12 23:02"
+    },
+    {
+      "id": "1budhm1",
+      "title": "Damage Assessments Underway in Colombia Following Deadly Earthquake",
+      "title_vi": "Đánh giá thiệt hại đang được tiến hành ở Colombia sau trận động đất chết người",
+      "summary_vi": "Một trận động đất mạnh 7,4 độ richter đã làm rung chuyển các vùng trồng cà phê ở miền Tây Colombia hôm thứ Hai, khiến ít nhất 250 người thiệt mạng, trong khi việc đánh giá thiệt hại đang diễn ra. Trận động đất xảy ra lúc 7h34 sáng giờ địa phương...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/08/12/damage-assessments-underway-in-colombia-following-deadly-earthquake/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-08-12 22:21"
     }
   ]
 }

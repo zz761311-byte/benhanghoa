@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 02:01",
+  "updated_at": "2026-08-15 02:17",
   "items": [
     {
       "id": "in37je",
@@ -365,6 +365,17 @@
       "published": "2026-08-13 23:18"
     },
     {
+      "id": "ugmhcl",
+      "title": "Corn Sees Profit Taking Post Report with Beans, Wheat Firm: Cattle and Hogs Fall Hard",
+      "title_vi": "Ngô thấy báo cáo thu lợi nhuận với đậu, công ty lúa mì: Gia súc và lợn giảm mạnh",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/corn-sees-profit-taking-post-report-bean-wheat-cattle-and-hogs-fall-hard",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-08-13 23:02"
+    },
+    {
       "id": "16pet8c",
       "title": "CONAB raises Brazil corn outlook, cuts soybeans slightly",
       "title_vi": "CONAB nâng triển vọng ngô Brazil, giảm nhẹ đậu nành",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-08-13 13:10"
-    },
-    {
-      "id": "dkklzl",
-      "title": "Stocks gain as US inflation worries ease, oil slips",
-      "title_vi": "Chứng khoán tăng khi nỗi lo lạm phát của Mỹ giảm bớt, giá dầu trượt dốc",
-      "summary_vi": "Thị trường chứng khoán hầu như đều tăng điểm vào thứ Năm khi các nhà đầu tư hoan nghênh những dấu hiệu tiếp theo về lạm phát của Mỹ giảm bớt, khiến triển vọng lãi suất cao hơn ở nền kinh tế lớn nhất thế giới ít có khả năng xảy ra.",
-      "image": "https://s.france24.com/media/display/28ab3e9e-96c0-11f1-9507-005056bfb2b6/w:1280/p:16x9/Part-GTY-2285223796-1-1-0.jpg",
-      "link": "https://www.france24.com/en/live-news/20260813-seoul-tech-leads-asian-stock-gains-as-traders-cheer-us-inflation",
-      "source": "France 24",
-      "category": "energy",
-      "published": "2026-08-13 09:39"
     }
   ]
 }

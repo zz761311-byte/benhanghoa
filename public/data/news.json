@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 04:10",
+  "updated_at": "2026-08-15 04:43",
   "items": [
     {
       "id": "aj20ga",
@@ -253,6 +253,17 @@
       "source": "IndexBox",
       "category": "metal",
       "published": "2026-08-14 09:36"
+    },
+    {
+      "id": "144ti7c",
+      "title": "Oil prices rally, US data dents chances of Fed rate hike",
+      "title_vi": "Giá dầu tăng, số liệu của Mỹ làm giảm khả năng Fed tăng lãi suất",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-08-14/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-08-14 09:32"
     },
     {
       "id": "kamrmo",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-08-13 14:19"
-    },
-    {
-      "id": "5919i3",
-      "title": "Antofagasta cuts output forecast after copper prices boost earnings",
-      "title_vi": "Antofagasta cắt giảm dự báo sản lượng sau khi giá đồng tăng thu nhập",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/antofagasta-first-half-earnings-rise-higher-copper-prices-offset-output-decline-2026-08-13/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-08-13 13:10"
     }
   ]
 }

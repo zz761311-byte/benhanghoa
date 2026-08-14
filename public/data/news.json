@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 01:01",
+  "updated_at": "2026-08-15 01:09",
   "items": [
     {
       "id": "in37je",
@@ -9,7 +9,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-13_zmxseyparq.jpg",
       "link": "https://oilprice.com/Geopolitics/Asia/Trumps-Tougher-Russia-Stance-Puts-Kazakhstan-in-a-Difficult-Position.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-08-15 01:00"
     },
     {
@@ -66,6 +66,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-14 22:30"
+    },
+    {
+      "id": "1t3o7k",
+      "title": "US on Track for Record Natural Gas Production in 2026",
+      "title_vi": "Hoa Kỳ đang trên đà đạt kỷ lục sản xuất khí đốt tự nhiên vào năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://tedmag.com/us-on-track-for-record-natural-gas-production-in-2026/",
+      "source": "the Electrical Distributor magazine",
+      "category": "energy",
+      "published": "2026-08-14 22:26"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-08-14 22:11"
     },
     {
       "id": "1k8brwf",
@@ -528,28 +550,6 @@
       "source": "Ethanol Producer Magazine",
       "category": "agri",
       "published": "2026-08-13 06:08"
-    },
-    {
-      "id": "z7ldvd",
-      "title": "Pan American Silver: Realized Silver Price More Than Doubles To $70.97 As Free Cash Flow Reaches $344 Million",
-      "title_vi": "Bạc Pan American: Giá bạc thực tế tăng gấp đôi lên 70,97 USD khi dòng tiền tự do đạt 344 triệu USD",
-      "summary_vi": "Giá bạc trung bình của Pan American Silver đã tăng hơn gấp đôi so với cùng kỳ năm ngoái lên 70,97 USD/ounce trong quý 2 năm 2026, giúp thúc đẩy dòng tiền tự do có thể phân bổ lên 344 triệu USD khi giá kim loại quý cao hơn và sản lượng bạc mạnh hơn đã thúc đẩy kết quả tài chính.",
-      "image": "https://cdn.pulse2.com/cdn/2023/01/Pan-American-Silver.jpg",
-      "link": "https://pulse2.com/pan-american-silver-realized-silver-price-more-than-doubles-to-70-97-as-free-cash-flow-reaches-344-million/",
-      "source": "Pulse 2.0",
-      "category": "metal",
-      "published": "2026-08-13 04:37"
-    },
-    {
-      "id": "mhz62j",
-      "title": "Refined oil prices face more pressure than crude, and consumers will pay the price",
-      "title_vi": "Giá dầu tinh luyện chịu nhiều áp lực hơn dầu thô, người tiêu dùng sẽ phải trả giá",
-      "summary_vi": "Các chuyên gia cho biết không có đủ công suất lọc dầu để hoạt động trong khi xung đột địa chính trị kéo dài, dẫn đến nguồn cung bị siết chặt.",
-      "image": "https://img.apmcdn.org/a63de891c1af8da0e2d3b01639b1c9f03a0d6265/widescreen/71ecb9-20260812-an-oil-refinery-2000.jpg",
-      "link": "https://www.marketplace.org/story/2026/08/12/crude-oil-is-expensive-but-refined-products-are-worse",
-      "source": "marketplace.org",
-      "category": "energy",
-      "published": "2026-08-13 04:00"
     }
   ]
 }

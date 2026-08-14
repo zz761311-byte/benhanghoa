@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-15 00:14",
+  "updated_at": "2026-08-15 01:01",
   "items": [
+    {
+      "id": "in37je",
+      "title": "Trump’s Tougher Russia Stance Puts Kazakhstan in a Difficult Position",
+      "title_vi": "Lập trường Nga cứng rắn hơn của Trump đặt Kazakhstan vào thế khó",
+      "summary_vi": "Kể từ khi trở lại Nhà Trắng vào đầu năm 2025, Tổng thống Donald Trump đã liên tục lập luận rằng cuộc chiến ở Ukraine nên kết thúc thông qua đàm phán. Ban đầu ông tin rằng việc giao tiếp trực tiếp với Tổng thống Nga Vladimir Putin có thể tạo điều kiện cho một bối cảnh chính trị",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-13_zmxseyparq.jpg",
+      "link": "https://oilprice.com/Geopolitics/Asia/Trumps-Tougher-Russia-Stance-Puts-Kazakhstan-in-a-Difficult-Position.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-15 01:00"
+    },
     {
       "id": "1qzou61",
       "title": "US Oil Drillers Add Even More Rigs As Oil Prices Stay Higher",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-14 23:21"
+    },
+    {
+      "id": "1u28ri4",
+      "title": "Bullish Forecast Trends Pushing Natural Gas Higher Ahead of Weekend",
+      "title_vi": "Xu hướng dự báo tăng giá đẩy khí tự nhiên tăng cao hơn trước cuối tuần",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/bullish-forecast-trends-pushing-natural-gas-higher-ahead-of-weekend/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-08-14 23:02"
     },
     {
       "id": "1f01pvq",
@@ -121,17 +143,6 @@
       "source": "Bloomberg.com",
       "category": "soft",
       "published": "2026-08-14 19:33"
-    },
-    {
-      "id": "1x0sk",
-      "title": "Hormuz Crisis Pushes Asian Refiners Toward U.S. Oil",
-      "title_vi": "Khủng hoảng Hormuz đẩy các nhà máy lọc dầu châu Á hướng tới dầu Mỹ",
-      "summary_vi": "Các nhà máy lọc dầu ở Bắc Á đã tăng cường hoạt động mua để đảm bảo nguồn cung dầu thô của Mỹ như một nguồn cung thay thế cho dầu thô Trung Đông có thể không xuất khẩu được ra khỏi eo biển Hormuz khi bế tắc Mỹ-Iran tiếp tục và điểm nghẽn vẫn đóng cửa một cách hiệu quả. Ít nhất f",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-14_4cisiuulyf.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Pushes-Asian-Refiners-Toward-US-Oil.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-14 19:30"
     },
     {
       "id": "9b22kf",
@@ -539,17 +550,6 @@
       "source": "marketplace.org",
       "category": "energy",
       "published": "2026-08-13 04:00"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-08-13 03:03"
     }
   ]
 }

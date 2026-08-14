@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-14 13:46",
+  "updated_at": "2026-08-14 15:04",
   "items": [
+    {
+      "id": "1qbvtbw",
+      "title": "Russia Captures Record Share of India’s Oil Market",
+      "title_vi": "Nga chiếm thị phần kỷ lục trên thị trường dầu mỏ của Ấn Độ",
+      "summary_vi": "Nhập khẩu dầu thô từ Nga chiếm hơn 50% tổng lượng nhập khẩu của Ấn Độ trong tháng trước. Đây là tỷ trọng dầu Nga cao nhất trong cơ cấu nhập khẩu của Ấn Độ, Reuters lưu ý trong một báo cáo trích dẫn các nguồn thương mại giấu tên. Nga xuất khẩu dầu thô với tốc độ khoảng 2,47 triệu thùng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-14_wlr5pfnsiy.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Captures-Record-Share-of-Indias-Oil-Market.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-14 14:00"
+    },
     {
       "id": "1tf0bmo",
       "title": "Oil Prices Head for 4% Weekly Gain as U.S.-Iran Deadlock Drags On",
@@ -121,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-14 02:30"
-    },
-    {
-      "id": "da20",
-      "title": "Russia’s Diesel Exports Crash to Multiyear-Low amid Tight Global Market",
-      "title_vi": "Xuất khẩu dầu diesel của Nga giảm xuống mức thấp nhất trong nhiều năm trong bối cảnh thị trường toàn cầu thắt chặt",
-      "summary_vi": "Xuất khẩu dầu diesel và dầu gasoil của Nga trong 7 ngày đầu tháng 8 đã giảm xuống chỉ còn 80.000 thùng/ngày (bpd), mức thấp nhất trong nhiều năm, do Moscow mở rộng hạn chế xuất khẩu dầu diesel trong bối cảnh cuộc khủng hoảng nhiên liệu gây ra bởi các cuộc tấn công liên tục của Ukraine vào các nhà máy lọc dầu của Nga. mu",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-13_0lfwsdoj1n.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Russias-Diesel-Exports-Crash-to-Multiyear-Low-amid-Tight-Global-Market.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-14 02:00"
     },
     {
       "id": "1bwzdjy",
@@ -286,6 +286,17 @@
       "source": "Paul Krugman | Substack",
       "category": "energy",
       "published": "2026-08-13 17:31"
+    },
+    {
+      "id": "1dlbhf9",
+      "title": "[MARKETANALYSIS] Crude subdued as geopolitical headlines quieten down, whilst metals give back yesterday’s gains",
+      "title_vi": "[PHÂN TÍCH THỊ TRƯỜNG] Dầu thô giảm khi các tin tức địa chính trị lắng xuống, trong khi kim loại lấy lại mức tăng của ngày hôm qua",
+      "summary_vi": "Hợp đồng tương lai WTI tháng 9 và Brent tháng 10 hôm nay giảm hơn 1 USD/thùng trong bối cảnh thiếu các cập nhật đáng chú ý liên quan đến Mỹ-Iran.",
+      "image": "https://www.newsquawk.com/assets/placeholder_images_for_news_by_category/Energy/1.png",
+      "link": "https://www.newsquawk.com/headlines/marketanalysis-crude-subdued-as-geopolitical-headlines-quieten-down-whilst-metals-give-back-yesterdays-gains",
+      "source": "Newsquawk",
+      "category": "macro",
+      "published": "2026-08-13 16:02"
     },
     {
       "id": "1yjsrhy",
@@ -539,17 +550,6 @@
       "source": "Nutritional Outlook",
       "category": "soft",
       "published": "2026-08-12 22:03"
-    },
-    {
-      "id": "1x3zo26",
-      "title": "China’s Sinopec Buys Russian Oil Imports to Offset Middle East Supply Cuts",
-      "title_vi": "Sinopec của Trung Quốc mua dầu nhập khẩu của Nga để bù đắp việc cắt giảm nguồn cung ở Trung Đông",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.instituteforenergyresearch.org/international-issues/chinas-sinopec-buys-russian-oil-imports-to-offset-middle-east-supply-cuts/",
-      "source": "The Institute for Energy Research",
-      "category": "energy",
-      "published": "2026-08-12 22:00"
     }
   ]
 }

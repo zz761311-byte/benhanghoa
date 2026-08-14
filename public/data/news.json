@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 23:00",
+  "updated_at": "2026-08-14 23:08",
   "items": [
     {
       "id": "1f01pvq",
@@ -409,6 +409,17 @@
       "published": "2026-08-13 19:14"
     },
     {
+      "id": "1crerma",
+      "title": "Ukraine’s drones hit a major Russian refinery 800 miles from the border, sparking a fire - ABC News",
+      "title_vi": "Máy bay không người lái của Ukraine tấn công một nhà máy lọc dầu lớn của Nga cách biên giới 800 dặm, gây cháy - ABC News",
+      "summary_vi": "Máy bay không người lái của Ukraine đã tấn công một nhà máy lọc dầu lớn ở Nga, đánh dấu cuộc tấn công thứ tư trong ba ngày",
+      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "link": "https://abcnews.com/International/wireStory/ukraines-drones-hit-major-russian-refinery-800-miles-135605504",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-08-13 18:56"
+    },
+    {
       "id": "n8lj2r",
       "title": "Why Isn’t the Price of Oil Even Higher?",
       "title_vi": "Tại sao giá dầu không cao hơn nữa?",
@@ -539,17 +550,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-08-13 03:03"
-    },
-    {
-      "id": "1lkwmz1",
-      "title": "Short-Term Energy Outlook: August 2026",
-      "title_vi": "Triển vọng năng lượng ngắn hạn: tháng 8 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.advisorperspectives.com/dshort/updates/2026/08/12/short-term-energy-outlook-august-2026",
-      "source": "Advisor Perspectives",
-      "category": "energy",
-      "published": "2026-08-13 03:01"
     }
   ]
 }

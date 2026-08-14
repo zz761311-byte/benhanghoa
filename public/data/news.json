@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 21:01",
+  "updated_at": "2026-08-14 21:04",
   "items": [
     {
       "id": "r0iwzb",
@@ -264,6 +264,17 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-08-13 23:47"
+    },
+    {
+      "id": "1efm245",
+      "title": "Antwerp diamond sector rejects link between Trump ring and tariff exemption",
+      "title_vi": "Ngành kim cương Antwerp bác bỏ mối liên hệ giữa chiếc nhẫn Trump và việc miễn thuế",
+      "summary_vi": "Ngành kim cương Antwerp đã bác bỏ cáo buộc rằng có mối liên hệ giữa chiếc nhẫn vàng 18 cara nạm 321 viên kim cương gần đây được tặng cho Tổng thống Mỹ Donald Trump và việc ngành công nghiệp kim cương châu Âu được miễn thuế quan mới vài tuần sau đó. “Cuộc thảo luận về thuế nhập khẩu của Mỹ hoàn toàn tách biệt với (",
+      "image": "https://image-api.prod.kitco.com/image/c4a46342-d7bc-442f-8c2c-8c402c7ef56b.webp?top=0&left=0.21813224267218&width=1919.5637355147&height=1080&scale_width=1920&token=c0bffe6d91a794d2b4d213c96c553b93b8e7ca4faf3f8ccc31c9d555c4a8f3ba",
+      "link": "https://www.kitco.com/news/off-the-wire/2026-08-13/antwerp-diamond-sector-rejects-link-between-trump-ring-and-tariff",
+      "source": "KITCO",
+      "category": "macro",
+      "published": "2026-08-13 23:38"
     },
     {
       "id": "htckmj",
@@ -539,17 +550,6 @@
       "source": "Russia Matters",
       "category": "energy",
       "published": "2026-08-13 01:53"
-    },
-    {
-      "id": "8wrho5",
-      "title": "Crop Production Report Shows Strong Corn Outlook, Continued Wheat Declines",
-      "title_vi": "Báo cáo sản xuất cây trồng cho thấy triển vọng ngô tăng trưởng mạnh, lúa mì tiếp tục giảm",
-      "summary_vi": "Cơ quan Thống kê Nông nghiệp Quốc gia (NASS) của Bộ Nông nghiệp Hoa Kỳ đã công bố báo cáo Sản lượng cây trồng tháng 8, cập nhật dự báo về các loại cây trồng chính của Hoa Kỳ sau khi xem xét diện tích và điều kiện tính đến ngày 1 tháng 8. Báo cáo dự báo sản lượng ngô cao thứ hai của Hoa Kỳ được ghi nhận, diện tích trồng bông lớn hơn",
-      "image": "",
-      "link": "https://www.oklahomafarmreport.com/2026/08/12/crop-production-report-shows-strong-corn-outlook-continued-wheat-declines/",
-      "source": "Oklahoma Farm Report",
-      "category": "agri",
-      "published": "2026-08-13 01:00"
     }
   ]
 }

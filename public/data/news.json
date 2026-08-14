@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 01:09",
+  "updated_at": "2026-08-15 02:01",
   "items": [
     {
       "id": "in37je",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-15 00:07"
+    },
+    {
+      "id": "1yirpbl",
+      "title": "Trump's New Drone Tariff Could Benefit These Under the Radar Stocks (NASDAQ: EMAT)",
+      "title_vi": "Thuế quan máy bay không người lái mới của Trump có thể mang lại lợi ích cho những cổ phiếu radar này (NASDAQ: EMAT)",
+      "summary_vi": "WSW, NY, ngày 14 tháng 8 năm 2026, FinanceWire Chiều hôm qua, Nhà Trắng đã áp đặt các mức thuế mới sâu rộng đối với máy bay không người lái cũng như các bộ phận và thành phần của chúng, thông tin này sẽ được trình bày chi tiết hơn trong tờ thông tin toàn diện của Nhà Trắng. Con số nặng nhất, mức thuế theo giá trị 100%, rơi vào khu vực nhạy cảm nhất…",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://www.tradingview.com/news/financewire:03d68c086094b:0-trump-s-new-drone-tariff-could-benefit-these-under-the-radar-stocks-nasdaq-emat/",
+      "source": "TradingView",
+      "category": "macro",
+      "published": "2026-08-14 23:35"
     },
     {
       "id": "d7pibn",
@@ -539,17 +550,6 @@
       "source": "France 24",
       "category": "energy",
       "published": "2026-08-13 09:39"
-    },
-    {
-      "id": "m4wob2",
-      "title": "August WASDE maintains outlook for 2026-’27 corn use in ethanol",
-      "title_vi": "Tháng 8 WASDE duy trì triển vọng sử dụng ngô trong ethanol năm 2026-27",
-      "summary_vi": "USDA duy trì dự báo về việc sử dụng ngô trong ethanol vào năm 2026-2027 trong báo cáo WASDE mới nhất, công bố ngày 12 tháng 8. Cơ quan này đã tăng dự báo về ngô",
-      "image": "https://bbi-strapi.s3.us-east-2.amazonaws.com/archived/epm/posts/web/2014/06/CornCobBig_14025216574144.jpg",
-      "link": "https://ethanolproducer.com/articles/august-wasde-maintains-outlook-for-2026-27-corn-use-in-ethanol",
-      "source": "Ethanol Producer Magazine",
-      "category": "agri",
-      "published": "2026-08-13 06:08"
     }
   ]
 }

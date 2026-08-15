@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 11:50",
+  "updated_at": "2026-08-15 12:00",
   "items": [
     {
       "id": "1lcqj0q",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-15 03:00"
+    },
+    {
+      "id": "1f8gth5",
+      "title": "Copper Tariff Decision Will Reshape Metal Supply One of Four Ways",
+      "title_vi": "Quyết định về thuế quan đồng sẽ định hình lại nguồn cung kim loại theo một trong bốn cách",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en/insights/copper-tariff-decision-will-reshape-metal-supply-one-of-four-ways/",
+      "source": "stonex.com",
+      "category": "metal",
+      "published": "2026-08-15 02:46"
     },
     {
       "id": "1deyx7z",
@@ -539,17 +550,6 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "energy",
       "published": "2026-08-13 18:56"
-    },
-    {
-      "id": "n8lj2r",
-      "title": "Why Isn’t the Price of Oil Even Higher?",
-      "title_vi": "Tại sao giá dầu không cao hơn nữa?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://paulkrugman.substack.com/p/why-isnt-the-price-of-oil-even-higher",
-      "source": "Paul Krugman | Substack",
-      "category": "energy",
-      "published": "2026-08-13 17:31"
     }
   ]
 }

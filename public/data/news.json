@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 19:00",
+  "updated_at": "2026-08-15 20:00",
   "items": [
     {
       "id": "1lcqj0q",
@@ -288,6 +288,17 @@
       "published": "2026-08-14 16:00"
     },
     {
+      "id": "woql3f",
+      "title": "Ghana's cocoa price slash sparks outrage",
+      "title_vi": "Việc Ghana giảm giá ca cao gây phẫn nộ",
+      "summary_vi": "Ngành ca cao của Ghana đang đối mặt với biến động lớn sau khi chính phủ giảm 28% giá sản xuất. Đây là một đòn nặng nề đối với nhiều người trong số 800.000 nông dân trồng ca cao trên cả nước. Nhưng các quan chức cho biết họ buộc phải đưa ra quyết định này sau khi giá ca cao toàn cầu sụt giảm. Eddy Micah Jr. nói chuyện với Nana Aduna II về",
+      "image": "https://static.dw.com/image/74973921_6.jpg",
+      "link": "https://www.dw.com/en/ghanas-cocoa-price-slash-sparks-outrage/audio-76122172",
+      "source": "dw.com",
+      "category": "soft",
+      "published": "2026-08-14 15:32"
+    },
+    {
       "id": "dgwflr",
       "title": "Chile says revived Argentina mining treaty could unlock $20.7bn, boost copper supply",
       "title_vi": "Chile cho biết hiệp ước khai thác mỏ được hồi sinh của Argentina có thể giải phóng 20,7 tỷ USD, thúc đẩy nguồn cung đồng",
@@ -539,17 +550,6 @@
       "source": "The Economist",
       "category": "macro",
       "published": "2026-08-13 20:12"
-    },
-    {
-      "id": "h72bc0",
-      "title": "Dollar steadies after benign US inflation curbs Fed rate hike bets",
-      "title_vi": "Đồng đô la ổn định sau khi lạm phát ở Mỹ giảm nhẹ Đặt cược tăng lãi suất của Fed",
-      "summary_vi": "LONDON, ngày 13 tháng 8 (Reuters) - Đồng đô la giảm giá vào thứ Năm sau khi số liệu tổng thể lành tính về lạm phát tiêu dùng của Hoa Kỳ khiến các nhà giao dịch giảm đặt cược vào việc Cục Dự trữ Liên bang sẽ tăng lãi suất vào tháng 9. Đồng tiền của Hoa Kỳ vẫn tăng 0,4% trong tuần này so với rổ tiền tệ chính, hướng tới những ngày đầu tiên của nó",
-      "image": "https://image-api.prod.kitco.com/image/a38de551-3f2a-4d0d-b3a0-9fa10f80323c.webp?top=0&left=0.14542149511479&width=1279.7091570098&height=720&scale_width=1920&token=5d1ee083e70318345e436775ca1917a2620fef24289675f9ca3c9b51ba74265e",
-      "link": "https://www.kitco.com/news/off-the-wire/2026-08-13/dollar-steadies-after-benign-us-inflation-curbs-fed-rate-hike-bets",
-      "source": "KITCO",
-      "category": "macro",
-      "published": "2026-08-13 19:25"
     }
   ]
 }

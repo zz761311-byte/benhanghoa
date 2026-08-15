@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 09:00",
+  "updated_at": "2026-08-15 09:40",
   "items": [
     {
       "id": "18x2zs9",
@@ -464,6 +464,17 @@
       "published": "2026-08-13 20:31"
     },
     {
+      "id": "1b25qi",
+      "title": "Donald Trump is getting a new tariff weapon against Russia",
+      "title_vi": "Donald Trump sắp có vũ khí thuế quan mới chống lại Nga",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.economist.com/united-states/2026/08/13/donald-trump-is-getting-a-new-tariff-weapon-against-russia",
+      "source": "The Economist",
+      "category": "macro",
+      "published": "2026-08-13 20:12"
+    },
+    {
       "id": "h72bc0",
       "title": "Dollar steadies after benign US inflation curbs Fed rate hike bets",
       "title_vi": "Đồng đô la ổn định sau khi lạm phát ở Mỹ giảm nhẹ Đặt cược tăng lãi suất của Fed",
@@ -539,17 +550,6 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-08-13 15:59"
-    },
-    {
-      "id": "p9ymvj",
-      "title": "China has wrested control of oil markets from OPEC",
-      "title_vi": "Trung Quốc giành quyền kiểm soát thị trường dầu mỏ từ OPEC",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.economist.com/leaders/2026/08/13/china-has-wrested-control-of-oil-markets-from-opec",
-      "source": "The Economist",
-      "category": "energy",
-      "published": "2026-08-13 15:45"
     }
   ]
 }

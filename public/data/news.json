@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16 00:40",
+  "updated_at": "2026-08-16 00:59",
   "items": [
     {
       "id": "7oqmfe",
@@ -110,6 +110,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-08-15 01:00"
+    },
+    {
+      "id": "sn3t3p",
+      "title": "Copper price holds near record as London warehouse bidding war looms",
+      "title_vi": "Giá đồng giữ gần kỷ lục khi cuộc chiến đấu thầu kho hàng ở London sắp diễn ra",
+      "summary_vi": "Đồng LME tháng 8 giao dịch ở mức 370 USD trong tháng 9, mức chênh lệch lớn nhất trong một tháng kể từ đợt siết chặt năm 2021 buộc sàn giao dịch này phải can thiệp khẩn cấp.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/02/AdobeStock_588953684-1024x681.jpeg",
+      "link": "https://www.mining.com/copper-price-holds-near-record-as-london-warehouse-bidding-war-looms/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-08-15 00:59"
     },
     {
       "id": "1qzou61",
@@ -539,17 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-08-13 22:13"
-    },
-    {
-      "id": "dozios",
-      "title": "Warm Fall Forecast Tests Northeast Natural Gas ‘Winter Insurance’ After Volatile 2025/26",
-      "title_vi": "Dự báo mùa thu ấm áp thử nghiệm 'Bảo hiểm mùa đông' khí đốt tự nhiên vùng Đông Bắc sau biến động 2025/26",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/warm-fall-forecast-tests-northeast-natural-gas-winter-insurance-after-volatile-202526/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-08-13 21:35"
     }
   ]
 }

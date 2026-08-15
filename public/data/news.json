@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16 06:01",
+  "updated_at": "2026-08-16 06:38",
   "items": [
     {
       "id": "1jj4iwa",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-16 04:00"
+    },
+    {
+      "id": "1fmtx3s",
+      "title": "Pandora opens unexpected box as silver price drops",
+      "title_vi": "Pandora mở hộp bất ngờ khi giá bạc giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.thestreet.com/investing/stocks/pandora-pndora-chooses-platinum-over-silver",
+      "source": "thestreet.com",
+      "category": "metal",
+      "published": "2026-08-16 03:17"
     },
     {
       "id": "1csiow2",
@@ -539,17 +550,6 @@
       "source": "fox56.com",
       "category": "energy",
       "published": "2026-08-13 22:21"
-    },
-    {
-      "id": "16pet8c",
-      "title": "CONAB raises Brazil corn outlook, cuts soybeans slightly",
-      "title_vi": "CONAB nâng triển vọng ngô Brazil, giảm nhẹ đậu nành",
-      "summary_vi": "Đồng USDA tương đương của Brazil đã thực hiện những thay đổi khiêm tốn hàng tháng đối với ước tính sản lượng ngô và đậu tương. CONAB hiện có tổng sản lượng ngô của Brazil là 142,995 triệu tấn, cao hơn 0,9% so với tháng 7 và cao hơn 1,3% so với năm 2025 do điều chỉnh tăng năng suất vụ thứ hai khi vụ thu hoạch đó tiến tới. Vụ thứ hai là c",
-      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2024/04/BRNGeneral400x400-1.jpg",
-      "link": "https://www.brownfieldagnews.com/news/conab-raises-brazil-corn-outlook-cuts-soybeans-slightly/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-08-13 22:13"
     }
   ]
 }

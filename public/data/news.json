@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 16:44",
+  "updated_at": "2026-08-15 17:00",
   "items": [
     {
       "id": "1lcqj0q",
@@ -264,6 +264,17 @@
       "source": "Moomoo",
       "category": "macro",
       "published": "2026-08-14 17:12"
+    },
+    {
+      "id": "y16ldr",
+      "title": "Booming Oil Profits Show Why Policymakers Can’t “Wait and See” on Gas Prices",
+      "title_vi": "Lợi nhuận dầu mỏ bùng nổ cho thấy tại sao các nhà hoạch định chính sách không thể “chờ xem” về giá khí đốt",
+      "summary_vi": "Dữ liệu mới nhất về lợi nhuận dầu mỏ và giá khí đốt chỉ ra vấn đề sức mạnh thị trường lọc dầu sẽ tồn tại ngay cả sau khi eo biển mở cửa trở lại.",
+      "image": "https://washingtonmonthly.com/wp-content/uploads/2026/08/AP25125583014573-scaled.jpg",
+      "link": "https://washingtonmonthly.com/2026/08/14/oil-profits-show-why-policymakers-cant-wait-on-gas-prices/",
+      "source": "Washington Monthly",
+      "category": "energy",
+      "published": "2026-08-14 16:00"
     },
     {
       "id": "kiy7r",
@@ -539,17 +550,6 @@
       "source": "FOREX.com",
       "category": "metal",
       "published": "2026-08-13 19:22"
-    },
-    {
-      "id": "a4ni9l",
-      "title": "Ukraine hits Russian grain facilities prompting food price warnings",
-      "title_vi": "Ukraine tấn công các cơ sở ngũ cốc của Nga khiến giá lương thực bị cảnh báo",
-      "summary_vi": "Hai kho cảng xuất khẩu lớn xử lý hàng triệu tấn ngũ cốc đã bị hư hại trong cuộc tấn công của Ukraine vào cảng Novorossiysk của Nga ở Biển Đen.",
-      "image": "https://cdnph.upi.com/sv/ph/og/upi_com/8521786616187/2026/1/260c8bde94c5f2faaf2f8cbde8841aab/v1.5/Ukraine-hits-Russian-grain-facilities-prompting-food-price-warnings.jpg",
-      "link": "https://www.upi.com/Top_News/World-News/2026/08/13/Ukraine-hits-Russian-grain-facilities/8521786616187/",
-      "source": "upi.com",
-      "category": "agri",
-      "published": "2026-08-13 19:14"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 21:02",
+  "updated_at": "2026-08-15 21:42",
   "items": [
     {
       "id": "1lcqj0q",
@@ -220,6 +220,17 @@
       "source": "bakingbusiness.com",
       "category": "soft",
       "published": "2026-08-14 20:23"
+    },
+    {
+      "id": "ybqd06",
+      "title": "Sugar buyers allege price fixing",
+      "title_vi": "Người mua đường tố cáo việc ấn định giá",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.foodbusinessnews.net/articles/30851-sugar-buyers-allege-price-fixing",
+      "source": "Food Business News",
+      "category": "soft",
+      "published": "2026-08-14 20:11"
     },
     {
       "id": "16fpkw9",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-13 20:31"
-    },
-    {
-      "id": "1b25qi",
-      "title": "Donald Trump is getting a new tariff weapon against Russia",
-      "title_vi": "Donald Trump sắp có vũ khí thuế quan mới chống lại Nga",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.economist.com/united-states/2026/08/13/donald-trump-is-getting-a-new-tariff-weapon-against-russia",
-      "source": "The Economist",
-      "category": "macro",
-      "published": "2026-08-13 20:12"
     }
   ]
 }

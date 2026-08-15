@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 12:00",
+  "updated_at": "2026-08-15 12:10",
   "items": [
     {
       "id": "1lcqj0q",
@@ -165,6 +165,17 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-08-14 22:11"
+    },
+    {
+      "id": "1c4l7lq",
+      "title": "Tensions in the Black Sea and regional droughts spark rising global wheat prices",
+      "title_vi": "Căng thẳng ở Biển Đen và hạn hán khu vực khiến giá lúa mì toàn cầu tăng cao",
+      "summary_vi": "Một loạt vấn đề mới làm rung chuyển thị trường.",
+      "image": "https://www.ifpri.org/wp-content/uploads/2023/06/Cargo-Ship_Ukraine_Black_Sea.jpg",
+      "link": "https://www.ifpri.org/blog/tensions-in-the-black-sea-and-regional-droughts-spark-rising-global-wheat-prices/",
+      "source": "IFPRI",
+      "category": "agri",
+      "published": "2026-08-14 21:43"
     },
     {
       "id": "11y6kw2",
@@ -539,17 +550,6 @@
       "source": "upi.com",
       "category": "agri",
       "published": "2026-08-13 19:14"
-    },
-    {
-      "id": "1crerma",
-      "title": "Ukraine’s drones hit a major Russian refinery 800 miles from the border, sparking a fire - ABC News",
-      "title_vi": "Máy bay không người lái của Ukraine tấn công một nhà máy lọc dầu lớn của Nga cách biên giới 800 dặm, gây cháy - ABC News",
-      "summary_vi": "Máy bay không người lái của Ukraine đã tấn công một nhà máy lọc dầu lớn ở Nga, đánh dấu cuộc tấn công thứ tư trong ba ngày",
-      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "link": "https://abcnews.com/International/wireStory/ukraines-drones-hit-major-russian-refinery-800-miles-135605504",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-08-13 18:56"
     }
   ]
 }

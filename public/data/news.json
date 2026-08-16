@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 00:59",
+  "updated_at": "2026-08-17 01:00",
   "items": [
     {
       "id": "aiwvf6",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-08-16 22:00"
+    },
+    {
+      "id": "1ftpafa",
+      "title": "Coffee Weekly Forecast 16/08: Record Brazil Harvest (Chart)",
+      "title_vi": "Dự báo cà phê tuần 16/08: Kỷ lục thu hoạch Brazil (Biểu đồ)",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.dailyforex.com/forex-technical-analysis/2026/08/coffee-weekly-forecast-18-august-2026/248718",
+      "source": "DailyForex",
+      "category": "soft",
+      "published": "2026-08-16 19:50"
     },
     {
       "id": "1jj4iwa",
@@ -539,17 +550,6 @@
       "source": "TradingView",
       "category": "metal",
       "published": "2026-08-14 01:45"
-    },
-    {
-      "id": "1pje1vx",
-      "title": "Soy Demand Rises to Meet Large Crop",
-      "title_vi": "Nhu cầu đậu nành tăng để đáp ứng vụ mùa lớn",
-      "summary_vi": "Người dùng cuối dự kiến ​​​​sẽ tranh giành thêm giạ từ diện tích đậu tương lớn hơn vào năm 2026 Bởi Jacquie Holland, Nhà kinh tế học ASA Nông dân trồng đậu nành và những người theo dõi thị trường",
-      "image": "https://soygrowers.com/wp-content/uploads/2024/10/EA-Jacquie.png",
-      "link": "https://soygrowers.com/news-releases/soy-demand-rises-to-meet-large-crop/",
-      "source": "American Soybean Association",
-      "category": "agri",
-      "published": "2026-08-14 01:35"
     }
   ]
 }

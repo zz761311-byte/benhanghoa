@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16 18:38",
+  "updated_at": "2026-08-16 19:00",
   "items": [
     {
       "id": "1jj4iwa",
@@ -121,6 +121,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-15 05:00"
+    },
+    {
+      "id": "12hmjjx",
+      "title": "USDA cuts corn and soybean yield forecasts in August reports",
+      "title_vi": "USDA cắt giảm dự báo năng suất ngô và đậu tương trong báo cáo tháng 8",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/marketing/corn-soybeans-rally-after-usda-yields-come-up-short",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-08-15 03:59"
     },
     {
       "id": "aj20ga",
@@ -539,17 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-08-13 23:47"
-    },
-    {
-      "id": "1efm245",
-      "title": "Antwerp diamond sector rejects link between Trump ring and tariff exemption",
-      "title_vi": "Ngành kim cương Antwerp bác bỏ mối liên hệ giữa chiếc nhẫn Trump và việc miễn thuế",
-      "summary_vi": "Ngành kim cương Antwerp đã bác bỏ cáo buộc rằng có mối liên hệ giữa chiếc nhẫn vàng 18 cara nạm 321 viên kim cương gần đây được tặng cho Tổng thống Mỹ Donald Trump và việc ngành công nghiệp kim cương châu Âu được miễn thuế quan mới vài tuần sau đó. “Cuộc thảo luận về thuế nhập khẩu của Mỹ hoàn toàn tách biệt với (",
-      "image": "https://image-api.prod.kitco.com/image/c4a46342-d7bc-442f-8c2c-8c402c7ef56b.webp?top=0&left=0.21813224267218&width=1919.5637355147&height=1080&scale_width=1920&token=c0bffe6d91a794d2b4d213c96c553b93b8e7ca4faf3f8ccc31c9d555c4a8f3ba",
-      "link": "https://www.kitco.com/news/off-the-wire/2026-08-13/antwerp-diamond-sector-rejects-link-between-trump-ring-and-tariff",
-      "source": "KITCO",
-      "category": "macro",
-      "published": "2026-08-13 23:38"
     }
   ]
 }

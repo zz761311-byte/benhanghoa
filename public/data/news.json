@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16 19:00",
+  "updated_at": "2026-08-16 20:00",
   "items": [
     {
       "id": "1jj4iwa",
@@ -255,6 +255,17 @@
       "published": "2026-08-14 21:03"
     },
     {
+      "id": "vkt8yl",
+      "title": "How popular is Donald Trump?",
+      "title_vi": "Donald Trump được yêu thích đến mức nào?",
+      "summary_vi": "Xếp hạng phê duyệt của Silver Bulletin dành cho Tổng thống Trump - và tất cả các tổng thống kể từ Truman.",
+      "image": "https://substackcdn.com/image/fetch/$s_!Xfx5!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47c9842-cfbc-4300-8bea-3c73291e02c3_1200x634.jpeg",
+      "link": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
+      "source": "Silver Bulletin",
+      "category": "metal",
+      "published": "2026-08-14 20:50"
+    },
+    {
       "id": "1otoy",
       "title": "Platinum: The Cheaper Precious Metal That Could Outshine Gold",
       "title_vi": "Bạch kim: Kim loại quý rẻ hơn có thể tỏa sáng hơn vàng",
@@ -431,6 +442,17 @@
       "published": "2026-08-14 11:18"
     },
     {
+      "id": "1252aus",
+      "title": "Live Order Board; Gold, Silver, Platinum",
+      "title_vi": "Bảng đặt hàng trực tiếp; Vàng, Bạc, Bạch kim",
+      "summary_vi": "Bảng đặt hàng trực tiếp là nơi người dùng có thể đặt giá thầu để mua thỏi Bạc, Vàng, Bạch kim, Palladium từ các khách hàng khác và hơn thế nữa. Xem thêm tại BullionVault >>",
+      "image": "https://www.bullionvault.com/images/homepage/gold-bars-in-vault.png",
+      "link": "https://www.bullionvault.com/order-board.do",
+      "source": "BullionVault",
+      "category": "metal",
+      "published": "2026-08-14 09:39"
+    },
+    {
       "id": "nnepot",
       "title": "Palladium Membrane Purifier Modules Market Outlook to 2035",
       "title_vi": "Triển vọng thị trường mô-đun lọc màng Palladium đến năm 2035",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-14 00:15"
-    },
-    {
-      "id": "16pet8c",
-      "title": "CONAB raises Brazil corn outlook, cuts soybeans slightly",
-      "title_vi": "CONAB nâng triển vọng ngô Brazil, giảm nhẹ đậu nành",
-      "summary_vi": "Đồng USDA tương đương của Brazil đã thực hiện những thay đổi khiêm tốn hàng tháng đối với ước tính sản lượng ngô và đậu tương. CONAB hiện có tổng sản lượng ngô của Brazil là 142,995 triệu tấn, cao hơn 0,9% so với tháng 7 và cao hơn 1,3% so với năm 2025 do điều chỉnh tăng năng suất vụ thứ hai khi vụ thu hoạch đó tiến tới. Vụ thứ hai là c",
-      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2024/04/BRNGeneral400x400-1.jpg",
-      "link": "https://www.brownfieldagnews.com/news/conab-raises-brazil-corn-outlook-cuts-soybeans-slightly/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-08-13 23:47"
-    },
-    {
-      "id": "1iwybw7",
-      "title": "Usset: corn prices unlikely to fall below $4 this fall",
-      "title_vi": "Usset: giá ngô khó có thể giảm xuống dưới 4 USD vào mùa thu này",
-      "summary_vi": "Một nhà kinh tế thị trường ngũ cốc mở rộng tự tin rằng giá ngô đã được ấn định. Ed Usset thuộc Đại học Minnesota cho biết các hợp đồng trồng trọt mới đang hướng tới mức 5 USD/giạ. “Đây là dự đoán táo bạo của tôi, chúng ta sẽ không giảm xuống dưới 4 USD nữa vào mùa thu này. Chúng ta có thể quay trở lại mức thấp nhất trong tháng 6, một số",
-      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2025/10/251022_corn_harvest_iowa_md.jpg",
-      "link": "https://www.brownfieldagnews.com/news/usset-corn-prices-unlikely-to-fall-below-4-this-fall/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-08-13 23:47"
     }
   ]
 }

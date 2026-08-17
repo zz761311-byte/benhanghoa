@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-17 22:10",
+  "updated_at": "2026-08-17 22:44",
   "items": [
+    {
+      "id": "74e70o",
+      "title": "China&#039;s Renewables Boom Faces Record Clean Power Curtailments",
+      "title_vi": "Sự bùng nổ năng lượng tái tạo của Trung Quốc đối mặt với mức cắt giảm năng lượng sạch kỷ lục",
+      "summary_vi": "Những hạn chế về lưới điện và việc sản xuất điện đốt than ngày càng tăng ở Trung Quốc đã dẫn đến tỷ lệ cắt giảm sản xuất năng lượng mặt trời và năng lượng gió tăng vọt trong nửa đầu năm nay. Trung Quốc đã cắt giảm tới 360 terawatt giờ (TWh) sản xuất năng lượng mặt trời và gió từ tháng 1 đến tháng 6, tăng 49%",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-17_abphrau5ft.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Renewables-Boom-Faces-Record-Clean-Power-Curtailments.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-17 22:30"
+    },
     {
       "id": "162sbsb",
       "title": "Venezuela’s Oil Revival Accelerates as U.S. Majors Push Trump’s New Energy Order",
@@ -44,6 +55,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-08-17 21:00"
+    },
+    {
+      "id": "5ykn1j",
+      "title": "Out of room: Russia's crude production enters a new era of constraint",
+      "title_vi": "Hết chỗ: Sản xuất dầu thô của Nga bước vào kỷ nguyên hạn chế mới",
+      "summary_vi": "Sau một năm bị trừng phạt chặt chẽ hơn và các cuộc tấn công của Ukraine nhằm vào các nhà máy lọc dầu, cảng và tàu chở dầu, sản lượng dầu thô của Nga đã giảm hơn nữa trong nửa cuối năm 2026, ảnh hưởng nghiêm trọng đến triển vọng sản xuất dầu thô của quốc gia này. Tính đến những gián đoạn này, Rystad Energy đã điều chỉnh dự báo sản lượng dầu thô của Nga thành",
+      "image": "https://www.datocms-assets.com/75979/1780476510-shutterstock_2671986731.jpg?auto=format&fit=max&w=1200",
+      "link": "https://www.rystadenergy.com/news/russia-crude-production-constraint",
+      "source": "Rystad Energy",
+      "category": "energy",
+      "published": "2026-08-17 20:48"
     },
     {
       "id": "5zhczv",
@@ -165,17 +187,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-08-17 16:11"
-    },
-    {
-      "id": "rl99aj",
-      "title": "Asian Refiners Seek Alternative Pickup Point for Saudi Crude",
-      "title_vi": "Các nhà tinh chế châu Á tìm kiếm điểm nhận hàng thay thế cho dầu thô của Saudi",
-      "summary_vi": "Rủi ro gia tăng đối với an toàn vận chuyển ở Biển Đỏ đã khiến một số nhà máy lọc dầu châu Á yêu cầu công ty dầu mỏ khổng lồ Aramco của Saudi Arabia nhận hàng dầu thô của họ tại cảng Sidi Kerir ở Địa Trung Hải của Ai Cập do các chủ tàu ngày càng miễn cưỡng đi qua Bab el-Mandeb Stra.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-17_ejwuvv6hkp.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Refiners-Seek-Alternative-Pickup-Point-for-Saudi-Crude.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-17 15:55"
     },
     {
       "id": "jsvx9a",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-14 21:03"
-    },
-    {
-      "id": "vkt8yl",
-      "title": "How popular is Donald Trump?",
-      "title_vi": "Donald Trump được yêu thích đến mức nào?",
-      "summary_vi": "Xếp hạng phê duyệt của Silver Bulletin dành cho Tổng thống Trump - và tất cả các tổng thống kể từ Truman.",
-      "image": "https://substackcdn.com/image/fetch/$s_!Xfx5!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47c9842-cfbc-4300-8bea-3c73291e02c3_1200x634.jpeg",
-      "link": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
-      "source": "Silver Bulletin",
-      "category": "metal",
-      "published": "2026-08-14 20:50"
     }
   ]
 }

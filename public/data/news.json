@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 20:01",
+  "updated_at": "2026-08-17 20:10",
   "items": [
     {
       "id": "io8o3i",
@@ -220,6 +220,17 @@
       "source": "DailyForex",
       "category": "soft",
       "published": "2026-08-16 19:50"
+    },
+    {
+      "id": "i60m62",
+      "title": "Inflation Eases, But It’s Still All About Affordability",
+      "title_vi": "Lạm phát giảm bớt, nhưng tất cả vẫn là về khả năng chi trả",
+      "summary_vi": "Lạm phát tiếp tục là mối lo ngại, với các chỉ số tâm lý người tiêu dùng gửi đi những thông điệp trái chiều",
+      "image": "https://rcbizjournal.com/wp-content/uploads/2024/11/historical-inflation-main-image.jpg",
+      "link": "https://rcbizjournal.com/2026/08/16/price-tracker-2024-forward-inflation-checker/",
+      "source": "Rockland County Business Journal",
+      "category": "macro",
+      "published": "2026-08-16 17:00"
     },
     {
       "id": "17gbk6g",
@@ -539,17 +550,6 @@
       "source": "Bloomberg.com",
       "category": "soft",
       "published": "2026-08-14 19:33"
-    },
-    {
-      "id": "1eq1438",
-      "title": "Southern Palladium's JSE-listed share price surged 27.8% to R23.01 on",
-      "title_vi": "Giá cổ phiếu niêm yết tại JSE của Southern Palladium đã tăng 27,8% lên R23,01 vào ngày",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.metal.com/en/newscontent/104061298-smm-chromium-flash-southern-palladium-shares-sharply-higher-pgm-chrome-project-clears-its-biggest-regulatory-hurdle",
-      "source": "Shanghai Metals Market",
-      "category": "metal",
-      "published": "2026-08-14 18:48"
     }
   ]
 }

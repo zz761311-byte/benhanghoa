@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 09:01",
+  "updated_at": "2026-08-17 10:00",
   "items": [
     {
       "id": "74dmhf",
@@ -310,6 +310,17 @@
       "published": "2026-08-14 20:42"
     },
     {
+      "id": "gkvq40",
+      "title": "Copper Crunch Worsens as Key Spread Heads for Highest Since 2021",
+      "title_vi": "Copper Crunch trở nên tồi tệ hơn khi mức chênh lệch chính đạt mức cao nhất kể từ năm 2021",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/copper-crunch-worsens-as-key-spread-heads-for-highest-since-2021",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-08-14 20:33"
+    },
+    {
       "id": "476y4n",
       "title": "Class action alleges sugar price scheme",
       "title_vi": "Vụ kiện tập thể cáo buộc kế hoạch định giá đường",
@@ -539,17 +550,6 @@
       "source": "Iowa Soybean Association",
       "category": "agri",
       "published": "2026-08-14 04:56"
-    },
-    {
-      "id": "1g1wwm",
-      "title": "Lower Production Increases the Global Sugar Deficit",
-      "title_vi": "Sản lượng thấp hơn làm tăng thâm hụt đường toàn cầu",
-      "summary_vi": "Sản lượng thấp hơn làm tăng thâm hụt đường toàn cầu",
-      "image": "https://webapi.czapp.com/api/v1/attachments/3445a133-70c0-4ba6-a076-56da14ca1572.png",
-      "link": "https://www.czapp.com/analyst-insights/lower-production-increases-the-global-sugar-deficit/",
-      "source": "czapp.com",
-      "category": "soft",
-      "published": "2026-08-14 04:22"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-17 18:00",
+  "updated_at": "2026-08-17 18:10",
   "items": [
+    {
+      "id": "uyuacz",
+      "title": "Gold edges higher amid softer dollar, easing Fed rate hike wagers",
+      "title_vi": "Vàng tăng cao hơn trong bối cảnh đồng đô la mềm hơn, giảm bớt sự đặt cược về việc tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/commodities-news/gold-rises-near-4400-as-fed-minutes-oil-risks-shape-rate-outlook-4862058",
+      "source": "Investing.com",
+      "category": "metal",
+      "published": "2026-08-17 17:54"
+    },
     {
       "id": "n1rpsw",
       "title": "How Realistic Is the Bullish Outlook for Copper Prices?",
@@ -99,17 +110,6 @@
       "source": "WTVB",
       "category": "macro",
       "published": "2026-08-17 12:25"
-    },
-    {
-      "id": "1090brr",
-      "title": "Gold gains on weaker dollar, reduced Fed rate-hike bets",
-      "title_vi": "Vàng tăng do đồng đô la yếu hơn, giảm đặt cược tăng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/gold-gains-weaker-dollar-reduced-fed-rate-hike-bets-2026-08-17/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-08-17 10:23"
     },
     {
       "id": "gpbruj",
@@ -541,14 +541,14 @@
       "published": "2026-08-14 17:00"
     },
     {
-      "id": "kiy7r",
-      "title": "The US dollar is caught between 2 competing forces",
-      "title_vi": "Đồng đô la Mỹ bị kẹt giữa 2 thế lực cạnh tranh",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/currencies/article/the-us-dollar-is-caught-between-2-competing-forces-090000679.html",
-      "source": "Yahoo Finance",
-      "category": "macro",
+      "id": "y16ldr",
+      "title": "Booming Oil Profits Show Why Policymakers Can’t “Wait and See” on Gas Prices",
+      "title_vi": "Lợi nhuận dầu mỏ bùng nổ cho thấy tại sao các nhà hoạch định chính sách không thể “chờ xem” về giá khí đốt",
+      "summary_vi": "Dữ liệu mới nhất về lợi nhuận dầu mỏ và giá khí đốt chỉ ra vấn đề sức mạnh thị trường lọc dầu sẽ tồn tại ngay cả sau khi eo biển mở cửa trở lại.",
+      "image": "https://washingtonmonthly.com/wp-content/uploads/2026/08/AP25125583014573-scaled.jpg",
+      "link": "https://washingtonmonthly.com/2026/08/14/oil-profits-show-why-policymakers-cant-wait-on-gas-prices/",
+      "source": "Washington Monthly",
+      "category": "energy",
       "published": "2026-08-14 16:00"
     }
   ]

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-17 20:55",
+  "updated_at": "2026-08-17 21:00",
   "items": [
+    {
+      "id": "rloul3",
+      "title": "UK Inflation Set to Rebound as Energy Bills Surge",
+      "title_vi": "Lạm phát ở Anh có thể tăng trở lại khi hóa đơn năng lượng tăng vọt",
+      "summary_vi": "Giá năng lượng tăng cao có thể khiến lạm phát ở Anh tăng trở lại, khi các nhà kinh tế cảnh báo rằng sự thúc đẩy nền kinh tế trong mùa hè có thể chỉ là thoáng qua. Tỷ lệ lạm phát Chỉ số giá tiêu dùng (CPI) được cho là sẽ tăng lên 2,9% trong tháng 7, tăng từ mức thấp nhất trong 15 tháng của tháng 6 là 2,6 p.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-17_kyzjrs5awi.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/UK-Inflation-Set-to-Rebound-as-Energy-Bills-Surge.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-08-17 21:00"
+    },
     {
       "id": "5zhczv",
       "title": "Japan&#039;s Oil Crisis Eases, But the Import Bill Keeps Climbing",
@@ -176,17 +187,6 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-08-17 13:45"
-    },
-    {
-      "id": "qtn82z",
-      "title": "Hormuz Tanker Traffic Slows to a Trickle",
-      "title_vi": "Lưu lượng tàu chở dầu Hormuz chậm đến mức nhỏ giọt",
-      "summary_vi": "Lưu lượng tàu chở dầu qua eo biển Hormuz chậm hơn vào cuối tuần, duy trì áp lực tăng giá dầu. Tại thời điểm viết bài, dầu thô Brent đang giao dịch ở mức 88,62 USD/thùng, với giá dầu thô West Texas Middle ở mức 82,18 USD/thùng. Đầu phiên, dầu Brent đã phá vỡ mức",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-17_cetv58ho2j.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slows-to-a-Trickle.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-17 12:30"
     },
     {
       "id": "1lxhn4r",
@@ -398,6 +398,17 @@
       "published": "2026-08-15 02:46"
     },
     {
+      "id": "16fpkw9",
+      "title": "White Sugar Rally Boosts Refining as Supply Outlook Tightens",
+      "title_vi": "đợt tăng giá đường trắng thúc đẩy việc tinh chế khi triển vọng nguồn cung thắt chặt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-14/white-sugar-rally-boosts-refining-as-supply-outlook-tightens",
+      "source": "Bloomberg.com",
+      "category": "soft",
+      "published": "2026-08-15 01:41"
+    },
+    {
       "id": "sn3t3p",
       "title": "Copper price holds near record as London warehouse bidding war looms",
       "title_vi": "Giá đồng giữ gần kỷ lục khi cuộc chiến đấu thầu kho hàng ở London sắp diễn ra",
@@ -539,17 +550,6 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-08-14 20:33"
-    },
-    {
-      "id": "476y4n",
-      "title": "Class action alleges sugar price scheme",
-      "title_vi": "Vụ kiện tập thể cáo buộc kế hoạch định giá đường",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bakingbusiness.com/articles/66737-class-action-alleges-sugar-price-scheme",
-      "source": "bakingbusiness.com",
-      "category": "soft",
-      "published": "2026-08-14 20:23"
     }
   ]
 }

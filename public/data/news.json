@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 15:01",
+  "updated_at": "2026-08-17 15:26",
   "items": [
     {
       "id": "1fk8bf1",
@@ -187,6 +187,17 @@
       "source": "Crude Oil Prices Today | OilPrice.com",
       "category": "energy",
       "published": "2026-08-16 00:00"
+    },
+    {
+      "id": "3uad0a",
+      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
+      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
+      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
+      "image": "https://www.cmegroup.com/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium",
+      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-08-15 10:59"
     },
     {
       "id": "1lcqj0q",
@@ -539,17 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-08-14 14:00"
-    },
-    {
-      "id": "ylbv60",
-      "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
-      "title_vi": "Làm thế nào giao dịch đồng thích hợp trở thành thước đo thời gian thực cho động thái thuế quan tiếp theo của Trump",
-      "summary_vi": "Giá đồng ngày càng tăng giữa hai sàn giao dịch kim loại đang mang đến cho các nhà đầu tư một thước đo về rủi ro thuế quan của Mỹ.",
-      "image": "https://image.cnbcfm.com/api/v1/image/102629748-169641718.jpg?v=1532564313&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-08-14 12:00"
     }
   ]
 }

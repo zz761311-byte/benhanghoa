@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 21:48",
+  "updated_at": "2026-08-17 22:00",
   "items": [
     {
       "id": "s45sfy",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-17 21:30"
+    },
+    {
+      "id": "y71o7c",
+      "title": "Manna Coffee Adds Funding for Automated Kiosk Growth",
+      "title_vi": "Cà phê Manna bổ sung nguồn tài trợ cho việc phát triển kiosk tự động",
+      "summary_vi": "Công ty ki-ốt cà phê tự phục vụ Manna Coffee cho biết họ đã huy động được hơn 300.000 USD cho vòng tài trợ hạt giống mở có thể đạt gần 1,25 triệu USD. Vòng đấu bao gồm sự kết hợp...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/08/17/manna-coffee-adds-funding-for-automated-kiosk-growth/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-08-17 21:15"
     },
     {
       "id": "rloul3",
@@ -539,17 +550,6 @@
       "source": "Silver Bulletin",
       "category": "metal",
       "published": "2026-08-14 20:50"
-    },
-    {
-      "id": "1otoy",
-      "title": "Platinum: The Cheaper Precious Metal That Could Outshine Gold",
-      "title_vi": "Bạch kim: Kim loại quý rẻ hơn có thể tỏa sáng hơn vàng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://nai500.com/blog/2026/08/platinum-the-cheaper-precious-metal-that-could-outshine-gold/",
-      "source": "NAI500",
-      "category": "metal",
-      "published": "2026-08-14 20:42"
     }
   ]
 }

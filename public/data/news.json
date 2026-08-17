@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 02:01",
+  "updated_at": "2026-08-18 02:45",
   "items": [
     {
       "id": "171a6en",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-08-18 00:00"
+    },
+    {
+      "id": "1i6jash",
+      "title": "Global Natural Gas Prices Continue Climbing as Hopes of US-Iran Peace Deal Fade",
+      "title_vi": "Giá khí đốt tự nhiên toàn cầu tiếp tục tăng khi hy vọng về thỏa thuận hòa bình Mỹ-Iran tan biến",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/global-natural-gas-prices-continue-climbing-as-hopes-of-us-iran-peace-deal-fade/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-08-17 23:48"
     },
     {
       "id": "7374z1",
@@ -539,17 +550,6 @@
       "source": "the Electrical Distributor magazine",
       "category": "energy",
       "published": "2026-08-14 22:26"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-08-14 22:11"
     }
   ]
 }

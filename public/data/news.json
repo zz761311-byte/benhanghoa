@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 10:15",
+  "updated_at": "2026-08-17 11:00",
   "items": [
     {
       "id": "74dmhf",
@@ -121,6 +121,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-16 02:00"
+    },
+    {
+      "id": "zyefit",
+      "title": "Tariff Resilient Stocks Investors May Want to Watch Now",
+      "title_vi": "Những cổ phiếu có khả năng phục hồi thuế quan mà các nhà đầu tư có thể muốn xem ngay",
+      "summary_vi": "Các tiêu đề về thuế quan lại trở thành tâm điểm chú ý, với khả năng Mỹ áp dụng mức thuế mới 50% đối với khoảng 28 tỷ USD hàng xuất khẩu của Canada, áp lực đang diễn ra đối với gỗ xẻ, kim loại và ô tô, cũng như những câu hỏi mới về tương lai của CUSMA. Sự không chắc chắn đó có thể làm xáo trộn thị trường rộng lớn, tuy nhiên nó cũng có thể làm nổi bật các công ty dường như được xây dựng để",
+      "image": "https://images.simplywall.st/asset/industry/3071000-choice2-main-header/1585186751359",
+      "link": "https://simplywall.st/stocks/us/capital-goods/nyse-alsn/allison-transmission-holdings/news/tariff-resilient-stocks-investors-may-want-to-watch-now",
+      "source": "simplywall.st",
+      "category": "macro",
+      "published": "2026-08-16 00:48"
     },
     {
       "id": "7oqmfe",
@@ -539,17 +550,6 @@
       "source": "Michigan Democratic Party",
       "category": "soft",
       "published": "2026-08-14 05:35"
-    },
-    {
-      "id": "s7avnb",
-      "title": "Strong Demand Supports Soybean Prices",
-      "title_vi": "Nhu cầu mạnh mẽ hỗ trợ giá đậu nành",
-      "summary_vi": "Mặc dù diện tích lớn hơn, nhu cầu nghiền mạnh và xuất khẩu tiếp tục hỗ trợ triển vọng đậu tương.",
-      "image": "https://www.iasoybeans.com/filesimages/Newsroom/articles-images/2026/08%20August/_Crush-Article-PS.jpg",
-      "link": "https://www.iasoybeans.com/newsroom/article/demand-keeps-soybean-outlook-strong",
-      "source": "Iowa Soybean Association",
-      "category": "agri",
-      "published": "2026-08-14 04:56"
     }
   ]
 }

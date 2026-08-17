@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 08:01",
+  "updated_at": "2026-08-17 08:57",
   "items": [
     {
       "id": "74dmhf",
@@ -121,6 +121,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-16 02:00"
+    },
+    {
+      "id": "7oqmfe",
+      "title": "Russia's Oil Industry Is Running Out of Room to Absorb More Shocks",
+      "title_vi": "Ngành công nghiệp dầu mỏ của Nga sắp hết chỗ để hấp thụ thêm những cú sốc",
+      "summary_vi": "Rystad Energy cắt giảm dự báo dầu thô của Nga xuống 8,95 triệu thùng/ngày vào năm 2026 do các lệnh trừng phạt, các cuộc tấn công bằng máy bay không người lái và tắc nghẽn xuất khẩu.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-14_cf0nr1lzye.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Russias-Oil-Industry-Is-Running-Out-of-Room-to-Absorb-More-Shocks.html",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "energy",
+      "published": "2026-08-16 00:00"
     },
     {
       "id": "1lcqj0q",
@@ -539,17 +550,6 @@
       "source": "czapp.com",
       "category": "soft",
       "published": "2026-08-14 04:22"
-    },
-    {
-      "id": "cghih6",
-      "title": "Wyoming Insight for July: Oil prices fall, tax collections set record",
-      "title_vi": "Thông tin chi tiết về Wyoming trong tháng 7: Giá dầu giảm, số tiền thu thuế lập kỷ lục",
-      "summary_vi": "CHEYENNE - Số tháng 7 năm 2026 của Wyoming Insight có sẵn tại Bang Wyoming",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/c/b0/cb013ae9-2e23-4c95-83b4-793ab731e091/6a7e2d92d2f64.preview.jpg?crop=1265%2C664%2C0%2C486&resize=1200%2C630&order=crop%2Cresize",
-      "link": "https://www.wyomingnews.com/news/local_news/wyoming-insight-for-july-oil-prices-fall-tax-collections-set-record/article_005a21f8-02eb-4abb-b459-35a4b1c02a9d.html",
-      "source": "WyomingNews.com",
-      "category": "energy",
-      "published": "2026-08-14 03:44"
     }
   ]
 }

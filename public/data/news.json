@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 04:00",
+  "updated_at": "2026-08-18 04:10",
   "items": [
     {
       "id": "xzir0s",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-18 04:00"
+    },
+    {
+      "id": "1ncpfj",
+      "title": "Gold and Silver Prices Are Rising. Here's Which Precious Metal May Have More Upside",
+      "title_vi": "Giá vàng và bạc đang tăng. Đây là kim loại quý nào có thể có nhiều ưu điểm hơn",
+      "summary_vi": "Tỷ lệ vàng-bạc có thể cung cấp manh mối về việc kim loại nào có thể hoạt động tốt hơn trong thời kỳ thị trường suy thoái.",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883774%2Fa-stack-of-gold-and-silver-bars.jpg&w=1200&op=resize",
+      "link": "https://www.fool.com/investing/2026/08/17/gold-and-silver-prices-are-rising-heres-which-prec/",
+      "source": "The Motley Fool",
+      "category": "metal",
+      "published": "2026-08-18 03:59"
     },
     {
       "id": "nkaeth",
@@ -297,17 +308,6 @@
       "source": "Moomoo",
       "category": "metal",
       "published": "2026-08-17 09:48"
-    },
-    {
-      "id": "z07jlj",
-      "title": "Gold Rises to Near $4,400 as Weak Retail Data Weighs on Dollar",
-      "title_vi": "Vàng tăng lên gần 4.400 USD khi dữ liệu bán lẻ yếu ảnh hưởng đến đồng đô la",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-16/gold-steady-near-4-400-as-traders-weigh-us-data-and-rate-path",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-08-17 06:36"
     },
     {
       "id": "14opm07",

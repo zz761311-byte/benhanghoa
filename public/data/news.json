@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 09:00",
+  "updated_at": "2026-08-18 09:44",
   "items": [
     {
       "id": "1wlgefk",
@@ -132,6 +132,17 @@
       "source": "EUobserver",
       "category": "soft",
       "published": "2026-08-18 00:10"
+    },
+    {
+      "id": "u4ekog",
+      "title": "U.S. Copper Imports Hit a 12-Year Record as LME Stocks Crash",
+      "title_vi": "Nhập khẩu đồng của Mỹ đạt kỷ lục 12 năm khi tồn kho LME sụt giảm",
+      "summary_vi": "Nhập khẩu đồng của Mỹ đạt mức cao nhất trong 12 năm vào tháng 7 khi các thương nhân chạy đua với lời kêu gọi thuế quan của Trump, ngay cả khi tồn kho LME giảm xuống mức thấp nhất trong 5 năm.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-17_sqnn0tuwbu.jpg",
+      "link": "https://oilprice.com/Metals/Commodities/US-Copper-Imports-Hit-a-12-Year-Record-as-LME-Stocks-Crash.amp.html",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "metal",
+      "published": "2026-08-18 00:00"
     },
     {
       "id": "1i6jash",
@@ -539,17 +550,6 @@
       "source": "Bloomberg.com",
       "category": "soft",
       "published": "2026-08-15 01:41"
-    },
-    {
-      "id": "sn3t3p",
-      "title": "Copper price holds near record as London warehouse bidding war looms",
-      "title_vi": "Giá đồng giữ gần kỷ lục khi cuộc chiến đấu thầu kho hàng ở London sắp diễn ra",
-      "summary_vi": "Đồng LME tháng 8 giao dịch ở mức 370 USD trong tháng 9, mức chênh lệch lớn nhất trong một tháng kể từ đợt siết chặt năm 2021 buộc sàn giao dịch này phải can thiệp khẩn cấp.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/02/AdobeStock_588953684-1024x681.jpeg",
-      "link": "https://www.mining.com/copper-price-holds-near-record-as-london-warehouse-bidding-war-looms/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-08-15 00:59"
     }
   ]
 }

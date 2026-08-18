@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 19:00",
+  "updated_at": "2026-08-18 19:15",
   "items": [
     {
       "id": "1lz1tbu",
@@ -110,6 +110,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-18 11:35"
+    },
+    {
+      "id": "1mhilb6",
+      "title": "Silver Price Forecast: XAG/USD falls to near $65.50 amid US-Iran peace uncertainty",
+      "title_vi": "Dự báo giá bạc: XAG/USD giảm xuống gần 65,50 USD trong bối cảnh hòa bình Mỹ-Iran không chắc chắn",
+      "summary_vi": "Giá bạc (XAG/USD) giảm sau hai ngày tăng, giao dịch quanh mức 65,60 USD/troy ounce trong giờ châu Á vào thứ Ba.",
+      "image": "https://editorial.fxsstatic.com/images/i/Commodities_Silver-2_Medium.jpg",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6550-amid-us-iran-peace-uncertainty-202608180208",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-08-18 09:08"
     },
     {
       "id": "12g9r35",
@@ -539,17 +550,6 @@
       "source": "thestreet.com",
       "category": "metal",
       "published": "2026-08-16 03:17"
-    },
-    {
-      "id": "zyefit",
-      "title": "Tariff Resilient Stocks Investors May Want to Watch Now",
-      "title_vi": "Những cổ phiếu có khả năng phục hồi thuế quan mà các nhà đầu tư có thể muốn xem ngay",
-      "summary_vi": "Các tiêu đề về thuế quan lại trở thành tâm điểm chú ý, với khả năng Mỹ áp dụng mức thuế mới 50% đối với khoảng 28 tỷ USD hàng xuất khẩu của Canada, áp lực đang diễn ra đối với gỗ xẻ, kim loại và ô tô, cũng như những câu hỏi mới về tương lai của CUSMA. Sự không chắc chắn đó có thể làm xáo trộn thị trường rộng lớn, tuy nhiên nó cũng có thể làm nổi bật các công ty dường như được xây dựng để",
-      "image": "https://images.simplywall.st/asset/industry/3071000-choice2-main-header/1585186751359",
-      "link": "https://simplywall.st/stocks/us/capital-goods/nyse-alsn/allison-transmission-holdings/news/tariff-resilient-stocks-investors-may-want-to-watch-now",
-      "source": "simplywall.st",
-      "category": "macro",
-      "published": "2026-08-16 00:48"
     }
   ]
 }

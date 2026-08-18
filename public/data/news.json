@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 22:00",
+  "updated_at": "2026-08-18 22:50",
   "items": [
     {
       "id": "i2m90y",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-18 22:00"
+    },
+    {
+      "id": "174qx60",
+      "title": "Round K Comes Full Circle at Renovated New York Cafe",
+      "title_vi": "Round K có đầy đủ vòng tròn tại quán cà phê New York đã được tân trang lại",
+      "summary_vi": "Hơn một thập kỷ sau khi Okhyeon Byeon thành lập quán cà phê độc lập Round K ở Lower East Side của Manhattan, công ty đã bước sang một chương khác với quán cà phê đã được cải tạo dưới...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/08/18/round-k-comes-full-circle-at-renovated-new-york-cafe/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-08-18 21:49"
     },
     {
       "id": "vrpl1h",
@@ -143,6 +154,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-18 17:30"
+    },
+    {
+      "id": "1vsg7dg",
+      "title": "Gold, Silver Pullback Is Not The End Of Rally, JPMorgan Reportedly Says After Forecast Cut",
+      "title_vi": "JPMorgan cho biết sự thoái lui của vàng, bạc không phải là sự kết thúc của đợt tăng giá sau khi cắt giảm dự báo",
+      "summary_vi": "Bất chấp việc cắt giảm ngắn hạn, JPMorgan dự đoán giá vàng và bạc sẽ tăng vào cuối năm nay trong bối cảnh những bất ổn về năng lượng và lạm phát giảm bớt.",
+      "image": "https://news.stocktwits-cdn.com/large_Gold_Silver_jpg_c77de4fb71.webp",
+      "link": "https://stocktwits.com/news-articles/markets/equity/gold-silver-pullback-is-not-the-end-of-rally-jpmorgan-reportedly-says-after-forecast-cut/cZXrBxmRelk",
+      "source": "Stocktwits",
+      "category": "metal",
+      "published": "2026-08-18 15:24"
     },
     {
       "id": "qkvpbb",
@@ -398,17 +420,6 @@
       "published": "2026-08-17 21:15"
     },
     {
-      "id": "se2om4",
-      "title": "The Golden Hour: A Trip Back To Grassroots Coffee",
-      "title_vi": "Giờ Vàng: Chuyến Về Cà Phê Gốc",
-      "summary_vi": "Nhà khí tượng học Ryan Gold vẫn còn nhiều câu hỏi về thời tiết cần giải đáp tại Grassroots Coffee trong Giờ Vàng hôm nay",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/bff705e/2147483647/strip/true/crop/1471x772+0+28/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fbe%2F52%2Ff7684eff40b78ff06c81b4c98765%2Fimg-0104.PNG",
-      "link": "https://www.wtxl.com/weather/the-golden-hour-a-trip-back-to-grassroots-coffee",
-      "source": "WTXL ABC 27 Tallahassee News",
-      "category": "soft",
-      "published": "2026-08-17 21:08"
-    },
-    {
       "id": "5ykn1j",
       "title": "Out of room: Russia's crude production enters a new era of constraint",
       "title_vi": "Hết chỗ: Sản xuất dầu thô của Nga bước vào kỷ nguyên hạn chế mới",
@@ -539,17 +550,6 @@
       "source": "Mining Weekly",
       "category": "metal",
       "published": "2026-08-17 14:00"
-    },
-    {
-      "id": "1lxhn4r",
-      "title": "Asian shares rise, dollar slips as markets pare Fed rate risks",
-      "title_vi": "Cổ phiếu châu Á tăng, đồng đô la trượt dốc khi thị trường giảm bớt rủi ro lãi suất của Fed",
-      "summary_vi": "Bởi Stella Qiu SYDNEY, ngày 17 tháng 8 (Reuters) - Cổ phiếu châu Á tăng cao hơn vào thứ Hai, dẫn đầu bởi chứng khoán Trung Quốc trước dữ liệu kinh tế quan trọng, trong khi các nhà đầu tư thận trọng với giá dầu sau khi tăng đáng kể vào tuần trước trong bối cảnh xung đột vùng Vịnh bế tắc. Hoa Kỳ....",
-      "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/17/2026-08-17T011925Z_2_LYNXMPEM7G02R_RTROPTP_3_JAPAN-COMPANY-JPX.JPG",
-      "link": "https://wtvbam.com/2026/08/16/asian-shares-mark-time-as-gulf-war-keeps-oil-prices-up/",
-      "source": "WTVB",
-      "category": "macro",
-      "published": "2026-08-17 12:25"
     }
   ]
 }

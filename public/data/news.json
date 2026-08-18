@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 18:44",
+  "updated_at": "2026-08-18 19:00",
   "items": [
     {
       "id": "1lz1tbu",
@@ -110,6 +110,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-18 11:35"
+    },
+    {
+      "id": "12g9r35",
+      "title": "China's zero-tariff policy boon for Zimbabwe trade",
+      "title_vi": "Chính sách miễn thuế của Trung Quốc mang lại lợi ích cho thương mại Zimbabwe",
+      "summary_vi": "",
+      "image": "http://img2.chinadaily.com.cn/images/202608/18/6a83b764a3106bc5df921a2e.jpeg",
+      "link": "https://global.chinadaily.com.cn/a/202608/18/WS6a83b002a3106bc57421bfff.html",
+      "source": "China Daily Global Edition",
+      "category": "macro",
+      "published": "2026-08-18 08:06"
     },
     {
       "id": "6xbxhf",
@@ -277,6 +288,17 @@
       "published": "2026-08-17 23:27"
     },
     {
+      "id": "kqzblk",
+      "title": "Greek-Run Oil Tanker Comes Under Attack in Russian Black Sea",
+      "title_vi": "Tàu chở dầu do Hy Lạp điều hành bị tấn công ở Biển Đen của Nga",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-17/greek-run-oil-tanker-comes-under-attack-in-russian-black-sea",
+      "source": "Bloomberg",
+      "category": "energy",
+      "published": "2026-08-17 22:25"
+    },
+    {
       "id": "pwf3lg",
       "title": "FLIPR 2026 midterm election forecast",
       "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
@@ -330,6 +352,17 @@
       "source": "Rystad Energy",
       "category": "energy",
       "published": "2026-08-17 20:48"
+    },
+    {
+      "id": "1tn3lgn",
+      "title": "The Real Driver of Dollar Yen Is Sitting Inside the Federal Reserve",
+      "title_vi": "Động lực thực sự của đồng Yên đang ngồi bên trong Cục Dự trữ Liên bang",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-us/insights/the-real-driver-of-dollar-yen-is-sitting-inside-the-federal-reserve/",
+      "source": "stonex.com",
+      "category": "macro",
+      "published": "2026-08-17 20:12"
     },
     {
       "id": "1ixv7uv",
@@ -517,39 +550,6 @@
       "source": "simplywall.st",
       "category": "macro",
       "published": "2026-08-16 00:48"
-    },
-    {
-      "id": "7oqmfe",
-      "title": "Russia's Oil Industry Is Running Out of Room to Absorb More Shocks",
-      "title_vi": "Ngành công nghiệp dầu mỏ của Nga sắp hết chỗ để hấp thụ thêm những cú sốc",
-      "summary_vi": "Rystad Energy cắt giảm dự báo dầu thô của Nga xuống 8,95 triệu thùng/ngày vào năm 2026 do các lệnh trừng phạt, các cuộc tấn công bằng máy bay không người lái và tắc nghẽn xuất khẩu.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-14_cf0nr1lzye.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Russias-Oil-Industry-Is-Running-Out-of-Room-to-Absorb-More-Shocks.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-08-16 00:00"
-    },
-    {
-      "id": "10o3tuz",
-      "title": "Inside El Niño: Cocoa crops in Brazil face bitter outlook amid serious climate threat",
-      "title_vi": "Bên trong El Niño: Cây ca cao ở Brazil phải đối mặt với triển vọng cay đắng trong bối cảnh khí hậu nghiêm trọng",
-      "summary_vi": "Siêu El Niño có cường độ kỷ lục đang mạnh lên trên khắp Thái Bình Dương và được dự báo sẽ kéo dài từ giữa năm 2026 đến đầu năm tới. Trong tập phim Inside El Niño hôm nay, chúng ta cùng xem vụ thu hoạch ca cao của Brazil. El Niño trước đây đã tàn phá vụ thu hoạch ca cao và nông dân đang chuẩn bị cho điều tồi tệ nhất. chính xác của chúng tôi",
-      "image": "https://video.cgtn.com/public/2026-08-15/public/video/560849/560849.png",
-      "link": "https://news.cgtn.com/news/2026-08-15/VHJhbnNjcmlwdDkxODk5/index.html",
-      "source": "news.cgtn.com",
-      "category": "soft",
-      "published": "2026-08-15 11:36"
-    },
-    {
-      "id": "3uad0a",
-      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
-      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
-      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
-      "image": "https://www.cmegroup.com/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium",
-      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-08-15 10:59"
     }
   ]
 }

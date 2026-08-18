@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 07:02",
+  "updated_at": "2026-08-18 08:00",
   "items": [
     {
       "id": "1e2c5d8",
@@ -154,6 +154,17 @@
       "source": "Barchart.com",
       "category": "soft",
       "published": "2026-08-17 23:27"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-08-17 21:57"
     },
     {
       "id": "1n101pp",
@@ -539,17 +550,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-08-15 00:59"
-    },
-    {
-      "id": "1yirpbl",
-      "title": "Trump's New Drone Tariff Could Benefit These Under the Radar Stocks (NASDAQ: EMAT)",
-      "title_vi": "Thuế quan máy bay không người lái mới của Trump có thể mang lại lợi ích cho những cổ phiếu radar này (NASDAQ: EMAT)",
-      "summary_vi": "WSW, NY, ngày 14 tháng 8 năm 2026, FinanceWire Chiều hôm qua, Nhà Trắng đã áp đặt các mức thuế mới sâu rộng đối với máy bay không người lái cũng như các bộ phận và thành phần của chúng, thông tin này sẽ được trình bày chi tiết hơn trong tờ thông tin toàn diện của Nhà Trắng. Con số nặng nhất, mức thuế theo giá trị 100%, rơi vào khu vực nhạy cảm nhất…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://www.tradingview.com/news/financewire:03d68c086094b:0-trump-s-new-drone-tariff-could-benefit-these-under-the-radar-stocks-nasdaq-emat/",
-      "source": "TradingView",
-      "category": "macro",
-      "published": "2026-08-14 23:35"
     }
   ]
 }

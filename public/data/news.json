@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 20:01",
+  "updated_at": "2026-08-18 20:12",
   "items": [
     {
       "id": "1dgnanz",
@@ -431,6 +431,17 @@
       "published": "2026-08-17 18:30"
     },
     {
+      "id": "10aevqf",
+      "title": "Georgia gas prices rise to $3.79 a gallon as crude oil climbs",
+      "title_vi": "Giá xăng Georgia tăng lên 3,79 USD/gallon khi dầu thô tăng",
+      "summary_vi": "Giá xăng ở Georgia tăng lên 3,79 USD/gallon, tăng 3 cent so với tuần trước và 88 cent so với một năm trước, do giá dầu thô gây áp lực lên chi phí nhiên liệu.",
+      "image": "https://cobbcountycourier.com/wp-content/uploads/2025/03/gas-and-EV-prices.jpg",
+      "link": "https://cobbcountycourier.com/2026/08/georgia-gas-prices-rise-to-3-79-a-gallon-as-crude-oil-climbs/",
+      "source": "Cobb Courier",
+      "category": "energy",
+      "published": "2026-08-17 18:15"
+    },
+    {
       "id": "n1rpsw",
       "title": "How Realistic Is the Bullish Outlook for Copper Prices?",
       "title_vi": "Triển vọng tăng giá của đồng có thực tế đến mức nào?",
@@ -539,17 +550,6 @@
       "source": "DailyForex",
       "category": "soft",
       "published": "2026-08-16 19:50"
-    },
-    {
-      "id": "i60m62",
-      "title": "Inflation Eases, But It’s Still All About Affordability",
-      "title_vi": "Lạm phát giảm bớt, nhưng tất cả vẫn là về khả năng chi trả",
-      "summary_vi": "Lạm phát tiếp tục là mối lo ngại, với các chỉ số tâm lý người tiêu dùng gửi đi những thông điệp trái chiều",
-      "image": "https://rcbizjournal.com/wp-content/uploads/2024/11/historical-inflation-main-image.jpg",
-      "link": "https://rcbizjournal.com/2026/08/16/price-tracker-2024-forward-inflation-checker/",
-      "source": "Rockland County Business Journal",
-      "category": "macro",
-      "published": "2026-08-16 17:00"
     }
   ]
 }

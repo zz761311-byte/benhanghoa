@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 03:01",
+  "updated_at": "2026-08-19 03:43",
   "items": [
     {
       "id": "1ge6oxu",
@@ -110,6 +110,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-18 23:30"
+    },
+    {
+      "id": "1m5icyb",
+      "title": "Are Corn Prices Setting Up for a Breakout?",
+      "title_vi": "Giá ngô đang chuẩn bị bứt phá?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/are-corn-prices-setting-up-for-a-breakout-12062338",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-08-18 23:01"
     },
     {
       "id": "1wwmcm1",
@@ -242,6 +253,17 @@
       "source": "think.ing.com",
       "category": "energy",
       "published": "2026-08-18 14:13"
+    },
+    {
+      "id": "o9a3w9",
+      "title": "Natural Gas and Oil Forecast: Hormuz Risks Support Crude as U.S. Gas Supply Stays Ample",
+      "title_vi": "Dự báo khí đốt tự nhiên và dầu: Rủi ro Hormuz hỗ trợ dầu thô khi nguồn cung cấp khí đốt của Hoa Kỳ vẫn dồi dào",
+      "summary_vi": "Rủi ro vận chuyển Hormuz vẫn tăng cao khi WTI và Brent kéo dài thời gian phục hồi, đồng thời sản lượng khí đốt kỷ lục của Hoa Kỳ và áp lực lưu trữ khí đốt tự nhiên dồi dào.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/08/Main-Images-28-1.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-hormuz-risks-support-crude-as-u-s-gas-supply-stays-ample-1617328",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-08-18 13:10"
     },
     {
       "id": "f0532j",
@@ -508,6 +530,17 @@
       "published": "2026-08-17 20:00"
     },
     {
+      "id": "10l6zo6",
+      "title": "Natural Gas Bulls Give the Cold Shoulder to Hot Forecasts",
+      "title_vi": "Giá khí đốt tự nhiên khiến những dự báo nóng trở nên lạnh lùng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/natural-gas-bulls-give-the-cold-shoulder-to-hot-forecasts/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-08-17 19:36"
+    },
+    {
       "id": "gvnjtd",
       "title": "Platinum Price Forecast: Weaker Dollar Supports Recovery Despite Weak China Demand",
       "title_vi": "Dự báo giá bạch kim: Đồng đô la yếu hơn hỗ trợ phục hồi mặc dù nhu cầu của Trung Quốc yếu",
@@ -517,39 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-08-17 19:08"
-    },
-    {
-      "id": "1nalr31",
-      "title": "Silver Price Predictions: Why Citi Analysts See Silver Prices Soaring to $90 Soon",
-      "title_vi": "Dự đoán giá bạc: Tại sao các nhà phân tích Citi thấy giá bạc sẽ sớm tăng vọt lên 90 USD",
-      "summary_vi": "Sau đợt điều chỉnh khắc nghiệt từ mức đỉnh tháng 1, bạc đã có sự phục hồi khiêm tốn trong tháng qua. Những biến động không ổn định của kim loại trắng tiếp tục khiến các nhà đầu tư phải suy đoán, trong khi Citi nhận thấy còn nhiều cơ hội để tăng giá.",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Metals/Silver/Silver%20bullion%20by%20SonerCdem%20via%20iStock.jpg",
-      "link": "https://www.barchart.com/story/news/3883710/silver-price-predictions-why-citi-analysts-see-silver-prices-soaring-to-90-soon",
-      "source": "Barchart.com",
-      "category": "metal",
-      "published": "2026-08-17 18:30"
-    },
-    {
-      "id": "10aevqf",
-      "title": "Georgia gas prices rise to $3.79 a gallon as crude oil climbs",
-      "title_vi": "Giá xăng Georgia tăng lên 3,79 USD/gallon khi dầu thô tăng",
-      "summary_vi": "Giá xăng ở Georgia tăng lên 3,79 USD/gallon, tăng 3 cent so với tuần trước và 88 cent so với một năm trước, do giá dầu thô gây áp lực lên chi phí nhiên liệu.",
-      "image": "https://cobbcountycourier.com/wp-content/uploads/2025/03/gas-and-EV-prices.jpg",
-      "link": "https://cobbcountycourier.com/2026/08/georgia-gas-prices-rise-to-3-79-a-gallon-as-crude-oil-climbs/",
-      "source": "Cobb Courier",
-      "category": "energy",
-      "published": "2026-08-17 18:15"
-    },
-    {
-      "id": "n1rpsw",
-      "title": "How Realistic Is the Bullish Outlook for Copper Prices?",
-      "title_vi": "Triển vọng tăng giá của đồng có thực tế đến mức nào?",
-      "summary_vi": "Nhiều nhà phân tích kỳ vọng giá đồng sẽ tiếp tục có xu hướng tăng mạnh. Mặc dù nhu cầu toàn cầu ngày càng tăng, được thúc đẩy bởi các ứng dụng mới nổi và những hạn chế về nguồn cung dai dẳng hỗ trợ giá cao hơn, nhưng các yếu tố như thách thức kinh tế toàn cầu và nỗ lực của ngành khai thác nhằm tìm ra nguồn cung mới cuối cùng có thể hạn chế",
-      "image": "https://internationalbanker.com/wp-content/uploads/2026/08/Copper-mines-e1786961114793.jpg",
-      "link": "https://internationalbanker.com/brokerage/how-realistic-is-the-bullish-outlook-for-copper-prices/",
-      "source": "International Banker",
-      "category": "metal",
-      "published": "2026-08-17 17:05"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 00:13",
+  "updated_at": "2026-08-19 00:47",
   "items": [
     {
       "id": "1ogktn4",
@@ -343,6 +343,17 @@
       "published": "2026-08-18 02:52"
     },
     {
+      "id": "jsvx9a",
+      "title": "Copper Market Squeeze Intensifies as More Metal Is Shipped to US",
+      "title_vi": "Thị trường đồng bị siết chặt khi ngày càng có nhiều kim loại được vận chuyển đến Mỹ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-17/copper-heads-toward-record-high-on-lme-as-supply-tensions-build",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-08-18 02:34"
+    },
+    {
       "id": "1b3f0n",
       "title": "Silver Price Forecast: XAG consolidates as haven demand returns",
       "title_vi": "Dự báo giá bạc: XAG hợp nhất khi nhu cầu trú ẩn an toàn quay trở lại",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-08-17 16:20"
-    },
-    {
-      "id": "1ldgvlt",
-      "title": "Oil Prices Retain Risk Premium as Iran, Oman Progress Talks on Strait of Hormuz",
-      "title_vi": "Giá dầu duy trì mức bù rủi ro khi Iran, Oman đàm phán tiến bộ về eo biển Hormuz",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-mixed-may-be-buoyed-amid-deadlock-in-u-s-iran-talks-384320a7",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-08-17 16:11"
     }
   ]
 }

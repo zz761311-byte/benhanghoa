@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 11:55",
+  "updated_at": "2026-08-18 12:00",
   "items": [
     {
       "id": "1p8w7t7",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-18 11:35"
+    },
+    {
+      "id": "6xbxhf",
+      "title": "Gold Gains as Easing Fed Hike Expectations Pressure Dollar",
+      "title_vi": "Vàng tăng khi kỳ vọng tăng lãi suất của Fed giảm bớt áp lực đối với đồng đô la",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-gains-as-easing-fed-hike-expectations-pressure-dollar-a99082c0",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-08-18 08:03"
     },
     {
       "id": "1wlgefk",
@@ -55,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-18 06:00"
+    },
+    {
+      "id": "kta4nw",
+      "title": "BHP Profit Jumps on Metal Prices as Focus Shifts to Copper",
+      "title_vi": "Lợi nhuận BHP tăng nhờ giá kim loại khi trọng tâm chuyển sang đồng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-17/bhp-profit-jumps-30-on-copper-price-and-record-iron-ore-output",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-08-18 05:45"
     },
     {
       "id": "1ngd7r",
@@ -264,17 +286,6 @@
       "source": "Barchart.com",
       "category": "metal",
       "published": "2026-08-17 18:30"
-    },
-    {
-      "id": "uyuacz",
-      "title": "Gold edges higher amid softer dollar, easing Fed rate hike wagers",
-      "title_vi": "Vàng tăng cao hơn trong bối cảnh đồng đô la mềm hơn, giảm bớt sự đặt cược về việc tăng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/commodities-news/gold-rises-near-4400-as-fed-minutes-oil-risks-shape-rate-outlook-4862058",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-08-17 17:54"
     },
     {
       "id": "n1rpsw",
@@ -539,17 +550,6 @@
       "source": "stonex.com",
       "category": "metal",
       "published": "2026-08-15 02:46"
-    },
-    {
-      "id": "16fpkw9",
-      "title": "White Sugar Rally Boosts Refining as Supply Outlook Tightens",
-      "title_vi": "đợt tăng giá đường trắng thúc đẩy việc tinh chế khi triển vọng nguồn cung thắt chặt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-14/white-sugar-rally-boosts-refining-as-supply-outlook-tightens",
-      "source": "Bloomberg.com",
-      "category": "soft",
-      "published": "2026-08-15 01:41"
     }
   ]
 }

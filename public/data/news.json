@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 14:57",
+  "updated_at": "2026-08-18 15:00",
   "items": [
     {
       "id": "3gayqs",
@@ -121,6 +121,17 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-08-18 05:45"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "energynow.com",
+      "category": "energy",
+      "published": "2026-08-18 05:20"
     },
     {
       "id": "1ngd7r",
@@ -539,17 +550,6 @@
       "source": "Briefs Finance",
       "category": "metal",
       "published": "2026-08-15 09:28"
-    },
-    {
-      "id": "1ekhtqk",
-      "title": "See how Sugar Land, Missouri City's real estate market fared in July",
-      "title_vi": "Xem diễn biến thị trường bất động sản của Sugar Land, Missouri City trong tháng 7",
-      "summary_vi": "Theo dữ liệu từ CB&A Realtors, ít căn nhà được bán hơn ở các mã ZIP khu vực Sugar Land và Thành phố Missouri trong tháng 7 so với tháng 7 năm 2025, với 281 căn được bán so với 282 căn vào năm ngoái.",
-      "image": "https://communityimpact.com/og/cmsl17n6po8s801su4ch96ruq/?v=1786234964",
-      "link": "https://communityimpact.com/sugar-land-missouri-city/real-estate/see-how-sugar-land-missouri-citys-real-estate-market-fared-in-july-142149/",
-      "source": "Community Impact",
-      "category": "soft",
-      "published": "2026-08-15 09:00"
     }
   ]
 }

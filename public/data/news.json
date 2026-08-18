@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-18 06:41",
+  "updated_at": "2026-08-18 07:00",
   "items": [
+    {
+      "id": "1e2c5d8",
+      "title": "North America’s Only Cesium Project Moves Closer to Production",
+      "title_vi": "Dự án Caesium duy nhất ở Bắc Mỹ tiến gần hơn đến sản xuất",
+      "summary_vi": "Power Metals đang thúc đẩy dự án mà họ mô tả là dự án Caesium duy nhất ở Bắc Mỹ vào thời điểm mà tham vọng quốc phòng của Mỹ đang xung đột với thực tế của chuỗi cung ứng khoáng sản quan trọng. Hoa Kỳ nhập khẩu 100% lượng Caesium cần thiết, một loại khoáng chất quý hiếm được sử dụng trong đồng hồ nguyên tử, GPS",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-17_cpowd6ebl7.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/North-Americas-Only-Cesium-Project-Moves-Closer-to-Production.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-08-18 07:00"
+    },
     {
       "id": "1nrlr6s",
       "title": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-18 06:00"
+    },
+    {
+      "id": "kta4nw",
+      "title": "BHP Profit Jumps 30% on Copper Price and Iron Ore Output",
+      "title_vi": "Lợi nhuận của BHP tăng 30% nhờ giá đồng và sản lượng quặng sắt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-17/bhp-profit-jumps-30-on-copper-price-and-record-iron-ore-output",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-08-18 05:45"
     },
     {
       "id": "1ngd7r",
@@ -99,17 +121,6 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-08-18 01:00"
-    },
-    {
-      "id": "1qxtc2d",
-      "title": "Chevron Strikes Oil and Gas Offshore Angola in Major Discovery",
-      "title_vi": "Chevron tấn công dầu khí ngoài khơi Angola trong phát hiện lớn",
-      "summary_vi": "Chevron vừa công bố một phát hiện khí ngưng tụ dầu và khí đốt mới ngoài khơi Angola, đánh trúng hơn 2.000 feet hydrocarbon trong giếng thăm dò Lô 0 có thể được kết nối trực tiếp với cơ sở hạ tầng sản xuất hiện có của công ty trong nước. Giếng 105-4X gặp m",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-17_8oypbhwlt2.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Strikes-Oil-and-Gas-Offshore-Angola-in-Major-Discovery.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-18 00:30"
     },
     {
       "id": "1ikdiyw",
@@ -539,17 +550,6 @@
       "source": "TradingView",
       "category": "macro",
       "published": "2026-08-14 23:35"
-    },
-    {
-      "id": "1u28ri4",
-      "title": "Bullish Forecast Trends Pushing Natural Gas Higher Ahead of Weekend",
-      "title_vi": "Xu hướng dự báo tăng giá đẩy khí tự nhiên tăng cao hơn trước cuối tuần",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/bullish-forecast-trends-pushing-natural-gas-higher-ahead-of-weekend/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-08-14 23:02"
     }
   ]
 }

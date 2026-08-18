@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-18 21:55",
+  "updated_at": "2026-08-18 22:00",
   "items": [
+    {
+      "id": "i2m90y",
+      "title": "How Gulf Oil Is Escaping the Strait of Hormuz",
+      "title_vi": "Dầu vùng Vịnh thoát khỏi eo biển Hormuz như thế nào",
+      "summary_vi": "Các nhà sản xuất dầu ở vùng Vịnh đang tìm những con đường mới quanh eo biển Hormuz, nhưng việc vượt qua điểm nghẽn dầu mỏ lớn nhất thế giới sẽ tạo ra những rủi ro mới. Giá VLCC tăng vọt khi Hormuz biến thành giải độc đắc vận chuyển hàng hóa - Giá VLCC đang tăng vọt ngoài tầm kiểm soát (một lần nữa), đẩy thu nhập được đánh giá",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-18_plwu3ecmh6.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/How-Gulf-Oil-Is-Escaping-the-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-18 22:00"
+    },
     {
       "id": "vrpl1h",
       "title": "Jeff Currie: Forget $91 Brent, The Real Crisis Is $170 Diesel",
@@ -132,17 +143,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-18 17:30"
-    },
-    {
-      "id": "1b7bluf",
-      "title": "Brent Tops $91 After Unidentified Projectile Hits Vessel Transiting Hormuz",
-      "title_vi": "Giá dầu Brent đạt 91 USD sau khi đạn không xác định bắn trúng tàu đi qua Hormuz",
-      "summary_vi": "Một tàu chở hàng đã bị trúng một vật thể không xác định ở eo biển Hormuz vào sáng sớm thứ Ba theo giờ địa phương do nguy cơ leo thang thêm trong khu vực đã đẩy giá dầu thô Brent lên trên 91 USD/thùng. Cơ quan Điều hành Thương mại Hàng hải Vương quốc Anh (UKMTO), một cơ quan do Hải quân Hoàng gia tài trợ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-18_jogqsh8f6y.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tops-91-After-Unidentified-Projectile-Hits-Vessel-Transiting-Hormuz.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-18 16:00"
     },
     {
       "id": "qkvpbb",
@@ -308,6 +308,17 @@
       "source": "EUobserver",
       "category": "soft",
       "published": "2026-08-18 00:10"
+    },
+    {
+      "id": "nbx5f",
+      "title": "JP Morgan Silver Forecast: Analyzing Current Dynamics",
+      "title_vi": "Dự báo của JP Morgan Silver: Phân tích động lực hiện tại",
+      "summary_vi": "Đi sâu vào dự báo bạc của JP Morgan và các yếu tố khiến giá bạc tăng cao bất chấp cảnh báo của thị trường.",
+      "image": "https://goldsilver.com/wp-content/uploads/2026/08/JP-Morgan-silver-forecast.jpg",
+      "link": "https://goldsilver.com/industry-news/goldsilver-news/jp-morgan-silver-warning/",
+      "source": "GoldSilver",
+      "category": "metal",
+      "published": "2026-08-18 00:07"
     },
     {
       "id": "u4ekog",
@@ -539,17 +550,6 @@
       "source": "WTVB",
       "category": "macro",
       "published": "2026-08-17 12:25"
-    },
-    {
-      "id": "14opm07",
-      "title": "Platinum-Cured Silicone Tubing Market to Reach 230 Index by 2035 on Single-Use Bioprocessing Shift",
-      "title_vi": "Thị trường ống silicon được xử lý bằng bạch kim sẽ đạt chỉ số 230 vào năm 2035 khi chuyển đổi xử lý sinh học sử dụng một lần",
-      "summary_vi": "Thị trường ống silicon xử lý bằng bạch kim toàn cầu sẽ tăng trưởng với tốc độ CAGR 9,2% đến năm 2035, được thúc đẩy bởi quá trình xử lý sinh học sử dụng một lần và áp dụng liệu pháp tế bào & gen.",
-      "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-platinum-cured-silicone-tubing-market-analysis-forecast-size-trends-and-insights-1786922814.webp",
-      "link": "https://www.indexbox.io/blog/platinum-cured-silicone-tubing-market-to-reach-230-index-by-2035-on-single-use-bioprocessing-shift/",
-      "source": "IndexBox",
-      "category": "metal",
-      "published": "2026-08-17 06:26"
     }
   ]
 }

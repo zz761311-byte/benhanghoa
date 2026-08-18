@@ -1,6 +1,72 @@
 {
-  "updated_at": "2026-08-18 21:00",
+  "updated_at": "2026-08-18 21:55",
   "items": [
+    {
+      "id": "vrpl1h",
+      "title": "Jeff Currie: Forget $91 Brent, The Real Crisis Is $170 Diesel",
+      "title_vi": "Jeff Currie: Hãy quên dầu Brent 91 USD đi, cuộc khủng hoảng thực sự là dầu diesel 170 USD",
+      "summary_vi": "Brent ở mức 90,94 USD có vẻ gần như văn minh. Jeff Currie cho rằng đó chính xác là vấn đề: mọi người đang nhìn chằm chằm vào dầu thô trong khi cú sốc năng lượng thực sự đã hiện rõ trong loại nhiên liệu mà mọi người thực sự mua. Currie nói với CNBC: “Không ai trên trái đất tiêu thụ dầu thô”. Nhà máy lọc dầu d",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-18_muvmtd7neq.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Jeff-Currie-Forget-91-Brent-The-Real-Crisis-Is-170-Diesel.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-18 21:49"
+    },
+    {
+      "id": "kgl2mu",
+      "title": "Romania Restarts Coal Plant as Danube Drought Forces Nuclear Shutdown",
+      "title_vi": "Romania khởi động lại nhà máy than khi hạn hán sông Danube khiến nhà máy hạt nhân ngừng hoạt động",
+      "summary_vi": "Tuần này Romania đã khởi động lại một nhà máy điện đốt than công suất 300 MW để bù đắp một phần lượng điện bị mất do ngừng sản xuất điện hạt nhân sau khi mực nước sông Danube xuống thấp buộc nhà máy điện hạt nhân duy nhất của nước này phải đóng cửa. Romania thua",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-18_ylvwhjafi5.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Romania-Restarts-Coal-Plant-as-Danube-Drought-Forces-Nuclear-Shutdown.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-18 21:30"
+    },
+    {
+      "id": "ghnxvk",
+      "title": "Russia’s Oil-Flow Slump Deepens as Ukraine Threatens Key Port",
+      "title_vi": "Sự sụt giảm dòng dầu của Nga ngày càng sâu sắc khi Ukraine đe dọa cảng chính",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-18/russia-s-oil-exports-extend-their-slump-amid-ukrainian-drone-strikes",
+      "source": "Bloomberg.com",
+      "category": "energy",
+      "published": "2026-08-18 21:01"
+    },
+    {
+      "id": "c6tnso",
+      "title": "The Case for Britain Backing Its North Sea Oil and Gas Industry",
+      "title_vi": "Trường hợp nước Anh ủng hộ ngành công nghiệp dầu khí biển Bắc",
+      "summary_vi": "Nước Anh phải đối mặt với một sự lựa chọn đơn giản Mặc dù chúng ta vẫn cần dầu và khí đốt, liệu chúng ta có sản xuất nhiều dầu và khí đốt hơn ở đây để hỗ trợ việc làm, đầu tư, an ninh năng lượng và giảm lượng khí thải sản xuất hay chúng ta nhập khẩu nhiều hơn từ nước ngoài, chi phí cao hơn và kéo theo lượng khí thải cao hơn? Đó là câu hỏi thực sự",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-18_smhn8ft7gi.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Case-for-Britain-Backing-Its-North-Sea-Oil-and-Gas-Industry.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-18 21:00"
+    },
+    {
+      "id": "pm4hrq",
+      "title": "Silver Price Forecast – Silver Stalls at 200-Day EMA as Rising Yields Weigh",
+      "title_vi": "Dự báo giá bạc - Bạc đứng yên tại EMA 200 ngày do lợi suất tăng",
+      "summary_vi": "Bạc tiếp tục chứng kiến ​​nhiều giao dịch ồn ào và biến động. Đây là một thị trường tiếp tục theo dõi các tiêu đề và tác động của những tiêu đề đó đối với lãi suất.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/08/silver-precious-metal-price-chart-06-5.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/silver-price-forecast-silver-stalls-at-200-day-ema-as-rising-yields-weigh-1617435",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-08-18 20:43"
+    },
+    {
+      "id": "t869uu",
+      "title": "iQor Helps Retailers Protect Margin Under Tariff Pressure",
+      "title_vi": "iQor giúp các nhà bán lẻ bảo vệ lợi nhuận dưới áp lực thuế quan",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://sg.finance.yahoo.com/news/iqor-helps-retailers-protect-margin-133000880.html",
+      "source": "Yahoo Finance Singapore",
+      "category": "macro",
+      "published": "2026-08-18 20:30"
+    },
     {
       "id": "av07yb",
       "title": "Gulf-to-China Supertanker Rates Hit $510,000 a Day",
@@ -79,17 +145,6 @@
       "published": "2026-08-18 16:00"
     },
     {
-      "id": "1bea2er",
-      "title": "China Boosts Fuel Exports as Domestic Stockpiles Swell",
-      "title_vi": "Trung Quốc tăng cường xuất khẩu nhiên liệu khi tồn kho trong nước tăng cao",
-      "summary_vi": "Trung Quốc đã xuất khẩu nhiên liệu nhiều hơn 6,7% trong tháng trước so với tháng 6, mặc dù xuất khẩu nhiên liệu trên cơ sở hàng năm giảm 12,9%, Reuters hôm nay đưa tin, trích dẫn dữ liệu hải quan Trung Quốc. Về mặt tuyệt đối, các nhà máy lọc dầu Trung Quốc đã xuất khẩu 4,65 triệu tấn sản phẩm đã lọc bao gồm xăng, khuôn",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-18_xevml4hicc.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Boosts-Fuel-Exports-as-Domestic-Stockpiles-Swell.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-18 15:05"
-    },
-    {
       "id": "qkvpbb",
       "title": "Rising Imports Offset Weaker US Sugar Production Forecasts",
       "title_vi": "Nhập khẩu tăng bù đắp cho dự báo sản lượng đường của Mỹ yếu hơn",
@@ -112,17 +167,6 @@
       "published": "2026-08-18 14:13"
     },
     {
-      "id": "mz9nke",
-      "title": "Libya Seeks Up to $40 Billion to Boost Oil Output to 2 Million Bpd",
-      "title_vi": "Libya tìm kiếm tới 40 tỷ USD để tăng sản lượng dầu lên 2 triệu thùng/ngày",
-      "summary_vi": "Libya cần từ 36 tỷ đến 40 tỷ USD đầu tư nước ngoài để mở rộng ngành công nghiệp dầu mỏ và nâng sản lượng lên 2 triệu thùng mỗi ngày vào đầu những năm 2030, Financial Times đưa tin, dẫn lời Chủ tịch Tập đoàn Dầu khí Quốc gia Masoud Suleman. Tham vọng thúc đẩy sản xuất",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-18_9lwolx8zy7.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Seeks-Up-to-40-Billion-to-Boost-Oil-Output-to-2-Million-Bpd.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-18 13:30"
-    },
-    {
       "id": "f0532j",
       "title": "Chile's Cochilco Raises 2026 Copper Price Forecast",
       "title_vi": "Cochilco của Chile nâng dự báo giá đồng năm 2026",
@@ -143,28 +187,6 @@
       "source": "simplywall.st",
       "category": "metal",
       "published": "2026-08-18 12:28"
-    },
-    {
-      "id": "1p8w7t7",
-      "title": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records",
-      "title_vi": "Căng thẳng Mỹ-Iran đẩy giá dầu lên cao khi lợi nhuận từ dầu diesel đạt kỷ lục",
-      "summary_vi": "Tuyên bố của Iran và Mỹ hồi đầu tuần khiến triển vọng hòa bình ở Trung Đông càng xa vời hơn, đẩy giá dầu thô tăng cao. Trong khi đó, giá dầu diesel lan rộng ở Mỹ lần đầu tiên trong lịch sử đạt mức 100 USD/thùng. Tại thời điểm viết bài, Brent",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-17_o4i9axe3nm.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Iran-Tensions-Push-Oil-Prices-Higher-as-Diesel-Margins-Hit-Records.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-18 11:35"
-    },
-    {
-      "id": "1mhilb6",
-      "title": "Silver Price Forecast: XAG/USD falls to near $65.50 amid US-Iran peace uncertainty",
-      "title_vi": "Dự báo giá bạc: XAG/USD giảm xuống gần 65,50 USD trong bối cảnh hòa bình Mỹ-Iran không chắc chắn",
-      "summary_vi": "Giá bạc (XAG/USD) giảm sau hai ngày tăng, giao dịch quanh mức 65,60 USD/troy ounce trong giờ châu Á vào thứ Ba.",
-      "image": "https://editorial.fxsstatic.com/images/i/Commodities_Silver-2_Medium.jpg",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6550-amid-us-iran-peace-uncertainty-202608180208",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-08-18 09:08"
     },
     {
       "id": "12g9r35",
@@ -528,28 +550,6 @@
       "source": "IndexBox",
       "category": "metal",
       "published": "2026-08-17 06:26"
-    },
-    {
-      "id": "jt5u1",
-      "title": "Here’s the real reason oil prices aren’t moving higher",
-      "title_vi": "Đây là lý do thực sự khiến giá dầu không tăng cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc",
-      "source": "MarketWatch",
-      "category": "energy",
-      "published": "2026-08-16 20:00"
-    },
-    {
-      "id": "1ftpafa",
-      "title": "Coffee Weekly Forecast 16/08: Record Brazil Harvest (Chart)",
-      "title_vi": "Dự báo cà phê tuần 16/08: Kỷ lục thu hoạch Brazil (Biểu đồ)",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.dailyforex.com/forex-technical-analysis/2026/08/coffee-weekly-forecast-18-august-2026/248718",
-      "source": "DailyForex",
-      "category": "soft",
-      "published": "2026-08-16 19:50"
     }
   ]
 }

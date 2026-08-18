@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-18 22:50",
+  "updated_at": "2026-08-18 23:01",
   "items": [
+    {
+      "id": "1wwmcm1",
+      "title": "Russia Bars Anti-War Opposition Party From Election",
+      "title_vi": "Nga cấm đảng đối lập phản chiến tham gia bầu cử",
+      "summary_vi": "Tòa án Tối cao Nga đã bác đơn kháng cáo của đảng Yabloko, đảng duy nhất được đăng ký chính thức công khai phản đối cuộc chiến của Moscow với Ukraine, chống lại việc loại đảng này khỏi cuộc bầu cử quốc hội vào tháng 9. Trong một phiên xét xử riêng vào ngày 17/8, tòa án TP.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-18_dltmbek7nc.jpg",
+      "link": "https://oilprice.com/Geopolitics/Europe/Russia-Bars-Anti-War-Opposition-Party-From-Election.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-08-18 23:00"
+    },
     {
       "id": "i2m90y",
       "title": "How Gulf Oil Is Escaping the Strait of Hormuz",
@@ -145,15 +156,15 @@
       "published": "2026-08-18 18:30"
     },
     {
-      "id": "1w3uwiv",
-      "title": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
-      "title_vi": "Houthis tuyên bố tấn công lần thứ ba vào nhà máy lọc dầu Aramco của Saudi trong hai tuần",
-      "summary_vi": "Nhóm Houthi liên kết với Iran hôm thứ Ba tuyên bố họ đã nhắm mục tiêu vào nhà máy lọc dầu Jazan của Saudi Aramco trên bờ Biển Đỏ ở phía tây nam Ả Rập Saudi, đây là cuộc tấn công thứ ba của Houthi vào cơ sở này trong hai tuần qua, trong bối cảnh tình trạng thù địch leo thang trong khu vực và bế tắc trong cuộc chiến.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-18_vvgfry3wae.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Third-Attack-on-Saudi-Aramco-Refinery-in-Two-Weeks.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-18 17:30"
+      "id": "y8adtk",
+      "title": "[MARKET ANALYSIS] Crude holds a firmer bias amid US-Iran uncertainty alongside Trump’s Oman threats; metals subdued across the board",
+      "title_vi": "[PHÂN TÍCH THỊ TRƯỜNG] Dầu thô có xu hướng vững chắc hơn trong bối cảnh bất ổn Mỹ-Iran cùng với các mối đe dọa Oman của Trump; kim loại bị khuất phục trên diện rộng",
+      "summary_vi": "Hợp đồng tương lai WTI và Brent tháng 10 có xu hướng tích cực khi các tiêu đề địa chính trị mang tính xây dựng bị lấn át bởi những lời hoa mỹ leo thang (xem bên dưới).",
+      "image": "https://www.newsquawk.com/assets/placeholder_images_for_news_by_category/Energy/2.png",
+      "link": "https://www.newsquawk.com/headlines/market-analysis-crude-holds-a-firmer-bias-amid-us-iran-uncertainty-alongside-trumps-oman-threats-metals-subdued-across-the-board",
+      "source": "Newsquawk",
+      "category": "macro",
+      "published": "2026-08-18 15:52"
     },
     {
       "id": "1vsg7dg",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-08-17 14:03"
-    },
-    {
-      "id": "t2k9p2",
-      "title": "Korea Eximbank to lend $1bn to Glencore for copper supply",
-      "title_vi": "Eximbank Hàn Quốc cho Glencore vay 1 tỷ USD để cung cấp đồng",
-      "summary_vi": "Ngân hàng Xuất nhập khẩu Hàn Quốc sẽ cho gã khổng lồ hàng hóa Glencore vay 1 tỷ USD để đổi lấy việc cung cấp đồng cho các công ty Hàn Quốc, khi nước này tìm cách đảm bảo nguyên liệu thô cần thiết cho sự bùng nổ trí tuệ nhân tạo. Khoản vay này sẽ được cung cấp cho Glencore International AG có trụ sở tại Thụy Sĩ, một công ty con thuộc sở hữu hoàn toàn của",
-      "image": "https://cdn.creamermedia.com/assets/articles/images/resized/0001292841_resized_lomasbayascopperoperationglencore09251022.jpeg",
-      "link": "https://www.miningweekly.com/article/korea-eximbank-to-lend-1bn-to-glencore-for-copper-supply-2026-08-17",
-      "source": "Mining Weekly",
-      "category": "metal",
-      "published": "2026-08-17 14:00"
     }
   ]
 }

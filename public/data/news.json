@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 11:00",
+  "updated_at": "2026-08-18 11:20",
   "items": [
     {
       "id": "1wlgefk",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-08-18 07:00"
+    },
+    {
+      "id": "sstqoq",
+      "title": "Gold Holds Two-Day Gain on Reduced Rate-Hike Expectations",
+      "title_vi": "Vàng giữ mức tăng trong hai ngày nhờ kỳ vọng tăng lãi suất giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-17/gold-holds-two-day-gain-on-reduced-rate-hike-expectations",
+      "source": "bloomberg.com",
+      "category": "metal",
+      "published": "2026-08-18 06:20"
     },
     {
       "id": "1nrlr6s",
@@ -341,17 +352,6 @@
       "source": "WTVB",
       "category": "macro",
       "published": "2026-08-17 12:25"
-    },
-    {
-      "id": "gpbruj",
-      "title": "Expectations for Federal Reserve rate hikes have eased, with gold continuing its volatile rebound as it awaits a breakout from its trading range.",
-      "title_vi": "Kỳ vọng về việc tăng lãi suất của Cục Dự trữ Liên bang đã giảm bớt, trong đó vàng tiếp tục phục hồi đầy biến động khi chờ đợi sự bứt phá khỏi phạm vi giao dịch của mình.",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.moomoo.com/news/post/74762703/expectations-for-federal-reserve-rate-hikes-have-eased-with-gold",
-      "source": "Moomoo",
-      "category": "metal",
-      "published": "2026-08-17 09:48"
     },
     {
       "id": "14opm07",

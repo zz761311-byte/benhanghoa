@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-18 15:00",
+  "updated_at": "2026-08-18 15:57",
   "items": [
+    {
+      "id": "1bea2er",
+      "title": "China Boosts Fuel Exports as Domestic Stockpiles Swell",
+      "title_vi": "Trung Quốc tăng cường xuất khẩu nhiên liệu khi tồn kho trong nước tăng cao",
+      "summary_vi": "Trung Quốc đã xuất khẩu nhiên liệu nhiều hơn 6,7% trong tháng trước so với tháng 6, mặc dù xuất khẩu nhiên liệu trên cơ sở hàng năm giảm 12,9%, Reuters hôm nay đưa tin, trích dẫn dữ liệu hải quan Trung Quốc. Về mặt tuyệt đối, các nhà máy lọc dầu Trung Quốc đã xuất khẩu 4,65 triệu tấn sản phẩm đã lọc bao gồm xăng, khuôn",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-18_xevml4hicc.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Boosts-Fuel-Exports-as-Domestic-Stockpiles-Swell.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-18 15:05"
+    },
+    {
+      "id": "qkvpbb",
+      "title": "Rising Imports Offset Weaker US Sugar Production Forecasts",
+      "title_vi": "Nhập khẩu tăng bù đắp cho dự báo sản lượng đường của Mỹ yếu hơn",
+      "summary_vi": "Nhập khẩu tăng bù đắp cho dự báo sản lượng đường của Mỹ yếu hơn",
+      "image": "https://www.czapp.com/wp-content/uploads/2026/08/f8e5a677-f9fe-4b50-89a1-4a66a590110c.jpg",
+      "link": "https://www.czapp.com/analyst-insights/rising-imports-offset-weaker-us-sugar-production-forecasts/",
+      "source": "czapp.com",
+      "category": "soft",
+      "published": "2026-08-18 14:30"
+    },
     {
       "id": "3gayqs",
       "title": "The Commodities Feed: Oil extends gains on supply concerns",
@@ -198,17 +220,6 @@
       "source": "Yahoo Finance",
       "category": "energy",
       "published": "2026-08-18 02:52"
-    },
-    {
-      "id": "171a6en",
-      "title": "Carbon Capture’s Biggest Problem Isn’t Capturing Carbon",
-      "title_vi": "Vấn đề lớn nhất của việc thu giữ carbon không phải là thu giữ carbon",
-      "summary_vi": "Việc thu hồi carbon vẫn còn được tranh luận như thể hiệu suất kỹ thuật là câu hỏi quyết định. Một dung môi có thể loại bỏ carbon dioxide khỏi khí thải? CO2 có thể được nén, vận chuyển và bơm xuống lòng đất không? Việc lưu trữ sẽ vẫn an toàn? Những câu hỏi này quan trọng nhưng chúng không còn",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-17_7sk8gt9u3z.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Carbon-Captures-Biggest-Problem-Isnt-Capturing-Carbon.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-18 02:00"
     },
     {
       "id": "1b3f0n",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-08-15 10:59"
-    },
-    {
-      "id": "1lcqj0q",
-      "title": "Copper's Price Gap Turns Into a Tariff Thermometer",
-      "title_vi": "Khoảng cách giá đồng biến thành nhiệt kế thuế quan",
-      "summary_vi": "Khoảng cách giá đồng biến thành nhiệt kế thuế quan. Đọc toàn bộ câu chuyện trên Tóm tắt tài chính.",
-      "image": "https://www.briefs.co/wp-content/uploads/2026/08/copper-s-price-gap-turns-into-a-tariff-thermometer.png",
-      "link": "https://www.briefs.co/news/copper-s-price-gap-turns-into-a-tariff-thermometer/",
-      "source": "Briefs Finance",
-      "category": "metal",
-      "published": "2026-08-15 09:28"
     }
   ]
 }

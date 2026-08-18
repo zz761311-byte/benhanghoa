@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-18 14:08",
+  "updated_at": "2026-08-18 14:57",
   "items": [
+    {
+      "id": "3gayqs",
+      "title": "The Commodities Feed: Oil extends gains on supply concerns",
+      "title_vi": "Nguồn cấp dữ liệu hàng hóa: Dầu mở rộng mức tăng do lo ngại về nguồn cung",
+      "summary_vi": "Brent kéo dài đà tăng trên 91 USD/thùng",
+      "image": "https://think.ing.com/uploads/hero/_w800h450/shutterstock_1353945335.jpg",
+      "link": "https://think.ing.com/articles/the-commodities-feed-oil/",
+      "source": "think.ing.com",
+      "category": "energy",
+      "published": "2026-08-18 14:13"
+    },
     {
       "id": "mz9nke",
       "title": "Libya Seeks Up to $40 Billion to Boost Oil Output to 2 Million Bpd",
@@ -539,17 +550,6 @@
       "source": "Community Impact",
       "category": "soft",
       "published": "2026-08-15 09:00"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-08-15 05:59"
     }
   ]
 }

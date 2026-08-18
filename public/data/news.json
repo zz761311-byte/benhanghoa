@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-18 08:00",
+  "updated_at": "2026-08-18 08:53",
   "items": [
+    {
+      "id": "1wlgefk",
+      "title": "BHP Annual Profit Rises On Record-High Copper Prices",
+      "title_vi": "Lợi nhuận hàng năm của BHP tăng nhờ giá đồng cao kỷ lục",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/earnings/bhp-annual-profit-rises-on-record-high-copper-prices-9a833258",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-08-18 07:11"
+    },
     {
       "id": "1e2c5d8",
       "title": "North America’s Only Cesium Project Moves Closer to Production",
@@ -22,17 +33,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-18 06:00"
-    },
-    {
-      "id": "kta4nw",
-      "title": "BHP Profit Jumps 30% on Copper Price and Iron Ore Output",
-      "title_vi": "Lợi nhuận của BHP tăng 30% nhờ giá đồng và sản lượng quặng sắt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/bhp-profit-jumps-30-on-copper-price-and-record-iron-ore-output",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-08-18 05:45"
     },
     {
       "id": "1ngd7r",

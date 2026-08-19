@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-20 03:48",
+  "updated_at": "2026-08-20 04:00",
   "items": [
+    {
+      "id": "sbuim9",
+      "title": "SLB Prepares to Restart 15 Oil Rigs in Venezuela",
+      "title_vi": "SLB chuẩn bị khởi động lại 15 giàn khoan dầu ở Venezuela",
+      "summary_vi": "Công ty dịch vụ mỏ dầu khổng lồ SLB đang chuẩn bị kích hoạt lại 15 giàn khoan ở Venezuela, có khả năng loại bỏ một trong những trở ngại lớn nhất đối với việc tăng sản lượng dầu thô của nước này. SLB và công ty cổ phần tư nhân tập trung vào năng lượng Formentera Partners đang hợp tác riêng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-19_pflatiekxw.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/SLB-Prepares-to-Restart-15-Oil-Rigs-in-Venezuela.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-20 04:00"
+    },
     {
       "id": "18i1rhi",
       "title": "$100 Diesel Cracks Signal a Much Tighter Oil Market Than Brent Suggests",
@@ -121,17 +132,6 @@
       "source": "Barchart.com",
       "category": "soft",
       "published": "2026-08-19 22:52"
-    },
-    {
-      "id": "1iai90n",
-      "title": "UAE Freezes Trade With Iran After Missiles Fall Near Its Coast",
-      "title_vi": "UAE đóng băng thương mại với Iran sau khi tên lửa rơi gần bờ biển nước này",
-      "summary_vi": "Các Tiểu vương quốc Ả Rập Thống nhất (UAE) đang tạm dừng mọi quan hệ thương mại, tài chính và thương mại với Iran cho đến khi có thông báo mới, sau khi tuyên bố rằng Tehran đã bắn tên lửa đạn đạo nhắm vào lãnh thổ của mình. Cuối ngày thứ Ba, Bộ Quốc phòng UAE cho biết “các đánh giá đã tiết lộ hai quả đạn",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-19_yrsw5nkcam.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/UAE-Freezes-Trade-With-Iran-After-Missiles-Fall-Near-Its-Coast.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-19 22:30"
     },
     {
       "id": "ukugu4",
@@ -508,6 +508,17 @@
       "published": "2026-08-18 18:36"
     },
     {
+      "id": "v366df",
+      "title": "Chile's Cochilco Raises 2026 Copper Price Forecast",
+      "title_vi": "Cochilco của Chile nâng dự báo giá đồng năm 2026",
+      "summary_vi": "Dữ liệu của Industrial Info Resources tìm thấy các dự án bảo trì và vốn khai thác hiện tại và tương lai trị giá hơn 91 tỷ USD ở Chile.",
+      "image": "https://media.industrialinfo.com/news/img/webp/iir_industry_news_metals_minerals_article_thumbnail_03.webp",
+      "link": "https://www.industrialinfo.com/iirenergy/industry-news/article/chiles-cochilco-raises-2026-copper-price-forecast--361453",
+      "source": "Industrial Info Resources",
+      "category": "metal",
+      "published": "2026-08-18 17:04"
+    },
+    {
       "id": "mbyx0p",
       "title": "Could a Super El Niño Send Cocoa, Coffee and Sugar Prices Higher?",
       "title_vi": "Siêu El Niño có thể khiến giá ca cao, cà phê và đường tăng cao hơn?",
@@ -539,17 +550,6 @@
       "source": "czapp.com",
       "category": "soft",
       "published": "2026-08-18 14:30"
-    },
-    {
-      "id": "3gayqs",
-      "title": "The Commodities Feed: Oil extends gains on supply concerns",
-      "title_vi": "Nguồn cấp dữ liệu hàng hóa: Dầu mở rộng mức tăng do lo ngại về nguồn cung",
-      "summary_vi": "Brent kéo dài đà tăng trên 91 USD/thùng",
-      "image": "https://think.ing.com/uploads/hero/_w800h450/shutterstock_1353945335.jpg",
-      "link": "https://think.ing.com/articles/the-commodities-feed-oil/",
-      "source": "think.ing.com",
-      "category": "energy",
-      "published": "2026-08-18 14:13"
     }
   ]
 }

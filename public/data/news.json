@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 01:03",
+  "updated_at": "2026-08-20 01:56",
   "items": [
     {
       "id": "1f173kv",
@@ -220,6 +220,17 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-08-19 08:22"
+    },
+    {
+      "id": "1el8tyi",
+      "title": "Gold surges over 3% as US Treasury announcement hurts yields, dollar",
+      "title_vi": "Vàng tăng hơn 3% khi thông báo của Bộ Tài chính Hoa Kỳ ảnh hưởng đến lợi suất, đồng đô la",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-inches-higher-focus-fed-minutes-2026-08-19/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-08-19 07:59"
     },
     {
       "id": "aqnaa6",
@@ -484,17 +495,6 @@
       "source": "Newsquawk",
       "category": "energy",
       "published": "2026-08-18 15:52"
-    },
-    {
-      "id": "1vsg7dg",
-      "title": "Gold, Silver Pullback Is Not The End Of Rally, JPMorgan Reportedly Says After Forecast Cut",
-      "title_vi": "JPMorgan cho biết sự thoái lui của vàng, bạc không phải là sự kết thúc của đợt tăng giá sau khi cắt giảm dự báo",
-      "summary_vi": "Bất chấp việc cắt giảm ngắn hạn, JPMorgan dự đoán giá vàng và bạc sẽ tăng vào cuối năm nay trong bối cảnh những bất ổn về năng lượng và lạm phát giảm bớt.",
-      "image": "https://news.stocktwits-cdn.com/large_Gold_Silver_jpg_c77de4fb71.webp",
-      "link": "https://stocktwits.com/news-articles/markets/equity/gold-silver-pullback-is-not-the-end-of-rally-jpmorgan-reportedly-says-after-forecast-cut/cZXrBxmRelk",
-      "source": "Stocktwits",
-      "category": "metal",
-      "published": "2026-08-18 15:24"
     },
     {
       "id": "qkvpbb",

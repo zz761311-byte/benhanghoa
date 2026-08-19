@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 04:00",
+  "updated_at": "2026-08-20 04:11",
   "items": [
     {
       "id": "sbuim9",
@@ -220,6 +220,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-08-19 11:16"
+    },
+    {
+      "id": "1uyzx9x",
+      "title": "Coffee, cocoa and sugar are jumping. Is El Niño the next big commodity catalyst?",
+      "title_vi": "Cà phê, ca cao và đường đang tăng vọt. El Niño có phải là chất xúc tác hàng hóa lớn tiếp theo không?",
+      "summary_vi": "Giá cà phê, ca cao và đường đang tăng do rủi ro thời tiết gây áp lực mới lên thị trường hàng hóa toàn cầu. Khám phá xem El Niño tiềm năng có thể ảnh hưởng như thế nào đến nguồn cung cấp cây trồng, giá cả và thương nhân cũng như những mặt hàng mềm nào có thể bị ảnh hưởng nhiều nhất.",
+      "image": "https://tw.mitrade.com/cms_uploads/img/20241203/3a55090fef55c9897b693476fbf60f3f.jpg",
+      "link": "https://www.mitrade.com/au/insights/commodity/commodity-basics/coffee-cocoa-sugar",
+      "source": "mitrade.com",
+      "category": "soft",
+      "published": "2026-08-19 10:08"
     },
     {
       "id": "1wn75us",
@@ -539,17 +550,6 @@
       "source": "Newsquawk",
       "category": "energy",
       "published": "2026-08-18 15:52"
-    },
-    {
-      "id": "qkvpbb",
-      "title": "Rising Imports Offset Weaker US Sugar Production Forecasts",
-      "title_vi": "Nhập khẩu tăng bù đắp cho dự báo sản lượng đường của Mỹ yếu hơn",
-      "summary_vi": "Nhập khẩu tăng bù đắp cho dự báo sản lượng đường của Mỹ yếu hơn",
-      "image": "https://www.czapp.com/wp-content/uploads/2026/08/f8e5a677-f9fe-4b50-89a1-4a66a590110c.jpg",
-      "link": "https://www.czapp.com/analyst-insights/rising-imports-offset-weaker-us-sugar-production-forecasts/",
-      "source": "czapp.com",
-      "category": "soft",
-      "published": "2026-08-18 14:30"
     }
   ]
 }

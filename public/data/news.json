@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 06:00",
+  "updated_at": "2026-08-20 06:07",
   "items": [
     {
       "id": "al5jqk",
@@ -143,6 +143,17 @@
       "source": "ING Think",
       "category": "energy",
       "published": "2026-08-19 22:12"
+    },
+    {
+      "id": "aqpi94",
+      "title": "USDA Forecasts These 3 States Will Have the Highest Corn Yields in 2026",
+      "title_vi": "USDA dự báo 3 bang này sẽ có sản lượng ngô cao nhất vào năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/usda-forecasts-these-3-states-will-have-the-highest-corn-yields-in-2026-12063266",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-08-19 21:49"
     },
     {
       "id": "ukugu4",
@@ -539,17 +550,6 @@
       "source": "Industrial Info Resources",
       "category": "metal",
       "published": "2026-08-18 17:04"
-    },
-    {
-      "id": "mbyx0p",
-      "title": "Could a Super El Niño Send Cocoa, Coffee and Sugar Prices Higher?",
-      "title_vi": "Siêu El Niño có thể khiến giá ca cao, cà phê và đường tăng cao hơn?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://moderndiplomacy.eu/2026/08/18/could-a-super-el-nino-send-cocoa-coffee-and-sugar-prices-higher/",
-      "source": "Modern Diplomacy",
-      "category": "soft",
-      "published": "2026-08-18 16:00"
     }
   ]
 }

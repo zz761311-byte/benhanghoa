@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 11:02",
+  "updated_at": "2026-08-19 11:55",
   "items": [
     {
       "id": "1wn75us",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-19 05:00"
+    },
+    {
+      "id": "j27yxw",
+      "title": "Silver Is Down 47%. Almost Nobody Owns It.",
+      "title_vi": "Bạc giảm 47%. Hầu như không ai sở hữu nó.",
+      "summary_vi": "Định vị đầu cơ đã giảm xuống phần trăm thứ 20 trong 60 tuần. Cơ chế đằng sau việc rút tiền hoạt động theo cả hai cách.",
+      "image": "https://goldsilver.com/wp-content/uploads/2026/08/silver-price-outlook-August-2026.jpg",
+      "link": "https://goldsilver.com/industry-news/article/silver-price-outlook-august-2026/",
+      "source": "goldsilver.com",
+      "category": "metal",
+      "published": "2026-08-19 04:16"
     },
     {
       "id": "1rwh4rd",
@@ -200,6 +211,17 @@
       "published": "2026-08-18 21:49"
     },
     {
+      "id": "1k7ahmy",
+      "title": "Gold and Silver Slip as Bond Yields Hit Multi-Decade Highs",
+      "title_vi": "Vàng và Bạc trượt dốc khi lợi suất trái phiếu đạt mức cao nhất trong nhiều thập kỷ",
+      "summary_vi": "Giá vàng và bạc giảm trở lại hôm thứ Ba khi lãi suất trái phiếu dài đạt mức cao mới trong nhiều thập kỷ do lo ngại lạm phát và nợ >>",
+      "image": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/2026-08-18-bbg-30-yr-yields.png",
+      "link": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-bonds-debt-081820261",
+      "source": "BullionVault",
+      "category": "metal",
+      "published": "2026-08-18 21:09"
+    },
+    {
       "id": "ghnxvk",
       "title": "Russia’s Oil-Flow Slump Deepens as Ukraine Threatens Key Port",
       "title_vi": "Sự sụt giảm dòng dầu của Nga ngày càng sâu sắc khi Ukraine đe dọa cảng chính",
@@ -231,6 +253,17 @@
       "source": "Yahoo Finance Singapore",
       "category": "macro",
       "published": "2026-08-18 20:30"
+    },
+    {
+      "id": "klxomz",
+      "title": "US imposes 100% tariff on sensitive foreign dro...",
+      "title_vi": "Mỹ áp thuế 100% đối với hàng hóa nhạy cảm nước ngoài",
+      "summary_vi": "Chính phủ Hoa Kỳ đã ban hành mức thuế 100% đối với máy bay không người lái nhạy cảm của nước ngoài và các bộ phận quan trọng, đặc biệt nhắm vào những loại có nam châm đất hiếm có nguồn gốc từ Trung Quốc. Động thái này buộc các nhà sản xuất máy bay không người lái trong nước phải khẩn trương tìm nguồn nam châm không phải của Trung Quốc, phù hợp với quy định của Lầu Năm Góc có hiệu lực từ ngày 1 tháng 1 năm 2027, cấm Trung Quốc",
+      "image": "https://image-cdn.pluang.com/web/compressed/market_news.webp",
+      "link": "https://pluang.com/en/news-feed/tarif-100-persen-drone-asing-dan-magnet-penting-di-dalamnya",
+      "source": "Pluang",
+      "category": "macro",
+      "published": "2026-08-18 19:52"
     },
     {
       "id": "1qmi8o0",
@@ -376,17 +409,6 @@
       "published": "2026-08-18 07:11"
     },
     {
-      "id": "sstqoq",
-      "title": "Gold Holds Two-Day Gain on Reduced Rate-Hike Expectations",
-      "title_vi": "Vàng giữ mức tăng trong hai ngày nhờ kỳ vọng tăng lãi suất giảm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/gold-holds-two-day-gain-on-reduced-rate-hike-expectations",
-      "source": "bloomberg.com",
-      "category": "metal",
-      "published": "2026-08-18 06:20"
-    },
-    {
       "id": "kta4nw",
       "title": "BHP Profit Jumps on Metal Prices as Focus Shifts to Copper",
       "title_vi": "Lợi nhuận BHP tăng nhờ giá kim loại khi trọng tâm chuyển sang đồng",
@@ -508,6 +530,17 @@
       "published": "2026-08-17 23:48"
     },
     {
+      "id": "1c4l7lq",
+      "title": "Tensions in the Black Sea and regional droughts spark rising global wheat prices",
+      "title_vi": "Căng thẳng ở Biển Đen và hạn hán khu vực khiến giá lúa mì toàn cầu tăng cao",
+      "summary_vi": "Một loạt vấn đề mới làm rung chuyển thị trường.",
+      "image": "https://www.ifpri.org/wp-content/uploads/2023/06/Cargo-Ship_Ukraine_Black_Sea.jpg",
+      "link": "https://www.ifpri.org/blog/tensions-in-the-black-sea-and-regional-droughts-spark-rising-global-wheat-prices/",
+      "source": "IFPRI",
+      "category": "agri",
+      "published": "2026-08-17 22:33"
+    },
+    {
       "id": "kqzblk",
       "title": "Greek-Run Oil Tanker Comes Under Attack in Russian Black Sea",
       "title_vi": "Tàu chở dầu do Hy Lạp điều hành bị tấn công ở Biển Đen của Nga",
@@ -517,39 +550,6 @@
       "source": "Bloomberg",
       "category": "energy",
       "published": "2026-08-17 22:25"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-08-17 21:57"
-    },
-    {
-      "id": "1n101pp",
-      "title": "Why Falling LME Stocks Can Keep Copper Above $14,000 After Expiry",
-      "title_vi": "Tại sao cổ phiếu LME giảm có thể giữ đồng trên 14.000 USD sau khi hết hạn",
-      "summary_vi": "Cổ phiếu LME giảm có thể giữ đồng ở mức trên 14.000 USD ngay cả khi mức phí bảo hiểm giao ngay 543,50 USD giảm dần sau khi hợp đồng hết hạn vào tháng 8.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a831f9d25f1e6d524478cd0_Copper%20Billet.png",
-      "link": "https://www.cruxinvestor.com/posts/why-falling-lme-stocks-can-keep-copper-above-14-000-after-expiry",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-08-17 21:51"
-    },
-    {
-      "id": "y71o7c",
-      "title": "Manna Coffee Adds Funding for Automated Kiosk Growth",
-      "title_vi": "Cà phê Manna bổ sung nguồn tài trợ cho việc phát triển kiosk tự động",
-      "summary_vi": "Công ty ki-ốt cà phê tự phục vụ Manna Coffee cho biết họ đã huy động được hơn 300.000 USD cho vòng tài trợ hạt giống mở có thể đạt gần 1,25 triệu USD. Vòng đấu bao gồm sự kết hợp...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/08/17/manna-coffee-adds-funding-for-automated-kiosk-growth/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-08-17 21:15"
     }
   ]
 }

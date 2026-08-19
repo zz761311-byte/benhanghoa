@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-20 00:44",
+  "updated_at": "2026-08-20 01:00",
   "items": [
+    {
+      "id": "1f173kv",
+      "title": "Central Asia Blackout Traced to Key Hydropower Plant",
+      "title_vi": "Mất điện ở Trung Á bắt nguồn từ nhà máy thủy điện quan trọng",
+      "summary_vi": "Kyrgyzstan đã đưa ra một số thông tin rõ ràng về nguồn gốc của vụ mất điện gần đây đã ảnh hưởng đến 4 quốc gia ở Trung Á, đồng thời phủ nhận mạnh mẽ nguyên nhân gây ra tình trạng mất điện liên tục. Mất điện lần đầu tiên được báo cáo tại thủ đô Bishkek của Kyrgyzstan vào chiều ngày 14 tháng 8 trước khi",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-18_5buh027lzi.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Central-Asia-Blackout-Traced-to-Key-Hydropower-Plant.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-20 01:00"
+    },
     {
       "id": "1lc2xyp",
       "title": "World&#039;s Largest Electric Plane Flies for 27 Minutes on $5 of Power",
@@ -112,17 +123,6 @@
       "published": "2026-08-19 21:30"
     },
     {
-      "id": "uttr4m",
-      "title": "Ukraine’s Ousted Defense Chief Calls for Wartime Elections",
-      "title_vi": "Bộ trưởng Quốc phòng bị lật đổ của Ukraine kêu gọi bầu cử thời chiến",
-      "summary_vi": "Một cựu bộ trưởng quốc phòng nổi tiếng bị sa thải vào tháng trước đã gây ra các cuộc biểu tình đã gửi một bài phát biểu được ghi hình cho người Ukraine, trong đó ông chỉ trích nạn tham nhũng thời chiến, cảnh báo về một cuộc khủng hoảng quản trị mang tính hệ thống và nói rằng đất nước phải tìm cách tổ chức bầu cử bất chấp sự đồng thuận.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-18_1mdzayijni.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Ukraines-Ousted-Defense-Chief-Calls-for-Wartime-Elections.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-08-19 21:00"
-    },
-    {
       "id": "1gpak5f",
       "title": "The Left Hook Coffee Comes Out Swinging in Raleigh",
       "title_vi": "Cà phê Left Hook xuất hiện ở Raleigh",
@@ -209,6 +209,17 @@
       "source": "CME Group",
       "category": "energy",
       "published": "2026-08-19 09:44"
+    },
+    {
+      "id": "1g16c00",
+      "title": "Oil prices rise more than 1% as Middle East crisis escalates",
+      "title_vi": "Giá dầu tăng hơn 1% khi khủng hoảng Trung Đông leo thang",
+      "summary_vi": "Giá dầu đạt mức cao nhất trong ba tuần vào thứ Tư do sự không chắc chắn về vận chuyển qua eo biển Hormuz và sự gián đoạn nguồn cung liên tục đã hỗ trợ thị trường.",
+      "image": "https://image.cnbcfm.com/api/v1/image/106504717-1587735962038gettyimages-1210853062.jpeg?v=1787102319&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/19/oil-edges-up-on-uncertainty-over-exports-through-hormuz.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-08-19 08:22"
     },
     {
       "id": "aqnaa6",
@@ -539,17 +550,6 @@
       "source": "simplywall.st",
       "category": "metal",
       "published": "2026-08-18 12:28"
-    },
-    {
-      "id": "1qftjjo",
-      "title": "Platinum price shows no change – Forecast today – 18-8-2026",
-      "title_vi": "Giá bạch kim không thay đổi – Dự báo hôm nay – 18-8-2026",
-      "summary_vi": "Giá bạch kim tiếp tục củng cố dưới mức kháng cự $1.785,00. Tuy nhiên, xung đột đang diễn ra giữa các chỉ báo chính đã đẩy giá vào một giai đoạn dao động đi ngang khác, giữ cho nó ổn định gần mức $1.750,00, như được hiển thị rõ ràng trên biểu đồ đính kèm.",
-      "image": "https://dylta6p24nxqg.cloudfront.net/images/1787030433.png",
-      "link": "https://www.economies.com/commodities/platinum-analysis/platinum-price-shows-no-change-%E2%80%93-forecast-today-%E2%80%93-18-8-2026-129233",
-      "source": "Economies.com",
-      "category": "metal",
-      "published": "2026-08-18 12:20"
     }
   ]
 }

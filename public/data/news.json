@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 03:02",
+  "updated_at": "2026-08-20 03:48",
   "items": [
     {
       "id": "18i1rhi",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-08-20 02:00"
+    },
+    {
+      "id": "1o3ttk6",
+      "title": "U.S. Eyes Lower Tariffs on Metals and Autos in Canada Trade Deal",
+      "title_vi": "Hoa Kỳ dự định giảm thuế đối với kim loại và ô tô trong thỏa thuận thương mại Canada",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/economy/trade/u-s-eyes-lower-tariffs-on-metals-and-autos-in-canada-trade-deal-e14dc655",
+      "source": "wsj.com",
+      "category": "metal",
+      "published": "2026-08-20 01:42"
     },
     {
       "id": "1f173kv",
@@ -88,6 +99,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-08-19 23:00"
+    },
+    {
+      "id": "ybho00",
+      "title": "A Pre- and Post-Report Look at the 2026 U.S. Soybean Yield",
+      "title_vi": "Báo cáo trước và sau về sản lượng đậu nành của Hoa Kỳ năm 2026",
+      "summary_vi": "Gregg Ibendahl - Báo cáo Sản lượng cây trồng tháng 8 của USDA, phát hành vào ngày 12 tháng 8 năm 2026, bao gồm dự báo năng suất dựa trên khảo sát đầu tiên đối với đậu nành trong mùa. Bài viết này trình bày dự báo dựa trên điều kiện, được xây dựng độc lập về vụ đậu tương năm 2026 của Hoa Kỳ và so sánh với dự báo gần đây của USDA",
+      "image": "https://farmdocdaily.illinois.edu/wp-content/uploads/2026/08/08192026_fig1.png",
+      "link": "https://farmdocdaily.illinois.edu/2026/08/a-pre-and-post-report-look-at-the-2026-u-s-soybean-yield.html",
+      "source": "farmdocdaily.illinois.edu",
+      "category": "agri",
+      "published": "2026-08-19 22:57"
     },
     {
       "id": "cv7fh3",
@@ -365,6 +387,17 @@
       "published": "2026-08-18 23:01"
     },
     {
+      "id": "d7j2p8",
+      "title": "Will soybean prices ease sideways or shoot up?",
+      "title_vi": "Giá đậu nành sẽ đi ngang hay tăng vọt?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/marketing/will-soybean-prices-ease-sideways-or-shoot-up-",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-08-18 22:47"
+    },
+    {
       "id": "pwf3lg",
       "title": "FLIPR 2026 midterm election forecast",
       "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
@@ -517,39 +550,6 @@
       "source": "think.ing.com",
       "category": "energy",
       "published": "2026-08-18 14:13"
-    },
-    {
-      "id": "o9a3w9",
-      "title": "Natural Gas and Oil Forecast: Hormuz Risks Support Crude as U.S. Gas Supply Stays Ample",
-      "title_vi": "Dự báo khí đốt tự nhiên và dầu: Rủi ro Hormuz hỗ trợ dầu thô khi nguồn cung cấp khí đốt của Hoa Kỳ vẫn dồi dào",
-      "summary_vi": "Rủi ro vận chuyển Hormuz vẫn tăng cao khi WTI và Brent kéo dài thời gian phục hồi, đồng thời sản lượng khí đốt kỷ lục của Hoa Kỳ và áp lực lưu trữ khí đốt tự nhiên dồi dào.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/08/Main-Images-28-1.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-hormuz-risks-support-crude-as-u-s-gas-supply-stays-ample-1617328",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-08-18 13:10"
-    },
-    {
-      "id": "f0532j",
-      "title": "Chile's Cochilco Raises 2026 Copper Price Forecast",
-      "title_vi": "Cochilco của Chile nâng dự báo giá đồng năm 2026",
-      "summary_vi": "Cochilco, Chilê",
-      "image": "https://media.industrialinfo.com/news/img/webp/iir_industry_news_metals_minerals_article_thumbnail_03.webp",
-      "link": "https://www.industrialinfo.com/news/article/chiles-cochilco-raises-2026-copper-price-forecast--361453",
-      "source": "Industrial Info Resources",
-      "category": "metal",
-      "published": "2026-08-18 12:58"
-    },
-    {
-      "id": "mx9fiu",
-      "title": "3 U.S. Industrials That Could Gain If Tariffs Hit Canadian Metals And Lumber",
-      "title_vi": "3 ngành công nghiệp của Hoa Kỳ có thể hưởng lợi nếu thuế quan đánh vào kim loại và gỗ của Canada",
-      "summary_vi": "Khi đồng hồ điểm về mức thuế tiềm năng 50% của Mỹ đối với hàng hóa Canada, các nhà đầu tư đang quan sát ngành công nghiệp trong nước dưới một góc nhìn mới. Các công ty có hoạt động mạnh ở Hoa Kỳ và mức doanh thu từ Canada thấp hơn có thể phải đối mặt với tác động thương mại rất khác so với các công ty xuyên biên giới, dù tốt hay xấu. Bài viết này đi qua 3 giây",
-      "image": "https://images.simplywall.st/asset/industry/3081000-choice1-main-header/1585186648416",
-      "link": "https://simplywall.st/stocks/us/capital-goods/nyse-bxc/bluelinx-holdings/news/3-us-industrials-that-could-gain-if-tariffs-hit-canadian-met",
-      "source": "simplywall.st",
-      "category": "metal",
-      "published": "2026-08-18 12:28"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 06:07",
+  "updated_at": "2026-08-20 06:41",
   "items": [
     {
       "id": "al5jqk",
@@ -176,6 +176,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-19 19:59"
+    },
+    {
+      "id": "cce2pl",
+      "title": "What they’re saying: Why fuel prices aren’t moving in lockstep with crude oil",
+      "title_vi": "Họ đang nói gì: Tại sao giá nhiên liệu không tăng theo giá dầu thô",
+      "summary_vi": "Xung đột địa chính trị, ngừng hoạt động của nhà máy lọc dầu, hạn chế xuất khẩu và gián đoạn chuỗi cung ứng đã làm giảm khả năng chuyển đổi dầu thô thành nhiên liệu có thể sử dụng được của thế giới, ngay cả khi nhu cầu tiêu dùng toàn cầu vẫn mạnh. Những quan điểm sau đây của các nhà phân tích và phóng viên giúp giải thích lý do tại sao giá nhiên liệu ngày nay không thay đổi",
+      "image": "https://afpm.org/sites/default/files/2023-07/shutterstock_1721418778v2.jpg",
+      "link": "https://afpm.org/newsroom/blog/what-theyre-saying-why-fuel-prices-arent-moving-lockstep-crude-oil",
+      "source": "American Fuel & Petrochemical Manufacturers",
+      "category": "energy",
+      "published": "2026-08-19 19:00"
     },
     {
       "id": "ypnwv7",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "soft",
       "published": "2026-08-18 18:36"
-    },
-    {
-      "id": "v366df",
-      "title": "Chile's Cochilco Raises 2026 Copper Price Forecast",
-      "title_vi": "Cochilco của Chile nâng dự báo giá đồng năm 2026",
-      "summary_vi": "Dữ liệu của Industrial Info Resources tìm thấy các dự án bảo trì và vốn khai thác hiện tại và tương lai trị giá hơn 91 tỷ USD ở Chile.",
-      "image": "https://media.industrialinfo.com/news/img/webp/iir_industry_news_metals_minerals_article_thumbnail_03.webp",
-      "link": "https://www.industrialinfo.com/iirenergy/industry-news/article/chiles-cochilco-raises-2026-copper-price-forecast--361453",
-      "source": "Industrial Info Resources",
-      "category": "metal",
-      "published": "2026-08-18 17:04"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-19 23:13",
+  "updated_at": "2026-08-19 23:50",
   "items": [
+    {
+      "id": "1fq5od5",
+      "title": "Saudi Aramco Gives Full September Oil Allocations to 3 European Refiners",
+      "title_vi": "Saudi Aramco cấp phân bổ dầu đầy đủ trong tháng 9 cho 3 nhà máy lọc dầu châu Âu",
+      "summary_vi": "Bloomberg đưa tin hôm thứ Tư rằng Saudi Aramco sẽ cung cấp đầy đủ khối lượng dầu thô theo hợp đồng cho ít nhất ba nhà máy lọc dầu châu Âu vào tháng 9, cung cấp các chuyến hàng từ Ai Cập, Ả Rập Saudi và thông qua chuyển hàng từ tàu này sang tàu khác ngoài Malta khi chiến tranh làm gián đoạn các tuyến xuất khẩu thông thường của vương quốc này.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-19_ncckoxlxhh.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Gives-Full-September-Oil-Allocations-to-3-European-Refiners.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-19 23:30"
+    },
     {
       "id": "1pylpae",
       "title": "UK Inflation Jumps to 2.9% as Energy Bills Bite",
@@ -132,17 +143,6 @@
       "source": "Valor International",
       "category": "soft",
       "published": "2026-08-19 18:44"
-    },
-    {
-      "id": "1jtladi",
-      "title": "Murban Crude Jumps to 4-Month High as ADNOC Curbs Supply to Asia",
-      "title_vi": "Dầu thô Murban tăng lên mức cao nhất trong 4 tháng do ADNOC hạn chế nguồn cung sang châu Á",
-      "summary_vi": "Giá Murban Crude, loại dầu hàng đầu của Các Tiểu vương quốc Ả Rập Thống nhất, đã tăng lên mức cao nhất trong 4 tháng trong tuần này, trong bối cảnh có thông tin cho rằng công ty dầu khí quốc gia ADNOC của UAE sẽ giảm các chuyến hàng dầu thô ngay lập tức sang châu Á. ADNOC có kế hoạch cắt giảm khoảng 5% nguồn cung mà nó đang cung cấp",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-19_pheosm2ok3.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Murban-Crude-Jumps-to-4-Month-High-as-ADNOC-Curbs-Supply-to-Asia.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-19 18:30"
     },
     {
       "id": "aptsxv",
@@ -297,6 +297,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-19 00:00"
+    },
+    {
+      "id": "xkazj5",
+      "title": "What Ukraine's wartime blood supply transformation can teach the US",
+      "title_vi": "Sự chuyển đổi nguồn cung cấp máu thời chiến của Ukraine có thể dạy cho Mỹ điều gì",
+      "summary_vi": "Bất chấp những thách thức, Ukraine vẫn duy trì nguồn cung cấp máu tự cung cấp trong bối cảnh nhu cầu về máu của dân thường và quân nhân tăng 40% khi bắt đầu cuộc chiến Nga-Ukraine.",
+      "image": "https://news.northwestern.edu/assets/Stories/2026/08/Blood-donor-after-completing-donation-CMS__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTIwMCw2MzBd.jpg",
+      "link": "https://news.northwestern.edu/stories/2026/08-2/what-ukraines-wartime-blood-supply-transformation-can-teach-the-us?fj",
+      "source": "Northwestern Now News",
+      "category": "energy",
+      "published": "2026-08-18 23:29"
     },
     {
       "id": "1m5icyb",
@@ -539,17 +550,6 @@
       "source": "China Daily Global Edition",
       "category": "macro",
       "published": "2026-08-18 08:06"
-    },
-    {
-      "id": "1wlgefk",
-      "title": "BHP Annual Profit Rises On Record-High Copper Prices",
-      "title_vi": "Lợi nhuận hàng năm của BHP tăng nhờ giá đồng cao kỷ lục",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/earnings/bhp-annual-profit-rises-on-record-high-copper-prices-9a833258",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-08-18 07:11"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 12:50",
+  "updated_at": "2026-08-19 13:00",
   "items": [
     {
       "id": "x0ge8b",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-19 12:40"
+    },
+    {
+      "id": "10uvdgv",
+      "title": "Opinion | The Hidden Reason Gas Prices Are Not Going Down",
+      "title_vi": "Ý kiến ​​| Lý do tiềm ẩn Giá xăng không giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html",
+      "source": "The New York Times",
+      "category": "energy",
+      "published": "2026-08-19 12:00"
     },
     {
       "id": "1wn75us",
@@ -539,17 +550,6 @@
       "source": "IFPRI",
       "category": "agri",
       "published": "2026-08-17 22:33"
-    },
-    {
-      "id": "kqzblk",
-      "title": "Greek-Run Oil Tanker Comes Under Attack in Russian Black Sea",
-      "title_vi": "Tàu chở dầu do Hy Lạp điều hành bị tấn công ở Biển Đen của Nga",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/greek-run-oil-tanker-comes-under-attack-in-russian-black-sea",
-      "source": "Bloomberg",
-      "category": "energy",
-      "published": "2026-08-17 22:25"
     }
   ]
 }

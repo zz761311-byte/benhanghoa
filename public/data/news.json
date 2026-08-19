@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-19 09:00",
+  "updated_at": "2026-08-19 10:00",
   "items": [
+    {
+      "id": "1wn75us",
+      "title": "WTI Crude Oil futures drop as Middle East supply risks linger.",
+      "title_vi": "Hợp đồng tương lai Dầu thô WTI giảm do rủi ro nguồn cung ở Trung Đông kéo dài.",
+      "summary_vi": "Bob Iaccino phân tích hành động giá trong hợp đồng tương lai Dầu thô WTI khi khối lượng nhẹ báo hiệu sự thiếu thuyết phục của thị trường. Iaccino kiểm tra hoạt động xuất khẩu dầu đang diễn ra từ Trung Đông bất chấp sự gián đoạn quanh eo biển Hormuz, trước báo cáo tồn kho xăng dầu của EIA và việc cắt giảm dự báo nhu cầu gần đây của OPEC và IEA. Fina",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/wti-crude-oil-futures-drop-as-middle-east-supply-risks-linger-8.jpg",
+      "link": "https://www.cmegroup.com/videos/2026/08/18/wti-crude-oil-futures-drop-as-middle-east-supply-risks-linger-8.html",
+      "source": "CME Group",
+      "category": "energy",
+      "published": "2026-08-19 09:44"
+    },
     {
       "id": "18hz3uz",
       "title": "5 Energy Stocks Cashing In On The New Energy Crunch",
@@ -321,6 +332,17 @@
       "published": "2026-08-18 12:28"
     },
     {
+      "id": "1s5y3d",
+      "title": "Economic and commodity outlook",
+      "title_vi": "Triển vọng kinh tế và hàng hóa",
+      "summary_vi": "",
+      "image": "https://www.bhp.com",
+      "link": "https://www.bhp.com/investor-hub/reports-and-presentations/economic-and-commodity-outlook/2026/08/economic-and-commodity-outlook",
+      "source": "BHP",
+      "category": "macro",
+      "published": "2026-08-18 09:21"
+    },
+    {
       "id": "12g9r35",
       "title": "China's zero-tariff policy boon for Zimbabwe trade",
       "title_vi": "Chính sách miễn thuế của Trung Quốc mang lại lợi ích cho thương mại Zimbabwe",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-17 21:15"
-    },
-    {
-      "id": "5ykn1j",
-      "title": "Out of room: Russia's crude production enters a new era of constraint",
-      "title_vi": "Hết chỗ: Sản xuất dầu thô của Nga bước vào kỷ nguyên hạn chế mới",
-      "summary_vi": "Sau một năm bị trừng phạt chặt chẽ hơn và các cuộc tấn công của Ukraine nhằm vào các nhà máy lọc dầu, cảng và tàu chở dầu, sản lượng dầu thô của Nga đã giảm hơn nữa trong nửa cuối năm 2026, ảnh hưởng nghiêm trọng đến triển vọng sản xuất dầu thô của quốc gia này. Tính đến những gián đoạn này, Rystad Energy đã điều chỉnh dự báo sản lượng dầu thô của Nga thành",
-      "image": "https://www.datocms-assets.com/75979/1780476510-shutterstock_2671986731.jpg?auto=format&fit=max&w=1200",
-      "link": "https://www.rystadenergy.com/news/russia-crude-production-constraint",
-      "source": "Rystad Energy",
-      "category": "energy",
-      "published": "2026-08-17 20:48"
-    },
-    {
-      "id": "cicd7n",
-      "title": "Platinum’s Third Supply Deficit Collides With $1,785 Resistance",
-      "title_vi": "Thâm hụt nguồn cung thứ ba của Platinum chạm mức kháng cự 1.785 USD",
-      "summary_vi": "Bạch kim giao dịch gần 1.728 USD trong bối cảnh nguồn cung thiếu hụt lần thứ ba, với mức kháng cự 1.785 USD và nhu cầu giao ngay yếu xác định thiết lập trái ngược.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a830ad10304567d86d77290_Deficit.avif",
-      "link": "https://www.cruxinvestor.com/posts/platinums-third-supply-deficit-collides-with-1-785-resistance",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-08-17 20:26"
     }
   ]
 }

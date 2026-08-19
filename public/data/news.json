@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 23:00",
+  "updated_at": "2026-08-19 23:13",
   "items": [
     {
       "id": "1pylpae",
@@ -198,6 +198,17 @@
       "source": "markets.businessinsider.com",
       "category": "macro",
       "published": "2026-08-19 05:59"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-08-19 05:08"
     },
     {
       "id": "j27yxw",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-08-18 07:11"
-    },
-    {
-      "id": "kta4nw",
-      "title": "BHP Profit Jumps on Metal Prices as Focus Shifts to Copper",
-      "title_vi": "Lợi nhuận BHP tăng nhờ giá kim loại khi trọng tâm chuyển sang đồng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-17/bhp-profit-jumps-30-on-copper-price-and-record-iron-ore-output",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-08-18 05:45"
     }
   ]
 }

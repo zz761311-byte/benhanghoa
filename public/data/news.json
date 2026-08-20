@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-20 11:00",
+  "updated_at": "2026-08-20 11:22",
   "items": [
+    {
+      "id": "19wrm59",
+      "title": "Oil Edges Higher Amid Lingering Middle East Tensions",
+      "title_vi": "Giá dầu tăng cao hơn trong bối cảnh căng thẳng kéo dài ở Trung Đông",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-amid-lingering-middle-east-tensions-77c883a9",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-08-20 08:00"
+    },
     {
       "id": "1hjvo62",
       "title": "Coal Remains The Undisputed King Of Global Power",
@@ -539,17 +550,6 @@
       "source": "Pluang",
       "category": "macro",
       "published": "2026-08-18 19:52"
-    },
-    {
-      "id": "1qmi8o0",
-      "title": "Clark&#8217;s Coffee Brings Fresh Energy to Former Stumptown Space in Portland",
-      "title_vi": "Cà phê của Clark mang lại năng lượng tươi mới cho không gian Stumptown cũ ở Portland",
-      "summary_vi": "Dịch vụ cà phê đặc biệt đã quay trở lại góc Phố Đông Nam Belmont và Đại lộ Đông Nam 34 ở Portland, khu Sunnyside của Oregon, nơi Clark's Coffee đã mở quán cà phê đầu tiên ở...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/08/18/clarks-coffee-brings-fresh-energy-to-former-stumptown-space-in-portland/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-08-18 18:49"
     }
   ]
 }

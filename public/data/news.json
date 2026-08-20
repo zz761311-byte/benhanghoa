@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-20 23:55",
+  "updated_at": "2026-08-21 00:00",
   "items": [
+    {
+      "id": "1sjhkxp",
+      "title": "Norway’s Oil Output Falls Nearly 200,000 Bpd as Gulf Supply Crisis Drags On",
+      "title_vi": "Sản lượng dầu của Na Uy giảm gần 200.000 thùng/ngày do khủng hoảng nguồn cung vùng Vịnh kéo dài",
+      "summary_vi": "Theo số liệu sơ bộ từ Tổng cục Ngoài khơi Na Uy, sản lượng dầu thô của Na Uy đạt trung bình 1,776 triệu thùng mỗi ngày trong tháng 7. Nước này cũng sản xuất 183.000 thùng khí tự nhiên lỏng mỗi ngày và 17.000 thùng condensate mỗi ngày, nâng tổng sản lượng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-20_asugpy6df3.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Oil-Output-Falls-Nearly-200000-Bpd-as-Gulf-Supply-Crisis-Drags-On.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-21 00:00"
+    },
     {
       "id": "1bq0fxl",
       "title": "Coke Zero Sugar 400 weather update: What's the 10-day forecast for NASCAR at Daytona? - Daytona Beach News-Journal",
@@ -134,6 +145,17 @@
       "published": "2026-08-20 18:48"
     },
     {
+      "id": "1lp4klz",
+      "title": "Live Gold Prices | Gold News And Analysis | Mining News | KITCO",
+      "title_vi": "Giá Vàng Trực Tiếp | Tin Tức Và Phân Tích Vàng | Tin tức khai thác | KITCO",
+      "summary_vi": "KITCO đưa tin Tin tức vàng mới nhất, Tin tức bạc, Giá vàng trực tiếp, Giá bạc, Biểu đồ vàng, Tỷ giá vàng, Tin tức khai thác, ETF, FOREX, Bitcoin, tiền điện tử, thị trường chứng khoán",
+      "image": "",
+      "link": "https://www.kitco.com/",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-08-20 18:47"
+    },
+    {
       "id": "1ecl0ii",
       "title": "Corn Futures Above $5 for First Time in 18 Months",
       "title_vi": "Giá ngô kỳ hạn trên 5 USD lần đầu tiên sau 18 tháng",
@@ -143,17 +165,6 @@
       "source": "Farm Policy News",
       "category": "agri",
       "published": "2026-08-20 18:42"
-    },
-    {
-      "id": "mijwgo",
-      "title": "Brent Oil Price Tops $93 as U.S.-Iran Impasse Persists",
-      "title_vi": "Giá dầu Brent lên tới 93 USD khi tình trạng bế tắc Mỹ-Iran vẫn tiếp diễn",
-      "summary_vi": "Giá dầu thô Brent tương lai đạt mức 93 USD/thùng vào sáng sớm tại châu Âu hôm thứ Năm, đạt mức cao nhất trong ba tuần trong bối cảnh hy vọng về các cuộc đàm phán Mỹ-Iran đang mờ dần khi Tổng thống Trump công bố chiến dịch gây áp lực kinh tế “chưa từng có” chống lại Iran. Trong phiên giao dịch sáng sớm ở châu Âu, t",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-20_jywu6i71ek.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Oil-Price-Tops-93-as-US-Iran-Impasse-Persists.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-20 18:30"
     },
     {
       "id": "10hist4",
@@ -539,17 +550,6 @@
       "source": "markets.businessinsider.com",
       "category": "macro",
       "published": "2026-08-19 05:59"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-08-19 05:08"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 03:11",
+  "updated_at": "2026-08-21 03:50",
   "items": [
     {
       "id": "i2axji",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-21 03:00"
+    },
+    {
+      "id": "1phvzwz",
+      "title": "High crude oil prices push Nevada gas prices back up",
+      "title_vi": "Giá dầu thô cao đẩy giá xăng Nevada tăng trở lại",
+      "summary_vi": "Dữ liệu mới từ AAA Nevada cho thấy giá xăng ở bang Nevada đang tăng trở lại.",
+      "image": "https://gray-kvvu-prod.gtv-cdn.com/resizer/v2/HTY2NWEQAFBY3L3UX2QTSJC4BM.jpg?auth=106c959b599588eefe5bc97487d56a2002aab1b98aca07e3b4fff1314ef5d83f&width=1200&height=600&smart=true",
+      "link": "https://www.fox5vegas.com/2026/08/20/high-crude-oil-prices-push-nevada-gas-prices-back-up/",
+      "source": "FOX5 Vegas",
+      "category": "energy",
+      "published": "2026-08-21 02:57"
     },
     {
       "id": "12ncchl",
@@ -44,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-21 01:00"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-08-21 00:35"
     },
     {
       "id": "6qp3bq",
@@ -497,6 +519,17 @@
       "published": "2026-08-19 17:03"
     },
     {
+      "id": "j4vc6m",
+      "title": "Data Centers Drive Higher Northeast Supply Outlook",
+      "title_vi": "Trung tâm dữ liệu thúc đẩy triển vọng cung cấp vùng Đông Bắc cao hơn",
+      "summary_vi": "East Daley Analytics has revised up our gas supply forecast for the Northeast as developers continue to announce new data centers that will lift regional demand. In our latest Northeast Supply & Demand report, we forecast Marcellus and Utica production will grow from ...",
+      "image": "https://eastdaley.com/wp-content/uploads/2026/08/Northeast-Data-Centers-8.18.26-wide.png",
+      "link": "https://eastdaley.com/daley-note/data-centers-drive-higher-northeast-supply-outlook",
+      "source": "East Daley Analytics",
+      "category": "energy",
+      "published": "2026-08-19 15:10"
+    },
+    {
       "id": "1qnuygl",
       "title": "Meat Processing Plant Shutters, Wheat Production Outlook, El Niño Predicted",
       "title_vi": "Nhà máy chế biến thịt đóng cửa, triển vọng sản xuất lúa mì, dự đoán El Niño",
@@ -517,39 +550,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-08-19 12:26"
-    },
-    {
-      "id": "10uvdgv",
-      "title": "Opinion | The Hidden Reason Gas Prices Are Not Going Down",
-      "title_vi": "Ý kiến ​​| Lý do tiềm ẩn Giá xăng không giảm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-08-19 12:00"
-    },
-    {
-      "id": "a5w5b4",
-      "title": "Gold and Silver Price Forecast: Will Fed Minutes Push Gold Toward $4,500?",
-      "title_vi": "Dự báo giá vàng và bạc: Biên bản Fed có đẩy vàng lên mức 4.500 USD không?",
-      "summary_vi": "Vàng vẫn duy trì ở mức tăng trên 4.150 USD, trong khi bạc phải giữ ở mức 60 USD khi các nhà đầu tư chờ đợi biên bản của Fed và theo dõi các mức đột phá quan trọng ở mức 4.500 USD và 72 USD.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/gold-and-silver-precious-metals-02.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-will-fed-minutes-push-gold-toward-4500-1617552",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-08-19 11:16"
-    },
-    {
-      "id": "1uyzx9x",
-      "title": "Coffee, cocoa and sugar are jumping. Is El Niño the next big commodity catalyst?",
-      "title_vi": "Cà phê, ca cao và đường đang tăng vọt. El Niño có phải là chất xúc tác hàng hóa lớn tiếp theo không?",
-      "summary_vi": "Giá cà phê, ca cao và đường đang tăng do rủi ro thời tiết gây áp lực mới lên thị trường hàng hóa toàn cầu. Khám phá xem El Niño tiềm năng có thể ảnh hưởng như thế nào đến nguồn cung cấp cây trồng, giá cả và thương nhân cũng như những mặt hàng mềm nào có thể bị ảnh hưởng nhiều nhất.",
-      "image": "https://tw.mitrade.com/cms_uploads/img/20241203/3a55090fef55c9897b693476fbf60f3f.jpg",
-      "link": "https://www.mitrade.com/au/insights/commodity/commodity-basics/coffee-cocoa-sugar",
-      "source": "mitrade.com",
-      "category": "soft",
-      "published": "2026-08-19 10:08"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 14:00",
+  "updated_at": "2026-08-20 14:10",
   "items": [
     {
       "id": "f6rt6d",
@@ -143,6 +143,17 @@
       "source": "wsj.com",
       "category": "metal",
       "published": "2026-08-20 01:42"
+    },
+    {
+      "id": "c21smv",
+      "title": "Grain prices surge after Ukraine war chokes off seaborne exports",
+      "title_vi": "Giá ngũ cốc tăng vọt sau khi chiến tranh Ukraine cản trở xuất khẩu ngũ cốc bằng đường biển",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.ft.com/content/91f17b0f-9c31-483e-b828-d90dad931a2f?syn-25a6b1a6",
+      "source": "ft.com",
+      "category": "agri",
+      "published": "2026-08-19 23:55"
     },
     {
       "id": "a77mvn",
@@ -539,17 +550,6 @@
       "source": "Bloomberg.com",
       "category": "energy",
       "published": "2026-08-18 21:01"
-    },
-    {
-      "id": "t869uu",
-      "title": "iQor Helps Retailers Protect Margin Under Tariff Pressure",
-      "title_vi": "iQor giúp các nhà bán lẻ bảo vệ lợi nhuận dưới áp lực thuế quan",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://sg.finance.yahoo.com/news/iqor-helps-retailers-protect-margin-133000880.html",
-      "source": "Yahoo Finance Singapore",
-      "category": "macro",
-      "published": "2026-08-18 20:30"
     }
   ]
 }

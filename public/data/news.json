@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 18:46",
+  "updated_at": "2026-08-20 19:00",
   "items": [
     {
       "id": "mijwgo",
@@ -154,6 +154,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-20 07:00"
+    },
+    {
+      "id": "mbz25o",
+      "title": "US Set to Halve Canada Steel, Aluminum Tariffs in Trade Deal",
+      "title_vi": "Hoa Kỳ dự kiến ​​giảm một nửa thuế thép, nhôm Canada trong thỏa thuận thương mại",
+      "summary_vi": "Theo những người quen thuộc với vấn đề này, thỏa thuận thương mại dự kiến ​​giữa Mỹ và Canada sẽ giảm thuế đối với một số mặt hàng thép và nhôm xuất khẩu của Canada xuống 25% và cắt giảm thuế đối với xuất khẩu ô tô của Canada xuống 15%.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWO91h0BlUZ4/v1/1200x826.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-19/us-said-to-halve-tariffs-on-canada-steel-aluminum-in-trade-deal",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-08-20 06:44"
     },
     {
       "id": "1xvv37l",
@@ -539,17 +550,6 @@
       "source": "Northwestern Now News",
       "category": "energy",
       "published": "2026-08-18 23:29"
-    },
-    {
-      "id": "1m5icyb",
-      "title": "Are Corn Prices Setting Up for a Breakout?",
-      "title_vi": "Giá ngô đang chuẩn bị bứt phá?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/are-corn-prices-setting-up-for-a-breakout-12062338",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-08-18 23:01"
     }
   ]
 }

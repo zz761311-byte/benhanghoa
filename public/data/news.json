@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-21 00:49",
+  "updated_at": "2026-08-21 01:00",
   "items": [
+    {
+      "id": "1cdqwqu",
+      "title": "Kazakhstan Caught in the Middle of the U.S.-China AI Rivalry",
+      "title_vi": "Kazakhstan bị mắc kẹt giữa cuộc cạnh tranh AI giữa Mỹ và Trung Quốc",
+      "summary_vi": "Kazakhstan, ở một mức độ thấp hơn, Uzbekistan và các quốc gia Trung Á khác đang thấy mình bị mắc kẹt giữa cuộc đấu tranh ngày càng sâu sắc giữa Hoa Kỳ và Trung Quốc để giành quyền thống trị về kiến ​​trúc và thiết kế AI. Tình thế tiến thoái lưỡng nan trong quá trình sản xuất bia do sự cạnh tranh về AI tạo ra có",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-20_rnfhcztgyn.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Caught-in-the-Middle-of-the-US-China-AI-Rivalry.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-21 01:00"
+    },
     {
       "id": "6qp3bq",
       "title": "Continental Resources Expands Permian Footprint",
@@ -132,17 +143,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-20 21:00"
-    },
-    {
-      "id": "16rofe7",
-      "title": "Coking Coal Prices Surge 25%, Squeezing India&#039;s Steelmakers",
-      "title_vi": "Giá than cốc tăng 25%, gây áp lực lên các nhà sản xuất thép Ấn Độ",
-      "summary_vi": "Các nhà phân tích và giám đốc điều hành ngành nói với Reuters rằng các nhà sản xuất thép Ấn Độ đang quay cuồng vì giá than luyện cốc tăng vọt trong năm nay, khiến biên lợi nhuận của họ bị thu hẹp và việc mở rộng công suất trong ngành sản xuất thép bị trì hoãn. Ấn Độ phụ thuộc vào nhập khẩu tới 95% lượng than cốc của mình, hoặc",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-20_nkpaei0wv6.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Coking-Coal-Prices-Surge-25-Squeezing-Indias-Steelmakers.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-20 20:30"
     },
     {
       "id": "1qn70pu",
@@ -486,6 +486,17 @@
       "published": "2026-08-19 17:03"
     },
     {
+      "id": "1qnuygl",
+      "title": "Meat Processing Plant Shutters, Wheat Production Outlook, El Niño Predicted",
+      "title_vi": "Nhà máy chế biến thịt đóng cửa, triển vọng sản xuất lúa mì, dự đoán El Niño",
+      "summary_vi": "Thực phẩm Tyson",
+      "image": "https://www.aginfo.net/Assets/ReportImages/report_6a831f3411e32424674356_1920_1080.jpeg",
+      "link": "https://www.aginfo.net/report/66103/Line-on-Agriculture/Meat-Processing-Plant-Shutters-Wheat-Production-Outlook-El-Ni-o-Predicted",
+      "source": "AG INFORMATION NETWORK OF THE WEST",
+      "category": "agri",
+      "published": "2026-08-19 14:04"
+    },
+    {
       "id": "aptsxv",
       "title": "Natural Gas and Oil Forecast: Hormuz Risks Persist as WTI and Brent Hold Gains",
       "title_vi": "Dự báo về khí đốt và dầu tự nhiên: Rủi ro Hormuz vẫn tồn tại khi WTI và Brent giữ mức tăng",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "energy",
       "published": "2026-08-19 09:44"
-    },
-    {
-      "id": "1g16c00",
-      "title": "Oil prices rise more than 1% as Middle East crisis escalates",
-      "title_vi": "Giá dầu tăng hơn 1% khi khủng hoảng Trung Đông leo thang",
-      "summary_vi": "Giá dầu đạt mức cao nhất trong ba tuần vào thứ Tư do sự không chắc chắn về vận chuyển qua eo biển Hormuz và sự gián đoạn nguồn cung liên tục đã hỗ trợ thị trường.",
-      "image": "https://image.cnbcfm.com/api/v1/image/106504717-1587735962038gettyimages-1210853062.jpeg?v=1787102319&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/08/19/oil-edges-up-on-uncertainty-over-exports-through-hormuz.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-08-19 08:22"
     }
   ]
 }

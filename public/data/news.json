@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 20:00",
+  "updated_at": "2026-08-20 20:15",
   "items": [
     {
       "id": "dd1cty",
@@ -198,6 +198,17 @@
       "source": "Reuters",
       "category": "macro",
       "published": "2026-08-20 06:14"
+    },
+    {
+      "id": "1ktb7m6",
+      "title": "Grain Rally Lifts Farm Revenue Hopes as Corn, Soybeans and Wheat Surge in Chicago",
+      "title_vi": "đợt tăng giá ngũ cốc nâng cao hy vọng về doanh thu của trang trại khi ngô, đậu nành và lúa mì tăng vọt ở Chicago",
+      "summary_vi": "Ngô, đậu nành và lúa mì tăng mạnh ở Chicago do lo ngại về năng suất, nhu cầu xuất khẩu và rủi ro Biển Đen mang lại cho nông dân Mỹ cơ hội định giá mạnh mẽ hơn.",
+      "image": "https://www.agrolatam.com/files/image/78/78973/6a860f627e6cd_600_315!.jpg?s=3ff63e078060385cda36997a3298bc29&d=1787108400",
+      "link": "https://www.agrolatam.com/news/grain-rally-corn-soybean-wheat-prices-us-farmers/",
+      "source": "AgroLatam",
+      "category": "agri",
+      "published": "2026-08-20 03:26"
     },
     {
       "id": "c21smv",
@@ -539,17 +550,6 @@
       "source": "Investing News Network",
       "category": "metal",
       "published": "2026-08-19 00:02"
-    },
-    {
-      "id": "1eg81uc",
-      "title": "Roast Summit Returns to Portland in 2026",
-      "title_vi": "Roast Summit quay trở lại Portland vào năm 2026",
-      "summary_vi": "Tạp chí Roast, ấn phẩm thương mại kỹ thuật hàng đầu cho ngành cà phê đặc sản, tự hào thông báo về sự trở lại của Roast Summit tại quê hương Portland, Oregon, vào ngày 1-2 tháng 10,...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/08/18/roast-summit-returns-to-portland-in-2026/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-08-19 00:00"
     }
   ]
 }

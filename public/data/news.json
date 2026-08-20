@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 15:00",
+  "updated_at": "2026-08-20 15:59",
   "items": [
     {
       "id": "ibwmcy",
@@ -231,6 +231,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-08-19 20:51"
+    },
+    {
+      "id": "r03qiq",
+      "title": "Copper price run signals deeper supply squeeze: Sprott",
+      "title_vi": "Giá đồng tăng báo hiệu nguồn cung siết chặt hơn: Sprott",
+      "summary_vi": "Tình trạng thiếu hụt mỏ, dòng chảy thương mại của Mỹ thay đổi và đầu tư năng lượng tăng cao đang thắt chặt thị trường đồng vốn đã căng thẳng.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/08/copper-squeeze.jpeg",
+      "link": "https://www.mining.com/copper-prices-run-signals-deeper-supply-squeeze-sprott/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-08-19 20:25"
     },
     {
       "id": "1gpak5f",
@@ -539,17 +550,6 @@
       "source": "BullionVault",
       "category": "metal",
       "published": "2026-08-18 21:09"
-    },
-    {
-      "id": "ghnxvk",
-      "title": "Russia’s Oil-Flow Slump Deepens as Ukraine Threatens Key Port",
-      "title_vi": "Sự sụt giảm dòng dầu của Nga ngày càng sâu sắc khi Ukraine đe dọa cảng chính",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-18/russia-s-oil-exports-extend-their-slump-amid-ukrainian-drone-strikes",
-      "source": "Bloomberg.com",
-      "category": "energy",
-      "published": "2026-08-18 21:01"
     }
   ]
 }

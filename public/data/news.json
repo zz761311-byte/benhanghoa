@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-20 18:13",
+  "updated_at": "2026-08-20 18:46",
   "items": [
+    {
+      "id": "mijwgo",
+      "title": "Brent Oil Price Tops $93 as U.S.-Iran Impasse Persists",
+      "title_vi": "Giá dầu Brent lên tới 93 USD khi tình trạng bế tắc Mỹ-Iran vẫn tiếp diễn",
+      "summary_vi": "Giá dầu thô Brent tương lai đạt mức 93 USD/thùng vào sáng sớm tại châu Âu hôm thứ Năm, đạt mức cao nhất trong ba tuần trong bối cảnh hy vọng về các cuộc đàm phán Mỹ-Iran đang mờ dần khi Tổng thống Trump công bố chiến dịch gây áp lực kinh tế “chưa từng có” chống lại Iran. Trong phiên giao dịch sáng sớm ở châu Âu, t",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-20_jywu6i71ek.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Oil-Price-Tops-93-as-US-Iran-Impasse-Persists.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-20 18:30"
+    },
+    {
+      "id": "10hist4",
+      "title": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
+      "title_vi": "Hoa Kỳ xem xét cắt giảm thuế đối với kim loại, ô tô trong thỏa thuận Canada",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/logistics-report/u-s-considers-tariff-cuts-on-metals-autos-in-canada-deal-e4ec3909",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-08-20 18:00"
+    },
     {
       "id": "3kvv13",
       "title": "Cuvée Coffee Opens Coffee-to-Cocktail Flagship in Austin",
@@ -134,17 +156,6 @@
       "published": "2026-08-20 07:00"
     },
     {
-      "id": "mbz25o",
-      "title": "US Set to Cut Tariffs on Canada Metals, Autos in Trade Deal",
-      "title_vi": "Hoa Kỳ chuẩn bị cắt giảm thuế đối với kim loại, ô tô của Canada trong thỏa thuận thương mại",
-      "summary_vi": "Theo những người quen thuộc với vấn đề này, thỏa thuận thương mại dự kiến ​​giữa Mỹ và Canada sẽ giảm thuế đối với một số mặt hàng thép và nhôm xuất khẩu của Canada xuống 25% và cắt giảm thuế đối với xuất khẩu ô tô của Canada xuống 15%.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWO91h0BlUZ4/v1/1200x826.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-19/us-said-to-halve-tariffs-on-canada-steel-aluminum-in-trade-deal",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-08-20 06:44"
-    },
-    {
       "id": "1xvv37l",
       "title": "US could cut key tariffs as part of proposed Canada deal, source says",
       "title_vi": "Nguồn tin cho biết Mỹ có thể cắt giảm các mức thuế quan chính như một phần của thỏa thuận được đề xuất với Canada",
@@ -167,17 +178,6 @@
       "published": "2026-08-20 06:00"
     },
     {
-      "id": "1a5hxzm",
-      "title": "Russia’s Fuel Crisis Hits Moscow as Rationing Spreads",
-      "title_vi": "Khủng hoảng nhiên liệu ở Nga tấn công Moscow khi khẩu phần ăn lan rộng",
-      "summary_vi": "Nga đã phải hứng chịu chiến dịch không người lái tầm xa rầm rộ trong nhiều tháng ra khỏi Ukraine, chủ yếu nhắm vào các nhà máy lọc dầu cũng như các khu công nghiệp - và gần đây nhất là mở rộng sang các công ty bán lẻ trực tuyến và tấn công vào các doanh nghiệp thuộc khu vực tư nhân. Thứ ba đã nhìn thấy một trong những s",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-19_iuqc3v4nk1.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Russias-Fuel-Crisis-Hits-Moscow-as-Rationing-Spreads.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-20 05:00"
-    },
-    {
       "id": "c21smv",
       "title": "Grain prices surge after Ukraine war chokes off seaborne exports",
       "title_vi": "Giá ngũ cốc tăng vọt sau khi chiến tranh Ukraine cản trở xuất khẩu ngũ cốc bằng đường biển",
@@ -187,6 +187,17 @@
       "source": "ft.com",
       "category": "agri",
       "published": "2026-08-19 23:55"
+    },
+    {
+      "id": "k7rp76",
+      "title": "Will USDA's 2026 Corn Forecast Reshape the U.S. Market?",
+      "title_vi": "Dự báo ngô năm 2026 của USDA sẽ định hình lại thị trường Hoa Kỳ?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agrolatam.com/amp/usda-2026-corn-yield-forecast-washington-iowa-illinois/",
+      "source": "AgroLatam",
+      "category": "agri",
+      "published": "2026-08-19 23:40"
     },
     {
       "id": "a77mvn",
@@ -539,17 +550,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-08-18 23:01"
-    },
-    {
-      "id": "d7j2p8",
-      "title": "Will soybean prices ease sideways or shoot up?",
-      "title_vi": "Giá đậu nành sẽ đi ngang hay tăng vọt?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/will-soybean-prices-ease-sideways-or-shoot-up-",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-08-18 22:47"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-21 14:11",
+  "updated_at": "2026-08-21 15:00",
   "items": [
+    {
+      "id": "15pm8em",
+      "title": "China’s Oil Imports Set to Rebound as Refiners Hunt for New Supply",
+      "title_vi": "Nhập khẩu dầu của Trung Quốc sẽ phục hồi khi các nhà lọc dầu săn lùng nguồn cung mới",
+      "summary_vi": "Bloomberg đưa tin, trích dẫn các chuyên gia tư vấn năng lượng, nhập khẩu dầu thô vào Trung Quốc dự kiến ​​sẽ tăng khoảng 1,2 triệu thùng/ngày trong quý cuối cùng của năm so với quý hiện tại, mặc dù chúng có thể sẽ vẫn thấp hơn mức trước chiến tranh. Mua dầu của nhà máy lọc dầu Trung Quốc",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-21_oh4hpstu61.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Oil-Imports-Set-to-Rebound-as-Refiners-Hunt-for-New-Supply.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-21 15:00"
+    },
     {
       "id": "1jmfi6q",
       "title": "Australia’s Beetaloo Shale Basin Is About to Start Pumping Gas",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-21 12:30"
+    },
+    {
+      "id": "1k2qusw",
+      "title": "'Perfect storm' brews for global food supply this winter as grain prices soar",
+      "title_vi": "'Cơn bão hoàn hảo' hình thành nguồn cung lương thực toàn cầu trong mùa đông này khi giá ngũ cốc tăng cao",
+      "summary_vi": "Những lo ngại về năng suất cây trồng và khả năng gieo trồng của nông dân trước năm tới đã xuất hiện khi giá lúa mì tăng vọt.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108351995-1787215957783-gettyimages-1576431047-na.jpeg?v=1787216068&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/21/grain-price-russia-food-supply.html",
+      "source": "CNBC",
+      "category": "agri",
+      "published": "2026-08-21 12:00"
     },
     {
       "id": "12wi0bn",
@@ -88,17 +110,6 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-08-21 04:00"
-    },
-    {
-      "id": "i2axji",
-      "title": "Europe’s Energy Reserves Worked. The Next Test Will Be Harder",
-      "title_vi": "Dự trữ năng lượng của châu Âu đã hoạt động. Bài kiểm tra tiếp theo sẽ khó hơn",
-      "summary_vi": "Châu Âu đã phát hiện ra điều bất thường trong cuộc khủng hoảng năng lượng mới nhất: hệ thống khẩn cấp của họ thực sự hoạt động. Việc đóng cửa eo biển Hormuz đã loại bỏ hoặc làm gián đoạn một trong những dòng chảy dầu khí lớn nhất thế giới. Giá tăng, tuyến vận chuyển thay đổi, chi phí bảo hiểm tăng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-20_itkuznznes.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Europes-Energy-Reserves-Worked-The-Next-Test-Will-Be-Harder.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-21 03:00"
     },
     {
       "id": "1phvzwz",
@@ -398,6 +409,17 @@
       "published": "2026-08-20 03:26"
     },
     {
+      "id": "1l0qdnp",
+      "title": "Copper Backwardation Collapses After 20,000 Tons Hit LME Warehouses",
+      "title_vi": "Dự trữ đồng sụp đổ sau 20.000 tấn tấn công các kho LME",
+      "summary_vi": "Trafigura và các nhà giao dịch khác đã giao kim loại đến các kho LME, giảm mức dự phòng của đồng xuống còn 248 USD từ 545 USD khi đợt siết chặt lịch sử rạn nứt.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-19_umx9thtyfq.jpg",
+      "link": "https://oilprice.com/Metals/Commodities/Copper-Backwardation-Collapses-After-20000-Tons-Hit-LME-Warehouses.html",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "metal",
+      "published": "2026-08-20 02:00"
+    },
+    {
       "id": "stocdl",
       "title": "Canadian Dollar Event Risk Builds as Federal Reserve Minutes Land",
       "title_vi": "Rủi ro sự kiện đồng đô la Canada tăng lên khi biên bản dự trữ liên bang được đưa ra",
@@ -528,28 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-08-19 20:28"
-    },
-    {
-      "id": "r03qiq",
-      "title": "Copper price run signals deeper supply squeeze: Sprott",
-      "title_vi": "Giá đồng tăng báo hiệu nguồn cung siết chặt hơn: Sprott",
-      "summary_vi": "Tình trạng thiếu hụt mỏ, dòng chảy thương mại của Mỹ thay đổi và đầu tư năng lượng tăng cao đang thắt chặt thị trường đồng vốn đã căng thẳng.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/08/copper-squeeze.jpeg",
-      "link": "https://www.mining.com/copper-prices-run-signals-deeper-supply-squeeze-sprott/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-08-19 20:25"
-    },
-    {
-      "id": "1gpak5f",
-      "title": "The Left Hook Coffee Comes Out Swinging in Raleigh",
-      "title_vi": "Cà phê Left Hook xuất hiện ở Raleigh",
-      "summary_vi": "Công ty rang xay The Left Hook Coffee có trụ sở tại Raleigh, Bắc Carolina đang bước vào sàn đấu với quán cà phê độc lập đầu tiên của mình. Quán cà phê rộng 800 mét vuông nằm trong tòa nhà được xây dựng từ năm 1920, trước đây là trụ sở của...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/08/19/the-left-hook-coffee-comes-out-swinging-in-raleigh/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-08-19 19:59"
     }
   ]
 }

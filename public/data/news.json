@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-22 01:15",
+  "updated_at": "2026-08-22 02:00",
   "items": [
+    {
+      "id": "6i6ajn",
+      "title": "Iraq Wants to Double Oil Output—and Needs OPEC to Get Out of the Way",
+      "title_vi": "Iraq muốn tăng gấp đôi sản lượng dầu và cần OPEC tránh đường",
+      "summary_vi": "Iraq muốn tăng gấp đôi sản lượng dầu trong vòng sáu năm. Đầu tiên, nó cần OPEC cho phép. Thủ tướng Ali al-Zaidi cho biết hôm thứ Sáu rằng Baghdad đang nhắm mục tiêu sản lượng từ 8 triệu đến 10 triệu thùng mỗi ngày, tăng từ khoảng 4 triệu thùng/ngày trước chiến tranh Iran. Iraq di",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-21_8zmhb1c2r9.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Wants-to-Double-Oil-Outputand-Needs-OPEC-to-Get-Out-of-the-Way.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-22 01:30"
+    },
     {
       "id": "1sz54ss",
       "title": "China Challenges Russia’s Arms Dominance in Central Asia",
@@ -46,6 +57,17 @@
       "published": "2026-08-22 00:00"
     },
     {
+      "id": "1hb4sq3",
+      "title": "Pro Farmer National Forecast: Corn Falls Short of Last Year's Record, But Soybeans Eye New Milestone",
+      "title_vi": "Dự báo quốc gia dành cho nông dân chuyên nghiệp: Ngô giảm so với kỷ lục của năm ngoái, nhưng đậu nành lại đạt được cột mốc mới",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/news/crops/pro-farmer-national-forecast-corn-falls-short-last-years-record-soybeans-eye-new-miles",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-08-21 23:28"
+    },
+    {
       "id": "lvm1c1",
       "title": "America’s Next Strategic Partner Is Hiding in Plain Sight",
       "title_vi": "Đối tác chiến lược tiếp theo của Mỹ đang lẩn trốn",
@@ -55,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-21 23:15"
+    },
+    {
+      "id": "wwtjn1",
+      "title": "Corn futures top $5 as demand supports prices",
+      "title_vi": "Giá ngô kỳ hạn lên tới 5 USD do nhu cầu hỗ trợ giá",
+      "summary_vi": "Một nhà kinh tế nông nghiệp cho biết ông lạc quan rằng giá một số mặt hàng có thể tiếp tục tăng cao hơn. Guy Allen thuộc Đại học Bang Kansas cho biết giá ngô kỳ hạn đã tăng lên trên 5 USD lần đầu tiên sau 18 tháng vào thứ Năm. “Điều thực sự thúc đẩy các nguyên tắc cơ bản về ngô là chúng ta có nhu cầu protein động vật rất cao, đặc biệt là ở",
+      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2022/02/Marketing-1.jpg",
+      "link": "https://www.brownfieldagnews.com/news/corn-futures-top-5-as-demand-supports-prices/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-08-21 22:30"
     },
     {
       "id": "1kbpx3e",
@@ -77,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-21 22:01"
-    },
-    {
-      "id": "1smiqje",
-      "title": "Ukrainian Drone Attack Hits Lukoil Refinery Deep in Russia",
-      "title_vi": "Cuộc tấn công bằng máy bay không người lái của Ukraine tấn công nhà máy lọc dầu Lukoil sâu ở Nga",
-      "summary_vi": "Ukraine trong đêm đã tấn công bằng máy bay không người lái vào một nhà máy lọc dầu ở vùng Perm, nằm sâu trong lãnh thổ Nga, vì quân đội Ukraine đã nhắm mục tiêu vào các cơ sở chế biến và xuất khẩu dầu của Nga gần như hàng ngày trong vài tuần qua. Lực lượng Ukraina tiến hành cuộc tấn công bằng máy bay không người lái",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-21_chwmz78gmo.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Attack-Hits-Lukoil-Refinery-Deep-in-Russia.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-21 22:00"
     },
     {
       "id": "1e3ar1i",
@@ -528,28 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-08-20 08:11"
-    },
-    {
-      "id": "19wrm59",
-      "title": "Oil Edges Higher Amid Lingering Middle East Tensions",
-      "title_vi": "Giá dầu tăng cao hơn trong bối cảnh căng thẳng kéo dài ở Trung Đông",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-amid-lingering-middle-east-tensions-77c883a9",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-08-20 08:00"
-    },
-    {
-      "id": "mbz25o",
-      "title": "US Set to Halve Canada Steel, Aluminum Tariffs in Trade Deal",
-      "title_vi": "Hoa Kỳ dự kiến ​​giảm một nửa thuế thép, nhôm Canada trong thỏa thuận thương mại",
-      "summary_vi": "Theo những người quen thuộc với vấn đề này, thỏa thuận thương mại dự kiến ​​giữa Mỹ và Canada sẽ giảm thuế đối với một số mặt hàng thép và nhôm xuất khẩu của Canada xuống 25% và cắt giảm thuế đối với xuất khẩu ô tô của Canada xuống 15%.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWO91h0BlUZ4/v1/1200x826.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-19/us-said-to-halve-tariffs-on-canada-steel-aluminum-in-trade-deal",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-08-20 06:44"
     }
   ]
 }

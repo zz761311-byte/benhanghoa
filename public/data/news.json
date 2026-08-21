@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-22 04:42",
+  "updated_at": "2026-08-22 05:00",
   "items": [
+    {
+      "id": "wtw95u",
+      "title": "China&#039;s New Five-Year Plan Preps the Nation for Peak Oil",
+      "title_vi": "Kế hoạch 5 năm mới của Trung Quốc chuẩn bị cho quốc gia đạt đỉnh dầu",
+      "summary_vi": "Chiến lược năng lượng của Trung Quốc phần lớn đã bảo vệ nước này khỏi hậu quả của cuộc chiến ở Iran và hậu quả là việc đóng cửa eo biển Hormuz, một huyết mạch quan trọng đối với thương mại dầu khí toàn cầu. Tuy nhiên, kế hoạch 5 năm mới nhất của đất nước cho lĩnh vực dầu khí cho thấy",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-20_g57q0iont4.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Chinas-New-Five-Year-Plan-Preps-the-Nation-for-Peak-Oil.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-22 05:00"
+    },
     {
       "id": "1b9vfbd",
       "title": "The Race to Unlock the World’s Hidden Hydrogen Reserves",
@@ -110,17 +121,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-08-21 23:28"
-    },
-    {
-      "id": "lvm1c1",
-      "title": "America’s Next Strategic Partner Is Hiding in Plain Sight",
-      "title_vi": "Đối tác chiến lược tiếp theo của Mỹ đang lẩn trốn",
-      "summary_vi": "Khi Uzbekistan kỷ niệm 35 năm độc lập vào ngày 1 tháng 9, Washington nên làm nhiều hơn là chúc mừng người dân và chính phủ nước này. Cần nhận ra một cơ hội chiến lược và biến Uzbekistan trở thành điểm tựa trong chính sách của mình ở Trung Á. Uzbekistan là quốc gia Trung Á",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-21_1idtoj29gc.jpg",
-      "link": "https://oilprice.com/Geopolitics/Asia/Americas-Next-Strategic-Partner-Is-Hiding-in-Plain-Sight.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-21 23:15"
     },
     {
       "id": "ukkovj",
@@ -297,6 +297,17 @@
       "source": "Spectrum News",
       "category": "metal",
       "published": "2026-08-21 03:45"
+    },
+    {
+      "id": "pdc1o9",
+      "title": "Oil settles up more than 2% after Trump threatens countries supporting Iran",
+      "title_vi": "Dầu tăng hơn 2% sau khi Trump đe dọa các nước ủng hộ Iran",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/oil-prices-steady-investors-assess-us-iran-war-outlook-2026-08-20/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-08-21 03:19"
     },
     {
       "id": "baqmyz",
@@ -539,17 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-08-20 14:01"
-    },
-    {
-      "id": "facj7h",
-      "title": "Gold steadies as inflation concerns balance hopes of lower real rates",
-      "title_vi": "Vàng ổn định khi lo ngại lạm phát cân bằng hy vọng lãi suất thực thấp hơn",
-      "summary_vi": "Giá vàng bù đắp khoản lỗ ban đầu để giao dịch phần lớn ổn định vào thứ Năm, do triển vọng lãi suất thực dài hạn thấp hơn sẽ bù đắp cho rủi ro dai dẳng của lạm phát cao hơn.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107385958-1710210089452-gettyimages-1868370670-THAILAND_GOLD.jpeg?v=1787200139&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/08/20/gold-retreats-after-scaling-over-2-month-peak-on-us-treasury-move.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-08-20 11:51"
     }
   ]
 }

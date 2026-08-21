@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 07:03",
+  "updated_at": "2026-08-21 08:00",
   "items": [
     {
       "id": "2eqpo9",
@@ -310,6 +310,17 @@
       "published": "2026-08-20 08:50"
     },
     {
+      "id": "1gbq3vu",
+      "title": "Are Democrats on a summer sugar high?",
+      "title_vi": "Đảng Dân chủ có đang tăng lượng đường vào mùa hè không?",
+      "summary_vi": "Họ đang bỏ phiếu mạnh mẽ một cách đáng ngạc nhiên trong một số cuộc đua vào Thượng viện. Nhưng bạn có nên đặt cược vào những con số đó sẽ quay trở lại trái đất? Ngoài ra, một số suy nghĩ nhanh về Alaska và Florida.",
+      "image": "https://substackcdn.com/image/fetch/$s_!Pspd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee8c2cdb-180d-4141-8629-cdfdc4806776_2048x1363.jpeg",
+      "link": "https://www.natesilver.net/p/are-democrats-on-a-summer-sugar-high",
+      "source": "Silver Bulletin",
+      "category": "soft",
+      "published": "2026-08-20 08:26"
+    },
+    {
       "id": "pdc1o9",
       "title": "Oil hits 3-week high on Middle East supply concerns amid war impasse",
       "title_vi": "Dầu đạt mức cao nhất 3 tuần do lo ngại nguồn cung ở Trung Đông trong bối cảnh chiến tranh bế tắc",
@@ -539,17 +550,6 @@
       "source": "Wisconsin Farmer",
       "category": "agri",
       "published": "2026-08-19 17:03"
-    },
-    {
-      "id": "j4vc6m",
-      "title": "Data Centers Drive Higher Northeast Supply Outlook",
-      "title_vi": "Trung tâm dữ liệu thúc đẩy triển vọng cung cấp vùng Đông Bắc cao hơn",
-      "summary_vi": "East Daley Analytics has revised up our gas supply forecast for the Northeast as developers continue to announce new data centers that will lift regional demand. In our latest Northeast Supply & Demand report, we forecast Marcellus and Utica production will grow from ...",
-      "image": "https://eastdaley.com/wp-content/uploads/2026/08/Northeast-Data-Centers-8.18.26-wide.png",
-      "link": "https://eastdaley.com/daley-note/data-centers-drive-higher-northeast-supply-outlook",
-      "source": "East Daley Analytics",
-      "category": "energy",
-      "published": "2026-08-19 15:10"
     }
   ]
 }

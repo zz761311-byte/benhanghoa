@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-21 11:06",
+  "updated_at": "2026-08-21 11:57",
   "items": [
+    {
+      "id": "12wi0bn",
+      "title": "9% Platinum Demand Decline Fails to Prevent a 297 koz 2026 Deficit",
+      "title_vi": "Nhu cầu bạch kim giảm 9% không ngăn được mức thâm hụt 297 koz vào năm 2026",
+      "summary_vi": "Nhu cầu bạch kim được dự báo sẽ giảm 9% vào năm 2026, tuy nhiên mức thâm hụt 297 koz và tồn kho dưới ba tháng khiến giá cả trở nên nhạy cảm với sự gián đoạn nguồn cung.",
+      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a87d26cc6aead9bf7268e07_Platinum%20Underfilled.png",
+      "link": "https://www.cruxinvestor.com/posts/9-platinum-demand-decline-fails-to-prevent-a-297-koz-2026-deficit",
+      "source": "Crux Investor",
+      "category": "metal",
+      "published": "2026-08-21 11:31"
+    },
     {
       "id": "2eqpo9",
       "title": "Brazil’s New Oil Frontier Could Keep Its Boom Alive For Decades",
@@ -277,6 +288,17 @@
       "published": "2026-08-20 14:01"
     },
     {
+      "id": "facj7h",
+      "title": "Gold steadies as inflation concerns balance hopes of lower real rates",
+      "title_vi": "Vàng ổn định khi lo ngại lạm phát cân bằng hy vọng lãi suất thực thấp hơn",
+      "summary_vi": "Giá vàng bù đắp khoản lỗ ban đầu để giao dịch phần lớn ổn định vào thứ Năm, do triển vọng lãi suất thực dài hạn thấp hơn sẽ bù đắp cho rủi ro dai dẳng của lạm phát cao hơn.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107385958-1710210089452-gettyimages-1868370670-THAILAND_GOLD.jpeg?v=1787200139&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/20/gold-retreats-after-scaling-over-2-month-peak-on-us-treasury-move.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-08-20 11:51"
+    },
+    {
       "id": "1y7zyzb",
       "title": "Silver Demand Falls 19%, Yet a 46.3Moz Deficit Keeps Supply Tight",
       "title_vi": "Nhu cầu bạc giảm 19%, tuy nhiên mức thâm hụt 46,3Moz khiến nguồn cung bị thắt chặt",
@@ -528,28 +550,6 @@
       "source": "American Fuel & Petrochemical Manufacturers",
       "category": "energy",
       "published": "2026-08-19 19:00"
-    },
-    {
-      "id": "ypnwv7",
-      "title": "Canada Tariff Relief Shields Billions as U.S. Farm Trade Gets a Three-Day Reprieve",
-      "title_vi": "Chương trình giảm thuế của Canada bảo vệ hàng tỷ USD khi hoạt động thương mại trang trại của Hoa Kỳ được hoãn lại trong ba ngày",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agrolatam.com/news/canada-tariff-pause-us-farm-trade-dairy-usmca/",
-      "source": "AgroLatam",
-      "category": "macro",
-      "published": "2026-08-19 18:59"
-    },
-    {
-      "id": "dxtw3l",
-      "title": "Sugar hits highest price since April 2025 as ‘Super El Niño’ looms",
-      "title_vi": "Đường đạt mức giá cao nhất kể từ tháng 4 năm 2025 khi 'Siêu El Niño' xuất hiện",
-      "summary_vi": "Giá đã thay đổi vào đầu tháng do mô hình khí hậu bắt đầu ảnh hưởng đến nguồn cung",
-      "image": "https://s2-valorinternational.glbimg.com/PTNxc5l5xaijgAt9nd62xCcASoI=/1153x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_37554604729d4b2f9f3eb9ad8a691345/internal_photos/bs/2026/y/U/oFoQ2WT0i1d2SDvXHDoA/foto19agr-101-acucar-b8.jpg",
-      "link": "https://valorinternational.globo.com/agribusiness/news/2026/08/19/sugar-hits-highest-price-since-april-2025-as-super-el-nino-looms.ghtml",
-      "source": "Valor International",
-      "category": "soft",
-      "published": "2026-08-19 18:44"
     }
   ]
 }

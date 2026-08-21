@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-21 22:00",
+  "updated_at": "2026-08-21 22:51",
   "items": [
+    {
+      "id": "1kbpx3e",
+      "title": "China’s Teapots Look Beyond Iranian Oil amid U.S. Blockade",
+      "title_vi": "Ấm trà của Trung Quốc nhìn xa hơn dầu Iran trong bối cảnh Mỹ phong tỏa",
+      "summary_vi": "Các nhà máy lọc dầu của Trung Quốc đã nhập khẩu khối lượng dầu thô Iran thấp hơn trong tháng 8 so với tháng 7 do lệnh phong tỏa của Mỹ được khôi phục vào giữa tháng 7 đang siết chặt nguồn cung dầu thô cho khách hàng dầu hàng đầu của Iran. Tính đến thời điểm hiện tại trong tháng này, Trung Quốc ước tính đã nhập khẩu khoảng 534.000 thùng dầu mỗi ngày (bpd).",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-21_sko32kh9lo.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Teapots-Look-Beyond-Iranian-Oil-amid-US-Blockade.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-21 22:30"
+    },
+    {
+      "id": "1s9s4z9",
+      "title": "Oil Nears $100 as Trump’s ‘Economic D-Day’ Raises the Stakes",
+      "title_vi": "Dầu đạt gần 100 USD khi 'Ngày D kinh tế' của Trump nâng cao cổ phần",
+      "summary_vi": "Giao thông ở Hormuz vẫn gần như bế tắc khi chiến dịch 'Ngày D kinh tế' của Trump đẩy giá dầu Brent lên gần 100 USD. Thứ Sáu, ngày 21 tháng 8 năm 2026 Số lượt di chuyển qua eo biển Hormuz đã ở mức một con số trong cả tuần, với thông báo của Trump về chiến dịch 'Ngày D kinh tế' chống lại tôi.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-21_fyh583ptxc.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Nears-100-as-Trumps-Economic-D-Day-Raises-the-Stakes.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-21 22:01"
+    },
     {
       "id": "1smiqje",
       "title": "Ukrainian Drone Attack Hits Lukoil Refinery Deep in Russia",
@@ -112,28 +134,6 @@
       "published": "2026-08-21 19:00"
     },
     {
-      "id": "7nicit",
-      "title": "Israel Bombs Syrian Airbase to Block Turkish Military Expansion",
-      "title_vi": "Israel ném bom căn cứ không quân Syria để ngăn chặn sự mở rộng quân sự của Thổ Nhĩ Kỳ",
-      "summary_vi": "Israel đang cố gắng thiết lập quyền phủ quyết về nơi Thổ Nhĩ Kỳ có thể triển khai lực lượng ở Syria và hôm thứ Ba, nước này đã ném bom một căn cứ không quân của Syria để thực thi điều đó. Tám cuộc tấn công nhằm vào Abu al-Duhur vì Israel xác định rằng Damascus đang chuẩn bị cho phép quân đội Thổ Nhĩ Kỳ vào căn cứ, bất chấp lệnh bãi bỏ lệnh cấm",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-20_fyyixbilua.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Israel-Bombs-Syrian-Airbase-to-Block-Turkish-Military-Expansion.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-21 19:00"
-    },
-    {
-      "id": "kj44c4",
-      "title": "East African Nations Offered 30% Share of Dangote’s Kenya Mega-Refinery",
-      "title_vi": "Các quốc gia Đông Phi chào bán 30% cổ phần nhà máy lọc dầu lớn Kenya của Dangote",
-      "summary_vi": "Tập đoàn Dangote của Nigeria đã chào bán 30% cổ phần trong một nhà máy lọc dầu theo kế hoạch ở Kenya cho các quốc gia Đông Phi, cố vấn kinh tế cấp cao của Tổng thống Kenya William Ruto cho biết. Dangote Group, tập đoàn của người giàu nhất châu Phi, Aliko Dangote, có kế hoạch xây dựng một nhà máy lọc dầu ở Kenya với",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-21_ur2wgxm6ll.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/East-African-Nations-Offered-30-Share-of-Dangotes-Kenya-Mega-Refinery.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-21 18:30"
-    },
-    {
       "id": "19f6gw9",
       "title": "[MARKET ANALYSIS] Crude prices take a breather while metals surge as geopolitical updates remain light and DXY falls ahead of the weekend",
       "title_vi": "[PHÂN TÍCH THỊ TRƯỜNG] Giá dầu thô tạm dừng trong khi kim loại tăng vọt khi các cập nhật địa chính trị vẫn còn nhẹ và DXY giảm trước cuối tuần",
@@ -189,15 +189,15 @@
       "published": "2026-08-21 03:45"
     },
     {
-      "id": "1phvzwz",
-      "title": "High crude oil prices push Nevada gas prices back up",
-      "title_vi": "Giá dầu thô cao đẩy giá xăng Nevada tăng trở lại",
-      "summary_vi": "Dữ liệu mới từ AAA Nevada cho thấy giá xăng ở bang Nevada đang tăng trở lại.",
-      "image": "https://gray-kvvu-prod.gtv-cdn.com/resizer/v2/HTY2NWEQAFBY3L3UX2QTSJC4BM.jpg?auth=106c959b599588eefe5bc97487d56a2002aab1b98aca07e3b4fff1314ef5d83f&width=1200&height=600&smart=true",
-      "link": "https://www.fox5vegas.com/2026/08/20/high-crude-oil-prices-push-nevada-gas-prices-back-up/",
-      "source": "FOX5 Vegas",
+      "id": "baqmyz",
+      "title": "High Crude Oil Prices Push Up National Average",
+      "title_vi": "Giá dầu thô cao đẩy mức trung bình quốc gia lên cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://gasprices.aaa.com/high-crude-oil-prices-push-up-national-average/",
+      "source": "AAA Gas Prices",
       "category": "energy",
-      "published": "2026-08-21 02:57"
+      "published": "2026-08-21 03:09"
     },
     {
       "id": "12ncchl",

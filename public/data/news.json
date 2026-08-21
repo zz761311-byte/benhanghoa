@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 05:02",
+  "updated_at": "2026-08-22 05:45",
   "items": [
     {
       "id": "wtw95u",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-22 05:00"
+    },
+    {
+      "id": "v54bff",
+      "title": "US and Canada Race to Beat Tariff Deadline With Metals a Focus",
+      "title_vi": "Hoa Kỳ và Canada chạy đua để vượt qua thời hạn thuế quan với trọng tâm là kim loại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-21/us-and-canada-race-to-beat-tariff-deadline-with-metals-a-focus",
+      "source": "Bloomberg",
+      "category": "metal",
+      "published": "2026-08-22 04:57"
     },
     {
       "id": "1b9vfbd",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "macro",
       "published": "2026-08-20 15:01"
-    },
-    {
-      "id": "1uzxhrr",
-      "title": "Demand could offset added soybean acres",
-      "title_vi": "Nhu cầu có thể bù đắp cho diện tích đậu tương tăng thêm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/soybean/demand-could-offset-added-soybean-acres",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-08-20 14:01"
     }
   ]
 }

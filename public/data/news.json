@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 15:00",
+  "updated_at": "2026-08-21 16:00",
   "items": [
     {
       "id": "15pm8em",
@@ -176,6 +176,17 @@
       "source": "Barchart.com",
       "category": "soft",
       "published": "2026-08-20 23:06"
+    },
+    {
+      "id": "1v2v78r",
+      "title": "Gas prices up as oil rises, prices could set August record high",
+      "title_vi": "Giá xăng tăng khi dầu tăng, giá có thể lập kỷ lục trong tháng 8",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://vermontbiz.com/news/2026/august/20/gas-prices-oil-rises-prices-could-set-august-record-high",
+      "source": "Vermont Business Magazine",
+      "category": "energy",
+      "published": "2026-08-20 22:50"
     },
     {
       "id": "1k14run",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-08-19 20:51"
-    },
-    {
-      "id": "19plsky",
-      "title": "LME gripped by flash squeeze as copper tensions boil over",
-      "title_vi": "LME bị kẹp chặt bởi sự siết chặt nhanh chóng khi căng thẳng đồng sôi sục",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/commentary/reuters-open-interest/lme-gripped-by-flash-squeeze-copper-tensions-boil-over-2026-08-19/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-08-19 20:28"
     }
   ]
 }

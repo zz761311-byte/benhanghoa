@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 06:06",
+  "updated_at": "2026-08-22 06:42",
   "items": [
     {
       "id": "wtw95u",
@@ -442,6 +442,17 @@
       "published": "2026-08-20 21:56"
     },
     {
+      "id": "5vd8ks",
+      "title": "Silver Price For Today, 20 August 2026",
+      "title_vi": "Giá Bạc hôm nay, ngày 20 tháng 8 năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
+      "source": "Forbes",
+      "category": "metal",
+      "published": "2026-08-20 21:26"
+    },
+    {
       "id": "1c4l7lq",
       "title": "Tensions in the Black Sea and regional droughts spark rising global wheat prices",
       "title_vi": "Căng thẳng ở Biển Đen và hạn hán khu vực khiến giá lúa mì toàn cầu tăng cao",
@@ -539,17 +550,6 @@
       "source": "DTN Progressive Farmer",
       "category": "agri",
       "published": "2026-08-20 16:59"
-    },
-    {
-      "id": "icpb37",
-      "title": "U.S. Treasury Yields Affect Precious Metals Trends, Spot Platinum and Palladium Market Consumption Remains Sluggish [SMM Platinum and Palladium Weekly Review]",
-      "title_vi": "Lợi suất trái phiếu kho bạc Hoa Kỳ ảnh hưởng đến xu hướng kim loại quý, mức tiêu thụ thị trường bạch kim và paladi giao ngay vẫn chậm chạp [Đánh giá hàng tuần về bạch kim và palladium SMM]",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.metal.com/en/newscontent/104070713-us-treasury-yields-affect-precious-metals-trends-spot-platinum-and-palladium-market-consumption-remains-sluggish-smm-pla",
-      "source": "Shanghai Metals Market",
-      "category": "metal",
-      "published": "2026-08-20 15:29"
     }
   ]
 }

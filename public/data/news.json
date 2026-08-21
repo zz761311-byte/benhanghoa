@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 04:07",
+  "updated_at": "2026-08-22 04:42",
   "items": [
     {
       "id": "1b9vfbd",
@@ -519,6 +519,17 @@
       "published": "2026-08-20 15:29"
     },
     {
+      "id": "1xvv37l",
+      "title": "US could cut key tariffs as part of proposed Canada deal, source says",
+      "title_vi": "Nguồn tin cho biết Mỹ có thể cắt giảm các mức thuế quan chính như một phần của thỏa thuận được đề xuất với Canada",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/us-canada-trade-negotiators-meet-after-trump-sets-new-tariff-deadline-2026-08-19/",
+      "source": "Reuters",
+      "category": "macro",
+      "published": "2026-08-20 15:01"
+    },
+    {
       "id": "1uzxhrr",
       "title": "Demand could offset added soybean acres",
       "title_vi": "Nhu cầu có thể bù đắp cho diện tích đậu tương tăng thêm",
@@ -539,17 +550,6 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-08-20 11:51"
-    },
-    {
-      "id": "1y7zyzb",
-      "title": "Silver Demand Falls 19%, Yet a 46.3Moz Deficit Keeps Supply Tight",
-      "title_vi": "Nhu cầu bạc giảm 19%, tuy nhiên mức thâm hụt 46,3Moz khiến nguồn cung bị thắt chặt",
-      "summary_vi": "Nhu cầu bạc có thể giảm 19% do việc sử dụng năng lượng mặt trời giảm xuống, nhưng thâm hụt 46,3Moz, lượng tồn kho giảm và nhu cầu thanh bạc tăng khiến nguồn cung bị thắt chặt.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a8684588a840e12557812e6_SIlver%20bar%20on%20black%20background.png",
-      "link": "https://www.cruxinvestor.com/posts/silver-demand-falls-19-yet-a-46-3moz-deficit-keeps-supply-tight",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-08-20 11:38"
     }
   ]
 }

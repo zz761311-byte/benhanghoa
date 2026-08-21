@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 19:00",
+  "updated_at": "2026-08-21 19:15",
   "items": [
     {
       "id": "1xmpn3v",
@@ -277,6 +277,17 @@
       "published": "2026-08-20 18:42"
     },
     {
+      "id": "1fgzji0",
+      "title": "Ghana Cocoa Crop Seen Falling 13% on El Niño and Disease Threats",
+      "title_vi": "Vụ ca cao ở Ghana dự kiến ​​giảm 13% do El Niño và các mối đe dọa dịch bệnh",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-20/ghana-cocoa-crop-seen-falling-13-on-el-nino-and-disease-threats",
+      "source": "Bloomberg.com",
+      "category": "soft",
+      "published": "2026-08-20 18:04"
+    },
+    {
       "id": "10hist4",
       "title": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
       "title_vi": "Hoa Kỳ xem xét cắt giảm thuế đối với kim loại, ô tô trong thỏa thuận Canada",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-19 21:44"
-    },
-    {
-      "id": "19plsky",
-      "title": "LME gripped by flash squeeze as copper tensions boil over",
-      "title_vi": "LME bị kẹp chặt bởi sự siết chặt nhanh chóng khi căng thẳng đồng sôi sục",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/commentary/reuters-open-interest/lme-gripped-by-flash-squeeze-copper-tensions-boil-over-2026-08-19/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-08-19 20:28"
     }
   ]
 }

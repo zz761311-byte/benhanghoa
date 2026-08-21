@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 18:00",
+  "updated_at": "2026-08-21 18:11",
   "items": [
     {
       "id": "17t8jr2",
@@ -220,6 +220,17 @@
       "source": "Yahoo Finance",
       "category": "soft",
       "published": "2026-08-20 22:12"
+    },
+    {
+      "id": "1r22504",
+      "title": "USDA Forecasts These 4 States Will Have the Highest Soybean Yields in 2026",
+      "title_vi": "USDA dự báo 4 bang này sẽ có sản lượng đậu nành cao nhất vào năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/usda-forecasts-these-4-states-will-have-the-highest-soybean-yields-in-2026-12064245",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-08-20 21:56"
     },
     {
       "id": "1c4l7lq",
@@ -497,17 +508,6 @@
       "published": "2026-08-19 23:35"
     },
     {
-      "id": "ybho00",
-      "title": "A Pre- and Post-Report Look at the 2026 U.S. Soybean Yield",
-      "title_vi": "Báo cáo trước và sau về sản lượng đậu nành của Hoa Kỳ năm 2026",
-      "summary_vi": "Gregg Ibendahl - Báo cáo Sản lượng cây trồng tháng 8 của USDA, phát hành vào ngày 12 tháng 8 năm 2026, bao gồm dự báo năng suất dựa trên khảo sát đầu tiên đối với đậu nành trong mùa. Bài viết này trình bày dự báo dựa trên điều kiện, được xây dựng độc lập về vụ đậu tương năm 2026 của Hoa Kỳ và so sánh với dự báo gần đây của USDA",
-      "image": "https://farmdocdaily.illinois.edu/wp-content/uploads/2026/08/08192026_fig1.png",
-      "link": "https://farmdocdaily.illinois.edu/2026/08/a-pre-and-post-report-look-at-the-2026-u-s-soybean-yield.html",
-      "source": "farmdocdaily.illinois.edu",
-      "category": "agri",
-      "published": "2026-08-19 22:57"
-    },
-    {
       "id": "cv7fh3",
       "title": "Coffee Price Retreat as Brazil’s Coffee Harvest Accelerates",
       "title_vi": "Giá cà phê giảm khi thu hoạch cà phê của Brazil tăng tốc",
@@ -530,17 +530,6 @@
       "published": "2026-08-19 22:12"
     },
     {
-      "id": "aqpi94",
-      "title": "USDA Forecasts These 3 States Will Have the Highest Corn Yields in 2026",
-      "title_vi": "USDA dự báo 3 bang này sẽ có sản lượng ngô cao nhất vào năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/usda-forecasts-these-3-states-will-have-the-highest-corn-yields-in-2026-12063266",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-08-19 21:49"
-    },
-    {
       "id": "ukugu4",
       "title": "UCC Launches Regenerative Coffee Pilot in Vietnam",
       "title_vi": "UCC triển khai thí điểm cà phê tái sinh tại Việt Nam",
@@ -550,6 +539,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-19 21:44"
+    },
+    {
+      "id": "19plsky",
+      "title": "LME gripped by flash squeeze as copper tensions boil over",
+      "title_vi": "LME bị kẹp chặt bởi sự siết chặt nhanh chóng khi căng thẳng đồng sôi sục",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/commentary/reuters-open-interest/lme-gripped-by-flash-squeeze-copper-tensions-boil-over-2026-08-19/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-08-19 20:28"
     }
   ]
 }

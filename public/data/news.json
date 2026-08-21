@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 01:00",
+  "updated_at": "2026-08-22 01:15",
   "items": [
     {
       "id": "1sz54ss",
@@ -145,6 +145,17 @@
       "published": "2026-08-21 19:09"
     },
     {
+      "id": "9ykq9w",
+      "title": "Position for a commodity upcycle",
+      "title_vi": "Vị trí cho một chu kỳ tăng giá hàng hóa",
+      "summary_vi": "Hàng hóa có thể mang lại cả nguồn lợi nhuận cơ cấu và sự đa dạng hóa trong các tình huống mà sự gián đoạn năng lượng hoặc lạm phát tái diễn thách thức cổ phiếu và trái phiếu. Điện khí hóa, nhu cầu điện ngày càng tăng, đầu tư cơ sở hạ tầng AI và nguồn cung hạn chế hỗ trợ cho triển vọng dài hạn. Nhà đầu tư nên đa dạng hóa",
+      "image": "https://www.ubs.com/cioresearch/36/67/48/0/3667480/en/opengraphimage.607438969png",
+      "link": "https://www.ubs.com/us/en/wealth-management/insights/market-news/article.3667480.html",
+      "source": "UBS",
+      "category": "macro",
+      "published": "2026-08-21 18:39"
+    },
+    {
       "id": "19f6gw9",
       "title": "[MARKET ANALYSIS] Crude prices take a breather while metals surge as geopolitical updates remain light and DXY falls ahead of the weekend",
       "title_vi": "[PHÂN TÍCH THỊ TRƯỜNG] Giá dầu thô tạm dừng trong khi kim loại tăng vọt khi các cập nhật địa chính trị vẫn còn nhẹ và DXY giảm trước cuối tuần",
@@ -189,6 +200,28 @@
       "published": "2026-08-21 10:03"
     },
     {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-08-21 05:31"
+    },
+    {
+      "id": "buuz9f",
+      "title": "Minnesota And Iowa Add More Uncertainty to the 2026 Corn Yield Outlook",
+      "title_vi": "Minnesota và Iowa tạo thêm sự không chắc chắn cho triển vọng năng suất ngô năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/news/minnesota-and-iowa-add-more-uncertainty-2026-corn-yield-outlook",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-08-21 04:21"
+    },
+    {
       "id": "whrxa9",
       "title": "‘The way capitalism operates': Tariffs cause domestic aluminum prices to rise",
       "title_vi": "‘Cách vận hành của chủ nghĩa tư bản’: Thuế quan khiến giá nhôm trong nước tăng cao",
@@ -209,6 +242,17 @@
       "source": "AAA Gas Prices",
       "category": "energy",
       "published": "2026-08-21 03:09"
+    },
+    {
+      "id": "hvtd3o",
+      "title": "Nat-Gas Prices Drop on a Cooler US Weather Outlook",
+      "title_vi": "Giá Nat-Gas giảm do thời tiết ở Mỹ mát mẻ hơn",
+      "summary_vi": "Tháng 9 Khí tự nhiên Nymex (NGU26) hôm thứ Năm đóng cửa ở mức giảm -0,081 (-2,88%). Giá khí đốt tự nhiên giảm mạnh vào thứ Năm trong bối cảnh dự báo nhiệt độ ở Mỹ mát hơn, có khả năng làm giảm nhu cầu khí tự nhiên từ các nhà cung cấp điện đến cung cấp năng lượng cho điều hòa không khí. Nhóm Thời tiết Hàng hóa cho biết hôm thứ Năm rằng…",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://es.tradingview.com/news/barchart:a2c081631094b:0-nat-gas-prices-drop-on-a-cooler-us-weather-outlook/",
+      "source": "TradingView",
+      "category": "energy",
+      "published": "2026-08-21 02:13"
     },
     {
       "id": "12ncchl",
@@ -506,50 +550,6 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-08-20 06:44"
-    },
-    {
-      "id": "1xvv37l",
-      "title": "US could cut key tariffs as part of proposed Canada deal, source says",
-      "title_vi": "Nguồn tin cho biết Mỹ có thể cắt giảm các mức thuế quan chính như một phần của thỏa thuận được đề xuất với Canada",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/us-canada-trade-negotiators-meet-after-trump-sets-new-tariff-deadline-2026-08-19/",
-      "source": "Reuters",
-      "category": "macro",
-      "published": "2026-08-20 06:14"
-    },
-    {
-      "id": "1ktb7m6",
-      "title": "Grain Rally Lifts Farm Revenue Hopes as Corn, Soybeans and Wheat Surge in Chicago",
-      "title_vi": "đợt tăng giá ngũ cốc nâng cao hy vọng về doanh thu của trang trại khi ngô, đậu nành và lúa mì tăng vọt ở Chicago",
-      "summary_vi": "Ngô, đậu nành và lúa mì tăng mạnh ở Chicago do lo ngại về năng suất, nhu cầu xuất khẩu và rủi ro Biển Đen mang lại cho nông dân Mỹ cơ hội định giá mạnh mẽ hơn.",
-      "image": "https://www.agrolatam.com/files/image/78/78973/6a860f627e6cd_600_315!.jpg?s=3ff63e078060385cda36997a3298bc29&d=1787108400",
-      "link": "https://www.agrolatam.com/news/grain-rally-corn-soybean-wheat-prices-us-farmers/",
-      "source": "AgroLatam",
-      "category": "agri",
-      "published": "2026-08-20 03:26"
-    },
-    {
-      "id": "1l0qdnp",
-      "title": "Copper Backwardation Collapses After 20,000 Tons Hit LME Warehouses",
-      "title_vi": "Dự trữ đồng sụp đổ sau 20.000 tấn tấn công các kho LME",
-      "summary_vi": "Trafigura và các nhà giao dịch khác đã giao kim loại đến các kho LME, giảm mức dự phòng của đồng xuống còn 248 USD từ 545 USD khi đợt siết chặt lịch sử rạn nứt.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-19_umx9thtyfq.jpg",
-      "link": "https://oilprice.com/Metals/Commodities/Copper-Backwardation-Collapses-After-20000-Tons-Hit-LME-Warehouses.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "metal",
-      "published": "2026-08-20 02:00"
-    },
-    {
-      "id": "stocdl",
-      "title": "Canadian Dollar Event Risk Builds as Federal Reserve Minutes Land",
-      "title_vi": "Rủi ro sự kiện đồng đô la Canada tăng lên khi biên bản dự trữ liên bang được đưa ra",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-us/insights/canadian-dollar-event-risk-builds-as-federal-reserve-minutes-land/",
-      "source": "stonex.com",
-      "category": "macro",
-      "published": "2026-08-20 01:46"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-22 20:46",
+  "updated_at": "2026-08-22 21:01",
   "items": [
+    {
+      "id": "pz8673",
+      "title": "How popular is the Iran War?",
+      "title_vi": "Chiến tranh Iran phổ biến đến mức nào?",
+      "summary_vi": "Xếp hạng phê duyệt của Silver Bulletin cho cuộc xung đột đang diễn ra.",
+      "image": "https://substackcdn.com/image/fetch/$s_!VBIa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F494234cd-c97e-4ddb-8466-74979319dd65_1200x864.gif",
+      "link": "https://www.natesilver.net/p/iran-war-polls-popularity-approval",
+      "source": "Silver Bulletin",
+      "category": "metal",
+      "published": "2026-08-22 17:58"
+    },
     {
       "id": "z63to8",
       "title": "Why ethanol diversion is not to blame for soaring sugar prices",
@@ -231,6 +242,17 @@
       "source": "The Times of India",
       "category": "soft",
       "published": "2026-08-21 19:45"
+    },
+    {
+      "id": "puvqdh",
+      "title": "Treasury Intervention Puts the Dollar Under Pressure",
+      "title_vi": "Sự can thiệp của Kho bạc khiến đồng đô la chịu áp lực",
+      "summary_vi": "Lợi suất trái phiếu kho bạc Hoa Kỳ tăng mạnh chiếm ưu thế trong tuần trước khi Bộ Tài chính mở rộng chương trình mua lại trái phiếu dài hạn. Động thái này đã cải thiện tính thanh khoản của thị trường và giảm chi phí đi vay trong thời gian ngắn, nhưng cũng làm suy yếu đồng đô la. Với giá dầu tăng cao và nợ của Mỹ vượt quá 40 nghìn tỷ USD, các nhà đầu tư đang đặt câu hỏi.",
+      "image": "https://storage.googleapis.com/web-content.oanda.com/images/chip.original.jpg",
+      "link": "https://www.marketpulse.com/markets/treasury-intervention-puts-the-dollar-under-pressure/",
+      "source": "marketpulse.com",
+      "category": "macro",
+      "published": "2026-08-21 19:37"
     },
     {
       "id": "d4my7k",
@@ -528,28 +550,6 @@
       "source": "Yahoo Finance",
       "category": "soft",
       "published": "2026-08-20 22:12"
-    },
-    {
-      "id": "1r22504",
-      "title": "USDA Forecasts These 4 States Will Have the Highest Soybean Yields in 2026",
-      "title_vi": "USDA dự báo 4 bang này sẽ có sản lượng đậu nành cao nhất vào năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/usda-forecasts-these-4-states-will-have-the-highest-soybean-yields-in-2026-12064245",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-08-20 21:56"
-    },
-    {
-      "id": "5vd8ks",
-      "title": "Silver Price For Today, 20 August 2026",
-      "title_vi": "Giá Bạc hôm nay, ngày 20 tháng 8 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
-      "source": "Forbes",
-      "category": "metal",
-      "published": "2026-08-20 21:26"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 12:46",
+  "updated_at": "2026-08-22 13:00",
   "items": [
     {
       "id": "wtw95u",
@@ -264,6 +264,17 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-08-21 11:31"
+    },
+    {
+      "id": "1w94fbk",
+      "title": "Why unrest in the Strait of Hormuz is leading to rising oil and gasoline prices - ABC News",
+      "title_vi": "Vì sao bất ổn ở eo biển Hormuz khiến giá dầu, xăng tăng cao - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/Business/unrest-strait-hormuz-leading-rising-oil-gasoline-prices/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-08-21 10:06"
     },
     {
       "id": "caxg9i",
@@ -539,17 +550,6 @@
       "source": "Bloomberg.com",
       "category": "soft",
       "published": "2026-08-20 18:04"
-    },
-    {
-      "id": "10hist4",
-      "title": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
-      "title_vi": "Hoa Kỳ xem xét cắt giảm thuế đối với kim loại, ô tô trong thỏa thuận Canada",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/logistics-report/u-s-considers-tariff-cuts-on-metals-autos-in-canada-deal-e4ec3909",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-08-20 18:00"
     }
   ]
 }

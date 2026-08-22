@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23 02:40",
+  "updated_at": "2026-08-23 03:00",
   "items": [
     {
       "id": "c2uqgv",
@@ -253,6 +253,17 @@
       "source": "The Federal",
       "category": "soft",
       "published": "2026-08-21 21:24"
+    },
+    {
+      "id": "5vd8ks",
+      "title": "Silver Price For Today, 21 August 2026",
+      "title_vi": "Silver Price For Today, 21 August 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
+      "source": "Forbes",
+      "category": "metal",
+      "published": "2026-08-21 20:32"
     },
     {
       "id": "1tiuee1",
@@ -539,17 +550,6 @@
       "source": "24/7 Wall St.",
       "category": "metal",
       "published": "2026-08-21 01:16"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-08-21 00:35"
     }
   ]
 }

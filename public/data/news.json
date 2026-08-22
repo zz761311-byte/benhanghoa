@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-22 23:43",
+  "updated_at": "2026-08-23 00:01",
   "items": [
+    {
+      "id": "9tb9by",
+      "title": "Every Chokepoint That Isn&#039;t Hormuz",
+      "title_vi": "Mọi điểm nghẹt thở không phải là Hormuz",
+      "summary_vi": "Trong sáu tháng, toàn bộ cuộc trò chuyện về hậu cần dầu mỏ chỉ xoay quanh một eo biển và bạn khó có thể đổ lỗi cho ai về điều đó. Hormuz đã bị đóng cửa kể từ cuối tháng 2, khi cuộc chiến giữa Iran với Mỹ và Israel bắt đầu, và EIA ước tính chỉ có 4,9 triệu người.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-20_yzwdc59pmh.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Every-Chokepoint-That-Isnt-Hormuz.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-23 00:00"
+    },
     {
       "id": "10hist4",
       "title": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
@@ -156,15 +167,15 @@
       "published": "2026-08-22 01:00"
     },
     {
-      "id": "1bkjg4h",
-      "title": "US Oil Drillers See Pullback as Oil Prices Rise",
-      "title_vi": "Các công ty khoan dầu của Mỹ nhận thấy sự thoái lui khi giá dầu tăng",
-      "summary_vi": "Theo dữ liệu mới mà Baker Hughes công bố hôm thứ Sáu, tổng số giàn khoan đang hoạt động ở Mỹ đã giảm trong tuần này, với tổng số giàn khoan ở Mỹ giảm xuống 588, tăng 50 so với cùng thời điểm này năm ngoái. Số giàn khoan dầu đang hoạt động giảm",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-21_zvxmf7pqqh.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-See-Pullback-as-Oil-Prices-Rise.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-22 00:16"
+      "id": "1uj3tlw",
+      "title": "Crop damage, production dip, and festival demand led to price hike, says govt.",
+      "title_vi": "Crop damage, production dip, and festival demand led to price hike, says govt.",
+      "summary_vi": "Odisha, Madhya Pradesh và Punjab phải đối mặt với tình trạng giá đường tăng đáng kể, khiến chính phủ phải giám sát và thực hiện các biện pháp để ổn định chi phí.",
+      "image": "https://th-i.thgim.com/public/incoming/kjqd9a/article71375012.ece/alternates/LANDSCAPE_1200/TH20-PTI-Govt-aGH6GE3V6M.4.jpg.jpg",
+      "link": "https://www.thehindu.com/news/national/odisha-madhya-pradesh-punjab-hit-the-most-by-sugar-price-hike/article71374655.ece",
+      "source": "The Hindu",
+      "category": "agri",
+      "published": "2026-08-21 23:33"
     },
     {
       "id": "1hb4sq3",
@@ -539,17 +550,6 @@
       "source": "Daytona Beach News-Journal",
       "category": "soft",
       "published": "2026-08-20 23:16"
-    },
-    {
-      "id": "1bbf5qg",
-      "title": "The Outlook for a Smaller Ghana Cocoa Crop Supports Prices",
-      "title_vi": "Triển vọng về diện tích cây ca cao Ghana nhỏ hơn hỗ trợ giá",
-      "summary_vi": "Ca cao ICE NY tháng 9 (CCU26 ) hôm nay tăng +6 (+0,10) và ca cao ICE London tháng 9 #7 (CAU26 ) tăng +15 (+0,35%). Giá ca cao tăng lên mức cao nhất trong 2 tuần hôm nay do lo ngại về sản lượng ca cao sụt giảm từ Ghana, nước sản xuất ca cao lớn thứ hai thế giới...",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Soft%20Commodities/Cocoa/Cocoa%20by%20Ha11ok%20via%20Pixabay.jpg",
-      "link": "https://www.barchart.com/story/news/3954021/the-outlook-for-a-smaller-ghana-cocoa-crop-supports-prices",
-      "source": "Barchart.com",
-      "category": "soft",
-      "published": "2026-08-20 23:06"
     }
   ]
 }

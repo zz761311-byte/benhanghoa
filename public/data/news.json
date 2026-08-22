@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23 02:11",
+  "updated_at": "2026-08-23 02:40",
   "items": [
     {
       "id": "c2uqgv",
@@ -176,6 +176,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-22 01:00"
+    },
+    {
+      "id": "10lsjwk",
+      "title": "Silver price 20% August surge sends miners soaring",
+      "title_vi": "Silver price 20% August surge sends miners soaring",
+      "summary_vi": "Silver’s run to $70 has ignited mining stocks as major banks map out further upside for the precious metal this year.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/01/AdobeStock_22883129-1024x681.jpeg",
+      "link": "https://www.mining.com/silver-price-20-august-surge-sends-miners-soaring/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-08-22 00:04"
     },
     {
       "id": "1uj3tlw",
@@ -539,17 +550,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-08-21 00:35"
-    },
-    {
-      "id": "blm0ft",
-      "title": "Cooler Master V Platinum 3000 power supply review: Verified Platinum efficiency for workstations, with a stellar 12-year warranty",
-      "title_vi": "Đánh giá bộ nguồn Cooler Master V Platinum 3000: Hiệu quả Bạch kim đã được xác minh cho máy trạm, với chế độ bảo hành 12 năm xuất sắc",
-      "summary_vi": "Nguồn cung cấp máy trạm chỉ có 3000W, 230V do CWT xây dựng nhưng chưa có giá",
-      "image": "https://cdn.mos.cms.futurecdn.net/mGoEeLvCWznDtQG823qyWB-1920-80.jpg",
-      "link": "https://www.tomshardware.com/pc-components/power-supplies/cooler-master-v-platinum-3000-workstation-power-supply-review",
-      "source": "Tom's Hardware",
-      "category": "metal",
-      "published": "2026-08-20 23:44"
     }
   ]
 }

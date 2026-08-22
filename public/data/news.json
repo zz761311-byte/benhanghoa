@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 17:02",
+  "updated_at": "2026-08-22 17:43",
   "items": [
     {
       "id": "z63to8",
@@ -33,6 +33,17 @@
       "source": "Bloomberg",
       "category": "metal",
       "published": "2026-08-22 04:57"
+    },
+    {
+      "id": "pghzqq",
+      "title": "Price to earnings forward of Formosan Rubber Group Inc. – TWSE:2107",
+      "title_vi": "Giá trên thu nhập kỳ hạn của Formosan Rubber Group Inc. –TWE:2107",
+      "summary_vi": "Số liệu thống kê về giá trên thu nhập chuyển tiếp, hàng quý và hàng năm của Formosan Rubber Group Inc..",
+      "image": "https://static.tradingview.com/static/images/financials-social.png",
+      "link": "https://www.tradingview.com/symbols/TWSE-2107/financials-statistics-and-ratios/price-earnings-fwd/",
+      "source": "TradingView",
+      "category": "soft",
+      "published": "2026-08-22 04:50"
     },
     {
       "id": "1b9vfbd",
@@ -539,17 +550,6 @@
       "source": "IFPRI",
       "category": "agri",
       "published": "2026-08-20 21:07"
-    },
-    {
-      "id": "157wojb",
-      "title": "Cotton Slipping Back Early on Thursday",
-      "title_vi": "Bông trượt về sớm vào thứ năm",
-      "summary_vi": "Hành động giá bông đã giảm trở lại 30 đến 44 điểm vào thứ Năm sau đợt tăng giá vào thứ Tư. Hợp đồng tương lai đóng cửa với các hợp đồng cao hơn từ 243 đến 294 điểm trong những tháng tới, với các hợp đồng hoãn lại tăng từ 53 đến 110 điểm. Dầu thô tăng 1,90 USD, với chỉ số đô la Mỹ thấp hơn 0,809 USD.Dryne…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://www.tradingview.com/news/barchart:2c8e3cba0094b:0-cotton-slipping-back-early-on-thursday/",
-      "source": "TradingView",
-      "category": "soft",
-      "published": "2026-08-20 19:33"
     }
   ]
 }

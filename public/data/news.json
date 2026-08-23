@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23 17:01",
+  "updated_at": "2026-08-23 17:02",
   "items": [
     {
       "id": "a0fjwu",
@@ -409,6 +409,17 @@
       "published": "2026-08-21 16:15"
     },
     {
+      "id": "bbg4mv",
+      "title": "Farm Futures afternoon grain market commentary",
+      "title_vi": "Farm Futures afternoon grain market commentary",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-08-21 14:00"
+    },
+    {
       "id": "1k2qusw",
       "title": "'Perfect storm' brews for global food supply this winter as grain prices soar",
       "title_vi": "'Cơn bão hoàn hảo' hình thành nguồn cung lương thực toàn cầu trong mùa đông này khi giá ngũ cốc tăng cao",
@@ -539,17 +550,6 @@
       "source": "Spectrum News",
       "category": "metal",
       "published": "2026-08-21 03:45"
-    },
-    {
-      "id": "pdc1o9",
-      "title": "Oil settles up more than 2% after Trump threatens countries supporting Iran",
-      "title_vi": "Dầu tăng hơn 2% sau khi Trump đe dọa các nước ủng hộ Iran",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/oil-prices-steady-investors-assess-us-iran-war-outlook-2026-08-20/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-08-21 03:19"
     }
   ]
 }

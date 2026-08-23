@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24 00:01",
+  "updated_at": "2026-08-24 00:05",
   "items": [
     {
       "id": "12w01j3",
@@ -88,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-22 22:00"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-08-22 20:05"
     },
     {
       "id": "pz8673",
@@ -264,6 +275,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-08-22 00:04"
+    },
+    {
+      "id": "x8meg8",
+      "title": "Aluminum Prices Surge Toward 4-Year High — ING Warns Of Upside Supply Risks, Says Europe is ‘Particularly Exposed’",
+      "title_vi": "Aluminum Prices Surge Toward 4-Year High — ING Warns Of Upside Supply Risks, Says Europe is ‘Particularly Exposed’",
+      "summary_vi": "The escalating conflict between the U.S., Israel, and Iran has disrupted the aluminum supply chain, which was already facing a deficit due to smelter shutdowns and lower Chinese production.",
+      "image": "https://news.stocktwits-cdn.com/large_aluminum_resized_jpg_6efa759339.webp",
+      "link": "https://stocktwits.com/news-articles/markets/equity/aluminum-prices-surge-toward-4-year-high-ing-warns-of-upside-supply-risks-says-europe-is-particularly-exposed/cZd9q3YRI5C",
+      "source": "Stocktwits",
+      "category": "metal",
+      "published": "2026-08-21 23:59"
     },
     {
       "id": "1uj3tlw",
@@ -453,12 +475,12 @@
       "published": "2026-08-21 16:15"
     },
     {
-      "id": "my7osy",
-      "title": "Farm Futures morning grain market analysis",
-      "title_vi": "Farm Futures morning grain market analysis",
+      "id": "bbg4mv",
+      "title": "Farm Futures afternoon grain market commentary",
+      "title_vi": "Farm Futures afternoon grain market commentary",
       "summary_vi": "",
       "image": "",
-      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+      "link": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-08-21 14:00"
@@ -528,28 +550,6 @@
       "source": "TradingView",
       "category": "soft",
       "published": "2026-08-21 10:03"
-    },
-    {
-      "id": "1xtkm6p",
-      "title": "Valentine's Day shoppers face soaring chocolate prices - ABC News",
-      "title_vi": "Người mua sắm ngày lễ tình nhân đối mặt với giá sô cô la tăng vọt - ABC News",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://abcnews.com/Business/valentines-day-shoppers-face-soaring-chocolate-prices/story?id",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "soft",
-      "published": "2026-08-21 09:44"
-    },
-    {
-      "id": "dybx2u",
-      "title": "Turn the Arena into the Scarena with these spooky bundles!",
-      "title_vi": "Biến Đấu trường thành Scarena với những gói ma quái này!",
-      "summary_vi": "Hãy lấy những bộ bàn trang điểm này trước khi chúng làm bạn mê mẩn!",
-      "image": "https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dewzjk72j&#x2F;image&#x2F;authenticated&#x2F;s--13hGwzLm--&#x2F;c_lfill,w_1200,h_630&#x2F;f_auto:image,q_auto&#x2F;v1&#x2F;remote-media&#x2F;2ZJS52vBtY22Cu6ukAeMMW-QC_Halloween_Bundle_HERO_1920x870.jpg",
-      "link": "https://bethesda.net/zh-TW/news/turn-the-arena-into-the-scarena-with-these-spooky-bundles",
-      "source": "Bethesda.net",
-      "category": "metal",
-      "published": "2026-08-21 09:06"
     }
   ]
 }

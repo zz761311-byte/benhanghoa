@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23 12:01",
+  "updated_at": "2026-08-23 12:49",
   "items": [
     {
       "id": "a0fjwu",
@@ -198,6 +198,17 @@
       "source": "NDTV",
       "category": "soft",
       "published": "2026-08-22 01:01"
+    },
+    {
+      "id": "gdei8o",
+      "title": "Gold and silver continue their breakout rally, while the U.S. Dollar Index falls below 99.",
+      "title_vi": "Gold and silver continue their breakout rally, while the U.S. Dollar Index falls below 99.",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.moomoo.com/news/post/75085579/gold-and-silver-continue-their-breakout-rally-while-the-us",
+      "source": "Moomoo",
+      "category": "metal",
+      "published": "2026-08-22 00:48"
     },
     {
       "id": "10lsjwk",
@@ -539,17 +550,6 @@
       "source": "AAA Gas Prices",
       "category": "energy",
       "published": "2026-08-21 03:09"
-    },
-    {
-      "id": "hvtd3o",
-      "title": "Nat-Gas Prices Drop on a Cooler US Weather Outlook",
-      "title_vi": "Giá Nat-Gas giảm do thời tiết ở Mỹ mát mẻ hơn",
-      "summary_vi": "Tháng 9 Khí tự nhiên Nymex (NGU26) hôm thứ Năm đóng cửa ở mức giảm -0,081 (-2,88%). Giá khí đốt tự nhiên giảm mạnh vào thứ Năm trong bối cảnh dự báo nhiệt độ ở Mỹ mát hơn, có khả năng làm giảm nhu cầu khí tự nhiên từ các nhà cung cấp điện đến cung cấp năng lượng cho điều hòa không khí. Nhóm Thời tiết Hàng hóa cho biết hôm thứ Năm rằng…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://es.tradingview.com/news/barchart:a2c081631094b:0-nat-gas-prices-drop-on-a-cooler-us-weather-outlook/",
-      "source": "TradingView",
-      "category": "energy",
-      "published": "2026-08-21 02:13"
     }
   ]
 }

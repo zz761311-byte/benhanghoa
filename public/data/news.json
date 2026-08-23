@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23 23:46",
+  "updated_at": "2026-08-24 00:01",
   "items": [
     {
       "id": "12w01j3",
@@ -121,6 +121,17 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-08-22 10:52"
+    },
+    {
+      "id": "7xthb",
+      "title": "What's behind rising sugar prices in India? Government breaks silence, says 'ethanol...'",
+      "title_vi": "What's behind rising sugar prices in India? Government breaks silence, says 'ethanol...'",
+      "summary_vi": "Sugar prices have jumped sharply ahead of the festive season, triggering a political row over ethanol. Now the Centre has rejected the E20 link and pointed to a mix of domestic crop losses, global shortages and possible hoarding.",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260822/image-1787370432792.png?imwidth=1200&imheight=900",
+      "link": "https://www.wionews.com/india-news/what-s-behind-rising-sugar-prices-in-india-government-breaks-silence-says-ethano-not-to-blamel-1787370008114",
+      "source": "WION",
+      "category": "soft",
+      "published": "2026-08-22 10:48"
     },
     {
       "id": "wtw95u",
@@ -442,12 +453,12 @@
       "published": "2026-08-21 16:15"
     },
     {
-      "id": "bbg4mv",
-      "title": "Farm Futures afternoon grain market commentary",
-      "title_vi": "Farm Futures afternoon grain market commentary",
+      "id": "my7osy",
+      "title": "Farm Futures morning grain market analysis",
+      "title_vi": "Farm Futures morning grain market analysis",
       "summary_vi": "",
       "image": "",
-      "link": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-08-21 14:00"
@@ -539,17 +550,6 @@
       "source": "Bethesda.net",
       "category": "metal",
       "published": "2026-08-21 09:06"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-08-21 05:31"
     }
   ]
 }

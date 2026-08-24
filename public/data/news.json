@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-25 05:08",
+  "updated_at": "2026-08-25 05:47",
   "items": [
+    {
+      "id": "t5w08s",
+      "title": "XAGUSD Price Analysis Shows Silver Testing $70 Resistance and $71 Target",
+      "title_vi": "XAGUSD Price Analysis Shows Silver Testing $70 Resistance and $71 Target",
+      "summary_vi": "Silver price action has tested the $70 resistance area and appears to be heading towards the $71.16 level.",
+      "image": "https://bravenewcoin.com/wp-content/uploads/2026/08/Bnc-Aug-25-494.jpg",
+      "link": "https://bravenewcoin.com/insights/xag-usd-price-analysis-shows-silver-testing-70-resistance-and-71-target",
+      "source": "Brave New Coin",
+      "category": "metal",
+      "published": "2026-08-25 05:25"
+    },
     {
       "id": "1ci5sdy",
       "title": "U.S. Leaves Europe Behind in Critical Minerals Race",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-25 03:00"
+    },
+    {
+      "id": "15iszyp",
+      "title": "Mexico's Sugar Output Rises 11.6% Amid Surplus",
+      "title_vi": "Mexico's Sugar Output Rises 11.6% Amid Surplus",
+      "summary_vi": "Mexico’s sugar production reached 5.325Mt in the 2025-26 cycle, increasing inventories and putting pressure on domestic prices.",
+      "image": "https://mexicobusiness.news/sites/default/files/styles/crop_16_9/public/2026-08/victoria-priessnitz-IPuuhSmsFIc-unsplash.jpg?h=9eb1c85d&itok=D1YAvjJJ",
+      "link": "https://mexicobusiness.news/agribusiness/news/mexicos-sugar-output-rises-116-amid-surplus",
+      "source": "Mexico Business News",
+      "category": "soft",
+      "published": "2026-08-25 02:48"
     },
     {
       "id": "1f5ppus",
@@ -528,28 +550,6 @@
       "source": "Phys.org",
       "category": "agri",
       "published": "2026-08-22 04:20"
-    },
-    {
-      "id": "3eruvs",
-      "title": "Colombian Coffee, Cocoa Exempted From New US Tariff",
-      "title_vi": "Cà phê Colombia, ca cao được miễn thuế mới của Mỹ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-us/insights/colombian-coffee-cocoa-exempted-from-new-us-tariff/",
-      "source": "stonex.com",
-      "category": "soft",
-      "published": "2026-08-22 03:38"
-    },
-    {
-      "id": "woql3f",
-      "title": "Ghana's cocoa price slash sparks outrage",
-      "title_vi": "Ghana's cocoa price slash sparks outrage",
-      "summary_vi": "Ghana&#x27;s cocoa industry is facing a major shake-up after the government slashed the producer price by 28%. It&#x27;s a heavy blow for many of the country&#x27;s 800,000 cocoa farmers. But officials say they were forced into the decision after global cocoa prices plunged. Eddy Micah Jr. speaks with Nana Aduna II of ",
-      "image": "https://static.dw.com/image/74973921_6.jpg",
-      "link": "https://www.dw.com/en/ghanas-cocoa-price-slash-sparks-outrage/audio-76122172",
-      "source": "DW.com",
-      "category": "soft",
-      "published": "2026-08-22 02:52"
     }
   ]
 }

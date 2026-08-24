@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-08-24 21:06",
+  "updated_at": "2026-08-24 22:01",
   "items": [
+    {
+      "id": "4efl89",
+      "title": "European Leaders Gather in Kyiv as Ukraine Seeks More Air Defense",
+      "title_vi": "European Leaders Gather in Kyiv as Ukraine Seeks More Air Defense",
+      "summary_vi": "Ukrainian President Volodymyr Zelenskyy&#039;s push to bolster international support and receive additional air defenses continues on August 24 as the so-called Coalition of the Willing meets to discuss ways to pressure Russia to halt its invasion months ahead of another likely b",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-24_fq2adlhm8o.jpg",
+      "link": "https://oilprice.com/Geopolitics/Europe/European-Leaders-Gather-in-Kyiv-as-Ukraine-Seeks-More-Air-Defense.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-24 22:00"
+    },
+    {
+      "id": "6npvu5",
+      "title": "Russia Scrambles to Restore Fuel Supplies as Refineries Resume Operations",
+      "title_vi": "Russia Scrambles to Restore Fuel Supplies as Refineries Resume Operations",
+      "summary_vi": "Amid the ongoing fuel crisis in Russia, authorities are rushing to ease concerns that the shortages are worsening. Russia has been suffering from a gasoline and diesel crunch since the spring, when Ukraine intensified its drone attacks at Russian refineries, aiming to cripple fue",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-24_iv86dxtlue.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Scrambles-to-Restore-Fuel-Supplies-as-Refineries-Resume-Operations.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-24 21:30"
+    },
+    {
+      "id": "1vecz0g",
+      "title": "Trump hits back at Carney, threatens to hike auto, truck, metals tariffs to 50%",
+      "title_vi": "Trump hits back at Carney, threatens to hike auto, truck, metals tariffs to 50%",
+      "summary_vi": "Canada ranks as the third largest source of U.S. imports, with more than $380 billion worth of goods brought over the border in 2025",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260824-canada-auto-mn-1005-6caa27.jpg",
+      "link": "https://www.nbcnews.com/business/economy/trump-canada-tariffs-autos-metals-rcna594108",
+      "source": "NBC News",
+      "category": "metal",
+      "published": "2026-08-24 21:03"
+    },
     {
       "id": "49fni4",
       "title": "Iran Blacklists 45 Tankers as Hormuz Standoff Escalates",
@@ -112,17 +145,6 @@
       "published": "2026-08-24 15:30"
     },
     {
-      "id": "eb5al0",
-      "title": "Exxon Eyes Shell’s $8 Billion U.S. Chemicals Business",
-      "title_vi": "Exxon Eyes Shell’s $8 Billion U.S. Chemicals Business",
-      "summary_vi": "Exxon is in the running for Shell’s U.S. chemicals business that could fetch $8 billion, the Financial Times reported today, citing unnamed sources familiar with developments. The U.S. supermajor is competing with LyondellBasell, Apollo Global Management, and the Kuwait Petroleum",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-24_kgkcxlc671.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-Eyes-Shells-8-Billion-US-Chemicals-Business.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-24 14:15"
-    },
-    {
       "id": "8ap5c",
       "title": "Natural Gas and Oil Forecast: WTI, Brent Pull Back as Iran Sanctions Intensify",
       "title_vi": "Natural Gas and Oil Forecast: WTI, Brent Pull Back as Iran Sanctions Intensify",
@@ -145,15 +167,15 @@
       "published": "2026-08-24 13:40"
     },
     {
-      "id": "wd6o0y",
-      "title": "Hormuz Tanker Traffic Slumps as U.S. and Iran Trade Threats",
-      "title_vi": "Hormuz Tanker Traffic Slumps as U.S. and Iran Trade Threats",
-      "summary_vi": "Tanker traffic via the Strait of Hormuz remained weak over the weekend, with fewer than 20 vessels traversing the chokepoint as Iran and the United States traded threats again. Some 13 tankers passed through the strait on Saturday, with only four making the journey on Sunday, Kpl",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-24_vkwjltk2qb.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slumps-as-US-and-Iran-Trade-Threats.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-24 13:00"
+      "id": "x1rcx6",
+      "title": "Why is there a sudden increase in sugar prices? | Explained",
+      "title_vi": "Why is there a sudden increase in sugar prices? | Explained",
+      "summary_vi": "Sugar prices surged up to 50% in India amid opposition claims of hoarding and government monitoring of the situation.",
+      "image": "https://th-i.thgim.com/public/incoming/syhxo8/article71370857.ece/alternates/LANDSCAPE_1200/ERGOV_8-1-2010_15-38-25_ER09SUGAR3.JPG",
+      "link": "https://www.thehindu.com/business/Economy/why-is-there-a-sudden-increase-in-sugar-prices-explained/article71383190.ece",
+      "source": "The Hindu",
+      "category": "soft",
+      "published": "2026-08-24 12:08"
     },
     {
       "id": "1cbjwpc",
@@ -187,6 +209,17 @@
       "source": "DW.com",
       "category": "energy",
       "published": "2026-08-24 11:03"
+    },
+    {
+      "id": "o22cdz",
+      "title": "Gold climbs to more than three-month high as markets await U.S. inflation data",
+      "title_vi": "Gold climbs to more than three-month high as markets await U.S. inflation data",
+      "summary_vi": "Gold rose to its highest in ​more than three months on ​Monday, building on ​gains from last week as a muted dollar boosted appeal.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107343525-1701808821163-2017-07-23T095142Z_1172305496_RC1333BEC120_RTRMADP_3_SINGAPORE-GOLD.JPG?v=1787538605&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/24/gold-reaches-3-month-high-ahead-of-us-inflation-data-fed-speech.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-08-24 09:31"
     },
     {
       "id": "1cd8psv",
@@ -431,17 +464,6 @@
       "published": "2026-08-22 02:52"
     },
     {
-      "id": "qpnbt1",
-      "title": "US Dollar and Metals Outlook: DXY Below 99 Keeps Gold, Silver and Platinum Bulls in Control",
-      "title_vi": "Triển vọng về Đô la Mỹ và Kim loại: DXY Dưới 99 giúp Kiểm soát xu hướng tăng giá Vàng, Bạc và Bạch kim",
-      "summary_vi": "DXY vẫn giảm dưới 99 trong khi mục tiêu bạch kim là 1927-1930 sau khi phá vỡ 1900, với các mức đột phá quan trọng của vàng, bạc, palađi và đồng.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/gold-and-silver-precious-metals-02.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/us-dollar-and-metals-outlook-dxy-below-99-keeps-gold-silver-and-platinum-bulls-in-control-1618158",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-08-22 02:25"
-    },
-    {
       "id": "1smjxeq",
       "title": "Silver is up 20% this month. And we don't think you missed it. Next stop: $100?",
       "title_vi": "Silver is up 20% this month. And we don't think you missed it. Next stop: $100?",
@@ -528,28 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-08-21 22:30"
-    },
-    {
-      "id": "1smiqje",
-      "title": "Ukrainian Drone Attack Hits Lukoil Refinery Deep in Russia",
-      "title_vi": "Cuộc tấn công bằng máy bay không người lái của Ukraine tấn công nhà máy lọc dầu Lukoil sâu ở Nga",
-      "summary_vi": "Ukraine qua đêm bằng máy bay không người lái tấn công một nhà máy lọc dầu ở vùng Perm, sâu trong lãnh thổ Nga",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-21_chwmz78gmo.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Attack-Hits-Lukoil-Refinery-Deep-in-Russia.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-08-21 22:00"
-    },
-    {
-      "id": "1e3ar1i",
-      "title": "Sugar price surge puts E20 debate under fresh scrutiny; govt rejects claims",
-      "title_vi": "Giá đường tăng khiến cuộc tranh luận về E20 bị giám sát chặt chẽ; chính phủ bác bỏ yêu cầu bồi thường",
-      "summary_vi": "Với giá đường bán lẻ chạm mức 55,7 Rs/kg, chính phủ cho rằng mùa màng sẽ bị mất, nguồn cung thắt chặt và tích trữ thay vì E20.",
-      "image": "https://thefederal.com/h-upload/2023/08/09/371135-sugarcane-pti.jpg",
-      "link": "https://thefederal.com/category/news/sugar-price-surge-e20-debate-fresh-scrutiny-govt-rejects-claims-254285",
-      "source": "The Federal",
-      "category": "soft",
-      "published": "2026-08-21 21:24"
     }
   ]
 }

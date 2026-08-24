@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24 13:01",
+  "updated_at": "2026-08-24 13:26",
   "items": [
     {
       "id": "wd6o0y",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-24 13:00"
+    },
+    {
+      "id": "k3hqvc",
+      "title": "Gold hits over 3-month high ahead of US inflation data, Fed chair speech",
+      "title_vi": "Gold hits over 3-month high ahead of US inflation data, Fed chair speech",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-hits-over-3-month-high-ahead-us-inflation-data-fed-chair-speech-2026-08-24/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-08-24 11:39"
     },
     {
       "id": "zbmrpb",
@@ -352,17 +363,6 @@
       "source": "NDTV",
       "category": "soft",
       "published": "2026-08-22 01:01"
-    },
-    {
-      "id": "gdei8o",
-      "title": "Gold and silver continue their breakout rally, while the U.S. Dollar Index falls below 99.",
-      "title_vi": "Gold and silver continue their breakout rally, while the U.S. Dollar Index falls below 99.",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.moomoo.com/news/post/75085579/gold-and-silver-continue-their-breakout-rally-while-the-us",
-      "source": "Moomoo",
-      "category": "metal",
-      "published": "2026-08-22 00:48"
     },
     {
       "id": "10lsjwk",

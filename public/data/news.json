@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-24 14:01",
+  "updated_at": "2026-08-24 14:45",
   "items": [
+    {
+      "id": "eb5al0",
+      "title": "Exxon Eyes Shell’s $8 Billion U.S. Chemicals Business",
+      "title_vi": "Exxon Eyes Shell’s $8 Billion U.S. Chemicals Business",
+      "summary_vi": "Exxon is in the running for Shell’s U.S. chemicals business that could fetch $8 billion, the Financial Times reported today, citing unnamed sources familiar with developments. The U.S. supermajor is competing with LyondellBasell, Apollo Global Management, and the Kuwait Petroleum",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-24_kgkcxlc671.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-Eyes-Shells-8-Billion-US-Chemicals-Business.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-24 14:15"
+    },
+    {
+      "id": "8ap5c",
+      "title": "Natural Gas and Oil Forecast: WTI, Brent Pull Back as Iran Sanctions Intensify",
+      "title_vi": "Natural Gas and Oil Forecast: WTI, Brent Pull Back as Iran Sanctions Intensify",
+      "summary_vi": "Iran sanctions and Hormuz risks tighten global oil supply as WTI and Brent test support, while elevated LNG prices threaten demand destruction.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/08/Main-Images-6.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-wti-brent-pull-back-as-iran-sanctions-intensify-1618343",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-08-24 14:11"
+    },
     {
       "id": "wd6o0y",
       "title": "Hormuz Tanker Traffic Slumps as U.S. and Iran Trade Threats",
@@ -165,17 +187,6 @@
       "source": "TradingView",
       "category": "soft",
       "published": "2026-08-23 18:40"
-    },
-    {
-      "id": "a0fjwu",
-      "title": "Europe Dodges a Rhine Crisis for the Worst Possible Reason",
-      "title_vi": "Europe Dodges a Rhine Crisis for the Worst Possible Reason",
-      "summary_vi": "The Rhine has slightly risen from its mid-August record low (when Kaub’s water level gauge – at the river’s decisive chokepoint – was below 10 cm), but the relief is mostly optical. Barges still cannot carry normal loads through it, leaving the industrial corridor from Rotterdam ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-21_ahecgv2nji.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Europe-Dodges-a-Rhine-Crisis-for-the-Worst-Possible-Reason.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-23 06:00"
     },
     {
       "id": "pwf3lg",
@@ -539,17 +550,6 @@
       "source": "UBS",
       "category": "macro",
       "published": "2026-08-21 18:39"
-    },
-    {
-      "id": "19f6gw9",
-      "title": "[MARKET ANALYSIS] Crude prices take a breather while metals surge as geopolitical updates remain light and DXY falls ahead of the weekend",
-      "title_vi": "[PHÂN TÍCH THỊ TRƯỜNG] Giá dầu thô tạm dừng trong khi kim loại tăng vọt khi các cập nhật địa chính trị vẫn còn nhẹ và DXY giảm trước cuối tuần",
-      "summary_vi": "Hợp đồng tương lai WTI và Brent giao dịch trên nền tảng nhẹ nhàng hơn trong bối cảnh sự sụt giảm so với mức tăng ngày hôm qua và khi các tiêu đề địa chính trị lắng xuống, hiện tại, đang hướng tới…",
-      "image": "https://www.newsquawk.com/assets/placeholder_images_for_news_by_category/Energy/1.png",
-      "link": "https://www.newsquawk.com/headlines/market-analysis-crude-prices-take-a-breather-while-metals-surge-as-geopolitical-updates-remain-light-and-dxy-falls-ahead-of-the-weekend",
-      "source": "Newsquawk",
-      "category": "macro",
-      "published": "2026-08-21 16:15"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-24 20:01",
+  "updated_at": "2026-08-24 20:17",
   "items": [
+    {
+      "id": "1wv4yar",
+      "title": "India sugar rally driven by speculation, not supply shortage, official says",
+      "title_vi": "India sugar rally driven by speculation, not supply shortage, official says",
+      "summary_vi": "India has enough sugar for festival demand, an industry group says, even after prices surged more than 40% in two months to a record high.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107348242-1702653806473-gettyimages-1250817960-Sugar_Price_Rise.jpeg?v=1703592166&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/24/india-sugar-prices-festival-demand.html",
+      "source": "CNBC",
+      "category": "soft",
+      "published": "2026-08-24 20:08"
+    },
     {
       "id": "1lha8d7",
       "title": "Norway Takes Oilfield Climate Battle to Supreme Court",
@@ -431,6 +442,17 @@
       "published": "2026-08-22 01:01"
     },
     {
+      "id": "65hs73",
+      "title": "These Copper Miners Top Buy Points Amid Supply, Demand Crunch",
+      "title_vi": "These Copper Miners Top Buy Points Amid Supply, Demand Crunch",
+      "summary_vi": "Copper prices are trading near record highs, and around the world, various sources of copper are strained. Multiple copper stocks rose past buy points.",
+      "image": "https://www.investors.com/wp-content/uploads/2026/08/stock-gold-pit-adobe.jpg",
+      "link": "https://www.investors.com/news/copper-miners-stocks-bhp-scco-fcx-tariffs/",
+      "source": "Investor's Business Daily",
+      "category": "metal",
+      "published": "2026-08-22 00:14"
+    },
+    {
       "id": "10lsjwk",
       "title": "Silver price 20% August surge sends miners soaring",
       "title_vi": "Silver price 20% August surge sends miners soaring",
@@ -528,28 +550,6 @@
       "source": "The Indian Express",
       "category": "soft",
       "published": "2026-08-21 20:18"
-    },
-    {
-      "id": "1vqrzb3",
-      "title": "FCX Stock Powers Higher As Copper Outlook Tightens",
-      "title_vi": "Cổ phiếu FCX tăng giá khi triển vọng đồng thắt chặt",
-      "summary_vi": "Cổ phiếu của Freeport-McMoRan Inc. đang giao dịch tăng 4,1% nhờ nhu cầu đồng mạnh mẽ và kỳ vọng thu nhập lạc quan Những bài học rút ra quan trọng mà các nhà giao dịch FCX cần ngay bây giờ EPS điều chỉnh trong quý 2 năm 2026 là 0,74 USD, đánh bại mức đồng thuận 0,62 USD, với doanh thu 7,03 tỷ USD vượt kỳ vọng về sản xuất đồng, vàng và molypden mạnh. Quản lý g",
-      "image": "https://content.stockstotrade.com/wp-content/uploads/2026/08/watermarked_FCX_2026-08-21T09-17-scaled.png",
-      "link": "https://stockstotrade.com/news/freeport-mcmoran-inc-fcx-news-2026_08_21/",
-      "source": "StocksToTrade",
-      "category": "metal",
-      "published": "2026-08-21 20:18"
-    },
-    {
-      "id": "102h8wt",
-      "title": "'Incorrect': Centre rejects ethanol link to spike in sugar price, blames low output",
-      "title_vi": "'Sai': Trung tâm bác bỏ liên kết ethanol khiến giá đường tăng vọt, đổ lỗi cho sản lượng thấp",
-      "summary_vi": "NEW DELHI: Trung tâm hôm thứ Sáu cho biết họ đang theo dõi chặt chẽ sự gia tăng giá đường gần đây và bác bỏ những tuyên bố rằng sự gia tăng này có liên quan đến việc chuyển hướng mía sang sản xuất ethanol.",
-      "image": "https://static.toiimg.com/thumb/msid-133404857,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/incorrect-centre-rejects-ethanol-link-to-spike-in-sugar-price-blames-low-output/articleshow/133404817.cms",
-      "source": "The Times of India",
-      "category": "soft",
-      "published": "2026-08-21 19:45"
     }
   ]
 }

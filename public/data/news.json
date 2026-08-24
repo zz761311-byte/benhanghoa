@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24 17:23",
+  "updated_at": "2026-08-24 17:58",
   "items": [
     {
       "id": "1qkwd2y",
@@ -220,6 +220,17 @@
       "source": "TradingView",
       "category": "soft",
       "published": "2026-08-23 18:40"
+    },
+    {
+      "id": "onr6zb",
+      "title": "Trump’s Top Trade Representative Details Offer That Canada Rejected",
+      "title_vi": "Trump’s Top Trade Representative Details Offer That Canada Rejected",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
+      "source": "The New York Times",
+      "category": "macro",
+      "published": "2026-08-23 04:12"
     },
     {
       "id": "pwf3lg",
@@ -539,17 +550,6 @@
       "source": "NDTV",
       "category": "soft",
       "published": "2026-08-21 19:41"
-    },
-    {
-      "id": "puvqdh",
-      "title": "Treasury Intervention Puts the Dollar Under Pressure",
-      "title_vi": "Sự can thiệp của Kho bạc khiến đồng đô la chịu áp lực",
-      "summary_vi": "Lợi suất trái phiếu kho bạc Hoa Kỳ tăng mạnh chiếm ưu thế trong tuần trước khi Bộ Tài chính mở rộng chương trình mua lại trái phiếu dài hạn. Động thái này đã cải thiện tính thanh khoản của thị trường và giảm chi phí đi vay trong thời gian ngắn, nhưng cũng làm suy yếu đồng đô la. Với giá dầu tăng cao và nợ của Mỹ vượt quá 40 nghìn tỷ USD, các nhà đầu tư đang đặt câu hỏi.",
-      "image": "https://storage.googleapis.com/web-content.oanda.com/images/chip.original.jpg",
-      "link": "https://www.marketpulse.com/markets/treasury-intervention-puts-the-dollar-under-pressure/",
-      "source": "marketpulse.com",
-      "category": "macro",
-      "published": "2026-08-21 19:37"
     }
   ]
 }

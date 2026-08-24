@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24 16:01",
+  "updated_at": "2026-08-24 16:32",
   "items": [
     {
       "id": "1ptxv40",
@@ -110,6 +110,17 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-08-24 07:22"
+    },
+    {
+      "id": "1o9ucjj",
+      "title": "Oil falls as US prepares to unveil new Iran sanctions",
+      "title_vi": "Oil falls as US prepares to unveil new Iran sanctions",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/asia-pacific/oil-falls-1-ahead-us-announcement-impose-further-sanctions-iran-2026-08-23/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-08-24 06:18"
     },
     {
       "id": "d89rpu",
@@ -539,17 +550,6 @@
       "source": "marketpulse.com",
       "category": "macro",
       "published": "2026-08-21 19:37"
-    },
-    {
-      "id": "d4my7k",
-      "title": "Quarter of branded baby foods in UK still have too much sugar, analysis finds",
-      "title_vi": "Phân tích cho thấy một phần tư thực phẩm dành cho trẻ em có thương hiệu ở Anh vẫn chứa quá nhiều đường",
-      "summary_vi": "Độc quyền: Trong số 224 loại thực phẩm và đồ ăn nhẹ có thương hiệu dành cho trẻ sơ sinh, hơn một nửa các nguyên tắc đã vi phạm được đưa ra cách đây một năm",
-      "image": "https://i.guim.co.uk/img/media/9e99616151c4a34166bfbacacf5a03cb928b2ce4/152_0_5345_4276/master/5345.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b384e4c27f99bf3ffd2888e8aa00602",
-      "link": "https://www.theguardian.com/society/2026/aug/21/baby-foods-uk-too-much-sugar",
-      "source": "The Guardian",
-      "category": "soft",
-      "published": "2026-08-21 19:35"
     }
   ]
 }

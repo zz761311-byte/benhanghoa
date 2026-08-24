@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-24 08:01",
+  "updated_at": "2026-08-24 09:00",
   "items": [
+    {
+      "id": "1ixs477",
+      "title": "Oil Falls on Possible Position Adjustments Before Potential U.S. Sanctions on Iran",
+      "title_vi": "Oil Falls on Possible Position Adjustments Before Potential U.S. Sanctions on Iran",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-possible-position-adjustments-before-potential-u-s-sanctions-on-iran-6d0d22c3",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-08-24 07:22"
+    },
     {
       "id": "d89rpu",
       "title": "Diesel Crisis Threatens to Outlast the Middle East War",
@@ -209,6 +220,17 @@
       "source": "WION",
       "category": "soft",
       "published": "2026-08-22 10:48"
+    },
+    {
+      "id": "1tavicm",
+      "title": "What Pro Farmer’s Shocking Yield Estimates Mean for the Market",
+      "title_vi": "What Pro Farmer’s Shocking Yield Estimates Mean for the Market",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/what-pro-farmers-shocking-yield-estimates-mean-market",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-08-22 06:04"
     },
     {
       "id": "v54bff",
@@ -528,28 +550,6 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-08-21 14:00"
-    },
-    {
-      "id": "1k2qusw",
-      "title": "'Perfect storm' brews for global food supply this winter as grain prices soar",
-      "title_vi": "'Cơn bão hoàn hảo' hình thành nguồn cung lương thực toàn cầu trong mùa đông này khi giá ngũ cốc tăng cao",
-      "summary_vi": "Những lo ngại về năng suất cây trồng và khả năng gieo trồng của nông dân trước năm tới đã xuất hiện khi giá lúa mì tăng vọt.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108351995-1787215957783-gettyimages-1576431047-na.jpeg?v=1787216068&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/08/21/grain-price-russia-food-supply.html",
-      "source": "CNBC",
-      "category": "agri",
-      "published": "2026-08-21 12:00"
-    },
-    {
-      "id": "12wi0bn",
-      "title": "9% Platinum Demand Decline Fails to Prevent a 297 koz 2026 Deficit - Article",
-      "title_vi": "9% Platinum Demand Decline Fails to Prevent a 297 koz 2026 Deficit - Article",
-      "summary_vi": "Platinum demand is forecast to fall 9% in 2026, yet a 297 koz deficit and sub-three-month stocks leave prices sensitive to supply disruptions.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a87d26cc6aead9bf7268e07_Platinum%20Underfilled.png",
-      "link": "https://www.cruxinvestor.com/posts/9-platinum-demand-decline-fails-to-prevent-a-297-koz-2026-deficit",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-08-21 11:31"
     }
   ]
 }

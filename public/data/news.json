@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-26 00:49",
+  "updated_at": "2026-08-26 01:17",
   "items": [
+    {
+      "id": "18q3s34",
+      "title": "Russia Eyes Central Asia as a Safe Haven for Its Defense Industry",
+      "title_vi": "Russia Eyes Central Asia as a Safe Haven for Its Defense Industry",
+      "summary_vi": "With Russian infrastructure being pummeled by Ukrainian drones, the Kremlin is hoping to sustain its war effort in Ukraine going by deepening defense cooperation with Kazakhstan and Uzbekistan. It is uncertain, however, whether Astana and Tashkent will go along with Moscow’s wish",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-24_v7lmnbyw6a.jpg",
+      "link": "https://oilprice.com/Geopolitics/Europe/Russia-Eyes-Central-Asia-as-a-Safe-Haven-for-Its-Defense-Industry.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-26 01:00"
+    },
     {
       "id": "1pw25dn",
       "title": "BLM Sets October Oil and Gas Lease Sale for Montana and Dakotas",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-26 00:00"
+    },
+    {
+      "id": "13d7s2q",
+      "title": "Shoulder Season Chill Hits Natural Gas Futures Despite Near-Term Hotter Forecast",
+      "title_vi": "Shoulder Season Chill Hits Natural Gas Futures Despite Near-Term Hotter Forecast",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/shoulder-season-chill-hits-natural-gas-futures-despite-near-term-hotter-forecast/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-08-25 23:27"
     },
     {
       "id": "d26o6o",
@@ -132,17 +154,6 @@
       "source": "TheStreet Pro",
       "category": "metal",
       "published": "2026-08-25 21:00"
-    },
-    {
-      "id": "1y4pg4l",
-      "title": "Ukraine Hits Another Russian Refinery as Fuel Crunch Worsens",
-      "title_vi": "Ukraine tấn công một nhà máy lọc dầu khác của Nga khi cuộc khủng hoảng nhiên liệu trở nên tồi tệ hơn",
-      "summary_vi": "Ukraine continues to pound Russian refineries in nearly daily drone attacks that damage refining infrastructure, deepen the fuel crisis in Russia, and tighten global fuel markets. In the latest attack on Monday night, Ukrainian forces hit the 180,000-barrels-per-day Afipsky refin",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-25_p9ausmgfe6.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Hits-Another-Russian-Refinery-as-Fuel-Crunch-Worsens.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-25 20:30"
     },
     {
       "id": "m3d7w9",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-08-24 14:11"
-    },
-    {
-      "id": "1cr12mp",
-      "title": "[SMMFlash] Palladium futures rose to around USD 1,350/oz on August 21",
-      "title_vi": "[SMMFlash] Palladium futures rose to around USD 1,350/oz on August 21",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.metal.com/en/newscontent/104076079-palladium-extends-gains-to-one-week-high",
-      "source": "Shanghai Metals Market",
-      "category": "metal",
-      "published": "2026-08-24 13:40"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-25 12:51",
+  "updated_at": "2026-08-25 13:01",
   "items": [
+    {
+      "id": "13oxans",
+      "title": "Iran Threatens Retaliation as U.S. Widens Sanctions",
+      "title_vi": "Iran Threatens Retaliation as U.S. Widens Sanctions",
+      "summary_vi": "Iran threatened an aggressive response to the latest U.S. sanctions announced on Monday by Treasury Secretary Scott Bessent, with a top government official noting Tehran was “fully prepared for the U.S. sanctions.” “Naturally, the enemies intend to launch an economic terrorist at",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-25_codmrzsjhw.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Threatens-Retaliation-as-US-Widens-Sanctions.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-08-25 13:00"
+    },
     {
       "id": "1inzn03",
       "title": "Oil steadies as investors weigh impact of latest US sanctions on Iran",
@@ -11,6 +22,17 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-08-25 11:22"
+    },
+    {
+      "id": "zvr20v",
+      "title": "WTI Crude Oil futures slip to 85 as Middle East tensions persist.",
+      "title_vi": "WTI Crude Oil futures slip to 85 as Middle East tensions persist.",
+      "summary_vi": "Todd Colvin of Mark IV Brokerage examines the recent pullback in WTI Crude Oil futures as prices slip to 85 a barrel to start the week. Colvin discusses the 4 percent reversal from Thursday's highs amid ongoing Middle East negotiations and headline risks regarding potential sanctions. He also highlights the continuing ",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/wti-crude-oil-futures-slip-to-85-as-middle-east-tensions-persist.jpg",
+      "link": "https://www.cmegroup.com/videos/2026/08/24/wti-crude-oil-futures-slip-to-85-as-middle-east-tensions-persist.html",
+      "source": "CME Group",
+      "category": "energy",
+      "published": "2026-08-25 10:45"
     },
     {
       "id": "1ou4jq9",
@@ -165,17 +187,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-25 02:00"
-    },
-    {
-      "id": "14eieea",
-      "title": "TotalEnergies Backs Two Major Oil Pipelines to Bypass Hormuz",
-      "title_vi": "TotalEnergies Backs Two Major Oil Pipelines to Bypass Hormuz",
-      "summary_vi": "TotalEnergies will invest in two major oil pipelines designed to bypass the Strait of Hormuz, backing Abu Dhabi’s expansion of its Fujairah export route and a planned pipeline carrying Iraqi crude through Syria to the Mediterranean. CEO Patrick Pouyanné announced the commitments ",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Backs-Two-Major-Oil-Pipelines-to-Bypass-Hormuz.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-25 01:27"
     },
     {
       "id": "1p0a4ni",
@@ -539,17 +550,6 @@
       "source": "Silver Bulletin",
       "category": "metal",
       "published": "2026-08-22 17:58"
-    },
-    {
-      "id": "z63to8",
-      "title": "Why ethanol diversion is not to blame for soaring sugar prices",
-      "title_vi": "Tại sao việc chuyển hướng ethanol không phải là nguyên nhân khiến giá đường tăng vọt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://indianexpress.com/article/explained/explained-economics/sugar-prices-rise-india-production-stocks-ethanol-explained-10844053/",
-      "source": "The Indian Express",
-      "category": "soft",
-      "published": "2026-08-22 14:37"
     }
   ]
 }

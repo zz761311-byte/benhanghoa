@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25 13:01",
+  "updated_at": "2026-08-25 13:19",
   "items": [
     {
       "id": "13oxans",
@@ -486,6 +486,17 @@
       "published": "2026-08-23 18:40"
     },
     {
+      "id": "z63to8",
+      "title": "Why ethanol diversion is not to blame for soaring sugar prices",
+      "title_vi": "Why ethanol diversion is not to blame for soaring sugar prices",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://indianexpress.com/article/explained/explained-economics/sugar-prices-rise-india-production-stocks-ethanol-explained-10844053/",
+      "source": "The Indian Express",
+      "category": "soft",
+      "published": "2026-08-23 16:37"
+    },
+    {
       "id": "1eq9tkn",
       "title": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
       "title_vi": "Vựa lúa mì của thế giới đang bị ảnh hưởng bởi chiến tranh, thời tiết và xung đột thương mại",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-08-22 20:05"
-    },
-    {
-      "id": "pz8673",
-      "title": "How popular is the Iran War?",
-      "title_vi": "Chiến tranh Iran phổ biến đến mức nào?",
-      "summary_vi": "Xếp hạng phê duyệt của Silver Bulletin cho cuộc xung đột đang diễn ra.",
-      "image": "https://substackcdn.com/image/fetch/$s_!VBIa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F494234cd-c97e-4ddb-8466-74979319dd65_1200x864.gif",
-      "link": "https://www.natesilver.net/p/iran-war-polls-popularity-approval",
-      "source": "Silver Bulletin",
-      "category": "metal",
-      "published": "2026-08-22 17:58"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25 17:18",
+  "updated_at": "2026-08-25 17:54",
   "items": [
     {
       "id": "1akhfek",
@@ -253,6 +253,17 @@
       "source": "The Times of India",
       "category": "soft",
       "published": "2026-08-25 01:59"
+    },
+    {
+      "id": "1s4x5qr",
+      "title": "Powerful El Niño Reshapes Natural Gas Weather Risks Ahead of Winter",
+      "title_vi": "Powerful El Niño Reshapes Natural Gas Weather Risks Ahead of Winter",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/powerful-el-ni%C3%B1o-reshapes-natural-gas-weather-risks-ahead-of-winter/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-08-25 00:36"
     },
     {
       "id": "1p0a4ni",
@@ -539,17 +550,6 @@
       "source": "TradingView",
       "category": "soft",
       "published": "2026-08-23 18:40"
-    },
-    {
-      "id": "z63to8",
-      "title": "Why ethanol diversion is not to blame for soaring sugar prices",
-      "title_vi": "Why ethanol diversion is not to blame for soaring sugar prices",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://indianexpress.com/article/explained/explained-economics/sugar-prices-rise-india-production-stocks-ethanol-explained-10844053/",
-      "source": "The Indian Express",
-      "category": "soft",
-      "published": "2026-08-23 16:37"
     }
   ]
 }

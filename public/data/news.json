@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-25 19:17",
+  "updated_at": "2026-08-25 20:15",
   "items": [
+    {
+      "id": "m3d7w9",
+      "title": "Can Silver Break $70 While Mine Supply Remains Slow to Respond?",
+      "title_vi": "Can Silver Break $70 While Mine Supply Remains Slow to Respond?",
+      "summary_vi": "Silver nears $70 as Treasury buybacks support prices, while slow mine supply and byproduct economics strengthen the contrarian case.",
+      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a8d8ab730a9d6335846cea3_Silver%20Ring.png",
+      "link": "https://www.cruxinvestor.com/posts/can-silver-break-70-while-mine-supply-remains-slow-to-respond",
+      "source": "Crux Investor",
+      "category": "metal",
+      "published": "2026-08-25 19:40"
+    },
     {
       "id": "17ip2dt",
       "title": "Equinor Eyes Major Oil Discovery Offshore Namibia",
@@ -77,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-25 15:30"
+    },
+    {
+      "id": "1jbrig6",
+      "title": "Why New Copper Supply Failed to Prevent a Global Output Decline",
+      "title_vi": "Why New Copper Supply Failed to Prevent a Global Output Decline",
+      "summary_vi": "Copper mine output fell 1.1% despite 3.8% capacity growth, increasing reliance on permitted projects, discoveries, and infrastructure-backed restarts.",
+      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a8c4f4518f17b68ceb17492_Copper%20Strips.png",
+      "link": "https://www.cruxinvestor.com/posts/why-new-copper-supply-failed-to-prevent-a-global-output-decline",
+      "source": "Crux Investor",
+      "category": "metal",
+      "published": "2026-08-25 15:10"
     },
     {
       "id": "xed3lb",
@@ -528,28 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-08-24 06:18"
-    },
-    {
-      "id": "thhpos",
-      "title": "Silver Price Forecast 2026 - What Drives Silver",
-      "title_vi": "Silver Price Forecast 2026 - What Drives Silver",
-      "summary_vi": "No one can promise a silver price forecast for 2026. Learn the forces that really move silver so you can judge any call, plus the free Market Briefs.",
-      "image": "https://www.briefs.co/wp-content/uploads/2026/08/silver-price-forecast-2026.png",
-      "link": "https://www.briefs.co/silver-price-forecast-2026/",
-      "source": "Briefs Finance",
-      "category": "metal",
-      "published": "2026-08-24 04:13"
-    },
-    {
-      "id": "lc2lo4",
-      "title": "India's Sugar Import Shock Fuels Global Price Surge",
-      "title_vi": "India's Sugar Import Shock Fuels Global Price Surge",
-      "summary_vi": "India allowed duty-free raw sugar imports up to one million tons, sending New York futures toward biggest weekly gain since May 2025.",
-      "image": "https://www.briefs.co/wp-content/uploads/2026/08/india-s-sugar-import-shock-fuels-global-price-surge.png",
-      "link": "https://www.briefs.co/news/india-s-sugar-import-shock-fuels-global-price-surge/",
-      "source": "Briefs Finance",
-      "category": "soft",
-      "published": "2026-08-24 03:03"
     }
   ]
 }

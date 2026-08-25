@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25 08:01",
+  "updated_at": "2026-08-25 08:56",
   "items": [
     {
       "id": "8wzttb",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-08-25 07:00"
+    },
+    {
+      "id": "1b77mag",
+      "title": "Separating The Wheat From The Chaff Not So Easy",
+      "title_vi": "Separating The Wheat From The Chaff Not So Easy",
+      "summary_vi": "Your best source for quality Oakland Athletics news, rumors, analysis, stats and scores from the fan perspective.",
+      "image": "https://platform.athleticsnation.com/wp-content/uploads/sites/14/2026/08/gettyimages-2289526583.jpg?quality=90&strip=all&crop=0%2C1.1227459954456%2C100%2C39.261819595161&w=1200",
+      "link": "https://www.athleticsnation.com/athletics-analysis/108756/separating-the-wheat-from-the-chaff-not-so-easy",
+      "source": "Athletics Nation",
+      "category": "agri",
+      "published": "2026-08-25 06:42"
     },
     {
       "id": "11y4pqd",
@@ -539,17 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-08-22 06:04"
-    },
-    {
-      "id": "v54bff",
-      "title": "US and Canada Race to Beat Tariff Deadline With Metals a Focus",
-      "title_vi": "Hoa Kỳ và Canada chạy đua để vượt qua thời hạn thuế quan với trọng tâm là kim loại",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-21/us-and-canada-race-to-beat-tariff-deadline-with-metals-a-focus",
-      "source": "Bloomberg",
-      "category": "metal",
-      "published": "2026-08-22 04:57"
     }
   ]
 }

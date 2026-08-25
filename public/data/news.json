@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25 16:55",
+  "updated_at": "2026-08-25 17:18",
   "items": [
     {
       "id": "1akhfek",
@@ -88,6 +88,17 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-08-25 11:22"
+    },
+    {
+      "id": "1fjosfs",
+      "title": "After 6 months of war, why aren't oil prices even higher?",
+      "title_vi": "After 6 months of war, why aren't oil prices even higher?",
+      "summary_vi": "Markets analyst Rory Johnston spoke with RS about why worst case predictions about crude markets have yet to materialize",
+      "image": "https://responsiblestatecraft.org/media-library/an-illustration-showing-the-prices-of-various-commodities-including-brent-crude-oil-and-natural-gas.jpg?id=67670093&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
+      "link": "https://responsiblestatecraft.org/iran-war-oil-prices/",
+      "source": "Responsible Statecraft",
+      "category": "energy",
+      "published": "2026-08-25 11:07"
     },
     {
       "id": "zvr20v",
@@ -539,17 +550,6 @@
       "source": "The Indian Express",
       "category": "soft",
       "published": "2026-08-23 16:37"
-    },
-    {
-      "id": "1eq9tkn",
-      "title": "The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats",
-      "title_vi": "Vựa lúa mì của thế giới đang bị ảnh hưởng bởi chiến tranh, thời tiết và xung đột thương mại",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html",
-      "source": "The New York Times",
-      "category": "agri",
-      "published": "2026-08-23 16:01"
     }
   ]
 }

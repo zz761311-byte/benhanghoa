@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25 11:04",
+  "updated_at": "2026-08-25 11:58",
   "items": [
     {
       "id": "1ou4jq9",
@@ -57,6 +57,17 @@
       "published": "2026-08-25 06:00"
     },
     {
+      "id": "1pu8irf",
+      "title": "Trump Slaps 50% Tariff on Select Canadian Goods, Threatens More",
+      "title_vi": "Trump Slaps 50% Tariff on Select Canadian Goods, Threatens More",
+      "summary_vi": "The Trump administration imposed 50% tariffs on about $20 billion worth of Canadian products on Saturday following the collapse of trade talks betw",
+      "image": "",
+      "link": "https://www.thefiscaltimes.com/2026/08/24/Trump-Slaps-50-Tariff-Select-Canadian-Goods-Threatens-More",
+      "source": "The Fiscal Times",
+      "category": "macro",
+      "published": "2026-08-25 05:37"
+    },
+    {
       "id": "t5w08s",
       "title": "XAGUSD Price Analysis Shows Silver Testing $70 Resistance and $71 Target",
       "title_vi": "XAGUSD Price Analysis Shows Silver Testing $70 Resistance and $71 Target",
@@ -110,6 +121,17 @@
       "source": "Mexico Business News",
       "category": "soft",
       "published": "2026-08-25 02:48"
+    },
+    {
+      "id": "1iiktd0",
+      "title": "Don’t Overlook Silver’s Potential Amid the New Gold Rally",
+      "title_vi": "Don’t Overlook Silver’s Potential Amid the New Gold Rally",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.etftrends.com/gold-silver-investing-content-hub/dont-overlook-silvers-potential-amid-new-gold-rally/",
+      "source": "ETF Trends",
+      "category": "metal",
+      "published": "2026-08-25 02:36"
     },
     {
       "id": "1f5ppus",
@@ -286,17 +308,6 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-08-24 17:15"
-    },
-    {
-      "id": "j9i7bp",
-      "title": "Gold climbs to more than three-month high as markets await US inflation data",
-      "title_vi": "Vàng lên cao nhất hơn 3 tháng khi thị trường chờ đợi dữ liệu lạm phát của Mỹ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://sg.finance.yahoo.com/news/gold-hits-over-3-month-065846742.html",
-      "source": "Yahoo Finance Singapore",
-      "category": "metal",
-      "published": "2026-08-24 16:09"
     },
     {
       "id": "gn02o6",
@@ -539,17 +550,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-08-22 10:52"
-    },
-    {
-      "id": "7xthb",
-      "title": "What's behind rising sugar prices in India? Government breaks silence, says 'ethanol...'",
-      "title_vi": "What's behind rising sugar prices in India? Government breaks silence, says 'ethanol...'",
-      "summary_vi": "Sugar prices have jumped sharply ahead of the festive season, triggering a political row over ethanol. Now the Centre has rejected the E20 link and pointed to a mix of domestic crop losses, global shortages and possible hoarding.",
-      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260822/image-1787370432792.png?imwidth=1200&imheight=900",
-      "link": "https://www.wionews.com/india-news/what-s-behind-rising-sugar-prices-in-india-government-breaks-silence-says-ethano-not-to-blamel-1787370008114",
-      "source": "WION",
-      "category": "soft",
-      "published": "2026-08-22 10:48"
     }
   ]
 }

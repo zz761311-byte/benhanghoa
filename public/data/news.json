@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-26 18:17",
+  "updated_at": "2026-08-26 18:49",
   "items": [
+    {
+      "id": "185cb5s",
+      "title": "Hochschild Mining Shares Jump After Earnings Soar on Higher Gold, Silver Prices",
+      "title_vi": "Hochschild Mining Shares Jump After Earnings Soar on Higher Gold, Silver Prices",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/earnings/hochschild-mining-shares-jump-after-earnings-soar-on-higher-gold-silver-prices-a328e5a5",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-08-26 18:38"
+    },
     {
       "id": "10ocbie",
       "title": "Qatar Loses $24 Billion as LNG Exports Collapse 96%",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-08-25 11:22"
-    },
-    {
-      "id": "1fjosfs",
-      "title": "After 6 months of war, why aren't oil prices even higher?",
-      "title_vi": "After 6 months of war, why aren't oil prices even higher?",
-      "summary_vi": "Markets analyst Rory Johnston spoke with RS about why worst case predictions about crude markets have yet to materialize",
-      "image": "https://responsiblestatecraft.org/media-library/an-illustration-showing-the-prices-of-various-commodities-including-brent-crude-oil-and-natural-gas.jpg?id=67670093&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
-      "link": "https://responsiblestatecraft.org/iran-war-oil-prices/",
-      "source": "Responsible Statecraft",
-      "category": "energy",
-      "published": "2026-08-25 11:07"
     }
   ]
 }

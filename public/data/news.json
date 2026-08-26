@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-26 11:25",
+  "updated_at": "2026-08-26 12:00",
   "items": [
+    {
+      "id": "19pfeaf",
+      "title": "Copper Climbs From Record-High Close With Supply Still Tight",
+      "title_vi": "Copper Climbs From Record-High Close With Supply Still Tight",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-26/copper-climbs-from-record-high-close-with-supply-still-tight",
+      "source": "Bloomberg",
+      "category": "metal",
+      "published": "2026-08-26 10:06"
+    },
     {
       "id": "ddw5kt",
       "title": "Big Oil Is Betting Billions On Nuclear Fusion",
@@ -539,17 +550,6 @@
       "source": "Mexico Business News",
       "category": "soft",
       "published": "2026-08-25 02:48"
-    },
-    {
-      "id": "107bu74",
-      "title": "Stocking, speculation behind ‘unnatural’ sugar price surge: ISMA",
-      "title_vi": "Stocking, speculation behind ‘unnatural’ sugar price surge: ISMA",
-      "summary_vi": "NEW DELHI: Sugar industry’s apex body ISMA on Monday said that there is no shortage of the sweetener while admitting that the spike in prices is “not natural” and is being fuelled by stocking by bulk consumers and “speculative behaviour”. The industry body said they want “rationalisation” of retail prices and are hopef",
-      "image": "https://static.toiimg.com/thumb/msid-133477568,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/stocking-speculation-behind-unnatural-sugar-price-surge-isma/articleshow/133477346.cms",
-      "source": "The Times of India",
-      "category": "soft",
-      "published": "2026-08-25 01:59"
     }
   ]
 }

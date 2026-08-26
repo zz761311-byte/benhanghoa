@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-26 15:03",
+  "updated_at": "2026-08-26 16:00",
   "items": [
+    {
+      "id": "1yg0fpa",
+      "title": "Japan to Unveil New Oil Diversification Strategy",
+      "title_vi": "Japan to Unveil New Oil Diversification Strategy",
+      "summary_vi": "Japan is today set to announce an energy import diversification plan that will include stipulations about support for pipelines in the Middle East aimed at diverting export oil flows away from the Strait of Hormuz. The plan also features a push to reduce the country’s reliance on",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-26_tavchrw96n.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-to-Unveil-New-Oil-Diversification-Strategy.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-26 15:30"
+    },
     {
       "id": "6672ax",
       "title": "Iran’s Tanker Blacklist Raises New Risks for Gulf Oil",
@@ -55,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-26 07:00"
+    },
+    {
+      "id": "1t8jozx",
+      "title": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
+      "title_vi": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
+      "source": "The New York Times",
+      "category": "energy",
+      "published": "2026-08-26 05:58"
     },
     {
       "id": "1o9g1ly",
@@ -134,15 +156,15 @@
       "published": "2026-08-26 02:50"
     },
     {
-      "id": "19jj4mz",
-      "title": "Satellite Images Show Seven Tankers Loading Iraqi Crude at Once",
-      "title_vi": "Satellite Images Show Seven Tankers Loading Iraqi Crude at Once",
-      "summary_vi": "Seven crude carriers were moored at Iraq’s Persian Gulf export facilities on August 24—a sharp increase from recent weeks. The carriers had a combined carrying capacity of roughly 13 million barrels, according to satellite imagery analyzed by Bloomberg. TankerTrackers.com separat",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-25_u4cqpmby32.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Satellite-Images-Show-Seven-Tankers-Loading-Iraqi-Crude-at-Once.html",
-      "source": "OilPrice",
+      "id": "ghzv72",
+      "title": "Natural Gas Price Spike Ahead? Analysts Push Back on 2028 Shortage Call as Forward Curve Holds",
+      "title_vi": "Natural Gas Price Spike Ahead? Analysts Push Back on 2028 Shortage Call as Forward Curve Holds",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/natural-gas-price-spike-ahead-analysts-push-back-on-2028-shortage-call-as-forward-curve-holds/",
+      "source": "Natural Gas Intelligence",
       "category": "energy",
-      "published": "2026-08-26 02:32"
+      "published": "2026-08-26 02:40"
     },
     {
       "id": "d8urp9",
@@ -528,28 +550,6 @@
       "source": "The Fiscal Times",
       "category": "macro",
       "published": "2026-08-25 05:37"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-08-25 05:26"
-    },
-    {
-      "id": "t5w08s",
-      "title": "XAGUSD Price Analysis Shows Silver Testing $70 Resistance and $71 Target",
-      "title_vi": "XAGUSD Price Analysis Shows Silver Testing $70 Resistance and $71 Target",
-      "summary_vi": "Silver price action has tested the $70 resistance area and appears to be heading towards the $71.16 level.",
-      "image": "https://bravenewcoin.com/wp-content/uploads/2026/08/Bnc-Aug-25-494.jpg",
-      "link": "https://bravenewcoin.com/insights/xag-usd-price-analysis-shows-silver-testing-70-resistance-and-71-target",
-      "source": "Brave New Coin",
-      "category": "metal",
-      "published": "2026-08-25 05:25"
     }
   ]
 }

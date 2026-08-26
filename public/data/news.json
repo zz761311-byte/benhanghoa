@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-27 03:11",
+  "updated_at": "2026-08-27 04:01",
   "items": [
+    {
+      "id": "10khyd",
+      "title": "Octopus Boss Warns UK Is Too Exposed to Global Gas Prices",
+      "title_vi": "Octopus Boss Warns UK Is Too Exposed to Global Gas Prices",
+      "summary_vi": "Octopus boss Greg Jackson has called on Andy Burnham to deliver “urgent reform” to the energy market to protect households from “volatile” gas prices. Jackson, founder of the UK’s biggest household electricity supplier, said: “The government’s decision to take VAT off electricity",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_p3kbumjneh.jpg",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Octopus-Boss-Warns-UK-Is-Too-Exposed-to-Global-Gas-Prices.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-27 04:00"
+    },
     {
       "id": "7890gh",
       "title": "Aramco Finds a New Way to Keep Saudi Crude Flowing to China",
@@ -55,6 +66,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-08-27 01:00"
+    },
+    {
+      "id": "k9do2g",
+      "title": "Oil and gas props up New Mexico revenue forecast, with $924M in new money",
+      "title_vi": "Oil and gas props up New Mexico revenue forecast, with $924M in new money",
+      "summary_vi": "The Iran conflict has driven up oil prices and brought a windfall to the state",
+      "image": "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/5/81/58189356-d18b-451f-9427-4b92f0a32ccf/695ed7ab9b9b2.image.jpg?crop=1688%2C886%2C0%2C170&resize=1200%2C630&order=crop%2Cresize",
+      "link": "https://www.santafenewmexican.com/news/local_news/oil-and-gas-props-up-new-mexico-revenue-forecast-with-924m-in-new-money/article_0382b7a9-135d-4962-88dd-2ce3d19a1d56.html",
+      "source": "Santa Fe New Mexican",
+      "category": "energy",
+      "published": "2026-08-27 00:38"
     },
     {
       "id": "1cs0g1c",
@@ -132,17 +154,6 @@
       "source": "NBC News",
       "category": "energy",
       "published": "2026-08-26 22:22"
-    },
-    {
-      "id": "12b9rhp",
-      "title": "U.S. Crude Stocks Barely Budge as Gasoline Inventories Fall",
-      "title_vi": "U.S. Crude Stocks Barely Budge as Gasoline Inventories Fall",
-      "summary_vi": "Crude oil inventories in the United States saw an increase of 100,000 barrels during the week ending August 21, according to new data from the U.S. Energy Information Administration (EIA) released on Wednesday. The increase brings commercial stockpiles to 428.9 million barrels, a",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_2fcq8nuxzt.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Crude-Stocks-Barely-Budge-as-Gasoline-Inventories-Fall.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-26 21:37"
     },
     {
       "id": "1qvhk53",
@@ -297,6 +308,17 @@
       "source": "Bloomberg",
       "category": "metal",
       "published": "2026-08-26 10:06"
+    },
+    {
+      "id": "12zfvf5",
+      "title": "Gold falls amid firmer dollar after PCE, GDP data muddles Fed interest rate path",
+      "title_vi": "Gold falls amid firmer dollar after PCE, GDP data muddles Fed interest rate path",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/commodities-news/gold-edges-lower-but-stays-near-3month-high-as-oil-yields-retreat-4876127",
+      "source": "Investing.com",
+      "category": "metal",
+      "published": "2026-08-26 08:26"
     },
     {
       "id": "1t8jozx",
@@ -528,28 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-08-25 22:01"
-    },
-    {
-      "id": "1u10gf1",
-      "title": "New Frontier Minerals Prospectivity Analysis Across Company's NWQ Copper Tenement Package Identifies Eldorado as High Priority for Follow-up Alongside New Frontier's Flagship Big One Deposit",
-      "title_vi": "New Frontier Minerals Prospectivity Analysis Across Company's NWQ Copper Tenement Package Identifies Eldorado as High Priority for Follow-up Alongside New Frontier's Flagship Big One Deposit",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/frontier-minerals-prospectivity-analysis-across-150000966.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-08-25 22:00"
-    },
-    {
-      "id": "1u9vd8d",
-      "title": "Canada Targets U.S. Metals, Foods, Motorcycles in Retaliatory Tariff Package",
-      "title_vi": "Canada Targets U.S. Metals, Foods, Motorcycles in Retaliatory Tariff Package",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/world/americas/canada-targets-u-s-metals-foods-motorcycles-in-retaliatory-tariff-package-f677222b",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-08-25 22:00"
     }
   ]
 }

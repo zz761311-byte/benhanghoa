@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27 03:00",
+  "updated_at": "2026-08-27 03:11",
   "items": [
     {
       "id": "7890gh",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-27 02:00"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-08-27 01:19"
     },
     {
       "id": "skddnr",
@@ -354,6 +365,17 @@
       "published": "2026-08-26 02:40"
     },
     {
+      "id": "h6zmg2",
+      "title": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
+      "title_vi": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
+      "summary_vi": "Ukraine hits Moscow&#x27;s Afipsky oil refinery and Russian-controlled Zaporizhzhia nuclear power plant",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-09T082846Z_660942604_RC26WLAKM19S_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-PUTIN-1783598211.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-08-26 02:27"
+    },
+    {
       "id": "1tkghb",
       "title": "California gas prices ‘shaping up to be the highest on record.’ What you’ll pay",
       "title_vi": "California gas prices ‘shaping up to be the highest on record.’ What you’ll pay",
@@ -528,28 +550,6 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-08-25 22:00"
-    },
-    {
-      "id": "1tzae5y",
-      "title": "Ukraine's Double-Barreled Drone Strikes Snarl Russian Oil Flows",
-      "title_vi": "Ukraine's Double-Barreled Drone Strikes Snarl Russian Oil Flows",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-25/ukraine-s-double-barreled-drone-strikes-snarl-russian-oil-flows",
-      "source": "Bloomberg.com",
-      "category": "energy",
-      "published": "2026-08-25 21:33"
-    },
-    {
-      "id": "1szscf9",
-      "title": "Blank Street Raises $105 Million, Expands to LA",
-      "title_vi": "Blank Street Raises $105 Million, Expands to LA",
-      "summary_vi": "New York-born coffee and matcha chain Blank Street has closed an approximately $105 million equity deal, including $75 million in new financing, as it begins expanding onto the West Coast....",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/08/25/blank-street-raises-105-million-expands-to-la/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-08-25 21:26"
     }
   ]
 }

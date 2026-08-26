@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 12:00",
+  "updated_at": "2026-08-26 12:19",
   "items": [
     {
       "id": "19pfeaf",
@@ -530,6 +530,17 @@
       "published": "2026-08-25 05:25"
     },
     {
+      "id": "1pdhqak",
+      "title": "Corn Hits Contract Highs, Soybeans Fall on Yield Estimates: Cattle Crash Below Long Term Support",
+      "title_vi": "Corn Hits Contract Highs, Soybeans Fall on Yield Estimates: Cattle Crash Below Long Term Support",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/corn-hits-contract-highs-soybeans-fall-yield-estimates-cattle-crash-below",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-08-25 04:57"
+    },
+    {
       "id": "171v9q7",
       "title": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran",
       "title_vi": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran",
@@ -539,17 +550,6 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-08-25 03:03"
-    },
-    {
-      "id": "15iszyp",
-      "title": "Mexico's Sugar Output Rises 11.6% Amid Surplus",
-      "title_vi": "Mexico's Sugar Output Rises 11.6% Amid Surplus",
-      "summary_vi": "Mexico’s sugar production reached 5.325Mt in the 2025-26 cycle, increasing inventories and putting pressure on domestic prices.",
-      "image": "https://mexicobusiness.news/sites/default/files/styles/crop_16_9/public/2026-08/victoria-priessnitz-IPuuhSmsFIc-unsplash.jpg?h=9eb1c85d&itok=D1YAvjJJ",
-      "link": "https://mexicobusiness.news/agribusiness/news/mexicos-sugar-output-rises-116-amid-surplus",
-      "source": "Mexico Business News",
-      "category": "soft",
-      "published": "2026-08-25 02:48"
     }
   ]
 }

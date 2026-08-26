@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-26 22:01",
+  "updated_at": "2026-08-26 23:00",
   "items": [
+    {
+      "id": "vdx8ix",
+      "title": "UK Government Takes Stake in Tungsten Mine With £71m Mine Bet",
+      "title_vi": "UK Government Takes Stake in Tungsten Mine With £71m Mine Bet",
+      "summary_vi": "The government’s National Wealth Fund is set to pump £71m into miner Tungsten West in a bid to help reopen the Hemerdon mine in Devon. The funding package combines a £36m share purchase, which will hand the government a 7.4 per cent stake in Tungsten and a seat on the board of di",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_j2t4lkyzil.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/UK-Government-Takes-Stake-in-Tungsten-Mine-With-71m-Mine-Bet.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-26 23:00"
+    },
+    {
+      "id": "1gwzx8v",
+      "title": "Oil prices tumble amid renewed optimism over the Strait of Hormuz",
+      "title_vi": "Oil prices tumble amid renewed optimism over the Strait of Hormuz",
+      "summary_vi": "Despite three straight days of falling oil prices, the cost of unleaded gas has hardly budged, compounding the pressure on consumers.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260730-strait-of-hormuz-rs-fbe127.jpg",
+      "link": "https://www.nbcnews.com/business/energy/oil-prices-inflation-trump-strait-hormuz-rcna594477",
+      "source": "NBC News",
+      "category": "energy",
+      "published": "2026-08-26 22:22"
+    },
     {
       "id": "12b9rhp",
       "title": "U.S. Crude Stocks Barely Budge as Gasoline Inventories Fall",
@@ -167,17 +189,6 @@
       "published": "2026-08-26 16:38"
     },
     {
-      "id": "1jwkpvb",
-      "title": "Hormuz Traffic Remains Depressed as Iran and Oman Weigh Temporary Corridor",
-      "title_vi": "Hormuz Traffic Remains Depressed as Iran and Oman Weigh Temporary Corridor",
-      "summary_vi": "Vessel traffic at the Strait of Hormuz remains well below recent averages as Iran and Oman discuss a temporary shipping corridor in the key chokepoint that could lead to a kind of ‘interim’ reopening. Only five commodity vessels moved in either direction in the Strait of Hormuz o",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-26_oh5azar721.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Traffic-Remains-Depressed-as-Iran-and-Oman-Weigh-Temporary-Corridor.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-08-26 16:30"
-    },
-    {
       "id": "1smsrv0",
       "title": "Sugar prices: India’s sugar squeeze threatens its biggest season for sweets",
       "title_vi": "Sugar prices: India’s sugar squeeze threatens its biggest season for sweets",
@@ -198,6 +209,17 @@
       "source": "Centre for Research on Energy and Clean Air",
       "category": "energy",
       "published": "2026-08-26 13:00"
+    },
+    {
+      "id": "hxajp2",
+      "title": "Mondelez: Quality At A Reasonable Price, Regardless Of Cocoa Noise",
+      "title_vi": "Mondelez: Quality At A Reasonable Price, Regardless Of Cocoa Noise",
+      "summary_vi": "Mondelez (MDLZ) stock remains a Buy: resilient snacks growth, emerging-market momentum, raised guidance, and attractive valuation despite cocoa costs. See more.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/520019671/image_520019671.jpg?io=getty-c-w1536",
+      "link": "https://seekingalpha.com/article/4940176-mondelez-quality-at-a-reasonable-price-regardless-of-cocoa-noise",
+      "source": "Seeking Alpha",
+      "category": "soft",
+      "published": "2026-08-26 10:15"
     },
     {
       "id": "19pfeaf",
@@ -528,28 +550,6 @@
       "source": "czapp.com",
       "category": "soft",
       "published": "2026-08-25 17:06"
-    },
-    {
-      "id": "10hist4",
-      "title": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
-      "title_vi": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/logistics-report/u-s-considers-tariff-cuts-on-metals-autos-in-canada-deal-e4ec3909",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-08-25 16:35"
-    },
-    {
-      "id": "1lpdlav",
-      "title": "United States sanctions oil trader Wellbred over Iran links",
-      "title_vi": "United States sanctions oil trader Wellbred over Iran links",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/united-states-sanctions-oil-trader-wellbred-over-iran-links-2026-08-25/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-08-25 15:55"
     }
   ]
 }

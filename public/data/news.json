@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-27 01:08",
+  "updated_at": "2026-08-27 02:00",
   "items": [
+    {
+      "id": "1c6v2el",
+      "title": "Oil Drops as Tankers Begin Moving More Gulf Crude",
+      "title_vi": "Oil Drops as Tankers Begin Moving More Gulf Crude",
+      "summary_vi": "Brent crude futures dropped for a third session as Iran and Oman advanced plans for a temporary maritime corridor through the Strait of Hormuz. Brent tumbled to $85 a barrel early Wednesday, down more than 9% for the week, while West Texas Intermediate traded around $80. Crude re",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_zqzdonejbx.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Drops-as-Tankers-Begin-Moving-More-Gulf-Crude.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-27 02:00"
+    },
     {
       "id": "skddnr",
       "title": "Why Kazakhstan’s New Political Order Matters for US Trade",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-27 00:00"
+    },
+    {
+      "id": "9rncb4",
+      "title": "Grains Extend Rally, Corn Makes 3-Year Highs, China Buys Beans",
+      "title_vi": "Grains Extend Rally, Corn Makes 3-Year Highs, China Buys Beans",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/grains-extend-rally-corn-makes-3-year-highs-china-buys-beans",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-08-26 23:40"
     },
     {
       "id": "1uwcgcl",
@@ -132,17 +154,6 @@
       "source": "BullionVault",
       "category": "metal",
       "published": "2026-08-26 21:08"
-    },
-    {
-      "id": "kvfycz",
-      "title": "CIA Director’s Surprise Moscow Trip Raises Questions Over Iran and Ukraine",
-      "title_vi": "CIA Director’s Surprise Moscow Trip Raises Questions Over Iran and Ukraine",
-      "summary_vi": "CIA Director John Ratcliffe made an unannounced visit to Moscow on August 25, US officials confirmed to RFE/RL, a rare trip that comes as Washington&#039;s efforts to end Russia&#039;s war against Ukraine have stalled and tensions over Moscow&#039;s relationship with Iran have in",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_pj1vwbyjwu.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/CIA-Directors-Surprise-Moscow-Trip-Raises-Questions-Over-Iran-and-Ukraine.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-26 21:00"
     },
     {
       "id": "xtsuwx",
@@ -319,6 +330,17 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-08-26 02:40"
+    },
+    {
+      "id": "1tkghb",
+      "title": "California gas prices ‘shaping up to be the highest on record.’ What you’ll pay",
+      "title_vi": "California gas prices ‘shaping up to be the highest on record.’ What you’ll pay",
+      "summary_vi": "Drivers across the United States could see gasoline soar above $4 per gallon on Labor Day for the first time ever.",
+      "image": "https://www.sacbee.com/public/latest-news/xqhxou/picture315749831/alternates/LANDSCAPE_1200/SAC_0274_PK_20260513_GAS.JPG",
+      "link": "https://www.sacbee.com/news/california/article317003207.html",
+      "source": "Sacramento Bee",
+      "category": "energy",
+      "published": "2026-08-26 02:27"
     },
     {
       "id": "d8urp9",
@@ -528,28 +550,6 @@
       "source": "TheStreet Pro",
       "category": "metal",
       "published": "2026-08-25 21:00"
-    },
-    {
-      "id": "1nv8r4j",
-      "title": "Gold remains a strategic hedge from underpriced inflation and policy risks - Société Générale",
-      "title_vi": "Gold remains a strategic hedge from underpriced inflation and policy risks - Société Générale",
-      "summary_vi": "(Kitco News) - Renewed investor interest is providing new support for gold above $4,600 an ounce, and according to Société Générale, the precious metal will continue to play an important role in a diversified portfolio.Gold’s ability to withstand a stronger U.S. dollar (Kitco Global Index shows how much of today&#x27;s",
-      "image": "https://image-api.prod.kitco.com/image/20374776-a9f6-462e-8d92-4b0472991f0b.jpeg?top=0.22392045454545&left=0&width=1000&height=562.55215909091&scale_width=1920&token=1b7de949d8f7c521d3b0861d6616f5c0e20584b0b3b610413604cb45eb9a79be",
-      "link": "https://www.kitco.com/news/article/2026-08-25/gold-remains-strategic-hedge-underpriced-inflation-and-policy-risks-societe",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-08-25 20:55"
-    },
-    {
-      "id": "m3d7w9",
-      "title": "Can Silver Break $70 While Mine Supply Remains Slow to Respond?",
-      "title_vi": "Can Silver Break $70 While Mine Supply Remains Slow to Respond?",
-      "summary_vi": "Silver nears $70 as Treasury buybacks support prices, while slow mine supply and byproduct economics strengthen the contrarian case.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a8d8ab730a9d6335846cea3_Silver%20Ring.png",
-      "link": "https://www.cruxinvestor.com/posts/can-silver-break-70-while-mine-supply-remains-slow-to-respond",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-08-25 19:40"
     }
   ]
 }

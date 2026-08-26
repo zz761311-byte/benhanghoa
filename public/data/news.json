@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 18:00",
+  "updated_at": "2026-08-26 18:17",
   "items": [
     {
       "id": "10ocbie",
@@ -519,6 +519,17 @@
       "published": "2026-08-25 13:57"
     },
     {
+      "id": "1lpdlav",
+      "title": "United States sanctions oil trader Wellbred over Iran links",
+      "title_vi": "United States sanctions oil trader Wellbred over Iran links",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/united-states-sanctions-oil-trader-wellbred-over-iran-links-2026-08-25/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-08-25 12:50"
+    },
+    {
       "id": "1inzn03",
       "title": "Oil steadies as investors weigh impact of latest US sanctions on Iran",
       "title_vi": "Oil steadies as investors weigh impact of latest US sanctions on Iran",
@@ -539,17 +550,6 @@
       "source": "Responsible Statecraft",
       "category": "energy",
       "published": "2026-08-25 11:07"
-    },
-    {
-      "id": "zvr20v",
-      "title": "WTI Crude Oil futures slip to 85 as Middle East tensions persist.",
-      "title_vi": "WTI Crude Oil futures slip to 85 as Middle East tensions persist.",
-      "summary_vi": "Todd Colvin of Mark IV Brokerage examines the recent pullback in WTI Crude Oil futures as prices slip to 85 a barrel to start the week. Colvin discusses the 4 percent reversal from Thursday's highs amid ongoing Middle East negotiations and headline risks regarding potential sanctions. He also highlights the continuing ",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/wti-crude-oil-futures-slip-to-85-as-middle-east-tensions-persist.jpg",
-      "link": "https://www.cmegroup.com/videos/2026/08/24/wti-crude-oil-futures-slip-to-85-as-middle-east-tensions-persist.html",
-      "source": "CME Group",
-      "category": "energy",
-      "published": "2026-08-25 10:45"
     }
   ]
 }

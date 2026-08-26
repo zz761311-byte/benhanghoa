@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 07:02",
+  "updated_at": "2026-08-26 09:02",
   "items": [
     {
       "id": "ddw5kt",
@@ -253,6 +253,17 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-08-25 22:00"
+    },
+    {
+      "id": "1tzae5y",
+      "title": "Ukraine's Double-Barreled Drone Strikes Snarl Russian Oil Flows",
+      "title_vi": "Ukraine's Double-Barreled Drone Strikes Snarl Russian Oil Flows",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-25/ukraine-s-double-barreled-drone-strikes-snarl-russian-oil-flows",
+      "source": "Bloomberg.com",
+      "category": "energy",
+      "published": "2026-08-25 21:33"
     },
     {
       "id": "1szscf9",
@@ -539,17 +550,6 @@
       "source": "NBC News",
       "category": "metal",
       "published": "2026-08-25 01:15"
-    },
-    {
-      "id": "1s4x5qr",
-      "title": "Powerful El Niño Reshapes Natural Gas Weather Risks Ahead of Winter",
-      "title_vi": "Powerful El Niño Reshapes Natural Gas Weather Risks Ahead of Winter",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/powerful-el-ni%C3%B1o-reshapes-natural-gas-weather-risks-ahead-of-winter/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-08-25 00:36"
     }
   ]
 }

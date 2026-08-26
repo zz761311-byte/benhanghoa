@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-26 17:00",
+  "updated_at": "2026-08-26 17:54",
   "items": [
+    {
+      "id": "16l1v1l",
+      "title": "Market expectations for Jackson Hole: yields under pressure",
+      "title_vi": "Market expectations for Jackson Hole: yields under pressure",
+      "summary_vi": "Kevin Warsh&#x27;s first Jackson Hole speech as Fed chair collides with steepening yields, ballooning debt supply, and record AI-linked issuance.",
+      "image": "https://rankiapro.com/en/media/2021/08/jackson-hole-outside.jpg",
+      "link": "https://rankiapro.com/en/insights/market-expectations-for-jackson-hole-yields-under-pressure/",
+      "source": "RankiaPro",
+      "category": "macro",
+      "published": "2026-08-26 16:38"
+    },
     {
       "id": "1jwkpvb",
       "title": "Hormuz Traffic Remains Depressed as Iran and Oman Weigh Temporary Corridor",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-26 14:30"
+    },
+    {
+      "id": "1smsrv0",
+      "title": "Sugar prices: India’s sugar squeeze threatens its biggest season for sweets",
+      "title_vi": "Sugar prices: India’s sugar squeeze threatens its biggest season for sweets",
+      "summary_vi": "Domestic sugar prices have jumped nearly 40%, forcing India to import 1 million tonnes of the sweetener.",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2aab/live/6e249110-a128-11f1-8c37-3f30331ac537.jpg",
+      "link": "https://www.bbc.com/news/articles/cm2r9y9eleno",
+      "source": "BBC",
+      "category": "soft",
+      "published": "2026-08-26 13:30"
     },
     {
       "id": "1b6b9x6",
@@ -242,6 +264,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-08-26 00:59"
+    },
+    {
+      "id": "1rfr4i7",
+      "title": "The US-Canada trade war could push up these prices, analysts say - ABC News",
+      "title_vi": "The US-Canada trade war could push up these prices, analysts say - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/Business/us-canada-trade-war-push-prices-analysts/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "macro",
+      "published": "2026-08-26 00:39"
     },
     {
       "id": "13d7s2q",
@@ -517,39 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-08-25 10:40"
-    },
-    {
-      "id": "1ou4jq9",
-      "title": "Platinum group metals catalyze the AI age",
-      "title_vi": "Platinum group metals catalyze the AI age",
-      "summary_vi": "PGM storyline shifts from tailpipes to hydrogen and high-tech From jewelry and fountain pens to catalytic converters and hydrogen fuel cells, platinum group metals are an assemblage of six scarce and similar elements that are solidly positioned at the intersection of precious, industrial, and critical metals. \"These me",
-      "image": "https://www.metaltechnews.com/home/cms_data/dfault/photos/stories/id/9/7/2897/s_top",
-      "link": "https://www.metaltechnews.com/story/2026/08/25/critical-minerals-alliances-2026/platinum-group-metals-catalyze-the-ai-age/2897.html",
-      "source": "Metal Tech News",
-      "category": "metal",
-      "published": "2026-08-25 08:47"
-    },
-    {
-      "id": "yz5lve",
-      "title": "US Treasury bond buy-back reinforces gold debasement trade ahead of Jackson Hole",
-      "title_vi": "US Treasury bond buy-back reinforces gold debasement trade ahead of Jackson Hole",
-      "summary_vi": "Treasury buy-backs bolster gold’s rally as investors await US Federal Reserve’s annual meeting at Jackson Hole.",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/24/21bd7220-1e17-43ca-8fd1-e49e5799570f_1194712e.jpg?itok=0tZZqUXj&v=1787562330",
-      "link": "https://www.scmp.com/business/china-business/article/3365059/us-treasury-bond-buy-back-reinforces-gold-debasement-trade-jackson-hole-meeting-looms",
-      "source": "South China Morning Post",
-      "category": "metal",
-      "published": "2026-08-25 08:00"
-    },
-    {
-      "id": "1b77mag",
-      "title": "Separating The Wheat From The Chaff Not So Easy",
-      "title_vi": "Separating The Wheat From The Chaff Not So Easy",
-      "summary_vi": "Your best source for quality Oakland Athletics news, rumors, analysis, stats and scores from the fan perspective.",
-      "image": "https://platform.athleticsnation.com/wp-content/uploads/sites/14/2026/08/gettyimages-2289526583.jpg?quality=90&strip=all&crop=0%2C1.1227459954456%2C100%2C39.261819595161&w=1200",
-      "link": "https://www.athleticsnation.com/athletics-analysis/108756/separating-the-wheat-from-the-chaff-not-so-easy",
-      "source": "Athletics Nation",
-      "category": "agri",
-      "published": "2026-08-25 06:42"
     }
   ]
 }

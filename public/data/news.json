@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 20:00",
+  "updated_at": "2026-08-26 20:27",
   "items": [
     {
       "id": "xtsuwx",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-26 19:30"
+    },
+    {
+      "id": "5qk6vl",
+      "title": "Florida-Grown Coffee Gets Its First Serious Field Test",
+      "title_vi": "Florida-Grown Coffee Gets Its First Serious Field Test",
+      "summary_vi": "A new study from University of Florida researchers floats the idea that Florida-grown coffee could someday become a viable specialty crop. The study, titled “First assessment of agronomical performance of...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/08/26/florida-grown-coffee-gets-its-first-serious-field-test/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-08-26 19:26"
     },
     {
       "id": "185cb5s",
@@ -539,17 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-08-25 14:38"
-    },
-    {
-      "id": "1a4f8dj",
-      "title": "Cocoa price drop \"saves\" profits; Suan Zong's Q2 net profit surges more than fourfold",
-      "title_vi": "Cocoa price drop \"saves\" profits; Suan Zong's Q2 net profit surges more than fourfold",
-      "summary_vi": "(Kuala Lumpur, 25th) As cocoa prices retreated, Suan Zong Group... $GCB (5102.MY)$ ...recorded a rare contrast in the second quarter: revenue halved while net profit soared. For the second quarter ended June 30, 2026, the company's revenue plummeted 53.6% year-on-year to RM1.803668 billion. However, net profit skyrocke",
-      "image": "https://sgsnsimg.moomoo.com/sns_client_feed/103267505/20260825/web-1787641049397-khop0upTqo.jpeg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
-      "link": "https://www.moomoo.com/community/feed/cocoa-price-declines-rescue-profits-with-genzo-s-net-profit-117154844835846",
-      "source": "Moomoo",
-      "category": "soft",
-      "published": "2026-08-25 13:57"
     }
   ]
 }

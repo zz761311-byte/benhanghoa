@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-28 05:00",
+  "updated_at": "2026-08-28 06:00",
   "items": [
+    {
+      "id": "1bzc2pr",
+      "title": "East Africa’s Oil Rivalry Spurs Multi-Billion-Dollar Projects Across The Region",
+      "title_vi": "Sự cạnh tranh dầu mỏ của Đông Phi thúc đẩy các dự án trị giá hàng tỷ đô la trên toàn khu vực",
+      "summary_vi": "Tháng trước, chúng tôi đã đưa tin rằng tỷ phú Nigeria và người giàu nhất châu Phi, Aliko Dangote, đã đồng ý xây dựng một nhà máy lọc dầu trị giá 17 tỷ USD (2,2 nghìn tỷ Ksh), công suất 700.000 thùng mỗi ngày trên đảo Lamu của Kenya để xử lý dầu thô không chỉ cho Kenya mà còn cho các nước láng giềng như Uganda.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-27_gobc2sqzgs.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/East-Africas-Oil-Rivalry-Spurs-Multi-Billion-Dollar-Projects-Across-The-Region.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-28 06:00"
+    },
     {
       "id": "dn1t0a",
       "title": "DoE Begins Tests for Fracked Geothermal",
@@ -33,6 +44,17 @@
       "source": "Barron's",
       "category": "soft",
       "published": "2026-08-28 03:39"
+    },
+    {
+      "id": "16mfymc",
+      "title": "Copper futures slip amid supply disruptions and tariff uncertainty.",
+      "title_vi": "Giá đồng kỳ hạn trượt dốc trong bối cảnh nguồn cung bị gián đoạn và thuế quan không chắc chắn.",
+      "summary_vi": "Giá đồng kỳ hạn được giao dịch thấp hơn vào thứ Năm, duy trì trong phạm vi hợp nhất giữa 6,5165 USD và 6,7690 USD được thiết lập kể từ mức cao nhất ngày 21 tháng 7. Triển vọng nguồn cung đồng bị thắt chặt trong tuần này sau những cảnh báo rằng lũ lụt ở Cộng hòa Dân chủ Congo có thể làm giảm sản lượng của Zijin Mining khoảng 57.000 tấn trong năm nay. TÔI",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/copper-futures-slip-amid-supply-disruptions-and-tariff-uncertain.jpg",
+      "link": "https://www.cmegroup.com/videos/2026/08/27/copper-futures-slip-amid-supply-disruptions-and-tariff-uncertain.html",
+      "source": "CME Group",
+      "category": "metal",
+      "published": "2026-08-28 03:30"
     },
     {
       "id": "bia7p7",
@@ -90,17 +112,6 @@
       "published": "2026-08-28 00:30"
     },
     {
-      "id": "du2a5w",
-      "title": "Venezuela’s Oil Revival Gains Momentum",
-      "title_vi": "Sự hồi sinh dầu mỏ của Venezuela có được động lực",
-      "summary_vi": "Kế hoạch của Hoa Kỳ nhằm khôi phục ngành dầu mỏ của Venezuela đang tiến triển với tốc độ chóng mặt. Nhưng có vẻ như các kế hoạch cuối cùng cũng đã thành hiện thực khi hai công ty khác nhau của Mỹ – SLB và Hunt Oil – công bố các thỏa thuận với công ty dầu mỏ nhà nước Venezuela PDVSA vào tuần trước. báo cáo",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_d9koyl2zen.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Revival-Gains-Momentum.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-28 00:00"
-    },
-    {
       "id": "1d2wqqk",
       "title": "Mokas Continues Kansas City-Area Expansion with 9-Unit Deal",
       "title_vi": "Mokas tiếp tục mở rộng khu vực thành phố Kansas với ưu đãi 9 căn",
@@ -110,6 +121,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-27 23:38"
+    },
+    {
+      "id": "m164bq",
+      "title": "Gas Prices Remain High as August Will Likely Set New Record",
+      "title_vi": "Giá xăng vẫn ở mức cao vì tháng 8 có thể sẽ lập kỷ lục mới",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://gasprices.aaa.com/gas-prices-remain-high-as-august-will-likely-set-new-record/",
+      "source": "AAA Gas Prices",
+      "category": "energy",
+      "published": "2026-08-27 22:26"
     },
     {
       "id": "cqn005",
@@ -528,28 +550,6 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-08-26 05:58"
-    },
-    {
-      "id": "1o9g1ly",
-      "title": "Platinum Climbs Toward $1,900 as a Fourth Straight Supply Deficit Looms",
-      "title_vi": "Bạch kim tăng lên mức 1.900 USD khi thâm hụt nguồn cung lần thứ tư liên tiếp xuất hiện",
-      "summary_vi": "Bạch kim đạt mức cao nhất trong 11 tuần gần 1.900 USD/oz khi WPIC dự báo mức thâm hụt 297.000 ounce thứ tư liên tiếp do thiếu hụt nguồn cung ở Nam Phi.",
-      "image": "https://startupfortune.com/wp-content/uploads/2026/08/sf-19293-1787698000380.jpg",
-      "link": "https://startupfortune.com/platinum-climbs-toward-1900-as-a-fourth-straight-supply-deficit-looms/",
-      "source": "Startup Fortune",
-      "category": "metal",
-      "published": "2026-08-26 05:46"
-    },
-    {
-      "id": "i7u6b0",
-      "title": "The Coke Zero Sugar 400 at Daytona International Speedway Outlook and Picks",
-      "title_vi": "Coke Zero Sugar 400 tại Triển vọng và Lựa chọn Đường đua Quốc tế Daytona",
-      "summary_vi": "Giải NASCAR Cup Series (NCS) hướng đến Đường đua Quốc tế Daytona để tranh giải Coke Zero Sugar 400 vào tối Thứ Bảy lúc 7:30 tối. ET trên NBC.",
-      "image": "https://speedwaymedia.com/wp-content/uploads/2026/08/OpenAI-Playground-2026-08-24-at-13.15.35-355x200.png",
-      "link": "https://speedwaymedia.com/2026/08/25/the-coke-zero-sugar-400-at-daytona-international-speedway-outlook-and-picks/",
-      "source": "SpeedwayMedia.com",
-      "category": "soft",
-      "published": "2026-08-26 04:44"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-27 23:34",
+  "updated_at": "2026-08-28 00:00",
   "items": [
+    {
+      "id": "du2a5w",
+      "title": "Venezuela’s Oil Revival Gains Momentum",
+      "title_vi": "Sự hồi sinh dầu mỏ của Venezuela có được động lực",
+      "summary_vi": "Kế hoạch của Hoa Kỳ nhằm khôi phục ngành dầu mỏ của Venezuela đang tiến triển với tốc độ chóng mặt. Nhưng có vẻ như các kế hoạch cuối cùng cũng đã thành hiện thực khi hai công ty khác nhau của Mỹ – SLB và Hunt Oil – công bố các thỏa thuận với công ty dầu mỏ nhà nước Venezuela PDVSA vào tuần trước. báo cáo",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_d9koyl2zen.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Revival-Gains-Momentum.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-28 00:00"
+    },
     {
       "id": "1hlim8y",
       "title": "45 Power Plants in India Running on Critically Low Levels of Coal Stocks",
@@ -9,7 +20,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-27_jwxaoh3b1r.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/45-Power-Plants-in-India-Running-on-Critically-Low-Levels-of-Coal-Stocks.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-08-27 23:30"
     },
     {
@@ -101,17 +112,6 @@
       "published": "2026-08-27 20:30"
     },
     {
-      "id": "1hsvf9b",
-      "title": "Weak Asian Oil Imports Challenge Claims of Surge in Hormuz Transits",
-      "title_vi": "Nhập khẩu dầu yếu của Châu Á thách thức những tuyên bố về sự gia tăng các chuyến vận chuyển Hormuz",
-      "summary_vi": "Châu Á dự kiến ​​​​sẽ chào đón khối lượng dầu thô trong tháng này gần như tương đương với tháng 7, với lượng nhập khẩu vẫn còn yếu này không báo hiệu sự gia tăng số lượng tàu chở dầu qua eo biển Hormuz như Chính quyền Hoa Kỳ tuyên bố. Châu Á, thị trường dầu mỏ lớn nhất và giá trị nhất",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-27_ge0jy3zv5k.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Weak-Asian-Oil-Imports-Challenge-Claims-of-Surge-in-Hormuz-Transits.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-27 19:15"
-    },
-    {
       "id": "1t4gewa",
       "title": "JM Smucker remains “prudent” on coffee outlook",
       "title_vi": "JM Smucker vẫn “thận trọng” về triển vọng cà phê",
@@ -178,6 +178,17 @@
       "published": "2026-08-27 12:14"
     },
     {
+      "id": "w2lbsw",
+      "title": "Gold edges higher as investors await Fed's Warsh speech for policy outlook",
+      "title_vi": "Vàng tăng cao hơn khi các nhà đầu tư chờ đợi bài phát biểu Warsh của Fed về triển vọng chính sách",
+      "summary_vi": "Vàng tăng nhẹ vào thứ Năm khi cái gọi là lo ngại về tranh chấp tiền tệ kéo dài, trong khi trọng tâm chuyển sang những nhận xét rất được mong đợi từ Warsh của Fed trong tuần này.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108083456-1736319642362-2017-07-23T095451Z_1353278448_RC1E81C2F780_RTRMADP_3_SINGAPORE-GOLD.JPG?v=1787800073&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/27/gold-drifts-higher-eyes-on-fed-chair-warshs-comments.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-08-27 10:23"
+    },
+    {
       "id": "10hist4",
       "title": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
       "title_vi": "Hoa Kỳ xem xét cắt giảm thuế đối với kim loại, ô tô trong thỏa thuận Canada",
@@ -187,17 +198,6 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-08-27 10:05"
-    },
-    {
-      "id": "yos15x",
-      "title": "Gold drifts higher, eyes on Fed Chair Warsh's comments",
-      "title_vi": "Vàng tăng cao hơn, chú ý đến bình luận của Chủ tịch Fed Warsh",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-drifts-higher-eyes-fed-chair-warshs-comments-2026-08-27/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-08-27 10:02"
     },
     {
       "id": "17p99tg",

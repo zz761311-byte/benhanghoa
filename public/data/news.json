@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27 12:11",
+  "updated_at": "2026-08-27 13:01",
   "items": [
     {
       "id": "10hist4",
@@ -121,6 +121,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-27 02:00"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-08-27 01:57"
     },
     {
       "id": "1lrkwix",
@@ -539,17 +550,6 @@
       "source": "Grain Journal",
       "category": "agri",
       "published": "2026-08-25 23:01"
-    },
-    {
-      "id": "yv8fh4",
-      "title": "Coffee with a Cop to be held at Lessie B. Price center",
-      "title_vi": "Cà phê với cảnh sát sẽ được tổ chức tại Lessie B. Trung tâm giá cả",
-      "summary_vi": "AIKEN - Công chúng được mời uống một tách cà phê với các thành viên của Bộ An toàn Công cộng Aiken và tham gia cuộc trò chuyện.",
-      "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/cd/dcda3da3-3a51-45f0-8279-9441fe6e1e96/651dc3eacb61d.image.jpg?crop=1762%2C926%2C0%2C124&resize=1200%2C631&order=crop%2Cresize",
-      "link": "https://www.postandcourier.com/aikenstandard/news/local/coffee-with-a-cop-city-2026/article_232033b8-45be-4819-aaba-bbd2f9cbedae.html",
-      "source": "Post and Courier",
-      "category": "soft",
-      "published": "2026-08-25 22:47"
     }
   ]
 }

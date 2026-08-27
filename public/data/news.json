@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-08-27 12:08",
+  "updated_at": "2026-08-27 12:11",
   "items": [
+    {
+      "id": "10hist4",
+      "title": "U.S. Considers Tariff Cuts on Metals, Autos in Canada Deal",
+      "title_vi": "Hoa Kỳ xem xét cắt giảm thuế đối với kim loại, ô tô trong thỏa thuận Canada",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/logistics-report/u-s-considers-tariff-cuts-on-metals-autos-in-canada-deal-e4ec3909",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-08-27 10:05"
+    },
     {
       "id": "yos15x",
       "title": "Gold drifts higher, eyes on Fed Chair Warsh's comments",
-      "title_vi": "Gold drifts higher, eyes on Fed Chair Warsh's comments",
+      "title_vi": "Vàng tăng cao hơn, chú ý đến bình luận của Chủ tịch Fed Warsh",
       "summary_vi": "",
       "image": "",
       "link": "https://www.reuters.com/world/india/gold-drifts-higher-eyes-fed-chair-warshs-comments-2026-08-27/",
@@ -15,8 +26,8 @@
     {
       "id": "771910",
       "title": "Global Oil Security Looks Shakier as Conflicts Hit 45 Million Bpd of Supply",
-      "title_vi": "Global Oil Security Looks Shakier as Conflicts Hit 45 Million Bpd of Supply",
-      "summary_vi": "Almost half of the world’s oil supply is produced in regions currently engaged in hot conflicts, Reuters reported this week. The situation raises questions about long-term oil supply security and the limits to diversification. The Middle East, of course, is the most obvious and m",
+      "title_vi": "An ninh dầu mỏ toàn cầu có vẻ lung lay hơn khi xung đột chạm tới nguồn cung 45 triệu thùng/ngày",
+      "summary_vi": "Reuters đưa tin trong tuần này rằng gần một nửa nguồn cung dầu của thế giới được sản xuất tại các khu vực hiện đang xảy ra xung đột nóng. Tình hình này đặt ra câu hỏi về an ninh nguồn cung dầu dài hạn và các giới hạn của việc đa dạng hóa. Tất nhiên, Trung Đông là nơi rõ ràng nhất và",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_ivu0aop5dw.jpg",
       "link": "https://oilprice.com/Energy/Energy-General/Global-Oil-Security-Looks-Shakier-as-Conflicts-Hit-45-Million-Bpd-of-Supply.html",
       "source": "OilPrice",
@@ -26,8 +37,8 @@
     {
       "id": "1weofp4",
       "title": "MIT Uses AI to Challenge a Century-Old Process for Mass Ammonia Production",
-      "title_vi": "MIT Uses AI to Challenge a Century-Old Process for Mass Ammonia Production",
-      "summary_vi": "Ammonia production consumes as much as 2% of the world&#039;s energy and generates roughly 1.5% of global greenhouse gas emissions, largely because the industry still relies on a century-old process powered by fossil fuels. Roughly 80% of the 200 million metric tons of ammonia pr",
+      "title_vi": "MIT sử dụng AI để thách thức quy trình sản xuất amoniac hàng thế kỷ",
+      "summary_vi": "Sản xuất amoniac tiêu thụ tới 2% năng lượng của thế giới và tạo ra khoảng 1,5% lượng khí thải nhà kính toàn cầu, phần lớn là do ngành công nghiệp này vẫn dựa vào quy trình hàng thế kỷ chạy bằng nhiên liệu hóa thạch. Khoảng 80% trong số 200 triệu tấn amoniac được sản xuất",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_bztazpwcs6.jpg",
       "link": "https://oilprice.com/Energy/Energy-General/MIT-Uses-AI-to-Challenge-a-Century-Old-Process-for-Mass-Ammonia-Production.html",
       "source": "OilPrice",
@@ -37,8 +48,8 @@
     {
       "id": "bl4q2g",
       "title": "Equinor Targets 27% International Production Growth by 2030",
-      "title_vi": "Equinor Targets 27% International Production Growth by 2030",
-      "summary_vi": "Alongside boosting exploration and production offshore its home market Norway, Equinor is pursuing an international growth strategy, aiming to significantly increase its overseas oil and gas output by focusing on fewer but more lucrative regions such as the U.S., Brazil, and Ango",
+      "title_vi": "Equinor đặt mục tiêu tăng trưởng sản xuất quốc tế 27% vào năm 2030",
+      "summary_vi": "Bên cạnh việc thúc đẩy hoạt động thăm dò và sản xuất ngoài khơi thị trường quê nhà Na Uy, Equinor đang theo đuổi chiến lược tăng trưởng quốc tế, nhằm tăng đáng kể sản lượng dầu và khí đốt ở nước ngoài bằng cách tập trung vào ít khu vực hơn nhưng sinh lợi nhiều hơn như Mỹ, Brazil và Ango.",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_1lracqfj4x.jpg",
       "link": "https://oilprice.com/Energy/Energy-General/Equinor-Targets-27-International-Production-Growth-by-2030.html",
       "source": "OilPrice",
@@ -48,8 +59,8 @@
     {
       "id": "10khyd",
       "title": "Octopus Boss Warns UK Is Too Exposed to Global Gas Prices",
-      "title_vi": "Octopus Boss Warns UK Is Too Exposed to Global Gas Prices",
-      "summary_vi": "Octopus boss Greg Jackson has called on Andy Burnham to deliver “urgent reform” to the energy market to protect households from “volatile” gas prices. Jackson, founder of the UK’s biggest household electricity supplier, said: “The government’s decision to take VAT off electricity",
+      "title_vi": "Ông chủ Octopus cảnh báo Vương quốc Anh quá dễ bị ảnh hưởng bởi giá khí đốt toàn cầu",
+      "summary_vi": "Ông chủ của Octopus, Greg Jackson, đã kêu gọi Andy Burnham thực hiện “cải cách khẩn cấp” đối với thị trường năng lượng để bảo vệ các hộ gia đình khỏi giá xăng “biến động”. Jackson, người sáng lập nhà cung cấp điện gia dụng lớn nhất Vương quốc Anh, cho biết: “Quyết định của chính phủ về việc giảm thuế VAT đối với điện",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_p3kbumjneh.jpg",
       "link": "https://oilprice.com/Energy/Natural-Gas/Octopus-Boss-Warns-UK-Is-Too-Exposed-to-Global-Gas-Prices.html",
       "source": "OilPrice",
@@ -59,7 +70,7 @@
     {
       "id": "16g479w",
       "title": "Gold Holds Five-Day Gain as Oil Drop Eases Inflation Concerns",
-      "title_vi": "Gold Holds Five-Day Gain as Oil Drop Eases Inflation Concerns",
+      "title_vi": "Vàng giữ mức tăng trong 5 ngày khi giá dầu giảm làm giảm bớt lo ngại về lạm phát",
       "summary_vi": "",
       "image": "",
       "link": "https://www.bloomberg.com/news/articles/2026-08-25/gold-holds-five-day-gain-as-oil-drop-eases-inflation-concerns",
@@ -70,8 +81,8 @@
     {
       "id": "7890gh",
       "title": "Aramco Finds a New Way to Keep Saudi Crude Flowing to China",
-      "title_vi": "Aramco Finds a New Way to Keep Saudi Crude Flowing to China",
-      "summary_vi": "Saudi Arabia is not waiting for the Strait of Hormuz to return to normal to deliver its crude to Asia. It is building a workaround, one tanker handoff at a time. Saudi Aramco is offering more September crude to Asian buyers through ship-to-ship transfers outside Hormuz, according",
+      "title_vi": "Aramco tìm ra cách mới để giữ dầu thô của Saudi chảy sang Trung Quốc",
+      "summary_vi": "Ả Rập Saudi không đợi eo biển Hormuz trở lại bình thường để vận chuyển dầu thô sang châu Á. Nó đang xây dựng một giải pháp thay thế, chuyển giao từng tàu chở dầu tại một thời điểm. Saudi Aramco đang cung cấp thêm dầu thô tháng 9 cho người mua châu Á thông qua vận chuyển tàu sang tàu bên ngoài Hormuz, theo",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_vckneapdpf.jpg",
       "link": "https://oilprice.com/Energy/Crude-Oil/Aramco-Finds-a-New-Way-to-Keep-Saudi-Crude-Flowing-to-China.html",
       "source": "OilPrice",
@@ -81,8 +92,8 @@
     {
       "id": "a5ilh5",
       "title": "CNOOC Posts Record Profit as China Pumps More Oil at Home",
-      "title_vi": "CNOOC Posts Record Profit as China Pumps More Oil at Home",
-      "summary_vi": "China’s push to squeeze more oil and gas from home is paying off just as imported energy becomes more geopolitically complicated. CNOOC posted record first-half profit and production on Wednesday, helped by higher oil prices following the Iran war and continued growth from its of",
+      "title_vi": "CNOOC Post ghi nhận lợi nhuận khi Trung Quốc bơm thêm dầu vào nội địa",
+      "summary_vi": "Nỗ lực khai thác thêm dầu và khí đốt từ trong nước của Trung Quốc đang mang lại kết quả ngay khi năng lượng nhập khẩu ngày càng trở nên phức tạp về mặt địa chính trị. CNOOC đã công bố lợi nhuận và sản lượng nửa đầu năm kỷ lục vào thứ Tư, được hỗ trợ bởi giá dầu cao hơn sau cuộc chiến tranh Iran và tiếp tục tăng trưởng từ mức",
       "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/CNOOC-Posts-Record-Profit-as-China-Pumps-More-Oil-at-Home.html",
       "source": "OilPrice",
@@ -92,7 +103,7 @@
     {
       "id": "1lqy0yi",
       "title": "Ohio corn growers push for answers on fertilizer prices – Ohio Ag Net",
-      "title_vi": "Ohio corn growers push for answers on fertilizer prices – Ohio Ag Net",
+      "title_vi": "Người trồng ngô ở Ohio thúc đẩy câu trả lời về giá phân bón - Ohio Ag Net",
       "summary_vi": "",
       "image": "",
       "link": "https://ocj.com/2026/08/ohio-corn-growers-push-for-answers-on-fertilizer-prices/",
@@ -103,8 +114,8 @@
     {
       "id": "1c6v2el",
       "title": "Oil Drops as Tankers Begin Moving More Gulf Crude",
-      "title_vi": "Oil Drops as Tankers Begin Moving More Gulf Crude",
-      "summary_vi": "Brent crude futures dropped for a third session as Iran and Oman advanced plans for a temporary maritime corridor through the Strait of Hormuz. Brent tumbled to $85 a barrel early Wednesday, down more than 9% for the week, while West Texas Intermediate traded around $80. Crude re",
+      "title_vi": "Dầu giảm khi tàu chở dầu bắt đầu vận chuyển thêm dầu thô vùng Vịnh",
+      "summary_vi": "Giá dầu thô Brent giảm phiên thứ ba liên tiếp khi Iran và Oman xúc tiến kế hoạch xây dựng hành lang hàng hải tạm thời qua eo biển Hormuz. Dầu Brent giảm xuống 85 USD/thùng vào đầu ngày thứ Tư, giảm hơn 9% trong tuần, trong khi West Texas Middle giao dịch quanh mức 80 USD. dầu thô",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_zqzdonejbx.jpg",
       "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Drops-as-Tankers-Begin-Moving-More-Gulf-Crude.html",
       "source": "OilPrice",
@@ -114,7 +125,7 @@
     {
       "id": "1lrkwix",
       "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
       "summary_vi": "",
       "image": "",
       "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
@@ -125,8 +136,8 @@
     {
       "id": "skddnr",
       "title": "Why Kazakhstan’s New Political Order Matters for US Trade",
-      "title_vi": "Why Kazakhstan’s New Political Order Matters for US Trade",
-      "summary_vi": "Kazakhstan’s parliamentary election on August 23 marked an important step in the country’s political development, completing the formation of an updated system of government under the new constitution that took effect in July. The election also has significant implications for ef",
+      "title_vi": "Tại sao Trật tự Chính trị Mới của Kazakhstan lại quan trọng đối với Thương mại Hoa Kỳ",
+      "summary_vi": "Cuộc bầu cử quốc hội Kazakhstan ngày 23/8 đánh dấu một bước quan trọng trong sự phát triển chính trị của đất nước, hoàn thành việc hình thành hệ thống chính phủ cập nhật theo hiến pháp mới có hiệu lực từ tháng 7. Cuộc bầu cử cũng có ý nghĩa quan trọng đối với hiệu quả",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_kqen9ilylp.jpg",
       "link": "https://oilprice.com/Geopolitics/Asia/Why-Kazakhstans-New-Political-Order-Matters-for-US-Trade.html",
       "source": "OilPrice",
@@ -136,8 +147,8 @@
     {
       "id": "k9do2g",
       "title": "Oil and gas props up New Mexico revenue forecast, with $924M in new money",
-      "title_vi": "Oil and gas props up New Mexico revenue forecast, with $924M in new money",
-      "summary_vi": "The Iran conflict has driven up oil prices and brought a windfall to the state",
+      "title_vi": "Dầu khí thúc đẩy dự báo doanh thu của New Mexico, với 924 triệu USD tiền mới",
+      "summary_vi": "Cuộc xung đột ở Iran đã đẩy giá dầu lên cao và mang lại vận may cho nhà nước",
       "image": "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/5/81/58189356-d18b-451f-9427-4b92f0a32ccf/695ed7ab9b9b2.image.jpg?crop=1688%2C886%2C0%2C170&resize=1200%2C630&order=crop%2Cresize",
       "link": "https://www.santafenewmexican.com/news/local_news/oil-and-gas-props-up-new-mexico-revenue-forecast-with-924m-in-new-money/article_0382b7a9-135d-4962-88dd-2ce3d19a1d56.html",
       "source": "Santa Fe New Mexican",
@@ -147,7 +158,7 @@
     {
       "id": "9rncb4",
       "title": "Grains Extend Rally, Corn Makes 3-Year Highs, China Buys Beans",
-      "title_vi": "Grains Extend Rally, Corn Makes 3-Year Highs, China Buys Beans",
+      "title_vi": "Ngũ cốc kéo dài đà tăng, ngô đạt mức cao nhất 3 năm, Trung Quốc mua đậu",
       "summary_vi": "",
       "image": "",
       "link": "https://www.agweb.com/markets/market-analysis/grains-extend-rally-corn-makes-3-year-highs-china-buys-beans",
@@ -158,8 +169,8 @@
     {
       "id": "65hs73",
       "title": "These Copper Stocks Stay Hot As Metal Hits Record High",
-      "title_vi": "These Copper Stocks Stay Hot As Metal Hits Record High",
-      "summary_vi": "Copper prices are trading near record highs, and around the world, various sources of copper are strained. Multiple copper stocks rose past buy points.",
+      "title_vi": "Những cổ phiếu đồng này vẫn nóng khi kim loại đạt mức cao kỷ lục",
+      "summary_vi": "Giá đồng đang giao dịch gần mức cao kỷ lục và trên khắp thế giới, nhiều nguồn cung cấp đồng đang bị căng thẳng. Nhiều cổ phiếu đồng đã vượt qua điểm mua.",
       "image": "https://www.investors.com/wp-content/uploads/2026/08/stock-gold-pit-adobe.jpg",
       "link": "https://www.investors.com/news/copper-miners-stocks-bhp-scco-fcx-tariffs/",
       "source": "Investor's Business Daily",
@@ -169,7 +180,7 @@
     {
       "id": "1uwcgcl",
       "title": "United States On Track For Record Natural Gas Production In 2026 – Analysis",
-      "title_vi": "United States On Track For Record Natural Gas Production In 2026 – Analysis",
+      "title_vi": "Hoa Kỳ đang trên đà đạt kỷ lục sản xuất khí đốt tự nhiên vào năm 2026 - Phân tích",
       "summary_vi": "",
       "image": "",
       "link": "https://www.eurasiareview.com/26082026-united-states-on-track-for-record-natural-gas-production-in-2026-analysis/",
@@ -180,8 +191,8 @@
     {
       "id": "1vzw0vm",
       "title": "Coffee Futures Fund Seeks Independent Cafe Owners for Second Cohort",
-      "title_vi": "Coffee Futures Fund Seeks Independent Cafe Owners for Second Cohort",
-      "summary_vi": "Coffee Futures Fund, a free mentorship program built for independent coffee shop owners, has opened applications for its second cohort, following a first year in which 10 participating shops reportedly...",
+      "title_vi": "Quỹ Tương lai Cà phê Tìm kiếm Chủ quán cà phê Độc lập cho Nhóm thuần tập thứ hai",
+      "summary_vi": "Coffee Futures Fund, một chương trình cố vấn miễn phí được xây dựng cho các chủ quán cà phê độc lập, đã mở đơn đăng ký cho nhóm thứ hai, sau năm đầu tiên có 10 cửa hàng tham gia được báo cáo...",
       "image": "",
       "link": "https://dailycoffeenews.com/2026/08/26/coffee-futures-fund-seeks-independent-cafe-owners-for-second-cohort/",
       "source": "Daily Coffee News",
@@ -191,8 +202,8 @@
     {
       "id": "1gwzx8v",
       "title": "Oil prices tumble amid renewed optimism over the Strait of Hormuz",
-      "title_vi": "Oil prices tumble amid renewed optimism over the Strait of Hormuz",
-      "summary_vi": "Despite three straight days of falling oil prices, the cost of unleaded gas has hardly budged, compounding the pressure on consumers.",
+      "title_vi": "Giá dầu sụt giảm trong bối cảnh lạc quan mới về eo biển Hormuz",
+      "summary_vi": "Bất chấp giá dầu giảm ba ngày liên tiếp, giá khí đốt không chì hầu như không tăng, gây thêm áp lực cho người tiêu dùng.",
       "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260730-strait-of-hormuz-rs-fbe127.jpg",
       "link": "https://www.nbcnews.com/business/energy/oil-prices-inflation-trump-strait-hormuz-rcna594477",
       "source": "NBC News",
@@ -202,8 +213,8 @@
     {
       "id": "1qvhk53",
       "title": "High-Scoring Microlots Head to Best of Congo Cooperatives Auction",
-      "title_vi": "High-Scoring Microlots Head to Best of Congo Cooperatives Auction",
-      "summary_vi": "The third Best of Congo Cooperatives coffee auction runs Sept. 1-3, giving green coffee buyers a rare chance to buy high-scoring, traceable microlots from the Democratic Republic of Congo. Beyond...",
+      "title_vi": "Microlots có điểm cao hướng tới cuộc đấu giá hợp tác xã tốt nhất của Congo",
+      "summary_vi": "Phiên đấu giá cà phê Tốt nhất của Hợp tác xã Congo lần thứ ba diễn ra từ ngày 1 đến ngày 3 tháng 9, mang đến cho người mua cà phê xanh cơ hội hiếm có để mua các lô siêu nhỏ có điểm số cao, có thể truy nguyên từ Cộng hòa Dân chủ Congo. Vượt ra...",
       "image": "",
       "link": "https://dailycoffeenews.com/2026/08/26/high-scoring-microlots-head-to-best-of-congo-cooperatives-auction/",
       "source": "Daily Coffee News",
@@ -213,8 +224,8 @@
     {
       "id": "l9jrfw",
       "title": "Gold, Silver Slip as Surprise US Inflation Boosts Dollar, Fed Rate Forecasts",
-      "title_vi": "Gold, Silver Slip as Surprise US Inflation Boosts Dollar, Fed Rate Forecasts",
-      "summary_vi": "Gold and silver prices slipped Wednesday as stronger-than-expected US inflation data saw a rebound in bond yields, the Dollar, and Fed rate forecasts >>",
+      "title_vi": "Vàng, Bạc trượt dốc do lạm phát bất ngờ của Mỹ thúc đẩy đồng đô la, dự báo lãi suất của Fed",
+      "summary_vi": "Giá vàng và bạc giảm hôm thứ Tư do dữ liệu lạm phát mạnh hơn dự kiến ​​của Mỹ chứng kiến ​​sự phục hồi của lãi suất trái phiếu, đồng Đô la và dự báo lãi suất của Fed >>",
       "image": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/2026-08-26-gold-eff-end-2026.png",
       "link": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-inflation-dollar-082620261",
       "source": "BullionVault",
@@ -224,8 +235,8 @@
     {
       "id": "xtsuwx",
       "title": "J.M. Smucker forecasts smaller-than-expected annual sales decline on steady coffee demand",
-      "title_vi": "J.M. Smucker forecasts smaller-than-expected annual sales decline on steady coffee demand",
-      "summary_vi": "Aug 25 (Reuters) - Folgers coffee maker J.M. Smucker on Wednesday forecast a smaller-than-expected decline in annual sales, benefitting from ​steady demand for its ready-to-eat meals &zwnj;and coffee. Shares of the company rose about 4% premarket, after J.M...",
+      "title_vi": "J.M. Smucker dự báo doanh thu hàng năm giảm ít hơn dự kiến ​​do nhu cầu cà phê ổn định",
+      "summary_vi": "Ngày 25 tháng 8 (Reuters) - Nhà sản xuất cà phê Folgers J.M. Smucker hôm thứ Tư dự báo doanh thu hàng năm sẽ giảm ít hơn dự kiến, được hưởng lợi từ nhu cầu ổn định đối với các bữa ăn sẵn và cà phê. Cổ phiếu của công ty đã tăng khoảng 4% trước giờ mở cửa sau khi J.M...",
       "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/26/2026-08-26T121144Z_1_LYNXMPEM7P0YG_RTROPTP_3_SMUCKER-RESULTS.JPG",
       "link": "https://kfgo.com/2026/08/26/j-m-smucker-forecasts-smaller-than-expected-annual-sales-decline-on-steady-coffee-demand/",
       "source": "The Mighty 790 KFGO",
@@ -235,8 +246,8 @@
     {
       "id": "5qk6vl",
       "title": "Florida-Grown Coffee Gets Its First Serious Field Test",
-      "title_vi": "Florida-Grown Coffee Gets Its First Serious Field Test",
-      "summary_vi": "A new study from University of Florida researchers floats the idea that Florida-grown coffee could someday become a viable specialty crop. The study, titled “First assessment of agronomical performance of...",
+      "title_vi": "Cà phê trồng ở Florida được thử nghiệm thực địa nghiêm túc đầu tiên",
+      "summary_vi": "Một nghiên cứu mới từ các nhà nghiên cứu của Đại học Florida đưa ra ý tưởng rằng cà phê được trồng ở Florida một ngày nào đó có thể trở thành một loại cây trồng đặc sản khả thi. Nghiên cứu mang tên “Đánh giá đầu tiên về hiệu quả nông học của...",
       "image": "",
       "link": "https://dailycoffeenews.com/2026/08/26/florida-grown-coffee-gets-its-first-serious-field-test/",
       "source": "Daily Coffee News",
@@ -246,7 +257,7 @@
     {
       "id": "185cb5s",
       "title": "Hochschild Mining Shares Jump After Earnings Soar on Higher Gold, Silver Prices",
-      "title_vi": "Hochschild Mining Shares Jump After Earnings Soar on Higher Gold, Silver Prices",
+      "title_vi": "Cổ phiếu khai thác mỏ Hochschild tăng vọt sau khi thu nhập tăng vọt nhờ giá vàng, bạc cao hơn",
       "summary_vi": "",
       "image": "",
       "link": "https://www.wsj.com/business/earnings/hochschild-mining-shares-jump-after-earnings-soar-on-higher-gold-silver-prices-a328e5a5",
@@ -257,7 +268,7 @@
     {
       "id": "udjq6n",
       "title": "J.M. Smucker Earnings Get a Jolt From Coffee Prices. The Stock Is Rising.",
-      "title_vi": "J.M. Smucker Earnings Get a Jolt From Coffee Prices. The Stock Is Rising.",
+      "title_vi": "Thu nhập của J.M. Smucker bị ảnh hưởng bởi giá cà phê. Cổ phiếu đang tăng giá.",
       "summary_vi": "",
       "image": "",
       "link": "https://www.barrons.com/articles/smucker-earnings-stock-price-1d9e3b45",
@@ -268,8 +279,8 @@
     {
       "id": "qdt4gd",
       "title": "Platinum Price Forecast: Can Platinum Break $1,900 and Reach $2,150?",
-      "title_vi": "Platinum Price Forecast: Can Platinum Break $1,900 and Reach $2,150?",
-      "summary_vi": "Platinum holds above $1,700 as tight supply and a weaker U.S. dollar support a possible breakout above $1,900 toward $2,150.",
+      "title_vi": "Dự báo giá bạch kim: Bạch kim có thể phá vỡ 1.900 USD và đạt 2.150 USD không?",
+      "summary_vi": "Bạch kim giữ trên 1.700 USD do nguồn cung thắt chặt và đồng đô la Mỹ yếu hơn hỗ trợ khả năng bứt phá trên 1.900 USD lên 2.150 USD.",
       "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/platinum2-1.jpg?func=cover&q=70&width=1201",
       "link": "https://www.fxempire.com/forecasts/article/premium-platinum-price-forecast-can-platinum-break-1900-and-reach-2150-1619123",
       "source": "FXEmpire",
@@ -279,8 +290,8 @@
     {
       "id": "16l1v1l",
       "title": "Market expectations for Jackson Hole: yields under pressure",
-      "title_vi": "Market expectations for Jackson Hole: yields under pressure",
-      "summary_vi": "Kevin Warsh&#x27;s first Jackson Hole speech as Fed chair collides with steepening yields, ballooning debt supply, and record AI-linked issuance.",
+      "title_vi": "Kỳ vọng của thị trường đối với Jackson Hole: lợi nhuận chịu áp lực",
+      "summary_vi": "Bài phát biểu đầu tiên tại Jackson Hole của Kevin Warsh với tư cách là chủ tịch Fed xung đột với lợi suất tăng cao, nguồn cung nợ tăng vọt và đợt phát hành liên quan đến AI kỷ lục.",
       "image": "https://rankiapro.com/en/media/2021/08/jackson-hole-outside.jpg",
       "link": "https://rankiapro.com/en/insights/market-expectations-for-jackson-hole-yields-under-pressure/",
       "source": "RankiaPro",
@@ -290,7 +301,7 @@
     {
       "id": "7ljr91",
       "title": "BHP faces copper price risk as tariff concerns inflate rally",
-      "title_vi": "BHP faces copper price risk as tariff concerns inflate rally",
+      "title_vi": "BHP đối mặt với rủi ro về giá đồng do lo ngại về thuế quan tăng cao",
       "summary_vi": "",
       "image": "",
       "link": "https://www.investing.com/news/stock-market-news/bhp-faces-copper-price-risk-as-tariff-concerns-inflate-rally-93CH-4876560",
@@ -301,8 +312,8 @@
     {
       "id": "1smsrv0",
       "title": "Sugar prices: India’s sugar squeeze threatens its biggest season for sweets",
-      "title_vi": "Sugar prices: India’s sugar squeeze threatens its biggest season for sweets",
-      "summary_vi": "Domestic sugar prices have jumped nearly 40%, forcing India to import 1 million tonnes of the sweetener.",
+      "title_vi": "Giá đường: Việc ép đường ở Ấn Độ đe dọa mùa đồ ngọt lớn nhất",
+      "summary_vi": "Giá đường trong nước tăng gần 40%, buộc Ấn Độ phải nhập khẩu 1 triệu tấn đường.",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2aab/live/6e249110-a128-11f1-8c37-3f30331ac537.jpg",
       "link": "https://www.bbc.com/news/articles/cm2r9y9eleno",
       "source": "BBC",
@@ -312,7 +323,7 @@
     {
       "id": "12rhfkk",
       "title": "What the Hormuz crisis has cost fossil fuel importers — March to August 2026",
-      "title_vi": "What the Hormuz crisis has cost fossil fuel importers — March to August 2026",
+      "title_vi": "Cuộc khủng hoảng Hormuz đã gây thiệt hại gì cho các nhà nhập khẩu nhiên liệu hóa thạch - từ tháng 3 đến tháng 8 năm 2026",
       "summary_vi": "",
       "image": "https://energyandcleanair.org/wp/wp-content/uploads/2026/08/image-60.png",
       "link": "https://energyandcleanair.org/what-the-hormuz-crisis-has-cost-fossil-fuel-importers-march-to-august-2026/",
@@ -323,8 +334,8 @@
     {
       "id": "hxajp2",
       "title": "Mondelez: Quality At A Reasonable Price, Regardless Of Cocoa Noise",
-      "title_vi": "Mondelez: Quality At A Reasonable Price, Regardless Of Cocoa Noise",
-      "summary_vi": "Mondelez (MDLZ) stock remains a Buy: resilient snacks growth, emerging-market momentum, raised guidance, and attractive valuation despite cocoa costs. See more.",
+      "title_vi": "Mondelez: Chất lượng với mức giá hợp lý, bất chấp tiếng ồn ca cao",
+      "summary_vi": "Cổ phiếu Mondelez (MDLZ) vẫn là Mua: tăng trưởng đồ ăn nhẹ kiên cường, động lực của thị trường mới nổi, hướng dẫn nâng cao và định giá hấp dẫn bất chấp chi phí ca cao. Xem thêm.",
       "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/520019671/image_520019671.jpg?io=getty-c-w1536",
       "link": "https://seekingalpha.com/article/4940176-mondelez-quality-at-a-reasonable-price-regardless-of-cocoa-noise",
       "source": "Seeking Alpha",
@@ -334,7 +345,7 @@
     {
       "id": "19pfeaf",
       "title": "Copper Climbs From Record-High Close With Supply Still Tight",
-      "title_vi": "Copper Climbs From Record-High Close With Supply Still Tight",
+      "title_vi": "Đồng tăng từ mức cao kỷ lục khi đóng cửa với nguồn cung vẫn eo hẹp",
       "summary_vi": "",
       "image": "",
       "link": "https://www.bloomberg.com/news/articles/2026-08-26/copper-climbs-from-record-high-close-with-supply-still-tight",
@@ -345,7 +356,7 @@
     {
       "id": "1t8jozx",
       "title": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
-      "title_vi": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
+      "title_vi": "'Ngày D kinh tế' của Hoa Kỳ không chỉ nhắm đến dầu mỏ của Iran",
       "summary_vi": "",
       "image": "",
       "link": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
@@ -356,8 +367,8 @@
     {
       "id": "1o9g1ly",
       "title": "Platinum Climbs Toward $1,900 as a Fourth Straight Supply Deficit Looms",
-      "title_vi": "Platinum Climbs Toward $1,900 as a Fourth Straight Supply Deficit Looms",
-      "summary_vi": "Platinum hit an 11-week high near $1,900/oz as WPIC forecasts a fourth straight 297,000-ounce deficit driven by South African supply shortfalls.",
+      "title_vi": "Bạch kim tăng lên mức 1.900 USD khi thâm hụt nguồn cung lần thứ tư liên tiếp xuất hiện",
+      "summary_vi": "Bạch kim đạt mức cao nhất trong 11 tuần gần 1.900 USD/oz khi WPIC dự báo mức thâm hụt 297.000 ounce thứ tư liên tiếp do thiếu hụt nguồn cung ở Nam Phi.",
       "image": "https://startupfortune.com/wp-content/uploads/2026/08/sf-19293-1787698000380.jpg",
       "link": "https://startupfortune.com/platinum-climbs-toward-1900-as-a-fourth-straight-supply-deficit-looms/",
       "source": "Startup Fortune",
@@ -367,8 +378,8 @@
     {
       "id": "i7u6b0",
       "title": "The Coke Zero Sugar 400 at Daytona International Speedway Outlook and Picks",
-      "title_vi": "The Coke Zero Sugar 400 at Daytona International Speedway Outlook and Picks",
-      "summary_vi": "The NASCAR Cup Series (NCS) heads to Daytona International Speedway for the Coke Zero Sugar 400 on Saturday night at 7:30 p.m. ET on NBC.",
+      "title_vi": "Coke Zero Sugar 400 tại Triển vọng và Lựa chọn Đường đua Quốc tế Daytona",
+      "summary_vi": "Giải NASCAR Cup Series (NCS) hướng đến Đường đua Quốc tế Daytona để tranh giải Coke Zero Sugar 400 vào tối Thứ Bảy lúc 7:30 tối. ET trên NBC.",
       "image": "https://speedwaymedia.com/wp-content/uploads/2026/08/OpenAI-Playground-2026-08-24-at-13.15.35-355x200.png",
       "link": "https://speedwaymedia.com/2026/08/25/the-coke-zero-sugar-400-at-daytona-international-speedway-outlook-and-picks/",
       "source": "SpeedwayMedia.com",
@@ -378,8 +389,8 @@
     {
       "id": "178dyxu",
       "title": "Putin decree lets Russia take control of infrastructure damaged in Ukrainian drone attacks",
-      "title_vi": "Putin decree lets Russia take control of infrastructure damaged in Ukrainian drone attacks",
-      "summary_vi": "Russian President Vladimir Putin has decreed that the state can temporarily seize control of critical infrastructure facilities if private owners fail to protect them from Ukrainian drone attacks or rebuild them after the strikes.",
+      "title_vi": "Sắc lệnh của Putin cho phép Nga kiểm soát cơ sở hạ tầng bị hư hại trong các cuộc tấn công bằng máy bay không người lái của Ukraine",
+      "summary_vi": "Tổng thống Nga Vladimir Putin đã ra lệnh rằng nhà nước có thể tạm thời giành quyền kiểm soát các cơ sở hạ tầng quan trọng nếu chủ sở hữu tư nhân không bảo vệ chúng khỏi các cuộc tấn công bằng máy bay không người lái của Ukraine hoặc xây dựng lại chúng sau cuộc tấn công.",
       "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-25T050018Z_1333787559_RC27WLAASBF0_RTRMADP_3_GLOBAL-OIL-DISRUPTION-1024x678.jpg",
       "link": "https://www.pbs.org/newshour/world/putin-decree-lets-russia-take-control-of-infrastructure-damaged-in-ukrainian-drone-attacks",
       "source": "PBS",
@@ -389,7 +400,7 @@
     {
       "id": "fe0egb",
       "title": "Commenters overwhelmingly oppose BLM’s rollback of oil and gas rule, analysis finds",
-      "title_vi": "Commenters overwhelmingly oppose BLM’s rollback of oil and gas rule, analysis finds",
+      "title_vi": "Phân tích cho thấy những người bình luận phản đối mạnh mẽ việc BLM hủy bỏ quy định về dầu khí",
       "summary_vi": "",
       "image": "",
       "link": "https://westernpriorities.org/2026/08/commenters-overwhelmingly-oppose-blms-rollback-of-oil-and-gas-rule-analysis-finds/",
@@ -400,7 +411,7 @@
     {
       "id": "ghzv72",
       "title": "Natural Gas Price Spike Ahead? Analysts Push Back on 2028 Shortage Call as Forward Curve Holds",
-      "title_vi": "Natural Gas Price Spike Ahead? Analysts Push Back on 2028 Shortage Call as Forward Curve Holds",
+      "title_vi": "Giá khí đốt tự nhiên tăng đột biến? Các nhà phân tích phản đối lời kêu gọi thiếu hụt năm 2028 khi đường cong chuyển tiếp được giữ vững",
       "summary_vi": "",
       "image": "",
       "link": "https://naturalgasintel.com/news/natural-gas-price-spike-ahead-analysts-push-back-on-2028-shortage-call-as-forward-curve-holds/",
@@ -411,8 +422,8 @@
     {
       "id": "h6zmg2",
       "title": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
-      "title_vi": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
-      "summary_vi": "Ukraine hits Moscow&#x27;s Afipsky oil refinery and Russian-controlled Zaporizhzhia nuclear power plant",
+      "title_vi": "Hai người thiệt mạng, nhà máy lọc dầu bốc cháy ở Krasnodar của Nga sau cuộc tấn công bằng máy bay không người lái",
+      "summary_vi": "Ukraine tấn công nhà máy lọc dầu Afipsky của Moscow và nhà máy điện hạt nhân Zaporizhzhia do Nga kiểm soát",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-09T082846Z_660942604_RC26WLAKM19S_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-PUTIN-1783598211.jpg?resize=1920%2C1440",
       "link": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack",
       "source": "Al Jazeera",
@@ -422,8 +433,8 @@
     {
       "id": "1tkghb",
       "title": "California gas prices ‘shaping up to be the highest on record.’ What you’ll pay",
-      "title_vi": "California gas prices ‘shaping up to be the highest on record.’ What you’ll pay",
-      "summary_vi": "Drivers across the United States could see gasoline soar above $4 per gallon on Labor Day for the first time ever.",
+      "title_vi": "Giá xăng ở California 'sắp đạt mức cao kỷ lục'. Bạn sẽ phải trả bao nhiêu",
+      "summary_vi": "Những người lái xe trên khắp Hoa Kỳ có thể lần đầu tiên thấy xăng tăng vọt trên 4 USD/gallon vào Ngày lễ Lao động.",
       "image": "https://www.sacbee.com/public/latest-news/xqhxou/picture315749831/alternates/LANDSCAPE_1200/SAC_0274_PK_20260513_GAS.JPG",
       "link": "https://www.sacbee.com/news/california/article317003207.html",
       "source": "Sacramento Bee",
@@ -433,8 +444,8 @@
     {
       "id": "d8urp9",
       "title": "Social Forestry in Indonesia Seeks Room for Coffee and Conservation",
-      "title_vi": "Social Forestry in Indonesia Seeks Room for Coffee and Conservation",
-      "summary_vi": "Sri Atmiatun, a farmer in Indonesia’s Batutegi forest landscape, is among hundreds of community members participating in the country’s social forestry program, which grants legal access to state forest land...",
+      "title_vi": "Lâm nghiệp xã hội ở Indonesia tìm kiếm cơ hội cho cà phê và bảo tồn",
+      "summary_vi": "Sri Atmiatun, một nông dân ở vùng rừng Batutegi của Indonesia, nằm trong số hàng trăm thành viên cộng đồng tham gia vào chương trình lâm nghiệp xã hội của đất nước, chương trình cấp quyền tiếp cận hợp pháp đối với đất rừng của nhà nước...",
       "image": "",
       "link": "https://dailycoffeenews.com/2026/08/25/social-forestry-in-indonesia-seeks-room-for-coffee-and-conservation/",
       "source": "Daily Coffee News",
@@ -444,7 +455,7 @@
     {
       "id": "z7hcdp",
       "title": "Peru’s New President Sworn In Improving The Outlook Of Coffee",
-      "title_vi": "Peru’s New President Sworn In Improving The Outlook Of Coffee",
+      "title_vi": "Tổng thống mới của Peru tuyên thệ cải thiện triển vọng ngành cà phê",
       "summary_vi": "",
       "image": "",
       "link": "https://www.stonex.com/en-us/insights/peru-s-new-president-sworn-in-improving-the-outlook-of-coffee/",
@@ -455,8 +466,8 @@
     {
       "id": "1yhfgmp",
       "title": "Silver Price Forecast: XAG/USD reclaims 100-day SMA, eyes $70",
-      "title_vi": "Silver Price Forecast: XAG/USD reclaims 100-day SMA, eyes $70",
-      "summary_vi": "Silver price registers modest gains on Tuesday, after briefly breaching the 100-day Simple Moving Average (SMA) at $68.38, pushing the white metal to a three-day low of $67.43 before making a U-turn and turning bullish. The XAG/USD trades at $68.86, up 0.55%,",
+      "title_vi": "Dự báo giá bạc: XAG/USD lấy lại SMA 100 ngày, hướng tới 70 USD",
+      "summary_vi": "Giá bạc ghi nhận mức tăng khiêm tốn vào thứ Ba, sau khi nhanh chóng vi phạm Đường trung bình động đơn giản 100 ngày (SMA) ở mức 68,38 USD, đẩy kim loại trắng xuống mức thấp nhất trong ba ngày là 67,43 USD trước khi quay đầu và chuyển sang xu hướng tăng. XAG/USD giao dịch ở mức 68,86 USD, tăng 0,55%,",
       "image": "https://editorial.fxsstatic.com/images/i/Silver4_Medium.png",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-reclaims-100-day-sma-eyes-70-202608251831",
       "source": "FXStreet",
@@ -466,8 +477,8 @@
     {
       "id": "1osbu38",
       "title": "Platinum-Cobalt Nanoparticles Market to Triple by 2035 on FCEV Scale-Up and Green Hydrogen Push",
-      "title_vi": "Platinum-Cobalt Nanoparticles Market to Triple by 2035 on FCEV Scale-Up and Green Hydrogen Push",
-      "summary_vi": "Platinum-Cobalt Nanoparticles Market forecast 2026-2035: 13-17% CAGR driven by FCEV scale-up, green hydrogen, and lower PGM loading.",
+      "title_vi": "Thị trường hạt nano bạch kim-Coban sẽ tăng gấp ba vào năm 2035 nhờ mở rộng quy mô FCEV và thúc đẩy hydro xanh",
+      "summary_vi": "Dự báo thị trường hạt nano bạch kim-Coban giai đoạn 2026-2035: CAGR 13-17% nhờ mở rộng quy mô FCEV, hydro xanh và tải PGM thấp hơn.",
       "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-platinum-cobalt-nanoparticles-market-analysis-forecast-size-trends-and-insights-1787682714.webp",
       "link": "https://www.indexbox.io/blog/platinum-cobalt-nanoparticles-market-to-triple-by-2035-on-fcev-scale-up-and-green-hydrogen-push/",
       "source": "IndexBox",
@@ -477,8 +488,8 @@
     {
       "id": "10l52m6",
       "title": "Silver Supply vs. Demand: Market Outlook for 2026",
-      "title_vi": "Silver Supply vs. Demand: Market Outlook for 2026",
-      "summary_vi": "Explore silver supply and demand in 2026, including the projected deficit, industrial demand, renewable energy, investment trends, and supply constraints.",
+      "title_vi": "Cung bạc so với cầu: Triển vọng thị trường năm 2026",
+      "summary_vi": "Khám phá cung và cầu bạc vào năm 2026, bao gồm mức thâm hụt dự kiến, nhu cầu công nghiệp, năng lượng tái tạo, xu hướng đầu tư và hạn chế về nguồn cung.",
       "image": "https://sdbullion.com/media/magefan_blog/silver-supply-vs-demand-navigating-challenges-and-opportunities-ahead_1_.png",
       "link": "https://sdbullion.com/blog/silver-supply-vs-demand",
       "source": "SD Bullion",
@@ -488,8 +499,8 @@
     {
       "id": "1noly67",
       "title": "Copper price sets fresh record as US tariff threat wipes out global surplus",
-      "title_vi": "Copper price sets fresh record as US tariff threat wipes out global surplus",
-      "summary_vi": "CRU now calls its forecast 639kt surplus",
+      "title_vi": "Giá đồng lập kỷ lục mới khi mối đe dọa thuế quan của Mỹ xóa sạch thặng dư toàn cầu",
+      "summary_vi": "CRU hiện gọi dự báo của mình là thặng dư 639kt",
       "image": "https://www.mining.com/wp-content/uploads/2025/03/Glencore-copper-1024x576.png",
       "link": "https://www.mining.com/copper-price-sets-fresh-record-as-us-tariff-threat-wipes-out-global-surplus/",
       "source": "Mining.com",
@@ -499,7 +510,7 @@
     {
       "id": "1rfr4i7",
       "title": "The US-Canada trade war could push up these prices, analysts say - ABC News",
-      "title_vi": "The US-Canada trade war could push up these prices, analysts say - ABC News",
+      "title_vi": "Các nhà phân tích nói rằng cuộc chiến thương mại Mỹ-Canada có thể đẩy giá những mặt hàng này lên cao - ABC News",
       "summary_vi": "",
       "image": "",
       "link": "https://abcnews.com/Business/us-canada-trade-war-push-prices-analysts/story?id",
@@ -510,7 +521,7 @@
     {
       "id": "13d7s2q",
       "title": "Shoulder Season Chill Hits Natural Gas Futures Despite Near-Term Hotter Forecast",
-      "title_vi": "Shoulder Season Chill Hits Natural Gas Futures Despite Near-Term Hotter Forecast",
+      "title_vi": "Mùa lạnh đến vai ảnh hưởng đến tương lai khí đốt tự nhiên mặc dù có dự báo nóng hơn trong thời gian ngắn",
       "summary_vi": "",
       "image": "",
       "link": "https://naturalgasintel.com/news/shoulder-season-chill-hits-natural-gas-futures-despite-near-term-hotter-forecast/",
@@ -521,7 +532,7 @@
     {
       "id": "1an5dxh",
       "title": "Michigan Soybean Production Forecast Rises 9% for 2026",
-      "title_vi": "Michigan Soybean Production Forecast Rises 9% for 2026",
+      "title_vi": "Dự báo sản lượng đậu nành Michigan tăng 9% vào năm 2026",
       "summary_vi": "",
       "image": "https://grainnet-com.s3.amazonaws.com/defaults/_1200x630_crop_center-center_82_none/GJ_default_image_1200x630.webp?mtime=1708746861",
       "link": "https://www.grainjournal.com/article/1153141/michigan-soybean-production-forecast-rises-9-for-2026",
@@ -532,24 +543,13 @@
     {
       "id": "yv8fh4",
       "title": "Coffee with a Cop to be held at Lessie B. Price center",
-      "title_vi": "Coffee with a Cop to be held at Lessie B. Price center",
-      "summary_vi": "AIKEN &mdash; Members of the public are invited to grab a cup of coffee with members of the Aiken Department of Public Safety and join the conversation.",
+      "title_vi": "Cà phê với cảnh sát sẽ được tổ chức tại Lessie B. Trung tâm giá cả",
+      "summary_vi": "AIKEN - Công chúng được mời uống một tách cà phê với các thành viên của Bộ An toàn Công cộng Aiken và tham gia cuộc trò chuyện.",
       "image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/cd/dcda3da3-3a51-45f0-8279-9441fe6e1e96/651dc3eacb61d.image.jpg?crop=1762%2C926%2C0%2C124&resize=1200%2C631&order=crop%2Cresize",
       "link": "https://www.postandcourier.com/aikenstandard/news/local/coffee-with-a-cop-city-2026/article_232033b8-45be-4819-aaba-bbd2f9cbedae.html",
       "source": "Post and Courier",
       "category": "soft",
       "published": "2026-08-25 22:47"
-    },
-    {
-      "id": "1gx1dy7",
-      "title": "Coffee Prices Retreat on the Outlook for Bigger Brazil Exports",
-      "title_vi": "Coffee Prices Retreat on the Outlook for Bigger Brazil Exports",
-      "summary_vi": "December arabica coffee (KCZ26 ) is down -4.55 (-1.33%) today, and November ICE robusta coffee (RMX26 ) is down -114 (-3.00%). Coffee prices gave up an early advance today and fell sharply on reports that some warehouses in Brazil are no longer accep...",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Soft%20Commodities/Coffee/Cup%20of%20roasted%20coffee%20beans%20on%20pile%20by%20Negative-Space%20via%20Pixabay.jpg",
-      "link": "https://www.barchart.com/story/news/4025790/coffee-prices-retreat-on-the-outlook-for-bigger-brazil-exports",
-      "source": "Barchart.com",
-      "category": "soft",
-      "published": "2026-08-25 22:45"
     }
   ]
 }

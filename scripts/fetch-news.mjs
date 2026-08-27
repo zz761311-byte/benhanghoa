@@ -328,19 +328,178 @@ function fixFinanceTranslation(vi, enSource) {
   return out;
 }
 
-// --- Free translation EN -> VI ---
+// ── DỊCH TIẾNG ANH SANG TIẾNG VIỆT ─────────────────────────────────────────
+//
+// 🔴 BẪY ĐÃ MẮC (22-27/08/2026): bản cũ chỉ có MỘT nguồn dịch
+// (translate.googleapis.com), và khi hỏng thì `catch { return text }` — âm thầm
+// trả về nguyên văn tiếng Anh. Google chặn nguồn đó bằng HTTP 429, bot vẫn báo
+// "thành công", GitHub Actions vẫn xanh. Tỉ lệ tin tiếng Việt tụt dần từ 50/50
+// xuống 0/50 suốt 5 ngày mà không có một dòng cảnh báo nào.
+//
+// Nay sửa hai chuyện:
+//   1. BA LỚP dịch — hỏng lớp này thì sang lớp khác
+//   2. ĐẾM và BÁO — hỏng thì phải kêu, không im lặng nữa (xem `thongKeDich`)
+
+// Đếm để cuối lượt chạy biết khâu dịch còn sống hay đã chết
+const thongKeDich = {
+  thanhCong: 0,
+  thatBai: 0,
+  theoLop: {},        // lớp nào dịch được bao nhiêu tin
+  loiDauTien: {},     // lỗi đầu tiên của mỗi lớp, để in ra cho dễ tìm nguyên nhân
+};
+
+const MAY_DUYET = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/126 Safari/537.36";
+
+// Lớp 1 — điểm cuối dịch của Chrome. Khác điểm cuối cũ, tính đến 27/08/2026 vẫn phục vụ.
+async function dichGoogleChrome(text) {
+  const url = "https://clients5.google.com/translate_a/t?client=dict-chrome-ex&sl=en&tl=vi&q="
+    + encodeURIComponent(text.slice(0, 1500));
+  const res = await fetch(url, {
+    headers: { "User-Agent": MAY_DUYET },
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error("HTTP " + res.status);
+  const data = await res.json();
+  // Trả về ["câu đã dịch"] hoặc [["câu đã dịch", ...]] tuỳ độ dài
+  if (Array.isArray(data)) {
+    if (typeof data[0] === "string") return data[0];
+    if (Array.isArray(data[0])) return data[0].map((s) => (Array.isArray(s) ? s[0] : s)).join("");
+  }
+  throw new Error("dữ liệu trả về không đúng dạng");
+}
+
+// Lớp 2 — MyMemory, dịch vụ miễn phí có hạn mức riêng, dùng khi lớp 1 bị chặn
+async function dichMyMemory(text) {
+  const url = "https://api.mymemory.translated.net/get?langpair=en|vi&q="
+    + encodeURIComponent(text.slice(0, 500));
+  const res = await fetch(url, {
+    headers: { "User-Agent": MAY_DUYET },
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error("HTTP " + res.status);
+  const data = await res.json();
+  const vi = data?.responseData?.translatedText || "";
+  if (!vi) throw new Error("không có bản dịch trong dữ liệu trả về");
+  // MyMemory hết hạn mức thì nhét câu báo lỗi vào chính chỗ bản dịch
+  if (/MYMEMORY WARNING|QUOTA/i.test(vi)) throw new Error("hết hạn mức MyMemory");
+  return vi;
+}
+
+// Lớp 3 — nhờ AI dịch. Chậm và tốn hạn mức nên chỉ dùng khi hai lớp trên chết hẳn.
+const MODEL_GEMINI = ["gemini-2.5-flash", "gemini-2.0-flash", "gemini-2.0-flash-lite"];
+const MODEL_GROQ = "llama-3.3-70b-versatile";
+
+function loiNhacDich(text) {
+  return "Dịch tiêu đề tin tức tài chính sau sang tiếng Việt tự nhiên, giữ đúng thuật ngữ " +
+    "hàng hoá và tài chính. CHỈ trả về đúng bản dịch, không thêm lời giải thích, " +
+    "không thêm dấu ngoặc kép.\n\n" + text.slice(0, 1500);
+}
+
+async function dichBangAI(text) {
+  const nhac = loiNhacDich(text);
+  const khoaGemini = process.env.GEMINI_API_KEY;
+  if (khoaGemini) {
+    for (const model of MODEL_GEMINI) {
+      try {
+        const res = await fetch(
+          `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${khoaGemini}`,
+          {
+            method: "POST",
+            headers: { "content-type": "application/json" },
+            body: JSON.stringify({ contents: [{ parts: [{ text: nhac }] }] }),
+            signal: AbortSignal.timeout(30000),
+          }
+        );
+        if (!res.ok) continue;
+        const data = await res.json();
+        const vi = (data?.candidates?.[0]?.content?.parts || []).map((p) => p.text).join("").trim();
+        if (vi) return vi;
+      } catch { /* thử model tiếp theo */ }
+    }
+  }
+
+  const khoaGroq = process.env.GROQ_API_KEY;
+  if (khoaGroq) {
+    const res = await fetch("https://api.groq.com/openai/v1/chat/completions", {
+      method: "POST",
+      headers: { "content-type": "application/json", authorization: `Bearer ${khoaGroq}` },
+      body: JSON.stringify({
+        model: MODEL_GROQ,
+        messages: [{ role: "user", content: nhac }],
+        temperature: 0.2,
+      }),
+      signal: AbortSignal.timeout(30000),
+    });
+    if (!res.ok) throw new Error("Groq HTTP " + res.status);
+    const vi = (await res.json())?.choices?.[0]?.message?.content?.trim() || "";
+    if (vi) return vi;
+  }
+
+  throw new Error("không có khoá AI nào dùng được (GEMINI_API_KEY, GROQ_API_KEY)");
+}
+
+const CAC_LOP_DICH = [
+  ["Google", dichGoogleChrome],
+  ["MyMemory", dichMyMemory],
+  ["AI", dichBangAI],
+];
+
 async function translate(text) {
   if (!text) return "";
-  try {
-    const url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=vi&dt=t&q="
-      + encodeURIComponent(text.slice(0, 1500));
-    const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0" } });
-    if (!res.ok) throw new Error("HTTP " + res.status);
-    const data = await res.json();
-    const vi = (data[0] || []).map(seg => seg[0]).join("");
-    return fixFinanceTranslation(vi, text); // sửa lỗi thuật ngữ trước khi trả về
-  } catch {
-    return text; // fallback: giữ nguyên tiếng Anh nếu dịch lỗi
+
+  for (const [ten, ham] of CAC_LOP_DICH) {
+    try {
+      const vi = (await ham(text)) || "";
+      // Bản dịch giống hệt nguyên văn ở câu dài là dấu hiệu nguồn dịch trả về
+      // nguyên văn thay vì báo lỗi — coi như hỏng, thử lớp sau
+      if (!vi.trim()) throw new Error("trả về rỗng");
+      if (vi.trim() === text.trim() && text.length > 25) {
+        throw new Error("trả về nguyên văn tiếng Anh");
+      }
+      thongKeDich.thanhCong++;
+      thongKeDich.theoLop[ten] = (thongKeDich.theoLop[ten] || 0) + 1;
+      return fixFinanceTranslation(vi, text); // sửa thuật ngữ trước khi trả về
+    } catch (e) {
+      if (!thongKeDich.loiDauTien[ten]) thongKeDich.loiDauTien[ten] = e.message;
+    }
+  }
+
+  // Cả ba lớp đều chết. Vẫn giữ tiếng Anh để trang không trống, NHƯNG đã đếm —
+  // cuối lượt chạy sẽ có cảnh báo, không im lặng như bản cũ.
+  thongKeDich.thatBai++;
+  return text;
+}
+
+// Báo tình hình khâu dịch. Hỏng quá nửa thì cho bot BÁO LỖI ĐỎ trong GitHub
+// Actions — thà thấy lượt chạy đỏ còn hơn web lặng lẽ đầy tiếng Anh 5 ngày.
+function baoCaoTinhHinhDich() {
+  const tong = thongKeDich.thanhCong + thongKeDich.thatBai;
+  if (tong === 0) {
+    console.log("\n🈯 Không có tin mới nào cần dịch.");
+    return;
+  }
+  const chiTiet = Object.entries(thongKeDich.theoLop)
+    .map(([ten, n]) => ten + " " + n)
+    .join(", ");
+  console.log(
+    `\n🈯 Dịch: ${thongKeDich.thanhCong}/${tong} đoạn thành công` +
+    (chiTiet ? `  (${chiTiet})` : "")
+  );
+
+  for (const [ten, loi] of Object.entries(thongKeDich.loiDauTien)) {
+    console.log(`   ⚠️  Lớp ${ten} có lỗi: ${loi}`);
+  }
+
+  if (thongKeDich.thatBai > 0) {
+    const phanTram = Math.round((thongKeDich.thatBai / tong) * 100);
+    console.log(`   ❌ ${thongKeDich.thatBai} đoạn KHÔNG dịch được (${phanTram}%) — đang để nguyên tiếng Anh.`);
+    if (thongKeDich.thatBai * 2 > tong) {
+      console.error(
+        "\n❌ QUÁ NỬA SỐ TIN KHÔNG DỊCH ĐƯỢC — cả ba lớp dịch đều hỏng.\n" +
+        "   Web sẽ hiện tin tiếng Anh. Phải sửa ngay, xem lỗi từng lớp ở trên."
+      );
+      process.exitCode = 1;
+    }
   }
 }
 
@@ -456,6 +615,30 @@ async function main() {
     title_vi: fixFinanceTranslation(o.title_vi || "", o.title),
     summary_vi: fixFinanceTranslation(o.summary_vi || "", o.title)
   }));
+  // ── Vá tin cũ bị kẹt tiếng Anh ────────────────────────────────────────────
+  // Bình thường tin cũ không dịch lại (đỡ gọi API). Nhưng đợt 22-27/08/2026 khâu
+  // dịch chết âm thầm, để lại một loạt tin tiếng Anh nằm sẵn trong news.json —
+  // những tin đó sẽ mắc kẹt mãi vì không còn được coi là "tin mới". Nên mỗi lượt
+  // vá lại một ít, vài lượt là sạch, mà không gọi dồn dập đến mức bị chặn tiếp.
+  const CO_DAU_VIET = /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
+  const VA_MOI_LUOT = 20;
+  const canVaLai = oldItems.filter(
+    (o) => o.title && !CO_DAU_VIET.test(o.title_vi || "")
+  );
+  if (canVaLai.length) {
+    const lamNgay = canVaLai.slice(0, VA_MOI_LUOT);
+    console.log(
+      `→ ${canVaLai.length} tin cũ còn kẹt tiếng Anh, dịch lại ${lamNgay.length} tin trong lượt này...`
+    );
+    for (const o of lamNgay) {
+      o.title_vi = await translate(o.title);
+      // Phần tóm tắt cũng dịch lại nếu nó đang là nguyên văn tiếng Anh
+      if (o.summary_vi && !CO_DAU_VIET.test(o.summary_vi)) {
+        o.summary_vi = await translate(o.summary_vi);
+      }
+    }
+  }
+
   const oldTitles = new Set(oldItems.map(o => o.title.toLowerCase()));
   const oldLinks = new Set(oldItems.map(o => (o.link || "").trim()).filter(Boolean));
 
@@ -521,6 +704,24 @@ async function main() {
   await mkdir(dirname(OUT), { recursive: true });
   await writeFile(OUT, JSON.stringify(out, null, 2), "utf8");
   console.log(`✓ Đã ghi ${items.length} tin (${newItems.length} mới) vào ${OUT}`);
+
+  // Báo tình hình khâu dịch. Hỏng quá nửa thì lượt chạy này sẽ ĐỎ trong
+  // GitHub Actions — để không lặp lại chuyện 5 ngày liền web đầy tiếng Anh
+  // mà mọi lượt chạy vẫn báo thành công.
+  baoCaoTinhHinhDich();
+
+  // Đếm lại trên chính tập tin sắp đăng: bao nhiêu tin thật sự có tiếng Việt.
+  // Đây là phép kiểm cuối cùng, xét cả tin cũ chứ không riêng tin mới dịch.
+  const CO_DAU = /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
+  const soTiengViet = items.filter((x) => CO_DAU.test(x.title_vi || "")).length;
+  console.log(`🇻🇳 ${soTiengViet}/${items.length} tin trên trang đang có tiêu đề tiếng Việt.`);
+  if (items.length && soTiengViet * 2 < items.length) {
+    console.error(
+      "\n❌ QUÁ NỬA SỐ TIN TRÊN TRANG ĐANG LÀ TIẾNG ANH.\n" +
+      "   Vi phạm nguyên tắc số 1 của dự án. Xem phần lỗi từng lớp dịch ở trên."
+    );
+    process.exitCode = 1;
+  }
 }
 
 main().catch(e => { console.error("✗ Lỗi:", e); process.exit(1); });

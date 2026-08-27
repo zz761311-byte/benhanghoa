@@ -25,8 +25,14 @@ jobs:
         with:
           node-version: "22"
 
+      # Hai khoá AI là LỚP DỰ PHÒNG CUỐI cho khâu dịch. Bình thường bot dịch bằng
+      # máy dịch miễn phí; chỉ khi cả hai máy dịch bị chặn mới nhờ đến AI.
+      # Thiếu khoá thì bot vẫn chạy, chỉ mất lớp đỡ cuối cùng.
       - name: Chạy bot lấy + dịch tin
         run: node scripts/fetch-news.mjs
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
 
       - name: Commit news.json nếu có thay đổi
         run: |

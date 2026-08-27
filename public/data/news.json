@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-28 04:00",
+  "updated_at": "2026-08-28 05:00",
   "items": [
+    {
+      "id": "dn1t0a",
+      "title": "DoE Begins Tests for Fracked Geothermal",
+      "title_vi": "DoE bắt đầu thử nghiệm địa nhiệt Fracked",
+      "summary_vi": "Chính quyền Trump không phải là bạn của gió và mặt trời. Việc cắt giảm trợ cấp và đình chỉ dự án là thái độ đối với các dạng năng lượng thay thế đó. Tuy nhiên, địa nhiệt lại là một thứ khác. Bộ Năng lượng hiện nay rất ủng hộ việc này. Trên thực tế, nó rất nhiều",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-27_34bjkce9vt.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/DoE-Begins-Tests-for-Fracked-Geothermal.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-28 05:00"
+    },
     {
       "id": "14sddey",
       "title": "Europe Heads Into Winter With Gas Storage at a Two-Decade Low",
@@ -99,17 +110,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-27 23:38"
-    },
-    {
-      "id": "1hlim8y",
-      "title": "45 Power Plants in India Running on Critically Low Levels of Coal Stocks",
-      "title_vi": "45 nhà máy điện ở Ấn Độ đang chạy với trữ lượng than ở mức cực kỳ thấp",
-      "summary_vi": "Reuters đưa tin hôm thứ Năm, trích dẫn dữ liệu của chính phủ và các quan chức ngành, cho biết có tới 45 nhà máy nhiệt điện than ở Ấn Độ hiện đang hoạt động với trữ lượng than ở mức cực kỳ thấp, do nhu cầu điện tăng trong bối cảnh El Nino mạnh nhưng nguồn cung bị gián đoạn do mưa gió mùa.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-27_jwxaoh3b1r.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/45-Power-Plants-in-India-Running-on-Critically-Low-Levels-of-Coal-Stocks.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-08-27 23:30"
     },
     {
       "id": "cqn005",
@@ -508,6 +508,17 @@
       "published": "2026-08-26 10:06"
     },
     {
+      "id": "3uad0a",
+      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
+      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
+      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/markets/agriculture/images/grain-oilseed-pgp-leadspace.jpg",
+      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-08-26 08:08"
+    },
+    {
       "id": "1t8jozx",
       "title": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
       "title_vi": "'Ngày D kinh tế' của Hoa Kỳ không chỉ nhắm đến dầu mỏ của Iran",
@@ -539,17 +550,6 @@
       "source": "SpeedwayMedia.com",
       "category": "soft",
       "published": "2026-08-26 04:44"
-    },
-    {
-      "id": "azpc0s",
-      "title": "A Smaller Corn Crop Could Set the Stage for Higher Prices",
-      "title_vi": "Diện tích ngô nhỏ hơn có thể tạo tiền đề cho giá cao hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/a-smaller-corn-crop-could-set-the-stage-for-higher-prices-12068126",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-08-26 03:55"
     }
   ]
 }

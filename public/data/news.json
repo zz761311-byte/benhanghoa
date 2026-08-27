@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27 18:00",
+  "updated_at": "2026-08-27 19:00",
   "items": [
     {
       "id": "s412o6",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-27 18:00"
+    },
+    {
+      "id": "1t4gewa",
+      "title": "JM Smucker remains “prudent” on coffee outlook",
+      "title_vi": "JM Smucker vẫn “thận trọng” về triển vọng cà phê",
+      "summary_vi": "Giá tăng và khối lượng tăng đã thúc đẩy doanh số bán cà phê trong quý đầu tiên của JM Smucker nhưng chủ quán Café Bustelo vẫn dự đoán doanh thu hàng năm sẽ giảm.",
+      "image": "https://www.just-drinks.com/wp-content/uploads/sites/29/2024/08/Cafe-Bustelo.png",
+      "link": "https://www.just-drinks.com/news/jm-smucker-remains-prudent-on-coffee-outlook/",
+      "source": "Just Drinks",
+      "category": "soft",
+      "published": "2026-08-27 17:54"
     },
     {
       "id": "s7r2tr",
@@ -79,6 +90,17 @@
       "published": "2026-08-27 13:30"
     },
     {
+      "id": "e7lujr",
+      "title": "Gas turbine, copper supply seen as near-term data center constraints in PJM",
+      "title_vi": "Tua bin khí, nguồn cung cấp đồng được coi là những hạn chế trong thời gian ngắn đối với trung tâm dữ liệu ở PJM",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/natural-gas/082626-gas-turbine-copper-supply-seen-as-near-term-data-center-constraints-in-pjm",
+      "source": "S&P Global",
+      "category": "energy",
+      "published": "2026-08-27 12:33"
+    },
+    {
       "id": "acsooj",
       "title": "Gold Pushes Back Above $4,600 as Investors Weigh Fed Rate Path",
       "title_vi": "Vàng đẩy trở lại trên 4.600 USD khi các nhà đầu tư cân nhắc lộ trình lãi suất của Fed",
@@ -123,6 +145,17 @@
       "published": "2026-08-27 10:02"
     },
     {
+      "id": "17p99tg",
+      "title": "Metal industry flags cost, market concerns over Canada-US trade war",
+      "title_vi": "Chi phí ngành công nghiệp kim loại, mối lo ngại của thị trường về chiến tranh thương mại Canada-Mỹ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/082626-metal-industry-flags-cost-market-concerns-over-canada-us-trade-war",
+      "source": "S&P Global",
+      "category": "metal",
+      "published": "2026-08-27 08:02"
+    },
+    {
       "id": "771910",
       "title": "Global Oil Security Looks Shakier as Conflicts Hit 45 Million Bpd of Supply",
       "title_vi": "An ninh dầu mỏ toàn cầu có vẻ lung lay hơn khi xung đột chạm tới nguồn cung 45 triệu thùng/ngày",
@@ -154,6 +187,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-27 05:00"
+    },
+    {
+      "id": "1k0kg0k",
+      "title": "Grain Markets Explode to New Contract and Multi-Year Highs: What Drove It?",
+      "title_vi": "Thị trường ngũ cốc bùng nổ với hợp đồng mới và mức cao nhất trong nhiều năm: Điều gì đã thúc đẩy nó?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/grain-markets-explode-new-contract-and-multi-year-highs-what-drove-it-and",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-08-27 04:52"
     },
     {
       "id": "16g479w",
@@ -308,6 +352,17 @@
       "source": "Barron's",
       "category": "soft",
       "published": "2026-08-26 18:16"
+    },
+    {
+      "id": "1rfr4i7",
+      "title": "The US-Canada trade war could push up these prices, analysts say - ABC News",
+      "title_vi": "Các nhà phân tích nói rằng cuộc chiến thương mại Mỹ-Canada có thể đẩy giá những mặt hàng này lên cao - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/Business/us-canada-trade-war-push-prices-analysts/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "macro",
+      "published": "2026-08-26 17:54"
     },
     {
       "id": "qdt4gd",
@@ -495,61 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-26 01:56"
-    },
-    {
-      "id": "z7hcdp",
-      "title": "Peru’s New President Sworn In Improving The Outlook Of Coffee",
-      "title_vi": "Tổng thống mới của Peru tuyên thệ cải thiện triển vọng ngành cà phê",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-us/insights/peru-s-new-president-sworn-in-improving-the-outlook-of-coffee/",
-      "source": "stonex.com",
-      "category": "soft",
-      "published": "2026-08-26 01:42"
-    },
-    {
-      "id": "1yhfgmp",
-      "title": "Silver Price Forecast: XAG/USD reclaims 100-day SMA, eyes $70",
-      "title_vi": "Dự báo giá bạc: XAG/USD lấy lại SMA 100 ngày, hướng tới 70 USD",
-      "summary_vi": "Giá bạc ghi nhận mức tăng khiêm tốn vào thứ Ba, sau khi nhanh chóng vi phạm Đường trung bình động đơn giản 100 ngày (SMA) ở mức 68,38 USD, đẩy kim loại trắng xuống mức thấp nhất trong ba ngày là 67,43 USD trước khi quay đầu và chuyển sang xu hướng tăng. XAG/USD giao dịch ở mức 68,86 USD, tăng 0,55%,",
-      "image": "https://editorial.fxsstatic.com/images/i/Silver4_Medium.png",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-reclaims-100-day-sma-eyes-70-202608251831",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-08-26 01:31"
-    },
-    {
-      "id": "1osbu38",
-      "title": "Platinum-Cobalt Nanoparticles Market to Triple by 2035 on FCEV Scale-Up and Green Hydrogen Push",
-      "title_vi": "Thị trường hạt nano bạch kim-Coban sẽ tăng gấp ba vào năm 2035 nhờ mở rộng quy mô FCEV và thúc đẩy hydro xanh",
-      "summary_vi": "Dự báo thị trường hạt nano bạch kim-Coban giai đoạn 2026-2035: CAGR 13-17% nhờ mở rộng quy mô FCEV, hydro xanh và tải PGM thấp hơn.",
-      "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-platinum-cobalt-nanoparticles-market-analysis-forecast-size-trends-and-insights-1787682714.webp",
-      "link": "https://www.indexbox.io/blog/platinum-cobalt-nanoparticles-market-to-triple-by-2035-on-fcev-scale-up-and-green-hydrogen-push/",
-      "source": "IndexBox",
-      "category": "metal",
-      "published": "2026-08-26 01:31"
-    },
-    {
-      "id": "10l52m6",
-      "title": "Silver Supply vs. Demand: Market Outlook for 2026",
-      "title_vi": "Cung bạc so với cầu: Triển vọng thị trường năm 2026",
-      "summary_vi": "Khám phá cung và cầu bạc vào năm 2026, bao gồm mức thâm hụt dự kiến, nhu cầu công nghiệp, năng lượng tái tạo, xu hướng đầu tư và hạn chế về nguồn cung.",
-      "image": "https://sdbullion.com/media/magefan_blog/silver-supply-vs-demand-navigating-challenges-and-opportunities-ahead_1_.png",
-      "link": "https://sdbullion.com/blog/silver-supply-vs-demand",
-      "source": "SD Bullion",
-      "category": "metal",
-      "published": "2026-08-26 01:22"
-    },
-    {
-      "id": "1noly67",
-      "title": "Copper price sets fresh record as US tariff threat wipes out global surplus",
-      "title_vi": "Giá đồng lập kỷ lục mới khi mối đe dọa thuế quan của Mỹ xóa sạch thặng dư toàn cầu",
-      "summary_vi": "CRU hiện gọi dự báo của mình là thặng dư 639kt",
-      "image": "https://www.mining.com/wp-content/uploads/2025/03/Glencore-copper-1024x576.png",
-      "link": "https://www.mining.com/copper-price-sets-fresh-record-as-us-tariff-threat-wipes-out-global-surplus/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-08-26 00:59"
     }
   ]
 }

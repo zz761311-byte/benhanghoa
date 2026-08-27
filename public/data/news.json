@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-27 16:00",
+  "updated_at": "2026-08-27 17:00",
   "items": [
+    {
+      "id": "s7r2tr",
+      "title": "Thailand Accelerates Clean Energy Push to Cut LNG Dependence",
+      "title_vi": "Thái Lan tăng tốc thúc đẩy năng lượng sạch để cắt giảm sự phụ thuộc vào LNG",
+      "summary_vi": "Thái Lan có kế hoạch đẩy nhanh việc triển khai các nguồn năng lượng tái tạo và lần đầu tiên sử dụng năng lượng hạt nhân để cắt giảm sự phụ thuộc vào LNG nhập khẩu sau cuộc khủng hoảng Trung Đông, Bộ trưởng Năng lượng Akanat Promphan nói với Bloomberg trong một cuộc phỏng vấn được công bố hôm thứ Năm. Thái Lan",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-27_c8zyialkng.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Thailand-Accelerates-Clean-Energy-Push-to-Cut-LNG-Dependence.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-27 16:45"
+    },
     {
       "id": "m5uv2i",
       "title": "Alberta Premier Rejects Using Oil as a Weapon Against Trump",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-27 15:30"
+    },
+    {
+      "id": "vndgcx",
+      "title": "Ukraine’s drone attacks have left Russia desperately scrambling for oil imports",
+      "title_vi": "Các cuộc tấn công bằng máy bay không người lái của Ukraine khiến Nga hết sức tranh giành nhập khẩu dầu",
+      "summary_vi": "Nhà sản xuất dầu thô hàng đầu thế giới một thời đã rơi vào cuộc khủng hoảng năng lượng khi Kiev nhắm mục tiêu vào các nhà máy chế biến dầu của mình",
+      "image": "https://i.guim.co.uk/img/media/5fb46813dd8af9bff6f199fd121ecf1bd5afd2f1/1223_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e9859f7c94259f75d3da55946ce85e2",
+      "link": "https://www.theguardian.com/world/2026/aug/27/ukraines-drone-attacks-have-left-russia-desperately-scrambling-for-oil-imports",
+      "source": "The Guardian",
+      "category": "energy",
+      "published": "2026-08-27 15:00"
     },
     {
       "id": "1byn26a",
@@ -44,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-27 13:30"
+    },
+    {
+      "id": "acsooj",
+      "title": "Gold Pushes Back Above $4,600 as Investors Weigh Fed Rate Path",
+      "title_vi": "Vàng đẩy trở lại trên 4.600 USD khi các nhà đầu tư cân nhắc lộ trình lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-26/gold-consolidates-above-4-600-as-investors-weigh-fed-rate-path",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-08-27 12:16"
     },
     {
       "id": "lv0ae3",
@@ -132,17 +165,6 @@
       "source": "Bloomberg.com",
       "category": "macro",
       "published": "2026-08-27 03:16"
-    },
-    {
-      "id": "7890gh",
-      "title": "Aramco Finds a New Way to Keep Saudi Crude Flowing to China",
-      "title_vi": "Aramco tìm ra cách mới để giữ dầu thô của Saudi chảy sang Trung Quốc",
-      "summary_vi": "Ả Rập Saudi không đợi eo biển Hormuz trở lại bình thường để vận chuyển dầu thô sang châu Á. Nó đang xây dựng một giải pháp thay thế, chuyển giao từng tàu chở dầu tại một thời điểm. Saudi Aramco đang cung cấp thêm dầu thô tháng 9 cho người mua châu Á thông qua vận chuyển tàu sang tàu bên ngoài Hormuz, theo",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_vckneapdpf.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Aramco-Finds-a-New-Way-to-Keep-Saudi-Crude-Flowing-to-China.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-27 03:00"
     },
     {
       "id": "1lqy0yi",
@@ -253,17 +275,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-26 21:21"
-    },
-    {
-      "id": "l9jrfw",
-      "title": "Gold, Silver Slip as Surprise US Inflation Boosts Dollar, Fed Rate Forecasts",
-      "title_vi": "Vàng, Bạc trượt dốc do lạm phát bất ngờ của Mỹ thúc đẩy đồng đô la, dự báo lãi suất của Fed",
-      "summary_vi": "Giá vàng và bạc giảm hôm thứ Tư do dữ liệu lạm phát mạnh hơn dự kiến ​​của Mỹ chứng kiến ​​sự phục hồi của lãi suất trái phiếu, đồng Đô la và dự báo lãi suất của Fed >>",
-      "image": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/2026-08-26-gold-eff-end-2026.png",
-      "link": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-inflation-dollar-082620261",
-      "source": "BullionVault",
-      "category": "metal",
-      "published": "2026-08-26 21:08"
     },
     {
       "id": "xtsuwx",
@@ -539,17 +550,6 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "macro",
       "published": "2026-08-26 00:39"
-    },
-    {
-      "id": "13d7s2q",
-      "title": "Shoulder Season Chill Hits Natural Gas Futures Despite Near-Term Hotter Forecast",
-      "title_vi": "Mùa lạnh đến vai ảnh hưởng đến tương lai khí đốt tự nhiên mặc dù có dự báo nóng hơn trong thời gian ngắn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/shoulder-season-chill-hits-natural-gas-futures-despite-near-term-hotter-forecast/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-08-25 23:27"
     }
   ]
 }

@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-27 22:00",
+  "updated_at": "2026-08-27 23:00",
   "items": [
+    {
+      "id": "vlwfqf",
+      "title": "The AI Boom Is Driving a New Era of U.S. Power Demand",
+      "title_vi": "Sự bùng nổ AI đang thúc đẩy một kỷ nguyên mới về nhu cầu năng lượng của Hoa Kỳ",
+      "summary_vi": "Nhu cầu điện cho trung tâm dữ liệu toàn cầu đang tăng với tốc độ đáng chú ý và không quốc gia nào thúc đẩy sự tăng trưởng đó nhiều hơn Hoa Kỳ. Đánh giá thống kê về năng lượng thế giới năm 2026 của Viện Năng lượng giúp đưa quy mô của sự thay đổi vào quan điểm. Lần đầu tiên ở S",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-27_h1n3lvadqx.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/The-AI-Boom-Is-Driving-a-New-Era-of-US-Power-Demand.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-27 23:00"
+    },
+    {
+      "id": "cqn005",
+      "title": "Pennsylvania Coffee Shop Latest to Close Following ICE Detention",
+      "title_vi": "Quán cà phê Pennsylvania mới nhất đóng cửa sau khi bị ICE giam giữ",
+      "summary_vi": "Chủ sở hữu của một công ty cà phê có hai địa điểm ở Pennsylvania có tên City Watch Coffee thông báo rằng bà có kế hoạch bán doanh nghiệp và cuối cùng chuyển gia đình sang Campuchia sau khi chồng bà...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/08/27/pennsylvania-coffee-shop-latest-to-close-following-ice-detention/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-08-27 22:10"
+    },
     {
       "id": "i68h18",
       "title": "Strait of Hormuz Traffic Ticks Higher Amid New Diplomatic Push",
@@ -46,6 +68,17 @@
       "published": "2026-08-27 21:00"
     },
     {
+      "id": "11q622p",
+      "title": "What the Latest Economic Growth Data Means for Gold",
+      "title_vi": "Dữ liệu tăng trưởng kinh tế mới nhất có ý nghĩa gì đối với vàng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.usgoldbureau.com/news/post/what-the-latest-economic-growth-data-means-for-gold",
+      "source": "U.S. Gold Bureau",
+      "category": "metal",
+      "published": "2026-08-27 20:39"
+    },
+    {
       "id": "s3eigs",
       "title": "TotalEnergies Exits Russia’s Sanctioned Arctic LNG 2 Project",
       "title_vi": "TotalEnergies rút khỏi dự án LNG 2 Bắc Cực bị trừng phạt của Nga",
@@ -88,17 +121,6 @@
       "source": "Just Drinks",
       "category": "soft",
       "published": "2026-08-27 17:54"
-    },
-    {
-      "id": "s7r2tr",
-      "title": "Thailand Accelerates Clean Energy Push to Cut LNG Dependence",
-      "title_vi": "Thái Lan tăng tốc thúc đẩy năng lượng sạch để cắt giảm sự phụ thuộc vào LNG",
-      "summary_vi": "Thái Lan có kế hoạch đẩy nhanh việc triển khai các nguồn năng lượng tái tạo và lần đầu tiên sử dụng năng lượng hạt nhân để cắt giảm sự phụ thuộc vào LNG nhập khẩu sau cuộc khủng hoảng Trung Đông, Bộ trưởng Năng lượng Akanat Promphan nói với Bloomberg trong một cuộc phỏng vấn được công bố hôm thứ Năm. Thái Lan",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-27_c8zyialkng.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Thailand-Accelerates-Clean-Energy-Push-to-Cut-LNG-Dependence.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-27 16:45"
     },
     {
       "id": "vndgcx",
@@ -198,17 +220,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-08-27 04:52"
-    },
-    {
-      "id": "16g479w",
-      "title": "Gold Holds Five-Day Gain as Oil Drop Eases Inflation Concerns",
-      "title_vi": "Vàng giữ mức tăng trong 5 ngày khi giá dầu giảm làm giảm bớt lo ngại về lạm phát",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-25/gold-holds-five-day-gain-as-oil-drop-eases-inflation-concerns",
-      "source": "Bloomberg.com",
-      "category": "macro",
-      "published": "2026-08-27 03:16"
     },
     {
       "id": "1lqy0yi",
@@ -319,6 +330,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-26 21:21"
+    },
+    {
+      "id": "fk1tl8",
+      "title": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh",
+      "title_vi": "Thị trường đô la và trái phiếu 'đứng trước Jackson Hole khi sự can thiệp vào thị trường của Bessent gây áp lực lên Warsh",
+      "summary_vi": "Các chiến lược gia cho biết các nhà đầu tư đang tiếp cận Jackson Hole “bằng chân sau”.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108341957-1785351420198-gettyimages-2287525917-AFP_C3HN8FT.jpeg?v=1785968183&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/26/jackson-hole-warsh-bessent-bonds-treasury-dollar.html",
+      "source": "CNBC",
+      "category": "macro",
+      "published": "2026-08-26 20:00"
     },
     {
       "id": "xtsuwx",
@@ -528,28 +550,6 @@
       "source": "Center for Western Priorities",
       "category": "energy",
       "published": "2026-08-26 02:50"
-    },
-    {
-      "id": "ghzv72",
-      "title": "Natural Gas Price Spike Ahead? Analysts Push Back on 2028 Shortage Call as Forward Curve Holds",
-      "title_vi": "Giá khí đốt tự nhiên tăng đột biến? Các nhà phân tích phản đối lời kêu gọi thiếu hụt năm 2028 khi đường cong chuyển tiếp được giữ vững",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/natural-gas-price-spike-ahead-analysts-push-back-on-2028-shortage-call-as-forward-curve-holds/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-08-26 02:40"
-    },
-    {
-      "id": "h6zmg2",
-      "title": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
-      "title_vi": "Hai người thiệt mạng, nhà máy lọc dầu bốc cháy ở Krasnodar của Nga sau cuộc tấn công bằng máy bay không người lái",
-      "summary_vi": "Ukraine tấn công nhà máy lọc dầu Afipsky của Moscow và nhà máy điện hạt nhân Zaporizhzhia do Nga kiểm soát",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-09T082846Z_660942604_RC26WLAKM19S_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-PUTIN-1783598211.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack",
-      "source": "Al Jazeera",
-      "category": "energy",
-      "published": "2026-08-26 02:27"
     }
   ]
 }

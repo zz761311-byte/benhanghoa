@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-27 15:00",
+  "updated_at": "2026-08-27 16:00",
   "items": [
+    {
+      "id": "m5uv2i",
+      "title": "Alberta Premier Rejects Using Oil as a Weapon Against Trump",
+      "title_vi": "Thủ tướng Alberta từ chối sử dụng dầu làm vũ khí chống lại Trump",
+      "summary_vi": "Thủ tướng của Alberta, Danielle Smith, đã bác bỏ ý tưởng áp thuế xuất khẩu đối với dầu thô xuất khẩu sang Hoa Kỳ để trả đũa việc chính quyền Trump áp thuế quan đối với Ottawa, nói rằng chúng sẽ gây tổn hại cho Canada. “Mặc dù tôi hiểu sự cần thiết phải trả lời",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-27_kv9sqily4m.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Alberta-Premier-Rejects-Using-Oil-as-a-Weapon-Against-Trump.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-27 15:30"
+    },
     {
       "id": "1byn26a",
       "title": "Oil Prices Fall as Qatar Pushes New Hormuz Talks",
@@ -13,6 +24,17 @@
       "published": "2026-08-27 14:30"
     },
     {
+      "id": "1fggqwt",
+      "title": "Record Soybean Crop Forecast Meets Firm Demand Outlook",
+      "title_vi": "Dự báo vụ mùa đậu nành đáp ứng triển vọng nhu cầu vững chắc",
+      "summary_vi": "Dự báo vụ mùa đậu nành đáp ứng triển vọng nhu cầu vững chắc",
+      "image": "https://www.czapp.com/wp-content/uploads/2026/08/e953c4b2-08f0-4bc7-b44d-638f32a01443.jpg",
+      "link": "https://www.czapp.com/analyst-insights/record-soybean-crop-forecast-meets-firm-demand-outlook/",
+      "source": "czapp.com",
+      "category": "agri",
+      "published": "2026-08-27 14:00"
+    },
+    {
       "id": "1u2oo45",
       "title": "Another Tanker Struck as Hormuz Shipping Crisis Deepens",
       "title_vi": "Một tàu chở dầu khác bị tấn công khi khủng hoảng vận chuyển Hormuz ngày càng sâu sắc",
@@ -22,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-27 13:30"
+    },
+    {
+      "id": "lv0ae3",
+      "title": "Gold (XAU/USD) & Silver Price Forecast: Sticky PCE Puts Warsh and Fed in Focus",
+      "title_vi": "Dự báo giá vàng (XAU/USD) & Bạc: PCE ổn định khiến Warsh và Fed trở thành tâm điểm",
+      "summary_vi": "Vàng và bạc vẫn cân bằng khi PCE dính làm hồi sinh rủi ro thắt chặt của Fed, trong khi căng thẳng Warsh, Trung Đông và những lo ngại về tài chính hỗ trợ sự biến động.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/08/Main-Images-12-7.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/gold-xau-usd-silver-price-forecast-sticky-pce-puts-warsh-and-fed-in-focus-1619405",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-08-27 12:14"
     },
     {
       "id": "10hist4",
@@ -110,17 +143,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-27 03:00"
-    },
-    {
-      "id": "a5ilh5",
-      "title": "CNOOC Posts Record Profit as China Pumps More Oil at Home",
-      "title_vi": "CNOOC Post ghi nhận lợi nhuận khi Trung Quốc bơm thêm dầu vào nội địa",
-      "summary_vi": "Nỗ lực khai thác thêm dầu và khí đốt từ trong nước của Trung Quốc đang mang lại kết quả ngay khi năng lượng nhập khẩu ngày càng trở nên phức tạp về mặt địa chính trị. CNOOC đã công bố lợi nhuận và sản lượng nửa đầu năm kỷ lục vào thứ Tư, được hỗ trợ bởi giá dầu cao hơn sau cuộc chiến tranh Iran và tiếp tục tăng trưởng từ mức",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/CNOOC-Posts-Record-Profit-as-China-Pumps-More-Oil-at-Home.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-27 02:45"
     },
     {
       "id": "1lqy0yi",
@@ -264,17 +286,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-26 19:26"
-    },
-    {
-      "id": "185cb5s",
-      "title": "Hochschild Mining Shares Jump After Earnings Soar on Higher Gold, Silver Prices",
-      "title_vi": "Cổ phiếu khai thác mỏ Hochschild tăng vọt sau khi thu nhập tăng vọt nhờ giá vàng, bạc cao hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/earnings/hochschild-mining-shares-jump-after-earnings-soar-on-higher-gold-silver-prices-a328e5a5",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-08-26 18:38"
     },
     {
       "id": "udjq6n",
@@ -539,17 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-08-25 23:27"
-    },
-    {
-      "id": "1an5dxh",
-      "title": "Michigan Soybean Production Forecast Rises 9% for 2026",
-      "title_vi": "Dự báo sản lượng đậu nành Michigan tăng 9% vào năm 2026",
-      "summary_vi": "",
-      "image": "https://grainnet-com.s3.amazonaws.com/defaults/_1200x630_crop_center-center_82_none/GJ_default_image_1200x630.webp?mtime=1708746861",
-      "link": "https://www.grainjournal.com/article/1153141/michigan-soybean-production-forecast-rises-9-for-2026",
-      "source": "Grain Journal",
-      "category": "agri",
-      "published": "2026-08-25 23:01"
     }
   ]
 }

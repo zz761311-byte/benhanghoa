@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-27 17:00",
+  "updated_at": "2026-08-27 18:00",
   "items": [
+    {
+      "id": "s412o6",
+      "title": "Qatar and Kuwait Restore 70% of Pre-War Oil Exports Through Hormuz",
+      "title_vi": "Qatar và Kuwait khôi phục 70% xuất khẩu dầu trước chiến tranh thông qua Hormuz",
+      "summary_vi": "Qatar và Kuwait đã tìm cách tăng xuất khẩu dầu thô của họ từ eo biển Hormuz lên 70% so với mức trước chiến tranh khi họ theo chân Các Tiểu vương quốc Ả Rập Thống nhất trong việc vận chuyển dầu qua điểm thắt cổ chai và sử dụng dịch vụ vận chuyển từ tàu này sang tàu khác ở Vịnh Oman, các nhà giao dịch ẩn danh nói với Bloombe.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-27_xq1lz3oxnl.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-and-Kuwait-Restore-70-of-Pre-War-Oil-Exports-Through-Hormuz.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-27 18:00"
+    },
     {
       "id": "s7r2tr",
       "title": "Thailand Accelerates Clean Energy Push to Cut LNG Dependence",
@@ -143,17 +154,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-27 05:00"
-    },
-    {
-      "id": "10khyd",
-      "title": "Octopus Boss Warns UK Is Too Exposed to Global Gas Prices",
-      "title_vi": "Ông chủ Octopus cảnh báo Vương quốc Anh quá dễ bị ảnh hưởng bởi giá khí đốt toàn cầu",
-      "summary_vi": "Ông chủ của Octopus, Greg Jackson, đã kêu gọi Andy Burnham thực hiện “cải cách khẩn cấp” đối với thị trường năng lượng để bảo vệ các hộ gia đình khỏi giá xăng “biến động”. Jackson, người sáng lập nhà cung cấp điện gia dụng lớn nhất Vương quốc Anh, cho biết: “Quyết định của chính phủ về việc giảm thuế VAT đối với điện",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_p3kbumjneh.jpg",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Octopus-Boss-Warns-UK-Is-Too-Exposed-to-Global-Gas-Prices.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-27 04:00"
     },
     {
       "id": "16g479w",
@@ -420,6 +420,17 @@
       "published": "2026-08-26 04:44"
     },
     {
+      "id": "1u9vd8d",
+      "title": "Canada Hits Back at U.S. With Tariffs Targeting Midterm Hot Spots",
+      "title_vi": "Canada đáp trả Mỹ bằng thuế quan nhắm vào các điểm nóng giữa kỳ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/world/americas/canada-targets-u-s-metals-foods-motorcycles-in-retaliatory-tariff-package-f677222b",
+      "source": "WSJ",
+      "category": "macro",
+      "published": "2026-08-26 03:55"
+    },
+    {
       "id": "178dyxu",
       "title": "Putin decree lets Russia take control of infrastructure damaged in Ukrainian drone attacks",
       "title_vi": "Sắc lệnh của Putin cho phép Nga kiểm soát cơ sở hạ tầng bị hư hại trong các cuộc tấn công bằng máy bay không người lái của Ukraine",
@@ -539,17 +550,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-08-26 00:59"
-    },
-    {
-      "id": "1rfr4i7",
-      "title": "The US-Canada trade war could push up these prices, analysts say - ABC News",
-      "title_vi": "Các nhà phân tích nói rằng cuộc chiến thương mại Mỹ-Canada có thể đẩy giá những mặt hàng này lên cao - ABC News",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://abcnews.com/Business/us-canada-trade-war-push-prices-analysts/story?id",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "macro",
-      "published": "2026-08-26 00:39"
     }
   ]
 }

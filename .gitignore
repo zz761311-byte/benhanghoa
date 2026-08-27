@@ -41,5 +41,6 @@ CLAUDE.local.md
 # Quy ước làm việc + công cụ sao lưu nội bộ — giữ riêng, sao lưu ở kho GitHub RIÊNG TƯ
 # (xem F:\ben-hang-hoa-noi-bo). Chạy "npm run sao-luu" để cập nhật bản sao.
 CLAUDE.md
+CHECKPOINT.md
 .claude/
 scripts/sao-luu-noi-bo.mjs

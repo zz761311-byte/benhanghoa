@@ -62,6 +62,26 @@ const MA_GIAO_NGAY = { vang: "XAU", bac: "XAG", "bach-kim": "XPT" };
 // một trong hai nguồn hỏng → bỏ số giao ngay, giữ nguyên số hợp đồng.
 const NGUONG_LECH_GIAO_NGAY = 15;
 
+// ── Ngưỡng CẢNH BÁO — bot hỏng thì phải KÊU ───────────────────────────────
+//
+// 🔴 Bẫy đã mắc ở bot tin tức (22–27/08/2026): khâu dịch chết mà không kêu một
+// tiếng, web đầy tin tiếng Anh suốt 5 ngày. Bot giá có đúng điểm yếu ấy: trước
+// đây chỉ khi KHÔNG lấy được mã nào mới báo đỏ — lấy được 1/18 mã vẫn xanh như
+// thường, và giá cũ dùng lại có thể ôi nhiều ngày mà không ai hay.
+//
+// Ngưỡng cố ý đặt vừa phải: cảnh báo kêu oan nhiều lần thì người vận hành sẽ
+// quen tay bỏ qua, đến lúc hỏng thật lại không ai nhìn.
+
+// Lỗi lẻ tẻ 1–2 mã là chuyện thường (mạng chập chờn, Yahoo nghẽn nhất thời).
+// Từ một phần ba số mã trở lên là dấu hiệu nguồn đổi cách trả dữ liệu hoặc chặn bot.
+const TY_LE_LOI_BAO_DO = 1 / 3;
+
+// Giá cũ quá 72 giờ thì không còn là "giá hôm nay" nữa. Chọn 72 chứ không nhỏ
+// hơn vì kỳ nghỉ cuối tuần bình thường đã cách nhau khoảng 57 giờ (sàn đóng
+// 21:00 UTC thứ Sáu, mở lại 22:00 UTC Chủ nhật) — đặt thấp hơn sẽ kêu oan mỗi
+// sáng thứ Hai. Dịp lễ dài của sàn Mỹ vẫn có thể kêu oan, chấp nhận đánh đổi.
+const SO_GIO_GIA_COI_LA_OI = 72;
+
 const MAY_TRINH_DUYET = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36";
 
 function lamTron(so, chuSo = 2) {
@@ -240,8 +260,10 @@ if (existsSync(TAP_TIN)) {
 
 const ketQua = {};
 let soDuoc = 0;
-let soLoi = 0;
-let soDungBanCu = 0;
+// Ghi lại TÊN mặt hàng lỗi và mặt hàng phải dùng lại giá cũ, chứ không chỉ đếm
+// rồi quên — cuối lượt chạy còn có cái mà báo cho người vận hành biết hỏng ở đâu.
+const dsLoi = [];         // { ten, ma, loi }
+const dsDungBanCu = [];   // { ten, capNhat }
 
 for (const matHang of canLay) {
   try {
@@ -275,24 +297,27 @@ for (const matHang of canLay) {
       (dau + gia.doiPhanTram + "%").padStart(9) + "   " + gia.tenHopDong
     );
   } catch (loi) {
-    soLoi++;
+    dsLoi.push({ ten: matHang.name, ma: matHang.yahoo, loi: loi.message });
     console.log("  ❌ " + matHang.name.padEnd(16) + matHang.yahoo.padEnd(8) + loi.message);
     // Giữ lại số cũ nếu có, đánh dấu là số cũ
     const cu = banCu.items?.[matHang.slug];
     if (cu) {
       ketQua[matHang.slug] = { ...cu, soCu: true };
-      soDungBanCu++;
+      dsDungBanCu.push({ ten: matHang.name, capNhat: cu.capNhat || null });
       console.log("     ↳ giữ lại giá lần lấy trước (" + (cu.capNhat || "không rõ lúc nào") + ")");
     }
   }
 }
 
 console.log(
-  "\nLấy được " + soDuoc + ", lỗi " + soLoi +
-  (soDungBanCu ? " (trong đó " + soDungBanCu + " mã dùng lại giá cũ)" : "")
+  "\nLấy được " + soDuoc + ", lỗi " + dsLoi.length +
+  (dsDungBanCu.length ? " (trong đó " + dsDungBanCu.length + " mã dùng lại giá cũ)" : "")
 );
 
 // ==== Giá giao ngay cho ba kim loại quý ====
+// Với vàng, bạc, bạch kim thì đây mới là con số CHÍNH hiện trên web, nên hỏng ở
+// đây cũng phải đếm và báo như hỏng giá thường.
+const dsGiaoNgayCu = [];   // { ten, capNhat }
 for (const [slug, maKimLoai] of Object.entries(MA_GIAO_NGAY)) {
   const matHang = ketQua[slug];
   // Không lấy được giá hợp đồng thì bỏ qua luôn — không có gì để đối chiếu
@@ -313,6 +338,7 @@ for (const [slug, maKimLoai] of Object.entries(MA_GIAO_NGAY)) {
     const cu = banCu.items?.[slug]?.giaoNgay;
     if (cu) {
       matHang.giaoNgay = { ...cu, soCu: true };
+      dsGiaoNgayCu.push({ ten: ALL.find((mh) => mh.slug === slug)?.name || slug, capNhat: cu.capNhat || null });
       console.log("     ↳ giữ lại giá giao ngay lần trước (" + (cu.capNhat || "không rõ lúc nào") + ")");
     }
   }
@@ -340,9 +366,109 @@ try {
   }
 }
 
+// ==== SỨC KHOẺ LƯỢT CHẠY — hỏng thì phải KÊU ====
+//
+// Đặt `process.exitCode` chứ KHÔNG gọi `process.exit()`: phần ghi tập tin bên
+// dưới vẫn phải chạy cho xong. Số nào lấy được vẫn là số đúng và mới, đăng lên
+// vẫn hơn giữ số hôm qua — nhưng lượt chạy phải đỏ để người vận hành biết đường
+// mà sửa. Việc "vẫn commit rồi mới báo đỏ" do workflow lo (fetch-prices.yml).
+function soGioKeTu(mocThoiGian) {
+  const moc = Date.parse(mocThoiGian || "");
+  if (Number.isNaN(moc)) return null;
+  return (Date.now() - moc) / 3600000;
+}
+// Không đọc được mốc thời gian thì coi như ôi — thà kêu oan còn hơn bỏ sót.
+const daOi = (mocThoiGian) => {
+  const gio = soGioKeTu(mocThoiGian);
+  return gio === null || gio > SO_GIO_GIA_COI_LA_OI;
+};
+const soNgay = (mocThoiGian) => {
+  const gio = soGioKeTu(mocThoiGian);
+  return gio === null ? "không rõ" : Math.round(gio) + " giờ";
+};
+
+// Liệt kê tên nhưng cắt bớt khi quá dài — 18 dòng giống hệt nhau thì người đọc
+// bỏ qua cả cảnh báo, thành ra lại không ai biết bot hỏng.
+const kePhepTen = (ds, soToiDa = 4) => {
+  const ten = ds.map((m) => m.ten);
+  return ten.length > soToiDa
+    ? ten.slice(0, soToiDa).join(", ") + " …và " + (ten.length - soToiDa) + " mã nữa"
+    : ten.join(", ");
+};
+
+const canhBaoDo = [];   // đủ nặng để lượt chạy phải đỏ
+const canhBaoVang = []; // đáng để mắt, chưa tới mức báo động
+
+// 1. Quá nhiều mã lỗi → nguồn dữ liệu có thể đã đổi hoặc chặn bot.
+//    Gom theo thông điệp lỗi: 18 mã cùng chết vì một nguyên nhân thì chỉ cần
+//    thấy một dòng là biết nguyên nhân ấy.
+if (dsLoi.length >= Math.ceil(canLay.length * TY_LE_LOI_BAO_DO)) {
+  const theoLoi = new Map();
+  for (const m of dsLoi) {
+    if (!theoLoi.has(m.loi)) theoLoi.set(m.loi, []);
+    theoLoi.get(m.loi).push(m);
+  }
+  canhBaoDo.push(
+    dsLoi.length + "/" + canLay.length + " mặt hàng KHÔNG lấy được giá — " +
+    [...theoLoi].map(([loi, ds]) => '"' + loi + '" (' + kePhepTen(ds) + ")").join(" · ")
+  );
+} else if (dsLoi.length > 0) {
+  canhBaoVang.push(dsLoi.length + " mặt hàng lỗi: " + kePhepTen(dsLoi, 6));
+}
+
+// 2. Giá cũ dùng lại đã quá hạn — web đang hiện số không còn đúng ngày hôm nay
+const giaOi = dsDungBanCu.filter((m) => daOi(m.capNhat));
+if (giaOi.length) {
+  canhBaoDo.push(
+    giaOi.length + " mặt hàng đang hiện GIÁ CŨ quá " + SO_GIO_GIA_COI_LA_OI + " giờ (cũ nhất " +
+    soNgay(giaOi.map((m) => m.capNhat).sort()[0]) + " trước): " + kePhepTen(giaOi)
+  );
+} else if (dsDungBanCu.length) {
+  canhBaoVang.push(dsDungBanCu.length + " mặt hàng dùng lại giá lần trước (còn trong hạn)");
+}
+
+// 3. Giá giao ngay kim loại quý — đây mới là số CHÍNH hiện cho vàng/bạc/bạch kim
+const giaoNgayOi = dsGiaoNgayCu.filter((m) => daOi(m.capNhat));
+if (giaoNgayOi.length) {
+  canhBaoDo.push(
+    "giá GIAO NGAY quá " + SO_GIO_GIA_COI_LA_OI + " giờ ở: " +
+    giaoNgayOi.map((m) => m.ten + " (" + soNgay(m.capNhat) + " trước)").join(" · ")
+  );
+} else if (dsGiaoNgayCu.length) {
+  canhBaoVang.push(dsGiaoNgayCu.length + " kim loại quý dùng lại giá giao ngay lần trước");
+}
+
+// 4. Tỷ giá — sai tỷ giá là sai TOÀN BỘ cột quy ra tiền Việt
+if (!tyGia) {
+  canhBaoDo.push("KHÔNG có tỷ giá USD/VND — mọi trang đang ẩn phần quy đổi tiền Việt");
+} else if (tyGia.soCu && daOi(tyGia.capNhat)) {
+  canhBaoDo.push("tỷ giá USD/VND đã cũ " + soNgay(tyGia.capNhat) + " — cột tiền Việt đang tính bằng số lỗi thời");
+} else if (tyGia.soCu) {
+  canhBaoVang.push("tỷ giá dùng lại lần trước (còn trong hạn)");
+}
+
+console.log(
+  "\n── Sức khoẻ lượt chạy ──────────────────────────────────\n" +
+  "   Lấy được " + soDuoc + "/" + canLay.length +
+  " · lỗi " + dsLoi.length +
+  " · dùng giá cũ " + dsDungBanCu.length +
+  " · tỷ giá " + (tyGia ? (tyGia.soCu ? "dùng lại số cũ" : "mới") : "KHÔNG CÓ")
+);
+for (const c of canhBaoVang) console.log("   ⚠️  " + c);
+
+if (canhBaoDo.length) {
+  console.error("\n❌ BOT GIÁ ĐANG HỎNG — không để nó im lặng:");
+  for (const c of canhBaoDo) console.error("   • " + c);
+  console.error(
+    "   Web vẫn hiện số (mới lấy được hoặc số cũ có ghi rõ thời điểm), nhưng phải\n" +
+    "   sửa sớm: số cũ để lâu là nói dối người đọc mà không ai biết."
+  );
+  process.exitCode = 1;
+}
+
 if (chiThu) {
   console.log("\n== Chế độ xem thử — KHÔNG ghi tập tin ==");
-  process.exit(0);
+  process.exit(process.exitCode || 0);
 }
 
 // Không lấy được mã nào thì đừng ghi đè — giữ nguyên bản cũ còn hơn xoá sạch
@@ -365,7 +491,8 @@ const tyGiaGiongHet =
 if (giaGiongHet && tyGiaGiongHet) {
   console.log("\nGiá và tỷ giá không đổi so với lần lấy trước (thị trường có thể đang đóng cửa).");
   console.log("Không ghi lại tập tin — tránh tạo lượt lưu phiên bản thừa.");
-  process.exit(0);
+  // Không ghi tập tin, nhưng nếu bot đang hỏng thì vẫn phải kêu
+  process.exit(process.exitCode || 0);
 }
 
 await mkdir(dirname(TAP_TIN), { recursive: true });
@@ -378,6 +505,15 @@ await writeFile(
       soMatHang: Object.keys(ketQua).length,
       // Thiếu tỷ giá thì để null — trang web tự ẩn phần quy đổi tiền Việt
       tyGia: tyGia || null,
+      // Tình hình lượt lấy này, ghi lại để mở tập tin ra là biết ngay bot có
+      // đang khoẻ không — khỏi phải lục nhật ký GitHub Actions
+      sucKhoe: {
+        soCanLay: canLay.length,
+        soLayDuoc: soDuoc,
+        maLoi: dsLoi.map((m) => m.ten),
+        maDungGiaCu: dsDungBanCu.map((m) => m.ten),
+        canhBao: canhBaoDo,
+      },
       items: ketQua,
     },
     null,
@@ -387,3 +523,9 @@ await writeFile(
 );
 
 console.log("✅ Đã ghi " + TAP_TIN);
+
+// Ghi xong rồi mới thoát với mã lỗi — để workflow kịp lưu phiên bản tập tin giá
+// trước khi lượt chạy chuyển sang màu đỏ.
+if (process.exitCode) {
+  console.error("\n⚠️  Đã ghi tập tin, nhưng lượt chạy này BÁO ĐỎ vì các cảnh báo ở trên.");
+}

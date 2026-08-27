@@ -460,7 +460,13 @@ ${parsed.captions || "(AI không trả về caption)"}
 // ── Chạy chính ───────────────────────────────────────────────────────────────
 
 async function main() {
-  if (!existsSync(NEWS_PATH)) { console.log("⚠️ Chưa có news.json — bỏ qua."); return; }
+  // Không có news.json là chuyện BẤT THƯỜNG — tập tin này luôn nằm trong kho.
+  // Thiếu nó nghĩa là bot tin tức đang hỏng, phải kêu chứ không "bỏ qua" êm ru.
+  if (!existsSync(NEWS_PATH)) {
+    console.error("❌ Không tìm thấy public/data/news.json — bot tin tức có thể đang hỏng. Không soạn được nháp.");
+    process.exitCode = 1;
+    return;
+  }
   const topic = (process.env.TOPIC || "").trim();   // chủ đề bạn gõ khi bấm Run workflow
   const focus = (process.env.FOCUS || "").trim();   // trọng tâm bạn muốn nhấn
 
@@ -474,7 +480,22 @@ async function main() {
   const news = JSON.parse(await readFile(NEWS_PATH, "utf8"));
   const usedIds = await loadUsedIds();
   const cluster = await pickCluster(news.items || [], usedIds, topic);
-  if (!cluster) { console.log("ℹ️ Không có tin mới phù hợp để viết hôm nay."); return; }
+  if (!cluster) {
+    // Chỉ định chủ đề mà không có tin — pickNews đã in lý do rồi, dừng êm.
+    if (topic) return;
+    // Không chỉ định chủ đề mà vẫn không chọn được tin nào thì phải nói rõ vướng
+    // ở khâu nào, đừng để người vận hành đoán mò suốt nhiều ngày không có bài.
+    const ds = news.items || [];
+    const dungNhom = ds.filter((t) => ALLOWED_CATS.has(t.category));
+    const duTomTat = dungNhom.filter((t) => (t.summary_vi || "").trim().length > 40);
+    const chuaDung = duTomTat.filter((t) => !usedIds.has(t.id));
+    console.log(
+      `ℹ️ Không có tin mới phù hợp để viết hôm nay:\n` +
+      `   ${ds.length} tin → ${dungNhom.length} đúng nhóm hàng theo dõi` +
+      ` → ${duTomTat.length} đủ tóm tắt (>40 ký tự) → ${chuaDung.length} chưa dùng.`
+    );
+    return;
+  }
   const it = cluster.primary;
 
   if (topic) console.log(`🎯 Chủ đề yêu cầu: ${topic}`);
@@ -485,21 +506,38 @@ async function main() {
 
   const providers = [["gemini", callGemini], ["groq", callGroq], ["openrouter", callOpenRouter]];
   const written = [];
+  // Ghi lại vì sao từng nhà cung cấp không viết được — để lúc KHÔNG có bản nháp
+  // nào thì còn nói được nguyên nhân, thay vì một câu "kiểm tra chìa khóa AI".
+  const dsHong = [];
   for (const [name, fn] of providers) {
     try {
       const raw = await fn(prompt);
-      if (raw == null) { console.log(`⏭️  Bỏ qua ${name} (thiếu chìa khóa).`); continue; }
+      if (raw == null) {
+        dsHong.push(`${name}: thiếu chìa khóa (chưa đặt ${name.toUpperCase()}_API_KEY)`);
+        console.log(`⏭️  Bỏ qua ${name} (thiếu chìa khóa).`);
+        continue;
+      }
       const parsed = parseAI(raw);
-      if (!parsed.body) { console.log(`⚠️ ${name} trả về sai định dạng — bỏ.`); continue; }
+      if (!parsed.body) {
+        dsHong.push(`${name}: trả về sai định dạng, không tách được phần bài viết`);
+        console.log(`⚠️ ${name} trả về sai định dạng — bỏ.`);
+        continue;
+      }
       const file = await writeDraft(name, cluster, parsed);
       written.push(file);
       console.log(`✅ ${name} → drafts/${file}`);
     } catch (e) {
-      // 429 / hết quota free là chuyện BÌNH THƯỜNG của AI miễn phí — bỏ qua êm,
-      // KHÔNG coi là lỗi (các nhà cung cấp khác vẫn viết được nháp như thường).
+      // 429 / hết quota free là chuyện BÌNH THƯỜNG của AI miễn phí — nhà cung cấp
+      // khác vẫn viết được nháp như thường. Nhưng vẫn phải GHI LẠI: nếu cả ba
+      // cùng hết lượt thì hôm nay không có bài, và đó là chuyện phải báo.
       const hetLuot = /HTTP 429|quota|rate.?limit|hết hạn mức/i.test(e.message);
-      if (hetLuot) console.log(`⏭️  Bỏ qua ${name} (tạm hết lượt free hôm nay) — không sao, AI khác vẫn viết.`);
-      else console.log(`❌ ${name} lỗi: ${e.message}`);
+      if (hetLuot) {
+        dsHong.push(`${name}: tạm hết lượt miễn phí hôm nay`);
+        console.log(`⏭️  Bỏ qua ${name} (tạm hết lượt free hôm nay) — không sao, AI khác vẫn viết.`);
+      } else {
+        dsHong.push(`${name}: ${e.message}`);
+        console.log(`❌ ${name} lỗi: ${e.message}`);
+      }
     }
   }
 
@@ -507,9 +545,16 @@ async function main() {
     usedIds.add(it.id);
     await writeFile(USED_PATH, JSON.stringify([...usedIds], null, 0), "utf8");
     console.log(`\n🎉 Đã tạo ${written.length} bản nháp trong drafts/. Mở ra duyệt rồi đăng.`);
-  } else {
-    console.log("\n⚠️ Không tạo được bản nháp nào (kiểm tra chìa khóa AI).");
+    return;
   }
+
+  // Có tin để viết mà KHÔNG viết được bài nào → hỏng thật, phải kêu.
+  // Bản cũ chỉ in một dòng ⚠️ rồi thoát êm (mã 0), nên nhiều ngày liền không có
+  // nháp mà lượt chạy vẫn xanh — đúng kiểu chết âm thầm của bot dịch tin.
+  console.error("\n❌ KHÔNG TẠO ĐƯỢC BẢN NHÁP NÀO — hôm nay không có bài để duyệt.");
+  for (const lyDo of dsHong) console.error("   • " + lyDo);
+  console.error("   Kiểm chìa khóa AI trong Secrets của kho, hoặc chờ hạn mức miễn phí phục hồi.");
+  process.exitCode = 1;
 }
 
 main().catch((e) => { console.error("Lỗi nghiêm trọng:", e); process.exit(1); });

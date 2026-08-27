@@ -36,7 +36,12 @@ jobs:
         with:
           node-version: "22"
 
+      # `continue-on-error` KHÔNG phải để nuốt lỗi — hai bước cuối vẫn bắt lượt
+      # chạy đỏ. Nó chỉ để việc dọn nháp cũ hơn 14 ngày vẫn chạy dù khâu soạn bài
+      # hỏng, kẻo thư mục drafts/ phình mãi mỗi khi AI trục trặc.
       - name: Soạn nháp bằng AI miễn phí (Gemini + Groq + DeepSeek)
+        id: soan-nhap
+        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
@@ -82,3 +87,16 @@ jobs:
             git pull --rebase --autostash origin "${{ github.ref_name }}" || true
             git push
           fi
+
+      # Hỏng thì phải KÊU — nhưng đừng kêu oan. Lượt 08:17 hỏng thì vẫn còn lượt
+      # dự phòng 08:47 cứu, nên lượt đầu chỉ ghi cảnh báo vàng. Chỉ khi lượt dự
+      # phòng (hoặc lượt bấm chạy tay) vẫn không ra bài mới báo đỏ để GitHub gửi thư.
+      - name: Ghi chú nếu lượt đầu chưa soạn được nháp
+        if: steps.soan-nhap.outcome == 'failure' && github.event.schedule == '17 1 * * *'
+        run: echo "::warning::Lượt 08:17 chưa soạn được bản nháp nào — chờ lượt dự phòng 08:47."
+
+      - name: Báo đỏ nếu vẫn không soạn được nháp
+        if: steps.soan-nhap.outcome == 'failure' && github.event.schedule != '17 1 * * *'
+        run: |
+          echo "::error::Không soạn được bản nháp nào — mở nhật ký bước 'Soạn nháp bằng AI miễn phí' xem lý do từng nhà cung cấp."
+          exit 1

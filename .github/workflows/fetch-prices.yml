@@ -46,7 +46,13 @@ jobs:
         with:
           node-version: "22"
 
+      # ⚠️ `continue-on-error` ở đây KHÔNG phải để nuốt lỗi — bước cuối cùng vẫn
+      # bắt lượt chạy đỏ. Nó chỉ để giá lấy được kịp lưu lên web trước đã: bot
+      # báo hỏng thường là hỏng MỘT PHẦN (vài mã lỗi, giá cũ quá hạn), số còn lại
+      # vẫn mới và đúng. Dừng ngay ở đây thì web mất luôn cả số đúng.
       - name: Lấy giá hàng hóa
+        id: lay-gia
+        continue-on-error: true
         run: node scripts/fetch-prices.mjs
 
       - name: Commit gia.json nếu giá có thay đổi
@@ -61,3 +67,11 @@ jobs:
             git pull --rebase --autostash origin "${{ github.ref_name }}" || true
             git push
           fi
+
+      # Hỏng thì phải KÊU. Bot tin tức từng chết âm thầm 5 ngày vì lượt chạy vẫn
+      # xanh (xem CLAUDE.md). Bước này làm lượt chạy đỏ để GitHub gửi thư báo.
+      - name: Báo đỏ nếu bot giá kêu hỏng
+        if: steps.lay-gia.outcome == 'failure'
+        run: |
+          echo "::error::Bot giá báo hỏng — mở nhật ký bước 'Lấy giá hàng hóa', đọc mục 'Sức khoẻ lượt chạy'."
+          exit 1

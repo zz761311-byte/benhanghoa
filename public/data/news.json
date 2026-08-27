@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27 08:00",
+  "updated_at": "2026-08-27 09:00",
   "items": [
     {
       "id": "771910",
@@ -132,6 +132,17 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-08-26 23:40"
+    },
+    {
+      "id": "65hs73",
+      "title": "These Copper Stocks Stay Hot As Metal Hits Record High",
+      "title_vi": "These Copper Stocks Stay Hot As Metal Hits Record High",
+      "summary_vi": "Copper prices are trading near record highs, and around the world, various sources of copper are strained. Multiple copper stocks rose past buy points.",
+      "image": "https://www.investors.com/wp-content/uploads/2026/08/stock-gold-pit-adobe.jpg",
+      "link": "https://www.investors.com/news/copper-miners-stocks-bhp-scco-fcx-tariffs/",
+      "source": "Investor's Business Daily",
+      "category": "metal",
+      "published": "2026-08-26 23:27"
     },
     {
       "id": "1uwcgcl",
@@ -539,17 +550,6 @@
       "source": "Newsweek",
       "category": "metal",
       "published": "2026-08-25 22:20"
-    },
-    {
-      "id": "18stntw",
-      "title": "US tariff threat upends copper surplus as prices test all-time peak",
-      "title_vi": "US tariff threat upends copper surplus as prices test all-time peak",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/us-tariff-threat-upends-copper-surplus-prices-test-all-time-peak-2026-08-25/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-08-25 22:01"
     }
   ]
 }

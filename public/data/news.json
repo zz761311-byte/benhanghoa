@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27 09:00",
+  "updated_at": "2026-08-27 10:00",
   "items": [
     {
       "id": "771910",
@@ -77,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-27 02:45"
+    },
+    {
+      "id": "1lqy0yi",
+      "title": "Ohio corn growers push for answers on fertilizer prices – Ohio Ag Net",
+      "title_vi": "Ohio corn growers push for answers on fertilizer prices – Ohio Ag Net",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://ocj.com/2026/08/ohio-corn-growers-push-for-answers-on-fertilizer-prices/",
+      "source": "Ohio's Country Journal",
+      "category": "agri",
+      "published": "2026-08-27 02:15"
     },
     {
       "id": "1c6v2el",
@@ -539,17 +550,6 @@
       "source": "Barchart.com",
       "category": "soft",
       "published": "2026-08-25 22:45"
-    },
-    {
-      "id": "wgvze0",
-      "title": "Nate Silver Outlines Which Races Could Decide Control of Senate",
-      "title_vi": "Nate Silver Outlines Which Races Could Decide Control of Senate",
-      "summary_vi": "Silver&#x27;s forecast suggests the Texas Senate race is the most likely to be the tipping point that decides control of the Senate.",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2026/08/GettyImages-2291094069.jpg?w=1200&crop=1",
-      "link": "https://www.newsweek.com/nate-silver-outlines-which-races-could-decide-control-of-senate-12364019",
-      "source": "Newsweek",
-      "category": "metal",
-      "published": "2026-08-25 22:20"
     }
   ]
 }

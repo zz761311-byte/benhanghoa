@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29 04:00",
+  "updated_at": "2026-08-29 05:00",
   "items": [
     {
       "id": "awth3r",
@@ -132,6 +132,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-28 21:32"
+    },
+    {
+      "id": "1jtx752",
+      "title": "Where to Invest Now as Data Centers Turn Copper Into a Hot Commodity",
+      "title_vi": "Đầu tư vào đâu ngay bây giờ khi các trung tâm dữ liệu biến đồng thành hàng hóa nóng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.advisorperspectives.com/articles/2026/08/28/where-invest-data-centers-turn-copper-hot-commodity?topic",
+      "source": "Advisor Perspectives",
+      "category": "metal",
+      "published": "2026-08-28 21:21"
     },
     {
       "id": "yp4vik",
@@ -539,17 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-08-26 23:40"
-    },
-    {
-      "id": "65hs73",
-      "title": "These Copper Stocks Stay Hot As Metal Hits Record High",
-      "title_vi": "Những cổ phiếu đồng này vẫn nóng khi kim loại đạt mức cao kỷ lục",
-      "summary_vi": "Giá đồng đang giao dịch gần mức cao kỷ lục và trên khắp thế giới, nhiều nguồn cung cấp đồng đang bị căng thẳng. Nhiều cổ phiếu đồng đã vượt qua điểm mua.",
-      "image": "https://www.investors.com/wp-content/uploads/2026/08/stock-gold-pit-adobe.jpg",
-      "link": "https://www.investors.com/news/copper-miners-stocks-bhp-scco-fcx-tariffs/",
-      "source": "Investor's Business Daily",
-      "category": "metal",
-      "published": "2026-08-26 23:27"
     }
   ]
 }

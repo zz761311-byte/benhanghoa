@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-28 15:00",
+  "updated_at": "2026-08-28 16:00",
   "items": [
+    {
+      "id": "1aod2co",
+      "title": "China’s Solar Boom Hits a Wall as Industry Losses Mount",
+      "title_vi": "Sự bùng nổ năng lượng mặt trời của Trung Quốc vấp phải bức tường khi ngành công nghiệp thua lỗ ngày càng tăng",
+      "summary_vi": "Ba trong số các công ty lớn trên thị trường năng lượng mặt trời của Trung Quốc báo cáo lỗ ngày càng sâu trong nửa đầu năm, phản ánh nhu cầu về năng lượng mặt trời tại nhà sản xuất và phát điện hàng đầu thế giới đang suy yếu. Jinko Solar, JA Solar Technology và Tongwei đều báo lỗ sáu tháng do dư thừa công suất",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-28_do6pensp2f.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Solar-Boom-Hits-a-Wall-as-Industry-Losses-Mount.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-28 15:15"
+    },
     {
       "id": "f2lbsz",
       "title": "Hormuz Tanker Traffic Drops Despite Recovery in Oil Flows",
@@ -121,17 +132,6 @@
       "source": "WSJ",
       "category": "agri",
       "published": "2026-08-28 02:43"
-    },
-    {
-      "id": "k19x4v",
-      "title": "Trump’s War on Offshore Wind Leaves U.S. Workers in Limbo",
-      "title_vi": "Cuộc chiến của Trump về gió ngoài khơi khiến công nhân Mỹ rơi vào tình trạng lấp lửng",
-      "summary_vi": "Tổng thống Hoa Kỳ Trump đã chỉ trích mạnh mẽ năng lượng gió kể từ khi nhậm chức, đưa ra một số hành động điều hành nhằm hạn chế phát triển các trang trại gió. Trump đặc biệt nhắm tới năng lượng gió ngoài khơi, dẫn đến một số dự án bị tạm dừng hoặc có thể",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-26_2hiwxhz80k.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Trumps-War-on-Offshore-Wind-Leaves-US-Workers-in-Limbo.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-28 02:00"
     },
     {
       "id": "yos15x",
@@ -319,6 +319,17 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-08-27 04:52"
+    },
+    {
+      "id": "19pfeaf",
+      "title": "Copper Climbs From Record-High Close With Supply Still Tight",
+      "title_vi": "Đồng tăng từ mức cao kỷ lục khi đóng cửa với nguồn cung vẫn eo hẹp",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-26/copper-climbs-from-record-high-close-with-supply-still-tight",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-08-27 02:36"
     },
     {
       "id": "1lqy0yi",
@@ -539,17 +550,6 @@
       "source": "Centre for Research on Energy and Clean Air",
       "category": "energy",
       "published": "2026-08-26 13:00"
-    },
-    {
-      "id": "hxajp2",
-      "title": "Mondelez: Quality At A Reasonable Price, Regardless Of Cocoa Noise",
-      "title_vi": "Mondelez: Chất lượng với mức giá hợp lý, bất chấp tiếng ồn ca cao",
-      "summary_vi": "Cổ phiếu Mondelez (MDLZ) vẫn là Mua: tăng trưởng đồ ăn nhẹ kiên cường, động lực của thị trường mới nổi, hướng dẫn nâng cao và định giá hấp dẫn bất chấp chi phí ca cao. Xem thêm.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/520019671/image_520019671.jpg?io=getty-c-w1536",
-      "link": "https://seekingalpha.com/article/4940176-mondelez-quality-at-a-reasonable-price-regardless-of-cocoa-noise",
-      "source": "Seeking Alpha",
-      "category": "soft",
-      "published": "2026-08-26 10:15"
     }
   ]
 }

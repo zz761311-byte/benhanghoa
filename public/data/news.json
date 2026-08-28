@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28 10:00",
+  "updated_at": "2026-08-28 11:00",
   "items": [
     {
       "id": "1onhi5z",
@@ -176,6 +176,17 @@
       "source": "U.S. Gold Bureau",
       "category": "metal",
       "published": "2026-08-27 20:39"
+    },
+    {
+      "id": "1pxzzx1",
+      "title": "Bear River Eyes More Natural Gas Storage Capacity as US Demand Outlook Swells",
+      "title_vi": "Bear River chú ý đến khả năng lưu trữ khí đốt tự nhiên nhiều hơn khi triển vọng nhu cầu của Hoa Kỳ tăng lên",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/bear-river-eyes-more-natural-gas-storage-capacity-as-us-demand-outlook-swells/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-08-27 20:01"
     },
     {
       "id": "1t4gewa",
@@ -539,17 +550,6 @@
       "source": "Bloomberg",
       "category": "metal",
       "published": "2026-08-26 10:06"
-    },
-    {
-      "id": "3uad0a",
-      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
-      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
-      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/markets/agriculture/images/grain-oilseed-pgp-leadspace.jpg",
-      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-08-26 08:08"
     }
   ]
 }

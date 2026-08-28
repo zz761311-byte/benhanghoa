@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28 14:00",
+  "updated_at": "2026-08-28 15:00",
   "items": [
     {
       "id": "f2lbsz",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-28 05:00"
+    },
+    {
+      "id": "1pyv27v",
+      "title": "Wheat, Soybeans, Cotton Make New Highs, Corn Corrects: But Higher Prices Ahead",
+      "title_vi": "Lúa mì, đậu nành, bông đạt mức cao mới, ngô điều chỉnh: Nhưng giá sẽ cao hơn ở phía trước",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/wheat-soybeans-cotton-make-new-highs-corn-corrects-higher-prices-ahead",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-08-28 04:18"
     },
     {
       "id": "14sddey",
@@ -539,17 +550,6 @@
       "source": "Seeking Alpha",
       "category": "soft",
       "published": "2026-08-26 10:15"
-    },
-    {
-      "id": "19pfeaf",
-      "title": "Copper Climbs From Record-High Close With Supply Still Tight",
-      "title_vi": "Đồng tăng từ mức cao kỷ lục khi đóng cửa với nguồn cung vẫn eo hẹp",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-26/copper-climbs-from-record-high-close-with-supply-still-tight",
-      "source": "Bloomberg",
-      "category": "metal",
-      "published": "2026-08-26 10:06"
     }
   ]
 }

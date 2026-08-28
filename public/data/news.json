@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-29 02:00",
+  "updated_at": "2026-08-29 03:00",
   "items": [
+    {
+      "id": "awth3r",
+      "title": "Europe’s Russia Sanctions Have a Major Blind Spot",
+      "title_vi": "Các lệnh trừng phạt Nga của Châu Âu có một điểm mù lớn",
+      "summary_vi": "Trong hai năm qua, EU và Anh đã nổi lên như những chủ thể hàng đầu trong việc áp đặt các lệnh trừng phạt đối với Nga. Nhưng những người như Maria Demertzis, Giáo sư tại Viện Đại học Châu Âu ở Ý, đã đặt ra câu hỏi xung quanh tính hiệu quả của chiến dịch trừng phạt.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-28_pxev2fwdfo.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Russia-Sanctions-Have-a-Major-Blind-Spot.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-08-29 03:00"
+    },
     {
       "id": "1l7y991",
       "title": "The AI Boom Could Triple Data Center Water Use by 2030",
@@ -57,6 +68,17 @@
       "published": "2026-08-29 00:24"
     },
     {
+      "id": "vvljie",
+      "title": "Silver Price Forecast: False breakout and hawkish Fed sinks XAG",
+      "title_vi": "Dự báo giá bạc: Đột phá sai lầm và Fed diều hâu nhấn chìm XAG",
+      "summary_vi": "Giá bạc (XAG/USD) đã quay đầu sau khi đạt mức cao nhất trong hai tháng là 71,12 USD vào thứ Sáu, sau đó giảm xuống dưới con số 69,00 USD khi Chủ tịch Cục Dự trữ Liên bang (Fed) Kevin Warsh có thái độ diều hâu trong bài phát biểu tại Jackson Hole, đẩy lãi suất Kho bạc Hoa Kỳ cao hơn.",
+      "image": "https://editorial.fxsstatic.com/images/i/discover-54_Medium.png",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-false-breakout-and-hawkish-fed-sinks-xag-202608281630",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-08-28 23:30"
+    },
+    {
       "id": "v62xqw",
       "title": "Gas Prices in Asia and Europe Jump as Qatar Extends LNG Force Majeure",
       "title_vi": "Giá khí đốt ở châu Á và châu Âu tăng vọt khi Qatar gia hạn tình trạng bất khả kháng LNG",
@@ -77,17 +99,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-28 22:55"
-    },
-    {
-      "id": "1r5r6zz",
-      "title": "Ukraine Drones Spark Fire at Russian Refinery as Fuel Crisis Worsens",
-      "title_vi": "Máy bay không người lái Ukraine gây hỏa hoạn tại nhà máy lọc dầu của Nga khi khủng hoảng nhiên liệu trở nên tồi tệ hơn",
-      "summary_vi": "Lực lượng Ukraine đã tấn công nhà máy lọc dầu Slavneft-YANOS ở Yaroslavl, Nga vào sáng sớm thứ Sáu, bằng máy bay không người lái gây ra hỏa hoạn tại cơ sở này, Bộ Tổng tham mưu Ukraine cho biết, khi Ukraine tiếp tục tấn công cơ sở hạ tầng lọc dầu của Nga nhằm làm xấu đi nguồn nhiên liệu nội địa của Nga.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-28_1nadsunidr.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Drones-Spark-Fire-at-Russian-Refinery-as-Fuel-Crisis-Worsens.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-28 22:30"
     },
     {
       "id": "1tnn212",
@@ -508,6 +519,17 @@
       "published": "2026-08-27 00:38"
     },
     {
+      "id": "1gwzx8v",
+      "title": "Oil prices dip as cautious optimism over Iran trumps new fears of Russian escalation in Ukraine",
+      "title_vi": "Giá dầu giảm do sự lạc quan thận trọng về Iran lấn át những lo ngại mới về sự leo thang của Nga ở Ukraine",
+      "summary_vi": "Bất chấp giá dầu giảm trong nhiều ngày, giá xăng hầu như không tăng, gây thêm áp lực cho người tiêu dùng Mỹ.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260726-putin-1-nd-2357a9.jpg",
+      "link": "https://www.nbcnews.com/business/energy/oil-prices-inflation-trump-strait-hormuz-rcna594477",
+      "source": "NBC News",
+      "category": "energy",
+      "published": "2026-08-27 00:27"
+    },
+    {
       "id": "9rncb4",
       "title": "Grains Extend Rally, Corn Makes 3-Year Highs, China Buys Beans",
       "title_vi": "Ngũ cốc kéo dài đà tăng, ngô đạt mức cao nhất 3 năm, Trung Quốc mua đậu",
@@ -528,28 +550,6 @@
       "source": "Investor's Business Daily",
       "category": "metal",
       "published": "2026-08-26 23:27"
-    },
-    {
-      "id": "1uwcgcl",
-      "title": "United States On Track For Record Natural Gas Production In 2026 – Analysis",
-      "title_vi": "Hoa Kỳ đang trên đà đạt kỷ lục sản xuất khí đốt tự nhiên vào năm 2026 - Phân tích",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.eurasiareview.com/26082026-united-states-on-track-for-record-natural-gas-production-in-2026-analysis/",
-      "source": "Eurasia Review",
-      "category": "energy",
-      "published": "2026-08-26 23:05"
-    },
-    {
-      "id": "1vzw0vm",
-      "title": "Coffee Futures Fund Seeks Independent Cafe Owners for Second Cohort",
-      "title_vi": "Quỹ Tương lai Cà phê Tìm kiếm Chủ quán cà phê Độc lập cho Nhóm thuần tập thứ hai",
-      "summary_vi": "Coffee Futures Fund, một chương trình cố vấn miễn phí được xây dựng cho các chủ quán cà phê độc lập, đã mở đơn đăng ký cho nhóm thứ hai, sau năm đầu tiên có 10 cửa hàng tham gia được báo cáo...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/08/26/coffee-futures-fund-seeks-independent-cafe-owners-for-second-cohort/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-08-26 22:39"
     }
   ]
 }

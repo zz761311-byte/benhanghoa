@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-28 06:00",
+  "updated_at": "2026-08-28 07:00",
   "items": [
+    {
+      "id": "1onhi5z",
+      "title": "Egypt’s LNG Comeback Is Set to Start in Cyprus",
+      "title_vi": "Sự trở lại LNG của Ai Cập chuẩn bị bắt đầu ở Síp",
+      "summary_vi": "Ngành khí đốt của Ai Cập đang thiếu khí đốt trong nước ngay khi Síp chuẩn bị trở thành nhà sản xuất. Dự án Cronos ngoài khơi Síp được phê duyệt gần đây (dự kiến ​​​​sẽ cung cấp tới 2,8 triệu tấn LNG mỗi năm từ năm 2028) mang lại một món hời ba bên. Síp có được lộ trình xuất khẩu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-27_6xve7ownyx.jpg",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Egypts-LNG-Comeback-Is-Set-to-Start-in-Cyprus.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-28 07:00"
+    },
     {
       "id": "1bzc2pr",
       "title": "East Africa’s Oil Rivalry Spurs Multi-Billion-Dollar Projects Across The Region",
@@ -68,6 +79,17 @@
       "published": "2026-08-28 02:51"
     },
     {
+      "id": "z3dks6",
+      "title": "Wheat Soars to Highest Level in Three Years as Black Sea Crisis Deepens",
+      "title_vi": "Lúa mì tăng vọt lên mức cao nhất trong ba năm khi khủng hoảng Biển Đen ngày càng sâu sắc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/wheat-soars-to-highest-level-in-three-years-as-black-sea-crisis-deepens-75fa41b4",
+      "source": "WSJ",
+      "category": "agri",
+      "published": "2026-08-28 02:43"
+    },
+    {
       "id": "k19x4v",
       "title": "Trump’s War on Offshore Wind Leaves U.S. Workers in Limbo",
       "title_vi": "Cuộc chiến của Trump về gió ngoài khơi khiến công nhân Mỹ rơi vào tình trạng lấp lửng",
@@ -99,17 +121,6 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-08-28 01:00"
-    },
-    {
-      "id": "1jeo9yq",
-      "title": "Energean in Exclusive Talks for $1 Billion BP Egypt Gas Deal",
-      "title_vi": "Energean đàm phán độc quyền về thương vụ khí đốt trị giá 1 tỷ USD của BP Ai Cập",
-      "summary_vi": "Energean đang đàm phán độc quyền để mua một gói tài sản dầu khí ở Ai Cập của BP trong một thỏa thuận có thể huy động được khoảng 1 tỷ USD cho tập đoàn năng lượng lớn của Anh, Reuters đưa tin hôm thứ Năm độc quyền, trích dẫn hai người tham gia vào các cuộc đàm phán. Thỏa thuận được đề xuất bao gồm int của BP",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-27_dnzoucvxar.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Energean-in-Exclusive-Talks-for-1-Billion-BP-Egypt-Gas-Deal.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-28 00:30"
     },
     {
       "id": "1d2wqqk",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-08-26 08:08"
-    },
-    {
-      "id": "1t8jozx",
-      "title": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
-      "title_vi": "'Ngày D kinh tế' của Hoa Kỳ không chỉ nhắm đến dầu mỏ của Iran",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-08-26 05:58"
     }
   ]
 }

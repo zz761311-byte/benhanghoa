@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-30 05:00",
+  "updated_at": "2026-08-30 06:00",
   "items": [
+    {
+      "id": "vpt5hf",
+      "title": "Iran War Adds $330 Billion to Global Energy Import Bill",
+      "title_vi": "Chiến tranh Iran bổ sung 330 tỷ USD vào hóa đơn nhập khẩu năng lượng toàn cầu",
+      "summary_vi": "Cuộc chiến giữa Mỹ, Israel và Iran đã khiến hóa đơn nhập khẩu dầu khí của thế giới tăng lên tới 330 tỷ USD trong sáu tháng từ tháng 3 đến tháng 8. Điều đó bất chấp mức tăng giá dầu nhỏ hơn mức lo ngại và mức tăng giá dầu cũng nhỏ hơn mức lo ngại.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-28_ctinnuspmz.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Adds-330-Billion-to-Global-Energy-Import-Bill.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-30 06:00"
+    },
     {
       "id": "f9u2er",
       "title": "Solar Has Crossed a Critical Economic Tipping Point",
@@ -77,6 +88,17 @@
       "source": "IndexBox",
       "category": "metal",
       "published": "2026-08-29 19:01"
+    },
+    {
+      "id": "1tadrgt",
+      "title": "Gold, silver sink as Warsh revives September Fed-hike trade - Kitco PM Report",
+      "title_vi": "Vàng, bạc chìm khi Warsh hồi sinh giao dịch tăng lãi suất của Fed vào tháng 9 - Báo cáo của Kitco PM",
+      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay giảm mạnh trong phiên giao dịch cuối giờ chiều thứ Sáu tại Hoa Kỳ, sau khi Chủ tịch Fed Kevin Warsh sử dụng bài phát biểu tại Jackson Hole để củng cố cuộc chiến chống lạm phát của ngân hàng trung ương, nâng lãi suất ngắn hạn, củng cố đồng đô la Mỹ và buộc kim loại quý phải giảm giá mạnh. Vào thời điểm đó",
+      "image": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0.22909090909091&left=0&width=1024&height=575.54181818182&scale_width=1920&token=3ff7ebf605cdf1e78e451eba0b79d1fd4217e84df7974f76786e3895df39d82b",
+      "link": "https://www.kitco.com/news/article/2026-08-28/gold-silver-sink-warsh-revives-september-fed-hike-trade-kitco-pm-report",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-08-29 18:50"
     },
     {
       "id": "57s3yu",
@@ -209,17 +231,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-08-29 01:58"
-    },
-    {
-      "id": "1v8bt4d",
-      "title": "Venezuela Helped Build OPEC. Now It May Help Break It Apart",
-      "title_vi": "Venezuela đã giúp xây dựng OPEC. Bây giờ nó có thể giúp phá vỡ nó",
-      "summary_vi": "Venezuela đã giúp thành lập OPEC. Hơn sáu thập kỷ sau, nước này đang cân nhắc việc rời đi và Washington tỏ ra hoàn toàn vui vẻ khi giữ cánh cửa này. Caracas đang cân nhắc xem có nên rời Tổ chức các nước xuất khẩu dầu mỏ hay không, Bloomberg đưa tin hôm thứ Sáu, trích dẫn p.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-28_monmfh2jrz.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Venezuela-Helped-Build-OPEC-Now-It-May-Help-Break-It-Apart.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-29 01:30"
     },
     {
       "id": "55gie6",
@@ -409,17 +420,6 @@
       "published": "2026-08-28 12:00"
     },
     {
-      "id": "mebqy2",
-      "title": "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
-      "title_vi": "Vàng giảm 3% khi bình luận Warsh của Fed nâng đặt cược tăng lãi suất",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-slips-fed-chief-warshs-jackson-hole-speech-looms-2026-08-28/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-08-28 09:20"
-    },
-    {
       "id": "1pyv27v",
       "title": "Wheat, Soybeans, Cotton Make New Highs, Corn Corrects: But Higher Prices Ahead",
       "title_vi": "Lúa mì, đậu nành, bông đạt mức cao mới, ngô điều chỉnh: Nhưng giá sẽ cao hơn ở phía trước",
@@ -462,6 +462,17 @@
       "source": "CME Group",
       "category": "metal",
       "published": "2026-08-28 03:30"
+    },
+    {
+      "id": "hzgosk",
+      "title": "HyBlend: Opportunities for Hydrogen Blending in Natural Gas Pipelines",
+      "title_vi": "HyBlend: Cơ hội pha trộn hydro trong đường ống khí đốt tự nhiên",
+      "summary_vi": "Sáng kiến ​​HyBlend nhằm mục đích giải quyết các rào cản kỹ thuật trong việc trộn hydro trong đường ống dẫn khí đốt tự nhiên.",
+      "image": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
+      "link": "https://www.energy.gov/cmei/fuels/hyblend-opportunities-hydrogen-blending-natural-gas-pipelines",
+      "source": "Department of Energy (.gov)",
+      "category": "energy",
+      "published": "2026-08-28 01:03"
     },
     {
       "id": "1d2wqqk",
@@ -539,17 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-08-27 20:01"
-    },
-    {
-      "id": "1t4gewa",
-      "title": "JM Smucker remains “prudent” on coffee outlook",
-      "title_vi": "JM Smucker vẫn “thận trọng” về triển vọng cà phê",
-      "summary_vi": "Giá tăng và khối lượng tăng đã thúc đẩy doanh số bán cà phê trong quý đầu tiên của JM Smucker nhưng chủ quán Café Bustelo vẫn dự đoán doanh thu hàng năm sẽ giảm.",
-      "image": "https://www.just-drinks.com/wp-content/uploads/sites/29/2024/08/Cafe-Bustelo.png",
-      "link": "https://www.just-drinks.com/news/jm-smucker-remains-prudent-on-coffee-outlook/",
-      "source": "Just Drinks",
-      "category": "soft",
-      "published": "2026-08-27 17:54"
     }
   ]
 }

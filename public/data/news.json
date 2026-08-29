@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-29 08:00",
+  "updated_at": "2026-08-29 09:00",
   "items": [
+    {
+      "id": "u4ftia",
+      "title": "Oil prices fall on Strait of Hormuz bypass tactics",
+      "title_vi": "Giá dầu giảm do chiến thuật vượt eo biển Hormuz",
+      "summary_vi": "Đầu tuần, một lần nữa có những dấu hiệu lạc quan về các cuộc đàm phán hòa bình giữa Mỹ và Iran nhưng những dấu hiệu đó dường như đã bị đình trệ vào cuối tuần.",
+      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/08/6a91f2e4c717097b220fc217-strait_of_hormuz_082826.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "link": "https://www.ogj.com/general-interest/economics-markets/article/55401667/oil-prices-fall-on-hormuz-strait-bypass-tactics",
+      "source": "Oil & Gas Journal",
+      "category": "energy",
+      "published": "2026-08-29 03:50"
+    },
     {
       "id": "vyj91n",
       "title": "Corn and wheat prices jump to highest prices in more than three years",
@@ -539,17 +550,6 @@
       "source": "NBC News",
       "category": "energy",
       "published": "2026-08-27 00:27"
-    },
-    {
-      "id": "9rncb4",
-      "title": "Grains Extend Rally, Corn Makes 3-Year Highs, China Buys Beans",
-      "title_vi": "Ngũ cốc kéo dài đà tăng, ngô đạt mức cao nhất 3 năm, Trung Quốc mua đậu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/grains-extend-rally-corn-makes-3-year-highs-china-buys-beans",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-08-26 23:40"
     }
   ]
 }

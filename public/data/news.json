@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29 15:00",
+  "updated_at": "2026-08-29 16:00",
   "items": [
     {
       "id": "u4ftia",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-29 01:30"
+    },
+    {
+      "id": "55gie6",
+      "title": "Gold prices drop 1% as Warsh says inflation a bigger concern than slowing labor market",
+      "title_vi": "Giá vàng giảm 1% khi Warsh nói lạm phát là mối lo ngại lớn hơn thị trường lao động chậm lại",
+      "summary_vi": "(Kitco News) - Thị trường vàng đang chịu áp lực bán đáng kể khi Chủ tịch Cục Dự trữ Liên bang Kevin Warsh nhắc lại cam kết của ông trong việc đưa áp lực lạm phát trở lại phù hợp với mục tiêu 2% của ngân hàng trung ương. Thứ Sáu, trong bài phát biểu rất được mong đợi của ông tại Hội nghị chuyên đề Ngân hàng Trung ương hàng năm ở Jackson Hole, Wyoming, War",
+      "image": "https://image-api.prod.kitco.com/image/01204ca0-fbe3-4463-a3c7-924357e708f0.jpeg?top=51.842147435897&left=0&width=1000&height=563.31570512821&scale_width=1920&token=cbac5b02ad669b034aa7b1a6865ec7bd57eb1612b9a25fa83c2e0cb95893801b",
+      "link": "https://www.kitco.com/news/article/2026-08-28/gold-prices-drop-1-warsh-says-inflation-bigger-concern-slowing-labor-market",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-08-29 01:17"
     },
     {
       "id": "1iaxsdv",
@@ -473,17 +484,6 @@
       "source": "S&P Global",
       "category": "energy",
       "published": "2026-08-27 12:33"
-    },
-    {
-      "id": "acsooj",
-      "title": "Gold Pushes Back Above $4,600 as Investors Weigh Fed Rate Path",
-      "title_vi": "Vàng đẩy trở lại trên 4.600 USD khi các nhà đầu tư cân nhắc lộ trình lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-26/gold-consolidates-above-4-600-as-investors-weigh-fed-rate-path",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-08-27 12:16"
     },
     {
       "id": "1xt18uf",

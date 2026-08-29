@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29 10:00",
+  "updated_at": "2026-08-29 11:00",
   "items": [
     {
       "id": "u4ftia",
@@ -198,6 +198,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-08-28 19:57"
+    },
+    {
+      "id": "1w77lbn",
+      "title": "Moody’s shifts Trekor Metals outlook on copper ramp-up",
+      "title_vi": "Moody's thay đổi triển vọng của Trekor Metals về việc tăng cường đồng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/stock-market-news/moodys-shifts-trekor-metals-outlook-on-copper-rampup-93CH-4881186",
+      "source": "Investing.com",
+      "category": "metal",
+      "published": "2026-08-28 19:33"
     },
     {
       "id": "1859ux3",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-08-27 01:19"
-    },
-    {
-      "id": "k9do2g",
-      "title": "Oil and gas props up New Mexico revenue forecast, with $924M in new money",
-      "title_vi": "Dầu khí thúc đẩy dự báo doanh thu của New Mexico, với 924 triệu USD tiền mới",
-      "summary_vi": "Cuộc xung đột ở Iran đã đẩy giá dầu lên cao và mang lại vận may cho nhà nước",
-      "image": "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/5/81/58189356-d18b-451f-9427-4b92f0a32ccf/695ed7ab9b9b2.image.jpg?crop=1688%2C886%2C0%2C170&resize=1200%2C630&order=crop%2Cresize",
-      "link": "https://www.santafenewmexican.com/news/local_news/oil-and-gas-props-up-new-mexico-revenue-forecast-with-924m-in-new-money/article_0382b7a9-135d-4962-88dd-2ce3d19a1d56.html",
-      "source": "Santa Fe New Mexican",
-      "category": "energy",
-      "published": "2026-08-27 00:38"
     }
   ]
 }

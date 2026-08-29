@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30 06:00",
+  "updated_at": "2026-08-30 06:24",
   "items": [
     {
       "id": "vpt5hf",
@@ -110,6 +110,17 @@
       "source": "Yahoo Sports",
       "category": "soft",
       "published": "2026-08-29 16:06"
+    },
+    {
+      "id": "mebqy2",
+      "title": "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
+      "title_vi": "Vàng giảm 3% khi bình luận Warsh của Fed nâng đặt cược tăng lãi suất",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-slips-fed-chief-warshs-jackson-hole-speech-looms-2026-08-28/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-08-29 14:39"
     },
     {
       "id": "60p0py",
@@ -363,17 +374,6 @@
       "source": "Investing.com",
       "category": "metal",
       "published": "2026-08-28 19:33"
-    },
-    {
-      "id": "3xjbmd",
-      "title": "Gold holds near $4,600 as markets await Warsh’s Jackson Hole address",
-      "title_vi": "Vàng giữ gần 4.600 USD khi thị trường chờ đợi địa chỉ Jackson Hole của Warsh",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://uk.finance.yahoo.com/news/gold-holds-near-4-600-093130351.html",
-      "source": "Yahoo Finance UK",
-      "category": "metal",
-      "published": "2026-08-28 16:31"
     },
     {
       "id": "1859ux3",

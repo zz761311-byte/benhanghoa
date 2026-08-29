@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30 04:20",
+  "updated_at": "2026-08-30 05:00",
   "items": [
     {
       "id": "f9u2er",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-30 02:00"
+    },
+    {
+      "id": "1cqwg5",
+      "title": "Trump's Venezuela Oil Deal May Not Lower Gas Prices Anytime Soon",
+      "title_vi": "Thỏa thuận dầu mỏ Venezuela của Trump có thể không sớm hạ giá khí đốt",
+      "summary_vi": "Tổng thống Trump công bố “thỏa thuận dầu mỏ lớn nhất trong lịch sử thế giới” sau thỏa thuận có sự tham gia của chính phủ Venezuela.",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2026/08/AP26026674488310.jpg?w=1200&crop=1",
+      "link": "https://www.newsweek.com/trumps-venezuela-oil-plan-may-not-bring-gas-price-relief-to-americans-12384065",
+      "source": "Newsweek",
+      "category": "energy",
+      "published": "2026-08-30 00:11"
     },
     {
       "id": "1ulu7mv",
@@ -66,6 +77,17 @@
       "source": "IndexBox",
       "category": "metal",
       "published": "2026-08-29 19:01"
+    },
+    {
+      "id": "57s3yu",
+      "title": "Coke Zero Sugar 400 rain update: Final weather forecast for Daytona race",
+      "title_vi": "Cập nhật mưa Coke Zero Sugar 400: Dự báo thời tiết cuối cùng cho cuộc đua Daytona",
+      "summary_vi": "Coke Zero Sugar 400 ngày đã có mặt. Dự báo của Bãi biển Daytona cho cuộc đua NASCAR Cup Series tối nay sẽ như thế nào?",
+      "image": "https://s.yimg.com/lo/mysterio/api/8ff5f3c80467a33272738cbdb6cb4a786f158aee3b15dcb07cfdc904c1de90f0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaytona-beach-news-journal%2F8d7f7aab29f54409d194a9aa3be9c5be.jpg",
+      "link": "https://sports.yahoo.com/articles/coke-zero-sugar-400-rain-090640695.html",
+      "source": "Yahoo Sports",
+      "category": "soft",
+      "published": "2026-08-29 16:06"
     },
     {
       "id": "60p0py",
@@ -528,28 +550,6 @@
       "source": "Just Drinks",
       "category": "soft",
       "published": "2026-08-27 17:54"
-    },
-    {
-      "id": "vndgcx",
-      "title": "Ukraine’s drone attacks have left Russia desperately scrambling for oil imports",
-      "title_vi": "Các cuộc tấn công bằng máy bay không người lái của Ukraine khiến Nga hết sức tranh giành nhập khẩu dầu",
-      "summary_vi": "Nhà sản xuất dầu thô hàng đầu thế giới một thời đã rơi vào cuộc khủng hoảng năng lượng khi Kiev nhắm mục tiêu vào các nhà máy chế biến dầu của mình",
-      "image": "https://i.guim.co.uk/img/media/5fb46813dd8af9bff6f199fd121ecf1bd5afd2f1/1223_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e9859f7c94259f75d3da55946ce85e2",
-      "link": "https://www.theguardian.com/world/2026/aug/27/ukraines-drone-attacks-have-left-russia-desperately-scrambling-for-oil-imports",
-      "source": "The Guardian",
-      "category": "energy",
-      "published": "2026-08-27 15:00"
-    },
-    {
-      "id": "1b8ye9u",
-      "title": "Weekly Natural Gas Storage Report",
-      "title_vi": "Báo cáo lưu trữ khí đốt tự nhiên hàng tuần",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.eia.gov/naturalgas/storage/",
-      "source": "U.S. Energy Information Administration (EIA) (.gov)",
-      "category": "energy",
-      "published": "2026-08-27 14:00"
     }
   ]
 }

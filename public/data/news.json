@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29 13:00",
+  "updated_at": "2026-08-29 14:00",
   "items": [
     {
       "id": "u4ftia",
@@ -277,6 +277,17 @@
       "published": "2026-08-28 04:18"
     },
     {
+      "id": "x0k0ti",
+      "title": "US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says",
+      "title_vi": "EIA cho biết sản lượng dầu thô của Mỹ sẽ giảm trong thập kỷ tới do dự báo giá dầu Brent dưới 70 USD",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-crude-output-to-fall-next-decade-on-sub-70-brent-price-forecast-eia-says/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-08-28 03:55"
+    },
+    {
       "id": "b4pgib",
       "title": "Coffee Prices Are High. Why Ground Coffee Is Holding Up Better Than K-Cups.",
       "title_vi": "Giá cà phê đang cao. Tại sao cà phê xay có tác dụng tốt hơn K-Cups.",
@@ -497,6 +508,17 @@
       "published": "2026-08-27 08:02"
     },
     {
+      "id": "ghoyyd",
+      "title": "Inside India newsletter: U.S., Russia vie for a bigger slice of the world’s third-largest energy market",
+      "title_vi": "Bản tin Inside India: Mỹ, Nga tranh giành thị phần lớn hơn trên thị trường năng lượng lớn thứ ba thế giới",
+      "summary_vi": "Mỹ và Nga đang cạnh tranh để khẳng định sự thống trị trên thị trường năng lượng lớn thứ ba thế giới.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354293-1787714621367-gettyimages-2266880684-2266880684.jpeg?v=1787714651&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/27/india-us-russia-energy-oil-market.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-08-27 07:03"
+    },
+    {
       "id": "1k0kg0k",
       "title": "Grain Markets Explode to New Contract and Multi-Year Highs: What Drove It?",
       "title_vi": "Thị trường ngũ cốc bùng nổ với hợp đồng mới và mức cao nhất trong nhiều năm: Điều gì đã thúc đẩy nó?",
@@ -528,28 +550,6 @@
       "source": "Ohio's Country Journal",
       "category": "agri",
       "published": "2026-08-27 02:15"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-08-27 01:57"
-    },
-    {
-      "id": "1hfsjht",
-      "title": "Coffee Prices Slump on the Outlook for Larger Brazil Coffee Supplies",
-      "title_vi": "Giá cà phê sụt giảm do triển vọng nguồn cung cà phê lớn hơn của Brazil",
-      "summary_vi": "Cà phê arabica tháng 12 (KCZ26 ) đóng cửa giảm -13,35 (-3,98%) vào thứ Tư và cà phê Robusta ICE tháng 11 (RMX26 ) đóng cửa giảm -77 (-2,09%). Giá cà phê giảm xuống mức thấp nhất trong 1 tuần vào thứ Tư và giảm mạnh do triển vọng giá cà phê Brazil...",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Soft%20Commodities/Coffee/Coffee%20beans%20in%20canvas%20sack%20by%20Bragin%20Alexey%20via%20Shutterstock.jpg",
-      "link": "https://www.barchart.com/story/news/4127775/coffee-prices-slump-on-the-outlook-for-larger-brazil-coffee-supplies",
-      "source": "Barchart.com",
-      "category": "soft",
-      "published": "2026-08-27 01:23"
     }
   ]
 }

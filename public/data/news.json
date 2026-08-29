@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-29 23:00",
+  "updated_at": "2026-08-30 00:00",
   "items": [
+    {
+      "id": "1ulu7mv",
+      "title": "America’s Electricity Boom Is Outrunning Its Power Grid",
+      "title_vi": "Sự bùng nổ điện lực của Mỹ đang vượt xa lưới điện của nước này",
+      "summary_vi": "Mạng lưới năng lượng của Hoa Kỳ đang gặp áp lực cực độ do quá trình điện khí hóa và nhu cầu năng lượng nhanh chóng đặt ra nhu cầu ngày càng tăng và chưa từng có về cơ sở hạ tầng truyền tải. Sự bùng nổ trí tuệ nhân tạo đang đẩy nhu cầu năng lượng lên tầng bình lưu khi các công ty siêu quy mô chạy đua",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-28_zb6ksjlong.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Americas-Electricity-Boom-Is-Outrunning-Its-Power-Grid.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-30 00:00"
+    },
     {
       "id": "ct3a0v",
       "title": "U.S. Eyes 18th-Century Law to Seize and Sell Iranian Oil",
@@ -44,6 +55,17 @@
       "source": "NPR",
       "category": "energy",
       "published": "2026-08-29 09:07"
+    },
+    {
+      "id": "84ec2c",
+      "title": "Policy mistakes, not ethanol, are behind sugar price rise",
+      "title_vi": "Sai lầm về chính sách, không phải ethanol, là nguyên nhân khiến giá đường tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://indianexpress.com/article/opinion/editorials/policy-mistakes-not-ethanol-are-behind-sugar-price-rise-10853855/",
+      "source": "The Indian Express",
+      "category": "soft",
+      "published": "2026-08-29 08:20"
     },
     {
       "id": "u4ftia",
@@ -198,17 +220,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-29 00:30"
-    },
-    {
-      "id": "5zuy9j",
-      "title": "U.S. Oil Rig Count Falls by 5 as Gas Rigs Rise",
-      "title_vi": "Số lượng giàn khoan dầu của Mỹ giảm 5 khi số giàn khoan khí đốt tăng",
-      "summary_vi": "Theo dữ liệu mới mà Baker Hughes công bố hôm thứ Sáu, tổng số giàn khoan đang hoạt động ở Mỹ giữ nguyên trong tuần này, với tổng số giàn khoan ở Mỹ ở mức 588, tăng 52 giàn so với cùng thời điểm này năm ngoái. Số lượng dầu hoạt tính r",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Rig-Count-Falls-by-5-as-Gas-Rigs-Rise.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-29 00:24"
     },
     {
       "id": "2qwm3n",
@@ -538,17 +549,6 @@
       "link": "https://www.eia.gov/naturalgas/storage/",
       "source": "U.S. Energy Information Administration (EIA) (.gov)",
       "category": "energy",
-      "published": "2026-08-27 14:00"
-    },
-    {
-      "id": "1fggqwt",
-      "title": "Record Soybean Crop Forecast Meets Firm Demand Outlook",
-      "title_vi": "Dự báo vụ mùa đậu nành đáp ứng triển vọng nhu cầu vững chắc",
-      "summary_vi": "Dự báo vụ mùa đậu nành đáp ứng triển vọng nhu cầu vững chắc",
-      "image": "https://www.czapp.com/wp-content/uploads/2026/08/e953c4b2-08f0-4bc7-b44d-638f32a01443.jpg",
-      "link": "https://www.czapp.com/analyst-insights/record-soybean-crop-forecast-meets-firm-demand-outlook/",
-      "source": "czapp.com",
-      "category": "agri",
       "published": "2026-08-27 14:00"
     }
   ]

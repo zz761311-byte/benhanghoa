@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29 18:00",
+  "updated_at": "2026-08-29 18:10",
   "items": [
     {
       "id": "u4ftia",
@@ -121,6 +121,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-08-29 01:00"
+    },
+    {
+      "id": "16834sn",
+      "title": "Rob McEwen Sees New Mining Cycle as Gold, Copper Demand Rise",
+      "title_vi": "Rob McEwen nhận thấy chu kỳ khai thác mới khi nhu cầu vàng, đồng tăng lên",
+      "summary_vi": "Công ty McEwen",
+      "image": "https://www.streetwisereports.com/images/Mining_Trucks_8.jpg",
+      "link": "https://www.streetwisereports.com/article/2026/08/28/rob-mcewen-sees-new-mining-cycle-as-gold-copper-demand-rise.html",
+      "source": "Streetwise Reports",
+      "category": "metal",
+      "published": "2026-08-29 00:57"
     },
     {
       "id": "1mq8f2p",
@@ -440,17 +451,6 @@
       "source": "Bloomberg.com",
       "category": "soft",
       "published": "2026-08-27 21:42"
-    },
-    {
-      "id": "11q622p",
-      "title": "What the Latest Economic Growth Data Means for Gold",
-      "title_vi": "Dữ liệu tăng trưởng kinh tế mới nhất có ý nghĩa gì đối với vàng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.usgoldbureau.com/news/post/what-the-latest-economic-growth-data-means-for-gold",
-      "source": "U.S. Gold Bureau",
-      "category": "metal",
-      "published": "2026-08-27 20:39"
     },
     {
       "id": "1pxzzx1",

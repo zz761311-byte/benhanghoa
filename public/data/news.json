@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29 12:00",
+  "updated_at": "2026-08-29 13:00",
   "items": [
     {
       "id": "u4ftia",
@@ -209,6 +209,17 @@
       "source": "Investing.com",
       "category": "metal",
       "published": "2026-08-28 19:33"
+    },
+    {
+      "id": "3xjbmd",
+      "title": "Gold holds near $4,600 as markets await Warsh’s Jackson Hole address",
+      "title_vi": "Vàng giữ gần 4.600 USD khi thị trường chờ đợi địa chỉ Jackson Hole của Warsh",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://uk.finance.yahoo.com/news/gold-holds-near-4-600-093130351.html",
+      "source": "Yahoo Finance UK",
+      "category": "metal",
+      "published": "2026-08-28 16:31"
     },
     {
       "id": "1859ux3",
@@ -451,17 +462,6 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-08-27 12:16"
-    },
-    {
-      "id": "lv0ae3",
-      "title": "Gold (XAU/USD) & Silver Price Forecast: Sticky PCE Puts Warsh and Fed in Focus",
-      "title_vi": "Dự báo giá vàng (XAU/USD) & Bạc: PCE ổn định khiến Warsh và Fed trở thành tâm điểm",
-      "summary_vi": "Vàng và bạc vẫn cân bằng khi PCE dính làm hồi sinh rủi ro thắt chặt của Fed, trong khi căng thẳng Warsh, Trung Đông và những lo ngại về tài chính hỗ trợ sự biến động.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/08/Main-Images-12-7.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-xau-usd-silver-price-forecast-sticky-pce-puts-warsh-and-fed-in-focus-1619405",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-08-27 12:14"
     },
     {
       "id": "1xt18uf",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30 01:00",
+  "updated_at": "2026-08-30 01:55",
   "items": [
     {
       "id": "1ulu7mv",
@@ -387,6 +387,17 @@
       "published": "2026-08-28 12:00"
     },
     {
+      "id": "mebqy2",
+      "title": "Gold drops 3% as Fed's Warsh comments lift rate hike bets",
+      "title_vi": "Vàng giảm 3% khi bình luận Warsh của Fed nâng đặt cược tăng lãi suất",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-slips-fed-chief-warshs-jackson-hole-speech-looms-2026-08-28/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-08-28 09:20"
+    },
+    {
       "id": "1pyv27v",
       "title": "Wheat, Soybeans, Cotton Make New Highs, Corn Corrects: But Higher Prices Ahead",
       "title_vi": "Lúa mì, đậu nành, bông đạt mức cao mới, ngô điều chỉnh: Nhưng giá sẽ cao hơn ở phía trước",
@@ -429,17 +440,6 @@
       "source": "CME Group",
       "category": "metal",
       "published": "2026-08-28 03:30"
-    },
-    {
-      "id": "yos15x",
-      "title": "Gold ticks up on weaker dollar, Warsh's Jackson Hole speech in focus",
-      "title_vi": "Vàng tăng giá do đồng đô la yếu hơn, trọng tâm là bài phát biểu Jackson Hole của Warsh",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-drifts-higher-eyes-fed-chair-warshs-comments-2026-08-27/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-08-28 01:13"
     },
     {
       "id": "1d2wqqk",

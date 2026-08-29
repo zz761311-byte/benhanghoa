@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-29 07:00",
+  "updated_at": "2026-08-29 08:00",
   "items": [
+    {
+      "id": "vyj91n",
+      "title": "Corn and wheat prices jump to highest prices in more than three years",
+      "title_vi": "Giá ngô và lúa mì nhảy vọt lên mức cao nhất trong hơn ba năm",
+      "summary_vi": "Giá ngô và lúa mì kỳ hạn đã tăng lên mức cao nhất trong hơn ba năm. Nhưng lý do cho những đợt tăng giá gần đây này rất khác nhau.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108348933-1786603272529-gettyimages-2285482828-AA_14072026_2883242.jpeg?v=1786603346&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
+      "source": "CNBC",
+      "category": "agri",
+      "published": "2026-08-29 03:00"
+    },
     {
       "id": "awth3r",
       "title": "Europe’s Russia Sanctions Have a Major Blind Spot",
@@ -231,17 +242,6 @@
       "source": "CME Group",
       "category": "metal",
       "published": "2026-08-28 03:30"
-    },
-    {
-      "id": "z3dks6",
-      "title": "Wheat Soars to Highest Level in Three Years as Black Sea Crisis Deepens",
-      "title_vi": "Lúa mì tăng vọt lên mức cao nhất trong ba năm khi khủng hoảng Biển Đen ngày càng sâu sắc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/wheat-soars-to-highest-level-in-three-years-as-black-sea-crisis-deepens-75fa41b4",
-      "source": "WSJ",
-      "category": "agri",
-      "published": "2026-08-28 02:43"
     },
     {
       "id": "yos15x",

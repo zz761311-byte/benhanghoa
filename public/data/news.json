@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29 18:10",
+  "updated_at": "2026-08-29 19:01",
   "items": [
     {
       "id": "u4ftia",
@@ -486,6 +486,17 @@
       "published": "2026-08-27 15:00"
     },
     {
+      "id": "1b8ye9u",
+      "title": "Weekly Natural Gas Storage Report",
+      "title_vi": "Báo cáo lưu trữ khí đốt tự nhiên hàng tuần",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.eia.gov/naturalgas/storage/",
+      "source": "U.S. Energy Information Administration (EIA) (.gov)",
+      "category": "energy",
+      "published": "2026-08-27 14:00"
+    },
+    {
       "id": "1fggqwt",
       "title": "Record Soybean Crop Forecast Meets Firm Demand Outlook",
       "title_vi": "Dự báo vụ mùa đậu nành đáp ứng triển vọng nhu cầu vững chắc",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-08-27 10:05"
-    },
-    {
-      "id": "17p99tg",
-      "title": "Metal industry flags cost, market concerns over Canada-US trade war",
-      "title_vi": "Chi phí ngành công nghiệp kim loại, mối lo ngại của thị trường về chiến tranh thương mại Canada-Mỹ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/082626-metal-industry-flags-cost-market-concerns-over-canada-us-trade-war",
-      "source": "S&P Global",
-      "category": "metal",
-      "published": "2026-08-27 08:02"
     }
   ]
 }

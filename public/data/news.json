@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29 16:00",
+  "updated_at": "2026-08-29 17:00",
   "items": [
     {
       "id": "u4ftia",
@@ -11,6 +11,17 @@
       "source": "Oil & Gas Journal",
       "category": "energy",
       "published": "2026-08-29 03:50"
+    },
+    {
+      "id": "1xp0zxs",
+      "title": "USDA Corn Yield Forecast Puts Oklahoma, South Carolina and Colorado at Bottom",
+      "title_vi": "Dự báo năng suất ngô của USDA đặt Oklahoma, Nam Carolina và Colorado ở vị trí cuối cùng",
+      "summary_vi": "USDA",
+      "image": "https://www.agrolatam.com/files/image/79/79476/6a91e93d75a3a_600_315!.jpg?s=e715c3f23731bc4a4bc3c2c5a405ed1b&d=1787886000",
+      "link": "https://www.agrolatam.com/usa/crops/usda-corn-yield-forecast-oklahoma-south-carolina-colorado-2026/",
+      "source": "AgroLatam",
+      "category": "agri",
+      "published": "2026-08-29 03:08"
     },
     {
       "id": "vyj91n",
@@ -35,6 +46,17 @@
       "published": "2026-08-29 03:00"
     },
     {
+      "id": "1e5ds14",
+      "title": "Crops Analysis | Gains in wheat bleed into corn, beans",
+      "title_vi": "Phân tích cây trồng | Lợi nhuận từ lúa mì chuyển sang ngô, đậu",
+      "summary_vi": "Ngô, đậu nành và lúa mì đều đạt mức cao khi xu hướng tăng duy trì đà tăng mạnh.",
+      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
+      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-gains-wheat-bleed-corn-beans",
+      "source": "Pro Farmer",
+      "category": "agri",
+      "published": "2026-08-29 02:07"
+    },
+    {
       "id": "fkjy5s",
       "title": "What Is the Outlook for Diesel and Gasoline Supplies?",
       "title_vi": "Triển vọng cho nguồn cung cấp dầu diesel và xăng là gì?",
@@ -55,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-29 02:00"
+    },
+    {
+      "id": "1k1i4oc",
+      "title": "These 3 States Will Have the Worst Corn Yields in 2026, USDA Forecasts",
+      "title_vi": "Dự báo của USDA: 3 bang này sẽ có năng suất ngô kém nhất vào năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/these-3-states-will-have-the-worst-corn-yields-in-2026-usda-forecasts-12071721",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-08-29 01:58"
     },
     {
       "id": "1v8bt4d",
@@ -517,39 +550,6 @@
       "source": "S&P Global",
       "category": "metal",
       "published": "2026-08-27 08:02"
-    },
-    {
-      "id": "ghoyyd",
-      "title": "Inside India newsletter: U.S., Russia vie for a bigger slice of the world’s third-largest energy market",
-      "title_vi": "Bản tin Inside India: Mỹ, Nga tranh giành thị phần lớn hơn trên thị trường năng lượng lớn thứ ba thế giới",
-      "summary_vi": "Mỹ và Nga đang cạnh tranh để khẳng định sự thống trị trên thị trường năng lượng lớn thứ ba thế giới.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108354293-1787714621367-gettyimages-2266880684-2266880684.jpeg?v=1787714651&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/08/27/india-us-russia-energy-oil-market.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-08-27 07:03"
-    },
-    {
-      "id": "1k0kg0k",
-      "title": "Grain Markets Explode to New Contract and Multi-Year Highs: What Drove It?",
-      "title_vi": "Thị trường ngũ cốc bùng nổ với hợp đồng mới và mức cao nhất trong nhiều năm: Điều gì đã thúc đẩy nó?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/grain-markets-explode-new-contract-and-multi-year-highs-what-drove-it-and",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-08-27 04:52"
-    },
-    {
-      "id": "19pfeaf",
-      "title": "Copper Climbs From Record-High Close With Supply Still Tight",
-      "title_vi": "Đồng tăng từ mức cao kỷ lục khi đóng cửa với nguồn cung vẫn eo hẹp",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-26/copper-climbs-from-record-high-close-with-supply-still-tight",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-08-27 02:36"
     }
   ]
 }

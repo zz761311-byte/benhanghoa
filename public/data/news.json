@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30 19:00",
+  "updated_at": "2026-08-30 19:17",
   "items": [
     {
       "id": "1jr1hc4",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-30 02:00"
+    },
+    {
+      "id": "1cqwg5",
+      "title": "Trump’s Venezuela Oil Plan May Not Bring Fast Gas Price Relief to Americans",
+      "title_vi": "Kế hoạch dầu mỏ Venezuela của Trump có thể không mang lại sự giảm giá khí đốt nhanh chóng cho người Mỹ",
+      "summary_vi": "Tổng thống Trump công bố “thỏa thuận dầu mỏ lớn nhất trong lịch sử thế giới” sau thỏa thuận có sự tham gia của chính phủ Venezuela.",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2026/08/AP26026674488310.jpg?w=1200&crop=1",
+      "link": "https://www.newsweek.com/trumps-venezuela-oil-plan-may-not-bring-gas-price-relief-to-americans-12384065",
+      "source": "Newsweek",
+      "category": "energy",
+      "published": "2026-08-30 00:11"
     },
     {
       "id": "1ulu7mv",
@@ -539,17 +550,6 @@
       "source": "Council on Foreign Relations",
       "category": "macro",
       "published": "2026-08-27 23:13"
-    },
-    {
-      "id": "m164bq",
-      "title": "Gas Prices Remain High as August Will Likely Set New Record",
-      "title_vi": "Giá xăng vẫn ở mức cao vì tháng 8 có thể sẽ lập kỷ lục mới",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://gasprices.aaa.com/gas-prices-remain-high-as-august-will-likely-set-new-record/",
-      "source": "AAA Gas Prices",
-      "category": "energy",
-      "published": "2026-08-27 22:26"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30 12:00",
+  "updated_at": "2026-08-30 13:00",
   "items": [
     {
       "id": "1jr1hc4",
@@ -486,6 +486,17 @@
       "published": "2026-08-28 03:30"
     },
     {
+      "id": "3h0a80",
+      "title": "South Africa Set to Lift Sugar-Benchmark Price to Shield Growers",
+      "title_vi": "Nam Phi chuẩn bị nâng giá đường chuẩn để bảo vệ người trồng",
+      "summary_vi": "Theo những người quen thuộc với vấn đề này, Nam Phi sẽ tăng mức giá chuẩn được sử dụng để tính thuế nhập khẩu đường, một động thái được các nhà sản xuất trong nước như đơn vị địa phương của Associated British Foods Plc tìm kiếm từ lâu trong một ngành đang bị ảnh hưởng bởi sự cạnh tranh giá rẻ từ nước ngoài.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8IJEQXHdcKw/v0/1200x800.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-27/south-africa-set-to-lift-sugar-benchmark-price-to-shield-growers",
+      "source": "Bloomberg.com",
+      "category": "soft",
+      "published": "2026-08-28 02:27"
+    },
+    {
       "id": "hzgosk",
       "title": "HyBlend: Opportunities for Hydrogen Blending in Natural Gas Pipelines",
       "title_vi": "HyBlend: Cơ hội pha trộn hydro trong đường ống khí đốt tự nhiên",
@@ -539,17 +550,6 @@
       "source": "AAA Gas Prices",
       "category": "energy",
       "published": "2026-08-27 22:26"
-    },
-    {
-      "id": "cqn005",
-      "title": "Pennsylvania Coffee Shop Latest to Close Following ICE Detention",
-      "title_vi": "Quán cà phê Pennsylvania mới nhất đóng cửa sau khi bị ICE giam giữ",
-      "summary_vi": "Chủ sở hữu của một công ty cà phê có hai địa điểm ở Pennsylvania có tên City Watch Coffee thông báo rằng bà có kế hoạch bán doanh nghiệp và cuối cùng chuyển gia đình sang Campuchia sau khi chồng bà...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/08/27/pennsylvania-coffee-shop-latest-to-close-following-ice-detention/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-08-27 22:10"
     }
   ]
 }

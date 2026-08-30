@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30 11:00",
+  "updated_at": "2026-08-30 12:00",
   "items": [
     {
       "id": "1jr1hc4",
@@ -310,6 +310,17 @@
       "published": "2026-08-28 23:30"
     },
     {
+      "id": "iw6soo",
+      "title": "Michigan environmental news: DTE says July storm impact 20 times worse than forecast",
+      "title_vi": "Tin tức môi trường Michigan: DTE cho biết tác động của cơn bão tháng 7 tồi tệ hơn 20 lần so với dự báo",
+      "summary_vi": "DTE thông báo với các cơ quan quản lý rằng tác động của cơn bão ngày 3 tháng 7 tồi tệ hơn 20 lần so với dự báo. Thêm vào đó: Michigan ủng hộ nghiên cứu hydro, tài trợ cho mỏ đồng và các cuộc chạm trán với sói ở Isle Royale.",
+      "image": "https://planetdetroit.org/wp-content/uploads/2026/08/AP24173572096203.jpg",
+      "link": "https://planetdetroit.org/2026/08/dte-consumers-storm-response/",
+      "source": "Planet Detroit",
+      "category": "metal",
+      "published": "2026-08-28 23:20"
+    },
+    {
       "id": "1tnn212",
       "title": "Weekly Coffee News: US AeroPress Champion + Coffee 101 with the Howells",
       "title_vi": "Tin tức Cà phê Hàng tuần: Nhà vô địch AeroPress Hoa Kỳ + Coffee 101 with the Howells",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-27 22:10"
-    },
-    {
-      "id": "3h0a80",
-      "title": "South Africa Set to Lift Sugar-Benchmark Price to Shield Growers",
-      "title_vi": "Nam Phi chuẩn bị nâng giá đường chuẩn để bảo vệ người trồng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-27/south-africa-set-to-lift-sugar-benchmark-price-to-shield-growers",
-      "source": "Bloomberg.com",
-      "category": "soft",
-      "published": "2026-08-27 21:42"
     }
   ]
 }

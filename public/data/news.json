@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30 16:00",
+  "updated_at": "2026-08-30 17:00",
   "items": [
     {
       "id": "1jr1hc4",
@@ -11,6 +11,17 @@
       "source": "Startup Fortune",
       "category": "metal",
       "published": "2026-08-30 09:13"
+    },
+    {
+      "id": "vk732r",
+      "title": "Trump Promises His Venezuela Oil Deal Will Lower Gas Prices. But When?",
+      "title_vi": "Trump hứa thỏa thuận dầu mỏ Venezuela của ông sẽ làm giảm giá khí đốt Nhưng khi nào?",
+      "summary_vi": "Việc phát triển trữ lượng dầu mỏ khổng lồ của đất nước sẽ đòi hỏi đầu tư đáng kể và công tác xây dựng cơ sở hạ tầng – và các quan chức chưa đưa ra mốc thời gian công khai.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt04af26c0380c9e04/6a93279704193c18bd96847e/GettyImages-2257274315.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
+      "link": "https://time.com/article/2026/08/29/trump-says-his-venezuela-oil-deal-will-lower-gas-prices-but-when-/",
+      "source": "Time Magazine",
+      "category": "energy",
+      "published": "2026-08-30 07:29"
     },
     {
       "id": "vpt5hf",
@@ -44,17 +55,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-30 02:00"
-    },
-    {
-      "id": "1cqwg5",
-      "title": "Trump's Venezuela Oil Deal May Not Lower Gas Prices Anytime Soon",
-      "title_vi": "Thỏa thuận dầu mỏ Venezuela của Trump có thể không sớm hạ giá khí đốt",
-      "summary_vi": "Tổng thống Trump công bố “thỏa thuận dầu mỏ lớn nhất trong lịch sử thế giới” sau thỏa thuận có sự tham gia của chính phủ Venezuela.",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2026/08/AP26026674488310.jpg?w=1200&crop=1",
-      "link": "https://www.newsweek.com/trumps-venezuela-oil-plan-may-not-bring-gas-price-relief-to-americans-12384065",
-      "source": "Newsweek",
-      "category": "energy",
-      "published": "2026-08-30 00:11"
     },
     {
       "id": "1ulu7mv",

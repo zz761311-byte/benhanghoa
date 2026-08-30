@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30 22:00",
+  "updated_at": "2026-08-30 23:00",
   "items": [
     {
       "id": "z6c5b2",
@@ -321,6 +321,17 @@
       "published": "2026-08-29 00:09"
     },
     {
+      "id": "5vd8ks",
+      "title": "Silver Price For Today, 28 August 2026",
+      "title_vi": "Giá Bạc hôm nay, ngày 28 tháng 8 năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
+      "source": "Forbes",
+      "category": "metal",
+      "published": "2026-08-29 00:07"
+    },
+    {
       "id": "pwf3lg",
       "title": "FLIPR 2026 midterm election forecast",
       "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
@@ -539,17 +550,6 @@
       "source": "Ohio's Country Journal",
       "category": "agri",
       "published": "2026-08-28 02:00"
-    },
-    {
-      "id": "hzgosk",
-      "title": "HyBlend: Opportunities for Hydrogen Blending in Natural Gas Pipelines",
-      "title_vi": "HyBlend: Cơ hội pha trộn hydro trong đường ống khí đốt tự nhiên",
-      "summary_vi": "Sáng kiến ​​HyBlend nhằm mục đích giải quyết các rào cản kỹ thuật trong việc trộn hydro trong đường ống dẫn khí đốt tự nhiên.",
-      "image": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
-      "link": "https://www.energy.gov/cmei/fuels/hyblend-opportunities-hydrogen-blending-natural-gas-pipelines",
-      "source": "Department of Energy (.gov)",
-      "category": "energy",
-      "published": "2026-08-28 01:03"
     }
   ]
 }

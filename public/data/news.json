@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31 04:00",
+  "updated_at": "2026-08-31 05:00",
   "items": [
     {
       "id": "1j7pq1b",
@@ -187,6 +187,17 @@
       "source": "stonex.com",
       "category": "energy",
       "published": "2026-08-29 11:47"
+    },
+    {
+      "id": "3uad0a",
+      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
+      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
+      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/markets/agriculture/images/grain-oilseed-pgp-leadspace.jpg",
+      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-08-29 10:59"
     },
     {
       "id": "60p0py",
@@ -539,17 +550,6 @@
       "source": "Barron's",
       "category": "soft",
       "published": "2026-08-28 03:39"
-    },
-    {
-      "id": "16mfymc",
-      "title": "Copper futures slip amid supply disruptions and tariff uncertainty.",
-      "title_vi": "Giá đồng kỳ hạn trượt dốc trong bối cảnh nguồn cung bị gián đoạn và thuế quan không chắc chắn.",
-      "summary_vi": "Giá đồng kỳ hạn được giao dịch thấp hơn vào thứ Năm, duy trì trong phạm vi hợp nhất giữa 6,5165 USD và 6,7690 USD được thiết lập kể từ mức cao nhất ngày 21 tháng 7. Triển vọng nguồn cung đồng bị thắt chặt trong tuần này sau những cảnh báo rằng lũ lụt ở Cộng hòa Dân chủ Congo có thể làm giảm sản lượng của Zijin Mining khoảng 57.000 tấn trong năm nay. TÔI",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/copper-futures-slip-amid-supply-disruptions-and-tariff-uncertain.jpg",
-      "link": "https://www.cmegroup.com/videos/2026/08/27/copper-futures-slip-amid-supply-disruptions-and-tariff-uncertain.html",
-      "source": "CME Group",
-      "category": "metal",
-      "published": "2026-08-28 03:30"
     }
   ]
 }

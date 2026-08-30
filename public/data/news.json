@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-30 20:00",
+  "updated_at": "2026-08-30 21:00",
   "items": [
+    {
+      "id": "132r55q",
+      "title": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals",
+      "title_vi": "Bức tường thuế quan mới trong cuộc chiến thương mại Mỹ-Canada có ý nghĩa gì đối với các kim loại quan trọng của nền kinh tế",
+      "summary_vi": "Khi chiến tranh thương mại Mỹ-Canada nổ ra, thị trường đã định giá lại các cổ phiếu kim loại, vật liệu và quỹ ETF, nhưng các nhà đầu tư dài hạn nên thận trọng.",
+      "image": "https://image.cnbcfm.com/api/v1/image/106604367-15940511662020-07-06t155742z_973713548_rc2rnh95wxb6_rtrmadp_0_health-coronavirus-canada-usa.jpeg?v=1787989867&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-08-30 20:00"
+    },
     {
       "id": "1jr1hc4",
       "title": "Platinum Jumps to $1,835 an Ounce as a Fourth Supply Deficit Takes Hold",
@@ -539,17 +550,6 @@
       "source": "Department of Energy (.gov)",
       "category": "energy",
       "published": "2026-08-28 01:03"
-    },
-    {
-      "id": "1d2wqqk",
-      "title": "Mokas Continues Kansas City-Area Expansion with 9-Unit Deal",
-      "title_vi": "Mokas tiếp tục mở rộng khu vực thành phố Kansas với ưu đãi 9 căn",
-      "summary_vi": "Công ty rang xay và chuỗi quán cà phê Salina, có trụ sở tại Kansas, Mokas Coffee & Eatery đã ký thỏa thuận phát triển nhượng quyền thương mại gồm 9 đơn vị với một thực thể kinh doanh mới có tên Cornerstone Hospitality. Thỏa thuận bao gồm sáu...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/08/27/mokas-continues-kansas-city-area-expansion-with-9-unit-deal/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-08-27 23:38"
     }
   ]
 }

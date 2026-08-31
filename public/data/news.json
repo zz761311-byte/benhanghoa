@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-31 09:00",
+  "updated_at": "2026-08-31 10:00",
   "items": [
+    {
+      "id": "1xx1kg8",
+      "title": "Oil Prices Surge as U.S. and Iran Exchange Strikes",
+      "title_vi": "Giá dầu tăng vọt khi Mỹ và Iran đình công",
+      "summary_vi": "Giá dầu tăng vào đầu phiên giao dịch châu Á hôm thứ Hai sau khi Mỹ tấn công Iran lần đầu tiên sau hơn một tháng, sau đó Iran trả đũa các căn cứ của Mỹ ở Jordan. Tại thời điểm viết bài, hợp đồng tương lai WTI giao tháng trước đang giao dịch ở mức 85,46 USD/thùng, tăng 2,47%, trong khi Brent đứng trước.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-30_pokxkazaeb.jpg",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Surge-as-US-and-Iran-Exchange-Strikes.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-31 09:30"
+    },
     {
       "id": "1x27o65",
       "title": "Oil Rises Amid Renewed Fighting in Middle East",
@@ -132,17 +143,6 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-08-30 04:00"
-    },
-    {
-      "id": "194m1zx",
-      "title": "Mexico’s Green Energy Push Is Finally Gaining Momentum",
-      "title_vi": "Sự thúc đẩy năng lượng xanh của Mexico cuối cùng cũng đạt được động lực",
-      "summary_vi": "Sau sự khởi đầu chậm trễ dưới thời chính phủ tiền nhiệm, Mexico hiện đang trên đường trải qua quá trình chuyển đổi xanh. Tổng thống Claudia Sheinbaum đã phát động một cuộc cải cách năng lượng nhằm mở cửa lĩnh vực năng lượng của Mexico cho đầu tư tư nhân lớn hơn và tập trung vào việc mở rộng ngành năng lượng của đất nước.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-28_0ruhimlolx.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Mexicos-Green-Energy-Push-Is-Finally-Gaining-Momentum.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-30 02:00"
     },
     {
       "id": "1cqwg5",

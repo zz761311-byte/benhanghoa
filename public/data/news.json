@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-31 08:00",
+  "updated_at": "2026-08-31 09:00",
   "items": [
+    {
+      "id": "1x27o65",
+      "title": "Oil Rises Amid Renewed Fighting in Middle East",
+      "title_vi": "Dầu tăng trong bối cảnh xung đột gia tăng ở Trung Đông",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-renewed-fighting-in-middle-east-add7b187",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-08-31 06:37"
+    },
     {
       "id": "30peou",
       "title": "U.S. Army To Spend $2.2B On Nuclear Microreactors At Military Bases",
@@ -519,6 +530,17 @@
       "published": "2026-08-28 16:02"
     },
     {
+      "id": "my7osy",
+      "title": "This grain rally is no time to sit on your hands",
+      "title_vi": "đợt tăng giá ngũ cốc này không có thời gian để ngồi yên",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-08-28 14:00"
+    },
+    {
       "id": "gbbrsa",
       "title": "Opinion | King Donald Is Dethroning the Dollar",
       "title_vi": "Ý kiến ​​| Vua Donald đang truất ngôi đồng đô la",
@@ -528,28 +550,6 @@
       "source": "The New York Times",
       "category": "macro",
       "published": "2026-08-28 12:00"
-    },
-    {
-      "id": "1itshkg",
-      "title": "The real causes of sugar price spike",
-      "title_vi": "Nguyên nhân thực sự khiến giá đường tăng vọt",
-      "summary_vi": "Sự chuyển hướng ethanol và thâm hụt gió mùa không phải là thủ phạm chính. Đó là sự suy đoán của các trung gian thị trường",
-      "image": "https://bl-i.thgim.com/public/incoming/29t0h2/article71397417.ece/alternates/LANDSCAPE_1200/10216_13_1_2026_16_51_34_3_13_01_2026_SUGARCANE_2.JPG",
-      "link": "https://www.thehindubusinessline.com/opinion/the-real-causes-of-sugar-price-spike/article71397399.ece",
-      "source": "BusinessLine",
-      "category": "soft",
-      "published": "2026-08-28 07:45"
-    },
-    {
-      "id": "1pyv27v",
-      "title": "Wheat, Soybeans, Cotton Make New Highs, Corn Corrects: But Higher Prices Ahead",
-      "title_vi": "Lúa mì, đậu nành, bông đạt mức cao mới, ngô điều chỉnh: Nhưng giá sẽ cao hơn ở phía trước",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/wheat-soybeans-cotton-make-new-highs-corn-corrects-higher-prices-ahead",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-08-28 04:18"
     }
   ]
 }

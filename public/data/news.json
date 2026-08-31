@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-08-31 17:00",
+  "updated_at": "2026-08-31 18:00",
   "items": [
+    {
+      "id": "o6u1df",
+      "title": "Iran Says Supertanker Hit by Mines in Strait of Hormuz",
+      "title_vi": "Iran nói siêu tàu chở dầu trúng mìn ở eo biển Hormuz",
+      "summary_vi": "Truyền thông nhà nước Iran hôm thứ Hai đưa tin, dẫn lời Lực lượng Vệ binh Cách mạng Hồi giáo Iran, một siêu tàu chở dầu bốc cháy sau khi va phải hai quả mìn hải quân ở phía nam eo biển Hormuz. Tàu chở dầu đang cố gắng đi qua eo biển bất hợp pháp, Vệ binh Cách mạng cho biết trong một tuyên bố c",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-31_pts6dzbq2m.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Supertanker-Hit-by-Mines-in-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-31 18:00"
+    },
     {
       "id": "1t1fdxm",
       "title": "Lithium Miners Cash In as Battery Storage Demand Surges",
@@ -9,8 +20,19 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-31_xpdwbnpya7.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Lithium-Miners-Cash-In-as-Battery-Storage-Demand-Surges.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-08-31 16:50"
+    },
+    {
+      "id": "pi4r0s",
+      "title": "The U.S. Venezuela oil deal won’t lower your gas prices. Here’s what you need to know",
+      "title_vi": "Thỏa thuận dầu mỏ của Mỹ với Venezuela sẽ không làm giảm giá xăng của bạn. Đây là những gì bạn cần biết",
+      "summary_vi": "Chính quyền Trump hôm thứ Sáu đã công bố một thỏa thuận nhằm phát triển một lượng lớn trữ lượng dầu của Venezuela, trong đó Mỹ chiếm phần lớn cổ phần. Các chuyên gia năng lượng cho rằng có nhiều lý do để nghi ngờ.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5759x3239+0+409/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Fdb%2Fdf4d66cf48169deed3c9a4ca2ba5%2Fap26241639871251.jpg",
+      "link": "https://www.npr.org/2026/08/31/nx-s1-5949407/us-venezuelan-oil-deal",
+      "source": "NPR",
+      "category": "energy",
+      "published": "2026-08-31 16:00"
     },
     {
       "id": "10ci60e",
@@ -99,17 +121,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-08-31 04:00"
-    },
-    {
-      "id": "1dpmpvg",
-      "title": "UBS Says a Major Commodity Upcycle Is Taking Shape",
-      "title_vi": "UBS cho biết một chu kỳ tăng giá hàng hóa chính đang hình thành",
-      "summary_vi": "Một ngày sau khi chiến lược gia hàng hóa kỳ cựu Jeff Currie nói với các nhà đầu tư hãy “mua lâu và chuẩn bị sẵn sàng” cho đợt tăng giá hàng hóa tiếp theo, chiến lược gia Sagar Khandelwal của UBS đã đưa ra một lời kêu gọi tăng giá tương tự, thúc giục khách hàng “định vị cho một chu kỳ tăng giá hàng hóa”. Khandelwal đã nói",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-28_plwibvizu2.jpg",
-      "link": "https://oilprice.com/Metals/Commodities/UBS-Says-a-Major-Commodity-Upcycle-Is-Taking-Shape.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-31 02:00"
     },
     {
       "id": "132r55q",
@@ -539,17 +550,6 @@
       "source": "Brave New Coin",
       "category": "metal",
       "published": "2026-08-28 16:16"
-    },
-    {
-      "id": "1dog5y2",
-      "title": "How 6 Months of War in Iran Jolted Oil, Gas, Stocks and More",
-      "title_vi": "6 tháng chiến tranh ở Iran đã làm rung chuyển dầu, khí đốt, chứng khoán và hơn thế nữa như thế nào",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/08/28/business/iran-war-oil-stocks-prices.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-08-28 16:02"
     }
   ]
 }

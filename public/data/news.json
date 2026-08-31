@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31 07:00",
+  "updated_at": "2026-08-31 07:40",
   "items": [
     {
       "id": "30peou",
@@ -66,6 +66,17 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-08-30 20:00"
+    },
+    {
+      "id": "1670w01",
+      "title": "Smaller corn crop influences market",
+      "title_vi": "Vụ ngô nhỏ hơn ảnh hưởng đến thị trường",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.producer.com/markets/shrinking-u-s-corn-crop-will-have-market-consequences/",
+      "source": "The Western Producer",
+      "category": "agri",
+      "published": "2026-08-30 19:32"
     },
     {
       "id": "1jr1hc4",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-08-28 03:55"
-    },
-    {
-      "id": "b4pgib",
-      "title": "Coffee Prices Are High. Why Ground Coffee Is Holding Up Better Than K-Cups.",
-      "title_vi": "Giá cà phê đang cao. Tại sao cà phê xay có tác dụng tốt hơn K-Cups.",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barrons.com/articles/coffee-prices-keurig-nestle-starbucks-stock-d8404517",
-      "source": "Barron's",
-      "category": "soft",
-      "published": "2026-08-28 03:39"
     }
   ]
 }

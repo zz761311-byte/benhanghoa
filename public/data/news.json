@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01 06:00",
+  "updated_at": "2026-09-01 06:54",
   "items": [
     {
       "id": "zabf7y",
@@ -255,6 +255,17 @@
       "published": "2026-08-31 14:33"
     },
     {
+      "id": "7d52et",
+      "title": "Heed higher grain prices, endure lower livestock",
+      "title_vi": "Chú ý giá ngũ cốc cao hơn, chịu đựng chăn nuôi thấp hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmweeknow.com/opinion/market_focus/heed-higher-grain-prices-endure-lower-livestock/article_06465dd9-f276-4474-aa78-9450aa6505a4.html",
+      "source": "FarmWeekNow",
+      "category": "agri",
+      "published": "2026-08-31 13:00"
+    },
+    {
       "id": "1x4xyja",
       "title": "Gold dips as Fed rate-hike bets rise, still heads for best month since January",
       "title_vi": "Vàng giảm khi đặt cược tăng lãi suất của Fed tăng, vẫn hướng tới tháng tốt nhất kể từ tháng 1",
@@ -275,6 +286,17 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-08-31 06:37"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-08-31 04:54"
     },
     {
       "id": "132r55q",
@@ -528,28 +550,6 @@
       "source": "KITCO",
       "category": "metal",
       "published": "2026-08-29 01:17"
-    },
-    {
-      "id": "2qwm3n",
-      "title": "Chile's Codelco posts stronger profit on copper rally as mine disruptions drag on output",
-      "title_vi": "Codelco của Chile đạt lợi nhuận cao hơn nhờ giá đồng tăng do sự gián đoạn khai thác kéo theo sản lượng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/americas/chiles-codelco-posts-stronger-profit-copper-rally-mine-disruptions-drag-output-2026-08-28/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-08-29 00:09"
-    },
-    {
-      "id": "5vd8ks",
-      "title": "Silver Price For Today, 28 August 2026",
-      "title_vi": "Giá Bạc hôm nay, ngày 28 tháng 8 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
-      "source": "Forbes",
-      "category": "metal",
-      "published": "2026-08-29 00:07"
     }
   ]
 }

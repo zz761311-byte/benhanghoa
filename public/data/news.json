@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-01 03:11",
+  "updated_at": "2026-09-01 04:00",
   "items": [
+    {
+      "id": "17l7rr7",
+      "title": "Canada Tariffs Deepen North America’s Steel and Aluminum Squeeze",
+      "title_vi": "Thuế quan của Canada làm sâu sắc thêm sức ép thép và nhôm của Bắc Mỹ",
+      "summary_vi": "Cuộc chiến thương mại mới giữa Hoa Kỳ và Canada càng làm tăng thêm sự bất ổn đối với chuỗi cung ứng thép và nhôm phức tạp quan trọng đối với ngành sản xuất nặng và ngành công nghiệp ô tô Bắc Mỹ. Sự đổ vỡ của các cuộc đàm phán thương mại vào tuần trước đã dẫn đến sự leo thang nhanh chóng của thuế quan",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-31_ndh3fe7zex.jpg",
+      "link": "https://oilprice.com/Metals/Commodities/Canada-Tariffs-Deepen-North-Americas-Steel-and-Aluminum-Squeeze.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-09-01 04:00"
+    },
     {
       "id": "6rxw6g",
       "title": "Norway Wants Europe’s Energy Market, Without Sharing Its Trade-Offs",
@@ -101,17 +112,6 @@
       "published": "2026-09-01 00:00"
     },
     {
-      "id": "1loqmcv",
-      "title": "Europe Gas Prices Jump 5% to Highest Level Since 2023",
-      "title_vi": "Giá khí đốt châu Âu tăng 5% lên mức cao nhất kể từ năm 2023",
-      "summary_vi": "Giá khí đốt tự nhiên chuẩn châu Âu đã tăng 5% trong phiên giao dịch sáng sớm hôm thứ Hai do sự leo thang trở lại của sự thù địch giữa Hoa Kỳ và Iran làm gia tăng mối lo ngại về nguồn cung LNG từ Trung Đông. Giá chuẩn tại Cơ sở chuyển nhượng quyền sở hữu Hà Lan (TTF)",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-31_d3fcouk5yp.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Gas-Prices-Jump-5-to-Highest-Level-Since-2023.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-31 23:30"
-    },
-    {
       "id": "1lirsbe",
       "title": "Gold, silver price corrections may create buying opportunities despite hawkish Fed, says analyst",
       "title_vi": "Nhà phân tích cho biết việc điều chỉnh giá vàng, bạc có thể tạo ra cơ hội mua bất chấp quan điểm diều hâu của Fed",
@@ -176,6 +176,17 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-08-31 19:20"
+    },
+    {
+      "id": "pi4r0s",
+      "title": "The U.S.-Venezuela oil deal won’t lower your gas prices. Here’s what you need to know",
+      "title_vi": "Thỏa thuận dầu mỏ Mỹ-Venezuela sẽ không làm giảm giá xăng của bạn. Đây là những gì bạn cần biết",
+      "summary_vi": "Chính quyền Trump hôm thứ Sáu đã công bố một thỏa thuận nhằm phát triển một lượng lớn trữ lượng dầu của Venezuela, trong đó Mỹ chiếm phần lớn cổ phần. Các chuyên gia năng lượng cho rằng có nhiều lý do để nghi ngờ.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5759x3239+0+409/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Fdb%2Fdf4d66cf48169deed3c9a4ca2ba5%2Fap26241639871251.jpg",
+      "link": "https://www.npr.org/2026/08/31/nx-s1-5949407/us-venezuelan-oil-deal",
+      "source": "NPR",
+      "category": "energy",
+      "published": "2026-08-31 16:00"
     },
     {
       "id": "x0k0ti",
@@ -539,17 +550,6 @@
       "source": "Planet Detroit",
       "category": "metal",
       "published": "2026-08-28 23:20"
-    },
-    {
-      "id": "1tnn212",
-      "title": "Weekly Coffee News: US AeroPress Champion + Coffee 101 with the Howells",
-      "title_vi": "Tin tức Cà phê Hàng tuần: Nhà vô địch AeroPress Hoa Kỳ + Coffee 101 with the Howells",
-      "summary_vi": "Phillippe “Akira” Kato giành chức vô địch AeroPress của Mỹ Phillippe “Akira” Kato của Newbery Street Coffee ở Boston đã giành chức vô địch AeroPress của Mỹ năm 2026, do Atomic Coffee Roasters trình bày tại Studio B ở...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/08/28/weekly-coffee-news-us-aeropress-champion-coffee-101-with-the-howells/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-08-28 22:14"
     }
   ]
 }

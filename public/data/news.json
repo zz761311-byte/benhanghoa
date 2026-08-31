@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31 21:00",
+  "updated_at": "2026-08-31 21:04",
   "items": [
     {
       "id": "1jv7iep",
@@ -343,6 +343,17 @@
       "published": "2026-08-29 03:50"
     },
     {
+      "id": "yp4vik",
+      "title": "Race weekend forecast: Elevated storm chances ahead of Winn Dixie 500 and Coke Zero Sugar 400",
+      "title_vi": "Dự báo cuối tuần về cuộc đua: Khả năng xảy ra bão cao hơn Winn Dixie 500 và Coke Zero Sugar 400",
+      "summary_vi": "Bãi biển Daytona được thiết lập cho hai cuộc đua lớn vào cuối tuần này | Dưới đây là những gì mong đợi trong dự báo:",
+      "image": "https://kubrick.htvapps.com/vidthumb/dba8b2f5-06e1-4bcf-b6cc-2ce882e0e221/bff9bf2e-361e-490f-b513-a0e320ba69ee.jpg?crop=1xw%3A1.0xh%3Bcenter%2Ctop&resize=1200%3A*",
+      "link": "https://www.wesh.com/article/daytona-race-weekend-weather-storms-forecast/73553096",
+      "source": "WESH",
+      "category": "soft",
+      "published": "2026-08-29 03:37"
+    },
+    {
       "id": "1xp0zxs",
       "title": "USDA Corn Yield Forecast Puts Oklahoma, South Carolina and Colorado at Bottom",
       "title_vi": "Dự báo năng suất ngô của USDA đặt Oklahoma, Nam Carolina và Colorado ở vị trí cuối cùng",
@@ -539,17 +550,6 @@
       "source": "Advisor Perspectives",
       "category": "metal",
       "published": "2026-08-28 21:21"
-    },
-    {
-      "id": "vkt8yl",
-      "title": "How popular is Donald Trump?",
-      "title_vi": "Donald Trump được yêu thích đến mức nào?",
-      "summary_vi": "Xếp hạng phê duyệt của Silver Bulletin dành cho Tổng thống Trump - và tất cả các tổng thống kể từ Truman.",
-      "image": "https://substackcdn.com/image/fetch/$s_!Xfx5!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47c9842-cfbc-4300-8bea-3c73291e02c3_1200x634.jpeg",
-      "link": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
-      "source": "Silver Bulletin",
-      "category": "metal",
-      "published": "2026-08-28 20:51"
     }
   ]
 }

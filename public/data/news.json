@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-08-31 20:00",
+  "updated_at": "2026-08-31 21:00",
   "items": [
+    {
+      "id": "1jv7iep",
+      "title": "Oil Companies and Banks Face UK Windfall Tax Threat",
+      "title_vi": "Các công ty dầu mỏ và ngân hàng phải đối mặt với mối đe dọa về thuế bất ngờ ở Anh",
+      "summary_vi": "Theo báo cáo, Thủ tướng John Healey đã được đưa ra kế hoạch đánh thuế các công ty dầu mỏ và ngân hàng hơn nữa vì các ông chủ trong lĩnh vực này đã công bố lợi nhuận khổng lồ. Healey có thể xem xét đánh thuế các doanh nghiệp trong Ngân sách năm nay để xây dựng lại bộ đệm tài chính trị giá 22,7 tỷ bảng Anh đã bị xói mòn một phần và",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-31_muo7frsctz.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Companies-and-Banks-Face-UK-Windfall-Tax-Threat.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-31 21:00"
+    },
+    {
+      "id": "rmxs0w",
+      "title": "Caffeine May Change How the Brain Sleeps, Not Just How Long",
+      "title_vi": "Caffeine có thể thay đổi cách não ngủ, không chỉ là bao lâu",
+      "summary_vi": "Đối với những người uống cà phê khẳng định rằng họ có thể ngủ sau khi uống cà phê espresso sau bữa tối, một đánh giá mới cho thấy vấn đề quan trọng hơn có thể là chất lượng của giấc ngủ đó.  Tính hệ thống...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/08/31/caffeine-may-change-how-the-brain-sleeps-not-just-how-long/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-08-31 20:50"
+    },
+    {
+      "id": "17f07ec",
+      "title": "17-Year-Old Launches Pink Pour Coffee Trailer in New Mexico",
+      "title_vi": "Cậu bé 17 tuổi ra mắt trailer cà phê Pink Pour ở New Mexico",
+      "summary_vi": "Khi thanh thiếu niên trên khắp Hoa Kỳ đổi công việc mùa hè để đi học toàn thời gian vào mùa thu này, một thanh niên 17 tuổi ở New Mexico đang đưa công việc pha cà phê của mình lên một tầm cao hoàn toàn mới. Natalia...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/08/31/17-year-old-launches-pink-pour-coffee-trailer-in-new-mexico/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-08-31 20:40"
+    },
+    {
+      "id": "z04kvk",
+      "title": "Asia Steps In to Fill Diesel Supply Gap in Africa as Middle East Exports Crash",
+      "title_vi": "Châu Á bước vào lấp đầy khoảng trống nguồn cung dầu diesel ở châu Phi khi xuất khẩu ở Trung Đông sụt giảm",
+      "summary_vi": "Xuất khẩu dầu diesel của châu Á sang châu Phi đang tăng lên mức cao gần 5 năm, do doanh số bán của Trung Đông sang châu Phi giảm xuống mức thấp nhất 9 năm trong bối cảnh có nguy cơ ngừng hoạt động vận chuyển và nhà máy lọc dầu, một phân tích của Reuters về dữ liệu và khối lượng theo dõi tàu cho thấy hôm thứ Hai. Xung đột Trung Đông trở nên điên cuồng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-31_bo4nuqjao6.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asia-Steps-In-to-Fill-Diesel-Supply-Gap-in-Africa-as-Middle-East-Exports-Crash.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-08-31 20:30"
+    },
     {
       "id": "1vu6loy",
       "title": "China&#039;s LNG Imports Set to Drop 18% in August as Prices Soar",
@@ -68,6 +112,17 @@
       "published": "2026-08-31 15:35"
     },
     {
+      "id": "x0k0ti",
+      "title": "US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says",
+      "title_vi": "EIA cho biết sản lượng dầu thô của Mỹ sẽ giảm trong thập kỷ tới do dự báo giá dầu Brent dưới 70 USD",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-crude-output-to-fall-next-decade-on-sub-70-brent-price-forecast-eia-says/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-08-31 15:34"
+    },
+    {
       "id": "1595wpq",
       "title": "Rising oil prices, coupled with heightened expectations of Federal Reserve rate hikes, have kept the USD/CAD pair in a narrow trading range.",
       "title_vi": "Giá dầu tăng, cùng với kỳ vọng tăng cao về việc tăng lãi suất của Cục Dự trữ Liên bang, đã giữ cặp USD/CAD trong phạm vi giao dịch hẹp.",
@@ -123,17 +178,6 @@
       "published": "2026-08-31 09:32"
     },
     {
-      "id": "1xx1kg8",
-      "title": "Oil Prices Surge as U.S. and Iran Exchange Strikes",
-      "title_vi": "Giá dầu tăng vọt khi Mỹ và Iran đình công",
-      "summary_vi": "Giá dầu tăng vào đầu phiên giao dịch châu Á hôm thứ Hai sau khi Mỹ tấn công Iran lần đầu tiên sau hơn một tháng, sau đó Iran trả đũa các căn cứ của Mỹ ở Jordan. Tại thời điểm viết bài, hợp đồng tương lai WTI giao tháng trước đang giao dịch ở mức 85,46 USD/thùng, tăng 2,47%, trong khi Brent đứng trước.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-30_pokxkazaeb.jpg",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Surge-as-US-and-Iran-Exchange-Strikes.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-31 09:30"
-    },
-    {
       "id": "1x27o65",
       "title": "Oil Rises Amid Renewed Fighting in Middle East",
       "title_vi": "Dầu tăng trong bối cảnh xung đột gia tăng ở Trung Đông",
@@ -143,17 +187,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-08-31 06:37"
-    },
-    {
-      "id": "30peou",
-      "title": "U.S. Army To Spend $2.2B On Nuclear Microreactors At Military Bases",
-      "title_vi": "Quân đội Hoa Kỳ chi 2,2 tỷ USD cho các lò phản ứng vi mô hạt nhân tại các căn cứ quân sự",
-      "summary_vi": "Trở lại tháng 10 năm 2025, Quân đội Hoa Kỳ đã công bố Chương trình Janus nhằm cung cấp các lò vi sóng hạt nhân di động cho các căn cứ quân sự vào năm 2028. Mặc dù các lò phản ứng này nhỏ hơn nhiều so với các nhà máy hạt nhân thông thường nhưng chúng thường tạo ra 1-20 MW điện cho mỗi lò phản ứng, điều này rất quan trọng.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-29_qdeoq2tdrt.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/US-Army-To-Spend-22B-On-Nuclear-Microreactors-At-Military-Bases.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-08-31 06:00"
     },
     {
       "id": "132r55q",
@@ -517,39 +550,6 @@
       "source": "Silver Bulletin",
       "category": "metal",
       "published": "2026-08-28 20:51"
-    },
-    {
-      "id": "yp4vik",
-      "title": "Race weekend forecast: Elevated storm chances ahead of Winn Dixie 500 and Coke Zero Sugar 400",
-      "title_vi": "Dự báo cuộc đua cuối tuần: Khả năng có bão tăng cao trước Winn Dixie 500 và Coke Zero Sugar 400",
-      "summary_vi": "Bãi biển Daytona chuẩn bị tổ chức hai cuộc đua lớn vào cuối tuần này | Đây là những gì mong đợi trong dự báo:",
-      "image": "https://kubrick.htvapps.com/vidthumb/dba8b2f5-06e1-4bcf-b6cc-2ce882e0e221/bff9bf2e-361e-490f-b513-a0e320ba69ee.jpg?crop=1xw%3A1.0xh%3Bcenter%2Ctop&resize=1200%3A*",
-      "link": "https://www.wesh.com/article/daytona-race-weekend-weather-storms-forecast/73553096",
-      "source": "WESH",
-      "category": "soft",
-      "published": "2026-08-28 20:25"
-    },
-    {
-      "id": "4q74wl",
-      "title": "Silver Price Breaks $70 as Jackson Hole Tests Bullish Momentum",
-      "title_vi": "Giá bạc phá vỡ 70 USD khi Jackson Hole kiểm tra đà tăng",
-      "summary_vi": "Giá bạc phá vỡ trên 70 USD trước Jackson Hole, với chính sách của Fed được thiết lập để kiểm tra sự đột phá do nhu cầu dài hạn và nguồn cung thắt chặt hỗ trợ triển vọng tăng giá.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/08/silver-precious-metal-price-chart-07-1.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/silver-price-breaks-70-as-jackson-hole-tests-bullish-momentum-1619878",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-08-28 19:57"
-    },
-    {
-      "id": "1w77lbn",
-      "title": "Moody’s shifts Trekor Metals outlook on copper ramp-up",
-      "title_vi": "Moody's thay đổi triển vọng của Trekor Metals về việc tăng cường đồng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/stock-market-news/moodys-shifts-trekor-metals-outlook-on-copper-rampup-93CH-4881186",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-08-28 19:33"
     }
   ]
 }

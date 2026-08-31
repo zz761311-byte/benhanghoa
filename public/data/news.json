@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-01 04:00",
+  "updated_at": "2026-09-01 05:00",
   "items": [
+    {
+      "id": "1lng3hs",
+      "title": "Iran War Triggers Billions in New Oil Pipeline and Port Investment",
+      "title_vi": "Chiến tranh Iran gây ra hàng tỷ USD đầu tư vào đường ống dẫn dầu và cảng mới",
+      "summary_vi": "Sự gián đoạn nghiêm trọng của dòng dầu và khí đốt ra khỏi Vịnh Ba Tư do cuộc chiến giữa Mỹ, Israel và Iran, đã khiến các quốc gia nhập khẩu năng lượng phải chịu chi phí tăng vọt, nguồn cung không chắc chắn và triển vọng u ám. Tuy nhiên, đã có một điều may mắn: sự vội vã xây dựng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-31_esrnouq2z0.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Triggers-Billions-in-New-Oil-Pipeline-and-Port-Investment.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-01 04:00"
+    },
     {
       "id": "17l7rr7",
       "title": "Canada Tariffs Deepen North America’s Steel and Aluminum Squeeze",
@@ -101,17 +112,6 @@
       "published": "2026-09-01 00:30"
     },
     {
-      "id": "82ynka",
-      "title": "Conflict and Climate Are Driving Food Prices Higher",
-      "title_vi": "Xung đột và khí hậu đang đẩy giá thực phẩm tăng cao",
-      "summary_vi": "Hai tuần trước, tôi đã viết về việc xung đột và biến đổi khí hậu đang kết hợp như thế nào để cản trở việc di chuyển trên toàn cầu. Sự kết hợp tương tự đó cũng đang đẩy nguồn cung thực phẩm giảm và giá cả tăng trên toàn thế giới. Biến đổi khí hậu không còn xảy ra nữa; nó ở đây và chúng tôi đang trộn nó với",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-31_nczjqeamqy.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Conflict-and-Climate-Are-Driving-Food-Prices-Higher.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-01 00:00"
-    },
-    {
       "id": "1lirsbe",
       "title": "Gold, silver price corrections may create buying opportunities despite hawkish Fed, says analyst",
       "title_vi": "Nhà phân tích cho biết việc điều chỉnh giá vàng, bạc có thể tạo ra cơ hội mua bất chấp quan điểm diều hâu của Fed",
@@ -165,6 +165,17 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-08-31 20:22"
+    },
+    {
+      "id": "17m1tls",
+      "title": "Steel and materials stocks are whipsawing as the U.S.-Canada trade war heats up",
+      "title_vi": "Cổ phiếu thép và vật liệu tăng mạnh khi chiến tranh thương mại Mỹ-Canada nóng lên",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://qz.com/steel-materials-stocks-us-canada-trade-war-tariffs-083126",
+      "source": "qz.com",
+      "category": "metal",
+      "published": "2026-08-31 19:43"
     },
     {
       "id": "1b1u2jw",
@@ -539,17 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-08-28 23:30"
-    },
-    {
-      "id": "iw6soo",
-      "title": "Michigan environmental news: DTE says July storm impact 20 times worse than forecast",
-      "title_vi": "Tin tức môi trường Michigan: DTE cho biết tác động của cơn bão tháng 7 tồi tệ hơn 20 lần so với dự báo",
-      "summary_vi": "DTE thông báo với các cơ quan quản lý rằng tác động của cơn bão ngày 3 tháng 7 tồi tệ hơn 20 lần so với dự báo. Thêm vào đó: Michigan ủng hộ nghiên cứu hydro, tài trợ cho mỏ đồng và các cuộc chạm trán với sói ở Isle Royale.",
-      "image": "https://planetdetroit.org/wp-content/uploads/2026/08/AP24173572096203.jpg",
-      "link": "https://planetdetroit.org/2026/08/dte-consumers-storm-response/",
-      "source": "Planet Detroit",
-      "category": "metal",
-      "published": "2026-08-28 23:20"
     }
   ]
 }

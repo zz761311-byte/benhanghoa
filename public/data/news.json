@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01 09:06",
+  "updated_at": "2026-09-01 10:00",
   "items": [
     {
       "id": "vl04fk",
@@ -88,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-01 02:00"
+    },
+    {
+      "id": "10aerma",
+      "title": "Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon",
+      "title_vi": "Trump công bố một thỏa thuận dầu mỏ lớn với Venezuela. Tại sao nó sẽ không giảm giá xăng sớm",
+      "summary_vi": "Tổng thống Donald Trump hôm thứ Sáu tuyên bố rằng Hoa Kỳ đã đảm bảo quyền kiểm soát đa số đối với 65 tỷ thùng trữ lượng dầu đã được chứng minh của Venezuela.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353493-1787598365293-gettyimages-2291340917-TRUMP_SCHOOL_CHOICE.jpeg?v=1787598388&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/08/31/trump-venezuela-oil-gas-price.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-09-01 01:54"
     },
     {
       "id": "1vj8nfx",
@@ -539,17 +550,6 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-08-29 02:07"
-    },
-    {
-      "id": "fkjy5s",
-      "title": "What Is the Outlook for Diesel and Gasoline Supplies?",
-      "title_vi": "Triển vọng cho nguồn cung cấp dầu diesel và xăng là gì?",
-      "summary_vi": "Nitin Jindal, người đứng đầu Hàng hóa Toàn cầu tại Goldman Sachs FICC và Equities, trên podcast The Markets cho biết, nguồn cung các sản phẩm tinh chế như dầu diesel, xăng và nhiên liệu máy bay phản lực có thể vẫn tiếp tục bị thắt chặt trong bối cảnh giao thông qua eo biển Hormuz liên tục bị gián đoạn.",
-      "image": "https://www.goldmansachs.com/images/insights/the-markets/what-is-the-outlook-for-diesel-and-gasoline-supplies/3x2.jpg",
-      "link": "https://www.goldmansachs.com/insights/the-markets/what-is-the-outlook-for-diesel-and-gasoline-supplies",
-      "source": "Goldman Sachs",
-      "category": "energy",
-      "published": "2026-08-29 02:01"
     }
   ]
 }

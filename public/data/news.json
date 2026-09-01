@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01 07:00",
+  "updated_at": "2026-09-01 08:00",
   "items": [
     {
       "id": "vl04fk",
@@ -220,6 +220,17 @@
       "source": "Flathead Beacon",
       "category": "agri",
       "published": "2026-08-31 18:44"
+    },
+    {
+      "id": "100jw8h",
+      "title": "Oil to hold above $80 a barrel as Middle East supply risks persist",
+      "title_vi": "Dầu giữ trên 80 USD/thùng do rủi ro nguồn cung ở Trung Đông vẫn tồn tại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/asia-pacific/oil-hold-above-80-barrel-middle-east-supply-risks-persist-2026-08-31/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-08-31 18:08"
     },
     {
       "id": "pi4r0s",
@@ -538,17 +549,6 @@
       "link": "https://cryptorank.io/news/feed/621d2-platinum-bullish-bias-ocbc-breakout-test",
       "source": "CryptoRank",
       "category": "metal",
-      "published": "2026-08-29 01:58"
-    },
-    {
-      "id": "1k1i4oc",
-      "title": "These 3 States Will Have the Worst Corn Yields in 2026, USDA Forecasts",
-      "title_vi": "Dự báo của USDA: 3 bang này sẽ có năng suất ngô kém nhất vào năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/these-3-states-will-have-the-worst-corn-yields-in-2026-usda-forecasts-12071721",
-      "source": "Successful Farming",
-      "category": "agri",
       "published": "2026-08-29 01:58"
     }
   ]

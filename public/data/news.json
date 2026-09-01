@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-01 06:54",
+  "updated_at": "2026-09-01 07:00",
   "items": [
+    {
+      "id": "vl04fk",
+      "title": "New Tech Breakthrough Aims To Solve The World&#039;s Plastic Waste Problem",
+      "title_vi": "Đột phá công nghệ mới nhằm giải quyết vấn đề rác thải nhựa của thế giới",
+      "summary_vi": "Tái sản xuất nhựa là ngành mà mọi người đều mong muốn tham gia sớm hơn, trong đó McKinsey nhận thấy cơ hội kinh tế lên tới 75 tỷ USD vào năm 2035 cho các công nghệ có khả năng tái sử dụng rác thải nhựa trên thế giới. Và Denovia vừa thực hiện bước tiến lớn nhất của mình",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-31_ylxjiqnq1m.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/New-Tech-Breakthrough-Aims-To-Solve-The-Worlds-Plastic-Waste-Problem.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-09-01 07:00"
+    },
     {
       "id": "zabf7y",
       "title": "Why More Venezuelan Oil Won’t Solve America’s Gasoline Problem",
@@ -101,17 +112,6 @@
       "published": "2026-09-01 01:30"
     },
     {
-      "id": "x34fmu",
-      "title": "Russian Oil Is No Longer India’s Easy Bargain",
-      "title_vi": "Dầu của Nga không còn là món hời dễ dàng cho Ấn Độ",
-      "summary_vi": "Nhập khẩu dầu thô của Ấn Độ giảm trong tháng 8 và thị phần của Nga cũng giảm theo, làm lộ ra vấn đề về nguồn cung mà chỉ riêng mô hình lọc dầu theo mùa không thể giải thích được. Thời gian bảo trì thông thường tại các nhà máy ở Ấn Độ diễn ra vào cuối mùa mưa, khi nhu cầu xăng và dầu diesel trong nước tăng cao.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-31_knwvo7iiyu.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Russian-Oil-Is-No-Longer-Indias-Easy-Bargain.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-01 01:00"
-    },
-    {
       "id": "e3no1e",
       "title": "Weekly market commentary",
       "title_vi": "Bình luận thị trường hàng tuần",
@@ -209,6 +209,17 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-08-31 19:20"
+    },
+    {
+      "id": "bh43uw",
+      "title": "As Record-low Wheat Crop Boosts Prices, Montana Farmers Barely Break Even",
+      "title_vi": "Khi sản lượng lúa mì thấp kỷ lục tăng giá, nông dân Montana hầu như không hòa vốn",
+      "summary_vi": "Vào một ngày nghỉ giữa tháng 8 ở Rose Crossing ở phía bắc Kalispell, người đồng sở hữu Heritage Custom Farming, Tryg Koch, đã lái máy gặt của mình qua cánh đồng rộng 70 mẫu Anh ngay phía đông bắc Costco, nơi ông đã thu hoạch một trong những vụ lúa mì lành mạnh nhất được ghi nhận. Chiếc máy móc mà anh ấy sở hữu trước đây với giá 160.000 đô la đã vận hành được 10 mẫu Anh và cắt tới",
+      "image": "https://flatheadbeacon.com/wp-content/uploads/2026/08/20260812_WHEAT_HARVEST_0245.jpg",
+      "link": "https://flatheadbeacon.com/2026/08/31/as-record-low-wheat-crop-boosts-prices-montana-farmers-barely-break-even/",
+      "source": "Flathead Beacon",
+      "category": "agri",
+      "published": "2026-08-31 18:44"
     },
     {
       "id": "pi4r0s",
@@ -539,17 +550,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-08-29 01:58"
-    },
-    {
-      "id": "55gie6",
-      "title": "Gold prices drop 1% as Warsh says inflation a bigger concern than slowing labor market",
-      "title_vi": "Giá vàng giảm 1% khi Warsh nói lạm phát là mối lo ngại lớn hơn thị trường lao động chậm lại",
-      "summary_vi": "(Kitco News) - Thị trường vàng đang chịu áp lực bán đáng kể khi Chủ tịch Cục Dự trữ Liên bang Kevin Warsh nhắc lại cam kết của ông trong việc đưa áp lực lạm phát trở lại phù hợp với mục tiêu 2% của ngân hàng trung ương. Thứ Sáu, trong bài phát biểu rất được mong đợi của ông tại Hội nghị chuyên đề Ngân hàng Trung ương hàng năm ở Jackson Hole, Wyoming, War",
-      "image": "https://image-api.prod.kitco.com/image/01204ca0-fbe3-4463-a3c7-924357e708f0.jpeg?top=51.842147435897&left=0&width=1000&height=563.31570512821&scale_width=1920&token=cbac5b02ad669b034aa7b1a6865ec7bd57eb1612b9a25fa83c2e0cb95893801b",
-      "link": "https://www.kitco.com/news/article/2026-08-28/gold-prices-drop-1-warsh-says-inflation-bigger-concern-slowing-labor-market",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-08-29 01:17"
     }
   ]
 }

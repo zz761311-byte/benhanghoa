@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01 10:00",
+  "updated_at": "2026-09-01 11:00",
   "items": [
     {
       "id": "vl04fk",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-09-01 04:00"
+    },
+    {
+      "id": "1jewbym",
+      "title": "Silver Conductive Adhesives Market Outlook to 2035",
+      "title_vi": "Triển vọng thị trường chất kết dính dẫn điện bạc đến năm 2035",
+      "summary_vi": "Nhu cầu về chất kết dính dẫn điện bằng bạc trên toàn cầu dự kiến ​​sẽ tăng 8-12% hàng năm cho đến năm 2035, dẫn đầu là việc áp dụng xe điện chạy bằng pin nhiên liệu và thu nhỏ thiết bị điện tử tiên tiến.",
+      "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-silver-conductive-adhesives-market-analysis-forecast-size-trends-and-insights-1788208914.webp",
+      "link": "https://www.indexbox.io/blog/silver-conductive-adhesives-market-outlook-to-2035/",
+      "source": "IndexBox",
+      "category": "metal",
+      "published": "2026-09-01 03:41"
     },
     {
       "id": "6rxw6g",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-08-29 02:17"
-    },
-    {
-      "id": "1e5ds14",
-      "title": "Crops Analysis | Gains in wheat bleed into corn, beans",
-      "title_vi": "Phân tích cây trồng | Lợi nhuận từ lúa mì chuyển sang ngô, đậu",
-      "summary_vi": "Ngô, đậu nành và lúa mì đều đạt mức cao khi xu hướng tăng duy trì đà tăng mạnh.",
-      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
-      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-gains-wheat-bleed-corn-beans",
-      "source": "Pro Farmer",
-      "category": "agri",
-      "published": "2026-08-29 02:07"
     }
   ]
 }

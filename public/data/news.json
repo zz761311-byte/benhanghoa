@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-02 01:01",
+  "updated_at": "2026-09-02 02:01",
   "items": [
+    {
+      "id": "kbuirq",
+      "title": "Gary’s Two-Week Blackout Is a Warning for America",
+      "title_vi": "Sự cố mất điện kéo dài hai tuần của Gary là lời cảnh báo cho nước Mỹ",
+      "summary_vi": "Sau hai tuần chìm trong bóng tối, điện đã được khôi phục cho tất cả người dân của Gary, Indiana, một thành phố công nghiệp ven hồ, cũ kỹ, có thu nhập thấp, nằm trong tầm nhìn của Chicago. Sự cố mất điện đã gây được sự chú ý trên toàn quốc, các câu chuyện truyền hình chiếu cảnh cư dân của Gary lang thang khắp nơi trong những đêm nóng nực",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-01_m5dfp7zstl.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Garys-Two-Week-Blackout-Is-a-Warning-for-America.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-02 02:00"
+    },
+    {
+      "id": "1l0vjcl",
+      "title": "Enhancing Arabica and Robusta coffee prices forecasting through machine learning approaches",
+      "title_vi": "Tăng cường dự báo giá cà phê Arabica và Robusta thông qua phương pháp học máy",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nature.com/articles/s41598-026-62618-9",
+      "source": "Nature",
+      "category": "soft",
+      "published": "2026-09-02 01:11"
+    },
     {
       "id": "1blm9zs",
       "title": "Ukraine Diplomacy Heats Up and Russian Minister Returns to G20",
@@ -121,17 +143,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-01 20:42"
-    },
-    {
-      "id": "im8idc",
-      "title": "Russia Doubles Dark Fleet to Ship LNG to Asia",
-      "title_vi": "Nga tăng gấp đôi hạm đội đen tối để vận chuyển LNG tới châu Á",
-      "summary_vi": "Chỉ trong 9 tháng, Nga đã tăng gấp đôi số lượng tàu thuộc sở hữu không rõ ràng mà họ sử dụng để vận chuyển khí đốt tự nhiên hóa lỏng từ dự án xuất khẩu LNG 2 ở Bắc Cực bị trừng phạt, một phân tích của Bloomberg về dữ liệu theo dõi tàu cho thấy hôm thứ Ba. Tính đến tháng 12 năm 2025, Nga ước tính có",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-01_wx0r27flhw.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Doubles-Dark-Fleet-to-Ship-LNG-to-Asia.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-01 20:30"
     },
     {
       "id": "gb2hzi",
@@ -266,6 +277,17 @@
       "published": "2026-09-01 01:54"
     },
     {
+      "id": "1qb272i",
+      "title": "Is $7 Corn Possible? Here’s the Scenario That Gets Us There",
+      "title_vi": "Ngô giá 7 USD có khả thi không? Đây là kịch bản đưa chúng ta đến đó",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/7-corn-possible-heres-scenario-gets-us-there",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-09-01 01:34"
+    },
+    {
       "id": "7oo6o2",
       "title": "Fairtrade International Announces New Minimum Prices for Coffee",
       "title_vi": "Fairtrade International công bố mức giá tối thiểu mới cho cà phê",
@@ -385,6 +407,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-31 20:40"
+    },
+    {
+      "id": "10vvbsx",
+      "title": "The Iran war's mounting cost to U.S. drivers",
+      "title_vi": "Chi phí ngày càng tăng của cuộc chiến tranh Iran đối với người lái xe Mỹ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.axios.com/2026/08/31/iran-russia-diesel-gasoline-prices",
+      "source": "Axios",
+      "category": "energy",
+      "published": "2026-08-31 20:32"
     },
     {
       "id": "1ehsgbn",
@@ -517,39 +550,6 @@
       "source": "FarmWeekNow",
       "category": "agri",
       "published": "2026-08-31 13:00"
-    },
-    {
-      "id": "1x4xyja",
-      "title": "Gold dips as Fed rate-hike bets rise, still heads for best month since January",
-      "title_vi": "Vàng giảm khi đặt cược tăng lãi suất của Fed tăng, vẫn hướng tới tháng tốt nhất kể từ tháng 1",
-      "summary_vi": "Vàng trượt dốc khi các cuộc tấn công mới ở Trung Đông làm dấy lên lo ngại về lạm phát và những bình luận diều hâu từ Chủ tịch Cục Dự trữ Liên bang đã làm tăng kỳ vọng về đợt tăng lãi suất vào tháng 9.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107390698-1711024545324-gettyimages-1868370659-THAILAND_GOLD.jpeg?v=1788143453&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/08/31/gold-hits-near-two-week-low-on-fed-chiefs-hawkish-stance.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-08-31 09:32"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-08-31 04:54"
-    },
-    {
-      "id": "132r55q",
-      "title": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals",
-      "title_vi": "Bức tường thuế quan mới trong cuộc chiến thương mại Mỹ-Canada có ý nghĩa gì đối với các kim loại quan trọng của nền kinh tế",
-      "summary_vi": "Khi chiến tranh thương mại Mỹ-Canada nổ ra, thị trường đã định giá lại các cổ phiếu kim loại, vật liệu và quỹ ETF, nhưng các nhà đầu tư dài hạn nên thận trọng.",
-      "image": "https://image.cnbcfm.com/api/v1/image/106604367-15940511662020-07-06t155742z_973713548_rc2rnh95wxb6_rtrmadp_0_health-coronavirus-canada-usa.jpeg?v=1787989867&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-08-30 20:00"
     }
   ]
 }

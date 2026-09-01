@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-01 19:00",
+  "updated_at": "2026-09-01 19:48",
   "items": [
+    {
+      "id": "lu1f7v",
+      "title": "Solar Overtakes Coal as China&#039;s Largest Power Source",
+      "title_vi": "Năng lượng mặt trời vượt qua than để trở thành nguồn năng lượng lớn nhất của Trung Quốc",
+      "summary_vi": "Năng lượng mặt trời vừa trở thành nguồn công suất điện lớn nhất ở Trung Quốc, vượt qua than đá trong một thành tựu mang tính bước ngoặt trong việc triển khai năng lượng tái tạo của Trung Quốc. Công suất năng lượng mặt trời ở Trung Quốc đứng ở mức 1.286 gigawatt (GW) vào cuối tháng 7, truyền thông Trung Quốc trích dẫn thông tin của nước này.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-01_dicuozs6fn.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Solar-Overtakes-Coal-as-Chinas-Largest-Power-Source.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-01 19:30"
+    },
     {
       "id": "izs96a",
       "title": "Two Supertankers Hit by Unknown Projectiles in Strait of Hormuz",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-01 18:35"
+    },
+    {
+      "id": "15ji5sp",
+      "title": "EXCLUSIVE: Russia cuts expected 2026 oil output to 17-year low on war fallout, draft forecasts show",
+      "title_vi": "ĐỘC QUYỀN: Nga cắt giảm sản lượng dầu dự kiến ​​năm 2026 xuống mức thấp nhất trong 17 năm do hậu quả chiến tranh, dự thảo dự thảo cho thấy",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/russia-cuts-expected-2026-oil-output-17-year-low-war-fallout-draft-forecasts-2026-09-01/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-09-01 17:53"
     },
     {
       "id": "ya6tjh",
@@ -121,17 +143,6 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-09-01 07:00"
-    },
-    {
-      "id": "zabf7y",
-      "title": "Why More Venezuelan Oil Won’t Solve America’s Gasoline Problem",
-      "title_vi": "Tại sao thêm dầu của Venezuela sẽ không giải quyết được vấn đề xăng dầu của Mỹ",
-      "summary_vi": "Venezuela có trữ lượng dầu đã được chứng minh là lớn nhất trên thế giới và dầu thô nặng của nước này đặc biệt phù hợp với các nhà máy lọc dầu phức tạp dọc Bờ Vịnh Hoa Kỳ. Nhiều dầu của Venezuela hơn sẽ giúp ích cho các nhà máy lọc dầu của Hoa Kỳ, nhưng điều đó không trực tiếp dẫn đến giá máy bơm thấp hơn",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-31_yngkq94aox.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-More-Venezuelan-Oil-Wont-Solve-Americas-Gasoline-Problem.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-01 06:00"
     },
     {
       "id": "hfwual",
@@ -539,17 +550,6 @@
       "source": "NPR",
       "category": "energy",
       "published": "2026-08-29 09:07"
-    },
-    {
-      "id": "84ec2c",
-      "title": "Policy mistakes, not ethanol, are behind sugar price rise",
-      "title_vi": "Sai lầm về chính sách, không phải ethanol, là nguyên nhân khiến giá đường tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://indianexpress.com/article/opinion/editorials/policy-mistakes-not-ethanol-are-behind-sugar-price-rise-10853855/",
-      "source": "The Indian Express",
-      "category": "soft",
-      "published": "2026-08-29 08:20"
     }
   ]
 }

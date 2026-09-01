@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01 19:48",
+  "updated_at": "2026-09-01 20:00",
   "items": [
     {
       "id": "lu1f7v",
@@ -9,7 +9,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-01_dicuozs6fn.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Solar-Overtakes-Coal-as-Chinas-Largest-Power-Source.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-09-01 19:30"
     },
     {
@@ -398,6 +398,17 @@
       "published": "2026-08-31 14:33"
     },
     {
+      "id": "xaghyg",
+      "title": "Sugar Squeeze: Why record cane output failed to curb prices",
+      "title_vi": "Sugar Squeeze: Tại sao sản lượng mía kỷ lục không kiềm chế được giá",
+      "summary_vi": "Ấn Độ sản xuất mía kỷ lục trong mùa này, nhưng lượng đường phục hồi thấp hơn, bệnh mùa màng và sản lượng thấp hơn dự kiến ​​đã thắt chặt nguồn cung, buộc chính phủ phải hạn chế xuất khẩu và cho phép nhập khẩu.",
+      "image": "https://images.forbesindia.com/blog/wp-content/uploads/2026/08/AFP2024011334EU2KUv1HighResIndiaEconomyReligionHinduismFestivalBG-2026-08-de0b58de2cdd9ef0167cf9640a746577.jpg?im=FitAndFill,width=1200,height=900",
+      "link": "https://www.forbesindia.com/article/news/deep-dive/sugar-squeeze-why-record-cane-output-failed-to-curb-prices/2997581/1",
+      "source": "Forbes India",
+      "category": "soft",
+      "published": "2026-08-31 13:56"
+    },
+    {
       "id": "7d52et",
       "title": "Heed higher grain prices, endure lower livestock",
       "title_vi": "Chú ý giá ngũ cốc cao hơn, chịu đựng chăn nuôi thấp hơn",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-08-29 10:59"
-    },
-    {
-      "id": "60p0py",
-      "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
-      "title_vi": "Trump cho biết Mỹ đã ký thỏa thuận với Venezuela để kiểm soát 65 tỷ thùng dầu dự trữ",
-      "summary_vi": "Tổng thống Trump cho biết chính quyền của ông đã ký một thỏa thuận sâu rộng với Venezuela, theo đó có thể cho phép Mỹ tiếp cận một lượng lớn trữ lượng dầu mỏ chưa được khai thác của quốc gia Nam Mỹ này.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4854x2730+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2F0a%2F08856ec44cb6b0439cd340b4ea99%2Fap26240757900206.jpg",
-      "link": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
-      "source": "NPR",
-      "category": "energy",
-      "published": "2026-08-29 09:07"
     }
   ]
 }

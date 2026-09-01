@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01 08:00",
+  "updated_at": "2026-09-01 09:00",
   "items": [
     {
       "id": "vl04fk",
@@ -154,6 +154,17 @@
       "source": "Business Insider",
       "category": "energy",
       "published": "2026-08-31 22:44"
+    },
+    {
+      "id": "155o9ut",
+      "title": "War and heat: Why are wheat prices soaring?",
+      "title_vi": "Chiến tranh và nắng nóng: Tại sao giá lúa mì tăng vọt?",
+      "summary_vi": "Nga và Ukraine đã tăng cường tấn công vào các kho chứa ngũ cốc của họ ở Biển Đen.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a957094a9-1788178580.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/8/31/war-and-heat-why-are-wheat-prices-soaring",
+      "source": "Al Jazeera",
+      "category": "agri",
+      "published": "2026-08-31 21:48"
     },
     {
       "id": "rmxs0w",
@@ -539,17 +550,6 @@
       "source": "Goldman Sachs",
       "category": "energy",
       "published": "2026-08-29 02:01"
-    },
-    {
-      "id": "1wwoodk",
-      "title": "Platinum Price Outlook: OCBC Sees Bullish Bias as Breakout Test Looms",
-      "title_vi": "Triển vọng giá bạch kim: OCBC nhận thấy xu hướng tăng giá khi thử nghiệm đột phá sắp xuất hiện",
-      "summary_vi": "Triển vọng giá bạch kim BitcoinWorld: OCBC nhận thấy xu hướng tăng giá khi thử nghiệm đột phá sắp diễn ra OCBC duy trì xu hướng tăng giá đối với bạch kim khi kim loại này tiến gần đến mức quan trọng",
-      "image": "https://cryptorank.io/static/pages-preview/main-page.png",
-      "link": "https://cryptorank.io/news/feed/621d2-platinum-bullish-bias-ocbc-breakout-test",
-      "source": "CryptoRank",
-      "category": "metal",
-      "published": "2026-08-29 01:58"
     }
   ]
 }

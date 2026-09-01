@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-01 11:00",
+  "updated_at": "2026-09-01 12:01",
   "items": [
+    {
+      "id": "xsciuy",
+      "title": "Department of War Announces $35.6 Million Strategic Equity Investment in Trilogy Metals to",
+      "title_vi": "Bộ Chiến tranh công bố khoản đầu tư cổ phần chiến lược trị giá 35,6 triệu USD vào Trilogy Metals để",
+      "summary_vi": "Văn phòng Trợ lý Bộ trưởng Chiến tranh về Chính sách Cơ sở Công nghiệp của Bộ Chiến tranh đã công bố khoản đầu tư vốn cổ phần trị giá 35,6 triệu USD vào Trilogy Metals Inc. thông qua Cơ quan Phân tích Cơ sở Công nghiệp và",
+      "image": "https://media.defense.gov/2021/Sep/30/2002865254/1280/1280/0/210930-D-EX074-055.JPG",
+      "link": "https://www.war.gov/News/Releases/Release/Article/4585334/department-of-war-announces-356-million-strategic-equity-investment-in-trilogy/",
+      "source": "U.S. Department of War (.gov)",
+      "category": "metal",
+      "published": "2026-09-01 09:04"
+    },
     {
       "id": "vl04fk",
       "title": "New Tech Breakthrough Aims To Solve The World&#039;s Plastic Waste Problem",
@@ -110,6 +121,17 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-09-01 01:54"
+    },
+    {
+      "id": "7oo6o2",
+      "title": "Fairtrade International Announces New Minimum Prices for Coffee",
+      "title_vi": "Fairtrade International công bố mức giá tối thiểu mới cho cà phê",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-us/insights/fairtrade-international-announces-new-minimum-prices-for-coffee/",
+      "source": "stonex.com",
+      "category": "soft",
+      "published": "2026-09-01 01:33"
     },
     {
       "id": "1vj8nfx",
@@ -264,6 +286,17 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-08-31 18:08"
+    },
+    {
+      "id": "kgcbnx",
+      "title": "Cocoa prices are soaring again on weather-related supply concerns (CC1:COM:Commodity)",
+      "title_vi": "Giá ca cao đang tăng vọt trở lại do lo ngại về nguồn cung liên quan đến thời tiết (CC1:COM:Commodity)",
+      "summary_vi": "Giá ca cao tăng trở lại trên 6.600 USD do tình hình mùa vụ ở Tây Phi không ổn định, rủi ro El Niño và giá tại trang trại thấp hơn làm ảnh hưởng đến triển vọng nguồn cung.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2273476373/image_2273476373.jpg?io=getty-c-w630",
+      "link": "https://seekingalpha.com/news/4638163-cocoa-prices-are-soaring-again-on-weather-related-supply-concerns",
+      "source": "Seeking Alpha",
+      "category": "soft",
+      "published": "2026-08-31 18:05"
     },
     {
       "id": "pi4r0s",
@@ -517,39 +550,6 @@
       "source": "WESH",
       "category": "soft",
       "published": "2026-08-29 03:37"
-    },
-    {
-      "id": "1xp0zxs",
-      "title": "USDA Corn Yield Forecast Puts Oklahoma, South Carolina and Colorado at Bottom",
-      "title_vi": "Dự báo năng suất ngô của USDA đặt Oklahoma, Nam Carolina và Colorado ở vị trí cuối cùng",
-      "summary_vi": "USDA",
-      "image": "https://www.agrolatam.com/files/image/79/79476/6a91e93d75a3a_600_315!.jpg?s=e715c3f23731bc4a4bc3c2c5a405ed1b&d=1787886000",
-      "link": "https://www.agrolatam.com/usa/crops/usda-corn-yield-forecast-oklahoma-south-carolina-colorado-2026/",
-      "source": "AgroLatam",
-      "category": "agri",
-      "published": "2026-08-29 03:08"
-    },
-    {
-      "id": "vyj91n",
-      "title": "Corn and wheat prices jump to highest prices in more than three years",
-      "title_vi": "Giá ngô và lúa mì nhảy vọt lên mức cao nhất trong hơn ba năm",
-      "summary_vi": "Giá ngô và lúa mì kỳ hạn đã tăng lên mức cao nhất trong hơn ba năm. Nhưng lý do cho những đợt tăng giá gần đây này rất khác nhau.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108348933-1786603272529-gettyimages-2285482828-AA_14072026_2883242.jpeg?v=1786603346&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
-      "source": "CNBC",
-      "category": "agri",
-      "published": "2026-08-29 03:00"
-    },
-    {
-      "id": "15bkqap",
-      "title": "US Pain at the Pump Worsens After More US-Iran Fighting Lifts Oil Prices",
-      "title_vi": "Nỗi đau của Mỹ tại máy bơm trở nên tồi tệ hơn sau khi nhiều cuộc chiến giữa Mỹ và Iran nâng giá dầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/07/us-pain-at-the-pump-worsens-after-more-us-iran-fighting-lifts-oil-prices/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-08-29 02:17"
     }
   ]
 }

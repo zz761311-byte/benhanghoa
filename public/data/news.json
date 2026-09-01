@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 04:01",
+  "updated_at": "2026-09-02 05:00",
   "items": [
     {
       "id": "1wny0wb",
@@ -255,6 +255,17 @@
       "published": "2026-09-01 08:51"
     },
     {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-09-01 07:59"
+    },
+    {
       "id": "blxvbw",
       "title": "WTI Crude Oil futures hold near $86 as Middle East tensions persist.",
       "title_vi": "Hợp đồng tương lai Dầu thô WTI giữ ở mức gần 86 USD khi căng thẳng ở Trung Đông vẫn tiếp diễn.",
@@ -431,6 +442,17 @@
       "published": "2026-08-31 20:50"
     },
     {
+      "id": "4q9wki",
+      "title": "Warsh Speech Revives Fed Rate Hike Debate, Dollar Awaits Clarity",
+      "title_vi": "Bài phát biểu của Warsh làm sống lại cuộc tranh luận về việc tăng lãi suất của Fed, đồng đô la đang chờ sự rõ ràng",
+      "summary_vi": "Bài phát biểu của BitcoinWorld Warsh làm sống lại cuộc tranh luận về việc tăng lãi suất của Fed, đồng đô la đang chờ sự rõ ràng Đồng đô la Mỹ vẫn chịu áp lực khi các thị trường cân nhắc những nhận xét mới nhất từ ​​​​",
+      "image": "https://cryptorank.io/static/pages-preview/main-page.png",
+      "link": "https://cryptorank.io/news/feed/ec925-warsh-speech-fed-rate-hike-debate-dollar-commerzbank",
+      "source": "CryptoRank",
+      "category": "macro",
+      "published": "2026-08-31 20:43"
+    },
+    {
       "id": "17f07ec",
       "title": "17-Year-Old Launches Pink Pour Coffee Trailer in New Mexico",
       "title_vi": "Cậu bé 17 tuổi ra mắt trailer cà phê Pink Pour ở New Mexico",
@@ -528,28 +550,6 @@
       "source": "NPR",
       "category": "energy",
       "published": "2026-08-31 16:00"
-    },
-    {
-      "id": "x0k0ti",
-      "title": "US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says",
-      "title_vi": "EIA cho biết sản lượng dầu thô của Mỹ sẽ giảm trong thập kỷ tới do dự báo giá dầu Brent dưới 70 USD",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-crude-output-to-fall-next-decade-on-sub-70-brent-price-forecast-eia-says/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-08-31 15:34"
-    },
-    {
-      "id": "1595wpq",
-      "title": "Rising oil prices, coupled with heightened expectations of Federal Reserve rate hikes, have kept the USD/CAD pair in a narrow trading range.",
-      "title_vi": "Giá dầu tăng, cùng với kỳ vọng tăng cao về việc tăng lãi suất của Cục Dự trữ Liên bang, đã giữ cặp USD/CAD trong phạm vi giao dịch hẹp.",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.moomoo.com/news/post/75543408/rising-oil-prices-coupled-with-heightened-expectations-of-federal-reserve",
-      "source": "Moomoo",
-      "category": "energy",
-      "published": "2026-08-31 14:38"
     }
   ]
 }

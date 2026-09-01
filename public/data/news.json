@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-02 02:58",
+  "updated_at": "2026-09-02 03:01",
   "items": [
+    {
+      "id": "jh2h3z",
+      "title": "U.S. Lithium Miners Finally Have a Shot at Cashing In",
+      "title_vi": "Các công ty khai thác lithium của Hoa Kỳ cuối cùng cũng có cơ hội kiếm được tiền",
+      "summary_vi": "Sau nhiều năm thị trường đầy biến động, giá lithium đang tăng vọt và mọi người đều muốn có một mảnh. Khi lĩnh vực lưu trữ pin bùng nổ trên quy mô toàn cầu, giá lithium giao ngay đang chứng kiến ​​một cơn gió lớn, với các công ty khai thác đạt được lợi nhuận khổng lồ. Kết quả là, tài sản lithium",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-01_swmq2ysuxf.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Lithium-Miners-Finally-Have-a-Shot-at-Cashing-In.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-02 03:00"
+    },
     {
       "id": "pmwmbh",
       "title": "Bessent Says Strait of Hormuz Obsolete Within Two Years",
@@ -123,17 +134,6 @@
       "published": "2026-09-01 21:37"
     },
     {
-      "id": "4rdnnz",
-      "title": "U.S. Energy Storage Capacity Installations Hit Record High in Q2",
-      "title_vi": "Công suất lắp đặt công suất lưu trữ năng lượng của Hoa Kỳ đạt mức cao kỷ lục trong quý 2",
-      "summary_vi": "Một báo cáo mới của ngành cho thấy hôm thứ Ba rằng Mỹ đã lắp đặt công suất lưu trữ năng lượng cao kỷ lục trong quý 2 năm nay khi các nhà khai thác lưới điện và các công ty tiện ích chuyển sang sử dụng lưu trữ để tăng độ tin cậy của lưới điện và đáp ứng nhu cầu điện ngày càng tăng. Ngành công nghiệp đã lắp đặt 20,2 gigawatt giờ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-01_03wdyuohy2.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Energy-Storage-Capacity-Installations-Hit-Record-High-in-Q2.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-09-01 21:30"
-    },
-    {
       "id": "n9iik",
       "title": "Copper Price Surge: Tariffs Speculators & Supply Issues",
       "title_vi": "Giá đồng tăng vọt: Thuế quan Nhà đầu cơ & Vấn đề cung ứng",
@@ -242,6 +242,17 @@
       "source": "U.S. Department of War (.gov)",
       "category": "metal",
       "published": "2026-09-01 09:04"
+    },
+    {
+      "id": "1gfd6q7",
+      "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
+      "title_vi": "Thủ tướng Ấn Độ Modi yêu cầu Putin chấm dứt chiến tranh Ukraine trong bối cảnh Mỹ đe dọa áp thuế đối với dầu Nga",
+      "summary_vi": "Thủ tướng Ấn Độ Narendra Modi đã kêu gọi Nga chấm dứt chiến tranh Ukraine và chấm dứt hành động thù địch.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108356790-1788225993130-gettyimages-2292367093-KGZ_Shanghai_Cooperation_Summit_Held_In_Kyrgyzstan.jpeg?v=1788226180&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-09-01 08:51"
     },
     {
       "id": "blxvbw",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-08-31 14:33"
-    },
-    {
-      "id": "xaghyg",
-      "title": "Sugar Squeeze: Why record cane output failed to curb prices",
-      "title_vi": "Sugar Squeeze: Tại sao sản lượng mía kỷ lục không kiềm chế được giá",
-      "summary_vi": "Ấn Độ sản xuất mía kỷ lục trong mùa này, nhưng lượng đường phục hồi thấp hơn, bệnh mùa màng và sản lượng thấp hơn dự kiến ​​đã thắt chặt nguồn cung, buộc chính phủ phải hạn chế xuất khẩu và cho phép nhập khẩu.",
-      "image": "https://images.forbesindia.com/blog/wp-content/uploads/2026/08/AFP2024011334EU2KUv1HighResIndiaEconomyReligionHinduismFestivalBG-2026-08-de0b58de2cdd9ef0167cf9640a746577.jpg?im=FitAndFill,width=1200,height=900",
-      "link": "https://www.forbesindia.com/article/news/deep-dive/sugar-squeeze-why-record-cane-output-failed-to-curb-prices/2997581/1",
-      "source": "Forbes India",
-      "category": "soft",
-      "published": "2026-08-31 13:56"
     }
   ]
 }

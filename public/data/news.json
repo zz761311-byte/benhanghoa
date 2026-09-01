@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-09-01 21:00",
+  "updated_at": "2026-09-01 22:00",
   "items": [
+    {
+      "id": "81u2mf",
+      "title": "Coffee’s Heart Health Link Looks Stronger Without Sweeteners",
+      "title_vi": "Liên kết sức khỏe tim mạch của cà phê trông mạnh mẽ hơn nếu không có chất ngọt",
+      "summary_vi": "Một nghiên cứu lớn mới cho thấy tiêu thụ vừa phải cà phê không đường có liên quan đến việc giảm nguy cơ mắc bệnh tim mạch, trong khi cà phê có đường không cho thấy mối liên hệ bảo vệ tương tự....",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/09/01/coffees-heart-health-link-looks-stronger-without-sweeteners/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-09-01 21:37"
+    },
+    {
+      "id": "4rdnnz",
+      "title": "U.S. Energy Storage Capacity Installations Hit Record High in Q2",
+      "title_vi": "Công suất lắp đặt công suất lưu trữ năng lượng của Hoa Kỳ đạt mức cao kỷ lục trong quý 2",
+      "summary_vi": "Một báo cáo mới của ngành cho thấy hôm thứ Ba rằng Mỹ đã lắp đặt công suất lưu trữ năng lượng cao kỷ lục trong quý 2 năm nay khi các nhà khai thác lưới điện và các công ty tiện ích chuyển sang sử dụng lưu trữ để tăng độ tin cậy của lưới điện và đáp ứng nhu cầu điện ngày càng tăng. Ngành công nghiệp đã lắp đặt 20,2 gigawatt giờ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-01_03wdyuohy2.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Energy-Storage-Capacity-Installations-Hit-Record-High-in-Q2.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-01 21:30"
+    },
+    {
+      "id": "n9iik",
+      "title": "Copper Price Surge: Tariffs Speculators & Supply Issues",
+      "title_vi": "Giá đồng tăng vọt: Thuế quan Nhà đầu cơ & Vấn đề cung ứng",
+      "summary_vi": "Giá đồng tăng vọt là do các vấn đề về nguồn cung như lệnh cấm DRC và sản lượng thấp cộng với căng thẳng nhập khẩu và đầu cơ của Mỹ. Khám phá các yếu tố",
+      "image": "https://www.fundssociety.com/wp-content/uploads/2026/09/Nombramientos-Guada-9.jpg",
+      "link": "https://www.fundssociety.com/en/news/markets/tariffs-speculators-and-shrinking-supply-what-is-behind-the-surge-in-copper-prices/",
+      "source": "Funds Society",
+      "category": "metal",
+      "published": "2026-09-01 21:23"
+    },
     {
       "id": "amevjp",
       "title": "China, Russia, and Iran Take Center Stage at SCO Summit",
@@ -11,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-01 21:00"
+    },
+    {
+      "id": "ybdld6",
+      "title": "Global Supply Chains Keep Workers Poor. Three Case Studies Show How the Cycle Can Be Broken",
+      "title_vi": "Chuỗi cung ứng toàn cầu khiến người lao động nghèo. Ba nghiên cứu điển hình cho thấy chu kỳ có thể bị phá vỡ như thế nào",
+      "summary_vi": "Trên toàn cầu, khoảng 1/5 số người có việc làm sống trong cảnh nghèo đói. Một lý do chính nằm ở cách tổ chức chuỗi cung ứng toàn cầu. Từ nông nghiệp đến du lịch, nhiều việc làm được gắn vào...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/09/01/global-supply-chains-keep-workers-poor-three-case-studies-show-how-the-cycle-can-be-broken/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-09-01 20:42"
     },
     {
       "id": "im8idc",
@@ -101,6 +145,17 @@
       "published": "2026-09-01 15:15"
     },
     {
+      "id": "1yhh50q",
+      "title": "The ICO reports that supply concerns and market dynamics fuel the July coffee price rally",
+      "title_vi": "ICO báo cáo rằng mối lo ngại về nguồn cung và động lực thị trường thúc đẩy đợt tăng giá cà phê tháng Bảy",
+      "summary_vi": "ICO đã công bố trong báo cáo cà phê xanh tháng 7 năm 2026 rằng giá Arabica tăng nhanh hơn giá Robusta, với khoảng cách giá ngày càng lớn được phản ánh qua mức chênh lệch cao hơn, trong khi biến động cũng tăng mạnh.",
+      "image": "https://www.teaandcoffee.net/wp-content/uploads/2022-Colombia-Credit-Those-Coffee-People-0030-2-scaled.jpg",
+      "link": "https://www.teaandcoffee.net/news/39953/the-ico-reports-that-supply-concerns-and-market-dynamics-fuel-the-july-coffee-price-rally/",
+      "source": "Tea & Coffee Trade Journal",
+      "category": "soft",
+      "published": "2026-09-01 15:07"
+    },
+    {
       "id": "jnx7ng",
       "title": "Oil Rises on Renewed U.S.-Iran Hostilities",
       "title_vi": "Dầu tăng do xung đột Mỹ-Iran gia tăng",
@@ -110,17 +165,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-09-01 14:45"
-    },
-    {
-      "id": "xn512o",
-      "title": "U.S. Oil Deal Pushes China and Russia Out of Venezuelan Fields",
-      "title_vi": "Thỏa thuận dầu mỏ của Mỹ đẩy Trung Quốc và Nga ra khỏi mỏ dầu của Venezuela",
-      "summary_vi": "Reuters dẫn lời hai quan chức Mỹ giấu tên cho biết, một công ty dầu mỏ của Mỹ do một ông trùm kinh doanh người Venezuela kiểm soát sẽ thay thế các công ty khai thác một số mỏ dầu của Venezuela của Trung Quốc và Nga. Đối tác Năng lượng Xanh Bắc Mỹ, được chính phủ Hoa Kỳ hỗ trợ, đã",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-01_lh6l8orztk.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-Deal-Pushes-China-and-Russia-Out-of-Venezuelan-Fields.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-01 13:45"
     },
     {
       "id": "6t8zyb",
@@ -486,6 +530,17 @@
       "published": "2026-08-30 00:11"
     },
     {
+      "id": "1nle7nr",
+      "title": "Gold, Silver Fall on Warsh’s Hawkish Jackson Hole Tone",
+      "title_vi": "Vàng, Bạc rơi trên giai điệu Hawkish Jackson Hole của Warsh",
+      "summary_vi": "Vàng và bạc giảm sau khi Kevin Warsh đưa ra quan điểm diều hâu tại Jackson Hole, cảnh báo rủi ro lạm phát có thể đòi hỏi lãi suất cao hơn và gây ra làn sóng bán tháo.",
+      "image": "",
+      "link": "https://sdbullion.com/blog/kevin-warsh-jackson-hole-speech-triggers-gold-silver-selloff",
+      "source": "SD Bullion",
+      "category": "metal",
+      "published": "2026-08-29 22:26"
+    },
+    {
       "id": "1uvegym",
       "title": "Braided Copper Shield Sleeves Market Outlook to 2035",
       "title_vi": "Triển vọng thị trường tay áo lá chắn bằng đồng bện đến năm 2035",
@@ -495,61 +550,6 @@
       "source": "IndexBox",
       "category": "metal",
       "published": "2026-08-29 19:01"
-    },
-    {
-      "id": "1tadrgt",
-      "title": "Gold, silver sink as Warsh revives September Fed-hike trade - Kitco PM Report",
-      "title_vi": "Vàng, bạc chìm khi Warsh hồi sinh giao dịch tăng lãi suất của Fed vào tháng 9 - Báo cáo của Kitco PM",
-      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay giảm mạnh trong phiên giao dịch cuối giờ chiều thứ Sáu tại Hoa Kỳ, sau khi Chủ tịch Fed Kevin Warsh sử dụng bài phát biểu tại Jackson Hole để củng cố cuộc chiến chống lạm phát của ngân hàng trung ương, nâng lãi suất ngắn hạn, củng cố đồng đô la Mỹ và buộc kim loại quý phải giảm giá mạnh. Vào thời điểm đó",
-      "image": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0.22909090909091&left=0&width=1024&height=575.54181818182&scale_width=1920&token=3ff7ebf605cdf1e78e451eba0b79d1fd4217e84df7974f76786e3895df39d82b",
-      "link": "https://www.kitco.com/news/article/2026-08-28/gold-silver-sink-warsh-revives-september-fed-hike-trade-kitco-pm-report",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-08-29 18:50"
-    },
-    {
-      "id": "57s3yu",
-      "title": "Coke Zero Sugar 400 rain update: Final weather forecast for Daytona race",
-      "title_vi": "Cập nhật mưa Coke Zero Sugar 400: Dự báo thời tiết cuối cùng cho cuộc đua Daytona",
-      "summary_vi": "Coke Zero Sugar 400 ngày đã có mặt. Dự báo của Bãi biển Daytona cho cuộc đua NASCAR Cup Series tối nay sẽ như thế nào?",
-      "image": "https://s.yimg.com/lo/mysterio/api/8ff5f3c80467a33272738cbdb6cb4a786f158aee3b15dcb07cfdc904c1de90f0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaytona-beach-news-journal%2F8d7f7aab29f54409d194a9aa3be9c5be.jpg",
-      "link": "https://sports.yahoo.com/articles/coke-zero-sugar-400-rain-090640695.html",
-      "source": "Yahoo Sports",
-      "category": "soft",
-      "published": "2026-08-29 16:06"
-    },
-    {
-      "id": "1eg9c8c",
-      "title": "Politics News | Breaking Political News, Video & Analysis-ABC News - ABC News",
-      "title_vi": "Tin tức chính trị | Tin tức chính trị nóng hổi, ​​Video & Phân tích-ABC News - ABC News",
-      "summary_vi": "ABC News là nguồn đáng tin cậy của bạn về các câu chuyện và video tin tức chính trị. Nhận tin tức và phân tích mới nhất về mọi thứ từ nhiệm kỳ tổng thống của Trump, Thượng viện, Hạ viện và Tòa án tối cao.",
-      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "link": "https://abcnews.com/politics",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "metal",
-      "published": "2026-08-29 14:00"
-    },
-    {
-      "id": "1n14lc5",
-      "title": "US Dollar Rally Builds Momentum, Crude Oil Holds the Key",
-      "title_vi": "Đồng đô la Mỹ tăng giá tạo đà, dầu thô giữ chìa khóa",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-gb/news-and-analysis/us-dollar-rally-builds-momentum-crude-oil-holds-the-key/",
-      "source": "stonex.com",
-      "category": "energy",
-      "published": "2026-08-29 11:47"
-    },
-    {
-      "id": "3uad0a",
-      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
-      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
-      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/markets/agriculture/images/grain-oilseed-pgp-leadspace.jpg",
-      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-08-29 10:59"
     }
   ]
 }

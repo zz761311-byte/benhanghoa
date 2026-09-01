@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-01 17:00",
+  "updated_at": "2026-09-01 18:00",
   "items": [
+    {
+      "id": "ya6tjh",
+      "title": "Ukrainian Drone Barrage Sets Key Russian Oil Port Ablaze",
+      "title_vi": "Cuộc tấn công bằng máy bay không người lái của Ukraine khiến cảng dầu quan trọng của Nga bốc cháy",
+      "summary_vi": "Một cuộc tấn công quy mô lớn bằng máy bay không người lái của Ukraine vào kho cảng xuất khẩu dầu Ust-Luga của Nga ở Biển Baltic đã gây ra hỏa hoạn tại địa điểm này khi Ukraine tiếp tục nhắm vào các nhà máy lọc dầu và cơ sở hạ tầng xuất khẩu năng lượng của Nga. Sau cuộc tấn công bằng máy bay không người lái trong đêm, cảng Ust-Luga bị thiệt hại nặng nề.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-01_of0jicnafd.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Barrage-Sets-Key-Russian-Oil-Port-Ablaze.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-01 17:45"
+    },
     {
       "id": "zl30jb",
       "title": "Price, Not Politics, Is Driving Most of India’s Oil Buying",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-01 15:15"
+    },
+    {
+      "id": "jnx7ng",
+      "title": "Oil Rises on Renewed U.S.-Iran Hostilities",
+      "title_vi": "Dầu tăng do xung đột Mỹ-Iran gia tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-prospect-for-prolonged-supply-disruptions-in-middle-east-2b9b6919",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-09-01 14:45"
     },
     {
       "id": "xn512o",
@@ -109,17 +131,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Triggers-Billions-in-New-Oil-Pipeline-and-Port-Investment.html",
       "source": "OilPrice",
       "category": "energy",
-      "published": "2026-09-01 04:00"
-    },
-    {
-      "id": "17l7rr7",
-      "title": "Canada Tariffs Deepen North America’s Steel and Aluminum Squeeze",
-      "title_vi": "Thuế quan của Canada làm sâu sắc thêm sức ép thép và nhôm của Bắc Mỹ",
-      "summary_vi": "Cuộc chiến thương mại mới giữa Hoa Kỳ và Canada càng làm tăng thêm sự bất ổn đối với chuỗi cung ứng thép và nhôm phức tạp quan trọng đối với ngành sản xuất nặng và ngành công nghiệp ô tô Bắc Mỹ. Sự đổ vỡ của các cuộc đàm phán thương mại vào tuần trước đã dẫn đến sự leo thang nhanh chóng của thuế quan",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-31_ndh3fe7zex.jpg",
-      "link": "https://oilprice.com/Metals/Commodities/Canada-Tariffs-Deepen-North-Americas-Steel-and-Aluminum-Squeeze.html",
-      "source": "OilPrice",
-      "category": "metal",
       "published": "2026-09-01 04:00"
     },
     {
@@ -385,17 +396,6 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-08-31 09:32"
-    },
-    {
-      "id": "1x27o65",
-      "title": "Oil Rises Amid Renewed Fighting in Middle East",
-      "title_vi": "Dầu tăng trong bối cảnh xung đột gia tăng ở Trung Đông",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-renewed-fighting-in-middle-east-add7b187",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-08-31 06:37"
     },
     {
       "id": "pwf3lg",

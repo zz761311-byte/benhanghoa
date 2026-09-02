@@ -41,7 +41,20 @@ jobs:
           git add public/data/news.json
           if git diff --staged --quiet; then
             echo "Không có tin mới."
-          else
-            git commit -m "chore: cập nhật tin tức tự động"
-            git push
+            exit 0
           fi
+          git commit -m "chore: cập nhật tin tức tự động"
+          # Bot này chạy dày nhất (2 lượt/giờ theo lịch + Worker gọi mỗi đầu giờ)
+          # nên dễ có hai lượt cùng đẩy một lúc, lượt sau bị kho từ chối. Thử lại
+          # thay vì báo đỏ oan — xem ghi chú dài hơn trong fetch-prices.yml.
+          for lan in 1 2 3 4 5; do
+            if git push; then
+              echo "Đã lưu phiên bản và đẩy lên (lần thử $lan)."
+              exit 0
+            fi
+            echo "Đẩy hỏng ở lần thử $lan — kéo bản mới nhất về rồi thử lại."
+            git pull --rebase --autostash origin "${{ github.ref_name }}" || true
+            sleep $((lan * 5))
+          done
+          echo "::error::Đẩy news.json lên kho thất bại sau 5 lần thử — không phải lỗi khâu dịch, mà lỗi khâu lưu."
+          exit 1

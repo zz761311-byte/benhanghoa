@@ -82,11 +82,22 @@ jobs:
           git add -A drafts   # -A để ghi nhận cả tập tin bị xoá ở bước dọn
           if git diff --staged --quiet; then
             echo "Không có bản nháp mới."
-          else
-            git commit -m "chore: nháp bài phân tích tự động (AI free)"
-            git pull --rebase --autostash origin "${{ github.ref_name }}" || true
-            git push
+            exit 0
           fi
+          git commit -m "chore: nháp bài phân tích tự động (AI free)"
+          # Lượt 08:17 và lượt dự phòng 08:47 có thể trùng nhau, hoặc đụng bot tin
+          # tức đang đẩy. Thử lại thay vì báo đỏ oan — xem ghi chú trong fetch-prices.yml.
+          for lan in 1 2 3 4 5; do
+            if git push; then
+              echo "Đã lưu phiên bản và đẩy lên (lần thử $lan)."
+              exit 0
+            fi
+            echo "Đẩy hỏng ở lần thử $lan — kéo bản mới nhất về rồi thử lại."
+            git pull --rebase --autostash origin "${{ github.ref_name }}" || true
+            sleep $((lan * 5))
+          done
+          echo "::error::Đẩy bản nháp lên kho thất bại sau 5 lần thử — không phải lỗi khâu soạn bài, mà lỗi khâu lưu."
+          exit 1
 
       # Hỏng thì phải KÊU — nhưng đừng kêu oan. Lượt 08:17 hỏng thì vẫn còn lượt
       # dự phòng 08:47 cứu, nên lượt đầu chỉ ghi cảnh báo vàng. Chỉ khi lượt dự

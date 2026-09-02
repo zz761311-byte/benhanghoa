@@ -62,11 +62,26 @@ jobs:
           git add public/data/gia.json
           if git diff --staged --quiet; then
             echo "Giá không đổi — không cần lưu phiên bản."
-          else
-            git commit -m "chore: cập nhật giá hàng hóa tự động"
-            git pull --rebase --autostash origin "${{ github.ref_name }}" || true
-            git push
+            exit 0
           fi
+          git commit -m "chore: cập nhật giá hàng hóa tự động"
+          # ⚠️ Hai lượt chạy song song (lịch GitHub + Worker Cloudflare cùng gọi,
+          # hoặc người vận hành mở địa chỉ Worker hai lần) sẽ cùng đẩy một lúc và
+          # lượt sau bị kho từ chối. Đã gặp thật ngày 02/09/2026: bot lấy giá xong
+          # xuôi nhưng lượt chạy vẫn đỏ ở khâu lưu — đỏ oan.
+          # Cảnh báo kêu oan thì người ta quen tay bỏ qua, nên phải thử lại cho
+          # đến khi hết cách rồi mới chịu báo đỏ.
+          for lan in 1 2 3 4 5; do
+            if git push; then
+              echo "Đã lưu phiên bản và đẩy lên (lần thử $lan)."
+              exit 0
+            fi
+            echo "Đẩy hỏng ở lần thử $lan — kéo bản mới nhất về rồi thử lại."
+            git pull --rebase --autostash origin "${{ github.ref_name }}" || true
+            sleep $((lan * 5))
+          done
+          echo "::error::Đẩy gia.json lên kho thất bại sau 5 lần thử — không phải lỗi số liệu, mà lỗi khâu lưu."
+          exit 1
 
       # Hỏng thì phải KÊU. Bot tin tức từng chết âm thầm 5 ngày vì lượt chạy vẫn
       # xanh (xem CLAUDE.md). Bước này làm lượt chạy đỏ để GitHub gửi thư báo.

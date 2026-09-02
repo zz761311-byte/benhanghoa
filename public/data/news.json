@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 11:00",
+  "updated_at": "2026-09-02 12:00",
   "items": [
     {
       "id": "l9bbuz",
@@ -77,6 +77,17 @@
       "source": "GoldSilver",
       "category": "metal",
       "published": "2026-09-02 05:36"
+    },
+    {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-02 05:14"
     },
     {
       "id": "1wny0wb",
@@ -200,6 +211,17 @@
       "published": "2026-09-01 23:07"
     },
     {
+      "id": "x8a8rn",
+      "title": "Copper price stalls short of record as Chile’s storm-hit output slumps to 2011 low",
+      "title_vi": "Giá đồng giảm kỷ lục do sản lượng do bão của Chile giảm xuống mức thấp năm 2011",
+      "summary_vi": "Các kho dự trữ của Comex đã tăng gần gấp ba lần số đồng còn lại trong kho LME khi các thương nhân tiếp tục đẩy kim loại vào Mỹ trước tháng 1",
+      "image": "https://www.mining.com/wp-content/uploads/2025/09/AdobeStock_1426884818-scaled-1-1024x683.jpeg",
+      "link": "https://www.mining.com/copper-price-stalls-short-of-record-as-chiles-storm-hit-output-slumps-to-2011-low/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-09-01 23:04"
+    },
+    {
       "id": "uv9pi5",
       "title": "Gold Price Continues Fall As Expectations Of An Interest Rate Hike Grow",
       "title_vi": "Giá vàng tiếp tục giảm khi kỳ vọng tăng lãi suất tăng lên",
@@ -297,6 +319,17 @@
       "source": "Politico",
       "category": "energy",
       "published": "2026-09-01 19:00"
+    },
+    {
+      "id": "1ccdrvn",
+      "title": "Corn and Soybean Prices Could Climb in 2027 as Global Supplies Tighten",
+      "title_vi": "Giá ngô và đậu nành có thể tăng vào năm 2027 do nguồn cung toàn cầu thắt chặt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/corn-and-soybean-prices-could-climb-in-2027-as-global-supplies-tighten-12073845",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-09-01 18:00"
     },
     {
       "id": "15ji5sp",
@@ -517,39 +550,6 @@
       "source": "stonex.com",
       "category": "soft",
       "published": "2026-09-01 01:33"
-    },
-    {
-      "id": "1qnagxi",
-      "title": "Silver Price Forecast: XAG/USD consolidates below 100-Day SMA as momentum fades",
-      "title_vi": "Dự báo giá bạc: XAG/USD củng cố dưới SMA 100 ngày khi đà giảm dần",
-      "summary_vi": "Bạc (XAG/USD) ít thay đổi vào thứ Hai, bị kẹt giữa đồng Đô la Mỹ (USD) yếu hơn và những kỳ vọng diều hâu kéo dài của Cục Dự trữ Liên bang (Fed), khiến kim loại này không có định hướng rõ ràng sau khi giảm 4,11% vào thứ Sáu sau những bình luận diều hâu của Chủ tịch Fed Kevin Warsh về Jackson Hole.",
-      "image": "https://editorial.fxsstatic.com/images/i/Silver3_Medium.png",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-below-100-day-sma-as-momentum-fades-202608311821",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-09-01 01:21"
-    },
-    {
-      "id": "e3no1e",
-      "title": "Weekly market commentary",
-      "title_vi": "Bình luận thị trường hàng tuần",
-      "summary_vi": "Hãy theo dõi những hiểu biết sâu sắc về các chủ đề nóng và xu hướng mới nhất trên thị trường tài chính thông qua bài bình luận hàng tuần của Viện đầu tư BlackRock.",
-      "image": "/blk-one01-c-assets/include/common/images/blackrock_logo.png",
-      "link": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
-      "source": "BlackRock",
-      "category": "macro",
-      "published": "2026-09-01 00:57"
-    },
-    {
-      "id": "1ydw3hq",
-      "title": "Will Trump's Venezuela oil deal lower U.S. gas prices? Here's what experts say.",
-      "title_vi": "Liệu thỏa thuận dầu mỏ ở Venezuela của Trump có làm giảm giá khí đốt của Mỹ? Đây là những gì các chuyên gia nói.",
-      "summary_vi": "Thỏa thuận này liên quan đến việc phát triển 17 mỏ dầu chiến lược ở Venezuela, một công việc mà các chuyên gia cho rằng có thể mất nhiều năm.",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/31/c3d926c0-0feb-4d88-b70a-83ad84130a58/thumbnail/1200x630/ee6a8bc762088886f1324009407030d6/cbsn-fusion-trump-announces-deal-to-take-control-of-65-million-barrels-of-venezuelas-oil-preserves-thumbnail.jpg",
-      "link": "https://www.cbsnews.com/news/trump-venezuela-oil-deal-gas-prices/",
-      "source": "cbsnews.com",
-      "category": "energy",
-      "published": "2026-09-01 00:57"
     }
   ]
 }

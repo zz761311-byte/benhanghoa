@@ -43,11 +43,16 @@ collections:
     create: false
     delete: true
     extension: "md"
-    summary: "{{title}}"
-    sortable_fields: ["date", "title"]
+    # Dòng hiện trong danh sách: NGÀY GIỜ soạn trước, rồi AI nào viết, rồi tiêu đề
+    # — liếc qua là biết bài nào mới, bài nào để lâu rồi.
+    summary: "{{date | date('DD/MM HH:mm')}} · {{ai}} · {{title}}"
+    sortable_fields: ["date", "title", "ai"]
+    view_groups:
+      - { label: "Theo ngày soạn", field: date, pattern: '\d{4}-\d{2}-\d{2}' }
     fields:
       - { label: "Tiêu đề", name: "title", widget: "string" }
-      - { label: "Ngày soạn", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm" }
+      - { label: "Soạn lúc (giờ Việt Nam)", name: "date", widget: "datetime", date_format: "DD/MM/YYYY", time_format: "HH:mm" }
+      - { label: "AI nào viết", name: "ai", widget: "string", required: false }
       - label: "Nhóm hàng hóa"
         name: "category"
         widget: "select"

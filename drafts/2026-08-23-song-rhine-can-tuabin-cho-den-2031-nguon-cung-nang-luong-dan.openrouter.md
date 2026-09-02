@@ -1,6 +1,7 @@
 ---
 title: '🌊⚡ Sông Rhine Cạn, Tuabin Chờ Đến 2031: Nguồn Cung Năng Lượng Đang Nghẹn Ở Nơi Không Ai Nhìn'
-date: 2026-08-23T08:00
+date: 2026-08-23T09:41
+ai: openrouter
 category: energy
 image: /assets/fanpage/nang-luong-1.jpg
 summary: >-

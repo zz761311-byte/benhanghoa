@@ -1,6 +1,7 @@
 ---
 title: '🔥 DẦU THÔ ĐI LÊN ĐỐI ĐẦU BÃO HOÀNG DỰ BÁO SẼ NGẪNG KHÔNG?'
-date: 2026-08-29T08:00
+date: 2026-08-29T14:54
+ai: openrouter
 category: energy
 image: /assets/fanpage/nang-luong-5.jpg
 summary: >-

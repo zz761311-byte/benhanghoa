@@ -1,6 +1,7 @@
 ---
 title: 'Dầu thô: Bức tranh toàn cảnh'
-date: 2026-08-19T08:00
+date: 2026-08-19T09:34
+ai: openrouter
 category: energy
 image: /assets/fanpage/nang-luong-4.jpg
 summary: >-

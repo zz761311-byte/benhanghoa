@@ -1,6 +1,7 @@
 ---
 title: '📈 Dầu thô bùng nổ khi Mỹ kích hoạt "lá bài" Iran — nhưng Trump lại đang kéo giá xuống?'
-date: 2026-09-02T08:00
+date: 2026-09-02T12:52
+ai: openrouter
 category: energy
 image: /assets/fanpage/nang-luong-2.jpg
 summary: >-

@@ -1,6 +1,7 @@
 ---
 title: 'Năng lượng toàn cầu: Than Vẫn Là Vua, Dầu Mỏ Thắt Chặt Dù Khát Vọng Xanh Tăng Tốc! 👑⛽'
-date: 2026-08-20T08:00
+date: 2026-08-20T09:36
+ai: gemini
 category: energy
 image: /assets/fanpage/nang-luong-5.jpg
 summary: >-

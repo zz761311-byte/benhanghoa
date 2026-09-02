@@ -1,6 +1,7 @@
 ---
 title: 'DẦU THÔ: TIẾN BỘ NGOẠI GIAO VS RỦI RO CHIẾN TRANH 45 TRIỆU THÙNG/NGÀY'
-date: 2026-08-27T08:00
+date: 2026-08-27T18:14
+ai: openrouter
 category: energy
 image: /assets/fanpage/nang-luong-5.jpg
 summary: >-

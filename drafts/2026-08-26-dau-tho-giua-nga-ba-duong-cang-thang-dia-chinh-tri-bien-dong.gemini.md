@@ -1,6 +1,7 @@
 ---
 title: 'Dầu Thô Giữa Ngã Ba Đường: Căng Thẳng Địa Chính Trị, Biến Động Cung Cầu & Tín Hiệu Năng Lượng Tương Lai 🛢️'
-date: 2026-08-26T08:00
+date: 2026-08-26T09:54
+ai: gemini
 category: energy
 image: /assets/fanpage/nang-luong-2.jpg
 summary: >-

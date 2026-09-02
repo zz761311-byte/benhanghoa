@@ -1,6 +1,7 @@
 ---
 title: '✨ Bạch Kim: Cuộc Đua Thiếu Hụt Nguồn Cung Đẩy Giá Lên Cao?'
-date: 2026-08-30T08:00
+date: 2026-08-30T13:42
+ai: gemini
 category: metal
 image: /assets/fanpage/kim-loai-2.jpg
 summary: >-

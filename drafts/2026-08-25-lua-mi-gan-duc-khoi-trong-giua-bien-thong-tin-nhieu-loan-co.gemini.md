@@ -1,6 +1,7 @@
 ---
 title: '🌾 Lúa Mì: Gạn Đục Khơi Trong Giữa Biển Thông Tin Nhiễu Loạn Có Dễ Dàng?'
-date: 2026-08-25T08:00
+date: 2026-08-25T09:33
+ai: gemini
 category: agri
 image: /assets/fanpage/nong-san-5.jpg
 summary: >-

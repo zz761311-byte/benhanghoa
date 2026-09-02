@@ -1,6 +1,7 @@
 ---
 title: '🌾📊 LÚA MÌ: KHI PHÂN BIỆT "LÁ MÌ" VÀ "CÒ" KHÔNG DỄ DÀNG'
-date: 2026-08-25T08:00
+date: 2026-08-25T09:33
+ai: openrouter
 category: agri
 image: /assets/fanpage/nong-san-5.jpg
 summary: >-

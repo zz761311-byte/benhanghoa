@@ -1,6 +1,7 @@
 ---
 title: 'Dầu Thô Giằng Co Giữa Lợi Nhuận Lọc Dầu "Khủng" và Căng Thẳng Địa Chính Trị 🔥⛽'
-date: 2026-08-31T08:00
+date: 2026-08-31T14:03
+ai: gemini
 category: energy
 image: /assets/fanpage/nang-luong-1.jpg
 summary: >-

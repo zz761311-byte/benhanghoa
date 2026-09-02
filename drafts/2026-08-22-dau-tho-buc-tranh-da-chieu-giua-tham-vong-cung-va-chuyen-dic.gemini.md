@@ -1,6 +1,7 @@
 ---
 title: '🛢️ Dầu Thô: Bức Tranh Đa Chiều Giữa Tham Vọng Cung và Chuyển Dịch Cầu Toàn Cầu'
-date: 2026-08-22T08:00
+date: 2026-08-22T09:31
+ai: gemini
 category: energy
 image: /assets/fanpage/nang-luong-5.jpg
 summary: >-

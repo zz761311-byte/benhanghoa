@@ -1,6 +1,7 @@
 ---
 title: '🔥 Dầu Thô Trước Bão Giá: Địa Chính Trị Leo Thang Đụng Độ Áp Lực Giảm Giá Nội Địa!'
-date: 2026-09-02T08:00
+date: 2026-09-02T12:52
+ai: gemini
 category: energy
 image: /assets/fanpage/nang-luong-1.jpg
 summary: >-

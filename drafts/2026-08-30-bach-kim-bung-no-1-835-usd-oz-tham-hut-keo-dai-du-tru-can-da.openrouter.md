@@ -1,6 +1,7 @@
 ---
 title: '📊 Bạch kim bùng nổ 1.835 USD/oz: Thâm hụt kéo dài, dự trữ cạn dần — Còn bao nhiêu đà tăng?'
-date: 2026-08-30T08:00
+date: 2026-08-30T13:42
+ai: openrouter
 category: metal
 image: /assets/fanpage/kim-loai-1.jpg
 summary: >-

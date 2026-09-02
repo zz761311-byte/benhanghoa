@@ -1,6 +1,7 @@
 ---
 title: '⛽ KHỦNG HOẢNG DIESEL: BÓNG MA SỐNG LÂU HƠN CHIẾN TRANH TRUNG ĐÔNG?'
-date: 2026-08-24T08:00
+date: 2026-08-24T09:40
+ai: openrouter
 category: energy
 image: /assets/fanpage/nang-luong-3.jpg
 summary: >-

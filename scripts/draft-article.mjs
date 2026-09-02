@@ -45,10 +45,20 @@ function slugify(s) {
     .slice(0, 60).replace(/-+$/g, "");
 }
 
-function todayParts() {
-  const d = new Date();
+// Mốc thời gian theo GIỜ VIỆT NAM (UTC+7).
+//
+// ⚠️ Bot chạy trên máy chủ GitHub, đồng hồ ở đó là giờ UTC — sớm hơn Việt Nam 7
+// tiếng. Bản cũ dùng giờ máy chủ nên tên tập tin nháp có thể mang ngày hôm trước
+// so với ngày người đọc đang sống, và khâu "hôm nay đã có nháp chưa" cũng so
+// nhầm ngày. Cộng thẳng 7 tiếng rồi đọc bằng getUTC* là ra đúng giờ Việt Nam,
+// không phụ thuộc đồng hồ máy đang chạy.
+function gioVietNam() {
+  const d = new Date(Date.now() + 7 * 3600000);
   const p = (n) => String(n).padStart(2, "0");
-  return { ymd: `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())}` };
+  return {
+    ymd: `${d.getUTCFullYear()}-${p(d.getUTCMonth() + 1)}-${p(d.getUTCDate())}`,
+    hm: `${p(d.getUTCHours())}:${p(d.getUTCMinutes())}`,
+  };
 }
 
 // Bọc tiêu đề trong nháy đơn cho YAML (an toàn với dấu ':' và '"').
@@ -431,7 +441,7 @@ async function writeDraft(provider, cluster, parsed) {
   const libImg = libraryImage(cluster.subject, it.category);
   const articleImage = libImg || it.image || "";          // ảnh kho > ảnh nguồn
   const imgSlug = cluster.subject ? slugify(cluster.subject) : (CAT_IMG[it.category] || "chung");
-  const { ymd } = todayParts();
+  const { ymd, hm } = gioVietNam();
   const title = parsed.title || it.title_vi;
   const slug = `${ymd}-${slugify(title)}`;
   const summary = (parsed.summary || it.summary_vi).replace(/\s+/g, " ").trim();
@@ -466,7 +476,8 @@ async function writeDraft(provider, cluster, parsed) {
 
   const md = `---
 title: ${yamlTitle(title)}
-date: ${ymd}T08:00
+date: ${ymd}T${hm}
+ai: ${provider}
 category: ${it.category}
 image: ${articleImage}
 summary: >-
@@ -506,7 +517,7 @@ async function main() {
   const focus = (process.env.FOCUS || "").trim();   // trọng tâm bạn muốn nhấn
 
   // Lần chạy TỰ ĐỘNG (theo lịch): nếu hôm nay đã có nháp thì bỏ qua (tránh 2 slot dự phòng tạo trùng).
-  const { ymd } = todayParts();
+  const { ymd } = gioVietNam();
   if (process.env.GITHUB_EVENT_NAME === "schedule" && !topic) {
     const today = (await readdir(DRAFTS_DIR).catch(() => [])).filter((f) => f.startsWith(ymd) && f.endsWith(".md"));
     if (today.length) { console.log(`ℹ️ Hôm nay đã có ${today.length} bản nháp — lần chạy theo lịch này bỏ qua.`); return; }

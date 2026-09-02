@@ -1,6 +1,7 @@
 ---
 title: '🔥 Dầu thô: Rủi ro dồn dập nhưng giá "giữ bình tĩnh" — Big Oil lặng lẽ rót tỷ USD vào nhiệt hạch?'
-date: 2026-08-26T08:00
+date: 2026-08-26T09:54
+ai: openrouter
 category: energy
 image: /assets/fanpage/nang-luong-3.jpg
 summary: >-

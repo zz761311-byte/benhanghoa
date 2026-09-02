@@ -1,6 +1,7 @@
 ---
 title: '🛢️ DẦU THÔ: TRUNG QUỐC CHUẨN BỊ CHO "ĐỈNH DẦU", IRAQ MUỐN GẤP ĐÔI SẢN LƯỢNG — THỊ TRƯỜNG ĐỨNG TRƯỚC BƯỚC NGOẶT CẤU TRÚC?'
-date: 2026-08-22T08:00
+date: 2026-08-22T09:31
+ai: openrouter
 category: energy
 image: /assets/fanpage/nang-luong-5.jpg
 summary: >-

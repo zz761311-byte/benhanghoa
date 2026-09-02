@@ -1,6 +1,7 @@
 ---
 title: 'Dầu Thô: Ảo Ảnh Ổn Định Giữa Vòng Xoáy Bất An Địa Chính Trị 🛢️🌍'
-date: 2026-08-27T08:00
+date: 2026-08-27T18:14
+ai: gemini
 category: energy
 image: /assets/fanpage/nang-luong-3.jpg
 summary: >-

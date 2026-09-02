@@ -1,6 +1,7 @@
 ---
 title: 'Năng lượng Toàn cầu Đứng trước Ngã ba Đường: Từ Sông Rhine Khô cạn đến Kỷ nguyên AI Khát Điện 💡'
-date: 2026-08-23T08:00
+date: 2026-08-23T09:41
+ai: gemini
 category: energy
 image: /assets/fanpage/nang-luong-3.jpg
 summary: >-

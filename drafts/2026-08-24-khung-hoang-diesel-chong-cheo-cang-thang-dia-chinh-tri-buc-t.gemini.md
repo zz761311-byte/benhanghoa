@@ -1,6 +1,7 @@
 ---
 title: '💡 Khủng Hoảng Diesel Chồng Chéo Căng Thẳng Địa Chính Trị: Bức Tranh Năng Lượng Toàn Cầu Đang Dần Hiện Rõ!'
-date: 2026-08-24T08:00
+date: 2026-08-24T09:40
+ai: gemini
 category: energy
 image: /assets/fanpage/nang-luong-4.jpg
 summary: >-

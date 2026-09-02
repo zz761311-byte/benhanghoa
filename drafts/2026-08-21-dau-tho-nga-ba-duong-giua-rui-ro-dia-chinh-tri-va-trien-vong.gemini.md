@@ -1,6 +1,7 @@
 ---
 title: 'Dầu Thô: Ngã Ba Đường Giữa Rủi Ro Địa Chính Trị Và Triển Vọng Năng Lượng Mới ✨'
-date: 2026-08-21T08:00
+date: 2026-08-21T09:38
+ai: gemini
 category: energy
 image: /assets/fanpage/nang-luong-2.jpg
 summary: >-

@@ -1,6 +1,7 @@
 ---
 title: '📊 Dầu thêu tăng mạnh giữa bão địa chính trị — Bức tranh tổng thể từ Trung Đông đến Venezuela'
-date: 2026-09-01T08:00
+date: 2026-09-01T13:15
+ai: openrouter
 category: energy
 image: /assets/fanpage/nang-luong-1.jpg
 summary: >-

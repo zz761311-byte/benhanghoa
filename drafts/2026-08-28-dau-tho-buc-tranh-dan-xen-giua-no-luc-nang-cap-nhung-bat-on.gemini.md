@@ -1,6 +1,7 @@
 ---
 title: 'Dầu Thô: Bức Tranh Đan Xen Giữa Nỗ Lực Nâng Cấp & Những Bất Ổn Khó Lường ⛽🌍'
-date: 2026-08-28T08:00
+date: 2026-08-28T19:48
+ai: gemini
 category: energy
 image: /assets/fanpage/nang-luong-1.jpg
 summary: >-

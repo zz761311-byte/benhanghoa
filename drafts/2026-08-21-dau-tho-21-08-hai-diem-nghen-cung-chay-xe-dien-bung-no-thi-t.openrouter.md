@@ -1,6 +1,7 @@
 ---
 title: '🛢️ DẦU THÔ 21/08: HAI ĐIỂM NGHẼN CÙNG CHÁY, XE ĐIỆN BÙNG NỔ — THỊ TRƯỜNG ĐỨNG TRƯỚC NGHỊCH LÝ CUNG – CẦU'
-date: 2026-08-21T08:00
+date: 2026-08-21T09:38
+ai: openrouter
 category: energy
 image: /assets/fanpage/nang-luong-3.jpg
 summary: >-

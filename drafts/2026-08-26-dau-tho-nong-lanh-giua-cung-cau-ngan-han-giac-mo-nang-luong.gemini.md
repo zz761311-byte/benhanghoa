@@ -1,6 +1,7 @@
 ---
 title: 'Dầu Thô "Nóng Lạnh" Giữa Cung Cầu Ngắn Hạn & Giấc Mơ Năng Lượng Tương Lai 🚀'
-date: 2026-08-26T08:00
+date: 2026-08-26T09:54
+ai: gemini
 category: energy
 image: /assets/fanpage/nang-luong-1.jpg
 summary: >-

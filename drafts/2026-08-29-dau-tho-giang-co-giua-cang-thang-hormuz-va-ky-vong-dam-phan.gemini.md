@@ -1,6 +1,7 @@
 ---
 title: 'Dầu Thô Giằng Co Giữa Căng Thẳng Hormuz Và Kỳ Vọng Đàm Phán Mỹ-Iran: Bức Tranh Đầy Biến Động 🛢️'
-date: 2026-08-29T08:00
+date: 2026-08-29T14:54
+ai: gemini
 category: energy
 image: /assets/fanpage/nang-luong-5.jpg
 summary: >-

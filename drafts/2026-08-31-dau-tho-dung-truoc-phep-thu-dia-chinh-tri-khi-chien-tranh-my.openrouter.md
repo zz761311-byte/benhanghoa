@@ -1,6 +1,7 @@
 ---
 title: '🔥 Dầu thô đứng trước "phép thử" địa chính trị — khi chiến tranh Mỹ - Iran, đình công nhà máy lọc dầu và kế hoạch Venezuela cùng hội tụ'
-date: 2026-08-31T08:00
+date: 2026-08-31T14:03
+ai: openrouter
 category: energy
 image: /assets/fanpage/nang-luong-2.jpg
 summary: >-

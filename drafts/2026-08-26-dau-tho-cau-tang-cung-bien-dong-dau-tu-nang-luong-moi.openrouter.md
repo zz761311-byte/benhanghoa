@@ -1,6 +1,7 @@
 ---
 title: '🛢️ Dầu thô: Cầu tăng, cung biến động, đầu tư năng lượng mới'
-date: 2026-08-26T08:00
+date: 2026-08-26T09:54
+ai: openrouter
 category: energy
 image: /assets/fanpage/nang-luong-5.jpg
 summary: >-

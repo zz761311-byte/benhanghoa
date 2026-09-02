@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 18:01",
+  "updated_at": "2026-09-02 19:01",
   "items": [
     {
       "id": "w0510d",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-02 18:00"
+    },
+    {
+      "id": "12scdvp",
+      "title": "7 Brew Wins $143 Million Auction for Former Salad and Go Locations",
+      "title_vi": "7 Brew thắng cuộc đấu giá trị giá 143 triệu đô la cho các địa điểm Salad and Go trước đây",
+      "summary_vi": "Chuỗi cà phê 7 Brew có trụ sở tại Arkansas đang phát triển nhanh chóng đã vượt qua đối thủ quốc gia Dutch Bros trong một cuộc đấu giá phá sản đối với hàng chục địa điểm Salad and Go trước đây.  Trong một thông báo được nộp vào tháng 9....",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/09/02/7-brew-wins-143-million-auction-for-former-salad-and-go-locations/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-09-02 17:27"
     },
     {
       "id": "pcpv40",
@@ -33,6 +44,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-09-02 16:38"
+    },
+    {
+      "id": "w2nxbk",
+      "title": "Oil Hovers Close to $95 as Middle East Conflict Further Pressures Bonds",
+      "title_vi": "Dầu dao động gần mức 95 USD khi xung đột ở Trung Đông gây thêm áp lực cho trái phiếu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/investing/oil-hovers-close-to-95-as-middle-east-conflict-further-pressures-bonds-877d8321",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-09-02 16:05"
     },
     {
       "id": "1xfei9y",
@@ -242,17 +264,6 @@
       "source": "The San Francisco Standard",
       "category": "soft",
       "published": "2026-09-02 03:23"
-    },
-    {
-      "id": "q0wjz",
-      "title": "Middle East Conflict Sends Oil Up, Bonds Down",
-      "title_vi": "Xung đột ở Trung Đông khiến dầu tăng, trái phiếu giảm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/investing/middle-east-conflict-sends-oil-up-bonds-down-a4923bec",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-09-02 03:05"
     },
     {
       "id": "1hefngb",
@@ -539,17 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-09-01 10:17"
-    },
-    {
-      "id": "10vvbsx",
-      "title": "The Iran war's mounting cost to U.S. drivers",
-      "title_vi": "Chi phí ngày càng tăng của cuộc chiến tranh Iran đối với người lái xe Mỹ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.axios.com/2026/08/31/iran-russia-diesel-gasoline-prices",
-      "source": "Axios",
-      "category": "energy",
-      "published": "2026-09-01 10:16"
     }
   ]
 }

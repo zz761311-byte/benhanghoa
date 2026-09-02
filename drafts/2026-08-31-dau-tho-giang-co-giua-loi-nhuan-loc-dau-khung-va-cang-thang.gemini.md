@@ -11,6 +11,25 @@ summary: >-
   hạn.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  (a) 🌍⛽ Thị trường dầu thô đang cực kỳ phức tạp! Lợi nhuận lọc dầu diesel tăng vọt, căng thẳng Mỹ-Iran leo thang, cùng lúc các giải pháp nguồn cung mới từ Venezuela và đá phiến Mỹ đang dần lộ diện. Rủi ro địa chính trị & nhu cầu sản phẩm tinh chế sẽ định hình giá.
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  (b) 💰 diesel đang "hái ra tiền"?! Goldman Sachs dự báo lợi nhuận tinh chế dầu diesel có thể lên tới 63 USD/thùng! Con số "khủng" này phản ánh điều gì về thị trường năng lượng toàn cầu và tác động ra sao đến giá dầu thô?
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  (c) 📈📉 Dầu thô giằng co quanh các ngưỡng tâm lý quan trọng! Với sự biến động từ địa chính trị đến cung cầu sản phẩm tinh chế, việc xác định các mốc hỗ trợ và kháng cự sẽ cực kỳ cần thiết. Cần đối chiếu biểu đồ trực tiếp để cập nhật mốc chính xác nhé!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  (d) 🤔 Yếu tố nào đang tác động mạnh nhất đến giá dầu thô hiện tại? A) Căng thẳng địa chính trị Trung Đông, B) Lợi nhuận lọc dầu diesel cao, C) Tiềm năng nguồn cung từ Venezuela & đá phiến Mỹ. Chia sẻ ý kiến của bạn! 👇
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do gemini (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

@@ -11,6 +11,29 @@ summary: >-
   tư Việt.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  🌍 Dầu thô hôm nay: Nga bị đánh vào lọc dầu, Canada cắt giảm, SPR Mỹ cạn dư địa… nhưng giá vẫn "giữ bình tĩnh". Tồn kho Mỹ tăng vượt dự báo và Iraq xả hàng dồn dập đang là lá chắn. Nghịch lý này kéo dài được bao lâu?
+  👉 Đọc phân tích tổng hợp mới nhất trên Bến Hàng Hóa!
+  📞 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  💰 4,48 TỶ USD — kỷ lục vốn tư đầu tư vào năng lượng nhiệt hạch năm 2025, tăng vọt 69%!
+  Điều bất ngờ: người rót tiền lại chính là các "ông lớn" dầu mỏ. Họ đang tự mua bảo hiểm cho một tương lai hậu-dầu — tín hiệu dòng tiền dài hạn đã bắt đầu dịch chuyển.
+  📞 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  ⚠️ Bản đồ dầu thô — 3 thứ cần canh sát sao:
+  🔹 Tồn kho crude Mỹ mỗi tuần (API/EIA)
+  🔹 Hạ tầng lọc dầu Nga — còn bị đánh tiếp không?
+  🔹 Tốc độ xuất khẩu Iraq & tiến độ khôi phục mỏ cát dầu Canada
+  Nếu chuỗi gián đoạn kéo dài → áp lực tích tụ; nếu tồn kho tiếp tục xây → vùng đỉnh khó phá. Xem biểu đồ trực tiếp để định vị chính xác!
+  📞 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  🤔 Sau 6 tháng chiến sự, giá dầu VẪN chưa tăng vọt như giới phân tích lo sợ. Theo bạn, nguyên nhân chính là gì?
+  A️⃣ Cung quá dồi dào
+  B️⃣ Cầu thực tế yếu hơn dự báo
+  C️⃣ Thị trường đã "chai lì" với tin địa chính trị
+  Comment đáp án bên dưới nhé! 👇
+  📞 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do openrouter (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

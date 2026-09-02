@@ -10,6 +10,29 @@ summary: >-
   hạn, đặc biệt là cho năm 2026.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  (a)
+  🚀 Bạch kim bứt phá lên 1.835 USD/ounce! 😲 Liệu đây có phải là khởi đầu cho một đợt tăng giá dài hạn khi nguồn cung liên tục thiếu hụt và tồn kho xuống thấp? Bức tranh thị trường đang phức tạp hơn bao giờ hết với nhiều dự báo trái chiều. Đọc ngay nhận định chi tiết của Bến Hàng Hóa!
+  👉 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí.
+
+  ----
+
+  (b)
+  🔔 Đã đến lúc nhìn vào con số này! WPIC dự báo thâm hụt nguồn cung bạch kim lên tới 297.000 ounce vào năm 2026. Con số này nói lên điều gì về tương lai của kim loại quý này? 🤔 Cùng Bến Hàng Hóa phân tích sâu hơn về ý nghĩa của nó!
+  👉 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí.
+
+  ----
+
+  (c)
+  📈 Bạch kim vừa chạm 1.835 USD/ounce – một mốc tâm lý quan trọng! Các nhà đầu tư cần theo dõi sát sao phản ứng của thị trường tại ngưỡng này và các vùng hỗ trợ/kháng cự tiếp theo. Liệu đà tăng có tiếp diễn hay sẽ có những điều chỉnh? Cập nhật ngay cùng Bến Hàng Hóa để không bỏ lỡ!
+  👉 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí.
+
+  ----
+
+  (d)
+  🤔 Bạch kim 2026: Thâm hụt hay Thặng dư tạm thời? Các chuyên gia đang có những dự báo khác nhau cho năm tới! Bạn nghĩ kịch bản nào sẽ xảy ra và điều này sẽ tác động thế nào đến giá bạch kim? Hãy chia sẻ góc nhìn của bạn cùng Bến Hàng Hóa!
+  👉 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí.
 ---
 > ⚠️ **BẢN NHÁP do gemini (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

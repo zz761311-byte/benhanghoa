@@ -11,6 +11,23 @@ summary: >-
   tư cần theo dõi sát sao.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  (a) 🌍 Thị trường dầu thô đang đứng trước ngã ba đường! Căng thẳng địa chính trị ở Hormuz và đàm phán Mỹ-Iran liên tục tạo sóng, trong khi nguồn cung sản phẩm tinh chế vẫn eo hẹp. Làm thế nào để điều hướng?
+
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  (b) 🚢 Chi phí vận chuyển dầu từ Ả Rập Saudi sang Trung Quốc phá kỷ lục: 647.000 USD mỗi ngày cho VLCC! Con số này nói lên điều gì về rủi ro và nhu cầu trên thị trường năng lượng? Đừng bỏ lỡ bức tranh toàn cảnh!
+
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  (c) 📈 Đàm phán đình trệ, căng thẳng leo thang. Thị trường dầu thô đang ở vùng giá tâm lý nhạy cảm. Liệu các mốc hỗ trợ có vững vàng trước những biến động địa chính trị tiếp theo? Cần theo dõi sát sao!
+
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  (d) ❓ Nếu Venezuela rời OPEC, liệu cán cân quyền lực và nguồn cung dầu toàn cầu có bị thay đổi? Bạn nghĩ kịch bản nào sẽ xảy ra tiếp theo cho thị trường dầu thô? Hãy chia sẻ ý kiến của bạn!
+
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do gemini (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

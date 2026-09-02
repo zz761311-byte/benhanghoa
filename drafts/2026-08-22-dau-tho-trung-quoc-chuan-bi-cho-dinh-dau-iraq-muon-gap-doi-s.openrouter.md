@@ -11,6 +11,36 @@ summary: >-
   gần. Giá vì vậy có thể tiếp tục tích lũy và biến động hai chiều.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  (a)
+  🛢️ DẦU THÔ TUẦN NÀY: GIÁ ĐI NGANG, NHƯNG 3 LỰC NGẦM ĐANG CHẠY!
+  📌 Trung Quốc chuẩn bị cho thời kỳ "đỉnh dầu"
+  📌 Iraq muốn gấp đôi sản lượng — chờ OPEC nhường đường
+  📌 Giàn khoan Mỹ thoái lui dù giá tăng
+  Ai nắm được bức tranh tổng thể, người đó đi trước thị trường một bước! 👇
+  👉 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  (b)
+  ⏳ CON SỐ 30 NGÀY ĐÁNG SUY NGẪM CỦA THỊ TRƯỜNG DẦU!
+  Tàu chở dầu phải chờ tới 30 ngày mới lấy được dầu Venezuela — do cảng cũ kỹ và mất điện. Người mua xếp hàng đông, nhưng nguồn cung bị "kẹt" ngay tại cửa xuất khẩu!
+  Một nút thắt nhỏ, tác động lớn đến cân bằng cung toàn cầu. 🌍
+  👉 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  (c)
+  🎯 DẦU THÔ ĐANG TÍCH LŨY — CẦN CANH NHỮNG GÌ?
+  ✅ Phản ứng của OPEC+ trước kế hoạch sản lượng của Iraq
+  ✅ Số giàn khoan Baker Hughes tuần tới
+  ✅ Diễn biến DXY & tin tức Iran – eo biển Hormuz
+  Giá đi ngang KHÔNG có nghĩa là yên tĩnh — biến động có thể đến từ bất kỳ hướng nào! ⚡
+  👉 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  (d)
+  ❓ AI SẼ "THẮNG" TRONG CUỘC CHƠI DẦU THÔ GIAI ĐOẠN TỚI?
+  🇮🇶 Iraq bơm mạnh, 🇺🇸 Mỹ giữ kỷ luật, còn Trung Quốc thì âm thầm chuẩn bị cho đỉnh cầu...
+  Bạn nghĩ yếu tố nào sẽ quyết định giá dầu nửa cuối năm? 💭
+  Comment quan điểm của bạn bên dưới — cùng bàn luận nhé! 👇
+  👉 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do openrouter (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

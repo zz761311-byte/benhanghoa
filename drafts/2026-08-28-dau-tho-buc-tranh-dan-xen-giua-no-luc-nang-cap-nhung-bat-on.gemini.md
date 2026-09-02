@@ -11,6 +11,38 @@ summary: >-
   đang có những tín hiệu trái chiều.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  (a)
+  📊 NHẬN ĐỊNH DẦU THÔ — 28/08/2026: Thị trường dầu đang đầy biến động! 🌪️
+  Dù Pakistan và Đông Phi đầu tư hàng tỷ đô la vào lọc dầu, hứa hẹn nhu cầu dài hạn, giá dầu lại chịu áp lực giảm bất chấp căng thẳng Trung Đông. Dòng chảy Hormuz cũng có tín hiệu trái chiều.
+  ➡️ Liệu cung cầu hay địa chính trị sẽ dẫn dắt giá dầu sắp tới?
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  (b)
+  ✨ Con số nổi bật: 6 TỶ USD ✨
+  Đó là số tiền Pakistan dự kiến đầu tư để nâng cấp 5 nhà máy lọc dầu. Cùng với dự án 17 tỷ USD ở Nigeria, đây là tín hiệu cho thấy nhu cầu dầu thô toàn cầu có thể tăng mạnh trong tương lai. Nhưng liệu thị trường đã phản ánh điều này? 🤔
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  (c)
+  🚨 Cần theo dõi Dầu Thô: Tâm lý thị trường đang "phớt lờ" địa chính trị!
+  Giá dầu giảm dù căng thẳng Iran leo thang, và dữ liệu vận chuyển Hormuz cũng bất nhất. Điều này cho thấy các yếu tố cung cầu cơ bản đang chi phối. Hãy canh chừng các vùng hỗ trợ/kháng cự quan trọng trên biểu đồ để nắm bắt xu hướng!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  (d)
+  ❓ Câu hỏi tương tác: Theo bạn, đâu là yếu tố lớn nhất đang tác động lên giá dầu hiện tại?
+  A) Đầu tư vào lọc dầu (Pakistan, Đông Phi)
+  B) Căng thẳng địa chính trị (Iran, Nga-Ukraine)
+  C) Dữ liệu cung cầu và vận chuyển dầu
+  D) Tâm lý thị trường và lo ngại suy thoái kinh tế
+  Chia sẻ ý kiến của bạn! 👇
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do gemini (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

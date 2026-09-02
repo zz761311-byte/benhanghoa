@@ -10,6 +10,19 @@ summary: >-
   palladium cũng tăng mạnh nhất 3 tháng.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  📌 Nhận định bạch kim: Thâm hụt 297.000 ounce năm 2026, dự trữ cạn dưới 3 tháng — đà tăng đang được hỗ trợ bởi cấu trúc cung thắt chặt. Theo dõi ngay để không bỏ lỡ xu hướng!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  🔢 Một con số đáng chú ý: 339.000 ounce — mức thâm hụt trung bình mỗi năm mà Crux Investor dự báo từ năm 2027, khi nguồn mỏ ngày càng cạn và hàng tồn kho không còn đủ bù đắp.
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  ⏱️ Mốc cần canh: Báo cáo cập nhật từ WPIC về cán cân cung cầu bạch kim — khi thâm hụt đã được nâng và dự trữ đang cạn dần, mỗi bản phát hành đều có thể tạo biến động mạnh.
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  ❓ Bạch kim đang thâm hụt kéo dài, palladium tăng mạnh nhất 3 tháng — bạn nghĩ nhóm kim loại quý công nghiệp còn bao nhiêu đà tăng trong năm 2026? Bình luận ý kiến của bạn nhé!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do openrouter (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

@@ -9,6 +9,19 @@ summary: >-
   kiện chống độc quyền với các nhà sản xuất đá phiến tạo ra nhiều bất định cho thị trường.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  📊 Dầu thô đang tăng mạnh nhờ căng thẳng Mỹ - Iran leo thang, trong khi tồn kho Mỹ bất ngờ giảm 2,6 triệu thùng. Trump thúc đẩy mở rộng lọc dầu để hạ giá xăng, tạo lực kéo ngược lại. Thị trường đang ở điểm giao thoa giữa rủi ro địa chính trị và áp lực chính trị nội địa.
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  💰 Con số 91,05 USD/thùng — mức giá WTI ghi nhận trong phiên châu Á hôm nay — cho thấy dầu thô đang ở vùng cao đáng kể khi căng thẳng Mỹ - Iran bùng phát trở lại. Bên cạnh đó, tồn kho giảm mạnh sau tuần tăng trước đó càng củng cố đà tăng.
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  🔍 Cần canh xu hướng tồn kho dầu thô Mỹ trong những tuần tới — nếu tiếp tục giảm sau mức giảm 2,6 triệu thùng tuần trước, đà tăng giá có thể được khuếch đại. Đồng thời, diễn biến vụ kiện chống độc quyền với các nhà sản xuất đá phiến Mỹ là yếu tố quan trọng không nên bỏ qua.
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  ❓ Bối cảnh địa chính trị Mỹ - Iran đang đẩy dầu thô lên cao, nhưng chính phủ Mỹ lại muốn hạ giá xăng. Theo bạn, yếu tố nào sẽ chiến thắng trong ngắn hạn — căng thẳng hay chính sách?
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do openrouter (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

@@ -10,6 +10,15 @@ summary: >-
   toàn cầu.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  🔥 Dầu thô đang bị kéo giằng nhau giữa rủi ro Hormuz và triển vọng hòa bình Mỹ – Iran. Chi phí vận chuyển kỷ lục, nguồn tinh chế thắt chặt — nhưng sản lượng Mỹ tăng và đàm phán hòa bình vẫn là đèn xanh tiềm năng. Cân bằng đang nghiêng về phía bất định. Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  💰 Con số gây shock: chi phí vận chuyển VLCC tuyến Ả Rập Saudi – Trung Quốc vừa chạm mức kỷ lục 647.000 USD/ngày — tăng vọt do eo biển Hormuz bị đe dọa. Đây là mức cao nhất từng được ghi nhận, cho thấy chi phí "đưa dầu ra thị trường" đã trở thành gánh nặng lớn nhất với người tiêu dùng. Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  ⏳ Tuần tới là tuần then chốt: đàm phán Mỹ – Iran, diễn biến tại Hormuz, và quyết định Venezuela có rời OPEC hay không sẽ định hướng ngắn hạn của dầu thô. Bất kỳ tín hiệu nào từ ba sự kiện này có thể tạo sóng mạnh trên thị trường năng lượng. Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  ❓ Bạn nghĩ yếu tố nào sẽ "đánh bại" yếu tố còn lại trong cuộc chiến giá dầu: rủi ro Hormuz hay triển vọng hòa bình? Đừng quên theo dõi báo cáo giàn khoan Baker Hughes tuần này để cập nhật thêm dữ liệu! Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do openrouter (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

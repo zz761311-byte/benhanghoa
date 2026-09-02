@@ -10,6 +10,23 @@ summary: >-
   và dòng tiền đang hình thành quanh những "điểm nghẹt" vô hình này.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  🌊 Sông Rhine vừa "thoát khủng hoảng"... nhưng vì lý do tệ nhất! Nước nhích lên từ đáy kỷ lục dưới 10cm tại Kaub, vậy mà sà lan vẫn không chở nổi tải trọng bình thường. Bài học 2026: điểm nghẹt năng lượng không chỉ là Hormuz — còn là con sông cạn, chiếc tuabin chờ đến 2031 và lưới điện quá yếu. Đọc phân tích tổng hợp trên Bến Hàng Hóa!
+  👉 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  ⏳ 2031 — năm bạn nhận được tuabin khí công suất nặng nếu đặt hàng GE Vernova NGAY HÔM NAY. Con số này đang trở thành rào cản lớn nhất của kỷ nguyên AI. Khi thiết bị phát điện thành tài sản khan hiếm nhất thị trường, dòng tiền sẽ chảy về đâu? Phân tích chi tiết tại Bến Hàng Hóa!
+  👉 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  🎯 Mốc cần canh: mực nước tại trạm đo Kaub trên sông Rhine. Vùng dưới 10cm từng gây hoảng loạn giữa tháng 8 — nước phải hồi đủ để sà lan chở tải trọng chuẩn mới là tín hiệu THẬT. Song song đó: diễn biến Hormuz và độ dài hàng chờ tuabin khí. Cần đối chiếu biểu đồ trực tiếp để xác định mốc chính xác!
+  👉 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  💬 Theo bạn, đâu là "điểm nghẹt thở" đáng sợ nhất của thị trường năng lượng lúc này?
+  🚢 Hormuz bị đóng cửa?
+  🌊 Sông Rhine cạn nước?
+  ⚡ Lưới điện không theo kịp AI?
+  Comment lựa chọn của bạn bên dưới nhé! Phân tích tổng hợp mới nhất đã có trên Bến Hàng Hóa.
+  👉 Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do openrouter (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

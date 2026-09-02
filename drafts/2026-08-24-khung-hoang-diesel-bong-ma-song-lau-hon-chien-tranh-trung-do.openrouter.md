@@ -11,6 +11,34 @@ summary: >-
   hai chiều và dấu hiệu cần canh.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  🔥 DIESEL CÓ THỂ SỐNG LÂU HƠN CHIẾN TRANH TẠO RA NÓ?
+  Chiến sự Trung Đông chưa hạ nhiệt, Mỹ đe dọa trừng phạt Iran "gay gắt nhất lịch sử", kho nhiên liệu toàn cầu cạn dần và công suất lọc dầu suy yếu.
+  Giới phân tích lo ngại: kể cả khi chiến tranh lắng xuống, cơn khát diesel vẫn còn đeo bám thị trường.
+  Đọc phân tích tổng hợp đầy đủ tại Bến Hàng Hóa! 👇
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  ⏳ CON SỐ BIẾT NÓI: 2031
+  Hôm nay bạn đặt mua tua-bin khí hạng nặng GE Vernova — đến năm 2031 máy mới tới tay.
+  Đó chính là "nút cổ chai" lớn nhất của làn sóng AI, khi các trung tâm dữ liệu hút điện không biết mệt.
+  Cầu tăng vọt – cung chờ đợi: bài toán năng lượng chưa bao giờ căng như lúc này! ⚡
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  ⚠️ NHỮNG DẤU HIỆU CẦN CANH GIỮA CĂNG THẲNG NHIÊN LIỆU
+  – Mực nước Rhine tại Kaub: vùng đáy kỷ lục dưới 10 cm — nút thắt vận chuyển nội địa châu Âu 🚢
+  – Xu hướng tồn kho nhiên liệu: rút ròng hay tích lũy? 📉📈
+  – Tin tức trừng phạt Iran và diễn biến mặt trận Trung East 🌍
+  Biểu đồ đang nói gì ở các vùng tâm lý này? Xem ngay phân tích trên Bến Hàng Hóa!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  💬 CÂU HỎI CHO ANH EM: NẾU CHIẾN TRANH TRUNG ĐÔNG KẾT THÚC NGÀY MAI...
+  ...bạn nghĩ giá diesel sẽ đi theo kịch bản nào?
+  A️⃣ Rơi nhanh vì phần rủi ro địa chính trị xì hơi?
+  B️⃣ Vẫn được đỡ mạnh vì kho cạn kiệt và nhà lọc dầu yếu?
+  C️⃣ Dao động dữ dội theo từng cú tin?
+  Comment lựa chọn của bạn bên dưới nhé! 👇
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do openrouter (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

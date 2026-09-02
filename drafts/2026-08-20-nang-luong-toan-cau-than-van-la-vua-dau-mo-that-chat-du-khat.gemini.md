@@ -12,6 +12,29 @@ summary: >-
   tạp hiện nay.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  (a) Năng lượng 2026: Than vẫn là vua, dầu mỏ thắt chặt dù khát vọng xanh tăng tốc! 👑⛽
+  Thị trường năng lượng đang đối mặt với thực tế đầy nghịch lý: dù năng lượng tái tạo tăng trưởng nhanh chóng, than đá vẫn được IEA dự báo là nguồn điện chính đến năm 2026. Trong khi đó, dầu mỏ và sản phẩm lọc dầu đang chịu áp lực thắt chặt kéo dài. Đâu là lối thoát? 🤔
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  (b) IEA dự báo Than vẫn thống trị đến 2026 với 10.974 TWh! 📈
+  Một con số đáng chú ý: IEA dự kiến các nhà máy điện đốt than sẽ tạo ra 10.974 terawatt giờ điện vào năm 2026! Điều này cho thấy vai trò không thể thay thế của than đá trong bức tranh năng lượng toàn cầu, bất chấp nỗ lực xanh hóa. Bạn nghĩ sao về con số này? 👇
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  (c) Diesel 100 USD: Tín hiệu thị trường dầu mỏ THẮT CHẶT hơn bạn nghĩ! 🚨
+  Vết nứt dầu diesel ở mức 100 USD đang cảnh báo một thị trường dầu mỏ căng thẳng hơn nhiều so với giá Brent bề ngoài. Đây là một mốc quan trọng cần theo dõi chặt chẽ để đánh giá sức khỏe thực sự của nguồn cung nhiên liệu. Đừng bỏ lỡ!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  (d) Thị trường năng lượng: Khát vọng xanh vs. thực tế phụ thuộc nhiên liệu hóa thạch – Đâu là điểm cân bằng? 🤔🌍
+  Thế giới đang lắp đặt kỷ lục điện gió, mặt trời, và thậm chí máy bay điện cũng đã cất cánh. Nhưng than đá vẫn là nguồn điện số 1, và dầu mỏ thì ngày càng thắt chặt. Theo bạn, khi nào chúng ta mới thấy sự dịch chuyển đáng kể? Cùng bàn luận nhé! 👇
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do gemini (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

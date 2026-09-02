@@ -10,6 +10,25 @@ summary: >-
   hạn, tạo ra một tương lai đầy biến động cho giá "vàng đen".
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  (a) 🚀 Thị trường dầu thô đang ở ngã ba đường! Một bên là rủi ro địa chính trị leo thang ở Trung Đông, một bên là triển vọng nguồn cung mới từ Brazil và sự bùng nổ của xe điện. Cung cầu đang giằng co dữ dội, tạo ra bức tranh đầy thách thức cho "vàng đen". 🤔 Đọc ngay nhận định chi tiết!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  (b) ⛽️ Giá xăng ở Mỹ >4 USD/gallon đang buộc chính phủ Washington phải hành động! Điều này cho thấy áp lực cực lớn từ giá dầu thô lên người tiêu dùng. Liệu các chính sách nới lỏng quy định có đủ để hạ nhiệt thị trường hay không? Phân tích ngay!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  (c) 📈 Đâu là các vùng kháng cự và hỗ trợ cần canh trên biểu đồ dầu thô lúc này? Với hàng loạt rủi ro địa chính trị và triển vọng nguồn cung mới đan xen, thị trường đang rất nhạy cảm. Đừng bỏ lỡ các mốc quan trọng để đưa ra quyết định sáng suốt!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  (d) 💬 Bạn nghĩ yếu tố nào sẽ chi phối giá dầu thô trong thời gian tới: rủi ro địa chính trị hay sự phát triển của xe điện và nguồn cung mới từ Brazil? Hãy chia sẻ quan điểm của bạn trong phần bình luận! 👇
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do gemini (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

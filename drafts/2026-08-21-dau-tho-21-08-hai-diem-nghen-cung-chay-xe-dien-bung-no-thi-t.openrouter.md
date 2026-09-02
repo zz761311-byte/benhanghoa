@@ -11,6 +11,27 @@ summary: >-
   đang cân bằng giữa khan hiếm ngắn hạn và dư thừa tiềm năng dài hạn.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  🛢️ DẦU THÔ: NGHỊCH LÝ CỦA THỊ TRƯỜNG
+  Hormuz gián đoạn, Bab el-Mandeb bị đe dọa — nguồn cung căng tức thời. Nhưng xe điện bùng nổ và mỏ mới của Brazil lại vẽ ra bức tranh dư thừa dài hạn. Ngắn hạn và dài hạn đang đi hai hướng ngược nhau!
+  👉 Đọc phân tích đầy đủ tại Bến Hàng Hóa.
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  💰 CON SỐ ĐÁNG CHÚ Ý: 4 USD/GALLON
+  Giá xăng Mỹ đã vượt mốc 4 USD/gallon — mức đủ để Washington vừa siết trừng phạt Iran, vừa phải nới lỏng quy định xăng dầu nội địa. Khi giá tại trạm xăng trở thành áp lực chính trị, thị trường dầu càng khó lường!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  🎯 NGƯỠNG CẦN CANH TRÊN THỊ TRƯỜNG DẦU
+  📌 Tâm lý: vùng "lo gián đoạn" — tin xấu từ Bab el-Mandeb dễ đẩy giá vọt
+  📌 Tiêu dùng: ngưỡng tâm lý xăng Mỹ trên 4 USD/gallon
+  📌 Kỹ thuật: vùng đỉnh gần đây và nền hỗ trợ trước đó
+  ⚠️ Cần đối chiếu biểu đồ trực tiếp để xác định mốc chính xác!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  ❓ BẠN NGHIÊNG VỀ PHÍA NÀO?
+  Houthi siết Bab el-Mandeb → giá dầu tăng? Hay xe điện bùng nổ + mỏ mới Brazil → giá dầu giảm dài hạn? Một bên là địa chính trị nóng, một bên là xu hướng cấu trúc. Theo bạn, lực nào sẽ thắng trong thời gian tới? 💬 Comment ý kiến của bạn nhé!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do openrouter (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

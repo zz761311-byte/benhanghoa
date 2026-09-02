@@ -11,6 +11,37 @@ summary: >-
   dịch không đồng đều và đầy thách thức.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  (a)
+  Bức tranh năng lượng toàn cầu đang cực kỳ phức tạp! 🌍 Từ sông Rhine thiếu nước, eo biển Hormuz căng thẳng, đến sự thiếu hụt tua-bin khí cho kỷ nguyên AI, và dòng tiền năng lượng sạch đổ vào không đồng đều... Tất cả tạo nên một thị trường đầy biến động.
+
+  Cùng "Bến Hàng Hóa" phân tích sâu hơn về những thách thức và cơ hội phía trước! 👇
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí.
+
+  ----
+
+  (b)
+  $180 tỷ USD! 💰 Đó là con số dự kiến chi tiêu vào năng lượng sạch của Mỹ đến năm 2026. Một dấu hiệu rõ ràng về cuộc đua xanh đang tăng tốc. Nhưng liệu số tiền này có đủ để giải quyết các nút thắt hạ tầng toàn cầu, hay chúng ta vẫn sẽ đối mặt với sự thiếu hụt như tua-bin khí kéo dài đến 2031?
+
+  Đọc bài phân tích để hiểu rõ hơn về dòng chảy năng lượng thế giới! 👇
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí.
+
+  ----
+
+  (c)
+  Điểm nghẽn không chỉ là Hormuz! ⚠️ Sông Rhine tiếp tục thách thức chuỗi cung ứng Châu Âu, trong khi tình trạng thiếu hụt tua-bin khí đang kìm hãm nhu cầu điện khổng lồ từ AI. Các mốc quan trọng cần theo dõi là diễn biến mực nước sông, tình hình địa chính trị và đầu tư vào hạ tầng năng lượng mới.
+
+  Bạn đã sẵn sàng cho những biến động tiếp theo? Cùng Bến Hàng Hóa nắm bắt xu hướng! 👇
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí.
+
+  ----
+
+  (d)
+  Tương lai năng lượng nào đang chờ đợi chúng ta? 🤔 Giữa một bên là cuộc cách mạng năng lượng sạch đang tăng tốc (Mỹ) và chiến lược "đạt đỉnh dầu" của Trung Quốc, một bên là các điểm nghẽn logistics không ngừng (Rhine, Hormuz) và hạn chế hạ tầng (tua-bin khí).
+
+  Bạn nghĩ yếu tố nào sẽ định hình thị trường năng lượng mạnh mẽ nhất trong thời gian tới? Hãy chia sẻ quan điểm của bạn! 👇
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí.
 ---
 > ⚠️ **BẢN NHÁP do gemini (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

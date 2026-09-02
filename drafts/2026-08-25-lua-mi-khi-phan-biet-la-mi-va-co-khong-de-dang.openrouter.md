@@ -10,6 +10,23 @@ summary: >-
   động.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  📊 **NHẬN ĐỊNH TỔNG THỂ VỀ LÚA MÌ**
+  Thị trường lúa mì hiện đang đối mặt với thách thức phân biệt giữa thực tế vật chất và các tác động tâm lý ngắn hạn. Bức tranh chung khá phức tạp, yêu cầu các nhà đầu tư cần có cái nhìn toàn diện và kỹ lưỡng khi tiếp cận thị trường này.
+  👉 Để lại SỐ hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí!
+  ----
+  ⚖️ **CÂN BẰNG HAI LỰC LƯỢNG CHÍNH**
+  Sự đối đầu giữa các yếu tố hỗ trợ tăng (thời tiết, chi phí logistics) và các yếu tố áp lực giảm (suy thoái kinh tế, dự trữ dồi dào) là key driver định hướng thị trường. Hãy theo dõi sát sai sự cân bằng này để đón bắt các cơ hội appropriate.
+  👉 Để lại SỐ hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí!
+  ----
+  🔍 **CÁC NGƯỜNG TÂM LÝ VÀ MỐC CẦN CANH**
+  Thị trường đang ở vùng nhạy cảm với các lực cung-cầu kỹ thuật. Để xác định chính xác các mốc giá hỗ trợ và kháng cự, cần phải đối chiếu trực tiếp biểu đồ thị trường thực tế để lên kế hoạch appropriate.
+  👉 Để lại SỐ hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí!
+  ----
+  🤔 **THEO BẠN, "LÁ MÌ" THỰC SỰ LÀ GÌ TRONG ĐÓNG GIÁ LÚA MÌ HÔM NAY?**
+  Liệu các lo ngại về nguồn cung vật chất thực tế hay các dòng tiền speculations tài chính đang là động lực chính đẩy giá? Hãy cùng chia sẻ quan điểm của bạn dưới phần bình luận!
+  👉 Để lại SỐ hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí!
 ---
 > ⚠️ **BẢN NHÁP do openrouter (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

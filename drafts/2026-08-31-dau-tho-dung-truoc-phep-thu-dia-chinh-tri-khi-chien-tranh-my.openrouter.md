@@ -10,6 +10,19 @@ summary: >-
   phẩm tinh chế.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  📊 Dầu thô đang chạy đua giữa căng thẳng địa chính trị và nguồn cung tiềm năng. Goldman Sachs cảnh báo lợi nhuận diesel tăng vọt, trong khi xung đột Mỹ - Iran và đình công nhà máy lọc dầu siết chặt cung ứng. Nhưng Venezuela và công nghệ shale có thể là "cú thổi" đổi chiều.
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  💰 Con số 63 USD/thùng — mức lợi nhuận tinh chế diesel mà Goldman Sachs ghi nhận — cho thấy khoảng cách giữa cung và cầu sản phẩm tinh chế đang ở mức báo động. Khi các nhà máy lọc dầu bị gián đoạn, đó là tín hiệu thị trường đang "khó thở".
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  ⚠️ Ba mốc cần canh: (1) Diễn biến xung đột Mỹ - Iran và các hành động trả đũa tiếp theo; (2) Tiến độ thỏa thuận dầu mỏ Venezuela — đặc biệt là cam kết đầu tư hạ tầng; (3) Tình hình đình công tại nhà máy lọc dầu Trung Đông và Nga. Mỗi sự kiện đều có thể tạo sóng lớn cho thị trường.
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  ❓ Bạo lực địa chính trị hay đột phá công nghệ — bên nào sẽ chiến thế trong cuộc đua dầu thô? Kế hoạch Venezuela của Mỹ có thực sự mang lại không gian giảm giá, hay chỉ là "hộp đen" chưa có thời hạn?
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do openrouter (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

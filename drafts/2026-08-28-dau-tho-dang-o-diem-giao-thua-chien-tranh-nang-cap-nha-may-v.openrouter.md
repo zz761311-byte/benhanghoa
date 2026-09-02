@@ -10,6 +10,15 @@ summary: >-
   vững chắc.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  **Nhận định:** Dầu thô đang cân bằng mong manh — xuất khẩu Vịnh phục hồi nhưng Hormuz vẫn chậm, trong khi hàng chục tỷ USD đổ vào nâng cấp nhà máy lọc dầu toàn cầu. Bức tranh dài hạn vẫn nghiêng về nhu cầu, nhưng ngắn hạn rủi ro địa chính trị chưa hạ nhiệt. Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  **Một con số:** 6 tỷ USD — Pakistan dự kiến huy động vốn nâng cấp 5 nhà máy lọc dầu vào đầu tháng 9. Con số này cho thấy các thị trường mới nổi đang đẩy mạnh đầu tư hạ tầng năng lượng, mở ra nhu cầu dầu thô dài hạn. Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  **Mốc cần canh:** Eo biển Hormuz — lưu lượng tàu chở dầu đã chậm lại dưới mức trung bình 10 ngày, chỉ có 7 tàu đi qua trong một ngày gần đây. Đây là tuyến vận tải then chốt, bất kỳ gián đoạn nào có thể đảo chiều đà giá hiện tại. Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  **Câu hỏi:** Khi Nga — cựu siêu sản dầu hàng đầu — phải chuyển sang nhập khẩu dầu, bạn nghĩ điều này sẽ tác động thế nào đến thị trường toàn cầu? Theo bạn, đà phục hồi xuất khẩu Vịnh có đủ mạnh để bù đắp rủi ro từ Hormuz? Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do openrouter (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

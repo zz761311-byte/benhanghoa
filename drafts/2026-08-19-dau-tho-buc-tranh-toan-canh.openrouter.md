@@ -9,6 +9,23 @@ summary: >-
   hướng giá và các điểm cần theo dõi.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  📊 Tổng hợp nhận định thị trường
+  Dầu thô đang đối mặt với nhiều biến động
+  Để lại Số điện thoại hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  💰 Giá Brent đã giảm xuống khoảng 90 USD
+  Mức này được nhiều nguồn tin đề cập
+  Để lại Số điện thoại hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  🔍 Cần theo dõi vùng giá 90 USD
+  Các ngưỡng biến động gần đây quan trọng
+  Để lại Số điện thoại hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  Bạn cho rằng giá dầu sẽ tăng hay giảm?
+  Các yếu tố địa chính trị và công nghệ ảnh hưởng ra sao?
+  Để lại Số điện thoại hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do openrouter (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

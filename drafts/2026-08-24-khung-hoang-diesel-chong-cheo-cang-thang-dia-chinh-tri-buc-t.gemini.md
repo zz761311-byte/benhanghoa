@@ -11,6 +11,23 @@ summary: >-
   lên và các nỗ lực tìm kiếm nguồn cung dài hạn để có cái nhìn đa chiều về thị trường.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  🔍 Thị trường năng lượng đang đối mặt với nhiều thách thức chồng chất: từ khủng hoảng diesel, căng thẳng địa chính trị, đến áp lực từ nhu cầu AI tăng vọt. Liệu nguồn cung có thể đáp ứng kịp?
+  Bài phân tích mới nhất trên Bến Hàng Hóa sẽ giúp bạn tổng hợp bức tranh toàn cảnh!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  ⚠️ Sốc: Đặt tua-bin khí hôm nay, giao hàng tận 2031! 🤯 Tình trạng thiếu hụt trầm trọng này đang là rào cản lớn nhất cho sự phát triển của AI và hạ tầng năng lượng.
+  Bạn nghĩ gì về tác động dài hạn của con số này?
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  📈 Đâu là những mốc quan trọng cần theo dõi trên thị trường năng lượng? Từ diễn biến Trung Đông đến tồn kho nhiên liệu toàn cầu, mọi yếu tố đều có thể tạo biến động.
+  Đừng bỏ lỡ nhận định chuyên sâu của chúng tôi để chuẩn bị cho các kịch bản sắp tới!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  ⚡ AI đang "ngốn" năng lượng thế nào? 🤖 Với sự bùng nổ của các trung tâm dữ liệu, nhu cầu điện tăng vọt đang tạo áp lực cực lớn lên lưới điện toàn cầu.
+  Liệu các giải pháp mới như địa nhiệt dưới biển có kịp thời đáp ứng? Hãy cùng thảo luận!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do gemini (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

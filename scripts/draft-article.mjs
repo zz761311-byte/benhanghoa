@@ -390,6 +390,42 @@ function findFakePrecision(text) {
   return [...new Set(hits)];
 }
 
+// Đưa một đoạn nhiều dòng vào phần khai báo đầu bài (YAML) an toàn.
+//
+// Vì sao cần: 4 caption Fanpage trước đây nằm ở tập tin `.fanpage.txt` riêng, mà
+// trang quản trị /admin (Decap CMS) chỉ đọc được tập tin `.md` có phần khai báo
+// đầu bài. Đưa caption vào đây thì mở /admin là thấy nó thành MỘT Ô RIÊNG, copy
+// sang Facebook được ngay mà không sợ dán nhầm vào nội dung bài.
+//
+// ⚠️ Dùng chỉ số thụt lề rõ ràng `|2` chứ không để YAML tự đoán: caption do AI
+// viết đôi khi tự thụt đầu dòng, mà YAML lấy dòng ĐẦU TIÊN làm chuẩn thụt lề —
+// dòng đầu lỡ thụt thêm là hỏng cả khối, bản nháp mở ra trống trơn.
+// AI ngăn 4 caption bằng một dòng chỉ gồm dấu gạch (`----`).
+//
+// 🔴 KHÔNG được để dấu đó lọt vào phần khai báo đầu bài: `---` chính là dấu kết
+// thúc phần khai báo, nên công cụ nào tách bằng cách dò chuỗi `---` (thay vì dò
+// theo đầu dòng) sẽ cắt phăng ngay giữa caption. Ngày 02/09/2026 thử ra đúng lỗi
+// này: 4 caption chỉ còn lại 1.
+//
+// Đổi thành nhãn có số thứ tự — vừa hết rủi ro, vừa dễ nhìn trong trang quản trị.
+function danhSoCaption(vanBan) {
+  const cac = String(vanBan || "")
+    .split(/\n[ \t]*-{3,}[ \t]*\n/)
+    .map((c) => c.trim())
+    .filter(Boolean);
+  if (!cac.length) return "";
+  return cac.map((c, i) => `── CAPTION ${i + 1} ──\n${c}`).join("\n\n");
+}
+
+function khoiNhieuDong(vanBan) {
+  const dong = String(vanBan || "").replace(/\r/g, "").split("\n");
+  while (dong.length && !dong[0].trim()) dong.shift();            // bỏ dòng trống đầu
+  while (dong.length && !dong[dong.length - 1].trim()) dong.pop(); // bỏ dòng trống cuối
+  if (!dong.length) return "";
+  // Dòng trống phải để trống hẳn, không thụt — nếu không YAML tính cả khoảng trắng
+  return "|2\n" + dong.map((d) => (d.trim() ? "  " + d : "")).join("\n");
+}
+
 async function writeDraft(provider, cluster, parsed) {
   const it = cluster.primary;
   const libImg = libraryImage(cluster.subject, it.category);
@@ -419,6 +455,15 @@ async function writeDraft(provider, cluster, parsed) {
     ? `>\n> ⚠️ **CẢNH BÁO: nghi có SỐ BỊA độ chính xác ("${fakeNum.join('", "')}") — kiểm lại với bản tin gốc, nếu không có thì XÓA/đổi sang định tính trước khi đăng.**\n`
     : "";
 
+  // Nhắc chuyện ảnh ngay trong bài, vì tập tin caption riêng (nơi trước đây ghi
+  // dòng nhắc này) đã bỏ — nay mọi thứ gom vào một bản nháp duy nhất.
+  const nhacAnh = libImg
+    ? `> 📷 Ảnh lấy từ kho: \`public${libImg}\`. Bài cần biểu đồ thì tự vẽ rồi thay ảnh khác.\n`
+    : `> 📷 **Chưa có ảnh** cho mục này — thêm tập tin vào \`public/assets/fanpage/${imgSlug}.jpg\`, hoặc chọn ảnh ngay trong trang quản trị.\n`;
+
+  const khoiCaption = khoiNhieuDong(danhSoCaption(parsed.captions));
+  const dongCaption = khoiCaption ? `captions: ${khoiCaption}\n` : "";
+
   const md = `---
 title: ${yamlTitle(title)}
 date: ${ymd}T08:00
@@ -428,32 +473,22 @@ summary: >-
 ${summaryBlock}
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
----
+${dongCaption}---
 > ⚠️ **BẢN NHÁP do ${provider} (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
-> điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào
-> src/content/posts/ để đăng.
+> điền mốc giá thật (mở TradingView), xóa khối cảnh báo này, rồi chép sang mục
+> "Tin tức / Bài viết" trong trang quản trị để đăng.
 >
+> 💬 **4 caption Fanpage nằm ở ô "Caption Fanpage" ngay bên dưới** — copy thẳng
+> từ đó sang Facebook, đừng dán vào phần nội dung bài.
+${nhacAnh}>
 > 🧩 **Tổng hợp từ ${sources.length} bản tin${cluster.subject ? ` về ${cluster.subject}` : ""}:**
 ${srcList}
 ${forbiddenNote}${fakeNumNote}
 ${parsed.body || "(AI không trả về nội dung)"}
 `;
 
-  const imgLine = libImg
-    ? `📷 ẢNH ĐÍNH KÈM (đã có trong kho): public${libImg}`
-    : `📷 ẢNH ĐÍNH KÈM: chưa có ảnh cho mục này — thêm file vào: public/assets/fanpage/${imgSlug}.jpg`;
-  const fanpage = `CAPTION FANPAGE — bài "${title}"  (do ${provider} soạn)
-Copy thủ công lên Fanpage. KHÔNG dán vào file bài web.
-${imgLine}
-   → Nếu bài cần BIỂU ĐỒ/đồ thị: tự vẽ (mở TradingView) rồi upload thay ảnh này.
-============================================================
-
-${parsed.captions || "(AI không trả về caption)"}
-`;
-
   await mkdir(DRAFTS_DIR, { recursive: true });
   await writeFile(`${DRAFTS_DIR}/${slug}.${provider}.md`, md, "utf8");
-  await writeFile(`${DRAFTS_DIR}/${slug}.${provider}.fanpage.txt`, fanpage, "utf8");
   return `${slug}.${provider}.md`;
 }
 

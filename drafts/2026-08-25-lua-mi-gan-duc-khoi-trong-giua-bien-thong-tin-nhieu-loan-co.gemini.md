@@ -10,6 +10,33 @@ summary: >-
   về những khó khăn trong bối cảnh hiện tại.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  (a)
+  🌾 Nhận định thị trường LÚA MÌ ngày 25/08/2026!
+  Thị trường lúa mì đang thách thức các nhà đầu tư với vô vàn thông tin nhiễu loạn, khiến việc "gạn đục khơi trong" trở nên khó hơn bao giờ hết. Làm sao để nắm bắt tín hiệu thật giữa biển tin tức?
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí!
+
+  ----
+
+  (b)
+  📊 Thách thức lớn của Lúa Mì: Không phải con số cụ thể, mà là "khả năng sàng lọc thông tin"!
+  Bức tranh thị trường hiện tại đòi hỏi sự tinh tường để tách biệt yếu tố quan trọng khỏi nhiễu động nhất thời. Đây là lúc kinh nghiệm và phân tích chuyên sâu lên ngôi!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí!
+
+  ----
+
+  (c)
+  🎯 Mốc quan trọng cần theo dõi cho LÚA MÌ?
+  Không phải một con số giá cụ thể, mà là "vùng tâm lý" và "xu hướng tổng thể" của thị trường! Hãy chú ý đến các báo cáo chính thức và phân tích uy tín để tìm ra điểm sáng.
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí!
+
+  ----
+
+  (d)
+  🤔 Bạn có đang gặp khó khăn trong việc phân tích thị trường LÚA MÌ giữa vô vàn thông tin?
+  Liệu các báo cáo chính thức sắp tới có đủ sức "gạn đục khơi trong" và mang lại sự rõ ràng cho thị trường? Hãy cùng thảo luận!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí!
 ---
 > ⚠️ **BẢN NHÁP do gemini (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

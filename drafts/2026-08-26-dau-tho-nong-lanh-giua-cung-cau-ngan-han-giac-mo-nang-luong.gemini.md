@@ -10,6 +10,25 @@ summary: >-
   hạn đầy biến động cho dầu mỏ.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  Dầu thô đang "nóng lạnh" giữa hàng loạt tin tức cung cầu trái chiều! 🤯 Tồn kho Mỹ tăng nhưng nguồn cung từ Canada, Nga lại gặp thách thức. Iraq thì đẩy mạnh xuất khẩu, trong khi tương lai xa, hàng tỷ USD đang đổ vào năng lượng hạt nhân hợp nhất. Bức tranh nào sẽ thắng thế?
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  Sốc: 4.48 tỷ USD! 🚀 Đó là số tiền đầu tư kỷ lục vào năng lượng hạt nhân hợp nhất trong năm 2025, tăng 69% chỉ trong một năm. "Big Oil" đang đặt cược vào tương lai năng lượng, liệu dầu thô sẽ đi về đâu trong dài hạn?
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  Cần canh gì trên thị trường dầu thô? 🤔 Hãy theo dõi sát sao dữ liệu tồn kho Mỹ (vừa tăng 4.2 triệu thùng!), hoạt động xuất khẩu của Iraq, và diễn biến địa chính trị tại Nga. Đây sẽ là những yếu tố quyết định xu hướng ngắn hạn.
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  Theo bạn, với tồn kho Mỹ tăng nhưng nguồn cung từ Canada, Nga lại gặp khó khăn, liệu giá dầu thô sẽ tăng hay giảm trong thời gian tới? 🤔 Hãy cùng Bến Hàng Hóa thảo luận!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do gemini (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

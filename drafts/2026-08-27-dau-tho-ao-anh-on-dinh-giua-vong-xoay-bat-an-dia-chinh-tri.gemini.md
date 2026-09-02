@@ -10,6 +10,25 @@ summary: >-
   cầu, tạo ra một bức tranh giá phức tạp.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  Dầu thô đang đứng trước ngã ba đường! 🛢️ Một mặt, Qatar & Kuwait đang nỗ lực khôi phục 70% xuất khẩu qua Hormuz, mang lại kỳ vọng ổn định. Nhưng mặt khác, các cuộc tấn công tàu chở dầu liên tiếp và xung đột ở gần 50% nguồn cung toàn cầu vẫn là mối lo lớn. Thị trường sẽ đi về đâu?
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  SỐC! 🤯 Gần 45 TRIỆU THÙNG dầu mỗi ngày đang được sản xuất tại các khu vực "nóng" trên thế giới. Con số này cho thấy rủi ro gián đoạn nguồn cung dầu thô toàn cầu lớn đến mức nào! Đã đến lúc nhìn lại chiến lược giao dịch của bạn.
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  Biến động khó lường của dầu thô 📈📉! Trong khi Qatar cố gắng hạ nhiệt căng thẳng Hormuz, các cuộc tấn công tàu chở dầu vẫn diễn ra. Hãy chú ý các vùng giá tâm lý và ngưỡng kháng cự/hỗ trợ quan trọng trên biểu đồ để nắm bắt xu hướng.
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  Hormuz: Ổn định hay Bất ổn? 🤔 Tin tức về Qatar & Kuwait tăng xuất khẩu qua eo biển này đang đối đầu với báo cáo về các cuộc tấn công tàu chở dầu liên tiếp. Theo bạn, yếu tố nào sẽ chi phối giá dầu thô trong thời gian tới?
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do gemini (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

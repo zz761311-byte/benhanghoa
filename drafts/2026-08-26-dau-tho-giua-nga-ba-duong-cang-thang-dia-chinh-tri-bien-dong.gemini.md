@@ -11,6 +11,31 @@ summary: >-
   năng lượng khác cho tương lai.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  (a) Nhận định DẦU THÔ mới nhất từ Bến Hàng Hóa! 🛢️ Tồn kho Mỹ tăng mạnh, Iraq đẩy mạnh xuất khẩu... nhưng Canada lại cắt giảm sản lượng và Nga bị tấn công nhà máy lọc dầu! 🤔 Thị trường đang giằng co giữa các lực đẩy và kéo. Liệu giá dầu sẽ đi về đâu?
+
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí.
+
+  ----
+
+  (b) SỐC: 4.48 TỶ USD đổ vào năng lượng hạt nhân hợp hạch chỉ trong 2025! 🤯 Một con số tăng 69% so với năm trước, cho thấy dòng tiền khổng lồ đang dịch chuyển sang tương lai năng lượng. Dầu thô sẽ bị ảnh hưởng thế nào về dài hạn?
+
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí.
+
+  ----
+
+  (c) Mốc NÀO cần canh với DẦU THÔ tuần này? 📉📈
+  Các yếu tố địa chính trị và biến động cung cầu đang tạo ra một bức tranh phức tạp. Cần theo dõi sát các vùng hỗ trợ và kháng cự tâm lý trên biểu đồ. Xu hướng nào sẽ chiếm ưu thế?
+
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí.
+
+  ----
+
+  (d) NÀNG DẦU SẼ ĐI ĐÂU? 🤔
+  Tồn kho Mỹ tăng, Iraq tăng xuất khẩu (áp lực giảm). Nhưng Canada cắt giảm, Nga bị tấn công (hỗ trợ giá tăng). Với tất cả những yếu tố này, bạn nghĩ giá dầu thô sẽ tăng hay giảm trong ngắn hạn? Hãy chia sẻ quan điểm của bạn! 👇
+
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí.
 ---
 > ⚠️ **BẢN NHÁP do gemini (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

@@ -10,6 +10,25 @@ summary: >-
   chuyển chiến lược năng lượng, tạo áp lực lên triển vọng nhu cầu dài hạn.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  (a) 🌍 Dầu thô đang đứng trước ngã ba đường! Trung Quốc hướng tới "đỉnh dầu", Iraq muốn tăng gấp đôi sản lượng, còn Venezuela mắc kẹt với hạ tầng cũ kỹ. Thị trường đang tìm điểm cân bằng giữa các tham vọng cung và chuyển dịch cầu. Bức tranh đa chiều này sẽ đưa giá dầu về đâu?
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  (b) ⚡ Số giàn khoan dầu ở Mỹ đã giảm trong tuần này, dừng ở mức 588 giàn! Đây có phải là dấu hiệu nguồn cung sẽ bị thắt chặt, hay chỉ là tạm thời? Trong khi đó, Iraq nhắm mục tiêu 8-10 triệu thùng/ngày, gấp đôi hiện tại! Rất nhiều biến động cần theo dõi!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  (c) ⚖️ Giá dầu WTI và Brent đang giao dịch nhẹ nhàng hơn, tạm dừng đà tăng khi địa chính trị lắng xuống. Đây là lúc cực kỳ quan trọng để theo dõi các vùng tâm lý và ngưỡng hỗ trợ/kháng cự trên biểu đồ. Liệu đà giảm sẽ tiếp diễn hay chỉ là một nhịp điều chỉnh trước khi tăng trở lại?
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+
+  ----
+
+  (d) 🤔 Trung Quốc hướng tới "đỉnh dầu" có phải là tin xấu cho nhu cầu dầu toàn cầu trong dài hạn? Hay tham vọng tăng sản lượng của Iraq sẽ bù đắp lại? Bạn nghĩ yếu tố nào sẽ chi phối giá dầu trong thời gian tới? Cùng thảo luận nhé!
+  Để lại SĐT hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do gemini (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

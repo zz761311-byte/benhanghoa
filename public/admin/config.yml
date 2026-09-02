@@ -23,6 +23,49 @@ public_folder: "/assets/uploads"
 locale: "vi"
 
 collections:
+  # ── BẢN NHÁP AI ─────────────────────────────────────────────────────────
+  # Bot soạn nháp ghi bài vào thư mục `drafts/` mỗi sáng. Thư mục đó KHÔNG nằm
+  # trong `src/content/` nên không có gì lên web — muốn đăng thì phải tự chép
+  # sang mục "Tin tức / Bài viết" bên dưới.
+  #
+  # Vì sao đưa vào đây: trước ngày 02/09/2026 chủ web phải vào GitHub mở từng
+  # tập tin để copy, rất mất thời gian. Nay đọc và sửa ngay trong trang này.
+  #
+  # `create: false` — chỉ bot mới tạo nháp, người không tạo tay ở đây.
+  - name: "nhap"
+    label: "Bản nháp AI (chưa lên web)"
+    label_singular: "Bản nháp"
+    description: >-
+      Bài do AI soạn mỗi sáng, CHƯA đăng. Đọc lại, điền mốc giá thật, rồi chép
+      sang mục "Tin tức / Bài viết" để đăng. Caption Fanpage nằm ở ô riêng phía
+      dưới. Bản nháp cũ hơn 14 ngày tự bị xoá.
+    folder: "drafts"
+    create: false
+    delete: true
+    extension: "md"
+    summary: "{{title}}"
+    sortable_fields: ["date", "title"]
+    fields:
+      - { label: "Tiêu đề", name: "title", widget: "string" }
+      - { label: "Ngày soạn", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm" }
+      - label: "Nhóm hàng hóa"
+        name: "category"
+        widget: "select"
+        default: "macro"
+        options:
+          - { label: "Kim loại", value: "metal" }
+          - { label: "Năng lượng", value: "energy" }
+          - { label: "Nông sản", value: "agri" }
+          - { label: "Nguyên liệu", value: "soft" }
+          - { label: "Vĩ mô", value: "macro" }
+      - { label: "Ảnh đại diện", name: "image", widget: "image", required: false }
+      - { label: "Tóm tắt ngắn", name: "summary", widget: "text", required: false }
+      # 4 caption để đăng Fanpage. Để riêng một ô, KHÔNG lẫn vào nội dung bài,
+      # nên copy sang Facebook không sợ dán nhầm cả bài lên web.
+      - { label: "💬 Caption Fanpage — copy sang Facebook, ĐỪNG dán vào bài", name: "captions", widget: "text", required: false }
+      - { label: "Nội dung bài", name: "body", widget: "markdown" }
+
+  # ── BÀI ĐÃ ĐĂNG (lên web thật) ──────────────────────────────────────────
   - name: "tin"
     label: "Tin tức / Bài viết"
     label_singular: "Bài viết"

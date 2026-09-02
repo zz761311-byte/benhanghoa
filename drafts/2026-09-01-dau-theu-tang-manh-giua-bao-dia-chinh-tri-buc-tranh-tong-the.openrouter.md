@@ -9,6 +9,9 @@ summary: >-
   phục thị trường, trong khi Na Uy tiếp tục mở rộng thăm dò bất chấp lập trường EU.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  (AI không trả về caption)
 ---
 > ⚠️ **BẢN NHÁP do openrouter (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

@@ -10,6 +10,23 @@ summary: >-
   cầu và dòng tiền.
 
   Bến Hàng Hóa | Tham khảo, không phải khuyến nghị đầu tư.
+captions: |2
+  ── CAPTION 1 ──
+  📊 Bài phân tích ngày 26/8 cho thấy thị trường dầu thô đang đối mặt với nhiều biến động.
+  Hãy cùng chúng tôi khám phá chi tiết hơn.
+  Để lại Số điện thoại hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  🔥 Con số 4,48 tỷ USD đầu tư vào năng lượng fusion là kỷ lục mới.
+  Điều này cho thấy sự dịch chuyển lớn từ các công ty oil.
+  Để lại Số điện thoại hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  📈 Thị trường cần theo dõi các mức tâm lý và xu hướng giá.
+  Chúng tôi sẽ cập nhật thường xuyên.
+  Để lại Số điện thoại hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
+  ----
+  🤔 Bạn nghĩ giá dầu sẽ đi đâu trong thời gian tới?
+  Chia sẻ ý kiến của bạn để cùng thảo luận.
+  Để lại Số điện thoại hoặc nhắn Zalo 083 795 5858 — tư vấn miễn phí
 ---
 > ⚠️ **BẢN NHÁP do openrouter (AI miễn phí) viết — CHƯA đăng web.** Hãy đọc lại,
 > điền mốc giá thật (mở TradingView), xóa dòng cảnh báo này, rồi mới chuyển vào

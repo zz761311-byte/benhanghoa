@@ -46,14 +46,12 @@ collections:
     # Dòng hiện trong danh sách: NGÀY GIỜ soạn trước, rồi AI nào viết, rồi tiêu đề
     # — liếc qua là biết bài nào mới, bài nào để lâu rồi.
     summary: "{{date | date('DD/MM HH:mm')}} · {{ai}} · {{title}}"
-    # Mặc định: BÀI MỚI NHẤT LÊN ĐẦU. `descending` là giảm dần — ngày lớn (mới)
-    # xếp trước. Không nhóm theo ngày nữa: nhóm xếp ngày cũ lên trên, đẩy bài mới
-    # xuống tận đáy, đúng cái cần tránh.
-    sortable_fields:
-      fields: ["date", "title", "ai"]
-      default:
-        field: "date"
-        direction: "descending"
+    # 🔴 CHỈ ĐƯỢC VIẾT DẠNG MẢNG. Decap 3.3 bắt buộc `sortable_fields` là mảng —
+    # viết dạng nhiều tầng (fields/default) là cả trang quản trị chết với thông
+    # báo "must be array", không vào được. Đã mắc ngày 02/09/2026.
+    # Vì vậy KHÔNG đặt được thứ tự mặc định trong tập tin này: muốn bài mới lên
+    # đầu thì bấm nút "Sort by" trong giao diện một lần, trình duyệt nhớ luôn.
+    sortable_fields: ["date", "title", "ai"]
     fields:
       - { label: "Tiêu đề", name: "title", widget: "string" }
       - { label: "Soạn lúc (giờ Việt Nam)", name: "date", widget: "datetime", date_format: "DD/MM/YYYY", time_format: "HH:mm" }
@@ -84,11 +82,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     # Ngày đăng đứng trước tiêu đề, và bài mới nhất lên đầu — giống mục bản nháp
     summary: "{{date | date('DD/MM/YYYY')}} · {{title}}"
-    sortable_fields:
-      fields: ["date", "title"]
-      default:
-        field: "date"
-        direction: "descending"
+    sortable_fields: ["date", "title"]   # phải là mảng — xem ghi chú ở mục trên
     fields:
       - { label: "Tiêu đề", name: "title", widget: "string" }
       - { label: "Ngày đăng", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm" }

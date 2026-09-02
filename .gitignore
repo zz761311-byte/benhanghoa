@@ -42,5 +42,8 @@ CLAUDE.local.md
 # (xem F:\ben-hang-hoa-noi-bo). Chạy "npm run sao-luu" để cập nhật bản sao.
 CLAUDE.md
 CHECKPOINT.md
+# Bản checkpoint cũ lưu trữ lại — cùng loại nội dung nội bộ như CHECKPOINT.md,
+# nên cũng phải chặn. Ngày 02/09/2026 suýt để cả thư mục này lọt lên kho công khai.
+docs/checkpoints/
 .claude/
 scripts/sao-luu-noi-bo.mjs

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-02 20:53",
+  "updated_at": "2026-09-02 21:00",
   "items": [
+    {
+      "id": "1mkkw5u",
+      "title": "Ukraine’s Refinery Strikes Force Russia to Process Oil Abroad",
+      "title_vi": "Nhà máy lọc dầu Ukraine đình công buộc Nga phải xử lý dầu ở nước ngoài",
+      "summary_vi": "Khi Ukraine nhắm mục tiêu vào các nhà máy lọc dầu của Nga và tình trạng thiếu nhiên liệu ngày càng trầm trọng trên khắp đất nước, Moscow hiện đang chuyển hướng ra nước ngoài để xử lý dầu của mình. Kyiv đã đánh sập hàng chục nhà máy lọc dầu trên khắp nước Nga bằng các cuộc tấn công bằng máy bay không người lái trong những tháng gần đây nhằm làm gián đoạn khả năng tài trợ của Moscow.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-01_lhexmeuufx.jpg",
+      "link": "https://oilprice.com/Energy/Gas-Prices/Ukraines-Refinery-Strikes-Force-Russia-to-Process-Oil-Abroad.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-02 21:00"
+    },
     {
       "id": "8f2uuu",
       "title": "India Boosts Far East Russian Oil Imports as War Upends Trade Routes",
@@ -187,17 +198,6 @@
       "source": "WTVB",
       "category": "energy",
       "published": "2026-09-02 11:12"
-    },
-    {
-      "id": "l9bbuz",
-      "title": "Oil Prices Rally as U.S. Targets Iranian Tankers in New Escalation",
-      "title_vi": "Giá dầu tăng khi Mỹ nhắm mục tiêu vào các tàu chở dầu của Iran trong đợt leo thang mới",
-      "summary_vi": "Giá dầu tăng một lần nữa vào đầu phiên giao dịch châu Á hôm thứ Tư khi Mỹ và Iran đình công ở mức leo thang đáng kể sau một tháng tương đối yên tĩnh. Tại thời điểm viết bài, WTI đã tăng lên 91,05 USD/thùng, giao dịch cao hơn 0,92% trong phiên và Brent đã tăng 1",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rally-as-US-Targets-Iranian-Tankers-in-New-Escalation.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-02 10:53"
     },
     {
       "id": "9qycrs",
@@ -541,15 +541,15 @@
       "published": "2026-09-01 15:07"
     },
     {
-      "id": "6t8zyb",
-      "title": "Natural Gas and Oil Forecast: Oil Supply Risks Rise as U.S. Gas Output Hits Record",
-      "title_vi": "Dự báo khí đốt tự nhiên và dầu: Rủi ro nguồn cung dầu tăng lên khi sản lượng khí đốt của Mỹ đạt kỷ lục",
-      "summary_vi": "Cuộc chiến vùng Vịnh làm sống lại rủi ro về nguồn cung dầu thô và LNG khi WTI tăng cao hơn, Brent đặt mục tiêu 92,01 USD và sản lượng khí đốt kỷ lục của Mỹ hỗ trợ nguồn cung trong nước.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/Main-Images-3.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-oil-supply-risks-rise-as-u-s-gas-output-hits-record-1620981",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-09-01 12:52"
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-09-01 14:00"
     }
   ]
 }

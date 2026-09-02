@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-03 00:26",
+  "updated_at": "2026-09-03 01:01",
   "items": [
+    {
+      "id": "vrpd0k",
+      "title": "Budget Airline Warns Jet Fuel Shock Could Wipe Out Rivals",
+      "title_vi": "Hãng hàng không giá rẻ cảnh báo cú sốc nhiên liệu máy bay phản lực có thể quét sạch các đối thủ",
+      "summary_vi": "Ryanair đã cảnh báo rằng giá nhiên liệu máy bay có thể tăng vọt vào mùa hè tới, đe dọa sự sụp đổ của một số đối thủ cạnh tranh ở châu Âu. Hãng hàng không giá rẻ này cho biết họ đã thực hiện các biện pháp khẩn cấp để tự bảo vệ mình trước tình trạng giá nhiên liệu máy bay tăng cao do chiến tranh Iran gây ra, đồng thời cắt giảm lượng hành khách.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-02_0ockihwaq6.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Budget-Airline-Warns-Jet-Fuel-Shock-Could-Wipe-Out-Rivals.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-03 01:00"
+    },
     {
       "id": "skeukg",
       "title": "OPEC+ Set to Hold Oil Output Steady as Iran War Disrupts Supply",
@@ -77,17 +88,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-02 21:38"
-    },
-    {
-      "id": "r7oicw",
-      "title": "Ryanair Warns Some Airlines Could Struggle with Jet Fuel Price Spike",
-      "title_vi": "Ryanair cảnh báo một số hãng hàng không có thể gặp khó khăn với giá nhiên liệu máy bay phản lực tăng đột biến",
-      "summary_vi": "Ryanair, hãng hàng không giá rẻ lớn nhất ở châu Âu, hôm thứ Tư đã hạ mục tiêu giao thông mùa đông để giảm khả năng tham gia với giá dầu tăng cao và cảnh báo một số đối thủ cạnh tranh ít được phòng ngừa tốt hơn có thể phải vật lộn để tồn tại trong mùa đông này trong bối cảnh chi phí nhiên liệu cao. Kể từ sau chiến tranh Iran",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-02_lsvcxegamh.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ryanair-Warns-Some-Airlines-Could-Struggle-with-Jet-Fuel-Price-Spike.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-02 21:30"
     },
     {
       "id": "kxu2p4",
@@ -442,6 +442,17 @@
       "published": "2026-09-02 01:11"
     },
     {
+      "id": "v1lde1",
+      "title": "5 Best Copper Stocks for 2026 and How to Invest",
+      "title_vi": "5 cổ phiếu đồng tốt nhất năm 2026 và cách đầu tư",
+      "summary_vi": "Một cái nhìn sâu sắc về các cổ phiếu đồng hàng đầu trên thị trường chứng khoán Hoa Kỳ trong năm nay. Đây là những gì bạn cần biết.",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fm.foolcdn.com%2Fmedia%2Fdubs%2Foriginal_images%2FIndustry_business_production_and_heavy_metallurgical_industrial_products_m.jpg&w=1200&op=resize",
+      "link": "https://www.fool.com/investing/stock-market/market-sectors/materials/metal-stocks/copper-stocks/",
+      "source": "The Motley Fool",
+      "category": "metal",
+      "published": "2026-09-02 00:33"
+    },
+    {
       "id": "i4sq1i",
       "title": "Copper Outpaces M2 Growth: El Niño Now Puts 25% of Mine Supply at Risk",
       "title_vi": "Đồng vượt xa mức tăng trưởng M2: El Niño hiện khiến 25% nguồn cung mỏ gặp rủi ro",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-01 20:42"
-    },
-    {
-      "id": "19u6cnv",
-      "title": "Dollar’s Warsh Rally Fades as Fed Rate-Cut Bets Hold: ING",
-      "title_vi": "đợt tăng giá chiến tranh của đồng đô la mất dần khi đặt cược cắt giảm lãi suất của Fed giữ nguyên: ING",
-      "summary_vi": "Bitcoinđợt tăng giá chiến tranh của Đô la thế giới mờ dần khi đặt cược cắt giảm lãi suất của Fed giữ nguyên: ING Sự thúc đẩy ngắn gọn của đồng đô la Mỹ từ triển vọng Kevin Warsh trở thành Liên bang tiếp theo",
-      "image": "https://cryptorank.io/static/pages-preview/main-page.png",
-      "link": "https://cryptorank.io/news/feed/39405-dollar-warsh-rally-fades-fed-pricing-holds-ing",
-      "source": "CryptoRank",
-      "category": "macro",
-      "published": "2026-09-01 20:41"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 13:01",
+  "updated_at": "2026-09-02 14:01",
   "items": [
     {
       "id": "17j4l36",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-02 13:00"
+    },
+    {
+      "id": "smtwct",
+      "title": "Dollar holds firm at nearly two-week high as Middle East hostilities lift oil",
+      "title_vi": "Đồng đô la giữ vững ở mức cao gần hai tuần khi sự thù địch ở Trung Đông nâng giá dầu",
+      "summary_vi": "Bởi Satoshi Sugiyama TOKYO, ngày 2 tháng 9 (Reuters) - Đồng đô la giữ gần mức cao nhất trong hai tuần vào thứ Tư khi sự thù địch mới ở Trung Đông đẩy giá dầu lên cao, làm dấy lên lo ngại lạm phát và tăng thêm áp lực lên lãi suất trái phiếu. Chỉ số đô la, ...",
+      "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-09/02/2026-09-02T010249Z_1_LYNXMPEM81029_RTROPTP_3_GLOBAL-FOREX.JPG",
+      "link": "https://kfgo.com/2026/09/01/dollar-holds-firm-as-middle-east-hostilities-lift-oil/",
+      "source": "The Mighty 790 KFGO",
+      "category": "energy",
+      "published": "2026-09-02 11:09"
     },
     {
       "id": "l9bbuz",
@@ -264,6 +275,17 @@
       "source": "Funds Society",
       "category": "metal",
       "published": "2026-09-01 21:23"
+    },
+    {
+      "id": "1gebpyi",
+      "title": "Why the Middle East Oil Shock Failed to Save Russia’s Budget",
+      "title_vi": "Tại sao cú sốc dầu mỏ ở Trung Đông không thể cứu được ngân sách Nga",
+      "summary_vi": "Trong những tuần đầu của cuộc chiến Mỹ-Israel chống lại Iran, các nhà quan sát đã nhanh chóng tuyên bố Nga là nước hưởng lợi lớn từ cuộc xung đột.",
+      "image": "https://static.themoscowtimes.com/image/og/82/93552__82cf46948ca0f531a256e38473c9282f.jpg",
+      "link": "https://www.themoscowtimes.com/2026/09/01/why-the-middle-east-oil-shock-failed-to-save-russias-budget-a93552",
+      "source": "The Moscow Times",
+      "category": "energy",
+      "published": "2026-09-01 21:03"
     },
     {
       "id": "ybdld6",
@@ -528,28 +550,6 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-09-01 01:54"
-    },
-    {
-      "id": "1qb272i",
-      "title": "Is $7 Corn Possible? Here’s the Scenario That Gets Us There",
-      "title_vi": "Ngô giá 7 USD có khả thi không? Đây là kịch bản đưa chúng ta đến đó",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/7-corn-possible-heres-scenario-gets-us-there",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-09-01 01:34"
-    },
-    {
-      "id": "7oo6o2",
-      "title": "Fairtrade International Announces New Minimum Prices for Coffee",
-      "title_vi": "Fairtrade International công bố mức giá tối thiểu mới cho cà phê",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-us/insights/fairtrade-international-announces-new-minimum-prices-for-coffee/",
-      "source": "stonex.com",
-      "category": "soft",
-      "published": "2026-09-01 01:33"
     }
   ]
 }

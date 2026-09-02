@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-02 20:01",
+  "updated_at": "2026-09-02 20:53",
   "items": [
+    {
+      "id": "8f2uuu",
+      "title": "India Boosts Far East Russian Oil Imports as War Upends Trade Routes",
+      "title_vi": "Ấn Độ tăng cường nhập khẩu dầu của Nga ở vùng Viễn Đông khi chiến tranh làm gián đoạn các tuyến đường thương mại",
+      "summary_vi": "Ấn Độ đã tăng mua dầu thô hỗn hợp Viễn Đông ESPO của Nga trong 7 tháng đầu năm do Trung Quốc rút lui khỏi thị trường giao ngay trong những tháng đầu tiên của cuộc chiến tranh Iran và việc giao hàng đến Ấn Độ từ Trung Đông sụt giảm do việc đóng cửa eo biển Hormuz. Tổng số điện tử",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-02_vgx2aeyftj.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Boosts-Far-East-Russian-Oil-Imports-as-War-Upends-Trade-Routes.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-02 20:30"
+    },
     {
       "id": "1r37g0q",
       "title": "Kazakhstan to Double Oil Refining Capacity by 2040",
@@ -11,6 +22,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-02 19:30"
+    },
+    {
+      "id": "1f51wra",
+      "title": "Report Traces Global Coffee Exports and Imports by Company",
+      "title_vi": "Báo cáo Dấu vết Xuất nhập khẩu Cà phê Toàn cầu theo Công ty",
+      "summary_vi": "Một phân tích mới về chuỗi cung ứng cà phê toàn cầu của tổ chức phi lợi nhuận Trase đã đưa ra con số mới về thực tế là một nhóm công ty tương đối nhỏ lại chiếm thị phần lớn...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/09/02/report-traces-global-coffee-exports-and-imports-by-company/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-09-02 19:02"
+    },
+    {
+      "id": "18mxe48",
+      "title": "A Fed rate increase would be a mistake, some observers say as bitcoin, gold, stocks fall",
+      "title_vi": "Một số nhà quan sát cho rằng việc tăng lãi suất của Fed sẽ là một sai lầm khi bitcoin, vàng, chứng khoán giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/02/a-fed-rate-increase-would-be-a-mistake-some-observers-say-as-bitcoin-gold-stocks-fall",
+      "source": "coindesk.com",
+      "category": "metal",
+      "published": "2026-09-02 18:14"
     },
     {
       "id": "w0510d",
@@ -55,6 +88,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-09-02 16:38"
+    },
+    {
+      "id": "1rf9oha",
+      "title": "Gold Extends Decline as Bond Yields and Fed Rate Expectations Rise",
+      "title_vi": "Vàng tiếp tục suy giảm khi lợi suất trái phiếu và kỳ vọng lãi suất của Fed tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://uk.finance.yahoo.com/news/gold-extends-decline-bond-yields-093408859.html",
+      "source": "Yahoo Finance UK",
+      "category": "metal",
+      "published": "2026-09-02 16:34"
     },
     {
       "id": "e244pn",
@@ -189,28 +233,6 @@
       "published": "2026-09-02 07:30"
     },
     {
-      "id": "19owchu",
-      "title": "Saudi Arabia Plans To Free 1 Mb/d As it Invests in Nuclear Power",
-      "title_vi": "Ả Rập Saudi có kế hoạch giải phóng 1 Mb/ngày khi đầu tư vào năng lượng hạt nhân",
-      "summary_vi": "Các nhà máy điện, nhà máy khử muối, nhà máy và trang trại của Ả Rập Saudi tiêu thụ hơn 1 triệu thùng nhiên liệu lỏng mỗi ngày mà vương quốc này đặt mục tiêu thay thế vào năm 2030. Khí đốt tự nhiên và năng lượng tái tạo sẽ cung cấp phần lớn năng lượng thay thế. Năng lượng hạt nhân có thể làm giảm năng lượng trong nước",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-01_sd28i39iwb.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Saudi-Arabia-Plans-To-Free-1-Mbd-As-it-Invests-in-Nuclear-Power.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-02 07:00"
-    },
-    {
-      "id": "1lp4klz",
-      "title": "Live Gold Prices | Gold News And Analysis | Mining News | KITCO",
-      "title_vi": "Giá Vàng Trực Tiếp | Tin Tức Và Phân Tích Vàng | Tin tức khai thác | KITCO",
-      "summary_vi": "KITCO đưa tin Tin tức vàng mới nhất, Tin tức bạc, Giá vàng trực tiếp, Giá bạc, Biểu đồ vàng, Tỷ giá vàng, Tin tức khai thác, ETF, FOREX, Bitcoin, tiền điện tử, thị trường chứng khoán",
-      "image": "",
-      "link": "https://www.kitco.com/",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-09-02 06:46"
-    },
-    {
       "id": "kaddwn",
       "title": "Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks",
       "title_vi": "Nga tấn công Kiev bằng các cuộc không kích, giết chết ít nhất 12 người trong ngày tấn công thứ 6 liên tiếp",
@@ -286,17 +308,6 @@
       "source": "The San Francisco Standard",
       "category": "soft",
       "published": "2026-09-02 03:23"
-    },
-    {
-      "id": "1hefngb",
-      "title": "Long-term gold price remains supported by commodity-led inflation - Saxo Bank’s Hansen",
-      "title_vi": "Giá vàng dài hạn vẫn được hỗ trợ bởi lạm phát do hàng hóa dẫn đầu - Hansen của Ngân hàng Saxo",
-      "summary_vi": "(Kitco News) - Sau khi chứng kiến ​​mức tăng hàng tháng lớn nhất kể từ đầu năm, thị trường vàng đang bắt đầu đi xuống vào tháng 9 khi giá kiểm tra mức hỗ trợ gần 4.350 USD/ounce. Ole Hansen, Giám đốc Chiến lược Hàng hóa tại Ngân hàng Saxo, cho biết vàng đang gặp khó khăn khi các nhà đầu tư tiếp tục tập trung vào vấn đề lạm phát ngắn hạn.",
-      "image": "https://image-api.prod.kitco.com/image/8aea20e1-acbb-448c-90ef-e2e99bb5f5ce.jpeg?top=0.15965290381125&left=0&width=1000&height=562.68069419238&scale_width=1920&token=a8eb448edc82c70335c075b22490a2b0302eda876dcd7239d627a90ece1858f8",
-      "link": "https://www.kitco.com/news/article/2026-09-01/long-term-gold-price-remains-supported-commodity-led-inflation-saxo-banks",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-09-02 02:16"
     },
     {
       "id": "13po3ti",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-09-01 12:52"
-    },
-    {
-      "id": "iyyxmc",
-      "title": "German THE Natural Gas Daily Financial Futures (ICIS) (01 Oct 2026) Trade Ideas — ICEENDEX:TGN01V2026",
-      "title_vi": "Hợp đồng tương lai tài chính hàng ngày về khí đốt tự nhiên (ICIS) của Đức (01 tháng 10 năm 2026) Ý tưởng giao dịch — ICEENDEX:TGN01V2026",
-      "summary_vi": "Xem các ý tưởng giao dịch và đầu tư mới nhất cho Hợp đồng tương lai tài chính hàng ngày về khí đốt tự nhiên của Đức (ICIS) (01 tháng 10 năm 2026) từ các tác giả hàng đầu của chúng tôi. Họ chia sẻ ý kiến ​​về xu hướng giá và triển vọng kỹ thuật của thị trường.",
-      "image": "https://s3-symbol-logo.tradingview.com/natural-gas--600.png",
-      "link": "https://www.tradingview.com/symbols/ICEENDEX-TGN1!/ideas/page-6/?contract",
-      "source": "TradingView",
-      "category": "energy",
-      "published": "2026-09-01 12:06"
     }
   ]
 }

@@ -22,8 +22,43 @@ const NEWS_PATH = ROOT + "public/data/news.json";
 const DRAFTS_DIR = ROOT + "drafts";
 const USED_PATH = DRAFTS_DIR + "/.used-ids.json";
 
-// Chỉ viết cho 4 nhóm hàng web đang theo dõi (bỏ qua tin vĩ mô lan man).
-const ALLOWED_CATS = new Set(["energy", "metal", "agri", "soft"]);
+// ── CHỌN VIẾT VỀ MẶT HÀNG NÀO ───────────────────────────────────────────────
+//
+// Chủ web yêu cầu ngày 02/09/2026: **giảm hẳn bài về dầu mỏ**, tập trung kim
+// loại và nông sản. Lý do có thật: tin dầu chiếm 40% dòng tin (20/50 tin đo hôm
+// ấy) nên bot cứ bốc tin mới nhất là gần như luôn ra bài dầu — 29 bản nháp lúc
+// đó gần hết là dầu thô.
+//
+// Ba bậc ưu tiên, bậc trên có tin thì không xét bậc dưới:
+
+// Bậc 1 — mặt hàng chủ web quan tâm nhất (khớp theo tên mặt hàng ở SUBJECT_KW)
+const MAT_HANG_HANG_DAU = new Set(["vàng", "bạc", "bạch kim", "ngô", "đậu tương", "lúa mì"]);
+
+// Bậc 2 — các nhóm được phép viết: kim loại · nông sản · nguyên liệu (cà phê,
+// đường, ca cao, bông). Đây là nhóm thường ngày.
+const NHOM_DUOC_VIET = new Set(["metal", "agri", "soft"]);
+
+// Bậc 3 — năng lượng (dầu, khí) CHỈ khi hai bậc trên không có tin nào dùng được.
+// Giữ lại chứ không bỏ hẳn, để tránh ngày trống không có bài nào.
+const NHOM_DU_PHONG = new Set(["energy"]);
+
+// Mọi nhóm bot được phép đụng tới (bỏ tin vĩ mô lan man)
+const ALLOWED_CATS = new Set([...NHOM_DUOC_VIET, ...NHOM_DU_PHONG]);
+
+// ── LỌC TIN THỊ TRƯỜNG THẬT ─────────────────────────────────────────────────
+//
+// 🔴 Bẫy: bot tin tức xếp nhóm bằng từ khoá, nên nhóm "nguyên liệu" lẫn cả tin
+// KHÔNG nói về giá hàng hoá. Ví dụ thật trong dòng tin ngày 02/09:
+//   • "7 Brew thắng cuộc đấu giá 143 triệu đô cho các địa điểm Salad" (tin doanh nghiệp)
+//   • "Bị buộc tội bài Do Thái, quán cà phê…" (tin xã hội, chỉ dính chữ "cà phê")
+// Không lọc thì có ngày bot viết bài phân tích thị trường về một quán cà phê bị kiện.
+//
+// Tin phải CÓ dấu hiệu thị trường…
+const DAU_HIEU_THI_TRUONG =
+  /giá|tăng|giảm|tồn kho|nguồn cung|sản lượng|xuất khẩu|nhập khẩu|thâm hụt|dư cung|dư thừa|dự báo|hợp đồng|kỳ hạn|sàn giao dịch|nhu cầu|thu hoạch|vụ mùa|khai thác|tinh luyện|usd|tấn|thùng|ounce|giạ/i;
+// …và KHÔNG được là tin doanh nghiệp / xã hội chỉ tình cờ nhắc tên mặt hàng
+const KHONG_PHAI_TIN_GIA =
+  /quán ăn|quán cà phê|nhà hàng|chuỗi cửa hàng|khai trương|tuyển dụng|kiện tụng|bị buộc tội|phân biệt đối xử|từ thiện|lễ hội|công thức nấu|thực đơn/i;
 
 // Model miễn phí — đổi tên ở đây nếu nhà cung cấp ra bản mới.
 // Thử lần lượt các model Gemini free — mỗi model có hạn mức riêng, dùng cái nào còn quota.
@@ -104,11 +139,46 @@ async function pickNews(items, usedIds, topic) {
     console.log(`🛑 Không có tin nào về "${topic}" lúc này — KHÔNG soạn bài (tránh viết lạc chủ đề). Đợi tin cập nhật rồi gõ lại.`);
     return null;
   }
-  // Ưu tiên tin có ảnh; nếu không có thì nới lỏng.
-  const withImg = items.filter((it) => ok(it, true)).sort(byNew);
-  if (withImg.length) return withImg[0];
-  const noImg = items.filter((it) => ok(it, false)).sort(byNew);
-  return noImg[0] || null;
+  // ── Không chỉ định chủ đề: chọn theo BA BẬC ƯU TIÊN ──────────────────────
+  //
+  // Trong mỗi bậc vẫn ưu tiên tin có ảnh và tin mới nhất, nhưng bậc trên có tin
+  // dùng được thì KHÔNG xét bậc dưới — đó là cách "giảm hẳn bài dầu" mà vẫn
+  // không để ngày nào trống bài.
+  const laTinThiTruong = (it) => {
+    const chu = `${it.title_vi || ""} ${it.summary_vi || ""}`;
+    if (KHONG_PHAI_TIN_GIA.test(chu)) return false;
+    if (!DAU_HIEU_THI_TRUONG.test(chu)) return false;
+    return detectSubject(it) !== null;   // phải nhận ra đúng mặt hàng nào
+  };
+
+  const chonTrong = (dsTin) => {
+    const dung = dsTin.filter((it) => ok(it, false) && laTinThiTruong(it));
+    if (!dung.length) return null;
+    const coAnh = dung.filter((it) => (it.image || "").trim()).sort(byNew);
+    return (coAnh.length ? coAnh : dung.sort(byNew))[0];
+  };
+
+  const bac1 = items.filter((it) => NHOM_DUOC_VIET.has(it.category) && MAT_HANG_HANG_DAU.has(detectSubject(it)));
+  const bac2 = items.filter((it) => NHOM_DUOC_VIET.has(it.category));
+  const bac3 = items.filter((it) => NHOM_DU_PHONG.has(it.category));
+
+  const chon1 = chonTrong(bac1);
+  if (chon1) { console.log(`⭐ Ưu tiên hàng đầu — mặt hàng "${detectSubject(chon1)}".`); return chon1; }
+
+  const chon2 = chonTrong(bac2);
+  if (chon2) { console.log(`✅ Kim loại / nông sản / nguyên liệu — mặt hàng "${detectSubject(chon2)}".`); return chon2; }
+
+  const chon3 = chonTrong(bac3);
+  if (chon3) {
+    console.log(
+      `⚠️ Không có tin kim loại / nông sản nào dùng được lúc này — đành viết về ` +
+      `"${detectSubject(chon3)}" (nhóm năng lượng, mức dự phòng).`
+    );
+    return chon3;
+  }
+
+  console.log("🛑 Không có tin nào đạt yêu cầu ở cả ba bậc ưu tiên.");
+  return null;
 }
 
 // Nhận diện MẶT HÀNG cụ thể của một tin → để GOM các tin cùng mặt hàng lại,
@@ -532,13 +602,22 @@ async function main() {
     // Không chỉ định chủ đề mà vẫn không chọn được tin nào thì phải nói rõ vướng
     // ở khâu nào, đừng để người vận hành đoán mò suốt nhiều ngày không có bài.
     const ds = news.items || [];
-    const dungNhom = ds.filter((t) => ALLOWED_CATS.has(t.category));
-    const duTomTat = dungNhom.filter((t) => (t.summary_vi || "").trim().length > 40);
+    const uuTien = ds.filter((t) => NHOM_DUOC_VIET.has(t.category));
+    const duPhong = ds.filter((t) => NHOM_DU_PHONG.has(t.category));
+    const duTomTat = uuTien.filter((t) => (t.summary_vi || "").trim().length > 40);
     const chuaDung = duTomTat.filter((t) => !usedIds.has(t.id));
+    const laTinGia = chuaDung.filter(
+      (t) => detectSubject(t) !== null &&
+             DAU_HIEU_THI_TRUONG.test(`${t.title_vi} ${t.summary_vi}`) &&
+             !KHONG_PHAI_TIN_GIA.test(`${t.title_vi} ${t.summary_vi}`)
+    );
     console.log(
-      `ℹ️ Không có tin mới phù hợp để viết hôm nay:\n` +
-      `   ${ds.length} tin → ${dungNhom.length} đúng nhóm hàng theo dõi` +
-      ` → ${duTomTat.length} đủ tóm tắt (>40 ký tự) → ${chuaDung.length} chưa dùng.`
+      `ℹ️ Không có tin nào viết được hôm nay. Vướng ở đâu:\n` +
+      `   ${ds.length} tin trên trang\n` +
+      `   → ${uuTien.length} thuộc kim loại / nông sản / nguyên liệu (+ ${duPhong.length} tin năng lượng dự phòng)\n` +
+      `   → ${duTomTat.length} đủ tóm tắt (>40 ký tự)\n` +
+      `   → ${chuaDung.length} chưa dùng để viết bài lần nào\n` +
+      `   → ${laTinGia.length} thật sự là tin thị trường (nhận ra mặt hàng, có nói về giá/cung cầu)`
     );
     return;
   }

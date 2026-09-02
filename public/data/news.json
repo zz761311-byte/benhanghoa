@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-03 05:42",
+  "updated_at": "2026-09-03 06:00",
   "items": [
+    {
+      "id": "10x28ic",
+      "title": "U.S. SPR Depletion Threatens Further Oil Price Volatility",
+      "title_vi": "Sự cạn kiệt SPR của Hoa Kỳ đe dọa biến động giá dầu hơn nữa",
+      "summary_vi": "Giá dầu thô đang trên đà tăng trở lại do sự bùng phát xung đột mới nhất ở Vịnh Ba Tư - nhưng giá cũng tăng do lượng dầu thô dự trữ của Mỹ lại giảm và Cục Dự trữ Dầu khí Chiến lược đang tiến gần hơn đến mức tới hạn. Tầm quan trọng của nhà phát minh dầu mỏ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-02_mraxfcnswd.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-SPR-Depletion-Threatens-Further-Oil-Price-Volatility.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-03 06:00"
+    },
     {
       "id": "1sdyb22",
       "title": "White Hydrogen Drilling Push Gains Momentum Across Three Continents",
@@ -123,15 +134,15 @@
       "published": "2026-09-03 00:00"
     },
     {
-      "id": "1wmoin5",
-      "title": "Hormuz Traffic Craters to Four Ships as Iran-U.S. Strikes Escalate",
-      "title_vi": "Miệng núi lửa giao thông Hormuz tới bốn tàu khi Iran-Mỹ. Cuộc đình công leo thang",
-      "summary_vi": "Hai thủy thủ đã thiệt mạng vì cuộc tấn công hôm thứ Hai nhằm vào một tàu chở dầu của Saudi ở eo biển Hormuz, trong đó Riyadh hiện chính thức cáo buộc Iran nhắm vào Sidr thuộc sở hữu của Bahri khi Tehran tiến hành một làn sóng tấn công bằng tên lửa và máy bay không người lái mới nhằm vào các căn cứ của Mỹ trên khắp khu vực. Bahri xác nhận vào thứ Tư",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-02_ux4v2lnz7w.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Traffic-Craters-to-Four-Ships-as-Iran-US-Strikes-Escalate.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-02 23:30"
+      "id": "ceuqif",
+      "title": "Cherie Down Park Surf Report, Surf Forecast and Surf Cam",
+      "title_vi": "Báo cáo lướt sóng của Cherie Down Park, Dự báo lướt sóng và Surf Cam",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.surfline.com/surf-report/cherie-down-park/69862093726121e0fe3143ce",
+      "source": "Surfline",
+      "category": "soft",
+      "published": "2026-09-02 22:47"
     },
     {
       "id": "1cetva5",
@@ -539,17 +550,6 @@
       "source": "marketscreener.com",
       "category": "soft",
       "published": "2026-09-02 01:22"
-    },
-    {
-      "id": "1l0vjcl",
-      "title": "Enhancing Arabica and Robusta coffee prices forecasting through machine learning approaches",
-      "title_vi": "Tăng cường dự báo giá cà phê Arabica và Robusta thông qua phương pháp học máy",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nature.com/articles/s41598-026-62618-9",
-      "source": "Nature",
-      "category": "soft",
-      "published": "2026-09-02 01:11"
     }
   ]
 }

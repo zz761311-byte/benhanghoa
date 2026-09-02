@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-02 07:00",
+  "updated_at": "2026-09-02 07:35",
   "items": [
+    {
+      "id": "19owchu",
+      "title": "Saudi Arabia Plans To Free 1 Mb/d As it Invests in Nuclear Power",
+      "title_vi": "Ả Rập Saudi có kế hoạch giải phóng 1 Mb/ngày khi đầu tư vào năng lượng hạt nhân",
+      "summary_vi": "Các nhà máy điện, nhà máy khử muối, nhà máy và trang trại của Ả Rập Saudi tiêu thụ hơn 1 triệu thùng nhiên liệu lỏng mỗi ngày mà vương quốc này đặt mục tiêu thay thế vào năm 2030. Khí đốt tự nhiên và năng lượng tái tạo sẽ cung cấp phần lớn năng lượng thay thế. Năng lượng hạt nhân có thể làm giảm năng lượng trong nước",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-01_sd28i39iwb.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Saudi-Arabia-Plans-To-Free-1-Mbd-As-it-Invests-in-Nuclear-Power.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-02 07:00"
+    },
     {
       "id": "29fzc4",
       "title": "Major U.S. Oil Port Selected for Nuclear Power Project",
@@ -99,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-02 02:30"
-    },
-    {
-      "id": "kbuirq",
-      "title": "Gary’s Two-Week Blackout Is a Warning for America",
-      "title_vi": "Sự cố mất điện kéo dài hai tuần của Gary là lời cảnh báo cho nước Mỹ",
-      "summary_vi": "Sau hai tuần chìm trong bóng tối, điện đã được khôi phục cho tất cả người dân của Gary, Indiana, một thành phố công nghiệp ven hồ, cũ kỹ, có thu nhập thấp, nằm trong tầm nhìn của Chicago. Sự cố mất điện đã gây được sự chú ý trên toàn quốc, các câu chuyện truyền hình chiếu cảnh cư dân của Gary lang thang khắp nơi trong những đêm nóng nực",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-01_m5dfp7zstl.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Garys-Two-Week-Blackout-Is-a-Warning-for-America.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-02 02:00"
     },
     {
       "id": "1l0vjcl",
@@ -442,6 +442,17 @@
       "published": "2026-09-01 00:57"
     },
     {
+      "id": "u9s7jq",
+      "title": "Wells Fargo Says New Canada Steel Duties ‘For Show’ in Trade War",
+      "title_vi": "Wells Fargo cho biết thuế thép mới của Canada là 'để thể hiện' trong chiến tranh thương mại",
+      "summary_vi": "Nhà phân tích Timna Tanners của Wells Fargo & Co. bác bỏ các mức thuế trả đũa mới nhất của Canada đối với thép và nhôm của Mỹ phần lớn chỉ mang tính biểu tượng, nói rằng cuộc chiến thương mại giữa các nước đã khiến kim loại của Mỹ trở nên quá đắt để nhập khẩu.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isArf8OF9S90/v0/1200x675.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-31/wells-fargo-says-new-canada-steel-duties-for-show-in-trade-war",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-09-01 00:45"
+    },
+    {
       "id": "tw56ir",
       "title": "Sugar Prices Supported by the Outlook for a Global Deficit",
       "title_vi": "Giá đường được hỗ trợ bởi triển vọng thâm hụt toàn cầu",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-08-31 20:22"
-    },
-    {
-      "id": "17m1tls",
-      "title": "Steel and materials stocks are whipsawing as the U.S.-Canada trade war heats up",
-      "title_vi": "Cổ phiếu thép và vật liệu tăng mạnh khi chiến tranh thương mại Mỹ-Canada nóng lên",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://qz.com/steel-materials-stocks-us-canada-trade-war-tariffs-083126",
-      "source": "qz.com",
-      "category": "metal",
-      "published": "2026-08-31 19:43"
     }
   ]
 }

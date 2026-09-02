@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 07:35",
+  "updated_at": "2026-09-02 08:00",
   "items": [
     {
       "id": "19owchu",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-02 07:00"
+    },
+    {
+      "id": "kaddwn",
+      "title": "Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks",
+      "title_vi": "Nga tấn công Kiev bằng các cuộc không kích, giết chết ít nhất 12 người trong ngày tấn công thứ 6 liên tiếp",
+      "summary_vi": "Nhà chức trách cho biết, vụ tấn công mới nhất nhằm vào cơ sở hạ tầng dân sự và các tòa nhà dân cư ở một số quận của Kiev, khiến 8 người thiệt mạng ngay trong thành phố và 4 người khác ở khu vực xung quanh.",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-01T084233Z_384486850_RC28ANAG6OZR_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-1024x683.jpg",
+      "link": "https://www.pbs.org/newshour/world/russia-pounds-kyiv-with-aerial-strikes-killing-at-least-12-people-in-6th-straight-day-of-attacks",
+      "source": "PBS",
+      "category": "energy",
+      "published": "2026-09-02 06:15"
     },
     {
       "id": "29fzc4",
@@ -277,6 +288,17 @@
       "published": "2026-09-01 12:52"
     },
     {
+      "id": "1q9kmu3",
+      "title": "Gold falls to two-week low as rising Treasury yields, dollar weigh",
+      "title_vi": "Vàng giảm xuống mức thấp nhất trong hai tuần khi lãi suất trái phiếu kho bạc tăng, đồng đô la đè nặng",
+      "summary_vi": "Vàng đã giảm hơn 2% vào thứ Ba xuống mức thấp nhất trong hai tuần do lãi suất trái phiếu kho bạc tăng cao và đồng đô la Mỹ mạnh hơn gây áp lực lên giá cả.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107347162-1702486289346-gettyimages-1852400117-_cf23021_tuz1gxpa.jpeg?v=1788232273&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/09/01/gold-muted-as-traders-await-us-jobs-data-monitor-mideast-tensions.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-09-01 10:18"
+    },
+    {
       "id": "xsciuy",
       "title": "Department of War Announces $35.6 Million Strategic Equity Investment in Trilogy Metals to",
       "title_vi": "Bộ Chiến tranh công bố khoản đầu tư cổ phần chiến lược trị giá 35,6 triệu USD vào Trilogy Metals để",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-08-31 20:40"
-    },
-    {
-      "id": "10vvbsx",
-      "title": "The Iran war's mounting cost to U.S. drivers",
-      "title_vi": "Chi phí ngày càng tăng của cuộc chiến tranh Iran đối với người lái xe Mỹ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.axios.com/2026/08/31/iran-russia-diesel-gasoline-prices",
-      "source": "Axios",
-      "category": "energy",
-      "published": "2026-08-31 20:32"
-    },
-    {
-      "id": "1ehsgbn",
-      "title": "Valterra bets on China platinum demand surge",
-      "title_vi": "Valterra đặt cược vào nhu cầu bạch kim tăng vọt của Trung Quốc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/energy/articles/valterra-bets-china-platinum-demand-132233258.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-08-31 20:22"
     }
   ]
 }

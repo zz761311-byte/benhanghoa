@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 06:00",
+  "updated_at": "2026-09-02 07:00",
   "items": [
     {
       "id": "29fzc4",
@@ -321,6 +321,17 @@
       "published": "2026-09-01 07:55"
     },
     {
+      "id": "zuu74s",
+      "title": "Oil Extends Advance as US-Iran Escalation Revives Hormuz Risks",
+      "title_vi": "Dầu tiếp tục tăng khi leo thang Mỹ-Iran làm hồi sinh rủi ro Hormuz",
+      "summary_vi": "Giá dầu của Mỹ vượt mức 90 USD/thùng và giá khí đốt ở châu Âu tăng lên mức cao nhất trong 3 năm, khi các cuộc tấn công mới của Mỹ vào Iran làm dấy lên lo ngại về sự gián đoạn kéo dài đối với dòng năng lượng qua eo biển Hormuz.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icNjLX7O4QHs/v1/1200x799.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-31/latest-oil-market-news-and-analysis-for-sept-1",
+      "source": "Bloomberg.com",
+      "category": "energy",
+      "published": "2026-09-01 05:03"
+    },
+    {
       "id": "1nq33n6",
       "title": "Copper Prices Near Record Levels as LME Inventories Sink on Tariff Fears",
       "title_vi": "Giá đồng gần mức kỷ lục khi tồn kho LME giảm do lo ngại thuế quan",
@@ -539,17 +550,6 @@
       "source": "qz.com",
       "category": "metal",
       "published": "2026-08-31 19:43"
-    },
-    {
-      "id": "1b1u2jw",
-      "title": "Global Oil Prices Jump After U.S. and Iran Trade Attacks",
-      "title_vi": "Giá dầu toàn cầu tăng vọt sau các cuộc tấn công thương mại của Mỹ và Iran",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/08/31/business/oil-prices-iran-war.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-08-31 19:20"
     }
   ]
 }

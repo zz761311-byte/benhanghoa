@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03 05:01",
+  "updated_at": "2026-09-03 05:42",
   "items": [
     {
       "id": "1sdyb22",
@@ -9,7 +9,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-02_pmfgcl5db7.jpg",
       "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/White-Hydrogen-Drilling-Push-Gains-Momentum-Across-Three-Continents.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-09-03 05:00"
     },
     {
@@ -44,6 +44,17 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-09-03 01:54"
+    },
+    {
+      "id": "1a0dkgk",
+      "title": "Gold rebounds over 1% as US dollar, yields pull back from highs",
+      "title_vi": "Vàng phục hồi hơn 1% khi đồng đô la Mỹ, lợi suất quay trở lại từ mức cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-hits-over-3-week-low-mideast-tensions-fan-rate-hike-fears-2026-09-02/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-09-03 01:37"
     },
     {
       "id": "14h31d5",
@@ -266,15 +277,15 @@
       "published": "2026-09-02 16:38"
     },
     {
-      "id": "1rf9oha",
-      "title": "Gold Extends Decline as Bond Yields and Fed Rate Expectations Rise",
-      "title_vi": "Vàng tiếp tục suy giảm khi lợi suất trái phiếu và kỳ vọng lãi suất của Fed tăng",
+      "id": "jcc5mf",
+      "title": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
+      "title_vi": "Các cuộc tấn công ở Biển Đen đe dọa bóp nghẹt nguồn cung ngũ cốc toàn cầu",
       "summary_vi": "",
       "image": "",
-      "link": "https://uk.finance.yahoo.com/news/gold-extends-decline-bond-yields-093408859.html",
-      "source": "Yahoo Finance UK",
-      "category": "metal",
-      "published": "2026-09-02 16:34"
+      "link": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html",
+      "source": "The New York Times",
+      "category": "agri",
+      "published": "2026-09-02 16:05"
     },
     {
       "id": "w2nxbk",
@@ -539,17 +550,6 @@
       "source": "Nature",
       "category": "soft",
       "published": "2026-09-02 01:11"
-    },
-    {
-      "id": "iby87l",
-      "title": "Drivers in Oregon and Nationwide to Pay Highest Gas Prices Ever for Labor Day",
-      "title_vi": "Người lái xe ở Oregon và toàn quốc phải trả giá xăng cao nhất từ ​​trước đến nay cho Ngày lễ Lao động",
-      "summary_vi": "Khách du lịch khởi hành vào kỳ nghỉ cuối tuần cuối cùng của mùa hè PORTLAND, Ore., – Khi các tài xế khởi hành đi nghỉ lễ Ngày Lao động trong tuần này, họ sẽ phải trả mức giá xăng cao nhất từ ​​trước đến nay cho kỳ nghỉ lễ. Giá dầu thô vẫn ở mức trên 80 USD/thùng khi xung đột với Iran tiếp tục. Trong tuần, mức trung bình toàn quốc&helli",
-      "image": "https://info.oregon.aaa.com/wp-content/uploads/2023/03/Gas-Prices-3-1.jpg",
-      "link": "https://info.oregon.aaa.com/drivers-in-oregon-and-nationwide-to-pay-highest-gas-prices-ever-for-labor-day/",
-      "source": "AAA",
-      "category": "energy",
-      "published": "2026-09-02 00:57"
     }
   ]
 }

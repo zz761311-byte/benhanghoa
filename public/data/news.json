@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 08:00",
+  "updated_at": "2026-09-02 09:00",
   "items": [
     {
       "id": "19owchu",
@@ -288,6 +288,17 @@
       "published": "2026-09-01 12:52"
     },
     {
+      "id": "2cr77a",
+      "title": "Soybean futures find mixed trade as corn hits new contract highs.",
+      "title_vi": "Giá đậu tương kỳ hạn có giao dịch hỗn hợp khi ngô đạt mức cao mới trong hợp đồng",
+      "summary_vi": "Giá đậu tương kỳ hạn được giao dịch không đồng đều do hoạt động chốt lời tạm dừng đà tăng lên mức 13:00, với hợp đồng tháng 11 bật lên khỏi mức thấp trong phiên để ổn định gần như không thay đổi. Giá ngô kỳ hạn đạt mức cao mới trong hợp đồng trước khi tăng trở lại, mặc dù thị trường vẫn được hỗ trợ bởi nguồn cung toàn cầu thắt chặt và lo ngại về các đợt bùng phát sắp tới.",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/soybean-futures-find-mixed-trade-as-corn-hits-new-contract-highs.jpg",
+      "link": "https://www.cmegroup.com/videos/2026/08/31/soybean-futures-find-mixed-trade-as-corn-hits-new-contract-highs.html",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-09-01 11:22"
+    },
+    {
       "id": "1q9kmu3",
       "title": "Gold falls to two-week low as rising Treasury yields, dollar weigh",
       "title_vi": "Vàng giảm xuống mức thấp nhất trong hai tuần khi lãi suất trái phiếu kho bạc tăng, đồng đô la đè nặng",
@@ -539,17 +550,6 @@
       "source": "CryptoRank",
       "category": "macro",
       "published": "2026-08-31 20:43"
-    },
-    {
-      "id": "17f07ec",
-      "title": "17-Year-Old Launches Pink Pour Coffee Trailer in New Mexico",
-      "title_vi": "Cậu bé 17 tuổi ra mắt trailer cà phê Pink Pour ở New Mexico",
-      "summary_vi": "Khi thanh thiếu niên trên khắp Hoa Kỳ đổi công việc mùa hè để đi học toàn thời gian vào mùa thu này, một thanh niên 17 tuổi ở New Mexico đang đưa công việc pha cà phê của mình lên một tầm cao hoàn toàn mới. Natalia...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/08/31/17-year-old-launches-pink-pour-coffee-trailer-in-new-mexico/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-08-31 20:40"
     }
   ]
 }

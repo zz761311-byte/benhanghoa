@@ -1,5 +1,5 @@
 ---
-title: "# Thuế quan Mỹ - Canada dịu bớt, vàng nín thở chờ bài phát biểu tại
+title: "Thuế quan Mỹ - Canada dịu bớt, vàng nín thở chờ bài phát biểu tại
   Jackson Hole"
 date: 2026-08-27T12:29
 category: metal
@@ -11,7 +11,6 @@ summary: Mỹ có thể giảm thuế thép, nhôm, ô tô cho Canada trong th�
   này để biết hướng lãi suất sắp tới. Bạc, bạch kim, palladium cũng tăng theo
   vàng.
 ---
-# Thuế quan Mỹ - Canada dịu bớt, vàng nín thở chờ Jackson Hole
 
 Hôm nay có hai tin tưởng như không liên quan đến nhau - một bên là bàn đàm phán thương mại Mỹ - Canada, một bên là giá vàng - nhưng tôi cho rằng chúng đang kể cùng một câu chuyện: nước Mỹ đang phải cân đối giữa việc bảo vệ sản xuất trong nước và việc giữ cho nền kinh tế không "quá nóng, quá mệt".
 

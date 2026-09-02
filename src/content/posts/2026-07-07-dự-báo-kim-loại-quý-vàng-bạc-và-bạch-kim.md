@@ -4,24 +4,23 @@ date: 2026-07-07T17:50
 category: metal
 image: /assets/uploads/gemini_generated_image_45l7g145l7g145l7.jpg
 summary: >-
-  # Kim Loại Quý: Phục Hồi Yếu Nhưng Dài Hạn Tích Cực
+  Kim Loại Quý: Phục Hồi Yếu Nhưng Dài Hạn Tích Cực
 
 
   Vàng, bạc, bạch kim phục hồi từ sự điều chỉnh 4 tháng nhờ dữ liệu việc làm Mỹ yếu + điều kiện thanh khoản dễ dàng. 
 
 
-  **Ngắn hạn:** Chờ Fed meeting + lợi suất thực tế. Vàng cần giữ $3,950, bạc cần vượt $72, bạch kim cần $1,700.
+  Ngắn hạn: Chờ Fed meeting + lợi suất thực tế. Vàng cần giữ $3,950, bạc cần vượt $72, bạch kim cần $1,700.
 
 
-  **Dài hạn:** Các yếu tố nền tảng vẫn nghiêng về hướng tích cực, với vàng dẫn đầu, kế đến là bạc rồi bạch kim.
+  Dài hạn: Các yếu tố nền tảng vẫn nghiêng về hướng tích cực, với vàng dẫn đầu, kế đến là bạc rồi bạch kim.
 
 
-  **Chìa khóa:** Thị trường đang định giá khả năng Fed tăng lãi suất trong tháng 9 ở mức gần một nửa — đây là biến số chi phối diễn biến giá trong quý.
+  Chìa khóa: Thị trường đang định giá khả năng Fed tăng lãi suất trong tháng 9 ở mức gần một nửa — đây là biến số chi phối diễn biến giá trong quý.
 
 
   — Bến Hàng Hóa
 ---
-# Kim Loại Quý: Phục Hồi Yếu Ớt Nhưng Triển Vọng Dài Hạn Tích Cực
 
 ## Nhận định cá nhân
 

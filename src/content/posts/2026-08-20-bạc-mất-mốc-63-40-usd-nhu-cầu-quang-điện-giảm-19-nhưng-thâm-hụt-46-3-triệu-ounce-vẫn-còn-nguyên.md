@@ -1,5 +1,5 @@
 ---
-title: "# Bạc mất mốc 63,40 USD: nhu cầu quang điện giảm 19% nhưng thâm hụt 46,3
+title: "Bạc mất mốc 63,40 USD: nhu cầu quang điện giảm 19% nhưng thâm hụt 46,3
   triệu ounce vẫn còn nguyên"
 date: 2026-08-20T14:22
 category: metal

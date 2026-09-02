@@ -1,22 +1,22 @@
 ---
-title: "# Đồng: Từ Khan Hiếm Đến Cơ Hội"
+title: "Đồng: Từ Khan Hiếm Đến Cơ Hội"
 date: 2026-07-31T11:05
 category: metal
 image: /assets/uploads/gemini_generated_image_icq4jbicq4jbicq4.jpg
 summary: >-
-  # 🔴 ĐỒNG: Thị Trường Vừa Vào Chế Độ "THIẾU HỤT"
+  🔴 ĐỒNG: Thị Trường Vừa Vào Chế Độ "THIẾU HỤT"
 
 
-  **Sự thật nóng hôm nay:**
+  Sự thật nóng hôm nay:
 
 
   ✋ Giá đồng nhảy +2,9% trong một ngày. Tồn kho xuống thấp nhất. Phí nhập khẩu Trung Quốc cao nhất 4 năm.
 
 
-  ⚡ **Backwardation đã kích hoạt** — thị trường nói: "Tôi cần kim loại NGAY BÂY GIỜ, không phải tương lai"
+  ⚡ Backwardation đã kích hoạt — thị trường nói: "Tôi cần kim loại NGAY BÂY GIỜ, không phải tương lai"
 
 
-  💥 Codelco, gã khổng lồ khai thác, vừa thừa nhận: **"Không thể quay lại sản lượng trước đại dịch"**
+  💥 Codelco, gã khổng lồ khai thác, vừa thừa nhận: "Không thể quay lại sản lượng trước đại dịch"
 
 
   ❄️ Thiếu axit sulfuric đang đe dọa 1/7 sản lượng toàn cầu. Bão ở Chile. Mỏ đang đấu tranh.
@@ -25,18 +25,15 @@ summary: >-
   🇨🇳 Trung Quốc vẫn im lặng — chỉ "lên kế hoạch kích thích". Chưa có hành động.
 
 
-  📈 Nhưng các công ty khai thác? Báo cáo lợi nhuận nửa đầu năm **XUẤT SẮC**. Họ kiếm lớn lúc này.
+  📈 Nhưng các công ty khai thác? Báo cáo lợi nhuận nửa đầu năm XUẤT SẮC. Họ kiếm lớn lúc này.
 
 
-  ---
-
-
-  **TL;DR:** 
+  TL;DR: 
 
   Cung bị tê liệt. Cầu vẫn chờ. Lợi nhuận tăng. Giá đồng đang ở trong "khoảng thời gian hiếm hoi" này — nhưng không biết nó sẽ kéo dài bao lâu nữa.
 
 
-  **Đón chờ gì tiếp?** Bước ngoặt từ Bắc Kinh. Nếu họ kích hoạt, thị trường sẽ… chảy nước miếng. Nếu họ không, thì… chúng tôi sẽ biết.
+  Đón chờ gì tiếp? Bước ngoặt từ Bắc Kinh. Nếu họ kích hoạt, thị trường sẽ… chảy nước miếng. Nếu họ không, thì… chúng tôi sẽ biết.
 
 
   — Bến Hàng Hóa

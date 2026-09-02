@@ -4,7 +4,7 @@ date: 2026-07-07T13:00
 category: metal
 image: /assets/uploads/gemini_generated_image_icq4jbicq4jbicq4.jpg
 summary: >-
-  # Đồng: Kim Loại của AI, EV, và Năng Lượng Xanh
+  Đồng: Kim Loại của AI, EV, và Năng Lượng Xanh
 
 
   Nhu cầu đồng tăng 70% đến 2050 do 3 động lực: (1) AI data centers, (2) xe điện xài gấp 4x đồng, (3) tuabin gió tiêu thụ 3 tấn/MW.
@@ -13,7 +13,7 @@ summary: >-
   BHP, Freeport, Rio Tinto, Southern Copper, Teck sẽ tăng sản lượng từ 5.8M tấn hiện tại lên 7-8M tấn vào 2030.
 
 
-  **Thắng cuộc:** ai hiểu sản lượng + giá = tổ hợp lợi nhuận. Cổ tức sẽ tăng mạnh khi sản lượng mở rộng.
+  Thắng cuộc: ai hiểu sản lượng + giá = tổ hợp lợi nhuận. Cổ tức sẽ tăng mạnh khi sản lượng mở rộng.
 
 
   — Bến Hàng Hóa

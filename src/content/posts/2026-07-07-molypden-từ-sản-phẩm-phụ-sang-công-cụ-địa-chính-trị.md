@@ -4,16 +4,16 @@ date: 2026-07-07T12:51
 category: macro
 image: /assets/uploads/gemini_generated_image_andzgandzgandzga.jpg
 summary: >-
-  # Molypden: Từ Phụ Phẩm Thành Vũ Khí Địa Chính Trị
+  Molypden: Từ Phụ Phẩm Thành Vũ Khí Địa Chính Trị
 
 
   Molypden tăng 48.9% YoY (20 → 30 USD/pound) vì Trung Quốc kiểm soát xuất khẩu vonfram. Sản xuất chủ yếu ở Latam (Chile $2.48B, Peru $1.65B). 
 
 
-  Nhà máy phương Tây phải **tái thiết kế vật liệu** để giảm phụ thuộc. Mặc dù chỉ cần 5-10K tấn (3% nhu cầu), nhưng ứng dụng quốc phòng/hàng không vũ trụ sẽ khan hiếm.
+  Nhà máy phương Tây phải tái thiết kế vật liệu để giảm phụ thuộc. Mặc dù chỉ cần 5-10K tấn (3% nhu cầu), nhưng ứng dụng quốc phòng/hàng không vũ trụ sẽ khan hiếm.
 
 
-  **Thắng cuộc:** ai hiểu được sản phẩm phụ từng bị bỏ qua có thể trở thành vàng.
+  Thắng cuộc: ai hiểu được sản phẩm phụ từng bị bỏ qua có thể trở thành vàng.
 
 
   — Bến Hàng Hóa

@@ -4,7 +4,7 @@ date: 2026-07-17T09:24
 category: metal
 image: /assets/uploads/gemini_generated_image_aj0d6gaj0d6gaj0d.jpg
 summary: >-
-  # Bạch Kim: Kim Loại Chiến Lược Mới Của Trung Quốc
+  Bạch Kim: Kim Loại Chiến Lược Mới Của Trung Quốc
 
 
   Trung Quốc đang chi 300 tỷ đô la phát triển AI đến 2030, tạo nhu cầu khổng lồ với bạch kim — từ chất bán dẫn đến hệ thống hydro. Bạch kim không phải tài sản dự trữ mà là yếu tố sản xuất thiết yếu. Thị trường đang thiếu cung kéo dài (năm thứ 4 liên tiếp) trong khi Trung Quốc trở thành thị trường đầu tư bạch kim lớn nhất thế giới, nhu cầu tăng từ 1 tấn (2019) lên 13 tấn (2025). Câu chuyện giống vàng cách đây 20 năm — nhưng lần này là về sản xuất, không chỉ dự trữ.

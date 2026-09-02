@@ -1,5 +1,5 @@
 ---
-title: '# Vàng-Bạc: JPMorgan "Hạ Dự Báo Nhưng Không Từ Bỏ" — Nên Tin Hay Không?'
+title: 'Vàng-Bạc: JPMorgan "Hạ Dự Báo Nhưng Không Từ Bỏ" — Nên Tin Hay Không?'
 date: 2026-08-03T11:16
 category: metal
 image: /assets/uploads/pexels-zlataky-cz-61823415-8442325.jpg

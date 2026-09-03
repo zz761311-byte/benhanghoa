@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-03 18:01",
+  "updated_at": "2026-09-03 19:01",
   "items": [
+    {
+      "id": "17jdx5v",
+      "title": "Iraq Hikes Oil Exports via Hormuz in Boon for Asian Refiners",
+      "title_vi": "Iraq tăng xuất khẩu dầu qua Hormuz mang lại lợi ích cho các nhà lọc dầu châu Á",
+      "summary_vi": "Iraq, nhà sản xuất lớn thứ hai của OPEC, đã tăng hơn gấp đôi lượng xuất khẩu dầu thô qua eo biển Hormuz trong tháng 8 do nước này đưa ra mức giảm giá hàng tháng cho các chuyến hàng tại Basrah ở Vịnh Ba Tư và Iran cho phép hàng hóa dầu của Iraq đi qua điểm nghẽn. Xuất khẩu dầu của Iraq tăng vọt",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-03_vlpsxz9brh.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Hikes-Oil-Exports-via-Hormuz-in-Boon-for-Asian-Refiners.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-03 19:00"
+    },
+    {
+      "id": "ge3g3i",
+      "title": "Why wheat prices are surging",
+      "title_vi": "Vì sao giá lúa mì tăng cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.axios.com/2026/09/03/wheat-prices-ukraine-russia",
+      "source": "Axios",
+      "category": "agri",
+      "published": "2026-09-03 18:17"
+    },
     {
       "id": "a8gna4",
       "title": "Global Refining Crunch Could Keep Fuel Prices High Into 2027",
@@ -189,17 +211,6 @@
       "published": "2026-09-03 05:46"
     },
     {
-      "id": "1sdyb22",
-      "title": "White Hydrogen Drilling Push Gains Momentum Across Three Continents",
-      "title_vi": "Sự thúc đẩy khoan hydro trắng đạt được động lực trên khắp ba lục địa",
-      "summary_vi": "Các nhà khoa học và các công ty khởi nghiệp tin rằng hydro tự nhiên có thể là bước đột phá địa chất lớn tiếp theo, giải phóng lượng hydro khổng lồ để cung cấp năng lượng cho quá trình chuyển đổi năng lượng sạch. Các nhà nghiên cứu ở Hoa Kỳ, Canada và Úc đang lập bản đồ và khám phá các tiềm năng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-02_pmfgcl5db7.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/White-Hydrogen-Drilling-Push-Gains-Momentum-Across-Three-Continents.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-09-03 05:00"
-    },
-    {
       "id": "jq3h51",
       "title": "Natural Gas News: Can a Tight EIA Report Turn $3.00 Into a Breakout?",
       "title_vi": "Tin tức về khí đốt tự nhiên: Báo cáo EIA chặt chẽ có thể biến $ 3,00 thành đột phá không?",
@@ -286,6 +297,17 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-09-03 01:54"
+    },
+    {
+      "id": "epcbke",
+      "title": "Winter Is Approaching and Europe Is Running Low on Natural Gas",
+      "title_vi": "Mùa đông đang đến gần và châu Âu đang cạn kiệt khí đốt tự nhiên",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/winter-is-approaching-and-europe-is-running-low-on-natural-gas-ee52167a",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-09-03 01:39"
     },
     {
       "id": "1iieol",
@@ -528,28 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-09-02 16:38"
-    },
-    {
-      "id": "rxbjpr",
-      "title": "Silver Price Forecast: Can XAG/USD Break Above the $64 Level?",
-      "title_vi": "Dự báo giá bạc: XAG/USD có thể vượt qua mức 64 USD không?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/analysis/silver-price-forecast-can-xagusd-break-above-the-64-level-200686956",
-      "source": "investing.com",
-      "category": "metal",
-      "published": "2026-09-02 16:18"
-    },
-    {
-      "id": "jcc5mf",
-      "title": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
-      "title_vi": "Các cuộc tấn công ở Biển Đen đe dọa bóp nghẹt nguồn cung ngũ cốc toàn cầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html",
-      "source": "The New York Times",
-      "category": "agri",
-      "published": "2026-09-02 16:05"
     }
   ]
 }

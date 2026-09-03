@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-04 01:07",
+  "updated_at": "2026-09-04 02:00",
   "items": [
+    {
+      "id": "m8jlqd",
+      "title": "Electric Trucks Have Moved From Impossible to Inevitable",
+      "title_vi": "Xe tải điện đã chuyển từ không thể thành tất yếu",
+      "summary_vi": "Xe tải hạng nặng được cho là nơi khiến pin ngừng hoạt động. Các nhà phê bình thừa nhận ô tô điện có thể quản lý việc chạy và đi lại ở trường. Nhưng vận chuyển hàng hóa đường dài cần tầm xa, khả năng tiếp nhiên liệu nhanh chóng và tải trọng tối đa. Pin sẽ quá lớn, quá nặng và quá chậm để",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-03_jwqndms2v0.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Electric-Trucks-Have-Moved-From-Impossible-to-Inevitable.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-04 02:00"
+    },
     {
       "id": "11ndain",
       "title": "A Subdued Asian Summit Sharpens the Contrast Between Xi and Trump",
@@ -123,17 +134,6 @@
       "published": "2026-09-03 21:50"
     },
     {
-      "id": "efor56",
-      "title": "Russia Says Oil Output Drop Is Temporary as Refineries Restart",
-      "title_vi": "Nga cho biết sản lượng dầu giảm là tạm thời khi các nhà máy lọc dầu khởi động lại",
-      "summary_vi": "Phó Thủ tướng Alexander Novak cho biết hôm thứ Năm rằng sản lượng dầu của Nga giảm chỉ là tạm thời, vì sản lượng dự kiến ​​sẽ phục hồi sau khi các nhà máy lọc dầu hoạt động trở lại sau đợt bảo trì đột xuất. “Đây là hiện tượng tạm thời và nhìn chung sản lượng dầu sẽ tăng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-03_ddzipc8izx.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Says-Oil-Output-Drop-Is-Temporary-as-Refineries-Restart.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-03 21:30"
-    },
-    {
       "id": "14b8faf",
       "title": "enCore Energy Corp. Featured in \"The Nuclear Option\" Documentary Series",
       "title_vi": "enCore Energy Corp. Nổi bật trong loạt phim tài liệu \"Lựa chọn hạt nhân\"",
@@ -211,6 +211,17 @@
       "published": "2026-09-03 18:17"
     },
     {
+      "id": "t2woe0",
+      "title": "Gold, silver prices rebound as ADP miss cools Fed-hike trade - Kitco PM Report",
+      "title_vi": "Giá vàng, bạc phục hồi khi ADP bỏ lỡ thương mại tăng lãi suất của Fed - Báo cáo của Kitco PM",
+      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay cao hơn trong phiên giao dịch cuối giờ chiều thứ Tư tại Hoa Kỳ, do dữ liệu bảng lương tư nhân của Hoa Kỳ yếu hơn và lãi suất trái phiếu Kho bạc giảm trong ngày đã giúp kim loại quý phục hồi từ mức thấp đầu phiên. Tại thời điểm viết bài, vàng giao ngay đang giao dịch ở mức gần 4.386,70 USD/ounce, tăng 1,36%.",
+      "image": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0&left=0.29722512481139&width=1023.4055497504&height=576&scale_width=1920&token=6a7d5b226babca85b8d46b182e88fc2bf88cab8622d9dd3674574337642ada70",
+      "link": "https://www.kitco.com/news/article/2026-09-02/gold-silver-prices-rebound-adp-miss-cools-fed-hike-trade-kitco-pm-report",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-09-03 17:48"
+    },
+    {
       "id": "piqc2s",
       "title": "Copper Sprinkler Pipe Market Outlook to 2035",
       "title_vi": "Triển vọng thị trường ống phun nước bằng đồng đến năm 2035",
@@ -264,17 +275,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-09-03 14:10"
-    },
-    {
-      "id": "plpi95",
-      "title": "List of countries that have pulled gold from US Federal Reserve",
-      "title_vi": "Danh sách các nước rút vàng khỏi Cục Dự trữ Liên bang Mỹ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://ca.finance.yahoo.com/news/list-countries-pulled-gold-us-070618258.html",
-      "source": "Yahoo! Finance Canada",
-      "category": "metal",
-      "published": "2026-09-03 14:06"
     },
     {
       "id": "12i2ee1",
@@ -341,6 +341,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-03 05:46"
+    },
+    {
+      "id": "8vuo3s",
+      "title": "US Natgas Falls 4% to 8-Week Low on Milder Weather Outlook, Lower LNG Export Flows",
+      "title_vi": "Natgas của Mỹ giảm 4% xuống mức thấp nhất trong 8 tuần do thời tiết ôn hòa hơn, lưu lượng xuất khẩu LNG thấp hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/us-natgas-falls-4-to-8-week-low-on-milder-weather-outlook-lower-lng-export-flows/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-03 05:20"
     },
     {
       "id": "jq3h51",
@@ -536,17 +547,6 @@
       "summary_vi": "Căng thẳng địa chính trị gia tăng đang thúc đẩy việc kiểm soát chiến lược hàng hóa và viết lại vở kịch như thế nào",
       "image": "/content/dam/jpmorgan/images/cib/markets/benchmark/articles/commodities/Commodities-CTA-card-1-landscape1x-1.jpg",
       "link": "https://www.jpmorgan.com/insights/markets-and-economy/markets/the-rush-for-resources",
-      "source": "J.P. Morgan",
-      "category": "macro",
-      "published": "2026-09-02 21:12"
-    },
-    {
-      "id": "kxu2p4",
-      "title": "Commodities in a changing geopolitical landscape",
-      "title_vi": "Hàng hóa trong bối cảnh địa chính trị đang thay đổi",
-      "summary_vi": "Mischa-Von-Derek Aikman, Trưởng bộ phận Bán hàng tổ chức tại Châu Mỹ tại J.P. Morgan, thảo luận về việc căng thẳng toàn cầu đang thay đổi bối cảnh hàng hóa như thế nào—và điều đó có ý nghĩa gì đối với các nhà đầu tư khi điều hướng các thị trường ngày càng biến động.",
-      "image": "/content/dam/jpmorgan/images/cib/markets/benchmark/landing_pages/commodities-new-geopolitical-age/Commodities-CTA-card-2-landscape.jpg",
-      "link": "https://www.jpmorgan.com/insights/markets-and-economy/markets/commodities-in-a-changing-geopolitical-landscape",
       "source": "J.P. Morgan",
       "category": "macro",
       "published": "2026-09-02 21:12"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04 04:00",
+  "updated_at": "2026-09-04 04:07",
   "items": [
     {
       "id": "15j2996",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-04 02:00"
+    },
+    {
+      "id": "19k8jbh",
+      "title": "Silver (XAG) Forecast: Silver Rallies as Waller Comments Pressure Rate-Hike Odds",
+      "title_vi": "Dự báo bạc (XAG): Bạc tăng giá khi Waller bình luận Tỷ lệ tăng lãi suất",
+      "summary_vi": "Giá bạc tăng điểm khi Waller và Williams làm suy yếu giao dịch tăng lãi suất trong tháng 9, đưa XAGUSD vào ngưỡng kháng cự ở mức 68,17 USD trước bảng lương.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/08/silver-precious-metal-price-chart-06-8.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/silver-xag-forecast-silver-rallies-as-waller-comments-pressure-rate-hike-odds-1622580",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-09-04 01:16"
     },
     {
       "id": "11ndain",
@@ -310,6 +321,17 @@
       "published": "2026-09-03 16:50"
     },
     {
+      "id": "in152j",
+      "title": "Silver Price Forecast: XAG/USD struggles to extend upside above $66.25, NFP data awaited",
+      "title_vi": "Dự báo giá bạc: XAG/USD đấu tranh để mở rộng mức tăng trên 66,25 USD, dữ liệu NFP đang được chờ đợi",
+      "summary_vi": "Giá bạc (XAG/USD) nỗ lực kéo dài đà phục hồi mạnh mẽ của ngày thứ Tư lên trên 66,25 USD trong phiên giao dịch châu Âu vào thứ Năm. Kim loại trắng có thể tiếp tục đi ngang khi các nhà đầu tư chờ đợi dữ liệu Bảng lương phi nông nghiệp (NFP) của Hoa Kỳ cho tháng 8, sẽ được công bố vào thứ Sáu.",
+      "image": "https://editorial.fxsstatic.com/images/i/Commodities_Silver-2_Medium.jpg",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-struggles-to-extend-upside-above-6625-nfp-data-awaited-202609030846",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-09-03 15:46"
+    },
+    {
       "id": "1o5jlpu",
       "title": "Disappointment as Ivory Coast keeps cocoa price unchanged",
       "title_vi": "Thất vọng vì Bờ Biển Ngà giữ giá ca cao không đổi",
@@ -352,17 +374,6 @@
       "source": "Al Jazeera",
       "category": "energy",
       "published": "2026-09-03 11:31"
-    },
-    {
-      "id": "1jftksp",
-      "title": "Silver Price Forecast: XAG/USD extends gains as US Dollar falls further, NFP comes into focus",
-      "title_vi": "Dự báo giá bạc: XAG/USD mở rộng mức tăng khi Đô la Mỹ giảm thêm, NFP được chú trọng",
-      "summary_vi": "Giá bạc (XAG/USD) kéo dài động thái phục hồi vào thứ Tư vào thứ Năm, giao dịch cao hơn 0,67% ở mức khoảng 65,70 USD trong phiên giao dịch châu Âu. Kim loại trắng mạnh lên khi Đô la Mỹ (USD) tiếp tục giảm do nhu cầu việc làm ở mức vừa phải trong khu vực tư nhân Hoa Kỳ (US).",
-      "image": "https://editorial.fxsstatic.com/images/i/Silver5_Medium.png",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-extends-gains-as-us-dollar-falls-further-nfp-comes-into-focus-202609030321",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-09-03 10:21"
     },
     {
       "id": "8dh2ke",
@@ -539,17 +550,6 @@
       "source": "McKenzie County Farmer",
       "category": "energy",
       "published": "2026-09-03 00:39"
-    },
-    {
-      "id": "i4fs9u",
-      "title": "Silver, platinum and palladium compared for precious metals investors By Investing.com",
-      "title_vi": "So sánh bạc, bạch kim và palladium với các nhà đầu tư kim loại quý Theo Investing.com",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/stock-market-news/silver-platinum-and-palladium-compared-for-precious-metals-investors-93CH-4886575",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-09-03 00:16"
     }
   ]
 }

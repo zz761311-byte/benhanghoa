@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03 07:01",
+  "updated_at": "2026-09-03 07:45",
   "items": [
     {
       "id": "1bcj5gf",
@@ -189,6 +189,17 @@
       "published": "2026-09-02 21:12"
     },
     {
+      "id": "1mkkw5u",
+      "title": "Ukraine's Refinery Strikes Force Russia to Process Oil Abroad",
+      "title_vi": "Nhà máy lọc dầu Ukraine đình công buộc Nga phải xử lý dầu ở nước ngoài",
+      "summary_vi": "Nga đang chuyển sang Kazakhstan để tinh chế dầu thô khi máy bay không người lái của Ukraine tấn công làm trầm trọng thêm tình trạng thiếu nhiên liệu trong nước, mặc dù công suất sẵn có của nước ngoài quá nhỏ để thu hẹp khoảng cách.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-01_lhexmeuufx.jpg",
+      "link": "https://oilprice.com/Energy/Gas-Prices/Ukraines-Refinery-Strikes-Force-Russia-to-Process-Oil-Abroad.html",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "energy",
+      "published": "2026-09-02 21:00"
+    },
+    {
       "id": "7k4ru3",
       "title": "Copper Surges as Shifting Trade Policy and AI Demand Collide",
       "title_vi": "Đồng tăng vọt khi chính sách thương mại thay đổi và nhu cầu AI xung đột",
@@ -220,6 +231,17 @@
       "source": "Finance Magnates",
       "category": "metal",
       "published": "2026-09-02 19:14"
+    },
+    {
+      "id": "1ezf0yc",
+      "title": "For this tea shop, it's not just tariffs weighing on business",
+      "title_vi": "Đối với quán trà này, vấn đề không chỉ là thuế quan đè nặng lên hoạt động kinh doanh",
+      "summary_vi": "Trong khi Elden Street Tea Shop chờ hoàn thuế, doanh nghiệp cũng phải lo lắng về chi phí hàng hóa và vận chuyển cao hơn.",
+      "image": "https://img.apmcdn.org/5308b63eec360506412f735effe1aa5b85118165/widescreen/4002c3-20260901-a-glass-tea-cup-tea-cup-and-loose-leaf-teas-2000.jpg",
+      "link": "https://www.marketplace.org/story/2026/09/02/how-this-virginia-tea-shop-is-navigating-tariffs-fuel-costs-and-more",
+      "source": "marketplace.org",
+      "category": "macro",
+      "published": "2026-09-02 19:03"
     },
     {
       "id": "1f51wra",
@@ -528,28 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-09-02 02:51"
-    },
-    {
-      "id": "jnx7ng",
-      "title": "WTI Oil Back At $90 as U.S. Launches More Strikes Against Iran",
-      "title_vi": "Dầu WTI trở lại mức 90 USD khi Mỹ tiến hành thêm các cuộc tấn công chống lại Iran",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-prospect-for-prolonged-supply-disruptions-in-middle-east-2b9b6919",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-09-02 02:30"
-    },
-    {
-      "id": "13po3ti",
-      "title": "Sugar Prices Rally on the Outlook for a Global Deficit",
-      "title_vi": "Giá đường tăng nhờ triển vọng thâm hụt toàn cầu",
-      "summary_vi": "Đường trắng thế giới NY #11 (SBV26 ) tháng 10 đóng cửa tăng +0,55 (+3,09%) vào thứ Ba và đường trắng ICE London tháng 10 #5 (SWV26 ) đóng cửa tăng +19,60 (+3,81%). Giá đường tăng mạnh vào thứ Ba sau khi dự án của Tổ chức Đường Quốc tế (ISO)...",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Soft%20Commodities/Sugar/Packets%20of%20white%20and%20raw%20sugar%20by%20Tafilah%20Yusof%20via%20Pixabay.jpg",
-      "link": "https://www.barchart.com/story/news/4383064/sugar-prices-rally-on-the-outlook-for-a-global-deficit",
-      "source": "Barchart.com",
-      "category": "soft",
-      "published": "2026-09-02 01:25"
     }
   ]
 }

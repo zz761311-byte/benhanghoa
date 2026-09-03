@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04 03:01",
+  "updated_at": "2026-09-04 04:00",
   "items": [
     {
       "id": "15j2996",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-09-04 03:00"
+    },
+    {
+      "id": "4g255v",
+      "title": "Bessent Blames Ukraine for High Energy Prices",
+      "title_vi": "Bessent đổ lỗi cho Ukraine về giá năng lượng cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html",
+      "source": "nytimes.com",
+      "category": "energy",
+      "published": "2026-09-04 02:56"
     },
     {
       "id": "m8jlqd",
@@ -44,6 +55,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-04 00:30"
+    },
+    {
+      "id": "x0k0ti",
+      "title": "US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says",
+      "title_vi": "EIA cho biết sản lượng dầu thô của Mỹ sẽ giảm trong thập kỷ tới do dự báo giá dầu Brent dưới 70 USD",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-crude-output-to-fall-next-decade-on-sub-70-brent-price-forecast-eia-says/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-04 00:23"
+    },
+    {
+      "id": "7pm9ua",
+      "title": "Why Gold Didn't Actually Overtake Treasury Securities as the World's \"Favorite\" Reserve Asset",
+      "title_vi": "Tại sao vàng không thực sự vượt qua chứng khoán kho bạc để trở thành tài sản dự trữ \"được yêu thích nhất\" trên thế giới",
+      "summary_vi": "Hội đồng Thống đốc Cục Dự trữ Liên bang ở Washington DC.",
+      "image": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "link": "https://www.federalreserve.gov/econres/notes/feds-notes/why-gold-didnt-actually-overtake-treasury-securities-as-the-worlds-favorite-reserve-asset-20260903.html",
+      "source": "Federal Reserve (.gov)",
+      "category": "metal",
+      "published": "2026-09-04 00:20"
     },
     {
       "id": "hwk0uo",
@@ -275,17 +308,6 @@
       "source": "Yahoo Finance",
       "category": "soft",
       "published": "2026-09-03 16:50"
-    },
-    {
-      "id": "jdlsx6",
-      "title": "Gold (XAU/USD) & Silver Price Forecast: NFP Looms as Gold Rebounds From $4,300",
-      "title_vi": "Dự báo giá vàng (XAU/USD) và bạc: NFP xuất hiện khi vàng phục hồi từ 4.300 USD",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWw1bUE4WWN5UDN0Smk1cGF4TUI2Z1BRZGgxY0xRXy1aVzlseHFrdmpnZ1NYbnBMQWdEUnRQVEVLMVpFMW05Wk1RMVFmMjdMYUprUExvUEFXNDlSUVdhMF82RWFncFlYODRPUmlhZzNWbWozYlpCNWtZWHpnVVhmX2xhaHBJbjJSQXk0dU1na0RxRWpfQWRWTGk4MGpVa00zd1h0VW95VFlYa0JhbGc5V1RVQzQ5YldXTlEyMTNtYw?oc=5",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-09-03 14:27"
     },
     {
       "id": "1o5jlpu",
@@ -528,28 +550,6 @@
       "source": "Investing.com",
       "category": "metal",
       "published": "2026-09-03 00:16"
-    },
-    {
-      "id": "ceuqif",
-      "title": "Cherie Down Park Surf Report, Surf Forecast and Surf Cam",
-      "title_vi": "Báo cáo lướt sóng của Cherie Down Park, Dự báo lướt sóng và Surf Cam",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.surfline.com/surf-report/cherie-down-park/69862093726121e0fe3143ce",
-      "source": "Surfline",
-      "category": "soft",
-      "published": "2026-09-02 22:47"
-    },
-    {
-      "id": "rixk56",
-      "title": "Grains See Profit Taking Early Wednesday: Do Funds Buy the Break?",
-      "title_vi": "Ngũ cốc thấy chốt lời vào đầu ngày thứ Tư: Quỹ có mua được thời gian nghỉ ngơi không?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/grains-setback-wednesday-after-new-highs-it-just-routine-profit-taking",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-09-02 22:40"
     }
   ]
 }

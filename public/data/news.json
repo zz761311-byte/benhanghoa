@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-04 04:07",
+  "updated_at": "2026-09-04 05:01",
   "items": [
+    {
+      "id": "ehova8",
+      "title": "AI Data Center Boom Pushes U.S. Power Equipment to the Breaking Point",
+      "title_vi": "Sự bùng nổ của trung tâm dữ liệu AI đẩy thiết bị điện của Hoa Kỳ đến điểm đột phá",
+      "summary_vi": "Big Tech đang đặt cược hàng nghìn tỷ đô la vào trí tuệ nhân tạo, trong đó phần lớn số tiền đó sẽ được dùng để xây dựng các trung tâm dữ liệu cung cấp năng lượng cho các mô hình ngôn ngữ lớn. Thị trường chứng khoán đang phản ánh điều này ở cổ phiếu Big Tech, nhưng đó không phải là ngành duy nhất sử dụng nhân tạo trong",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-03_enrgazkben.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/AI-Data-Center-Boom-Pushes-US-Power-Equipment-to-the-Breaking-Point.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-09-04 05:00"
+    },
+    {
+      "id": "1ps4u3n",
+      "title": "Trading Lab Analysis: Dollar Index, Silver, Nasdaq 100, Coffee Breakouts and Key Levels - News and Statistics",
+      "title_vi": "Phân tích phòng thí nghiệm giao dịch: Chỉ số đô la, bạc, Nasdaq 100, đột phá cà phê và các mức chính - Tin tức và thống kê",
+      "summary_vi": "Sau một thời gian gián đoạn ngắn, thị trường có những chuyển biến đáng kể. Sự đột phá của Đô la vô hiệu, Bạc bảo vệ mức hỗ trợ, Nasdaq giữ khoảng cách tăng giá, Cà phê phá vỡ dưới mức hợp nhất. Các cấp độ chính được xác định để giao dịch.",
+      "image": "https://www.indexbox.io/landing/img/blog/telegram-fallback/44f37acc4310160386bce1ddefd0825a.webp",
+      "link": "https://www.indexbox.io/blog/market-analysis-dollar-silver-nasdaq-and-coffee-key-levels/",
+      "source": "indexbox.io",
+      "category": "macro",
+      "published": "2026-09-04 04:40"
+    },
     {
       "id": "15j2996",
       "title": "Baltic Dry Index Breaks Out as a “Perfect Storm” Hits Shipping",
@@ -154,17 +176,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-09-03 22:47"
-    },
-    {
-      "id": "kg1s98",
-      "title": "Norway Seizes Russian Cruise Ship to Enforce Naftogaz&#039;s $4.22 Billion Claim",
-      "title_vi": "Na Uy tịch thu tàu du lịch Nga để thực thi yêu cầu bồi thường 4,22 tỷ USD của Naftogaz",
-      "summary_vi": "Na Uy đã bắt giữ một tàu du lịch thương mại của Nga ngoài khơi quần đảo Svalbard theo yêu cầu của công ty dầu khí Ukraine Naftogaz, công ty đang yêu cầu thi hành phán quyết trị giá 4,22 tỷ USD về việc Nga chiếm đoạt tài sản khi sáp nhập Crimea. “Theo yêu cầu của Tập đoàn Naftogaz",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-03_gvjz3lfbik.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Norway-Seizes-Russian-Cruise-Ship-to-Enforce-Naftogazs-422-Billion-Claim.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-03 22:30"
     },
     {
       "id": "1x2ad7z",
@@ -539,17 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-09-03 00:53"
-    },
-    {
-      "id": "ywrrna",
-      "title": "State oil and gas production surges in June as drilling rig count experiences sharp summer spike",
-      "title_vi": "Sản lượng dầu khí quốc gia tăng mạnh trong tháng 6 do số lượng giàn khoan tăng đột biến trong mùa hè",
-      "summary_vi": "Các quan chức năng lượng của bang đã đưa ra triển vọng rất tích cực đối với ngành dầu khí của Bắc Dakota trong cuộc họp báo cắt giảm tháng 8 của Giám đốc Bộ Tài nguyên Khoáng sản, báo cáo mức tăng sản lượng mạnh mẽ trong tháng 6, số liệu khí đốt tự nhiên lập kỷ lục mới và sự gia tăng đáng chú ý trong hoạt động khoan vào mùa hè…",
-      "image": "https://cdn.forumcomm.com/dims4/default/a69aa04/2147483647/strip/true/crop/2252x835+0+0/resize/2875x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F53%2Fdf%2F4820bb0d4fdf9d544c2348df11f6%2Fmckenzie-county-pump-jacks-stock-photo.png",
-      "link": "https://www.watfordcitynd.com/news/local/state-oil-and-gas-production-surges-in-june-as-drilling-rig-count-experiences-sharp-summer-spike",
-      "source": "McKenzie County Farmer",
-      "category": "energy",
-      "published": "2026-09-03 00:39"
     }
   ]
 }

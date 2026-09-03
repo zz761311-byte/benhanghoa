@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04 01:01",
+  "updated_at": "2026-09-04 01:07",
   "items": [
     {
       "id": "11ndain",
@@ -68,6 +68,17 @@
       "published": "2026-09-03 23:00"
     },
     {
+      "id": "1ijlvr9",
+      "title": "Gold Rises 3% As Dollar Weakens, Rate Hike Expectations Fall",
+      "title_vi": "Vàng tăng 3% khi đồng đô la suy yếu, kỳ vọng tăng lãi suất giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forbes.com/sites/conormurray/2026/09/03/gold-rebounds-as-september-interest-rate-hike-expectations-dip/",
+      "source": "Forbes",
+      "category": "metal",
+      "published": "2026-09-03 22:59"
+    },
+    {
       "id": "kg1s98",
       "title": "Norway Seizes Russian Cruise Ship to Enforce Naftogaz&#039;s $4.22 Billion Claim",
       "title_vi": "Na Uy tịch thu tàu du lịch Nga để thực thi yêu cầu bồi thường 4,22 tỷ USD của Naftogaz",
@@ -132,6 +143,17 @@
       "source": "investingnews.com",
       "category": "energy",
       "published": "2026-09-03 20:43"
+    },
+    {
+      "id": "1k7myap",
+      "title": "Grain Rally Improves Farm Margins, But High Input Costs Remain",
+      "title_vi": "đợt tăng giá ngũ cốc cải thiện lợi nhuận của trang trại nhưng chi phí đầu vào vẫn cao",
+      "summary_vi": "Các lãnh đạo trang trại và các nhà kinh tế nông nghiệp tại Farm Progress Show chỉ ra rằng giá ngô, đậu tương và lúa mì tăng mạnh đã làm thay đổi triển vọng tài chính so với chỉ vài tháng trước. Sự phục hồi này đang mang lại cho các nhà sản xuất cơ hội đạt được tỷ suất lợi nhuận dương, nhưng những lợi ích đó tiếp tục bị hạn chế do phân bón và năng lượng tăng cao.",
+      "image": "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredImage?category=CMS&symbolicName=updated_dave_img_9418.jpg",
+      "link": "https://www.dtnpf.com/agriculture/web/ag/news/business-inputs/article/2026/09/03/grain-rally-improves-farm-margins",
+      "source": "DTN Progressive Farmer",
+      "category": "agri",
+      "published": "2026-09-03 20:42"
     },
     {
       "id": "19fddjq",
@@ -200,6 +222,17 @@
       "published": "2026-09-03 17:36"
     },
     {
+      "id": "1hs8kgv",
+      "title": "Sugar Price Jumps 30% in 5 Weeks to Highest Since April 2025",
+      "title_vi": "Giá đường tăng 30% sau 5 tuần lên mức cao nhất kể từ tháng 4 năm 2025",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/sugar-price-jumps-30-5-095022379.html",
+      "source": "Yahoo Finance",
+      "category": "soft",
+      "published": "2026-09-03 16:50"
+    },
+    {
       "id": "jdlsx6",
       "title": "Gold (XAU/USD) & Silver Price Forecast: NFP Looms as Gold Rebounds From $4,300",
       "title_vi": "Dự báo giá vàng (XAU/USD) và bạc: NFP xuất hiện khi vàng phục hồi từ 4.300 USD",
@@ -242,17 +275,6 @@
       "source": "Yahoo! Finance Canada",
       "category": "metal",
       "published": "2026-09-03 14:06"
-    },
-    {
-      "id": "cp481y",
-      "title": "Gold climbs above $4,400 as weaker dollar, yields revive bullion demand",
-      "title_vi": "Vàng tăng trên 4.400 USD do đồng đô la yếu hơn, lợi suất phục hồi nhu cầu vàng thỏi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/commodities-news/gold-holds-near-4400-after-rebound-as-trump-fed-remarks-ease-inflation-fears-4886908",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-09-03 13:41"
     },
     {
       "id": "12i2ee1",
@@ -528,28 +550,6 @@
       "source": "J.P. Morgan",
       "category": "macro",
       "published": "2026-09-02 21:12"
-    },
-    {
-      "id": "1mkkw5u",
-      "title": "Ukraine's Refinery Strikes Force Russia to Process Oil Abroad",
-      "title_vi": "Nhà máy lọc dầu Ukraine đình công buộc Nga phải xử lý dầu ở nước ngoài",
-      "summary_vi": "Nga đang chuyển sang Kazakhstan để tinh chế dầu thô khi máy bay không người lái của Ukraine tấn công làm trầm trọng thêm tình trạng thiếu nhiên liệu trong nước, mặc dù công suất sẵn có của nước ngoài quá nhỏ để thu hẹp khoảng cách.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-01_lhexmeuufx.jpg",
-      "link": "https://oilprice.com/Energy/Gas-Prices/Ukraines-Refinery-Strikes-Force-Russia-to-Process-Oil-Abroad.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-09-02 21:00"
-    },
-    {
-      "id": "7k4ru3",
-      "title": "Copper Surges as Shifting Trade Policy and AI Demand Collide",
-      "title_vi": "Đồng tăng vọt khi chính sách thương mại thay đổi và nhu cầu AI xung đột",
-      "summary_vi": "Giá đồng đạt mức cao kỷ lục do nhu cầu dự trữ do thuế quan và trung tâm dữ liệu AI, mang lại lợi ích cho Freeport-McMoRan, Southern Copper và BHP, mặc dù các nhà phân tích cảnh báo về phí bảo hiểm chính sách liên quan đến thuế quan.",
-      "image": "https://www.marketbeat.com/img/logos/articles/20260901165610_image-7.png?s=large",
-      "link": "https://www.marketbeat.com/articles/copper-surges-as-shifting-trade-policy-and-ai-demand-collide/",
-      "source": "MarketBeat",
-      "category": "metal",
-      "published": "2026-09-02 20:52"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-03 16:01",
+  "updated_at": "2026-09-03 16:55",
   "items": [
+    {
+      "id": "1pgtmwz",
+      "title": "Europe’s Low Gas Stocks Set Stage for Winter LNG Battle",
+      "title_vi": "Kho dự trữ khí đốt thấp của châu Âu tạo tiền đề cho cuộc chiến LNG mùa đông",
+      "summary_vi": "Mức khí đốt tự nhiên dự trữ ở mức thấp nhất của châu Âu trong gần hai thập kỷ có nguy cơ làm gia tăng cuộc chạy đua về nguồn cung LNG trong những tháng tới khi cả châu Âu và châu Á đang cạnh tranh để giành nguồn cung ngày càng thu hẹp, trong đó LNG của Trung Đông vẫn bị chặn ở eo biển Hormuz. “Tiềm lực",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-03_ow5yqtzieu.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Low-Gas-Stocks-Set-Stage-for-Winter-LNG-Battle.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-03 16:45"
+    },
     {
       "id": "1jvsn28",
       "title": "Chinese Refiners Pay Record Premiums for Russian ESPO Crude",
@@ -44,6 +55,17 @@
       "source": "Yahoo! Finance Canada",
       "category": "metal",
       "published": "2026-09-03 14:06"
+    },
+    {
+      "id": "cp481y",
+      "title": "Gold climbs above $4,400 as weaker dollar, yields revive bullion demand",
+      "title_vi": "Vàng tăng trên 4.400 USD do đồng đô la yếu hơn, lợi suất phục hồi nhu cầu vàng thỏi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/commodities-news/gold-holds-near-4400-after-rebound-as-trump-fed-remarks-ease-inflation-fears-4886908",
+      "source": "Investing.com",
+      "category": "metal",
+      "published": "2026-09-03 13:41"
     },
     {
       "id": "eggh4c",
@@ -211,15 +233,15 @@
       "published": "2026-09-03 02:33"
     },
     {
-      "id": "1jh48bg",
-      "title": "U.S. Diesel Prices Close In on April War Peak",
-      "title_vi": "Giá dầu diesel ở Mỹ tiến gần đến đỉnh cao chiến tranh tháng 4",
-      "summary_vi": "Cú sốc giá dầu diesel có thể đang đến với các nền kinh tế phương Tây. Đó là vì nhiên liệu công nghiệp nằm ở trung tâm của vận tải hàng hóa, nông nghiệp, xây dựng và công nghiệp nặng; giá tăng vọt lan truyền nhanh chóng qua chuỗi cung ứng, làm tăng chi phí vận chuyển và xây dựng,",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-02_a9iqmzpoes.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Diesel-Prices-Close-In-on-April-War-Peak.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-03 02:00"
+      "id": "149ghjs",
+      "title": "The Pacific Northwest has a copper theft problem",
+      "title_vi": "Tây Bắc Thái Bình Dương gặp nạn trộm đồng",
+      "summary_vi": "Washington và Oregon chứng kiến ​​một số vụ trộm đồng cao nhất trong nước. Giá trị của đồng đang tăng lên khi chúng ta chuyển đổi từ nền kinh tế dựa trên nhiên liệu hóa thạch sang nền kinh tế chạy bằng điện.",
+      "image": "https://npr.brightspotcdn.com/dims4/default/61e4329/2147483647/strip/true/crop/4000x2100+0+450/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2F70%2F16b2f5c54d7dad46674ff9729ad0%2Fcopper-cap.jpg",
+      "link": "https://www.kuow.org/economy/2026-09-02/the-pacific-northwest-has-a-copper-theft-problem",
+      "source": "kuow.org",
+      "category": "metal",
+      "published": "2026-09-03 02:03"
     },
     {
       "id": "1og0ksl",
@@ -231,17 +253,6 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-09-03 01:54"
-    },
-    {
-      "id": "1a0dkgk",
-      "title": "Gold rebounds over 1% as US dollar, yields pull back from highs",
-      "title_vi": "Vàng phục hồi hơn 1% khi đồng đô la Mỹ, lợi suất quay trở lại từ mức cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-hits-over-3-week-low-mideast-tensions-fan-rate-hike-fears-2026-09-02/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-09-03 01:37"
     },
     {
       "id": "o8v1j6",
@@ -539,17 +550,6 @@
       "source": "Financial Times",
       "category": "energy",
       "published": "2026-09-02 14:21"
-    },
-    {
-      "id": "85u1hz",
-      "title": "2026 Corn Yield Forecast for Ohio as of Aug. 25",
-      "title_vi": "Dự báo năng suất ngô năm 2026 tại Ohio tính đến ngày 25 tháng 8",
-      "summary_vi": "Mô phỏng gần đây nhất về tiềm năng năng suất ngô cuối vụ năm 2026 và phân loại cây trồng đã được hoàn thành vào ngày 25 tháng 8, với một số lạc quan cho thời điểm cuối vụ này.",
-      "image": "https://www.morningagclips.com/wp-content/uploads/2026/09/AdobeStock_416051819_1.jpeg",
-      "link": "https://www.morningagclips.com/2026-corn-yield-forecast-for-ohio-as-of-aug-25/",
-      "source": "Morning Ag Clips",
-      "category": "agri",
-      "published": "2026-09-02 14:18"
     }
   ]
 }

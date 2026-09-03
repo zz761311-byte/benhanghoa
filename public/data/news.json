@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03 11:01",
+  "updated_at": "2026-09-03 12:00",
   "items": [
     {
       "id": "1jftksp",
@@ -11,6 +11,17 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-09-03 10:21"
+    },
+    {
+      "id": "wphgu9",
+      "title": "Why Trump’s Venezuela Oil Grab Is No Quick Fix for Gas Prices",
+      "title_vi": "Tại sao việc lấy dầu ở Venezuela của Trump không phải là giải pháp nhanh chóng cho giá xăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/why-trumps-venezuela-oil-grab-is-no-quick-fix-for-gas-prices-744f52a7",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-09-03 09:00"
     },
     {
       "id": "1bcj5gf",
@@ -77,6 +88,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-09-03 04:00"
+    },
+    {
+      "id": "2szacj",
+      "title": "Gold Extends Decline as Inflation Risks Lift Fed Rate-Hike Bets",
+      "title_vi": "Vàng tiếp tục suy thoái khi rủi ro lạm phát nâng cao đặt cược tăng lãi suất của Fed",
+      "summary_vi": "Vàng tăng giá khi đồng đô la giảm xuống, khi các nhà giao dịch đánh giá những nhận xét từ các nhà hoạch định chính sách làm sáng tỏ lộ trình lãi suất của Cục Dự trữ Liên bang.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPT7jokkg.t0/v0/1200x759.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-01/gold-holds-drop-as-higher-oil-bond-selloff-raise-rate-hike-bets",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-09-03 03:17"
     },
     {
       "id": "1ui9udh",
@@ -354,17 +376,6 @@
       "published": "2026-09-02 18:14"
     },
     {
-      "id": "t52k85",
-      "title": "easyMarkets Expands Commodity Offering with 24/7 Gold, Silver and Oil Trading",
-      "title_vi": "easyMarkets mở rộng cung cấp hàng hóa với giao dịch vàng, bạc và dầu 24/7",
-      "summary_vi": "LIMASSOL, Síp, ngày 02 tháng 9 năm 2026 (GLOBE NEWSWIRE) -- Các công cụ Gold24, Silver24 và Oil24 mới cung cấp cho khách hàng khả năng tiếp cận ba mặt hàng chính và...",
-      "image": "https://ml.globenewswire.com/Resource/Download/27cccddb-3d90-4b52-b6a6-21785fc364b5/picture3.jpg",
-      "link": "https://markets.businessinsider.com/news/stocks/easymarkets-expands-commodity-offering-with-24-7-gold-silver-and-oil-trading-1036514810",
-      "source": "markets.businessinsider.com",
-      "category": "metal",
-      "published": "2026-09-02 18:12"
-    },
-    {
       "id": "12scdvp",
       "title": "7 Brew Wins $143 Million Auction for Former Salad and Go Locations",
       "title_vi": "7 Brew thắng cuộc đấu giá trị giá 143 triệu đô la cho các địa điểm Salad and Go trước đây",
@@ -539,17 +550,6 @@
       "source": "Finimize",
       "category": "soft",
       "published": "2026-09-02 06:57"
-    },
-    {
-      "id": "kaddwn",
-      "title": "Russia pounds Kyiv with aerial strikes, killing at least 12 people in 6th straight day of attacks",
-      "title_vi": "Nga tấn công Kiev bằng các cuộc không kích, giết chết ít nhất 12 người trong ngày tấn công thứ 6 liên tiếp",
-      "summary_vi": "Nhà chức trách cho biết, vụ tấn công mới nhất nhằm vào cơ sở hạ tầng dân sự và các tòa nhà dân cư ở một số quận của Kiev, khiến 8 người thiệt mạng ngay trong thành phố và 4 người khác ở khu vực xung quanh.",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-01T084233Z_384486850_RC28ANAG6OZR_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-1024x683.jpg",
-      "link": "https://www.pbs.org/newshour/world/russia-pounds-kyiv-with-aerial-strikes-killing-at-least-12-people-in-6th-straight-day-of-attacks",
-      "source": "PBS",
-      "category": "energy",
-      "published": "2026-09-02 06:15"
     }
   ]
 }

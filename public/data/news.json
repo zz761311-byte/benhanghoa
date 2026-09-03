@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-04 02:00",
+  "updated_at": "2026-09-04 03:01",
   "items": [
+    {
+      "id": "15j2996",
+      "title": "Baltic Dry Index Breaks Out as a “Perfect Storm” Hits Shipping",
+      "title_vi": "Chỉ số khô Baltic bùng phát khi một “cơn bão hoàn hảo” tấn công tàu biển",
+      "summary_vi": "Tiêu chuẩn hàng ngày đo lường chi phí vận chuyển nguyên liệu thô trên các tuyến hàng hải lớn trên toàn cầu đang đạt mức cao nhất gần ba năm trong tuần này, khi Bloomberg đưa tin rằng các cơn bão đang siết chặt nguồn cung của các tàu Capesize cũng như các công ty khai thác mỏ tăng sản lượng quặng sắt.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-03_lwqvcagb8i.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Baltic-Dry-Index-Breaks-Out-as-a-Perfect-Storm-Hits-Shipping.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-09-04 03:00"
+    },
     {
       "id": "m8jlqd",
       "title": "Electric Trucks Have Moved From Impossible to Inevitable",
@@ -90,6 +101,17 @@
       "published": "2026-09-03 22:59"
     },
     {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-09-03 22:47"
+    },
+    {
       "id": "kg1s98",
       "title": "Norway Seizes Russian Cruise Ship to Enforce Naftogaz&#039;s $4.22 Billion Claim",
       "title_vi": "Na Uy tịch thu tàu du lịch Nga để thực thi yêu cầu bồi thường 4,22 tỷ USD của Naftogaz",
@@ -112,17 +134,6 @@
       "published": "2026-09-03 22:23"
     },
     {
-      "id": "1kbun3y",
-      "title": "Russia’s Oil Revenue Sinks as Urals Falls to $59",
-      "title_vi": "Doanh thu từ dầu mỏ của Nga giảm khi Urals giảm xuống còn 59 USD",
-      "summary_vi": "Nga thu về 326,2 tỷ rúp, tương đương khoảng 3,76 tỷ USD, từ doanh thu ròng từ dầu mỏ trong tháng 8, giảm 22% so với một năm trước đó và là tổng doanh thu hàng tháng thấp nhất kể từ tháng Hai. Cơ quan thuế của Nga đã tính toán doanh thu từ dầu mỏ trong tháng 8 bằng cách sử dụng giá dầu thô chỉ hơn 59 USD/thùng. Urals, Rus",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-03_h9wjzdqvti.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Revenue-Sinks-as-Urals-Falls-to-59.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-03 22:00"
-    },
-    {
       "id": "1kelgvm",
       "title": "Netherlands Moves Gold From New York to London, Citing Geopolitical Unrest",
       "title_vi": "Hà Lan chuyển vàng từ New York đến London với lý do bất ổn địa chính trị",
@@ -132,6 +143,17 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-09-03 21:50"
+    },
+    {
+      "id": "efor56",
+      "title": "Russia Says Oil Output Drop Is Temporary as Refineries Restart",
+      "title_vi": "Nga cho biết sản lượng dầu giảm là tạm thời khi các nhà máy lọc dầu khởi động lại",
+      "summary_vi": "Novak của Nga cho rằng sản lượng dầu giảm là tạm thời, nhưng các cuộc tấn công bằng máy bay không người lái vào các nhà máy lọc dầu và nhà ga xuất khẩu đang định hình lại các dự báo về dầu thô.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-03_ddzipc8izx.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Says-Oil-Output-Drop-Is-Temporary-as-Refineries-Restart.html",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "energy",
+      "published": "2026-09-03 21:30"
     },
     {
       "id": "14b8faf",
@@ -165,6 +187,17 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-09-03 19:52"
+    },
+    {
+      "id": "1dpjwva",
+      "title": "Corn Falling Lower with Wheat Pressure and Putin Comments",
+      "title_vi": "Ngô giảm giá do áp lực lúa mì và bình luận của Putin",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barchart.com/story/news/4422051/corn-falling-lower-with-wheat-pressure-and-putin-comments",
+      "source": "Barchart.com",
+      "category": "agri",
+      "published": "2026-09-03 19:25"
     },
     {
       "id": "stggg7",
@@ -330,6 +363,17 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-09-03 09:00"
+    },
+    {
+      "id": "1w1f0f3",
+      "title": "Luckin Coffee (OTCPK:LKNC.Y) Stock Looks Like A Bargain On Cash Flow And Earnings",
+      "title_vi": "Cổ phiếu Luckin Coffee (OTCPK:LKNC.Y) trông giống như một món hời về dòng tiền và thu nhập",
+      "summary_vi": "Cổ phiếu Luckin Coffee đã đạt mức tăng đáng kể trong 5 năm, tuy nhiên việc kiểm tra định giá hiện tại cho thấy giá thị trường có thể vẫn ở mức thấp hơn nhiều so với những gì dòng tiền và các chỉ số cơ bản của nó ngụ ý. Sự giảm giá cổ phiếu gần đây trái ngược với ước tính giá trị nội tại cho thấy mức giảm giá có ý nghĩa. Hơn 5 năm, Luckin Coffee ha",
+      "image": "https://images.simplywall.st/asset/industry/4214000-choice1-main-header/1585186691957",
+      "link": "https://simplywall.st/stocks/us/consumer-services/otc-lknc.y/luckin-coffee/news/luckin-coffee-otcpklkncy-stock-looks-like-a-bargain-on-cash",
+      "source": "simplywall.st",
+      "category": "soft",
+      "published": "2026-09-03 07:22"
     },
     {
       "id": "j9rkzi",
@@ -506,50 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-09-02 22:40"
-    },
-    {
-      "id": "1nky7kx",
-      "title": "US Natural Gas Prices Fall 4% to 11-Week Low on Record Output",
-      "title_vi": "Giá khí đốt tự nhiên của Mỹ giảm 4% xuống mức thấp nhất trong 11 tuần do sản lượng kỷ lục",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/07/us-natural-gas-prices-fall-4-to-11-week-low-on-record-output/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-02 22:39"
-    },
-    {
-      "id": "1cetva5",
-      "title": "It's not your imagination: Coffee prices are up 125% since 2019 — 4 times the rate of food overall",
-      "title_vi": "Đó không phải là trí tưởng tượng của bạn: Giá cà phê tăng 125% kể từ năm 2019 - gấp 4 lần giá thực phẩm nói chung",
-      "summary_vi": "Thời tiết khắc nghiệt ở Brazil đã ảnh hưởng đến thu hoạch cà phê, khiến chi phí điều chỉnh caffeine hàng ngày của bạn tăng lên do thuế quan của Trump đã khiến tình hình trở nên tồi tệ hơn.",
-      "image": "https://media1.moneywise.com/production/articles/213955/social-media-thumbnail_gettyimages-1258306341_20260902_104059.jpg",
-      "link": "https://moneywise.com/news/economy/coffee-prices-up-125-percent-since-2019",
-      "source": "moneywise.com",
-      "category": "soft",
-      "published": "2026-09-02 21:43"
-    },
-    {
-      "id": "wr1vpv",
-      "title": "Natural Gas Price Stalls Below $3 as Consolidation Holds",
-      "title_vi": "Giá khí đốt tự nhiên ở mức dưới 3 đô la khi hợp nhất được giữ vững",
-      "summary_vi": "Các đợt tăng giá khí đốt tự nhiên và sau đó mờ dần. Đây đã là mô hình trên thị trường này được một thời gian và có vẻ như chúng ta chỉ đang lặp lại nó.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/natural-gas-market-illustration-10.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-price-stalls-below-3-as-consolidation-holds-1621892",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-09-02 21:36"
-    },
-    {
-      "id": "iu578o",
-      "title": "The Rush for Resources",
-      "title_vi": "Cơn sốt tài nguyên",
-      "summary_vi": "Căng thẳng địa chính trị gia tăng đang thúc đẩy việc kiểm soát chiến lược hàng hóa và viết lại vở kịch như thế nào",
-      "image": "/content/dam/jpmorgan/images/cib/markets/benchmark/articles/commodities/Commodities-CTA-card-1-landscape1x-1.jpg",
-      "link": "https://www.jpmorgan.com/insights/markets-and-economy/markets/the-rush-for-resources",
-      "source": "J.P. Morgan",
-      "category": "macro",
-      "published": "2026-09-02 21:12"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03 07:45",
+  "updated_at": "2026-09-03 08:01",
   "items": [
     {
       "id": "1bcj5gf",
@@ -154,6 +154,17 @@
       "source": "Surfline",
       "category": "soft",
       "published": "2026-09-02 22:47"
+    },
+    {
+      "id": "rixk56",
+      "title": "Grains See Profit Taking Early Wednesday: Do Funds Buy the Break?",
+      "title_vi": "Ngũ cốc thấy chốt lời vào đầu ngày thứ Tư: Quỹ có mua được thời gian nghỉ ngơi không?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/grains-setback-wednesday-after-new-highs-it-just-routine-profit-taking",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-09-02 22:40"
     },
     {
       "id": "1cetva5",
@@ -539,17 +550,6 @@
       "source": "The San Francisco Standard",
       "category": "soft",
       "published": "2026-09-02 03:23"
-    },
-    {
-      "id": "1m2bajt",
-      "title": "Oil prices settle up more than $4 a barrel on renewed US-Iran fighting",
-      "title_vi": "Giá dầu tăng hơn 4 USD/thùng do xung đột Mỹ-Iran tái diễn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/oil-prices-rise-latest-fighting-resurrects-middle-east-supply-disruption-risks-2026-09-01/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-09-02 02:51"
     }
   ]
 }

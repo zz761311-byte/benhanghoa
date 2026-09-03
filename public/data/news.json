@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04 06:00",
+  "updated_at": "2026-09-04 06:19",
   "items": [
     {
       "id": "sf9igt",
@@ -497,6 +497,17 @@
       "published": "2026-09-03 04:14"
     },
     {
+      "id": "7vlyqp",
+      "title": "As mineral reserves dwindle, world races to secure the materials to decarbonize",
+      "title_vi": "Khi trữ lượng khoáng sản cạn kiệt, thế giới chạy đua để đảm bảo nguyên liệu để khử cacbon",
+      "summary_vi": "Các thành phần thiết yếu của nhiều công nghệ năng lượng tái tạo, đồng, lithium, coban, niken và đất hiếm, rất quan trọng đối với cuộc cách mạng năng lượng sạch mà khí hậu của chúng ta phụ thuộc vào.",
+      "image": "https://www.un.org/sites/un2.un.org/files/field/image/2026/09/unep_decarbonization.png",
+      "link": "https://www.un.org/en/delegate/mineral-reserves-dwindle-world-races-secure-materials-decarbonize",
+      "source": "Welcome to the United Nations",
+      "category": "metal",
+      "published": "2026-09-03 03:48"
+    },
+    {
       "id": "1ui9udh",
       "title": "Bessent says Ukraine causing high gas prices: ‘They want to blow up Russian energy assets’",
       "title_vi": "Bessent tố Ukraine khiến giá xăng tăng cao: 'Họ muốn cho nổ tung tài sản năng lượng của Nga'",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-09-03 01:39"
-    },
-    {
-      "id": "1iieol",
-      "title": "Cocoa Prices Tumble as Supplies Increase",
-      "title_vi": "Giá ca cao sụt giảm khi nguồn cung tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barchart.com/story/news/4407250/cocoa-prices-tumble-as-supplies-increase",
-      "source": "Barchart.com",
-      "category": "soft",
-      "published": "2026-09-03 01:36"
     }
   ]
 }

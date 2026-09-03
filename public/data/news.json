@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03 08:01",
+  "updated_at": "2026-09-03 09:00",
   "items": [
     {
       "id": "1bcj5gf",
@@ -99,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-03 01:31"
+    },
+    {
+      "id": "o8v1j6",
+      "title": "Forget crude oil. The real energy crisis right now is in diesel.",
+      "title_vi": "Hãy quên dầu thô đi. Cuộc khủng hoảng năng lượng thực sự hiện nay là ở dầu diesel.",
+      "summary_vi": "Giá nhiên liệu cung cấp năng lượng cho mọi thứ từ tàu thuyền, tàu hỏa đến thiết bị nông nghiệp đang gần đạt mức cao nhất mọi thời đại khi công suất lọc dầu toàn cầu suy giảm.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260902-diesel-rs-d5eaf2.jpg",
+      "link": "https://www.nbcnews.com/business/energy/diesel-prices-russia-iran-refining-supply-rcna595680",
+      "source": "NBC News",
+      "category": "energy",
+      "published": "2026-09-03 01:00"
     },
     {
       "id": "vrpd0k",
@@ -539,17 +550,6 @@
       "source": "czapp.com",
       "category": "soft",
       "published": "2026-09-02 04:29"
-    },
-    {
-      "id": "1eblp6d",
-      "title": "‘Discrimination comes with a price’: Accused of antisemitism, Oakland coffee shop closes",
-      "title_vi": "‘Sự phân biệt đối xử phải trả giá’: Bị buộc tội bài Do Thái, quán cà phê ở Oakland đóng cửa",
-      "summary_vi": "Quán cà phê Jerusalem sẽ đóng cửa trong khi đấu tranh với ba vụ kiện cáo buộc quán cà phê ủng hộ Palestine ngược đãi khách hàng Do Thái.",
-      "image": "https://assets.sfstandard.com/image/994911177489/image_kvale2l1od3i36r2tsaqgouu41/-C100.00%25x69.73%25%2C0.00%25%2C23.69%25-S1200x630-FPNG",
-      "link": "https://sfstandard.com/2026/09/01/discrimination-comes-price-accused-antisemitism-oakland-coffee-shop-closes/",
-      "source": "The San Francisco Standard",
-      "category": "soft",
-      "published": "2026-09-02 03:23"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-05 04:04",
+  "updated_at": "2026-09-05 05:00",
   "items": [
+    {
+      "id": "1batr1d",
+      "title": "How The U.S. Fell Behind China On Nuclear Power",
+      "title_vi": "Mỹ đã tụt hậu so với Trung Quốc về năng lượng hạt nhân như thế nào",
+      "summary_vi": "Hoa Kỳ là nhà sản xuất năng lượng hạt nhân lớn nhất thế giới, chịu trách nhiệm sản xuất khoảng 1/3 sản lượng toàn cầu. Tính đến hôm nay, Mỹ có 96 lò phản ứng hạt nhân thương mại đang vận hành tại 57 nhà máy điện trên 28 bang. Tuy nhiên, trong khi đội tàu đó vẫn có năng suất cao",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-04_rtiu68xjl0.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/How-The-US-Fell-Behind-China-On-Nuclear-Power.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-05 05:00"
+    },
     {
       "id": "6u56e8",
       "title": "Will We Control AI—or Will AI Control Us?",
@@ -99,17 +110,6 @@
       "source": "Barchart.com",
       "category": "soft",
       "published": "2026-09-04 23:07"
-    },
-    {
-      "id": "1hlqerg",
-      "title": "Turkmenistan Moves to Tackle Major Methane Leaks",
-      "title_vi": "Turkmenistan chuyển sang giải quyết vấn đề rò rỉ khí mê-tan lớn",
-      "summary_vi": "Theo một báo cáo do Guardian công bố, dữ liệu của Liên hợp quốc cho thấy Turkmenistan đang tiến hành sửa chữa cơ sở hạ tầng năng lượng để ngăn chặn các vụ rò rỉ khí mê-tan lớn. Những cải tiến này dường như có liên quan đến những nỗ lực của Ashgabat nhằm thoát ra khỏi vỏ bọc theo chủ nghĩa biệt lập tự áp đặt. Metan Al của Liên hợp quốc",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-03_dq8jy9antw.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Turkmenistan-Moves-to-Tackle-Major-Methane-Leaks.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-04 23:00"
     },
     {
       "id": "7vlyqp",
@@ -275,6 +275,17 @@
       "source": "AgroLatam",
       "category": "energy",
       "published": "2026-09-04 05:14"
+    },
+    {
+      "id": "tlp3hb",
+      "title": "Beans Bouce While Corn, Wheat See More Profit Taking on Black Sea Peace Talks: Cattle Soar",
+      "title_vi": "Đậu nảy trong khi ngô, lúa mì thu được nhiều lợi nhuận hơn từ các cuộc đàm phán hòa bình ở Biển Đen: Gia súc tăng vọt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/beans-bouce-while-corn-wheat-see-more-profit-taking-black-sea-peace-talks",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-09-04 04:42"
     },
     {
       "id": "1ps4u3n",
@@ -539,17 +550,6 @@
       "source": "Axios",
       "category": "agri",
       "published": "2026-09-03 18:17"
-    },
-    {
-      "id": "piqc2s",
-      "title": "Copper Sprinkler Pipe Market Outlook to 2035",
-      "title_vi": "Triển vọng thị trường ống phun nước bằng đồng đến năm 2035",
-      "summary_vi": "Nhu cầu về ống phun nước bằng đồng toàn cầu dự kiến ​​sẽ tăng với tốc độ CAGR 4,1% cho đến năm 2035, được hỗ trợ bởi các quy tắc phòng cháy chặt chẽ hơn cũng như việc xây dựng trung tâm dữ liệu và chất bán dẫn nhanh chóng.",
-      "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-copper-sprinkler-pipe-market-analysis-forecast-size-trends-and-insights-1788431809.webp",
-      "link": "https://www.indexbox.io/blog/copper-sprinkler-pipe-market-outlook-to-2035/",
-      "source": "IndexBox",
-      "category": "metal",
-      "published": "2026-09-03 17:36"
     }
   ]
 }

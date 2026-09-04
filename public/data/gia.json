@@ -1,5 +1,5 @@
 {
- "capNhat": "2026-09-04T22:00:39.966Z",
+ "capNhat": "2026-09-04T23:00:30.123Z",
  "nguon": "Yahoo Finance",
  "soMatHang": 18,
  "tyGia": {
@@ -641,8 +641,8 @@
    "doiMotNam": 34.09,
    "khoiLuong30Phien": 25006,
    "tienTe": "USX",
-   "tenHopDong": "Cotton Mar 26",
-   "kyHan": "T3/26",
+   "tenHopDong": "",
+   "kyHan": null,
    "san": "NY Mercantile",
    "capNhat": "2026-09-04T15:30:36.000Z",
    "duongGia": [
@@ -732,7 +732,7 @@
     "gia": 4431.1001,
     "lechSoVoiHopDong": 1.04,
     "nguon": "gold-api.com",
-    "capNhat": "2026-09-04T22:00:27Z"
+    "capNhat": "2026-09-04T23:00:27Z"
    }
   },
   "bac": {
@@ -789,7 +789,7 @@
     "gia": 66.341,
     "lechSoVoiHopDong": 0.72,
     "nguon": "gold-api.com",
-    "capNhat": "2026-09-04T22:00:27Z"
+    "capNhat": "2026-09-04T23:00:27Z"
    }
   },
   "dong": {
@@ -897,7 +897,7 @@
     "gia": 1826,
     "lechSoVoiHopDong": 0.14,
     "nguon": "gold-api.com",
-    "capNhat": "2026-09-04T22:00:31Z"
+    "capNhat": "2026-09-04T23:00:00Z"
    }
   },
   "nhom": {

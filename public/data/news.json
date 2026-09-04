@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05 04:00",
+  "updated_at": "2026-09-05 04:04",
   "items": [
     {
       "id": "6u56e8",
@@ -255,6 +255,17 @@
       "published": "2026-09-04 14:18"
     },
     {
+      "id": "ak5sur",
+      "title": "Natural Gas and Oil Forecast: Hormuz Risks Lift WTI as U.S. Crude Stocks Fall",
+      "title_vi": "Dự báo khí đốt tự nhiên và dầu: Rủi ro Hormuz nâng WTI khi tồn kho dầu thô của Mỹ giảm",
+      "summary_vi": "Căng thẳng Mỹ-Iran thắt chặt nguồn cung dầu thô khi WTI hướng tới 92,67 USD và Brent giữ xu hướng tăng, trong khi nhu cầu LNG phục hồi hỗ trợ khí đốt tự nhiên.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/Main-Images-12.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-1622860",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-09-04 12:59"
+    },
+    {
       "id": "31s9us",
       "title": "Soybean Demand Fuels Rally as China Buying Lifts U.S. Prices Into September",
       "title_vi": "Nhu cầu đậu nành tăng lên khi Trung Quốc mua hàng nâng giá đậu nành ở Mỹ vào tháng 9",
@@ -262,7 +273,7 @@
       "image": "https://www.agrolatam.com/files/image/79/79839/6a99eff3d844d_600_315!.png?s=ee5ae5001272adb5af51031e3306613e&d=1788473766",
       "link": "https://www.agrolatam.com/usa/news/soybean-demand-china-buying-us-grain-prices-september/",
       "source": "AgroLatam",
-      "category": "agri",
+      "category": "energy",
       "published": "2026-09-04 05:14"
     },
     {
@@ -341,6 +352,17 @@
       "source": "Federal Reserve (.gov)",
       "category": "metal",
       "published": "2026-09-04 00:20"
+    },
+    {
+      "id": "g17cfj",
+      "title": "Will soybean rally continue through September?",
+      "title_vi": "đợt tăng giá đậu nành sẽ tiếp tục đến tháng 9?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/marketing/will-soybean-rally-continue-through-september-",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-09-03 23:53"
     },
     {
       "id": "1aa2n9i",
@@ -528,28 +550,6 @@
       "source": "IndexBox",
       "category": "metal",
       "published": "2026-09-03 17:36"
-    },
-    {
-      "id": "1hs8kgv",
-      "title": "Sugar Price Jumps 30% in 5 Weeks to Highest Since April 2025",
-      "title_vi": "Giá đường tăng 30% sau 5 tuần lên mức cao nhất kể từ tháng 4 năm 2025",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/sugar-price-jumps-30-5-095022379.html",
-      "source": "Yahoo Finance",
-      "category": "soft",
-      "published": "2026-09-03 16:50"
-    },
-    {
-      "id": "1o5jlpu",
-      "title": "Disappointment as Ivory Coast keeps cocoa price unchanged",
-      "title_vi": "Thất vọng vì Bờ Biển Ngà giữ giá ca cao không đổi",
-      "summary_vi": "Chính phủ sẽ mua nông sản với giá 1.200 CFA franc/kg (2,12 USD, cùng số tiền được công bố vào tháng 3 cho vụ giữa vụ, sau nhiều tháng khủng hoảng trong lĩnh vực này).",
-      "image": "https://images.euronews.com/articles/stories/09/89/79/16/1024x538_cmsv2_f1548492-a42b-574f-99bc-d080d883cf98-9897916.jpg",
-      "link": "https://www.africanews.com/2026/09/03/disappointment-as-ivory-coast-keeps-cocoa-price-unchanged/",
-      "source": "africanews.com",
-      "category": "soft",
-      "published": "2026-09-03 14:11"
     }
   ]
 }

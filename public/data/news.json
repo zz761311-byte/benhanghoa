@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05 01:00",
+  "updated_at": "2026-09-05 01:29",
   "items": [
     {
       "id": "7hnvew",
@@ -231,6 +231,17 @@
       "source": "Recycling Today",
       "category": "metal",
       "published": "2026-09-04 14:59"
+    },
+    {
+      "id": "77b5k8",
+      "title": "Silver Price Forecast: XAG/USD corrects $66.30 amid caution ahead of US NFP data",
+      "title_vi": "Dự báo giá bạc: XAG/USD điều chỉnh 66,30 USD trong bối cảnh thận trọng trước dữ liệu NFP của Mỹ",
+      "summary_vi": "Giá bạc (XAG/USD) giảm xuống gần 66,30 USD trong phiên giao dịch châu Âu vào thứ Sáu sau khi đạt mức cao nhất trong 5 ngày gần 68,00 USD. Kim loại trắng chịu áp lực trước dữ liệu Bảng lương phi nông nghiệp (NFP) của Hoa Kỳ trong tháng 8, sẽ được công bố lúc 12:30 GMT.",
+      "image": "https://editorial.fxsstatic.com/images/i/Silver3_Medium.png",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-corrects-6630-amid-caution-ahead-of-us-nfp-data-202609040732",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-09-04 14:32"
     },
     {
       "id": "1m6gh04",
@@ -517,17 +528,6 @@
       "source": "Yahoo Finance",
       "category": "soft",
       "published": "2026-09-03 16:50"
-    },
-    {
-      "id": "in152j",
-      "title": "Silver Price Forecast: XAG/USD struggles to extend upside above $66.25, NFP data awaited",
-      "title_vi": "Dự báo giá bạc: XAG/USD đấu tranh để mở rộng mức tăng trên 66,25 USD, dữ liệu NFP đang được chờ đợi",
-      "summary_vi": "Giá bạc (XAG/USD) nỗ lực kéo dài đà phục hồi mạnh mẽ của ngày thứ Tư lên trên 66,25 USD trong phiên giao dịch châu Âu vào thứ Năm. Kim loại trắng có thể tiếp tục đi ngang khi các nhà đầu tư chờ đợi dữ liệu Bảng lương phi nông nghiệp (NFP) của Hoa Kỳ cho tháng 8, sẽ được công bố vào thứ Sáu.",
-      "image": "https://editorial.fxsstatic.com/images/i/Commodities_Silver-2_Medium.jpg",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-struggles-to-extend-upside-above-6625-nfp-data-awaited-202609030846",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-09-03 15:46"
     },
     {
       "id": "1o5jlpu",

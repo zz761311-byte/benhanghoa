@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05 06:04",
+  "updated_at": "2026-09-05 07:00",
   "items": [
     {
       "id": "1pnlyzq",
@@ -244,6 +244,17 @@
       "published": "2026-09-04 16:59"
     },
     {
+      "id": "k70zdt",
+      "title": "TEMPORARY DEAL – US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies",
+      "title_vi": "THỎA THUẬN TẠM THỜI - Hoa Kỳ nới lỏng các biện pháp trừng phạt dầu mỏ của Nga để chế ngự sự tăng giá, chọc tức các đồng minh châu Âu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/03/temporary-deal-us-eases-russia-oil-sanctions-to-tame-price-surge-riling-european-allies/",
+      "source": "energynow.com",
+      "category": "energy",
+      "published": "2026-09-04 16:51"
+    },
+    {
       "id": "rr0vzk",
       "title": "Innovation Is Always Welcome in the Sweetener Category",
       "title_vi": "Sự đổi mới luôn được chào đón trong danh mục chất ngọt",
@@ -297,6 +308,17 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-09-04 12:59"
+    },
+    {
+      "id": "dpt87i",
+      "title": "Argentina's Milei steps up Falklands sovereignty claims with oil sanctions",
+      "title_vi": "Milei của Argentina tăng cường yêu sách chủ quyền Quần đảo Falklands bằng các biện pháp trừng phạt dầu mỏ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/americas/milei-vows-tougher-sanctions-defense-push-over-falklands-oil-drilling-2026-09-04/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-09-04 08:53"
     },
     {
       "id": "31s9us",
@@ -519,37 +541,15 @@
       "published": "2026-09-03 20:42"
     },
     {
-      "id": "19fddjq",
-      "title": "Natural Gas Futures Hover Near $3 as Market Braces for EIA Storage Print",
-      "title_vi": "Giá khí tự nhiên tương lai dao động gần 3 USD khi thị trường chuẩn bị cho kho lưu trữ EIA",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/natural-gas-futures-hover-near-3-as-market-braces-for-eia-storage-print/",
-      "source": "Natural Gas Intelligence",
+      "id": "1yaude9",
+      "title": "‘We Were Mistaken’: Putin Admits Russia Was Unprepared for Ukrainian Strikes on Oil Refineries",
+      "title_vi": "'Chúng ta đã sai lầm': Putin thừa nhận Nga không chuẩn bị cho cuộc tấn công của Ukraine vào các nhà máy lọc dầu",
+      "summary_vi": "Máy bay không người lái của Ukraine đã tấn công các nhà máy lọc dầu của Nga ít nhất 70 lần kể từ đầu năm 2026, đẩy sản lượng lọc dầu của Nga xuống mức thấp nhất trong hai thập kỷ.",
+      "image": "https://static.kyivpost.com/storage/2026/08/20/db6b6944a2139b7eb10bf0186b6b5843.jpg?w=1200&q=90&f=jpg",
+      "link": "https://www.kyivpost.com/post/83674",
+      "source": "Kyiv Post",
       "category": "energy",
-      "published": "2026-09-03 19:52"
-    },
-    {
-      "id": "1dpjwva",
-      "title": "Corn Falling Lower with Wheat Pressure and Putin Comments",
-      "title_vi": "Ngô giảm giá do áp lực lúa mì và bình luận của Putin",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barchart.com/story/news/4422051/corn-falling-lower-with-wheat-pressure-and-putin-comments",
-      "source": "Barchart.com",
-      "category": "agri",
-      "published": "2026-09-03 19:25"
-    },
-    {
-      "id": "stggg7",
-      "title": "Natural Gas Forecast: $3 Test Marks a Shift in Market Bias",
-      "title_vi": "Dự báo khí đốt tự nhiên: Thử nghiệm 3 đô la đánh dấu sự thay đổi trong xu hướng thị trường",
-      "summary_vi": "Khí đốt tự nhiên đang trải qua giai đoạn yếu nhất trong năm, khiến thị trường chuyển từ giảm giá sang trung tính. Mức 3 USD hiện đang được chú trọng, với đường EMA 200 ngày gần 3,11 USD có khả năng cung cấp mức kháng cự.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/natural-gas-market-illustration-02.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-forecast-3-test-marks-a-shift-in-market-bias-1622399",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-09-03 19:10"
+      "published": "2026-09-03 20:09"
     }
   ]
 }

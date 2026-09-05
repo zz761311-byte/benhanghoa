@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-06 03:00",
+  "updated_at": "2026-09-06 03:29",
   "items": [
+    {
+      "id": "zdska",
+      "title": "UBS: Commodities can add diversification as inflation, geopolitical risks rise",
+      "title_vi": "UBS: Hàng hóa có thể đa dạng hóa hơn khi lạm phát, rủi ro địa chính trị gia tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/stock-market-news/ubs-commodities-can-add-diversification-as-inflation-geopolitical-risks-rise-4890234",
+      "source": "Investing.com",
+      "category": "macro",
+      "published": "2026-09-06 02:21"
+    },
     {
       "id": "1wlsmgt",
       "title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
@@ -189,6 +200,17 @@
       "published": "2026-09-05 02:23"
     },
     {
+      "id": "5bdunw",
+      "title": "Gold, Silver, DXY Outlook: Key Scenarios to Watch",
+      "title_vi": "Triển vọng Vàng, Bạc, DXY: Các kịch bản chính cần theo dõi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forex.com/en-us/news-and-analysis/gold-silver-dxy-outlook-key-scenarios-to-watch/",
+      "source": "FOREX.com",
+      "category": "metal",
+      "published": "2026-09-05 02:16"
+    },
+    {
       "id": "hm1tws",
       "title": "California gas prices ‘to set record at the pump’ for Labor Day. What you’ll pay",
       "title_vi": "Giá xăng ở California ‘lập kỷ lục tại máy bơm’ nhân Ngày Lễ Lao động Số tiền bạn sẽ trả",
@@ -209,17 +231,6 @@
       "source": "Robinhood",
       "category": "metal",
       "published": "2026-09-05 01:24"
-    },
-    {
-      "id": "1bu47ik",
-      "title": "Gold, silver prices slide as strong payrolls revive Fed-hike trade - Kitco PM Report",
-      "title_vi": "Giá vàng, bạc trượt dốc khi bảng lương mạnh mẽ phục hồi thương mại tăng lãi suất của Fed - Báo cáo của Kitco PM",
-      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay giảm trong phiên giao dịch cuối giờ chiều thứ Sáu tại Hoa Kỳ, sau khi báo cáo việc làm tháng 8 tốt hơn mong đợi đã nâng lãi suất Kho bạc, củng cố đồng đô la Mỹ và làm sống lại kỳ vọng rằng Cục Dự trữ Liên bang có thể tăng lãi suất tại cuộc họp ngày 15-16 tháng 9. Tại thời điểm viết bài, s",
-      "image": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0&left=0.29722512481139&width=1023.4055497504&height=576&scale_width=1920&token=6a7d5b226babca85b8d46b182e88fc2bf88cab8622d9dd3674574337642ada70",
-      "link": "https://www.kitco.com/news/article/2026-09-04/gold-silver-prices-slide-strong-payrolls-revive-fed-hike-trade-kitco-pm",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-09-05 01:01"
     },
     {
       "id": "7hnvew",
@@ -539,17 +550,6 @@
       "source": "natesilver.net",
       "category": "macro",
       "published": "2026-09-04 02:47"
-    },
-    {
-      "id": "ff1seq",
-      "title": "The Outlook for More Global Supply Weighs on Coffee Prices",
-      "title_vi": "Triển vọng về nguồn cung toàn cầu nhiều hơn ảnh hưởng đến giá cà phê",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barchart.com/story/news/4430863/the-outlook-for-more-global-supply-weighs-on-coffee-prices",
-      "source": "Barchart.com",
-      "category": "soft",
-      "published": "2026-09-04 01:19"
     }
   ]
 }

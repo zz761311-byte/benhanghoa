@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05 10:00",
+  "updated_at": "2026-09-05 11:00",
   "items": [
     {
       "id": "1pnlyzq",
@@ -176,6 +176,17 @@
       "source": "GoldSilver",
       "category": "metal",
       "published": "2026-09-04 21:31"
+    },
+    {
+      "id": "13ixsc0",
+      "title": "World food prices at highest since 2022 as supply risks mount, FAO says",
+      "title_vi": "FAO: Giá lương thực thế giới cao nhất kể từ năm 2022 do rủi ro nguồn cung gia tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/europe/world-food-prices-highest-since-2022-supply-risks-mount-fao-says-2026-09-04/",
+      "source": "Reuters",
+      "category": "soft",
+      "published": "2026-09-04 20:43"
     },
     {
       "id": "1dbwo3f",
@@ -539,17 +550,6 @@
       "source": "investingnews.com",
       "category": "energy",
       "published": "2026-09-03 20:43"
-    },
-    {
-      "id": "1k7myap",
-      "title": "Grain Rally Improves Farm Margins, But High Input Costs Remain",
-      "title_vi": "đợt tăng giá ngũ cốc cải thiện lợi nhuận của trang trại nhưng chi phí đầu vào vẫn cao",
-      "summary_vi": "Các lãnh đạo trang trại và các nhà kinh tế nông nghiệp tại Farm Progress Show chỉ ra rằng giá ngô, đậu tương và lúa mì tăng mạnh đã làm thay đổi triển vọng tài chính so với chỉ vài tháng trước. Sự phục hồi này đang mang lại cho các nhà sản xuất cơ hội đạt được tỷ suất lợi nhuận dương, nhưng những lợi ích đó tiếp tục bị hạn chế do phân bón và năng lượng tăng cao.",
-      "image": "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredImage?category=CMS&symbolicName=updated_dave_img_9418.jpg",
-      "link": "https://www.dtnpf.com/agriculture/web/ag/news/business-inputs/article/2026/09/03/grain-rally-improves-farm-margins",
-      "source": "DTN Progressive Farmer",
-      "category": "agri",
-      "published": "2026-09-03 20:42"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05 07:00",
+  "updated_at": "2026-09-05 08:00",
   "items": [
     {
       "id": "1pnlyzq",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-05 03:30"
+    },
+    {
+      "id": "13u2jey",
+      "title": "Crops Analysis | Follow-through selling in wheat",
+      "title_vi": "Phân tích cây trồng | Bán tiếp theo lúa mì",
+      "summary_vi": "Ngày 4 tháng 9 năm 2026",
+      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
+      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-follow-through-selling-wheat",
+      "source": "profarmer.com",
+      "category": "agri",
+      "published": "2026-09-05 03:09"
     },
     {
       "id": "7hnvew",
@@ -539,17 +550,6 @@
       "source": "DTN Progressive Farmer",
       "category": "agri",
       "published": "2026-09-03 20:42"
-    },
-    {
-      "id": "1yaude9",
-      "title": "‘We Were Mistaken’: Putin Admits Russia Was Unprepared for Ukrainian Strikes on Oil Refineries",
-      "title_vi": "'Chúng ta đã sai lầm': Putin thừa nhận Nga không chuẩn bị cho cuộc tấn công của Ukraine vào các nhà máy lọc dầu",
-      "summary_vi": "Máy bay không người lái của Ukraine đã tấn công các nhà máy lọc dầu của Nga ít nhất 70 lần kể từ đầu năm 2026, đẩy sản lượng lọc dầu của Nga xuống mức thấp nhất trong hai thập kỷ.",
-      "image": "https://static.kyivpost.com/storage/2026/08/20/db6b6944a2139b7eb10bf0186b6b5843.jpg?w=1200&q=90&f=jpg",
-      "link": "https://www.kyivpost.com/post/83674",
-      "source": "Kyiv Post",
-      "category": "energy",
-      "published": "2026-09-03 20:09"
     }
   ]
 }

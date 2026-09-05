@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05 23:00",
+  "updated_at": "2026-09-05 23:07",
   "items": [
     {
       "id": "eamjb4",
@@ -475,6 +475,17 @@
       "published": "2026-09-04 02:56"
     },
     {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "natesilver.net",
+      "category": "macro",
+      "published": "2026-09-04 02:47"
+    },
+    {
       "id": "ff1seq",
       "title": "The Outlook for More Global Supply Weighs on Coffee Prices",
       "title_vi": "Triển vọng về nguồn cung toàn cầu nhiều hơn ảnh hưởng đến giá cà phê",
@@ -539,17 +550,6 @@
       "source": "Silver And Black Pride",
       "category": "metal",
       "published": "2026-09-03 23:08"
-    },
-    {
-      "id": "wmp6g1",
-      "title": "Oil touches $97 per barrel as diesel prices surge to highest level this year",
-      "title_vi": "Dầu chạm 97 USD/thùng khi giá dầu diesel tăng lên mức cao nhất trong năm nay",
-      "summary_vi": "Giá trung bình trên toàn quốc đối với nhiên liệu diesel đã tăng lên 5,78 USD/gallon, tăng 9 xu chỉ sau một đêm.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260903-truck-diesel-ch-1025-341d82.jpg",
-      "link": "https://www.nbcnews.com/business/energy/oil-touches-97-barrel-diesel-prices-surge-highest-level-year-rcna595904",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-09-03 23:02"
     }
   ]
 }

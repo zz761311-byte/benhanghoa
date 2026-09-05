@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05 19:00",
+  "updated_at": "2026-09-05 20:01",
   "items": [
     {
       "id": "1vsg7dg",
@@ -77,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-05 03:30"
+    },
+    {
+      "id": "1u9omsl",
+      "title": "Grain futures trade mixed as strong export sales boost corn.",
+      "title_vi": "Giao dịch ngũ cốc tương lai hỗn hợp do doanh số xuất khẩu tăng mạnh thúc đẩy ngô.",
+      "summary_vi": "Thị trường ngũ cốc giao dịch trái chiều trước kỳ nghỉ cuối tuần do những người tham gia thị trường cân nhắc nhu cầu xuất khẩu mạnh mẽ trước những diễn biến địa chính trị. Giá ngô kỳ hạn giữ mức tăng nhẹ sau doanh số xuất khẩu hàng tuần mạnh mẽ là 1,986 triệu tấn, mặc dù phạm vi giao dịch không ổn định. Giá đậu tương kỳ hạn bước vào phiên tăng điểm",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/grain-futures-trade-mixed-as-strong-export-sales-boost-corn-9-4.jpg",
+      "link": "https://www.cmegroup.com/videos/2026/09/04/grain-futures-trade-mixed-as-strong-export-sales-boost-corn-9-4.html",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-09-05 03:10"
     },
     {
       "id": "13u2jey",
@@ -387,6 +398,17 @@
       "published": "2026-09-04 08:53"
     },
     {
+      "id": "15bkqap",
+      "title": "US Pain at the Pump Worsens After More US-Iran Fighting Lifts Oil Prices",
+      "title_vi": "Nỗi đau của Mỹ tại máy bơm trở nên tồi tệ hơn sau khi nhiều cuộc chiến giữa Mỹ và Iran nâng giá dầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/us-pain-at-the-pump-worsens-after-more-us-iran-fighting-lifts-oil-prices/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-04 08:38"
+    },
+    {
       "id": "31s9us",
       "title": "Soybean Demand Fuels Rally as China Buying Lifts U.S. Prices Into September",
       "title_vi": "Nhu cầu đậu nành tăng lên khi Trung Quốc mua hàng nâng giá đậu nành ở Mỹ vào tháng 9",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-03 22:23"
-    },
-    {
-      "id": "ge3g3i",
-      "title": "Why wheat prices are surging",
-      "title_vi": "Vì sao giá lúa mì tăng cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.axios.com/2026/09/03/wheat-prices-ukraine-russia",
-      "source": "Axios",
-      "category": "agri",
-      "published": "2026-09-03 22:02"
-    },
-    {
-      "id": "efor56",
-      "title": "Russia Says Oil Output Drop Is Temporary as Refineries Restart",
-      "title_vi": "Nga cho biết sản lượng dầu giảm là tạm thời khi các nhà máy lọc dầu khởi động lại",
-      "summary_vi": "Novak của Nga cho rằng sản lượng dầu giảm là tạm thời, nhưng các cuộc tấn công bằng máy bay không người lái vào các nhà máy lọc dầu và nhà ga xuất khẩu đang định hình lại các dự báo về dầu thô.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-03_ddzipc8izx.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Says-Oil-Output-Drop-Is-Temporary-as-Refineries-Restart.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-09-03 21:30"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06 01:00",
+  "updated_at": "2026-09-06 01:23",
   "items": [
     {
       "id": "1mv6ytw",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-05 22:00"
+    },
+    {
+      "id": "x8meg8",
+      "title": "Aluminum Prices Surge Toward 4-Year High — ING Warns Of Upside Supply Risks, Says Europe is ‘Particularly Exposed’",
+      "title_vi": "Giá nhôm tăng lên mức cao nhất trong 4 năm - ING cảnh báo về rủi ro nguồn cung tăng, cho biết châu Âu 'đặc biệt bị ảnh hưởng'",
+      "summary_vi": "Xung đột leo thang giữa Mỹ, Israel và Iran đã làm gián đoạn chuỗi cung ứng nhôm, vốn đang phải đối mặt với tình trạng thâm hụt do các nhà máy luyện kim ngừng hoạt động và sản lượng của Trung Quốc giảm.",
+      "image": "https://news.stocktwits-cdn.com/large_aluminum_resized_jpg_6efa759339.webp",
+      "link": "https://stocktwits.com/news-articles/markets/equity/aluminum-prices-surge-toward-4-year-high-ing-warns-of-upside-supply-risks-says-europe-is-particularly-exposed/cZd9q3YRI5C",
+      "source": "Stocktwits",
+      "category": "metal",
+      "published": "2026-09-05 21:55"
     },
     {
       "id": "12i9mra",
@@ -154,6 +165,17 @@
       "source": "IndexBox",
       "category": "metal",
       "published": "2026-09-05 02:23"
+    },
+    {
+      "id": "hm1tws",
+      "title": "California gas prices ‘to set record at the pump’ for Labor Day. What you’ll pay",
+      "title_vi": "Giá xăng ở California ‘lập kỷ lục tại máy bơm’ nhân Ngày Lễ Lao động Số tiền bạn sẽ trả",
+      "summary_vi": "Kỷ lục hiện tại về giá xăng Ngày Lao động được thiết lập vào năm 2012.",
+      "image": "https://www.sacbee.com/public/latest-news/lyr5zq/picture316331065/alternates/LANDSCAPE_1200/img-26-06-30-7C6C0.jpg",
+      "link": "https://www.sacbee.com/news/california/article317129960.html",
+      "source": "Sacramento Bee",
+      "category": "energy",
+      "published": "2026-09-05 02:13"
     },
     {
       "id": "1c1xoeo",
@@ -528,28 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-09-04 01:16"
-    },
-    {
-      "id": "x0k0ti",
-      "title": "US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says",
-      "title_vi": "EIA cho biết sản lượng dầu thô của Mỹ sẽ giảm trong thập kỷ tới do dự báo giá dầu Brent dưới 70 USD",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-crude-output-to-fall-next-decade-on-sub-70-brent-price-forecast-eia-says/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-04 00:23"
-    },
-    {
-      "id": "g17cfj",
-      "title": "Will soybean rally continue through September?",
-      "title_vi": "đợt tăng giá đậu nành sẽ tiếp tục đến tháng 9?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/will-soybean-rally-continue-through-september-",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-09-03 23:53"
     }
   ]
 }

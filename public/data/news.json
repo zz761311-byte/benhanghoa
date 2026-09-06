@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06 18:00",
+  "updated_at": "2026-09-06 19:00",
   "items": [
     {
       "id": "5c6aho",
@@ -442,6 +442,17 @@
       "published": "2026-09-04 16:51"
     },
     {
+      "id": "1j3tkx6",
+      "title": "With the midterms looming, Trump has no real way out of his gas price problem",
+      "title_vi": "Khi cuộc bầu cử giữa kỳ sắp đến, Trump thực sự không còn lối thoát nào cho vấn đề giá xăng",
+      "summary_vi": "Tổng thống đang phải đối mặt với tình trạng thiếu công suất lọc dầu và việc có thêm dầu của Venezuela cũng không giúp ích được gì.",
+      "image": "https://grist.org/wp-content/uploads/2026/09/Chris-Wright-and-Delcy-Rodriguez.jpg",
+      "link": "https://grist.org/energy/trump-iran-venezuela-biofuels-gasoline/",
+      "source": "grist.org",
+      "category": "energy",
+      "published": "2026-09-04 15:45"
+    },
+    {
       "id": "rr0vzk",
       "title": "Innovation Is Always Welcome in the Sweetener Category",
       "title_vi": "Sự đổi mới luôn được chào đón trong danh mục chất ngọt",
@@ -486,6 +497,17 @@
       "published": "2026-09-04 14:18"
     },
     {
+      "id": "bbg4mv",
+      "title": "Rally takes a breather ahead of Labor Day",
+      "title_vi": "đợt tăng giá tạm nghỉ trước Ngày Lao động",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-09-04 14:00"
+    },
+    {
       "id": "ak5sur",
       "title": "Natural Gas and Oil Forecast: Hormuz Risks Lift WTI as U.S. Crude Stocks Fall",
       "title_vi": "Dự báo khí đốt tự nhiên và dầu: Rủi ro Hormuz nâng WTI khi tồn kho dầu thô của Mỹ giảm",
@@ -528,28 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-04 08:38"
-    },
-    {
-      "id": "31s9us",
-      "title": "Soybean Demand Fuels Rally as China Buying Lifts U.S. Prices Into September",
-      "title_vi": "Nhu cầu đậu nành tăng lên khi Trung Quốc mua hàng nâng giá đậu nành ở Mỹ vào tháng 9",
-      "summary_vi": "Giá đậu nành của Mỹ tăng giá vào ngày 3 tháng 9 do lực mua mới của Trung Quốc và nhu cầu nghiền mạnh đã hỗ trợ giá, trong khi giá ngô và lúa mì mùa đông giao sau giảm.",
-      "image": "https://www.agrolatam.com/files/image/79/79839/6a99eff3d844d_600_315!.png?s=ee5ae5001272adb5af51031e3306613e&d=1788473766",
-      "link": "https://www.agrolatam.com/usa/news/soybean-demand-china-buying-us-grain-prices-september/",
-      "source": "AgroLatam",
-      "category": "energy",
-      "published": "2026-09-04 05:14"
-    },
-    {
-      "id": "tlp3hb",
-      "title": "Beans Bouce While Corn, Wheat See More Profit Taking on Black Sea Peace Talks: Cattle Soar",
-      "title_vi": "Đậu nảy trong khi ngô, lúa mì thu được nhiều lợi nhuận hơn từ các cuộc đàm phán hòa bình ở Biển Đen: Gia súc tăng vọt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/beans-bouce-while-corn-wheat-see-more-profit-taking-black-sea-peace-talks",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-09-04 04:42"
     }
   ]
 }

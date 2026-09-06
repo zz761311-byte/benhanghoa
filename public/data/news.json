@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06 22:01",
+  "updated_at": "2026-09-06 23:01",
   "items": [
     {
       "id": "194dqbz",
@@ -365,6 +365,17 @@
       "published": "2026-09-04 20:38"
     },
     {
+      "id": "3uad0a",
+      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
+      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
+      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/markets/agriculture/images/grain-oilseed-pgp-leadspace.jpg",
+      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
+      "source": "cmegroup.com",
+      "category": "agri",
+      "published": "2026-09-04 20:28"
+    },
+    {
       "id": "1sx7707",
       "title": "Elevated crack spreads and crude oil prices contribute to higher prices at the pump",
       "title_vi": "Sự chênh lệch crack tăng cao và giá dầu thô góp phần làm tăng giá tại máy bơm",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-09-04 12:59"
-    },
-    {
-      "id": "17cu5hs",
-      "title": "Sugar-sweetened beverage study isn’t merely flawed. It’s pure data dredging",
-      "title_vi": "Nghiên cứu đồ uống có đường không chỉ có sai sót. Đó là việc nạo vét dữ liệu thuần túy",
-      "summary_vi": "Một nghiên cứu gần đây liên quan đến đồ uống có đường với bệnh ung thư dạ dày có mùi tanh. Đúng vậy. Nhiều hơn chúng tôi nghĩ. Vấn đề lớn hơn là điều gì sẽ xảy ra khi các nhà nghiên cứu có hàng nghìn cách để phân tích cùng một dữ liệu. Tiếng ồn thống kê có thể trở thành thứ khoa học rác rưởi đội lốt khoa học tốt.",
-      "image": "https://www.acsh.org/sites/default/files/styles/share_large/public/articles/screenshot-2026-08-30-at-1.30.15-pm.png?itok=3y7HKhaN",
-      "link": "https://www.acsh.org/news/2026/09/04/sugar-sweetened-beverage-study-isnt-merely-flawed-its-pure-data-dredging-50318",
-      "source": "American Council on Science and Health",
-      "category": "soft",
-      "published": "2026-09-04 11:19"
     }
   ]
 }

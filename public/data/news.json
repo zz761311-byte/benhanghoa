@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06 12:00",
+  "updated_at": "2026-09-06 13:01",
   "items": [
     {
       "id": "5c6aho",
@@ -121,6 +121,17 @@
       "source": "Inside Climate News",
       "category": "energy",
       "published": "2026-09-05 15:55"
+    },
+    {
+      "id": "1wiftgw",
+      "title": "The overlooked Russia-Ukraine war grows its outsized impact on energy as U.S. diesel prices hit all-time high",
+      "title_vi": "Cuộc chiến Nga-Ukraine bị bỏ qua ngày càng có tác động to lớn đến năng lượng khi giá dầu diesel của Mỹ đạt mức cao nhất mọi thời đại",
+      "summary_vi": "Các cuộc tấn công ngày càng thành công của Ukraine vào các nhà máy lọc dầu của Nga đang làm rung chuyển thị trường năng lượng xăng và dầu diesel trên toàn thế giới.",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2292918001-e1788550561358.jpg?resize=1200,600",
+      "link": "https://fortune.com/2026/09/05/overlooked-russia-ukraine-war-outsized-impact-energy-diesel-high/",
+      "source": "Fortune",
+      "category": "energy",
+      "published": "2026-09-05 14:09"
     },
     {
       "id": "1vsg7dg",
@@ -539,17 +550,6 @@
       "source": "indexbox.io",
       "category": "macro",
       "published": "2026-09-04 04:40"
-    },
-    {
-      "id": "wmp6g1",
-      "title": "Oil touches $97 per barrel as diesel prices surge to highest level this year",
-      "title_vi": "Dầu chạm 97 USD/thùng khi giá dầu diesel tăng lên mức cao nhất trong năm nay",
-      "summary_vi": "Giá trung bình trên toàn quốc đối với nhiên liệu diesel đã tăng lên 5,78 USD/gallon, tăng 9 xu chỉ sau một đêm.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260903-truck-diesel-ch-1025-341d82.jpg",
-      "link": "https://www.nbcnews.com/business/energy/oil-touches-97-barrel-diesel-prices-surge-highest-level-year-rcna595904",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-09-04 03:11"
     }
   ]
 }

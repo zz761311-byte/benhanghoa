@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06 07:01",
+  "updated_at": "2026-09-06 08:00",
   "items": [
     {
       "id": "5c6aho",
@@ -88,6 +88,17 @@
       "source": "Stocktwits",
       "category": "metal",
       "published": "2026-09-05 21:55"
+    },
+    {
+      "id": "j9rkzi",
+      "title": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026",
+      "title_vi": "Chiến tranh Iran làm đảo lộn triển vọng thị trường dầu mỏ của IEA khi cung và cầu toàn cầu giảm vào năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/iran-war-upends-ieas-oil-market-outlook-as-global-supply-and-demand-to-contract-in-2026/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-05 18:33"
     },
     {
       "id": "12i9mra",
@@ -539,17 +550,6 @@
       "source": "nytimes.com",
       "category": "energy",
       "published": "2026-09-04 02:56"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "natesilver.net",
-      "category": "macro",
-      "published": "2026-09-04 02:47"
     }
   ]
 }

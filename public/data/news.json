@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-07 04:00",
+  "updated_at": "2026-09-07 05:00",
   "items": [
+    {
+      "id": "170s5st",
+      "title": "Most Critical Minerals Aren’t Going to the Energy Transition",
+      "title_vi": "Hầu hết các khoáng chất quan trọng sẽ không chuyển sang quá trình chuyển đổi năng lượng",
+      "summary_vi": "Một phân tích của Viện Oakland thách thức tuyên bố rằng sự gia tăng lớn trong khai thác mỏ là chi phí không thể tránh khỏi khi thay thế nhiên liệu hóa thạch. Sử dụng dữ liệu của Cơ quan Năng lượng Quốc tế (IEA), Oakland đã tính toán rằng mạng lưới gió, mặt trời, năng lượng tái tạo, pin lưới và xe điện",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-06_oi6gqjtwfu.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Most-Critical-Minerals-Arent-Going-to-the-Energy-Transition.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-07 05:00"
+    },
     {
       "id": "1bsjjzy",
       "title": "Oil Majors Seek Bigger Bargaining Power in Labor Disputes",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-07 02:00"
+    },
+    {
+      "id": "13zkh31",
+      "title": "US Natural Gas Falls on Warmer Outlook, Growing Storage Surplus",
+      "title_vi": "Khí đốt tự nhiên của Hoa Kỳ giảm do triển vọng ấm hơn, dư thừa kho dự trữ ngày càng tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/03/us-natural-gas-falls-on-warmer-outlook-growing-storage-surplus/",
+      "source": "energynow.com",
+      "category": "energy",
+      "published": "2026-09-07 00:41"
     },
     {
       "id": "1v0lgqf",
@@ -121,17 +143,6 @@
       "source": "PBS",
       "category": "energy",
       "published": "2026-09-06 00:17"
-    },
-    {
-      "id": "1mv6ytw",
-      "title": "This Cattle Feedlot Turns Manure Into 1.2 Million MMBtu of Natural Gas a Year",
-      "title_vi": "Khu chăn nuôi gia súc này biến phân thành 1,2 triệu MMBtu khí tự nhiên mỗi năm",
-      "summary_vi": "Một dự án mới đang tìm cách biến phân gia súc thành nguồn khí đốt tự nhiên bền vững để sản xuất năng lượng và nhiên liệu vận chuyển. Sáng kiến ​​này vừa được khởi công ở Broken Bow, Nebraska, nơi có tám máy phân hủy kỵ khí sẽ xử lý chất thải từ cơ sở chăn nuôi gia súc Adams Land & thành",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-04_ctrxzdkisq.jpg",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Nebraska-Cattle-Feedlot-Turns-Manure-Into-12-Million-MMBtu-of-Natural-Gas-a-Yea.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-06 00:00"
     },
     {
       "id": "x8meg8",
@@ -539,17 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-09-04 14:00"
-    },
-    {
-      "id": "ak5sur",
-      "title": "Natural Gas and Oil Forecast: Hormuz Risks Lift WTI as U.S. Crude Stocks Fall",
-      "title_vi": "Dự báo khí đốt tự nhiên và dầu: Rủi ro Hormuz nâng WTI khi tồn kho dầu thô của Mỹ giảm",
-      "summary_vi": "Căng thẳng Mỹ-Iran thắt chặt nguồn cung dầu thô khi WTI hướng tới 92,67 USD và Brent giữ xu hướng tăng, trong khi nhu cầu LNG phục hồi hỗ trợ khí đốt tự nhiên.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/Main-Images-12.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-1622860",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-09-04 12:59"
     }
   ]
 }

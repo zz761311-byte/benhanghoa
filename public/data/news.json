@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06 15:00",
+  "updated_at": "2026-09-06 15:57",
   "items": [
     {
       "id": "5c6aho",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-06 02:00"
+    },
+    {
+      "id": "dfmot5",
+      "title": "Silver Alloy Sliding Contacts Market Outlook to 2035",
+      "title_vi": "Triển vọng thị trường liên hệ trượt hợp kim bạc đến năm 2035",
+      "summary_vi": "Thị trường tiếp xúc trượt hợp kim bạc toàn cầu dự kiến ​​​​sẽ phát triển đến năm 2035, được thúc đẩy bằng cách mở rộng lắp đặt tự động hóa công nghiệp và năng lượng tái tạo, với nhu cầu hàng đầu ở Châu Á-Thái Bình Dương.",
+      "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-silver-alloy-sliding-contacts-market-analysis-forecast-size-trends-and-insights-1788633109.webp",
+      "link": "https://www.indexbox.io/blog/silver-alloy-sliding-contacts-market-outlook-to-2035/",
+      "source": "IndexBox",
+      "category": "metal",
+      "published": "2026-09-06 01:31"
     },
     {
       "id": "efz1nc",
@@ -539,17 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-09-04 04:42"
-    },
-    {
-      "id": "1ps4u3n",
-      "title": "Trading Lab Analysis: Dollar Index, Silver, Nasdaq 100, Coffee Breakouts and Key Levels - News and Statistics",
-      "title_vi": "Phân tích phòng thí nghiệm giao dịch: Chỉ số đô la, bạc, Nasdaq 100, đột phá cà phê và các mức chính - Tin tức và thống kê",
-      "summary_vi": "Sau một thời gian gián đoạn ngắn, thị trường có những chuyển biến đáng kể. Sự đột phá của Đô la vô hiệu, Bạc bảo vệ mức hỗ trợ, Nasdaq giữ khoảng cách tăng giá, Cà phê phá vỡ dưới mức hợp nhất. Các cấp độ chính được xác định để giao dịch.",
-      "image": "https://www.indexbox.io/landing/img/blog/telegram-fallback/44f37acc4310160386bce1ddefd0825a.webp",
-      "link": "https://www.indexbox.io/blog/market-analysis-dollar-silver-nasdaq-and-coffee-key-levels/",
-      "source": "indexbox.io",
-      "category": "macro",
-      "published": "2026-09-04 04:40"
     }
   ]
 }

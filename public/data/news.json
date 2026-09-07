@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-09-07 23:06",
+  "updated_at": "2026-09-08 00:01",
   "items": [
+    {
+      "id": "9008ad",
+      "title": "Copper&#039;s Longest Rally Since 1994 Collides With a Shrinking Supply Chain",
+      "title_vi": "đợt tăng giá dài nhất của đồng kể từ năm 1994 đi kèm với chuỗi cung ứng bị thu hẹp",
+      "summary_vi": "Đồng đang có chuỗi tăng giá hàng tuần dài nhất kể từ năm 1994, và thị trường vật chất bên dưới đợt phục hồi ngày càng mỏng hơn. Giá chuẩn trên Sàn giao dịch kim loại Luân Đôn ghi nhận mức tăng hàng tuần thứ 10 liên tiếp cho đến thứ Sáu tuần trước, giao dịch gần 14.300 USD/tấn và nằm trong tầm với của",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-07_xomvohnsj6.jpg",
+      "link": "https://oilprice.com/Metals/Commodities/Coppers-Longest-Rally-Since-1994-Collides-With-a-Shrinking-Supply-Chain.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-09-08 00:00"
+    },
+    {
+      "id": "1bwmqog",
+      "title": "LME Copper Prices Hit Record on Supply Issues, U.S. Tariff Concerns",
+      "title_vi": "Giá đồng LME đạt kỷ lục do vấn đề nguồn cung, lo ngại về thuế quan của Hoa Kỳ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/lme-copper-prices-hit-record-on-supply-issues-u-s-tariff-concerns-89e6bbc6",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-09-07 23:42"
+    },
+    {
+      "id": "43q7wi",
+      "title": "China Halts New Battery Storage Plant Approvals",
+      "title_vi": "Trung Quốc tạm dừng phê duyệt nhà máy lưu trữ pin mới",
+      "summary_vi": "Trung Quốc đã tạm dừng phê duyệt các nhà máy lưu trữ pin mới trong bối cảnh xem xét lại công suất hiện có và theo kế hoạch, hãng tin tài chính Trung Quốc Cailianshe đưa tin vào cuối tuần này, trích dẫn các nguồn tin trong ngành. Tạm dừng phê duyệt các nhà máy chưa khởi công xây dựng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-07_jzecdh49vk.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-New-Battery-Storage-Plant-Approvals.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-07 23:30"
+    },
     {
       "id": "1gek3r8",
       "title": "Uzbekistan Scales Back Nuclear Cooperation With Russia",
@@ -11,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-07 23:00"
+    },
+    {
+      "id": "fgj2kg",
+      "title": "U.S. Gasoline Prices Hit Labor Day Record",
+      "title_vi": "Giá xăng của Hoa Kỳ đạt kỷ lục trong Ngày lễ Lao động",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/u-s-gasoline-prices-hit-labor-day-record-1a789682",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-09-07 22:33"
     },
     {
       "id": "1ini21k",
@@ -90,17 +134,6 @@
       "published": "2026-09-07 19:42"
     },
     {
-      "id": "1dszui4",
-      "title": "Saudi Aramco&#039;s Jizan Refinery Hit Again as Houthi Attacks Escalate",
-      "title_vi": "Nhà máy lọc dầu Jizan của Saudi Aramco lại bị tấn công khi các cuộc tấn công của Houthi leo thang",
-      "summary_vi": "Nhà máy lọc dầu Jizan công suất 400.000 thùng mỗi ngày của Saudi Aramco đã bị tấn công trong một cuộc tấn công mới hôm thứ Hai, đe dọa một trung tâm lọc dầu lớn ở Biển Đỏ trong khi Ả Rập Saudi đang di chuyển nhiều dầu hơn về phía tây để tránh eo biển Hormuz. Tờ Financial Times đưa tin rằng các cơ sở ở phía tây nam Ả Rập Saudi",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramcos-Jizan-Refinery-Hit-Again-as-Houthi-Attacks-Escalate.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-07 19:34"
-    },
-    {
       "id": "92yajp",
       "title": "Fed expectations, geopolitical risks influence commodity markets",
       "title_vi": "Kỳ vọng của Fed, rủi ro địa chính trị ảnh hưởng đến thị trường hàng hóa",
@@ -110,17 +143,6 @@
       "source": "Anadolu Ajansı",
       "category": "macro",
       "published": "2026-09-07 19:26"
-    },
-    {
-      "id": "1vzcj2z",
-      "title": "Iran Says It Will Control New Hormuz Shipping Corridor",
-      "title_vi": "Iran cho biết họ sẽ kiểm soát Hành lang vận chuyển Hormuz mới",
-      "summary_vi": "Iran hôm thứ Hai cho biết họ đang chuẩn bị ký một thỏa thuận với Oman để thiết lập một hành lang vận chuyển mới qua eo biển Hormuz dưới sự kiểm soát của Iran, với các tàu được yêu cầu phối hợp với Tehran để đi vào khu vực hàng hải hạn chế mới xung quanh điểm huyết mạch dầu mỏ quan trọng.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-07_e3yprhhuk9.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-It-Will-Control-New-Hormuz-Shipping-Corridor.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-07 18:47"
     },
     {
       "id": "n01n1q",
@@ -508,6 +530,17 @@
       "published": "2026-09-04 22:15"
     },
     {
+      "id": "w0zjsv",
+      "title": "Did Platinum Find a Bottom?",
+      "title_vi": "Bạch kim đã tìm thấy đáy?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/did-platinum-bottom-140002529.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-09-04 21:00"
+    },
+    {
       "id": "13ixsc0",
       "title": "World food prices at highest since 2022 as supply risks mount, FAO says",
       "title_vi": "FAO: Giá lương thực thế giới cao nhất kể từ năm 2022 do rủi ro nguồn cung gia tăng",
@@ -517,39 +550,6 @@
       "source": "Reuters",
       "category": "soft",
       "published": "2026-09-04 20:43"
-    },
-    {
-      "id": "1dbwo3f",
-      "title": "Pittsburgh&#8217;s La Prima Espresso Gets Second Wind in Expanded Roastery",
-      "title_vi": "La Prima Espresso của Pittsburgh đón làn gió thứ hai trong cơ sở rang xay mở rộng",
-      "summary_vi": "Công ty La Prima Espresso có trụ sở tại Pittsburgh sắp kỷ niệm 38 năm thành lập với cơ sở rang xay mở rộng, bao bì bán lẻ mới và tuyển chọn tinh tế các loại cà phê theo mùa và số lượng có hạn. Tòa nhà “Torrefazione” rộng 6.000 foot vuông được mở rộng...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/09/04/pittsburghs-la-prima-espresso-gets-second-wind-in-expanded-roastery/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-09-04 20:39"
-    },
-    {
-      "id": "1qrrpp",
-      "title": "EEX THE EGSI Natural Gas Day Futures (Sep 2026 D04) Trade Ideas — EEX:GG04U2026",
-      "title_vi": "Ý tưởng giao dịch trong Ngày Khí đốt Tự nhiên EEX THE EGSI (Tháng 9 năm 2026 D04) - EEX:GG04U2026",
-      "summary_vi": "Xem các ý tưởng đầu tư và giao dịch mới nhất cho Hợp đồng Tương lai Ngày Khí đốt Tự nhiên EEX THE EGSI (Tháng 9 năm 2026 D04) từ các tác giả hàng đầu của chúng tôi. Họ chia sẻ ý kiến ​​về xu hướng giá và triển vọng kỹ thuật của thị trường.",
-      "image": "https://s3-symbol-logo.tradingview.com/natural-gas--600.png",
-      "link": "https://www.tradingview.com/symbols/EEX-GG1!/ideas/page-7/?contract",
-      "source": "TradingView",
-      "category": "energy",
-      "published": "2026-09-04 20:38"
-    },
-    {
-      "id": "3uad0a",
-      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
-      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
-      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/markets/agriculture/images/grain-oilseed-pgp-leadspace.jpg",
-      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
-      "source": "cmegroup.com",
-      "category": "agri",
-      "published": "2026-09-04 20:28"
     }
   ]
 }

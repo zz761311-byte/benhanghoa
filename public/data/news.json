@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-07 08:01",
+  "updated_at": "2026-09-07 09:00",
   "items": [
+    {
+      "id": "g7m0d9",
+      "title": "Some popular drinks were linked to depression and anxiety. Coffee was different - News-Medical",
+      "title_vi": "Một số đồ uống phổ biến có liên quan đến trầm cảm và lo lắng. Cà phê đã khác - Tin tức-Medical",
+      "summary_vi": "Từ cà phê và nước tăng lực đến trà sữa và nước ngọt, một phân tích trên hơn 2 triệu người cho thấy mối quan hệ phức tạp đáng ngạc nhiên giữa những gì chúng ta uống và sức khỏe tâm thần.",
+      "image": "https://www.news-medical.net/images/news/ImageForNews_846344_17887452704486739.jpg",
+      "link": "https://www.news-medical.net/news/20260906/Some-popular-drinks-were-linked-to-depression-and-anxiety-Coffee-was-different.aspx",
+      "source": "News-Medical",
+      "category": "soft",
+      "published": "2026-09-07 08:42"
+    },
     {
       "id": "5bhdol",
       "title": "Russia Is Redrawing Its Energy Map Through the Arctic",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "macro",
       "published": "2026-09-04 14:18"
-    },
-    {
-      "id": "my7osy",
-      "title": "How ‘Hank Holder’ scored a rare win in corn market",
-      "title_vi": "Làm thế nào 'Hank Holder' giành được chiến thắng hiếm hoi trên thị trường ngô",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-09-04 14:00"
     }
   ]
 }

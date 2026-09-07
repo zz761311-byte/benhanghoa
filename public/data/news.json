@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-07 12:00",
+  "updated_at": "2026-09-07 13:00",
   "items": [
+    {
+      "id": "1v9djq7",
+      "title": "Shipping Fuel Shortage Looms as Refiners Prioritize Diesel",
+      "title_vi": "Tình trạng thiếu nhiên liệu vận chuyển xuất hiện khi các nhà máy lọc dầu ưu tiên động cơ diesel",
+      "summary_vi": "Nguồn cung dầu nhiên liệu cho ngành vận tải biển đang bị hạn chế do nguồn cung dầu diesel khan hiếm do chiến tranh gây ra, do các nhà lọc dầu ưu tiên nhiên liệu diesel hơn dầu diesel, Reuters đưa tin, trong đó châu Á sẽ phải hứng chịu đòn nặng nề nhất. Sự thiếu hụt được thấy ở mức 218.000 thùng mỗi ngày trong",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Fuel-Shortage-Looms-as-Refiners-Prioritize-Diesel.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-07 12:50"
+    },
     {
       "id": "89g0g7",
       "title": "Oil Prices Climb After U.S. Strikes Three Iranian Tankers and Iran Vows Revenge",
@@ -44,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-07 06:00"
+    },
+    {
+      "id": "95ibht",
+      "title": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes",
+      "title_vi": "Giá dầu tăng nhẹ sau cuộc đình công thương mại của Mỹ và Iran",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html",
+      "source": "nytimes.com",
+      "category": "energy",
+      "published": "2026-09-07 05:32"
     },
     {
       "id": "170s5st",
@@ -110,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-06 22:00"
-    },
-    {
-      "id": "5c6aho",
-      "title": "Iran War Forces a Rewrite of Global Oil Trade Routes",
-      "title_vi": "Chiến tranh Iran buộc phải viết lại các tuyến đường thương mại dầu mỏ toàn cầu",
-      "summary_vi": "Giá dầu sắp ghi thêm một tuần tăng nữa khi cuộc chiến ở Trung Đông vẫn nóng bỏng với triển vọng bi quan. Các nhà xuất khẩu dầu mỏ trong khu vực đang gấp rút đa dạng hóa các kênh xuất khẩu, còn các nhà nhập khẩu đang gấp rút đa dạng hóa các nhà cung cấp. Thị trường dầu mỏ đang chan hòa",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-04_rl9ruf0qpv.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Forces-a-Rewrite-of-Global-Oil-Trade-Routes.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-06 06:00"
     },
     {
       "id": "pwf3lg",
@@ -539,17 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-09-04 14:32"
-    },
-    {
-      "id": "1m6gh04",
-      "title": "China rare earth firms halt some US shipments over geopolitical worries, sources say",
-      "title_vi": "Các nguồn tin cho biết các công ty đất hiếm Trung Quốc tạm dừng một số chuyến hàng từ Mỹ vì lo ngại địa chính trị",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/aerospace-defense/china-rare-earth-firms-halt-some-us-shipments-over-geopolitical-worries-sources-2026-09-04/",
-      "source": "Reuters",
-      "category": "macro",
-      "published": "2026-09-04 14:18"
     }
   ]
 }

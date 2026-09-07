@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-07 16:01",
+  "updated_at": "2026-09-07 17:00",
   "items": [
+    {
+      "id": "c2xdif",
+      "title": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise",
+      "title_vi": "Goldman Sachs cảnh báo dầu có thể đạt 120 USD khi rủi ro vận chuyển tăng lên",
+      "summary_vi": "Theo Goldman Sachs, giá dầu có thể tăng lên tới 120 USD/thùng nếu các cuộc tấn công vào hoạt động vận chuyển ở Trung Đông gia tăng. Daan Struyven, c.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-07_fonzb9it4r.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-Oil-Could-Hit-120-as-Shipping-Risks-Rise.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-07 16:30"
+    },
     {
       "id": "q26mps",
       "title": "Qatar Moves Six LNG Tankers Toward Gulf as Export Restart Looms",
@@ -123,17 +134,6 @@
       "published": "2026-09-07 04:00"
     },
     {
-      "id": "m75edc",
-      "title": "High Fuel Prices Are Powering an Electric Motorcycle Boom",
-      "title_vi": "Giá nhiên liệu cao đang thúc đẩy sự bùng nổ xe máy điện",
-      "summary_vi": "Trong khi doanh số bán ô tô điện và xe tải tăng chậm hơn dự kiến ​​trong những năm gần đây, khiến các chính phủ phải suy nghĩ lại về mục tiêu nhiên liệu sạch và các nhà sản xuất ô tô phải giảm tốc độ sản xuất xe điện thì xe máy điện đang ngày càng trở nên phổ biến ở một số nơi trên thế giới. Hai",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-03_g7t35hl9sm.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/High-Fuel-Prices-Are-Powering-an-Electric-Motorcycle-Boom.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-07 02:00"
-    },
-    {
       "id": "13zkh31",
       "title": "US Natural Gas Falls on Warmer Outlook, Growing Storage Surplus",
       "title_vi": "Khí đốt tự nhiên của Hoa Kỳ giảm do triển vọng ấm hơn, dư thừa kho dự trữ ngày càng tăng",
@@ -143,6 +143,17 @@
       "source": "energynow.com",
       "category": "energy",
       "published": "2026-09-07 00:41"
+    },
+    {
+      "id": "1iy936i",
+      "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
+      "title_vi": "Sugar đang hoạt động tốt hơn thị trường chứng khoán trong năm nay. Đây là điều gì đang thúc đẩy nó và nó có thể đi đến đâu từ đây",
+      "summary_vi": "Giá chất tạo ngọt tăng mạnh trong tuần trước, phản ánh triển vọng nguồn cung toàn cầu suy giảm mạnh.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107348242-1702653806473-gettyimages-1250817960-Sugar_Price_Rise.jpeg?v=1703592166&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
+      "source": "CNBC",
+      "category": "soft",
+      "published": "2026-09-06 19:48"
     },
     {
       "id": "pwf3lg",
@@ -539,17 +550,6 @@
       "source": "grist.org",
       "category": "energy",
       "published": "2026-09-04 15:45"
-    },
-    {
-      "id": "rr0vzk",
-      "title": "Innovation Is Always Welcome in the Sweetener Category",
-      "title_vi": "Sự đổi mới luôn được chào đón trong danh mục chất ngọt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nutritionaloutlook.com/view/innovation-is-always-welcome-in-the-sweetener-category",
-      "source": "Nutritional Outlook",
-      "category": "soft",
-      "published": "2026-09-04 15:38"
     }
   ]
 }

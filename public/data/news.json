@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-07 18:01",
+  "updated_at": "2026-09-07 19:00",
   "items": [
+    {
+      "id": "1vzcj2z",
+      "title": "Iran Says It Will Control New Hormuz Shipping Corridor",
+      "title_vi": "Iran cho biết họ sẽ kiểm soát Hành lang vận chuyển Hormuz mới",
+      "summary_vi": "Iran hôm thứ Hai cho biết họ đang chuẩn bị ký một thỏa thuận với Oman để thiết lập một hành lang vận chuyển mới qua eo biển Hormuz dưới sự kiểm soát của Iran, với các tàu được yêu cầu phối hợp với Tehran để đi vào khu vực hàng hải hạn chế mới xung quanh điểm huyết mạch dầu mỏ quan trọng.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-07_e3yprhhuk9.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-It-Will-Control-New-Hormuz-Shipping-Corridor.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-07 18:47"
+    },
     {
       "id": "1g34ogs",
       "title": "India’s Crude Oil Benchmark Tops $100 as Middle East War Escalates",
@@ -132,17 +143,6 @@
       "source": "nytimes.com",
       "category": "energy",
       "published": "2026-09-07 05:32"
-    },
-    {
-      "id": "170s5st",
-      "title": "Most Critical Minerals Aren’t Going to the Energy Transition",
-      "title_vi": "Hầu hết các khoáng chất quan trọng sẽ không chuyển sang quá trình chuyển đổi năng lượng",
-      "summary_vi": "Một phân tích của Viện Oakland thách thức tuyên bố rằng sự gia tăng lớn trong khai thác mỏ là chi phí không thể tránh khỏi khi thay thế nhiên liệu hóa thạch. Sử dụng dữ liệu của Cơ quan Năng lượng Quốc tế (IEA), Oakland đã tính toán rằng mạng lưới gió, mặt trời, năng lượng tái tạo, pin lưới và xe điện",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-06_oi6gqjtwfu.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Most-Critical-Minerals-Arent-Going-to-the-Energy-Transition.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-07 05:00"
     },
     {
       "id": "1sx39ap",
@@ -541,15 +541,15 @@
       "published": "2026-09-04 18:33"
     },
     {
-      "id": "g9otot",
-      "title": "Price of diesel hits all-time high as Iran, Ukraine wars constrict global supply",
-      "title_vi": "Giá dầu diesel đạt mức cao nhất mọi thời đại do chiến tranh Iran, Ukraine hạn chế nguồn cung toàn cầu",
-      "summary_vi": "Đối với người tiêu dùng Mỹ, chi phí dầu diesel tăng có thể dẫn đến giá bán lẻ cao hơn cho mọi thứ, từ nông sản, đồ chơi đến gỗ xẻ và quần áo.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260903-truck-gas-station-ch-1644-79c704.jpg",
-      "link": "https://www.nbcnews.com/business/energy/diesel-hits-all-time-high-iran-ukraine-trump-rcna595998",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-09-04 17:41"
+      "id": "dlp2i5",
+      "title": "Coffee futures prices continue to fall amid an improving global outlook, more details on the StoneX estimate",
+      "title_vi": "Giá cà phê kỳ hạn tiếp tục giảm trong bối cảnh triển vọng toàn cầu được cải thiện, thông tin chi tiết hơn về ước tính của StoneX",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.comunicaffe.com/coffee-futures-prices-continue-to-fall-amid-an-improving-global-outlook-more-detail-on-the-stonex-estimate/",
+      "source": "comunicaffe.com",
+      "category": "soft",
+      "published": "2026-09-04 18:09"
     }
   ]
 }

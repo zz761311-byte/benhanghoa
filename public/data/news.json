@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09 05:01",
+  "updated_at": "2026-09-09 05:44",
   "items": [
     {
       "id": "1kx6buw",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-09 05:00"
+    },
+    {
+      "id": "1rn6w3i",
+      "title": "Wet fall forecast raises concerns about harvest timing",
+      "title_vi": "Dự báo mùa thu ẩm ướt làm tăng mối lo ngại về thời điểm thu hoạch",
+      "summary_vi": "Một nông dân ở miền trung bắc Ohio cho biết thời tiết gần đây trong tháng qua đã dẫn đến sự phát triển cây trồng không đồng đều trên toàn bang. Patty Mann cho biết cả ngô và đậu nành đều có mặt trên thị trường. Cô nói: “Chúng tôi đã tăng được khoảng 4 đến 5 inch trong khoảng thời gian sáu hoặc tám giờ. “Ở những khu vực đó, nhiệt độ thấp […]",
+      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2025/09/Corn-Harvest_Sept_2025-e1758920129458.jpg",
+      "link": "https://www.brownfieldagnews.com/news/wet-fall-forecast-raises-concerns-about-harvest-timing/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-09-09 04:01"
     },
     {
       "id": "ufm8sk",
@@ -211,6 +222,17 @@
       "published": "2026-09-08 19:00"
     },
     {
+      "id": "1pkghz",
+      "title": "Nate Silver’s forecast shows Democrats leading in 9 Senate races",
+      "title_vi": "Dự báo của Nate Silver cho thấy đảng Dân chủ dẫn đầu trong 9 cuộc đua vào Thượng viện",
+      "summary_vi": "Mô hình của Silver mang lại cho Đảng Dân chủ 56,8% cơ hội giành quyền kiểm soát Thượng viện, với cuộc đua ở Texas được xác định là cuộc tranh cử có khả năng quyết định cao nhất.",
+      "image": "https://eciks.org/wp-content/uploads/2026/09/nate-silver-senate-forecast-democrats-scaled.webp",
+      "link": "https://eciks.org/25597-nate-silver-senate-forecast-democrats",
+      "source": "eciks.org",
+      "category": "metal",
+      "published": "2026-09-08 17:59"
+    },
+    {
       "id": "5rqi2n",
       "title": "Copper Reaches New Highs on U.S. Tariff Fears, Supply Challenges",
       "title_vi": "Đồng đạt mức cao mới do lo ngại về thuế quan của Hoa Kỳ, thách thức về nguồn cung",
@@ -308,17 +330,6 @@
       "source": "Ohio's Country Journal",
       "category": "agri",
       "published": "2026-09-08 02:00"
-    },
-    {
-      "id": "1ap3mbs",
-      "title": "Republicans Chances of Losing Senate to Democrats, Per Nate Silver Forecast",
-      "title_vi": "Đảng Cộng hòa có nguy cơ mất Thượng viện vào tay Đảng Dân chủ, Per Nate Silver Dự báo",
-      "summary_vi": "Dự báo có đảng Dân chủ dẫn trước ở Bắc Carolina, Georgia, Minnesota, Maine, Ohio, New Hampshire, Michigan, Texas và Alaska.",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2026/09/GettyImages-2292617855.jpg?w=1200&crop=1",
-      "link": "https://www.newsweek.com/republicans-chances-of-losing-senate-to-democrats-per-nate-silver-forecast-12412870",
-      "source": "Newsweek",
-      "category": "metal",
-      "published": "2026-09-08 01:38"
     },
     {
       "id": "1dpm706",
@@ -539,17 +550,6 @@
       "source": "RFI",
       "category": "agri",
       "published": "2026-09-06 17:30"
-    },
-    {
-      "id": "1isrzn7",
-      "title": "Coffee Arabica Week 07 to 11/09: Price Returns to a Key Zone",
-      "title_vi": "Cà phê Arabica tuần 07 đến 09/11: Giá quay trở lại vùng trọng điểm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.dailyforex.com/forex-technical-analysis/2026/09/coffee-extends-decline-toward-june-levels-week-7th-to-11th-september-2026/249379",
-      "source": "DailyForex",
-      "category": "soft",
-      "published": "2026-09-06 16:02"
     }
   ]
 }

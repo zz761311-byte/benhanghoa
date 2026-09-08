@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08 08:00",
+  "updated_at": "2026-09-08 09:00",
   "items": [
     {
       "id": "1y2lw5e",
@@ -121,6 +121,17 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-09-07 23:42"
+    },
+    {
+      "id": "13dxns1",
+      "title": "Ukraine strikes Russian oil refineries after Kushner, Witkoff visit Moscow and Kyiv",
+      "title_vi": "Ukraine tấn công các nhà máy lọc dầu của Nga sau khi Kushner, Witkoff thăm Moscow và Kyiv",
+      "summary_vi": "Cuộc tấn công diễn ra sau cuộc họp mà Zelensky tổ chức với Kushner và Witkoff vào Chủ nhật, cuộc họp mà người Mỹ cho rằng đã đưa Ukraine đến gần hơn với hòa bình với Nga.",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/2026-kyiv-meeting-president-ukraine-140016645.jpg?quality=75&#038;strip=all&#038;w=1200",
+      "link": "https://nypost.com/2026/09/07/world-news/ukraine-strikes-russian-oil-refineries-after-kushner-witkoff-visit-moscow-and-kyiv/",
+      "source": "New York Post",
+      "category": "energy",
+      "published": "2026-09-07 23:16"
     },
     {
       "id": "fgj2kg",
@@ -539,17 +550,6 @@
       "source": "Barchart.com",
       "category": "soft",
       "published": "2026-09-04 23:07"
-    },
-    {
-      "id": "7vlyqp",
-      "title": "As mineral reserves dwindle, world races to secure the materials to decarbonize",
-      "title_vi": "Khi trữ lượng khoáng sản cạn kiệt, thế giới chạy đua để đảm bảo nguyên liệu để khử cacbon",
-      "summary_vi": "Các thành phần thiết yếu của nhiều công nghệ năng lượng tái tạo, đồng, lithium, coban, niken và đất hiếm, rất quan trọng đối với cuộc cách mạng năng lượng sạch mà khí hậu của chúng ta phụ thuộc vào.",
-      "image": "https://www.un.org/sites/un2.un.org/files/field/image/2026/09/unep_decarbonization.png",
-      "link": "https://www.un.org/en/delegate/mineral-reserves-dwindle-world-races-secure-materials-decarbonize",
-      "source": "Welcome to the United Nations",
-      "category": "metal",
-      "published": "2026-09-04 22:26"
     }
   ]
 }

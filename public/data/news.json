@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-09-08 19:00",
+  "updated_at": "2026-09-08 20:01",
   "items": [
+    {
+      "id": "1rdsbsf",
+      "title": "Oil Tankers Flood Back Into Suez Canal As Red Sea Risk Grows",
+      "title_vi": "Tàu chở dầu tràn trở lại kênh đào Suez khi rủi ro Biển Đỏ gia tăng",
+      "summary_vi": "Doanh thu của Kênh đào Suez đã tăng 42% trong tháng 7 so với cùng tháng năm ngoái khi số lượng tàu chở dầu đi qua cửa ngõ Ai Cập đến Địa Trung Hải tăng mạnh trong bối cảnh các mối đe dọa đối với hoạt động vận chuyển ở phía nam Biển Đỏ và Eo biển Bab el-Mandeb. Doanh thu tăng lên 505 triệu USD",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-08_zjvvoasahd.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Tankers-Flood-Back-Into-Suez-Canal-As-Red-Sea-Risk-Grows.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-08 20:00"
+    },
+    {
+      "id": "12y6z65",
+      "title": "Palladium Battle for Control Near the $1,400 Level",
+      "title_vi": "Cuộc chiến giành quyền kiểm soát palladium gần mức 1.400 USD",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barchart.com/story/news/4488780/palladium-battle-for-control-near-the-1-400-level",
+      "source": "barchart.com",
+      "category": "metal",
+      "published": "2026-09-08 19:55"
+    },
+    {
+      "id": "1kxi78",
+      "title": "Copper rally sets record LME price as US tariff fears fuel supply ‘scramble’",
+      "title_vi": "Đồng tăng giá lập kỷ lục giá LME do thuế quan của Mỹ lo ngại nguồn cung nhiên liệu 'tranh giành'",
+      "summary_vi": "Tồn kho kim loại đang phân tán trên các sàn giao dịch lớn do việc xây dựng cơ sở hạ tầng AI thúc đẩy nhu cầu và các hạn chế thương mại tiềm ẩn khiến giá tăng cao.",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/08/8a99fc22-6f86-4cb7-acb1-d7c6c7bbb493_ae019366.jpg?itok=0ZOKD661&v=1788861582",
+      "link": "https://www.scmp.com/economy/global-economy/article/3366787/copper-rally-sets-record-price-lme-us-tariff-fears-fuel-scramble-stockpiles",
+      "source": "South China Morning Post",
+      "category": "macro",
+      "published": "2026-09-08 19:00"
+    },
     {
       "id": "1cuss4k",
       "title": "Gulf Producers Find Workarounds As Hormuz Tensions Persist",
@@ -145,17 +178,6 @@
       "published": "2026-09-08 07:21"
     },
     {
-      "id": "1y2lw5e",
-      "title": "Germany’s Power Grid Could Be NATO’s Weakest Link",
-      "title_vi": "Lưới điện của Đức có thể là mắt xích yếu nhất của NATO",
-      "summary_vi": "Nếu Nga tấn công một thành viên NATO, Đức sẽ có 6 tháng để điều 800.000 quân đồng minh và 200.000 phương tiện khắp đất nước về phía sườn phía đông. Các cảng, sân bay và đường sắt cần thiết cho phong trào đó đã vận chuyển thiết bị quân sự qua châu Âu và",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-07_dg2beufytt.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Germanys-Power-Grid-Could-Be-NATOs-Weakest-Link.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-08 07:00"
-    },
-    {
       "id": "1ap3mbs",
       "title": "Republicans Chances of Losing Senate to Democrats, Per Nate Silver Forecast",
       "title_vi": "Đảng Cộng hòa có nguy cơ mất Thượng viện vào tay Đảng Dân chủ, Per Nate Silver Dự báo",
@@ -187,6 +209,17 @@
       "source": "IndexBox",
       "category": "metal",
       "published": "2026-09-08 00:36"
+    },
+    {
+      "id": "1kbngr9",
+      "title": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain",
+      "title_vi": "đợt tăng giá dài nhất của đồng kể từ năm 1994 đi kèm với chuỗi cung ứng bị thu hẹp",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/coppers-longest-rally-since-1994-170000686.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-09-08 00:00"
     },
     {
       "id": "13dxns1",
@@ -517,39 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-05 05:28"
-    },
-    {
-      "id": "xg9q14",
-      "title": "Bilateral hostilities raise oil prices",
-      "title_vi": "Sự thù địch song phương làm tăng giá dầu",
-      "summary_vi": "Giá dầu thô tăng lên mức cao nhất kể từ giữa tháng 6 trong tuần này khi căng thẳng Mỹ-Iran gia tăng làm gia tăng lo ngại về sự gián đoạn nguồn cung ở Trung Đông, trong khi...",
-      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/09/6a9b3b233e6bc6b928f0d77e-260904usflagvenezuelaflagoilid_454551360__nguyen_t.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-      "link": "https://www.ogj.com/general-interest/economics-markets/article/55403293/bilateral-hostilities-raise-oil-prices",
-      "source": "Oil & Gas Journal",
-      "category": "energy",
-      "published": "2026-09-05 05:05"
-    },
-    {
-      "id": "1u9omsl",
-      "title": "Grain futures trade mixed as strong export sales boost corn.",
-      "title_vi": "Giao dịch ngũ cốc tương lai hỗn hợp do doanh số xuất khẩu tăng mạnh thúc đẩy ngô.",
-      "summary_vi": "Thị trường ngũ cốc giao dịch trái chiều trước kỳ nghỉ cuối tuần do những người tham gia thị trường cân nhắc nhu cầu xuất khẩu mạnh mẽ trước những diễn biến địa chính trị. Giá ngô kỳ hạn giữ mức tăng nhẹ sau doanh số xuất khẩu hàng tuần mạnh mẽ là 1,986 triệu tấn, mặc dù phạm vi giao dịch không ổn định. Giá đậu tương kỳ hạn bước vào phiên tăng điểm",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/grain-futures-trade-mixed-as-strong-export-sales-boost-corn-9-4.jpg",
-      "link": "https://www.cmegroup.com/videos/2026/09/04/grain-futures-trade-mixed-as-strong-export-sales-boost-corn-9-4.html",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-09-05 03:10"
-    },
-    {
-      "id": "13u2jey",
-      "title": "Crops Analysis | Follow-through selling in wheat",
-      "title_vi": "Phân tích cây trồng | Bán tiếp theo lúa mì",
-      "summary_vi": "Ngày 4 tháng 9 năm 2026",
-      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
-      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-follow-through-selling-wheat",
-      "source": "profarmer.com",
-      "category": "agri",
-      "published": "2026-09-05 03:09"
     }
   ]
 }

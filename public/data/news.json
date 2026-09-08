@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-09 03:19",
+  "updated_at": "2026-09-09 04:00",
   "items": [
+    {
+      "id": "1cg9cri",
+      "title": "Copper Surges Above $14,500 as Supply Squeeze Deepens",
+      "title_vi": "Đồng tăng trên 14.500 USD khi nguồn cung siết chặt",
+      "summary_vi": "Giá đồng kỳ hạn tại London đạt mức cao kỷ lục vào thứ Ba do kỳ vọng về thuế quan của Mỹ đã thu hút khối lượng kỷ lục từ thị trường đường biển vào kho của Mỹ, thắt chặt nguồn cung ở nơi khác mặc dù nhu cầu giảm. Như chúng tôi đã nhấn mạnh vào thứ Hai, các điều kiện ngày càng xấu đi trên toàn cầu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-08_jbusqljzi8.jpg",
+      "link": "https://oilprice.com/Metals/Commodities/Copper-Surges-Above-14500-as-Supply-Squeeze-Deepens.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-09-09 04:00"
+    },
     {
       "id": "ecx2b7",
       "title": "Labor Day Gasoline Just Hit a Record. Here’s What Comes Next",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-09 03:00"
+    },
+    {
+      "id": "1u2vlcw",
+      "title": "Major Food Companies Allege US Sugar Producers Colluded on Price",
+      "title_vi": "Các công ty thực phẩm lớn cáo buộc các nhà sản xuất đường của Mỹ thông đồng về giá",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-08/major-food-companies-allege-us-sugar-producers-colluded-on-price",
+      "source": "Bloomberg.com",
+      "category": "soft",
+      "published": "2026-09-09 02:21"
     },
     {
       "id": "vavpd2",
@@ -88,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-09 00:00"
-    },
-    {
-      "id": "ht1i4u",
-      "title": "Canada’s Oil Pivot to Asia Is Starting to Materialize",
-      "title_vi": "Chính sách xoay trục dầu mỏ sang châu Á của Canada đang bắt đầu thành hiện thực",
-      "summary_vi": "Đường ống Trans Mountain của Canada lần đầu tiên đạt công suất tối đa vào tháng 6 và công ty vận hành đường ống này đã có thêm công suất 300.000 thùng/ngày theo kế hoạch. Hầu hết số thùng dầu mới này dự kiến ​​sẽ đi qua Thái Bình Dương. Trans Mountain hiện vận chuyển 890.000 thùng/ngày",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-08_9ahtbc0a7r.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Canadas-Oil-Pivot-to-Asia-Is-Starting-to-Materialize.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-08 23:30"
     },
     {
       "id": "1mt4qw8",
@@ -539,17 +550,6 @@
       "source": "DailyForex",
       "category": "soft",
       "published": "2026-09-06 16:02"
-    },
-    {
-      "id": "tgun25",
-      "title": "Farmers Are Going Broke Amid Rising Gas Prices, While the Ag Secretary Profits Off Them",
-      "title_vi": "Nông dân sắp phá sản trong bối cảnh giá khí đốt tăng cao, trong khi Bộ trưởng Ag thu lợi từ họ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://insideclimatenews.org/news/06092026/agriculture-secretary-brooke-rollins-profits-off-rising-gas-prices/",
-      "source": "Inside Climate News",
-      "category": "energy",
-      "published": "2026-09-06 16:00"
     }
   ]
 }

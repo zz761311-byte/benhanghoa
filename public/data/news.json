@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08 11:01",
+  "updated_at": "2026-09-08 12:00",
   "items": [
     {
       "id": "1y2lw5e",
@@ -143,6 +143,17 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-09-07 22:33"
+    },
+    {
+      "id": "1dpm706",
+      "title": "Copper Surges to All-Time High as Tariff Turmoil Rocks Market",
+      "title_vi": "Đồng tăng lên mức cao nhất mọi thời đại khi thị trường hỗn loạn về thuế quan",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-07/copper-surges-to-all-time-high-as-tariff-turmoil-rocks-market",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-09-07 22:08"
     },
     {
       "id": "i4okuc",
@@ -539,17 +550,6 @@
       "source": "Barron's",
       "category": "agri",
       "published": "2026-09-04 23:55"
-    },
-    {
-      "id": "1rjjtlc",
-      "title": "Platinum Defies Fed Pressure as US-Iran Risk Pushes Prices Toward $1,910",
-      "title_vi": "Bạch kim bất chấp áp lực của Fed khi rủi ro Mỹ-Iran đẩy giá lên tới 1.910 USD",
-      "summary_vi": "Bạch kim tăng do rủi ro Mỹ-Iran bất chấp áp lực của Fed, trong khi nguồn cung và nhu cầu hydro ổn định hỗ trợ con đường hướng tới mức 1.910 USD.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a9aed97548f3645911fec0d_Platinum%20Bars%20(1).png",
-      "link": "https://www.cruxinvestor.com/posts/platinum-defies-fed-pressure-as-us-iran-risk-pushes-prices-toward-1-910",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-09-04 23:16"
     }
   ]
 }

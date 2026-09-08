@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-08 14:00",
+  "updated_at": "2026-09-08 15:02",
   "items": [
+    {
+      "id": "etjigh",
+      "title": "Global Diesel Supply Crunch Is Set to Last Through Winter",
+      "title_vi": "Cuộc khủng hoảng nguồn cung dầu diesel toàn cầu sẽ kéo dài đến hết mùa đông",
+      "summary_vi": "Reuters đưa tin, dẫn lời các nhà điều hành ngành lọc dầu và kinh doanh hàng hóa, nguồn cung nhiên liệu diesel toàn cầu sẽ vẫn hạn chế trong năm tới do thiếu công suất lọc dầu đủ để giải quyết tình trạng trì trệ từ các cơ sở ở Trung Đông và Nga. “Thực sự đang thiếu chuyên nghiệp",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-08_b2geacjqod.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-Diesel-Supply-Crunch-Is-Set-to-Last-Through-Winter.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-08 15:00"
+    },
+    {
+      "id": "whtl87",
+      "title": "Natural Gas and Oil Forecast: Gulf Supply Risks Rise as WTI and Brent Break Higher",
+      "title_vi": "Dự báo khí đốt tự nhiên và dầu: Rủi ro nguồn cung vùng Vịnh tăng lên khi WTI và Brent tăng cao hơn",
+      "summary_vi": "Sự gián đoạn của Hormuz thắt chặt nguồn cung vùng Vịnh khi WTI đạt mức 94,89 USD, Brent đặt mục tiêu 99,41 USD và khí đốt tự nhiên giữ cấu trúc tăng giá trên 2,88 USD.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/Main-Images-15.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-gulf-supply-risks-rise-as-wti-and-brent-break-higher-1625472",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-09-08 14:11"
+    },
     {
       "id": "1ez6oy1",
       "title": "Germany Faces Winter Gas Shortage Risk as Storage Lags",
@@ -90,17 +112,6 @@
       "published": "2026-09-08 03:00"
     },
     {
-      "id": "1e5m0s7",
-      "title": "Sudan Could Become the Red Sea’s Next Energy Security Flashpoint",
-      "title_vi": "Sudan có thể trở thành điểm nóng an ninh năng lượng tiếp theo của Biển Đỏ",
-      "summary_vi": "Các cuộc điều tra do The New York Times và The Washington Post công bố không nên bị coi là một tập hợp các cáo buộc khác xuất hiện từ cuộc nội chiến không rõ ràng ở Sudan. Tổng hợp lại, chúng đưa ra bằng chứng công khai đáng kể nhất cho thấy các yếu tố của S",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-07_odzzrfc3ye.jpg",
-      "link": "https://oilprice.com/Geopolitics/Africa/Sudan-Could-Become-the-Red-Seas-Next-Energy-Security-Flashpoint.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-08 02:00"
-    },
-    {
       "id": "1ap3mbs",
       "title": "Republicans Chances of Losing Senate to Democrats, Per Nate Silver Forecast",
       "title_vi": "Đảng Cộng hòa có nguy cơ mất Thượng viện vào tay Đảng Dân chủ, Per Nate Silver Dự báo",
@@ -121,6 +132,17 @@
       "source": "IndexBox",
       "category": "metal",
       "published": "2026-09-08 00:36"
+    },
+    {
+      "id": "1oxhwbm",
+      "title": "Copper price surges to all-time high as tariff turmoil rocks market",
+      "title_vi": "Giá đồng tăng lên mức cao nhất mọi thời đại khi thị trường bất ổn về thuế quan",
+      "summary_vi": "Mức tăng 17% của kim loại này trong năm qua được củng cố bởi sự mất cân bằng lâu dài giữa cung và cầu.",
+      "image": "https://www.mining.com/wp-content/uploads/2022/08/Copper-Adobe-Stock.jpg",
+      "link": "https://www.mining.com/web/copper-surges-to-all-time-high-as-tariff-turmoil-rocks-market/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-09-08 00:18"
     },
     {
       "id": "1bwmqog",
@@ -154,17 +176,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-09-07 22:33"
-    },
-    {
-      "id": "1dpm706",
-      "title": "Copper Surges to All-Time High as Tariff Turmoil Rocks Market",
-      "title_vi": "Đồng tăng lên mức cao nhất mọi thời đại khi thị trường hỗn loạn về thuế quan",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-07/copper-surges-to-all-time-high-as-tariff-turmoil-rocks-market",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-09-07 22:08"
     },
     {
       "id": "i4okuc",
@@ -231,17 +242,6 @@
       "source": "Nature",
       "category": "metal",
       "published": "2026-09-07 17:13"
-    },
-    {
-      "id": "1gxne51",
-      "title": "Natural Gas and Oil Forecast: Gulf Shipping Risks Support WTI as Brent Tests $97",
-      "title_vi": "Dự báo về khí đốt tự nhiên và dầu: Rủi ro vận chuyển vùng Vịnh hỗ trợ WTI khi Brent thử nghiệm $97",
-      "summary_vi": "Rủi ro vận chuyển vùng Vịnh hỗ trợ dầu thô khi WTI kiểm tra mức 92,67 USD, Brent thách thức 97 USD và khí đốt tự nhiên giữ trên mức hỗ trợ đột phá quan trọng.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/Main-Images-12-1.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-gulf-shipping-risks-support-wti-as-brent-tests-97-1624864",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-09-07 14:26"
     },
     {
       "id": "10ba0u",

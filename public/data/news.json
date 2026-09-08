@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-08 20:55",
+  "updated_at": "2026-09-08 21:00",
   "items": [
+    {
+      "id": "3vavfo",
+      "title": "$100 Brent Looms as China’s Oil Buying Rebounds",
+      "title_vi": "Giá dầu Brent đạt 100 USD khi hoạt động mua dầu của Trung Quốc phục hồi",
+      "summary_vi": "Một trong những lý do khiến giá dầu không thể tăng vọt trong giai đoạn \"động năng\" của cuộc chiến tranh Iran, khi các chuyến hàng qua Hormuz bị đình trệ và thế giới phải đối mặt với tình trạng thiếu hụt khoảng 10-15 triệu thùng dầu mỗi ngày, là do nhu cầu dầu của Trung Quốc đột ngột biến mất.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-08_tkhaiq9mvd.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/100-Brent-Looms-as-Chinas-Oil-Buying-Rebounds.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-08 21:00"
+    },
     {
       "id": "1bixdzt",
       "title": "Why More Pressure Doesn&#8217;t Necessarily Mean Faster Espresso",
@@ -66,17 +77,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-08 18:00"
-    },
-    {
-      "id": "19p41r7",
-      "title": "China’s Crude Buying Rebounds as Fuel Exports Jump 29%",
-      "title_vi": "Hoạt động mua dầu thô của Trung Quốc phục hồi khi xuất khẩu nhiên liệu tăng 29%",
-      "summary_vi": "Nhập khẩu dầu thô của Trung Quốc tăng tháng thứ hai liên tiếp trong tháng 8 do các nhà máy lọc dầu chuyển sang nguồn cung bổ sung ngoài Trung Đông và tăng cường xuất khẩu nhiên liệu ra nước ngoài trong bối cảnh các hạn chế xuất khẩu được nới lỏng. Trung Quốc đã nhập khẩu 37,93 triệu tấn hay 8,93 triệu thùng dầu thô mỗi ngày",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-08_6tphxzoaom.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Buying-Rebounds-as-Fuel-Exports-Jump-29.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-08 17:00"
     },
     {
       "id": "5rqi2n",
@@ -387,6 +387,17 @@
       "published": "2026-09-07 00:41"
     },
     {
+      "id": "24ky0w",
+      "title": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume",
+      "title_vi": "OPEC Plus giữ sản lượng dầu ổn định khi cuộc đình công Mỹ-Iran tiếp tục",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html",
+      "source": "The New York Times",
+      "category": "energy",
+      "published": "2026-09-06 20:26"
+    },
+    {
       "id": "1iy936i",
       "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
       "title_vi": "Sugar đang hoạt động tốt hơn thị trường chứng khoán trong năm nay. Đây là điều gì đang thúc đẩy nó và nó có thể đi đến đâu từ đây",
@@ -539,17 +550,6 @@
       "source": "Fortune",
       "category": "energy",
       "published": "2026-09-05 14:09"
-    },
-    {
-      "id": "96c75s",
-      "title": "Arizona Silver Exploration Stock Price Forecast. Should You Buy AZASF?",
-      "title_vi": "Dự báo giá cổ phiếu của công ty thăm dò bạc Arizona. Bạn có nên mua AZASF?",
-      "summary_vi": "Kiểm tra xem Cổ phiếu AZASF có Đánh giá Mua hoặc Bán hay không. Giá cổ phiếu AZASF (OTCMKTS), Dự báo, Dự đoán, Phân tích chứng khoán và Arizona Silver Exploration Inc...",
-      "image": "https://stockinvest.us/storage/chart/AZASF/main/3.png",
-      "link": "https://stockinvest.us/stock/AZASF",
-      "source": "StockInvest.us",
-      "category": "metal",
-      "published": "2026-09-05 06:42"
     }
   ]
 }

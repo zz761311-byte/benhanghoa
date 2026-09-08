@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-08 16:01",
+  "updated_at": "2026-09-08 16:48",
   "items": [
+    {
+      "id": "rz2dcd",
+      "title": "Gold Edges Lower as Weaker Dollar Offsets Fed Rate-Hike Expectations",
+      "title_vi": "Vàng giảm khi đồng đô la yếu hơn bù đắp kỳ vọng tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-edges-lower-weaker-dollar-090852876.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-09-08 16:08"
+    },
     {
       "id": "1xd2lwi",
       "title": "Oil Prices Near $100 After Fresh Attacks on Saudi Energy Sites",
@@ -66,6 +77,17 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-09-08 09:28"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-08 07:21"
     },
     {
       "id": "1y2lw5e",
@@ -464,17 +486,6 @@
       "published": "2026-09-05 14:09"
     },
     {
-      "id": "1vsg7dg",
-      "title": "Gold, Silver Pullback Is Not The End Of Rally, JPMorgan Reportedly Says After Forecast Cut",
-      "title_vi": "JPMorgan cho biết sự thoái lui của vàng, bạc không phải là sự kết thúc của đợt tăng giá sau khi cắt giảm dự báo",
-      "summary_vi": "Bất chấp việc cắt giảm ngắn hạn, JPMorgan dự đoán giá vàng và bạc sẽ tăng vào cuối năm nay trong bối cảnh những bất ổn về năng lượng và lạm phát giảm bớt.",
-      "image": "https://news.stocktwits-cdn.com/large_Gold_Silver_jpg_c77de4fb71.webp",
-      "link": "https://stocktwits.com/news-articles/markets/equity/gold-silver-pullback-is-not-the-end-of-rally-jpmorgan-reportedly-says-after-forecast-cut/cZXrBxmRelk",
-      "source": "Stocktwits",
-      "category": "metal",
-      "published": "2026-09-05 09:53"
-    },
-    {
       "id": "96c75s",
       "title": "Arizona Silver Exploration Stock Price Forecast. Should You Buy AZASF?",
       "title_vi": "Dự báo giá cổ phiếu của công ty thăm dò bạc Arizona. Bạn có nên mua AZASF?",
@@ -539,17 +550,6 @@
       "source": "profarmer.com",
       "category": "agri",
       "published": "2026-09-05 03:09"
-    },
-    {
-      "id": "hm1tws",
-      "title": "California gas prices ‘to set record at the pump’ for Labor Day. What you’ll pay",
-      "title_vi": "Giá xăng ở California ‘lập kỷ lục tại máy bơm’ nhân Ngày Lễ Lao động Số tiền bạn sẽ trả",
-      "summary_vi": "Kỷ lục hiện tại về giá xăng Ngày Lao động được thiết lập vào năm 2012.",
-      "image": "https://www.sacbee.com/public/latest-news/lyr5zq/picture316331065/alternates/LANDSCAPE_1200/img-26-06-30-7C6C0.jpg",
-      "link": "https://www.sacbee.com/news/california/article317129960.html",
-      "source": "Sacramento Bee",
-      "category": "energy",
-      "published": "2026-09-05 02:13"
     }
   ]
 }

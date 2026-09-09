@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-10 00:01",
+  "updated_at": "2026-09-10 00:52",
   "items": [
+    {
+      "id": "1aw2lso",
+      "title": "U.S. Farmers Brace for Fallout as Canada Trade War Escalates",
+      "title_vi": "Nông dân Hoa Kỳ chuẩn bị đối phó với hậu quả khi Chiến tranh thương mại Canada leo thang",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agrolatam.com/usa/news/u-s-farmers-brace-for-fallout-as-canada-trade-war-escalates/",
+      "source": "AgroLatam",
+      "category": "macro",
+      "published": "2026-09-10 00:20"
+    },
     {
       "id": "djdb8f",
       "title": "Uganda Launches New Crude Grade as First Oil Exports Near",
@@ -299,6 +310,17 @@
       "published": "2026-09-09 05:49"
     },
     {
+      "id": "1n6w3jf",
+      "title": "Silver Price Forecast: Head-and-Shoulders risk builds below $67",
+      "title_vi": "Dự báo giá bạc: Rủi ro vai đầu vai tăng dưới 67 USD",
+      "summary_vi": "Giá bạc đấu tranh để vượt qua ngưỡng kháng cự kỹ thuật quan trọng gần $67,00, lùi về mức thấp nhất trong hai ngày ở mức $65,31 và ghi nhận mức lỗ 1,42%. Kim loại không mang lại lợi suất đã không duy trì được mức tăng ban đầu trong bối cảnh lãi suất trái phiếu Mỹ tăng cao, do áp lực lạm phát gia tăng.",
+      "image": "https://editorial.fxsstatic.com/images/i/discover-54_Medium.png",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-head-and-shoulders-risk-builds-below-67-202609082205",
+      "source": "fxstreet.com",
+      "category": "metal",
+      "published": "2026-09-09 05:05"
+    },
+    {
       "id": "185fr4u",
       "title": "CPI | General Mills, Mars Accuse Major Sugar Producers of Price-Fixing",
       "title_vi": "CPI | General Mills, Mars cáo buộc các nhà sản xuất đường lớn ấn định giá",
@@ -528,28 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-09-08 14:18"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-08 07:21"
-    },
-    {
-      "id": "7s3rdc",
-      "title": "Silver Price Forecast: $67.47 Breakout Targets $72.81",
-      "title_vi": "Dự báo giá bạc: 67,47 USD Mục tiêu đột phá 72,81 USD",
-      "summary_vi": "Bạc đang có những dấu hiệu ban đầu về sự đảo chiều tăng giá khi mức hỗ trợ 63,31 USD được giữ vững. Một đột phá trên $67,47 có thể xác nhận sức mạnh mới và nhắm mục tiêu vùng kháng cự $71,56–$72,81.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/silver-precious-metal-price-chart-06-1.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/silver-price-forecast-67-47-breakout-targets-72-81-1625228",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-09-08 03:52"
     }
   ]
 }

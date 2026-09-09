@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09 07:00",
+  "updated_at": "2026-09-09 07:42",
   "items": [
     {
       "id": "1p2j7sl",
@@ -143,6 +143,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-09 01:00"
+    },
+    {
+      "id": "1hzv3g",
+      "title": "Copper just soared to new records — and could still have 'more left in the tank': Chart of the Day",
+      "title_vi": "Đồng vừa tăng vọt lên những kỷ lục mới - và vẫn có thể còn 'nhiều hơn nữa': Biểu đồ trong ngày",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/article/copper-just-soared-to-new-records--and-could-still-have-more-left-in-the-tank-chart-of-the-day-171432521.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-09-09 00:25"
     },
     {
       "id": "1mt4qw8",
@@ -539,17 +550,6 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-09-06 20:26"
-    },
-    {
-      "id": "1iy936i",
-      "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
-      "title_vi": "Sugar đang hoạt động tốt hơn thị trường chứng khoán trong năm nay. Đây là điều gì đang thúc đẩy nó và nó có thể đi đến đâu từ đây",
-      "summary_vi": "Giá chất tạo ngọt tăng mạnh trong tuần trước, phản ánh triển vọng nguồn cung toàn cầu suy giảm mạnh.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107348242-1702653806473-gettyimages-1250817960-Sugar_Price_Rise.jpeg?v=1703592166&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
-      "source": "CNBC",
-      "category": "soft",
-      "published": "2026-09-06 19:48"
     }
   ]
 }

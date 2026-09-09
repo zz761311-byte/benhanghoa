@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09 16:53",
+  "updated_at": "2026-09-09 17:00",
   "items": [
     {
       "id": "1v9o6fk",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-09 16:30"
+    },
+    {
+      "id": "1bwmqog",
+      "title": "LME Copper Prices Hit Record on Supply Issues, U.S. Tariff Concerns",
+      "title_vi": "Giá đồng LME đạt kỷ lục do vấn đề nguồn cung, lo ngại về thuế quan của Hoa Kỳ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/lme-copper-prices-hit-record-on-supply-issues-u-s-tariff-concerns-89e6bbc6",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-09-09 15:46"
     },
     {
       "id": "yh2c9y",
@@ -363,17 +374,6 @@
       "source": "eciks.org",
       "category": "metal",
       "published": "2026-09-08 17:59"
-    },
-    {
-      "id": "5rqi2n",
-      "title": "Copper Reaches New Highs on U.S. Tariff Fears, Supply Challenges",
-      "title_vi": "Đồng đạt mức cao mới do lo ngại về thuế quan của Hoa Kỳ, thách thức về nguồn cung",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/copper-reaches-new-highs-on-u-s-tariff-fears-supply-challenges-93a99fb0",
-      "source": "wsj.com",
-      "category": "metal",
-      "published": "2026-09-08 16:35"
     },
     {
       "id": "rz2dcd",

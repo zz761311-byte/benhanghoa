@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-09-09 20:01",
+  "updated_at": "2026-09-09 20:58",
   "items": [
+    {
+      "id": "zrjo4c",
+      "title": "Sinopec Sees China Oil Demand Falling 8.9% in 2026",
+      "title_vi": "Sinopec dự báo nhu cầu dầu của Trung Quốc giảm 8,9% vào năm 2026",
+      "summary_vi": "Sinopec của Trung Quốc, nhà máy lọc dầu hàng đầu thế giới tính theo công suất, dự kiến ​​nhu cầu dầu của Trung Quốc sẽ giảm 8,9% vào năm 2026 so với một năm trước đó trong bối cảnh nhu cầu sụt giảm do giá dầu tăng cao và việc sử dụng xe điện tăng tốc. Nhu cầu dầu tại quốc gia nhập khẩu dầu thô lớn nhất thế giới đang yếu đi",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-09_0rnrokj1m4.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Sinopec-Sees-China-Oil-Demand-Falling-89-in-2026.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-09 20:30"
+    },
+    {
+      "id": "1sx7707",
+      "title": "New England natural gas prices have been trading near record discounts to Henry Hub",
+      "title_vi": "Giá khí đốt tự nhiên ở New England đã được giao dịch ở mức giảm kỷ lục đối với Henry Hub",
+      "summary_vi": "Cơ quan Thông tin Năng lượng - EIA - Thống kê Năng lượng Chính thức của Chính phủ Hoa Kỳ",
+      "image": "",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id",
+      "source": "U.S. Energy Information Administration (EIA) (.gov)",
+      "category": "energy",
+      "published": "2026-09-09 20:04"
+    },
+    {
+      "id": "c4xige",
+      "title": "Heist Hopes Its Decaf Can Steal a Share of the High-End Coffee Category",
+      "title_vi": "Heist hy vọng Decaf của nó có thể chiếm được một phần trong danh mục cà phê cao cấp",
+      "summary_vi": "Một thương hiệu cà phê mới có tên Heist đã ra mắt trực tuyến vào tháng trước với dòng sản phẩm tập trung hoàn toàn vào cà phê decaf và cà phê ít caffeine. Bên cạnh việc bán hàng trực tiếp cho người tiêu dùng, Heist đang theo đuổi các khách hàng bán buôn với...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/09/09/heist-hopes-its-decaf-can-steal-a-share-of-the-high-end-coffee-category/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-09-09 19:36"
+    },
     {
       "id": "17oc3sm",
       "title": "Morgan Stanley: Oil Traders Are ‘More Precise’ With Risk as Wars Drag On",
@@ -176,17 +209,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-09-09 12:00"
-    },
-    {
-      "id": "125atbo",
-      "title": "Oil Prices Hit $100 as U.S. Destroys Five Iranian Tankers",
-      "title_vi": "Giá dầu đạt 100 USD khi Mỹ tiêu diệt 5 tàu chở dầu Iran",
-      "summary_vi": "Giá dầu cuối cùng đã chạm mốc 100 USD vào sáng sớm thứ Tư sau khi Mỹ phá hủy thêm 5 tàu chở dầu thô của Iran và Iran nhắm vào lực lượng Mỹ ở Jordan. Những cuộc tấn công này chỉ là giai đoạn mới nhất của một sự leo thang lớn bắt đầu vào cuối tuần qua khi lực lượng Hoa Kỳ tấn công ba o.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-08_0zwop35aym.jpg",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Nears-100-as-US-Destroys-Five-Iranian-Tankers.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-09 10:50"
     },
     {
       "id": "b6lxbn",
@@ -528,28 +550,6 @@
       "source": "Crude Oil Prices Today | OilPrice.com",
       "category": "energy",
       "published": "2026-09-08 00:30"
-    },
-    {
-      "id": "rr0vzk",
-      "title": "Innovation Is Always Welcome in the Sweetener Category",
-      "title_vi": "Sự đổi mới luôn được chào đón trong danh mục chất ngọt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nutritionaloutlook.com/view/innovation-is-always-welcome-in-the-sweetener-category",
-      "source": "Nutritional Outlook",
-      "category": "soft",
-      "published": "2026-09-08 00:08"
-    },
-    {
-      "id": "1kbngr9",
-      "title": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain",
-      "title_vi": "đợt tăng giá dài nhất của đồng kể từ năm 1994 đi kèm với chuỗi cung ứng bị thu hẹp",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/coppers-longest-rally-since-1994-170000686.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-09-08 00:00"
     }
   ]
 }

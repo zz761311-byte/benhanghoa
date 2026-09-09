@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-09 09:00",
+  "updated_at": "2026-09-09 10:01",
   "items": [
+    {
+      "id": "1hdklr9",
+      "title": "Oil Rises to Multimonth Highs on Middle East Escalation",
+      "title_vi": "Dầu tăng lên mức cao nhất nhiều tháng do leo thang ở Trung Đông",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-fears-of-more-supply-disruptions-in-middle-east-97f4225b",
+      "source": "wsj.com",
+      "category": "energy",
+      "published": "2026-09-09 08:18"
+    },
     {
       "id": "1p2j7sl",
       "title": "Iran’s Oil Exports Collapse as Hormuz Standoff Drags On",
@@ -200,6 +211,17 @@
       "published": "2026-09-08 21:01"
     },
     {
+      "id": "5vd8ks",
+      "title": "Silver Price For Today, 8 September 2026",
+      "title_vi": "Giá Bạc Hôm Nay, ngày 8 tháng 9 năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
+      "source": "Forbes",
+      "category": "metal",
+      "published": "2026-09-08 20:31"
+    },
+    {
       "id": "1bixdzt",
       "title": "Why More Pressure Doesn&#8217;t Necessarily Mean Faster Espresso",
       "title_vi": "Tại sao nhiều áp lực hơn không nhất thiết có nghĩa là Espresso nhanh hơn",
@@ -275,17 +297,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-09-08 16:08"
-    },
-    {
-      "id": "306s7d",
-      "title": "Silver Price Canada Today | Live Silver Price in CAD",
-      "title_vi": "Giá Bạc Canada Hôm Nay | Giá bạc trực tiếp bằng CAD",
-      "summary_vi": "Giá bạc trực tiếp bằng CAD. Theo dõi giá bạc giao ngay ngày hôm nay bằng đô la Canada mỗi ounce, gam và kilo bằng biểu đồ bạc Canada theo thời gian thực của Kitco.",
-      "image": "https://www.kitco.com/fallbacks/ktc_img_fallback_lg.jpg",
-      "link": "https://www.kitco.com/price/silver-price-cad",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-09-08 15:35"
     },
     {
       "id": "1i0khd3",
@@ -539,17 +550,6 @@
       "source": "energynow.com",
       "category": "energy",
       "published": "2026-09-07 00:41"
-    },
-    {
-      "id": "24ky0w",
-      "title": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume",
-      "title_vi": "OPEC Plus giữ sản lượng dầu ổn định khi cuộc đình công Mỹ-Iran tiếp tục",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-09-06 20:26"
     }
   ]
 }

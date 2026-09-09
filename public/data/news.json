@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10 05:00",
+  "updated_at": "2026-09-10 05:36",
   "items": [
     {
       "id": "15v7oku",
@@ -145,6 +145,17 @@
       "published": "2026-09-10 00:00"
     },
     {
+      "id": "g8jf5",
+      "title": "US judge urged to oust law firm Paul Weiss from sugar price-fixing case",
+      "title_vi": "Thẩm phán Mỹ kêu gọi loại công ty luật Paul Weiss khỏi vụ ấn định giá đường",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/legal/litigation/us-judge-urged-oust-law-firm-paul-weiss-sugar-price-fixing-case-2026-09-09/",
+      "source": "Reuters",
+      "category": "soft",
+      "published": "2026-09-09 23:27"
+    },
+    {
       "id": "jmx7kk",
       "title": "Design Details: Restrained Industrial Reuse at Contraband Coffee in Melbourne",
       "title_vi": "Chi tiết thiết kế: Hạn chế tái sử dụng công nghiệp tại quán cà phê Contraband ở Melbourne",
@@ -165,6 +176,17 @@
       "source": "Daily Coffee News",
       "category": "metal",
       "published": "2026-09-09 21:01"
+    },
+    {
+      "id": "4d3d2h",
+      "title": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
+      "title_vi": "Các tuyến đường thay thế cho dầu khí Trung Đông do sự gián đoạn của Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/alternative-routes-for-middle-east-oil-and-gas-due-to-hormuz-disruption/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-09 20:31"
     },
     {
       "id": "1sx7707",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-08 20:06"
-    },
-    {
-      "id": "s3j5gj",
-      "title": "Oil nears $100 after Saudi Arabia says energy infrastructure was attacked",
-      "title_vi": "Dầu gần 100 USD sau khi Saudi Arabia cho biết cơ sở hạ tầng năng lượng bị tấn công",
-      "summary_vi": "Các chuyên gia cảnh báo rằng giá dầu có thể vượt quá 120 USD nếu các cuộc tấn công và giao thông ở eo biển Hormuz chậm lại vẫn tiếp diễn.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-10/221018-saudi-arabia-oil-se-227p-c2da56.jpg",
-      "link": "https://www.nbcnews.com/business/energy/oil-prices-iran-war-saudi-arabia-rcna596558",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-09-08 19:58"
-    },
-    {
-      "id": "12y6z65",
-      "title": "Palladium Battle for Control Near the $1,400 Level",
-      "title_vi": "Cuộc chiến giành quyền kiểm soát palladium gần mức 1.400 USD",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barchart.com/story/news/4488780/palladium-battle-for-control-near-the-1-400-level",
-      "source": "barchart.com",
-      "category": "metal",
-      "published": "2026-09-08 19:55"
     }
   ]
 }

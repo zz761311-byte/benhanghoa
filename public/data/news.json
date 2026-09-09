@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-10 00:52",
+  "updated_at": "2026-09-10 01:00",
   "items": [
+    {
+      "id": "vw4ip9",
+      "title": "U.S. Moves to Isolate Iran’s Aviation Sector From the Global Economy",
+      "title_vi": "Hoa Kỳ chuyển sang cô lập ngành hàng không của Iran khỏi nền kinh tế toàn cầu",
+      "summary_vi": "Hoa Kỳ đã áp đặt các biện pháp trừng phạt đối với tất cả các hãng hàng không đang hoạt động còn lại của Iran, gây áp lực leo thang mạnh mẽ lên lĩnh vực hàng không của Tehran như một phần của chiến dịch rộng lớn hơn nhằm cắt đứt Cộng hòa Hồi giáo khỏi thương mại và tài chính quốc tế. Kho bạc Hoa Kỳ Depa",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-09_wne87vro1t.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Moves-to-Isolate-Irans-Aviation-Sector-From-the-Global-Economy.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-09-10 01:00"
+    },
     {
       "id": "1aw2lso",
       "title": "U.S. Farmers Brace for Fallout as Canada Trade War Escalates",
@@ -110,17 +121,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-09 21:00"
-    },
-    {
-      "id": "zrjo4c",
-      "title": "Sinopec Sees China Oil Demand Falling 8.9% in 2026",
-      "title_vi": "Sinopec dự báo nhu cầu dầu của Trung Quốc giảm 8,9% vào năm 2026",
-      "summary_vi": "Sinopec của Trung Quốc, nhà máy lọc dầu hàng đầu thế giới tính theo công suất, dự kiến ​​nhu cầu dầu của Trung Quốc sẽ giảm 8,9% vào năm 2026 so với một năm trước đó trong bối cảnh nhu cầu sụt giảm do giá dầu tăng cao và việc sử dụng xe điện tăng tốc. Nhu cầu dầu tại quốc gia nhập khẩu dầu thô lớn nhất thế giới đang yếu đi",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-09_0rnrokj1m4.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Sinopec-Sees-China-Oil-Demand-Falling-89-in-2026.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-09 20:30"
     },
     {
       "id": "1sx7707",
@@ -308,6 +308,17 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-09-09 05:49"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-09 05:35"
     },
     {
       "id": "1n6w3jf",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-09-08 16:08"
-    },
-    {
-      "id": "1i0khd3",
-      "title": "Gold (XAU/USD) & Silver Price Forecast: Iran Risks Support Metals as PPI and CPI Loom",
-      "title_vi": "Dự báo giá vàng (XAU/USD) và bạc: Iran có nguy cơ hỗ trợ kim loại khi PPI và CPI xuất hiện",
-      "summary_vi": "Vàng và bạc nhận được sự hỗ trợ từ sự suy yếu của đồng đô la và căng thẳng với Iran khi các nhà giao dịch chờ đợi PPI và CPI của Hoa Kỳ để có manh mối mới về triển vọng lãi suất của Fed.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/Main-Images-16.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-xau-usd-silver-price-forecast-iran-risks-support-metals-as-ppi-and-cpi-loom-1625482",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-09-08 14:18"
     }
   ]
 }

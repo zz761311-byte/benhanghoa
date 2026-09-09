@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-10 01:00",
+  "updated_at": "2026-09-10 02:01",
   "items": [
+    {
+      "id": "15w95yi",
+      "title": "Britain Can Save £500 by Scrapping Net Zero, If It Ignores Most of the Bill",
+      "title_vi": "Anh có thể tiết kiệm £ 500 bằng cách loại bỏ Net Zero, nếu bỏ qua hầu hết hóa đơn",
+      "summary_vi": "Một báo cáo mới của Anh mang đến cho các hộ gia đình một thỏa thuận hấp dẫn: từ bỏ số 0 ròng và tiết kiệm hơn 500 bảng mỗi năm. Vào thời điểm hóa đơn năng lượng tăng cao, tuyên bố đó đáng được quan tâm. Một hộ gia đình chuyển đổi không thể tài trợ cuối cùng sẽ mất đi sự hỗ trợ chính trị. Nhưng lời hứa £500",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-09_rnvhmysl8c.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Britain-Can-Save-500-by-Scrapping-Net-Zero-If-It-Ignores-Most-of-the-Bill.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-10 02:00"
+    },
+    {
+      "id": "3ur270",
+      "title": "Belarus Refineries Post Decade-High Profits Amid Russia&#039;s Fuel Crisis",
+      "title_vi": "Các nhà máy lọc dầu của Belarus đạt lợi nhuận cao hàng thập kỷ trong bối cảnh khủng hoảng nhiên liệu ở Nga",
+      "summary_vi": "Theo hãng tin độc lập Pozirk, các nhà máy lọc dầu của Belarus đã ghi nhận lợi nhuận cao nhất trong một thập kỷ vào năm 2026, khi cuộc khủng hoảng lọc dầu ở Nga đã đẩy khối lượng xăng và dầu diesel kỷ lục qua biên giới. Người đứng đầu Belneftekhim Ilya Ikan đã ghi nhận kết quả",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Belarus-Refineries-Post-Decade-High-Profits-Amid-Russias-Fuel-Crisis.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-10 01:30"
+    },
     {
       "id": "vw4ip9",
       "title": "U.S. Moves to Isolate Iran’s Aviation Sector From the Global Economy",
@@ -11,6 +33,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-09-10 01:00"
+    },
+    {
+      "id": "1r6qx5p",
+      "title": "Silver Price Forecast: Rally puts head-and-shoulders pattern on ice",
+      "title_vi": "Dự báo giá bạc: đợt tăng giá đặt mô hình đầu và vai lên băng",
+      "summary_vi": "Giá bạc (XAG/USD) quay đầu vào thứ Tư và tăng hơn 3,40% khi Đồng USD suy yếu, khiến việc xác nhận mô hình biểu đồ 'đầu và vai', vốn đã hình thành từ giữa tháng 8, bị tạm dừng. Cặp XAG/USD giao dịch ở mức 68,00 USD sau khi phục hồi từ mức 65,31 USD.",
+      "image": "https://editorial.fxsstatic.com/images/i/Silver4_Medium.png",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-rally-puts-head-and-shoulders-pattern-on-ice-202609091756",
+      "source": "fxstreet.com",
+      "category": "metal",
+      "published": "2026-09-10 00:56"
     },
     {
       "id": "1aw2lso",
@@ -79,17 +112,6 @@
       "published": "2026-09-09 22:00"
     },
     {
-      "id": "z37zq6",
-      "title": "Ukraine Targets Russia&#039;s Key Black Sea Oil Port",
-      "title_vi": "Ukraine nhắm vào cảng dầu Biển Đen quan trọng của Nga",
-      "summary_vi": "Ukraine đã tấn công bằng máy bay không người lái trong đêm hôm thứ Tư vào cơ sở hạ tầng ở Novorossiysk, cảng dầu mỏ quan trọng của Nga ở Biển Đen, trong các cuộc tấn công khiến 4 người thiệt mạng và được cho là đã gây ra hỏa hoạn tại một cảng dầu nhiên liệu ở cảng. Máy bay không người lái Ukraine tấn công các tòa nhà trong và gần Novo",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-09_qdtdvnofyg.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Targets-Russias-Key-Black-Sea-Oil-Port.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-09 21:30"
-    },
-    {
       "id": "jmx7kk",
       "title": "Design Details: Restrained Industrial Reuse at Contraband Coffee in Melbourne",
       "title_vi": "Chi tiết thiết kế: Hạn chế tái sử dụng công nghiệp tại quán cà phê Contraband ở Melbourne",
@@ -110,17 +132,6 @@
       "source": "Daily Coffee News",
       "category": "metal",
       "published": "2026-09-09 21:01"
-    },
-    {
-      "id": "2eqcdq",
-      "title": "California Heat Wave Tests Grid as Power Demand Surges",
-      "title_vi": "Lưới điện thử nghiệm đợt nắng nóng ở California khi nhu cầu điện tăng cao",
-      "summary_vi": "Cơ quan Thời tiết Quốc gia đã đưa ra khuyến cáo về nhiệt độ trên khắp Thung lũng Trung tâm và các khu vực ven biển của California, bao gồm Vùng Vịnh và Los Angeles, với những cảnh báo nắng nóng cực độ nghiêm trọng hơn ở các vùng phía Nam California. Nhu cầu làm mát dự kiến ​​sẽ tăng vọt trong tuần tới",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-09_n8yfc4l6jt.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/California-Heat-Wave-Tests-Grid-as-Power-Demand-Surges.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-09 21:00"
     },
     {
       "id": "1sx7707",
@@ -319,17 +330,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-09 05:35"
-    },
-    {
-      "id": "1n6w3jf",
-      "title": "Silver Price Forecast: Head-and-Shoulders risk builds below $67",
-      "title_vi": "Dự báo giá bạc: Rủi ro vai đầu vai tăng dưới 67 USD",
-      "summary_vi": "Giá bạc đấu tranh để vượt qua ngưỡng kháng cự kỹ thuật quan trọng gần $67,00, lùi về mức thấp nhất trong hai ngày ở mức $65,31 và ghi nhận mức lỗ 1,42%. Kim loại không mang lại lợi suất đã không duy trì được mức tăng ban đầu trong bối cảnh lãi suất trái phiếu Mỹ tăng cao, do áp lực lạm phát gia tăng.",
-      "image": "https://editorial.fxsstatic.com/images/i/discover-54_Medium.png",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-head-and-shoulders-risk-builds-below-67-202609082205",
-      "source": "fxstreet.com",
-      "category": "metal",
-      "published": "2026-09-09 05:05"
     },
     {
       "id": "185fr4u",

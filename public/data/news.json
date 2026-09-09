@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-09 23:01",
+  "updated_at": "2026-09-10 00:01",
   "items": [
+    {
+      "id": "djdb8f",
+      "title": "Uganda Launches New Crude Grade as First Oil Exports Near",
+      "title_vi": "Uganda tung ra loại dầu thô mới khi đợt xuất khẩu dầu đầu tiên sắp đến",
+      "summary_vi": "Uganda đang tiến gần đến việc gia nhập thị trường xuất khẩu dầu, nhưng việc đưa loại Pearl Sweet mới đến tay người mua sẽ khó hơn so với hàm lượng lưu huỳnh thấp có thể gợi ý. Hai dự án của đất nước dự kiến ​​sẽ tạo ra 230.000 thùng/ngày ở mức ổn định, mở ra một nguồn doanh thu chưa được khai thác",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-09_ehz5xdyt7f.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Uganda-Launches-New-Crude-Grade-as-First-Oil-Exports-Near.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-10 00:00"
+    },
+    {
+      "id": "lao7x4",
+      "title": "Google Bets €13 Billion on Finland to Power AI Boom With Nuclear Energy",
+      "title_vi": "Google đặt cược 13 tỷ euro vào Phần Lan để thúc đẩy sự bùng nổ AI bằng năng lượng hạt nhân",
+      "summary_vi": "Google sẽ đầu tư ít nhất 13 tỷ euro (15,1 tỷ USD) vào cơ sở hạ tầng AI của Phần Lan trong năm 2027 và 2028, đồng thời đã ký thỏa thuận mua bán điện kéo dài 22 năm với Fortum với giá trị lên tới 50% sản lượng từ nhà máy hạt nhân Loviisa, hợp đồng điện hạt nhân đầu tiên của Google bên ngoài Liên minh châu Âu.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-09_hbwp9e1vcc.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Google-Bets-13-Billion-on-Finland-to-Power-AI-Boom-With-Nuclear-Energy.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-09 23:30"
+    },
     {
       "id": "1kpofw1",
       "title": "Bank of England Warns Iran War Could Push UK Inflation Above 4%",
@@ -112,26 +134,15 @@
       "published": "2026-09-09 19:36"
     },
     {
-      "id": "17oc3sm",
-      "title": "Morgan Stanley: Oil Traders Are ‘More Precise’ With Risk as Wars Drag On",
-      "title_vi": "Morgan Stanley: Các nhà giao dịch dầu mỏ 'chính xác hơn' với rủi ro khi chiến tranh kéo dài",
-      "summary_vi": "Theo ngân hàng đầu tư Morgan Stanley, sự không chắc chắn về các cuộc chiến ở Iran và Ukraine sẽ diễn ra như thế nào đang khiến nhiều nhà giao dịch tránh xa việc nắm giữ các vị thế trong các hợp đồng tương lai dài hạn hơn. Hầu hết các nhà giao dịch hiện đã chuyển sang đặt cược vào giá tương lai trong khoảng thời gian từ ba đến sáu tháng.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-09_gjdpro5cne.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Morgan-Stanley-Oil-Traders-Are-More-Precise-With-Risk-as-Wars-Drag-On.html",
-      "source": "OilPrice",
+      "id": "dxyqoc",
+      "title": "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East",
+      "title_vi": "Dầu đạt 100 USD/thùng khi tình trạng hỗn loạn gia tăng ở Trung Đông",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html",
+      "source": "The New York Times",
       "category": "energy",
-      "published": "2026-09-09 19:30"
-    },
-    {
-      "id": "1ck2rdy",
-      "title": "Oil hits $100 a barrel for first since July as Middle East conflict intensifies again",
-      "title_vi": "Dầu chạm mốc 100 USD/thùng lần đầu tiên kể từ tháng 7 khi xung đột ở Trung Đông lại gia tăng",
-      "summary_vi": "Chuẩn quốc tế, dầu thô Brent, đã vượt ngưỡng tượng trưng vào thứ Tư sau cuộc xung đột mới nhất giữa Mỹ và Iran. Giá xăng cũng tăng lên mức cao nhất kể từ đầu tháng 6.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260909-oil-rs-706d13.jpg",
-      "link": "https://www.nbcnews.com/business/business-news/oil-hits-100-barrel-middle-east-conflict-intensifies-us-iran-trump-gas-rcna596752",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-09-09 19:07"
+      "published": "2026-09-09 19:15"
     },
     {
       "id": "jkeoqp",
@@ -176,17 +187,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-09-09 18:32"
-    },
-    {
-      "id": "3bytzq",
-      "title": "Diesel Crunch Set to Worsen as Refining Capacity Falls Short, Industry Warns",
-      "title_vi": "Cuộc khủng hoảng động cơ diesel sẽ trở nên tồi tệ hơn khi công suất lọc dầu giảm xuống, ngành cảnh báo",
-      "summary_vi": "Thị trường dầu diesel toàn cầu thắt chặt dự kiến ​​sẽ tiếp tục thắt chặt trong những tháng tới và giữ giá nhiên liệu ở mức cao, làm tăng giá của tất cả hàng hóa và đe dọa mục tiêu lạm phát của các ngân hàng trung ương. Các quan chức trong ngành tập trung tại hội nghị dầu khí APPEC ở Singapore",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-09_fuz5yxldek.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Diesel-Crunch-Set-to-Worsen-as-Refining-Capacity-Falls-Short-Industry-Warns.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-09 18:30"
     },
     {
       "id": "glllye",

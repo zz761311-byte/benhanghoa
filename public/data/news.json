@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-09-10 18:01",
+  "updated_at": "2026-09-10 19:01",
   "items": [
+    {
+      "id": "1swcgm6",
+      "title": "AB Foods Shares Slump After Group Cautions on Outlook for Sugar, Grocery Units",
+      "title_vi": "Cổ phiếu AB Foods sụt giảm sau những cảnh báo của nhóm về triển vọng đường, đơn vị tạp hóa",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/earnings/ab-foods-expects-sugar-unit-loss-to-deepen-fa9a6703",
+      "source": "WSJ",
+      "category": "soft",
+      "published": "2026-09-10 18:37"
+    },
+    {
+      "id": "144kx1u",
+      "title": "Clean Hydrogen Investment Tops $130 Billion",
+      "title_vi": "Đầu tư hydro sạch đạt 130 tỷ USD",
+      "summary_vi": "Cú sốc cung cấp dầu và khí đốt trong bối cảnh xung đột ở Trung Đông đã thúc đẩy đầu tư tích lũy toàn cầu vào hydro sạch lên tới hơn 130 tỷ USD trong hơn 570 dự án, vì an ninh năng lượng đã trở thành động lực chính thúc đẩy tăng trưởng công nghiệp và nhựa khử cacbon.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-10_gmaucd6sxq.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Clean-Hydrogen-Investment-Tops-130-Billion.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-10 18:30"
+    },
+    {
+      "id": "zjn8zj",
+      "title": "OPEC oil output falls in August, Reuters survey shows",
+      "title_vi": "Khảo sát của Reuters cho thấy sản lượng dầu của OPEC giảm trong tháng 8",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/opec-oil-output-falls-august-reuters-survey-shows-2026-09-10/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-09-10 17:35"
+    },
     {
       "id": "dr7zyr",
       "title": "Oil Tanker Rates Hit Record Highs as Middle East Shipping Risks Soar",
@@ -165,17 +198,6 @@
       "source": "AgroLatam",
       "category": "agri",
       "published": "2026-09-10 04:04"
-    },
-    {
-      "id": "1vam4rb",
-      "title": "U.S. Crude Stocks Edge Lower as Oil Tops $100",
-      "title_vi": "Tồn kho dầu thô Mỹ giảm khi dầu đạt đỉnh 100 USD",
-      "summary_vi": "Viện Dầu khí Hoa Kỳ (API) ước tính tồn kho dầu thô ở Mỹ giảm 300.000 thùng trong tuần kết thúc vào ngày 4 tháng 9. Trong tuần trước đó, tồn kho dầu thô của Mỹ giảm 2,6 triệu thùng. Tồn kho dầu thô thương mại không bao gồm SPR có l",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Stocks-Edge-Lower-as-Oil-Tops-100.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-10 04:02"
     },
     {
       "id": "pwf3lg",
@@ -528,28 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-09 05:35"
-    },
-    {
-      "id": "185fr4u",
-      "title": "CPI | General Mills, Mars Accuse Major Sugar Producers of Price-Fixing",
-      "title_vi": "CPI | General Mills, Mars cáo buộc các nhà sản xuất đường lớn ấn định giá",
-      "summary_vi": "WASHINGTON, ngày 8 tháng 9 - General Mills và Mars đã kiện một số nhà sản xuất đường lớn nhất của Hoa Kỳ, cáo buộc rằng các nhà cung cấp đã phối hợp định giá để",
-      "image": "https://www.pymnts.com/wp-content/uploads/2021/03/shutterstock_144235945-e1616666455282.jpg",
-      "link": "https://www.pymnts.com/cpi-posts/general-mills-mars-accuse-major-sugar-producers-of-price-fixing/",
-      "source": "PYMNTS.com",
-      "category": "soft",
-      "published": "2026-09-09 04:40"
-    },
-    {
-      "id": "1rn6w3i",
-      "title": "Wet fall forecast raises concerns about harvest timing",
-      "title_vi": "Dự báo mùa thu ẩm ướt làm tăng mối lo ngại về thời điểm thu hoạch",
-      "summary_vi": "Một nông dân ở miền trung bắc Ohio cho biết thời tiết gần đây trong tháng qua đã dẫn đến sự phát triển cây trồng không đồng đều trên toàn bang. Patty Mann cho biết cả ngô và đậu nành đều có mặt trên thị trường. Cô nói: “Chúng tôi đã tăng được khoảng 4 đến 5 inch trong khoảng thời gian sáu hoặc tám giờ. “Ở những khu vực đó, nhiệt độ thấp […]",
-      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2025/09/Corn-Harvest_Sept_2025-e1758920129458.jpg",
-      "link": "https://www.brownfieldagnews.com/news/wet-fall-forecast-raises-concerns-about-harvest-timing/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-09-09 04:01"
     }
   ]
 }

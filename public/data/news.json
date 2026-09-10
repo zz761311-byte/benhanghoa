@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-10 06:01",
+  "updated_at": "2026-09-10 07:01",
   "items": [
+    {
+      "id": "tcz7fb",
+      "title": "Oil Breaks $100—and This Rally Has Legs",
+      "title_vi": "Dầu phá vỡ 100 USD—và đợt tăng giá này có cơ sở",
+      "summary_vi": "Trong nhiều tháng, giá dầu thô đã bị hạn chế bởi các báo cáo về việc cải thiện lưu lượng tàu chở dầu ở eo biển Hormuz. Ngay cả sau khi lệnh ngừng bắn vào tháng 6 giữa Iran và Hoa Kỳ sụp đổ, các tàu chở dầu di chuyển ra vào Hormuz vẫn di chuyển với tốc độ cao hơn so với mùa xuân.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-09_yrw8zmvnze.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Breaks-100and-This-Rally-Has-Legs.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-10 07:00"
+    },
     {
       "id": "1ag80f6",
       "title": "Canadian Oil Pushes Deeper Into U.S. Gulf Coast Market",
@@ -112,17 +123,6 @@
       "published": "2026-09-10 01:30"
     },
     {
-      "id": "vw4ip9",
-      "title": "U.S. Moves to Isolate Iran’s Aviation Sector From the Global Economy",
-      "title_vi": "Hoa Kỳ chuyển sang cô lập ngành hàng không của Iran khỏi nền kinh tế toàn cầu",
-      "summary_vi": "Hoa Kỳ đã áp đặt các biện pháp trừng phạt đối với tất cả các hãng hàng không đang hoạt động còn lại của Iran, gây áp lực leo thang mạnh mẽ lên lĩnh vực hàng không của Tehran như một phần của chiến dịch rộng lớn hơn nhằm cắt đứt Cộng hòa Hồi giáo khỏi thương mại và tài chính quốc tế. Kho bạc Hoa Kỳ Depa",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-09_wne87vro1t.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Moves-to-Isolate-Irans-Aviation-Sector-From-the-Global-Economy.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-09-10 01:00"
-    },
-    {
       "id": "1r6qx5p",
       "title": "Silver Price Forecast: Rally puts head-and-shoulders pattern on ice",
       "title_vi": "Dự báo giá bạc: đợt tăng giá đặt mô hình đầu và vai lên băng",
@@ -176,6 +176,17 @@
       "source": "Daily Coffee News",
       "category": "metal",
       "published": "2026-09-09 21:01"
+    },
+    {
+      "id": "jx37hv",
+      "title": "Canada’s trade war with the US won’t end with tariffs",
+      "title_vi": "Cuộc chiến thương mại của Canada với Mỹ sẽ không kết thúc bằng thuế quan",
+      "summary_vi": "Sự leo thang gần đây của cuộc chiến thương mại với Canada xác định những thách thức mang tính cơ cấu trong khả năng phục hồi chuỗi cung ứng của Washington.",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26239612990045.jpg?w=1280",
+      "link": "https://thehill.com/opinion/international/6076794-us-canada-trade-war-nickel/",
+      "source": "The Hill",
+      "category": "macro",
+      "published": "2026-09-09 21:00"
     },
     {
       "id": "4d3d2h",
@@ -539,17 +550,6 @@
       "source": "Forbes",
       "category": "metal",
       "published": "2026-09-08 20:31"
-    },
-    {
-      "id": "1bixdzt",
-      "title": "Why More Pressure Doesn&#8217;t Necessarily Mean Faster Espresso",
-      "title_vi": "Tại sao nhiều áp lực hơn không nhất thiết có nghĩa là Espresso nhanh hơn",
-      "summary_vi": "Áp suất cao hơn không phải lúc nào cũng có nghĩa là espresso nhanh hơn. Đó là bài học rút ra bằng tiếng Anh đơn giản từ một nghiên cứu vật lý mới về phân kênh và điều chỉnh dòng chảy trong cà phê espresso.  Theo nghiên cứu, bã cà phê espresso...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/09/08/why-more-pressure-doesnt-necessarily-mean-faster-espresso/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-09-08 20:06"
     }
   ]
 }

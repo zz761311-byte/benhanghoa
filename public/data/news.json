@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10 12:01",
+  "updated_at": "2026-09-10 12:22",
   "items": [
     {
       "id": "tcz7fb",
@@ -77,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-10 04:00"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-09-10 03:11"
     },
     {
       "id": "zmvqvx",
@@ -539,17 +550,6 @@
       "source": "Marine News Magazine",
       "category": "agri",
       "published": "2026-09-09 00:57"
-    },
-    {
-      "id": "1hzv3g",
-      "title": "Copper just soared to new records — and could still have 'more left in the tank': Chart of the Day",
-      "title_vi": "Đồng vừa tăng vọt lên những kỷ lục mới - và vẫn có thể còn 'nhiều hơn nữa': Biểu đồ trong ngày",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/article/copper-just-soared-to-new-records--and-could-still-have-more-left-in-the-tank-chart-of-the-day-171432521.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-09-09 00:25"
     }
   ]
 }

@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-10 17:01",
+  "updated_at": "2026-09-10 18:01",
   "items": [
+    {
+      "id": "dr7zyr",
+      "title": "Oil Tanker Rates Hit Record Highs as Middle East Shipping Risks Soar",
+      "title_vi": "Giá cước tàu chở dầu đạt mức cao kỷ lục khi rủi ro vận chuyển ở Trung Đông tăng cao",
+      "summary_vi": "Giá cước tàu chở dầu đã tăng lên mức cao kỷ lục do rủi ro leo thang trong vận chuyển vào và ra khỏi Trung Đông đang khiến các thương nhân và nhà khai thác tàu chở dầu phải thực hiện các tuyến thương mại kém hiệu quả và đắt đỏ hơn. Mặc dù nguồn cung cấp dầu thô thực sự có ở đó nhưng việc vận chuyển nó qua sông St.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-10_nlfflyszqk.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Tanker-Rates-Hit-Record-Highs-as-Middle-East-Shipping-Risks-Soar.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-10 17:30"
+    },
+    {
+      "id": "tncfde",
+      "title": "White House copper tariff plan stalls amid affordability concerns, sources say",
+      "title_vi": "Các nguồn tin cho biết kế hoạch thuế đồng của Nhà Trắng bị đình trệ trong bối cảnh lo ngại về khả năng chi trả",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/us/white-house-copper-tariff-plan-stalls-amid-affordability-concerns-sources-say-2026-09-10/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-09-10 17:18"
+    },
     {
       "id": "1do3cq7",
       "title": "India Calls for Bigger Biofuel Push as Oil Prices Soar",
@@ -154,17 +176,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-10 04:02"
-    },
-    {
-      "id": "1deowph",
-      "title": "Negative Power Prices Are Piling Up Across Europe",
-      "title_vi": "Giá điện âm đang chồng chất khắp châu Âu",
-      "summary_vi": "Châu Âu rất cần tăng cường khả năng lưu trữ năng lượng nếu muốn tránh một cuộc khủng hoảng năng lượng khác. Sau cuộc xâm lược Ukraine của Vladimir Putin vào năm 2022, Liên minh Châu Âu đã có những bước tiến lớn trong việc nỗ lực xây dựng năng lực sản xuất năng lượng của mình.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-09_8avr0yos6n.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Negative-Power-Prices-Are-Piling-Up-Across-Europe.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-10 04:00"
     },
     {
       "id": "pwf3lg",
@@ -539,17 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-09-09 04:01"
-    },
-    {
-      "id": "ufm8sk",
-      "title": "General Mills, Mars, McKee allege sugar price collusion",
-      "title_vi": "General Mills, Mars, McKee cáo buộc thông đồng giá đường",
-      "summary_vi": "General Mills, Mars và McKee Foods đã cùng với các nhà sản xuất thực phẩm và cửa hàng tạp hóa khác khởi kiện cáo buộc các nhà sản xuất đường hàng đầu của Mỹ thông đồng để tăng giá.",
-      "image": "https://www.ttnews.com/sites/default/files/styles/social_media_1200x630/public/2026-09/mckee-1200.jpg",
-      "link": "https://www.ttnews.com/articles/food-companies-collusion-sugar",
-      "source": "Transport Topics",
-      "category": "soft",
-      "published": "2026-09-09 04:00"
     }
   ]
 }

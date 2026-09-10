@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-09-11 01:00",
+  "updated_at": "2026-09-11 02:01",
   "items": [
+    {
+      "id": "et7f2z",
+      "title": "US Natural Gas Market Verging on Record Growth",
+      "title_vi": "Thị trường khí đốt tự nhiên của Hoa Kỳ đang trên đà tăng trưởng kỷ lục",
+      "summary_vi": "Theo Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA), sản lượng khí đốt tự nhiên của Mỹ dự kiến ​​sẽ đạt mức cao kỷ lục 111,7 tỷ feet khối mỗi ngày (bcfd) vào năm 2026, tăng từ 107,6 bcfd vào năm 2025. Đến năm 2027, nguồn cung trong nước dự kiến ​​sẽ đạt 115,9 bcfd. Nhưng đó chỉ là một nửa",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-10_6j2jqhdqco.jpg",
+      "link": "https://oilprice.com/Energy/Natural-Gas/US-Natural-Gas-Market-Verging-on-Record-Growth.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-11 02:00"
+    },
+    {
+      "id": "kf8ljl",
+      "title": "General Mills, Mars sue sugar producers for alleged price-fixing",
+      "title_vi": "General Mills, Mars kiện các nhà sản xuất đường vì cáo buộc ấn định giá",
+      "summary_vi": "Các gã khổng lồ thực phẩm tuyên bố các nhà cung cấp đã phối hợp về thông tin giá cả nhạy cảm và đẩy chi phí cho chất tạo ngọt lên mức cao kỷ lục.",
+      "image": "https://imgproxy.divecdn.com/PPS0Q7RTlovfM-cYaTDBafIO6f87QzGCflDbMedHPXo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MTk3NDMxODAuanBn.webp",
+      "link": "https://www.fooddive.com/news/general-mills-mars-lawsuit-sugar-price-fixing/830079/",
+      "source": "Food Dive",
+      "category": "soft",
+      "published": "2026-09-11 01:33"
+    },
+    {
+      "id": "1x842rv",
+      "title": "EIA Raises 2027 U.S. Oil Output Forecast",
+      "title_vi": "EIA nâng dự báo sản lượng dầu của Mỹ năm 2027",
+      "summary_vi": "Cơ quan Thông tin Năng lượng Hoa Kỳ đã nâng dự báo sản lượng dầu thô của Mỹ trong năm 2027 lên 14,3 triệu thùng/ngày, tăng từ 14,2 triệu thùng/ngày trong tháng 8 và 14,0 triệu thùng/ngày trong tháng 7. Đối với năm 2026, EIA vẫn kêu gọi 13,8 triệu thùng/ngày, không thay đổi so với tháng 7",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EIA-Raises-2027-US-Oil-Output-Forecast.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-11 01:30"
+    },
     {
       "id": "uvisyi",
       "title": "Russian Mobilization Rumors Ripple Across Central Asia",
@@ -9,7 +42,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-09_lbmj7vy93s.jpg",
       "link": "https://oilprice.com/Geopolitics/Asia/Russian-Mobilization-Rumors-Ripple-Across-Central-Asia.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-09-11 01:00"
     },
     {
@@ -123,17 +156,6 @@
       "published": "2026-09-10 21:26"
     },
     {
-      "id": "f95r71",
-      "title": "Russia Strikes Moldova Border as Ukraine Hits Black Sea Port",
-      "title_vi": "Nga tấn công biên giới Moldova khi Ukraine tấn công cảng Biển Đen",
-      "summary_vi": "Một cuộc tấn công bằng máy bay không người lái của Nga nhắm vào khu vực biên giới giữa Ukraine và Moldova, khiến hai người thiệt mạng và ba người khác bị thương, trong khi máy bay không người lái của Nga cũng tấn công ở Kyiv, khi Moscow tiếp tục chiến dịch tấn công gần như liên tục trên khắp Ukraine. Cuộc tấn công của Nga vào Starokazach",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-10_64zihepuig.jpg",
-      "link": "https://oilprice.com/Geopolitics/Europe/Russia-Strikes-Moldova-Border-as-Ukraine-Hits-Black-Sea-Port.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-10 21:00"
-    },
-    {
       "id": "1wtrrhi",
       "title": "Gold Steadies Near $4,400 as Traders Weigh Fed Rate-Hike Path",
       "title_vi": "Vàng ổn định gần 4.400 USD khi các nhà giao dịch cân nhắc lộ trình tăng lãi suất của Fed",
@@ -176,17 +198,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-10 19:34"
-    },
-    {
-      "id": "heepkq",
-      "title": "TotalEnergies to Bring New Angola Discovery Online in Just Three Months",
-      "title_vi": "TotalEnergies sẽ đưa khám phá mới của Angola lên mạng chỉ trong ba tháng",
-      "summary_vi": "TotalEnergies đã thực hiện một phát hiện mới ngoài khơi Angola và đã mua quyền khai thác ở hai lô thăm dò mới gần các trung tâm hoạt động khi các công ty quốc tế lớn quay trở lại thăm dò vùng biển của Angola để tận dụng cơ sở hạ tầng hiện có. Tổng năng lượng đang bật",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-10_f4ka5uhcjn.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-to-Bring-New-Angola-Discovery-Online-in-Just-Three-Months.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-10 19:30"
     },
     {
       "id": "10zmk19",
@@ -539,17 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-09-09 19:51"
-    },
-    {
-      "id": "c4xige",
-      "title": "Heist Hopes Its Decaf Can Steal a Share of the High-End Coffee Category",
-      "title_vi": "Heist hy vọng Decaf của nó có thể chiếm được một phần trong danh mục cà phê cao cấp",
-      "summary_vi": "Một thương hiệu cà phê mới có tên Heist đã ra mắt trực tuyến vào tháng trước với dòng sản phẩm tập trung hoàn toàn vào cà phê decaf và cà phê ít caffeine. Bên cạnh việc bán hàng trực tiếp cho người tiêu dùng, Heist đang theo đuổi các khách hàng bán buôn với...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/09/09/heist-hopes-its-decaf-can-steal-a-share-of-the-high-end-coffee-category/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-09-09 19:36"
     }
   ]
 }

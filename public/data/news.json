@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 02:01",
+  "updated_at": "2026-09-11 02:47",
   "items": [
     {
       "id": "et7f2z",
@@ -79,6 +79,17 @@
       "published": "2026-09-10 23:00"
     },
     {
+      "id": "1rbukqo",
+      "title": "Gold And Silver Tumble As September Rate Hike Appears More Likely",
+      "title_vi": "Vàng và Bạc sụt giảm khi có nhiều khả năng tăng lãi suất vào tháng 9",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forbes.com/sites/conormurray/2026/09/10/silver-falls-6-gold-also-dips-amid-rate-hike-expectations-rising-oil-prices/",
+      "source": "Forbes",
+      "category": "metal",
+      "published": "2026-09-10 22:32"
+    },
+    {
       "id": "e1xukf",
       "title": "Senegal to Offer 109 Oil and Gas Blocks to Investors",
       "title_vi": "Sénégal chào bán 109 lô dầu khí cho các nhà đầu tư",
@@ -132,6 +143,17 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-09-10 21:50"
+    },
+    {
+      "id": "10gpljl",
+      "title": "EIA Outlook Calls for Natural Gas to Sustain Leading Share of US Electricity Generation",
+      "title_vi": "Triển vọng EIA kêu gọi khí đốt tự nhiên duy trì thị phần dẫn đầu trong sản xuất điện của Hoa Kỳ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/eia-outlook-calls-for-natural-gas-to-sustain-leading-share-of-us-electricity-generation/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-09-10 21:42"
     },
     {
       "id": "cjwq0k",
@@ -231,17 +253,6 @@
       "source": "WSJ",
       "category": "soft",
       "published": "2026-09-10 18:37"
-    },
-    {
-      "id": "1y428c8",
-      "title": "Copper Tariff Delay Hits Metals! Gold Falls to 100 DMA Will Silver Hold? Metals Minute Phil Streible",
-      "title_vi": "Sự chậm trễ thuế quan ảnh hưởng đến kim loại! Vàng giảm xuống 100 DMA Liệu bạc có giữ được không? Phút kim loại Phil Streible",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barchart.com/story/news/4531960/copper-tariff-delay-hits-metals-gold-falls-to-100-dma-will-silver-hold-metals-minute-phil-streible",
-      "source": "Barchart.com",
-      "category": "metal",
-      "published": "2026-09-10 18:03"
     },
     {
       "id": "zjn8zj",
@@ -539,17 +550,6 @@
       "source": "U.S. Energy Information Administration (EIA) (.gov)",
       "category": "energy",
       "published": "2026-09-09 20:04"
-    },
-    {
-      "id": "1xf1f3o",
-      "title": "Struggling Natural Gas Futures Testing Support as Shoulder Season Looms",
-      "title_vi": "Đang gặp khó khăn trong việc hỗ trợ thử nghiệm hợp đồng tương lai khí đốt tự nhiên khi mùa giao dịch sắp đến",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/struggling-natural-gas-futures-testing-support-as-shoulder-season-looms/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-09-09 19:51"
     }
   ]
 }

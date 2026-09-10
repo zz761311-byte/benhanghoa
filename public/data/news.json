@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10 09:01",
+  "updated_at": "2026-09-10 10:01",
   "items": [
     {
       "id": "tcz7fb",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-10 06:00"
+    },
+    {
+      "id": "vphejp",
+      "title": "Corn Futures Fall into Wednesday’s Close",
+      "title_vi": "Hợp đồng tương lai ngô đóng cửa vào thứ Tư",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barchart.com/story/news/4524125/corn-futures-fall-into-wednesdays-close",
+      "source": "Barchart.com",
+      "category": "agri",
+      "published": "2026-09-10 05:15"
     },
     {
       "id": "15v7oku",
@@ -365,6 +376,17 @@
       "published": "2026-09-09 12:00"
     },
     {
+      "id": "120kns6",
+      "title": "Gold climbs on subdued U.S. dollar as inflation data awaited amid oil rally",
+      "title_vi": "Vàng tăng do đồng đô la Mỹ yếu khi dữ liệu lạm phát được chờ đợi trong bối cảnh giá dầu tăng",
+      "summary_vi": "Vàng đã tăng hơn 1% vào thứ Tư khi đồng đô la vẫn chịu áp lực.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107390700-1711024545545-gettyimages-1868371035-THAILAND_GOLD.jpeg?v=1788924686&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/09/09/gold-firms-on-softer-dollar-inflation-data-and-mideast-risks-in-focus.html",
+      "source": "CNBC",
+      "category": "macro",
+      "published": "2026-09-09 10:37"
+    },
+    {
       "id": "b6lxbn",
       "title": "Gold and Silver Price Forecast: XAU/USD Eyes Breakout as US Inflation Data Looms",
       "title_vi": "Dự báo giá vàng và bạc: XAU/USD đột phá khi dữ liệu lạm phát của Mỹ xuất hiện",
@@ -528,28 +550,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-09-08 23:24"
-    },
-    {
-      "id": "1mt4qw8",
-      "title": "Oil prices could hit $120, analysis finds, as Americans absorb $100 billion fuel hit",
-      "title_vi": "Phân tích cho thấy giá dầu có thể đạt 120 USD khi người Mỹ tiêu tốn 100 tỷ USD nhiên liệu",
-      "summary_vi": "Theo một nhà theo dõi của Đại học Brown, giá xăng và dầu diesel cao hơn đã khiến người Mỹ thiệt hại thêm 100 tỷ USD kể từ khi chiến tranh Iran bắt đầu.",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/17/15be2b4a-fe5c-4d54-a0d3-fa779a889c3f/thumbnail/1200x630/7ec29f3b37005779d30df7c4c21067fd/gettyimages-1359954504.jpg",
-      "link": "https://www.cbsnews.com/news/oil-prices-forecast-goldman-sachs-iran-war/",
-      "source": "CBS News",
-      "category": "energy",
-      "published": "2026-09-08 21:49"
-    },
-    {
-      "id": "3fc5tt",
-      "title": "Radical Bean Wants to Rework the Coffee Model in Cincinnati",
-      "title_vi": "Radical Bean muốn làm lại mô hình cà phê ở Cincinnati",
-      "summary_vi": "Quán cà phê thuộc sở hữu của công nhân Cincinnati Hợp tác xã cà phê Topia đã tái xuất hiện thành Hợp tác xã Radical Bean sau khi chuyển đổi quyền sở hữu và đóng cửa hai tháng, với thương hiệu mới và trọng tâm mới vào khả năng chi trả và...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/09/08/radical-bean-wants-to-rework-the-coffee-model-in-cincinnati/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-09-08 21:20"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-10 16:01",
+  "updated_at": "2026-09-10 16:50",
   "items": [
+    {
+      "id": "1do3cq7",
+      "title": "India Calls for Bigger Biofuel Push as Oil Prices Soar",
+      "title_vi": "Ấn Độ kêu gọi thúc đẩy nhiên liệu sinh học lớn hơn khi giá dầu tăng cao",
+      "summary_vi": "Theo Tarun Kapoor, cố vấn của Văn phòng Thủ tướng Ấn Độ, Ấn Độ cần mở rộng sản xuất và tiêu thụ nhiên liệu sinh học để tăng cường an ninh năng lượng khi giá dầu thô tăng cao trong bối cảnh khủng hoảng Trung Đông. “Tương lai của nhiên liệu sinh học là tối đa hóa giá trị từ mọi lợi ích",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-10_pcgxqnhnm0.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Calls-for-Bigger-Biofuel-Push-as-Oil-Prices-Soar.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-10 16:30"
+    },
     {
       "id": "158zh3b",
       "title": "Global Clean Investment Falls 17% as China Pullback Takes Its Toll",
@@ -33,6 +44,17 @@
       "source": "WTVB",
       "category": "energy",
       "published": "2026-09-10 14:06"
+    },
+    {
+      "id": "1bcmcfn",
+      "title": "Is it time to sell 2027 corn and soybeans?",
+      "title_vi": "Đã đến lúc bán ngô và đậu nành năm 2027?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/marketing/is-it-time-to-sell-2027-corn-and-soybeans-",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-09-10 14:05"
     },
     {
       "id": "20u638",
@@ -165,17 +187,6 @@
       "source": "PYMNTS.com",
       "category": "soft",
       "published": "2026-09-10 03:01"
-    },
-    {
-      "id": "1ndy1yo",
-      "title": "U.S. Administration Eyes Venezuela’s Critical Minerals",
-      "title_vi": "Chính quyền Hoa Kỳ để mắt tới các khoáng sản quan trọng của Venezuela",
-      "summary_vi": "Sau khi ký kết thỏa thuận mà Tổng thống Donald Trump ca ngợi là “thỏa thuận dầu mỏ lớn nhất trong lịch sử thế giới” nhằm kiểm soát phần lớn 65 tỷ thùng trữ lượng dầu thô đã được chứng minh ở Venezuela, Chính quyền Hoa Kỳ đang để mắt tới lượng vàng tiềm năng khổng lồ của quốc gia Nam Mỹ này.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-09_czwkpy5mxg.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Administration-Eyes-Venezuelas-Critical-Minerals.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-10 03:00"
     },
     {
       "id": "1ft5xf2",
@@ -539,17 +550,6 @@
       "source": "Transport Topics",
       "category": "soft",
       "published": "2026-09-09 04:00"
-    },
-    {
-      "id": "dy4xo8",
-      "title": "Wheat jumps on war tensions as soybeans rise and corn retreats in Chicago",
-      "title_vi": "Lúa mì tăng vọt do căng thẳng chiến tranh khi đậu nành tăng giá và ngô giảm giá ở Chicago",
-      "summary_vi": "Giá lúa mì kỳ hạn tăng hôm thứ Ba khi các cuộc tấn công ở Ukraine và giá dầu thô tăng cao làm dấy lên rủi ro địa chính trị, trong khi giá đậu nành tăng và ngô giảm.",
-      "image": "https://www.agrolatam.com/files/image/80/80175/6aa06acf4ed1e_600_315!.jpg?s=62f7f4a4827841b65ed1ee21c9ef80b1&d=1788898426",
-      "link": "https://www.agrolatam.com/usa/news/wheat-prices-war-ukraine-soybeans-corn-chicago/",
-      "source": "AgroLatam",
-      "category": "agri",
-      "published": "2026-09-09 03:19"
     }
   ]
 }

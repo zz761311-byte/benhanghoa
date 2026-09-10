@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-11 02:47",
+  "updated_at": "2026-09-11 03:00",
   "items": [
+    {
+      "id": "1ja0mb2",
+      "title": "Copper Stocks Sink as White House Tariff Uncertainty Spooks Traders",
+      "title_vi": "Cổ phiếu đồng sụt giảm khi sự không chắc chắn về thuế quan của Nhà Trắng khiến các nhà giao dịch lo sợ",
+      "summary_vi": "Các cổ phiếu đồng tương lai và các cổ phiếu liên quan đã lao dốc vào sáng thứ Năm sau khi có báo cáo của Reuters cho biết “kế hoạch thuế đồng của Nhà Trắng bị đình trệ trong bối cảnh lo ngại về khả năng chi trả”. Chính quyền Trump vẫn chưa quyết định có nên áp thuế đối với đồng tinh chế hay không, khiến giá đồng tăng cao.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-10_pd6duw7ybo.jpg",
+      "link": "https://oilprice.com/Metals/Commodities/Copper-Stocks-Sink-as-White-House-Tariff-Uncertainty-Spooks-Traders.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-09-11 03:00"
+    },
     {
       "id": "et7f2z",
       "title": "US Natural Gas Market Verging on Record Growth",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-11 02:00"
+    },
+    {
+      "id": "lyti6d",
+      "title": "Wheat prices encourage planting, but input costs remain a wildcard",
+      "title_vi": "Giá lúa mì khuyến khích trồng trọt nhưng chi phí đầu vào vẫn là yếu tố quyết định",
+      "summary_vi": "Một nhà phân tích thị trường cho biết có một số yếu tố có thể ảnh hưởng đến số lượng trồng lúa mì vào mùa thu này. Jim McCormick của AgMarket.Net cho biết xung đột đang diễn ra giữa Nga và Ukraine đã một phần dẫn đến sự tăng giá gần đây. “Bây giờ họ đang tấn công cơ sở hạ tầng. Họ đang cố gắng đánh chiếm các tàu chở hàng. T",
+      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2026/06/Winterwheat_midJune_MO1_2026-e1781550303427.jpg",
+      "link": "https://www.brownfieldagnews.com/news/wheat-prices-encourage-planting-but-input-costs-remain-a-wildcard/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-09-11 01:57"
     },
     {
       "id": "kf8ljl",
@@ -55,6 +77,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-09-11 00:13"
+    },
+    {
+      "id": "5pru66",
+      "title": "Oil prices surge to $107 for the first time since May as bond yields jump",
+      "title_vi": "Giá dầu tăng lên 107 USD lần đầu tiên kể từ tháng 5 khi lãi suất trái phiếu tăng",
+      "summary_vi": "Chứng khoán sụt giảm và lãi suất thế chấp tăng cao, khi các nền kinh tế trên thế giới phải đối mặt với nguy cơ lạm phát dài hạn.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260910-hormuz-mn-0840-6bdbf3.jpg",
+      "link": "https://www.nbcnews.com/business/energy/us-crude-oil-iran-trump-hormuz-rcna596997",
+      "source": "NBC News",
+      "category": "energy",
+      "published": "2026-09-10 23:32"
     },
     {
       "id": "9guxrd",
@@ -156,15 +189,15 @@
       "published": "2026-09-10 21:42"
     },
     {
-      "id": "cjwq0k",
-      "title": "IEA: Global Coal Demand Set to Hit Record High as Iran War Chokes LNG Supply",
-      "title_vi": "IEA: Nhu cầu than toàn cầu đạt mức cao kỷ lục do chiến tranh Iran bóp nghẹt nguồn cung LNG",
-      "summary_vi": "Cơ quan Năng lượng Quốc tế (IEA) cho biết trong một báo cáo mới hôm thứ Năm rằng giá LNG tăng vọt do tắc nghẽn eo biển Hormuz đang thúc đẩy các nền kinh tế chuyển sang các nguồn năng lượng thay thế, đẩy nhu cầu than lên mức cao kỷ lục khác trong năm nay. Giá LNG tăng vọt có mủ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-10_8i3jnzkkog.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Global-Coal-Demand-Set-to-Hit-Record-High-as-Iran-War-Chokes-LNG-Supply.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-10 21:30"
+      "id": "o8unq",
+      "title": "Copper Prices Are Tumbling Along With Freeport, Other Mining Stocks",
+      "title_vi": "Giá đồng đang giảm cùng với Freeport và các cổ phiếu khai thác khác",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barrons.com/articles/copper-prices-mining-freeport-f0b5f7aa",
+      "source": "barrons.com",
+      "category": "metal",
+      "published": "2026-09-10 21:32"
     },
     {
       "id": "kmp5xq",
@@ -517,39 +550,6 @@
       "source": "The Hill",
       "category": "macro",
       "published": "2026-09-09 21:00"
-    },
-    {
-      "id": "4d3d2h",
-      "title": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
-      "title_vi": "Các tuyến đường thay thế cho dầu khí Trung Đông do sự gián đoạn của Hormuz",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/alternative-routes-for-middle-east-oil-and-gas-due-to-hormuz-disruption/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-09 20:31"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-09 20:21"
-    },
-    {
-      "id": "1sx7707",
-      "title": "New England natural gas prices have been trading near record discounts to Henry Hub",
-      "title_vi": "Giá khí đốt tự nhiên ở New England đã được giao dịch ở mức giảm kỷ lục đối với Henry Hub",
-      "summary_vi": "Cơ quan Thông tin Năng lượng - EIA - Thống kê Năng lượng Chính thức của Chính phủ Hoa Kỳ",
-      "image": "",
-      "link": "https://www.eia.gov/todayinenergy/detail.php?id",
-      "source": "U.S. Energy Information Administration (EIA) (.gov)",
-      "category": "energy",
-      "published": "2026-09-09 20:04"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-10 19:01",
+  "updated_at": "2026-09-10 20:01",
   "items": [
+    {
+      "id": "heepkq",
+      "title": "TotalEnergies to Bring New Angola Discovery Online in Just Three Months",
+      "title_vi": "TotalEnergies sẽ đưa khám phá mới của Angola lên mạng chỉ trong ba tháng",
+      "summary_vi": "TotalEnergies đã thực hiện một phát hiện mới ngoài khơi Angola và đã mua quyền khai thác ở hai lô thăm dò mới gần các trung tâm hoạt động khi các công ty quốc tế lớn quay trở lại thăm dò vùng biển của Angola để tận dụng cơ sở hạ tầng hiện có. Tổng năng lượng đang bật",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-10_f4ka5uhcjn.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-to-Bring-New-Angola-Discovery-Online-in-Just-Three-Months.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-10 19:30"
+    },
     {
       "id": "1swcgm6",
       "title": "AB Foods Shares Slump After Group Cautions on Outlook for Sugar, Grocery Units",
@@ -55,6 +66,17 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-09-10 17:18"
+    },
+    {
+      "id": "1wk2rho",
+      "title": "Argentina cuts soybean harvest outlook as corn margins improve",
+      "title_vi": "Argentina cắt giảm triển vọng thu hoạch đậu tương do lợi nhuận từ ngô cải thiện",
+      "summary_vi": "Dự báo lúa mì tăng do điều kiện vụ mùa sớm mạnh mẽ",
+      "image": "https://cdn1.globalagmedia.com/Global_News/Argentina-open-road.jpg",
+      "link": "https://www.thepigsite.com/news/2026/09/argentina-cuts-soybean-harvest-outlook-as-corn-margins-improve",
+      "source": "The Pig Site",
+      "category": "agri",
+      "published": "2026-09-10 17:02"
     },
     {
       "id": "1do3cq7",
@@ -167,17 +189,6 @@
       "published": "2026-09-10 05:15"
     },
     {
-      "id": "15v7oku",
-      "title": "The Commodity Bull Market Just Entered a Dangerous New Phase",
-      "title_vi": "Thị trường hàng hóa tăng trưởng vừa bước vào giai đoạn mới nguy hiểm",
-      "summary_vi": "Hiện tại, độc giả đã quen với sự phục hồi của hàng hóa trên diện rộng, với năng lượng, sản phẩm nông nghiệp và kim loại tăng mạnh khi cựu giám đốc hàng hóa của Goldman Sachs Jeff Currie cảnh báo vào mùa hè này về tình trạng khan hiếm ngày càng tăng trong nền kinh tế vật chất. Chỉ số hàng hóa Bloomberg",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-09_xutwyedpaw.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Commodity-Bull-Market-Just-Entered-a-Dangerous-New-Phase.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-09-10 05:00"
-    },
-    {
       "id": "1vu08v7",
       "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
       "title_vi": "Dầu tăng trên 100 USD/thùng khi Mỹ và Iran tiến hành các cuộc tấn công mới, trong khi giá xăng cũng tăng vọt",
@@ -253,6 +264,17 @@
       "source": "fxstreet.com",
       "category": "metal",
       "published": "2026-09-10 00:56"
+    },
+    {
+      "id": "1varktp",
+      "title": "Copper price pauses below record as China's imports slump, mine supply heads for first drop since 2017",
+      "title_vi": "Giá đồng tạm dừng dưới mức kỷ lục do nhập khẩu của Trung Quốc sụt giảm, nguồn cung từ các mỏ khai thác giảm lần đầu tiên kể từ năm 2017",
+      "summary_vi": "Trung Quốc đã nhập khẩu 382.000 tấn đồng trong tháng 8, tháng 8 yếu nhất trong 6 năm, trong khi Collahuasi đang khởi động lại một nhà máy lọc đã bị đóng băng và hiện nay đồng phải trả 14.000 USD cho axit.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/09/copper-anode-teeth-warehouse-shipping--1024x682.jpeg",
+      "link": "https://www.mining.com/copper-price-pauses-below-record-as-chinas-imports-slump-mine-supply-heads-for-first-drop-since-2017/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-09-10 00:38"
     },
     {
       "id": "1aw2lso",
@@ -528,28 +550,6 @@
       "source": "Inside Climate News",
       "category": "energy",
       "published": "2026-09-09 07:08"
-    },
-    {
-      "id": "1f08si9",
-      "title": "Grain Markets Higher Except Corn on War, WASDE Positioning: Cattle Soar",
-      "title_vi": "Thị trường ngũ cốc cao hơn ngoại trừ ngô trong chiến tranh, WASDE Định vị: Gia súc tăng vọt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/grain-markets-higher-except-corn-war-wasde-positioning-cattle-make-multi-",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-09-09 05:49"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-09 05:35"
     }
   ]
 }

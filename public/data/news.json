@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-10 23:01",
+  "updated_at": "2026-09-11 00:01",
   "items": [
+    {
+      "id": "9guxrd",
+      "title": "U.S. Crude Inventories Fall As Brent Prices Soar",
+      "title_vi": "Tồn kho dầu thô của Mỹ giảm khi giá Brent tăng",
+      "summary_vi": "Theo dữ liệu mới từ Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA) công bố hôm thứ Năm, tồn kho dầu thô ở Hoa Kỳ đã giảm 400.000 thùng trong tuần kết thúc vào ngày 4 tháng 9. Mức giảm này đưa tồn kho thương mại lên 424,1 triệu thùng, tăng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-10_5find6labi.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Crude-Inventories-Fall-As-Brent-Prices-Soar.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-10 23:14"
+    },
     {
       "id": "keh3v1",
       "title": "The Race to Cut Methane Emissions Is Exposing a Global Divide",
@@ -24,6 +35,17 @@
       "published": "2026-09-10 22:30"
     },
     {
+      "id": "30zcuu",
+      "title": "JPMorgan revisits silver price target ahead of 2027",
+      "title_vi": "JPMorgan xem xét lại mục tiêu giá bạc trước năm 2027",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.thestreet.com/investing/jp-morgan-cuts-silver-price-target-ahead-of-2027",
+      "source": "thestreet.com",
+      "category": "metal",
+      "published": "2026-09-10 22:03"
+    },
+    {
       "id": "1cormps",
       "title": "Permian Gas Has Been Worth Less Than Nothing for 118 Days This Year",
       "title_vi": "Khí Permian có giá trị thấp hơn không trong 118 ngày trong năm nay",
@@ -33,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-10 22:00"
+    },
+    {
+      "id": "13uead6",
+      "title": "Higher wheat prices boost opportunities with double-crop soybeans",
+      "title_vi": "Giá lúa mì cao hơn thúc đẩy cơ hội với đậu nành hai vụ",
+      "summary_vi": "Một nhà kinh tế nông nghiệp tại Đại học Illinois cho biết việc trồng hai vụ đậu nành với lúa mì có tiềm năng lợi nhuận lớn nhất cho nông dân ở những vùng đang phát triển ấm hơn vào năm tới. Gary Schnitkey nói với Brownfield, “Đậu nành trồng lúa mì hai vụ được dự đoán sẽ mang lại nhiều lợi nhuận hơn so với ngô hoặc đậu nành riêng lẻ”. “Đó là số 8",
+      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2026/09/09082026_fig2-e1789050382635.png",
+      "link": "https://www.brownfieldagnews.com/news/higher-wheat-prices-boost-opportunities-with-double-crop-soybeans/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-09-10 21:50"
     },
     {
       "id": "cjwq0k",
@@ -167,17 +200,6 @@
       "published": "2026-09-10 17:35"
     },
     {
-      "id": "dr7zyr",
-      "title": "Oil Tanker Rates Hit Record Highs as Middle East Shipping Risks Soar",
-      "title_vi": "Giá cước tàu chở dầu đạt mức cao kỷ lục khi rủi ro vận chuyển ở Trung Đông tăng cao",
-      "summary_vi": "Giá cước tàu chở dầu đã tăng lên mức cao kỷ lục do rủi ro leo thang trong vận chuyển vào và ra khỏi Trung Đông đang khiến các thương nhân và nhà khai thác tàu chở dầu phải thực hiện các tuyến thương mại kém hiệu quả và đắt đỏ hơn. Mặc dù nguồn cung cấp dầu thô thực sự có ở đó nhưng việc vận chuyển nó qua sông St.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-10_nlfflyszqk.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Tanker-Rates-Hit-Record-Highs-as-Middle-East-Shipping-Risks-Soar.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-10 17:30"
-    },
-    {
       "id": "tncfde",
       "title": "White House copper tariff plan stalls amid affordability concerns, sources say",
       "title_vi": "Các nguồn tin cho biết kế hoạch thuế đồng của Nhà Trắng bị đình trệ trong bối cảnh lo ngại về khả năng chi trả",
@@ -187,6 +209,17 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-09-10 17:18"
+    },
+    {
+      "id": "1tp3wv2",
+      "title": "Gold, silver prices tumble as hot PPI lifts Fed-hike risk - Kitco AM Report",
+      "title_vi": "Giá vàng, bạc sụt giảm khi PPI nóng làm tăng rủi ro tăng lãi suất của Fed - Báo cáo Kitco AM",
+      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay giảm mạnh trong đầu phiên giao dịch tại Mỹ hôm thứ Năm, sau khi lạm phát bán buôn ở Mỹ nóng hơn, số đơn xin trợ cấp thất nghiệp ổn định và việc ECB tăng lãi suất 25 điểm cơ bản đã củng cố giao dịch lãi suất cao hơn trong thời gian dài hơn trên toàn cầu. Tại thời điểm viết bài, vàng giao ngay đang giao dịch ở mức gần 4.362,30 USD/ounce.",
+      "image": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0&left=0.1729145558933&width=1023.6541708882&height=576&scale_width=1920&token=065317f5537df4eea50f5ab77f4aa9d48e3dd067b208a636e5cc0bf851c99ad7",
+      "link": "https://www.kitco.com/news/article/2026-09-10/gold-silver-prices-tumble-hot-ppi-lifts-fed-hike-risk-kitco-am-report",
+      "source": "kitco.com",
+      "category": "metal",
+      "published": "2026-09-10 17:05"
     },
     {
       "id": "1wk2rho",
@@ -242,17 +275,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-09-10 14:05"
-    },
-    {
-      "id": "1hwiqr2",
-      "title": "Gold edges higher on weaker dollar, US inflation data in focus",
-      "title_vi": "Vàng tăng cao hơn do đồng đô la yếu hơn, dữ liệu lạm phát của Mỹ đang được chú ý",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-edges-higher-weaker-dollar-us-inflation-data-focus-2026-09-10/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-09-10 09:56"
     },
     {
       "id": "vphejp",
@@ -528,28 +550,6 @@
       "source": "Bloomberg.com",
       "category": "soft",
       "published": "2026-09-09 19:06"
-    },
-    {
-      "id": "di39ek",
-      "title": "Palladium Price Analysis: Can $1,150 Hold as Investors Exit the Market?",
-      "title_vi": "Phân tích giá Palladium: Liệu nhà đầu tư có thể giữ mức 1.150 USD khi rời khỏi thị trường?",
-      "summary_vi": "Thặng dư dự kiến ​​đầu tiên của Palladium kể từ năm 2011 có vẻ giảm, nhưng 79% sự thay đổi đến từ dòng đầu tư có thể đảo ngược ngay cả khi tổng nguồn cung đang giảm. Với việc các nhà đầu cơ bán khống gấp đôi mức thặng dư dự báo, mức 1.150 USD có thể được giữ vững đến cuối năm và thiết lập mức kiểm định lại ở mức 1.487,75 USD.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/precious-metals-market-illustration-021.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/premium-palladium-price-analysis-can-1150-hold-as-investors-exit-the-market-1626021",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-09-09 19:01"
-    },
-    {
-      "id": "piy4im",
-      "title": "Platinum Price Forecast: Can Bulls Break $1,900 Despite Surplus?",
-      "title_vi": "Dự báo giá bạch kim: Liệu những chú bò đực có thể phá vỡ mức 1.900 USD bất chấp thặng dư?",
-      "summary_vi": "Bạch kim tiến đến ngưỡng kháng cự 1.900 USD do tồn kho khan hiếm hỗ trợ giá, trong khi thặng dư dự kiến ​​và rủi ro lãi suất của Fed có thể hạn chế sự phục hồi.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/platinum2-1.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/premium-platinum-price-forecast-can-bulls-break-1900-despite-surplus-1626061?_c",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-09-09 18:32"
     }
   ]
 }

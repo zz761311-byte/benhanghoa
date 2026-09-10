@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10 07:01",
+  "updated_at": "2026-09-10 07:39",
   "items": [
     {
       "id": "tcz7fb",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-09-10 05:00"
+    },
+    {
+      "id": "1vu08v7",
+      "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
+      "title_vi": "Dầu tăng trên 100 USD/thùng khi Mỹ và Iran tiến hành các cuộc tấn công mới, trong khi giá xăng cũng tăng vọt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://apnews.com/article/oil-prices-iran-attack-saudi-brent-crude-7538e6386a819bcdc2547d530ec3472e",
+      "source": "AP News",
+      "category": "energy",
+      "published": "2026-09-10 04:18"
     },
     {
       "id": "1vam4rb",
@@ -539,17 +550,6 @@
       "source": "Oklahoma Farm Report",
       "category": "agri",
       "published": "2026-09-08 21:01"
-    },
-    {
-      "id": "5vd8ks",
-      "title": "Silver Price For Today, 8 September 2026",
-      "title_vi": "Giá Bạc Hôm Nay, ngày 8 tháng 9 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
-      "source": "Forbes",
-      "category": "metal",
-      "published": "2026-09-08 20:31"
     }
   ]
 }

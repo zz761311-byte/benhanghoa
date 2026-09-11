@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-12 04:00",
+  "updated_at": "2026-09-12 05:00",
   "items": [
+    {
+      "id": "1s14ba1",
+      "title": "Europe&#039;s \"Less\" Is Doing More Than Anyone Gives It Credit For",
+      "title_vi": "Những nước \"Ít hơn\" ở Châu Âu đang làm được nhiều việc hơn bất cứ ai ghi nhận",
+      "summary_vi": "Sáng nay giá dầu Brent đang chạm mức trên 104 USD, giảm nhẹ so với mức tăng ngày hôm qua. Eo biển Hormuz, nơi từng vận chuyển khoảng 1/5 lượng dầu và LNG của thế giới trước chiến tranh, đã bị đóng cửa kể từ tháng 3. Sản lượng của Saudi giảm khoảng 1,9 triệu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-11_cb85k7d2nc.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-12 05:00"
+    },
+    {
+      "id": "1vrstb3",
+      "title": "September WASDE maintains forecast for corn use in ethanol production",
+      "title_vi": "WASDE tháng 9 duy trì dự báo sử dụng ngô trong sản xuất ethanol",
+      "summary_vi": "USDA duy trì dự báo về việc sử dụng ngô từ năm 2026 đến năm 2027 trong sản xuất ethanol nhiên liệu trong báo cáo Ước tính Cung và Cầu Nông nghiệp Thế giới mới nhất, liên quan",
+      "image": "https://bbi-strapi.s3.us-east-2.amazonaws.com/archived/epm/posts/web/2014/06/CornCobBig_14025216574144.jpg",
+      "link": "https://ethanolproducer.com/articles/september-wasde-maintains-forecast-for-corn-use-in-ethanol-production",
+      "source": "Ethanol Producer Magazine",
+      "category": "agri",
+      "published": "2026-09-12 04:14"
+    },
     {
       "id": "1n009zg",
       "title": "White House Weighs Defense Production Act as U.S. Refineries Maxed Out",
@@ -132,17 +154,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-11 23:00"
-    },
-    {
-      "id": "1i67m1e",
-      "title": "IEA Sees 5.7 Million Bpd Oil Supply Plunge as Gulf Recovery Slips to 2027",
-      "title_vi": "IEA dự kiến ​​nguồn cung dầu 5,7 triệu thùng/ngày giảm mạnh khi quá trình phục hồi ở vùng Vịnh trượt sang năm 2027",
-      "summary_vi": "Theo một báo cáo mới công bố hôm thứ Sáu, IEA vừa lấy thêm 1,4 triệu thùng mỗi ngày trong triển vọng nguồn cung dầu toàn cầu năm 2026 và họ không còn kỳ vọng dòng chảy bình thường của vùng Vịnh sẽ quay trở lại trong năm nay. Nguồn cung dầu toàn cầu hiện được dự đoán sẽ giảm 5,7 triệu thùng/ngày trong năm 20",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-11_wktlcj8pxv.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Sees-57-Million-Bpd-Oil-Supply-Plunge-as-Gulf-Recovery-Slips-to-2027.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-11 22:30"
     },
     {
       "id": "z65s3w",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-10 19:34"
-    },
-    {
-      "id": "uf5k8v",
-      "title": "Palladium Recovery Chelate Market To 2035: Electronics Recycling Mandates Drive Growth - News and Statistics",
-      "title_vi": "Thị trường Chelate phục hồi Palladium đến năm 2035: Nhiệm vụ tái chế điện tử thúc đẩy tăng trưởng - Tin tức và Thống kê",
-      "summary_vi": "Thị trường Chelate Phục hồi Palladium dự kiến ​​sẽ mở rộng ở mức 7-9% hàng năm cho đến năm 2035, được thúc đẩy bởi việc thắt chặt các yêu cầu tái chế chất thải điện tử và việc thu hồi palladium từ thiết bị điện tử ngày càng tăng",
-      "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-palladium-recovery-chelate-market-analysis-forecast-size-trends-and-insights-1789040500.webp",
-      "link": "https://www.indexbox.io/blog/palladium-recovery-chelate-market-forecast-to-2035-demand-accelerates-on-electronics-recycling-mandates/",
-      "source": "IndexBox",
-      "category": "metal",
-      "published": "2026-09-10 18:41"
     }
   ]
 }

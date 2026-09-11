@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 10:01",
+  "updated_at": "2026-09-11 11:00",
   "items": [
     {
       "id": "1vxz1cy",
@@ -321,6 +321,17 @@
       "published": "2026-09-10 20:13"
     },
     {
+      "id": "1tygmta",
+      "title": "OPEC further lowers 2026 global oil demand growth forecast",
+      "title_vi": "OPEC tiếp tục hạ dự báo tăng trưởng nhu cầu dầu toàn cầu năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/opec-further-lowers-2026-global-oil-demand-growth-forecast-2026-09-10/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-09-10 20:00"
+    },
+    {
       "id": "vzi7fx",
       "title": "Mubadala Plans Minority Stake in Luckin in $1 Billion Deal",
       "title_vi": "Mubadala lên kế hoạch sở hữu cổ phần thiểu số tại Luckin trong thương vụ trị giá 1 tỷ USD",
@@ -539,17 +550,6 @@
       "source": "PBS",
       "category": "energy",
       "published": "2026-09-10 02:35"
-    },
-    {
-      "id": "1ck2rdy",
-      "title": "Oil surges past $101 to highest closing level since May as Middle East conflict intensifies",
-      "title_vi": "Dầu tăng vượt 101 USD lên mức đóng cửa cao nhất kể từ tháng 5 khi xung đột ở Trung Đông gia tăng",
-      "summary_vi": "Giá xăng tăng lên 4,22 USD vào thứ Tư đối với xăng không chì, mức cao nhất kể từ ngày 5 tháng 6. Dầu diesel lập kỷ lục mới mọi thời đại, ở mức 5,94 USD/gallon.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260909-oil-rs-706d13.jpg",
-      "link": "https://www.nbcnews.com/business/business-news/oil-hits-100-barrel-middle-east-conflict-intensifies-us-iran-trump-gas-rcna596752",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-09-10 02:12"
     }
   ]
 }

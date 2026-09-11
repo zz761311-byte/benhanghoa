@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-11 21:00",
+  "updated_at": "2026-09-11 22:01",
   "items": [
+    {
+      "id": "jvyszl",
+      "title": "UAE Rethinks 5-Gigawatt AI Campus After Iran Targets US Assets in Gulf",
+      "title_vi": "UAE suy nghĩ lại về cơ sở AI 5 Gigawatt sau khi Iran nhắm vào tài sản của Mỹ ở vùng Vịnh",
+      "summary_vi": "Các Tiểu vương quốc Ả Rập Thống nhất (UAE) đang xem xét những thay đổi đáng kể trong kế hoạch xây dựng một trung tâm dữ liệu AI khổng lồ công suất 5 gigawatt ở Abu Dhabi với sự hợp tác của các gã khổng lồ công nghệ Hoa Kỳ, sau khi Iran bắt đầu nhắm mục tiêu vào các căn cứ không quân của Mỹ và cơ sở hạ tầng quan trọng liên kết với Hoa Kỳ ở Ba Tư Gu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-11_a4fuwqsol7.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UAE-Rethinks-5-Gigawatt-AI-Campus-After-Iran-Targets-US-Assets-in-Gulf.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-11 21:30"
+    },
     {
       "id": "j904ed",
       "title": "Debunking the Viral Claim That America Has Only 14 Days of Oil Left",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-11 20:30"
+    },
+    {
+      "id": "z65s3w",
+      "title": "Dollar Wavers as Inflation Aids Fed Hike Bets While Oil Falls",
+      "title_vi": "Đồng đô la dao động khi lạm phát hỗ trợ Fed tăng tiền đặt cược trong khi giá dầu giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-11/dollar-wavers-as-inflation-aids-fed-hike-bets-while-oil-falls",
+      "source": "Bloomberg.com",
+      "category": "energy",
+      "published": "2026-09-11 20:21"
     },
     {
       "id": "f5o7yj",
@@ -77,17 +99,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-11 19:30"
-    },
-    {
-      "id": "1pr354q",
-      "title": "China&#039;s Crude Imports Set to Hold at 7.2 Million Bpd in September",
-      "title_vi": "Nhập khẩu dầu thô của Trung Quốc có thể giữ ở mức 7,2 triệu thùng/ngày trong tháng 9",
-      "summary_vi": "Trung Quốc đang trên đà nhập khẩu khối lượng dầu thô tương đương trong tháng 9 như đã nhập trong tháng 8, kéo dài xu hướng phục hồi xuất khẩu ngay khi giá dầu thô lại tăng vọt lên trên 100 USD/thùng. Dữ liệu theo dõi tàu sơ bộ của Kpler khiến nhập khẩu dầu thô của Trung Quốc ở mức cao",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-11_axek5ytfvu.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Set-to-Hold-at-72-Million-Bpd-in-September.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-11 18:30"
     },
     {
       "id": "1tp3wv2",
@@ -539,17 +550,6 @@
       "source": "Barchart.com",
       "category": "agri",
       "published": "2026-09-10 05:15"
-    },
-    {
-      "id": "1vu08v7",
-      "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump",
-      "title_vi": "Dầu tăng trên 100 USD/thùng khi Mỹ và Iran tiến hành các cuộc tấn công mới, trong khi giá xăng cũng tăng vọt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://apnews.com/article/oil-prices-iran-attack-saudi-brent-crude-7538e6386a819bcdc2547d530ec3472e",
-      "source": "AP News",
-      "category": "energy",
-      "published": "2026-09-10 04:18"
     }
   ]
 }

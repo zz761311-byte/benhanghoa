@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-11 13:00",
+  "updated_at": "2026-09-11 14:00",
   "items": [
+    {
+      "id": "1uvijiv",
+      "title": "U.S. Diesel Prices Top $6 a Gallon for First Time Ever",
+      "title_vi": "Lần đầu tiên giá dầu diesel ở Mỹ lên tới 6 USD/gallon",
+      "summary_vi": "Giá nhiên liệu diesel trung bình trên toàn quốc ở Hoa Kỳ lần đầu tiên đạt mức 6 USD/gallon vào thứ Năm tuần này, làm tăng thêm nỗi đau đáng kể cho máy bơm trước cuộc bầu cử giữa nhiệm kỳ vào tháng 11. Dữ liệu đến từ GasBuddy, cho biết trong một tuyên bố rằng “Là động cơ diesel",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-11_bjipmuubnk.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Prices-Top-6-a-Gallon-for-First-Time-Ever.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-11 13:30"
+    },
     {
       "id": "4ai0ll",
       "title": "The Real Cost Of Blood Sugar Meter In 2026: A Comprehensive Financial And Technological Forecast [iGP354r1s9q]",
@@ -123,6 +134,17 @@
       "published": "2026-09-11 02:43"
     },
     {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-09-11 02:32"
+    },
+    {
       "id": "1sn956m",
       "title": "Short-Term Energy Outlook: September 2026",
       "title_vi": "Triển vọng năng lượng ngắn hạn: Tháng 9 năm 2026",
@@ -132,17 +154,6 @@
       "source": "Advisor Perspectives",
       "category": "energy",
       "published": "2026-09-11 02:15"
-    },
-    {
-      "id": "et7f2z",
-      "title": "US Natural Gas Market Verging on Record Growth",
-      "title_vi": "Thị trường khí đốt tự nhiên của Hoa Kỳ đang trên đà tăng trưởng kỷ lục",
-      "summary_vi": "Theo Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA), sản lượng khí đốt tự nhiên của Mỹ dự kiến ​​sẽ đạt mức cao kỷ lục 111,7 tỷ feet khối mỗi ngày (bcfd) vào năm 2026, tăng từ 107,6 bcfd vào năm 2025. Đến năm 2027, nguồn cung trong nước dự kiến ​​sẽ đạt 115,9 bcfd. Nhưng đó chỉ là một nửa",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-10_6j2jqhdqco.jpg",
-      "link": "https://oilprice.com/Energy/Natural-Gas/US-Natural-Gas-Market-Verging-on-Record-Growth.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-11 02:00"
     },
     {
       "id": "lyti6d",
@@ -539,17 +550,6 @@
       "source": "AP News",
       "category": "energy",
       "published": "2026-09-10 04:18"
-    },
-    {
-      "id": "wrnzo6",
-      "title": "Corn Futures Slide Ahead of WASDE as Traders Brace for Lower U.S. Yield Outlook",
-      "title_vi": "Giá ngô kỳ hạn trượt trước WASDE khi các nhà giao dịch chuẩn bị cho triển vọng năng suất thấp hơn của Hoa Kỳ",
-      "summary_vi": "Giá ngô, đậu tương và lúa mì giảm trước WASDE do nông dân Mỹ cân nhắc dự báo năng suất thấp hơn, nhu cầu xuất khẩu mạnh mẽ và thu hoạch tăng.",
-      "image": "https://www.agrolatam.com/files/image/80/80298/6aa1c7d8b3290_600_315!.jpg?s=353f49ad32879b8b7721eb821dadc2e2&d=1788987642",
-      "link": "https://www.agrolatam.com/usa/news/corn-futures-fall-wasde-usda-yield-outlook/",
-      "source": "AgroLatam",
-      "category": "agri",
-      "published": "2026-09-10 04:04"
     }
   ]
 }

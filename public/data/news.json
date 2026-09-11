@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-12 03:00",
+  "updated_at": "2026-09-12 04:00",
   "items": [
+    {
+      "id": "1n009zg",
+      "title": "White House Weighs Defense Production Act as U.S. Refineries Maxed Out",
+      "title_vi": "Nhà Trắng cân nhắc Đạo luật Sản xuất Quốc phòng khi các nhà máy lọc dầu của Hoa Kỳ hoạt động tối đa",
+      "summary_vi": "Nhà Trắng đang xem xét sử dụng Đạo luật Sản xuất Quốc phòng để bổ sung năng lực lọc dầu của Mỹ, với các nhà máy lọc dầu của Mỹ đã hoạt động với 98% công suất và giá dầu diesel lần đầu tiên trên 6 USD/gallon. Đề xuất này đã được thảo luận trong cuộc gặp gần đây của Tổng thống Donald Trump",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/White-House-Weighs-Defense-Production-Act-as-US-Refineries-Maxed-Out.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-12 03:21"
+    },
     {
       "id": "er2p8k",
       "title": "Trump&#039;s Grid Battery Ban Leaves Developers Guessing",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-12 03:00"
+    },
+    {
+      "id": "1i3lka5",
+      "title": "Oil extends rally on further Middle East disruptions",
+      "title_vi": "Dầu kéo dài đà tăng do gián đoạn ở Trung Đông",
+      "summary_vi": "IEA báo cáo công suất lọc dầu của Nga ước tính giảm 30% do các cuộc tấn công của Ukraine, góp phần khiến giá dầu diesel tăng cao kỷ lục.",
+      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/09/6aa449d80b7ef58870d11dc4-middle_east_oil_shipping.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "link": "https://www.ogj.com/general-interest/economics-markets/article/55404547/oil-extends-rally-on-further-middle-east-disruptions",
+      "source": "Oil & Gas Journal",
+      "category": "energy",
+      "published": "2026-09-12 02:36"
     },
     {
       "id": "19tqmsn",
@@ -121,17 +143,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-11 22:30"
-    },
-    {
-      "id": "jvyszl",
-      "title": "UAE Rethinks 5-Gigawatt AI Campus After Iran Targets US Assets in Gulf",
-      "title_vi": "UAE suy nghĩ lại về cơ sở AI 5 Gigawatt sau khi Iran nhắm vào tài sản của Mỹ ở vùng Vịnh",
-      "summary_vi": "Các Tiểu vương quốc Ả Rập Thống nhất (UAE) đang xem xét những thay đổi đáng kể trong kế hoạch xây dựng một trung tâm dữ liệu AI khổng lồ công suất 5 gigawatt ở Abu Dhabi với sự hợp tác của các gã khổng lồ công nghệ Hoa Kỳ, sau khi Iran bắt đầu nhắm mục tiêu vào các căn cứ không quân của Mỹ và cơ sở hạ tầng quan trọng liên kết với Hoa Kỳ ở Ba Tư Gu",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-11_a4fuwqsol7.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/UAE-Rethinks-5-Gigawatt-AI-Campus-After-Iran-Targets-US-Assets-in-Gulf.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-11 21:30"
     },
     {
       "id": "z65s3w",
@@ -539,17 +550,6 @@
       "source": "IndexBox",
       "category": "metal",
       "published": "2026-09-10 18:41"
-    },
-    {
-      "id": "1swcgm6",
-      "title": "AB Foods Shares Slump After Group Cautions on Outlook for Sugar, Grocery Units",
-      "title_vi": "Cổ phiếu AB Foods sụt giảm sau những cảnh báo của nhóm về triển vọng đường, đơn vị tạp hóa",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/earnings/ab-foods-expects-sugar-unit-loss-to-deepen-fa9a6703",
-      "source": "WSJ",
-      "category": "soft",
-      "published": "2026-09-10 18:37"
     }
   ]
 }

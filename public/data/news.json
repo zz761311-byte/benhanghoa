@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 11:00",
+  "updated_at": "2026-09-11 11:49",
   "items": [
     {
       "id": "1vxz1cy",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-11 07:00"
+    },
+    {
+      "id": "1mxspv8",
+      "title": "August 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
+      "title_vi": "Tháng 8 năm 2026 – Phân tích hàng tháng về xuất khẩu nhiên liệu hóa thạch của Nga và các biện pháp trừng phạt",
+      "summary_vi": "",
+      "image": "https://energyandcleanair.org/wp/wp-content/uploads/2026/09/image-25.png",
+      "link": "https://energyandcleanair.org/august-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
+      "source": "energyandcleanair.org",
+      "category": "energy",
+      "published": "2026-09-11 06:00"
     },
     {
       "id": "187db8v",
@@ -539,17 +550,6 @@
       "source": "PYMNTS.com",
       "category": "soft",
       "published": "2026-09-10 03:01"
-    },
-    {
-      "id": "1ft5xf2",
-      "title": "Oil rises past $100 a barrel after the latest wave of Middle East attacks",
-      "title_vi": "Dầu tăng hơn 100 USD/thùng sau làn sóng tấn công mới nhất ở Trung Đông",
-      "summary_vi": "Giá dầu lần đầu tiên vượt 100 USD/thùng kể từ tháng 7 sau khi các cuộc tấn công vào các cơ sở dầu mỏ và tàu thuyền ở Trung Đông đe dọa làm suy yếu chuỗi cung ứng vốn đã suy yếu.",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-02T090204Z_1798656219_RC2TVKA66H5C_RTRMADP_3_IRAN-CRISIS-OIL-IRAQ-1024x576.jpg",
-      "link": "https://www.pbs.org/newshour/economy/oil-rises-past-100-a-barrel-after-the-latest-wave-of-middle-east-attacks",
-      "source": "PBS",
-      "category": "energy",
-      "published": "2026-09-10 02:35"
     }
   ]
 }

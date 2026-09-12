@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12 06:00",
+  "updated_at": "2026-09-12 07:00",
   "items": [
     {
       "id": "5d86ia",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-12 05:00"
+    },
+    {
+      "id": "1iz6jda",
+      "title": "Higher Corn Prices Don’t Immediately Solve Farm Profitability Challenges",
+      "title_vi": "Giá ngô cao hơn không giải quyết được ngay những thách thức về lợi nhuận của trang trại",
+      "summary_vi": "Giá ngô đã tăng đáng kể trong những tuần gần đây, một sự thay đổi đáng hoan nghênh đối với người trồng sau một thời gian dài giá thấp. Nhưng giá thị trường cao hơn hiện nay không có nghĩa là mọi nông dân đều có thể hưởng lợi như nhau từ mức tăng đó, hoặc triển vọng lợi nhuận của trang trại đột ngột thay đổi, hoặc tài chính...",
+      "image": "https://dt176nijwh14e.cloudfront.net/image/2883/1000/Corn+Economy+Profiles-2-Harvest.jpg",
+      "link": "https://www.ncga.com/stay-informed/media/the-corn-economy/article/2026/09/higher-corn-prices-don-t-immediately-solve-farm-profitability-challenges",
+      "source": "National Corn Growers Association",
+      "category": "agri",
+      "published": "2026-09-12 04:56"
     },
     {
       "id": "1vrstb3",
@@ -539,17 +550,6 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-09-10 20:38"
-    },
-    {
-      "id": "l7z45v",
-      "title": "Copper Dives On Tariff Report, Oil Prices, Yields; Silver, Gold Also Down",
-      "title_vi": "Đồng giảm trên báo cáo thuế quan, giá dầu, sản lượng; Bạc, Vàng cũng giảm",
-      "summary_vi": "Mọi thứ đều chống lại kim loại vào thứ Năm.",
-      "image": "https://www.investors.com/wp-content/uploads/2016/07/stock-copper-4-adobe.jpg",
-      "link": "https://www.investors.com/news/copper-price-fcx-stock-trump-tariffs-treasury-yields-knock-silver-gold/",
-      "source": "Investor's Business Daily",
-      "category": "macro",
-      "published": "2026-09-10 20:13"
     }
   ]
 }

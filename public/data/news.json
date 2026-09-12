@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12 22:39",
+  "updated_at": "2026-09-12 23:01",
   "items": [
     {
       "id": "19zk4pi",
@@ -220,6 +220,17 @@
       "source": "Bloomberg.com",
       "category": "energy",
       "published": "2026-09-11 20:21"
+    },
+    {
+      "id": "5vd8ks",
+      "title": "Silver Price For Today, 11 September 2026",
+      "title_vi": "Giá bạc hôm nay, ngày 11 tháng 9 năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
+      "source": "Forbes",
+      "category": "metal",
+      "published": "2026-09-11 19:11"
     },
     {
       "id": "m18cfh",
@@ -539,17 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-09-10 21:42"
-    },
-    {
-      "id": "o8unq",
-      "title": "Copper Prices Are Tumbling Along With Freeport, Other Mining Stocks",
-      "title_vi": "Giá đồng đang giảm cùng với Freeport và các cổ phiếu khai thác khác",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barrons.com/articles/copper-prices-mining-freeport-f0b5f7aa",
-      "source": "barrons.com",
-      "category": "metal",
-      "published": "2026-09-10 21:32"
     }
   ]
 }

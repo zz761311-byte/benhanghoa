@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-12 07:21",
+  "updated_at": "2026-09-12 08:00",
   "items": [
+    {
+      "id": "yk6ij2",
+      "title": "Corn Supplies Tighten as USDA Cuts Crop Forecast—What Farmers Need to Know",
+      "title_vi": "Nguồn cung ngô thắt chặt khi USDA cắt giảm dự báo mùa vụ—Những điều nông dân cần biết",
+      "summary_vi": "Báo cáo Ước tính Cung và Cầu Nông nghiệp Thế giới (WASDE) của USDA trong tháng 9 đang gửi một thông điệp rõ ràng tới nông dân sắp thu hoạch: nguồn cung ngô đang thắt chặt, giá đậu nành đang tăng đáng kể và các nhà sản xuất chăn nuôi đang phải đối mặt với",
+      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2103/2024/07/16005317/corn-harvest-photo-1.jpeg",
+      "link": "https://www.hoosieragtoday.com/2026/09/11/usda-september-wasde/",
+      "source": "hoosieragtoday.com",
+      "category": "agri",
+      "published": "2026-09-12 06:26"
+    },
     {
       "id": "5d86ia",
       "title": "PharmaLinea Adds Creatine, Collagen to Sugar-Free Hydration Line",
@@ -539,17 +550,6 @@
       "source": "Bloomberg.com",
       "category": "energy",
       "published": "2026-09-10 21:23"
-    },
-    {
-      "id": "1wtrrhi",
-      "title": "Gold Steadies Near $4,400 as Traders Weigh Fed Rate-Hike Path",
-      "title_vi": "Vàng ổn định gần 4.400 USD khi các nhà giao dịch cân nhắc lộ trình tăng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-09/gold-steadies-near-4-400-as-traders-weigh-fed-rate-hike-path",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-09-10 20:38"
     }
   ]
 }

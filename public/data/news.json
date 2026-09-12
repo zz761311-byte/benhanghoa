@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12 08:00",
+  "updated_at": "2026-09-12 09:01",
   "items": [
     {
       "id": "yk6ij2",
@@ -354,6 +354,17 @@
       "published": "2026-09-11 01:57"
     },
     {
+      "id": "1hwiqr2",
+      "title": "Gold falls over 1% as US inflation data boosts Fed hike bets",
+      "title_vi": "Vàng giảm hơn 1% khi dữ liệu lạm phát của Mỹ thúc đẩy đặt cược tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-edges-higher-weaker-dollar-us-inflation-data-focus-2026-09-10/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-09-11 01:52"
+    },
+    {
       "id": "kf8ljl",
       "title": "General Mills, Mars sue sugar producers for alleged price-fixing",
       "title_vi": "General Mills, Mars kiện các nhà sản xuất đường vì cáo buộc ấn định giá",
@@ -539,17 +550,6 @@
       "source": "CNN",
       "category": "metal",
       "published": "2026-09-10 21:25"
-    },
-    {
-      "id": "915yym",
-      "title": "Dollar Has Best Day in Two Weeks as PPI, Oil Add to Fed Bets",
-      "title_vi": "Đồng đô la có ngày tốt nhất trong hai tuần khi PPI, dầu bổ sung vào cược của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-10/dollar-has-best-day-in-two-weeks-as-ppi-oil-add-to-fed-bets",
-      "source": "Bloomberg.com",
-      "category": "energy",
-      "published": "2026-09-10 21:23"
     }
   ]
 }

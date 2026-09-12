@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-12 16:01",
+  "updated_at": "2026-09-12 17:01",
   "items": [
+    {
+      "id": "1fgsaak",
+      "title": "USDA increases 2026 soybean production forecast",
+      "title_vi": "USDA tăng dự báo sản lượng đậu tương năm 2026",
+      "summary_vi": "USDA đã công bố báo cáo Sản xuất cây trồng hàng tháng mới nhất vào ngày 11 tháng 9, dự đoán sản lượng đậu tương sẽ đạt 4,53 tỷ giạ vào năm 2026, u",
+      "image": "https://bbi-strapi.s3.us-east-2.amazonaws.com/USDA_Crop_Pro_Soybeans_Sept26_400a084aa6.jpg",
+      "link": "https://biomassmagazine.com/articles/usda-increases-2026-soybean-production-forecast",
+      "source": "Biomass Magazine",
+      "category": "agri",
+      "published": "2026-09-12 10:03"
+    },
     {
       "id": "yk6ij2",
       "title": "Corn Supplies Tighten as USDA Cuts Crop Forecast—What Farmers Need to Know",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "macro",
       "published": "2026-09-10 21:26"
-    },
-    {
-      "id": "j36bzf",
-      "title": "The AI boom and tariff uncertainty are pushing copper prices to record highs",
-      "title_vi": "Sự bùng nổ AI và sự không chắc chắn về thuế quan đang đẩy giá đồng lên mức cao kỷ lục",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.cnn.com/2026/09/10/investing/copper-price-record-high",
-      "source": "CNN",
-      "category": "metal",
-      "published": "2026-09-10 21:25"
     }
   ]
 }

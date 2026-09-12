@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12 20:01",
+  "updated_at": "2026-09-12 21:01",
   "items": [
     {
       "id": "1fgsaak",
@@ -11,6 +11,17 @@
       "source": "Biomass Magazine",
       "category": "agri",
       "published": "2026-09-12 10:03"
+    },
+    {
+      "id": "1xid46f",
+      "title": "Has the Soybean Market Topped?",
+      "title_vi": "Thị trường đậu nành đã đứng đầu?",
+      "summary_vi": "Jerry Gulke, chủ tịch của The Gulke Group cho biết không có gì ngạc nhiên khi thấy việc thu lợi nhuận từ đậu nành với các quỹ nắm giữ vị thế mua gần kỷ lục.",
+      "image": "https://assets.farmjournal.com/dims4/default/d515d1b/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2023-04%2FWeekend-Market-Report-Audio-with-Jerry-Gulke_R1.jpg",
+      "link": "https://www.agweb.com/markets/has-soybean-market-topped",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-09-12 07:59"
     },
     {
       "id": "yk6ij2",
@@ -539,17 +550,6 @@
       "source": "barrons.com",
       "category": "metal",
       "published": "2026-09-10 21:32"
-    },
-    {
-      "id": "kmp5xq",
-      "title": "Can Ford Overcome Tariff and Commodity Cost Headwinds in 2026?",
-      "title_vi": "Liệu Ford có thể vượt qua những khó khăn về thuế quan và chi phí hàng hóa vào năm 2026?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ford-overcome-tariff-commodity-cost-142600509.html",
-      "source": "Yahoo Finance",
-      "category": "macro",
-      "published": "2026-09-10 21:26"
     }
   ]
 }

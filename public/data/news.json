@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-12 23:01",
+  "updated_at": "2026-09-13 00:01",
   "items": [
+    {
+      "id": "1ab12z",
+      "title": "Iran’s Security Crackdown Runs Into Resistance From Within",
+      "title_vi": "Cuộc đàn áp an ninh của Iran vấp phải sự phản kháng từ bên trong",
+      "summary_vi": "Quốc hội Iran đang cố gắng biến nỗi lo sợ về sự xâm nhập của nước ngoài thành luật. Nhưng khi các nhà lập pháp làm việc thông qua dự luật, cuộc tranh luận đang đặt ra một câu hỏi ngày càng khó xử đối với Cộng hòa Hồi giáo: Nhà nước nên đi xa đến mức nào trong việc kiểm soát sự tiếp xúc của người Iran với Iran.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-10_ijm6qautns.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Irans-Security-Crackdown-Runs-Into-Resistance-From-Within.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-13 00:00"
+    },
     {
       "id": "19zk4pi",
       "title": "Why More Homes Are Switching From Gas to Heat Pumps",
@@ -156,6 +167,17 @@
       "published": "2026-09-12 00:59"
     },
     {
+      "id": "vex0eu",
+      "title": "The Fed can hike, but it won’t derail gold’s long-term bull market – analysts",
+      "title_vi": "Fed có thể tăng lãi suất, nhưng nó sẽ không làm hỏng thị trường tăng trưởng dài hạn của vàng - các nhà phân tích",
+      "summary_vi": "(Kitco News) - Thị trường vàng sắp kết thúc một tuần nữa trong vùng tiêu cực khi các nhà đầu tư chuẩn bị cho việc Cục Dự trữ Liên bang tăng lãi suất vào tuần tới. Tuy nhiên, theo một số nhà phân tích, khả năng vàng duy trì mức hỗ trợ mới ở mức 4.300 USD/ounce là một dấu hiệu cho thấy mối đe dọa về việc tăng lãi suất sắp xảy ra đang mất dần vị thế.",
+      "image": "https://image-api.prod.kitco.com/image/226d23b3-16f4-47fe-85f3-d3568f7f4508.jpeg?top=0.41136465827338&left=0&width=1000&height=562.17727068345&scale_width=1920&token=6ca33dfce5e65b6bf10ab942c2ae37806e1f7e0226f522e84eedb2bfca6dfdb5",
+      "link": "https://www.kitco.com/news/article/2026-09-11/fed-can-hike-it-wont-derail-golds-long-term-bull-market-analysts",
+      "source": "kitco.com",
+      "category": "metal",
+      "published": "2026-09-12 00:38"
+    },
+    {
       "id": "40e3ek",
       "title": "U.S. Oil Rig Count Rises as Oil Tops $100",
       "title_vi": "Số lượng giàn khoan dầu của Mỹ tăng khi dầu đạt đỉnh 100 USD",
@@ -198,17 +220,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-09-11 23:44"
-    },
-    {
-      "id": "1k6lc86",
-      "title": "Saudi Arabia’s Critical Oil Bypass Comes Under Threat",
-      "title_vi": "Đường tránh dầu quan trọng của Ả Rập Saudi đang bị đe dọa",
-      "summary_vi": "Cuộc tấn công của Houthi đe dọa xuất khẩu dầu của Saudi khi dầu Brent đạt 105 USD và dầu thô Trung Đông tăng vọt lên 120 USD. Thứ sáu, ngày 11 tháng 9 năm 2026 Các cuộc tấn công của Houthi vào cơ sở hạ tầng dầu mỏ của Ả Rập Saudi đã cảnh báo thị trường dầu mỏ về khả năng nguồn cung ở Trung Đông thậm chí còn ít hơn trước",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-11_bntd5ki1g0.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Arabias-Critical-Oil-Bypass-Comes-Under-Threat.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-11 23:05"
     },
     {
       "id": "z65s3w",
@@ -539,17 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-09-10 21:50"
-    },
-    {
-      "id": "10gpljl",
-      "title": "EIA Outlook Calls for Natural Gas to Sustain Leading Share of US Electricity Generation",
-      "title_vi": "Triển vọng EIA kêu gọi khí đốt tự nhiên duy trì thị phần dẫn đầu trong sản xuất điện của Hoa Kỳ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/eia-outlook-calls-for-natural-gas-to-sustain-leading-share-of-us-electricity-generation/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-09-10 21:42"
     }
   ]
 }

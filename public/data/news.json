@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 00:01",
+  "updated_at": "2026-09-14 01:01",
   "items": [
     {
       "id": "pmbym6",
@@ -288,6 +288,17 @@
       "published": "2026-09-11 14:03"
     },
     {
+      "id": "my7osy",
+      "title": "It’s WASDE time: Markets can ‘change on a dime’",
+      "title_vi": "Đã đến lúc WASDE: Thị trường có thể ‘thay đổi trong chốc lát’",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-09-11 14:00"
+    },
+    {
       "id": "a9bb8a",
       "title": "Cocoa Butter Alternatives Market Size, Share Report, 2033",
       "title_vi": "Quy mô thị trường thay thế bơ ca cao, Báo cáo chia sẻ, 2033",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-10 23:22"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-10 23:21"
     }
   ]
 }

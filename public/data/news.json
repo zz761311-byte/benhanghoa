@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 01:01",
+  "updated_at": "2026-09-14 02:00",
   "items": [
     {
       "id": "pmbym6",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-14 00:00"
+    },
+    {
+      "id": "1k25rmm",
+      "title": "Trump calls on Ukraine to halt strikes on Russian diesel, saying attacks are causing a shortage",
+      "title_vi": "Trump kêu gọi Ukraine ngừng tấn công động cơ diesel của Nga, nói rằng các cuộc tấn công đang gây ra tình trạng thiếu hụt",
+      "summary_vi": "Ukraine trong nhiều tháng đã nhắm mục tiêu vào ngành dầu khí của Nga bằng các cuộc tấn công tầm xa, khiến cho việc phân phối nhiên liệu trên khắp đất nước và khiến Moscow phải cấm xuất khẩu dầu diesel vào tháng 7, một yếu tố làm gián đoạn nguồn cung dầu diesel toàn cầu.",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-13T140124Z_2083037165_RC2DINAJVVUF_RTRMADP_3_USA-TRUMP-IRELAND-2-1024x683.jpg",
+      "link": "https://www.pbs.org/newshour/amp/world/trump-calls-on-ukraine-to-halt-strikes-on-russian-diesel-saying-attacks-are-causing-a-shortage",
+      "source": "PBS",
+      "category": "energy",
+      "published": "2026-09-13 22:58"
     },
     {
       "id": "1rmpxdc",
@@ -539,17 +550,6 @@
       "source": "Montgomery Advertiser",
       "category": "macro",
       "published": "2026-09-10 23:25"
-    },
-    {
-      "id": "4d3d2h",
-      "title": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
-      "title_vi": "Các tuyến đường thay thế cho dầu khí Trung Đông do sự gián đoạn của Hormuz",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/alternative-routes-for-middle-east-oil-and-gas-due-to-hormuz-disruption/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-10 23:22"
     }
   ]
 }

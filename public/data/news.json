@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 04:28",
+  "updated_at": "2026-09-14 05:01",
   "items": [
     {
       "id": "29jir5",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-14 04:00"
+    },
+    {
+      "id": "1o4rz13",
+      "title": "Trump Blames Ukraine for Global Diesel Shortage",
+      "title_vi": "Trump đổ lỗi cho Ukraine về tình trạng thiếu dầu diesel toàn cầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/09/13/business/trump-ukraine-diesel.html",
+      "source": "The New York Times",
+      "category": "energy",
+      "published": "2026-09-14 02:06"
     },
     {
       "id": "3hyyay",
@@ -539,17 +550,6 @@
       "source": "NBC News",
       "category": "energy",
       "published": "2026-09-10 23:32"
-    },
-    {
-      "id": "ddxkg4",
-      "title": "Alabama ranks No. 20 for tariff impact. Here's where it costs most",
-      "title_vi": "Alabama xếp thứ 20 về tác động của thuế quan. Đây là nơi tốn kém nhất",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.montgomeryadvertiser.com/story/news/2026/09/10/which-imports-are-costing-alabama-the-most-in-tariffs-al-auto-industry/91689279007/",
-      "source": "Montgomery Advertiser",
-      "category": "macro",
-      "published": "2026-09-10 23:25"
     }
   ]
 }

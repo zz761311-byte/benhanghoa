@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13 18:01",
+  "updated_at": "2026-09-13 19:01",
   "items": [
     {
       "id": "19tqtgf",
@@ -343,6 +343,17 @@
       "published": "2026-09-11 08:08"
     },
     {
+      "id": "18ezoji",
+      "title": "Platinum, palladium forecast cuts: mine-level signals and risks for engineers",
+      "title_vi": "Dự báo cắt giảm bạch kim, palladium: tín hiệu cấp độ mỏ và rủi ro cho các kỹ sư",
+      "summary_vi": "Dự báo giá bạch kim và palladium đã bị BMI cắt giảm do doanh số bán ô tô toàn cầu giảm đã hạn chế nhu cầu chất xúc tác ô tô và nguồn cung PGM của Nam Phi phục hồi, làm giảm bớt lo ngại thâm hụt trước đó. Sibanye-Stillwater đang tái cơ cấu một trục làm ăn thua lỗ ở Nam Phi và đồng thời phải đối mặt với cuộc đình công tại Stillwater và East",
+      "image": "",
+      "link": "https://www.geomechanics.io/news/article/platinum-palladium-forecast-cuts-mine-level-signals-and-risks-for-engineers",
+      "source": "Geomechanics.io",
+      "category": "metal",
+      "published": "2026-09-11 07:00"
+    },
+    {
       "id": "1mxspv8",
       "title": "August 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
       "title_vi": "Tháng 8 năm 2026 – Phân tích hàng tháng về xuất khẩu nhiên liệu hóa thạch của Nga và các biện pháp trừng phạt",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-10 23:21"
-    },
-    {
-      "id": "1sawvpc",
-      "title": "Dollar rises, euro slips after ECB rate increase",
-      "title_vi": "Đô la tăng, đồng euro trượt sau khi tăng lãi suất ECB",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/asia-pacific/currency-markets-subdued-oil-shock-lifts-global-yields-ecb-us-inflation-eyed-2026-09-10/",
-      "source": "Reuters",
-      "category": "macro",
-      "published": "2026-09-10 22:39"
     }
   ]
 }

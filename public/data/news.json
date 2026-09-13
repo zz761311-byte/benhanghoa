@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13 08:01",
+  "updated_at": "2026-09-13 08:27",
   "items": [
     {
       "id": "19tqtgf",
@@ -431,6 +431,17 @@
       "published": "2026-09-11 01:30"
     },
     {
+      "id": "1xufsxj",
+      "title": "Arkansas gas prices jump as crude oil market remains volatile",
+      "title_vi": "Giá xăng ở Arkansas tăng do thị trường dầu thô vẫn biến động",
+      "summary_vi": "Giá trung bình ở Jonesboro là $3,91 một gallon, tăng 13 xu so với tuần trước.",
+      "image": "https://gray-kait-prod.gtv-cdn.com/resizer/v2/Q62ZZSJDUFHITEYXXNBJOKOQWU.jpg?auth=d49fe31e82d99dda8501cbcdd8785922a52772351d7ef11bdf01da3dc82ee446&width=1200&height=600&smart=true",
+      "link": "https://www.kait8.com/2026/09/10/arkansas-gas-prices-jump-crude-oil-market-remains-volatile/",
+      "source": "K8 News | Jonesboro, Arkansas",
+      "category": "energy",
+      "published": "2026-09-11 01:24"
+    },
+    {
       "id": "1xmztgd",
       "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
       "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
@@ -508,6 +519,17 @@
       "published": "2026-09-10 23:21"
     },
     {
+      "id": "1sawvpc",
+      "title": "Dollar rises, euro slips after ECB rate increase",
+      "title_vi": "Đô la tăng, đồng euro trượt sau khi tăng lãi suất ECB",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/asia-pacific/currency-markets-subdued-oil-shock-lifts-global-yields-ecb-us-inflation-eyed-2026-09-10/",
+      "source": "Reuters",
+      "category": "macro",
+      "published": "2026-09-10 22:39"
+    },
+    {
       "id": "mne7wf",
       "title": "Grain Prices Face a Critical USDA Test as China Returns to U.S. Soybeans",
       "title_vi": "Giá ngũ cốc phải đối mặt với cuộc kiểm tra quan trọng của USDA khi Trung Quốc quay lại sử dụng đậu nành của Hoa Kỳ",
@@ -528,28 +550,6 @@
       "source": "thestreet.com",
       "category": "metal",
       "published": "2026-09-10 22:03"
-    },
-    {
-      "id": "yxg6yf",
-      "title": "EIA sees Brent near $90/bbl in second-half 2026 amid Middle East disruptions",
-      "title_vi": "EIA dự báo Brent gần 90 USD/thùng vào nửa cuối năm 2026 trong bối cảnh gián đoạn ở Trung Đông",
-      "summary_vi": "Tồn kho dầu toàn cầu đang giảm mạnh khi xuất khẩu ở Trung Đông tiếp tục bị gián đoạn và ngừng hoạt động sản xuất, dẫn đến giá cao hơn và nguồn cung thắt chặt hơn, với...",
-      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/09/6aa2bf503ef92c5446f20123-picture1.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-      "link": "https://www.ogj.com/general-interest/economics-markets/news/55404072/eia-sees-brent-near-90-bbl-in-second-half-2026-amid-middle-east-disruptions",
-      "source": "Oil & Gas Journal",
-      "category": "energy",
-      "published": "2026-09-10 21:59"
-    },
-    {
-      "id": "13uead6",
-      "title": "Higher wheat prices boost opportunities with double-crop soybeans",
-      "title_vi": "Giá lúa mì cao hơn thúc đẩy cơ hội với đậu nành hai vụ",
-      "summary_vi": "Một nhà kinh tế nông nghiệp tại Đại học Illinois cho biết việc trồng hai vụ đậu nành với lúa mì có tiềm năng lợi nhuận lớn nhất cho nông dân ở những vùng đang phát triển ấm hơn vào năm tới. Gary Schnitkey nói với Brownfield, “Đậu nành trồng lúa mì hai vụ được dự đoán sẽ mang lại nhiều lợi nhuận hơn so với ngô hoặc đậu nành riêng lẻ”. “Đó là số 8",
-      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2026/09/09082026_fig2-e1789050382635.png",
-      "link": "https://www.brownfieldagnews.com/news/higher-wheat-prices-boost-opportunities-with-double-crop-soybeans/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-09-10 21:50"
     }
   ]
 }

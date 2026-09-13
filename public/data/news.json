@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-14 05:01",
+  "updated_at": "2026-09-14 06:01",
   "items": [
+    {
+      "id": "1rx9ovu",
+      "title": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
+      "title_vi": "StanChart cảnh báo dầu hiện được chế tạo để có những đột biến sắc nét hơn, thường xuyên hơn",
+      "summary_vi": "Giá dầu đạt gần 110 USD/thùng vào thứ Năm lần đầu tiên kể từ tháng 7, xung đột ở Trung Đông chưa có dấu hiệu kết thúc. IRGC hôm thứ Tư thông báo rằng họ đã tấn công và gây thiệt hại nặng nề cho 8 tàu chở dầu và 2 tàu khu trục của Hải quân Hoa Kỳ ở eo biển Hormuz.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-13_vaifrmxv3t.jpg",
+      "link": "https://oilprice.com/Energy/Oil-Prices/StanChart-Warns-Oil-Is-Now-Built-for-Sharper-More-Frequent-Spikes.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-14 06:00"
+    },
     {
       "id": "29jir5",
       "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-14 02:00"
+    },
+    {
+      "id": "vt2xnv",
+      "title": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
+      "title_vi": "Trump yêu cầu Zelenskyy ngừng tấn công nguồn cung dầu diesel của Nga",
+      "summary_vi": "Tổng thống Mỹ cho rằng các cuộc tấn công của Ukraine vào cơ sở hạ tầng diesel của Nga đang góp phần gây ra tình trạng thiếu nhiên liệu toàn cầu.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aa6c479b6a5-1789314169.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-09-14 01:21"
     },
     {
       "id": "pmbym6",
@@ -110,17 +132,6 @@
       "source": "Stocktwits",
       "category": "metal",
       "published": "2026-09-13 00:59"
-    },
-    {
-      "id": "1ab12z",
-      "title": "Iran’s Security Crackdown Runs Into Resistance From Within",
-      "title_vi": "Cuộc đàn áp an ninh của Iran vấp phải sự phản kháng từ bên trong",
-      "summary_vi": "Quốc hội Iran đang cố gắng biến nỗi lo sợ về sự xâm nhập của nước ngoài thành luật. Nhưng khi các nhà lập pháp làm việc thông qua dự luật, cuộc tranh luận đang đặt ra một câu hỏi ngày càng khó xử đối với Cộng hòa Hồi giáo: Nhà nước nên đi xa đến mức nào trong việc kiểm soát sự tiếp xúc của người Iran với Iran.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-10_ijm6qautns.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Irans-Security-Crackdown-Runs-Into-Resistance-From-Within.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-13 00:00"
     },
     {
       "id": "1fgsaak",
@@ -539,17 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-09-10 23:55"
-    },
-    {
-      "id": "5pru66",
-      "title": "Oil prices surge to $107 for the first time since May as bond yields jump",
-      "title_vi": "Giá dầu tăng lên 107 USD lần đầu tiên kể từ tháng 5 khi lãi suất trái phiếu tăng",
-      "summary_vi": "Chứng khoán sụt giảm và lãi suất thế chấp tăng cao, khi các nền kinh tế trên thế giới phải đối mặt với nguy cơ lạm phát dài hạn.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260910-hormuz-mn-0840-6bdbf3.jpg",
-      "link": "https://www.nbcnews.com/business/energy/us-crude-oil-iran-trump-hormuz-rcna596997",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-09-10 23:32"
     }
   ]
 }

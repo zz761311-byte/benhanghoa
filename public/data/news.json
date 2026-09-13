@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13 06:27",
+  "updated_at": "2026-09-13 07:01",
   "items": [
     {
       "id": "19tqtgf",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-13 02:00"
+    },
+    {
+      "id": "1vsg7dg",
+      "title": "Gold, Silver Pullback Is Not The End Of Rally, JPMorgan Reportedly Says After Forecast Cut",
+      "title_vi": "JPMorgan cho biết sự thoái lui của vàng, bạc không phải là sự kết thúc của đợt tăng giá sau khi cắt giảm dự báo",
+      "summary_vi": "Bất chấp việc cắt giảm ngắn hạn, JPMorgan dự đoán giá vàng và bạc sẽ tăng vào cuối năm nay trong bối cảnh những bất ổn về năng lượng và lạm phát giảm bớt.",
+      "image": "https://news.stocktwits-cdn.com/large_Gold_Silver_jpg_c77de4fb71.webp",
+      "link": "https://stocktwits.com/news-articles/markets/equity/gold-silver-pullback-is-not-the-end-of-rally-jpmorgan-reportedly-says-after-forecast-cut/cZXrBxmRelk",
+      "source": "Stocktwits",
+      "category": "metal",
+      "published": "2026-09-13 00:59"
     },
     {
       "id": "1ab12z",
@@ -396,17 +407,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-09-11 01:57"
-    },
-    {
-      "id": "1hwiqr2",
-      "title": "Gold falls over 1% as US inflation data boosts Fed hike bets",
-      "title_vi": "Vàng giảm hơn 1% khi dữ liệu lạm phát của Mỹ thúc đẩy đặt cược tăng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-edges-higher-weaker-dollar-us-inflation-data-focus-2026-09-10/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-09-11 01:52"
     },
     {
       "id": "kf8ljl",

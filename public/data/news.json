@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 15:01",
+  "updated_at": "2026-09-14 16:01",
   "items": [
     {
       "id": "in3u3w",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-14 15:00"
+    },
+    {
+      "id": "6lkaxe",
+      "title": "Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record",
+      "title_vi": "Trump kêu gọi Ukraine ngừng 'hạ gục' các nhà máy lọc dầu của Nga khi dầu diesel của Mỹ đạt kỷ lục",
+      "summary_vi": "Giá dầu diesel ở Mỹ lần đầu tiên đã vượt 6 USD/gallon khi chiến tranh Ukraine và Iran làm gia tăng mối lo ngại về nguồn cung năng lượng.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108362275-1789368803968-gettyimages-2295138337-0d6a0011_uvpp2wwm.jpeg?v=1789368871&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-09-14 14:22"
     },
     {
       "id": "17uthbl",
@@ -539,17 +550,6 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-09-11 02:10"
-    },
-    {
-      "id": "lyti6d",
-      "title": "Wheat prices encourage planting, but input costs remain a wildcard",
-      "title_vi": "Giá lúa mì khuyến khích trồng trọt nhưng chi phí đầu vào vẫn là yếu tố quyết định",
-      "summary_vi": "Một nhà phân tích thị trường cho biết có một số yếu tố có thể ảnh hưởng đến số lượng trồng lúa mì vào mùa thu này. Jim McCormick của AgMarket.Net cho biết xung đột đang diễn ra giữa Nga và Ukraine đã một phần dẫn đến sự tăng giá gần đây. “Bây giờ họ đang tấn công cơ sở hạ tầng. Họ đang cố gắng đánh chiếm các tàu chở hàng. T",
-      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2026/06/Winterwheat_midJune_MO1_2026-e1781550303427.jpg",
-      "link": "https://www.brownfieldagnews.com/news/wheat-prices-encourage-planting-but-input-costs-remain-a-wildcard/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-09-11 01:57"
     }
   ]
 }

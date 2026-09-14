@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-14 12:00",
+  "updated_at": "2026-09-14 13:00",
   "items": [
+    {
+      "id": "168ors5",
+      "title": "Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears",
+      "title_vi": "Dầu Brent đạt 108 USD khi đường ống dẫn dầu của Saudi đóng cửa làm tăng thêm lo ngại về nguồn cung",
+      "summary_vi": "Dầu thô Brent đạt 108 USD/thùng vào đầu ngày hôm nay, sau đợt leo thang mới nhất ở Trung Đông, trước khi giảm xuống 107,22 USD/thùng tại thời điểm viết bài. West Texas Middle được giao dịch ở mức 102,66 USD/thùng. Sự gia tăng sau tin tức về một cuộc tấn công bằng máy bay không người lái vào Ả Rập Saudi",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-108-as-Saudi-Pipeline-Shutdown-Deepens-Supply-Fears.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-14 12:37"
+    },
     {
       "id": "ew70mz",
       "title": "Supply concerns fuel coffee price rally",
@@ -9,7 +20,7 @@
       "image": "https://www.gcrmag.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-at-1.52.02-pm.jpg",
       "link": "https://www.gcrmag.com/supply-concerns-fuel-coffee-price-rally/",
       "source": "gcrmag.com",
-      "category": "soft",
+      "category": "energy",
       "published": "2026-09-14 11:01"
     },
     {
@@ -145,17 +156,6 @@
       "published": "2026-09-13 06:00"
     },
     {
-      "id": "2ufm5s",
-      "title": "Stolen Electricity is Powering Illegal Crypto Farms Across the Globe",
-      "title_vi": "Điện bị đánh cắp đang cung cấp năng lượng cho các trang trại tiền điện tử bất hợp pháp trên toàn cầu",
-      "summary_vi": "Trộm cắp điện là một vấn đề toàn cầu và ngày càng trở nên nghiêm trọng hơn. Trong khi vấn đề này phổ biến nhất ở các nước đang phát triển, nơi cơ sở hạ tầng lưới điện còn hạn chế và các tiện ích cũng như cơ quan nhà nước có năng lực giám sát thấp hơn, thì các nước phát triển cũng không tránh khỏi nguy cơ bị ảnh hưởng.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-11_z0iaujpc5m.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Stolen-Electricity-is-Powering-Illegal-Crypto-Farms-Across-the-Globe.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-13 04:00"
-    },
-    {
       "id": "1vsg7dg",
       "title": "Gold, Silver Pullback Is Not The End Of Rally, JPMorgan Reportedly Says After Forecast Cut",
       "title_vi": "JPMorgan cho biết sự thoái lui của vàng, bạc không phải là sự kết thúc của đợt tăng giá sau khi cắt giảm dự báo",
@@ -165,6 +165,17 @@
       "source": "Stocktwits",
       "category": "metal",
       "published": "2026-09-13 00:59"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-12 14:19"
     },
     {
       "id": "1fgsaak",
@@ -539,17 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-09-11 01:57"
-    },
-    {
-      "id": "kf8ljl",
-      "title": "General Mills, Mars sue sugar producers for alleged price-fixing",
-      "title_vi": "General Mills, Mars kiện các nhà sản xuất đường vì cáo buộc ấn định giá",
-      "summary_vi": "Các gã khổng lồ thực phẩm tuyên bố các nhà cung cấp đã phối hợp về thông tin giá cả nhạy cảm và đẩy chi phí cho chất tạo ngọt lên mức cao kỷ lục.",
-      "image": "https://imgproxy.divecdn.com/PPS0Q7RTlovfM-cYaTDBafIO6f87QzGCflDbMedHPXo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MTk3NDMxODAuanBn.webp",
-      "link": "https://www.fooddive.com/news/general-mills-mars-lawsuit-sugar-price-fixing/830079/",
-      "source": "Food Dive",
-      "category": "soft",
-      "published": "2026-09-11 01:33"
     }
   ]
 }

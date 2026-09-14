@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 06:38",
+  "updated_at": "2026-09-14 07:01",
   "items": [
     {
       "id": "1rx9ovu",
@@ -46,6 +46,17 @@
       "published": "2026-09-14 02:00"
     },
     {
+      "id": "vldsl4",
+      "title": "Trump Wants Ukraine to Stop Striking Russian Refineries. What Would That Mean for the War?",
+      "title_vi": "Trump muốn Ukraine ngừng tấn công các nhà máy lọc dầu của Nga. Điều đó có ý nghĩa gì đối với chiến tranh?",
+      "summary_vi": "Phần lớn lượng dầu diesel bị ép đều bắt nguồn từ cuộc chiến tranh Mỹ-Iran, nhưng việc thực hiện yêu cầu của Trump có thể làm suy yếu chiến lược của Kyiv nhằm gây áp lực với Moscow.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt35f92d691ff5f98d/6aa6f0a90e7afa6149a8f931/GettyImages-2294571839.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
+      "link": "https://time.com/article/2026/09/13/trump-wants-ukraine-to-stop-striking-russian-refineries-what-would-that-mean-for-the-war-/",
+      "source": "Time Magazine",
+      "category": "energy",
+      "published": "2026-09-14 01:47"
+    },
+    {
       "id": "vt2xnv",
       "title": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
       "title_vi": "Trump yêu cầu Zelenskyy ngừng tấn công nguồn cung dầu diesel của Nga",
@@ -68,15 +79,15 @@
       "published": "2026-09-14 00:00"
     },
     {
-      "id": "97xzdy",
-      "title": "Trump calls on Ukraine to halt attacks on Russian oil refineries",
-      "title_vi": "Trump kêu gọi Ukraine ngừng tấn công các nhà máy lọc dầu của Nga",
-      "summary_vi": "Tổng thống Mỹ phủ nhận rằng cuộc chiến của ông với Iran là nguyên nhân khiến giá dầu diesel tăng vọt, nhưng một quan chức cấp cao của châu Âu cho biết Trump đang sử dụng Kyiv làm vật tế thần.",
-      "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/13/GettyImages-2295035810-scaled.jpg",
-      "link": "https://www.politico.eu/article/donald-trump-calls-on-ukraine-to-halt-attacks-on-russian-oil-refineries/",
-      "source": "politico.eu",
+      "id": "1k25rmm",
+      "title": "Trump calls on Ukraine to halt strikes on Russian diesel, saying attacks are causing a shortage",
+      "title_vi": "Trump kêu gọi Ukraine ngừng tấn công động cơ diesel của Nga, nói rằng các cuộc tấn công đang gây ra tình trạng thiếu hụt",
+      "summary_vi": "Ukraine trong nhiều tháng đã nhắm mục tiêu vào ngành dầu khí của Nga bằng các cuộc tấn công tầm xa, khiến cho việc phân bổ nhiên liệu trên khắp đất nước và khiến Moscow phải cấm xuất khẩu dầu diesel vào tháng 7, một yếu tố làm gián đoạn nguồn cung dầu diesel toàn cầu.",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-13T140124Z_2083037165_RC2DINAJVVUF_RTRMADP_3_USA-TRUMP-IRELAND-2-1024x683.jpg",
+      "link": "https://www.pbs.org/newshour/amp/world/trump-calls-on-ukraine-to-halt-strikes-on-russian-diesel-saying-attacks-are-causing-a-shortage",
+      "source": "PBS",
       "category": "energy",
-      "published": "2026-09-13 23:35"
+      "published": "2026-09-13 22:58"
     },
     {
       "id": "1rmpxdc",
@@ -154,6 +165,17 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-09-12 07:59"
+    },
+    {
+      "id": "tncfde",
+      "title": "White House copper tariff plan stalls amid affordability concerns, sources say",
+      "title_vi": "Các nguồn tin cho biết kế hoạch thuế đồng của Nhà Trắng bị đình trệ trong bối cảnh lo ngại về khả năng chi trả",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/us/white-house-copper-tariff-plan-stalls-amid-affordability-concerns-sources-say-2026-09-10/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-09-12 06:41"
     },
     {
       "id": "yk6ij2",
@@ -528,28 +550,6 @@
       "source": "K8 News | Jonesboro, Arkansas",
       "category": "energy",
       "published": "2026-09-11 01:24"
-    },
-    {
-      "id": "1xmztgd",
-      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
-      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-11 00:37"
-    },
-    {
-      "id": "g1u11z",
-      "title": "Platinum, palladium price forecasts cut by BMI as car sales shrink and South African supply recovers",
-      "title_vi": "BMI dự báo giá bạch kim, palladium giảm do doanh số bán ô tô giảm và nguồn cung Nam Phi phục hồi",
-      "summary_vi": "Sibanye-Stillwater đang tái cơ cấu một trục thua lỗ, đối mặt với cuộc đình công tại các mỏ paladi ở Montana, trong khi WPIC cho biết trữ lượng bạch kim trên mặt đất sẽ chỉ đáp ứng được 3,4 tháng nhu cầu vào cuối năm nay.",
-      "image": "https://www.mining.com/wp-content/uploads/2020/03/car-fast-speed-in-motion.jpg",
-      "link": "https://www.mining.com/platinum-palladium-price-forecasts-cut-by-bmi-as-car-sales-shrink-and-south-african-supply-recovers/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-09-11 00:13"
     }
   ]
 }

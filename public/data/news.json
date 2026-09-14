@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-15 05:46",
+  "updated_at": "2026-09-15 06:01",
   "items": [
+    {
+      "id": "1pnwthc",
+      "title": "$100 Oil Puts Central Banks Back on Inflation Alert",
+      "title_vi": "Dầu 100 USD khiến các ngân hàng trung ương quay lại cảnh báo lạm phát",
+      "summary_vi": "Giá dầu thô đã kéo dài mức tăng trước đó sang tuần này, với rất ít cơ hội đảo chiều khi cuộc chiến ở Trung Đông ngày càng mở rộng và mong muốn về một giải pháp hòa bình dường như suy yếu khi tồn kho dầu toàn cầu tiếp tục giảm. Lạm phát đang gia tăng. Suy thoái lo sợ một",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-14_9cgpsthfeb.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/100-Oil-Puts-Central-Banks-Back-on-Inflation-Alert.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-15 06:00"
+    },
     {
       "id": "iu0cz6",
       "title": "Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-15 05:00"
+    },
+    {
+      "id": "n8bkam",
+      "title": "Silver Price Forecast: Bullish Reversal Builds Above $62.33",
+      "title_vi": "Dự báo giá bạc: Sự đảo chiều tăng giá trên $62,33",
+      "summary_vi": "Bạc phục hồi từ mức hỗ trợ 62,33 USD khi thiết lập rung chuyển và phục hồi tiềm năng chỉ ra sự đảo chiều tăng giá đang phát triển.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/silver-precious-metal-price-chart-02-2.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/silver-price-forecast-bullish-reversal-builds-above-62-33-1627749",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-09-15 04:10"
     },
     {
       "id": "d3o2w8",
@@ -99,17 +121,6 @@
       "source": "CBS News",
       "category": "metal",
       "published": "2026-09-15 00:07"
-    },
-    {
-      "id": "125g0co",
-      "title": "SpaceX Turns Turbine Maker as Musk Warns of Years-Long Equipment Shortage",
-      "title_vi": "SpaceX chuyển hướng sản xuất tuabin khi Musk cảnh báo về tình trạng thiếu thiết bị kéo dài hàng năm",
-      "summary_vi": "Elon Musk gần đây đã cảnh báo rằng “tua bin sẽ được bán hết cho đến năm 2030”, đồng thời cho biết SpaceX và Tesla có thể sẽ cần phải chế tạo các cánh tuabin và cánh gạt trong nội bộ. SpaceX đang chuẩn bị xây dựng một nhà máy ở Bastrop, Texas, để giải quyết vấn đề tắc nghẽn trong quá trình đúc và Musk cho biết sẽ đưa hoạt động sản xuất vào trong nước.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-14_1frnvlnxba.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/SpaceX-Turns-Turbine-Maker-as-Musk-Warns-of-Years-Long-Equipment-Shortage.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-15 00:00"
     },
     {
       "id": "8yks4e",
@@ -539,17 +550,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-09-11 23:44"
-    },
-    {
-      "id": "3uad0a",
-      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
-      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
-      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/markets/agriculture/images/grain-oilseed-pgp-leadspace.jpg",
-      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
-      "source": "cmegroup.com",
-      "category": "agri",
-      "published": "2026-09-11 22:10"
     }
   ]
 }

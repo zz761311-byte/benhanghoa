@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-14 20:01",
+  "updated_at": "2026-09-14 21:01",
   "items": [
+    {
+      "id": "mlgc79",
+      "title": "The Problem With Trying to Bypass Hormuz Using Pipelines",
+      "title_vi": "Vấn đề khi cố gắng vượt qua Hormuz bằng đường ống",
+      "summary_vi": "Đường ống Đông-Tây ở Ả Rập Saudi, nơi cung cấp dầu đến bờ Biển Đỏ, là một giải pháp quan trọng đối với tình trạng tắc nghẽn giao thông tàu chở dầu của Iran ở eo biển Hormuz, lối thoát duy nhất cho các tàu chở dầu từ Vịnh Ba Tư ra biển khơi. Chính phủ Saudi tuyên bố",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-14_6acrzq1law.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Problem-With-Trying-to-Bypass-Hormuz-Using-Pipelines.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-14 21:00"
+    },
     {
       "id": "15b81kv",
       "title": "Brent at $108: Gulf States Halt Hormuz Talks as Houthis Strike Saudi Airbase",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-14 19:43"
+    },
+    {
+      "id": "isbjpx",
+      "title": "A Bigger Dahlia Coffee Blooms in Cleveland",
+      "title_vi": "Cà phê thược dược nở rộ ở Cleveland",
+      "summary_vi": "Một sự nở rộ mới và lớn hơn của hương vị và phong cách Mexico đã xuất hiện ở Cleveland với việc khai trương địa điểm quán cà phê thứ hai của Dahlia Coffee vào tháng 8. Quán cà phê Old Brooklyn rộng 1.200 mét vuông...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/09/14/a-bigger-dahlia-coffee-blooms-in-cleveland/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-09-14 19:36"
     },
     {
       "id": "er2hz5",
@@ -167,15 +189,15 @@
       "published": "2026-09-14 14:00"
     },
     {
-      "id": "168ors5",
-      "title": "Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears",
-      "title_vi": "Dầu Brent đạt 108 USD khi đường ống dẫn dầu của Saudi đóng cửa làm tăng thêm lo ngại về nguồn cung",
-      "summary_vi": "Dầu thô Brent đạt 108 USD/thùng vào đầu ngày hôm nay, sau đợt leo thang mới nhất ở Trung Đông, trước khi giảm xuống 107,22 USD/thùng tại thời điểm viết bài. West Texas Middle được giao dịch ở mức 102,66 USD/thùng. Sự gia tăng sau tin tức về một cuộc tấn công bằng máy bay không người lái vào Ả Rập Saudi",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-108-as-Saudi-Pipeline-Shutdown-Deepens-Supply-Fears.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-14 12:37"
+      "id": "15crl0v",
+      "title": "Gold and Silver Price Forecast: Fed Hike Risk Threatens Support",
+      "title_vi": "Dự báo giá vàng và bạc: Rủi ro tăng lãi suất của Fed đe dọa hỗ trợ",
+      "summary_vi": "Vàng và bạc phải đối mặt với áp lực tăng lãi suất của Fed, với sự hỗ trợ 4.300 USD của vàng và bạc đang cố gắng phục hồi trên 66 USD.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/gold-and-silver-precious-metals-02.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-fed-hike-risk-threatens-support-1627286",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-09-14 12:56"
     },
     {
       "id": "ew70mz",
@@ -264,17 +286,6 @@
       "source": "PBS",
       "category": "energy",
       "published": "2026-09-13 22:58"
-    },
-    {
-      "id": "1vsg7dg",
-      "title": "Gold, Silver Pullback Is Not The End Of Rally, JPMorgan Reportedly Says After Forecast Cut",
-      "title_vi": "JPMorgan cho biết sự thoái lui của vàng, bạc không phải là sự kết thúc của đợt tăng giá sau khi cắt giảm dự báo",
-      "summary_vi": "Bất chấp việc cắt giảm ngắn hạn, JPMorgan dự đoán giá vàng và bạc sẽ tăng vào cuối năm nay trong bối cảnh những bất ổn về năng lượng và lạm phát giảm bớt.",
-      "image": "https://news.stocktwits-cdn.com/large_Gold_Silver_jpg_c77de4fb71.webp",
-      "link": "https://stocktwits.com/news-articles/markets/equity/gold-silver-pullback-is-not-the-end-of-rally-jpmorgan-reportedly-says-after-forecast-cut/cZXrBxmRelk",
-      "source": "Stocktwits",
-      "category": "metal",
-      "published": "2026-09-13 00:59"
     },
     {
       "id": "1lrkwix",
@@ -539,17 +550,6 @@
       "source": "Geomechanics.io",
       "category": "metal",
       "published": "2026-09-11 07:00"
-    },
-    {
-      "id": "1mxspv8",
-      "title": "August 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
-      "title_vi": "Tháng 8 năm 2026 – Phân tích hàng tháng về xuất khẩu nhiên liệu hóa thạch của Nga và các biện pháp trừng phạt",
-      "summary_vi": "",
-      "image": "https://energyandcleanair.org/wp/wp-content/uploads/2026/09/image-25.png",
-      "link": "https://energyandcleanair.org/august-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
-      "source": "energyandcleanair.org",
-      "category": "energy",
-      "published": "2026-09-11 06:00"
     }
   ]
 }

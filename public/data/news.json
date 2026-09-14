@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-14 17:01",
+  "updated_at": "2026-09-14 18:01",
   "items": [
+    {
+      "id": "gdli8e",
+      "title": "Asian Refiners Seek Answers After Saudi Pipeline Shutdown",
+      "title_vi": "Các nhà lọc dầu châu Á tìm kiếm câu trả lời sau khi đường ống dẫn dầu của Saudi đóng cửa",
+      "summary_vi": "Các nhà máy lọc dầu châu Á vẫn chưa chắc chắn việc đóng cửa đường ống dẫn dầu Đông-Tây quan trọng của Saudi Arabia tới Biển Đỏ sẽ ảnh hưởng như thế nào đến việc nạp dầu tại cảng Yanbu. Ả Rập Saudi buộc phải tạm thời đóng cửa đường ống dẫn dầu Đông-Tây sau các cuộc tấn công bằng máy bay không người lái được phát động từ lãnh thổ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-14_ikgpwkz8ga.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Refiners-Seek-Answers-After-Saudi-Pipeline-Shutdown.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-14 17:30"
+    },
+    {
+      "id": "wqm2ki",
+      "title": "Gold Falls Toward $4,300 as US Inflation Raises Fed Rate Hike Expectations",
+      "title_vi": "Vàng giảm xuống mức 4.300 USD khi lạm phát ở Mỹ làm tăng kỳ vọng tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-toward-4-300-093148193.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-09-14 16:31"
+    },
     {
       "id": "1cdy0ec",
       "title": "Middle East Oil Routes Under Pressure as Hormuz Traffic Tumbles",
@@ -11,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-14 16:15"
+    },
+    {
+      "id": "f0jw6x",
+      "title": "Minnesota farmers ride crop price highs. Could lofty diesel costs hurt profits?",
+      "title_vi": "Nông dân Minnesota tận dụng mức giá nông sản cao. Chi phí diesel cao có thể làm tổn hại đến lợi nhuận?",
+      "summary_vi": "Ngô và đậu nành đạt mức giá tốt nhất trong ba năm. Tuy nhiên, khi giá dầu diesel tăng lên trên 6 USD/gallon, lợi nhuận của nông dân sẽ bị ảnh hưởng như thế nào?",
+      "image": "https://img.apmcdn.org/1decb4d2e6e0603346b3bc3ccd7b91d58a196909/widescreen/e43344-20260807-corn-stalks01-2000.jpg",
+      "link": "https://www.mprnews.org/story/2026/09/14/minnesota-farmers-ride-crop-price-highs-but-diesel-costs-could-limit-profit",
+      "source": "MPR News",
+      "category": "agri",
+      "published": "2026-09-14 16:00"
     },
     {
       "id": "n46zzx",
@@ -90,6 +123,17 @@
       "published": "2026-09-14 11:01"
     },
     {
+      "id": "ungq17",
+      "title": "Gold falls on growing Fed rate hike bets ahead of policy meeting",
+      "title_vi": "Vàng giảm do đặt cược tăng lãi suất của Fed trước cuộc họp chính sách",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-slips-oil-rally-fans-rate-hike-bets-ahead-fed-meeting-2026-09-14/",
+      "source": "reuters.com",
+      "category": "metal",
+      "published": "2026-09-14 10:48"
+    },
+    {
       "id": "1l84oyj",
       "title": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles",
       "title_vi": "Giá dầu tăng khi các cuộc tấn công ở Trung Đông tiếp tục và chính sách ngoại giao gặp khó khăn",
@@ -143,17 +187,6 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-09-14 02:06"
-    },
-    {
-      "id": "3hyyay",
-      "title": "U.S. Dams Could Unlock 15.2 Terawatt-Hours of Untapped Hydropower",
-      "title_vi": "Các con đập của Hoa Kỳ có thể giải phóng 15,2 Terawatt giờ thủy điện chưa được khai thác",
-      "summary_vi": "Các con đập hiện tại của Hoa Kỳ có thể sản xuất thêm 15,2 terawatt giờ điện mỗi năm, đủ cung cấp điện cho hơn 1,4 triệu ngôi nhà trên khắp đất nước. Một nghiên cứu mới từ Phòng thí nghiệm quốc gia Oak Ridge và Phòng thí nghiệm quốc gia Idaho cho thấy bằng cách trang bị thêm các thiết bị chọn lọc",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-11_lwkepgz8dp.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Dams-Could-Unlock-152-Terawatt-Hours-of-Untapped-Hydropower.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-14 02:00"
     },
     {
       "id": "vldsl4",
@@ -321,17 +354,6 @@
       "published": "2026-09-12 00:59"
     },
     {
-      "id": "vex0eu",
-      "title": "The Fed can hike, but it won’t derail gold’s long-term bull market – analysts",
-      "title_vi": "Fed có thể tăng lãi suất, nhưng nó sẽ không làm hỏng thị trường tăng trưởng dài hạn của vàng - các nhà phân tích",
-      "summary_vi": "(Kitco News) - Thị trường vàng sắp kết thúc một tuần nữa trong vùng tiêu cực khi các nhà đầu tư chuẩn bị cho việc Cục Dự trữ Liên bang tăng lãi suất vào tuần tới. Tuy nhiên, theo một số nhà phân tích, khả năng vàng duy trì mức hỗ trợ mới ở mức 4.300 USD/ounce là một dấu hiệu cho thấy mối đe dọa về việc tăng lãi suất sắp xảy ra đang mất dần vị thế.",
-      "image": "https://image-api.prod.kitco.com/image/226d23b3-16f4-47fe-85f3-d3568f7f4508.jpeg?top=0.41136465827338&left=0&width=1000&height=562.17727068345&scale_width=1920&token=6ca33dfce5e65b6bf10ab942c2ae37806e1f7e0226f522e84eedb2bfca6dfdb5",
-      "link": "https://www.kitco.com/news/article/2026-09-11/fed-can-hike-it-wont-derail-golds-long-term-bull-market-analysts",
-      "source": "kitco.com",
-      "category": "metal",
-      "published": "2026-09-12 00:38"
-    },
-    {
       "id": "1hubzch",
       "title": "WASDE slashed corn yields — but should it have cut deeper?",
       "title_vi": "WASDE đã cắt giảm năng suất ngô - nhưng liệu có nên cắt giảm sâu hơn không?",
@@ -396,17 +418,6 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-09-11 17:56"
-    },
-    {
-      "id": "1tp3wv2",
-      "title": "Gold, silver prices tumble as hot PPI lifts Fed-hike risk - Kitco AM Report",
-      "title_vi": "Giá vàng, bạc sụt giảm khi PPI nóng làm tăng rủi ro tăng lãi suất của Fed - Báo cáo Kitco AM",
-      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay giảm mạnh trong đầu phiên giao dịch tại Mỹ hôm thứ Năm, sau khi lạm phát bán buôn ở Mỹ nóng hơn, số đơn xin trợ cấp thất nghiệp ổn định và việc ECB tăng lãi suất 25 điểm cơ bản đã củng cố giao dịch lãi suất cao hơn trong thời gian dài hơn trên toàn cầu. Tại thời điểm viết bài, vàng giao ngay đang giao dịch ở mức gần 4.362,30 USD/ounce.",
-      "image": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0&left=0.1729145558933&width=1023.6541708882&height=576&scale_width=1920&token=065317f5537df4eea50f5ab77f4aa9d48e3dd067b208a636e5cc0bf851c99ad7",
-      "link": "https://www.kitco.com/news/article/2026-09-10/gold-silver-prices-tumble-hot-ppi-lifts-fed-hike-risk-kitco-am-report",
-      "source": "kitco.com",
-      "category": "metal",
-      "published": "2026-09-11 14:47"
     },
     {
       "id": "my7osy",
@@ -539,17 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-09-11 02:43"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-09-11 02:32"
     }
   ]
 }

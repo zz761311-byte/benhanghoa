@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 10:01",
+  "updated_at": "2026-09-14 11:01",
   "items": [
     {
       "id": "1l84oyj",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-14 09:39"
+    },
+    {
+      "id": "fgj2kg",
+      "title": "U.S. Gasoline Prices Hit Labor Day Record",
+      "title_vi": "Giá xăng của Hoa Kỳ đạt kỷ lục trong Ngày lễ Lao động",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/u-s-gasoline-prices-hit-labor-day-record-1a789682",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-09-14 08:41"
     },
     {
       "id": "1rx9ovu",
@@ -539,17 +550,6 @@
       "source": "Crude Oil Prices Today | OilPrice.com",
       "category": "energy",
       "published": "2026-09-11 01:30"
-    },
-    {
-      "id": "1xufsxj",
-      "title": "Arkansas gas prices jump as crude oil market remains volatile",
-      "title_vi": "Giá xăng ở Arkansas tăng do thị trường dầu thô vẫn biến động",
-      "summary_vi": "Giá trung bình ở Jonesboro là $3,91 một gallon, tăng 13 xu so với tuần trước.",
-      "image": "https://gray-kait-prod.gtv-cdn.com/resizer/v2/Q62ZZSJDUFHITEYXXNBJOKOQWU.jpg?auth=d49fe31e82d99dda8501cbcdd8785922a52772351d7ef11bdf01da3dc82ee446&width=1200&height=600&smart=true",
-      "link": "https://www.kait8.com/2026/09/10/arkansas-gas-prices-jump-crude-oil-market-remains-volatile/",
-      "source": "K8 News | Jonesboro, Arkansas",
-      "category": "energy",
-      "published": "2026-09-11 01:24"
     }
   ]
 }

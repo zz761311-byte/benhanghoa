@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-14 11:01",
+  "updated_at": "2026-09-14 12:00",
   "items": [
+    {
+      "id": "ew70mz",
+      "title": "Supply concerns fuel coffee price rally",
+      "title_vi": "Mối lo ngại về nguồn cung thúc đẩy giá cà phê tăng",
+      "summary_vi": "Báo cáo của ICO nhấn mạnh những lo ngại về nguồn cung, sự gián đoạn thời tiết ở Brazil và giá cà phê tăng trong bối cảnh thị trường biến động.",
+      "image": "https://www.gcrmag.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-at-1.52.02-pm.jpg",
+      "link": "https://www.gcrmag.com/supply-concerns-fuel-coffee-price-rally/",
+      "source": "gcrmag.com",
+      "category": "soft",
+      "published": "2026-09-14 11:01"
+    },
     {
       "id": "1l84oyj",
       "title": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles",
@@ -539,17 +550,6 @@
       "source": "Food Dive",
       "category": "soft",
       "published": "2026-09-11 01:33"
-    },
-    {
-      "id": "1x842rv",
-      "title": "EIA Raises 2027 U.S. Oil Output Forecast",
-      "title_vi": "EIA nâng dự báo sản lượng dầu của Mỹ năm 2027",
-      "summary_vi": "Cơ quan Thông tin Năng lượng Hoa Kỳ đã nâng dự báo sản lượng dầu thô của Mỹ trong năm 2027 lên 14,3 triệu thùng/ngày, tăng từ 14,2 triệu thùng/ngày trong tháng 8 và 14,0 triệu thùng/ngày trong tháng 7.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-10_50azumlvza.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EIA-Raises-2027-US-Oil-Output-Forecast.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-09-11 01:30"
     }
   ]
 }

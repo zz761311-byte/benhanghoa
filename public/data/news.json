@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-09-14 23:01",
+  "updated_at": "2026-09-15 00:01",
   "items": [
+    {
+      "id": "125g0co",
+      "title": "SpaceX Turns Turbine Maker as Musk Warns of Years-Long Equipment Shortage",
+      "title_vi": "SpaceX chuyển hướng sản xuất tuabin khi Musk cảnh báo về tình trạng thiếu thiết bị kéo dài hàng năm",
+      "summary_vi": "Elon Musk gần đây đã cảnh báo rằng “tua bin sẽ được bán hết cho đến năm 2030”, đồng thời cho biết SpaceX và Tesla có thể sẽ cần phải chế tạo các cánh tuabin và cánh gạt trong nội bộ. SpaceX đang chuẩn bị xây dựng một nhà máy ở Bastrop, Texas, để giải quyết vấn đề tắc nghẽn trong quá trình đúc và Musk cho biết sẽ đưa hoạt động sản xuất vào trong nước.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-14_1frnvlnxba.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/SpaceX-Turns-Turbine-Maker-as-Musk-Warns-of-Years-Long-Equipment-Shortage.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-15 00:00"
+    },
+    {
+      "id": "8yks4e",
+      "title": "Shanghai Coffee Boom Intensifies Competition for Quality Coffees",
+      "title_vi": "Sự bùng nổ cà phê Thượng Hải tăng cường cạnh tranh về chất lượng cà phê",
+      "summary_vi": "Theo một báo cáo mới của Bộ Nông nghiệp Hoa Kỳ (FAS), thị trường cà phê đang phát triển nhanh chóng của Thượng Hải có thể gây ra những hậu quả toàn cầu khi nhu cầu về cà phê chất lượng cao, khác biệt tăng lên. Cái...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/09/14/shanghai-coffee-boom-intensifies-competition-for-quality-coffees/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-09-14 23:31"
+    },
+    {
+      "id": "1ilxt0n",
+      "title": "Chevron Targets Four Continents in New LNG Expansion Drive",
+      "title_vi": "Chevron nhắm tới bốn châu lục trong nỗ lực mở rộng LNG mới",
+      "summary_vi": "Freeman Shaheen, Chủ tịch Global Gas tại Chevron, nói với Reuters hôm thứ Hai rằng Chevron đang xem xét mở rộng kinh doanh khí đốt tự nhiên và các cơ hội ở Argentina, Địa Trung Hải, Châu Phi và Úc, vì công ty này nhằm mục đích cung cấp nguồn cung LNG đa dạng cho khách hàng của mình. năng lượng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-14_uzuhbd1cwi.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Targets-Four-Continents-in-New-LNG-Expansion-Drive.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-14 23:30"
+    },
+    {
+      "id": "lfdmw1",
+      "title": "Cocoa Prices Gain on the Outlook for Tighter Supplies from Ghana",
+      "title_vi": "Giá ca cao tăng do nguồn cung khan hiếm hơn từ Ghana",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barchart.com/story/news/4592852/cocoa-prices-gain-on-the-outlook-for-tighter-supplies-from-ghana",
+      "source": "barchart.com",
+      "category": "soft",
+      "published": "2026-09-14 23:04"
+    },
     {
       "id": "1ivpjvu",
       "title": "The U.S.-China AI War Has Kazakhstan Caught in the Crossfire",
@@ -101,17 +145,6 @@
       "published": "2026-09-14 19:36"
     },
     {
-      "id": "er2hz5",
-      "title": "Chevron Expects LNG Prices To Remain High in the Short Term",
-      "title_vi": "Chevron kỳ vọng giá LNG sẽ duy trì ở mức cao trong ngắn hạn",
-      "summary_vi": "Chevron Australia cho biết giá LNG dự kiến ​​sẽ duy trì ở mức cao trong vài tháng tới trong bối cảnh nguồn cung bị gián đoạn lớn từ Trung Đông. Balaji Krishnamurthy, Giám đốc điều hành của Chev: “Tôi rất khó thấy giá giảm” trong khoảng sáu tháng tới",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-14_z31s9kboip.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Expects-LNG-Prices-To-Remain-High-in-the-Short-Term.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-14 19:30"
-    },
-    {
       "id": "1p64fag",
       "title": "Copper recovery can boost mining and recycling to up supply",
       "title_vi": "Thu hồi đồng có thể thúc đẩy khai thác và tái chế để tăng nguồn cung",
@@ -121,17 +154,6 @@
       "source": "The World Economic Forum",
       "category": "metal",
       "published": "2026-09-14 18:47"
-    },
-    {
-      "id": "6y4mgt",
-      "title": "Europe Gas Prices Jump 6% as Saudi Pipeline Shutdown Rattles Markets",
-      "title_vi": "Giá khí đốt châu Âu tăng 6% khi đường ống dẫn dầu của Saudi Arabia đóng cửa gây chấn động thị trường",
-      "summary_vi": "Giá khí đốt tự nhiên chuẩn của châu Âu đã tăng 6% khi mở cửa thị trường hôm thứ Hai ở Amsterdam do giá dầu tăng trong bối cảnh leo thang ở Trung Đông đe dọa sự phục hồi của dòng năng lượng. Giá tháng trước tại Cơ sở chuyển nhượng quyền sở hữu Hà Lan (TTF), điểm chuẩn cho E",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-14_baeuy2ua4v.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Gas-Prices-Jump-6-as-Saudi-Pipeline-Shutdown-Rattles-Markets.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-14 18:30"
     },
     {
       "id": "rpwqej",
@@ -154,6 +176,17 @@
       "source": "ABC7 WWSB",
       "category": "energy",
       "published": "2026-09-14 17:24"
+    },
+    {
+      "id": "1e6bht8",
+      "title": "Gold price fall nearly 2% as oil surge and near-5% Treasury yields bolster Fed rate-hike expectations - Kitco AM Report",
+      "title_vi": "Giá vàng giảm gần 2% do giá dầu tăng và lãi suất trái phiếu kho bạc gần 5% củng cố kỳ vọng Fed tăng lãi suất - Báo cáo Kitco AM",
+      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay đang chịu áp lực bán đáng kể vào sáng thứ Hai khi lãi suất trái phiếu tăng và giá năng lượng tăng cao củng cố kỳ vọng rằng Cục Dự trữ Liên bang sẽ tăng lãi suất trong tuần này, áp đảo nhu cầu trú ẩn an toàn được tạo ra do bất ổn địa chính trị leo thang trong thế giới kinh tế.",
+      "image": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0&left=0.11827211827215&width=1023.7634557635&height=576&scale_width=1920&token=b54bed747c33b7756d4851560fd1317a10ec63bad94b826a874050e6a2821ba3",
+      "link": "https://www.kitco.com/news/article/2026-09-14/gold-price-fall-nearly-2-oil-surge-and-near-5-treasury-yields-bolster-fed",
+      "source": "KITCO",
+      "category": "macro",
+      "published": "2026-09-14 17:10"
     },
     {
       "id": "wqm2ki",
@@ -244,17 +277,6 @@
       "published": "2026-09-14 11:01"
     },
     {
-      "id": "ungq17",
-      "title": "Gold falls on growing Fed rate hike bets ahead of policy meeting",
-      "title_vi": "Vàng giảm do đặt cược tăng lãi suất của Fed trước cuộc họp chính sách",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-slips-oil-rally-fans-rate-hike-bets-ahead-fed-meeting-2026-09-14/",
-      "source": "reuters.com",
-      "category": "metal",
-      "published": "2026-09-14 10:48"
-    },
-    {
       "id": "fgj2kg",
       "title": "U.S. Gasoline Prices Hit Labor Day Record",
       "title_vi": "Giá xăng của Hoa Kỳ đạt kỷ lục trong Ngày lễ Lao động",
@@ -319,6 +341,17 @@
       "source": "PBS",
       "category": "energy",
       "published": "2026-09-13 22:58"
+    },
+    {
+      "id": "1f48p53",
+      "title": "Do Coffee Holding's (NASDAQ:JVA) Earnings Warrant Your Attention?",
+      "title_vi": "Thu nhập của Coffee Holding (NASDAQ:JVA) có đảm bảo cho sự chú ý của bạn không?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://simplywall.st/stocks/us/food-beverage-tobacco/nasdaq-jva/coffee-holding/news/do-coffee-holdings-nasdaqjva-earnings-warrant-your-attention-1/amp",
+      "source": "simplywall.st",
+      "category": "soft",
+      "published": "2026-09-13 19:11"
     },
     {
       "id": "1lrkwix",
@@ -431,6 +464,17 @@
       "published": "2026-09-12 02:36"
     },
     {
+      "id": "1mi61v1",
+      "title": "USDA lowers corn yield, production estimates",
+      "title_vi": "USDA giảm năng suất ngô, ước tính sản lượng",
+      "summary_vi": "Năng suất ngô trung bình của Mỹ được dự báo là 178,5 giạ/mẫu Anh, giảm 8 giạ so với năm 2025.",
+      "image": "https://bloximages.newyork1.vip.townnews.com/farmweeknow.com/content/tncms/assets/v3/editorial/0/86/086673d8-a719-4039-a07d-369a11688130/6aa43bd2176cc.preview.jpg?crop=1731%2C909%2C0%2C144&resize=1200%2C630&order=crop%2Cresize",
+      "link": "https://www.farmweeknow.com/profitability/usda-lowers-corn-yield-production-estimates/article_086673d8-a719-4039-a07d-369a11688130.html",
+      "source": "FarmWeekNow",
+      "category": "agri",
+      "published": "2026-09-12 02:00"
+    },
+    {
       "id": "19tqmsn",
       "title": "Global Platinum Jewelry Demand Set to Fall 15% in 2026, but North America Sees Single-Digit Growth",
       "title_vi": "Nhu cầu trang sức bạch kim toàn cầu sẽ giảm 15% vào năm 2026, nhưng Bắc Mỹ chứng kiến ​​mức tăng trưởng một con số",
@@ -506,50 +550,6 @@
       "source": "Bloomberg.com",
       "category": "energy",
       "published": "2026-09-11 20:21"
-    },
-    {
-      "id": "5vd8ks",
-      "title": "Silver Price For Today, 11 September 2026",
-      "title_vi": "Giá bạc hôm nay, ngày 11 tháng 9 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forbes.com/advisor/uk/investing/silver-price/",
-      "source": "Forbes",
-      "category": "metal",
-      "published": "2026-09-11 19:11"
-    },
-    {
-      "id": "m18cfh",
-      "title": "IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market",
-      "title_vi": "IEA cảnh báo hệ thống lọc dầu toàn cầu 'kéo dài đến giới hạn' khi chiến tranh Iran, Ukraine thắt chặt thị trường",
-      "summary_vi": "Cơ quan năng lượng cảnh báo tồn kho giảm và các nhà máy lọc dầu căng thẳng có thể thắt chặt thị trường hơn nữa.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108350460-1786983947638-gettyimages-2290347496-dji_20260813083559_0458_d_admeepqz.jpeg?v=1787573737&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/09/11/iran-war-oil-diesel-iea-hormuz.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-09-11 17:56"
-    },
-    {
-      "id": "134oww3",
-      "title": "Luckin Coffee (OTCPK:LKNC.Y) Stock Looks Below Fair Value After Its 114% Run",
-      "title_vi": "Cổ phiếu Luckin Coffee (OTCPK:LKNC.Y) có vẻ dưới giá trị hợp lý sau khi tăng 114%",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://simplywall.st/stocks/us/consumer-services/otc-lknc.y/luckin-coffee/news/luckin-coffee-otcpklkncy-stock-looks-below-fair-value-after/amp",
-      "source": "simplywall.st",
-      "category": "soft",
-      "published": "2026-09-11 16:38"
-    },
-    {
-      "id": "my7osy",
-      "title": "It’s WASDE time: Markets can ‘change on a dime’",
-      "title_vi": "Đã đến lúc WASDE: Thị trường có thể ‘thay đổi trong chốc lát’",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-09-11 14:00"
     }
   ]
 }

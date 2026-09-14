@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-14 18:01",
+  "updated_at": "2026-09-14 19:01",
   "items": [
+    {
+      "id": "6y4mgt",
+      "title": "Europe Gas Prices Jump 6% as Saudi Pipeline Shutdown Rattles Markets",
+      "title_vi": "Giá khí đốt châu Âu tăng 6% khi đường ống dẫn dầu của Saudi Arabia đóng cửa gây chấn động thị trường",
+      "summary_vi": "Giá khí đốt tự nhiên chuẩn của châu Âu đã tăng 6% khi mở cửa thị trường hôm thứ Hai ở Amsterdam do giá dầu tăng trong bối cảnh leo thang ở Trung Đông đe dọa sự phục hồi của dòng năng lượng. Giá tháng trước tại Cơ sở chuyển nhượng quyền sở hữu Hà Lan (TTF), điểm chuẩn cho E",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-14_baeuy2ua4v.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Gas-Prices-Jump-6-as-Saudi-Pipeline-Shutdown-Rattles-Markets.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-14 18:30"
+    },
     {
       "id": "gdli8e",
       "title": "Asian Refiners Seek Answers After Saudi Pipeline Shutdown",
@@ -24,6 +35,17 @@
       "published": "2026-09-14 16:31"
     },
     {
+      "id": "1wiec43",
+      "title": "Dollar rallies as oil prices jump and AI fears knock markets",
+      "title_vi": "Đồng đô la tăng giá khi giá dầu tăng và nỗi lo AI đánh gục thị trường",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/asia-pacific/dollar-steady-yen-near-7-month-high-ahead-fed-boj-meetings-2026-09-14/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-09-14 16:25"
+    },
+    {
       "id": "1cdy0ec",
       "title": "Middle East Oil Routes Under Pressure as Hormuz Traffic Tumbles",
       "title_vi": "Các tuyến đường vận chuyển dầu ở Trung Đông chịu áp lực khi giao thông ở Hormuz sụt giảm",
@@ -42,7 +64,7 @@
       "image": "https://img.apmcdn.org/1decb4d2e6e0603346b3bc3ccd7b91d58a196909/widescreen/e43344-20260807-corn-stalks01-2000.jpg",
       "link": "https://www.mprnews.org/story/2026/09/14/minnesota-farmers-ride-crop-price-highs-but-diesel-costs-could-limit-profit",
       "source": "MPR News",
-      "category": "agri",
+      "category": "energy",
       "published": "2026-09-14 16:00"
     },
     {
@@ -167,15 +189,15 @@
       "published": "2026-09-14 06:00"
     },
     {
-      "id": "29jir5",
-      "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
-      "title_vi": "Giá dầu tăng đột biến có thể khơi dậy nỗi lo suy thoái kinh tế",
-      "summary_vi": "Giá dầu tăng vọt trong tuần này đã làm tăng mạnh khả năng Fed tăng lãi suất vào tuần tới và khơi lại cuộc thảo luận về suy thoái kinh tế, lần đầu tiên kể từ những tuần đầu của cuộc chiến tranh Iran. Giá tăng đột biến trong tuần này khiến giá dầu thô Brent đạt mức 100 USD/thùng trong tuần đầu tiên.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-13_lbxlepozrx.jpg",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Further-Oil-Price-Spikes-Could-Rekindle-Recession-Fears.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-14 04:00"
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-09-14 04:21"
     },
     {
       "id": "1o4rz13",
@@ -528,28 +550,6 @@
       "source": "NBC News",
       "category": "energy",
       "published": "2026-09-11 04:10"
-    },
-    {
-      "id": "1ja0mb2",
-      "title": "Copper Stocks Sink as White House Tariff Uncertainty Spooks Traders",
-      "title_vi": "Cổ phiếu đồng sụt giảm khi sự không chắc chắn về thuế quan của Nhà Trắng khiến các nhà giao dịch lo sợ",
-      "summary_vi": "Nhà Trắng vẫn chưa đưa ra quyết định về thuế đồng tinh chế khi các quan chức lo ngại rằng giá kim loại đỏ cao hơn có thể làm tăng chi phí sản xuất so với lợi ích tiềm năng của việc khuyến khích khai thác trong nước nhiều hơn",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-10_pd6duw7ybo.jpg",
-      "link": "https://oilprice.com/Metals/Commodities/Copper-Stocks-Sink-as-White-House-Tariff-Uncertainty-Spooks-Traders.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "metal",
-      "published": "2026-09-11 03:00"
-    },
-    {
-      "id": "2oanov",
-      "title": "Silver Price Forecast: Head-and-shoulders break puts $60 back in play",
-      "title_vi": "Dự báo giá bạc: Sự phá vỡ đầu và vai giúp $ 60 hoạt động trở lại",
-      "summary_vi": "Giá bạc (XAG/USD) xóa bỏ mức tăng của ngày thứ Tư và hình thành mô hình biểu đồ đầu và vai giảm giá vào thứ Năm sau khi kim loại trắng tăng và phá vỡ đường xu hướng hỗ trợ khoảng $64,00-$64,15, làm trầm trọng thêm mức giảm dưới $63,50. Tại thời điểm viết bài, XAG/USD giao dịch ở mức 63,72 USD, giảm hơn 5,30%.",
-      "image": "https://editorial.fxsstatic.com/images/i/discover-54_Medium.png",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-head-and-shoulders-break-puts-60-back-in-play-202609101943",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-09-11 02:43"
     }
   ]
 }

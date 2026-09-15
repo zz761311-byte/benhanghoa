@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15 07:01",
+  "updated_at": "2026-09-15 07:59",
   "items": [
     {
       "id": "61b5pl",
@@ -409,6 +409,17 @@
       "published": "2026-09-12 14:19"
     },
     {
+      "id": "3uad0a",
+      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
+      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
+      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/markets/agriculture/images/grain-oilseed-pgp-leadspace.jpg",
+      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-09-12 12:00"
+    },
+    {
       "id": "1fgsaak",
       "title": "USDA increases 2026 soybean production forecast",
       "title_vi": "USDA tăng dự báo sản lượng đậu tương năm 2026",
@@ -539,17 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-09-12 00:14"
-    },
-    {
-      "id": "1jjhsm6",
-      "title": "USDA Drops 2026/2027 U.S. Corn Yield and Ending Stocks in September WASDE",
-      "title_vi": "USDA giảm sản lượng ngô niên vụ 2026/2027 của Mỹ và tồn kho cuối tháng 9 WASDE",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/september-usda-wasde-report-12112665",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-09-11 23:44"
     }
   ]
 }

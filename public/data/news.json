@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-15 15:01",
+  "updated_at": "2026-09-15 16:01",
   "items": [
+    {
+      "id": "1kyc19y",
+      "title": "LNG Demand in China and India Could Surge When Prices Normalize",
+      "title_vi": "Nhu cầu LNG ở Trung Quốc và Ấn Độ có thể tăng khi giá bình thường hóa",
+      "summary_vi": "Các giám đốc điều hành ngành cho biết nhu cầu LNG giảm trong những tháng gần đây ở Trung Quốc và Ấn Độ là kết quả của việc giá LNG tăng vọt do xung đột ở Trung Đông và mức tiêu thụ tại các thị trường nhập khẩu khí đốt quan trọng của châu Á sẽ phục hồi sau khi chiến tranh kết thúc và giá cả bình thường hóa. Chiến tranh ở Iran và",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-15_nr1cgkhif5.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Demand-in-China-and-India-Could-Surge-When-Prices-Normalize.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-15 15:30"
+    },
     {
       "id": "25nwvg",
       "title": "Saudi Oil Pipeline Repairs Could Take Weeks After Drone Attack",
@@ -118,17 +129,6 @@
       "summary_vi": "Ả Rập Saudi đã phát hiện 110 triệu tấn nguyên liệu thô chứa uranium ở khu vực Medina, một phát hiện có ý nghĩa quan trọng khi Vương quốc này đẩy nhanh kế hoạch phát triển ngành năng lượng hạt nhân trong nước. Bộ trưởng Năng lượng Saudi, Hoàng tử Abdulaziz bin Salman công bố đĩa",
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-14_2fph3b1057.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Discovers-110-Million-Tonnes-of-Uranium-Bearing-Ore.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-15 03:00"
-    },
-    {
-      "id": "nevb8l",
-      "title": "Can Utilities Cash In on AI Without Making Consumers Pay?",
-      "title_vi": "Các tiện ích có thể kiếm tiền từ AI mà không khiến người tiêu dùng phải trả tiền không?",
-      "summary_vi": "Nếu GENCO là câu trả lời thì câu hỏi là gì? Nói một cách đơn giản, GENCO có phải là câu trả lời cho câu hỏi làm thế nào ngành điện có thể tham gia vào hoạt động AI mà không ảnh hưởng đến tài chính tiện ích và gây bất lợi cho những khách hàng còn lại? Đầu tiên, một số lịch sử. Từ GENCO (viết tắt",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-14_013ygqcj67.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Can-Utilities-Cash-In-on-AI-Without-Making-Consumers-Pay.html",
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-15 03:00"
@@ -541,14 +541,14 @@
       "published": "2026-09-12 04:14"
     },
     {
-      "id": "1hubzch",
-      "title": "WASDE slashed corn yields — but should it have cut deeper?",
-      "title_vi": "WASDE đã cắt giảm sản lượng ngô - nhưng liệu có nên cắt giảm sâu hơn không?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/wasde-slashed-corn-yields-but-should-it-have-cut-deeper-",
-      "source": "Farm Progress",
-      "category": "agri",
+      "id": "1i3lka5",
+      "title": "Oil extends rally on further Middle East disruptions",
+      "title_vi": "Dầu kéo dài đà tăng do gián đoạn ở Trung Đông",
+      "summary_vi": "IEA báo cáo công suất lọc dầu của Nga ước tính giảm 30% do các cuộc tấn công của Ukraine, góp phần khiến giá dầu diesel tăng cao kỷ lục.",
+      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/09/6aa449d80b7ef58870d11dc4-middle_east_oil_shipping.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "link": "https://www.ogj.com/general-interest/economics-markets/article/55404547/oil-extends-rally-on-further-middle-east-disruptions",
+      "source": "Oil & Gas Journal",
+      "category": "energy",
       "published": "2026-09-12 03:36"
     }
   ]

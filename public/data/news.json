@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-15 18:01",
+  "updated_at": "2026-09-15 18:52",
   "items": [
+    {
+      "id": "1u83pi1",
+      "title": "Australia&#039;s Energy Minister Heads to Saudi Arabia for Pipeline Answers",
+      "title_vi": "Bộ trưởng Năng lượng Úc tới Ả Rập Saudi để giải quyết vấn đề về đường ống",
+      "summary_vi": "Bộ trưởng Năng lượng Úc Chris Bowen sẽ tới Ả Rập Saudi vào tuần tới để gặp Bộ trưởng Năng lượng Ả Rập Xê Út, Hoàng tử Abdulaziz bin Salman, và nhận thông tin cập nhật mới nhất về tình trạng hoạt động và nguồn cung dầu sau khi Vương quốc này đóng cửa đường ống Đông-Tây sau máy bay không người lái tại",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-15_horhyqi92l.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australias-Energy-Minister-Heads-to-Saudi-Arabia-for-Pipeline-Answers.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-15 18:30"
+    },
     {
       "id": "uvsnta",
       "title": "Indonesia Eyes Guyana and Suriname Oil Investments for Energy Security",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-15 15:30"
+    },
+    {
+      "id": "1busfrf",
+      "title": "European Natural Gas Prices Supported as Market Remains Tight",
+      "title_vi": "Giá khí đốt tự nhiên châu Âu được hỗ trợ khi thị trường vẫn thắt chặt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-natural-gas-prices-supported-as-market-remains-tight-380d8d95",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-09-15 15:02"
     },
     {
       "id": "25nwvg",
@@ -110,17 +132,6 @@
       "source": "GoldSilver",
       "category": "metal",
       "published": "2026-09-15 05:01"
-    },
-    {
-      "id": "iu0cz6",
-      "title": "Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally",
-      "title_vi": "Sự siết chặt nhiên liệu toàn cầu kích hoạt cổ phiếu các nhà máy lọc dầu của Hoa Kỳ tăng giá",
-      "summary_vi": "Cổ phiếu năng lượng đã tăng điểm trong năm nay khi giá dầu tăng vọt trong bối cảnh xung đột ở Trung Đông. Tính đến thời điểm hiện tại của năm 2026, cổ phiếu của các công ty lọc dầu lớn của Hoa Kỳ là ExxonMobil và Chevron đã chứng kiến ​​cổ phiếu của họ tăng khoảng 40%, nhưng cổ phiếu của các nhà lọc dầu của Hoa Kỳ đã vượt trội so với các công ty lớn vì thị trường nhiên liệu toàn cầu đang suy yếu.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-14_brzhwgunxs.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Global-Fuel-Squeeze-Triggers-US-Refiners-Stocks-Rally.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-15 05:00"
     },
     {
       "id": "n8bkam",
@@ -539,17 +550,6 @@
       "source": "Ethanol Producer Magazine",
       "category": "agri",
       "published": "2026-09-12 04:14"
-    },
-    {
-      "id": "1i3lka5",
-      "title": "Oil extends rally on further Middle East disruptions",
-      "title_vi": "Dầu kéo dài đà tăng do gián đoạn ở Trung Đông",
-      "summary_vi": "IEA báo cáo công suất lọc dầu của Nga ước tính giảm 30% do các cuộc tấn công của Ukraine, góp phần khiến giá dầu diesel tăng cao kỷ lục.",
-      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/09/6aa449d80b7ef58870d11dc4-middle_east_oil_shipping.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-      "link": "https://www.ogj.com/general-interest/economics-markets/article/55404547/oil-extends-rally-on-further-middle-east-disruptions",
-      "source": "Oil & Gas Journal",
-      "category": "energy",
-      "published": "2026-09-12 03:36"
     }
   ]
 }

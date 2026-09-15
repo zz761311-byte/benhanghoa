@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15 09:01",
+  "updated_at": "2026-09-15 10:01",
   "items": [
     {
       "id": "61b5pl",
@@ -508,6 +508,17 @@
       "published": "2026-09-12 04:14"
     },
     {
+      "id": "1hubzch",
+      "title": "WASDE slashed corn yields — but should it have cut deeper?",
+      "title_vi": "WASDE đã cắt giảm sản lượng ngô - nhưng liệu có nên cắt giảm sâu hơn không?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/marketing/wasde-slashed-corn-yields-but-should-it-have-cut-deeper-",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-09-12 03:36"
+    },
+    {
       "id": "1cno5r1",
       "title": "Silver Price Forecast: Neckline failure keeps bears in control",
       "title_vi": "Dự báo giá bạc: Thất bại ở đường viền cổ giúp phe gấu nắm quyền kiểm soát",
@@ -539,17 +550,6 @@
       "source": "jckonline.com",
       "category": "metal",
       "published": "2026-09-12 01:08"
-    },
-    {
-      "id": "1bbwxmm",
-      "title": "Impact of Higher Corn Prices on Swine Finishing Feed Costs",
-      "title_vi": "Tác động của giá ngô cao hơn đến chi phí thức ăn chăn nuôi lợn",
-      "summary_vi": "Michael Langemeier -",
-      "image": "https://farmdocdaily.illinois.edu/wp-content/uploads/2026/09/09112026Fig1.png",
-      "link": "https://farmdocdaily.illinois.edu/2026/09/impact-of-higher-corn-prices-on-swine-finishing-feed-costs.html",
-      "source": "farmdoc daily",
-      "category": "agri",
-      "published": "2026-09-12 00:59"
     }
   ]
 }

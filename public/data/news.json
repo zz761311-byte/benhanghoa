@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-16 03:01",
+  "updated_at": "2026-09-16 04:01",
   "items": [
+    {
+      "id": "n1vy0r",
+      "title": "Sam Altman Is Selling Utilities the Cure for a Cyberattack His Own AI Helped Cau",
+      "title_vi": "Sam Altman đang bán tiện ích chữa bệnh cho một cuộc tấn công mạng do AI của chính anh ấy giúp đỡ",
+      "summary_vi": "Sự bùng nổ trí tuệ nhân tạo đang thúc đẩy một làn sóng tấn công mạng tự động mới, gây ra mối đe dọa lớn và ngày càng tăng đối với cơ sở hạ tầng quan trọng, bao gồm cả lưới năng lượng. Chín mươi phần trăm các quan chức tình báo chính quyền bang gần đây đã báo cáo rằng các cuộc tấn công mạng nhằm vào các nhà phê bình",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-15_q4oclgzwby.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Sam-Altman-Is-Selling-Utilities-the-Cure-for-a-Cyberattack-His-Own-AI-Helped-Cau.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-16 04:00"
+    },
     {
       "id": "c7xp07",
       "title": "Texas Pumped Over a Quarter of All U.S. Natural Gas in 2025",
@@ -90,17 +101,6 @@
       "published": "2026-09-15 23:30"
     },
     {
-      "id": "ehwciz",
-      "title": "U.S. Diesel Prices on Track for Record Year",
-      "title_vi": "Giá dầu diesel ở Mỹ đang trên đà đạt kỷ lục trong năm",
-      "summary_vi": "Giá dầu diesel ở Mỹ vừa tăng lên trên mức kỷ lục hàng tuần trước đó được thiết lập vào năm 2022 và kỷ lục trung bình hàng năm năm 2026 hiện đang ở rất gần. Giá xăng tuy vẫn tăng cao nhưng khó có thể lập kỷ lục mới hàng năm vào thời điểm này. Dữ liệu EIA mới nhất làm sắc nét hơn điều đó",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-14_nrgih716mn.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Diesel-Prices-on-Track-for-Record-Year.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-15 23:00"
-    },
-    {
       "id": "1edm7k8",
       "title": "Silver (XAG) Forecast: XAGUSD Bounces as 5% Yield Fails to Break Buyers",
       "title_vi": "Dự báo bạc (XAG): XAGUSD tăng trở lại khi lợi suất 5% không thể phá vỡ người mua",
@@ -132,6 +132,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-15 20:37"
+    },
+    {
+      "id": "z14bkw",
+      "title": "Natural Gas Market Seeking Direction Amid Lingering Heat, Tightening Storage Surplus",
+      "title_vi": "Thị trường khí đốt tự nhiên đang tìm hướng đi trong bối cảnh nắng nóng kéo dài, nguồn dự trữ thắt chặt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/natural-gas-market-seeking-direction-amid-lingering-heat-tightening-storage-surplus/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-09-15 19:49"
     },
     {
       "id": "qkhzps",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-12 14:19"
-    },
-    {
-      "id": "3uad0a",
-      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
-      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
-      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/markets/agriculture/images/grain-oilseed-pgp-leadspace.jpg",
-      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-09-12 12:00"
     }
   ]
 }

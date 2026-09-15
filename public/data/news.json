@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15 08:01",
+  "updated_at": "2026-09-15 09:01",
   "items": [
     {
       "id": "61b5pl",
@@ -132,6 +132,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-14 23:31"
+    },
+    {
+      "id": "1pjtnq3",
+      "title": "Border States Commodity Update — September 2026",
+      "title_vi": "Cập nhật hàng hóa của các bang biên giới - tháng 9 năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://tedmag.com/border-states-commodity-update-september-2026/",
+      "source": "tedmag.com",
+      "category": "macro",
+      "published": "2026-09-14 23:08"
     },
     {
       "id": "lfdmw1",
@@ -539,17 +550,6 @@
       "source": "farmdoc daily",
       "category": "agri",
       "published": "2026-09-12 00:59"
-    },
-    {
-      "id": "1hubzch",
-      "title": "WASDE slashed corn yields — but should it have cut deeper?",
-      "title_vi": "WASDE đã cắt giảm năng suất ngô - nhưng liệu có nên cắt giảm sâu hơn không?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/wasde-slashed-corn-yields-but-should-it-have-cut-deeper-",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-09-12 00:14"
     }
   ]
 }

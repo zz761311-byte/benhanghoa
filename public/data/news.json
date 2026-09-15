@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-15 17:01",
+  "updated_at": "2026-09-15 18:01",
   "items": [
+    {
+      "id": "uvsnta",
+      "title": "Indonesia Eyes Guyana and Suriname Oil Investments for Energy Security",
+      "title_vi": "Indonesia quan tâm đầu tư vào dầu mỏ Guyana và Suriname vì an ninh năng lượng",
+      "summary_vi": "Chính phủ Indonesia cho biết công ty năng lượng quốc gia Pertamina của Indonesia đang xem xét đầu tư thượng nguồn vào Guyana và Suriname để đa dạng hóa nguồn cung cấp dầu khí của Indonesia và tăng cường an ninh năng lượng. “Pertamina đã bắt đầu các cuộc thảo luận thăm dò về coo",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-15_5vduqlw9ug.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indonesia-Eyes-Guyana-and-Suriname-Oil-Investments-for-Energy-Security.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-15 17:30"
+    },
     {
       "id": "g4e0ts",
       "title": "UK Oil and Gas Group Says Earlier Tax Shift Could Raise £14.9 Billion",
@@ -121,17 +132,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-09-15 04:10"
-    },
-    {
-      "id": "d3o2w8",
-      "title": "New MIT Process Could Solve Hydrogen&#039;s Biggest Supply Chain Problem",
-      "title_vi": "Quy trình mới của MIT có thể giải quyết vấn đề lớn nhất về chuỗi cung ứng hydro",
-      "summary_vi": "Các nhà khoa học tại MIT đã phát hiện ra một phương pháp mới để chiết xuất hydro có độ tinh khiết cao từ amoniac trong khi sử dụng ít năng lượng hơn nhiều so với các công nghệ trước đây. Bước đột phá này có thể mang lại bước đột phá quan trọng trong việc giảm thiểu năng lượng và dấu chân sinh thái của ngành hydro.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-14_jbugqgws2k.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/New-MIT-Process-Could-Solve-Hydrogens-Biggest-Supply-Chain-Problem.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-15 04:00"
     },
     {
       "id": "1cbuurd",
@@ -541,14 +541,14 @@
       "published": "2026-09-12 04:14"
     },
     {
-      "id": "1hubzch",
-      "title": "WASDE slashed corn yields — but should it have cut deeper?",
-      "title_vi": "WASDE đã cắt giảm năng suất ngô - nhưng liệu có nên cắt giảm sâu hơn không?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/wasde-slashed-corn-yields-but-should-it-have-cut-deeper-",
-      "source": "Farm Progress",
-      "category": "agri",
+      "id": "1i3lka5",
+      "title": "Oil extends rally on further Middle East disruptions",
+      "title_vi": "Dầu kéo dài đà tăng do gián đoạn ở Trung Đông",
+      "summary_vi": "IEA báo cáo công suất lọc dầu của Nga ước tính giảm 30% do các cuộc tấn công của Ukraine, góp phần khiến giá dầu diesel tăng cao kỷ lục.",
+      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/09/6aa449d80b7ef58870d11dc4-middle_east_oil_shipping.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "link": "https://www.ogj.com/general-interest/economics-markets/article/55404547/oil-extends-rally-on-further-middle-east-disruptions",
+      "source": "Oil & Gas Journal",
+      "category": "energy",
       "published": "2026-09-12 03:36"
     }
   ]

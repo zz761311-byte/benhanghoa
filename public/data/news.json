@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-16 02:16",
+  "updated_at": "2026-09-16 03:01",
   "items": [
+    {
+      "id": "c7xp07",
+      "title": "Texas Pumped Over a Quarter of All U.S. Natural Gas in 2025",
+      "title_vi": "Texas đã bơm hơn một phần tư tổng lượng khí đốt tự nhiên của Hoa Kỳ vào năm 2025",
+      "summary_vi": "Tổng lượng khai thác khí đốt tự nhiên của Hoa Kỳ đạt 47,7 nghìn tỷ feet khối vào năm 2025, trong đó một nhóm nhỏ các bang chiếm phần lớn trong tổng số đó. Phần lớn sản lượng này đến từ các thành tạo đá phiến dồi dào như Permian, Marcellus, Haynesville và Eagle Ford. Bản đồ này, thông qua Visual C",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-15_t2pmdsyp6e.jpg",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Texas-Pumped-Over-a-Quarter-of-All-US-Natural-Gas-in-2025.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-16 03:00"
+    },
+    {
+      "id": "1r2j6xd",
+      "title": "U.S.-China Tariff Talks Put Soybeans and Farm Exports at Center of High-Stakes Trade Reset!",
+      "title_vi": "Các cuộc đàm phán về thuế quan giữa Hoa Kỳ và Trung Quốc đặt đậu nành và xuất khẩu nông sản vào trung tâm của việc thiết lập lại thương mại có nguy cơ cao!",
+      "summary_vi": "Washington và Bắc Kinh đang thảo luận về việc cắt giảm thuế đối với hàng xuất khẩu năng lượng và nông sản của Mỹ, đặt đậu nành vào trung tâm của tuần tới",
+      "image": "https://www.agrolatam.com/files/image/80/80705/6aa99976edd57_600_315!.jpg?s=777fc5c87b88629f3d69cf9bdd4cc4a2&d=1789499999",
+      "link": "https://www.agrolatam.com/usa/news/us-china-tariff-talks-soybeans-farm-exports/",
+      "source": "AgroLatam",
+      "category": "agri",
+      "published": "2026-09-16 02:37"
+    },
     {
       "id": "15llsgf",
       "title": "ADNOC Scoops Up Iraqi Crude at $25 Per Barrel Discount",
@@ -77,17 +99,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-15 23:00"
-    },
-    {
-      "id": "1vxu0lz",
-      "title": "Saudi Aramco Cancels European Crude Cargoes as Key Pipeline Stays Shut",
-      "title_vi": "Saudi Aramco hủy các chuyến hàng thô châu Âu do đường ống chính vẫn đóng cửa",
-      "summary_vi": "Saudi Aramco đã hủy bỏ hoặc trì hoãn việc giao dầu thô cho các nhà máy lọc dầu châu Âu sau khi đường ống Đông-Tây của vương quốc này đóng cửa, cắt đứt một trong những tuyến đường còn lại quanh eo biển Hormuz. Ít nhất ba nhà máy lọc dầu châu Âu đã bị hủy hoặc đẩy các chuyến hàng cuối tháng 9",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-15_rmkjnsimbx.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Cancels-European-Crude-Cargoes-as-Key-Pipeline-Stays-Shut.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-15 22:34"
     },
     {
       "id": "1edm7k8",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-09-12 12:00"
-    },
-    {
-      "id": "1fgsaak",
-      "title": "USDA increases 2026 soybean production forecast",
-      "title_vi": "USDA tăng dự báo sản lượng đậu tương năm 2026",
-      "summary_vi": "USDA đã công bố báo cáo Sản xuất cây trồng hàng tháng mới nhất vào ngày 11 tháng 9, dự đoán sản lượng đậu tương sẽ đạt 4,53 tỷ giạ vào năm 2026, u",
-      "image": "https://bbi-strapi.s3.us-east-2.amazonaws.com/USDA_Crop_Pro_Soybeans_Sept26_400a084aa6.jpg",
-      "link": "https://biomassmagazine.com/articles/usda-increases-2026-soybean-production-forecast",
-      "source": "Biomass Magazine",
-      "category": "agri",
-      "published": "2026-09-12 10:03"
     }
   ]
 }

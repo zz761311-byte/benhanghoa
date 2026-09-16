@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-16 06:01",
+  "updated_at": "2026-09-16 07:01",
   "items": [
+    {
+      "id": "1a3q8gh",
+      "title": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
+      "title_vi": "Sự cố ngừng hoạt động đường ống của Saudi khiến thị trường dầu cạn kiệt bộ đệm",
+      "summary_vi": "Cuộc chiến ở Iran lẽ ra phải kết thúc và Mỹ giành chiến thắng sau khoảng sáu tuần, giờ đã bước sang tháng thứ bảy và thị trường dầu mỏ đang bắt đầu rạn nứt. Hầu hết những chiếc đệm mà thị trường có trong những tuần và tháng đầu của cuộc xung đột ở Trung Đông đã biến mất. Nguồn cung dư thừa từ e",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-15_wheyh9kp6v.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Hits-an-Oil-Market-Running-Out-of-Buffers.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-16 07:00"
+    },
+    {
+      "id": "1r4zyn9",
+      "title": "Vietnam's Coffee Outlook Clouded by Weather Extremes, Irrigation Challenges, and Emerging El Niño Risks",
+      "title_vi": "Triển vọng cà phê của Việt Nam bị che mờ bởi thời tiết cực đoan, thách thức thủy lợi và rủi ro El Niño mới nổi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-gb/insights/vietnam-s-coffee-outlook-clouded-by-weather-extremes-irrigation-challenges-and-emerging-el-nino-risks/",
+      "source": "stonex.com",
+      "category": "soft",
+      "published": "2026-09-16 06:50"
+    },
     {
       "id": "z4pmsa",
       "title": "Chinese Solar Panels Drop to 12 Cents a Watt, Rooftop Installs Surge Worldwide",
@@ -87,17 +109,6 @@
       "link": "https://oilprice.com/Geopolitics/Middle-East/The-New-Mecca-Alliance-Warns-Iran-Over-Houthi-Attacks-on-Saudi-Arabia.html",
       "source": "OilPrice",
       "category": "energy",
-      "published": "2026-09-16 01:00"
-    },
-    {
-      "id": "14uii1u",
-      "title": "BRICS Summit Takes Aim at U.S. Influence Over the Global Economy",
-      "title_vi": "Hội nghị thượng đỉnh BRICS nhắm tới ảnh hưởng của Mỹ đối với nền kinh tế toàn cầu",
-      "summary_vi": "Giống như Tổ chức Hợp tác Thượng Hải, BRICS, nhóm toàn cầu gồm các thị trường mới nổi và các nước đang phát triển, có mục đích làm giảm ảnh hưởng của phương Tây đối với nền kinh tế thế giới. Và cũng giống như hội nghị thượng đỉnh SCO hồi đầu tháng 9, hội nghị mới nhất của các nhà lãnh đạo BRICS đã thất bại.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-14_snae75904a.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/BRICS-Summit-Takes-Aim-at-US-Influence-Over-the-Global-Economy.html",
-      "source": "OilPrice",
-      "category": "macro",
       "published": "2026-09-16 01:00"
     },
     {
@@ -539,17 +550,6 @@
       "source": "simplywall.st",
       "category": "soft",
       "published": "2026-09-13 19:11"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-12 14:19"
     }
   ]
 }

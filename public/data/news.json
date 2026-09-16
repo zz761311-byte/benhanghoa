@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16 08:01",
+  "updated_at": "2026-09-16 09:01",
   "items": [
     {
       "id": "1a3q8gh",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-16 05:00"
+    },
+    {
+      "id": "1mhwkd8",
+      "title": "If the Fed hikes rates, here's how the stock market might respond",
+      "title_vi": "Nếu Fed tăng lãi suất, đây là cách thị trường chứng khoán có thể phản ứng",
+      "summary_vi": "Các nhà phân tích đang mong đợi Cục Dự trữ Liên bang sẽ tăng lãi suất chuẩn vào ngày mai. Điều gì xảy ra tiếp theo?",
+      "image": "https://img.apmcdn.org/94196e8f509acdb196f416e9e1c081cfffc466b8/widescreen/f249ea-20260915-a-stock-trader-looks-up-at-computer-displays-2000.jpg",
+      "link": "https://www.marketplace.org/story/2026/09/15/how-might-the-markets-react-to-a-fed-rate-hike",
+      "source": "marketplace.org",
+      "category": "macro",
+      "published": "2026-09-16 04:15"
     },
     {
       "id": "vfv090",
@@ -539,17 +550,6 @@
       "source": "Al Jazeera",
       "category": "energy",
       "published": "2026-09-14 01:21"
-    },
-    {
-      "id": "fzx9f1",
-      "title": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, saying attacks are causing a shortage",
-      "title_vi": "Trump kêu gọi Ukraine ngừng tấn công nhiên liệu diesel của Nga, nói rằng các cuộc tấn công đang gây ra tình trạng thiếu hụt",
-      "summary_vi": "Ukraine trong nhiều tháng đã nhắm mục tiêu vào ngành dầu khí của Nga bằng các cuộc tấn công tầm xa, khiến cho việc phân bổ nhiên liệu trên khắp đất nước và khiến Moscow phải cấm xuất khẩu dầu diesel vào tháng 7, một yếu tố làm gián đoạn nguồn cung dầu diesel toàn cầu.",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-13T140124Z_2083037165_RC2DINAJVVUF_RTRMADP_3_USA-TRUMP-IRELAND-2-1024x683.jpg",
-      "link": "https://www.pbs.org/newshour/world/trump-calls-on-ukraine-to-halt-strikes-on-russian-diesel-saying-attacks-are-causing-a-shortage",
-      "source": "PBS",
-      "category": "energy",
-      "published": "2026-09-13 22:58"
     }
   ]
 }

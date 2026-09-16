@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-16 13:01",
+  "updated_at": "2026-09-16 14:01",
   "items": [
+    {
+      "id": "166slrz",
+      "title": "Hormuz Shipping Traffic Remains Stuck in Single Digits",
+      "title_vi": "Lưu lượng vận chuyển Hormuz vẫn bị kẹt ở một chữ số",
+      "summary_vi": "Reuters đưa tin, trích dẫn dữ liệu theo dõi tàu thuyền, lưu lượng tàu chở dầu ở eo biển Hormuz vẫn ở mức thấp so với trước chiến tranh, với 4 tàu đi qua tuyến đường thủy này vào thứ Ba, giảm so với 7 tàu vào ngày hôm trước. Dữ liệu không bao gồm các tàu chở dầu đã tắt tính năng geolo của họ.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-16_dyacf2lefm.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Shipping-Traffic-Remains-Stuck-in-Single-Digits.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-16 14:00"
+    },
+    {
+      "id": "1ba94m0",
+      "title": "Tightening supply outlook fuels hopes for $6 corn",
+      "title_vi": "Triển vọng nguồn cung thắt chặt thúc đẩy hy vọng giá ngô đạt 6 USD",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/corn/tightening-supply-outlook-fuels-hopes-for-6-corn",
+      "source": "Farm Progress",
+      "category": "energy",
+      "published": "2026-09-16 13:43"
+    },
     {
       "id": "62lvhu",
       "title": "China Could Curb Fuel Exports as Diesel and Gasoline Stocks Sink",
@@ -132,17 +154,6 @@
       "source": "AgroLatam",
       "category": "agri",
       "published": "2026-09-16 02:37"
-    },
-    {
-      "id": "15llsgf",
-      "title": "ADNOC Scoops Up Iraqi Crude at $25 Per Barrel Discount",
-      "title_vi": "ADNOC thu mua dầu thô của Iraq với mức chiết khấu 25 USD/thùng",
-      "summary_vi": "ADNOC đang mua hàng chục triệu thùng dầu thô Iraq giảm giá sâu, xử lý phần lớn trong nước và giải phóng thêm thùng để xuất khẩu thông qua tuyến đường tránh eo biển Hormuz. Nhà sản xuất UAE đồng ý mua 32 triệu thùng dầu thô Iraq trong tháng 8",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-15_xv9ozctvmw.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Scoops-Up-Iraqi-Crude-at-25-Per-Barrel-Discount.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-16 01:30"
     },
     {
       "id": "1edm7k8",
@@ -354,6 +365,17 @@
       "published": "2026-09-14 20:21"
     },
     {
+      "id": "9my5o8",
+      "title": "Companies left China to dodge tariffs. Now some are heading back",
+      "title_vi": "Các công ty rời khỏi Trung Quốc để trốn thuế. Bây giờ một số đang quay trở lại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/retail-consumer/companies-left-china-dodge-tariffs-now-some-are-heading-back-2026-09-14/",
+      "source": "Reuters",
+      "category": "macro",
+      "published": "2026-09-14 19:40"
+    },
+    {
       "id": "isbjpx",
       "title": "A Bigger Dahlia Coffee Blooms in Cleveland",
       "title_vi": "Cà phê thược dược nở rộ ở Cleveland",
@@ -528,28 +550,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-09-14 04:21"
-    },
-    {
-      "id": "1o4rz13",
-      "title": "Trump Blames Ukraine for Global Diesel Shortage",
-      "title_vi": "Trump đổ lỗi cho Ukraine về tình trạng thiếu dầu diesel toàn cầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/09/13/business/trump-ukraine-diesel.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-09-14 02:06"
-    },
-    {
-      "id": "vldsl4",
-      "title": "Trump Wants Ukraine to Stop Striking Russian Refineries. What Would That Mean for the War?",
-      "title_vi": "Trump muốn Ukraine ngừng tấn công các nhà máy lọc dầu của Nga. Điều đó có ý nghĩa gì đối với chiến tranh?",
-      "summary_vi": "Phần lớn lượng dầu diesel bị ép đều bắt nguồn từ cuộc chiến tranh Mỹ-Iran, nhưng việc thực hiện yêu cầu của Trump có thể làm suy yếu chiến lược của Kyiv nhằm gây áp lực với Moscow.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt35f92d691ff5f98d/6aa6f0a90e7afa6149a8f931/GettyImages-2294571839.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
-      "link": "https://time.com/article/2026/09/13/trump-wants-ukraine-to-stop-striking-russian-refineries-what-would-that-mean-for-the-war-/",
-      "source": "Time Magazine",
-      "category": "energy",
-      "published": "2026-09-14 01:47"
     }
   ]
 }

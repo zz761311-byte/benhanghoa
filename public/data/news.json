@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-16 21:00",
+  "updated_at": "2026-09-16 22:00",
   "items": [
+    {
+      "id": "1oj0h09",
+      "title": "U.S. Oil Inventories Edge Lower as Fuel Demand Softens",
+      "title_vi": "Tồn kho dầu của Mỹ giảm do nhu cầu nhiên liệu giảm",
+      "summary_vi": "Theo dữ liệu mới từ Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA) công bố hôm thứ Tư, tồn kho dầu thô ở Hoa Kỳ đã giảm 600.000 thùng trong tuần kết thúc vào ngày 11 tháng 9. Mức giảm này đưa tồn kho thương mại lên 423,4 triệu thùng,",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-16_4fsx9xg7fr.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Inventories-Edge-Lower-as-Fuel-Demand-Softens.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-16 21:41"
+    },
+    {
+      "id": "156t3h5",
+      "title": "TTF Gas Hits $92.95 as Gulf Tensions Weigh on Energy Markets",
+      "title_vi": "Khí TTF đạt 92,95 USD khi căng thẳng vùng Vịnh đè nặng lên thị trường năng lượng",
+      "summary_vi": "Giá khí đốt tự nhiên chuẩn của châu Âu giữ trên mốc 80 euro vào đầu ngày thứ Tư, gần mức cao nhất năm 2022, do lượng khí đốt thấp tại các kho lưu trữ làm dấy lên lo ngại về nguồn cung mùa đông trong bối cảnh tiếp tục gián đoạn và xung đột ngày càng gia tăng ở Trung Đông. Giá tháng trước tại",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-16_9ytrwmjhhz.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/TTF-Gas-Hits-9295-as-Gulf-Tensions-Weigh-on-Energy-Markets.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-16 21:30"
+    },
     {
       "id": "16jkhrc",
       "title": "Sweeping Russia-Iran Sanctions Bill Advances Toward House Vote",
@@ -22,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-16 20:30"
+    },
+    {
+      "id": "16t48r4",
+      "title": "Beekeeper Coffee Builds Buzz With NBA, NFL and PGA Investors",
+      "title_vi": "Beekeeper Coffee gây tiếng vang với các nhà đầu tư NBA, NFL và PGA",
+      "summary_vi": "Thương hiệu đồ uống pha sẵn Beekeeper Coffee của Sporty Los Angeles đang mang lại nhiều sức mạnh hơn cho lĩnh vực bia lạnh, công bố một vòng đầu tư mới với nhiều cầu thủ NBA cùng với việc triển khai toàn quốc tại...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/09/16/beekeeper-coffee-builds-buzz-with-nba-nfl-and-pga-investors/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-09-16 20:19"
     },
     {
       "id": "aix0cw",
@@ -112,17 +145,6 @@
       "published": "2026-09-16 16:30"
     },
     {
-      "id": "1h3zyhk",
-      "title": "Japan’s Oil Import Bill Soars 59% as Trade Deficit Deepens",
-      "title_vi": "Hóa đơn nhập khẩu dầu của Nhật Bản tăng 59% khi thâm hụt thương mại ngày càng sâu sắc",
-      "summary_vi": "Hóa đơn nhập khẩu dầu của Nhật Bản đã tăng 58,7% so với cùng kỳ năm trước vào tháng trước, với khối lượng tăng khiêm tốn hơn nhiều 3,6%. Điều này đã đẩy tổng hóa đơn nhập khẩu của cả nước tăng cao hơn 28% và kéo dài thâm hụt thương mại tháng thứ tư liên tiếp. “Chi phí nhập khẩu dầu có thể tăng thêm từ tháng 9",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-16_bncyhloe3u.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Oil-Import-Bill-Soars-59-as-Trade-Deficit-Deepens.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-16 15:15"
-    },
-    {
       "id": "1aned3r",
       "title": "Federal Reserve Rate Decision: Is the Bad News Priced In or Just Beginning?",
       "title_vi": "Quyết định về lãi suất của Cục Dự trữ Liên bang: Tin xấu đã được định giá hay chỉ mới bắt đầu?",
@@ -132,17 +154,6 @@
       "source": "Investing.com",
       "category": "macro",
       "published": "2026-09-16 14:39"
-    },
-    {
-      "id": "166slrz",
-      "title": "Hormuz Shipping Traffic Remains Stuck in Single Digits",
-      "title_vi": "Lưu lượng vận chuyển Hormuz vẫn bị kẹt ở một chữ số",
-      "summary_vi": "Reuters đưa tin, trích dẫn dữ liệu theo dõi tàu thuyền, lưu lượng tàu chở dầu ở eo biển Hormuz vẫn ở mức thấp so với trước chiến tranh, với 4 tàu đi qua tuyến đường thủy này vào thứ Ba, giảm so với 7 tàu vào ngày hôm trước. Dữ liệu không bao gồm các tàu chở dầu đã tắt tính năng geolo của họ.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-16_dyacf2lefm.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Shipping-Traffic-Remains-Stuck-in-Single-Digits.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-09-16 14:00"
     },
     {
       "id": "1ba94m0",
@@ -233,6 +244,17 @@
       "published": "2026-09-15 22:28"
     },
     {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-09-15 22:22"
+    },
+    {
       "id": "os8k5e",
       "title": "NCA: More Americans Are Drinking Specialty Coffee and Ordering by App",
       "title_vi": "NCA: Ngày càng có nhiều người Mỹ uống cà phê đặc sản và đặt hàng bằng ứng dụng",
@@ -264,17 +286,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-09-15 19:49"
-    },
-    {
-      "id": "5tmoiy",
-      "title": "Gold, Silver, DXY Outlook: Charts Test Defining Support Levels",
-      "title_vi": "Triển vọng Vàng, Bạc, DXY: Kiểm tra biểu đồ Xác định mức hỗ trợ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forex.com/en-us/news-and-analysis/gold-silver-dxy-outlook-charts-test-defining-support-levels/",
-      "source": "FOREX.com",
-      "category": "metal",
-      "published": "2026-09-15 18:53"
     },
     {
       "id": "qkhzps",
@@ -539,17 +550,6 @@
       "source": "MPR News",
       "category": "energy",
       "published": "2026-09-14 16:00"
-    },
-    {
-      "id": "n46zzx",
-      "title": "Platinum and Palladium Price Forecast: Oil Above $100 Raises Breakdown Risks",
-      "title_vi": "Dự báo giá bạch kim và palladium: Dầu trên 100 USD làm tăng rủi ro đổ vỡ",
-      "summary_vi": "Bạch kim và palladium phải đối mặt với áp lực bán mới khi dầu tăng trên 100 USD và việc Fed đặt cược tăng giá sẽ tập trung vào các mức hỗ trợ quan trọng 1.700 USD và 1.200 USD.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/platinum-palladium-precious-metals.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/premium-platinum-and-palladium-price-forecast-oil-above-100-raises-breakdown-risks-1627335",
-      "source": "FXEmpire",
-      "category": "macro",
-      "published": "2026-09-14 15:56"
     }
   ]
 }

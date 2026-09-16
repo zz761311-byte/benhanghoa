@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-16 18:02",
+  "updated_at": "2026-09-16 19:00",
   "items": [
+    {
+      "id": "19yumke",
+      "title": "Japan’s Top LNG Buyer to Sell Excess Gas in Global Markets",
+      "title_vi": "Người mua LNG hàng đầu của Nhật Bản bán lượng khí dư thừa trên thị trường toàn cầu",
+      "summary_vi": "Một giám đốc điều hành cấp cao cho biết, nhà nhập khẩu LNG lớn nhất Nhật Bản và nhà sản xuất điện lớn nhất, JERA, có kế hoạch bán khí tự nhiên hóa lỏng trong dài hạn như một phần của chiến lược khai thác thị trường LNG toàn cầu và bán bất kỳ nguồn cung khí dư thừa nào nếu nhu cầu trong nước thấp. JERA muốn “xác định",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-16_ysu7i6rxc4.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Top-LNG-Buyer-to-Sell-Excess-Gas-in-Global-Markets.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-16 18:30"
+    },
     {
       "id": "1y0yujl",
       "title": "Saudi Arabia Pivots to Spot Oil Sales After Key Pipeline Goes Offline",
@@ -121,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-16 06:00"
-    },
-    {
-      "id": "6w7kqa",
-      "title": "Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades",
-      "title_vi": "Rủi ro Hormuz mở ra khoảng cách giá hơn 40 USD giữa các loại dầu thô",
-      "summary_vi": "Trở lại vào cuối tháng 6, sau khi Mỹ và Iran đồng ý ngừng chiến ở Vịnh Ba Tư trong 60 ngày, giá dầu đã lao dốc. Hai tháng sau, Brent đang giao dịch ở mức hơn 107 USD/thùng và WTI đang tiến gần hơn đến 103 USD, khi một vực sâu mở ra giữa giá dầu.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-15_sbgi1hhaaj.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Risk-Opens-40-Plus-Price-Gap-Between-Crude-Grades.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-16 05:00"
     },
     {
       "id": "1mhwkd8",
@@ -530,6 +530,17 @@
       "published": "2026-09-14 14:22"
     },
     {
+      "id": "3uad0a",
+      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
+      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
+      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/markets/agriculture/images/grain-oilseed-pgp-leadspace.jpg",
+      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-09-14 12:00"
+    },
+    {
       "id": "1ekwb32",
       "title": "How high might natural gas prices go?",
       "title_vi": "Giá khí đốt tự nhiên có thể tăng cao đến mức nào?",
@@ -539,17 +550,6 @@
       "source": "Financial Times",
       "category": "energy",
       "published": "2026-09-14 11:09"
-    },
-    {
-      "id": "ew70mz",
-      "title": "Supply concerns fuel coffee price rally",
-      "title_vi": "Mối lo ngại về nguồn cung thúc đẩy giá cà phê tăng",
-      "summary_vi": "Báo cáo của ICO nhấn mạnh những lo ngại về nguồn cung, sự gián đoạn thời tiết ở Brazil và giá cà phê tăng trong bối cảnh thị trường biến động.",
-      "image": "https://www.gcrmag.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-at-1.52.02-pm.jpg",
-      "link": "https://www.gcrmag.com/supply-concerns-fuel-coffee-price-rally/",
-      "source": "gcrmag.com",
-      "category": "energy",
-      "published": "2026-09-14 11:01"
     }
   ]
 }

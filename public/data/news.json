@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-17 05:13",
+  "updated_at": "2026-09-17 06:00",
   "items": [
+    {
+      "id": "1j91eaw",
+      "title": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens",
+      "title_vi": "Giá tàu chở dầu phá vỡ 1 triệu USD mỗi ngày khi khủng hoảng vận chuyển dầu ngày càng trầm trọng",
+      "summary_vi": "Giá thuê tàu chở dầu hàng ngày lần đầu tiên trong lịch sử lên tới 1 triệu USD trong bối cảnh nguồn cung tàu chở dầu thô và nhiên liệu mà chủ sở hữu sẵn sàng đi qua eo biển Hormuz đang bị thắt chặt. Việc siết chặt đang làm tăng thêm chi phí cho giá dầu cho nhu cầu vật chất.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-16_tmnkwmfbao.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Tanker-Rates-Smash-1-Million-a-Day-as-Oil-Shipping-Crisis-Deepens.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-17 06:00"
+    },
     {
       "id": "1mymke9",
       "title": "Oil Above $100 Pushes U.S. Fuel Prices to New Records",
@@ -112,17 +123,6 @@
       "published": "2026-09-17 00:45"
     },
     {
-      "id": "1sx4pl1",
-      "title": "Equinor Targets 15 Million Tons of LNG as Qatar Exports Stay Blocked",
-      "title_vi": "Equinor đặt mục tiêu 15 triệu tấn LNG khi xuất khẩu của Qatar bị chặn",
-      "summary_vi": "Equinor có kế hoạch mở rộng danh mục LNG toàn cầu của mình lên từ 10 triệu đến 15 triệu tấn mỗi năm vào đầu những năm 2030, nhắm đến những người mua châu Âu và châu Á đang thiếu nguồn cung do eo biển Hormuz phong tỏa, Reuters đưa tin hôm thứ Tư. Công ty dự kiến ​​sẽ công bố phiên bản As thứ hai",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-16_rknvumz547.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Targets-15-Million-Tons-of-LNG-as-Qatar-Exports-Stay-Blocked.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-17 00:00"
-    },
-    {
       "id": "8pie9s",
       "title": "Coffee Prices Pressured by Improved Global Supply Outlook",
       "title_vi": "Giá cà phê bị áp lực bởi triển vọng nguồn cung toàn cầu được cải thiện",
@@ -154,6 +154,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-16 22:15"
+    },
+    {
+      "id": "1fcj9in",
+      "title": "Either Gold or the Market 'Wrong' About Fed Rate Forecasts",
+      "title_vi": "Vàng hoặc thị trường 'sai' về dự báo lãi suất của Fed",
+      "summary_vi": "Giá vàng tăng rồi lại giảm vào thứ Tư trước thông tin Fed Mỹ",
+      "image": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/2026-09-16-fed-day-end-26-forecasts.png",
+      "link": "https://www.bullionvault.com/gold-news/gold-price-news/gold-price-fed-rate-forecast-091620261",
+      "source": "BullionVault",
+      "category": "metal",
+      "published": "2026-09-16 21:22"
     },
     {
       "id": "ub2i3u",
@@ -242,17 +253,6 @@
       "source": "Farm Progress",
       "category": "energy",
       "published": "2026-09-16 13:43"
-    },
-    {
-      "id": "l08ufy",
-      "title": "Gold and Silver Price Forecast: Key Support at Risk Ahead of Fed Decision",
-      "title_vi": "Dự báo giá vàng và bạc: Hỗ trợ chính trước rủi ro trước quyết định của Fed",
-      "summary_vi": "Vàng và bạc phải đối mặt với một thử thách quan trọng trước quyết định của Fed, với việc phá giá dưới 4.250 USD và 62,60 USD có nguy cơ thua lỗ thêm.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/gold-and-silver-precious-metals-02.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-key-support-at-risk-ahead-of-fed-decision-1628466",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-09-16 11:18"
     },
     {
       "id": "1r4zyn9",

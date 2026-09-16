@@ -1,11 +1,11 @@
 {
- "capNhat": "2026-09-16T21:20:41.293Z",
+ "capNhat": "2026-09-16T22:00:29.196Z",
  "nguon": "Yahoo Finance",
  "soMatHang": 18,
  "tyGia": {
   "gia": 25997,
   "nguon": "Yahoo Finance (USD/VND)",
-  "capNhat": "2026-09-16T17:14:44.000Z"
+  "capNhat": "2026-09-16T21:47:39.000Z"
  },
  "sucKhoe": {
   "soCanLay": 18,
@@ -732,7 +732,8 @@
     "gia": 4265,
     "lechSoVoiHopDong": 0.88,
     "nguon": "gold-api.com",
-    "capNhat": "2026-09-16T21:20:13Z"
+    "capNhat": "2026-09-16T21:20:13Z",
+    "soCu": true
    }
   },
   "bac": {
@@ -789,21 +790,21 @@
     "gia": 63.107,
     "lechSoVoiHopDong": 0.5,
     "nguon": "gold-api.com",
-    "capNhat": "2026-09-16T21:20:13Z"
+    "capNhat": "2026-09-16T22:00:13Z"
    }
   },
   "dong": {
-   "gia": 6.4415,
+   "gia": 6.442,
    "dongCuaTruoc": 6.3685,
-   "doi": 0.073,
+   "doi": 0.0735,
    "doiPhanTram": 1.15,
-   "caoTrongNgay": 6.5255,
-   "thapTrongNgay": 6.4215,
-   "cao52Tuan": 6.8055,
-   "thap52Tuan": 4.5215,
-   "doiMotTuan": -5.32,
-   "doiMotThang": -2.46,
-   "doiMotNam": 39.04,
+   "caoTrongNgay": 6.525,
+   "thapTrongNgay": 6.422,
+   "cao52Tuan": 6.806,
+   "thap52Tuan": 4.522,
+   "doiMotTuan": -5.31,
+   "doiMotThang": -2.45,
+   "doiMotNam": 39.05,
    "khoiLuong30Phien": 101105,
    "tienTe": "USD",
    "tenHopDong": "Copper Dec 26",
@@ -897,7 +898,7 @@
     "gia": 1765,
     "lechSoVoiHopDong": -0.33,
     "nguon": "gold-api.com",
-    "capNhat": "2026-09-16T21:20:16Z"
+    "capNhat": "2026-09-16T22:00:17Z"
    }
   },
   "nhom": {

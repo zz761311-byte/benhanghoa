@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16 14:01",
+  "updated_at": "2026-09-16 15:00",
   "items": [
     {
       "id": "166slrz",
@@ -9,7 +9,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-16_dyacf2lefm.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Shipping-Traffic-Remains-Stuck-in-Single-Digits.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-09-16 14:00"
     },
     {
@@ -209,6 +209,17 @@
       "source": "Newsweek",
       "category": "metal",
       "published": "2026-09-15 18:53"
+    },
+    {
+      "id": "1a8yy3a",
+      "title": "Gold Trades Below $4,300 as Markets Assess Fed Rate Outlook",
+      "title_vi": "Vàng giao dịch dưới 4.300 USD khi thị trường đánh giá triển vọng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://uk.finance.yahoo.com/news/gold-trades-below-4-300-093834824.html",
+      "source": "uk.finance.yahoo.com",
+      "category": "metal",
+      "published": "2026-09-15 16:38"
     },
     {
       "id": "1busfrf",
@@ -451,17 +462,6 @@
       "source": "KITCO",
       "category": "macro",
       "published": "2026-09-14 17:10"
-    },
-    {
-      "id": "wqm2ki",
-      "title": "Gold Falls Toward $4,300 as US Inflation Raises Fed Rate Hike Expectations",
-      "title_vi": "Vàng giảm xuống mức 4.300 USD khi lạm phát ở Mỹ làm tăng kỳ vọng tăng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-toward-4-300-093148193.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-09-14 16:31"
     },
     {
       "id": "1wiec43",

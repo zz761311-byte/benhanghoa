@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16 07:28",
+  "updated_at": "2026-09-16 08:01",
   "items": [
     {
       "id": "1a3q8gh",
@@ -464,6 +464,17 @@
       "published": "2026-09-14 14:11"
     },
     {
+      "id": "1ekwb32",
+      "title": "How high might natural gas prices go?",
+      "title_vi": "Giá khí đốt tự nhiên có thể tăng cao đến mức nào?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.ft.com/content/639b4d2a-30c7-473c-a3ec-1fe96a7a7ac7?syn-25a6b1a6",
+      "source": "Financial Times",
+      "category": "energy",
+      "published": "2026-09-14 11:09"
+    },
+    {
       "id": "ew70mz",
       "title": "Supply concerns fuel coffee price rally",
       "title_vi": "Mối lo ngại về nguồn cung thúc đẩy giá cà phê tăng",
@@ -539,17 +550,6 @@
       "source": "PBS",
       "category": "energy",
       "published": "2026-09-13 22:58"
-    },
-    {
-      "id": "1f48p53",
-      "title": "Do Coffee Holding's (NASDAQ:JVA) Earnings Warrant Your Attention?",
-      "title_vi": "Thu nhập của Coffee Holding (NASDAQ:JVA) có đảm bảo cho sự chú ý của bạn không?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://simplywall.st/stocks/us/food-beverage-tobacco/nasdaq-jva/coffee-holding/news/do-coffee-holdings-nasdaqjva-earnings-warrant-your-attention-1/amp",
-      "source": "simplywall.st",
-      "category": "soft",
-      "published": "2026-09-13 19:11"
     }
   ]
 }

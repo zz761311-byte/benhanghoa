@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-16 19:00",
+  "updated_at": "2026-09-16 20:02",
   "items": [
+    {
+      "id": "1cabqgg",
+      "title": "U.S. Investigates Suspected Cyber Attacks on Texas-Bound Tankers",
+      "title_vi": "Hoa Kỳ điều tra các cuộc tấn công mạng bị nghi ngờ nhằm vào tàu chở dầu ở Texas",
+      "summary_vi": "Các đặc vụ của Lực lượng Bảo vệ Bờ biển Hoa Kỳ và Cục Điều tra Liên bang (FBI) vào tháng trước đã lên tàu chở dầu để điều tra các cuộc tấn công mạng bị nghi ngờ nhằm vào các tàu đi đến Bờ Vịnh Hoa Kỳ được cho là diễn ra khi các tàu đi qua eo biển Gibraltar giữa Maroc và Tây Ban Nha.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-16_mhuvf1xtqo.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Investigates-Suspected-Cyber-Attacks-on-Texas-Bound-Tankers.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-16 19:30"
+    },
+    {
+      "id": "16g6mww",
+      "title": "US corn supplies tighten on smaller crop forecast",
+      "title_vi": "Nguồn cung ngô Mỹ thắt chặt do dự báo vụ mùa nhỏ hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.world-grain.com/articles/23219-us-corn-supplies-tighten-on-smaller-crop-forecast",
+      "source": "World Grain",
+      "category": "agri",
+      "published": "2026-09-16 19:15"
+    },
     {
       "id": "19yumke",
       "title": "Japan’s Top LNG Buyer to Sell Excess Gas in Global Markets",
@@ -22,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-16 17:30"
+    },
+    {
+      "id": "9jhngf",
+      "title": "Gold Recovers Ahead of Fed Announcement as Rate Increase Expectations Persist",
+      "title_vi": "Vàng phục hồi trước thông báo của Fed khi kỳ vọng tăng lãi suất vẫn tồn tại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://uk.finance.yahoo.com/news/gold-recovers-ahead-fed-announcement-094942744.html",
+      "source": "Yahoo Finance UK",
+      "category": "metal",
+      "published": "2026-09-16 16:49"
     },
     {
       "id": "xwrwaa",
@@ -121,17 +154,6 @@
       "source": "stonex.com",
       "category": "soft",
       "published": "2026-09-16 06:50"
-    },
-    {
-      "id": "z4pmsa",
-      "title": "Chinese Solar Panels Drop to 12 Cents a Watt, Rooftop Installs Surge Worldwide",
-      "title_vi": "Các tấm pin mặt trời của Trung Quốc giảm xuống 12 xu một watt, số lượng lắp đặt trên mái nhà tăng vọt trên toàn thế giới",
-      "summary_vi": "Theo tờ Financial Ti, các tấm quang điện do Trung Quốc sản xuất có giá 12 cent/watt vào năm 2026, giảm từ mức 5-6 USD vào đầu thiên niên kỷ. Sự sụt giảm giá đó hiện đang thúc đẩy việc lắp đặt năng lượng mặt trời trên mái nhà từ các nhà máy xi măng ở Pakistan đến các ngôi nhà ở Philippines và vùng ngoại ô Australia.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-15_namglbzwuc.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Chinese-Solar-Panels-Drop-to-12-Cents-a-Watt-Rooftop-Installs-Surge-Worldwide.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-16 06:00"
     },
     {
       "id": "1mhwkd8",
@@ -242,17 +264,6 @@
       "source": "Newsweek",
       "category": "metal",
       "published": "2026-09-15 18:53"
-    },
-    {
-      "id": "1a8yy3a",
-      "title": "Gold Trades Below $4,300 as Markets Assess Fed Rate Outlook",
-      "title_vi": "Vàng giao dịch dưới 4.300 USD khi thị trường đánh giá triển vọng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://uk.finance.yahoo.com/news/gold-trades-below-4-300-093834824.html",
-      "source": "uk.finance.yahoo.com",
-      "category": "metal",
-      "published": "2026-09-15 16:38"
     },
     {
       "id": "1busfrf",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-09-14 12:00"
-    },
-    {
-      "id": "1ekwb32",
-      "title": "How high might natural gas prices go?",
-      "title_vi": "Giá khí đốt tự nhiên có thể tăng cao đến mức nào?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.ft.com/content/639b4d2a-30c7-473c-a3ec-1fe96a7a7ac7?syn-25a6b1a6",
-      "source": "Financial Times",
-      "category": "energy",
-      "published": "2026-09-14 11:09"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-16 16:00",
+  "updated_at": "2026-09-16 17:01",
   "items": [
+    {
+      "id": "1uxp1s5",
+      "title": "Japanese Refiners Rush for Oman Crude After Saudi Pipeline Shutdown",
+      "title_vi": "Các nhà máy lọc dầu Nhật Bản đổ xô mua dầu thô Oman sau khi đường ống dẫn dầu của Saudi đóng cửa",
+      "summary_vi": "Một số nhà máy lọc dầu ở Nhật Bản trong tuần này đã gấp rút mua dầu thô của Oman để nạp trước đó sau khi Ả Rập Saudi đóng cửa đường ống quan trọng đi qua eo biển Hormuz, các thương nhân am hiểu về hoạt động mua hàng nói với Bloomberg hôm thứ Tư. Cuối tuần trước, Ả Rập Saudi buộc phải tạm thời",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-16_hbpezqdmnk.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japanese-Refiners-Rush-for-Oman-Crude-After-Saudi-Pipeline-Shutdown.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-16 16:30"
+    },
     {
       "id": "1h3zyhk",
       "title": "Japan’s Oil Import Bill Soars 59% as Trade Deficit Deepens",
@@ -123,15 +134,15 @@
       "published": "2026-09-16 04:01"
     },
     {
-      "id": "n1vy0r",
-      "title": "Sam Altman Is Selling Utilities the Cure for a Cyberattack His Own AI Helped Cau",
-      "title_vi": "Sam Altman đang bán tiện ích chữa bệnh cho một cuộc tấn công mạng do AI của chính anh ấy giúp đỡ",
-      "summary_vi": "Sự bùng nổ trí tuệ nhân tạo đang thúc đẩy một làn sóng tấn công mạng tự động mới, gây ra mối đe dọa lớn và ngày càng tăng đối với cơ sở hạ tầng quan trọng, bao gồm cả lưới năng lượng. Chín mươi phần trăm các quan chức tình báo chính quyền bang gần đây đã báo cáo rằng các cuộc tấn công mạng nhằm vào các nhà phê bình",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-15_q4oclgzwby.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Sam-Altman-Is-Selling-Utilities-the-Cure-for-a-Cyberattack-His-Own-AI-Helped-Cau.html",
-      "source": "OilPrice",
+      "id": "7wx8bf",
+      "title": "U.S. Stocks Down as Oil, Yield Shock Continues",
+      "title_vi": "Chứng khoán Mỹ giảm do dầu, cú sốc lợi suất tiếp tục",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-down-as-oil-yield-shock-continues-866478de",
+      "source": "WSJ",
       "category": "energy",
-      "published": "2026-09-16 04:00"
+      "published": "2026-09-16 03:54"
     },
     {
       "id": "10kkc4q",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-09-14 08:41"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!4nCa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95e5304f-3cb6-43b0-8d5c-83f03b2b511c_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-09-14 04:21"
     }
   ]
 }

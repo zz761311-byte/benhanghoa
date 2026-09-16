@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-16 22:00",
+  "updated_at": "2026-09-16 23:00",
   "items": [
+    {
+      "id": "io8xm0",
+      "title": "Energy Shock Puts Bank of England Under Pressure to Raise Rates",
+      "title_vi": "Cú sốc năng lượng khiến Ngân hàng Anh chịu áp lực tăng lãi suất",
+      "summary_vi": "Ngân hàng Anh đang phải đối mặt với áp lực tăng lãi suất vào thứ Năm trong bối cảnh thị trường trái phiếu toàn cầu chao đảo do lo ngại về việc chính phủ vay nợ quá mức và lạm phát khó khăn. Các nhà đầu tư nói với Phố Threadneedle rằng việc kiềm chế giá cả là điều “cần thiết” trước khi năng lượng sụt giảm.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-16_y5azbilej4.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Energy-Shock-Puts-Bank-of-England-Under-Pressure-to-Raise-Rates.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-09-16 23:00"
+    },
+    {
+      "id": "6gz2em",
+      "title": "Russia Extends Diesel Export Ban Through October",
+      "title_vi": "Nga gia hạn lệnh cấm xuất khẩu dầu diesel đến tháng 10",
+      "summary_vi": "Nga sẽ gia hạn lệnh cấm xuất khẩu dầu diesel đối với tất cả các nhà sản xuất nhiên liệu đến ngày 31 tháng 10, Vedomosti đưa tin hôm thứ Ba, với lý do trì hoãn việc bảo trì nhà máy lọc dầu và nhu cầu xây dựng lại nguồn dự trữ nhiên liệu trước mùa đông. Lệnh cấm, được mở rộng vào tháng 7 từ các thương nhân và nhà máy lọc dầu nhỏ để bao gồm tất cả sản phẩm",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-16_bdq315jbs7.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Extends-Diesel-Export-Ban-Through-October.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-16 22:30"
+    },
     {
       "id": "1oj0h09",
       "title": "U.S. Oil Inventories Edge Lower as Fuel Demand Softens",
@@ -101,17 +123,6 @@
       "published": "2026-09-16 18:30"
     },
     {
-      "id": "1y0yujl",
-      "title": "Saudi Arabia Pivots to Spot Oil Sales After Key Pipeline Goes Offline",
-      "title_vi": "Ả Rập Saudi chuyển hướng sang bán dầu sau khi đường ống chính ngừng hoạt động",
-      "summary_vi": "Tính đến thời điểm hiện tại trong tuần này, Ả Rập Saudi đã bán tới 20 triệu thùng dầu thô trên thị trường giao ngay để được đón từ ngay bên ngoài eo biển Hormuz, sau khi Vương quốc này buộc phải đóng cửa đường ống quan trọng trên đất liền giúp nước này vượt qua điểm thắt cổ chai, các nhà giao dịch giấu tên cho biết.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-16_bcv8fxdyxr.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Pivots-to-Spot-Oil-Sales-After-Key-Pipeline-Goes-Offline.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-16 17:30"
-    },
-    {
       "id": "9jhngf",
       "title": "Gold Recovers Ahead of Fed Announcement as Rate Increase Expectations Persist",
       "title_vi": "Vàng phục hồi trước thông báo của Fed khi kỳ vọng tăng lãi suất vẫn tồn tại",
@@ -132,17 +143,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-09-16 16:47"
-    },
-    {
-      "id": "1uxp1s5",
-      "title": "Japanese Refiners Rush for Oman Crude After Saudi Pipeline Shutdown",
-      "title_vi": "Các nhà máy lọc dầu Nhật Bản đổ xô mua dầu thô Oman sau khi đường ống dẫn dầu của Saudi đóng cửa",
-      "summary_vi": "Một số nhà máy lọc dầu ở Nhật Bản trong tuần này đã gấp rút mua dầu thô của Oman để nạp trước đó sau khi Ả Rập Saudi đóng cửa đường ống quan trọng đi qua eo biển Hormuz, các thương nhân am hiểu về hoạt động mua hàng nói với Bloomberg hôm thứ Tư. Cuối tuần trước, Ả Rập Saudi buộc phải tạm thời",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-16_hbpezqdmnk.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japanese-Refiners-Rush-for-Oman-Crude-After-Saudi-Pipeline-Shutdown.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-16 16:30"
     },
     {
       "id": "1aned3r",
@@ -365,6 +365,17 @@
       "published": "2026-09-15 05:01"
     },
     {
+      "id": "1jpd85o",
+      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
+      "title_vi": "Thị trường dầu đang gửi cảnh báo ngày càng lớn về giá xăng tại trạm bơm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588",
+      "source": "MarketWatch",
+      "category": "energy",
+      "published": "2026-09-15 04:31"
+    },
+    {
       "id": "n8bkam",
       "title": "Silver Price Forecast: Bullish Reversal Builds Above $62.33",
       "title_vi": "Dự báo giá bạc: Sự đảo chiều tăng giá trên $62,33",
@@ -530,26 +541,15 @@
       "published": "2026-09-14 17:24"
     },
     {
-      "id": "1wiec43",
-      "title": "Dollar rallies as oil prices jump and AI fears knock markets",
-      "title_vi": "Đồng đô la tăng giá khi giá dầu tăng và nỗi lo AI đánh gục thị trường",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/asia-pacific/dollar-steady-yen-near-7-month-high-ahead-fed-boj-meetings-2026-09-14/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-09-14 16:25"
-    },
-    {
-      "id": "f0jw6x",
-      "title": "Minnesota farmers ride crop price highs. Could lofty diesel costs hurt profits?",
-      "title_vi": "Nông dân Minnesota tận dụng mức giá nông sản cao. Chi phí diesel cao có thể làm tổn hại đến lợi nhuận?",
-      "summary_vi": "Ngô và đậu nành đạt mức giá tốt nhất trong ba năm. Tuy nhiên, khi giá dầu diesel tăng lên trên 6 USD/gallon, lợi nhuận của nông dân sẽ bị ảnh hưởng như thế nào?",
-      "image": "https://img.apmcdn.org/1decb4d2e6e0603346b3bc3ccd7b91d58a196909/widescreen/e43344-20260807-corn-stalks01-2000.jpg",
-      "link": "https://www.mprnews.org/story/2026/09/14/minnesota-farmers-ride-crop-price-highs-but-diesel-costs-could-limit-profit",
-      "source": "MPR News",
-      "category": "energy",
-      "published": "2026-09-14 16:00"
+      "id": "n46zzx",
+      "title": "Platinum and Palladium Price Forecast: Oil Above $100 Raises Breakdown Risks",
+      "title_vi": "Dự báo giá bạch kim và palladium: Dầu trên 100 USD làm tăng rủi ro đổ vỡ",
+      "summary_vi": "Bạch kim và palladium phải đối mặt với áp lực bán mới khi dầu tăng trên 100 USD và việc Fed đặt cược tăng giá sẽ tập trung vào các mức hỗ trợ quan trọng 1.700 USD và 1.200 USD.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/platinum-palladium-precious-metals.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/premium-platinum-and-palladium-price-forecast-oil-above-100-raises-breakdown-risks-1627335",
+      "source": "FXEmpire",
+      "category": "macro",
+      "published": "2026-09-14 16:43"
     }
   ]
 }

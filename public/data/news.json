@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-17 00:00",
+  "updated_at": "2026-09-17 01:00",
   "items": [
+    {
+      "id": "1dgkso0",
+      "title": "Export Constraints Curb Kazakhstan’s Ability to Offset the Global Oil Shortage",
+      "title_vi": "Hạn chế xuất khẩu hạn chế khả năng bù đắp tình trạng thiếu dầu toàn cầu của Kazakhstan",
+      "summary_vi": "Các nhà phân tích ngành cho biết Kazakhstan, nơi có trữ lượng dầu lớn, không có khả năng giúp bù đắp cuộc khủng hoảng năng lượng sắp xảy ra bằng cách mở rộng sản xuất. Khi eo biển Hormuz bị phong tỏa, Nga trừng phạt và đường ống Đông-Tây của Ả Rập Saudi bị máy bay không người lái Iran đánh sập",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-15_xwtrgm2eud.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Export-Constraints-Curb-Kazakhstans-Ability-to-Offset-the-Global-Oil-Shortage.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-17 01:00"
+    },
+    {
+      "id": "1sx4pl1",
+      "title": "Equinor Targets 15 Million Tons of LNG as Qatar Exports Stay Blocked",
+      "title_vi": "Equinor đặt mục tiêu 15 triệu tấn LNG khi xuất khẩu của Qatar bị chặn",
+      "summary_vi": "Equinor có kế hoạch mở rộng danh mục LNG toàn cầu của mình lên từ 10 triệu đến 15 triệu tấn mỗi năm vào đầu những năm 2030, nhắm đến những người mua châu Âu và châu Á đang thiếu nguồn cung do eo biển Hormuz phong tỏa, Reuters đưa tin hôm thứ Tư. Công ty dự kiến ​​sẽ công bố phiên bản As thứ hai",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-16_rknvumz547.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Targets-15-Million-Tons-of-LNG-as-Qatar-Exports-Stay-Blocked.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-17 00:00"
+    },
     {
       "id": "b682n2",
       "title": "Leaked EU Draft Would Scrap Hydrogen Mandates for EU-Wide Target",
@@ -22,6 +44,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-09-16 23:00"
+    },
+    {
+      "id": "8pie9s",
+      "title": "Coffee Prices Pressured by Improved Global Supply Outlook",
+      "title_vi": "Giá cà phê bị áp lực bởi triển vọng nguồn cung toàn cầu được cải thiện",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barchart.com/story/news/4638154/coffee-prices-pressured-by-improved-global-supply-outlook",
+      "source": "Barchart.com",
+      "category": "soft",
+      "published": "2026-09-16 22:47"
     },
     {
       "id": "6gz2em",
@@ -79,15 +112,15 @@
       "published": "2026-09-16 21:00"
     },
     {
-      "id": "3p81pt",
-      "title": "Germany Weighs Market Incentives to Boost Record Low Gas Storage Level",
-      "title_vi": "Đức cân nhắc các khuyến khích thị trường để tăng mức lưu trữ khí thấp kỷ lục",
-      "summary_vi": "Một nguồn tin chính phủ nói với Reuters hôm thứ Tư rằng Đức đang xem xét mở rộng khuyến khích thị trường quan trọng để khuyến khích các nhà kinh doanh tăng mức dự trữ khí đốt trước mùa đông, một nguồn tin chính phủ nói với Reuters hôm thứ Tư vì các kho khí đốt của Đức hiện chỉ đầy một nửa. Nền kinh tế lớn nhất châu Âu có quy mô lớn thứ tư thế giới",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-16_igwmtn0ojy.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germany-Weighs-Market-Incentives-to-Boost-Record-Low-Gas-Storage-Level.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-16 20:30"
+      "id": "ub2i3u",
+      "title": "General Mills, Kellanova, Mars and McKee Foods sue sugar producers over alleged price-fixing",
+      "title_vi": "General Mills, Kellanova, Mars và McKee Foods kiện các nhà sản xuất đường vì cáo buộc ấn định giá",
+      "summary_vi": "General Mills, Kellanova, Mars và McKee Foods cáo buộc các nhà sản xuất đường của Mỹ đã phối hợp thông tin nhạy cảm để tăng giá đường hạt.",
+      "image": "https://www.foodnavigator.com/resizer/v2/VW3Y3QNZUNFQ3DXLNRSNS42BQA.jpg?auth=e5e991c5edf56c9294eaba1b5b80a66e4c2856a3d50d41598bcef601d213b049&width=1200&height=630&smart=true",
+      "link": "https://www.foodnavigator.com/Article/2026/09/16/general-mills-mars-kellanova-and-mckee-accuse-big-sugar-of-price-fixing/",
+      "source": "FoodNavigator.com",
+      "category": "soft",
+      "published": "2026-09-16 20:40"
     },
     {
       "id": "16t48r4",
@@ -109,17 +142,6 @@
       "link": "https://dailycoffeenews.com/2026/09/16/hijau-coffee-brings-the-flavors-of-indonesia-to-san-jose/",
       "source": "Daily Coffee News",
       "category": "soft",
-      "published": "2026-09-16 19:30"
-    },
-    {
-      "id": "1cabqgg",
-      "title": "U.S. Investigates Suspected Cyber Attacks on Texas-Bound Tankers",
-      "title_vi": "Hoa Kỳ điều tra các cuộc tấn công mạng bị nghi ngờ nhằm vào tàu chở dầu ở Texas",
-      "summary_vi": "Các đặc vụ của Lực lượng Bảo vệ Bờ biển Hoa Kỳ và Cục Điều tra Liên bang (FBI) vào tháng trước đã lên tàu chở dầu để điều tra các cuộc tấn công mạng bị nghi ngờ nhằm vào các tàu đi đến Bờ Vịnh Hoa Kỳ được cho là diễn ra khi các tàu đi qua eo biển Gibraltar giữa Maroc và Tây Ban Nha.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-16_mhuvf1xtqo.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Investigates-Suspected-Cyber-Attacks-on-Texas-Bound-Tankers.html",
-      "source": "OilPrice",
-      "category": "energy",
       "published": "2026-09-16 19:30"
     },
     {
@@ -321,6 +343,17 @@
       "published": "2026-09-15 18:53"
     },
     {
+      "id": "tsgpks",
+      "title": "Rising Copper Demand to Cause a 25% Supply Gap by 2035, says IEA",
+      "title_vi": "IEA cho biết nhu cầu đồng tăng cao gây ra khoảng cách nguồn cung 25% vào năm 2035",
+      "summary_vi": "Nhu cầu đồng ngày càng tăng và số lượng phát hiện ít hơn làm tăng nhu cầu về các dự án được xác định rõ ràng để có thể tăng cường nguồn cung trong tương lai.",
+      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6aa7f44278336289e2d4ee17_Copper%20Coil.png",
+      "link": "https://www.cruxinvestor.com/posts/rising-copper-demand-to-cause-a-25-supply-gap-by-2035-says-iea",
+      "source": "Crux Investor",
+      "category": "metal",
+      "published": "2026-09-15 15:49"
+    },
+    {
       "id": "1busfrf",
       "title": "European Natural Gas Prices Supported as Market Remains Tight",
       "title_vi": "Giá khí đốt tự nhiên châu Âu được hỗ trợ khi thị trường vẫn thắt chặt",
@@ -517,39 +550,6 @@
       "source": "News Dakota",
       "category": "agri",
       "published": "2026-09-14 19:02"
-    },
-    {
-      "id": "1p64fag",
-      "title": "Copper recovery can boost mining and recycling to up supply",
-      "title_vi": "Thu hồi đồng có thể thúc đẩy khai thác và tái chế để tăng nguồn cung",
-      "summary_vi": "Làm thế nào các công cụ vận hành sinh học có thể giúp phục hồi đồng, giải phóng hàng tồn kho đã có trên bảng cân đối kế toán của các nhà khai thác và giải phóng nó vào chuỗi cung ứng toàn cầu.",
-      "image": "https://assets.weforum.org/article/image/responsive_large_yU1WK_qU0MVs3HtxXgn_QGCk44YNoW9zPplVwYw6bqY.jpg",
-      "link": "https://www.weforum.org/stories/energy-transition/copper-we-need-already-mined-global-supply-chains/",
-      "source": "The World Economic Forum",
-      "category": "metal",
-      "published": "2026-09-14 18:47"
-    },
-    {
-      "id": "rpwqej",
-      "title": "Oil prices per barrel surge today. What it means for gas prices",
-      "title_vi": "Giá dầu mỗi thùng tăng mạnh hôm nay. Ý nghĩa của giá xăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.elpasotimes.com/story/money/2026/09/14/oil-prices-per-barrel-see-brent-crude-oil-price-gas-prices/91755327007/",
-      "source": "El Paso Times",
-      "category": "energy",
-      "published": "2026-09-14 18:25"
-    },
-    {
-      "id": "a7twv5",
-      "title": "ECB's attention shifting to natural gas as prices soar",
-      "title_vi": "Sự chú ý của ECB chuyển sang khí đốt tự nhiên khi giá tăng cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/europe/ecbs-kazimir-shifts-focus-gas-prices-sees-upside-inflation-risk-2026-09-14/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-09-14 18:00"
     }
   ]
 }

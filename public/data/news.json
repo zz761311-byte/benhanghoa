@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16 10:01",
+  "updated_at": "2026-09-16 11:01",
   "items": [
     {
       "id": "1a3q8gh",
@@ -88,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-16 03:00"
+    },
+    {
+      "id": "10kkc4q",
+      "title": "Will U.S.-China Tariff Cuts Boost Farm Exports and Soybeans?",
+      "title_vi": "Việc cắt giảm thuế quan giữa Mỹ và Trung Quốc có thúc đẩy xuất khẩu nông sản và đậu nành không?",
+      "summary_vi": "Washington và Bắc Kinh đang cân nhắc cắt giảm thuế đối với thương mại nông nghiệp và năng lượng, nâng cao triển vọng mới cho đậu nành và các mặt hàng xuất khẩu nông sản khác của Mỹ.",
+      "image": "https://www.agrolatam.com/files/image/80/80705/6aa99976edd57_600_315!.jpg?s=777fc5c87b88629f3d69cf9bdd4cc4a2&d=1789499999",
+      "link": "https://www.agrolatam.com/amp/us-china-tariff-talks-soybeans-farm-exports/",
+      "source": "AgroLatam",
+      "category": "agri",
+      "published": "2026-09-16 02:42"
     },
     {
       "id": "1r2j6xd",
@@ -539,17 +550,6 @@
       "source": "Time Magazine",
       "category": "energy",
       "published": "2026-09-14 01:47"
-    },
-    {
-      "id": "vt2xnv",
-      "title": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
-      "title_vi": "Trump yêu cầu Zelenskyy ngừng tấn công nguồn cung dầu diesel của Nga",
-      "summary_vi": "Tổng thống Mỹ cho rằng các cuộc tấn công của Ukraine vào cơ sở hạ tầng diesel của Nga đang góp phần gây ra tình trạng thiếu nhiên liệu toàn cầu.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aa6c479b6a5-1789314169.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies",
-      "source": "Al Jazeera",
-      "category": "energy",
-      "published": "2026-09-14 01:21"
     }
   ]
 }

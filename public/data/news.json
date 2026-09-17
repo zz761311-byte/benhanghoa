@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-18 05:15",
+  "updated_at": "2026-09-18 06:01",
   "items": [
+    {
+      "id": "1oal3b6",
+      "title": "Saudi Pipeline Outage Could Deepen the Global Fuel Crunch",
+      "title_vi": "Sự cố ngừng hoạt động đường ống của Saudi có thể làm trầm trọng thêm cuộc khủng hoảng nhiên liệu toàn cầu",
+      "summary_vi": "Việc tạm thời đóng cửa đường ống quan trọng trên đất liền mà Ả Rập Saudi sử dụng để đi qua eo biển Hormuz đã gây thêm một cú sốc nữa cho thị trường dầu mỏ vốn đang phải vật lộn với 6 tháng gián đoạn nguồn cung ở Trung Đông. Và thiệt hại bây giờ có vẻ lớn hơn so với suy nghĩ ban đầu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-17_fk9pvtmi1b.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Could-Deepen-the-Global-Fuel-Crunch.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-18 06:00"
+    },
     {
       "id": "10ylpxc",
       "title": "Turkey Bets $108 Billion on Wind and Solar While Expanding Oil and Gas",
@@ -101,15 +112,15 @@
       "published": "2026-09-18 01:00"
     },
     {
-      "id": "1ymjbvh",
-      "title": "IEA Chief: Electrification Still Energy&#039;s Top Bet Despite AI Fears",
-      "title_vi": "Giám đốc IEA: Điện khí hóa vẫn là lựa chọn hàng đầu cho năng lượng bất chấp những lo ngại về AI",
-      "summary_vi": "Fatih Birol, Giám đốc điều hành của Cơ quan Năng lượng Quốc tế (IEA), cho biết hôm thứ Năm rằng tỷ lệ điện khí hóa ngày càng tăng vẫn là trụ cột chính của đầu tư năng lượng toàn cầu bất chấp những lo ngại gần đây về mối đe dọa hiện hữu mà AI có thể gây ra cho nhân loại. “Nhu cầu điện",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-17_987pgzqxce.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/IEA-Chief-Electrification-Still-Energys-Top-Bet-Despite-AI-Fears.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-18 00:00"
+      "id": "1kn8lel",
+      "title": "Under Pressure: The Size and Timing of the Harvest Low in Corn Basis",
+      "title_vi": "Dưới áp lực: Quy mô và thời gian thu hoạch trên cơ sở ngô thấp",
+      "summary_vi": "Austin Belman, Joe Janzen và Esteban Vizcarrondo - Cơ sở ngô thời điểm thu hoạch ngô của Mỹ chạm đáy vào giữa tháng 10, trùng với thời điểm cao điểm của hoạt động thu hoạch. Cơ sở trung bình ở mức thấp trong thời điểm thu hoạch thấp hơn khoảng 11 xu so với mức cuối tháng 11. Mức thấp nhất cấp tiểu bang trung bình là 16 xu, sâu nhất ở Missouri, Indiana và Illinois, và",
+      "image": "https://farmdocdaily.illinois.edu/wp-content/uploads/2026/09/09172026_fig1.png",
+      "link": "https://farmdocdaily.illinois.edu/2026/09/under-pressure-the-size-and-timing-of-the-harvest-low-in-corn-basis.html",
+      "source": "farmdoc daily",
+      "category": "agri",
+      "published": "2026-09-18 00:36"
     },
     {
       "id": "1gzy4ti",
@@ -376,6 +387,17 @@
       "published": "2026-09-17 00:30"
     },
     {
+      "id": "110a031",
+      "title": "How escalating Saudi oil crisis could drive up prices everywhere",
+      "title_vi": "Cuộc khủng hoảng dầu mỏ leo thang của Saudi có thể đẩy giá lên khắp nơi như thế nào",
+      "summary_vi": "Ben Chu của BBC Verify xem xét tác động của chi phí năng lượng tăng lên đối với nền kinh tế toàn cầu.",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1a2a/live/d6d03600-b1e6-11f1-bc1f-3f186ca4140c.png",
+      "link": "https://www.bbc.com/news/articles/cqlym3wye1ero",
+      "source": "BBC",
+      "category": "energy",
+      "published": "2026-09-16 23:06"
+    },
+    {
       "id": "8pie9s",
       "title": "Coffee Prices Pressured by Improved Global Supply Outlook",
       "title_vi": "Giá cà phê bị áp lực bởi triển vọng nguồn cung toàn cầu được cải thiện",
@@ -528,28 +550,6 @@
       "source": "WP Intelligence",
       "category": "metal",
       "published": "2026-09-16 07:33"
-    },
-    {
-      "id": "1r4zyn9",
-      "title": "Vietnam's Coffee Outlook Clouded by Weather Extremes, Irrigation Challenges, and Emerging El Niño Risks",
-      "title_vi": "Triển vọng cà phê của Việt Nam bị che mờ bởi thời tiết cực đoan, thách thức thủy lợi và rủi ro El Niño mới nổi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-gb/insights/vietnam-s-coffee-outlook-clouded-by-weather-extremes-irrigation-challenges-and-emerging-el-nino-risks/",
-      "source": "stonex.com",
-      "category": "soft",
-      "published": "2026-09-16 06:50"
-    },
-    {
-      "id": "hs0zj8",
-      "title": "How Ukrainian attacks on Russia’s oil facilities affect US diesel prices",
-      "title_vi": "Cuộc tấn công của Ukraina vào các cơ sở dầu mỏ của Nga ảnh hưởng đến giá dầu diesel của Mỹ như thế nào",
-      "summary_vi": "Trump đăng trên Truth Social rằng các cuộc tấn công của Ukraine vào Nga chứ không phải nỗ lực của Iran nhằm đóng cửa eo biển Hormuz mới là nguyên nhân chính khiến giá dầu diesel tăng. Đây là một kiểm tra thực tế.",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/be37c3ee-d42b-404b-bbfd-51699b80fe3c.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-      "link": "https://www.kcra.com/article/ukrainian-attacks-russia-oil-facilities-us-diesel-prices/73748942",
-      "source": "kcra.com",
-      "category": "energy",
-      "published": "2026-09-16 04:43"
     }
   ]
 }

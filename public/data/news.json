@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-17 15:00",
+  "updated_at": "2026-09-17 16:00",
   "items": [
+    {
+      "id": "1joiypt",
+      "title": "India Pushes Back on U.S. Tariff Threat Over Russian Oil",
+      "title_vi": "Ấn Độ đẩy lùi mối đe dọa thuế quan của Mỹ đối với dầu của Nga",
+      "summary_vi": "Bộ Ngoại giao nước này hôm nay cho biết Ấn Độ sẽ tiếp tục ưu tiên an ninh năng lượng cho người dân bất chấp những nỗ lực của Mỹ nhằm hạn chế xuất khẩu dầu khí của Nga, nhiều trong số đó đến Ấn Độ. Nó cũng cảnh báo rằng bất kỳ động thái nào của Washington ảnh hưởng đến năng lượng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-17_3yjsvrl0ai.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Pushes-Back-on-US-Tariff-Threat-Over-Russian-Oil.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-17 15:15"
+    },
     {
       "id": "1j71kho",
       "title": "Soaring LNG Prices Push Asian Demand Toward Second Annual Decline",
@@ -121,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-17 04:00"
-    },
-    {
-      "id": "18z1cj6",
-      "title": "AI Data Centers Are Driving Southeast Asia&#039;s LNG Demand Through the Roof",
-      "title_vi": "Các trung tâm dữ liệu AI đang thúc đẩy nhu cầu LNG của Đông Nam Á tăng vọt",
-      "summary_vi": "Sự bùng nổ trí tuệ nhân tạo đang khiến dự báo nhu cầu khí đốt tự nhiên của Đông Nam Á tăng vọt - nhưng việc tăng giá kéo dài do chiến tranh ở Iran có thể khiến khu vực này hướng tới năng lượng tái tạo. Hơn nữa, các lực lượng thị trường cạnh tranh này đang tận dụng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-16_vf13cwoxoz.jpg",
-      "link": "https://oilprice.com/Energy/Natural-Gas/AI-Data-Centers-Are-Driving-Southeast-Asias-LNG-Demand-Through-the-Roof.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-17 03:00"
     },
     {
       "id": "pjm69f",
@@ -530,6 +530,17 @@
       "published": "2026-09-15 05:01"
     },
     {
+      "id": "dfnf5d",
+      "title": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure",
+      "title_vi": "Zelenskyy nói Ukraine sẽ tạm dừng tấn công Nga nếu Điện Kremlin bỏ qua cơ sở hạ tầng quan trọng",
+      "summary_vi": "Bình luận của ông hôm thứ Hai theo sau tuyên bố của Tổng thống Donald Trump rằng Nga và Ukraine đã đồng ý không nhắm mục tiêu vào cơ sở hạ tầng năng lượng của nhau.",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-06T172033Z_2136180357_RC2RDNAAS5C5_RTRMADP_3_UKRAINE-CRISIS-USA-ENVOYS-1024x683.jpg",
+      "link": "https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-will-pause-strikes-on-russia-if-kremlin-spares-critical-infrastructure",
+      "source": "PBS",
+      "category": "energy",
+      "published": "2026-09-15 04:57"
+    },
+    {
       "id": "1jpd85o",
       "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
       "title_vi": "Thị trường dầu đang gửi cảnh báo ngày càng lớn về giá xăng tại trạm bơm",
@@ -539,17 +550,6 @@
       "source": "MarketWatch",
       "category": "energy",
       "published": "2026-09-15 04:31"
-    },
-    {
-      "id": "n8bkam",
-      "title": "Silver Price Forecast: Bullish Reversal Builds Above $62.33",
-      "title_vi": "Dự báo giá bạc: Sự đảo chiều tăng giá trên $62,33",
-      "summary_vi": "Bạc phục hồi từ mức hỗ trợ 62,33 USD khi thiết lập rung chuyển và phục hồi tiềm năng chỉ ra sự đảo chiều tăng giá đang phát triển.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/silver-precious-metal-price-chart-02-2.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/silver-price-forecast-bullish-reversal-builds-above-62-33-1627749",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-09-15 04:10"
     }
   ]
 }

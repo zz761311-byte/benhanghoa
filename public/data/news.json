@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-17 19:00",
+  "updated_at": "2026-09-17 20:00",
   "items": [
+    {
+      "id": "gfu9k9",
+      "title": "Europe&#039;s Biggest Independent Solar Operator Just Went Bankrupt",
+      "title_vi": "Nhà điều hành năng lượng mặt trời độc lập lớn nhất châu Âu vừa phá sản",
+      "summary_vi": "Việc lắp đặt công suất gió và năng lượng mặt trời tăng vọt ở Đức đã tạo ra môi trường kinh doanh dự án và kinh doanh không bền vững trong lĩnh vực này trong bối cảnh việc mở rộng lưới điện và cắt giảm sản xuất điện chậm hơn. Năm 2023, Đức vượt mốc 50% thị phần năng lượng tái tạo",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Biggest-Independent-Solar-Operator-Just-Went-Bankrupt.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-09-17 19:30"
+    },
     {
       "id": "1hwwcvb",
       "title": "LNG Prices Could Jump Further as Hormuz Supply Crunch Persists",
@@ -112,17 +123,6 @@
       "published": "2026-09-17 07:00"
     },
     {
-      "id": "1j91eaw",
-      "title": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens",
-      "title_vi": "Giá tàu chở dầu phá vỡ 1 triệu USD mỗi ngày khi khủng hoảng vận chuyển dầu ngày càng trầm trọng",
-      "summary_vi": "Giá thuê tàu chở dầu hàng ngày lần đầu tiên trong lịch sử lên tới 1 triệu USD trong bối cảnh nguồn cung tàu chở dầu thô và nhiên liệu mà chủ sở hữu sẵn sàng đi qua eo biển Hormuz đang bị thắt chặt. Việc siết chặt đang làm tăng thêm chi phí cho giá dầu cho nhu cầu vật chất.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-16_tmnkwmfbao.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Tanker-Rates-Smash-1-Million-a-Day-as-Oil-Shipping-Crisis-Deepens.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-17 06:00"
-    },
-    {
       "id": "x0k0ti",
       "title": "US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says",
       "title_vi": "EIA cho biết sản lượng dầu thô của Mỹ sẽ giảm trong thập kỷ tới do dự báo giá dầu Brent dưới 70 USD",
@@ -211,6 +211,17 @@
       "published": "2026-09-16 22:47"
     },
     {
+      "id": "vyybax",
+      "title": "Gold price drops to $4,310/oz as Fed votes 12-0 in favor of 25 bps rate hike, with 16 of 18 policymakers seeing another hike in 2026",
+      "title_vi": "Giá vàng giảm xuống 4.310 USD/oz khi Fed bỏ phiếu 12-0 ủng hộ việc tăng lãi suất 25 điểm cơ bản, với 16 trong số 18 nhà hoạch định chính sách sẽ chứng kiến ​​một đợt tăng lãi suất khác vào năm 2026",
+      "summary_vi": "(Kitco News) - Cục Dự trữ Liên bang đã công bố hôm thứ Tư rằng Ủy ban Thị trường mở Liên bang (FOMC) đã bỏ phiếu nhất trí ủng hộ việc tăng lãi suất 1/4 điểm, đúng như kỳ vọng của thị trường, trong khi các dự báo kinh tế mới nhất cho thấy tất cả trừ hai nhà hoạch định chính sách tin rằng một đợt tăng lãi suất khác sẽ được đảm bảo vào năm 2026.",
+      "image": "https://image-api.prod.kitco.com/image/24997f93-5984-44b5-a9ab-632dce644bb6.png?top=0.15981657608696&left=0&width=1672&height=940.68036684783&scale_width=1920&token=74b69b03b2aabf2b704a93eccc769fc4ecac279cedc263d37d26ce723c00bbe9",
+      "link": "https://www.kitco.com/news/article/2026-09-16/gold-price-drops-4310oz-fed-votes-12-0-favor-25-bps-rate-hike-16-18",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-09-16 22:44"
+    },
+    {
       "id": "8vuo3s",
       "title": "US Natgas Falls 4% to 8-Week Low on Milder Weather Outlook, Lower LNG Export Flows",
       "title_vi": "Natgas của Mỹ giảm 4% xuống mức thấp nhất trong 8 tuần do thời tiết ôn hòa hơn, lưu lượng xuất khẩu LNG thấp hơn",
@@ -297,17 +308,6 @@
       "source": "World Grain",
       "category": "agri",
       "published": "2026-09-16 19:15"
-    },
-    {
-      "id": "9jhngf",
-      "title": "Gold Recovers Ahead of Fed Announcement as Rate Increase Expectations Persist",
-      "title_vi": "Vàng phục hồi trước thông báo của Fed khi kỳ vọng tăng lãi suất vẫn tồn tại",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://uk.finance.yahoo.com/news/gold-recovers-ahead-fed-announcement-094942744.html",
-      "source": "Yahoo Finance UK",
-      "category": "metal",
-      "published": "2026-09-16 16:49"
     },
     {
       "id": "1aned3r",

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-17 16:00",
+  "updated_at": "2026-09-17 17:00",
   "items": [
+    {
+      "id": "17be4yz",
+      "title": "Goldman Sachs Sees More Upside in Gasoline as Diesel Crunch Deepens",
+      "title_vi": "Goldman Sachs nhận thấy giá xăng tăng nhiều hơn khi cuộc khủng hoảng động cơ diesel ngày càng sâu sắc",
+      "summary_vi": "Goldman Sachs cho biết giá và tỷ suất lợi nhuận dầu diesel sẽ tiếp tục tăng trong bối cảnh thị trường thắt chặt, nhưng xăng có thể mang lại nhiều lợi nhuận hơn do các nhà máy lọc dầu hiện đang ưu tiên sản xuất dầu diesel. Ngân hàng đầu tư đang chuyển khuyến nghị thị trường nhiên liệu quan trọng của mình ra khỏi thời gian sử dụng động cơ diesel",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-17_n40ywifj6b.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sees-More-Upside-in-Gasoline-as-Diesel-Crunch-Deepens.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-17 16:30"
+    },
     {
       "id": "1joiypt",
       "title": "India Pushes Back on U.S. Tariff Threat Over Russian Oil",
@@ -101,6 +112,17 @@
       "published": "2026-09-17 05:00"
     },
     {
+      "id": "x0k0ti",
+      "title": "US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says",
+      "title_vi": "EIA cho biết sản lượng dầu thô của Mỹ sẽ giảm trong thập kỷ tới do dự báo giá dầu Brent dưới 70 USD",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-crude-output-to-fall-next-decade-on-sub-70-brent-price-forecast-eia-says/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-17 04:50"
+    },
+    {
       "id": "na73hu",
       "title": "Gold, silver prices fall as Warsh signals more tightening ahead - Kitco PM Report",
       "title_vi": "Giá vàng, bạc giảm khi Warsh phát tín hiệu thắt chặt hơn nữa - Báo cáo Kitco PM",
@@ -118,17 +140,6 @@
       "summary_vi": "Trở lại đầu tháng 2 năm 2022, Vladimir Putin đã có cuộc gặp trực tiếp đầu tiên với người đồng cấp Trung Quốc Tập Cận Bình sau gần hai năm, tại lễ khai mạc Thế vận hội mùa đông ở Bắc Kinh. Để tránh làm gián đoạn sự kiện mang tính bước ngoặt này đối với Tập và để cho phép Trung Quốc hoàn tất các thỏa thuận",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-16_mxffvd5nj0.jpg",
       "link": "https://oilprice.com/Energy/Crude-Oil/Inside-Putins-135-Billion-Arctic-Gamble-That-Could-Save-His-Ukraine-War.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-17 04:00"
-    },
-    {
-      "id": "d64mla",
-      "title": "Shale Oil Now Makes Up 72% of Argentina&#039;s Crude Output, Data Shows",
-      "title_vi": "Dữ liệu cho thấy dầu đá phiến hiện chiếm 72% sản lượng dầu thô của Argentina",
-      "summary_vi": "Tổng thống cánh hữu gây tranh cãi của Argentina, Javier Milei, đã cắt giảm lạm phát bằng một loạt biện pháp thắt lưng buộc bụng về kinh tế, nhưng điều này phải trả giá đắt về mặt xã hội. Chi phí sinh hoạt ngày càng tăng cao, làm gia tăng nợ nần của hộ gia đình, nợ quá hạn và khó khăn kinh tế. công nghiệp",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-16_0v2xsootdl.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Shale-Oil-Now-Makes-Up-72-of-Argentinas-Crude-Output-Data-Shows.html",
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-17 04:00"
@@ -539,17 +550,6 @@
       "source": "PBS",
       "category": "energy",
       "published": "2026-09-15 04:57"
-    },
-    {
-      "id": "1jpd85o",
-      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
-      "title_vi": "Thị trường dầu đang gửi cảnh báo ngày càng lớn về giá xăng tại trạm bơm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588",
-      "source": "MarketWatch",
-      "category": "energy",
-      "published": "2026-09-15 04:31"
     }
   ]
 }

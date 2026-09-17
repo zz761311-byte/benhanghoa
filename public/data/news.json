@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-18 03:01",
+  "updated_at": "2026-09-18 04:01",
   "items": [
+    {
+      "id": "wijrfd",
+      "title": "Inside the DOE&#039;s $16 Million Bet on Critical Minerals Talent",
+      "title_vi": "Bên trong khoản đặt cược 16 triệu đô la của DOE vào tài năng khoáng sản quan trọng",
+      "summary_vi": "Hoa Kỳ đang mong muốn giành lại một số khoáng sản quan trọng toàn cầu từ Trung Quốc. Bắc Kinh đã thiết lập sự thống trị gần như hoàn toàn trong chuỗi cung ứng quốc tế trong nhiều thập kỷ qua thông qua Sáng kiến ​​Vành đai và Con đường sâu rộng bên cạnh các thỏa thuận khác.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-17_fem2lzkioy.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Inside-the-DOEs-16-Million-Bet-on-Critical-Minerals-Talent.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-18 04:00"
+    },
     {
       "id": "1wlxzrr",
       "title": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
@@ -96,17 +107,6 @@
       "summary_vi": "Matt Smith của Kpler kỳ vọng giá dầu sẽ tiếp tục tăng cao, với nguồn cung sụt giảm trong 6 tháng rưỡi ở Trung Đông hiện đang ảnh hưởng đến giá xăng và dầu diesel. Smith nói với CNBC hôm thứ Năm rằng giá dầu đã tăng khoảng 30 USD/thùng kể từ đầu tháng 8. Xăng",
       "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Kpler-Sees-Oil-Grinding-Higher-as-Diesel-Crunch-Deepens.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-17 23:00"
-    },
-    {
-      "id": "1517hyx",
-      "title": "Russia Cuts Off Gas to Armenia Days After Diversification Announcement",
-      "title_vi": "Nga cắt khí đốt cho Armenia vài ngày sau thông báo đa dạng hóa",
-      "summary_vi": "Chỉ vài ngày sau khi Thủ tướng Armenia Nikol Pashinyan tái khẳng định ý định giảm sự phụ thuộc của đất nước vào nhập khẩu khí đốt tự nhiên của Nga, nhà cung cấp của Nga, Gazprom Armenia, đã thực hiện bước đi dường như mang tính trừng phạt là tuyên bố cắt nguồn cung kéo dài. Tol Pashinyan",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-17_q3ibiynskx.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Russia-Cuts-Off-Gas-to-Armenia-Days-After-Diversification-Announcement.html",
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-17 23:00"
@@ -209,6 +209,17 @@
       "source": "CNBC",
       "category": "macro",
       "published": "2026-09-17 11:40"
+    },
+    {
+      "id": "z589bl",
+      "title": "Where the US-China tariff row stands ahead of White House summit",
+      "title_vi": "Hàng rào thuế quan Mỹ-Trung diễn ra trước hội nghị thượng đỉnh Nhà Trắng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://sg.finance.yahoo.com/news/where-us-china-tariff-row-024709841.html",
+      "source": "Yahoo Finance Singapore",
+      "category": "macro",
+      "published": "2026-09-17 09:47"
     },
     {
       "id": "dubhck",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-09-16 03:54"
-    },
-    {
-      "id": "10kkc4q",
-      "title": "Will U.S.-China Tariff Cuts Boost Farm Exports and Soybeans?",
-      "title_vi": "Việc cắt giảm thuế quan giữa Mỹ và Trung Quốc có thúc đẩy xuất khẩu nông sản và đậu nành không?",
-      "summary_vi": "Washington và Bắc Kinh đang cân nhắc cắt giảm thuế đối với thương mại nông nghiệp và năng lượng, nâng cao triển vọng mới cho đậu nành và các mặt hàng xuất khẩu nông sản khác của Mỹ.",
-      "image": "https://www.agrolatam.com/files/image/80/80705/6aa99976edd57_600_315!.jpg?s=777fc5c87b88629f3d69cf9bdd4cc4a2&d=1789499999",
-      "link": "https://www.agrolatam.com/amp/us-china-tariff-talks-soybeans-farm-exports/",
-      "source": "AgroLatam",
-      "category": "agri",
-      "published": "2026-09-16 02:42"
     }
   ]
 }

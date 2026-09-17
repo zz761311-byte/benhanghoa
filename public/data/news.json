@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-17 22:20",
+  "updated_at": "2026-09-17 23:00",
   "items": [
+    {
+      "id": "1517hyx",
+      "title": "Russia Cuts Off Gas to Armenia Days After Diversification Announcement",
+      "title_vi": "Nga cắt khí đốt cho Armenia vài ngày sau thông báo đa dạng hóa",
+      "summary_vi": "Chỉ vài ngày sau khi Thủ tướng Armenia Nikol Pashinyan tái khẳng định ý định giảm sự phụ thuộc của đất nước vào nhập khẩu khí đốt tự nhiên của Nga, nhà cung cấp của Nga, Gazprom Armenia, đã thực hiện bước đi dường như mang tính trừng phạt là tuyên bố cắt nguồn cung kéo dài. Tol Pashinyan",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-17_q3ibiynskx.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Russia-Cuts-Off-Gas-to-Armenia-Days-After-Diversification-Announcement.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-17 23:00"
+    },
     {
       "id": "x0flh1",
       "title": "Oil Prices Slide as China Presses Iran to Rein In the Houthis",
@@ -101,15 +112,26 @@
       "published": "2026-09-17 17:30"
     },
     {
-      "id": "17be4yz",
-      "title": "Goldman Sachs Sees More Upside in Gasoline as Diesel Crunch Deepens",
-      "title_vi": "Goldman Sachs nhận thấy giá xăng tăng nhiều hơn khi cuộc khủng hoảng động cơ diesel ngày càng sâu sắc",
-      "summary_vi": "Goldman Sachs cho biết giá và tỷ suất lợi nhuận dầu diesel sẽ tiếp tục tăng trong bối cảnh thị trường thắt chặt, nhưng xăng có thể mang lại nhiều lợi nhuận hơn do các nhà máy lọc dầu hiện đang ưu tiên sản xuất dầu diesel. Ngân hàng đầu tư đang chuyển khuyến nghị thị trường nhiên liệu quan trọng của mình ra khỏi thời gian sử dụng động cơ diesel",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-17_n40ywifj6b.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sees-More-Upside-in-Gasoline-as-Diesel-Crunch-Deepens.html",
-      "source": "OilPrice",
+      "id": "10xpg3x",
+      "title": "U.S.-Canada trade war makes two losers",
+      "title_vi": "Chiến tranh thương mại Mỹ-Canada khiến hai bên thua cuộc",
+      "summary_vi": "Vào năm 2013, tôi đã viết một cuốn sách về sự phụ thuộc kinh tế của Canada vào Mỹ dưới hình thức mối quan hệ thương mại không cân xứng cũng là một điểm yếu chiến lược. Bây giờ chúng tôi biết tại sao. Đó là năm 2026 và Donald Trump đang có động thái, nhưng may mắn thay, Can…",
+      "image": "https://www.nydailynews.com/wp-content/uploads/2026/09/GettyImages-2292329062-1.jpg?w=7633&#038;h=5089",
+      "link": "https://www.nydailynews.com/2026/09/17/u-s-canada-trade-war-makes-two-losers/",
+      "source": "New York Daily News",
+      "category": "macro",
+      "published": "2026-09-17 16:00"
+    },
+    {
+      "id": "dwxekj",
+      "title": "European Gas Prices Rise as European Inventories Remain Low",
+      "title_vi": "Giá khí đốt châu Âu tăng do tồn kho châu Âu vẫn ở mức thấp",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-european-inventories-remain-low-4d38b0ac",
+      "source": "WSJ",
       "category": "energy",
-      "published": "2026-09-17 16:30"
+      "published": "2026-09-17 14:57"
     },
     {
       "id": "2fex4b",
@@ -376,6 +398,17 @@
       "published": "2026-09-16 13:43"
     },
     {
+      "id": "1bvc4s0",
+      "title": "New technology races to ease the coming copper crunch",
+      "title_vi": "Cuộc đua công nghệ mới để giảm bớt cuộc khủng hoảng đồng sắp tới",
+      "summary_vi": "Điện khí hóa sẽ cần nhiều đồng hơn mức mà các mỏ có thể cung cấp. Các phương pháp phục hồi và tái chế mới có thể giúp lấp đầy khoảng trống nếu chúng có thể mở rộng quy mô kịp thời.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FXHBLBCJGXKSEMATDRAOTLHKD6M.JPG&w=1440",
+      "link": "https://wpintelligence.washingtonpost.com/topics/energy-climate/2026/09/15/new-technology-races-ease-coming-copper-crunch/",
+      "source": "WP Intelligence",
+      "category": "metal",
+      "published": "2026-09-16 07:33"
+    },
+    {
       "id": "1r4zyn9",
       "title": "Vietnam's Coffee Outlook Clouded by Weather Extremes, Irrigation Challenges, and Emerging El Niño Risks",
       "title_vi": "Triển vọng cà phê của Việt Nam bị che mờ bởi thời tiết cực đoan, thách thức thủy lợi và rủi ro El Niño mới nổi",
@@ -517,39 +550,6 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-09-15 19:53"
-    },
-    {
-      "id": "z14bkw",
-      "title": "Natural Gas Market Seeking Direction Amid Lingering Heat, Tightening Storage Surplus",
-      "title_vi": "Thị trường khí đốt tự nhiên đang tìm hướng đi trong bối cảnh nắng nóng kéo dài, nguồn dự trữ thắt chặt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/natural-gas-market-seeking-direction-amid-lingering-heat-tightening-storage-surplus/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-09-15 19:49"
-    },
-    {
-      "id": "qkhzps",
-      "title": "Democrats’ Chances of Winning Senate Shift on Nate Silver Forecast",
-      "title_vi": "Cơ hội giành chiến thắng tại Thượng viện của đảng Dân chủ Thay đổi theo dự báo của Nate Silver",
-      "summary_vi": "Cuộc bỏ phiếu mới trên chiến trường nâng tầm đảng Dân chủ trong một mô hình được theo dõi chặt chẽ, trong khi thị trường cho thấy cuộc chiến chặt chẽ để giành quyền kiểm soát của Thượng viện.",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2026/09/Copy-of-32-image-2026-09-15T102232-453.png?w=1200&crop=1",
-      "link": "https://www.newsweek.com/democrats-chances-winning-senate-shift-nate-silver-forecast-12442493",
-      "source": "Newsweek",
-      "category": "metal",
-      "published": "2026-09-15 18:53"
-    },
-    {
-      "id": "tsgpks",
-      "title": "Rising Copper Demand to Cause a 25% Supply Gap by 2035, says IEA",
-      "title_vi": "IEA cho biết nhu cầu đồng tăng cao gây ra khoảng cách nguồn cung 25% vào năm 2035",
-      "summary_vi": "Nhu cầu đồng ngày càng tăng và số lượng phát hiện ít hơn làm tăng nhu cầu về các dự án được xác định rõ ràng để có thể tăng cường nguồn cung trong tương lai.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6aa7f44278336289e2d4ee17_Copper%20Coil.png",
-      "link": "https://www.cruxinvestor.com/posts/rising-copper-demand-to-cause-a-25-supply-gap-by-2035-says-iea",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-09-15 15:49"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17 22:00",
+  "updated_at": "2026-09-17 22:20",
   "items": [
     {
       "id": "x0flh1",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-09-17 21:00"
+    },
+    {
+      "id": "30o187",
+      "title": "Furthers &#038; Betters Goes Beyond the Cup for Specialty Coffee Consumer Intelligence",
+      "title_vi": "Mores & Betters vượt xa giải thưởng dành cho cà phê đặc biệt Thông tin người tiêu dùng",
+      "summary_vi": "Một công ty tư vấn và nghiên cứu cà phê đặc sản mới có tên là Fars & Betters sắp ra mắt với trọng tâm là những người thực sự mua và uống cà phê. Được đồng sáng lập bởi người tiêu dùng lâu năm...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/09/17/furthers-betters-goes-beyond-the-cup-for-specialty-coffee-consumer-intelligence/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-09-17 20:39"
     },
     {
       "id": "159qqpr",
@@ -539,17 +550,6 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-09-15 15:49"
-    },
-    {
-      "id": "1busfrf",
-      "title": "European Natural Gas Prices Supported as Market Remains Tight",
-      "title_vi": "Giá khí đốt tự nhiên châu Âu được hỗ trợ khi thị trường vẫn thắt chặt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/european-natural-gas-prices-supported-as-market-remains-tight-380d8d95",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-09-15 15:02"
     }
   ]
 }

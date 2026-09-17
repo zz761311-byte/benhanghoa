@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-17 06:00",
+  "updated_at": "2026-09-17 07:00",
   "items": [
+    {
+      "id": "1lerw6e",
+      "title": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
+      "title_vi": "StanChart nhận thấy giá dầu cao hơn khi khủng hoảng Hormuz lan sang các tuyến xuất khẩu của Saudi",
+      "summary_vi": "Giá dầu giảm trở lại nhưng vẫn tăng trước quyết định quan trọng của Fed vào thứ Tư, với kỳ vọng của thị trường chuyển sang xung đột Mỹ-Iran kéo dài. Dầu thô Brent giao tháng 11 giảm 2,88% lúc 2:18 chiều. ET, giao dịch ở mức 105,6 USD/thùng, trong khi dầu thô WTI cho tháng 10",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-16_ruvqzlwtda.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/StanChart-Sees-Higher-Oil-Floor-as-Hormuz-Crisis-Spreads-to-Saudi-Export-Routes.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-17 07:00"
+    },
     {
       "id": "1j91eaw",
       "title": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens",
@@ -88,17 +99,6 @@
       "source": "Robinhood",
       "category": "metal",
       "published": "2026-09-17 01:14"
-    },
-    {
-      "id": "1dgkso0",
-      "title": "Export Constraints Curb Kazakhstan’s Ability to Offset the Global Oil Shortage",
-      "title_vi": "Hạn chế xuất khẩu hạn chế khả năng bù đắp tình trạng thiếu dầu toàn cầu của Kazakhstan",
-      "summary_vi": "Các nhà phân tích ngành cho biết Kazakhstan, nơi có trữ lượng dầu lớn, không có khả năng giúp bù đắp cuộc khủng hoảng năng lượng sắp xảy ra bằng cách mở rộng sản xuất. Khi eo biển Hormuz bị phong tỏa, Nga trừng phạt và đường ống Đông-Tây của Ả Rập Saudi bị máy bay không người lái Iran đánh sập",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-15_xwtrgm2eud.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Export-Constraints-Curb-Kazakhstans-Ability-to-Offset-the-Global-Oil-Shortage.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-17 01:00"
     },
     {
       "id": "1bwmqog",
@@ -242,6 +242,17 @@
       "source": "Investing.com",
       "category": "macro",
       "published": "2026-09-16 14:39"
+    },
+    {
+      "id": "1lfag18",
+      "title": "Natural Gas and Oil Forecast: U.S. Stock Build Tests WTI as Saudi Supply Risks Persist",
+      "title_vi": "Dự báo về khí đốt và dầu tự nhiên: Chứng khoán Mỹ kiểm tra WTI khi rủi ro về nguồn cung của Saudi vẫn tồn tại",
+      "summary_vi": "Tồn kho dầu thô của Mỹ tăng mạnh, nhưng sự gián đoạn đường ống của Saudi và Hormuz đã hỗ trợ WTI và Brent, trong khi nhu cầu LNG giúp khí đốt tự nhiên tăng trưởng.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/Main-Images.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-u-s-stock-build-tests-wti-as-saudi-supply-risks-persist-1628558",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-09-16 14:37"
     },
     {
       "id": "1ba94m0",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-14 23:31"
-    },
-    {
-      "id": "1pjtnq3",
-      "title": "Border States Commodity Update — September 2026",
-      "title_vi": "Cập nhật hàng hóa của các bang biên giới - tháng 9 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://tedmag.com/border-states-commodity-update-september-2026/",
-      "source": "tedmag.com",
-      "category": "macro",
-      "published": "2026-09-14 23:08"
     }
   ]
 }

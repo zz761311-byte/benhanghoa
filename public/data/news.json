@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-18 10:01",
+  "updated_at": "2026-09-18 11:01",
   "items": [
+    {
+      "id": "1ombdjk",
+      "title": "Explainer: What commodity markets can expect from the Trump-Xi summit",
+      "title_vi": "Người giải thích: Thị trường hàng hóa có thể mong đợi gì từ hội nghị thượng đỉnh Trump-Xi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/china/what-commodity-markets-can-expect-trump-xi-summit-2026-09-18/",
+      "source": "Reuters",
+      "category": "macro",
+      "published": "2026-09-18 09:55"
+    },
     {
       "id": "1rwlxkp",
       "title": "Congress passes sanctions, tariff bill targeting buyers of Russian energy",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-09-16 14:37"
-    },
-    {
-      "id": "ew70mz",
-      "title": "Supply concerns fuel coffee price rally",
-      "title_vi": "Mối lo ngại về nguồn cung thúc đẩy giá cà phê tăng",
-      "summary_vi": "Báo cáo của ICO nhấn mạnh những lo ngại về nguồn cung, sự gián đoạn thời tiết ở Brazil và giá cà phê tăng trong bối cảnh thị trường biến động.",
-      "image": "https://www.gcrmag.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-at-1.52.02-pm.jpg",
-      "link": "https://www.gcrmag.com/supply-concerns-fuel-coffee-price-rally/",
-      "source": "Global Coffee Report",
-      "category": "energy",
-      "published": "2026-09-16 14:00"
     }
   ]
 }

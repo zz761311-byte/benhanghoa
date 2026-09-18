@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 05:01",
+  "updated_at": "2026-09-19 06:01",
   "items": [
     {
       "id": "70y1em",
@@ -121,6 +121,17 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-09-18 22:37"
+    },
+    {
+      "id": "uu57gu",
+      "title": "Sell Sugar Now Before Prices Fall Even Lower",
+      "title_vi": "Bán đường ngay trước khi giá giảm sâu hơn nữa",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/sell-sugar-now-prices-fall-152518786.html",
+      "source": "Yahoo Finance",
+      "category": "soft",
+      "published": "2026-09-18 22:25"
     },
     {
       "id": "1hg49l7",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance Singapore",
       "category": "macro",
       "published": "2026-09-17 09:47"
-    },
-    {
-      "id": "dubhck",
-      "title": "Gold gains over 2% on weaker dollar, easing oil prices",
-      "title_vi": "Vàng tăng hơn 2% do đồng đô la yếu hơn, giá dầu giảm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-rises-over-1-investors-digest-fed-hike-oil-rally-stalls-2026-09-17/",
-      "source": "Reuters",
-      "category": "macro",
-      "published": "2026-09-17 09:27"
     }
   ]
 }

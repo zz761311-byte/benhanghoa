@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-18 13:00",
+  "updated_at": "2026-09-18 14:01",
   "items": [
+    {
+      "id": "10q59bm",
+      "title": "[SMM Flash] Platinum and palladium prices declined on September 16 as",
+      "title_vi": "[SMM Flash] Giá bạch kim và palladium giảm vào ngày 16 tháng 9 do",
+      "summary_vi": "[SMM Flash] Giá bạch kim và palađi giảm vào ngày 16 tháng 9 do kim loại quý chịu áp lực sau quyết định của Cục Dự trữ Liên bang Hoa Kỳ tăng lãi suất chuẩn lên 25...",
+      "image": "https://static.metal.com/common.metal.com/images/header-en/smm-logo.png",
+      "link": "https://news.metal.com/newscontent/104122988-platinum-and-palladium-fall-as-fed-rate-hike-strengthens-dollar",
+      "source": "Shanghai Metals Market",
+      "category": "metal",
+      "published": "2026-09-18 13:51"
+    },
     {
       "id": "9y5hx2",
       "title": "Oil Prices Head for Weekly Loss as Saudi Export Fears Ease",
@@ -539,17 +550,6 @@
       "source": "World Grain",
       "category": "agri",
       "published": "2026-09-16 19:15"
-    },
-    {
-      "id": "1aned3r",
-      "title": "Federal Reserve Rate Decision: Is the Bad News Priced In or Just Beginning?",
-      "title_vi": "Quyết định về lãi suất của Cục Dự trữ Liên bang: Tin xấu đã được định giá hay chỉ mới bắt đầu?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/analysis/federal-reserve-rate-decision-is-the-bad-news-priced-in-or-just-beginning-200687756",
-      "source": "Investing.com",
-      "category": "macro",
-      "published": "2026-09-16 14:39"
     }
   ]
 }

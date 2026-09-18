@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 01:01",
+  "updated_at": "2026-09-19 02:01",
   "items": [
     {
       "id": "if845a",
@@ -99,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-18 22:30"
+    },
+    {
+      "id": "191ntdi",
+      "title": "Gas prices approach highest level this year with just weeks to go before midterms",
+      "title_vi": "Giá xăng đạt mức cao nhất trong năm nay khi chỉ còn vài tuần nữa là đến kỳ giữa kỳ",
+      "summary_vi": "Mức trung bình toàn quốc hôm thứ Sáu thấp hơn 10 xu so với mức cao nhất trong tháng Năm, chưa đầy tám tuần trước cuộc bầu cử để xác định đảng nào kiểm soát Quốc hội.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-gas-prices-mn-0905-3783e3.jpg",
+      "link": "https://www.nbcnews.com/business/energy/gas-prices-trump-midterms-iran-rcna598523",
+      "source": "NBC News",
+      "category": "energy",
+      "published": "2026-09-18 22:11"
     },
     {
       "id": "wahl1m",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-17 04:24"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-09-17 03:26"
     }
   ]
 }

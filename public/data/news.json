@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-18 20:54",
+  "updated_at": "2026-09-18 21:01",
   "items": [
+    {
+      "id": "12h61js",
+      "title": "The Oil Market’s Backup Plan Is Breaking Down",
+      "title_vi": "Kế hoạch dự phòng của thị trường dầu mỏ đang thất bại",
+      "summary_vi": "Trong nhiều thập kỷ, rủi ro địa chính trị lớn nhất đè nặng lên thị trường dầu mỏ là eo biển Hormuz. Trước khi cuộc xung đột ở Iran bắt đầu vào cuối tháng 2, khoảng 1/5 lượng dầu mỏ lỏng của thế giới đã di chuyển qua tuyến đường thủy hẹp ngăn cách Iran và Oman, khiến nơi đây trở thành nơi",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-18_adgd6luo3v.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Oil-Markets-Backup-Plan-Is-Breaking-Down.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-18 21:00"
+    },
     {
       "id": "ma9arh",
       "title": "Japan&#039;s Refiners Have Enough Crude to Last Through November, Industry Body Says",
@@ -99,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-18 16:30"
-    },
-    {
-      "id": "1vxmced",
-      "title": "China’s Fuel Exports Surge as Global Diesel Shortage Deepens",
-      "title_vi": "Xuất khẩu nhiên liệu của Trung Quốc tăng vọt khi tình trạng thiếu dầu diesel toàn cầu ngày càng trầm trọng",
-      "summary_vi": "Trung Quốc đã xuất khẩu 6,01 triệu tấn nhiên liệu đã tinh chế trong tháng 8, tăng 12,7% hàng năm, theo dữ liệu hải quan Trung Quốc được Reuters trích dẫn hôm nay. Tổng khối lượng đã vượt quá mức trước chiến tranh, với xuất khẩu nhiên liệu máy bay ở mức cao nhất mọi thời đại. Tổng cộng 8 tháng đầu năm",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-18_khag2r1snp.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Fuel-Exports-Surge-as-Global-Diesel-Shortage-Deepens.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-18 15:30"
     },
     {
       "id": "10q59bm",
@@ -376,6 +376,17 @@
       "published": "2026-09-17 15:20"
     },
     {
+      "id": "1wgji64",
+      "title": "Brazil harvest key to sugar prices as trade balance outlook tightens - just-food.com",
+      "title_vi": "Brazil thu được chìa khóa cho giá đường khi triển vọng cán cân thương mại thắt chặt - just-food.com",
+      "summary_vi": "Những lo ngại về triển vọng nguồn cung đã đẩy giá đường tăng cao trong những tuần gần đây. Những người theo dõi ngành sẽ theo dõi chặt chẽ vụ thu hoạch của Brazil.",
+      "image": "https://www.just-food.com/wp-content/uploads/sites/28/2026/09/shutterstock_2742730655-e1789559671234.jpg",
+      "link": "https://www.just-food.com/analyst-comment/brazil-harvest-key-to-sugar-prices-as-trade-balance-outlook-tightens/",
+      "source": "just-food.com",
+      "category": "soft",
+      "published": "2026-09-17 15:03"
+    },
+    {
       "id": "dwxekj",
       "title": "European Gas Prices Rise as European Inventories Remain Low",
       "title_vi": "Giá khí đốt châu Âu tăng do tồn kho châu Âu vẫn ở mức thấp",
@@ -539,17 +550,6 @@
       "source": "BBC",
       "category": "energy",
       "published": "2026-09-16 23:06"
-    },
-    {
-      "id": "8pie9s",
-      "title": "Coffee Prices Pressured by Improved Global Supply Outlook",
-      "title_vi": "Giá cà phê bị áp lực bởi triển vọng nguồn cung toàn cầu được cải thiện",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barchart.com/story/news/4638154/coffee-prices-pressured-by-improved-global-supply-outlook",
-      "source": "Barchart.com",
-      "category": "soft",
-      "published": "2026-09-16 22:47"
     }
   ]
 }

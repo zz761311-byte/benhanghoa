@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-18 23:01",
+  "updated_at": "2026-09-19 00:01",
   "items": [
+    {
+      "id": "zn4cjw",
+      "title": "TotalEnergies and BlackRock Sign $1.8B Deal for African Oil and Gas Assets",
+      "title_vi": "TotalEnergies và BlackRock ký thỏa thuận trị giá 1,8 tỷ USD cho tài sản dầu khí châu Phi",
+      "summary_vi": "TotalEnergies và Đối tác cơ sở hạ tầng toàn cầu (GIP) của BlackRock đã ký thỏa thuận hợp tác, theo đó GIP sẽ đầu tư 1,8 tỷ USD góp vốn vào một số tài sản cơ sở hạ tầng dầu khí của tập đoàn lớn của Pháp ở Châu Phi. Để đổi lấy 1,8 tỷ USD",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-18_ffa0mhx8tq.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-and-BlackRock-Sign-18B-Deal-for-African-Oil-and-Gas-Assets.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-18 23:30"
+    },
+    {
+      "id": "mgd271",
+      "title": "Saudi Export Pivot Sends Brent Below $105",
+      "title_vi": "Trục xuất khẩu của Saudi đẩy Brent xuống dưới 105 USD",
+      "summary_vi": "Saudi Aramco chuyển xuất khẩu dầu thô sang Vịnh Ba Tư, xoa dịu lo ngại về nguồn cung và đẩy Brent xuống dưới 105 USD. Thứ sáu, ngày 18 tháng 9 năm 2026 Thị trường hoảng loạn vào tuần trước về đường ống Đông-Tây 7 triệu thùng/ngày ngừng hoạt động trong nhiều tuần đã nhường chỗ cho một triển vọng có nhiều sắc thái hơn trong tuần này",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Export-Pivot-Sends-Brent-Below-105.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-18 23:15"
+    },
     {
       "id": "apoavh",
       "title": "Russia’s $118 Billion Arctic Oil Bet Pushes Ahead Despite Sanctions",
@@ -87,28 +109,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/WTI-Retreats-as-Saudi-Oil-Workaround-Eases-Supply-Fears.html",
       "source": "OilPrice",
       "category": "energy",
-      "published": "2026-09-18 19:30"
-    },
-    {
-      "id": "nyjbkc",
-      "title": "Trump Advances More Than $27 Billion in Saudi and Israeli Arms Deals",
-      "title_vi": "Trump ứng trước hơn 27 tỷ USD cho các thương vụ vũ khí của Saudi và Israel",
-      "summary_vi": "Chính trị, địa chính trị và xung đột Nhà máy lọc dầu do nhà nước Ba Lan kiểm soát, Orlen, đã mất 230 triệu USD trong một hợp đồng mua dầu thô của Venezuela ngay thời điểm họ chuyển tiền mà không có tài sản thế chấp và không có bảo lãnh ngân hàng. Chi nhánh thương mại Thụy Sĩ của Orlen đã ký hợp đồng trị giá 345 triệu USD với Hann có trụ sở tại Dubai",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-18_kltwucneaf.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Trump-Advances-More-Than-27-Billion-in-Saudi-and-Israeli-Arms-Deals.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-18 19:30"
-    },
-    {
-      "id": "1dojet4",
-      "title": "The Race to Build a World Beyond Hormuz",
-      "title_vi": "Cuộc đua xây dựng một thế giới ngoài Hormuz",
-      "summary_vi": "Thay vào đó, mọi tác nhân có quyền chấm dứt cuộc chiến này đã dành tháng 9 để xây dựng cơ sở hạ tầng lâu dài để sinh sống xung quanh nó. Hạ viện đã bỏ phiếu lần thứ ba vào thứ Ba nhằm hạn chế quyền lực chiến tranh của Trump, thông qua nghị quyết mới nhất 220-204, nhưng có rất ít niềm tin rằng nó sẽ tạo ra",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-18_jpal6disng.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Race-to-Build-a-World-Beyond-Hormuz.html",
-      "source": "OilPrice",
-      "category": "metal",
       "published": "2026-09-18 19:30"
     },
     {
@@ -497,6 +497,17 @@
       "published": "2026-09-17 04:50"
     },
     {
+      "id": "dc3bdh",
+      "title": "Claas Introduced Rovio 5 Corn Head, Combine Automation, and Grain Analysis",
+      "title_vi": "Claas giới thiệu đầu ngô Rovio 5, tự động hóa kết hợp và phân tích hạt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/claas-introduces-rovio-5-corn-head-and-automated-combine-optimization-12124996",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-09-17 04:33"
+    },
+    {
       "id": "1lrkwix",
       "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
       "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-09-17 00:57"
-    },
-    {
-      "id": "107xxwf",
-      "title": "Grounds for Health Marks 30 Years with Annual Coffee Auction",
-      "title_vi": "Căn cứ đánh dấu 30 năm sức khỏe với cuộc đấu giá cà phê hàng năm",
-      "summary_vi": "Cuộc đấu giá thiết bị và cà phê xanh Grounds for Health hàng năm sẽ diễn ra từ ngày 23 đến ngày 24 tháng 9, cung cấp cho các nhà rang xay nhiều loại cà phê xanh chất lượng cao, có thể truy xuất nguồn gốc đồng thời gây quỹ cho các chương trình phòng chống ung thư cổ tử cung...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/09/16/grounds-for-health-marks-30-years-with-annual-coffee-auction/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-09-17 00:45"
     }
   ]
 }

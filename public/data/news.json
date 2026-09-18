@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-18 09:01",
+  "updated_at": "2026-09-18 10:01",
   "items": [
+    {
+      "id": "1rwlxkp",
+      "title": "Congress passes sanctions, tariff bill targeting buyers of Russian energy",
+      "title_vi": "Quốc hội thông qua lệnh trừng phạt, dự luật thuế quan nhắm vào người mua năng lượng của Nga",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/091726-congress-passes-sanctions-tariff-bill-targeting-buyers-of-russian-energy",
+      "source": "S&P Global",
+      "category": "macro",
+      "published": "2026-09-18 07:40"
+    },
     {
       "id": "xu7cva",
       "title": "What Yemen Really Means to the U.S.-Iran War",
@@ -539,17 +550,6 @@
       "source": "Global Coffee Report",
       "category": "energy",
       "published": "2026-09-16 14:00"
-    },
-    {
-      "id": "1ba94m0",
-      "title": "Tightening supply outlook fuels hopes for $6 corn",
-      "title_vi": "Triển vọng nguồn cung thắt chặt thúc đẩy hy vọng giá ngô đạt 6 USD",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/corn/tightening-supply-outlook-fuels-hopes-for-6-corn",
-      "source": "Farm Progress",
-      "category": "energy",
-      "published": "2026-09-16 13:43"
     }
   ]
 }

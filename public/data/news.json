@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18 07:01",
+  "updated_at": "2026-09-18 07:26",
   "items": [
     {
       "id": "xu7cva",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-18 04:00"
+    },
+    {
+      "id": "1r4ak9i",
+      "title": "Nevada gas prices jump 18 cents amid high crude oil prices",
+      "title_vi": "Giá xăng Nevada tăng 18 xu trong bối cảnh giá dầu thô cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://thisisreno.com/2026/09/nevada-gas-prices-jump-18-cents-amid-high-crude-oil-prices/",
+      "source": "This Is Reno",
+      "category": "energy",
+      "published": "2026-09-18 03:35"
     },
     {
       "id": "1wlxzrr",
@@ -539,17 +550,6 @@
       "source": "Farm Progress",
       "category": "energy",
       "published": "2026-09-16 13:43"
-    },
-    {
-      "id": "1lev31t",
-      "title": "Where will corn and soybean prices go? It’s a corn flip",
-      "title_vi": "Giá ngô và đậu tương sẽ đi về đâu? Đó là một cú lật ngô",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/where-will-corn-and-soybean-prices-go-it-s-a-corn-flip",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-09-16 12:52"
     }
   ]
 }

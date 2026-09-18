@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-19 02:01",
+  "updated_at": "2026-09-19 02:43",
   "items": [
+    {
+      "id": "jj1680",
+      "title": "Natural Gas Futures Bounce Off Support as LNG Demand Blunts Cooler Outlook",
+      "title_vi": "Hợp đồng tương lai khí đốt tự nhiên thoát khỏi sự hỗ trợ khi nhu cầu LNG làm giảm triển vọng mát mẻ hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.naturalgasintel.com/news/natural-gas-futures-bounce-off-support-as-lng-demand-blunts-cooler-outlook/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-09-19 02:07"
+    },
     {
       "id": "if845a",
       "title": "Kazakhstan Turns to Russian Gas as Domestic Demand Surges",
@@ -198,6 +209,17 @@
       "source": "93.3 The Drive",
       "category": "macro",
       "published": "2026-09-18 10:25"
+    },
+    {
+      "id": "1ifz34s",
+      "title": "There are hundreds of coffee shops across Chicago, but one in Pilsen stands out",
+      "title_vi": "Có hàng trăm quán cà phê trên khắp Chicago, nhưng nổi bật nhất là một quán ở Pilsen",
+      "summary_vi": "Pilsen có thể là khu phố đầy màu sắc nhất ở Chicago. Và một quán cà phê - mới mở chưa đầy một năm - đã xuất hiện ngay, như Kevin Pang tiết lộ.",
+      "image": "https://media.nbcchicago.com/2026/09/51269670174-1080pnbcstations.jpg?quality=85&#038;strip=all&#038;resize=1200%2C675",
+      "link": "https://www.nbcchicago.com/video/news/local/there-are-hundreds-of-coffee-shops-across-chicago-but-one-in-pilsen-stands-out/3990673/",
+      "source": "NBC 5 Chicago",
+      "category": "soft",
+      "published": "2026-09-18 10:21"
     },
     {
       "id": "1ombdjk",
@@ -528,28 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-17 04:50"
-    },
-    {
-      "id": "dc3bdh",
-      "title": "Claas Introduced Rovio 5 Corn Head, Combine Automation, and Grain Analysis",
-      "title_vi": "Claas giới thiệu đầu ngô Rovio 5, tự động hóa kết hợp và phân tích hạt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/claas-introduces-rovio-5-corn-head-and-automated-combine-optimization-12124996",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-09-17 04:33"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-17 04:24"
     }
   ]
 }

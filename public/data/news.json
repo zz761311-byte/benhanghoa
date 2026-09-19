@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-19 18:00",
+  "updated_at": "2026-09-19 19:01",
   "items": [
+    {
+      "id": "1sec990",
+      "title": "Have coffee prices gone up? Here’s what experts say",
+      "title_vi": "Giá cà phê có tăng không? Đây là những gì các chuyên gia nói",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.cleveland.com/news/2026/09/have-coffee-prices-gone-up-heres-what-experts-say.html",
+      "source": "cleveland.com",
+      "category": "soft",
+      "published": "2026-09-19 18:15"
+    },
+    {
+      "id": "9kftr2",
+      "title": "General Mills (GIS) Stock Looks About Right Despite Sugar Pricing Lawsuit",
+      "title_vi": "Cổ phiếu của General Mills (GIS) có vẻ ổn bất chấp vụ kiện về giá đường",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/general-mills-gis-stock-looks-041814097.html",
+      "source": "Yahoo Finance",
+      "category": "soft",
+      "published": "2026-09-19 11:18"
+    },
     {
       "id": "2gwsed",
       "title": "Oil prices slip on technicals and easing of supply",
@@ -528,28 +550,6 @@
       "source": "newsquawk.com",
       "category": "macro",
       "published": "2026-09-17 17:18"
-    },
-    {
-      "id": "16tqlh6",
-      "title": "Gold Recovers From Post-Fed Lows as Interest-Rate Outlook Weighs on Prices",
-      "title_vi": "Vàng phục hồi từ mức thấp sau Fed khi triển vọng lãi suất đè nặng lên giá",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-recovers-post-fed-lows-091953192.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-09-17 16:19"
-    },
-    {
-      "id": "10xpg3x",
-      "title": "U.S.-Canada trade war makes two losers",
-      "title_vi": "Chiến tranh thương mại Mỹ-Canada khiến hai bên thua cuộc",
-      "summary_vi": "Vào năm 2013, tôi đã viết một cuốn sách về sự phụ thuộc kinh tế của Canada vào Mỹ dưới hình thức mối quan hệ thương mại không cân xứng cũng là một điểm yếu chiến lược. Bây giờ chúng tôi biết tại sao. Đó là năm 2026 và Donald Trump đang có động thái, nhưng may mắn thay, Can…",
-      "image": "https://www.nydailynews.com/wp-content/uploads/2026/09/GettyImages-2292329062-1.jpg?w=7633&#038;h=5089",
-      "link": "https://www.nydailynews.com/2026/09/17/u-s-canada-trade-war-makes-two-losers/",
-      "source": "New York Daily News",
-      "category": "macro",
-      "published": "2026-09-17 16:00"
     }
   ]
 }

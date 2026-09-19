@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 06:01",
+  "updated_at": "2026-09-19 07:00",
   "items": [
     {
       "id": "70y1em",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-19 04:00"
+    },
+    {
+      "id": "1or4h7k",
+      "title": "Analysis-Russia sanctions bill gives Trump sweeping new tariff powers By Reuters",
+      "title_vi": "Phân tích-Dự luật trừng phạt Nga mang lại cho Trump quyền lực thuế quan mới",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/commodities-news/analysisrussia-sanctions-bill-gives-trump-sweeping-new-tariff-powers-4907872",
+      "source": "Investing.com",
+      "category": "macro",
+      "published": "2026-09-19 03:39"
     },
     {
       "id": "jj1680",
@@ -165,6 +176,17 @@
       "source": "NBC News",
       "category": "energy",
       "published": "2026-09-18 22:11"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-09-18 21:49"
     },
     {
       "id": "4kyh2b",
@@ -528,28 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-09-17 14:57"
-    },
-    {
-      "id": "2fex4b",
-      "title": "A stronger dollar and rising yields: How the Fed’s rate hike could hit global markets",
-      "title_vi": "Đồng đô la mạnh hơn và lợi suất tăng: Việc tăng lãi suất của Fed có thể tác động đến thị trường toàn cầu như thế nào",
-      "summary_vi": "Lãi suất cao hơn của Mỹ cũng có thể khiến lợi suất trái phiếu toàn cầu tăng cao và gây áp lực lên định giá vốn cổ phần cũng như tăng trưởng kinh tế.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108364037-17895893572026-09-16t200807z_1402825571_rc2iknai4t1v_rtrmadp_0_usa-fed-stocks.jpeg?v=1789589422&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/09/17/fed-rate-hike-impact-globally-currency-yields.html",
-      "source": "CNBC",
-      "category": "macro",
-      "published": "2026-09-17 11:40"
-    },
-    {
-      "id": "z589bl",
-      "title": "Where the US-China tariff row stands ahead of White House summit",
-      "title_vi": "Hàng rào thuế quan Mỹ-Trung diễn ra trước hội nghị thượng đỉnh Nhà Trắng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://sg.finance.yahoo.com/news/where-us-china-tariff-row-024709841.html",
-      "source": "Yahoo Finance Singapore",
-      "category": "macro",
-      "published": "2026-09-17 09:47"
     }
   ]
 }

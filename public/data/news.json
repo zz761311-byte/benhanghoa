@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 20:13",
+  "updated_at": "2026-09-19 21:01",
   "items": [
     {
       "id": "1sec990",
@@ -409,6 +409,17 @@
       "published": "2026-09-18 05:00"
     },
     {
+      "id": "1hebga",
+      "title": "A Guide to Trump’s Section 232 Tariffs, in Maps",
+      "title_vi": "Hướng dẫn về Thuế quan Mục 232 của Trump, trên Bản đồ",
+      "summary_vi": "Tổng thống Donald Trump đã phát động một làn sóng áp dụng thuế quan và điều tra theo Mục 232, nhằm tìm cách bảo vệ an ninh quốc gia Hoa Kỳ. Những đồ họa này cho thấy quy mô và cấu trúc sự phụ thuộc của Hoa Kỳ vào các nhà cung cấp nước ngoài đối với các sản phẩm từ ô tô đến đồng.",
+      "image": "https://assets.cfr.org/images/t_og_image_landscape/v1758106502/result_GettyImages-2209945896_6171e7758/result_GettyImages-2209945896_6171e7758.jpg",
+      "link": "https://www.cfr.org/articles/guide-trumps-section-232-tariffs-nine-maps",
+      "source": "Council on Foreign Relations",
+      "category": "macro",
+      "published": "2026-09-18 04:50"
+    },
+    {
       "id": "1r4ak9i",
       "title": "Nevada gas prices jump 18 cents amid high crude oil prices",
       "title_vi": "Giá xăng Nevada tăng 18 xu trong bối cảnh giá dầu thô cao",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-17 20:06"
-    },
-    {
-      "id": "uxu6bw",
-      "title": "Cotton Falling Lower on Thursday Morning",
-      "title_vi": "Bông rơi thấp hơn vào sáng thứ năm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barchart.com/story/news/4655893/cotton-falling-lower-on-thursday-morning",
-      "source": "Barchart.com",
-      "category": "soft",
-      "published": "2026-09-17 19:32"
     }
   ]
 }

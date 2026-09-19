@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20 00:01",
+  "updated_at": "2026-09-20 01:01",
   "items": [
     {
       "id": "ogcpdn",
@@ -354,6 +354,17 @@
       "published": "2026-09-18 10:21"
     },
     {
+      "id": "dubhck",
+      "title": "Gold gains over 2% on weaker dollar, easing oil prices",
+      "title_vi": "Vàng tăng hơn 2% do đồng đô la yếu hơn, giá dầu giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-rises-over-1-investors-digest-fed-hike-oil-rally-stalls-2026-09-17/",
+      "source": "Reuters",
+      "category": "macro",
+      "published": "2026-09-18 10:17"
+    },
+    {
       "id": "1ombdjk",
       "title": "Explainer: What commodity markets can expect from the Trump-Xi summit",
       "title_vi": "Người giải thích: Thị trường hàng hóa có thể mong đợi gì từ hội nghị thượng đỉnh Trump-Xi",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-17 20:39"
-    },
-    {
-      "id": "15s3lkp",
-      "title": "Smart Care Unifies Five Coffee Equipment Service Brands as Turbo Tech",
-      "title_vi": "Smart Care hợp nhất năm thương hiệu dịch vụ thiết bị cà phê thành Turbo Tech",
-      "summary_vi": "Công ty dịch vụ thiết bị thương mại Smart Care đang hợp nhất năm doanh nghiệp kinh doanh dịch vụ cà phê và lò nướng tốc độ trong khu vực dưới một thương hiệu quốc gia duy nhất có tên Turbo Tech. Thương hiệu mới kết hợp Turbo Technicians, EspressoMe,...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/09/17/smart-care-unifies-five-coffee-equipment-service-brands-as-turbo-tech/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-09-17 20:06"
     }
   ]
 }

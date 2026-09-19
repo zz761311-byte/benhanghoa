@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 07:00",
+  "updated_at": "2026-09-19 07:25",
   "items": [
     {
       "id": "70y1em",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-19 04:00"
+    },
+    {
+      "id": "1cbxlex",
+      "title": "Cocoa Beach Pier Surf Report, Surf Forecast and Surf Cams",
+      "title_vi": "Báo cáo lướt sóng trên bến tàu trên bãi biển Cocoa, dự báo lướt sóng và máy quay lướt sóng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.surfline.com/surf-report/cocoa-beach-pier/5842041f4e65fad6a7708872",
+      "source": "Surfline",
+      "category": "soft",
+      "published": "2026-09-19 03:42"
     },
     {
       "id": "1or4h7k",
@@ -539,17 +550,6 @@
       "source": "just-food.com",
       "category": "soft",
       "published": "2026-09-17 15:03"
-    },
-    {
-      "id": "dwxekj",
-      "title": "European Gas Prices Rise as European Inventories Remain Low",
-      "title_vi": "Giá khí đốt châu Âu tăng do tồn kho châu Âu vẫn ở mức thấp",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-european-inventories-remain-low-4d38b0ac",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-09-17 14:57"
     }
   ]
 }

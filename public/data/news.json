@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-19 07:25",
+  "updated_at": "2026-09-19 08:00",
   "items": [
+    {
+      "id": "2gwsed",
+      "title": "Oil prices slip on technicals and easing of supply",
+      "title_vi": "Giá dầu trượt dốc do yếu tố kỹ thuật và nguồn cung giảm",
+      "summary_vi": "Công ty theo dõi tàu chở dầu Kpler ước tính rằng khoảng 10 triệu thùng/ngày đã vượt qua eo biển này trong tuần qua nhưng con số đó vẫn giảm so với mức 17-20 triệu thùng/ngày trước chiến tranh.",
+      "image": "https://img.ogj.com/files/base/ebm/ogj/image/website/logos/1752245958870-ogj_horizontalcolor_reg2.png?auto=format,compress&fit=fill&fill=solid&fill-color=&w=1200&h=627",
+      "link": "https://www.ogj.com/general-interest/economics-markets/article/55406323/oil-prices-slip-on-technicals-and-easing-of-supply",
+      "source": "Oil & Gas Journal",
+      "category": "energy",
+      "published": "2026-09-19 04:39"
+    },
     {
       "id": "70y1em",
       "title": "Macron Calls for Another Emergency Oil Release as Europe Loses Supply",
@@ -539,17 +550,6 @@
       "source": "The Times of India",
       "category": "metal",
       "published": "2026-09-17 15:20"
-    },
-    {
-      "id": "1wgji64",
-      "title": "Brazil harvest key to sugar prices as trade balance outlook tightens - just-food.com",
-      "title_vi": "Brazil thu được chìa khóa cho giá đường khi triển vọng cán cân thương mại thắt chặt - just-food.com",
-      "summary_vi": "Những lo ngại về triển vọng nguồn cung đã đẩy giá đường tăng cao trong những tuần gần đây. Những người theo dõi ngành sẽ theo dõi chặt chẽ vụ thu hoạch của Brazil.",
-      "image": "https://www.just-food.com/wp-content/uploads/sites/28/2026/09/shutterstock_2742730655-e1789559671234.jpg",
-      "link": "https://www.just-food.com/analyst-comment/brazil-harvest-key-to-sugar-prices-as-trade-balance-outlook-tightens/",
-      "source": "just-food.com",
-      "category": "soft",
-      "published": "2026-09-17 15:03"
     }
   ]
 }

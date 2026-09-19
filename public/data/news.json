@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-20 01:58",
+  "updated_at": "2026-09-20 02:01",
   "items": [
+    {
+      "id": "j53xej",
+      "title": "Britain Faces £150 Billion Grid Overhaul to Power Renewable Energy Boom",
+      "title_vi": "Anh phải đối mặt với việc đại tu lưới điện trị giá 150 tỷ bảng Anh để bùng nổ năng lượng tái tạo",
+      "summary_vi": "Vương quốc Anh sẽ cần đầu tư mạnh vào việc mở rộng mạng lưới điện để đáp ứng nhu cầu điện ngày càng tăng và đảm bảo rằng các dự án năng lượng tái tạo mới có thể kết nối với mạng lưới này. Nhà điều hành Hệ thống Năng lượng Quốc gia Vương quốc Anh (NESO) đã thông báo rằng ước tính sẽ có hơn 150 triệu bảng Anh",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-18_8agstdri0h.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Britain-Faces-150-Billion-Grid-Overhaul-to-Power-Renewable-Energy-Boom.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-20 02:00"
+    },
     {
       "id": "ogcpdn",
       "title": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off",
@@ -156,17 +167,6 @@
       "published": "2026-09-19 00:30"
     },
     {
-      "id": "17nln48",
-      "title": "U.S. Oil, Gas Rig Count Creeps Up With Strong Prices",
-      "title_vi": "Số lượng giàn khoan dầu, khí đốt của Mỹ tăng lên với giá mạnh",
-      "summary_vi": "Theo dữ liệu mới mà Baker Hughes công bố hôm thứ Sáu, tổng số giàn khoan đang hoạt động ở Mỹ đã tăng trong tuần này, với tổng số giàn khoan ở Mỹ tăng lên 595, tăng 53 giàn so với cùng thời điểm này năm ngoái. Số lượng giàn khoan dầu đang hoạt động tăng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-18_zhmbsbowr5.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Rig-Count-Creeps-Up-With-Strong-Prices.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-19 00:18"
-    },
-    {
       "id": "1yeu7tp",
       "title": "Design Details: A Fluid Space for Cinnamon Rolls and Specialty Coffee at Cinnamood in Barcelona",
       "title_vi": "Chi tiết thiết kế: Không gian linh hoạt cho món bánh quế và cà phê đặc sản tại Cinnamood ở Barcelona",
@@ -242,6 +242,17 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-09-18 21:49"
+    },
+    {
+      "id": "jiwk7e",
+      "title": "House Passes Bill Allowing New Tariffs on Russia Oil Buyers",
+      "title_vi": "Hạ viện thông qua dự luật cho phép áp thuế mới đối với người mua dầu của Nga",
+      "summary_vi": "Quốc hội đã phê chuẩn lần cuối dự luật trao cho Tổng thống Donald Trump quyền mới để áp đặt thuế quan đối với các quốc gia mua sản phẩm dầu mỏ của Nga.",
+      "image": "https://images.rigzone.com/images/news/articles/House-Passes-Bill-Allowing-New-Tariffs-on-Russia-Oil-Buyers-184653-1200x628.png",
+      "link": "https://www.rigzone.com/news/wire/house_passes_bill_allowing_new_tariffs_on_russia_oil_buyers-18-sep-2026-184653-article/",
+      "source": "Rigzone",
+      "category": "energy",
+      "published": "2026-09-18 21:37"
     },
     {
       "id": "1rdqdki",
@@ -539,17 +550,6 @@
       "source": "PR Newswire",
       "category": "metal",
       "published": "2026-09-17 22:00"
-    },
-    {
-      "id": "wwfbsd",
-      "title": "Your cost for groceries could go up and El Niño is to blame",
-      "title_vi": "Chi phí mua hàng tạp hóa của bạn có thể tăng lên và El Niño là nguyên nhân",
-      "summary_vi": "El Niño mạnh đe dọa cà phê, ca cao, chuối, đường, dầu cọ, gạo, lúa mì, cá và thịt bò, đẩy giá hàng tạp hóa lên cao hơn vào năm 2027.",
-      "image": "https://s.w-x.co/wxnext/img/el_nino_groceries_one_91526-ab1ca2.jpg",
-      "link": "https://weather.com/2026/09/17/home-garden/food/your-grocery-bill-could-go-up-because-of-el-nino",
-      "source": "The Weather Channel",
-      "category": "soft",
-      "published": "2026-09-17 21:00"
     }
   ]
 }

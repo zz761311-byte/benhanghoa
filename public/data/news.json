@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20 16:01",
+  "updated_at": "2026-09-20 17:01",
   "items": [
     {
       "id": "huui0o",
@@ -299,6 +299,17 @@
       "published": "2026-09-18 21:37"
     },
     {
+      "id": "eb5mtb",
+      "title": "Who’s ahead on the generic congressional ballot?",
+      "title_vi": "Ai dẫn trước trong cuộc bỏ phiếu chung của quốc hội?",
+      "summary_vi": "Công cụ theo dõi các cuộc thăm dò được cập nhật liên tục của chúng tôi về chỉ số quan trọng nhất trong cuộc đua vào Quốc hội.",
+      "image": "https://substackcdn.com/image/fetch/$s_!DHD9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b7584a6-a95a-4054-90c6-ca160d014d37_1200x831.jpeg",
+      "link": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls",
+      "source": "Silver Bulletin",
+      "category": "metal",
+      "published": "2026-09-18 20:52"
+    },
+    {
       "id": "1rdqdki",
       "title": "Friedland flags copper supply constraints amid growing demand",
       "title_vi": "Friedland cảnh báo hạn chế về nguồn cung đồng trong bối cảnh nhu cầu ngày càng tăng",
@@ -539,17 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-09-18 02:15"
-    },
-    {
-      "id": "1yywxki",
-      "title": "Gas prices are about to take a big jump, analysts say, with the worst still to come",
-      "title_vi": "Các nhà phân tích cho biết giá xăng sắp tăng vọt và điều tồi tệ nhất vẫn còn xảy ra",
-      "summary_vi": "Dự báo về tác động kinh tế sau cuộc bầu cử giữa kỳ tháng 11 trái ngược với thông điệp lạc quan của chính quyền Trump.",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CII2KN6SQJ7Y5VGOZA3ZE7T7N4_size-normalized.jpg&w=1440",
-      "link": "https://www.washingtonpost.com/world/2026/09/16/analysts-predict-gas-price-jump-long-disruption-damaged-pipeline/",
-      "source": "The Washington Post",
-      "category": "energy",
-      "published": "2026-09-18 01:31"
     }
   ]
 }

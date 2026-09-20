@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20 19:01",
+  "updated_at": "2026-09-20 19:28",
   "items": [
     {
       "id": "306s7d",
@@ -387,6 +387,17 @@
       "published": "2026-09-18 17:42"
     },
     {
+      "id": "bbg4mv",
+      "title": "For soybean market, waiting for Xi is the hardest part",
+      "title_vi": "Đối với thị trường đậu nành, chờ ông Tập là khó nhất",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-09-18 14:00"
+    },
+    {
       "id": "10q59bm",
       "title": "[SMM Flash] Platinum and palladium prices declined on September 16 as",
       "title_vi": "[SMM Flash] Giá bạch kim và palladium giảm vào ngày 16 tháng 9 do",
@@ -539,17 +550,6 @@
       "source": "LiveNOW from FOX",
       "category": "soft",
       "published": "2026-09-18 03:05"
-    },
-    {
-      "id": "x6tnib",
-      "title": "September WASDE: Corn Crop Shrinks, Soybean Demand Holds",
-      "title_vi": "WASDE tháng 9: Vụ ngô giảm, nhu cầu đậu nành giữ nguyên",
-      "summary_vi": "USDA giữ sản lượng đậu tương ổn định khi Al Kluis chỉ ra nhu cầu mạnh mẽ và cơ hội thị trường sau thu hoạch.",
-      "image": "https://www.iasoybeans.com/filesimages/Newsroom/articles-images/2026/09%20September/Corn-with-Rain-PS.jpg",
-      "link": "https://www.iasoybeans.com/newsroom/article/strong-demand-shapes-soybean-outlook",
-      "source": "Iowa Soybean Association",
-      "category": "agri",
-      "published": "2026-09-18 02:32"
     }
   ]
 }

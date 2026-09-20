@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20 09:01",
+  "updated_at": "2026-09-20 10:00",
   "items": [
     {
       "id": "wskwf9",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-20 06:00"
+    },
+    {
+      "id": "mwi3x7",
+      "title": "Governor Newsom signs bill expanding fuel options to help Californians save at the pump, amid Donald Trump’s gas price crisis",
+      "title_vi": "Thống đốc Newsom ký dự luật mở rộng các lựa chọn nhiên liệu để giúp người dân California tiết kiệm tiền xăng, trong bối cảnh cuộc khủng hoảng giá xăng của Donald Trump",
+      "summary_vi": "Tiểu bang California",
+      "image": "https://www.gov.ca.gov/wp-content/uploads/2026/09/Governor-Newsom-signs-bill-expanding-fuel-options-to-help-Californians-save-at-the-pump-amid-Donald-Trumps-gas-price-crisis-SEO-GFX.png",
+      "link": "https://www.gov.ca.gov/2026/09/19/governor-newsom-signs-bill-expanding-fuel-options-to-help-californians-save-at-the-pump-amid-donald-trumps-gas-price-crisis/",
+      "source": "California State Portal | CA.gov",
+      "category": "energy",
+      "published": "2026-09-20 05:30"
     },
     {
       "id": "j53xej",
@@ -539,17 +550,6 @@
       "source": "AAA Gas Prices",
       "category": "energy",
       "published": "2026-09-17 22:03"
-    },
-    {
-      "id": "jq8y31",
-      "title": "By-Product Credits Can Push a Silver Mine's Cash Cost Below Zero",
-      "title_vi": "Tín dụng sản phẩm phụ có thể đẩy chi phí tiền mặt của mỏ bạc xuống dưới 0",
-      "summary_vi": "Bình luận về Tin tức nội bộ công bằng VANCOUVER, BC, ngày 17 tháng 9 năm 2026 /PRNewswire/ -- Bạc đang bị thâm hụt cơ cấu hàng năm lần thứ sáu liên tiếp và giá...",
-      "image": "https://mmx.prnewswire.com/media/MS1718299/Equity-Insider-Logo.jpg?id=OA2955527&p=facebook",
-      "link": "https://www.prnewswire.com/news-releases/by-product-credits-can-push-a-silver-mines-cash-cost-below-zero-302882071.html",
-      "source": "PR Newswire",
-      "category": "metal",
-      "published": "2026-09-17 22:00"
     }
   ]
 }

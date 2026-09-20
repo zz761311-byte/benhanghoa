@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-20 21:01",
+  "updated_at": "2026-09-20 22:01",
   "items": [
+    {
+      "id": "12370yh",
+      "title": "New York’s $75 Billion Climate Liability Law Faces an Uncertain Future",
+      "title_vi": "Luật trách nhiệm về khí hậu trị giá 75 tỷ USD của New York đối mặt với một tương lai không chắc chắn",
+      "summary_vi": "Năm 2024, Thống đốc New York Kathy Hochul đã ký luật yêu cầu những người gây ô nhiễm nhiên liệu hóa thạch lớn phải bồi thường thiệt hại lên tới 75 tỷ USD. Tuy nhiên, sau hai năm, một thẩm phán liên bang đã ra phán quyết rằng luật này mâu thuẫn với luật liên bang và không thể tiếp tục. Đạo luật mà Hochul đã ký vào ngày 2 tháng 12",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-18_sguietqpd5.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/New-Yorks-75-Billion-Climate-Liability-Law-Faces-an-Uncertain-Future.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-20 22:00"
+    },
     {
       "id": "306s7d",
       "title": "Silver Price Canada Today | Live Silver Price in CAD",
@@ -123,6 +134,17 @@
       "published": "2026-09-19 11:07"
     },
     {
+      "id": "3uad0a",
+      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
+      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
+      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/markets/agriculture/images/grain-oilseed-pgp-leadspace.jpg",
+      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-09-19 10:59"
+    },
+    {
       "id": "10bh9lw",
       "title": "Lori Wilson Park Surf Report, Surf Forecast and Surf Cams",
       "title_vi": "Báo cáo lướt sóng tại Công viên Lori Wilson, Dự báo lướt sóng và Camera lướt sóng",
@@ -173,17 +195,6 @@
       "summary_vi": "Cuộc khủng hoảng ở Trung Đông đã ảnh hưởng tới các điểm nghẽn vận chuyển toàn cầu quan trọng cách eo biển Hormuz hàng ngàn dặm. Sau khi lưu lượng tàu chở dầu đi qua cửa khẩu xuất khẩu dầu và LNG chính của Trung Đông bị tê liệt, Kênh đào Panama và Kênh đào Suez đã chứng kiến ​​sự gia tăng",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-18_ohemvzmj9z.jpg",
       "link": "https://oilprice.com/Energy/Crude-Oil/Global-Shipping-Costs-Explode-as-Hormuz-Disruptions-Hit-Key-Trade-Routes.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-19 04:00"
-    },
-    {
-      "id": "1hv1652",
-      "title": "Space-Based Solar Power Could Reach the Grid by 2028",
-      "title_vi": "Năng lượng mặt trời trên không gian có thể tiếp cận lưới điện vào năm 2028",
-      "summary_vi": "Cuộc khủng hoảng năng lượng trí tuệ nhân tạo đang thúc đẩy quá trình phát triển năng lượng mặt trời trên không gian. Khi thế giới đang gấp rút xây dựng thêm năng lực sản xuất năng lượng nhằm đáp ứng nhu cầu tăng vọt từ các công ty siêu quy mô trong trung tâm dữ liệu, các tổ chức công và tư nhân",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-18_qgosbygevf.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Space-Based-Solar-Power-Could-Reach-the-Grid-by-2028.html",
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-19 04:00"
@@ -539,17 +550,6 @@
       "source": "Council on Foreign Relations",
       "category": "macro",
       "published": "2026-09-18 04:50"
-    },
-    {
-      "id": "1r4ak9i",
-      "title": "Nevada gas prices jump 18 cents amid high crude oil prices",
-      "title_vi": "Giá xăng Nevada tăng 18 xu trong bối cảnh giá dầu thô cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://thisisreno.com/2026/09/nevada-gas-prices-jump-18-cents-amid-high-crude-oil-prices/",
-      "source": "This Is Reno",
-      "category": "energy",
-      "published": "2026-09-18 03:35"
     }
   ]
 }

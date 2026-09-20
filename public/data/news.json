@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20 15:02",
+  "updated_at": "2026-09-20 16:01",
   "items": [
     {
       "id": "huui0o",
@@ -134,6 +134,17 @@
       "published": "2026-09-19 04:39"
     },
     {
+      "id": "gbemdd",
+      "title": "Copper mine supply risks first decline since 2017: Sprott",
+      "title_vi": "Rủi ro nguồn cung mỏ đồng giảm lần đầu tiên kể từ năm 2017: Sprott",
+      "summary_vi": "“Giá cao hơn cải thiện tính kinh tế của dự án, nhưng chúng không thể nén mọi giai đoạn phát triển hoặc nhanh chóng bổ sung quy trình khám phá.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/09/escondida-bhp.jpg",
+      "link": "https://www.mining.com/copper-mine-supply-risks-first-decline-since-2017-sprott/",
+      "source": "mining.com",
+      "category": "metal",
+      "published": "2026-09-19 04:32"
+    },
+    {
       "id": "70y1em",
       "title": "Macron Calls for Another Emergency Oil Release as Europe Loses Supply",
       "title_vi": "Macron kêu gọi phát hành dầu khẩn cấp khác khi châu Âu mất nguồn cung",
@@ -196,7 +207,7 @@
       "image": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0&left=0.11827211827215&width=1023.7634557635&height=576&scale_width=1920&token=8a33ae11a06211700df645bd5a23476dbd7e4a750609ea997bf49d32f4638e66",
       "link": "https://www.kitco.com/news/article/2026-09-18/gold-silver-prices-hold-weekly-gains-oil-drops-yields-return-5-kitco-pm",
       "source": "KITCO",
-      "category": "macro",
+      "category": "metal",
       "published": "2026-09-19 01:13"
     },
     {
@@ -508,6 +519,17 @@
       "published": "2026-09-18 03:05"
     },
     {
+      "id": "x6tnib",
+      "title": "September WASDE: Corn Crop Shrinks, Soybean Demand Holds",
+      "title_vi": "WASDE tháng 9: Vụ ngô giảm, nhu cầu đậu nành giữ nguyên",
+      "summary_vi": "USDA giữ sản lượng đậu tương ổn định khi Al Kluis chỉ ra nhu cầu mạnh mẽ và cơ hội thị trường sau thu hoạch.",
+      "image": "https://www.iasoybeans.com/filesimages/Newsroom/articles-images/2026/09%20September/Corn-with-Rain-PS.jpg",
+      "link": "https://www.iasoybeans.com/newsroom/article/strong-demand-shapes-soybean-outlook",
+      "source": "Iowa Soybean Association",
+      "category": "agri",
+      "published": "2026-09-18 02:32"
+    },
+    {
       "id": "1o2pjl6",
       "title": "Silver Price Forecast: Bulls threaten bearish setup after Fed hike",
       "title_vi": "Dự báo giá bạc: Xu hướng tăng đe dọa thiết lập xu hướng giảm sau khi Fed tăng lãi suất",
@@ -528,28 +550,6 @@
       "source": "The Washington Post",
       "category": "energy",
       "published": "2026-09-18 01:31"
-    },
-    {
-      "id": "1kn8lel",
-      "title": "Under Pressure: The Size and Timing of the Harvest Low in Corn Basis",
-      "title_vi": "Dưới áp lực: Quy mô và thời gian thu hoạch trên cơ sở ngô thấp",
-      "summary_vi": "Austin Belman, Joe Janzen và Esteban Vizcarrondo - Cơ sở ngô thời điểm thu hoạch ngô của Mỹ chạm đáy vào giữa tháng 10, trùng với thời điểm cao điểm của hoạt động thu hoạch. Cơ sở trung bình ở mức thấp trong thời điểm thu hoạch thấp hơn khoảng 11 xu so với mức cuối tháng 11. Mức thấp nhất cấp tiểu bang trung bình là 16 xu, sâu nhất ở Missouri, Indiana và Illinois, và",
-      "image": "https://farmdocdaily.illinois.edu/wp-content/uploads/2026/09/09172026_fig1.png",
-      "link": "https://farmdocdaily.illinois.edu/2026/09/under-pressure-the-size-and-timing-of-the-harvest-low-in-corn-basis.html",
-      "source": "farmdoc daily",
-      "category": "agri",
-      "published": "2026-09-18 00:36"
-    },
-    {
-      "id": "1gzy4ti",
-      "title": "Trump wants to send a check? Pay Americans back the $108 billion his Iran War cost them at the pump first",
-      "title_vi": "Trump muốn gửi séc? Trả lại cho người Mỹ số tiền 108 tỷ USD mà cuộc chiến tranh Iran đã khiến họ thiệt hại ngay từ lần bơm tiền đầu tiên",
-      "summary_vi": "Tiểu bang California",
-      "image": "https://www.gov.ca.gov/wp-content/uploads/2026/09/Trump-wants-to-send-a-check_-Pay-Americans-back-the-108-billion-his-Iran-War-cost-them-at-the-pump-first-SEO-GFX-v2.png",
-      "link": "https://www.gov.ca.gov/2026/09/17/trump-wants-to-send-a-check-pay-americans-back-the-108-billion-his-iran-war-cost-them-at-the-pump-first/",
-      "source": "California State Portal | CA.gov",
-      "category": "energy",
-      "published": "2026-09-17 23:15"
     }
   ]
 }

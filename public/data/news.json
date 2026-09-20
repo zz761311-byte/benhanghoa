@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-20 18:01",
+  "updated_at": "2026-09-20 19:01",
   "items": [
+    {
+      "id": "306s7d",
+      "title": "Silver Price Canada Today | Live Silver Price in CAD",
+      "title_vi": "Giá Bạc Canada Hôm Nay | Giá bạc trực tiếp bằng CAD",
+      "summary_vi": "Giá bạc trực tiếp bằng CAD. Theo dõi giá bạc giao ngay ngày hôm nay bằng đô la Canada mỗi ounce, gam và kilo bằng biểu đồ bạc Canada theo thời gian thực của Kitco.",
+      "image": "https://www.kitco.com/fallbacks/ktc_img_fallback_lg.jpg",
+      "link": "https://www.kitco.com/price/silver-price-cad",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-09-20 16:51"
+    },
     {
       "id": "huui0o",
       "title": "Two dead in Moscow region, drones hit oil refinery in Russian capital",
@@ -539,17 +550,6 @@
       "source": "Iowa Soybean Association",
       "category": "agri",
       "published": "2026-09-18 02:32"
-    },
-    {
-      "id": "1o2pjl6",
-      "title": "Silver Price Forecast: Bulls threaten bearish setup after Fed hike",
-      "title_vi": "Dự báo giá bạc: Xu hướng tăng đe dọa thiết lập xu hướng giảm sau khi Fed tăng lãi suất",
-      "summary_vi": "Bạc (XAG/USD) tăng lên mức cao nhất trong 5 ngày trên 66,00 USD vào thứ Năm khi các nhà giao dịch đón nhận đợt tăng lãi suất của Cục Dự trữ Liên bang (Fed) vào thứ Tư. Trong khi đó, lãi suất trái phiếu kho bạc Mỹ giảm đang làm suy yếu đồng USD, vốn vẫn bám vào mức tăng sớm nhưng hầu như không thay đổi.",
-      "image": "https://editorial.fxsstatic.com/images/i/Silver4_Medium.png",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-bulls-threaten-bearish-setup-after-fed-hike-202609171915",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-09-18 02:15"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-22 05:50",
+  "updated_at": "2026-09-22 06:01",
   "items": [
+    {
+      "id": "1u4l2c1",
+      "title": "New U.S. Sanctions Law Threatens India’s Huge Russian Oil Trade",
+      "title_vi": "Luật trừng phạt mới của Hoa Kỳ đe dọa hoạt động buôn bán dầu mỏ khổng lồ của Ấn Độ từ Nga",
+      "summary_vi": "Việc nhập khẩu dầu thô rẻ hơn của Nga của Ấn Độ đã bị giám sát chặt chẽ trong những ngày gần đây sau khi các nhà lập pháp Mỹ thông qua dự luật trừng phạt mới đối với ngành năng lượng của Nga. “Đạo luật trừng phạt Nga và Iran năm 2026 của Lindsey O. Graham,” cho phép và mở rộng các biện pháp trừng phạt theo luật định,",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-21_rr3g5w6jqx.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/New-US-Sanctions-Law-Threatens-Indias-Huge-Russian-Oil-Trade.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-22 06:00"
+    },
     {
       "id": "d2ak7o",
       "title": "Global Refinery Crunch Pushes Diesel Prices to New Records",
@@ -112,6 +123,17 @@
       "published": "2026-09-22 01:00"
     },
     {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-09-22 00:48"
+    },
+    {
       "id": "4izxgd",
       "title": "Prague Caps Fuel Prices, Taxes Orlen&#039;s ‘Windfall’ Refining Margins",
       "title_vi": "Praha giới hạn giá nhiên liệu, thuế Lợi nhuận tinh chế 'trời cho' của Orlen",
@@ -132,17 +154,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-22 00:00"
-    },
-    {
-      "id": "jzbmiw",
-      "title": "Hormuz Blockage Puts Qatar&#039;s $83 Billion LNG Bet at Risk",
-      "title_vi": "Sự tắc nghẽn Hormuz khiến vụ đặt cược LNG trị giá 83 tỷ USD của Qatar gặp rủi ro",
-      "summary_vi": "Giám đốc điều hành QatarEnergy và Bộ trưởng Năng lượng Qatar Saad al-Kaabi cho biết cuộc khủng hoảng ở eo biển Hormuz có thể trì hoãn việc mở rộng LNG của công ty vì các thiết bị quan trọng không thể đến Qatar, Reuters đưa tin hôm thứ Hai. Chuyến tàu sản xuất đầu tiên của North Field East vẫn đúng tiến độ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-21_04ndrkza1x.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Blockage-Puts-Qatars-83-Billion-LNG-Bet-at-Risk.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-21 23:30"
     },
     {
       "id": "x47iyg",
@@ -539,17 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-09-18 22:22"
-    },
-    {
-      "id": "191ntdi",
-      "title": "Gas prices approach highest level this year with just weeks to go before midterms",
-      "title_vi": "Giá xăng đạt mức cao nhất trong năm nay khi chỉ còn vài tuần nữa là đến kỳ giữa kỳ",
-      "summary_vi": "Mức trung bình toàn quốc hôm thứ Sáu thấp hơn 10 xu so với mức cao nhất trong tháng Năm, chưa đầy tám tuần trước cuộc bầu cử để xác định đảng nào kiểm soát Quốc hội.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-gas-prices-mn-0905-3783e3.jpg",
-      "link": "https://www.nbcnews.com/business/energy/gas-prices-trump-midterms-iran-rcna598523",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-09-18 22:11"
     }
   ]
 }

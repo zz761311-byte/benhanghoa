@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21 14:15",
+  "updated_at": "2026-09-21 15:01",
   "items": [
     {
       "id": "1wqw2k3",
@@ -13,6 +13,17 @@
       "published": "2026-09-21 14:00"
     },
     {
+      "id": "1l4mq42",
+      "title": "Copper Futures Rise On Strong China Demand & Supply Constraints | Commodity Corner | CNBC TV18 - YouTube",
+      "title_vi": "Giá đồng kỳ hạn tăng do hạn chế cung và cầu mạnh mẽ của Trung Quốc | Góc hàng hóa | CNBC TV18 - YouTube",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://t.co/VJzazBI75K",
+      "source": "t.co",
+      "category": "metal",
+      "published": "2026-09-21 13:08"
+    },
+    {
       "id": "1slyy8e",
       "title": "Oil Prices Slide as Traders Bet on Iran Diplomacy",
       "title_vi": "Giá dầu trượt dốc khi các nhà giao dịch đặt cược vào chính sách ngoại giao của Iran",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-21 12:45"
+    },
+    {
+      "id": "1lgfjol",
+      "title": "US Corn Production Forecast Drops on Yields",
+      "title_vi": "Dự báo sản lượng ngô của Mỹ giảm do năng suất",
+      "summary_vi": "Cơ quan Nghiên cứu Kinh tế của Bộ Nông nghiệp Hoa Kỳ vào ngày 15 tháng 9 đã điều chỉnh dự báo sản lượng ngô niên vụ 2026/27 xuống 15,8 tỷ giạ, giảm 1% so với dự báo của tháng trước. Mặc dù đã giảm và giảm 1,2 tỷ giạ so với năm ngoái, năm 2026 […]",
+      "image": "https://www.adastraradio.com/wp-content/uploads/2026/08/Corn-Field-Pexels.jpg",
+      "link": "https://www.adastraradio.com/adastra-news/us-corn-production-forecast-drops-on-yields/",
+      "source": "Ad Astra Radio",
+      "category": "agri",
+      "published": "2026-09-21 08:52"
     },
     {
       "id": "kf0tuw",
@@ -528,28 +550,6 @@
       "source": "Reuters",
       "category": "macro",
       "published": "2026-09-18 10:17"
-    },
-    {
-      "id": "1ombdjk",
-      "title": "Explainer: What commodity markets can expect from the Trump-Xi summit",
-      "title_vi": "Người giải thích: Thị trường hàng hóa có thể mong đợi gì từ hội nghị thượng đỉnh Trump-Xi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/china/what-commodity-markets-can-expect-trump-xi-summit-2026-09-18/",
-      "source": "Reuters",
-      "category": "macro",
-      "published": "2026-09-18 09:55"
-    },
-    {
-      "id": "1w60zr9",
-      "title": "Oil Falls as Worries Over Middle East Supply Disruptions Ease",
-      "title_vi": "Dầu giảm do lo ngại về sự gián đoạn nguồn cung ở Trung Đông giảm bớt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-worries-over-middle-east-supply-disruptions-ease-36be861a",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-09-18 07:41"
     }
   ]
 }

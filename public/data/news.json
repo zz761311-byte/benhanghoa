@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21 09:01",
+  "updated_at": "2026-09-21 10:01",
   "items": [
     {
       "id": "kf0tuw",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-20 22:00"
+    },
+    {
+      "id": "nifr5f",
+      "title": "Silver Price Forecast: Silver Rebounds Despite Fed Hike and 5% Yields",
+      "title_vi": "Dự báo giá bạc: Bạc phục hồi bất chấp việc Fed tăng lãi suất và lãi suất 5%",
+      "summary_vi": "Bạc giữ ở mức gần 66 USD do lợi suất trái phiếu Kho bạc hạn chế mức tăng, trong khi việc phá vỡ trên 72 USD có thể mở ra con đường hướng tới 90 USD.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/silver-precious-metal-price-chart-02-5.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/premium-silver-price-forecast-silver-rebounds-despite-fed-hike-and-5-yields-1630272",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-09-20 21:03"
     },
     {
       "id": "1gcix1c",
@@ -539,17 +550,6 @@
       "source": "S&P Global",
       "category": "macro",
       "published": "2026-09-18 07:40"
-    },
-    {
-      "id": "95y21x",
-      "title": "Chute Rubber Protective Liners Market To 2035: Mining and Electronics Drive Growth - News and Statistics",
-      "title_vi": "Thị trường tấm lót bảo vệ cao su máng đến năm 2035: Thúc đẩy tăng trưởng khai thác mỏ và điện tử - Tin tức và thống kê",
-      "summary_vi": "Triển vọng thị trường lớp lót bảo vệ cao su máng thế giới đến năm 2035: nhu cầu thay thế trong khai thác mỏ và tổng hợp, cộng với nhu cầu phòng sạch điện tử, hỗ trợ tăng trưởng ổn định ở mức trung bình một chữ số.",
-      "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-chute-rubber-protective-liners-market-analysis-forecast-size-trends-and-insights-1789690900.webp",
-      "link": "https://www.indexbox.io/blog/chute-rubber-protective-liners-market-forecast-to-2035-driven-by-mining-and-electronics-demand/",
-      "source": "IndexBox",
-      "category": "soft",
-      "published": "2026-09-18 07:21"
     }
   ]
 }

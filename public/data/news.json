@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22 05:01",
+  "updated_at": "2026-09-22 05:50",
   "items": [
     {
       "id": "d2ak7o",
@@ -88,6 +88,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-22 01:17"
+    },
+    {
+      "id": "6romrc",
+      "title": "Copper prices bounce as US runs out of warehouse space",
+      "title_vi": "Giá đồng tăng do Mỹ hết chỗ chứa",
+      "summary_vi": "Các kho hàng của Mỹ sắp đầy 100.000 tấn dự kiến ​​​​trong vòng vài tuần, phí bảo hiểm Thượng Hải tăng lên mức cao nhất trong 4 năm và London lại rơi vào tình trạng trì trệ.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/03/AdobeStock_1737435682-1024x574.jpeg",
+      "link": "https://www.mining.com/copper-prices-bounce-as-us-runs-out-of-warehouse-space/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-09-22 01:06"
     },
     {
       "id": "19i1o2l",
@@ -539,17 +550,6 @@
       "source": "NBC News",
       "category": "energy",
       "published": "2026-09-18 22:11"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-09-18 21:49"
     }
   ]
 }

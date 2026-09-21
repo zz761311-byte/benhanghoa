@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-21 07:01",
+  "updated_at": "2026-09-21 08:01",
   "items": [
+    {
+      "id": "kf0tuw",
+      "title": "A Shortage of Oil Tankers Is Threatening to Keep Gas Prices High",
+      "title_vi": "Sự thiếu hụt tàu chở dầu đang đe dọa giữ giá xăng ở mức cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/a-shortage-of-oil-tankers-is-threatening-to-keep-gas-prices-high-66b2675a",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-09-21 07:00"
+    },
     {
       "id": "60njk2",
       "title": "Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts",
@@ -539,17 +550,6 @@
       "source": "IndexBox",
       "category": "soft",
       "published": "2026-09-18 07:21"
-    },
-    {
-      "id": "18pieer",
-      "title": "Six-million-ounce platinum demand opportunity from hydrogen truck fleets",
-      "title_vi": "Cơ hội nhu cầu bạch kim 6 triệu ounce từ đội xe tải hydro",
-      "summary_vi": "Theo giám đốc điều hành Valterra Platinum: tiếp thị Hilton Ingram, nếu có thể đảm bảo 20% thị phần đội xe tải toàn cầu ở mức tải bạch kim hiện tại hoặc gần hiện tại, thì sẽ có cơ hội kiếm được 6 triệu ounce bạch kim từ góc độ nhu cầu, theo giám đốc điều hành Valterra Platinum: tiếp thị Hilton Ingram, người nói thêm rằng đội xe tải chạy bằng pin nhiên liệu hydro trong số hàng nghìn chiếc đã có sẵn.",
-      "image": "https://cdn.creamermedia.com/assets/articles/images/resized/0001297100_resized_valterraexecutiveheadhiltoningram1022.jpg",
-      "link": "https://www.miningweekly.com/article/six-million-ounce-platinum-demand-opportunity-from-hydrogen-truck-fleets-2026-09-18",
-      "source": "Mining Weekly",
-      "category": "metal",
-      "published": "2026-09-18 05:00"
     }
   ]
 }

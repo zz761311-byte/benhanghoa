@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-22 01:01",
+  "updated_at": "2026-09-22 02:01",
   "items": [
+    {
+      "id": "wx6k4y",
+      "title": "War Is Now A Core Risk Category For Data Centre Operators",
+      "title_vi": "Chiến tranh hiện là loại rủi ro cốt lõi đối với các nhà khai thác trung tâm dữ liệu",
+      "summary_vi": "Khi các trung tâm dữ liệu mở rộng quy mô, tiêu thụ nhiều năng lượng hơn và thu hút sự giám sát chặt chẽ hơn của cộng đồng, rủi ro bảo hiểm ngày càng trở nên phức tạp. Khi cơ sở hạ tầng AI phát triển, rủi ro pháp lý cũng tăng theo: các vụ kiện lớn liên quan đến trung tâm dữ liệu tăng hơn gấp ba lần từ bốn vụ trong cả năm 2021 lên 14 vụ trong nửa đầu năm",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-21_5btjk9gnq7.jpg",
+      "link": "https://oilprice.com/Geopolitics/International/War-Is-Now-A-Core-Risk-Category-For-Data-Centre-Operators.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-22 02:00"
+    },
     {
       "id": "19i1o2l",
       "title": "Trade Tensions Tear at Russia’s Eurasian Economic Union",
@@ -101,17 +112,6 @@
       "published": "2026-09-21 22:00"
     },
     {
-      "id": "1xq71jm",
-      "title": "Wholesale Gas Prices Are Reaching Consumers Faster, ECB Says",
-      "title_vi": "ECB cho biết giá khí bán buôn đang đến tay người tiêu dùng nhanh hơn",
-      "summary_vi": "Ngân hàng Trung ương châu Âu (ECB) cho biết trong Bản tin kinh tế hôm thứ Hai rằng sự gia tăng giá khí đốt tự nhiên bán buôn có thể dẫn đến lạm phát bán lẻ và điện ở khu vực Eurozone nhanh hơn so với trước đây. Mặc dù tốc độ truyền tải nhanh hơn và có thể biểu hiện ở lạm phát",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-21_yu6rk4aoqi.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Wholesale-Gas-Prices-Are-Reaching-Consumers-Faster-ECB-Says.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-21 21:30"
-    },
-    {
       "id": "fjypjc",
       "title": "New Mexico Experiment Brings Solar Heat to the Roasting Drum",
       "title_vi": "Thí nghiệm mới ở Mexico mang nhiệt mặt trời vào trống rang",
@@ -121,6 +121,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-21 21:20"
+    },
+    {
+      "id": "6ezen3",
+      "title": "Silver Price Forecast: $60–$70 Range Holds as Rates Weigh",
+      "title_vi": "Dự báo giá bạc: Phạm vi $60–$70 được giữ vững khi tỷ giá cân nhắc",
+      "summary_vi": "Bạc vẫn bị mắc kẹt giữa mức hỗ trợ 60 USD và mức kháng cự 70 USD khi tỷ giá tăng cao khiến đà tăng giảm.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/silver-precious-metal-price-chart-01-4.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/silver-price-forecast-60-70-range-holds-as-rates-weigh-1630464",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-09-21 21:06"
     },
     {
       "id": "103m9st",
@@ -231,17 +242,6 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "energy",
       "published": "2026-09-20 17:46"
-    },
-    {
-      "id": "306s7d",
-      "title": "Silver Price Canada Today | Live Silver Price in CAD",
-      "title_vi": "Giá Bạc Canada Hôm Nay | Giá bạc trực tiếp bằng CAD",
-      "summary_vi": "Giá bạc trực tiếp bằng CAD. Theo dõi giá bạc giao ngay ngày hôm nay bằng đô la Canada mỗi ounce, gam và kilo bằng biểu đồ bạc Canada theo thời gian thực của Kitco.",
-      "image": "https://www.kitco.com/fallbacks/ktc_img_fallback_lg.jpg",
-      "link": "https://www.kitco.com/price/silver-price-cad",
-      "source": "KITCO",
-      "category": "metal",
-      "published": "2026-09-20 16:51"
     },
     {
       "id": "mwi3x7",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21 06:35",
+  "updated_at": "2026-09-21 07:01",
   "items": [
     {
       "id": "60njk2",
@@ -387,6 +387,17 @@
       "published": "2026-09-18 18:33"
     },
     {
+      "id": "1485iff",
+      "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+      "title_vi": "Nông dân trồng lúa mì Mỹ đối mặt với tình trạng bất ổn trong bối cảnh hạn hán và hỗn loạn địa chính trị",
+      "summary_vi": "Một số chuyên gia lo ngại các yếu tố ảnh hưởng đến xuất khẩu lúa mì có thể đẩy giá lương thực toàn cầu lên cao hơn hiện nay",
+      "image": "https://i.guim.co.uk/img/media/8682bfd875e828a0900020dfd23df66d501f7f9c/499_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f53b493ab7a54754c74d399e31fd6b31",
+      "link": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
+      "source": "The Guardian",
+      "category": "agri",
+      "published": "2026-09-18 18:01"
+    },
+    {
       "id": "9z5rvu",
       "title": "Platinum Supply Risks Persist as Fed Hike Tests the $2,000 Bull Case",
       "title_vi": "Rủi ro nguồn cung bạch kim vẫn tồn tại khi đợt tăng lãi suất của Fed kiểm tra kịch bản tăng giá 2.000 USD",
@@ -539,17 +550,6 @@
       "source": "Mining Weekly",
       "category": "metal",
       "published": "2026-09-18 05:00"
-    },
-    {
-      "id": "1hebga",
-      "title": "A Guide to Trump’s Section 232 Tariffs, in Maps",
-      "title_vi": "Hướng dẫn về Thuế quan Mục 232 của Trump, trên Bản đồ",
-      "summary_vi": "Tổng thống Donald Trump đã phát động một làn sóng áp dụng thuế quan và điều tra theo Mục 232, nhằm tìm cách bảo vệ an ninh quốc gia Hoa Kỳ. Những đồ họa này cho thấy quy mô và cấu trúc sự phụ thuộc của Hoa Kỳ vào các nhà cung cấp nước ngoài đối với các sản phẩm từ ô tô đến đồng.",
-      "image": "https://assets.cfr.org/images/t_og_image_landscape/v1758106502/result_GettyImages-2209945896_6171e7758/result_GettyImages-2209945896_6171e7758.jpg",
-      "link": "https://www.cfr.org/articles/guide-trumps-section-232-tariffs-nine-maps",
-      "source": "Council on Foreign Relations",
-      "category": "macro",
-      "published": "2026-09-18 04:50"
     }
   ]
 }

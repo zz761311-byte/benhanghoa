@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22 02:01",
+  "updated_at": "2026-09-22 02:33",
   "items": [
     {
       "id": "wx6k4y",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-22 02:00"
+    },
+    {
+      "id": "1lmqyfv",
+      "title": "Cafe Imports Now 100% Employee-Owned Through a Stock Plan",
+      "title_vi": "Quán cà phê nhập khẩu hiện do nhân viên sở hữu 100% thông qua kế hoạch tồn kho",
+      "summary_vi": "Công ty nhập khẩu cà phê xanh Cafe Imports có trụ sở tại Minneapolis đã trở thành 100% do nhân viên sở hữu thông qua Kế hoạch sở hữu cổ phiếu dành cho nhân viên (ESOP), công ty đã công bố hôm nay.  Công ty 33 tuổi không tiết lộ mức định giá hay...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/09/21/cafe-imports-now-100-employee-owned-through-a-stock-plan/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-09-22 01:17"
     },
     {
       "id": "19i1o2l",
@@ -88,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-21 22:30"
+    },
+    {
+      "id": "18mwkbg",
+      "title": "Florida gas prices surge 21 cents to 4-month high as crude oil costs climb",
+      "title_vi": "Giá xăng ở Florida tăng 21 cent lên mức cao nhất trong 4 tháng khi giá dầu thô tăng",
+      "summary_vi": "Giá xăng trung bình ở Florida đạt 4,33 USD/gallon hôm thứ Sáu, mức giá hàng ngày cao nhất kể từ tháng 5 năm 2026, do giá dầu thô tăng đẩy chi phí nhiên liệu trên toàn quốc tăng cao.",
+      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/25OXPD5QM5GXRL7L5SMHXXSVWU.png?api_key=news4jax_3f10b25586458189",
+      "link": "https://www.news4jax.com/news/local/2026/09/21/florida-gas-prices-surge-21-cents-to-4-month-high-as-crude-oil-costs-climb/",
+      "source": "News4JAX",
+      "category": "energy",
+      "published": "2026-09-21 22:23"
     },
     {
       "id": "kjioq8",
@@ -528,28 +550,6 @@
       "source": "RFD-TV",
       "category": "soft",
       "published": "2026-09-18 19:19"
-    },
-    {
-      "id": "e1o6md",
-      "title": "Weekly Coffee News: Colombian Relief Collab + Superautomatic Espresso Launch",
-      "title_vi": "Tin tức Cà phê Hàng tuần: Hợp tác cứu trợ Colombia + Ra mắt Espresso siêu tự động",
-      "summary_vi": "Chào mừng bạn đến với Bản tin cà phê hàng tuần của DCN! Đăng ký tại đây để nhận tất cả các tin tức mới nhất về ngành cà phê. Ngoài ra, hãy xem các cơ hội nghề nghiệp mới nhất tại CoffeeIndustryJobs.com. Bigface và J Balvin ra mắt Colombia...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/09/18/weekly-coffee-news-colombian-relief-collab-superautomatic-espresso-launch/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-09-18 19:04"
-    },
-    {
-      "id": "1orqxsk",
-      "title": "Is Freeport McMoRan (FCX) Still Undervalued After Copper Price Swings?",
-      "title_vi": "Có phải Freeport McMoRan (FCX) vẫn bị định giá thấp sau khi giá đồng biến động?",
-      "summary_vi": "Freeport-McMoRan đã mang lại một đợt tăng giá cổ phiếu mạnh mẽ trong những năm gần đây và những biến động mới nhất trên thị trường đồng hiện đặt trọng tâm mới vào việc liệu động thái đó có phù hợp với lượng tiền mặt mà doanh nghiệp có thể tạo ra hay không. Với giá cổ phiếu được giao dịch quanh mức 70,85 USD vào thời điểm đóng cửa gần đây nhất, vấn đề quan trọng đối với bạn là giá đó sẽ tăng trở lại như thế nào",
-      "image": "https://images.simplywall.st/asset/company-cover/273607-card/1789014941999?w=1600&h=900&fit=cover",
-      "link": "https://simplywall.st/stocks/us/materials/nyse-fcx/freeport-mcmoran/news/is-freeport-mcmoran-fcx-still-undervalued-after-copper-price",
-      "source": "simplywall.st",
-      "category": "metal",
-      "published": "2026-09-18 18:33"
     }
   ]
 }

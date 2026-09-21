@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-21 15:01",
+  "updated_at": "2026-09-21 16:01",
   "items": [
+    {
+      "id": "pveuru",
+      "title": "Europe’s Fuel Crisis Spreads From Diesel to Jet Fuel",
+      "title_vi": "Khủng hoảng nhiên liệu ở châu Âu lan rộng từ nhiên liệu diesel sang nhiên liệu máy bay phản lực",
+      "summary_vi": "Châu Âu đang quay cuồng vì khủng hoảng nguồn cung dầu diesel, và giờ đây, một áp lực khác đang sắp xảy ra, khi nguồn cung nhiên liệu máy bay bị thắt chặt trước quý cuối cùng của năm. Theo khía cạnh năng lượng, sự thiếu hụt nguồn cung cấp nhiên liệu máy bay cho châu Âu trong quý tới có thể lên tới 510.000 thùng mỗi ngày, Re",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-21_jpxf7loclu.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Fuel-Crisis-Spreads-From-Diesel-to-Jet-Fuel.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-21 15:15"
+    },
     {
       "id": "1wqw2k3",
       "title": "Strait of Hormuz Shipping Traffic Falls Further as Saudi Oil Flows Rise",
@@ -140,17 +151,6 @@
       "summary_vi": "Thị trường hàng hải và năng lượng toàn cầu hiện đang cho thấy hai sự phát triển đáng kể. Cả hai đều chỉ ra rằng chúng không nên được coi là những câu chuyện thị trường riêng biệt mà là một lĩnh vực gắn kết với nhau. Công ty đầu tư ADNOC của Abu Dhabi, XRG, được cho là đang xem xét mua lại tới 50% cổ phần của Energo",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-18_r3mlykhort.jpg",
       "link": "https://oilprice.com/Energy/Energy-General/Energy-Giants-Are-Betting-Billions-on-a-World-of-Longer-Oil-Routes.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-20 06:00"
-    },
-    {
-      "id": "1ik42qz",
-      "title": "Europe Outbids Asia for LNG as Prices Surge 150%",
-      "title_vi": "Châu Âu trả giá cao hơn châu Á về LNG khi giá tăng 150%",
-      "summary_vi": "Giá khí tự nhiên hóa lỏng trên thị trường giao ngay đang tăng cao do nhu cầu tăng theo mùa và các nhà nhập khẩu châu Á đang khan hiếm nhiên liệu. Tuy nhiên, người mua châu Âu đang đẩy mạnh mua hàng bất chấp giá cả. Họ không có sự lựa chọn. Nhu cầu khí hóa lỏng của châu Á có thể giảm",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-18_nf2k7esprs.jpg",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Europe-Outbids-Asia-for-LNG-as-Prices-Surge-150.html",
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-20 06:00"
@@ -519,6 +519,17 @@
       "published": "2026-09-18 13:11"
     },
     {
+      "id": "1ombdjk",
+      "title": "What commodity markets can expect from the Trump-Xi summit",
+      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ hội nghị thượng đỉnh Trump-Xi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/china/what-commodity-markets-can-expect-trump-xi-summit-2026-09-18/",
+      "source": "Reuters",
+      "category": "macro",
+      "published": "2026-09-18 12:45"
+    },
+    {
       "id": "atsx8e",
       "title": "Explainer-What commodity markets can expect from the Trump-Xi summit",
       "title_vi": "Người giải thích-Thị trường hàng hóa có thể mong đợi gì từ hội nghị thượng đỉnh Trump-Xi",
@@ -539,17 +550,6 @@
       "source": "NBC 5 Chicago",
       "category": "soft",
       "published": "2026-09-18 10:21"
-    },
-    {
-      "id": "dubhck",
-      "title": "Gold gains over 2% on weaker dollar, easing oil prices",
-      "title_vi": "Vàng tăng hơn 2% do đồng đô la yếu hơn, giá dầu giảm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-rises-over-1-investors-digest-fed-hike-oil-rally-stalls-2026-09-17/",
-      "source": "Reuters",
-      "category": "macro",
-      "published": "2026-09-18 10:17"
     }
   ]
 }

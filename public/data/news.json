@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-21 12:01",
+  "updated_at": "2026-09-21 13:01",
   "items": [
+    {
+      "id": "1slyy8e",
+      "title": "Oil Prices Slide as Traders Bet on Iran Diplomacy",
+      "title_vi": "Giá dầu trượt dốc khi các nhà giao dịch đặt cược vào chính sách ngoại giao của Iran",
+      "summary_vi": "Giá dầu thô bắt đầu tuần trượt dốc, xuống mức thấp nhất trong một tuần do hy vọng mới về một giải pháp ngoại giao cho cuộc chiến ở Trung Đông, mặc dù không có bất kỳ bằng chứng nào cho thấy hai bên sẵn sàng đàm phán. Tại thời điểm viết bài,",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-21_z9lmsg52da.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-Traders-Bet-on-Iran-Diplomacy.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-21 12:45"
+    },
     {
       "id": "kf0tuw",
       "title": "A Shortage of Oil Tankers Is Threatening to Keep Gas Prices High",
@@ -134,17 +145,6 @@
       "published": "2026-09-20 02:00"
     },
     {
-      "id": "ogcpdn",
-      "title": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off",
-      "title_vi": "IAEA tăng gấp ba lần dự báo năng lượng hạt nhân khi các lò phản ứng nhỏ cuối cùng cũng cất cánh",
-      "summary_vi": "Sau nhiều năm trì hoãn và thời gian phát triển ổn định, cuối cùng có lẽ đã đến lúc diễn ra cuộc cách mạng hạt nhân nhỏ. Trong một báo cáo hoàn toàn mới, Cơ quan Năng lượng Nguyên tử Quốc tế (IAEA) một lần nữa tăng dự báo năng lượng hạt nhân dài hạn, dự báo rằng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-18_26svl0pxwc.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/IAEA-Triples-Nuclear-Power-Forecast-as-Small-Reactors-Finally-Take-Off.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-20 00:00"
-    },
-    {
       "id": "1sec990",
       "title": "Have coffee prices gone up? Here’s what experts say",
       "title_vi": "Giá cà phê có tăng không? Đây là những gì các chuyên gia nói",
@@ -198,6 +198,17 @@
       "source": "Surfline",
       "category": "soft",
       "published": "2026-09-19 10:49"
+    },
+    {
+      "id": "1gmblra",
+      "title": "Grain futures decline across corn, soybeans and wheat.",
+      "title_vi": "Giá ngũ cốc tương lai giảm đối với ngô, đậu nành và lúa mì.",
+      "summary_vi": "Giá ngô kỳ hạn tháng 12 giao dịch thấp hơn ở mức 527'4, đánh dấu tuần giảm thứ hai liên tiếp mặc dù doanh số xuất khẩu hàng tuần đạt 1,02 triệu tấn do người mua ở Mexico và Nhật Bản dẫn đầu. Giá đậu tương kỳ hạn tháng 11 chịu áp lực bán mạnh, trượt xuống mức 1303'4, mặc dù doanh số xuất khẩu hàng tuần đạt 1,7 triệu",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/grain-futures-decline-across-corn-soybeans-and-wheat-9-18-26.jpg",
+      "link": "https://www.cmegroup.com/videos/2026/09/18/grain-futures-decline-across-corn-soybeans-and-wheat-9-18-26.html",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-09-19 06:21"
     },
     {
       "id": "2gwsed",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-09-18 07:41"
-    },
-    {
-      "id": "1rwlxkp",
-      "title": "Congress passes sanctions, tariff bill targeting buyers of Russian energy",
-      "title_vi": "Quốc hội thông qua lệnh trừng phạt, dự luật thuế quan nhắm vào người mua năng lượng của Nga",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/091726-congress-passes-sanctions-tariff-bill-targeting-buyers-of-russian-energy",
-      "source": "S&P Global",
-      "category": "macro",
-      "published": "2026-09-18 07:40"
     }
   ]
 }

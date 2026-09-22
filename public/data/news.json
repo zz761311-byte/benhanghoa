@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23 02:01",
+  "updated_at": "2026-09-23 02:16",
   "items": [
     {
       "id": "cdwoni",
@@ -110,6 +110,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-22 21:05"
+    },
+    {
+      "id": "can2mh",
+      "title": "Prices Up but Pressure Remains: Corn and Soybean Growers Still Navigating Tight Margins",
+      "title_vi": "Giá tăng nhưng áp lực vẫn còn: Người trồng ngô và đậu nành vẫn đang có lợi nhuận eo hẹp",
+      "summary_vi": "Một báo cáo mới do Hiệp hội những người trồng ngô quốc gia (NCGA) và Hiệp hội đậu nành Mỹ (ASA) đồng tác giả ghi lại những áp lực kinh tế đang diễn ra trên khắp các quốc gia nông nghiệp, bất chấp những cải thiện gần đây về giá ở cả hai thị trường hàng hóa. Báo cáo phân tích và tổng hợp kết quả của một cuộc khảo sát...",
+      "image": "https://dt176nijwh14e.cloudfront.net/image/2002/1000/corn+and+soybean.jpg",
+      "link": "https://ncga.com/stay-informed/media/in-the-news/article/2026/09/prices-up-but-pressure-remains-corn-and-soybean-growers-still-navigating-tight-margins",
+      "source": "National Corn Growers Association",
+      "category": "agri",
+      "published": "2026-09-22 21:04"
     },
     {
       "id": "1sx7707",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-09-20 23:48"
-    },
-    {
-      "id": "nifr5f",
-      "title": "Silver Price Forecast: Silver Rebounds Despite Fed Hike and 5% Yields",
-      "title_vi": "Dự báo giá bạc: Bạc phục hồi bất chấp việc Fed tăng lãi suất và lãi suất 5%",
-      "summary_vi": "Bạc giữ ở mức gần 66 USD do lợi suất trái phiếu Kho bạc hạn chế mức tăng, trong khi việc phá vỡ trên 72 USD có thể mở ra con đường hướng tới 90 USD.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/silver-precious-metal-price-chart-02-5.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/premium-silver-price-forecast-silver-rebounds-despite-fed-hike-and-5-yields-1630272",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-09-20 21:03"
     }
   ]
 }

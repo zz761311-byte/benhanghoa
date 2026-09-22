@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22 10:01",
+  "updated_at": "2026-09-22 11:01",
   "items": [
     {
       "id": "17kewks",
@@ -354,6 +354,17 @@
       "published": "2026-09-21 04:34"
     },
     {
+      "id": "huui0o",
+      "title": "Three dead in Moscow region, drones hit oil refinery in Russian capital",
+      "title_vi": "Ba người chết ở khu vực Moscow, máy bay không người lái tấn công nhà máy lọc dầu ở thủ đô Nga",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/europe/two-dead-moscow-region-drones-hit-oil-refinery-russian-capital-2026-09-20/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-09-20 23:48"
+    },
+    {
       "id": "nifr5f",
       "title": "Silver Price Forecast: Silver Rebounds Despite Fed Hike and 5% Yields",
       "title_vi": "Dự báo giá bạc: Bạc phục hồi bất chấp việc Fed tăng lãi suất và lãi suất 5%",
@@ -363,17 +374,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-09-20 21:03"
-    },
-    {
-      "id": "1gcix1c",
-      "title": "Ukrainian drones and missiles target Moscow, oil refinery in deadly attack: Officials - ABC News",
-      "title_vi": "Máy bay không người lái và tên lửa Ukraine nhắm vào Moscow, nhà máy lọc dầu bị tấn công chết người: Các quan chức - ABC News",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://abcnews.com/International/ukrainian-drones-target-moscow-oil-refinery-deadly-attack/story?id",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-09-20 17:46"
     },
     {
       "id": "mwi3x7",

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-22 06:01",
+  "updated_at": "2026-09-22 07:01",
   "items": [
+    {
+      "id": "17kewks",
+      "title": "Qatar’s LNG Loss Revives Projects From Argentina to Timor-Leste",
+      "title_vi": "Sự mất mát LNG của Qatar hồi sinh các dự án từ Argentina đến Timor-Leste",
+      "summary_vi": "Với 17% công suất xuất khẩu LNG của Qatar bị vô hiệu hóa và các chuyến hàng từ vùng Vịnh bị gián đoạn, người mua đã đến Gastech để tìm kiếm khí đốt từ nơi khác. Các nhà tổ chức định giá các thỏa thuận được công bố hoặc đưa ra ở Bangkok vào khoảng 60 tỷ USD, bao gồm hợp đồng LNG của Mỹ thời hạn 20 năm và một hợp đồng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-21_sg1snqzuq6.jpg",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Qatars-LNG-Loss-Revives-Projects-From-Argentina-to-Timor-Leste.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-22 07:00"
+    },
     {
       "id": "1u4l2c1",
       "title": "New U.S. Sanctions Law Threatens India’s Huge Russian Oil Trade",
@@ -79,6 +90,17 @@
       "published": "2026-09-22 03:00"
     },
     {
+      "id": "m9rtup",
+      "title": "Shurley: What Does This Price Slide Mean?",
+      "title_vi": "Shurley: Sự trượt giá này có ý nghĩa gì?",
+      "summary_vi": "Việc chạy tới 93 xu đã kết thúc. Điều đó không có nghĩa là nó không thể quay trở lại nhưng thị trường đã điều chỉnh.",
+      "image": "https://www.cottongrower.com/wp-content/uploads/2026/08/DonShurley-SQ.jpg",
+      "link": "https://www.cottongrower.com/market-analysis/shurley-what-does-this-price-slide-mean/",
+      "source": "cottongrower.com",
+      "category": "soft",
+      "published": "2026-09-22 02:25"
+    },
+    {
       "id": "wx6k4y",
       "title": "War Is Now A Core Risk Category For Data Centre Operators",
       "title_vi": "Chiến tranh hiện là loại rủi ro cốt lõi đối với các nhà khai thác trung tâm dữ liệu",
@@ -143,17 +165,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-22 00:30"
-    },
-    {
-      "id": "1sd8zkh",
-      "title": "Bitcoin Tops $85,000 For First Time Since Late January",
-      "title_vi": "Bitcoin đạt mức 85.000 USD lần đầu tiên kể từ cuối tháng 1",
-      "summary_vi": "Bitcoin đã tăng trên 85.000 USD vào sáng nay lần đầu tiên kể từ cuối tháng 1... Sự phục hồi diễn ra cùng với sự tiến bộ của cổ phiếu và trái phiếu, khi giá dầu giảm và sự lạc quan trước hội nghị thượng đỉnh giữa Tổng thống Mỹ Trump và Chủ tịch Trung Quốc Tập Cận Bình đang thúc đẩy thị trường nói chung.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-21_qnuqkzwvpi.jpg",
-      "link": "https://oilprice.com/Finance/the-Economy/Bitcoin-Tops-85000-For-First-Time-Since-Late-January.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-22 00:00"
     },
     {
       "id": "x47iyg",
@@ -497,6 +508,17 @@
       "published": "2026-09-19 01:13"
     },
     {
+      "id": "1jgy7v8",
+      "title": "Gold shrugs off Fed rate hike as deeper forces drive safe-haven demand",
+      "title_vi": "Vàng không ủng hộ việc Fed tăng lãi suất khi các lực lượng sâu hơn thúc đẩy nhu cầu trú ẩn an toàn",
+      "summary_vi": "(Kitco News) - Có vẻ như có nhiều điều đang diễn ra trên thị trường vàng mà chỉ riêng chính sách tiền tệ có thể giải thích được, khi giá tiếp tục giữ mức hỗ trợ quan trọng vào cuối tuần, ngay cả sau khi Cục Dự trữ Liên bang tăng lãi suất và ra hiệu thắt chặt hơn nữa vào cuối năm. Các nhà phân tích lưu ý rằng khả năng phục hồi của vàng là một phần",
+      "image": "https://image-api.prod.kitco.com/image/f523b54f-3297-4705-aecb-33ec43e769b5.jpeg?top=0.45445110701107&left=0&width=1000&height=562.09109778598&scale_width=1920&token=cf97325ceb7ee7cd129d069de74c5fc291a2cd0062d71f1020888547bcbb2d1a",
+      "link": "https://www.kitco.com/news/article/2026-09-18/gold-shrugs-fed-rate-hike-deeper-forces-drive-safe-haven-demand",
+      "source": "KITCO",
+      "category": "metal",
+      "published": "2026-09-18 23:49"
+    },
+    {
       "id": "1yeu7tp",
       "title": "Design Details: A Fluid Space for Cinnamon Rolls and Specialty Coffee at Cinnamood in Barcelona",
       "title_vi": "Chi tiết thiết kế: Không gian linh hoạt cho món bánh quế và cà phê đặc sản tại Cinnamood ở Barcelona",
@@ -528,28 +550,6 @@
       "source": "Yahoo Finance",
       "category": "soft",
       "published": "2026-09-18 22:25"
-    },
-    {
-      "id": "1hg49l7",
-      "title": "Americans Are Paying More at the Pump as Trump’s War With Iran Expands",
-      "title_vi": "Người Mỹ đang trả nhiều tiền hơn cho máy bơm khi cuộc chiến của Trump với Iran mở rộng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.americanprogress.org/article/americans-are-paying-more-at-the-pump-as-trumps-war-with-iran-expands/",
-      "source": "americanprogress.org",
-      "category": "energy",
-      "published": "2026-09-18 22:25"
-    },
-    {
-      "id": "1uy9yhu",
-      "title": "Analyst says corn, soybean rally could improve farm margins",
-      "title_vi": "Nhà phân tích cho biết ngô, đậu nành tăng giá có thể cải thiện lợi nhuận trang trại",
-      "summary_vi": "Một nhà phân tích ngũ cốc và hạt có dầu cho biết giá ngô và đậu tương kỳ hạn tăng mạnh gần đây có thể mang lại cho nông dân cơ hội cải thiện lợi nhuận. Bree Baatz của Terrain cho biết đợt tăng giá trái mùa mang lại cho các nhà sản xuất một chút không gian để thở vào mùa thu này. “Tôi sẽ xem xét kỹ giá ngô 5,50 USD và ngô 5,30 USD. [&h",
-      "image": "",
-      "link": "https://www.brownfieldagnews.com/news/analyst-says-corn-soybean-rally-could-improve-farm-margins/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-09-18 22:22"
     }
   ]
 }

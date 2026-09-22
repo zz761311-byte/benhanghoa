@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-22 19:01",
+  "updated_at": "2026-09-22 20:01",
   "items": [
+    {
+      "id": "1sx7707",
+      "title": "Public companies produce most U.S. crude oil and natural gas",
+      "title_vi": "Các công ty đại chúng sản xuất hầu hết dầu thô và khí đốt tự nhiên của Hoa Kỳ",
+      "summary_vi": "Cơ quan Thông tin Năng lượng - EIA - Thống kê Năng lượng Chính thức của Chính phủ Hoa Kỳ",
+      "image": "",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id",
+      "source": "U.S. Energy Information Administration (EIA) (.gov)",
+      "category": "energy",
+      "published": "2026-09-22 20:00"
+    },
     {
       "id": "piwotu",
       "title": "Oil Tumbles 3% as Iran Floats Hormuz Reopening Within a Week",
@@ -376,6 +387,17 @@
       "published": "2026-09-21 04:34"
     },
     {
+      "id": "1luxc1u",
+      "title": "Copper Sulfate Biocides Market to Accelerate by 2035, Driven by Electronics Cooling Water Treatment Demand",
+      "title_vi": "Thị trường chất diệt khuẩn đồng sunfat sẽ tăng tốc vào năm 2035, do nhu cầu xử lý nước làm mát bằng điện tử",
+      "summary_vi": "Triển vọng thị trường Copper Sulfate Biocides đến năm 2035: nhu cầu xử lý nước làm mát thiết bị điện tử tăng nhanh và các quy định xả thải nghiêm ngặt hơn, với mức tiêu thụ hàng đầu ở Châu Á-Thái Bình Dương.",
+      "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-copper-sulfate-biocides-market-analysis-forecast-size-trends-and-insights-1789930301.webp",
+      "link": "https://www.indexbox.io/blog/copper-sulfate-biocides-market-to-accelerate-by-2035-driven-by-electronics-cooling-water-treatment-demand/",
+      "source": "IndexBox",
+      "category": "metal",
+      "published": "2026-09-21 01:51"
+    },
+    {
       "id": "huui0o",
       "title": "Three dead in Moscow region, drones hit oil refinery in Russian capital",
       "title_vi": "Ba người chết ở khu vực Moscow, máy bay không người lái tấn công nhà máy lọc dầu ở thủ đô Nga",
@@ -528,28 +550,6 @@
       "source": "Investing.com",
       "category": "macro",
       "published": "2026-09-19 03:39"
-    },
-    {
-      "id": "3azxal",
-      "title": "Turning Buyer Demand into Low-Carbon Copper Production",
-      "title_vi": "Biến nhu cầu của người mua thành sản xuất đồng có hàm lượng carbon thấp",
-      "summary_vi": "Việc đăng ký và yêu cầu bồi thường có thể giúp mở rộng nhu cầu về đồng có lượng phát thải thấp. Khám phá những phát hiện từ chương trình thí điểm RMI với mỏ Escondida và AWS của BHP.",
-      "image": "https://rmi.org/app/uploads/2026/09/iStock-2221878799.jpg",
-      "link": "https://rmi.org/resources/turning-buyer-demand-into-low-carbon-copper-production/",
-      "source": "RMI",
-      "category": "metal",
-      "published": "2026-09-19 02:41"
-    },
-    {
-      "id": "jj1680",
-      "title": "Natural Gas Futures Bounce Off Support as LNG Demand Blunts Cooler Outlook",
-      "title_vi": "Hợp đồng tương lai khí đốt tự nhiên thoát khỏi sự hỗ trợ khi nhu cầu LNG làm giảm triển vọng mát mẻ hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.naturalgasintel.com/news/natural-gas-futures-bounce-off-support-as-lng-demand-blunts-cooler-outlook/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-09-19 02:07"
     }
   ]
 }

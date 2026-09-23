@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-24 03:01",
+  "updated_at": "2026-09-24 04:01",
   "items": [
+    {
+      "id": "18jlp38",
+      "title": "China&#039;s Newest Power Plant Swaps Steam for Supercritical CO2",
+      "title_vi": "Nhà máy điện mới nhất của Trung Quốc đổi hơi nước lấy CO2 siêu tới hạn",
+      "summary_vi": "Trung Quốc vừa khởi công một cơ sở sản xuất và lưu trữ năng lượng lai mới mang tính cách mạng. Nhà máy điện sẽ lưu trữ năng lượng dư thừa dưới dạng muối nóng chảy, sau đó sản xuất điện trong thời gian có nhu cầu cao điểm thông qua hệ thống carbon dioxide siêu tới hạn. Mục tiêu của",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-23_l06sfnxzia.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Newest-Power-Plant-Swaps-Steam-for-Supercritical-CO2.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-24 04:00"
+    },
+    {
+      "id": "ozuzzb",
+      "title": "Crawford's First-Quartile Cost Curve Cushions It From Nickel's Price Slide",
+      "title_vi": "Đường cong chi phí tứ phân vị đầu tiên của Crawford giúp giảm bớt sự trượt dốc của giá niken",
+      "summary_vi": "Chi phí tiền mặt của Crawford là 0,39 USD/lb giữ cho nền kinh tế của Niken Canada không bị ảnh hưởng khi niken trượt xuống còn 16.000 USD/tấn.",
+      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a47ca858c80b7f2cb31c1f5_Close-up%20of%20nickel%20concentrate.jpg",
+      "link": "https://www.cruxinvestor.com/posts/crawfords-first-quartile-cost-curve-cushions-it-from-nickels-price-slide",
+      "source": "Crux Investor",
+      "category": "metal",
+      "published": "2026-09-24 03:02"
+    },
     {
       "id": "17x9ghh",
       "title": "Hormuz Workarounds Keep Gulf Oil Flowing—at a Steep Cost",
@@ -156,17 +178,6 @@
       "published": "2026-09-23 22:16"
     },
     {
-      "id": "aeic1m",
-      "title": "Copper Erases Tariff Selloff as Shanghai Stockpiles Hit Three-Year Low",
-      "title_vi": "Đồng xóa bỏ việc bán tháo thuế khi tồn kho ở Thượng Hải đạt mức thấp nhất trong ba năm",
-      "summary_vi": "Đồng đóng cửa hôm thứ Ba thấp hơn mức cao nhất mọi thời đại, kéo dài chuỗi tăng giá lên sáu phiên do người mua Trung Quốc bổ sung hàng trước kỳ nghỉ lễ liên tiếp và hàng tồn kho tại Thượng Hải và London tiếp tục cạn kiệt. Đồng kỳ hạn ba tháng trên Sàn giao dịch kim loại Luân Đôn định giá ở mức",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-23_ulhezcik6x.jpg",
-      "link": "https://oilprice.com/Metals/Commodities/Copper-Erases-Tariff-Selloff-as-Shanghai-Stockpiles-Hit-Three-Year-Low.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-09-23 22:00"
-    },
-    {
       "id": "1wb85li",
       "title": "Atomic Coffee and Overpotential Combine for Electrified Cold Brew",
       "title_vi": "Cà phê nguyên tử và sự kết hợp tiềm năng cho bia lạnh điện khí hóa",
@@ -198,6 +209,17 @@
       "source": "Investing.com",
       "category": "metal",
       "published": "2026-09-23 19:36"
+    },
+    {
+      "id": "8fgpdk",
+      "title": "Natural Gas News: Hotter Forecast Lifts Front Months as March Lags",
+      "title_vi": "Tin tức về khí đốt tự nhiên: Dự báo nóng hơn sẽ nâng cao các tháng trước khi tháng 3 chậm lại",
+      "summary_vi": "Giá khí đốt tự nhiên tăng do thời tiết tháng 10 nóng hơn thúc đẩy các tháng trước, nhưng tháng 3 lại tụt xuống dưới mức trung bình 50 ngày do lượng dự trữ tăng lên.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/natural-gas-market-illustration-08-2.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-news-hotter-forecast-lifts-front-months-as-march-lags-1631089",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-09-23 18:02"
     },
     {
       "id": "8ign5q",
@@ -528,28 +550,6 @@
       "source": "rbnenergy.com",
       "category": "metal",
       "published": "2026-09-22 12:00"
-    },
-    {
-      "id": "1nna2wv",
-      "title": "Dollar choppy as investors weigh oil drop against Fed rate path",
-      "title_vi": "Đồng đô la biến động khi các nhà đầu tư cân nhắc việc dầu giảm so với lộ trình lãi suất của Fed",
-      "summary_vi": "Ngày 22 tháng 9 (Reuters) - Đồng đô la tăng nhẹ vào thứ Ba, nhưng thấp hơn mức cao nhất trong hai tháng đạt được trước đó trong ngày khi các nhà đầu tư cân nhắc một đợt giảm giá dầu khác trước khả năng tăng lãi suất thêm từ Cục Dự trữ Liên bang.",
-      "image": "https://www.mcclatchy-wires.com/public/incoming/178oqj/picture317331226/alternates/LANDSCAPE_1200/ffb3558d-4aaf-44a2-ab66-494c072a8248",
-      "link": "https://www.charlotteobserver.com/news/nation-world/national/article317331270.html",
-      "source": "Charlotte Observer",
-      "category": "energy",
-      "published": "2026-09-22 07:59"
-    },
-    {
-      "id": "qn4kb5",
-      "title": "Silver Price Forecast: 100-day SMA caps bulls as range tightens",
-      "title_vi": "Dự báo giá bạc: SMA 100 ngày giới hạn xu hướng tăng khi phạm vi thắt chặt",
-      "summary_vi": "Giá bạc bị đình trệ ở mức Trung bình động đơn giản (SMA) 100 ngày là 66,39 USD và dự kiến ​​kết thúc phiên giao dịch ngày thứ Hai với mức giảm 0,39% khi Đồng USD tăng sau quyết định của Fed tuần trước. XAG/USD giao dịch ở mức 66,03 USD sau khi đạt mức cao nhất là 67,05 USD.",
-      "image": "https://editorial.fxsstatic.com/images/i/Commodities_Silver-2_Medium.jpg",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-100-day-sma-caps-bulls-as-range-tightens-202609212137",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-09-22 04:37"
     }
   ]
 }

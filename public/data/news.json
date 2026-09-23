@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23 11:01",
+  "updated_at": "2026-09-23 12:00",
   "items": [
     {
       "id": "10qsz4q",
@@ -310,6 +310,17 @@
       "published": "2026-09-22 02:25"
     },
     {
+      "id": "1pkj6vr",
+      "title": "Gold falls on rising odds of Fed rate hike, stronger dollar",
+      "title_vi": "Vàng giảm do khả năng Fed tăng lãi suất, đồng đô la mạnh hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-eases-firmer-dollar-profit-taking-mideast-conflict-focus-2026-09-21/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-09-22 01:45"
+    },
+    {
       "id": "kcbilt",
       "title": "Oil prices retreat as Middle East supply concerns ease amid diplomatic talks",
       "title_vi": "Giá dầu giảm do lo ngại về nguồn cung ở Trung Đông giảm bớt trong bối cảnh đàm phán ngoại giao",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-09-21 15:21"
-    },
-    {
-      "id": "1l4mq42",
-      "title": "Copper Futures Rise On Strong China Demand & Supply Constraints | Commodity Corner | CNBC TV18 - YouTube",
-      "title_vi": "Giá đồng kỳ hạn tăng do hạn chế cung và cầu mạnh mẽ của Trung Quốc | Góc hàng hóa | CNBC TV18 - YouTube",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://t.co/VJzazBI75K",
-      "source": "t.co",
-      "category": "metal",
-      "published": "2026-09-21 13:08"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-24 02:06",
+  "updated_at": "2026-09-24 03:01",
   "items": [
+    {
+      "id": "17x9ghh",
+      "title": "Hormuz Workarounds Keep Gulf Oil Flowing—at a Steep Cost",
+      "title_vi": "Các giải pháp thay thế Hormuz giúp dầu vùng Vịnh tiếp tục chảy—với chi phí cao",
+      "summary_vi": "Vận chuyển từ tàu này sang tàu khác và các đường ống đi qua eo biển Hormuz, nếu có, đã trở thành tuyến xuất khẩu chính của hầu hết dầu ở Trung Đông. Các nhà sản xuất dầu trong khu vực đã chứng minh được điều mà một số người coi là khả năng thích ứng vượt trội với hoàn cảnh mới. Trên thực tế, nó là",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-23_7tumpjjtgv.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Workarounds-Keep-Gulf-Oil-Flowingat-a-Steep-Cost.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-24 03:00"
+    },
     {
       "id": "pw35gu",
       "title": "Will European Gas Prices Keep Rising This Winter?",
@@ -154,17 +165,6 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-09-23 22:00"
-    },
-    {
-      "id": "166rvca",
-      "title": "EIA Reports 3M Barrel Crude Build as Distillate Stocks Fall 12% Below Average",
-      "title_vi": "EIA báo cáo giá dầu thô tăng 3 triệu thùng khi tồn kho sản phẩm chưng cất giảm dưới mức trung bình 12%",
-      "summary_vi": "Theo dữ liệu mới từ Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA) công bố hôm thứ Tư, tồn kho dầu thô ở Hoa Kỳ đã tăng 3 triệu thùng trong tuần kết thúc vào ngày 18 tháng 9. Sự gia tăng này đưa dự trữ thương mại lên 426,4 triệu barre",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-23_za0epm7s8u.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/EIA-Reports-3M-Barrel-Crude-Build-as-Distillate-Stocks-Fall-12-Below-Average.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-23 21:47"
     },
     {
       "id": "1wb85li",
@@ -398,6 +398,17 @@
       "published": "2026-09-22 21:05"
     },
     {
+      "id": "sew0nh",
+      "title": "Financial Pressure Persists Across Corn and Soybean Farms",
+      "title_vi": "Áp lực tài chính vẫn tồn tại trên khắp các trang trại ngô và đậu nành",
+      "summary_vi": "Hơn 1.200 người trồng báo cáo mối lo ngại cao, lợi nhuận thấp và sự không chắc chắn sắp bước sang năm 2027. Tóm tắt điều hành Một cuộc khảo sát của Tạp chí Trang trại vào tháng 9 năm 2026 do Hiệp hội những người trồng ngô quốc gia và Hiệp hội đậu nành Hoa Kỳ ủy quyền cho thấy áp lực tài chính vẫn còn lan rộng trên...",
+      "image": "https://dt176nijwh14e.cloudfront.net/image/2900/1000/Financial+Pressure+Persists-Corn+Soybean+Farms+SEP2026_Page_1.jpg",
+      "link": "https://ncga.com/stay-informed/media/the-corn-economy/article/2026/09/financial-pressure-persists-across-corn-and-soybean-farms",
+      "source": "National Corn Growers Association",
+      "category": "agri",
+      "published": "2026-09-22 21:04"
+    },
+    {
       "id": "can2mh",
       "title": "Prices Up but Pressure Remains: Corn and Soybean Growers Still Navigating Tight Margins",
       "title_vi": "Giá tăng nhưng áp lực vẫn còn: Người trồng ngô và đậu nành vẫn đang có lợi nhuận eo hẹp",
@@ -440,6 +451,17 @@
       "source": "stonex.com",
       "category": "metal",
       "published": "2026-09-22 19:24"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-22 19:14"
     },
     {
       "id": "q756fe",
@@ -528,28 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-09-22 04:37"
-    },
-    {
-      "id": "10w0b0q",
-      "title": "Is \"Dr. Copper\" becoming less reliable?",
-      "title_vi": "Phải chăng “Tiến sĩ Đồng” đang trở nên kém tin cậy hơn?",
-      "summary_vi": "Giá đồng thường cho chúng ta biết nhiều điều về tương lai tăng trưởng kinh tế toàn cầu. Nhưng những phát triển gần đây có thể khiến nó trở thành một chỉ báo kinh tế kém chính xác hơn.",
-      "image": "https://img.apmcdn.org/51ae82e34eccdb1594f4510454c6d7c53911765c/widescreen/bea42f-20260921-copper-rods-on-a-shelf-at-a-store-2000.jpg",
-      "link": "https://www.marketplace.org/story/2026/09/21/is-the-price-of-copper-still-a-useful-economic-indicator",
-      "source": "marketplace.org",
-      "category": "metal",
-      "published": "2026-09-22 04:35"
-    },
-    {
-      "id": "1hnc9b3",
-      "title": "Recent rains boost South Dakota winter wheat outlook",
-      "title_vi": "Những cơn mưa gần đây thúc đẩy triển vọng lúa mì mùa đông ở Nam Dakota",
-      "summary_vi": "Một nông dân ở miền trung nam Nam Dakota cho biết những cơn mưa gần đây đang mang lại thái độ tích cực và độ ẩm rất cần thiết cho lúa mì mùa đông mới trồng gần đây. Bryan Jorgensen nói: “Bây giờ chúng ta đã có một ít hơi ẩm trong đất, nó sẽ nổi lên khỏi mặt đất”. Anh ấy nói trời đang có những cơn mưa nhẹ nhàng và dễ chịu",
-      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2022/04/Wheat400x400-2.jpg",
-      "link": "https://www.brownfieldagnews.com/news/recent-rains-boost-south-dakota-winter-wheat-outlook/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-09-22 03:47"
     }
   ]
 }

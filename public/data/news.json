@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23 12:00",
+  "updated_at": "2026-09-23 12:16",
   "items": [
     {
       "id": "10qsz4q",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-23 04:08"
+    },
+    {
+      "id": "1bnuvj5",
+      "title": "Grain Prices Fall as U.S. Harvest Advances and China Trade Takes Center Stage",
+      "title_vi": "Giá ngũ cốc giảm do tiến bộ thu hoạch của Hoa Kỳ và thương mại Trung Quốc chiếm vị trí trung tâm",
+      "summary_vi": "Giá ngũ cốc kỳ hạn của Mỹ giảm do thu hoạch tăng, trong khi nhu cầu, dòng xuất khẩu của Trung Quốc và thời tiết thay đổi khiến thị trường ngô, đậu tương và lúa mì biến động.",
+      "image": "https://www.agrolatam.com/files/image/81/81214/6ab2eaafcd48c_600_315!.jpg?s=e1b42844daa90b8fa9f1b3def761fb54&d=1790110651",
+      "link": "https://www.agrolatam.com/usa/news/us-grain-prices-harvest-corn-soybeans-wheat-china/",
+      "source": "AgroLatam",
+      "category": "agri",
+      "published": "2026-09-23 04:05"
     },
     {
       "id": "1y2pt03",
@@ -539,17 +550,6 @@
       "source": "The Motley Fool",
       "category": "metal",
       "published": "2026-09-21 15:48"
-    },
-    {
-      "id": "xtwlma",
-      "title": "Gold and Silver Price Forecast: High Yields Cap Recovery Near Key Resistance",
-      "title_vi": "Dự báo giá vàng và bạc: Phục hồi giới hạn lợi suất cao gần mức kháng cự chính",
-      "summary_vi": "Giá vàng và bạc đang củng cố gần các mức kỹ thuật quan trọng do lãi suất trái phiếu Mỹ tăng cao tiếp tục hạn chế sự phục hồi của chúng.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/gold-and-silver-precious-metals-02-1.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-high-yields-cap-recovery-near-key-resistance-1630338",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-09-21 15:21"
     }
   ]
 }

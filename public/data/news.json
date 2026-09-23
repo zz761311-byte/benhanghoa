@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-09-23 23:04",
+  "updated_at": "2026-09-24 00:01",
   "items": [
+    {
+      "id": "1ifmxtf",
+      "title": "U.S. Energy Secretary: Blunt Tool of Banning Diesel Exports Doesn&#039;t Work",
+      "title_vi": "Bộ trưởng Năng lượng Hoa Kỳ: Công cụ cấm xuất khẩu dầu diesel thẳng thừng không hiệu quả",
+      "summary_vi": "Bộ trưởng Năng lượng Hoa Kỳ Chris Wright đã công khai phản đối lời kêu gọi cấm xuất khẩu dầu diesel của Hoa Kỳ, lập luận hôm thứ Tư rằng biện pháp này sẽ phản tác dụng khi tăng giá xăng và nhiên liệu máy bay. Wright nói tại một cuộc họp báo: “Công cụ cấm xuất khẩu dầu diesel chắc chắn không có tác dụng”.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-23_6rwlem5oys.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Energy-Secretary-Blunt-Tool-of-Banning-Diesel-Exports-Doesnt-Work.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-24 00:00"
+    },
+    {
+      "id": "dkf0c8",
+      "title": "Dangote&#039;s Kenya Refinery Project Launches This Week at Up to $20B",
+      "title_vi": "Dự án nhà máy lọc dầu Kenya của Dangote ra mắt trong tuần này với giá trị lên tới 20 tỷ USD",
+      "summary_vi": "Kenya động thổ vào ngày 30 tháng 9 tại Nhà máy lọc dầu Đông Phi do Dangote hậu thuẫn ở Lamu, một dự án được các quan chức Kenya đầu tư 17 tỷ USD và chính Aliko Dangote trị giá 20 tỷ USD, và được thiết kế để xử lý 700.000 thùng dầu thô mỗi ngày tại cảng nước sâu của Lamu. Nó sẽ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-23_j7ualzbnro.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Dangotes-Kenya-Refinery-Project-Launches-This-Week-at-Up-to-20B.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-23 23:30"
+    },
+    {
+      "id": "16g0vpe",
+      "title": "Winter Heating Outlook: Natural Gas Offers Affordable, Reliable Heating for American Families and Businesses",
+      "title_vi": "Triển vọng sưởi ấm mùa đông: Khí đốt tự nhiên cung cấp hệ thống sưởi ấm đáng tin cậy, giá cả phải chăng cho các gia đình và doanh nghiệp Mỹ",
+      "summary_vi": "Triển vọng Sưởi ấm Mùa đông của AGA cho thấy nguồn cung khí đốt tự nhiên mạnh mẽ và hiệu suất liên tục tăng đang giúp khách hàng quản lý chi phí sưởi ấm mùa đông. Khi thời tiết lạnh giá đang đến gần, các hộ gia đình và doanh nghiệp lại chuẩn bị cho một mùa sưởi ấm mùa đông nữa. Theo Triển vọng sưởi ấm mùa đông của Hiệp hội Khí đốt Hoa Kỳ, thiên nhiên",
+      "image": "https://www.aga.org/wp-content/uploads/2026/09/pexels-konrads-photo-14518299-scaled.jpg",
+      "link": "https://www.aga.org/winter-heating-outlook-natural-gas-offers-affordable-reliable-heating-for-american-families-and-businesses/",
+      "source": "American Gas Association",
+      "category": "energy",
+      "published": "2026-09-23 23:25"
+    },
+    {
+      "id": "12in47y",
+      "title": "Will Harvest Push Corn and Soybean Prices Higher or Lower?",
+      "title_vi": "Vụ thu hoạch sẽ đẩy giá ngô và đậu nành lên cao hay thấp hơn?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/will-harvest-push-corn-and-soybean-prices-higher-or-lower-12136720",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-09-23 23:18"
+    },
     {
       "id": "hj86sc",
       "title": "Glencore Joins Project Vault With $500 Million Cobalt Commitment",
@@ -9,7 +53,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-23_obeq0u7lfb.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Glencore-Joins-Project-Vault-With-500-Million-Cobalt-Commitment.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-09-23 22:30"
     },
     {
@@ -112,28 +156,6 @@
       "published": "2026-09-23 19:00"
     },
     {
-      "id": "11rn3gg",
-      "title": "Hormuz Traffic Running 80% Below Its 10-Day Average",
-      "title_vi": "Lưu lượng truy cập Hormuz chạy dưới mức trung bình 10 ngày 80%",
-      "summary_vi": "Dữ liệu theo dõi tàu chở dầu sơ bộ của Kpler cho thấy chỉ có ba tàu chở hàng di chuyển qua eo biển Hormuz trong ngày hôm qua, khi thị trường dầu mỏ cân nhắc khả năng nối lại các cuộc đàm phán Mỹ-Iran trước sự gián đoạn tiếp tục ở Trung Đông. Ba hàng hóa",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-23_kfg7xuhnmz.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Traffic-Running-80-Below-Its-10-Day-Average.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-23 19:00"
-    },
-    {
-      "id": "1m2z2j3",
-      "title": "Asia&#039;s Crude Imports Hit Highest Level Since the Iran War Began",
-      "title_vi": "Nhập khẩu dầu thô của châu Á đạt mức cao nhất kể từ khi chiến tranh Iran bắt đầu",
-      "summary_vi": "Châu Á dự kiến ​​sẽ nhập khẩu khối lượng dầu thô cao nhất trong tháng 9 kể từ tháng 2 năm nay, khi chiến tranh Iran bắt đầu, làm tê liệt nguồn cung từ Trung Đông và buộc người mua ở châu Á phải giảm mua. Châu Á dự kiến ​​sẽ nhập khẩu 23,96 triệu thùng dầu thô mỗi ngày",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-23_jrvcfesex1.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asias-Crude-Imports-Hit-Highest-Level-Since-the-Iran-War-Began.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-23 18:00"
-    },
-    {
       "id": "8ign5q",
       "title": "EXCLUSIVE: Russia cuts natural gas output, export forecasts",
       "title_vi": "ĐỘC QUYỀN: Nga cắt giảm sản lượng khí đốt tự nhiên, dự báo xuất khẩu",
@@ -176,6 +198,17 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-09-23 17:12"
+    },
+    {
+      "id": "1s462pq",
+      "title": "Prysmian and Aurubis deepen strategic partnership with landmark long-term copper agreement",
+      "title_vi": "Prysmian và Aurubis tăng cường quan hệ đối tác chiến lược với thỏa thuận đồng dài hạn mang tính bước ngoặt",
+      "summary_vi": "Prysmian và Aurubis đã ký một thỏa thuận dài hạn mang tính bước ngoặt về việc cung cấp dây đồng.",
+      "image": "https://www.aurubis.com/dam/jcr:26e7d188-0005-431e-b4ae-24b2ce6c5194/Unterschrift-Label%20DE.833dde2f6a1052e6789c3f01b913d094.jpg",
+      "link": "https://www.aurubis.com/en/media/press-releases/press-releases-2026/prysmian-and-aurubis-deepen-strategic-partnership-with-landmark-long-term-copper-agreement",
+      "source": "Aurubis",
+      "category": "metal",
+      "published": "2026-09-23 16:20"
     },
     {
       "id": "12nus3o",
@@ -517,39 +550,6 @@
       "source": "KTVB",
       "category": "energy",
       "published": "2026-09-22 01:13"
-    },
-    {
-      "id": "6romrc",
-      "title": "Copper prices bounce as US runs out of warehouse space",
-      "title_vi": "Giá đồng tăng do Mỹ hết chỗ chứa",
-      "summary_vi": "Các kho hàng của Mỹ sắp đầy 100.000 tấn dự kiến ​​​​trong vòng vài tuần, phí bảo hiểm Thượng Hải tăng lên mức cao nhất trong 4 năm và London lại rơi vào tình trạng trì trệ.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/03/AdobeStock_1737435682-1024x574.jpeg",
-      "link": "https://www.mining.com/copper-prices-bounce-as-us-runs-out-of-warehouse-space/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-09-22 01:06"
-    },
-    {
-      "id": "di4pua",
-      "title": "Copper Prices Hit Record Highs",
-      "title_vi": "Giá đồng đạt mức cao kỷ lục",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.instituteforenergyresearch.org/international-issues/copper-prices-hit-record-highs/",
-      "source": "The Institute for Energy Research",
-      "category": "metal",
-      "published": "2026-09-22 00:59"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-09-22 00:48"
     }
   ]
 }

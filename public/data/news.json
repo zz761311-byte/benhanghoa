@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-24 04:01",
+  "updated_at": "2026-09-24 05:01",
   "items": [
+    {
+      "id": "11rqy2z",
+      "title": "White House Rules Out Diesel Export Ban as Prices Surge Above $6.50",
+      "title_vi": "Nhà Trắng bác bỏ lệnh cấm xuất khẩu dầu diesel khi giá tăng trên 6,50 USD",
+      "summary_vi": "Nhà Trắng hôm thứ Tư phủ nhận việc Chính quyền đang xem xét lệnh cấm xuất khẩu dầu diesel của Mỹ, làm rõ những bình luận từ Tổng thống Donald Trump và Bộ trưởng Tài chính Scott Bessent một ngày trước đó dường như để ngỏ cho những hạn chế vì giá dầu diesel trung bình",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-23_avkznncv4t.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/White-House-Rules-Out-Diesel-Export-Ban-as-Prices-Surge-Above-650.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-24 05:00"
+    },
     {
       "id": "18jlp38",
       "title": "China&#039;s Newest Power Plant Swaps Steam for Supercritical CO2",
@@ -134,6 +145,17 @@
       "published": "2026-09-23 22:58"
     },
     {
+      "id": "1vsugv5",
+      "title": "Platinum Market Surplus Of 265 Koz Forecast For 2026 - Inventories Remain Critically Depleted Following Three Consecutive Years Of Significant Deficital",
+      "title_vi": "Dự báo thặng dư thị trường bạch kim là 265 Koz cho năm 2026 - Hàng tồn kho vẫn cạn kiệt nghiêm trọng sau ba năm liên tiếp thiếu hụt đáng kể",
+      "summary_vi": "Trevor Raymond, Giám đốc điều hành của Hội đồng đầu tư bạch kim thế giới, nhận xét:",
+      "image": "https://hedgefundalpha.com/wp-content/uploads/2026/09/Platinum.jpeg",
+      "link": "https://hedgefundalpha.com/news/platinum-market-surplus-of-265-koz-forecast-for-2026/",
+      "source": "Hedge Fund Alpha",
+      "category": "metal",
+      "published": "2026-09-23 22:45"
+    },
+    {
       "id": "gu5kvh",
       "title": "Gold Steadies as Iran Talks Temper Concerns Over Fed Rate Path",
       "title_vi": "Vàng ổn định khi Iran nói lên mối lo ngại về lộ trình lãi suất của Fed",
@@ -154,17 +176,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-09-23 22:39"
-    },
-    {
-      "id": "hj86sc",
-      "title": "Glencore Joins Project Vault With $500 Million Cobalt Commitment",
-      "title_vi": "Glencore tham gia Project Vault với cam kết Cobalt trị giá 500 triệu USD",
-      "summary_vi": "Glencore đã cam kết đầu tư 500 triệu USD cho VaultCo, ngân hàng xuất nhập khẩu hợp tác công tư cung cấp các khoáng sản quan trọng cho kho dự trữ của chính phủ Hoa Kỳ, Reuters đưa tin hôm thứ Tư. Cam kết này đưa Glencore trở thành nhà cung cấp thứ tư có tên trong Project Vault, cùng với Hartree Partners,",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-23_obeq0u7lfb.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Glencore-Joins-Project-Vault-With-500-Million-Cobalt-Commitment.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-09-23 22:30"
     },
     {
       "id": "xj2anz",
@@ -330,6 +341,17 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-09-23 06:02"
+    },
+    {
+      "id": "watmcq",
+      "title": "2026 wheat drilling outlook",
+      "title_vi": "Triển vọng khoan lúa mì năm 2026",
+      "summary_vi": "Khi các cuộc tập trận bắt đầu di chuyển đến các cánh đồng ở Kansas, những người trồng lúa mì đang cân nhắc nhiều hơn về thời điểm gieo hạt xuống đất.",
+      "image": "https://bloximages.chicago2.vip.townnews.com/farmtalknews.com/content/tncms/assets/v3/editorial/a/bb/abbc0e86-965a-4dc2-a005-0d3273a221a1/6ab2f306f106d.image.jpg?crop=239%2C239%2C109%2C0&resize=200%2C200&order=crop%2Cresize",
+      "link": "https://www.farmtalknews.com/news/2026-wheat-drilling-outlook/article_9d4fd5de-17a2-450e-86fc-4d9581dc5ebb.html",
+      "source": "Farm Talk",
+      "category": "agri",
+      "published": "2026-09-23 06:00"
     },
     {
       "id": "1xmztgd",
@@ -528,28 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-09-22 15:37"
-    },
-    {
-      "id": "2yv2df",
-      "title": "Why Are Diesel and Gasoline Prices Exploding While Crude Oil Isn’t?",
-      "title_vi": "Tại sao giá dầu diesel và xăng lại bùng nổ trong khi dầu thô thì không?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://thepeopleseconomist.substack.com/p/why-are-diesel-and-gasoline-prices",
-      "source": "Substack",
-      "category": "energy",
-      "published": "2026-09-22 14:59"
-    },
-    {
-      "id": "3a9u9p",
-      "title": "Move In The Right Direction – Plains Advances Growth Strategy With Silver Creek Purchase",
-      "title_vi": "Đi đúng hướng – Plains thúc đẩy chiến lược tăng trưởng khi mua Silver Creek",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://rbnenergy.com/daily-posts/blog/plains-advances-growth-strategy-silver-creek-purchase",
-      "source": "rbnenergy.com",
-      "category": "metal",
-      "published": "2026-09-22 12:00"
     }
   ]
 }

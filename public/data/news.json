@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-24 01:01",
+  "updated_at": "2026-09-24 02:01",
   "items": [
+    {
+      "id": "12mt380",
+      "title": "Hormuz Supply Crisis to Change LNG Market Forever",
+      "title_vi": "Khủng hoảng nguồn cung Hormuz sẽ thay đổi thị trường LNG mãi mãi",
+      "summary_vi": "Cuộc khủng hoảng eo biển Hormuz đã biến khoảng 20% ​​nguồn cung LNG toàn cầu thành thứ mà người mua hiện phải coi là có thể bị gián đoạn. Gần bảy tháng sau khi giao thông qua eo biển bị gián đoạn, xuất khẩu LNG từ Qatar và UAE vẫn bị hạn chế nghiêm trọng. Người mua ở Châu Âu và A",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-23_wlshzkngxz.jpg",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Hormuz-Supply-Crisis-to-Change-LNG-Market-Forever.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-24 02:00"
+    },
     {
       "id": "1be5dtw",
       "title": "Uzbekistan Eyes Caspian and Black Sea Ports to Break Out of Central Asia",
@@ -79,6 +90,28 @@
       "published": "2026-09-23 22:58"
     },
     {
+      "id": "gu5kvh",
+      "title": "Gold Steadies as Iran Talks Temper Concerns Over Fed Rate Path",
+      "title_vi": "Vàng ổn định khi Iran nói lên mối lo ngại về lộ trình lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-22/gold-steadies-as-iran-talks-temper-concerns-over-fed-rate-path",
+      "source": "Bloomberg",
+      "category": "metal",
+      "published": "2026-09-23 22:42"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-09-23 22:39"
+    },
+    {
       "id": "hj86sc",
       "title": "Glencore Joins Project Vault With $500 Million Cobalt Commitment",
       "title_vi": "Glencore tham gia Project Vault với cam kết Cobalt trị giá 500 triệu USD",
@@ -121,17 +154,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-23 21:47"
-    },
-    {
-      "id": "nad7nj",
-      "title": "Climate Startup Signs CO2 Deals With Three U.S. Oil Producers",
-      "title_vi": "Công ty khởi nghiệp về khí hậu ký thỏa thuận CO2 với ba nhà sản xuất dầu của Hoa Kỳ",
-      "summary_vi": "Việc cắt giảm các ưu đãi của liên bang Hoa Kỳ đối với các dự án thu hồi carbon và môi trường pháp lý không chắc chắn trong tương lai đã thúc đẩy một số công ty khởi nghiệp chuyển từ việc chỉ thu giữ và lưu trữ carbon dioxide sang bán nó cho các công ty dầu mỏ để giúp họ tăng cường thu hồi dầu. Quản lý carbon",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-23_w36tfxeg7r.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Climate-Startup-Signs-CO2-Deals-With-Three-US-Oil-Producers.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-23 21:30"
     },
     {
       "id": "1wb85li",
@@ -528,28 +550,6 @@
       "source": "Brave New Coin",
       "category": "metal",
       "published": "2026-09-22 03:40"
-    },
-    {
-      "id": "m9rtup",
-      "title": "Shurley: What Does This Price Slide Mean?",
-      "title_vi": "Shurley: Sự trượt giá này có ý nghĩa gì?",
-      "summary_vi": "Việc chạy tới 93 xu đã kết thúc. Điều đó không có nghĩa là nó không thể quay trở lại nhưng thị trường đã điều chỉnh.",
-      "image": "https://www.cottongrower.com/wp-content/uploads/2026/08/DonShurley-SQ.jpg",
-      "link": "https://www.cottongrower.com/market-analysis/shurley-what-does-this-price-slide-mean/",
-      "source": "cottongrower.com",
-      "category": "soft",
-      "published": "2026-09-22 02:25"
-    },
-    {
-      "id": "1pkj6vr",
-      "title": "Gold falls on rising odds of Fed rate hike, stronger dollar",
-      "title_vi": "Vàng giảm do khả năng Fed tăng lãi suất, đồng đô la mạnh hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-eases-firmer-dollar-profit-taking-mideast-conflict-focus-2026-09-21/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-09-22 01:45"
     }
   ]
 }

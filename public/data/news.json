@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-24 02:01",
+  "updated_at": "2026-09-24 02:06",
   "items": [
+    {
+      "id": "pw35gu",
+      "title": "Will European Gas Prices Keep Rising This Winter?",
+      "title_vi": "Giá khí đốt châu Âu sẽ tiếp tục tăng trong mùa đông này?",
+      "summary_vi": "Theo Goldman Sachs Research, giá khí đốt ở châu Âu có thể tăng lên hơn 100 euro/MWh vào tháng 12 nếu xuất khẩu qua eo biển Hormuz không tăng.",
+      "image": "https://www.goldmansachs.com/images/insights/articles/will-european-gas-prices-keep-rising-this-winter/lng-tanker-3x2.jpg",
+      "link": "https://www.goldmansachs.com/insights/articles/will-european-gas-prices-keep-rising-this-winter",
+      "source": "Goldman Sachs",
+      "category": "energy",
+      "published": "2026-09-24 02:01"
+    },
     {
       "id": "12mt380",
       "title": "Hormuz Supply Crisis to Change LNG Market Forever",
@@ -539,17 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-09-22 03:47"
-    },
-    {
-      "id": "1crrws0",
-      "title": "XAGUSD Price Breaks Trendline as Silver Eyes the $71.56 Target Zone",
-      "title_vi": "Giá XAGUSD phá vỡ đường xu hướng khi Bạc nhắm tới Vùng mục tiêu $ 71,56",
-      "summary_vi": "XAGUSD đang phục hồi sau đợt giảm giá trong ngày và giá bạc đang tăng cao hơn trên 66 USD trên hai biểu đồ rộng khác nhau.",
-      "image": "https://bravenewcoin.com/wp-content/uploads/2026/09/Bnb-Sep-22-211.jpg",
-      "link": "https://bravenewcoin.com/insights/xagusd-price-breaks-trendline-as-silver-eyes-the-71-56-target-zone",
-      "source": "Brave New Coin",
-      "category": "metal",
-      "published": "2026-09-22 03:40"
     }
   ]
 }

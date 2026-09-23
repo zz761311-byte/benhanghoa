@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-23 15:01",
+  "updated_at": "2026-09-23 16:01",
   "items": [
+    {
+      "id": "168ihj3",
+      "title": "$100 Brent Keeping China&#039;s Oil Buying in Check, Goldman Says",
+      "title_vi": "Goldman cho biết 100 USD dầu Brent đang kiểm soát việc mua dầu của Trung Quốc",
+      "summary_vi": "Goldman Sachs cho biết xuất khẩu dầu thô của Trung Quốc sẽ chỉ tăng nhẹ trong quý 4 kể từ quý 3 nếu giá dầu vẫn ở mức cao, có khả năng làm giảm áp lực tăng giá dầu thô chuẩn. Nhập khẩu dầu thô của Trung Quốc tăng tháng thứ hai liên tiếp",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-23_8potnbkz14.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/100-Brent-Keeping-Chinas-Oil-Buying-in-Check-Goldman-Says.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-23 16:00"
+    },
     {
       "id": "1bc4xkk",
       "title": "Michigan Judge Tosses State&#039;s Antitrust Suit Against Big Oil",
@@ -121,17 +132,6 @@
       "source": "AgroLatam",
       "category": "agri",
       "published": "2026-09-23 04:05"
-    },
-    {
-      "id": "1y2pt03",
-      "title": "Global Energy Demand Set to Jump 60% by 2060 as Developing Nations Power Up",
-      "title_vi": "Nhu cầu năng lượng toàn cầu sẽ tăng 60% vào năm 2060 khi các nước đang phát triển tăng cường năng lượng",
-      "summary_vi": "Các nền kinh tế mới nổi sẽ chứng kiến ​​sự bùng nổ về nhu cầu năng lượng trong những thập kỷ tới. Các quốc gia như Brazil, Ấn Độ, Nigeria và Indonesia đang chạy đua mở rộng sản xuất và nhập khẩu năng lượng để theo kịp tốc độ phát triển kinh tế nhanh chóng. Trong khi những người đứng đầu trong số này",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-22_24wdfttvvr.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Global-Energy-Demand-Set-to-Jump-60-by-2060-as-Developing-Nations-Power-Up.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-09-23 04:00"
     },
     {
       "id": "19bknin",
@@ -508,6 +508,17 @@
       "published": "2026-09-21 21:20"
     },
     {
+      "id": "vkt8yl",
+      "title": "How popular is Donald Trump?",
+      "title_vi": "Donald Trump được yêu thích đến mức nào?",
+      "summary_vi": "Xếp hạng phê duyệt của Silver Bulletin dành cho Tổng thống Trump - và tất cả các tổng thống kể từ Truman.",
+      "image": "https://substackcdn.com/image/fetch/$s_!Xfx5!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47c9842-cfbc-4300-8bea-3c73291e02c3_1200x634.jpeg",
+      "link": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
+      "source": "Silver Bulletin",
+      "category": "metal",
+      "published": "2026-09-21 20:53"
+    },
+    {
       "id": "1rrlfiq",
       "title": "Yemeni coffee shops are rising in pop­u­larity, bringing awareness to Lack­awanna's community",
       "title_vi": "Các quán cà phê ở Yemen đang ngày càng phổ biến, mang lại nhận thức cho cộng đồng Lackawanna",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-21 20:06"
-    },
-    {
-      "id": "17hxjcf",
-      "title": "Silver outlook: Can near-term risks overshadow the medium-term thesis?",
-      "title_vi": "Triển vọng bạc: Rủi ro ngắn hạn có thể làm lu mờ luận điểm trung hạn không?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/commodities-news/silver-outlook-can-nearterm-risks-overshadow-the-mediumterm-thesis-93CH-4908913",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-09-21 19:11"
     }
   ]
 }

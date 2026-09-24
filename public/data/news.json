@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24 11:01",
+  "updated_at": "2026-09-24 12:00",
   "items": [
     {
       "id": "77qp9f",
@@ -231,6 +231,17 @@
       "source": "Investing.com",
       "category": "metal",
       "published": "2026-09-23 19:36"
+    },
+    {
+      "id": "r7vvzw",
+      "title": "Survey of ASA and NCGA members shows financial pressures persist for corn and soybean farmers",
+      "title_vi": "Khảo sát của các thành viên ASA và NCGA cho thấy áp lực tài chính vẫn tồn tại đối với nông dân trồng ngô và đậu tương",
+      "summary_vi": "Một cuộc khảo sát mới đối với nông dân trồng ngô và đậu tương cho thấy áp lực tài chính vẫn cao bất chấp những cải thiện gần đây về ...",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2431/files/2026/03/unnamed-13.jpg",
+      "link": "https://kfgo.com/2026/09/23/survey-of-asa-and-ncga-members-shows-financial-pressure-persists-for-corn-and-soybean-farmers/",
+      "source": "The Mighty 790 KFGO",
+      "category": "agri",
+      "published": "2026-09-23 19:08"
     },
     {
       "id": "8fgpdk",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-22 19:14"
-    },
-    {
-      "id": "q756fe",
-      "title": "127% Data Center Copper Demand Growth by 2040 Raises Need for New Mines",
-      "title_vi": "Tăng trưởng nhu cầu đồng của trung tâm dữ liệu 127% vào năm 2040 làm tăng nhu cầu về các mỏ mới",
-      "summary_vi": "Nhu cầu về đồng của trung tâm dữ liệu có thể tăng 127% vào năm 2040, làm tăng áp lực lên nguồn cung của mỏ và nâng cao tầm quan trọng của các dự án tiến tới sản xuất.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6ab26ca0c17fb417937f1a8a_Data%20Center.avif",
-      "link": "https://www.cruxinvestor.com/posts/127-data-center-copper-demand-growth-by-2040-raises-need-for-new-mines",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-09-22 19:06"
     }
   ]
 }

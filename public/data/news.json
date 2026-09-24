@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25 05:00",
+  "updated_at": "2026-09-25 05:44",
   "items": [
     {
       "id": "1l5w3vt",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-25 04:00"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-25 03:37"
     },
     {
       "id": "1y3eply",
@@ -99,6 +110,17 @@
       "source": "PR Newswire",
       "category": "energy",
       "published": "2026-09-24 23:19"
+    },
+    {
+      "id": "1n8iner",
+      "title": "Copper Loses Its Forecasting Edge as Supply Tightens",
+      "title_vi": "Đồng mất lợi thế dự báo khi nguồn cung thắt chặt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en/media-room/in-the-news/copper-loses-its-forecasting-edge-as-supply-tightens/",
+      "source": "stonex.com",
+      "category": "metal",
+      "published": "2026-09-24 22:30"
     },
     {
       "id": "1s4n7cv",
@@ -528,28 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-09-23 06:02"
-    },
-    {
-      "id": "watmcq",
-      "title": "2026 wheat drilling outlook",
-      "title_vi": "Triển vọng khoan lúa mì năm 2026",
-      "summary_vi": "Khi các cuộc tập trận bắt đầu di chuyển đến các cánh đồng ở Kansas, những người trồng lúa mì đang cân nhắc nhiều hơn về thời điểm gieo hạt xuống đất.",
-      "image": "https://bloximages.chicago2.vip.townnews.com/farmtalknews.com/content/tncms/assets/v3/editorial/a/bb/abbc0e86-965a-4dc2-a005-0d3273a221a1/6ab2f306f106d.image.jpg?crop=239%2C239%2C109%2C0&resize=200%2C200&order=crop%2Cresize",
-      "link": "https://www.farmtalknews.com/news/2026-wheat-drilling-outlook/article_9d4fd5de-17a2-450e-86fc-4d9581dc5ebb.html",
-      "source": "Farm Talk",
-      "category": "agri",
-      "published": "2026-09-23 06:00"
-    },
-    {
-      "id": "q756fe",
-      "title": "127% Data Center Copper Demand Growth by 2040 Raises Need for New Mines",
-      "title_vi": "Tăng trưởng nhu cầu đồng của trung tâm dữ liệu 127% vào năm 2040 làm tăng nhu cầu về các mỏ mới",
-      "summary_vi": "Nhu cầu về đồng của trung tâm dữ liệu có thể tăng 127% vào năm 2040, làm tăng áp lực lên nguồn cung của mỏ và nâng cao tầm quan trọng của các dự án tiến tới sản xuất.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6ab26ca0c17fb417937f1a8a_Data%20Center.avif",
-      "link": "https://www.cruxinvestor.com/posts/127-data-center-copper-demand-growth-by-2040-raises-need-for-new-mines",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-09-23 05:38"
     }
   ]
 }

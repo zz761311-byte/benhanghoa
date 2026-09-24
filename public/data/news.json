@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24 22:01",
+  "updated_at": "2026-09-24 22:31",
   "items": [
     {
       "id": "1hpc1bv",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-24 22:00"
+    },
+    {
+      "id": "1s4n7cv",
+      "title": "Hunger on the Horizon: The New Black Sea Grain Crisis",
+      "title_vi": "Nạn đói ở chân trời: Cuộc khủng hoảng ngũ cốc mới ở Biển Đen",
+      "summary_vi": "Sự leo thang gần đây trong cuộc chiến Nga-Ukraine đã làm gián đoạn hoạt động buôn bán ngũ cốc ở Biển Đen và chuyển thành cuộc chiến tranh về hệ thống lương thực toàn cầu. Kết hợp với hạn hán ở Bắc bán cầu, siêu El Niño đang rình rập và sự bất ổn dai dẳng ở Trung Đông, thế giới đang đứng trước một cuộc khủng hoảng có thể xóa bỏ nhiều năm kinh tế.",
+      "image": "https://build.cfr.org/wp-content/uploads/2026/09/cropped-black_sea_og_d185a3.png",
+      "link": "https://www.cfr.org/articles/hunger-on-the-horizon-the-new-black-sea-grain-crisis",
+      "source": "cfr.org",
+      "category": "agri",
+      "published": "2026-09-24 21:55"
     },
     {
       "id": "1bybej1",
@@ -539,17 +550,6 @@
       "source": "Lexington Herald Leader",
       "category": "metal",
       "published": "2026-09-23 04:52"
-    },
-    {
-      "id": "1b4wflx",
-      "title": "Corn, wheat see profit taking as soybeans close mixed",
-      "title_vi": "Ngô, lúa mì chốt lời khi đậu nành đóng cửa",
-      "summary_vi": "Đậu nành giằng co, phần lớn yếu đi sau một ngày thăng trầm. Các thương nhân tiếp tục chờ đợi cuộc gặp mặt trực tiếp cấp cao với Trung Quốc vào cuối tuần này. Có sự lạc quan chung về việc Trung Quốc sẽ mua nhiều hơn trong tương lai gần và một số mức thuế gây tranh cãi có thể được đưa ra trong vòng đàm phán này. Trung Quốc",
-      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2022/03/CommodityMarkets400x400.jpg",
-      "link": "https://www.brownfieldagnews.com/market-news/corn-wheat-see-profit-taking-as-soybeans-close-mixed/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-09-23 04:21"
     }
   ]
 }

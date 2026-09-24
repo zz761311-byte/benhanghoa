@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24 12:31",
+  "updated_at": "2026-09-24 13:01",
   "items": [
     {
       "id": "mzuc0h",
@@ -332,6 +332,17 @@
       "published": "2026-09-23 16:07"
     },
     {
+      "id": "c4jsj6",
+      "title": "Gold loses shine as rate hike bets foster a stronger dollar",
+      "title_vi": "Vàng mất đi sức hấp dẫn khi đặt cược tăng lãi suất thúc đẩy đồng đô la mạnh hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-lacklustre-higher-for-longer-rate-outlook-weighs-sentiment-2026-09-23/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-09-23 11:53"
+    },
+    {
       "id": "miuh2m",
       "title": "Wheat buyers brace for higher costs as Russia-Ukraine war drags on",
       "title_vi": "Người mua lúa mì phải đối mặt với chi phí cao hơn khi chiến tranh Nga-Ukraine kéo dài",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-22 19:44"
-    },
-    {
-      "id": "247me8",
-      "title": "Platinum Demand Gains as Washington Slows the Electric Vehicle Push",
-      "title_vi": "Nhu cầu bạch kim tăng khi Washington giảm tốc độ thúc đẩy xe điện",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-us/insights/platinum-demand-gains-as-washington-slows-the-electric-vehicle-push/",
-      "source": "stonex.com",
-      "category": "metal",
-      "published": "2026-09-22 19:24"
     }
   ]
 }

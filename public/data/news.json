@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24 10:01",
+  "updated_at": "2026-09-24 11:01",
   "items": [
     {
       "id": "77qp9f",
@@ -387,6 +387,17 @@
       "published": "2026-09-23 05:21"
     },
     {
+      "id": "1b4wflx",
+      "title": "Corn, wheat see profit taking as soybeans close mixed",
+      "title_vi": "Ngô, lúa mì chốt lời khi đậu nành đóng cửa",
+      "summary_vi": "Đậu nành giằng co, phần lớn yếu đi sau một ngày thăng trầm. Các thương nhân tiếp tục chờ đợi cuộc gặp mặt trực tiếp cấp cao với Trung Quốc vào cuối tuần này. Có sự lạc quan chung về việc Trung Quốc sẽ mua nhiều hơn trong tương lai gần và một số mức thuế gây tranh cãi có thể được đưa ra trong vòng đàm phán này. Trung Quốc",
+      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2022/03/CommodityMarkets400x400.jpg",
+      "link": "https://www.brownfieldagnews.com/market-news/corn-wheat-see-profit-taking-as-soybeans-close-mixed/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-09-23 04:21"
+    },
+    {
       "id": "1bnuvj5",
       "title": "Grain Prices Fall as U.S. Harvest Advances and China Trade Takes Center Stage",
       "title_vi": "Giá ngũ cốc giảm do tiến bộ thu hoạch của Hoa Kỳ và thương mại Trung Quốc chiếm vị trí trung tâm",
@@ -539,17 +550,6 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-09-22 19:06"
-    },
-    {
-      "id": "8vuo3s",
-      "title": "US Natgas Falls 4% to 8-Week Low on Milder Weather Outlook, Lower LNG Export Flows",
-      "title_vi": "Natgas của Mỹ giảm 4% xuống mức thấp nhất trong 8 tuần do thời tiết ôn hòa hơn, lưu lượng xuất khẩu LNG thấp hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/07/us-natgas-falls-4-to-8-week-low-on-milder-weather-outlook-lower-lng-export-flows/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-22 18:27"
     }
   ]
 }

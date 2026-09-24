@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-24 12:00",
+  "updated_at": "2026-09-24 12:31",
   "items": [
+    {
+      "id": "mzuc0h",
+      "title": "Brent Holds Above $102 as Iran Talks Stall Over Hormuz Conditions",
+      "title_vi": "Brent giữ trên 102 USD khi Iran đàm phán đình trệ về điều kiện Hormuz",
+      "summary_vi": "Giá dầu thô hôm nay giảm trong bối cảnh có thông tin cho rằng cả hai bên xung đột đều sẵn sàng hòa bình ở Trung Đông. Sự sụt giảm này bù đắp một phần mức tăng đạt được vào đầu tuần, khiến giá dầu chuẩn tăng cao. Tại thời điểm viết bài, dầu thô Brent đang giao dịch ở mức 102 USD.",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-102-as-Iran-Talks-Stall-Over-Hormuz-Conditions.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-24 12:08"
+    },
     {
       "id": "77qp9f",
       "title": "Canada’s Oil Patch On Track For Biggest M&A Wave In A Decade",
@@ -99,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-24 00:30"
-    },
-    {
-      "id": "1ifmxtf",
-      "title": "U.S. Energy Secretary: Blunt Tool of Banning Diesel Exports Doesn&#039;t Work",
-      "title_vi": "Bộ trưởng Năng lượng Hoa Kỳ: Công cụ cấm xuất khẩu dầu diesel thẳng thừng không hiệu quả",
-      "summary_vi": "Bộ trưởng Năng lượng Hoa Kỳ Chris Wright đã công khai phản đối lời kêu gọi cấm xuất khẩu dầu diesel của Hoa Kỳ, lập luận hôm thứ Tư rằng biện pháp này sẽ phản tác dụng khi tăng giá xăng và nhiên liệu máy bay. Wright nói tại một cuộc họp báo: “Công cụ cấm xuất khẩu dầu diesel chắc chắn không có tác dụng”.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-23_6rwlem5oys.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Energy-Secretary-Blunt-Tool-of-Banning-Diesel-Exports-Doesnt-Work.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-24 00:00"
     },
     {
       "id": "16g0vpe",
@@ -387,6 +387,17 @@
       "published": "2026-09-23 06:00"
     },
     {
+      "id": "q756fe",
+      "title": "127% Data Center Copper Demand Growth by 2040 Raises Need for New Mines",
+      "title_vi": "Tăng trưởng nhu cầu đồng của trung tâm dữ liệu 127% vào năm 2040 làm tăng nhu cầu về các mỏ mới",
+      "summary_vi": "Nhu cầu về đồng của trung tâm dữ liệu có thể tăng 127% vào năm 2040, làm tăng áp lực lên nguồn cung của mỏ và nâng cao tầm quan trọng của các dự án tiến tới sản xuất.",
+      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6ab26ca0c17fb417937f1a8a_Data%20Center.avif",
+      "link": "https://www.cruxinvestor.com/posts/127-data-center-copper-demand-growth-by-2040-raises-need-for-new-mines",
+      "source": "Crux Investor",
+      "category": "metal",
+      "published": "2026-09-23 05:38"
+    },
+    {
       "id": "1xmztgd",
       "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
       "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
@@ -539,17 +550,6 @@
       "source": "stonex.com",
       "category": "metal",
       "published": "2026-09-22 19:24"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-22 19:14"
     }
   ]
 }

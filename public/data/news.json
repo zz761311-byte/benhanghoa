@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-24 19:01",
+  "updated_at": "2026-09-24 20:01",
   "items": [
+    {
+      "id": "x47ff0",
+      "title": "Saudi Arabia Sells 100 Million Barrels of Crude to Asia via Hormuz",
+      "title_vi": "Ả Rập Saudi bán 100 triệu thùng dầu thô sang châu Á thông qua Hormuz",
+      "summary_vi": "Ả Rập Saudi đã bán gần 100 triệu thùng dầu thô cho người mua châu Á qua eo biển Hormuz kể từ giữa tuần trước, khi nước này chuyển sang điểm nghẽn mà nước này muốn tránh với đường ống Đông-Tây tới Biển Đỏ. Với đường ống không hoạt động, Vương quốc có sol",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-24_gtt7f4xas2.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Sells-100-Million-Barrels-of-Crude-to-Asia-via-Hormuz.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-24 20:00"
+    },
     {
       "id": "c9ap1s",
       "title": "Europe’s Gas Prices Jump as Hormuz Standoff Drags On",
@@ -112,17 +123,6 @@
       "published": "2026-09-24 07:09"
     },
     {
-      "id": "77qp9f",
-      "title": "Canada’s Oil Patch On Track For Biggest M&A Wave In A Decade",
-      "title_vi": "Công ty dầu mỏ Canada đang trên đà tạo ra làn sóng M&A lớn nhất trong một thập kỷ",
-      "summary_vi": "Gần một thập kỷ trước, Canadian Oil Patch đã ghi nhận một làn sóng bán và hợp nhất tài sản lớn khi các công ty dầu mỏ lớn thoát khỏi cát dầu để có được tỷ suất lợi nhuận cao hơn từ dầu đá phiến của Mỹ cũng như những lo ngại về môi trường trong bối cảnh cơn sốt đầu tư vào ESG. Nói một cách hóm hỉnh, Shell Plc (NYSE:SHEL) đã bán ma",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-23_gjkoxry05a.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Canadas-Oil-Patch-On-Track-For-Biggest-MA-Wave-In-A-Decade.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-24 06:00"
-    },
-    {
       "id": "ozuzzb",
       "title": "Crawford's First-Quartile Cost Curve Cushions It From Nickel's Price Slide",
       "title_vi": "Đường cong chi phí tứ phân vị đầu tiên của Crawford giúp giảm bớt sự trượt dốc của giá niken",
@@ -143,6 +143,17 @@
       "source": "Goldman Sachs",
       "category": "energy",
       "published": "2026-09-24 02:01"
+    },
+    {
+      "id": "mu31dw",
+      "title": "Dollar jumps near 2-month high on Fed outlook, rising oil price",
+      "title_vi": "Đồng đô la tăng gần mức cao nhất trong 2 tháng do triển vọng của Fed và giá dầu tăng",
+      "summary_vi": "Dữ liệu LSEG cho thấy khả năng Mỹ tăng lãi suất vào tháng 10 lên khoảng 75%",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F8%2F2%2F13142888-2-eng-GB%2Fa9f66926cfd4-2025-04-25T204652Z_1730044088_RC285EA8KX4F_RTRMADP_3_USA-MARKETS.JPG?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+      "link": "https://asia.nikkei.com/business/markets/currencies/dollar-jumps-near-2-month-high-on-fed-outlook-rising-oil-price",
+      "source": "Nikkei Asia",
+      "category": "energy",
+      "published": "2026-09-24 00:34"
     },
     {
       "id": "16g0vpe",
@@ -297,17 +308,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-09-23 17:54"
-    },
-    {
-      "id": "1c113rj",
-      "title": "Dollar Jumps to 8-Week High as Fed Rate-Hike Bets Outweigh Lower Oil Prices",
-      "title_vi": "Đồng đô la tăng lên mức cao nhất trong 8 tuần khi đặt cược tăng lãi suất của Fed vượt xa giá dầu thấp hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/economy/central-banking/dollar-jumps-to-8-week-high-as-fed-rate-hike-bets-outweigh-lower-oil-prices-92e6cf72",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-09-23 17:18"
     },
     {
       "id": "1eahdku",
@@ -541,15 +541,15 @@
       "published": "2026-09-23 02:02"
     },
     {
-      "id": "yvct8b",
-      "title": "High Beta, Short Supply: The Drivers of Silver's New Rally",
-      "title_vi": "Beta cao, nguồn cung ngắn: Động lực thúc đẩy đợt tăng giá mới của bạc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://etfdb.com/gold-silver-investing-content-hub/high-beta-short-supply-drive-silver-rally/",
-      "source": "ETF Database",
-      "category": "metal",
-      "published": "2026-09-23 01:17"
+      "id": "1twojl2",
+      "title": "Coffee Prices Fall as Global Supplies Grow",
+      "title_vi": "Giá cà phê giảm khi nguồn cung toàn cầu tăng",
+      "summary_vi": "Cà phê arabica tháng 12 (KCZ26) đóng cửa ở mức giảm -4,10 (-1,48%) vào thứ Ba và cà phê Robusta ICE tháng 11 (RMX26) đóng cửa ở mức giảm -77 (-2,31%). Giá cà phê giảm mạnh ngày thứ hai liên tiếp vào thứ Ba và chạm mức thấp nhất trong 3 tháng. Giá cà phê đã chịu áp lực trong ba tuần qua do…",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://www.tradingview.com/news/barchart:c9e80703b094b:0-coffee-prices-fall-as-global-supplies-grow/",
+      "source": "TradingView",
+      "category": "soft",
+      "published": "2026-09-23 01:23"
     }
   ]
 }

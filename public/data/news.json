@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 03:01",
+  "updated_at": "2026-09-26 03:32",
   "items": [
     {
       "id": "1o5ogmz",
@@ -55,6 +55,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-25 23:15"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-09-25 22:58"
+    },
+    {
+      "id": "4d3d2h",
+      "title": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
+      "title_vi": "Các tuyến đường thay thế cho dầu khí Trung Đông do sự gián đoạn của Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/alternative-routes-for-middle-east-oil-and-gas-due-to-hormuz-disruption/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-25 22:40"
     },
     {
       "id": "f2hbdn",
@@ -528,28 +550,6 @@
       "source": "TradingView",
       "category": "soft",
       "published": "2026-09-23 22:59"
-    },
-    {
-      "id": "1xjowfz",
-      "title": "New Coffee Resilience Paper Calls for Investment Beyond the Farm",
-      "title_vi": "Báo cáo mới về khả năng phục hồi của cà phê kêu gọi đầu tư ngoài trang trại",
-      "summary_vi": "Một bài viết mới về Thử thách cà phê bền vững đang kêu gọi các công ty cà phê và các tổ chức khác có thể có tiền đầu tư vào lĩnh vực cà phê để có tầm nhìn xa hơn...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/09/23/new-coffee-resilience-paper-calls-for-investment-beyond-the-farm/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-09-23 22:58"
-    },
-    {
-      "id": "40x1yo",
-      "title": "US Soybean Outlook Strengthens on Higher Production",
-      "title_vi": "Triển vọng đậu nành Hoa Kỳ tăng cường nhờ sản lượng cao hơn",
-      "summary_vi": "Sản lượng đậu tương của Mỹ tăng do dự báo diện tích và năng suất cao hơn. Nhu cầu xuất khẩu mạnh mẽ và các thị trường hỗ trợ nghiền hạt có dầu toàn cầu vào năm 2026/2027.",
-      "image": "",
-      "link": "https://www.farms.com/ag-industry-news/us-soybean-outlook-strengthens-on-higher-production-315.aspx",
-      "source": "Farms.com",
-      "category": "agri",
-      "published": "2026-09-23 22:45"
     }
   ]
 }

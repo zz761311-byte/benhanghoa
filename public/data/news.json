@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25 09:01",
+  "updated_at": "2026-09-25 10:01",
   "items": [
     {
       "id": "3mmxqo",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-25 06:00"
+    },
+    {
+      "id": "1qhzhod",
+      "title": "Grains Slide After China’s $17 Billion “Let Down”",
+      "title_vi": "Ngũ cốc trượt dốc sau đợt “thả lỏng” trị giá 17 tỷ USD của Trung Quốc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/grains-slide-after-chinas-17-billion-let-down",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-09-25 05:16"
     },
     {
       "id": "1l5w3vt",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-23 16:15"
-    },
-    {
-      "id": "12nus3o",
-      "title": "Silver Price Outlook: Future is bright with Rs.3.25 lk/kg target in sight? Expert explains what could trigger next spark",
-      "title_vi": "Triển vọng giá bạc: Tương lai tươi sáng với mục tiêu Rs.3,25 lk/kg trong tầm mắt? Chuyên gia giải thích điều gì có thể kích hoạt tia lửa tiếp theo",
-      "summary_vi": "Theo các chuyên gia thị trường hàng hóa, triển vọng giá bạc, ngày 23 tháng 9 - Giá bạc có thể hướng tới 3,25 lakh Rs/kg nếu có sự kết hợp đúng đắn của các yếu tố toàn cầu. Với bạc hiện đang giao dịch ở khoảng giữa 60 USD/ounce (2,40 lakh/kg), câu hỏi quan trọng đối với các nhà đầu tư…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://www.tradingview.com/news/moodys:a7d6f17e1e2e9:0-silver-price-outlook-future-is-bright-with-rs-3-25-lk-kg-target-in-sight-expert-explains-what-could-trigger-next-spark/",
-      "source": "TradingView",
-      "category": "metal",
-      "published": "2026-09-23 16:07"
     }
   ]
 }

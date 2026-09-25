@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25 18:01",
+  "updated_at": "2026-09-25 18:58",
   "items": [
     {
       "id": "xfbayt",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-25 17:00"
+    },
+    {
+      "id": "1kjo3q1",
+      "title": "American farmers are hurting — and worried about their futures",
+      "title_vi": "Nông dân Mỹ đang bị tổn thương - và lo lắng về tương lai của họ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
+      "source": "NPR",
+      "category": "agri",
+      "published": "2026-09-25 16:00"
     },
     {
       "id": "ei996z",
@@ -167,6 +178,17 @@
       "published": "2026-09-25 01:33"
     },
     {
+      "id": "1e6ik97",
+      "title": "Larger Coffee Output in Brazil Weighs on Prices",
+      "title_vi": "Sản lượng cà phê lớn hơn ở Brazil gây áp lực lên giá",
+      "summary_vi": "Cà phê arabica tháng 12 (KCZ26) đóng cửa ở mức giảm -0,55 (-0,20%) vào thứ Năm và cà phê Robusta ICE tháng 11 (RMX26) đóng cửa ở mức giảm -27 (-0,81%). Giá cà phê giảm vào thứ Năm nhưng vẫn cao hơn mức thấp nhất trong 3 tháng của thứ Tư. Giá cà phê chịu áp lực hôm thứ Năm sau khi Conab, dự báo vụ mùa của Brazil…",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://es.tradingview.com/news/barchart:a73b00907094b:0-larger-coffee-output-in-brazil-weighs-on-prices/",
+      "source": "TradingView",
+      "category": "soft",
+      "published": "2026-09-25 01:19"
+    },
+    {
       "id": "3zksy9",
       "title": "Kimmeridge Publishes New White Paper On Diverging Outlook for U.S. Oil and Natural Gas",
       "title_vi": "Kimmeridge xuất bản Sách trắng mới về triển vọng khác nhau đối với dầu và khí đốt tự nhiên của Hoa Kỳ",
@@ -286,6 +308,17 @@
       "source": "Farm Progress",
       "category": "soft",
       "published": "2026-09-24 14:14"
+    },
+    {
+      "id": "14azaoo",
+      "title": "Back-to-back storms batter Hawaii coffee farms during critical harvest season",
+      "title_vi": "Những cơn bão liên tiếp tàn phá các trang trại cà phê Hawaii trong mùa thu hoạch quan trọng",
+      "summary_vi": "Những cơn bão liên tiếp đã làm thiệt hại mùa màng và bật gốc cây trồng trên khắp các trang trại cà phê ở Hawaii trong thời kỳ thu hoạch cao điểm, đe dọa thiệt hại nhiều năm cho người trồng cà phê địa phương.",
+      "image": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-25-2026%2Ft_35bb700c8bc545d89be1fab97ed8716a_name_file_1280x720_2000_v3_1_.jpg?auth=5347619bbe2d5811c7c89844b8ff96b013151db0bb1457c1e8e5bd023d6e433c&width=1200&height=600&smart=true",
+      "link": "https://www.hawaiinewsnow.com/video/2026/09/24/back-to-back-storms-batter-hawaii-coffee-farms-during-critical-harvest-season/?outputType",
+      "source": "Hawaii News Now",
+      "category": "agri",
+      "published": "2026-09-24 13:46"
     },
     {
       "id": "1kd16ac",
@@ -517,39 +550,6 @@
       "source": "Investing.com",
       "category": "metal",
       "published": "2026-09-23 19:36"
-    },
-    {
-      "id": "1eu625p",
-      "title": "Ero Copper Price Target Raised to CA$56.00 at CIBC",
-      "title_vi": "Mục tiêu giá đồng Ero được tăng lên CA$56,00 tại CIBC",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ero-copper-price-target-raised-120800274.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-09-23 19:08"
-    },
-    {
-      "id": "r7vvzw",
-      "title": "Survey of ASA and NCGA members shows financial pressures persist for corn and soybean farmers",
-      "title_vi": "Khảo sát của các thành viên ASA và NCGA cho thấy áp lực tài chính vẫn tồn tại đối với nông dân trồng ngô và đậu tương",
-      "summary_vi": "Một cuộc khảo sát mới đối với nông dân trồng ngô và đậu tương cho thấy áp lực tài chính vẫn cao bất chấp những cải thiện gần đây về ...",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2431/files/2026/03/unnamed-13.jpg",
-      "link": "https://kfgo.com/2026/09/23/survey-of-asa-and-ncga-members-shows-financial-pressure-persists-for-corn-and-soybean-farmers/",
-      "source": "The Mighty 790 KFGO",
-      "category": "agri",
-      "published": "2026-09-23 19:08"
-    },
-    {
-      "id": "8fgpdk",
-      "title": "Natural Gas News: Hotter Forecast Lifts Front Months as March Lags",
-      "title_vi": "Tin tức về khí đốt tự nhiên: Dự báo nóng hơn sẽ nâng cao các tháng trước khi tháng 3 chậm lại",
-      "summary_vi": "Giá khí đốt tự nhiên tăng do thời tiết tháng 10 nóng hơn thúc đẩy các tháng trước, nhưng tháng 3 lại tụt xuống dưới mức trung bình 50 ngày do lượng dự trữ tăng lên.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/natural-gas-market-illustration-08-2.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-news-hotter-forecast-lifts-front-months-as-march-lags-1631089",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-09-23 18:02"
     }
   ]
 }

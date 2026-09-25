@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-25 11:01",
+  "updated_at": "2026-09-25 12:01",
   "items": [
+    {
+      "id": "879mck",
+      "title": "Gold heads for weekly loss as stronger dollar, Fed rate outlook weighs",
+      "title_vi": "Vàng hướng tới tuần giảm do đồng đô la mạnh hơn, triển vọng lãi suất của Fed nặng nề hơn",
+      "summary_vi": "Vàng tăng giá vào thứ Sáu nhưng được thiết lập cho mức giảm hàng tuần, do áp lực bởi đồng đô la mạnh hơn và đặt cược vào lãi suất cao hơn trong thời gian dài hơn để kiềm chế lạm phát.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107343524-1701808821140-2017-07-23T095136Z_1771868940_RC1496A26780_RTRMADP_3_SINGAPORE-GOLD.JPG?v=1790304272",
+      "link": "https://www.cnbc.com/amp/2026/09/25/gold-heads-for-weekly-loss-as-stronger-dollar-fed-rate-outlook-weighs.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-09-25 10:15"
+    },
     {
       "id": "3mmxqo",
       "title": "5 Energy Stocks Positioned for a Prolonged Iran War",
@@ -288,6 +299,17 @@
       "published": "2026-09-24 02:01"
     },
     {
+      "id": "1rxcibz",
+      "title": "Goldman Sachs says they continue to expect uncertainty around critical minerals tariffs to persist; expect much of the metal already in the US to remain trapped, while periodic increases in tariff risk could encourage further stockbuilding",
+      "title_vi": "Goldman Sachs cho biết họ tiếp tục mong đợi sự không chắc chắn xung quanh thuế khoáng sản quan trọng sẽ tiếp tục tồn tại; dự kiến ​​phần lớn kim loại hiện có ở Mỹ vẫn bị mắc kẹt, trong khi rủi ro thuế quan gia tăng định kỳ có thể khuyến khích việc tích trữ thêm",
+      "summary_vi": "Goldman Sachs cho biết họ tiếp tục mong đợi sự không chắc chắn xung quanh thuế khoáng sản quan trọng sẽ tiếp tục tồn tại; dự kiến ​​phần lớn kim loại đã có mặt ở Mỹ sẽ vẫn bị mắc kẹt",
+      "image": "https://www.newsquawk.com/assets/placeholder_images_for_news_by_category/Metals/3.png",
+      "link": "https://www.newsquawk.com/headlines/goldman-sachs-says-they-continue-to-expect-uncertainty-around-critical-minerals-tariffs-to-persist-expect-much-of-the-metal-already-in-the-us-to-remain-trapped-while-periodic-increases-in-tariff-risk-could-encourage-further-stockbuilding",
+      "source": "Newsquawk",
+      "category": "metal",
+      "published": "2026-09-24 01:20"
+    },
+    {
       "id": "16xfhlg",
       "title": "‘Dammit, something has to happen’: White House preparing plan for 90-day diesel exports ban",
       "title_vi": "'Chết tiệt, phải có chuyện gì đó xảy ra': Nhà Trắng chuẩn bị kế hoạch cấm xuất khẩu dầu diesel trong 90 ngày",
@@ -519,17 +541,6 @@
       "published": "2026-09-23 17:28"
     },
     {
-      "id": "1eahdku",
-      "title": "TSX futures inch lower as gold, silver prices slip",
-      "title_vi": "Hợp đồng tương lai TSX giảm nhẹ do giá vàng, bạc trượt dốc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/tsx-futures-inch-lower-gold-silver-prices-slip-2026-09-23/",
-      "source": "reuters.com",
-      "category": "metal",
-      "published": "2026-09-23 17:15"
-    },
-    {
       "id": "18ox2tz",
       "title": "Mapping the Market: Copper could be gearing up for a rally",
       "title_vi": "Lập bản đồ thị trường: Đồng có thể chuẩn bị cho một đợt tăng giá",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-09-23 17:12"
-    },
-    {
-      "id": "1s462pq",
-      "title": "Prysmian and Aurubis deepen strategic partnership with landmark long-term copper agreement",
-      "title_vi": "Prysmian và Aurubis tăng cường quan hệ đối tác chiến lược với thỏa thuận đồng dài hạn mang tính bước ngoặt",
-      "summary_vi": "Prysmian và Aurubis đã ký một thỏa thuận dài hạn mang tính bước ngoặt về việc cung cấp dây đồng.",
-      "image": "https://www.aurubis.com/dam/jcr:26e7d188-0005-431e-b4ae-24b2ce6c5194/Unterschrift-Label%20DE.833dde2f6a1052e6789c3f01b913d094.jpg",
-      "link": "https://www.aurubis.com/en/media/press-releases/press-releases-2026/prysmian-and-aurubis-deepen-strategic-partnership-with-landmark-long-term-copper-agreement",
-      "source": "Aurubis",
-      "category": "metal",
-      "published": "2026-09-23 16:20"
     }
   ]
 }

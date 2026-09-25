@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-26 02:01",
+  "updated_at": "2026-09-26 03:01",
   "items": [
+    {
+      "id": "1o5ogmz",
+      "title": "Why Record Heat Failed to Lift U.S. Natural Gas Prices",
+      "title_vi": "Tại sao nhiệt độ kỷ lục không thể nâng giá khí đốt tự nhiên của Hoa Kỳ",
+      "summary_vi": "Khí đốt tự nhiên của Henry Hub đạt trung bình 2,93 USD trên một triệu đơn vị nhiệt của Anh từ tháng 6 đến tháng 8, thấp hơn 6% so với cùng kỳ năm ngoái, ngay cả khi Lower 48 đạt kỷ lục tháng 7 nóng nhất. Theo NOAA, nhiệt độ trung bình trên khắp Lower 48 đạt 77°F vào tháng 7.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-25_nhe9dp1lfo.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Why-Record-Heat-Failed-to-Lift-US-Natural-Gas-Prices.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-26 03:00"
+    },
     {
       "id": "10jd4vv",
       "title": "Venezuela Oil Output Could Hit 1.8 Million Bpd By 2030, Rystad Says",
@@ -88,17 +99,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-25 21:15"
-    },
-    {
-      "id": "18qe11t",
-      "title": "Beijing&#039;s Iran Oil Trade Draws Fresh Criticism From Capitol Hill",
-      "title_vi": "Thương mại dầu Iran của Bắc Kinh thu hút sự chỉ trích mới từ Capitol Hill",
-      "summary_vi": "Các nhà lập pháp Hoa Kỳ và các chuyên gia an ninh quốc gia đang thúc ép Tổng thống Donald Trump thực hiện hành động cứng rắn hơn đối với các thực thể Trung Quốc bị cáo buộc giúp đỡ Iran về tình báo vệ tinh, các thành phần vũ khí và doanh thu từ dầu mỏ. Các cuộc gọi tăng cường khi Chủ tịch Trung Quốc Tập Cận Bình đến thăm",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-25_0giqueyr5o.jpg",
-      "link": "https://oilprice.com/Geopolitics/International/Beijings-Iran-Oil-Trade-Draws-Fresh-Criticism-From-Capitol-Hill.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-25 21:00"
     },
     {
       "id": "1sx7707",
@@ -332,6 +332,17 @@
       "published": "2026-09-24 20:28"
     },
     {
+      "id": "tzktvy",
+      "title": "Fashion Cost Pressures Could Reshape Cotton Sustainability Demands - RFD-TV",
+      "title_vi": "Áp lực chi phí thời trang có thể định hình lại nhu cầu về tính bền vững của bông - RFD-TV",
+      "summary_vi": "Chi phí hoạt động cao hơn đang gây áp lực lên các cam kết bền vững trong ngành thời trang.",
+      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/d332b2e/2147483647/strip/true/crop/720x404+0+1/resize/730x410!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2FY1DXE61C%2Fthumbnails%2Fybnss682.jpg",
+      "link": "https://www.rfdtv.com/fashion-cost-pressures-could-reshape-cotton-sustainability-demands",
+      "source": "RFD-TV",
+      "category": "soft",
+      "published": "2026-09-24 19:10"
+    },
+    {
       "id": "ov6mwi",
       "title": "Analysts Say China 2026 Oil, Gas Demand Outlook Weakens",
       "title_vi": "Các nhà phân tích cho rằng triển vọng nhu cầu dầu, khí đốt của Trung Quốc năm 2026 sẽ suy yếu",
@@ -538,17 +549,6 @@
       "link": "https://www.farms.com/ag-industry-news/us-soybean-outlook-strengthens-on-higher-production-315.aspx",
       "source": "Farms.com",
       "category": "agri",
-      "published": "2026-09-23 22:45"
-    },
-    {
-      "id": "1vsugv5",
-      "title": "Platinum Market Surplus Of 265 Koz Forecast For 2026 - Inventories Remain Critically Depleted Following Three Consecutive Years Of Significant Deficital",
-      "title_vi": "Dự báo thặng dư thị trường bạch kim là 265 Koz cho năm 2026 - Hàng tồn kho vẫn cạn kiệt nghiêm trọng sau ba năm liên tiếp thiếu hụt đáng kể",
-      "summary_vi": "Trevor Raymond, Giám đốc điều hành của Hội đồng đầu tư bạch kim thế giới, nhận xét:",
-      "image": "https://hedgefundalpha.com/wp-content/uploads/2026/09/Platinum.jpeg",
-      "link": "https://hedgefundalpha.com/news/platinum-market-surplus-of-265-koz-forecast-for-2026/",
-      "source": "Hedge Fund Alpha",
-      "category": "metal",
       "published": "2026-09-23 22:45"
     }
   ]

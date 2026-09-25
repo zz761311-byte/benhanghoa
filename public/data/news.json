@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-25 22:01",
+  "updated_at": "2026-09-25 23:01",
   "items": [
+    {
+      "id": "f2hbdn",
+      "title": "EU Shrugs Off Gas Supply Fears Despite Low Storage Levels",
+      "title_vi": "EU gạt bỏ lo ngại về nguồn cung khí đốt mặc dù mức dự trữ thấp",
+      "summary_vi": "Theo Nhóm điều phối khí đốt, nhóm tư vấn cho Ủy ban châu Âu về việc điều phối các biện pháp an ninh cung cấp trong trường hợp khẩn cấp ở EU hoặc khu vực, nguồn cung cấp khí đốt tự nhiên của Liên minh châu Âu vẫn ổn định. Nhóm Điều phối Khí đã họp lại vào tuần này để đưa ra quyết định",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-25_9waud6spkk.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Shrugs-Off-Gas-Supply-Fears-Despite-Low-Storage-Levels.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-25 22:30"
+    },
+    {
+      "id": "o71eb2",
+      "title": "Re-Examining the Role of Commodities in a New Market Regime",
+      "title_vi": "Xem xét lại vai trò của hàng hóa trong cơ chế thị trường mới",
+      "summary_vi": "Điểm nổi bật chính:",
+      "image": "https://www.institutionalinvestor.com/sites/inv/files/styles/featured_article_image/public/images/Lead%20Image-Re-examining-Role-of-Commodities.jpg.webp?itok=1b0qFseW",
+      "link": "https://www.institutionalinvestor.com/article/sponsored-content/re-examining-role-commodities-new-market-regime",
+      "source": "institutionalinvestor.com",
+      "category": "macro",
+      "published": "2026-09-25 22:00"
+    },
     {
       "id": "1o90up4",
       "title": "Trump’s Diesel Export Threat Puts Britain on Edge",
@@ -88,17 +110,6 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-09-25 20:00"
-    },
-    {
-      "id": "zdwnfc",
-      "title": "India Weighs Mandatory Imported Coal Blending as Plant Stocks Crumble",
-      "title_vi": "Ấn Độ cân nhắc việc bắt buộc trộn than nhập khẩu khi trữ lượng nhà máy sụt giảm",
-      "summary_vi": "Ấn Độ đang cân nhắc ý tưởng bắt buộc trộn than nhập khẩu tại các nhà máy điện vì trữ lượng than tại nhiều cơ sở đã sụt giảm do các vấn đề hậu cần trong những tháng gần đây, các nguồn tin chính phủ có hiểu biết trực tiếp về các cuộc thảo luận nói với Reuters. Nếu Ấn Độ bắt đầu pha trộn bắt buộc",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-25_vzadjh3mym.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Weighs-Mandatory-Imported-Coal-Blending-as-Plant-Stocks-Crumble.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-09-25 19:00"
     },
     {
       "id": "1jqj7hb",
@@ -539,17 +550,6 @@
       "source": "Bloomberg",
       "category": "metal",
       "published": "2026-09-23 22:42"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-09-23 22:39"
     }
   ]
 }

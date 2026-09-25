@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 06:01",
+  "updated_at": "2026-09-26 06:37",
   "items": [
     {
       "id": "wvuxa0",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-26 03:00"
+    },
+    {
+      "id": "4w7qyb",
+      "title": "Palladium Price September 28 2026",
+      "title_vi": "Giá Palladium ngày 28 tháng 9 năm 2026",
+      "summary_vi": "Hợp đồng tương lai palladium ngày 26 tháng 12 sẽ kết thúc vào ngày 28 tháng 9 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
+      "image": "https://robinhood.com/api/public/og/event?id=d371aa4a-0ae5-4f12-ac01-12db0ceb7096",
+      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/palladium-price-september-28-2026-sep-28-2026/",
+      "source": "Robinhood",
+      "category": "metal",
+      "published": "2026-09-26 01:06"
     },
     {
       "id": "10jd4vv",
@@ -539,17 +550,6 @@
       "source": "Politico",
       "category": "energy",
       "published": "2026-09-24 00:58"
-    },
-    {
-      "id": "mu31dw",
-      "title": "Dollar jumps near 2-month high on Fed outlook, rising oil price",
-      "title_vi": "Đồng đô la tăng gần mức cao nhất trong 2 tháng do triển vọng của Fed và giá dầu tăng",
-      "summary_vi": "Dữ liệu LSEG cho thấy khả năng Mỹ tăng lãi suất vào tháng 10 lên khoảng 75%",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F8%2F2%2F13142888-2-eng-GB%2Fa9f66926cfd4-2025-04-25T204652Z_1730044088_RC285EA8KX4F_RTRMADP_3_USA-MARKETS.JPG?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-      "link": "https://asia.nikkei.com/business/markets/currencies/dollar-jumps-near-2-month-high-on-fed-outlook-rising-oil-price",
-      "source": "Nikkei Asia",
-      "category": "energy",
-      "published": "2026-09-24 00:34"
     }
   ]
 }

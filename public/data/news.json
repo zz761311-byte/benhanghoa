@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 05:01",
+  "updated_at": "2026-09-26 06:01",
   "items": [
     {
       "id": "wvuxa0",
@@ -211,6 +211,17 @@
       "published": "2026-09-25 05:16"
     },
     {
+      "id": "x0k0ti",
+      "title": "US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says",
+      "title_vi": "EIA cho biết sản lượng dầu thô của Mỹ sẽ giảm trong thập kỷ tới do dự báo giá dầu Brent dưới 70 USD",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-crude-output-to-fall-next-decade-on-sub-70-brent-price-forecast-eia-says/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-25 05:03"
+    },
+    {
       "id": "1u3qo99",
       "title": "Paul Weiss Pushes Back Against Removal Bid in Sugar Antitrust Fight",
       "title_vi": "Paul Weiss phản đối nỗ lực loại bỏ trong cuộc chiến chống độc quyền đường",
@@ -387,6 +398,17 @@
       "published": "2026-09-24 18:42"
     },
     {
+      "id": "h4i91p",
+      "title": "U.S. Farmers Press China on Tariffs as Soybean and Grain Trade Faces a Critical Test",
+      "title_vi": "Nông dân Hoa Kỳ ép Trung Quốc về thuế quan khi thương mại đậu nành và ngũ cốc phải đối mặt với một thử thách quan trọng",
+      "summary_vi": "Các nhóm nông dân Mỹ muốn Trung Quốc dỡ bỏ thuế quan và tăng cường mua nông sản khi đậu nành, lúa miến và ngô trở lại trung tâm của các cuộc đàm phán thương mại.",
+      "image": "https://www.agrolatam.com/files/image/71/71984/69bc2c858cc00_600_315!.jpg?s=b3eed4d9296658e4a2dedfa8cf94193b&d=1790249660",
+      "link": "https://www.agrolatam.com/usa/news/us-farmers-china-tariffs-soybean-sorghum-exports/",
+      "source": "AgroLatam",
+      "category": "agri",
+      "published": "2026-09-24 18:36"
+    },
+    {
       "id": "l9mzqu",
       "title": "Cotton prices rise in 2026 on tight supply",
       "title_vi": "Giá bông tăng vào năm 2026 do nguồn cung thắt chặt",
@@ -528,28 +550,6 @@
       "source": "Nikkei Asia",
       "category": "energy",
       "published": "2026-09-24 00:34"
-    },
-    {
-      "id": "16g0vpe",
-      "title": "Winter Heating Outlook: Natural Gas Offers Affordable, Reliable Heating for American Families and Businesses",
-      "title_vi": "Triển vọng sưởi ấm mùa đông: Khí đốt tự nhiên cung cấp hệ thống sưởi ấm đáng tin cậy, giá cả phải chăng cho các gia đình và doanh nghiệp Mỹ",
-      "summary_vi": "Triển vọng Sưởi ấm Mùa đông của AGA cho thấy nguồn cung khí đốt tự nhiên mạnh mẽ và hiệu suất liên tục tăng đang giúp khách hàng quản lý chi phí sưởi ấm mùa đông. Khi thời tiết lạnh giá đang đến gần, các hộ gia đình và doanh nghiệp lại chuẩn bị cho một mùa sưởi ấm mùa đông nữa. Theo Triển vọng sưởi ấm mùa đông của Hiệp hội Khí đốt Hoa Kỳ, thiên nhiên",
-      "image": "https://www.aga.org/wp-content/uploads/2026/09/pexels-konrads-photo-14518299-scaled.jpg",
-      "link": "https://www.aga.org/winter-heating-outlook-natural-gas-offers-affordable-reliable-heating-for-american-families-and-businesses/",
-      "source": "American Gas Association",
-      "category": "energy",
-      "published": "2026-09-23 23:25"
-    },
-    {
-      "id": "12in47y",
-      "title": "Will Harvest Push Corn and Soybean Prices Higher or Lower?",
-      "title_vi": "Vụ thu hoạch sẽ đẩy giá ngô và đậu nành lên cao hay thấp hơn?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/will-harvest-push-corn-and-soybean-prices-higher-or-lower-12136720",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-09-23 23:18"
     }
   ]
 }

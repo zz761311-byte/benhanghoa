@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-25 15:01",
+  "updated_at": "2026-09-25 16:01",
   "items": [
+    {
+      "id": "ei996z",
+      "title": "India Says It Will Keep Exporting Diesel",
+      "title_vi": "Ấn Độ cho biết sẽ tiếp tục xuất khẩu dầu diesel",
+      "summary_vi": "Bộ trưởng Dầu mỏ Hardeep Puri cho biết Ấn Độ sẽ tiếp tục xuất khẩu dầu diesel để giúp đáp ứng nhu cầu toàn cầu và giảm bớt tình trạng khủng hoảng nhiên liệu. “Chúng tôi tôn trọng các cam kết của mình,” Bộ trưởng cho biết tại một sự kiện công nghiệp ở New Delhi, đồng thời lưu ý rằng công suất lọc dầu của Ấn Độ tiếp tục mở rộng nhờ nhiều năm đầu tư.",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Says-It-Will-Keep-Exporting-Diesel.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-25 15:30"
+    },
     {
       "id": "1mejqri",
       "title": "Hormuz Tanker Transits Crash to Single Digits as Crisis Deepens",
@@ -9,7 +20,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-25_yhsitarlu7.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Transits-Crash-to-Single-Digits-as-Crisis-Deepens.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-09-25 14:30"
     },
     {
@@ -134,15 +145,15 @@
       "published": "2026-09-25 03:37"
     },
     {
-      "id": "1y3eply",
-      "title": "Global Biofuels Output Could Surge 70% Amid Energy Crisis",
-      "title_vi": "Sản lượng nhiên liệu sinh học toàn cầu có thể tăng 70% trong bối cảnh khủng hoảng năng lượng",
-      "summary_vi": "Một nghiên cứu do tổ chức nghiên cứu Chatham House và Forest Stewar của Anh đồng tác giả, sản xuất nhiên liệu sinh học toàn cầu được dự đoán sẽ tăng gần 70% vào năm 2030 khi các nước sản xuất lớn tăng cường yêu cầu pha trộn nhiên liệu để đối phó với cuộc khủng hoảng năng lượng do xung đột ở Trung Đông gây ra.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-24_cl2qtuzi9w.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Biofuels/Global-Biofuels-Output-Could-Surge-70-Amid-Energy-Crisis.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-25 03:00"
+      "id": "2uusqz",
+      "title": "Will El Niño Mean Another Global Food Price Spike?",
+      "title_vi": "Liệu El Niño có nghĩa là giá lương thực toàn cầu sẽ tăng đột biến?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.cgdev.org/publication/will-el-nino-mean-another-global-food-price-spike",
+      "source": "cgdev.org",
+      "category": "agri",
+      "published": "2026-09-25 01:33"
     },
     {
       "id": "3zksy9",
@@ -539,17 +550,6 @@
       "source": "Moomoo",
       "category": "metal",
       "published": "2026-09-23 18:01"
-    },
-    {
-      "id": "8ign5q",
-      "title": "EXCLUSIVE: Russia cuts natural gas output, export forecasts",
-      "title_vi": "ĐỘC QUYỀN: Nga cắt giảm sản lượng khí đốt tự nhiên, dự báo xuất khẩu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/russia-cuts-natural-gas-output-export-forecasts-2026-09-23/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-09-23 17:54"
     }
   ]
 }

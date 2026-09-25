@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-25 23:01",
+  "updated_at": "2026-09-26 00:01",
   "items": [
+    {
+      "id": "1dzrgwm",
+      "title": "BP Eyes Bigger U.S. Shale Footprint After Devon Deal Talks",
+      "title_vi": "BP để mắt đến dấu chân đá phiến lớn hơn của Mỹ sau các cuộc đàm phán về thỏa thuận Devon",
+      "summary_vi": "BP đã bắt đầu xem xét lại các tài sản đá phiến của Mỹ một cách nghiêm túc, bao gồm cả hoạt động kinh doanh Eagle Ford của Devon Energy, khi Giám đốc điều hành Meg O'Neill thúc đẩy công ty quay trở lại tăng trưởng dầu khí. BP đã vào phòng dữ liệu cho các tài sản ở Nam Texas của Devon sau khi nó mở cửa vào cuối tháng 8, theo Re.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-25_ozv1c08hn2.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Eyes-Bigger-US-Shale-Footprint-After-Devon-Deal-Talks.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-25 23:30"
+    },
+    {
+      "id": "oq7oxr",
+      "title": "Why WTI Is Suddenly Trading $12 Below Brent",
+      "title_vi": "Tại sao WTI đột nhiên giao dịch thấp hơn Brent 12 USD",
+      "summary_vi": "Giá dầu tăng cao nhờ chính sách ngoại giao Hormuz, chi phí vận chuyển hàng hóa tăng cao và lo ngại về thị trường dầu diesel khiến chênh lệch Brent-WTI ngày càng gia tăng. Giá dầu dự kiến ​​​​sẽ tăng nhẹ 2% hàng tuần, bất chấp tin đồn rằng việc khai mạc Đại hội đồng Liên Hợp Quốc năm 2026 vào tuần này đã gây ra một căng thẳng ngoại giao khác",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Why-WTI-Is-Suddenly-Trading-12-Below-Brent.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-25 23:15"
+    },
     {
       "id": "f2hbdn",
       "title": "EU Shrugs Off Gas Supply Fears Despite Low Storage Levels",
@@ -87,28 +109,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/US-Iran-Talks-Revive-June-Plan-for-Ending-Hormuz-Standoff.html",
       "source": "OilPrice",
       "category": "energy",
-      "published": "2026-09-25 20:00"
-    },
-    {
-      "id": "1ui5anx",
-      "title": "Aramco Restores East-West Pipeline as War Risk Closes In on Yanbu",
-      "title_vi": "Aramco khôi phục đường ống Đông-Tây khi nguy cơ chiến tranh cận kề ở Yanbu",
-      "summary_vi": "Saudi Aramco đã khởi động lại đường ống Đông-Tây (Petroline) chưa đầy hai tuần sau khi các cuộc tấn công đánh sập hệ thống 7 triệu thùng/ngày, khôi phục ít nhất một số tuyến đường đã vận chuyển phần lớn dầu thô của Saudi quanh eo biển Hormuz kể từ khi chiến tranh bắt đầu. Quá trình bơm đã được tiếp tục",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-25_dobre72dvk.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Aramco-Restores-East-West-Pipeline-as-War-Risk-Closes-In-on-Yanbu.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-25 20:00"
-    },
-    {
-      "id": "1q5w2jp",
-      "title": "EU Pressures UK to Match Its Tariffs on Chinese-Made Cars",
-      "title_vi": "EU gây áp lực buộc Anh phải áp thuế tương tự đối với ô tô sản xuất tại Trung Quốc",
-      "summary_vi": "Tờ Financial Times đưa tin hôm thứ Sáu, trích dẫn các nguồn thạo tin, Liên minh châu Âu đang thúc giục Vương quốc Anh tăng thuế đối với ô tô do Trung Quốc sản xuất nhằm đưa chính sách hải quan của nước này đến gần hơn với chính sách của khối và loại bỏ một số rào cản đối với việc đưa các sản phẩm của Anh vào chính sách “sản xuất tại châu Âu”.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-25_bm3xwcj0fw.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Pressures-UK-to-Match-Its-Tariffs-on-Chinese-Made-Cars.html",
-      "source": "OilPrice",
-      "category": "macro",
       "published": "2026-09-25 20:00"
     },
     {
@@ -431,6 +431,17 @@
       "published": "2026-09-24 02:44"
     },
     {
+      "id": "c4jsj6",
+      "title": "Gold loses shine as rate hike bets foster a stronger dollar",
+      "title_vi": "Vàng mất đi sức hấp dẫn khi đặt cược tăng lãi suất thúc đẩy đồng đô la mạnh hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-lacklustre-higher-for-longer-rate-outlook-weighs-sentiment-2026-09-23/",
+      "source": "reuters.com",
+      "category": "metal",
+      "published": "2026-09-24 02:19"
+    },
+    {
       "id": "pw35gu",
       "title": "Will European Gas Prices Keep Rising This Winter?",
       "title_vi": "Giá khí đốt châu Âu sẽ tiếp tục tăng trong mùa đông này?",
@@ -539,17 +550,6 @@
       "source": "Hedge Fund Alpha",
       "category": "metal",
       "published": "2026-09-23 22:45"
-    },
-    {
-      "id": "gu5kvh",
-      "title": "Gold Steadies as Iran Talks Temper Concerns Over Fed Rate Path",
-      "title_vi": "Vàng ổn định khi Iran nói lên mối lo ngại về lộ trình lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-22/gold-steadies-as-iran-talks-temper-concerns-over-fed-rate-path",
-      "source": "Bloomberg",
-      "category": "metal",
-      "published": "2026-09-23 22:42"
     }
   ]
 }

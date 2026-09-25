@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-25 20:01",
+  "updated_at": "2026-09-25 21:01",
   "items": [
+    {
+      "id": "18qe11t",
+      "title": "Beijing&#039;s Iran Oil Trade Draws Fresh Criticism From Capitol Hill",
+      "title_vi": "Thương mại dầu Iran của Bắc Kinh thu hút sự chỉ trích mới từ Capitol Hill",
+      "summary_vi": "Các nhà lập pháp Hoa Kỳ và các chuyên gia an ninh quốc gia đang thúc ép Tổng thống Donald Trump thực hiện hành động cứng rắn hơn đối với các thực thể Trung Quốc bị cáo buộc giúp đỡ Iran về tình báo vệ tinh, các thành phần vũ khí và doanh thu từ dầu mỏ. Các cuộc gọi tăng cường khi Chủ tịch Trung Quốc Tập Cận Bình đến thăm",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-25_0giqueyr5o.jpg",
+      "link": "https://oilprice.com/Geopolitics/International/Beijings-Iran-Oil-Trade-Draws-Fresh-Criticism-From-Capitol-Hill.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-25 21:00"
+    },
     {
       "id": "1rs2ycw",
       "title": "WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch",
@@ -110,17 +121,6 @@
       "source": "NPR",
       "category": "agri",
       "published": "2026-09-25 16:00"
-    },
-    {
-      "id": "ei996z",
-      "title": "India Says It Will Keep Exporting Diesel",
-      "title_vi": "Ấn Độ cho biết sẽ tiếp tục xuất khẩu dầu diesel",
-      "summary_vi": "Bộ trưởng Dầu mỏ Hardeep Puri cho biết Ấn Độ sẽ tiếp tục xuất khẩu dầu diesel để giúp đáp ứng nhu cầu toàn cầu và giảm bớt tình trạng khủng hoảng nhiên liệu. “Chúng tôi tôn trọng các cam kết của mình,” Bộ trưởng cho biết tại một sự kiện công nghiệp ở New Delhi, đồng thời lưu ý rằng công suất lọc dầu của Ấn Độ tiếp tục mở rộng nhờ nhiều năm đầu tư.",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Says-It-Will-Keep-Exporting-Diesel.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-25 15:30"
     },
     {
       "id": "879mck",
@@ -308,6 +308,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-24 20:28"
+    },
+    {
+      "id": "ov6mwi",
+      "title": "Analysts Say China 2026 Oil, Gas Demand Outlook Weakens",
+      "title_vi": "Các nhà phân tích cho rằng triển vọng nhu cầu dầu, khí đốt của Trung Quốc năm 2026 sẽ suy yếu",
+      "summary_vi": "Trung Quốc",
+      "image": "https://images.rigzone.com/images/news/articles/Analysts-Say-China-2026-Oil-Gas-Demand-Outlook-Weakens-184691-1200x628.png",
+      "link": "https://www.rigzone.com/news/analysts_say_china_2026_oil_gas_demand_outlook_weakens-24-sep-2026-184691-article/",
+      "source": "Rigzone",
+      "category": "energy",
+      "published": "2026-09-24 18:42"
     },
     {
       "id": "l9mzqu",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-23 20:49"
-    },
-    {
-      "id": "3vbr79",
-      "title": "Oil Prices Rebound Amid Persistent Middle East Supply Risks",
-      "title_vi": "Giá dầu phục hồi trong bối cảnh rủi ro nguồn cung dai dẳng ở Trung Đông",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-u-s-iran-talks-saudi-pipeline-progress-3b33f75c",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-09-23 19:58"
     }
   ]
 }

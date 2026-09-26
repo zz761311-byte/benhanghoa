@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 09:01",
+  "updated_at": "2026-09-26 09:03",
   "items": [
     {
       "id": "8vuo3s",
@@ -110,6 +110,17 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-09-25 22:58"
+    },
+    {
+      "id": "qcz0rg",
+      "title": "Dollar Weakness Spurs Short Covering in Coffee Futures",
+      "title_vi": "Sự suy yếu của đồng đô la thúc đẩy việc thu hồi ngắn hạn trong hợp đồng tương lai cà phê",
+      "summary_vi": "Cà phê arabica tháng 12 (KCZ26) hôm nay tăng +5,10 (+1,85%) và cà phê Robusta ICE tháng 11 (RMX26) tăng +62 (+1,88%). Giá cà phê hôm nay đang tăng, trong đó cà phê arabica đạt mức cao nhất trong 1 tuần. Sự trượt dốc hôm nay của chỉ số đô la ($DXY) đã làm dấy lên làn sóng bán khống hợp đồng tương lai cà phê. Đừng bỏ lỡ một ngày: F…",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://www.tradingview.com/news/barchart:abdaa239c094b:0-dollar-weakness-spurs-short-covering-in-coffee-futures/",
+      "source": "TradingView",
+      "category": "soft",
+      "published": "2026-09-25 22:43"
     },
     {
       "id": "4d3d2h",
@@ -539,17 +550,6 @@
       "source": "reuters.com",
       "category": "metal",
       "published": "2026-09-24 02:19"
-    },
-    {
-      "id": "pw35gu",
-      "title": "Will European Gas Prices Keep Rising This Winter?",
-      "title_vi": "Giá khí đốt châu Âu sẽ tiếp tục tăng trong mùa đông này?",
-      "summary_vi": "Theo Goldman Sachs Research, giá khí đốt ở châu Âu có thể tăng lên hơn 100 euro/MWh vào tháng 12 nếu xuất khẩu qua eo biển Hormuz không tăng.",
-      "image": "https://www.goldmansachs.com/images/insights/articles/will-european-gas-prices-keep-rising-this-winter/lng-tanker-3x2.jpg",
-      "link": "https://www.goldmansachs.com/insights/articles/will-european-gas-prices-keep-rising-this-winter",
-      "source": "Goldman Sachs",
-      "category": "energy",
-      "published": "2026-09-24 02:01"
     }
   ]
 }

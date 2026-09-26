@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 14:50",
+  "updated_at": "2026-09-26 15:01",
   "items": [
     {
       "id": "8vuo3s",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-26 03:00"
+    },
+    {
+      "id": "osgtb3",
+      "title": "Cocoa Market Supply Disruptions to Linger as Ghana Raises Price",
+      "title_vi": "Sự gián đoạn nguồn cung thị trường ca cao kéo dài khi Ghana tăng giá",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-25/cocoa-market-supply-disruptions-to-linger-as-ghana-raises-price",
+      "source": "Bloomberg.com",
+      "category": "soft",
+      "published": "2026-09-26 01:16"
     },
     {
       "id": "4w7qyb",
@@ -539,17 +550,6 @@
       "source": "CSIS | Center for Strategic and International Studies",
       "category": "energy",
       "published": "2026-09-24 04:01"
-    },
-    {
-      "id": "ozuzzb",
-      "title": "Crawford's First-Quartile Cost Curve Cushions It From Nickel's Price Slide",
-      "title_vi": "Đường cong chi phí tứ phân vị đầu tiên của Crawford giúp giảm bớt sự trượt dốc của giá niken",
-      "summary_vi": "Chi phí tiền mặt của Crawford là 0,39 USD/lb giữ cho nền kinh tế của Niken Canada không bị ảnh hưởng khi niken trượt xuống còn 16.000 USD/tấn.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a47ca858c80b7f2cb31c1f5_Close-up%20of%20nickel%20concentrate.jpg",
-      "link": "https://www.cruxinvestor.com/posts/crawfords-first-quartile-cost-curve-cushions-it-from-nickels-price-slide",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-09-24 03:02"
     }
   ]
 }

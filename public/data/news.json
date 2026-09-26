@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 15:01",
+  "updated_at": "2026-09-26 16:01",
   "items": [
     {
       "id": "8vuo3s",
@@ -231,6 +231,17 @@
       "source": "NPR",
       "category": "agri",
       "published": "2026-09-25 16:00"
+    },
+    {
+      "id": "1i1xmiy",
+      "title": "Russia's Novoshakhtinsk oil refinery suspends operations after drone attack, governor says",
+      "title_vi": "Thống đốc cho biết nhà máy lọc dầu Novoshakhtinsk của Nga đình chỉ hoạt động sau cuộc tấn công bằng máy bay không người lái",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/europe/russias-novoshakhtinsk-oil-refinery-suspends-operations-after-drone-attack-2026-09-25/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-09-25 15:37"
     },
     {
       "id": "9e4f7w",
@@ -508,6 +519,17 @@
       "published": "2026-09-24 12:01"
     },
     {
+      "id": "ozuzzb",
+      "title": "Crawford's First-Quartile Cost Curve Cushions It From Nickel's Price Slide",
+      "title_vi": "Đường cong chi phí tứ phân vị đầu tiên của Crawford giúp giảm bớt sự trượt dốc của giá niken",
+      "summary_vi": "Chi phí tiền mặt của Crawford là 0,39 USD/ pound giữ nguyên nền kinh tế của Niken Canada khi niken trượt xuống còn 16.000 USD/tấn.",
+      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a47ca858c80b7f2cb31c1f5_Close-up%20of%20nickel%20concentrate.jpg",
+      "link": "https://www.cruxinvestor.com/posts/crawfords-first-quartile-cost-curve-cushions-it-from-nickels-price-slide",
+      "source": "Crux Investor",
+      "category": "metal",
+      "published": "2026-09-24 10:08"
+    },
+    {
       "id": "rr0vzk",
       "title": "Innovation Is Always Welcome in the Sweetener Category",
       "title_vi": "Sự đổi mới luôn được chào đón trong danh mục chất ngọt",
@@ -528,28 +550,6 @@
       "source": "Progressive Policy Institute",
       "category": "metal",
       "published": "2026-09-24 07:09"
-    },
-    {
-      "id": "m4hqke",
-      "title": "Gold futures extend slide as dollar rises on hawkish Fed.",
-      "title_vi": "Giá vàng kỳ hạn tiếp tục trượt dốc khi đồng đô la tăng do Fed diều hâu",
-      "summary_vi": "Giá vàng kỳ hạn tháng 12 tiếp tục trượt dốc gần đây, giảm hơn 1% khi đồng đô la Mỹ tăng phiên thứ tư liên tiếp. Các nhà giao dịch tiếp tục cân nhắc bình luận diều hâu từ các quan chức Cục Dự trữ Liên bang sau đợt tăng lãi suất gần đây, đẩy xác suất của Công cụ FedWatch CME lên mức 50-50 cho các động thái chính sách trong tương lai.",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/gold-futures-extend-slide-as-dollar-rises-on-hawkish-fed-9-23-2.jpg",
-      "link": "https://www.cmegroup.com/videos/2026/09/23/gold-futures-extend-slide-as-dollar-rises-on-hawkish-fed-9-23-2.html",
-      "source": "CME Group",
-      "category": "metal",
-      "published": "2026-09-24 05:20"
-    },
-    {
-      "id": "12lwxlq",
-      "title": "The Melting Arctic Lifeline for Russia’s Shadow Fleet",
-      "title_vi": "Huyết mạch Bắc Cực tan chảy cho Hạm đội Bóng tối của Nga",
-      "summary_vi": "Hai tàu chứa nổi đã xử lý khoảng 53% lượng dầu thô xuất khẩu qua đường biển ở Bắc Cực của Nga kể từ tháng 2 năm 2022. Phân tích của CSIS Futures Lab cho thấy Hoa Kỳ và Châu Âu có thể nhắm mục tiêu vào những nút thắt cổ chai này để hạn chế doanh thu thời chiến của Điện Kremlin.",
-      "image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2026-09/GettyImages-1235114294_cropped.jpg?VersionId=oXk6QKfIru7RwBMJVRTOIIKziVxLfIoM",
-      "link": "https://www.csis.org/analysis/melting-arctic-lifeline-russias-shadow-fleet",
-      "source": "CSIS | Center for Strategic and International Studies",
-      "category": "energy",
-      "published": "2026-09-24 04:01"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 23:01",
+  "updated_at": "2026-09-26 23:47",
   "items": [
     {
       "id": "jsw2zw",
@@ -253,6 +253,17 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-09-25 15:37"
+    },
+    {
+      "id": "sro6on",
+      "title": "Copper Hits a Record $6.83 a Pound as Mine Disasters Choke Supply",
+      "title_vi": "Đồng đạt kỷ lục 6,83 đô la một pound do thảm họa mỏ làm nguồn cung bị tắc nghẽn",
+      "summary_vi": "Đồng đạt kỷ lục 6,83 USD/lb vào ngày 22 tháng 9 năm 2026 khi thảm họa mỏ Grasberg và Kamoa-Kakula cắt giảm nguồn cung và kế hoạch thuế quan của Mỹ bị đình trệ ở Washington.",
+      "image": "https://startupfortune.com/wp-content/uploads/2026/09/grasberg-southern-copper-freeport-mcmoran.jpg",
+      "link": "https://startupfortune.com/copper-hits-a-record-683-a-pound-as-mine-disasters-choke-supply/",
+      "source": "Startup Fortune",
+      "category": "metal",
+      "published": "2026-09-25 14:33"
     },
     {
       "id": "bjrwc7",
@@ -539,17 +550,6 @@
       "source": "The Dark Side Of The Boom",
       "category": "metal",
       "published": "2026-09-24 12:01"
-    },
-    {
-      "id": "ozuzzb",
-      "title": "Crawford's First-Quartile Cost Curve Cushions It From Nickel's Price Slide",
-      "title_vi": "Đường cong chi phí tứ phân vị đầu tiên của Crawford giúp giảm bớt sự trượt dốc của giá niken",
-      "summary_vi": "Chi phí tiền mặt của Crawford là 0,39 USD/ pound giữ nguyên nền kinh tế của Niken Canada khi niken trượt xuống còn 16.000 USD/tấn.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6a47ca858c80b7f2cb31c1f5_Close-up%20of%20nickel%20concentrate.jpg",
-      "link": "https://www.cruxinvestor.com/posts/crawfords-first-quartile-cost-curve-cushions-it-from-nickels-price-slide",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-09-24 10:08"
     }
   ]
 }

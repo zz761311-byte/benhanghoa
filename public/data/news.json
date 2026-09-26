@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 19:01",
+  "updated_at": "2026-09-26 19:29",
   "items": [
     {
       "id": "35i9yp",
@@ -253,6 +253,17 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-09-25 15:37"
+    },
+    {
+      "id": "bjrwc7",
+      "title": "Mounting rate hike bets keep weekly loss in sight for gold",
+      "title_vi": "Đặt cược tăng lãi suất khiến giá vàng có thể giảm hàng tuần",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-heads-weekly-loss-stronger-dollar-fed-rate-outlook-weighs-2026-09-25/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-09-25 09:23"
     },
     {
       "id": "9e4f7w",
@@ -539,17 +550,6 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-09-24 10:08"
-    },
-    {
-      "id": "rr0vzk",
-      "title": "Innovation Is Always Welcome in the Sweetener Category",
-      "title_vi": "Sự đổi mới luôn được chào đón trong danh mục chất ngọt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nutritionaloutlook.com/view/innovation-is-always-welcome-in-the-sweetener-category",
-      "source": "Nutritional Outlook",
-      "category": "soft",
-      "published": "2026-09-24 10:06"
     }
   ]
 }

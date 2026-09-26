@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 10:01",
+  "updated_at": "2026-09-26 11:01",
   "items": [
     {
       "id": "8vuo3s",
@@ -200,6 +200,17 @@
       "published": "2026-09-25 17:38"
     },
     {
+      "id": "22oxuy",
+      "title": "Gold Heads for Weekly Decline as Markets Assess Fed Rate Outlook and Dollar Strength",
+      "title_vi": "Vàng hướng tới sự sụt giảm hàng tuần khi thị trường đánh giá triển vọng lãi suất của Fed và sức mạnh của đồng đô la",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-heads-weekly-decline-markets-091902512.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-09-25 16:19"
+    },
+    {
       "id": "1kjo3q1",
       "title": "American farmers are hurting — and worried about their futures",
       "title_vi": "Nông dân Mỹ đang bị tổn thương - và lo lắng về tương lai của họ",
@@ -209,17 +220,6 @@
       "source": "NPR",
       "category": "agri",
       "published": "2026-09-25 16:00"
-    },
-    {
-      "id": "879mck",
-      "title": "Gold heads for weekly loss as stronger dollar, Fed rate outlook weighs",
-      "title_vi": "Vàng hướng tới tuần giảm do đồng đô la mạnh hơn, triển vọng lãi suất của Fed nặng nề hơn",
-      "summary_vi": "Vàng tăng giá vào thứ Sáu nhưng được thiết lập cho mức giảm hàng tuần, do áp lực bởi đồng đô la mạnh hơn và đặt cược vào lãi suất cao hơn trong thời gian dài hơn để kiềm chế lạm phát.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107343524-1701808821140-2017-07-23T095136Z_1771868940_RC1496A26780_RTRMADP_3_SINGAPORE-GOLD.JPG?v=1790304272",
-      "link": "https://www.cnbc.com/amp/2026/09/25/gold-heads-for-weekly-loss-as-stronger-dollar-fed-rate-outlook-weighs.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-09-25 10:15"
     },
     {
       "id": "9e4f7w",
@@ -519,6 +519,17 @@
       "published": "2026-09-24 05:20"
     },
     {
+      "id": "12lwxlq",
+      "title": "The Melting Arctic Lifeline for Russia’s Shadow Fleet",
+      "title_vi": "Huyết mạch Bắc Cực tan chảy cho Hạm đội Bóng tối của Nga",
+      "summary_vi": "Hai tàu chứa nổi đã xử lý khoảng 53% lượng dầu thô xuất khẩu qua đường biển ở Bắc Cực của Nga kể từ tháng 2 năm 2022. Phân tích của CSIS Futures Lab cho thấy Hoa Kỳ và Châu Âu có thể nhắm mục tiêu vào những nút thắt cổ chai này để hạn chế doanh thu thời chiến của Điện Kremlin.",
+      "image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2026-09/GettyImages-1235114294_cropped.jpg?VersionId=oXk6QKfIru7RwBMJVRTOIIKziVxLfIoM",
+      "link": "https://www.csis.org/analysis/melting-arctic-lifeline-russias-shadow-fleet",
+      "source": "CSIS | Center for Strategic and International Studies",
+      "category": "energy",
+      "published": "2026-09-24 04:01"
+    },
+    {
       "id": "ozuzzb",
       "title": "Crawford's First-Quartile Cost Curve Cushions It From Nickel's Price Slide",
       "title_vi": "Đường cong chi phí tứ phân vị đầu tiên của Crawford giúp giảm bớt sự trượt dốc của giá niken",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-09-24 02:44"
-    },
-    {
-      "id": "c4jsj6",
-      "title": "Gold loses shine as rate hike bets foster a stronger dollar",
-      "title_vi": "Vàng mất đi sức hấp dẫn khi đặt cược tăng lãi suất thúc đẩy đồng đô la mạnh hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-lacklustre-higher-for-longer-rate-outlook-weighs-sentiment-2026-09-23/",
-      "source": "reuters.com",
-      "category": "metal",
-      "published": "2026-09-24 02:19"
     }
   ]
 }

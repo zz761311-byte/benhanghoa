@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 08:01",
+  "updated_at": "2026-09-26 09:01",
   "items": [
     {
       "id": "8vuo3s",
@@ -497,6 +497,17 @@
       "published": "2026-09-24 07:09"
     },
     {
+      "id": "m4hqke",
+      "title": "Gold futures extend slide as dollar rises on hawkish Fed.",
+      "title_vi": "Giá vàng kỳ hạn tiếp tục trượt dốc khi đồng đô la tăng do Fed diều hâu",
+      "summary_vi": "Giá vàng kỳ hạn tháng 12 tiếp tục trượt dốc gần đây, giảm hơn 1% khi đồng đô la Mỹ tăng phiên thứ tư liên tiếp. Các nhà giao dịch tiếp tục cân nhắc bình luận diều hâu từ các quan chức Cục Dự trữ Liên bang sau đợt tăng lãi suất gần đây, đẩy xác suất của Công cụ FedWatch CME lên mức 50-50 cho các động thái chính sách trong tương lai.",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/gold-futures-extend-slide-as-dollar-rises-on-hawkish-fed-9-23-2.jpg",
+      "link": "https://www.cmegroup.com/videos/2026/09/23/gold-futures-extend-slide-as-dollar-rises-on-hawkish-fed-9-23-2.html",
+      "source": "CME Group",
+      "category": "metal",
+      "published": "2026-09-24 05:20"
+    },
+    {
       "id": "ozuzzb",
       "title": "Crawford's First-Quartile Cost Curve Cushions It From Nickel's Price Slide",
       "title_vi": "Đường cong chi phí tứ phân vị đầu tiên của Crawford giúp giảm bớt sự trượt dốc của giá niken",
@@ -539,17 +550,6 @@
       "source": "Goldman Sachs",
       "category": "energy",
       "published": "2026-09-24 02:01"
-    },
-    {
-      "id": "1rxcibz",
-      "title": "Goldman Sachs says they continue to expect uncertainty around critical minerals tariffs to persist; expect much of the metal already in the US to remain trapped, while periodic increases in tariff risk could encourage further stockbuilding",
-      "title_vi": "Goldman Sachs cho biết họ tiếp tục mong đợi sự không chắc chắn xung quanh thuế khoáng sản quan trọng sẽ tiếp tục tồn tại; dự kiến ​​phần lớn kim loại hiện có ở Mỹ vẫn bị mắc kẹt, trong khi rủi ro thuế quan gia tăng định kỳ có thể khuyến khích việc tích trữ thêm",
-      "summary_vi": "Goldman Sachs cho biết họ tiếp tục mong đợi sự không chắc chắn xung quanh thuế khoáng sản quan trọng sẽ tiếp tục tồn tại; dự kiến ​​phần lớn kim loại đã có mặt ở Mỹ sẽ vẫn bị mắc kẹt",
-      "image": "https://www.newsquawk.com/assets/placeholder_images_for_news_by_category/Metals/3.png",
-      "link": "https://www.newsquawk.com/headlines/goldman-sachs-says-they-continue-to-expect-uncertainty-around-critical-minerals-tariffs-to-persist-expect-much-of-the-metal-already-in-the-us-to-remain-trapped-while-periodic-increases-in-tariff-risk-could-encourage-further-stockbuilding",
-      "source": "Newsquawk",
-      "category": "metal",
-      "published": "2026-09-24 01:20"
     }
   ]
 }

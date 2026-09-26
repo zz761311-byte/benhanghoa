@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 13:01",
+  "updated_at": "2026-09-26 14:01",
   "items": [
     {
       "id": "8vuo3s",
@@ -409,6 +409,17 @@
       "published": "2026-09-24 20:28"
     },
     {
+      "id": "eqlvri",
+      "title": "What’s the Impact of Higher Corn Prices on Swine Finishing Feed Costs?",
+      "title_vi": "Tác động của giá ngô cao hơn đến chi phí thức ăn cho heo xuất chuồng là gì?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.porkbusiness.com/news/whats-impact-higher-corn-prices-swine-finishing-feed-costs",
+      "source": "Pork Business",
+      "category": "agri",
+      "published": "2026-09-24 20:07"
+    },
+    {
       "id": "tzktvy",
       "title": "Fashion Cost Pressures Could Reshape Cotton Sustainability Demands - RFD-TV",
       "title_vi": "Áp lực chi phí thời trang có thể định hình lại nhu cầu về tính bền vững của bông - RFD-TV",
@@ -539,17 +550,6 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-09-24 03:02"
-    },
-    {
-      "id": "3vbr79",
-      "title": "Oil Prices Rebound Amid Persistent Middle East Supply Risks",
-      "title_vi": "Giá dầu phục hồi trong bối cảnh rủi ro nguồn cung dai dẳng ở Trung Đông",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-u-s-iran-talks-saudi-pipeline-progress-3b33f75c",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-09-24 02:44"
     }
   ]
 }

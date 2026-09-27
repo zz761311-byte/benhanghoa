@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27 11:02",
+  "updated_at": "2026-09-27 12:01",
   "items": [
     {
       "id": "1ddv3hi",
@@ -77,6 +77,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-26 05:35"
+    },
+    {
+      "id": "15s98f2",
+      "title": "Grains See Impressive Recovery as China Details on the Way",
+      "title_vi": "Ngũ cốc thấy sự phục hồi ấn tượng khi Trung Quốc sắp có thông tin chi tiết",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/grains-see-impressive-recovery-china-details-way",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-09-26 05:04"
     },
     {
       "id": "wvuxa0",
@@ -539,17 +550,6 @@
       "source": "Farm Progress",
       "category": "soft",
       "published": "2026-09-24 14:14"
-    },
-    {
-      "id": "14azaoo",
-      "title": "Back-to-back storms batter Hawaii coffee farms during critical harvest season",
-      "title_vi": "Những cơn bão liên tiếp tàn phá các trang trại cà phê Hawaii trong mùa thu hoạch quan trọng",
-      "summary_vi": "Những cơn bão liên tiếp đã làm thiệt hại mùa màng và bật gốc cây trồng trên khắp các trang trại cà phê ở Hawaii trong thời kỳ thu hoạch cao điểm, đe dọa thiệt hại nhiều năm cho người trồng cà phê địa phương.",
-      "image": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-25-2026%2Ft_35bb700c8bc545d89be1fab97ed8716a_name_file_1280x720_2000_v3_1_.jpg?auth=5347619bbe2d5811c7c89844b8ff96b013151db0bb1457c1e8e5bd023d6e433c&width=1200&height=600&smart=true",
-      "link": "https://www.hawaiinewsnow.com/video/2026/09/24/back-to-back-storms-batter-hawaii-coffee-farms-during-critical-harvest-season/?outputType",
-      "source": "Hawaii News Now",
-      "category": "soft",
-      "published": "2026-09-24 13:46"
     }
   ]
 }

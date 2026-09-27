@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27 18:01",
+  "updated_at": "2026-09-27 19:01",
   "items": [
     {
       "id": "1ddv3hi",
@@ -233,6 +233,17 @@
       "published": "2026-09-25 22:00"
     },
     {
+      "id": "eb5mtb",
+      "title": "Who’s ahead on the generic congressional ballot?",
+      "title_vi": "Ai dẫn trước trong cuộc bỏ phiếu chung của quốc hội?",
+      "summary_vi": "Công cụ theo dõi các cuộc thăm dò được cập nhật liên tục của chúng tôi để tìm ra chỉ số quan trọng nhất trong cuộc đua vào Quốc hội.",
+      "image": "https://substackcdn.com/image/fetch/$s_!DHD9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b7584a6-a95a-4054-90c6-ca160d014d37_1200x831.jpeg",
+      "link": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls",
+      "source": "Silver Bulletin",
+      "category": "metal",
+      "published": "2026-09-25 20:37"
+    },
+    {
       "id": "vkt8yl",
       "title": "How popular is Donald Trump?",
       "title_vi": "Donald Trump phổ biến đến mức nào?",
@@ -275,6 +286,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-25 18:37"
+    },
+    {
+      "id": "qdjk41",
+      "title": "Silver Price Forecast: XAG/USD reclaims $65 as rally in bond yields, US Dollar hits pause",
+      "title_vi": "Dự báo giá bạc: XAG/USD lấy lại 65 USD khi lãi suất trái phiếu tăng, Đô la Mỹ tạm dừng",
+      "summary_vi": "Giá bạc (XAG/USD) tăng 1,85% lên gần 65,00 USD trong phiên giao dịch châu Âu vào thứ Sáu. Kim loại trắng mạnh lên khi đà tăng của Đồng đô la Mỹ (USD) và Lợi suất trái phiếu kho bạc Hoa Kỳ (Mỹ) dường như đã tạm dừng.",
+      "image": "https://editorial.fxsstatic.com/images/i/Silver5_Medium.png",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-reclaims-65-as-rally-in-bond-yields-us-dollar-hits-pause-202609251116",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-09-25 18:16"
     },
     {
       "id": "1b87k38",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-24 20:28"
-    },
-    {
-      "id": "eqlvri",
-      "title": "What’s the Impact of Higher Corn Prices on Swine Finishing Feed Costs?",
-      "title_vi": "Tác động của giá ngô cao hơn đến chi phí thức ăn cho heo xuất chuồng là gì?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.porkbusiness.com/news/whats-impact-higher-corn-prices-swine-finishing-feed-costs",
-      "source": "Pork Business",
-      "category": "agri",
-      "published": "2026-09-24 20:07"
-    },
-    {
-      "id": "tzktvy",
-      "title": "Fashion Cost Pressures Could Reshape Cotton Sustainability Demands - RFD-TV",
-      "title_vi": "Áp lực chi phí thời trang có thể định hình lại nhu cầu về tính bền vững của bông - RFD-TV",
-      "summary_vi": "Chi phí hoạt động cao hơn đang gây áp lực lên các cam kết bền vững trong ngành thời trang.",
-      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/d332b2e/2147483647/strip/true/crop/720x404+0+1/resize/730x410!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2FY1DXE61C%2Fthumbnails%2Fybnss682.jpg",
-      "link": "https://www.rfdtv.com/fashion-cost-pressures-could-reshape-cotton-sustainability-demands",
-      "source": "RFD-TV",
-      "category": "soft",
-      "published": "2026-09-24 19:10"
     }
   ]
 }

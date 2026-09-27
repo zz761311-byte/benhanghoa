@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-28 01:01",
+  "updated_at": "2026-09-28 02:01",
   "items": [
+    {
+      "id": "16cewb8",
+      "title": "The Next Global Energy Crisis Won’t Come From Just One Direction",
+      "title_vi": "Cuộc khủng hoảng năng lượng toàn cầu tiếp theo sẽ không đến từ một hướng",
+      "summary_vi": "Cuộc khủng hoảng năng lượng toàn cầu tiếp theo sắp đến gần. Nếu bốn năm qua đã dạy chúng ta điều gì đó thì đó là cuộc khủng hoảng năng lượng có thể xảy ra một cách bất ngờ và do một số yếu tố - thường là song song. Thay đổi mô hình thời tiết, gia tăng căng thẳng lưới điện, căng thẳng địa chính trị",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-25_j3mancxivr.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Next-Global-Energy-Crisis-Wont-Come-From-Just-One-Direction.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-09-28 02:00"
+    },
     {
       "id": "a27k04",
       "title": "The AI Data Center Boom Faces a New Reality Check",
@@ -165,17 +176,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-09-26 03:13"
-    },
-    {
-      "id": "1o5ogmz",
-      "title": "Why Record Heat Failed to Lift U.S. Natural Gas Prices",
-      "title_vi": "Tại sao nhiệt độ kỷ lục không thể nâng giá khí đốt tự nhiên của Hoa Kỳ",
-      "summary_vi": "Khí đốt tự nhiên của Henry Hub đạt trung bình 2,93 USD trên một triệu đơn vị nhiệt của Anh từ tháng 6 đến tháng 8, thấp hơn 6% so với cùng kỳ năm ngoái, ngay cả khi Lower 48 đạt kỷ lục tháng 7 nóng nhất. Theo NOAA, nhiệt độ trung bình trên khắp Lower 48 đạt 77°F vào tháng 7.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-25_nhe9dp1lfo.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Why-Record-Heat-Failed-to-Lift-US-Natural-Gas-Prices.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-26 03:00"
     },
     {
       "id": "osgtb3",
@@ -497,6 +497,17 @@
       "published": "2026-09-24 22:07"
     },
     {
+      "id": "10w0uip",
+      "title": "Corn Edges Out Soybeans as Energy Shock Reshapes Demand",
+      "title_vi": "Ngô vượt xa đậu nành khi cú sốc năng lượng định hình lại nhu cầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-us/media-room/in-the-news/corn-edges-out-soybeans-as-energy-shock-reshapes-demand/",
+      "source": "stonex.com",
+      "category": "agri",
+      "published": "2026-09-24 22:00"
+    },
+    {
       "id": "1s4n7cv",
       "title": "Hunger on the Horizon: The New Black Sea Grain Crisis",
       "title_vi": "Nạn đói ở chân trời: Cuộc khủng hoảng ngũ cốc mới ở Biển Đen",
@@ -539,17 +550,6 @@
       "source": "Oklahoma Farm Report",
       "category": "soft",
       "published": "2026-09-24 20:49"
-    },
-    {
-      "id": "nhytom",
-      "title": "Silver Price Forecast: Rising Rates Put Range Support at Risk",
-      "title_vi": "Dự báo giá bạc: Tỷ giá tăng khiến hỗ trợ phạm vi gặp rủi ro",
-      "summary_vi": "Bạc kiểm tra đáy phạm vi của nó khi lãi suất tăng làm tăng nguy cơ phá vỡ, với mức 60 USD có khả năng cung cấp hỗ trợ bên dưới.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/silver-precious-metal-price-chart-02-7.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/silver-price-forecast-rising-rates-put-range-support-at-risk-1631566",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-09-24 20:45"
     }
   ]
 }

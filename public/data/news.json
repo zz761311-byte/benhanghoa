@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28 04:01",
+  "updated_at": "2026-09-28 05:01",
   "items": [
     {
       "id": "16cewb8",
@@ -44,6 +44,17 @@
       "source": "24/7 Wall St.",
       "category": "soft",
       "published": "2026-09-27 20:40"
+    },
+    {
+      "id": "rr0vzk",
+      "title": "Innovation Is Always Welcome in the Sweetener Category",
+      "title_vi": "Sự đổi mới luôn được chào đón trong danh mục chất ngọt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nutritionaloutlook.com/view/innovation-is-always-welcome-in-the-sweetener-category",
+      "source": "Nutritional Outlook",
+      "category": "soft",
+      "published": "2026-09-27 15:06"
     },
     {
       "id": "1ddv3hi",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-09-24 21:06"
-    },
-    {
-      "id": "1m2fiyp",
-      "title": "Sugar is sweet, just sweeter in some places",
-      "title_vi": "Đường đã ngọt, chỉ ngọt hơn ở một số chỗ",
-      "summary_vi": "Shawn Wade và Darren Hudson viết trên Southern Ag Today: Đường rất ngọt… đặc biệt đối với các nhà sản xuất đường nước ngoài, những người nhận thấy mình đang nhận được các khoản trợ cấp hào phóng và các chính sách khác nhằm bảo vệ sản xuất trong nước của họ. Đường vẫn là một trong những mặt hàng được bảo hộ cao nhất trên thế giới",
-      "image": "",
-      "link": "https://www.oklahomafarmreport.com/2026/09/24/sugar-is-sweet-just-sweeter-in-some-places/",
-      "source": "Oklahoma Farm Report",
-      "category": "soft",
-      "published": "2026-09-24 20:49"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27 13:02",
+  "updated_at": "2026-09-27 14:01",
   "items": [
     {
       "id": "1ddv3hi",
@@ -110,6 +110,17 @@
       "source": "Oil & Gas Journal",
       "category": "energy",
       "published": "2026-09-26 03:41"
+    },
+    {
+      "id": "15995f1",
+      "title": "Oil prices slide about 2% as US, Iran explore path out of war",
+      "title_vi": "Giá dầu trượt khoảng 2% khi Mỹ, Iran tìm cách thoát khỏi chiến tranh",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/oil-prices-fall-markets-look-iran-truce-remain-wary-attacks-oil-facilities-2026-09-25/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-09-26 03:13"
     },
     {
       "id": "1o5ogmz",
@@ -539,17 +550,6 @@
       "source": "AgroLatam",
       "category": "agri",
       "published": "2026-09-24 18:36"
-    },
-    {
-      "id": "l9mzqu",
-      "title": "Cotton prices rise in 2026 on tight supply",
-      "title_vi": "Giá bông tăng vào năm 2026 do nguồn cung thắt chặt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/cotton/cotton-prices-are-finally-going-up",
-      "source": "Farm Progress",
-      "category": "soft",
-      "published": "2026-09-24 14:14"
     }
   ]
 }

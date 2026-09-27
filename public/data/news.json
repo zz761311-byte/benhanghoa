@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27 14:01",
+  "updated_at": "2026-09-27 15:01",
   "items": [
     {
       "id": "1ddv3hi",
@@ -220,6 +220,17 @@
       "source": "institutionalinvestor.com",
       "category": "macro",
       "published": "2026-09-25 22:00"
+    },
+    {
+      "id": "1q9betb",
+      "title": "Silver Price Forecast: $63–$70 Range Tightens as Rates Bite",
+      "title_vi": "Dự báo giá bạc: Phạm vi $63–$70 thắt chặt khi tỷ giá giảm",
+      "summary_vi": "Bạc vẫn bị nén trong khoảng từ 63 đến 70 USD do lãi suất tăng cao bù đắp cho nhu cầu cơ bản mạnh mẽ.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/silver-precious-metal-price-chart-04-5.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/silver-price-forecast-63-70-range-tightens-as-rates-bite-1631901",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-09-25 20:22"
     },
     {
       "id": "1sx7707",
@@ -539,17 +550,6 @@
       "source": "Rigzone",
       "category": "energy",
       "published": "2026-09-24 18:42"
-    },
-    {
-      "id": "h4i91p",
-      "title": "U.S. Farmers Press China on Tariffs as Soybean and Grain Trade Faces a Critical Test",
-      "title_vi": "Nông dân Hoa Kỳ ép Trung Quốc về thuế quan khi thương mại đậu nành và ngũ cốc phải đối mặt với một thử thách quan trọng",
-      "summary_vi": "Các nhóm nông dân Mỹ muốn Trung Quốc dỡ bỏ thuế quan và tăng cường mua nông sản khi đậu nành, lúa miến và ngô trở lại trung tâm của các cuộc đàm phán thương mại.",
-      "image": "https://www.agrolatam.com/files/image/71/71984/69bc2c858cc00_600_315!.jpg?s=b3eed4d9296658e4a2dedfa8cf94193b&d=1790249660",
-      "link": "https://www.agrolatam.com/usa/news/us-farmers-china-tariffs-soybean-sorghum-exports/",
-      "source": "AgroLatam",
-      "category": "agri",
-      "published": "2026-09-24 18:36"
     }
   ]
 }

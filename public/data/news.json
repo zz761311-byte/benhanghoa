@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-28 18:01",
+  "updated_at": "2026-09-28 19:01",
   "items": [
+    {
+      "id": "1v3czyk",
+      "title": "European Gas Prices Rally on U.S.-Iran Stalemate",
+      "title_vi": "Giá khí đốt châu Âu tăng do bế tắc Mỹ-Iran",
+      "summary_vi": "Giá khí đốt tự nhiên chuẩn của Châu Âu đã tăng 2% trong phiên giao dịch sớm tại Amsterdam vào thứ Hai, do Hoa Kỳ và Iran một lần nữa rơi vào bế tắc về các cuộc đàm phán và điều kiện mở lại eo biển Hormuz. Hợp đồng tương lai tháng trước của Cơ sở Chuyển nhượng Quyền sở hữu Hà Lan",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-28_90j1ufahql.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Prices-Rally-on-US-Iran-Stalemate.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-28 18:30"
+    },
     {
       "id": "1t2vw6i",
       "title": "TotalEnergies Targets 3% Annual Oil and Gas Growth Through 2030",
@@ -143,17 +154,6 @@
       "source": "The Economist",
       "category": "energy",
       "published": "2026-09-28 01:29"
-    },
-    {
-      "id": "a27k04",
-      "title": "The AI Data Center Boom Faces a New Reality Check",
-      "title_vi": "Sự bùng nổ của trung tâm dữ liệu AI phải đối mặt với một thử thách thực tế mới",
-      "summary_vi": "\"Một phần nhỏ các trung tâm dữ liệu được đề xuất sẽ được xây dựng. Các tiện ích đang được cải thiện.\" Đó là tiêu đề trên một bài báo Utility Dive tháng 5 năm 2025 khám phá các yêu cầu câu hỏi hóc búa về trung tâm dữ liệu mang tính đầu cơ đặt ra cho các tiện ích điện của Hoa Kỳ. Hơn một năm sau, không rõ có bao nhiêu",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-25_npxiu9ldhx.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/The-AI-Data-Center-Boom-Faces-a-New-Reality-Check.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-28 00:00"
     },
     {
       "id": "92r2fh",
@@ -530,6 +530,17 @@
       "published": "2026-09-25 03:37"
     },
     {
+      "id": "13xufy8",
+      "title": "Grain merchandising, understanding basis, and managing on-farm storage",
+      "title_vi": "Buôn bán ngũ cốc, hiểu biết cơ bản và quản lý việc lưu trữ tại trang trại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://ocj.com/2026/09/grain-merchandising-understanding-basis-and-managing-on-farm-storage/",
+      "source": "Ohio Ag Net",
+      "category": "agri",
+      "published": "2026-09-25 02:20"
+    },
+    {
       "id": "1hwnknf",
       "title": "‘Hostile, but hooked’: What’s behind the US-China trade truce extension?",
       "title_vi": "‘Thù địch nhưng bị cuốn hút’: Điều gì đằng sau việc gia hạn đình chiến thương mại Mỹ-Trung?",
@@ -539,17 +550,6 @@
       "source": "Al Jazeera",
       "category": "macro",
       "published": "2026-09-25 02:10"
-    },
-    {
-      "id": "2uusqz",
-      "title": "Will El Niño Mean Another Global Food Price Spike?",
-      "title_vi": "Liệu El Niño có nghĩa là giá lương thực toàn cầu sẽ tăng đột biến?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.cgdev.org/publication/will-el-nino-mean-another-global-food-price-spike",
-      "source": "cgdev.org",
-      "category": "agri",
-      "published": "2026-09-25 01:33"
     }
   ]
 }

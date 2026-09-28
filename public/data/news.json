@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28 21:01",
+  "updated_at": "2026-09-28 21:09",
   "items": [
     {
       "id": "1s9j4mr",
@@ -20,7 +20,7 @@
       "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6aba69cae724f1c5332afe54_EV%20Stator.png",
       "link": "https://www.cruxinvestor.com/posts/oil-shock-accelerates-ev-adoption-pulling-copper-demand-forward",
       "source": "Crux Investor",
-      "category": "macro",
+      "category": "energy",
       "published": "2026-09-28 20:57"
     },
     {
@@ -110,6 +110,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-28 16:00"
+    },
+    {
+      "id": "1e4k4u6",
+      "title": "Dollar steadies near two-month high as US-Iran stalemate lifts oil, Fed rate hike bets build",
+      "title_vi": "Đồng đô la ổn định gần mức cao nhất trong hai tháng khi bế tắc Mỹ-Iran nâng giá dầu, đặt cược tăng lãi suất của Fed tăng lên",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-firms-us-iran-tensions-013542829.html",
+      "source": "Yahoo Finance",
+      "category": "energy",
+      "published": "2026-09-28 15:41"
     },
     {
       "id": "teea4w",
@@ -310,6 +321,17 @@
       "published": "2026-09-26 10:31"
     },
     {
+      "id": "bjrwc7",
+      "title": "Mounting rate hike bets keep weekly loss in sight for gold",
+      "title_vi": "Đặt cược tăng lãi suất khiến vàng có thể thua lỗ hàng tuần",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-heads-weekly-loss-stronger-dollar-fed-rate-outlook-weighs-2026-09-25/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-09-26 07:03"
+    },
+    {
       "id": "8vuo3s",
       "title": "US Natgas Falls 4% to 8-Week Low on Milder Weather Outlook, Lower LNG Export Flows",
       "title_vi": "Natgas của Mỹ giảm 4% xuống mức thấp nhất trong 8 tuần do thời tiết ôn hòa hơn, lưu lượng xuất khẩu LNG thấp hơn",
@@ -508,17 +530,6 @@
       "published": "2026-09-25 17:38"
     },
     {
-      "id": "22oxuy",
-      "title": "Gold Heads for Weekly Decline as Markets Assess Fed Rate Outlook and Dollar Strength",
-      "title_vi": "Vàng hướng tới sự sụt giảm hàng tuần khi thị trường đánh giá triển vọng lãi suất của Fed và sức mạnh của đồng đô la",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-heads-weekly-decline-markets-091902512.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-09-25 16:19"
-    },
-    {
       "id": "1kjo3q1",
       "title": "American farmers are hurting — and worried about their futures",
       "title_vi": "Nông dân Mỹ đang bị tổn thương - và lo lắng về tương lai của họ",
@@ -539,17 +550,6 @@
       "source": "Startup Fortune",
       "category": "metal",
       "published": "2026-09-25 14:33"
-    },
-    {
-      "id": "3uad0a",
-      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
-      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
-      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/markets/agriculture/images/grain-oilseed-pgp-leadspace.jpg",
-      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-09-25 14:25"
     }
   ]
 }

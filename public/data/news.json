@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28 11:01",
+  "updated_at": "2026-09-28 12:01",
   "items": [
     {
       "id": "1yi4o0w",
@@ -420,6 +420,17 @@
       "published": "2026-09-25 14:33"
     },
     {
+      "id": "my7osy",
+      "title": "“Right in front of us, the short-term pressure is real”",
+      "title_vi": "“Ngay trước mắt chúng ta, áp lực ngắn hạn là có thật”",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-09-25 14:00"
+    },
+    {
       "id": "bjrwc7",
       "title": "Mounting rate hike bets keep weekly loss in sight for gold",
       "title_vi": "Đặt cược tăng lãi suất khiến giá vàng có thể giảm hàng tuần",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "macro",
       "published": "2026-09-24 22:38"
-    },
-    {
-      "id": "1n8iner",
-      "title": "Copper Loses Its Forecasting Edge as Supply Tightens",
-      "title_vi": "Đồng mất lợi thế dự báo khi nguồn cung thắt chặt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en/media-room/in-the-news/copper-loses-its-forecasting-edge-as-supply-tightens/",
-      "source": "stonex.com",
-      "category": "metal",
-      "published": "2026-09-24 22:30"
     }
   ]
 }

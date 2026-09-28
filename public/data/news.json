@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-09-28 20:01",
+  "updated_at": "2026-09-28 21:01",
   "items": [
+    {
+      "id": "1s9j4mr",
+      "title": "Zelenskyy Warns Russia Wants to Widen War Beyond Ukraine",
+      "title_vi": "Zelenskyy cảnh báo Nga muốn mở rộng chiến tranh ra ngoài Ukraine",
+      "summary_vi": "Các quan chức Ukraine cho biết các cuộc tấn công bằng máy bay không người lái của Nga đã giết chết ít nhất 4 người ở Ukraine trong đêm và tính đến ngày 27/9, trong đó có 1 người ở thủ đô Kyiv và 3 người ở khu vực đông nam Zaporizhzhya. Ở Kiev, một người đàn ông thiệt mạng khi máy bay không người lái của Nga tấn công một người không cư trú",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-28_5xrsolrczg.jpg",
+      "link": "https://oilprice.com/Geopolitics/International/Zelenskyy-Warns-Russia-Wants-to-Widen-War-Beyond-Ukraine.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-28 21:00"
+    },
+    {
+      "id": "19u50xy",
+      "title": "Oil Shock Accelerates EV Adoption, Pulling Copper Demand Forward",
+      "title_vi": "Cú sốc dầu thúc đẩy việc áp dụng xe điện, kéo nhu cầu đồng về phía trước",
+      "summary_vi": "Chi phí nhiên liệu cao hơn sẽ cải thiện nền kinh tế xe điện khi thị phần ô tô điện ngày càng tăng ở châu Âu làm tăng giá trị nguồn cung đồng sẵn sàng phát triển.",
+      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6aba69cae724f1c5332afe54_EV%20Stator.png",
+      "link": "https://www.cruxinvestor.com/posts/oil-shock-accelerates-ev-adoption-pulling-copper-demand-forward",
+      "source": "Crux Investor",
+      "category": "macro",
+      "published": "2026-09-28 20:57"
+    },
+    {
+      "id": "17pa4ox",
+      "title": "Starbucks Closing 250 Stores, Remodeling Hundreds More",
+      "title_vi": "Starbucks đóng cửa 250 cửa hàng, tu sửa thêm hàng trăm cửa hàng",
+      "summary_vi": "Starbucks sắp đóng cửa khoảng 250 quán cà phê trên khắp Bắc Mỹ, đánh dấu đợt đóng cửa cửa hàng lớn thứ hai dưới thời CEO Brian Niccol khi gã khổng lồ cà phê tiếp tục định hình lại hệ thống bán lẻ rộng lớn của mình...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/09/28/starbucks-closing-250-stores-remodeling-hundreds-more/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-09-28 20:32"
+    },
+    {
+      "id": "iklbny",
+      "title": "Indonesia&#039;s Coal Exports Sink 23% as Global Demand Heads for a Record",
+      "title_vi": "Xuất khẩu than của Indonesia giảm 23% do nhu cầu toàn cầu đạt kỷ lục",
+      "summary_vi": "Indonesia, nhà xuất khẩu than nhiệt lớn nhất thế giới, không được hưởng lợi từ việc thắt chặt thị trường than toàn cầu trong bối cảnh châu Á chuyển sang sử dụng than từ khí đốt do cuộc khủng hoảng Trung Đông làm nghẹt nguồn cung LNG. Xuất khẩu than nhiệt của Indonesia đã bị hạn chế trong năm nay bởi sản phẩm của chính phủ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-28_fzbxy98idm.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indonesias-Coal-Exports-Sink-23-as-Global-Demand-Heads-for-a-Record.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-28 20:30"
+    },
     {
       "id": "z8ey9l",
       "title": "UK Grid Operator Warns of Tight Power Margins",
@@ -112,17 +156,6 @@
       "published": "2026-09-28 12:50"
     },
     {
-      "id": "t27ks3",
-      "title": "Oil Moves Higher on Rekindled War Fears",
-      "title_vi": "Dầu tăng cao hơn do lo ngại chiến tranh nhen nhóm",
-      "summary_vi": "Giá dầu thô bắt đầu tuần tăng vọt sau khi Tổng thống Trump từ chối đề xuất thỏa thuận hòa bình do Iran đưa ra vào tuần trước tại Đại hội đồng Liên Hợp Quốc. Tại thời điểm viết bài, dầu thô Brent đang giao dịch ở mức 107,24 USD/thùng, với West Texas Middle ở mức 94,10 USD/thùng.",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Moves-Higher-on-Rekindled-War-Fears.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-28 12:37"
-    },
-    {
       "id": "1sog27e",
       "title": "Gold and Silver Price Forecast: Metals Slide as Oil Fuels Fed Fears",
       "title_vi": "Dự báo giá vàng và bạc: Kim loại trượt dốc do lo ngại về dầu mỏ của Fed",
@@ -132,6 +165,28 @@
       "source": "FXEmpire",
       "category": "macro",
       "published": "2026-09-28 12:11"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-28 11:51"
+    },
+    {
+      "id": "1bcdoct",
+      "title": "Silver Price Forecast: XAG/USD falls to near $62.00 amid Fed rate hike odds",
+      "title_vi": "Dự báo giá bạc: XAG/USD giảm xuống gần 62,00 USD trong bối cảnh tỷ lệ Fed tăng lãi suất",
+      "summary_vi": "Giá bạc (XAG/USD) giảm gần 3,5% sau khi đạt mức tăng khiêm tốn trong ngày hôm trước, giao dịch quanh mức 62,00 USD mỗi troy ounce trong giờ châu Á vào thứ Hai.",
+      "image": "https://editorial.fxsstatic.com/images/i/Silver4_Medium.png",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6200-amid-fed-rate-hike-odds-202609280322",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-09-28 10:22"
     },
     {
       "id": "1yi4o0w",
@@ -154,17 +209,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-09-28 08:08"
-    },
-    {
-      "id": "1g4w2w7",
-      "title": "Venezuela’s Oil Comeback Could Cost More Than $100 Billion",
-      "title_vi": "Sự phục hồi dầu mỏ của Venezuela có thể tiêu tốn hơn 100 tỷ USD",
-      "summary_vi": "Chính quyền Trump đang chào hàng đơn đặt hàng dầu mỏ mới ở Venezuela như một cơ hội to lớn để phục hồi ngành công nghiệp ở quốc gia nắm giữ tài nguyên dầu thô lớn nhất thế giới. Việc tái cơ cấu lĩnh vực này do Hoa Kỳ dẫn đầu đã loại các công ty Nga và Trung Quốc ra khỏi danh sách được trao giải trước đó.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-25_v3idq4cmny.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Comeback-Could-Cost-More-Than-100-Billion.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-28 06:00"
     },
     {
       "id": "195i1oo",
@@ -242,6 +286,17 @@
       "source": "Kyiv Post",
       "category": "energy",
       "published": "2026-09-26 16:35"
+    },
+    {
+      "id": "1m9mzl0",
+      "title": "Sugar Loaf Pond Weather Today & Hourly Forecast",
+      "title_vi": "Dự báo thời tiết Sugar Loaf Pond hôm nay và hàng giờ",
+      "summary_vi": "Kiểm tra thời tiết mới nhất ở Sugar Loaf Pond, Quebec, với nhiệt độ hàng giờ, khả năng mưa, gió, độ ẩm và dự báo 15 ngày trên SpaceRef.",
+      "image": "https://www.spaceref.com/images/meteo-canada-sugar-loaf-pond.jpg",
+      "link": "https://www.spaceref.com/weather/canada/sugar-loaf-pond/",
+      "source": "SpaceRef",
+      "category": "soft",
+      "published": "2026-09-26 15:02"
     },
     {
       "id": "35i9yp",
@@ -495,61 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-09-25 14:25"
-    },
-    {
-      "id": "my7osy",
-      "title": "“Right in front of us, the short-term pressure is real”",
-      "title_vi": "“Ngay trước mắt chúng ta, áp lực ngắn hạn là có thật”",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-09-25 14:00"
-    },
-    {
-      "id": "9e4f7w",
-      "title": "It pays to be generous: there’s nothing more embarrassing than being bank-transferred the price of a coffee",
-      "title_vi": "Hãy hào phóng: không có gì đáng xấu hổ hơn việc được chuyển khoản giá cà phê qua ngân hàng",
-      "summary_vi": "Nếu thứ gì đó dưới 15 đô la và bạn mua nó cho tôi, lần sau tôi sẽ làm như vậy cho bạn. Đây gọi là sự tin tưởng và đây gọi là sự có đi có lại",
-      "image": "https://i.guim.co.uk/img/media/f76b3a6bcd3cdd543c53d1f0addb140832678f8c/388_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=5082c5cc1e9150d0601ebdc3e7fc2936",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/24/it-pays-to-be-generous-theres-nothing-more-embarrassing-than-being-bank-transferred-the-price-of-a-coffee",
-      "source": "The Guardian",
-      "category": "soft",
-      "published": "2026-09-25 06:09"
-    },
-    {
-      "id": "1qhzhod",
-      "title": "Grains Slide After China’s $17 Billion “Let Down”",
-      "title_vi": "Ngũ cốc trượt dốc sau đợt “thả lỏng” trị giá 17 tỷ USD của Trung Quốc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/grains-slide-after-chinas-17-billion-let-down",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-09-25 05:16"
-    },
-    {
-      "id": "x0k0ti",
-      "title": "US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says",
-      "title_vi": "EIA cho biết sản lượng dầu thô của Mỹ sẽ giảm trong thập kỷ tới do dự báo giá dầu Brent dưới 70 USD",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-crude-output-to-fall-next-decade-on-sub-70-brent-price-forecast-eia-says/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-25 05:03"
-    },
-    {
-      "id": "1u3qo99",
-      "title": "Paul Weiss Pushes Back Against Removal Bid in Sugar Antitrust Fight",
-      "title_vi": "Paul Weiss phản đối nỗ lực loại bỏ trong cuộc chiến chống độc quyền đường",
-      "summary_vi": "Paul, Weiss, Rifkind, Wharton & Garrison đang đấu tranh với nỗ lực của các nhà sản xuất thực phẩm lớn nhằm loại bỏ công ty luật khỏi sự bảo vệ của Domino Sugar và",
-      "image": "https://www.pymnts.com/wp-content/uploads/2021/03/shutterstock_144235945-e1616666455282.jpg",
-      "link": "https://www.pymnts.com/cpi-posts/paul-weiss-pushes-back-against-removal-bid-in-sugar-antitrust-fight/",
-      "source": "PYMNTS.com",
-      "category": "soft",
-      "published": "2026-09-25 04:50"
     }
   ]
 }

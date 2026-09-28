@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-29 05:01",
+  "updated_at": "2026-09-29 06:01",
   "items": [
+    {
+      "id": "regbc9",
+      "title": "Why Blocking U.S. Diesel Exports Could Make Fuel More Expensive",
+      "title_vi": "Tại sao việc ngăn chặn xuất khẩu dầu diesel của Mỹ có thể khiến nhiên liệu trở nên đắt hơn",
+      "summary_vi": "Các nhà phân tích đã cảnh báo rằng việc thảo luận về lệnh cấm xuất khẩu nhiên liệu diesel của Mỹ nhằm hạn chế giá tăng vọt tại máy bơm có thể sẽ đẩy tất cả giá nhiên liệu lên cao hơn, cắt giảm hoạt động của nhà máy lọc dầu khi kho chứa đầy. Động thái này có thể dẫn đến tình trạng dư thừa nhiên liệu ở Mỹ trong khi phần còn lại",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-28_4rlc1mbiv3.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-Blocking-US-Diesel-Exports-Could-Make-Fuel-More-Expensive.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-29 06:00"
+    },
     {
       "id": "bbhg2d",
       "title": "Standard Chartered: Record CTA Long Bets Are Capping Oil&#039;s Upside",
@@ -13,6 +24,17 @@
       "published": "2026-09-29 05:00"
     },
     {
+      "id": "1mdjvcb",
+      "title": "Governor Newsom takes action to help lower prices amid Trump’s nationwide gas and diesel price spike",
+      "title_vi": "Thống đốc Newsom hành động để giúp giảm giá trong bối cảnh giá xăng và dầu diesel trên toàn quốc của Trump tăng vọt",
+      "summary_vi": "Tiểu bang California",
+      "image": "https://www.gov.ca.gov/wp-content/uploads/2026/09/Governor-Newsom-takes-action-to-help-lower-prices-amid-Trumps-nationwide-gas-and-diesel-price-spike-SEO-GFX.png",
+      "link": "https://www.gov.ca.gov/2026/09/28/governor-newsom-takes-action-to-help-lower-prices-amid-trumps-nationwide-gas-and-diesel-price-spike/",
+      "source": "California State Portal | CA.gov",
+      "category": "energy",
+      "published": "2026-09-29 04:08"
+    },
+    {
       "id": "jxps0i",
       "title": "How AI Could Upend the Secretive World of Fuel Trading",
       "title_vi": "Làm thế nào AI có thể thay đổi thế giới bí mật của giao dịch nhiên liệu",
@@ -22,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-29 04:00"
+    },
+    {
+      "id": "zibhjb",
+      "title": "US-China Extends Trade Truce; No New Soybean Purchase Commitments",
+      "title_vi": "Mỹ-Trung gia hạn đình chiến thương mại; Không có cam kết mua đậu nành mới",
+      "summary_vi": "Mỹ và Trung Quốc đã gia hạn Thỏa thuận Busan, hiệp định đình chiến thương mại giữa hai nước, đến ngày 10/1 đồng thời xác định hơn 1.600 sản phẩm, bao gồm cả hàng nông sản…",
+      "image": "https://www.northernag.net/wp-content/uploads/2026/09/GetStoredImage-3.jpg",
+      "link": "https://www.northernag.net/us-china-extends-trade-truce-no-new-soybean-purchase-commitments/",
+      "source": "Northern Ag Network",
+      "category": "agri",
+      "published": "2026-09-29 03:36"
     },
     {
       "id": "1s4m5gp",
@@ -88,17 +121,6 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-09-29 00:30"
-    },
-    {
-      "id": "f53e90",
-      "title": "Can Fracking Reverse Colombia’s Oil and Gas Decline?",
-      "title_vi": "Fracking có thể đảo ngược sự suy giảm dầu khí của Colombia?",
-      "summary_vi": "Ngành dầu khí quan trọng về mặt kinh tế của Colombia đang trong vòng xoáy chết chóc. Sản lượng dầu và khí đốt tự nhiên đang giảm bất chấp những nỗ lực tăng sản lượng và tăng hiệu quả. Tân Tổng thống Abelardo de la Espriella, cựu luật sư bào chữa hình sự, đã đặt an ninh năng lượng và thủy lực",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-28_pjsg7mkwbj.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Can-Fracking-Reverse-Colombias-Oil-and-Gas-Decline.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-29 00:00"
     },
     {
       "id": "889gt9",
@@ -528,28 +550,6 @@
       "source": "Silver Bulletin",
       "category": "metal",
       "published": "2026-09-25 20:37"
-    },
-    {
-      "id": "vkt8yl",
-      "title": "How popular is Donald Trump?",
-      "title_vi": "Donald Trump phổ biến đến mức nào?",
-      "summary_vi": "Xếp hạng phê duyệt Silver Bulletin cho Tổng thống Trump — và tất cả các tổng thống kể từ Truman.",
-      "image": "https://substackcdn.com/image/fetch/$s_!Xfx5!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47c9842-cfbc-4300-8bea-3c73291e02c3_1200x634.jpeg",
-      "link": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
-      "source": "Silver Bulletin",
-      "category": "metal",
-      "published": "2026-09-25 20:37"
-    },
-    {
-      "id": "1q9betb",
-      "title": "Silver Price Forecast: $63–$70 Range Tightens as Rates Bite",
-      "title_vi": "Dự báo giá bạc: Phạm vi $63–$70 thắt chặt khi tỷ giá giảm",
-      "summary_vi": "Bạc vẫn bị nén trong khoảng từ 63 đến 70 USD do lãi suất tăng cao bù đắp cho nhu cầu cơ bản mạnh mẽ.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/silver-precious-metal-price-chart-04-5.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/silver-price-forecast-63-70-range-tightens-as-rates-bite-1631901",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-09-25 20:22"
     }
   ]
 }

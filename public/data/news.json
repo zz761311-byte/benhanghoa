@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-28 14:01",
+  "updated_at": "2026-09-28 15:01",
   "items": [
+    {
+      "id": "atomgh",
+      "title": "Goldman Warns Diesel Export Ban Would Send Gasoline Prices Higher",
+      "title_vi": "Goldman cảnh báo lệnh cấm xuất khẩu dầu diesel sẽ khiến giá xăng tăng cao",
+      "summary_vi": "Nếu Hoa Kỳ ban hành lệnh cấm xuất khẩu nhiên liệu diesel, các nhà phân tích của Goldman Sachs ước tính điều đó ban đầu sẽ đẩy giá xuống thấp hơn. Tuy nhiên, hiệu ứng sẽ chỉ tiếp tục cho đến khi không gian lưu trữ đầy, ngân hàng cảnh báo. Giữa những báo cáo về khả năng Washington có thể đình chỉ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-28_9yfjxmacbn.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Warns-Diesel-Export-Ban-Would-Send-Gasoline-Prices-Higher.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-28 15:00"
+    },
     {
       "id": "1bv29qy",
       "title": "Middle East Oil Exports Rebound to 12.8 Million Bpd",
@@ -154,17 +165,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-27 06:00"
-    },
-    {
-      "id": "8ztn8c",
-      "title": "Brazil&#039;s Energy Mix Goes Green Even As Oil Production Climbs",
-      "title_vi": "Cơ cấu năng lượng của Brazil chuyển sang màu xanh ngay cả khi sản lượng dầu tăng",
-      "summary_vi": "Brazil đang tiếp tục mở rộng năng lực năng lượng tái tạo nhờ các chính sách quốc gia thuận lợi và sự hỗ trợ từ các nhà đầu tư nước ngoài. Người khổng lồ Nam Mỹ đã phát triển một ngành năng lượng xanh ấn tượng trong những năm gần đây, mở rộng sản xuất dầu khí để tăng cường năng lượng điện tử.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-25_y78bbjdxqx.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Brazils-Energy-Mix-Goes-Green-Even-As-Oil-Production-Climbs.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-27 02:00"
     },
     {
       "id": "1sjh7o6",
@@ -497,6 +497,17 @@
       "published": "2026-09-25 03:37"
     },
     {
+      "id": "1hwnknf",
+      "title": "‘Hostile, but hooked’: What’s behind the US-China trade truce extension?",
+      "title_vi": "‘Thù địch nhưng bị cuốn hút’: Điều gì đằng sau việc gia hạn đình chiến thương mại Mỹ-Trung?",
+      "summary_vi": "Một số nhà phân tích cho rằng việc kéo dài thỏa thuận ngừng bắn chỉ là chuyện quang học - những người khác cho rằng đây là một bước hữu ích hướng tới một thỏa thuận lâu dài hơn.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6ab51c82675a-1790254210_4cc32a-1790260343.jpg?resize=1200%2C630&quality=80",
+      "link": "https://www.aljazeera.com/economy/2026/9/24/hostile-but-hooked-whats-behind-the-us-china-trade-truce-extension",
+      "source": "Al Jazeera",
+      "category": "macro",
+      "published": "2026-09-25 02:10"
+    },
+    {
       "id": "2uusqz",
       "title": "Will El Niño Mean Another Global Food Price Spike?",
       "title_vi": "Liệu El Niño có nghĩa là giá lương thực toàn cầu sẽ tăng đột biến?",
@@ -539,17 +550,6 @@
       "source": "PR Newswire",
       "category": "energy",
       "published": "2026-09-24 23:19"
-    },
-    {
-      "id": "1yoryjv",
-      "title": "Dollar ascends to fresh 2-month high on inflation worry, Fed hike expectations",
-      "title_vi": "Đồng đô la tăng lên mức cao nhất trong 2 tháng do lo ngại lạm phát, kỳ vọng tăng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-perched-two-month-high-020212904.html",
-      "source": "Yahoo Finance",
-      "category": "macro",
-      "published": "2026-09-24 22:38"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28 06:01",
+  "updated_at": "2026-09-28 07:01",
   "items": [
     {
       "id": "1g4w2w7",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-09-28 02:00"
+    },
+    {
+      "id": "195i1oo",
+      "title": "Ireland is helping supply Russia’s war machine",
+      "title_vi": "Ireland đang giúp cung cấp cỗ máy chiến tranh của Nga",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.economist.com/europe/2026/09/27/ireland-is-helping-supply-russias-war-machine",
+      "source": "The Economist",
+      "category": "energy",
+      "published": "2026-09-28 01:29"
     },
     {
       "id": "a27k04",
@@ -55,6 +66,17 @@
       "source": "24/7 Wall St.",
       "category": "soft",
       "published": "2026-09-27 20:40"
+    },
+    {
+      "id": "1gpw7o2",
+      "title": "Average gas price in Virginia rises as crude oil costs climb",
+      "title_vi": "Giá xăng trung bình ở Virginia tăng do giá dầu thô tăng",
+      "summary_vi": "Giá xăng đang tăng cao khắp Virginia, với mức giá trung bình hiện nay là khoảng 4,24 USD một gallon.",
+      "image": "https://wset.com/resources/media2/16x9/2573/1320/0x1/90/1c345645-5ac5-4e13-aff4-f104083777e3-processedF6D25B2857D14A259E9E7F003DC1C345.jpeg",
+      "link": "https://wset.com/news/local/virginia-gas-prices-rise-as-crude-oil-costs-climb-economy-fuel-money-september-2026-aaa",
+      "source": "WSET",
+      "category": "energy",
+      "published": "2026-09-27 19:36"
     },
     {
       "id": "rr0vzk",
@@ -528,28 +550,6 @@
       "source": "cfr.org",
       "category": "agri",
       "published": "2026-09-24 21:55"
-    },
-    {
-      "id": "4md6ml",
-      "title": "Design Details: Urban-Inspired Joy at DOT. Coffee &#038; Matcha in Warsaw",
-      "title_vi": "Chi tiết thiết kế: Niềm vui lấy cảm hứng từ đô thị tại DOT. Cà phê & Matcha ở Warsaw",
-      "summary_vi": "Chào mừng bạn đến với Chi tiết Thiết kế, một tính năng biên tập đang diễn ra trên Daily Coffee News tập trung vào các ví dụ riêng lẻ về kiến ​​trúc quán cà phê, thiết kế nội thất, thiết kế bao bì hoặc thương hiệu. Nếu bạn là một...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/09/24/design-details-urban-inspired-joy-at-dot-coffee-matcha-in-warsaw/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-09-24 21:37"
-    },
-    {
-      "id": "lqdxyq",
-      "title": "Russia starts exports from Arctic Vostok Oil project in boost to long-term production",
-      "title_vi": "Nga bắt đầu xuất khẩu từ dự án Dầu Vostok Bắc Cực để thúc đẩy sản xuất dài hạn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/russia-starts-exports-arctic-vostok-oil-project-boost-long-term-production-2026-09-24/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-09-24 21:06"
     }
   ]
 }

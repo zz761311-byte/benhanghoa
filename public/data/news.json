@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28 08:01",
+  "updated_at": "2026-09-28 09:01",
   "items": [
     {
       "id": "1g4w2w7",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-27 22:00"
+    },
+    {
+      "id": "92r2fh",
+      "title": "Silver Could Reach $80 by September 2027, According to UBS Forecast",
+      "title_vi": "Bạc có thể đạt 80 USD vào tháng 9 năm 2027, theo Dự báo của UBS",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://uk.finance.yahoo.com/news/silver-could-reach-80-september-142746719.html",
+      "source": "Yahoo Finance UK",
+      "category": "metal",
+      "published": "2026-09-27 21:27"
     },
     {
       "id": "18q1f53",
@@ -539,17 +550,6 @@
       "source": "stonex.com",
       "category": "agri",
       "published": "2026-09-24 22:00"
-    },
-    {
-      "id": "1s4n7cv",
-      "title": "Hunger on the Horizon: The New Black Sea Grain Crisis",
-      "title_vi": "Nạn đói ở chân trời: Cuộc khủng hoảng ngũ cốc mới ở Biển Đen",
-      "summary_vi": "Sự leo thang gần đây trong cuộc chiến Nga-Ukraine đã làm gián đoạn hoạt động buôn bán ngũ cốc ở Biển Đen và chuyển thành cuộc chiến tranh về hệ thống lương thực toàn cầu. Kết hợp với hạn hán ở Bắc bán cầu, siêu El Niño đang rình rập và sự bất ổn dai dẳng ở Trung Đông, thế giới đang đứng trước một cuộc khủng hoảng có thể xóa bỏ nhiều năm kinh tế.",
-      "image": "https://build.cfr.org/wp-content/uploads/2026/09/cropped-black_sea_og_d185a3.png",
-      "link": "https://www.cfr.org/articles/hunger-on-the-horizon-the-new-black-sea-grain-crisis",
-      "source": "cfr.org",
-      "category": "agri",
-      "published": "2026-09-24 21:55"
     }
   ]
 }

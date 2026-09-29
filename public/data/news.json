@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-29 11:01",
+  "updated_at": "2026-09-29 12:01",
   "items": [
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-09-29 08:45"
+    },
     {
       "id": "1t1r0j9",
       "title": "Oil extends gains as Middle East supply concerns persist",
@@ -539,17 +550,6 @@
       "source": "Robinhood",
       "category": "metal",
       "published": "2026-09-26 01:06"
-    },
-    {
-      "id": "xkefkq",
-      "title": "USDA Food Price Outlook: Grocery Inflation Cut to 2.4%",
-      "title_vi": "Triển vọng giá thực phẩm của USDA: Lạm phát hàng tạp hóa giảm xuống 2,4%",
-      "summary_vi": "USDA cắt giảm dự báo giá hàng tạp hóa năm 2026 xuống 2,4% do thịt bò vẫn ở mức cao, rau tươi tăng và giá trứng dự kiến ​​sẽ giảm mạnh.",
-      "image": "https://www.grocerytradenews.com/wp-content/uploads/2026/09/usda-us-grocery-price-forecast-september-2026-1200x675-1.webp",
-      "link": "https://www.grocerytradenews.com/usda-grocery-price-forecast-september-2026/",
-      "source": "Grocery Trade News",
-      "category": "macro",
-      "published": "2026-09-26 00:38"
     }
   ]
 }

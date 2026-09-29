@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-29 13:16",
+  "updated_at": "2026-09-29 14:01",
   "items": [
+    {
+      "id": "ljz1hc",
+      "title": "China&#039;s LNG Imports Set for Second Straight Monthly Drop",
+      "title_vi": "Nhập khẩu LNG của Trung Quốc có thể giảm hàng tháng thứ hai liên tiếp",
+      "summary_vi": "Nhập khẩu khí đốt tự nhiên hóa lỏng của Trung Quốc đang trên đà ghi nhận tháng giảm thứ hai liên tiếp do giá cao hơn đáng kể do cuộc chiến ở Trung Đông. Theo dữ liệu Kpler được Bl trích dẫn, dòng LNG tháng 9 tới Trung Quốc được nhìn thấy ở mức 5,3 triệu tấn.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-29_ogo5aiskc8.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-LNG-Imports-Set-for-Second-Straight-Monthly-Drop.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-29 14:00"
+    },
     {
       "id": "1i269e7",
       "title": "Oil Extends Rally Despite Higher Hormuz Volume Reports",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-29 12:19"
+    },
+    {
+      "id": "ezyajb",
+      "title": "United States Dollar Index strengthens as oil surge bolster Fed rate hike bets",
+      "title_vi": "Chỉ số Đô la Mỹ tăng mạnh khi giá dầu tăng cao thúc đẩy đặt cược tăng lãi suất của Fed",
+      "summary_vi": "Chỉ số Đô la Mỹ (DXY), đo lường giá trị của Đô la Mỹ (USD) so với sáu loại tiền tệ chính, đang mở rộng mức tăng trong ngày thứ hai liên tiếp và giao dịch quanh mức 101,20 trong giờ châu Á vào thứ Ba.",
+      "image": "https://editorial.fxsstatic.com/images/i/DXY-bullish-line_Medium.png",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-as-oil-surge-bolster-fed-rate-hike-bets-202609290212",
+      "source": "FXStreet",
+      "category": "energy",
+      "published": "2026-09-29 09:12"
     },
     {
       "id": "pwf3lg",
@@ -77,6 +99,17 @@
       "source": "CME Group",
       "category": "metal",
       "published": "2026-09-29 05:49"
+    },
+    {
+      "id": "1024hml",
+      "title": "Fluctuations in blood pressure over time linked to death and strokes, analysis of UK data finds",
+      "title_vi": "Phân tích dữ liệu của Vương quốc Anh cho thấy biến động huyết áp theo thời gian liên quan đến tử vong và đột quỵ",
+      "summary_vi": "Sự thay đổi lớn hơn về huyết áp giữa các lần nghiên cứu có liên quan đến nguy cơ tử vong cao hơn trong một nghiên cứu trên hơn 57.000 người tham gia Biobank ở Vương quốc Anh. Sự thay đổi trong một số biện pháp đo huyết áp cũng liên quan đến đột quỵ. Những phát hiện này đã được trình bày tại Hội nghị thường niên của Hiệp hội Châu Âu về",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/blood-pressure-1.jpg",
+      "link": "https://medicalxpress.com/news/2026-09-fluctuations-blood-pressure-linked-death.html",
+      "source": "Medical Xpress",
+      "category": "soft",
+      "published": "2026-09-29 05:00"
     },
     {
       "id": "bbhg2d",
@@ -156,17 +189,6 @@
       "published": "2026-09-29 01:31"
     },
     {
-      "id": "303dlz",
-      "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
-      "title_vi": "Dự trữ dầu mỏ chiến lược của Mỹ giảm xuống mức thấp nhất kể từ năm 1982",
-      "summary_vi": "Theo Cơ quan Thông tin Năng lượng, dự trữ dầu thô tại Cục Dự trữ Dầu mỏ Chiến lược Hoa Kỳ đứng ở mức 284,6 triệu thùng trong tuần kết thúc vào ngày 18 tháng 9, giảm từ mức 285,0 triệu thùng của tuần trước và 406,0 triệu thùng một năm trước đó. Dữ liệu của Bộ Năng lượng cho thấy r",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-28_u0wz9rdfib.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-29 01:30"
-    },
-    {
       "id": "19meoxb",
       "title": "Which drives grain prices: Inflation or USDA?",
       "title_vi": "Điều gì thúc đẩy giá ngũ cốc: Lạm phát hay USDA?",
@@ -198,6 +220,17 @@
       "source": "stonex.com",
       "category": "metal",
       "published": "2026-09-28 23:38"
+    },
+    {
+      "id": "fwz9sj",
+      "title": "Copper prices could reach $22,050 per ton by mid-2027",
+      "title_vi": "Giá đồng có thể đạt 22.050 USD/tấn vào giữa năm 2027",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/commodities-news/copper-prices-could-reach-22050-per-ton-by-mid2027-93CH-4920393",
+      "source": "Investing.com",
+      "category": "metal",
+      "published": "2026-09-28 23:26"
     },
     {
       "id": "15sn0or",
@@ -264,6 +297,17 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-09-28 18:32"
+    },
+    {
+      "id": "7my890",
+      "title": "What's next for commodities?",
+      "title_vi": "Điều gì tiếp theo cho hàng hóa?",
+      "summary_vi": "Trong khi các điều kiện thay đổi ở Trung Đông tiếp tục tác động đến thị trường dầu mỏ và sản phẩm tinh chế, chúng tôi tin rằng trường hợp đầu tư vào việc tham gia với hàng hóa rộng rãi vượt xa lĩnh vực năng lượng, mang lại cả lợi nhuận tiềm năng và lợi ích phòng ngừa lạm phát. Kim loại công nghiệp sẽ được hỗ trợ bởi sự đầu tư vào AI và điện khí hóa",
+      "image": "https://www.ubs.com/cioresearch/37/91/91/9/3791919/en/opengraphimage.407974156png",
+      "link": "https://www.ubs.com/hk/en/wealthmanagement/insights/marketnews/article.3791919.html",
+      "source": "ubs.com",
+      "category": "macro",
+      "published": "2026-09-28 17:40"
     },
     {
       "id": "1e4k4u6",
@@ -341,17 +385,6 @@
       "source": "The Economist",
       "category": "energy",
       "published": "2026-09-28 01:29"
-    },
-    {
-      "id": "92r2fh",
-      "title": "Silver Could Reach $80 by September 2027, According to UBS Forecast",
-      "title_vi": "Bạc có thể đạt 80 USD vào tháng 9 năm 2027, theo Dự báo của UBS",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://uk.finance.yahoo.com/news/silver-could-reach-80-september-142746719.html",
-      "source": "Yahoo Finance UK",
-      "category": "metal",
-      "published": "2026-09-27 21:27"
     },
     {
       "id": "18q1f53",
@@ -517,39 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-09-26 03:13"
-    },
-    {
-      "id": "1unjf42",
-      "title": "Crops Analysis | Corn pushes through early-session pressure",
-      "title_vi": "Phân tích cây trồng | Ngô vượt qua áp lực đầu phiên",
-      "summary_vi": "Ngày 24 tháng 9 năm 2026",
-      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
-      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-corn-pushes-through-early-session-pressure",
-      "source": "Pro Farmer",
-      "category": "agri",
-      "published": "2026-09-26 02:50"
-    },
-    {
-      "id": "osgtb3",
-      "title": "Cocoa Market Supply Disruptions to Linger as Ghana Raises Price",
-      "title_vi": "Sự gián đoạn nguồn cung thị trường ca cao kéo dài khi Ghana tăng giá",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-25/cocoa-market-supply-disruptions-to-linger-as-ghana-raises-price",
-      "source": "Bloomberg.com",
-      "category": "soft",
-      "published": "2026-09-26 01:16"
-    },
-    {
-      "id": "4w7qyb",
-      "title": "Palladium Price September 28 2026",
-      "title_vi": "Giá Palladium ngày 28 tháng 9 năm 2026",
-      "summary_vi": "Hợp đồng tương lai palladium ngày 26 tháng 12 sẽ kết thúc vào ngày 28 tháng 9 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
-      "image": "https://robinhood.com/api/public/og/event?id=d371aa4a-0ae5-4f12-ac01-12db0ceb7096",
-      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/palladium-price-september-28-2026-sep-28-2026/",
-      "source": "Robinhood",
-      "category": "metal",
-      "published": "2026-09-26 01:06"
     }
   ]
 }

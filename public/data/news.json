@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-30 02:01",
+  "updated_at": "2026-09-30 03:01",
   "items": [
+    {
+      "id": "gpgw51",
+      "title": "California and the EU Move to Rein In the Environmental Cost of AI",
+      "title_vi": "California và EU chuyển sang hạn chế chi phí môi trường của AI",
+      "summary_vi": "Cuộc trấn áp toàn cầu về việc sử dụng nước và năng lượng của lĩnh vực trí tuệ nhân tạo đang tăng tốc. Tuần này, các quan chức chính phủ ở California và Liên minh Châu Âu đều công bố các chính sách mới nhằm giúp theo dõi và hạn chế việc sử dụng tài nguyên quá mức của các công cụ siêu quy mô như một mối đe dọa.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-29_kdoxz6rlg5.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/California-and-the-EU-Move-to-Rein-In-the-Environmental-Cost-of-AI.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-30 03:00"
+    },
     {
       "id": "nmy4f9",
       "title": "Iran Threatens Middle East Energy Infrastructure as Hormuz Standoff Deepens",
@@ -101,17 +112,6 @@
       "published": "2026-09-29 21:30"
     },
     {
-      "id": "1tee83k",
-      "title": "Three EU Nations Call for New 2040 Renewable Energy Goal",
-      "title_vi": "Ba quốc gia EU kêu gọi mục tiêu năng lượng tái tạo mới năm 2040",
-      "summary_vi": "Tây Ban Nha, Bồ Đào Nha và Luxembourg đã kêu gọi Liên minh châu Âu đặt mục tiêu năng lượng tái tạo cho năm 2040, cho rằng EU nên đẩy nhanh việc triển khai năng lượng sạch để giảm sự phụ thuộc vào nhiên liệu hóa thạch nhập khẩu và sự gián đoạn địa chính trị đối với nguồn cung dầu khí. “Bởi vì",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-29_faujszo7we.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Three-EU-Nations-Call-for-New-2040-Renewable-Energy-Goal.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-09-29 21:30"
-    },
-    {
       "id": "1h3hhhg",
       "title": "Natural Gas Slides on Milder Temperature Outlook",
       "title_vi": "Khí tự nhiên trượt dốc với triển vọng nhiệt độ ôn hòa hơn",
@@ -187,6 +187,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-29 17:18"
+    },
+    {
+      "id": "fv8m4d",
+      "title": "Diesel Price Spike Squeezes Corn Harvest Margins as Combine Fuel Costs Up to $12.58 an Acre",
+      "title_vi": "Giá dầu diesel tăng đột biến làm giảm lợi nhuận thu hoạch ngô do chi phí nhiên liệu kết hợp lên tới 12,58 USD/mẫu Anh",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/diesel-price-spike-squeezes-corn-harvest-margins-as-combine-fuel-costs-up-to-usd11-an-acre-12146163",
+      "source": "Successful Farming",
+      "category": "energy",
+      "published": "2026-09-29 17:00"
     },
     {
       "id": "b5wi3h",
@@ -539,17 +550,6 @@
       "source": "ubs.com",
       "category": "metal",
       "published": "2026-09-28 17:40"
-    },
-    {
-      "id": "1e4k4u6",
-      "title": "Dollar steadies near two-month high as US-Iran stalemate lifts oil, Fed rate hike bets build",
-      "title_vi": "Đồng đô la ổn định gần mức cao nhất trong hai tháng khi bế tắc Mỹ-Iran nâng giá dầu, đặt cược tăng lãi suất của Fed tăng lên",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-firms-us-iran-tensions-013542829.html",
-      "source": "Yahoo Finance",
-      "category": "energy",
-      "published": "2026-09-28 15:41"
     }
   ]
 }

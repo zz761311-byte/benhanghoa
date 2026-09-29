@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 20:01",
+  "updated_at": "2026-09-29 20:04",
   "items": [
     {
       "id": "1ejthwy",
@@ -231,6 +231,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-29 04:10"
+    },
+    {
+      "id": "4d3d2h",
+      "title": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
+      "title_vi": "Các tuyến đường thay thế cho dầu khí Trung Đông do sự gián đoạn của Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/alternative-routes-for-middle-east-oil-and-gas-due-to-hormuz-disruption/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-09-29 04:08"
     },
     {
       "id": "1mdjvcb",
@@ -539,17 +550,6 @@
       "source": "Nutritional Outlook",
       "category": "soft",
       "published": "2026-09-27 15:06"
-    },
-    {
-      "id": "1sjh7o6",
-      "title": "Average gas price in LA County approaches record",
-      "title_vi": "Giá xăng trung bình ở Quận LA đạt kỷ lục",
-      "summary_vi": "Giá trung bình của một gallon xăng thông thường tự phục vụ ở Quận Los Angeles là 10,6 cent so với mức kỷ lục sau khi tăng 5,1 cent lên 6,387 USD, mức cao nhất kể từ ngày 10 tháng 10 năm 2022.",
-      "image": "https://cdn.abcotvs.com/dip/images/19867994_092426-kabc-4pm-gas-diesel-outlook-vid.jpg?w=1600",
-      "link": "https://abc7.com/post/average-gas-price-la-county-approaches-record/19876389/",
-      "source": "ABC7 Los Angeles",
-      "category": "energy",
-      "published": "2026-09-26 22:45"
     }
   ]
 }

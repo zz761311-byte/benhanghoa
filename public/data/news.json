@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30 05:02",
+  "updated_at": "2026-09-30 05:41",
   "items": [
     {
       "id": "km1hgb",
@@ -110,6 +110,17 @@
       "source": "Seeking Alpha",
       "category": "macro",
       "published": "2026-09-30 00:50"
+    },
+    {
+      "id": "841hev",
+      "title": "Oil prices fall on signs Middle East crude flows recovering",
+      "title_vi": "Giá dầu giảm do dấu hiệu dòng dầu thô Trung Đông phục hồi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-second-session-003313319.html",
+      "source": "finance.yahoo.com",
+      "category": "energy",
+      "published": "2026-09-30 00:33"
     },
     {
       "id": "1vgj16f",
@@ -497,6 +508,17 @@
       "published": "2026-09-29 00:29"
     },
     {
+      "id": "1xu84su",
+      "title": "Gold and silver prices are struggling now, but a much higher long-term base is building - BMO Capital Markets",
+      "title_vi": "Giá vàng và bạc hiện đang gặp khó khăn, nhưng cơ sở dài hạn cao hơn nhiều đang được xây dựng - BMO Capital Markets",
+      "summary_vi": "(Kitco News) - Thị trường vàng tiếp tục gặp khó khăn khi căng thẳng gia tăng ở Trung Đông đẩy giá dầu lên cao, gây ra lo ngại lạm phát mới và thúc đẩy kỳ vọng lãi suất mạnh mẽ. Cả giá vàng và bạc đều giảm xuống dưới mức hỗ trợ quan trọng khi lãi suất trái phiếu kỳ hạn 10 năm đã tăng lên mức kỷ lục mới trong 20 năm",
+      "image": "https://image-api.prod.kitco.com/image/3b3e893e-0e3c-431a-995e-b97ac42022ac.png?top=0&left=1.3376&width=1669.3248&height=940&scale_width=1920&token=76a4a77ce8196349cb2bffcc7e1b82bee02d3e4d4b8d53f018b534c8b55c9716",
+      "link": "https://www.kitco.com/news/article/2026-09-28/gold-and-silver-prices-are-struggling-now-much-higher-long-term-base",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-09-29 00:01"
+    },
+    {
       "id": "889gt9",
       "title": "Gold and Silver Stay Under Pressure Until the Federal Reserve Blinks",
       "title_vi": "Vàng và Bạc vẫn chịu áp lực cho đến khi Cục Dự trữ Liên bang chớp mắt",
@@ -528,28 +550,6 @@
       "source": "U.S. Gold Bureau",
       "category": "metal",
       "published": "2026-09-28 23:18"
-    },
-    {
-      "id": "umtr57",
-      "title": "Virginia gas prices sit above $4.20 amid rising crude oil costs",
-      "title_vi": "Giá xăng Virginia ở mức trên 4,20 USD trong bối cảnh giá dầu thô tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wavy.com/news/virginia/virginia-gas-prices-sit-above-4-20-amid-rising-crude-oil-costs/",
-      "source": "wavy.com",
-      "category": "energy",
-      "published": "2026-09-28 22:54"
-    },
-    {
-      "id": "19u50xy",
-      "title": "Oil Shock Accelerates EV Adoption, Pulling Copper Demand Forward",
-      "title_vi": "Cú sốc dầu thúc đẩy việc áp dụng xe điện, kéo nhu cầu đồng về phía trước",
-      "summary_vi": "Chi phí nhiên liệu cao hơn sẽ cải thiện nền kinh tế xe điện khi thị phần ô tô điện ngày càng tăng ở châu Âu làm tăng giá trị nguồn cung đồng sẵn sàng phát triển.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6aba69cae724f1c5332afe54_EV%20Stator.png",
-      "link": "https://www.cruxinvestor.com/posts/oil-shock-accelerates-ev-adoption-pulling-copper-demand-forward",
-      "source": "Crux Investor",
-      "category": "energy",
-      "published": "2026-09-28 20:57"
     }
   ]
 }

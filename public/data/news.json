@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 09:01",
+  "updated_at": "2026-09-29 10:01",
   "items": [
     {
       "id": "1t1r0j9",
@@ -11,6 +11,17 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-09-29 08:30"
+    },
+    {
+      "id": "1t96aof",
+      "title": "Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down",
+      "title_vi": "Xuất khẩu dầu ở Trung Đông phục hồi khi vòng vây của Iran ở Hormuz bị phá vỡ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/world/middle-east/middle-east-oil-exports-rebound-as-irans-chokehold-on-hormuz-breaks-down-4ffde655",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-09-29 08:00"
     },
     {
       "id": "1lny2v4",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-29 06:00"
+    },
+    {
+      "id": "o7mamy",
+      "title": "Gold futures fall to $4,130 as rate expectations rise.",
+      "title_vi": "Giá vàng kỳ hạn giảm xuống còn 4.130 USD khi kỳ vọng lãi suất tăng lên.",
+      "summary_vi": "Giá vàng kỳ hạn được giao dịch giảm mạnh, giảm 150 USD xuống gần 4.130 USD sau khi chạm mức thấp nhất trong ngày là 4.110 USD - mức thấp nhất kể từ ngày 5 tháng 8. Sự sụt giảm này xảy ra khi giá dầu tăng cao làm giảm kỳ vọng lạm phát và củng cố kỳ vọng về việc Cục Dự trữ Liên bang tăng lãi suất thêm, thúc đẩy đồng đô la Mỹ. Vàng bây giờ đã có",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/gold-futures-fall-to-4-130-as-rate-expectations-rise-9-28-26.jpg",
+      "link": "https://www.cmegroup.com/videos/2026/09/28/gold-futures-fall-to-4-130-as-rate-expectations-rise-9-28-26.html",
+      "source": "CME Group",
+      "category": "metal",
+      "published": "2026-09-29 05:49"
     },
     {
       "id": "bbhg2d",
@@ -220,17 +242,6 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-09-28 18:32"
-    },
-    {
-      "id": "10t6ifs",
-      "title": "Gold and silver prices fall sharply as higher bond yields weigh on metals",
-      "title_vi": "Giá vàng và bạc giảm mạnh do lãi suất trái phiếu cao hơn đè nặng lên kim loại",
-      "summary_vi": "Giá vàng và bạc giảm mạnh vào thứ Hai do lợi suất trái phiếu tăng làm giảm nhu cầu của nhà đầu tư đối với kim loại quý không sinh lời.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107088808-16578113242022-07-14t143236z_487684097_rc2xav9vo6ui_rtrmadp_0_swiss-gold.jpeg?v=1696573390&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/09/28/gold-silver-prices-bond-yields.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-09-28 16:56"
     },
     {
       "id": "1e4k4u6",
@@ -539,17 +550,6 @@
       "source": "TradingView",
       "category": "soft",
       "published": "2026-09-25 22:43"
-    },
-    {
-      "id": "4d3d2h",
-      "title": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
-      "title_vi": "Các tuyến đường thay thế cho dầu khí Trung Đông do sự gián đoạn của Hormuz",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/alternative-routes-for-middle-east-oil-and-gas-due-to-hormuz-disruption/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-25 22:40"
     }
   ]
 }

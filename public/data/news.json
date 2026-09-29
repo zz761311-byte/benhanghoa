@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 10:01",
+  "updated_at": "2026-09-29 11:01",
   "items": [
     {
       "id": "1t1r0j9",
@@ -121,6 +121,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-29 02:00"
+    },
+    {
+      "id": "sx1q6h",
+      "title": "China Cuts Tariffs on U.S. Agricultural Goods as Trade Truce Extends - RFD-TV",
+      "title_vi": "Trung Quốc cắt giảm thuế đối với hàng nông sản của Mỹ khi đình chiến thương mại kéo dài - RFD-TV",
+      "summary_vi": "Thỏa thuận ngừng bắn thương mại Mỹ-Trung tiếp tục có thể mang lại nhiều thời gian hơn để thảo luận về việc mua nông sản và tiếp cận thị trường cho nông sản Hoa Kỳ.",
+      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/7d9c42e/2147483647/strip/true/crop/960x539+0+90/resize/730x410!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2F50%2Fbd23368e4943ae74a892c3b25195%2Fchina-trade-photo-by-lurii-gagarin-via-adobestock-328134219.png",
+      "link": "https://www.rfdtv.com/china-cuts-tariffs-on-u-s-agricultural-goods-as-trade-truce-extends",
+      "source": "RFD-TV",
+      "category": "macro",
+      "published": "2026-09-29 01:31"
     },
     {
       "id": "303dlz",
@@ -431,6 +442,17 @@
       "published": "2026-09-26 09:47"
     },
     {
+      "id": "d76g63",
+      "title": "Americas Silver Stock Price Forecast. Should You Buy USAS?",
+      "title_vi": "Dự báo giá cổ phiếu bạc châu Mỹ. Bạn có nên mua USAS?",
+      "summary_vi": "Kiểm tra xem Cổ phiếu USAS có Đánh giá Mua hoặc Bán hay không. Giá cổ phiếu USAS (NYSE), Dự báo, Dự đoán, Phân tích chứng khoán và Tin tức về Tập đoàn Bạc Châu Mỹ.",
+      "image": "https://stockinvest.us/storage/chart/USAS/main/3.png",
+      "link": "https://stockinvest.us/stock/USAS",
+      "source": "StockInvest.us",
+      "category": "metal",
+      "published": "2026-09-26 06:53"
+    },
+    {
       "id": "g2o4j4",
       "title": "Economic Expert Explains Why Fuel Prices Rise Fast but Drop Slowly | Newswise",
       "title_vi": "Chuyên gia kinh tế giải thích vì sao giá nhiên liệu tăng nhanh nhưng giảm chậm | Theo bản tin",
@@ -528,28 +550,6 @@
       "source": "Grocery Trade News",
       "category": "macro",
       "published": "2026-09-26 00:38"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-09-25 22:58"
-    },
-    {
-      "id": "qcz0rg",
-      "title": "Dollar Weakness Spurs Short Covering in Coffee Futures",
-      "title_vi": "Sự suy yếu của đồng đô la thúc đẩy việc thu hồi ngắn hạn trong hợp đồng tương lai cà phê",
-      "summary_vi": "Cà phê arabica tháng 12 (KCZ26) hôm nay tăng +5,10 (+1,85%) và cà phê Robusta ICE tháng 11 (RMX26) tăng +62 (+1,88%). Giá cà phê hôm nay đang tăng, trong đó cà phê arabica đạt mức cao nhất trong 1 tuần. Sự trượt dốc hôm nay của chỉ số đô la ($DXY) đã làm dấy lên làn sóng bán khống hợp đồng tương lai cà phê. Đừng bỏ lỡ một ngày: F…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://www.tradingview.com/news/barchart:abdaa239c094b:0-dollar-weakness-spurs-short-covering-in-coffee-futures/",
-      "source": "TradingView",
-      "category": "soft",
-      "published": "2026-09-25 22:43"
     }
   ]
 }

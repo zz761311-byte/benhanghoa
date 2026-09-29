@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-30 01:01",
+  "updated_at": "2026-09-30 01:41",
   "items": [
+    {
+      "id": "1aryfnr",
+      "title": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6",
+      "title_vi": "Mỹ lại khai thác dự trữ dầu chiến lược khi dầu diesel đạt mức 6 USD",
+      "summary_vi": "Bộ Năng lượng Hoa Kỳ sẽ cung cấp thêm 40 triệu thùng dầu thô từ Kho Dự trữ Dầu khí Chiến lược do giá xăng và dầu diesel vẫn tăng cao sau gần 7 tháng kể từ cuộc chiến tranh Iran. Các thùng sẽ được cung cấp thông qua một cuộc trao đổi, đánh dấu đợt cuối cùng của",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-29_ravlgw1uhv.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Taps-Strategic-Oil-Reserve-Again-as-Diesel-Tops-6.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-30 01:20"
+    },
     {
       "id": "16rd4bl",
       "title": "Trump and Xi Buy Time, But Solve Almost Nothing",
@@ -112,17 +123,6 @@
       "published": "2026-09-29 20:42"
     },
     {
-      "id": "nlcxy6",
-      "title": "LNG Canada to Double Export Capacity After Shell Approves Phase 2",
-      "title_vi": "LNG Canada tăng gấp đôi công suất xuất khẩu sau khi Shell phê duyệt giai đoạn 2",
-      "summary_vi": "Cơ sở xuất khẩu khí tự nhiên hóa lỏng đầu tiên của Canada, LNG Canada, sẽ tăng gấp đôi công suất vào đầu những năm 2030 sau khi dự án do Shell dẫn đầu công bố hôm thứ Ba quyết định đầu tư cuối cùng để tiến hành Giai đoạn 2 của nhà máy ở Kitimat, British Columbia. LNG Canada ở Kitimat, B",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-29_ygayelkedf.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Canada-to-Double-Export-Capacity-After-Shell-Approves-Phase-2.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-29 20:30"
-    },
-    {
       "id": "ma18h0",
       "title": "Design Details: A New Dimension at Café Shin Marais in Paris",
       "title_vi": "Chi tiết thiết kế: Một chiều hướng mới tại Café Shin Marais ở Paris",
@@ -187,6 +187,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-29 17:18"
+    },
+    {
+      "id": "b5wi3h",
+      "title": "Q3 2026 Nickel Price Review",
+      "title_vi": "Đánh giá giá niken quý 3 năm 2026",
+      "summary_vi": "Sức mạnh của giá niken được thấy trong quý 2 đã đảo ngược trong quý này trong bối cảnh nhu cầu giảm và hoạt động xuất khẩu niken từ DRC được nối lại. Điểm chuẩn",
+      "image": "https://a.storyblok.com/f/287943243085208/5909955fe5/bm-sudbury-nickel-operations1-e1643820203892.jpg",
+      "link": "https://source.benchmarkminerals.com/article/mid-year-production-quotas-and-underwhelming-ncm-demand-weaken-market-fundamentals-nickel-q3-2026-price-review",
+      "source": "Benchmark Mineral Intelligence",
+      "category": "metal",
+      "published": "2026-09-29 16:52"
     },
     {
       "id": "c7rddw",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "energy",
       "published": "2026-09-28 15:41"
-    },
-    {
-      "id": "1g3298u",
-      "title": "China's refined copper output on track for lowest growth in decades this year, analysts say",
-      "title_vi": "Các nhà phân tích cho biết sản lượng đồng tinh chế của Trung Quốc có xu hướng tăng trưởng thấp nhất trong nhiều thập kỷ trong năm nay",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/asia-pacific/chinas-refined-copper-output-track-lowest-growth-decades-this-year-analysts-say-2026-09-28/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-09-28 15:21"
     }
   ]
 }

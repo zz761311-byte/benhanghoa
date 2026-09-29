@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-30 03:01",
+  "updated_at": "2026-09-30 04:01",
   "items": [
+    {
+      "id": "1luheay",
+      "title": "White House Weighs Red-Dyed Diesel Relief as Fuel Prices Soar",
+      "title_vi": "Nhà Trắng cân nhắc việc cứu trợ động cơ diesel nhuộm đỏ khi giá nhiên liệu tăng cao",
+      "summary_vi": "Chính phủ liên bang Hoa Kỳ đã đưa ra một giải pháp thay thế cho lệnh cấm xuất khẩu nhiên liệu diesel, có thể giảm bớt gánh nặng về giá ở máy bơm bằng cách tăng cường cung cấp loại dầu diesel miễn thuế. Đó là theo nguồn tin giấu tên được Reuters trích dẫn trong tuần này. Không rõ liệu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-29_on6wl20ax5.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/White-House-Weighs-Red-Dyed-Diesel-Relief-as-Fuel-Prices-Soar.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-30 04:00"
+    },
     {
       "id": "gpgw51",
       "title": "California and the EU Move to Rein In the Environmental Cost of AI",
@@ -46,6 +57,17 @@
       "published": "2026-09-30 01:00"
     },
     {
+      "id": "1hmwhob",
+      "title": "Staying Bullish On The HGER ETF (NYSE:HGER)",
+      "title_vi": "Tiếp tục lạc quan về HGER ETF (NYSE:HGER)",
+      "summary_vi": "Harbor Commodity All-Weather Strategy ETF vẫn đang trong xu hướng tăng giá mạnh mẽ, đạt mức cao mới mọi thời đại vào tháng 8 và tháng 9 năm 2026. Nhấp để biết thêm về HGER.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2206372695/image_2206372695.jpg?io=getty-c-w1536",
+      "link": "https://seekingalpha.com/article/4950759-staying-bullish-on-hger-etf?source",
+      "source": "Seeking Alpha",
+      "category": "macro",
+      "published": "2026-09-30 00:50"
+    },
+    {
       "id": "1vgj16f",
       "title": "World&#039;s Tallest Dam Project Gets New Life With Fresh World Bank Funding",
       "title_vi": "Dự án đập cao nhất thế giới có được sức sống mới nhờ nguồn tài trợ mới của Ngân hàng Thế giới",
@@ -74,17 +96,6 @@
       "summary_vi": "Giá dầu giảm khi các cuộc đàm phán mới với Iran và sự phục hồi xuất khẩu của Saudi đã xoa dịu nỗi lo về nguồn cung. Cuộc mua sắm LNG của Châu Âu diễn ra theo nhịp đồng hồ - Châu Âu cuối cùng cũng đang tăng cường nhập khẩu khí đốt tự nhiên hóa lỏng trước mùa sưởi ấm mùa đông, sau một mùa hè đáng thất vọng khi",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-29_bsthxrlkrw.jpg",
       "link": "https://oilprice.com/Energy/Crude-Oil/Iran-Talks-Take-the-Heat-Out-of-the-Oil-Rally.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-29 22:30"
-    },
-    {
-      "id": "o10bgj",
-      "title": "Dangote Targets 10 Million Investors in Africa’s Biggest IPO",
-      "title_vi": "Dangote nhắm mục tiêu 10 triệu nhà đầu tư vào đợt IPO lớn nhất châu Phi",
-      "summary_vi": "Nhà máy lọc dầu Dangote ở Nigeria sắp ra mắt công chúng khi người giàu nhất châu Phi, Aliko Dangote, đang nhắm tới 10 triệu nhà đầu tư bán lẻ trong đợt chào bán cổ phiếu lần đầu ra công chúng lớn nhất châu Phi. Nhóm Dangote trong tháng này đã phát động một chiến dịch tiếp thị rộng rãi để",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-29_ip1boazrnd.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Dangote-Targets-10-Million-Investors-in-Africas-Biggest-IPO.html",
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-29 22:30"
@@ -121,6 +132,17 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-09-29 20:42"
+    },
+    {
+      "id": "a9qool",
+      "title": "Russian Crude Exports Boom Blunted by Kremlin’s Diesel Sales Ban",
+      "title_vi": "Xuất khẩu dầu thô của Nga bùng nổ do lệnh cấm bán dầu diesel của Điện Kremlin",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-29/russia-s-oil-export-windfall-eroded-by-ban-on-diesel-shipments",
+      "source": "Bloomberg.com",
+      "category": "energy",
+      "published": "2026-09-29 19:48"
     },
     {
       "id": "ma18h0",
@@ -528,28 +550,6 @@
       "source": "The Conversation",
       "category": "macro",
       "published": "2026-09-28 20:01"
-    },
-    {
-      "id": "q76niw",
-      "title": "Yah Yah Yah Pours Middle Eastern Flavor Into RTD Coffee",
-      "title_vi": "Yah Yah Yah Mang Hương Vị Trung Đông Vào Cà Phê RTD",
-      "summary_vi": "Giữa vô số sản phẩm mới trong danh mục cà phê pha sẵn, một thương hiệu mới có trụ sở tại Denver tên là Yah Yah Yah đang giới thiệu những hương vị lấy cảm hứng từ Trung Đông.  Cái tên Yah Yah Yah đến...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/09/28/yah-yah-yah-pours-middle-eastern-flavor-into-rtd-coffee/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-09-28 18:59"
-    },
-    {
-      "id": "7my890",
-      "title": "What's next for commodities?",
-      "title_vi": "Điều gì tiếp theo cho hàng hóa?",
-      "summary_vi": "Trong khi các điều kiện thay đổi ở Trung Đông tiếp tục tác động đến thị trường dầu mỏ và sản phẩm tinh chế, chúng tôi tin rằng trường hợp đầu tư vào việc tham gia với hàng hóa rộng rãi vượt xa lĩnh vực năng lượng, mang lại cả lợi nhuận tiềm năng và lợi ích phòng ngừa lạm phát. Kim loại công nghiệp sẽ được hỗ trợ bởi sự đầu tư vào AI và điện khí hóa",
-      "image": "https://www.ubs.com/cioresearch/37/91/91/9/3791919/en/opengraphimage.407974156png",
-      "link": "https://www.ubs.com/hk/en/wealthmanagement/insights/marketnews/article.3791919.html",
-      "source": "ubs.com",
-      "category": "metal",
-      "published": "2026-09-28 17:40"
     }
   ]
 }

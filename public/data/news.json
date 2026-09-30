@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-30 06:02",
+  "updated_at": "2026-09-30 07:01",
   "items": [
+    {
+      "id": "x70tst",
+      "title": "Oil&#039;s New Normal Is Higher Prices",
+      "title_vi": "Bình thường mới của dầu là giá cao hơn",
+      "summary_vi": "Giá dầu giảm trở lại vào thứ Ba, đảo ngược mức tăng gần đây khi các nhà đầu tư cân nhắc các dấu hiệu phục hồi xuất khẩu của các nhà sản xuất Trung Đông trước sự không chắc chắn xung quanh số phận của cuộc chiến tranh Iran. Dầu thô Brent giao tháng 11 giảm 1,5% giao dịch ở mức 103,72 USD/thùng lúc 1:10 chiều ET,",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-29_cqaizhnndf.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Oils-New-Normal-Is-Higher-Prices.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-30 07:00"
+    },
+    {
+      "id": "iymydd",
+      "title": "Tariffs on Canadian steel and aluminum still a concern for local metal fabricating company - NBC 5 Dallas-Fort Worth",
+      "title_vi": "Thuế quan đối với thép và nhôm Canada vẫn là mối lo ngại đối với công ty chế tạo kim loại địa phương - NBC 5 Dallas-Fort Worth",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nbcdfw.com/news/local/tariffs-on-canadian-steel-and-aluminum-still-a-concern-for-local-metal-fabricating-company/4084456/",
+      "source": "NBC 5 Dallas-Fort Worth",
+      "category": "metal",
+      "published": "2026-09-30 06:01"
+    },
     {
       "id": "j8bmkh",
       "title": "Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher",
@@ -110,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-30 01:20"
-    },
-    {
-      "id": "16rd4bl",
-      "title": "Trump and Xi Buy Time, But Solve Almost Nothing",
-      "title_vi": "Trump và Tập câu giờ nhưng hầu như không giải quyết được gì",
-      "summary_vi": "Có nhiều điều để nói về nhiều vấn đề giữa Mỹ và Trung Quốc, và đó là -- trong nhiều cuộc gặp diễn ra giữa các quan chức Mỹ và Trung Quốc diễn ra khi lãnh đạo hai nước nói rất ít trong chuyến thăm ba ngày của ông Tập Cận Bình tới người đồng cấp Donald Tru.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-29_wtjubvcpna.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Trump-and-Xi-Buy-Time-But-Solve-Almost-Nothing.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-30 01:00"
     },
     {
       "id": "1hmwhob",
@@ -539,17 +550,6 @@
       "source": "stonex.com",
       "category": "metal",
       "published": "2026-09-28 23:38"
-    },
-    {
-      "id": "fwz9sj",
-      "title": "Copper prices could reach $22,050 per ton by mid-2027",
-      "title_vi": "Giá đồng có thể đạt 22.050 USD/tấn vào giữa năm 2027",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/commodities-news/copper-prices-could-reach-22050-per-ton-by-mid2027-93CH-4920393",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-09-28 23:26"
     }
   ]
 }

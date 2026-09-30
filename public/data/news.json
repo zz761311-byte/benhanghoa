@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30 11:01",
+  "updated_at": "2026-09-30 12:01",
   "items": [
     {
       "id": "x70tst",
@@ -376,6 +376,17 @@
       "published": "2026-09-29 12:15"
     },
     {
+      "id": "mgu7pu",
+      "title": "Dollar firms near two-month peak as oil, US yields rise; jobs data looms",
+      "title_vi": "Đồng đô la tăng gần mức cao nhất trong hai tháng khi dầu, lãi suất của Mỹ tăng; dữ liệu việc làm hiện ra",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-firms-near-two-month-050235871.html",
+      "source": "Yahoo Finance",
+      "category": "energy",
+      "published": "2026-09-29 12:02"
+    },
+    {
       "id": "1lcqqhf",
       "title": "Gold rises but strong Fed hike bets keep it near seven week-low",
       "title_vi": "Vàng tăng nhưng kỳ vọng tăng mạnh của Fed khiến giá vàng gần mức thấp nhất trong 7 tuần",
@@ -396,17 +407,6 @@
       "source": "FXStreet",
       "category": "energy",
       "published": "2026-09-29 09:12"
-    },
-    {
-      "id": "1p84tdb",
-      "title": "Dollar keeps climbing as oil, US yields stay high; jobs data looms",
-      "title_vi": "Đồng đô la tiếp tục tăng do giá dầu, lợi suất trái phiếu Mỹ vẫn ở mức cao; dữ liệu việc làm hiện ra",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/africa/dollar-hold-near-two-month-peak-yields-rise-fed-data-looms-2026-09-29/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-09-29 08:57"
     },
     {
       "id": "pwf3lg",

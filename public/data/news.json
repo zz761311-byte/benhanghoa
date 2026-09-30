@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-30 13:01",
+  "updated_at": "2026-09-30 14:01",
   "items": [
+    {
+      "id": "lubwnn",
+      "title": "JP Morgan, Goldman Diverge on Hormuz Oil Flow Estimates",
+      "title_vi": "JP Morgan, Goldman khác nhau về ước tính dòng dầu Hormuz",
+      "summary_vi": "Theo JP Morgan, xuất khẩu dầu thô từ Trung Đông đã phục hồi gần như hoàn toàn về mức trước chiến tranh, đồng thời cho biết xuất khẩu nhiên liệu đang tăng lên. Các nhà phân tích của ngân hàng nhận thấy dòng dầu hàng ngày trong tháng 9 ở mức trung bình 17,5 triệu thùng mỗi ngày, tương đương 98% mức trước chiến tranh.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-30_sept58fpec.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/JP-Morgan-Goldman-Diverge-on-Hormuz-Oil-Flow-Estimates.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-30 14:00"
+    },
     {
       "id": "1o8y7dm",
       "title": "Oil Prices Climb as Trump Rules Out Easing Iran Sanctions",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-30 12:37"
+    },
+    {
+      "id": "1c113rj",
+      "title": "Dollar Jumps to 8-Week High on Fed Rate-Hike Bets",
+      "title_vi": "Đồng đô la tăng lên mức cao nhất trong 8 tuần khi đặt cược tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/economy/central-banking/dollar-jumps-to-8-week-high-as-fed-rate-hike-bets-outweigh-lower-oil-prices-92e6cf72",
+      "source": "WSJ",
+      "category": "macro",
+      "published": "2026-09-30 11:00"
     },
     {
       "id": "x70tst",
@@ -121,17 +143,6 @@
       "source": "africa.businessinsider.com",
       "category": "metal",
       "published": "2026-09-30 02:35"
-    },
-    {
-      "id": "nmy4f9",
-      "title": "Iran Threatens Middle East Energy Infrastructure as Hormuz Standoff Deepens",
-      "title_vi": "Iran đe dọa cơ sở hạ tầng năng lượng Trung Đông khi xung đột Hormuz ngày càng sâu sắc",
-      "summary_vi": "Iran đe dọa sẽ tấn công cơ sở hạ tầng năng lượng trên khắp Trung Đông nếu an ninh của nước này không được đảm bảo khi nước này tăng cường tuyên bố trong khi chờ đợi Hoa Kỳ chính thức phản hồi về kế hoạch mà Tehran cho biết sẽ mở lại eo biển Hormuz. Trong khi các cuộc tấn công trên không của bot",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-29_zqfpynfe7t.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Iran-Threatens-Middle-East-Energy-Infrastructure-as-Hormuz-Standoff-Deepens.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-30 02:00"
     },
     {
       "id": "1pev2uq",
@@ -530,26 +541,15 @@
       "published": "2026-09-29 03:36"
     },
     {
-      "id": "sx1q6h",
-      "title": "China Cuts Tariffs on U.S. Agricultural Goods as Trade Truce Extends - RFD-TV",
-      "title_vi": "Trung Quốc cắt giảm thuế đối với hàng nông sản của Mỹ khi đình chiến thương mại kéo dài - RFD-TV",
-      "summary_vi": "Thỏa thuận ngừng bắn thương mại Mỹ-Trung tiếp tục có thể mang lại nhiều thời gian hơn để thảo luận về việc mua nông sản và tiếp cận thị trường cho nông sản Hoa Kỳ.",
-      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/7d9c42e/2147483647/strip/true/crop/960x539+0+90/resize/730x410!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2F32%2F50%2Fbd23368e4943ae74a892c3b25195%2Fchina-trade-photo-by-lurii-gagarin-via-adobestock-328134219.png",
-      "link": "https://www.rfdtv.com/china-cuts-tariffs-on-u-s-agricultural-goods-as-trade-truce-extends",
-      "source": "RFD-TV",
-      "category": "macro",
-      "published": "2026-09-29 01:31"
-    },
-    {
-      "id": "19meoxb",
-      "title": "Which drives grain prices: Inflation or USDA?",
-      "title_vi": "Điều gì thúc đẩy giá ngũ cốc: Lạm phát hay USDA?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/which-drives-grain-prices-inflation-or-usda-",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-09-29 00:51"
+      "id": "1ywnul6",
+      "title": "Why gold and silver prices are on the decline as bond yields rise",
+      "title_vi": "Tại sao giá vàng và bạc giảm khi lãi suất trái phiếu tăng",
+      "summary_vi": "Lợi suất trái phiếu toàn cầu đã tăng đột biến trong những tháng gần đây, đặc biệt là trái phiếu kho bạc Hoa Kỳ, trong khi giá trị cảm nhận của các kim loại quý như vàng và bạc đang giảm dần.",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/09/Gold-prices-bonds-e1790623781236.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "link": "https://globalnews.ca/news/12075923/bond-yields-gold-silver-prices/",
+      "source": "Global News",
+      "category": "metal",
+      "published": "2026-09-29 02:57"
     }
   ]
 }

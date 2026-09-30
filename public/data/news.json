@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-30 12:01",
+  "updated_at": "2026-09-30 13:01",
   "items": [
+    {
+      "id": "1o8y7dm",
+      "title": "Oil Prices Climb as Trump Rules Out Easing Iran Sanctions",
+      "title_vi": "Giá dầu tăng khi Trump bác bỏ việc nới lỏng lệnh trừng phạt Iran",
+      "summary_vi": "Giá dầu thô hôm nay tăng cao sau khi giảm vào thứ Ba, sau các báo cáo cho rằng Tổng thống Trump không có ý định giảm bớt áp lực trừng phạt đối với Iran, vốn đã làm giảm xuất khẩu từ một trong những nhà sản xuất lớn nhất của OPEC. Tại thời điểm viết bài, dầu thô Brent đang giao dịch ở mức 103,1 USD",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Trump-Rules-Out-Easing-Iran-Sanctions.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-30 12:37"
+    },
     {
       "id": "x70tst",
       "title": "Oil&#039;s New Normal Is Higher Prices",
@@ -132,17 +143,6 @@
       "source": "TicketNews",
       "category": "metal",
       "published": "2026-09-30 01:43"
-    },
-    {
-      "id": "1aryfnr",
-      "title": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6",
-      "title_vi": "Mỹ lại khai thác dự trữ dầu chiến lược khi dầu diesel đạt mức 6 USD",
-      "summary_vi": "Bộ Năng lượng Hoa Kỳ sẽ cung cấp thêm 40 triệu thùng dầu thô từ Kho Dự trữ Dầu khí Chiến lược do giá xăng và dầu diesel vẫn tăng cao sau gần 7 tháng kể từ cuộc chiến tranh Iran. Các thùng sẽ được cung cấp thông qua một cuộc trao đổi, đánh dấu đợt cuối cùng của",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-29_ravlgw1uhv.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Taps-Strategic-Oil-Reserve-Again-as-Diesel-Tops-6.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-30 01:20"
     },
     {
       "id": "1hmwhob",
@@ -409,6 +409,17 @@
       "published": "2026-09-29 09:12"
     },
     {
+      "id": "1p84tdb",
+      "title": "Dollar hits 16-month high on euro and Swiss franc as US yields top 5%",
+      "title_vi": "Đồng đô la đạt mức cao nhất trong 16 tháng so với đồng euro và đồng franc Thụy Sĩ khi lợi suất của Mỹ đạt mức cao nhất 5%",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/africa/dollar-hold-near-two-month-peak-yields-rise-fed-data-looms-2026-09-29/",
+      "source": "Reuters",
+      "category": "macro",
+      "published": "2026-09-29 08:57"
+    },
+    {
       "id": "pwf3lg",
       "title": "FLIPR 2026 midterm election forecast",
       "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
@@ -539,17 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-09-29 00:51"
-    },
-    {
-      "id": "1w3i94y",
-      "title": "U.S. and China release product lists for tariff cuts after Trump-Xi meeting",
-      "title_vi": "Mỹ và Trung Quốc công bố danh sách sản phẩm cắt giảm thuế sau cuộc gặp Trump-Xi",
-      "summary_vi": "Hoa Kỳ và Trung Quốc đã công bố danh sách các sản phẩm trị giá khoảng 30 tỷ USD mỗi sản phẩm sẽ được cắt giảm thuế. Thỏa thuận này được kỳ vọng sẽ giúp thúc đẩy thương mại song phương.",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-25T172333Z_266850731_RC2GQNA9L79A_RTRMADP_3_USA-CHINA-1024x684.jpg",
-      "link": "https://www.pbs.org/newshour/world/u-s-and-china-release-product-lists-for-tariff-cuts-after-trump-xi-meeting",
-      "source": "PBS",
-      "category": "macro",
-      "published": "2026-09-29 00:29"
     }
   ]
 }

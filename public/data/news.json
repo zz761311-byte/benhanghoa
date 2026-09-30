@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30 21:01",
+  "updated_at": "2026-09-30 21:16",
   "items": [
     {
       "id": "10i7dos",
@@ -110,6 +110,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-30 15:30"
+    },
+    {
+      "id": "1n9p82l",
+      "title": "Silver Price Forecast: XAG/USD trades flat around $61.50, US data awaited",
+      "title_vi": "Dự báo giá bạc: XAG/USD giao dịch ổn định quanh mức 61,50 USD, dữ liệu của Mỹ đang được chờ đợi",
+      "summary_vi": "Giá bạc (XAG/USD) giao dịch trong phạm vi hẹp ở mức khoảng 61,45 USD trong phiên giao dịch châu Âu vào thứ Tư. Kim loại trắng củng cố khi các nhà đầu tư chờ đợi dữ liệu Chỉ số giá chi tiêu tiêu dùng cá nhân (PCE) của Hoa Kỳ (US) cho tháng 8, sẽ được công bố lúc 12:30 GMT.",
+      "image": "https://editorial.fxsstatic.com/images/i/Commodities_Silver-1_Medium.jpg",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-flat-around-6150-us-data-awaited-202609300800",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-09-30 15:00"
     },
     {
       "id": "lubwnn",
@@ -539,17 +550,6 @@
       "source": "Medical Xpress",
       "category": "soft",
       "published": "2026-09-29 05:00"
-    },
-    {
-      "id": "x0k0ti",
-      "title": "US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says",
-      "title_vi": "EIA cho biết sản lượng dầu thô của Mỹ sẽ giảm trong thập kỷ tới do dự báo giá dầu Brent dưới 70 USD",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-crude-output-to-fall-next-decade-on-sub-70-brent-price-forecast-eia-says/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-29 04:10"
     }
   ]
 }

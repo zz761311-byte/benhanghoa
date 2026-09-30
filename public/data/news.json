@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30 14:31",
+  "updated_at": "2026-09-30 15:01",
   "items": [
     {
       "id": "lubwnn",
@@ -33,6 +33,17 @@
       "source": "WSJ",
       "category": "macro",
       "published": "2026-09-30 11:00"
+    },
+    {
+      "id": "dodzc2",
+      "title": "U.S. sugar supply faces uncertainty from drought, pests",
+      "title_vi": "Nguồn cung đường của Mỹ đối mặt với sự bất ổn do hạn hán và sâu bệnh",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/sugar-beets/record-high-tier-2-sugar-imports-expected-to-boost-u-s-supply",
+      "source": "farmprogress.com",
+      "category": "soft",
+      "published": "2026-09-30 09:45"
     },
     {
       "id": "x70tst",
@@ -539,17 +550,6 @@
       "source": "Northern Ag Network",
       "category": "agri",
       "published": "2026-09-29 03:36"
-    },
-    {
-      "id": "1ywnul6",
-      "title": "Why gold and silver prices are on the decline as bond yields rise",
-      "title_vi": "Tại sao giá vàng và bạc giảm khi lãi suất trái phiếu tăng",
-      "summary_vi": "Lợi suất trái phiếu toàn cầu đã tăng đột biến trong những tháng gần đây, đặc biệt là trái phiếu kho bạc Hoa Kỳ, trong khi giá trị cảm nhận của các kim loại quý như vàng và bạc đang giảm dần.",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/09/Gold-prices-bonds-e1790623781236.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-      "link": "https://globalnews.ca/news/12075923/bond-yields-gold-silver-prices/",
-      "source": "Global News",
-      "category": "metal",
-      "published": "2026-09-29 02:57"
     }
   ]
 }

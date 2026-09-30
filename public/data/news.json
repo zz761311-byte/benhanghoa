@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30 09:01",
+  "updated_at": "2026-09-30 10:01",
   "items": [
     {
       "id": "x70tst",
@@ -55,6 +55,17 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-09-30 04:40"
+    },
+    {
+      "id": "170jbln",
+      "title": "Oil Prices Lower As Focus Shifts To Middle East Supply",
+      "title_vi": "Giá dầu giảm khi trọng tâm chuyển sang nguồn cung Trung Đông",
+      "summary_vi": "Giá dầu giảm hôm thứ Ba khi các nhà đầu tư tập trung vào các dấu hiệu phục hồi xuất khẩu dầu thô từ Trung Đông và những lo ngại kéo dài…",
+      "image": "https://images.marinelink.com/images/maritime/w800/adobe-stockmiha-173980.jpeg",
+      "link": "https://www.marinelink.com/news/oil-prices-lower-focus-shifts-middle-east-543344",
+      "source": "Marine Link",
+      "category": "energy",
+      "published": "2026-09-30 04:10"
     },
     {
       "id": "d8latp",
@@ -539,17 +550,6 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-09-29 00:01"
-    },
-    {
-      "id": "889gt9",
-      "title": "Gold and Silver Stay Under Pressure Until the Federal Reserve Blinks",
-      "title_vi": "Vàng và Bạc vẫn chịu áp lực cho đến khi Cục Dự trữ Liên bang chớp mắt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-us/insights/gold-and-silver-stay-under-pressure-until-the-federal-reserve-blinks/",
-      "source": "stonex.com",
-      "category": "metal",
-      "published": "2026-09-28 23:38"
     }
   ]
 }

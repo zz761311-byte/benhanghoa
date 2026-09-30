@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-09-30 20:01",
+  "updated_at": "2026-09-30 21:01",
   "items": [
+    {
+      "id": "10i7dos",
+      "title": "Iran Warns No Energy Infrastructure Will Be Safe If It Can&#039;t Sell Oil",
+      "title_vi": "Iran cảnh báo sẽ không có cơ sở hạ tầng năng lượng nào an toàn nếu không bán được dầu",
+      "summary_vi": "Iran đe dọa sẽ tấn công cơ sở hạ tầng năng lượng trên khắp Trung Đông nếu an ninh của nước này không được đảm bảo khi nước này tăng cường hùng biện trong khi chờ Mỹ phản hồi chính thức về kế hoạch mà Tehran cho biết sẽ mở lại eo biển Hormuz. Trong khi các cuộc tấn công trên không của bot",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-30_tnzpgevnvk.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-Warns-No-Energy-Infrastructure-Will-Be-Safe-If-It-Cant-Sell-Oil.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-30 21:00"
+    },
+    {
+      "id": "vz7lp6",
+      "title": "Middle East Crude Oil Exports Back at Prewar Levels, Analysts Say",
+      "title_vi": "Các nhà phân tích cho biết xuất khẩu dầu thô ở Trung Đông trở lại mức trước chiến tranh",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/middle-east-crude-oil-exports-back-at-prewar-levels-analysts-say-b5582027",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-09-30 20:35"
+    },
+    {
+      "id": "tmwb41",
+      "title": "OPEC+ Expected to Keep Oil Production Quotas Unchanged",
+      "title_vi": "OPEC+ dự kiến ​​sẽ giữ nguyên hạn ngạch sản xuất dầu",
+      "summary_vi": "Các nguồn tin giấu tên quen thuộc với kế hoạch nói với Reuters hôm thứ Tư rằng các nhà sản xuất chủ chốt của OPEC+ dự kiến ​​sẽ không thay đổi hạn ngạch sản lượng dầu thô hiện tại của họ trong tháng 11 tại cuộc họp vào cuối tuần này. Các nhà sản xuất vùng Vịnh trong OPEC+ đang sản xuất và xuất khẩu với khối lượng thấp hơn nhiều.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-30_6ugrmlncqj.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Expected-to-Keep-Oil-Production-Quotas-Unchanged.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-09-30 20:30"
+    },
+    {
+      "id": "wr5cq3",
+      "title": "ICO Puts Global Coffee Market Data in One Interactive Place",
+      "title_vi": "ICO đưa dữ liệu thị trường cà phê toàn cầu vào một nơi tương tác",
+      "summary_vi": "Tổ chức Cà phê Quốc tế (ICO) vừa ra mắt một nền tảng dữ liệu tương tác giúp mọi người truy cập miễn phí vào hàng loạt thông tin thị trường toàn cầu bao gồm giá cả, thương mại, sản xuất, tiêu thụ và trữ lượng được chứng nhận....",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/09/30/ico-puts-global-coffee-market-data-in-one-interactive-place/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-09-30 20:22"
+    },
     {
       "id": "1jfh5iz",
       "title": "Russia Extends Diesel Export Ban Through Oct. 31",
@@ -33,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-30 17:30"
+    },
+    {
+      "id": "1izxpjd",
+      "title": "Xbox finally answers PlayStation’s Platinum Trophies with Mythic Achievements after years of player demand",
+      "title_vi": "Xbox cuối cùng đã trả lời Danh hiệu Bạch kim của PlayStation với Thành tựu Thần thoại sau nhiều năm nhu cầu của người chơi",
+      "summary_vi": "Rõ ràng Xbox hiện có thể làm được mọi việc",
+      "image": "https://substackcdn.com/image/fetch/$s_!K03j!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd6c8c4e-d4e6-4ac3-a0b6-940cd0739f0a_1920x1080.png",
+      "link": "https://www.theshortcut.com/p/xbox-finally-answers-playstations-platinum-trophies-with-mythic-achievements-after-years-of-player-demand",
+      "source": "The Shortcut | Matt Swider",
+      "category": "metal",
+      "published": "2026-09-30 16:52"
     },
     {
       "id": "oru7ps",
@@ -68,17 +123,6 @@
       "published": "2026-09-30 14:00"
     },
     {
-      "id": "1o8y7dm",
-      "title": "Oil Prices Climb as Trump Rules Out Easing Iran Sanctions",
-      "title_vi": "Giá dầu tăng khi Trump bác bỏ việc nới lỏng lệnh trừng phạt Iran",
-      "summary_vi": "Giá dầu thô hôm nay tăng cao sau khi giảm vào thứ Ba, sau các báo cáo cho rằng Tổng thống Trump không có ý định giảm bớt áp lực trừng phạt đối với Iran, vốn đã làm giảm xuất khẩu từ một trong những nhà sản xuất lớn nhất của OPEC. Tại thời điểm viết bài, dầu thô Brent đang giao dịch ở mức 103,1 USD",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Trump-Rules-Out-Easing-Iran-Sanctions.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-30 12:37"
-    },
-    {
       "id": "1c113rj",
       "title": "Dollar Jumps to 8-Week High on Fed Rate-Hike Bets",
       "title_vi": "Đồng đô la tăng lên mức cao nhất trong 8 tuần khi đặt cược tăng lãi suất của Fed",
@@ -99,17 +143,6 @@
       "source": "farmprogress.com",
       "category": "soft",
       "published": "2026-09-30 09:45"
-    },
-    {
-      "id": "x70tst",
-      "title": "Oil&#039;s New Normal Is Higher Prices",
-      "title_vi": "Bình thường mới của dầu là giá cao hơn",
-      "summary_vi": "Giá dầu giảm trở lại vào thứ Ba, đảo ngược mức tăng gần đây khi các nhà đầu tư cân nhắc các dấu hiệu phục hồi xuất khẩu của các nhà sản xuất Trung Đông trước sự không chắc chắn xung quanh số phận của cuộc chiến tranh Iran. Dầu thô Brent giao tháng 11 giảm 1,5% giao dịch ở mức 103,72 USD/thùng lúc 1:10 chiều ET,",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-29_cqaizhnndf.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Oils-New-Normal-Is-Higher-Prices.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-30 07:00"
     },
     {
       "id": "iymydd",
@@ -517,39 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-29 04:10"
-    },
-    {
-      "id": "4d3d2h",
-      "title": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
-      "title_vi": "Các tuyến đường thay thế cho dầu khí Trung Đông do sự gián đoạn của Hormuz",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/alternative-routes-for-middle-east-oil-and-gas-due-to-hormuz-disruption/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-09-29 04:08"
-    },
-    {
-      "id": "1mdjvcb",
-      "title": "Governor Newsom takes action to help lower prices amid Trump’s nationwide gas and diesel price spike",
-      "title_vi": "Thống đốc Newsom hành động để giúp giảm giá trong bối cảnh giá xăng và dầu diesel trên toàn quốc của Trump tăng vọt",
-      "summary_vi": "Tiểu bang California",
-      "image": "https://www.gov.ca.gov/wp-content/uploads/2026/09/Governor-Newsom-takes-action-to-help-lower-prices-amid-Trumps-nationwide-gas-and-diesel-price-spike-SEO-GFX.png",
-      "link": "https://www.gov.ca.gov/2026/09/28/governor-newsom-takes-action-to-help-lower-prices-amid-trumps-nationwide-gas-and-diesel-price-spike/",
-      "source": "California State Portal | CA.gov",
-      "category": "energy",
-      "published": "2026-09-29 04:08"
-    },
-    {
-      "id": "zibhjb",
-      "title": "US-China Extends Trade Truce; No New Soybean Purchase Commitments",
-      "title_vi": "Mỹ-Trung gia hạn đình chiến thương mại; Không có cam kết mua đậu nành mới",
-      "summary_vi": "Mỹ và Trung Quốc đã gia hạn Thỏa thuận Busan, hiệp định đình chiến thương mại giữa hai nước, đến ngày 10/1 đồng thời xác định hơn 1.600 sản phẩm, bao gồm cả hàng nông sản…",
-      "image": "https://www.northernag.net/wp-content/uploads/2026/09/GetStoredImage-3.jpg",
-      "link": "https://www.northernag.net/us-china-extends-trade-truce-no-new-soybean-purchase-commitments/",
-      "source": "Northern Ag Network",
-      "category": "agri",
-      "published": "2026-09-29 03:36"
     }
   ]
 }

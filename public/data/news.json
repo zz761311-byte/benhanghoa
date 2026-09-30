@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-01 04:02",
+  "updated_at": "2026-10-01 05:01",
   "items": [
+    {
+      "id": "1ll75rs",
+      "title": "Venezuela’s Oil Revival Accelerates as Foreign Companies Return",
+      "title_vi": "Sự hồi sinh dầu mỏ của Venezuela tăng tốc khi các công ty nước ngoài quay trở lại",
+      "summary_vi": "Hàng trăm giám đốc điều hành dầu mỏ đã đổ về thủ đô Caracas của Venezuela trong tuần này để tham dự sự kiện lớn đầu tiên của ngành dầu mỏ ở nước này sau nhiều thập kỷ. Hội nghị thượng đỉnh dầu khí quốc tế Venezuela đang diễn ra 9 tháng sau khi Mỹ bắt giữ Nicolas Maduro, cài đặt một cơ quan quân sự của Mỹ.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-30_bqqg2m543s.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Revival-Accelerates-as-Foreign-Companies-Return.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-01 05:00"
+    },
+    {
+      "id": "dlz2yi",
+      "title": "Crude Oil Pares Early Gains",
+      "title_vi": "Dầu thô tăng sớm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-geopolitical-risks-stockpile-decline-1e019399",
+      "source": "wsj.com",
+      "category": "energy",
+      "published": "2026-10-01 04:19"
+    },
     {
       "id": "nxfoa4",
       "title": "Can Quantum Computing Tame AI&#039;s Energy Appetite?",
@@ -9,7 +31,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-30_lhxg2b6dgz.jpg",
       "link": "https://oilprice.com/Energy/Energy-General/Can-Quantum-Computing-Tame-AIs-Energy-Appetite.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-10-01 04:00"
     },
     {
@@ -167,6 +189,17 @@
       "published": "2026-09-30 23:32"
     },
     {
+      "id": "1vc7mrl",
+      "title": "Why are US Corn Futures falling 3% today?",
+      "title_vi": "Tại sao giá ngô kỳ hạn của Mỹ hôm nay giảm 3%?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/stock-market-news/why-are-us-corn-futures-falling-3-today-93CH-4925608",
+      "source": "Investing.com",
+      "category": "agri",
+      "published": "2026-09-30 23:30"
+    },
+    {
       "id": "m7u9io",
       "title": "Deadly Blast Hits Major Indian Refinery as Fuel Markets Tighten",
       "title_vi": "Vụ nổ chết người tấn công nhà máy lọc dầu lớn của Ấn Độ khi thị trường nhiên liệu thắt chặt",
@@ -176,17 +209,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-09-30 23:07"
-    },
-    {
-      "id": "h5032c",
-      "title": "Oil Price Forecasts Jump as Hormuz Disruption Drags On",
-      "title_vi": "Dự báo giá dầu tăng vọt khi sự gián đoạn Hormuz kéo dài",
-      "summary_vi": "Các nhà phân tích đã tăng mạnh dự báo giá dầu năm 2026 khi hy vọng về việc bình thường hóa nhanh chóng vận chuyển qua eo biển Hormuz mờ dần, với một cuộc thăm dò mới của Reuters đưa giá dầu thô Brent ở mức trung bình 89,05 USD/thùng trong năm nay, tăng từ 85,08 USD chỉ một tháng trước. Tháng 9",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-30_4eyxwg3wlb.jpg",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Price-Forecasts-Jump-as-Hormuz-Disruption-Drags-On.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-09-30 23:00"
     },
     {
       "id": "1bencox",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-09-29 19:24"
-    },
-    {
-      "id": "om6nph",
-      "title": "Sun Bear Coffee Basks in its First Standalone St. Petersburg Cafe",
-      "title_vi": "Sun Bear Coffee đắm mình trong quán cà phê St. Petersburg độc lập đầu tiên",
-      "summary_vi": "Tại “Thành phố Ánh dương” của Florida, St. Petersburg, Sun Bear Specialty Coffee Roasters đang tận hưởng những tia nắng còn lại của mùa tại quán cà phê độc lập đầu tiên.  Khai trương vào cuối tháng 7,...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/09/29/sun-bear-coffee-basks-in-its-first-standalone-st-petersburg-cafe/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-09-29 19:21"
-    },
-    {
-      "id": "1rw1uo6",
-      "title": "China Tariff Cuts Leave U.S. Crop Demand in Question",
-      "title_vi": "Việc cắt giảm thuế quan của Trung Quốc khiến nhu cầu cây trồng của Mỹ bị nghi ngờ",
-      "summary_vi": "Trung Quốc",
-      "image": "https://www.agrolatam.com/files/image/81/81587/6abbac690ce6d_600_315!.jpg?s=5e2e52c1c35f64da721ae4d090066bb2&d=1790684397",
-      "link": "https://www.agrolatam.com/usa/news/china-tariff-cuts-leave-u-s-crop-demand-in-question/",
-      "source": "agrolatam.com",
-      "category": "agri",
-      "published": "2026-09-29 19:21"
     }
   ]
 }

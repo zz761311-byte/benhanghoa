@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01 07:01",
+  "updated_at": "2026-10-01 08:01",
   "items": [
     {
       "id": "l8f06x",
@@ -44,6 +44,17 @@
       "source": "wsj.com",
       "category": "energy",
       "published": "2026-10-01 04:19"
+    },
+    {
+      "id": "1s9fxpi",
+      "title": "AeroPress adds walnut to its coffee press, and $50 to the Premium price",
+      "title_vi": "AeroPress thêm quả óc chó vào máy ép cà phê của mình và thêm 50 USD vào giá Premium",
+      "summary_vi": "AeroPress Premium Walnut bổ sung gỗ nguyên khối vào nhà sản xuất bia bằng thủy tinh và kim loại với giá 249,95 USD. Đây là những gì thay đổi, những gì vẫn quen thuộc và sự chăm sóc bổ sung mà nó cần.",
+      "image": "https://the-gadgeteer.com/wp-content/uploads/2026/09/aeropress-walnut-hero.jpg",
+      "link": "https://the-gadgeteer.com/2026/09/30/aeropress-premium-walnut-coffee-maker/",
+      "source": "The Gadgeteer",
+      "category": "soft",
+      "published": "2026-10-01 04:10"
     },
     {
       "id": "nxfoa4",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "soft",
       "published": "2026-09-29 19:51"
-    },
-    {
-      "id": "a9qool",
-      "title": "Russian Crude Exports Boom Blunted by Kremlin’s Diesel Sales Ban",
-      "title_vi": "Xuất khẩu dầu thô của Nga bùng nổ do lệnh cấm bán dầu diesel của Điện Kremlin",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-29/russia-s-oil-export-windfall-eroded-by-ban-on-diesel-shipments",
-      "source": "Bloomberg.com",
-      "category": "energy",
-      "published": "2026-09-29 19:48"
     }
   ]
 }

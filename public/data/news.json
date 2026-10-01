@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-02 03:01",
+  "updated_at": "2026-10-02 04:01",
   "items": [
+    {
+      "id": "1omv6qa",
+      "title": "Venezuela’s Oil Exports Drop 9% as Freight Costs Bite",
+      "title_vi": "Xuất khẩu dầu của Venezuela giảm 9% do chi phí vận chuyển giảm",
+      "summary_vi": "Xuất khẩu dầu của Venezuela giảm gần 9% trong tháng 9 xuống 1,08 triệu thùng/ngày do chi phí tàu chở dầu tăng cao buộc các thương nhân phải yêu cầu giảm giá mạnh hơn và hàng hóa rời khỏi nước này bị trì hoãn. Các nhà kinh doanh toàn cầu, bao gồm Vitol và Trafigura, đã ép PDVSA đưa ra các điều khoản tốt hơn vì",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-01_dklhbynuay.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Exports-Drop-9-as-Freight-Costs-Bite.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-02 04:00"
+    },
+    {
+      "id": "8pbb8d",
+      "title": "China Halts October Fuel Exports as Global Diesel Crunch Deepens",
+      "title_vi": "Trung Quốc tạm dừng xuất khẩu nhiên liệu trong tháng 10 khi cuộc khủng hoảng diesel toàn cầu ngày càng sâu sắc",
+      "summary_vi": "Các nhà máy lọc dầu lớn của Trung Quốc đã đình chỉ xuất khẩu hầu hết nhiên liệu đã lọc trong tháng 10 do Bắc Kinh ưu tiên an ninh nguồn cung trong nước, loại bỏ một nguồn nhiên liệu diesel, xăng và nhiên liệu máy bay khác khỏi thị trường toàn cầu vốn đã bị hạn chế nghiêm trọng. PetroChina đã hủy bỏ một số loại xăng và",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-01_wn8molazx6.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-October-Fuel-Exports-as-Global-Diesel-Crunch-Deepens.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-02 03:40"
+    },
     {
       "id": "vu3q1e",
       "title": "UK Holds Emergency Talks With U.S. as Diesel Crisis Escalates",
@@ -88,28 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-01 23:00"
-    },
-    {
-      "id": "1v3365",
-      "title": "Burnham Promises “Pragmatic” North Sea Approach",
-      "title_vi": "Burnham hứa hẹn cách tiếp cận Biển Bắc “thực tế”",
-      "summary_vi": "Andy Burnham hứa sẽ “thực tế” về việc khoan dầu ở Biển Bắc trong bài phát biểu tại hội nghị của mình. Những người ở Aberdeen nói rằng không có thời gian nào để mất. Mặc chiếc áo khoác có độ che phủ cao bắt buộc và được bao quanh bởi những công nhân dầu khí mặc trang phục cứng rắn, bộ trưởng đầu tiên của Miatta Fanbulleh",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-01_adxya46jhz.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Burnham-Promises-Pragmatic-North-Sea-Approach.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-01 23:00"
-    },
-    {
-      "id": "tacp2w",
-      "title": "Uranium Hits Record High While Nuclear Stocks Slide",
-      "title_vi": "Uranium đạt mức cao kỷ lục trong khi tồn kho hạt nhân trượt dốc",
-      "summary_vi": "Nếu chỉ nhìn vào giá nhiên liệu, bạn sẽ nghĩ thương mại hạt nhân chưa bao giờ tốt hơn thế. Giá uranium dài hạn đang ở mức 96 USD/lb, một kỷ lục mọi thời đại và tăng ~12% so với đầu năm, vượt qua mức cao 95 USD/lb được thiết lập vào giữa năm 2007 ở đỉnh điểm của cơn sốt uranium gần đây nhất (theo UxC dat).",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-01_uagtoic4kd.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Uranium-Hits-Record-High-While-Nuclear-Stocks-Slide.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-01 22:00"
     },
     {
       "id": "1nndp97",
@@ -253,6 +253,17 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-10-01 09:08"
+    },
+    {
+      "id": "x0k0ti",
+      "title": "US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says",
+      "title_vi": "EIA cho biết sản lượng dầu thô của Mỹ sẽ giảm trong thập kỷ tới do dự báo giá dầu Brent dưới 70 USD",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-crude-output-to-fall-next-decade-on-sub-70-brent-price-forecast-eia-says/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-01 08:46"
     },
     {
       "id": "1ganafi",
@@ -539,17 +550,6 @@
       "source": "Oils & Fats International",
       "category": "macro",
       "published": "2026-09-30 19:10"
-    },
-    {
-      "id": "1ver5pg",
-      "title": "Silver Has Now Lost Nearly Half Its Value. Here’s What Broke the Metals Trade",
-      "title_vi": "Bạc hiện đã mất gần một nửa giá trị. Đây là những gì đã phá vỡ giao dịch kim loại",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/silver-now-lost-nearly-half-113652586.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-09-30 18:36"
     }
   ]
 }

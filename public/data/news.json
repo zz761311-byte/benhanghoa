@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01 11:01",
+  "updated_at": "2026-10-01 12:01",
   "items": [
     {
       "id": "l8f06x",
@@ -176,6 +176,17 @@
       "source": "Robinhood",
       "category": "metal",
       "published": "2026-10-01 00:48"
+    },
+    {
+      "id": "flfffx",
+      "title": "Elevated corn stocks send futures lower",
+      "title_vi": "Dự trữ ngô tăng cao khiến giá kỳ hạn giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmweeknow.com/profitability/elevated-corn-stocks-send-futures-lower/article_00710f12-73aa-42ba-9779-1faf46887044.html",
+      "source": "FarmWeekNow",
+      "category": "agri",
+      "published": "2026-10-01 00:45"
     },
     {
       "id": "gwklmf",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "soft",
       "published": "2026-09-29 21:08"
-    },
-    {
-      "id": "1h3hhhg",
-      "title": "Natural Gas Slides on Milder Temperature Outlook",
-      "title_vi": "Khí tự nhiên trượt dốc với triển vọng nhiệt độ ôn hòa hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/natural-gas-slides-on-milder-temperature-outlook-b27ac1c4",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-09-29 20:42"
     }
   ]
 }

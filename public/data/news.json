@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-10-01 21:01",
+  "updated_at": "2026-10-01 22:01",
   "items": [
+    {
+      "id": "tacp2w",
+      "title": "Uranium Hits Record High While Nuclear Stocks Slide",
+      "title_vi": "Uranium đạt mức cao kỷ lục trong khi tồn kho hạt nhân trượt dốc",
+      "summary_vi": "Nếu chỉ nhìn vào giá nhiên liệu, bạn sẽ nghĩ thương mại hạt nhân chưa bao giờ tốt hơn thế. Giá uranium dài hạn đang ở mức 96 USD/lb, một kỷ lục mọi thời đại và tăng ~12% so với đầu năm, vượt qua mức cao 95 USD/lb được thiết lập vào giữa năm 2007 ở đỉnh điểm của cơn sốt uranium gần đây nhất (theo UxC dat).",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-01_uagtoic4kd.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Uranium-Hits-Record-High-While-Nuclear-Stocks-Slide.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-01 22:00"
+    },
+    {
+      "id": "1nndp97",
+      "title": "Today is the First Official UN International Coffee Day. Guess Which One Country Voted Against It",
+      "title_vi": "Hôm nay là Ngày Cà phê Quốc tế chính thức đầu tiên của Liên hợp quốc. Đoán xem quốc gia nào đã bỏ phiếu chống lại nó",
+      "summary_vi": "Hôm nay, ngày 1 tháng 10, đánh dấu Ngày Quốc tế Cà phê đầu tiên được Liên Hợp Quốc chính thức công nhận. Vào ngày 10/3, Đại hội đồng Liên hợp quốc đã chính thức chỉ định ngày 1/10 là Ngày Quốc tế Cà phê...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/10/01/today-is-the-first-official-un-international-coffee-day-guess-which-one-country-voted-against-it/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-10-01 21:40"
+    },
+    {
+      "id": "1lpk0c5",
+      "title": "India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices",
+      "title_vi": "Ấn Độ nhấn mạnh rằng sự hỗn loạn trong vận chuyển, chứ không phải nguồn cung, đang khiến giá dầu tăng cao",
+      "summary_vi": "Bộ trưởng Dầu mỏ Ấn Độ Hardeep Singh Puri cho biết giá dầu cao không phải vì thế giới thiếu dầu mà vì các tuyến thương mại đã bị gián đoạn nghiêm trọng, đẩy cước phí vận chuyển và các chi phí khác tăng cao. “Thế giới không thiếu nguồn cung, thế giới có 104 triệu thùng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-01_eft7s2exor.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Emphasizes-That-Shipping-Chaos-Not-Supply-Is-Driving-High-Oil-Prices.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-01 21:30"
+    },
     {
       "id": "1bsn1hv",
       "title": "U.S. Threatens Diesel Export Ban Unless Europe Releases Stockpiles",
@@ -11,6 +44,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-01 21:00"
+    },
+    {
+      "id": "1y3im07",
+      "title": "US Fuel Economy Rollback Extends Autocatalyst Demand for PGMs",
+      "title_vi": "Việc khôi phục tiết kiệm nhiên liệu của Hoa Kỳ làm tăng nhu cầu về chất xúc tác tự động đối với PGM",
+      "summary_vi": "Việc khôi phục nền kinh tế nhiên liệu của Hoa Kỳ làm tăng nhu cầu về chất xúc tác ô tô, hỗ trợ PGM vì các loại xe chạy bằng xăng và hybrid vẫn giữ vai trò lớn hơn trong cơ cấu hỗn hợp của Hoa Kỳ.",
+      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6abe6194343ca31645d47dbf_Highway%20Cars.png",
+      "link": "https://www.cruxinvestor.com/posts/us-fuel-economy-rollback-extends-autocatalyst-demand-for-pgms",
+      "source": "Crux Investor",
+      "category": "energy",
+      "published": "2026-10-01 20:58"
+    },
+    {
+      "id": "1jltprk",
+      "title": "America’s Copper Hoard Stokes Fear of a Supply Crunch",
+      "title_vi": "Kho dự trữ đồng của Mỹ gây lo ngại về tình trạng khan hiếm nguồn cung",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/americas-copper-hoard-stokes-fear-of-a-supply-crunch-0097b560",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-10-01 20:30"
     },
     {
       "id": "1ta8ap4",
@@ -44,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-01 19:30"
+    },
+    {
+      "id": "13k6o6n",
+      "title": "Swine finishing feed costs: Recent trends and outlook",
+      "title_vi": "Chi phí thức ăn cho heo giai đoạn cuối: Xu hướng và triển vọng gần đây",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nationalhogfarmer.com/farming-business-management/swine-finishing-feed-costs-recent-trends-and-outlook",
+      "source": "National Hog Farmer",
+      "category": "agri",
+      "published": "2026-10-01 18:30"
     },
     {
       "id": "nv5p3g",
@@ -101,26 +167,15 @@
       "published": "2026-10-01 16:00"
     },
     {
-      "id": "1gn8jcb",
-      "title": "Pakistan Weighs Direct LNG Imports for Power Plants to Ease Energy Crisis",
-      "title_vi": "Pakistan cân nhắc nhập khẩu LNG trực tiếp cho các nhà máy điện để giảm bớt khủng hoảng năng lượng",
-      "summary_vi": "Chính phủ Pakistan đang xem xét cho phép các nhà máy điện và công ty tư nhân nhập khẩu trực tiếp LNG mua trên thị trường giao ngay do nước này đang phải vật lộn với cuộc khủng hoảng năng lượng kể từ khi chiến tranh Iran làm tê liệt nguồn cung cấp dài hạn của Qatar. Bộ Năng lượng Pakistan đã đề xuất dễ dàng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-01_elbe0ch5wr.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Weighs-Direct-LNG-Imports-for-Power-Plants-to-Ease-Energy-Crisis.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-01 15:00"
-    },
-    {
-      "id": "1uo16mx",
-      "title": "Trump Admits Diesel U.S. Export Ban Could Raise Gasoline Prices",
-      "title_vi": "Trump thừa nhận lệnh cấm xuất khẩu dầu diesel của Mỹ có thể làm tăng giá xăng",
-      "summary_vi": "Tổng thống Mỹ Donald Trump cho biết vào cuối ngày thứ Tư rằng lệnh cấm xuất khẩu dầu diesel của Mỹ có thể có “tác động tiêu cực đến xăng dầu”, mặc dù ông không loại trừ động thái như vậy từ Chính quyền. Tổng thống nói với các phóng viên tại Phòng Bầu dục rằng ông và Chính quyền c",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-01_hprxypvcuv.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Admits-Diesel-US-Export-Ban-Could-Raise-Gasoline-Prices.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-01 14:00"
+      "id": "1xq2o0c",
+      "title": "Zero-Sugar Soft Drinks Are Equivalent to Water for Weight Loss",
+      "title_vi": "Nước giải khát không đường tương đương với nước để giảm cân",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.technologynetworks.com/analysis/news/zero-sugar-soft-drinks-are-equivalent-to-water-for-weight-loss-417021",
+      "source": "Technology Networks",
+      "category": "soft",
+      "published": "2026-10-01 15:33"
     },
     {
       "id": "nmjrvm",
@@ -495,61 +550,6 @@
       "source": "The Shortcut | Matt Swider",
       "category": "metal",
       "published": "2026-09-30 16:52"
-    },
-    {
-      "id": "1n9p82l",
-      "title": "Silver Price Forecast: XAG/USD trades flat around $61.50, US data awaited",
-      "title_vi": "Dự báo giá bạc: XAG/USD giao dịch ổn định quanh mức 61,50 USD, dữ liệu của Mỹ đang được chờ đợi",
-      "summary_vi": "Giá bạc (XAG/USD) giao dịch trong phạm vi hẹp ở mức khoảng 61,45 USD trong phiên giao dịch châu Âu vào thứ Tư. Kim loại trắng củng cố khi các nhà đầu tư chờ đợi dữ liệu Chỉ số giá chi tiêu tiêu dùng cá nhân (PCE) của Hoa Kỳ (US) cho tháng 8, sẽ được công bố lúc 12:30 GMT.",
-      "image": "https://editorial.fxsstatic.com/images/i/Commodities_Silver-1_Medium.jpg",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-flat-around-6150-us-data-awaited-202609300800",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-09-30 15:00"
-    },
-    {
-      "id": "1c113rj",
-      "title": "Dollar Jumps to 8-Week High on Fed Rate-Hike Bets",
-      "title_vi": "Đồng đô la tăng lên mức cao nhất trong 8 tuần khi đặt cược tăng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/economy/central-banking/dollar-jumps-to-8-week-high-as-fed-rate-hike-bets-outweigh-lower-oil-prices-92e6cf72",
-      "source": "WSJ",
-      "category": "macro",
-      "published": "2026-09-30 11:00"
-    },
-    {
-      "id": "dodzc2",
-      "title": "U.S. sugar supply faces uncertainty from drought, pests",
-      "title_vi": "Nguồn cung đường của Mỹ đối mặt với sự bất ổn do hạn hán và sâu bệnh",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/sugar-beets/record-high-tier-2-sugar-imports-expected-to-boost-u-s-supply",
-      "source": "farmprogress.com",
-      "category": "soft",
-      "published": "2026-09-30 09:45"
-    },
-    {
-      "id": "1xba8sx",
-      "title": "Price to book forward of PLATINUM STUDIOS INC – OTC:PDOS",
-      "title_vi": "Giá đặt trước của PLATINUM STUDIOS INC – OTC:PDOS",
-      "summary_vi": "Giá đặt số liệu thống kê chuyển tiếp, hàng quý và hàng năm của PLATINUM STUDIOS INC.",
-      "image": "https://static.tradingview.com/static/images/financials-social.png",
-      "link": "https://www.tradingview.com/symbols/OTC-PDOS/financials-statistics-and-ratios/price-book-fwd/",
-      "source": "TradingView",
-      "category": "metal",
-      "published": "2026-09-30 07:17"
-    },
-    {
-      "id": "iymydd",
-      "title": "Tariffs on Canadian steel and aluminum still a concern for local metal fabricating company - NBC 5 Dallas-Fort Worth",
-      "title_vi": "Thuế quan đối với thép và nhôm Canada vẫn là mối lo ngại đối với công ty chế tạo kim loại địa phương - NBC 5 Dallas-Fort Worth",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nbcdfw.com/news/local/tariffs-on-canadian-steel-and-aluminum-still-a-concern-for-local-metal-fabricating-company/4084456/",
-      "source": "NBC 5 Dallas-Fort Worth",
-      "category": "metal",
-      "published": "2026-09-30 06:01"
     }
   ]
 }

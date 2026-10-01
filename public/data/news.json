@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01 10:01",
+  "updated_at": "2026-10-01 11:01",
   "items": [
     {
       "id": "l8f06x",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-10-01 04:00"
+    },
+    {
+      "id": "jllxv6",
+      "title": "Corn Drags Down Grains on 2.1 BB Stocks Surprise: Will $5 Hold?",
+      "title_vi": "Ngô kéo giá ngũ cốc giảm do cổ phiếu BB có giá 2,1 Điều bất ngờ: Liệu 5 đô la có giữ được không?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/corn-drags-down-grains-2-1-bb-stocks-surprise-will-5-hold",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-10-01 03:25"
     },
     {
       "id": "tcauz6",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-09-29 20:42"
-    },
-    {
-      "id": "1vr1xge",
-      "title": "Lindt cuts sales forecast as heatwaves dampen demand for chocolate",
-      "title_vi": "Lindt cắt giảm dự báo doanh số bán hàng do đợt nắng nóng làm giảm nhu cầu sô cô la",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/retail-consumer/lindt-cuts-2026-growth-forecast-weak-demand-heatwave-weigh-sales-2026-09-29/",
-      "source": "Reuters",
-      "category": "soft",
-      "published": "2026-09-29 19:51"
     }
   ]
 }

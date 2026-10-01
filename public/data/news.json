@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-01 19:01",
+  "updated_at": "2026-10-01 20:01",
   "items": [
+    {
+      "id": "1waney3",
+      "title": "Indian Refiners Seek Tankers for Hormuz Oil",
+      "title_vi": "Các nhà máy lọc dầu Ấn Độ tìm kiếm tàu ​​chở dầu Hormuz",
+      "summary_vi": "Các công ty lọc dầu Ấn Độ đang tìm thuê tàu chở dầu để vận chuyển dầu ra khỏi Vịnh Ba Tư qua eo biển Hormuz, theo báo cáo của Bloomberg trích dẫn các nguồn giấu tên. Hai công ty vận tải biển đã thắng thầu dầu ở Vịnh Ba Tư, các nguồn tin nói với Bloomberg, trong khi một công ty khác",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-01_ps4hbsixwk.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Seek-Tankers-for-Hormuz-Oil.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-01 19:30"
+    },
     {
       "id": "nv5p3g",
       "title": "Three Tankers Struck by Unknown Projectiles in Strait of Hormuz",
@@ -33,6 +44,17 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-10-01 16:13"
+    },
+    {
+      "id": "1fu0nxa",
+      "title": "Opinion | If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash",
+      "title_vi": "Ý kiến ​​| Nếu bạn nghĩ giá dầu tăng là xấu, hãy chờ đợi sự sụp đổ không thể tránh khỏi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/10/01/opinion/gas-prices-oil-crash.html",
+      "source": "nytimes.com",
+      "category": "energy",
+      "published": "2026-10-01 16:01"
     },
     {
       "id": "1youo6u",
@@ -112,17 +134,6 @@
       "published": "2026-10-01 07:00"
     },
     {
-      "id": "1eqk9i9",
-      "title": "EU Gas Crunch Forces Rethink of Methane Rules",
-      "title_vi": "Lực lượng khủng hoảng khí đốt của EU suy nghĩ lại về các quy tắc khí mê-tan",
-      "summary_vi": "Ủy ban Châu Âu đã báo hiệu rằng họ sẽ trì hoãn việc áp dụng quy định về khí mê-tan gây tranh cãi trong bối cảnh khủng hoảng khí đốt kéo dài do các cuộc chiến tranh ở Ukraine và Trung Đông. Điều đó có thể không đủ để bù đắp những ảnh hưởng của cuộc khủng hoảng đó - bởi vì các quy định",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-30_r8t7iseudw.jpg",
-      "link": "https://oilprice.com/Energy/Natural-Gas/EU-Gas-Crunch-Forces-Rethink-of-Methane-Rules.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-01 06:00"
-    },
-    {
       "id": "dlz2yi",
       "title": "Crude Oil Pares Early Gains",
       "title_vi": "Dầu thô tăng sớm",
@@ -198,6 +209,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-01 02:38"
+    },
+    {
+      "id": "uv5e2c",
+      "title": "Gold price will break $5,000/oz in H2 2027, and silver’s run to $120 was driven by more than hype – Morgan Stanley’s Gower",
+      "title_vi": "Giá vàng sẽ phá vỡ mức 5.000 USD/oz vào nửa cuối năm 2027 và việc bạc tăng lên mức 120 USD không chỉ do sự cường điệu hóa - Gower của Morgan Stanley",
+      "summary_vi": "(Kitco News) - Giá vàng hiện tại có thể chịu áp lực, nhưng nhu cầu của ETF và ngân hàng trung ương vẫn mạnh và kim loại màu vàng sẽ giao dịch trở lại trên 5000 USD/ounce trong vòng một năm, theo Amy Gower, người đứng đầu bộ phận kim loại và chiến lược khai thác tại Morgan Stanley. Trong một cuộc phỏng vấn gần đây với CNBC, Gower thừa nhận",
+      "image": "https://image-api.prod.kitco.com/image/f427a527-3459-48b6-99fe-f53d4542ba9a.png?top=0.15981657608696&left=0&width=1672&height=940.68036684783&scale_width=1920&token=a06f03e042396aacf081dc75a9af6f80061006ae6270139babdf98e30a0db923",
+      "link": "https://www.kitco.com/news/article/2026-09-30/gold-price-will-break-5000oz-h2-2027-and-silvers-run-120-was-driven-more",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-10-01 01:48"
     },
     {
       "id": "1dxa375",
@@ -528,28 +550,6 @@
       "source": "Marine Link",
       "category": "energy",
       "published": "2026-09-30 04:10"
-    },
-    {
-      "id": "1l8icpq",
-      "title": "National Coffee Day brings deals, giveaways as coffee prices rise",
-      "title_vi": "Ngày Cà phê Quốc gia mang đến nhiều ưu đãi, quà tặng khi giá cà phê tăng",
-      "summary_vi": "Cho dù đó là cà phê espresso, macchiato hay latte, Ngày Cà phê Quốc gia là cơ hội để những người yêu thích cà phê ăn mừng ly cà phê yêu thích của họ.",
-      "image": "https://wset.com/resources/media2/16x9/612/1320/0x1/90/922e843e-3a9a-40d5-8c20-8bd6eb50c423-Screenshot20260929164119.png",
-      "link": "https://wset.com/news/local/national-coffee-day-brings-deals-giveaways-as-coffee-prices-rise-september-29-2026",
-      "source": "WSET",
-      "category": "soft",
-      "published": "2026-09-30 04:09"
-    },
-    {
-      "id": "1h3hhhg",
-      "title": "Natural Gas Inches Back Toward $3/mmBtu",
-      "title_vi": "Khí đốt tự nhiên quay trở lại mức 3 USD/mmBtu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/natural-gas-slides-on-milder-temperature-outlook-b27ac1c4",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-09-30 02:40"
     }
   ]
 }

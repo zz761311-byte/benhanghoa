@@ -1,5 +1,5 @@
 {
- "capNhat": "2026-10-01T21:48:51.175Z",
+ "capNhat": "2026-10-01T22:00:37.845Z",
  "nguon": "Yahoo Finance",
  "soMatHang": 18,
  "tyGia": {
@@ -732,7 +732,7 @@
     "gia": 4178.5,
     "lechSoVoiHopDong": 0.7,
     "nguon": "gold-api.com",
-    "capNhat": "2026-10-01T21:48:21Z"
+    "capNhat": "2026-10-01T22:00:21Z"
    }
   },
   "bac": {
@@ -789,21 +789,21 @@
     "gia": 61.115,
     "lechSoVoiHopDong": 0.38,
     "nguon": "gold-api.com",
-    "capNhat": "2026-10-01T21:48:50Z"
+    "capNhat": "2026-10-01T22:00:20Z"
    }
   },
   "dong": {
-   "gia": 6.5765,
+   "gia": 6.576,
    "dongCuaTruoc": 6.559,
-   "doi": 0.0175,
-   "doiPhanTram": 0.27,
+   "doi": 0.017,
+   "doiPhanTram": 0.26,
    "caoTrongNgay": 6.646,
    "thapTrongNgay": 6.509,
    "cao52Tuan": 6.83,
    "thap52Tuan": 4.834,
-   "doiMotTuan": -2.11,
-   "doiMotThang": 1.08,
-   "doiMotNam": 36.15,
+   "doiMotTuan": -2.12,
+   "doiMotThang": 1.07,
+   "doiMotNam": 36.13,
    "khoiLuong30Phien": 114000,
    "tienTe": "USD",
    "tenHopDong": "Copper Dec 26",
@@ -897,7 +897,7 @@
     "gia": 1724,
     "lechSoVoiHopDong": 0.53,
     "nguon": "gold-api.com",
-    "capNhat": "2026-10-01T21:48:23Z"
+    "capNhat": "2026-10-01T22:00:23Z"
    }
   },
   "nhom": {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01 16:01",
+  "updated_at": "2026-10-01 16:03",
   "items": [
     {
       "id": "1youo6u",
@@ -9,7 +9,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-01_yripckc37o.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Taiwan-Allocates-13-Billion-to-Shield-Consumers-From-High-Energy-Costs.html",
       "source": "OilPrice",
-      "category": "macro",
+      "category": "metal",
       "published": "2026-10-01 16:00"
     },
     {
@@ -299,6 +299,17 @@
       "published": "2026-09-30 22:01"
     },
     {
+      "id": "iow132",
+      "title": "September 2026 Metals Options Report",
+      "title_vi": "Báo cáo quyền chọn kim loại tháng 9 năm 2026",
+      "summary_vi": "Phân tích CVOL vàng thay đổi như thế nào, tính thanh khoản bạc ổn định và tình trạng thiếu đồng cơ cấu đang xác định các thông số rủi ro trên các đường cong kim loại trong Báo cáo quyền chọn kim loại tháng 9 năm 2026 của chúng tôi.",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/newsletters/metals-update/images/2026/may-metals-options-update-940x600.jpg",
+      "link": "https://www.cmegroup.com/newsletters/metals-options-update/metals-options-report-september-2026.html",
+      "source": "CME Group",
+      "category": "metal",
+      "published": "2026-09-30 21:59"
+    },
+    {
       "id": "1gflm2e",
       "title": "Acreage battle could support grain prices into 2027",
       "title_vi": "Cuộc chiến diện tích có thể hỗ trợ giá ngũ cốc vào năm 2027",
@@ -508,6 +519,17 @@
       "published": "2026-09-30 04:09"
     },
     {
+      "id": "1h3hhhg",
+      "title": "Natural Gas Inches Back Toward $3/mmBtu",
+      "title_vi": "Khí đốt tự nhiên quay trở lại mức 3 USD/mmBtu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/natural-gas-slides-on-milder-temperature-outlook-b27ac1c4",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-09-30 02:40"
+    },
+    {
       "id": "1ymly3r",
       "title": "Get ready for tariffs to set off another roller coaster ride in metal markets, Goldman says",
       "title_vi": "Goldman nói: Hãy sẵn sàng cho thuế quan để bắt đầu một chuyến tàu lượn siêu tốc khác trên thị trường kim loại",
@@ -528,28 +550,6 @@
       "source": "TicketNews",
       "category": "metal",
       "published": "2026-09-30 01:43"
-    },
-    {
-      "id": "1hmwhob",
-      "title": "Staying Bullish On The HGER ETF (NYSE:HGER)",
-      "title_vi": "Tiếp tục lạc quan về HGER ETF (NYSE:HGER)",
-      "summary_vi": "Harbor Commodity All-Weather Strategy ETF vẫn đang trong xu hướng tăng giá mạnh mẽ, đạt mức cao mới mọi thời đại vào tháng 8 và tháng 9 năm 2026. Nhấp để biết thêm về HGER.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2206372695/image_2206372695.jpg?io=getty-c-w1536",
-      "link": "https://seekingalpha.com/article/4950759-staying-bullish-on-hger-etf?source",
-      "source": "Seeking Alpha",
-      "category": "macro",
-      "published": "2026-09-30 00:50"
-    },
-    {
-      "id": "841hev",
-      "title": "Oil prices fall on signs Middle East crude flows recovering",
-      "title_vi": "Giá dầu giảm do dấu hiệu dòng dầu thô Trung Đông phục hồi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-second-session-003313319.html",
-      "source": "finance.yahoo.com",
-      "category": "energy",
-      "published": "2026-09-30 00:33"
     }
   ]
 }

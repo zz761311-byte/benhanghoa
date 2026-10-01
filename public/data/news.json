@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-10-01 12:01",
+  "updated_at": "2026-10-01 13:01",
   "items": [
+    {
+      "id": "b4izam",
+      "title": "Brent Tumbles to $96 as Gulf Oil Flows Bounce Back",
+      "title_vi": "Dầu Brent giảm xuống còn 96 USD khi dòng dầu vùng Vịnh phục hồi trở lại",
+      "summary_vi": "Giá dầu thô giảm rõ rệt vào thứ Tư và duy trì ở mức đó sớm hơn trong ngày hôm nay, sau khi có bước nhảy vọt vững chắc trong tháng 9. Sự sụt giảm này là do các báo cáo từ JP Morgan, Goldman và Kpler cho thấy dòng dầu ra khỏi Vịnh Ba Tư hầu như đã quay trở lại thời kỳ trước chiến tranh.",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tumbles-to-96-as-Gulf-Oil-Flows-Bounce-Back.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-01 12:17"
+    },
+    {
+      "id": "nmjrvm",
+      "title": "Copper Steadies With Focus on Supply During China Holiday",
+      "title_vi": "Đồng ổn định tập trung vào nguồn cung trong kỳ nghỉ lễ ở Trung Quốc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-01/copper-steadies-with-focus-on-supply-during-china-holiday",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-10-01 09:08"
+    },
+    {
+      "id": "1ganafi",
+      "title": "Gold Steady as Softer Inflation Data Tempers Fed Rate-Hike Bets",
+      "title_vi": "Vàng ổn định khi dữ liệu lạm phát yếu hơn thúc đẩy đặt cược tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steady-softer-inflation-data-000816044.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-10-01 07:08"
+    },
     {
       "id": "l8f06x",
       "title": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem",
@@ -187,17 +220,6 @@
       "source": "FarmWeekNow",
       "category": "agri",
       "published": "2026-10-01 00:45"
-    },
-    {
-      "id": "gwklmf",
-      "title": "U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility",
-      "title_vi": "Sản lượng dầu khí của Mỹ tăng bất chấp biến động giá dầu cực lớn",
-      "summary_vi": "Sản lượng dầu và khí đốt của Mỹ đã tăng trong số các công ty được Fed Dallas khảo sát trong quý 3, nhưng giá dầu thô dao động từ 67 USD lên 107 USD/thùng trong vòng chưa đầy ba tháng đã khiến các nhà sản xuất phải vật lộn để quyết định giá sẽ đi về đâu. Sản lượng dầu khí tăng trong quý giữa các hoạt động thăm dò",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-30_47jnlbzdtt.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-and-Gas-Production-Climbs-Despite-Extreme-Oil-Price-Volatility.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-01 00:31"
     },
     {
       "id": "8vuo3s",
@@ -528,28 +550,6 @@
       "source": "Reuters",
       "category": "soft",
       "published": "2026-09-29 22:08"
-    },
-    {
-      "id": "y73rrd",
-      "title": "Analysis-Weather, not price, to drive Brazil mills on sugar production",
-      "title_vi": "Phân tích-Thời tiết, chứ không phải giá cả, thúc đẩy các nhà máy Brazil sản xuất đường",
-      "summary_vi": "Bởi Marcelo Teixeira NEW YORK, ngày 29 tháng 9 (Reuters) - Các nhà chế biến mía ở Brazil, nhà sản xuất đường lớn nhất thế giới và lớn thứ hai về ethanol, sẽ chú ý đến thời tiết hơn là",
-      "image": "https://hermes.media.transform.aol.com/66f8afbe00f0001584e0c67a881427a8de40c231/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/09/29/6114a315-5b45-37b5-a3ce-fec37da25d3d/2b3e2e35-3ce2-4aaa-9881-b1f5dabe6b55.jpg",
-      "link": "https://www.aol.com/articles/analysis-weather-not-price-drive-142854000.html",
-      "source": "AOL.com",
-      "category": "soft",
-      "published": "2026-09-29 21:30"
-    },
-    {
-      "id": "1a7jq5m",
-      "title": "Lilly touts Foundayo advantage over Novo's Ozempic pill in diabetes analysis",
-      "title_vi": "Lilly ca ngợi lợi thế của Foundayo so với viên thuốc Ozempic của Novo trong phân tích bệnh tiểu đường",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/legal/litigation/lilly-touts-foundayo-advantage-over-novos-ozempic-pill-diabetes-analysis-2026-09-29/",
-      "source": "Reuters",
-      "category": "soft",
-      "published": "2026-09-29 21:08"
     }
   ]
 }

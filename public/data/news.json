@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-02 00:01",
+  "updated_at": "2026-10-02 01:01",
   "items": [
+    {
+      "id": "g56mcj",
+      "title": "Amazon Secures 20 Years of Nuclear Power From Constellation",
+      "title_vi": "Amazon đảm bảo 20 năm sử dụng năng lượng hạt nhân từ Chòm sao",
+      "summary_vi": "Nhà phân tích Carly Davenport của Goldman coi thỏa thuận năng lượng hạt nhân của Amazon với Constellation Energy là \"tích cực cho ngành công nghiệp nói chung\" khi chủ đề \"Tăng sức mạnh cho nước Mỹ\" và chủ đề hạt nhân tiếp tục khi Big Tech tranh giành dạng năng lượng ổn định sạch nhất để cung cấp năng lượng cho chip trung tâm dữ liệu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-01_7r1sxlnhco.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Amazon-Secures-20-Years-of-Nuclear-Power-From-Constellation.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-02 01:00"
+    },
+    {
+      "id": "ahl1og",
+      "title": "BLM Opens 35,000 California Acres to December Oil and Gas Lease Sale",
+      "title_vi": "BLM mở 35.000 mẫu đất California để bán hợp đồng cho thuê dầu khí vào tháng 12",
+      "summary_vi": "Cục Quản lý Đất đai sẽ cung cấp khoảng 35.000 mẫu Anh ở California để cho thuê dầu khí vào ngày 1 tháng 12, đưa 43 lô đất ở các quận Kern, Kings, Fresno và San Luis Obispo vào khối đấu giá, cơ quan này cho biết hôm thứ Năm. Việc bán hàng diễn ra sau các quyết định của BLM vào tháng 6 rằng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-01_vtp9bshj0a.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/BLM-Opens-35000-California-Acres-to-December-Oil-and-Gas-Lease-Sale.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-02 00:30"
+    },
     {
       "id": "1ow47zu",
       "title": "Canada Fast-Tracks 1 Million-Bpd Pacific Link Oil Pipeline to Asia",
@@ -11,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-01 23:30"
+    },
+    {
+      "id": "ly5k32",
+      "title": "Keurig Dr Pepper Taps New Head for Global Coffee Co., Russ Torres",
+      "title_vi": "Keurig Dr Pepper có người đứng đầu mới cho Global Coffee Co., Russ Torres",
+      "summary_vi": "Keurig Dr Pepper (KDP) đã bổ nhiệm Kimberly-Clark Chủ tịch và COO Russ Torres để lãnh đạo hoạt động kinh doanh cà phê toàn cầu khổng lồ của mình trước kế hoạch chia tách công ty vào đầu năm 2027. Torres sẽ tham gia...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/10/01/keurig-dr-pepper-taps-new-head-for-global-coffee-co-russ-torres/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-10-01 23:04"
     },
     {
       "id": "13kcjud",
@@ -112,17 +145,6 @@
       "published": "2026-10-01 20:30"
     },
     {
-      "id": "1ta8ap4",
-      "title": "India&#039;s Power Shortages Jump to Three-Year High",
-      "title_vi": "Tình trạng thiếu điện ở Ấn Độ lên mức cao nhất trong ba năm",
-      "summary_vi": "Sự thiếu hụt điện năng của Ấn Độ đã tăng lên mức cao nhất trong ba năm vào tháng 9 do El Niño và nhu cầu điện công nghiệp thúc đẩy mức tiêu thụ cao hơn. Tháng trước, tình trạng thiếu điện ở Ấn Độ đã tăng lên 560 triệu kilowatt giờ (kWh). Đây là mức cao nhất kể từ tháng 8/2023, Reuters",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-01_oxmhvvedwi.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Power-Shortages-Jump-to-Three-Year-High.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-01 20:30"
-    },
-    {
       "id": "1mpvo1j",
       "title": "Dollar Rises to 2-Month High on Growing Prospect of October U.S. Rate-Rise",
       "title_vi": "Đồng đô la tăng lên mức cao nhất trong 2 tháng nhờ triển vọng tăng trưởng trong tháng 10. Tỷ giá tăng ở Mỹ",
@@ -132,17 +154,6 @@
       "source": "wsj.com",
       "category": "macro",
       "published": "2026-10-01 19:54"
-    },
-    {
-      "id": "1waney3",
-      "title": "Indian Refiners Seek Tankers for Hormuz Oil",
-      "title_vi": "Các nhà máy lọc dầu Ấn Độ tìm kiếm tàu ​​chở dầu Hormuz",
-      "summary_vi": "Các công ty lọc dầu Ấn Độ đang tìm thuê tàu chở dầu để vận chuyển dầu ra khỏi Vịnh Ba Tư qua eo biển Hormuz, theo báo cáo của Bloomberg trích dẫn các nguồn giấu tên. Hai công ty vận tải biển đã thắng thầu dầu ở Vịnh Ba Tư, các nguồn tin nói với Bloomberg, trong khi một công ty khác",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-01_ps4hbsixwk.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Seek-Tankers-for-Hormuz-Oil.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-01 19:30"
     },
     {
       "id": "1u751k4",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-09-30 18:29"
-    },
-    {
-      "id": "10vf6yg",
-      "title": "Commodity prices rise again amid geopolitical tensions and supply cuts",
-      "title_vi": "Giá hàng hóa tăng trở lại trong bối cảnh căng thẳng địa chính trị và nguồn cung cắt giảm",
-      "summary_vi": "Thị trường hàng hóa công nghiệp được đặc trưng bởi căng thẳng địa chính trị gia tăng, cắt giảm nguồn cung và bất ổn thương mại trong quý 3 năm 2026.",
-      "image": "https://diarioeuskadi.eus/media/2026/09/lehengaien-prezioak-gora-doaz-berriro-tentsio-geopolitiko-eta-eskaintza-murrizketen-eraginez.webp",
-      "link": "https://diarioeuskadi.eus/en/durangaldea/general/commodity-prices-rise-again-amid-geopolitical-tensions-and-supply-cuts",
-      "source": "diarioeuskadi.eus",
-      "category": "macro",
-      "published": "2026-09-30 17:46"
     }
   ]
 }

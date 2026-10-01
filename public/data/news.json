@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-01 14:01",
+  "updated_at": "2026-10-01 15:01",
   "items": [
+    {
+      "id": "1gn8jcb",
+      "title": "Pakistan Weighs Direct LNG Imports for Power Plants to Ease Energy Crisis",
+      "title_vi": "Pakistan cân nhắc nhập khẩu LNG trực tiếp cho các nhà máy điện để giảm bớt khủng hoảng năng lượng",
+      "summary_vi": "Chính phủ Pakistan đang xem xét cho phép các nhà máy điện và công ty tư nhân nhập khẩu trực tiếp LNG mua trên thị trường giao ngay do nước này đang phải vật lộn với cuộc khủng hoảng năng lượng kể từ khi chiến tranh Iran làm tê liệt nguồn cung cấp dài hạn của Qatar. Bộ Năng lượng Pakistan đã đề xuất dễ dàng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-01_elbe0ch5wr.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Weighs-Direct-LNG-Imports-for-Power-Plants-to-Ease-Energy-Crisis.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-01 15:00"
+    },
     {
       "id": "1uo16mx",
       "title": "Trump Admits Diesel U.S. Export Ban Could Raise Gasoline Prices",
@@ -90,6 +101,17 @@
       "published": "2026-10-01 04:19"
     },
     {
+      "id": "16x1lpn",
+      "title": "Resolving the Alaska copper paradox",
+      "title_vi": "Giải quyết nghịch lý đồng Alaska",
+      "summary_vi": "Alaska có trữ lượng đồng lớn, chất lượng cao nhưng hầu như không sản xuất được; giá kỷ lục, lãi suất mới có thể làm thay đổi phương trình. Khu phức hợp nhà máy gỗ rộng lớn bên sườn Dãy núi Wrangell là một lời nhắc nhở lâu dài rằng hơn một thế kỷ trước, một phát hiện phi thường về đồng ở Alaska đã trùng hợp với một cuộc cách mạng.",
+      "image": "https://www.miningnewsnorth.com/home/cms_data/dfault/photos/stories/id/8/8/9888/s_top",
+      "link": "https://www.miningnewsnorth.com/story/2026/10/02/news/resolving-the-alaska-copper-paradox/9888.html",
+      "source": "North of 60 Mining News",
+      "category": "metal",
+      "published": "2026-10-01 04:17"
+    },
+    {
       "id": "1s9fxpi",
       "title": "AeroPress adds walnut to its coffee press, and $50 to the Premium price",
       "title_vi": "AeroPress thêm quả óc chó vào máy ép cà phê của mình và thêm 50 USD vào giá Premium",
@@ -165,17 +187,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-01 02:38"
-    },
-    {
-      "id": "17tc2ga",
-      "title": "Guyana’s Oil Riches Are Transforming Its Economy at Breakneck Speed",
-      "title_vi": "Nguồn dầu mỏ dồi dào của Guyana đang chuyển đổi nền kinh tế với tốc độ chóng mặt",
-      "summary_vi": "Guyana đang bắt đầu thu được lợi nhuận đáng kể từ hoạt động khai thác dầu mỏ đang mở rộng nhanh chóng và dự kiến ​​sẽ còn có nhiều lợi nhuận hơn nữa. Dầu được phát hiện lần đầu tiên tại Lô Stabroek ngoài khơi vào năm 2015, quá trình phát triển bắt đầu ngay sau đó và bắt đầu sản xuất vào tháng 12 năm 2019. Điều này đã khiến cho",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-30_pm3sg4lpwn.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Riches-Are-Transforming-Its-Economy-at-Breakneck-Speed.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-01 02:00"
     },
     {
       "id": "1dxa375",
@@ -539,17 +550,6 @@
       "source": "finance.yahoo.com",
       "category": "energy",
       "published": "2026-09-30 00:33"
-    },
-    {
-      "id": "89lccc",
-      "title": "Analysis-Weather, not price, to drive Brazil mills on sugar production",
-      "title_vi": "Phân tích-Thời tiết, chứ không phải giá cả, thúc đẩy các nhà máy Brazil sản xuất đường",
-      "summary_vi": "Các nhà chế biến mía đường ở Brazil, thế giới",
-      "image": "https://img.ksl.com/slc/3203/320364/32036491.JPG?filter=kslv2/responsive_story_lg",
-      "link": "https://www.ksl.com/article/51629999/analysis-weather-not-price-to-drive-brazil-mills-on-sugarproduction",
-      "source": "ksl.com",
-      "category": "soft",
-      "published": "2026-09-29 22:12"
     }
   ]
 }

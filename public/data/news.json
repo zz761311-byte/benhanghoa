@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-01 13:01",
+  "updated_at": "2026-10-01 14:01",
   "items": [
+    {
+      "id": "1uo16mx",
+      "title": "Trump Admits Diesel U.S. Export Ban Could Raise Gasoline Prices",
+      "title_vi": "Trump thừa nhận lệnh cấm xuất khẩu dầu diesel của Mỹ có thể làm tăng giá xăng",
+      "summary_vi": "Tổng thống Mỹ Donald Trump cho biết vào cuối ngày thứ Tư rằng lệnh cấm xuất khẩu dầu diesel của Mỹ có thể có “tác động tiêu cực đến xăng dầu”, mặc dù ông không loại trừ động thái như vậy từ Chính quyền. Tổng thống nói với các phóng viên tại Phòng Bầu dục rằng ông và Chính quyền c",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-01_hprxypvcuv.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Admits-Diesel-US-Export-Ban-Could-Raise-Gasoline-Prices.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-01 14:00"
+    },
     {
       "id": "b4izam",
       "title": "Brent Tumbles to $96 as Gulf Oil Flows Bounce Back",
@@ -187,17 +198,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-10-01 01:28"
-    },
-    {
-      "id": "3ttg78",
-      "title": "The World’s Diesel Problem Runs Deeper Than the Iran War",
-      "title_vi": "Vấn đề về động cơ diesel của thế giới còn sâu sắc hơn cả cuộc chiến tranh Iran",
-      "summary_vi": "Bản chất của tình trạng thiếu nhiên liệu diesel và máy bay phản lực phức tạp hơn hầu hết mọi người nhận ra. Dựa trên phân tích của tôi, tình trạng thiếu hụt đã tồn tại ít nhất từ ​​năm 2020. Sự thiếu hụt không chỉ đơn giản là kết quả của việc đóng cửa eo biển Hormuz. Trong bài đăng này, tôi sẽ cung cấp thông tin cơ bản",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-30_zxeywkdolq.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Worlds-Diesel-Problem-Runs-Deeper-Than-the-Iran-War.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-01 01:00"
     },
     {
       "id": "irv9z4",
@@ -541,15 +541,15 @@
       "published": "2026-09-30 00:33"
     },
     {
-      "id": "1dq58q9",
-      "title": "Weather, not price, to drive Brazil mills on sugar production",
-      "title_vi": "Thời tiết, chứ không phải giá cả, thúc đẩy các nhà máy Brazil sản xuất đường",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/americas/weather-not-price-drive-brazil-mills-sugar-production-2026-09-29/",
-      "source": "Reuters",
+      "id": "89lccc",
+      "title": "Analysis-Weather, not price, to drive Brazil mills on sugar production",
+      "title_vi": "Phân tích-Thời tiết, chứ không phải giá cả, thúc đẩy các nhà máy Brazil sản xuất đường",
+      "summary_vi": "Các nhà chế biến mía đường ở Brazil, thế giới",
+      "image": "https://img.ksl.com/slc/3203/320364/32036491.JPG?filter=kslv2/responsive_story_lg",
+      "link": "https://www.ksl.com/article/51629999/analysis-weather-not-price-to-drive-brazil-mills-on-sugarproduction",
+      "source": "ksl.com",
       "category": "soft",
-      "published": "2026-09-29 22:08"
+      "published": "2026-09-29 22:12"
     }
   ]
 }

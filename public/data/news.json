@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-02 04:25",
+  "updated_at": "2026-10-02 05:00",
   "items": [
+    {
+      "id": "qgbn7e",
+      "title": "Power Demand Is Surging Faster Than Grids Can Keep Up",
+      "title_vi": "Nhu cầu điện đang tăng nhanh hơn mức lưới điện có thể theo kịp",
+      "summary_vi": "Sau nhiều năm trì trệ ở các thị trường phát triển chủ chốt, nhu cầu điện đang tăng trở lại với tốc độ chưa từng thấy trong nhiều thập kỷ khi các trung tâm dữ liệu, điện khí hóa và công nghiệp hóa khiến mức tiêu thụ điện tăng đột biến. Thời đại Điện lực, như Cơ quan Năng lượng Quốc tế (IEA) đã nói",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-01_fekzd2ptyw.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Power-Demand-Is-Surging-Faster-Than-Grids-Can-Keep-Up.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-02 05:00"
+    },
     {
       "id": "1omv6qa",
       "title": "Venezuela’s Oil Exports Drop 9% as Freight Costs Bite",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-02 03:00"
+    },
+    {
+      "id": "1vwyhol",
+      "title": "USDA confirms tightening grain and oilseed supplies",
+      "title_vi": "USDA xác nhận thắt chặt nguồn cung ngũ cốc và hạt có dầu",
+      "summary_vi": "Bởi Mike Zuzolo, Công ty TNHH Tư vấn & Phân tích Hàng hóa Toàn cầuVới năng lượng đang tiếp tục phục hồi, thắt chặt",
+      "image": "https://ocj.com/wp-content/uploads/2026/10/USDA-confirms-tightening-grain-and-oilseed-supplies.png",
+      "link": "https://ocj.com/2026/10/usda-confirms-tightening-grain-and-oilseed-supplies/",
+      "source": "Ohio Ag Net",
+      "category": "agri",
+      "published": "2026-10-02 02:20"
     },
     {
       "id": "oiztah",
@@ -99,17 +121,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-01 23:04"
-    },
-    {
-      "id": "13kcjud",
-      "title": "Historic Superconductor Deal Brings Commercial Fusion a Step Closer",
-      "title_vi": "Thỏa thuận siêu dẫn mang tính lịch sử đưa sự hợp nhất thương mại đến gần hơn một bước",
-      "summary_vi": "Một công ty có trụ sở tại Hoa Kỳ vừa tiến một bước gần hơn đến việc biến phản ứng tổng hợp hạt nhân thành hiện thực. Commonwealth Fusion Systems (CFS), một chi nhánh của MIT, vừa ký một thỏa thuận với một nhà sản xuất chất siêu dẫn nhiệt độ cao (HTS) của Nhật Bản trong một hợp đồng lớn nhất thuộc loại này trong lịch sử. T",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-01_i10aedje6w.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Historic-Superconductor-Deal-Brings-Commercial-Fusion-a-Step-Closer.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-01 23:00"
     },
     {
       "id": "1nndp97",
@@ -539,17 +550,6 @@
       "source": "IndexBox",
       "category": "soft",
       "published": "2026-09-30 19:11"
-    },
-    {
-      "id": "1jczrvk",
-      "title": "Taiwan extends tariff and business tax cuts on selected agricultural commodity imports",
-      "title_vi": "Đài Loan gia hạn cắt giảm thuế quan và thuế kinh doanh đối với một số mặt hàng nông sản nhập khẩu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.ofimagazine.com/news/taiwan-extends-tariff-and-business-tax-cuts-on-selected-agricultural-commodity-imports",
-      "source": "Oils & Fats International",
-      "category": "macro",
-      "published": "2026-09-30 19:10"
     }
   ]
 }

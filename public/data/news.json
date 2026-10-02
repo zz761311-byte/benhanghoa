@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-03 01:00",
+  "updated_at": "2026-10-03 02:01",
   "items": [
+    {
+      "id": "1srqohz",
+      "title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
+      "title_vi": "Dầu Iran bắt đầu chảy sang Tajikistan bất chấp nguy cơ bị Mỹ trừng phạt",
+      "summary_vi": "Tajikistan tuyên bố hiện đang nhận dầu và các sản phẩm dầu mỏ từ Iran, mở ra một nguồn năng lượng mới đầy tiềm năng cho quốc gia mà nguồn cung cấp nhiên liệu từ lâu đã bị Nga thống trị. Việc giao hàng bắt đầu vào cuối tháng 8, Bộ trưởng Tài nguyên Nước và Năng lượng của Tajikistan",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-02_nx0f2l6dpw.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-03 02:00"
+    },
     {
       "id": "g7m27q",
       "title": "Resolution Copper project on track after Ninth Circuit decision",
@@ -35,6 +46,17 @@
       "published": "2026-10-03 00:10"
     },
     {
+      "id": "kle22u",
+      "title": "Copper price crawls higher on softer dollar after weak US jobs data, tight supply",
+      "title_vi": "Giá đồng tăng cao do đồng đô la yếu hơn sau khi dữ liệu việc làm của Mỹ yếu, nguồn cung thắt chặt",
+      "summary_vi": "“Chi phí năng lượng cao xuất phát từ xung đột Mỹ-Iran đang diễn ra và các dấu hiệu suy yếu về công nghiệp ở Trung Quốc đã đè nặng lên tâm lý toàn khu phức hợp.”",
+      "image": "https://www.mining.com/wp-content/uploads/2024/05/AdobeStock_578668383-1024x683.jpeg",
+      "link": "https://www.mining.com/web/copper-price-crawls-higher-on-softer-dollar-after-weak-us-jobs-data-tight-supply/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-10-02 23:58"
+    },
+    {
       "id": "r3plw9",
       "title": "Dated Brent Above $120 Signals a Serious Oil Squeeze",
       "title_vi": "Giá dầu Brent trên 120 USD báo hiệu sự sụt giảm giá dầu nghiêm trọng",
@@ -44,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-02 23:50"
+    },
+    {
+      "id": "x0k0ti",
+      "title": "US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says",
+      "title_vi": "EIA cho biết sản lượng dầu thô của Mỹ sẽ giảm trong thập kỷ tới do dự báo giá dầu Brent dưới 70 USD",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-crude-output-to-fall-next-decade-on-sub-70-brent-price-forecast-eia-says/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-02 23:19"
     },
     {
       "id": "1y8q5ku",
@@ -110,17 +143,6 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-10-02 21:45"
-    },
-    {
-      "id": "q5c8p",
-      "title": "U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities",
-      "title_vi": "Hoa Kỳ triển khai những người yêu nước để bảo vệ các cơ sở dầu mỏ và khí đốt của Qatar",
-      "summary_vi": "Tháng trước, Mỹ đã gửi thêm hai khẩu đội tên lửa Patriot để bảo vệ cơ sở hạ tầng năng lượng ở Ả Rập Saudi và Qatar khỏi các cuộc tấn công của Iran trong trường hợp chiến tranh leo thang trở lại, các quan chức Mỹ và một nguồn tin khu vực Vịnh Ba Tư nói với Axios hôm thứ Sáu. Quân đội Hoa Kỳ đã gửi một Pa",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-02_hytv7aocnk.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Deploys-Patriots-to-Shield-Saudi-Oil-and-Qatari-Gas-Facilities.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-02 21:30"
     },
     {
       "id": "xmpb5k",
@@ -528,28 +550,6 @@
       "source": "apg-wi.com",
       "category": "metal",
       "published": "2026-10-01 15:30"
-    },
-    {
-      "id": "zsnrgn",
-      "title": "Gold holds steady as firm dollar, yields counter easing Fed rate hike bets",
-      "title_vi": "Vàng giữ ổn định khi đồng đô la vững, lợi suất giảm nhẹ Đặt cược tăng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-inches-higher-softer-us-inflation-dims-october-fed-hike-bets-2026-10-01/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-10-01 11:48"
-    },
-    {
-      "id": "nmjrvm",
-      "title": "Copper Steadies With Focus on Supply During China Holiday",
-      "title_vi": "Đồng ổn định tập trung vào nguồn cung trong kỳ nghỉ lễ ở Trung Quốc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-01/copper-steadies-with-focus-on-supply-during-china-holiday",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-10-01 09:08"
     }
   ]
 }

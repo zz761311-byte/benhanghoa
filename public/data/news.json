@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03 02:01",
+  "updated_at": "2026-10-03 02:23",
   "items": [
     {
       "id": "1srqohz",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-03 00:16"
+    },
+    {
+      "id": "8vuo3s",
+      "title": "US Natgas Falls 4% to 8-Week Low on Milder Weather Outlook, Lower LNG Export Flows",
+      "title_vi": "Natgas của Mỹ giảm 4% xuống mức thấp nhất trong 8 tuần do thời tiết ôn hòa hơn, lưu lượng xuất khẩu LNG thấp hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/us-natgas-falls-4-to-8-week-low-on-milder-weather-outlook-lower-lng-export-flows/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-03 00:14"
     },
     {
       "id": "12v1nw3",
@@ -539,17 +550,6 @@
       "source": "Technology Networks",
       "category": "soft",
       "published": "2026-10-01 15:33"
-    },
-    {
-      "id": "1eg8n6m",
-      "title": "Platinum and Proud: PFHS Class of 1956 holds its 70th reunion - apg-wi.com",
-      "title_vi": "Bạch kim và Tự hào: Lớp PFHS 1956 tổ chức cuộc hội ngộ lần thứ 70 - apg-wi.com",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.apg-wi.com/price_county_review/platinum-and-proud-pfhs-class-of-1956-holds-its-70th-reunion/article_2e0053cc-55d6-41aa-adb8-8b8eb7d0b0d7.html",
-      "source": "apg-wi.com",
-      "category": "metal",
-      "published": "2026-10-01 15:30"
     }
   ]
 }

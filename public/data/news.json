@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-02 11:01",
+  "updated_at": "2026-10-02 12:00",
   "items": [
+    {
+      "id": "hc7vij",
+      "title": "Copper Heads for Weekly Loss as High Energy Costs Limit Demand",
+      "title_vi": "Đồng đứng đầu bị mất hàng tuần do chi phí năng lượng cao hạn chế nhu cầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-02/copper-heads-for-weekly-loss-as-high-energy-costs-limit-demand",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-10-02 11:07"
+    },
     {
       "id": "1n0f7dl",
       "title": "5 Energy ETFs That Have Soared in 2026",
@@ -539,17 +550,6 @@
       "source": "TradingView",
       "category": "soft",
       "published": "2026-09-30 23:05"
-    },
-    {
-      "id": "1bencox",
-      "title": "Oil and gas activity increases despite cost pressures, longer supplier delivery times",
-      "title_vi": "Hoạt động dầu khí tăng bất chấp áp lực chi phí, thời gian giao hàng của nhà cung cấp dài hơn",
-      "summary_vi": "Hoạt động trong lĩnh vực dầu khí tiếp tục mở rộng trong quý 3 năm 2026, theo các nhà điều hành dầu khí trả lời Khảo sát năng lượng của Fed tại Dallas.",
-      "image": "https://www.dallasfed.org/-/media/Images/components/carousel/energy/derrick2-pri.jpg",
-      "link": "https://www.dallasfed.org/research/surveys/des/2026/2603",
-      "source": "Federal Reserve Bank of Dallas",
-      "category": "energy",
-      "published": "2026-09-30 22:01"
     }
   ]
 }

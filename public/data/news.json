@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03 03:00",
+  "updated_at": "2026-10-03 04:00",
   "items": [
     {
       "id": "1srqohz",
@@ -508,6 +508,17 @@
       "published": "2026-10-01 19:07"
     },
     {
+      "id": "1800w2z",
+      "title": "Why did Ohio stop being a swing state?",
+      "title_vi": "Tại sao Ohio không còn là một bang xung đột nữa?",
+      "summary_vi": "Still Counting EP4 bao gồm các cuộc đua vào Thượng viện Ohio và Maine. Ngoài ra, chúng tôi đang khôi phục Câu hỏi dành cho người đăng ký Bản tin Bạc (SBSQ).",
+      "image": "https://substackcdn.com/image/fetch/$s_!DDmB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d958538-33ae-4f52-8655-39fa189341b7_1200x800.png",
+      "link": "https://www.natesilver.net/p/why-did-ohio-stop-being-a-swing-state",
+      "source": "Silver Bulletin",
+      "category": "metal",
+      "published": "2026-10-01 18:31"
+    },
+    {
       "id": "13k6o6n",
       "title": "Swine finishing feed costs: Recent trends and outlook",
       "title_vi": "Chi phí thức ăn cho heo giai đoạn cuối: Xu hướng và triển vọng gần đây",
@@ -539,17 +550,6 @@
       "source": "nytimes.com",
       "category": "energy",
       "published": "2026-10-01 16:01"
-    },
-    {
-      "id": "1xq2o0c",
-      "title": "Zero-Sugar Soft Drinks Are Equivalent to Water for Weight Loss",
-      "title_vi": "Nước giải khát không đường tương đương với nước để giảm cân",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.technologynetworks.com/analysis/news/zero-sugar-soft-drinks-are-equivalent-to-water-for-weight-loss-417021",
-      "source": "Technology Networks",
-      "category": "soft",
-      "published": "2026-10-01 15:33"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03 06:00",
+  "updated_at": "2026-10-03 06:04",
   "items": [
     {
       "id": "1i6ios2",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-03 04:30"
+    },
+    {
+      "id": "cug8q5",
+      "title": "Crops Analysis | Corrective bounce in cotton",
+      "title_vi": "Phân tích cây trồng | Chỉnh sửa độ nảy trên bông",
+      "summary_vi": "Ngày 2 tháng 10 năm 2026",
+      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
+      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-corrective-bounce-cotton",
+      "source": "Pro Farmer",
+      "category": "soft",
+      "published": "2026-10-03 03:35"
     },
     {
       "id": "1srqohz",
@@ -539,17 +550,6 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-10-01 16:13"
-    },
-    {
-      "id": "1fu0nxa",
-      "title": "Opinion | If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash",
-      "title_vi": "Ý kiến ​​| Nếu bạn nghĩ giá dầu tăng là xấu, hãy chờ đợi sự sụp đổ không thể tránh khỏi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/10/01/opinion/gas-prices-oil-crash.html",
-      "source": "nytimes.com",
-      "category": "energy",
-      "published": "2026-10-01 16:01"
     }
   ]
 }

@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-02 18:01",
+  "updated_at": "2026-10-02 19:01",
   "items": [
+    {
+      "id": "1d7yg03",
+      "title": "COMMENTARY: Weekend Reads: Anthropic exclusive, geopolitical credit, responsible mining",
+      "title_vi": "BÌNH LUẬN: Bài đọc cuối tuần: Độc quyền của loài người, tín dụng địa chính trị, khai thác có trách nhiệm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/commentary/reuters-open-interest/weekend-reads-anthropic-exclusive-geopolitical-credit-responsible-mining-2026-10-02/",
+      "source": "Reuters",
+      "category": "macro",
+      "published": "2026-10-02 18:02"
+    },
+    {
+      "id": "9vx8lt",
+      "title": "WTI Sinks Nearly 4% as EU Weighs Emergency Stockpile Release",
+      "title_vi": "WTI giảm gần 4% khi EU cân nhắc việc phát hành kho dự trữ khẩn cấp",
+      "summary_vi": "Giá dầu giảm mạnh vào thứ Sáu khi châu Âu tiến gần hơn đến một đợt phát hành tồn kho khẩn cấp khác dưới áp lực từ chính quyền Trump, với WTI giảm gần 4% và Brent giảm xuống dưới 100 USD. Vào lúc 6:54 sáng theo giờ ET, WTI giao dịch ở mức 89,36 USD, giảm 3,78%, trong khi Brent giao dịch ở mức 1 USD",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-02_r9ybvww0tf.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/WTI-Sinks-Nearly-4-as-EU-Weighs-Emergency-Stockpile-Release.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-02 18:02"
+    },
     {
       "id": "r7o4bn",
       "title": "JERA CEO Warns LNG Prices Have Further to Climb",
@@ -55,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-02 15:00"
+    },
+    {
+      "id": "icxs80",
+      "title": "Oil Falls 1% Despite Middle East Escalation Fears",
+      "title_vi": "Dầu giảm 1% bất chấp lo ngại leo thang ở Trung Đông",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-amid-rising-mideast-tensions-d4b3dcdd",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-10-02 14:50"
     },
     {
       "id": "16v7dgq",
@@ -145,17 +178,6 @@
       "published": "2026-10-02 05:50"
     },
     {
-      "id": "qgbn7e",
-      "title": "Power Demand Is Surging Faster Than Grids Can Keep Up",
-      "title_vi": "Nhu cầu điện đang tăng nhanh hơn mức lưới điện có thể theo kịp",
-      "summary_vi": "Sau nhiều năm trì trệ ở các thị trường phát triển chủ chốt, nhu cầu điện đang tăng trở lại với tốc độ chưa từng thấy trong nhiều thập kỷ khi các trung tâm dữ liệu, điện khí hóa và công nghiệp hóa khiến mức tiêu thụ điện tăng đột biến. Thời đại Điện lực, như Cơ quan Năng lượng Quốc tế (IEA) đã nói",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-01_fekzd2ptyw.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Power-Demand-Is-Surging-Faster-Than-Grids-Can-Keep-Up.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-02 05:00"
-    },
-    {
       "id": "ymkl1",
       "title": "Natural Gas Market Indicators – October 1, 2026",
       "title_vi": "Các chỉ số thị trường khí đốt tự nhiên - ngày 1 tháng 10 năm 2026",
@@ -187,6 +209,17 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-10-02 03:34"
+    },
+    {
+      "id": "cffkdk",
+      "title": "Aluminum price falls to a 12-week low on stronger dollar",
+      "title_vi": "Giá nhôm giảm xuống mức thấp nhất 12 tuần do đồng đô la mạnh hơn",
+      "summary_vi": "Giá nhôm giảm 18% kể từ khi đạt mức cao nhất trong 4 năm vào tháng 6 do lo lắng về nguồn cung và năng lực sản xuất mới giảm bớt.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/03/AdobeStock_1724204345-1024x683.jpeg",
+      "link": "https://www.mining.com/web/aluminum-price-falls-to-a-12-week-low-on-stronger-dollar/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-10-02 03:18"
     },
     {
       "id": "1vwyhol",
@@ -517,39 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-01 02:38"
-    },
-    {
-      "id": "1bencox",
-      "title": "Oil and gas activity increases despite cost pressures, longer supplier delivery times",
-      "title_vi": "Hoạt động dầu khí tăng bất chấp áp lực chi phí, thời gian giao hàng của nhà cung cấp dài hơn",
-      "summary_vi": "Hoạt động trong lĩnh vực dầu khí tiếp tục mở rộng trong quý 3 năm 2026, theo các nhà điều hành dầu khí trả lời Khảo sát năng lượng của Fed tại Dallas.",
-      "image": "https://www.dallasfed.org/-/media/Images/components/carousel/energy/derrick2-pri.jpg",
-      "link": "https://www.dallasfed.org/research/surveys/des/2026/2603",
-      "source": "Federal Reserve Bank of Dallas",
-      "category": "energy",
-      "published": "2026-10-01 02:36"
-    },
-    {
-      "id": "uv5e2c",
-      "title": "Gold price will break $5,000/oz in H2 2027, and silver’s run to $120 was driven by more than hype – Morgan Stanley’s Gower",
-      "title_vi": "Giá vàng sẽ phá vỡ mức 5.000 USD/oz vào nửa cuối năm 2027 và việc bạc tăng lên mức 120 USD không chỉ do sự cường điệu hóa - Gower của Morgan Stanley",
-      "summary_vi": "(Kitco News) - Giá vàng hiện tại có thể chịu áp lực, nhưng nhu cầu của ETF và ngân hàng trung ương vẫn mạnh và kim loại màu vàng sẽ giao dịch trở lại trên 5000 USD/ounce trong vòng một năm, theo Amy Gower, người đứng đầu bộ phận kim loại và chiến lược khai thác tại Morgan Stanley. Trong một cuộc phỏng vấn gần đây với CNBC, Gower thừa nhận",
-      "image": "https://image-api.prod.kitco.com/image/f427a527-3459-48b6-99fe-f53d4542ba9a.png?top=0.15981657608696&left=0&width=1672&height=940.68036684783&scale_width=1920&token=a06f03e042396aacf081dc75a9af6f80061006ae6270139babdf98e30a0db923",
-      "link": "https://www.kitco.com/news/article/2026-09-30/gold-price-will-break-5000oz-h2-2027-and-silvers-run-120-was-driven-more",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-10-01 01:48"
-    },
-    {
-      "id": "1dxa375",
-      "title": "Corn plunges 20 cents as high USDA stocks stun market",
-      "title_vi": "Ngô giảm 20 xu do dự trữ USDA cao làm choáng váng thị trường",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/corn-plunges-20-cents-as-high-usda-stocks-stun-market",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-10-01 01:33"
     }
   ]
 }

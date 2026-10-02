@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-02 17:00",
+  "updated_at": "2026-10-02 18:01",
   "items": [
+    {
+      "id": "r7o4bn",
+      "title": "JERA CEO Warns LNG Prices Have Further to Climb",
+      "title_vi": "Giám đốc điều hành JERA cảnh báo giá LNG còn tăng cao hơn nữa",
+      "summary_vi": "Nhà nhập khẩu LNG lớn nhất Nhật Bản và nhà sản xuất điện lớn nhất, JERA, không hy vọng những trở ngại vận chuyển đối với nguồn cung của Qatar tại eo biển Hormuz sẽ kết thúc kịp thời điểm vào mùa đông. Yukio Kani, chủ tịch kiêm giám đốc điều hành toàn cầu cho biết: “Chúng tôi không mong đợi Qatar LNG sẽ sớm quay trở lại thị trường”.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-02_lhrwxtjwco.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/JERA-CEO-Warns-LNG-Prices-Have-Further-to-Climb.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-02 17:30"
+    },
     {
       "id": "zv7ca5",
       "title": "UN Says Global Fuel Subsidies Could Top $1 Trillion",
@@ -22,6 +33,17 @@
       "source": "WSJ",
       "category": "soft",
       "published": "2026-10-02 15:57"
+    },
+    {
+      "id": "1gy50ip",
+      "title": "Oil Prices Fall as Middle East Crude Exports Recover But Shipping Risks Remain",
+      "title_vi": "Giá dầu giảm khi xuất khẩu dầu thô ở Trung Đông phục hồi nhưng rủi ro vận chuyển vẫn còn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-middle-east-crude-exports-recover-but-shipping-risks-remain-84ca187f",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-10-02 15:45"
     },
     {
       "id": "1eoc07",
@@ -68,6 +90,17 @@
       "published": "2026-10-02 11:07"
     },
     {
+      "id": "105tood",
+      "title": "Corn kernel dry down outlook for October and November in Michigan",
+      "title_vi": "Triển vọng khô hạt ngô trong tháng 10 và tháng 11 ở Michigan",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.canr.msu.edu/news/corn-kernel-dry-down-outlook-for-october-and-november-in-michigan",
+      "source": "Michigan State University",
+      "category": "agri",
+      "published": "2026-10-02 09:07"
+    },
+    {
       "id": "rr0vzk",
       "title": "Innovation Is Always Welcome in the Sweetener Category",
       "title_vi": "Sự đổi mới luôn được chào đón trong danh mục chất ngọt",
@@ -101,6 +134,17 @@
       "published": "2026-10-02 06:00"
     },
     {
+      "id": "55v3l1",
+      "title": "New York is one of America's biggest coffee-loving states",
+      "title_vi": "New York là một trong những bang yêu thích cà phê nhất nước Mỹ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.lohud.com/story/news/2026/10/01/new-york-ranks-no-3-coffee-interest-study/92046555007/",
+      "source": "The Journal News | lohud.com",
+      "category": "soft",
+      "published": "2026-10-02 05:50"
+    },
+    {
       "id": "qgbn7e",
       "title": "Power Demand Is Surging Faster Than Grids Can Keep Up",
       "title_vi": "Nhu cầu điện đang tăng nhanh hơn mức lưới điện có thể theo kịp",
@@ -121,17 +165,6 @@
       "source": "aga.org",
       "category": "energy",
       "published": "2026-10-02 04:55"
-    },
-    {
-      "id": "1omv6qa",
-      "title": "Venezuela’s Oil Exports Drop 9% as Freight Costs Bite",
-      "title_vi": "Xuất khẩu dầu của Venezuela giảm 9% do chi phí vận chuyển giảm",
-      "summary_vi": "Xuất khẩu dầu của Venezuela giảm gần 9% trong tháng 9 xuống 1,08 triệu thùng/ngày do chi phí tàu chở dầu tăng cao buộc các thương nhân phải yêu cầu giảm giá mạnh hơn và hàng hóa rời khỏi nước này bị trì hoãn. Các nhà kinh doanh toàn cầu, bao gồm Vitol và Trafigura, đã ép PDVSA đưa ra các điều khoản tốt hơn vì",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-01_dklhbynuay.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Exports-Drop-9-as-Freight-Costs-Bite.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-02 04:00"
     },
     {
       "id": "789lrx",
@@ -198,6 +231,17 @@
       "source": "Investing.com",
       "category": "metal",
       "published": "2026-10-02 01:36"
+    },
+    {
+      "id": "16036xi",
+      "title": "Putin says Russia won't supply diesel to global markets until sanctions are lifted",
+      "title_vi": "Putin nói Nga sẽ không cung cấp dầu diesel cho thị trường toàn cầu cho đến khi lệnh trừng phạt được dỡ bỏ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/putin-says-russia-wont-supply-diesel-global-markets-until-sanctions-are-lifted-2026-10-01/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-10-02 00:43"
     },
     {
       "id": "t2hgn7",
@@ -506,50 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-10-01 01:33"
-    },
-    {
-      "id": "itk5as",
-      "title": "Energy Executives Forecast Higher Natural Gas Prices Amid Iran War Unease",
-      "title_vi": "Các nhà điều hành năng lượng dự báo giá khí đốt tự nhiên cao hơn trong bối cảnh chiến tranh Iran bất ổn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/energy-executives-forecast-higher-natural-gas-prices-amid-iran-war-unease/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-10-01 01:28"
-    },
-    {
-      "id": "1kug5m3",
-      "title": "Coffee Prices Rise on Brazil Weather Risks",
-      "title_vi": "Giá cà phê tăng do rủi ro thời tiết ở Brazil",
-      "summary_vi": "Cà phê arabica tháng 12 (KCZ26) đóng cửa tăng +1,25 (+0,43%) vào thứ Tư và cà phê Robusta ICE tháng 11 (RMX26) đóng cửa tăng +35 (+1,03%). Giá cà phê ổn định cao hơn vào thứ Tư, với cà phê arabica đạt mức cao nhất trong 3 tuần và cà phê Robusta đạt mức cao nhất trong 1 tháng. Giá cà phê đang tăng do thời tiết khô hạn ở Bra…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://es.tradingview.com/news/barchart:ca3d56dd7094b:0-coffee-prices-rise-on-brazil-weather-risks/",
-      "source": "TradingView",
-      "category": "soft",
-      "published": "2026-10-01 01:21"
-    },
-    {
-      "id": "1ty7279",
-      "title": "US dollar flat against peers after softer-than-expected inflation data",
-      "title_vi": "Đồng đô la Mỹ đi ngang so với các đồng tiền khác sau khi dữ liệu lạm phát yếu hơn dự kiến",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/africa/dollar-set-september-rise-mainly-euros-expense-2026-09-30/",
-      "source": "reuters.com",
-      "category": "macro",
-      "published": "2026-10-01 00:52"
-    },
-    {
-      "id": "irv9z4",
-      "title": "Palladium Price October 30 2026",
-      "title_vi": "Giá Palladium ngày 30 tháng 10 năm 2026",
-      "summary_vi": "Hợp đồng tương lai palladium ngày 26 tháng 12 sẽ kết thúc vào ngày 30 tháng 10 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
-      "image": "https://robinhood.com/api/public/og/event?id=28dfe133-1de6-46a7-9075-902d124f6cc0",
-      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/palladium-price-october-30-2026-oct-30-2026/",
-      "source": "Robinhood",
-      "category": "metal",
-      "published": "2026-10-01 00:48"
     }
   ]
 }

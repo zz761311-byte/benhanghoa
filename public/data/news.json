@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-02 14:04",
+  "updated_at": "2026-10-02 15:00",
   "items": [
+    {
+      "id": "1eoc07",
+      "title": "U.S. Diesel Export Ban Would Hit Latin America Hardest: Goldman",
+      "title_vi": "Lệnh cấm xuất khẩu dầu diesel của Mỹ sẽ ảnh hưởng nặng nề nhất đến châu Mỹ Latinh: Goldman",
+      "summary_vi": "Goldman Sachs cho biết lệnh cấm xuất khẩu nhiên liệu diesel từ Hoa Kỳ sẽ ảnh hưởng nhiều nhất đến châu Mỹ Latinh, mặc dù có nhiều báo cáo cho rằng thiệt hại từ lệnh cấm như vậy sẽ là lớn nhất đối với châu Âu. Nhập khẩu dầu diesel của Hoa Kỳ đáp ứng tới 50% lượng tiêu thụ nhiên liệu trên toàn thế giới",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-02_sibdsxeerh.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Export-Ban-Would-Hit-Latin-America-Hardest-Goldman.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-02 15:00"
+    },
     {
       "id": "16v7dgq",
       "title": "ConocoPhillips Signs 20-Year LNG Deal With Venture Global",
@@ -110,17 +121,6 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-10-02 03:34"
-    },
-    {
-      "id": "vu3q1e",
-      "title": "UK Holds Emergency Talks With U.S. as Diesel Crisis Escalates",
-      "title_vi": "Vương quốc Anh tổ chức các cuộc đàm phán khẩn cấp với Hoa Kỳ khi khủng hoảng Diesel leo thang",
-      "summary_vi": "Bộ trưởng Năng lượng Miatta Fahnbulleh đang tổ chức các cuộc đàm phán gay gắt với người đồng cấp Mỹ về mối đe dọa của Donald Trump nhằm hạn chế xuất khẩu dầu diesel sang châu Âu. City AM hiểu rằng Fahnbulleh đang liên hệ trực tiếp với Bộ trưởng năng lượng Hoa Kỳ Chris Wright để thảo luận về động thái của Hoa Kỳ đối với tiềm năng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-01_qlgy518xwz.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/UK-Holds-Emergency-Talks-With-US-as-Diesel-Crisis-Escalates.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-02 03:00"
     },
     {
       "id": "1vwyhol",
@@ -486,6 +486,17 @@
       "published": "2026-10-01 01:21"
     },
     {
+      "id": "1ty7279",
+      "title": "US dollar flat against peers after softer-than-expected inflation data",
+      "title_vi": "Đồng đô la Mỹ đi ngang so với các đồng tiền khác sau khi dữ liệu lạm phát yếu hơn dự kiến",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/africa/dollar-set-september-rise-mainly-euros-expense-2026-09-30/",
+      "source": "reuters.com",
+      "category": "macro",
+      "published": "2026-10-01 00:52"
+    },
+    {
       "id": "irv9z4",
       "title": "Palladium Price October 30 2026",
       "title_vi": "Giá Palladium ngày 30 tháng 10 năm 2026",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-09-30 23:34"
-    },
-    {
-      "id": "5cwauh",
-      "title": "How the U.S. got oil shipments moving and what it would take to bring prices down",
-      "title_vi": "Hoa Kỳ vận chuyển dầu như thế nào và cần làm gì để giảm giá",
-      "summary_vi": "Các chuyến hàng dầu thô qua eo biển Hormuz đã bắt đầu đạt đến mức trước chiến tranh. Tuy nhiên, các nhà phân tích dự đoán giá nhiên liệu sẽ vẫn ở mức cao.",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/WG4JLOMJOWF6RWOCP43KWPLLNE.JPG&w=1440",
-      "link": "https://www.washingtonpost.com/business/2026/09/30/why-rebound-oil-shipments-isnt-bringing-big-drop-prices/",
-      "source": "The Washington Post",
-      "category": "energy",
-      "published": "2026-09-30 23:32"
     }
   ]
 }

@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-02 16:00",
+  "updated_at": "2026-10-02 17:00",
   "items": [
+    {
+      "id": "zv7ca5",
+      "title": "UN Says Global Fuel Subsidies Could Top $1 Trillion",
+      "title_vi": "LHQ cho biết trợ cấp nhiên liệu toàn cầu có thể lên tới 1 nghìn tỷ USD",
+      "summary_vi": "Liên hợp quốc cho biết trợ cấp nhiên liệu trong bối cảnh cú sốc giá dầu có thể vượt quá 1 nghìn tỷ USD trong năm nay, đồng thời cảnh báo rằng nhiều chính phủ đang cạn kiệt nguồn tài chính để duy trì trợ cấp, giảm thuế nhiên liệu hoặc giới hạn giá. Các ước tính trong Chương trình Phát triển Liên hợp quốc (UN",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UN-Says-Global-Fuel-Subsidies-Could-Top-1-Trillion.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-02 16:30"
+    },
+    {
+      "id": "3blxau",
+      "title": "Global Food Prices Rise as Cereal and Sugar Costs Surge, UN Says",
+      "title_vi": "LHQ cho biết giá lương thực toàn cầu tăng do chi phí ngũ cốc và đường tăng cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/global-food-prices-rise-as-cereal-and-sugar-costs-surge-un-says-495c84f2",
+      "source": "WSJ",
+      "category": "soft",
+      "published": "2026-10-02 15:57"
+    },
     {
       "id": "1eoc07",
       "title": "U.S. Diesel Export Ban Would Hit Latin America Hardest: Goldman",
@@ -112,15 +134,15 @@
       "published": "2026-10-02 04:00"
     },
     {
-      "id": "8pbb8d",
-      "title": "China Halts October Fuel Exports as Global Diesel Crunch Deepens",
-      "title_vi": "Trung Quốc tạm dừng xuất khẩu nhiên liệu trong tháng 10 khi cuộc khủng hoảng diesel toàn cầu ngày càng sâu sắc",
-      "summary_vi": "Các nhà máy lọc dầu lớn của Trung Quốc đã đình chỉ xuất khẩu hầu hết nhiên liệu đã lọc trong tháng 10 do Bắc Kinh ưu tiên an ninh nguồn cung trong nước, loại bỏ một nguồn nhiên liệu diesel, xăng và nhiên liệu máy bay khác khỏi thị trường toàn cầu vốn đã bị hạn chế nghiêm trọng. PetroChina đã hủy bỏ một số loại xăng và",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-01_wn8molazx6.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-October-Fuel-Exports-as-Global-Diesel-Crunch-Deepens.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-02 03:40"
+      "id": "789lrx",
+      "title": "Can a cup of coffee really cost you a career opportunity?",
+      "title_vi": "Liệu một tách cà phê có thực sự khiến bạn mất đi cơ hội nghề nghiệp?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.cbsnews.com/pittsburgh/video/can-a-cup-of-coffee-really-cost-you-a-career-opportunity/",
+      "source": "CBS News",
+      "category": "soft",
+      "published": "2026-10-02 03:58"
     },
     {
       "id": "onvn9w",
@@ -528,28 +550,6 @@
       "source": "Robinhood",
       "category": "metal",
       "published": "2026-10-01 00:48"
-    },
-    {
-      "id": "flfffx",
-      "title": "Elevated corn stocks send futures lower",
-      "title_vi": "Dự trữ ngô tăng cao khiến giá kỳ hạn giảm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmweeknow.com/profitability/elevated-corn-stocks-send-futures-lower/article_00710f12-73aa-42ba-9779-1faf46887044.html",
-      "source": "FarmWeekNow",
-      "category": "agri",
-      "published": "2026-10-01 00:45"
-    },
-    {
-      "id": "8vuo3s",
-      "title": "US Natgas Falls 4% to 8-Week Low on Milder Weather Outlook, Lower LNG Export Flows",
-      "title_vi": "Natgas của Mỹ giảm 4% xuống mức thấp nhất trong 8 tuần do thời tiết ôn hòa hơn, lưu lượng xuất khẩu LNG thấp hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/07/us-natgas-falls-4-to-8-week-low-on-milder-weather-outlook-lower-lng-export-flows/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-01 00:11"
     }
   ]
 }

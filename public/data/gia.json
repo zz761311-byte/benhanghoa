@@ -1,5 +1,5 @@
 {
- "capNhat": "2026-10-02T22:00:39.699Z",
+ "capNhat": "2026-10-02T23:00:39.276Z",
  "nguon": "Yahoo Finance",
  "soMatHang": 18,
  "tyGia": {
@@ -384,7 +384,7 @@
    "doiMotTuan": 2.04,
    "doiMotThang": -2.65,
    "doiMotNam": 37.76,
-   "khoiLuong30Phien": 679957,
+   "khoiLuong30Phien": 679907,
    "tienTe": "USX",
    "tenHopDong": "Soybean Oil Futures,Dec-2026",
    "kyHan": "T12/26",
@@ -641,8 +641,8 @@
    "doiMotNam": 24.8,
    "khoiLuong30Phien": 23288,
    "tienTe": "USX",
-   "tenHopDong": "",
-   "kyHan": null,
+   "tenHopDong": "Cotton Mar 26",
+   "kyHan": "T3/26",
    "san": "NY Mercantile",
    "capNhat": "2026-10-02T15:30:43.000Z",
    "duongGia": [
@@ -690,7 +690,7 @@
    "doiMotTuan": -3.45,
    "doiMotThang": -5.49,
    "doiMotNam": 7.86,
-   "khoiLuong30Phien": 5346543,
+   "khoiLuong30Phien": 5371265,
    "tienTe": "USD",
    "tenHopDong": "Gold Dec 26",
    "kyHan": "T12/26",
@@ -732,7 +732,7 @@
     "gia": 4141.7998,
     "lechSoVoiHopDong": 0.73,
     "nguon": "gold-api.com",
-    "capNhat": "2026-10-02T22:00:28Z"
+    "capNhat": "2026-10-02T23:00:28Z"
    }
   },
   "bac": {
@@ -789,7 +789,7 @@
     "gia": 60.524,
     "lechSoVoiHopDong": 0.31,
     "nguon": "gold-api.com",
-    "capNhat": "2026-10-02T22:00:27Z"
+    "capNhat": "2026-10-02T23:00:27Z"
    }
   },
   "dong": {
@@ -897,7 +897,7 @@
     "gia": 1701,
     "lechSoVoiHopDong": 0.34,
     "nguon": "gold-api.com",
-    "capNhat": "2026-10-02T22:00:31Z"
+    "capNhat": "2026-10-02T23:00:31Z"
    }
   },
   "nhom": {

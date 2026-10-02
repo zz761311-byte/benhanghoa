@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02 10:00",
+  "updated_at": "2026-10-02 11:01",
   "items": [
     {
       "id": "1n0f7dl",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-02 05:00"
+    },
+    {
+      "id": "ymkl1",
+      "title": "Natural Gas Market Indicators – October 1, 2026",
+      "title_vi": "Các chỉ số thị trường khí đốt tự nhiên - ngày 1 tháng 10 năm 2026",
+      "summary_vi": "Sản lượng mạnh và tồn kho dự trữ cao đang định hình triển vọng khí đốt tự nhiên của Hoa Kỳ hướng tới mùa đông 2026–2027. Trong Báo cáo Triển vọng Năng lượng Ngắn hạn (STEO) tháng 9, Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA) ước tính rằng tồn kho lưu trữ dưới lòng đất có thể đạt tới 4 Tcf vào cuối tháng 10 – tức là",
+      "image": "https://www.aga.org/wp-content/uploads/2026/10/NGMI-518-Price-v2.png",
+      "link": "https://www.aga.org/research-policy/resource-library/natural-gas-market-indicators-october-1-2026/",
+      "source": "aga.org",
+      "category": "energy",
+      "published": "2026-10-02 04:55"
     },
     {
       "id": "1omv6qa",
@@ -110,6 +121,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-02 02:00"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-02 01:56"
     },
     {
       "id": "1nruya6",
@@ -528,28 +550,6 @@
       "source": "Federal Reserve Bank of Dallas",
       "category": "energy",
       "published": "2026-09-30 22:01"
-    },
-    {
-      "id": "iow132",
-      "title": "September 2026 Metals Options Report",
-      "title_vi": "Báo cáo quyền chọn kim loại tháng 9 năm 2026",
-      "summary_vi": "Phân tích CVOL vàng thay đổi như thế nào, tính thanh khoản bạc ổn định và tình trạng thiếu đồng cơ cấu đang xác định các thông số rủi ro trên các đường cong kim loại trong Báo cáo quyền chọn kim loại tháng 9 năm 2026 của chúng tôi.",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/newsletters/metals-update/images/2026/may-metals-options-update-940x600.jpg",
-      "link": "https://www.cmegroup.com/newsletters/metals-options-update/metals-options-report-september-2026.html",
-      "source": "CME Group",
-      "category": "metal",
-      "published": "2026-09-30 21:59"
-    },
-    {
-      "id": "1gflm2e",
-      "title": "Acreage battle could support grain prices into 2027",
-      "title_vi": "Cuộc chiến diện tích có thể hỗ trợ giá ngũ cốc vào năm 2027",
-      "summary_vi": "Một nhà phân tích thị trường cho biết việc có một kế hoạch tiếp thị linh hoạt sẽ mang lại cho nông dân cơ hội tận dụng những biến động cao hơn trên thị trường. Dan Basse của Công ty Tài nguyên Ag cho biết giá có khả năng tăng cao hơn vào năm 2027. “Chúng tôi đang chứng kiến ​​lượng tồn kho ở cả ba mặt hàng đều giảm. Điều đó cho thấy một cuộc chiến về diện tích để giành lấy",
-      "image": "https://cdn.brownfieldagnews.com/wp-content/uploads/2020/02/Dan-Basse.jpg",
-      "link": "https://www.brownfieldagnews.com/news/acreage-battle-could-support-grain-prices-into-2027/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-09-30 21:54"
     }
   ]
 }

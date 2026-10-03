@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-03 16:00",
+  "updated_at": "2026-10-03 17:00",
   "items": [
+    {
+      "id": "oqjewe",
+      "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+      "title_vi": "Cuộc đàm phán Mỹ-Nga về Ukraine hiện liên quan đến một thỏa thuận dầu mỏ gắn liền với các đồng minh của Trump",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html",
+      "source": "The New York Times",
+      "category": "energy",
+      "published": "2026-10-03 16:02"
+    },
     {
       "id": "1i6ios2",
       "title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
@@ -198,6 +209,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-02 20:17"
+    },
+    {
+      "id": "1sx7707",
+      "title": "U.S. natural gas production reached a record high in July 2026",
+      "title_vi": "Sản lượng khí đốt tự nhiên của Mỹ đạt mức cao kỷ lục vào tháng 7 năm 2026",
+      "summary_vi": "Cơ quan Thông tin Năng lượng - EIA - Thống kê Năng lượng Chính thức của Chính phủ Hoa Kỳ",
+      "image": "",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id",
+      "source": "U.S. Energy Information Administration (EIA) (.gov)",
+      "category": "energy",
+      "published": "2026-10-02 20:01"
     },
     {
       "id": "1y0ctut",
@@ -528,28 +550,6 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-10-01 20:30"
-    },
-    {
-      "id": "1mpvo1j",
-      "title": "Dollar Rises to 2-Month High on Growing Prospect of October U.S. Rate-Rise",
-      "title_vi": "Đồng đô la tăng lên mức cao nhất trong 2 tháng nhờ triển vọng tăng trưởng trong tháng 10. Tỷ giá tăng ở Mỹ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/economy/central-banking/dollar-rises-to-2-month-high-on-growing-prospect-of-october-u-s-rate-rise-8cb5f9e8",
-      "source": "wsj.com",
-      "category": "macro",
-      "published": "2026-10-01 19:54"
-    },
-    {
-      "id": "1u751k4",
-      "title": "Ukraine persists with Russian oil refinery strikes in defiance of Trump",
-      "title_vi": "Ukraine kiên trì tấn công nhà máy lọc dầu của Nga bất chấp Trump",
-      "summary_vi": "Tổng thống Mỹ đổ lỗi cho các cuộc tấn công đã đẩy giá nhiên liệu tăng cao trước cuộc bầu cử giữa nhiệm kỳ, mặc dù các nhà phân tích cho rằng cuộc chiến tranh Iran của ông là nguyên nhân chính",
-      "image": "https://i.guim.co.uk/img/media/66962a7b76b8b975190913c1815600cc53f2eaba/79_0_900_720/master/900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9905a17bcd094a1292d73db53ddac54",
-      "link": "https://www.theguardian.com/world/2026/oct/01/ukraine-russian-oil-refinery-strikes-defying-trump-fuel-price-warnings",
-      "source": "The Guardian",
-      "category": "energy",
-      "published": "2026-10-01 19:07"
     }
   ]
 }

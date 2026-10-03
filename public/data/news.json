@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03 15:15",
+  "updated_at": "2026-10-03 16:00",
   "items": [
     {
       "id": "1i6ios2",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-03 02:00"
+    },
+    {
+      "id": "164ch53",
+      "title": "Harvest delays raise questions about corn, soybean quality",
+      "title_vi": "Sự chậm trễ thu hoạch đặt ra câu hỏi về chất lượng ngô, đậu tương",
+      "summary_vi": "Một nông dân ở vùng đông bắc Kansas cho biết thời tiết ẩm ướt kéo dài đang gây lo ngại về chất lượng vụ mùa năm nay. Andrew Meng cho biết năng suất ngô cao hơn mức trung bình trước khi mưa bắt đầu. \"Tai nào dựng đứng bây giờ cũng bị nước vào và mọc lên. Không biết vấn đề lớn đến mức nào […]",
+      "image": "",
+      "link": "https://www.brownfieldagnews.com/news/harvest-delays-raise-questions-about-corn-soybean-quality/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-10-03 01:05"
     },
     {
       "id": "16r9k6j",
@@ -539,17 +550,6 @@
       "source": "The Guardian",
       "category": "energy",
       "published": "2026-10-01 19:07"
-    },
-    {
-      "id": "1800w2z",
-      "title": "Why did Ohio stop being a swing state?",
-      "title_vi": "Tại sao Ohio không còn là một bang xung đột nữa?",
-      "summary_vi": "Still Counting EP4 bao gồm các cuộc đua vào Thượng viện Ohio và Maine. Ngoài ra, chúng tôi đang khôi phục Câu hỏi dành cho người đăng ký Bản tin Bạc (SBSQ).",
-      "image": "https://substackcdn.com/image/fetch/$s_!DDmB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d958538-33ae-4f52-8655-39fa189341b7_1200x800.png",
-      "link": "https://www.natesilver.net/p/why-did-ohio-stop-being-a-swing-state",
-      "source": "Silver Bulletin",
-      "category": "metal",
-      "published": "2026-10-01 18:31"
     }
   ]
 }

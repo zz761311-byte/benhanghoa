@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-04 01:01",
+  "updated_at": "2026-10-04 02:00",
   "items": [
+    {
+      "id": "1moze5s",
+      "title": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz",
+      "title_vi": "Iran đang mất đi một số đòn bẩy đối với eo biển Hormuz",
+      "summary_vi": "Dòng dầu thô từ Vịnh Ba Tư đã phục hồi về mức gần như trước chiến tranh, nhưng dữ liệu mới nhất cho thấy phần lớn dầu đang đến thị trường thông qua các tuyến đường và thỏa thuận vận chuyển không tồn tại trước chiến tranh, đặt ra câu hỏi liệu Iran có đang mất đi đòn bẩy của mình hay không.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-02_pof87iuacd.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-Is-Losing-Some-of-Its-Leverage-Over-the-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-04 02:00"
+    },
     {
       "id": "bss4zo",
       "title": "New Research Strengthens the Link Between Warming and Extreme Weather",
@@ -55,6 +66,17 @@
       "source": "thehill.com",
       "category": "energy",
       "published": "2026-10-03 19:11"
+    },
+    {
+      "id": "1ykz5ie",
+      "title": "Soaring diesel prices take their toll on US farmers in midwest corn belt",
+      "title_vi": "Giá dầu diesel tăng vọt gây thiệt hại cho nông dân Mỹ ở vành đai ngô Trung Tây",
+      "summary_vi": "Chi phí nhiên liệu đang gây khó khăn cho người trồng trọt, các công ty vận tải đường bộ và một loạt các ngành công nghiệp khác khi chiến tranh Iran gây ra mức giá kỷ lục",
+      "image": "https://i.guim.co.uk/img/media/f3458c8f45d7533d5f6fd936fa6b92236e7d1cf1/0_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3831b2efe2be94af14f1a7f2d6dbd341",
+      "link": "https://www.theguardian.com/us-news/2026/oct/03/diesel-prices-midwest-farmers",
+      "source": "theguardian.com",
+      "category": "energy",
+      "published": "2026-10-03 19:00"
     },
     {
       "id": "1i6ios2",
@@ -198,17 +220,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-02 22:23"
-    },
-    {
-      "id": "198oufn",
-      "title": "LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began",
-      "title_vi": "Các lô hàng LNG qua Hormuz đạt mức cao nhất kể từ khi chiến tranh Iran bắt đầu",
-      "summary_vi": "Tổng cộng có 21 chuyến hàng LNG được ước tính đã rời eo biển Hormuz vào tháng 9, con số hàng tháng cao nhất kể từ khi chiến tranh Iran bắt đầu, nhưng vẫn thấp hơn nhiều so với mức trước chiến tranh, dữ liệu vận chuyển do Reuters tổng hợp hôm thứ Sáu cho thấy. Công ty phân tích lô hàng Kpler đã ước tính rằng 21 ca",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-02_n380vabpzt.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/LNG-Shipments-Through-Hormuz-Hit-Highest-Level-Since-Iran-War-Began.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-02 22:00"
     },
     {
       "id": "121avwn",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-01 21:40"
-    },
-    {
-      "id": "1y3im07",
-      "title": "US Fuel Economy Rollback Extends Autocatalyst Demand for PGMs",
-      "title_vi": "Việc khôi phục tiết kiệm nhiên liệu của Hoa Kỳ làm tăng nhu cầu về chất xúc tác tự động đối với PGM",
-      "summary_vi": "Việc khôi phục nền kinh tế nhiên liệu của Hoa Kỳ làm tăng nhu cầu về chất xúc tác ô tô, hỗ trợ PGM vì các loại xe chạy bằng xăng và hybrid vẫn giữ vai trò lớn hơn trong cơ cấu hỗn hợp của Hoa Kỳ.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6abe6194343ca31645d47dbf_Highway%20Cars.png",
-      "link": "https://www.cruxinvestor.com/posts/us-fuel-economy-rollback-extends-autocatalyst-demand-for-pgms",
-      "source": "Crux Investor",
-      "category": "energy",
-      "published": "2026-10-01 20:58"
     }
   ]
 }

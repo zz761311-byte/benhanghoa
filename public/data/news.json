@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03 09:05",
+  "updated_at": "2026-10-03 10:00",
   "items": [
     {
       "id": "1i6ios2",
@@ -398,6 +398,17 @@
       "published": "2026-10-02 02:17"
     },
     {
+      "id": "zsnrgn",
+      "title": "Gold edges up as softer inflation data dents Fed rate-hike bets",
+      "title_vi": "Vàng tăng giá khi dữ liệu lạm phát giảm nhẹ đặt cược vào việc tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-inches-higher-softer-us-inflation-dims-october-fed-hike-bets-2026-10-01/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-10-02 02:14"
+    },
+    {
       "id": "pwf3lg",
       "title": "FLIPR 2026 midterm election forecast",
       "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
@@ -539,17 +550,6 @@
       "source": "National Hog Farmer",
       "category": "agri",
       "published": "2026-10-01 18:30"
-    },
-    {
-      "id": "1i5dk0m",
-      "title": "Video: How Middle East Oil Exports Started Recovering",
-      "title_vi": "Video: Xuất khẩu dầu ở Trung Đông bắt đầu phục hồi như thế nào",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/video/business/100000011182407/how-middle-east-oil-exports-started-recovering.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-10-01 16:13"
     }
   ]
 }

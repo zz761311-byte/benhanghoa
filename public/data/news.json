@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-04 05:01",
+  "updated_at": "2026-10-04 06:01",
   "items": [
+    {
+      "id": "155hpyt",
+      "title": "The Iran War Is Showing What ADNOC’s AI Can Really Do",
+      "title_vi": "Chiến tranh Iran đang cho thấy AI của ADNOC thực sự có thể làm được những gì",
+      "summary_vi": "Các công ty dầu mỏ đã dành nhiều năm sử dụng AI để khoan nhanh hơn, dự đoán lỗi thiết bị và tăng sản lượng từ các mỏ hiện có. Công ty dầu mỏ khổng lồ của nhà nước UAE, ADNOC, hiện đang tìm hiểu xem công nghệ tương tự có thể làm được gì khi vấn đề không phải là hiệu quả mà là một cuộc chiến ban đầu.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-02_clvmy8rkpb.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Showing-What-ADNOCs-AI-Can-Really-Do.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-04 06:00"
+    },
+    {
+      "id": "sqigl5",
+      "title": "FAO Food Price Index edges up in September on higher sugar, cereal and vegetable oil prices",
+      "title_vi": "Chỉ số giá thực phẩm FAO tăng trong tháng 9 do giá đường, ngũ cốc và dầu thực vật cao hơn",
+      "summary_vi": "Chỉ số giá thực phẩm của FAO đạt trung bình 136,0 điểm vào tháng 9 năm 2026, tăng 2,0 điểm (1,5%) so với mức điều chỉnh của tháng 8. Chỉ số giá các nhóm hàng cây trồng (ngũ cốc, dầu thực vật, đường) đều tăng so với tháng trước",
+      "image": "https://media.potatopro.com/fao-oct-2026-1200.jpg",
+      "link": "https://www.potatopro.com/news/2026/fao-food-price-index-edges-september-higher-sugar-cereal-and-vegetable-oil-prices",
+      "source": "PotatoPro",
+      "category": "energy",
+      "published": "2026-10-04 04:44"
+    },
     {
       "id": "rrul50",
       "title": "Could White Hydrogen Succeed Where Green Hydrogen Stumbled?",
@@ -200,17 +222,6 @@
       "published": "2026-10-02 23:58"
     },
     {
-      "id": "r3plw9",
-      "title": "Dated Brent Above $120 Signals a Serious Oil Squeeze",
-      "title_vi": "Giá dầu Brent trên 120 USD báo hiệu sự sụt giảm giá dầu nghiêm trọng",
-      "summary_vi": "Thị trường dầu vật chất thắt chặt mạnh khi Dated Brent tăng trên 120 USD bất chấp giá dầu Brent ICE trượt xuống mức 101 USD. Thứ sáu, ngày 02 tháng 10 năm 2026 Việc châu Âu giải phóng kho dự trữ dầu diesel, tàu chở dầu không người lái ở eo biển Hormuz và việc Trung Quốc khôi phục lệnh cấm xuất khẩu sản phẩm tinh chế đều có tác dụng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-02_dg01sjqhdy.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Dated-Brent-Above-120-Signals-a-Serious-Oil-Squeeze.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-02 23:50"
-    },
-    {
       "id": "x0k0ti",
       "title": "US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says",
       "title_vi": "EIA cho biết sản lượng dầu thô của Mỹ sẽ giảm trong thập kỷ tới do dự báo giá dầu Brent dưới 70 USD",
@@ -319,6 +330,17 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-10-02 15:45"
+    },
+    {
+      "id": "1e2qa88",
+      "title": "FAO Food Price Index rises in September amid weather concerns and transport disruptions",
+      "title_vi": "Chỉ số giá thực phẩm FAO tăng trong tháng 9 do lo ngại về thời tiết và gián đoạn giao thông",
+      "summary_vi": "Sự gián đoạn thương mại góp phần khiến giá ngũ cốc tăng cao, trong khi thời tiết bất lợi đè nặng lên triển vọng sản xuất đường.",
+      "image": "https://www.fao.org/media/images/newsroomlibraries/default-album/oct26fpi-uf21936-25221_0215.jpg?sfvrsn=e377b1d1_2",
+      "link": "https://www.fao.org/newsroom/detail/fao-food-price-index-rises-in-september-amid-weather-concerns-and-transport-disruptions/en",
+      "source": "Food and Agriculture Organization",
+      "category": "soft",
+      "published": "2026-10-02 15:42"
     },
     {
       "id": "icxs80",
@@ -528,28 +550,6 @@
       "source": "The Weather Channel",
       "category": "metal",
       "published": "2026-10-02 00:27"
-    },
-    {
-      "id": "ly5k32",
-      "title": "Keurig Dr Pepper Taps New Head for Global Coffee Co., Russ Torres",
-      "title_vi": "Keurig Dr Pepper có người đứng đầu mới cho Global Coffee Co., Russ Torres",
-      "summary_vi": "Keurig Dr Pepper (KDP) đã bổ nhiệm Kimberly-Clark Chủ tịch và COO Russ Torres để lãnh đạo hoạt động kinh doanh cà phê toàn cầu khổng lồ của mình trước kế hoạch chia tách công ty vào đầu năm 2027. Torres sẽ tham gia...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/10/01/keurig-dr-pepper-taps-new-head-for-global-coffee-co-russ-torres/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-10-01 23:04"
-    },
-    {
-      "id": "1nndp97",
-      "title": "Today is the First Official UN International Coffee Day. Guess Which One Country Voted Against It",
-      "title_vi": "Hôm nay là Ngày Cà phê Quốc tế chính thức đầu tiên của Liên hợp quốc. Đoán xem quốc gia nào đã bỏ phiếu chống lại nó",
-      "summary_vi": "Hôm nay, ngày 1 tháng 10, đánh dấu Ngày Quốc tế Cà phê đầu tiên được Liên Hợp Quốc chính thức công nhận. Vào ngày 10/3, Đại hội đồng Liên hợp quốc đã chính thức chỉ định ngày 1/10 là Ngày Quốc tế Cà phê...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/10/01/today-is-the-first-official-un-international-coffee-day-guess-which-one-country-voted-against-it/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-10-01 21:40"
     }
   ]
 }

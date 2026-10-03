@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04 00:00",
+  "updated_at": "2026-10-04 00:39",
   "items": [
     {
       "id": "bss4zo",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-03 22:00"
+    },
+    {
+      "id": "1nwr4op",
+      "title": "Nate Silver reveals the ‘biggest electoral story of 2026’ — and it’s bad news for Trump.",
+      "title_vi": "Nate Silver tiết lộ ‘câu chuyện bầu cử lớn nhất năm 2026’ — và đó là tin xấu cho Trump.",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nj.com/politics/2026/10/nate-silver-reveals-the-biggest-electoral-story-of-2026-and-its-bad-news-for-trump.html",
+      "source": "NJ.com",
+      "category": "metal",
+      "published": "2026-10-03 21:00"
     },
     {
       "id": "1wt7jba",
@@ -539,17 +550,6 @@
       "source": "Crux Investor",
       "category": "energy",
       "published": "2026-10-01 20:58"
-    },
-    {
-      "id": "16d69n6",
-      "title": "Oil Rises as Supply Concerns Persist Despite Middle East Crude Exports Recovering to Prewar Levels",
-      "title_vi": "Dầu tăng khi mối lo ngại về nguồn cung vẫn tồn tại mặc dù xuất khẩu dầu thô ở Trung Đông phục hồi về mức trước chiến tranh",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-supply-concerns-persist-despite-middle-east-crude-exports-recovering-to-prewar-levels-067a47d8",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-10-01 20:40"
     }
   ]
 }

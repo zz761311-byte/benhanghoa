@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-03 23:00",
+  "updated_at": "2026-10-04 00:00",
   "items": [
+    {
+      "id": "bss4zo",
+      "title": "New Research Strengthens the Link Between Warming and Extreme Weather",
+      "title_vi": "Nghiên cứu mới củng cố mối liên hệ giữa sự nóng lên và thời tiết khắc nghiệt",
+      "summary_vi": "Ngày càng có nhiều bằng chứng liên quan đến biến đổi khí hậu và các hiện tượng thời tiết khắc nghiệt. Năm 2004, một nhóm các nhà nghiên cứu đã công bố một trong những nghiên cứu đầu tiên liên kết biến đổi khí hậu do con người gây ra với một sự kiện thời tiết khắc nghiệt cụ thể – đợt nắng nóng mùa hè ở châu Âu năm 2003, giết chết nhiều người.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-02_w8pwqhyzlo.jpg",
+      "link": "https://oilprice.com/The-Environment/Global-Warming/New-Research-Strengthens-the-Link-Between-Warming-and-Extreme-Weather.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-04 00:00"
+    },
+    {
+      "id": "oqjewe",
+      "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+      "title_vi": "Cuộc đàm phán Mỹ-Nga về Ukraine hiện liên quan đến một thỏa thuận dầu mỏ gắn liền với các đồng minh của Trump",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html",
+      "source": "The New York Times",
+      "category": "energy",
+      "published": "2026-10-03 23:36"
+    },
     {
       "id": "lnvcdr",
       "title": "Latin America Could Double Its Onshore Wind Capacity by 2035",
@@ -13,15 +35,15 @@
       "published": "2026-10-03 22:00"
     },
     {
-      "id": "1c78wv0",
-      "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
-      "title_vi": "Cuộc đàm phán Mỹ-Nga về Ukraine liên quan đến thỏa thuận dầu mỏ trị giá hàng tỷ đô la, NYT đưa tin",
+      "id": "1wt7jba",
+      "title": "US, Russia talks on Ukraine involve oil deal tied to Kushner, Witkoff: Report",
+      "title_vi": "Mỹ, Nga đàm phán về Ukraine liên quan đến thỏa thuận dầu mỏ gắn liền với Kushner, Witkoff: Báo cáo",
       "summary_vi": "",
       "image": "",
-      "link": "https://www.reuters.com/business/energy/us-russia-talks-ukraine-involve-multi-billion-dollar-oil-deal-nyt-reports-2026-10-03/",
-      "source": "Reuters",
+      "link": "https://thehill.com/homenews/administration/6127449-trump-russia-ukraine-oil-deal-lukoil/",
+      "source": "thehill.com",
       "category": "energy",
-      "published": "2026-10-03 17:30"
+      "published": "2026-10-03 19:11"
     },
     {
       "id": "1i6ios2",
@@ -187,17 +209,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-10-02 21:58"
-    },
-    {
-      "id": "11v0lfy",
-      "title": "WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns",
-      "title_vi": "WTI Whipsaws khi nguồn cung vùng Vịnh được cải thiện và rủi ro ở Trung Đông quay trở lại",
-      "summary_vi": "Hợp đồng tương lai dầu thô WTI tháng 11 đã trải qua một tuần bị kẹt giữa hai giao dịch đối lập nhau. Dòng dầu thô vùng Vịnh được cải thiện khi Ả Rập Saudi khôi phục các tuyến xuất khẩu và các nhà sản xuất tìm ra cách khắc phục tình trạng gián đoạn ở eo biển Hormuz. Đó chính là nguồn cung cấp hàng cứu trợ mà người bán hàng cần. Thị trường nhiên liệu sẽ không",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-02_4gwmkh35dp.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Gulf-Supply-Improves-and-Middle-East-Risk-Returns.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-02 21:45"
     },
     {
       "id": "xmpb5k",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-10-01 20:40"
-    },
-    {
-      "id": "1jltprk",
-      "title": "America’s Copper Hoard Stokes Fear of a Supply Crunch",
-      "title_vi": "Kho dự trữ đồng của Mỹ gây lo ngại về tình trạng khan hiếm nguồn cung",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/americas-copper-hoard-stokes-fear-of-a-supply-crunch-0097b560",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-10-01 20:30"
     }
   ]
 }

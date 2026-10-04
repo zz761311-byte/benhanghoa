@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05 04:01",
+  "updated_at": "2026-10-05 04:40",
   "items": [
     {
       "id": "14zkbhz",
@@ -121,6 +121,17 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-10-03 23:36"
+    },
+    {
+      "id": "13zkh31",
+      "title": "US Natural Gas Falls on Warmer Outlook, Growing Storage Surplus",
+      "title_vi": "Khí đốt tự nhiên của Hoa Kỳ giảm do triển vọng ấm hơn, dư thừa kho dự trữ ngày càng tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/03/us-natural-gas-falls-on-warmer-outlook-growing-storage-surplus/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-03 22:37"
     },
     {
       "id": "1nwr4op",
@@ -539,17 +550,6 @@
       "source": "Ohio Ag Net",
       "category": "agri",
       "published": "2026-10-02 02:20"
-    },
-    {
-      "id": "oiztah",
-      "title": "With Palladium And PALL Approaching Possible Support, I Reiterate My Buy Rating (PALL)",
-      "title_vi": "Khi Palladium và PALL sắp đạt được mức hỗ trợ khả thi, tôi nhắc lại Xếp hạng Mua của mình (PALL)",
-      "summary_vi": "Mua PALL ETF khi điểm yếu: giới hạn cung cấp palladium (Nga/Nam Phi), nhu cầu công nghiệp, rủi ro hỗ trợ chính 1.156 USD và theo dõi hợp đồng tương lai. Tìm hiểu thêm về PALL ETF tại đây.",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1489868571/image_1489868571.jpg?io=getty-c-w1536",
-      "link": "https://seekingalpha.com/article/4951443-with-palladium-and-pall-approaching-possible-support-i-reiterate-my-buy-rating",
-      "source": "Seeking Alpha",
-      "category": "metal",
-      "published": "2026-10-02 02:17"
     }
   ]
 }

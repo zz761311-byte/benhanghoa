@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04 13:01",
+  "updated_at": "2026-10-04 14:00",
   "items": [
     {
       "id": "155hpyt",
@@ -310,6 +310,17 @@
       "published": "2026-10-02 17:02"
     },
     {
+      "id": "19th6qr",
+      "title": "How El Niño will drive up the cost of foods you love — and some critical staples",
+      "title_vi": "El Niño sẽ làm tăng giá thực phẩm bạn yêu thích như thế nào - và một số mặt hàng chủ lực quan trọng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.cnn.com/2026/10/02/climate/el-nino-coffee-chocolate-price-increase",
+      "source": "cnn.com",
+      "category": "soft",
+      "published": "2026-10-02 16:00"
+    },
+    {
       "id": "3blxau",
       "title": "Global Food Prices Rise as Cereal and Sugar Costs Surge, UN Says",
       "title_vi": "LHQ cho biết giá lương thực toàn cầu tăng do chi phí ngũ cốc và đường tăng cao",
@@ -352,6 +363,17 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-10-02 14:50"
+    },
+    {
+      "id": "1qrbwes",
+      "title": "Summer drought and heat impacts on European harvests",
+      "title_vi": "Hạn hán mùa hè và nắng nóng ảnh hưởng đến vụ thu hoạch ở châu Âu",
+      "summary_vi": "Tổng mức giảm từ tháng 6 đến tháng 9 hiện là 16,7 triệu tấn, tương đương với toàn bộ sản lượng ngũ cốc hiện được dự báo của Ý, Bỉ và Hà Lan cộng lại.",
+      "image": "https://ca1-eci.edcdn.com/_1200x630_crop_center-center_82_none/harvest-shutterstock_2667502869.jpg?v=1790775194",
+      "link": "https://eciu.net/analysis/reports/eu-harvests-drought-crops",
+      "source": "Energy & Climate Intelligence Unit | ECIU",
+      "category": "agri",
+      "published": "2026-10-02 14:03"
     },
     {
       "id": "hc7vij",
@@ -528,28 +550,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-10-02 01:56"
-    },
-    {
-      "id": "1nruya6",
-      "title": "BofA Securities names top mining stocks as copper outlook brightens",
-      "title_vi": "BofA Securities nêu tên các cổ phiếu khai thác hàng đầu khi triển vọng đồng sáng sủa hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/stock-market-news/bofa-securities-names-top-mining-stocks-as-copper-outlook-brightens-4928104",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-10-02 01:36"
-    },
-    {
-      "id": "16036xi",
-      "title": "Putin says Russia won't supply diesel to global markets until sanctions are lifted",
-      "title_vi": "Putin nói Nga sẽ không cung cấp dầu diesel cho thị trường toàn cầu cho đến khi lệnh trừng phạt được dỡ bỏ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/putin-says-russia-wont-supply-diesel-global-markets-until-sanctions-are-lifted-2026-10-01/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-10-02 00:43"
     }
   ]
 }

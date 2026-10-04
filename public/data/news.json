@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-05 01:24",
+  "updated_at": "2026-10-05 02:01",
   "items": [
+    {
+      "id": "7e53a0",
+      "title": "Pentagon Backs Ambitious Plan to Beam Solar Power From Space",
+      "title_vi": "Lầu Năm Góc ủng hộ kế hoạch đầy tham vọng để chiếu năng lượng mặt trời từ không gian",
+      "summary_vi": "Năng lượng mặt trời trên không gian vừa nhận được một phiếu tín nhiệm mạnh mẽ khác. Bộ Quốc phòng Hoa Kỳ vừa ký hợp đồng với công ty năng lượng mặt trời Tổng quan Năng lượng để “thiết kế, chế tạo và thử nghiệm đèn hiệu dẫn đường cho phép hệ thống năng lượng mặt trời trên không gian của họ hoạt động chính xác”.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-02_k6aebaezpv.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Pentagon-Backs-Ambitious-Plan-to-Beam-Solar-Power-From-Space.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-05 02:00"
+    },
     {
       "id": "6ql3vm",
       "title": "Floating Power Plants Are Opening a New Energy Frontier",
@@ -145,15 +156,15 @@
       "published": "2026-10-03 19:00"
     },
     {
-      "id": "1i6ios2",
-      "title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
-      "title_vi": "Trump cho biết thỏa thuận của Hàn Quốc bao gồm dự án dầu mỏ trị giá 8,4 tỷ USD của Mỹ",
-      "summary_vi": "Tổng thống Donald Trump hôm thứ Sáu cho biết thỏa thuận đầu tư của Hàn Quốc với Hoa Kỳ hiện bao gồm 8,4 tỷ USD cho một dự án tăng cường thu hồi dầu. Seoul cho biết họ đồng ý không có điều đó. “Thỏa thuận với Hàn Quốc ngày càng TỐT HƠN! 8,4 tỷ đô la cho một en",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-South-Korea-Deal-Includes-84-Billion-US-Oil-Project.html",
-      "source": "OilPrice",
+      "id": "64rltq",
+      "title": "Zelenskyy says Ukraine will intensify oil refinery attacks as Kyiv bridges come under fire",
+      "title_vi": "Zelenskyy nói Ukraine sẽ tăng cường tấn công nhà máy lọc dầu khi cầu Kyiv bị cháy",
+      "summary_vi": "Khi Moscow tăng cường các cuộc tấn công vào Kyiv và các thành phố khác, Tổng thống Ukraine Volodymyr Zelenskyy đã tuyên bố sẽ tấn công cơ sở hạ tầng năng lượng của Nga.",
+      "image": "https://static.dw.com/image/79527498_6.jpg",
+      "link": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753",
+      "source": "dw.com",
       "category": "energy",
-      "published": "2026-10-03 04:30"
+      "published": "2026-10-03 15:37"
     },
     {
       "id": "cug8q5",
@@ -539,17 +550,6 @@
       "source": "Seeking Alpha",
       "category": "metal",
       "published": "2026-10-02 02:17"
-    },
-    {
-      "id": "zsnrgn",
-      "title": "Gold edges up as softer inflation data dents Fed rate-hike bets",
-      "title_vi": "Vàng tăng giá khi dữ liệu lạm phát giảm nhẹ đặt cược vào việc tăng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-inches-higher-softer-us-inflation-dims-october-fed-hike-bets-2026-10-01/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-10-02 02:14"
     }
   ]
 }

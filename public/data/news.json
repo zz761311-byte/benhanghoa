@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05 04:40",
+  "updated_at": "2026-10-05 05:00",
   "items": [
     {
       "id": "14zkbhz",
@@ -165,6 +165,17 @@
       "source": "theguardian.com",
       "category": "energy",
       "published": "2026-10-03 19:00"
+    },
+    {
+      "id": "s6hekh",
+      "title": "Palladium Oct '26 Futures Price History",
+      "title_vi": "Lịch sử giá tương lai của Palladium ngày 26 tháng 10",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barchart.com/futures/quotes/PAV26/price-history",
+      "source": "Barchart.com",
+      "category": "metal",
+      "published": "2026-10-03 17:30"
     },
     {
       "id": "64rltq",
@@ -539,17 +550,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-10-02 03:18"
-    },
-    {
-      "id": "1vwyhol",
-      "title": "USDA confirms tightening grain and oilseed supplies",
-      "title_vi": "USDA xác nhận thắt chặt nguồn cung ngũ cốc và hạt có dầu",
-      "summary_vi": "Bởi Mike Zuzolo, Công ty TNHH Tư vấn & Phân tích Hàng hóa Toàn cầuVới năng lượng đang tiếp tục phục hồi, thắt chặt",
-      "image": "https://ocj.com/wp-content/uploads/2026/10/USDA-confirms-tightening-grain-and-oilseed-supplies.png",
-      "link": "https://ocj.com/2026/10/usda-confirms-tightening-grain-and-oilseed-supplies/",
-      "source": "Ohio Ag Net",
-      "category": "agri",
-      "published": "2026-10-02 02:20"
     }
   ]
 }

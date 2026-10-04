@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-04 20:02",
+  "updated_at": "2026-10-04 21:01",
   "items": [
+    {
+      "id": "1jltprk",
+      "title": "America’s Copper Hoard Stokes Fear of a Supply Crunch",
+      "title_vi": "Kho dự trữ đồng của Mỹ gây lo ngại về tình trạng khan hiếm nguồn cung",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/americas-copper-hoard-stokes-fear-of-a-supply-crunch-0097b560",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-10-04 16:00"
+    },
     {
       "id": "155hpyt",
       "title": "The Iran War Is Showing What ADNOC’s AI Can Really Do",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-10-02 02:14"
-    },
-    {
-      "id": "1bjnkns",
-      "title": "Why copper prices could soar… and three stocks to play it",
-      "title_vi": "Tại sao giá đồng có thể tăng vọt… và ba cổ phiếu đóng vai trò đó",
-      "summary_vi": "Deutsche Bank dự đoán giá đồng sẽ tăng khoảng 50% vào năm 2027. Đây là lý do tại sao nguồn cung thắt chặt và nhu cầu ngày càng tăng có thể khiến lượng dự trữ đồng tăng cao.",
-      "image": "https://marketwise.com/wp-content/uploads/2026/10/20261001-meg-01.png",
-      "link": "https://marketwise.com/money-megatrends/why-copper-prices-could-soar-and-three-stocks-to-play-it/",
-      "source": "MarketWise",
-      "category": "metal",
-      "published": "2026-10-02 02:00"
     }
   ]
 }

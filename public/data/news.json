@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-05 19:01",
+  "updated_at": "2026-10-05 19:43",
   "items": [
+    {
+      "id": "rv6a1h",
+      "title": "South Korea Plans to Triple Canadian Crude Imports as Saudi Share Slips",
+      "title_vi": "Hàn Quốc có kế hoạch tăng gấp ba lần nhập khẩu dầu thô của Canada khi cổ phiếu của Saudi trượt dốc",
+      "summary_vi": "Tỷ trọng dầu thô của Saudi Arabia trong nhập khẩu dầu của Hàn Quốc lần đầu tiên giảm xuống dưới 30% kể từ năm 2021, do nền kinh tế G7 nghèo tài nguyên chuyển sang đa dạng hóa nguồn cung trong bối cảnh khủng hoảng Trung Đông. Trong khoảng thời gian từ tháng 1 đến tháng 8, dầu thô Saudi chiếm 29,9% tổng sản lượng của Hàn Quốc",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-05_w8e9yvr6no.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Plans-to-Triple-Canadian-Crude-Imports-as-Saudi-Share-Slips.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-05 19:30"
+    },
+    {
+      "id": "k0vlge",
+      "title": "Gold prices rise after weak September jobs report dims Fed rate hike",
+      "title_vi": "Giá vàng tăng sau khi báo cáo việc làm yếu trong tháng 9 làm giảm mức tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://qz.com/gold-prices-rise-september-jobs-report-fed-rate-hike-100526",
+      "source": "qz.com",
+      "category": "metal",
+      "published": "2026-10-05 19:22"
+    },
     {
       "id": "l9czdb",
       "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
@@ -132,17 +154,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-10-05 05:41"
-    },
-    {
-      "id": "14zkbhz",
-      "title": "Europe’s Diesel Woes Just Got Even Worse",
-      "title_vi": "Những tai họa về động cơ diesel ở Châu Âu thậm chí còn tồi tệ hơn",
-      "summary_vi": "Trung Quốc trong tuần này tuyên bố sẽ đình chỉ tất cả hoạt động xuất khẩu nhiên liệu trong tháng này để duy trì nguồn cung cho thị trường nội địa. Cũng trong tuần này, Tổng thống Donald Trump yêu cầu Đức và Pháp giải phóng 120 triệu thùng dầu diesel từ kho lưu trữ của họ nếu không sẽ bị ảnh hưởng bởi lệnh cấm xuất khẩu dầu diesel của Mỹ. E",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-04_h0hleg3cfc.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Europes-Diesel-Woes-Just-Got-Even-Worse.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-05 04:00"
     },
     {
       "id": "1lgve75",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-10-02 15:45"
-    },
-    {
-      "id": "1e2qa88",
-      "title": "FAO Food Price Index rises in September amid weather concerns and transport disruptions",
-      "title_vi": "Chỉ số giá thực phẩm FAO tăng trong tháng 9 do lo ngại về thời tiết và gián đoạn giao thông",
-      "summary_vi": "Sự gián đoạn thương mại góp phần khiến giá ngũ cốc tăng cao, trong khi thời tiết bất lợi đè nặng lên triển vọng sản xuất đường.",
-      "image": "https://www.fao.org/media/images/newsroomlibraries/default-album/oct26fpi-uf21936-25221_0215.jpg?sfvrsn=e377b1d1_2",
-      "link": "https://www.fao.org/newsroom/detail/fao-food-price-index-rises-in-september-amid-weather-concerns-and-transport-disruptions/en",
-      "source": "Food and Agriculture Organization",
-      "category": "soft",
-      "published": "2026-10-02 15:42"
     }
   ]
 }

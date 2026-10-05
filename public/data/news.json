@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05 09:00",
+  "updated_at": "2026-10-05 10:01",
   "items": [
     {
       "id": "49dyak",
@@ -187,6 +187,17 @@
       "source": "dw.com",
       "category": "energy",
       "published": "2026-10-03 15:37"
+    },
+    {
+      "id": "riimrz",
+      "title": "Natural Gas Turns Higher Amid Uncertain Outlook",
+      "title_vi": "Khí tự nhiên tăng cao hơn trong bối cảnh triển vọng không chắc chắn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/natural-gas-moves-lower-as-eia-reports-record-high-production-5779641b",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-10-03 03:59"
     },
     {
       "id": "cug8q5",
@@ -539,17 +550,6 @@
       "source": "Pro Farmer",
       "category": "agri",
       "published": "2026-10-02 03:34"
-    },
-    {
-      "id": "cffkdk",
-      "title": "Aluminum price falls to a 12-week low on stronger dollar",
-      "title_vi": "Giá nhôm giảm xuống mức thấp nhất 12 tuần do đồng đô la mạnh hơn",
-      "summary_vi": "Giá nhôm giảm 18% kể từ khi đạt mức cao nhất trong 4 năm vào tháng 6 do lo lắng về nguồn cung và năng lực sản xuất mới giảm bớt.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/03/AdobeStock_1724204345-1024x683.jpeg",
-      "link": "https://www.mining.com/web/aluminum-price-falls-to-a-12-week-low-on-stronger-dollar/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-10-02 03:18"
     }
   ]
 }

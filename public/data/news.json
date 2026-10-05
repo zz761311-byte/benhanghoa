@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-05 13:00",
+  "updated_at": "2026-10-05 14:01",
   "items": [
+    {
+      "id": "8jpbgd",
+      "title": "OPEC+ Holds November Quota at 31.01 Million Barrels Daily",
+      "title_vi": "OPEC+ giữ hạn ngạch tháng 11 ở mức 31,01 triệu thùng mỗi ngày",
+      "summary_vi": "Vào Chủ nhật, OPEC + đã đồng ý giữ hạn ngạch sản xuất dầu trong tháng tới không thay đổi so với hạn ngạch này, phù hợp với kỳ vọng, sau khi họ dỡ bỏ việc cắt giảm sản lượng vào đầu năm nay nhằm bù đắp tình trạng thiếu nguồn cung ngày càng trầm trọng từ Trung Đông. Tổng số tháng 10 và tháng 11",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-05_ytujuar0bm.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Holds-November-Quota-at-3101-Million-Barrels-Daily.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-05 14:00"
+    },
     {
       "id": "1ok9hqh",
       "title": "Oil Prices Fall as Hormuz Crude Flows Top Pre-War Levels",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-05 12:26"
+    },
+    {
+      "id": "mlnd8o",
+      "title": "Gold nudges lower as dollar holds firm",
+      "title_vi": "Vàng giảm do đồng đô la giữ vững",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-gains-october-fed-rate-hike-prospects-fade-2026-10-05/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-10-05 09:12"
     },
     {
       "id": "49dyak",
@@ -110,17 +132,6 @@
       "source": "PotatoPro",
       "category": "energy",
       "published": "2026-10-04 04:44"
-    },
-    {
-      "id": "rrul50",
-      "title": "Could White Hydrogen Succeed Where Green Hydrogen Stumbled?",
-      "title_vi": "Hydro trắng có thể thành công ở nơi hydro xanh vấp ngã?",
-      "summary_vi": "Sự cường điệu về hydro xanh gần như đã bị đình trệ - nhưng liệu hydro trắng có thể chiếm vị trí là yếu tố quan trọng tiếp theo trong quá trình khử cacbon? Hydro địa chất, còn được gọi là hydro 'trắng', có khả năng vượt qua các rào cản quan trọng nhất để mở rộng quy mô sử dụng hydro mà không tốn nhiều năng lượng.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-02_n6ufxcvo7a.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Could-White-Hydrogen-Succeed-Where-Green-Hydrogen-Stumbled.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-04 04:00"
     },
     {
       "id": "oqjewe",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-02 05:21"
-    },
-    {
-      "id": "1pev2uq",
-      "title": "Platinum, Dynamic, and Pricemaster: Senate Report Sheds Light on Ticketmaster’s Price-Surging Playbook",
-      "title_vi": "Bạch kim, năng động và quản lý giá: Báo cáo của Thượng viện làm sáng tỏ chiến lược tăng giá của Ticketmaster",
-      "summary_vi": "Một báo cáo của Thượng viện nêu chi tiết cách các hệ thống và ưu tiên kinh doanh của Live Nation và Ticketmaster được thiết kế để tăng giá vé.",
-      "image": "https://www.ticketnews.com/wp-content/uploads/2024/12/Morgan-Wallen.webp",
-      "link": "https://www.ticketnews.com/2026/03/platinum-dynamic-and-pricemaster-senate-report-shines-a-light-on-ticketmasters-price-surging-playbook/",
-      "source": "TicketNews",
-      "category": "metal",
-      "published": "2026-10-02 05:03"
     }
   ]
 }

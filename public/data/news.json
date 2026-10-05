@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05 11:01",
+  "updated_at": "2026-10-05 12:01",
   "items": [
     {
       "id": "49dyak",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-05 06:00"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-05 05:41"
     },
     {
       "id": "14zkbhz",
@@ -299,6 +310,17 @@
       "published": "2026-10-02 21:58"
     },
     {
+      "id": "eb5mtb",
+      "title": "Who’s ahead on the generic congressional ballot?",
+      "title_vi": "Ai dẫn trước trong cuộc bỏ phiếu chung của quốc hội?",
+      "summary_vi": "Công cụ theo dõi các cuộc thăm dò được cập nhật liên tục của chúng tôi về chỉ số quan trọng nhất trong cuộc đua vào Quốc hội.",
+      "image": "https://substackcdn.com/image/fetch/$s_!DHD9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b7584a6-a95a-4054-90c6-ca160d014d37_1200x831.jpeg",
+      "link": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls",
+      "source": "Silver Bulletin",
+      "category": "metal",
+      "published": "2026-10-02 20:53"
+    },
+    {
       "id": "xmpb5k",
       "title": "Weekly Coffee News: Marketplace Launches + Dolly&#8217;s New Coffee Commercial",
       "title_vi": "Tin tức Cà phê Hàng tuần: Ra mắt Marketplace + Quảng cáo Cà phê Mới của Dolly",
@@ -363,6 +385,17 @@
       "source": "reuters.com",
       "category": "agri",
       "published": "2026-10-02 17:02"
+    },
+    {
+      "id": "1xsoalm",
+      "title": "Copper Price Gains Analyst Attention Heading Into October. Here's Why",
+      "title_vi": "Giá đồng thu hút sự chú ý của nhà phân tích vào tháng 10. Đây là lý do tại sao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/copper-price-gains-analyst-attention-093802222.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-10-02 16:38"
     },
     {
       "id": "19th6qr",
@@ -517,39 +550,6 @@
       "source": "TicketNews",
       "category": "metal",
       "published": "2026-10-02 05:03"
-    },
-    {
-      "id": "ymkl1",
-      "title": "Natural Gas Market Indicators – October 1, 2026",
-      "title_vi": "Các chỉ số thị trường khí đốt tự nhiên - ngày 1 tháng 10 năm 2026",
-      "summary_vi": "Sản lượng mạnh và tồn kho dự trữ cao đang định hình triển vọng khí đốt tự nhiên của Hoa Kỳ hướng tới mùa đông 2026–2027. Trong Báo cáo Triển vọng Năng lượng Ngắn hạn (STEO) tháng 9, Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA) ước tính rằng tồn kho lưu trữ dưới lòng đất có thể đạt tới 4 Tcf vào cuối tháng 10 – tức là",
-      "image": "https://www.aga.org/wp-content/uploads/2026/10/NGMI-518-Price-v2.png",
-      "link": "https://www.aga.org/research-policy/resource-library/natural-gas-market-indicators-october-1-2026/",
-      "source": "aga.org",
-      "category": "energy",
-      "published": "2026-10-02 04:55"
-    },
-    {
-      "id": "789lrx",
-      "title": "Can a cup of coffee really cost you a career opportunity?",
-      "title_vi": "Liệu một tách cà phê có thực sự khiến bạn mất đi cơ hội nghề nghiệp?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.cbsnews.com/pittsburgh/video/can-a-cup-of-coffee-really-cost-you-a-career-opportunity/",
-      "source": "CBS News",
-      "category": "soft",
-      "published": "2026-10-02 03:58"
-    },
-    {
-      "id": "onvn9w",
-      "title": "Crops Analysis | Corn, wheat turn late in the session to score minor gains",
-      "title_vi": "Phân tích cây trồng | Ngô, lúa mì quay đầu cuối phiên ghi điểm tăng nhẹ",
-      "summary_vi": "Ngày 1 tháng 10 năm 2026",
-      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
-      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-corn-wheat-turn-late-session-score-minor-gains",
-      "source": "Pro Farmer",
-      "category": "agri",
-      "published": "2026-10-02 03:34"
     }
   ]
 }

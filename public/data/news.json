@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-06 02:00",
+  "updated_at": "2026-10-06 03:01",
   "items": [
+    {
+      "id": "vtiyj5",
+      "title": "Germany Is Spending €2 Billion to Discover the Real Price of Clean Jet Fuel",
+      "title_vi": "Đức đang chi 2 tỷ euro để tìm ra giá thực sự của nhiên liệu máy bay phản lực sạch",
+      "summary_vi": "Hàng không điện đang tiến bộ nhanh hơn nhiều nhà phê bình mong đợi. Pin sẽ không chỉ giới hạn ở các máy bay thử nghiệm nhỏ, và các tuyến đường ngắn trong khu vực là một thị trường ban đầu đáng tin cậy. Nhưng máy bay điện sẽ không thay thế được mọi máy bay phản lực. Hàng không đường dài đòi hỏi năng lượng rất lớn",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-05_aaphdfcfhj.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Germany-Is-Spending-2-Billion-to-Discover-the-Real-Price-of-Clean-Jet-Fuel.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-06 03:00"
+    },
     {
       "id": "r7pmmq",
       "title": "Southeast Asia’s Oil and Gas M&A Market Is Heating Up",
@@ -110,17 +121,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-05 22:31"
-    },
-    {
-      "id": "4k6kg",
-      "title": "EU Electric Vehicle Sales Hit Record as Fuel Prices Surge",
-      "title_vi": "Doanh số bán xe điện của EU đạt kỷ lục khi giá nhiên liệu tăng cao",
-      "summary_vi": "Giá nhiên liệu cao kỷ lục và số lượng kỷ lục các mẫu xe mới giá cả phải chăng đã đẩy doanh số bán xe điện ở Liên minh châu Âu lên mức cao nhất mọi thời đại trong năm nay, Transport & Environment, một nhóm vận động châu Âu về giao thông sạch và năng lượng, cho biết trong một báo cáo hôm thứ Hai.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-05_8kqswkxdhl.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Electric-Vehicle-Sales-Hit-Record-as-Fuel-Prices-Surge.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-05 22:30"
     },
     {
       "id": "k5k8ry",
@@ -387,6 +387,17 @@
       "published": "2026-10-04 04:19"
     },
     {
+      "id": "1re31k0",
+      "title": "The G7 Is Releasing Emergency Fuel Reserves. How Much Will It Help Americans?",
+      "title_vi": "G7 đang phát hành dự trữ nhiên liệu khẩn cấp. Nó sẽ giúp ích được bao nhiêu cho người Mỹ?",
+      "summary_vi": "Cơ quan Năng lượng Quốc tế sẽ điều phối việc giải phóng 100 triệu thùng dầu và sản phẩm nhiên liệu trong 4 tháng tới trong bối cảnh thiếu nhiên liệu toàn cầu.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltcfcf1db15c8ef629/6ac1602e9e73444d15079ec8/GettyImages-2297102806.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
+      "link": "https://time.com/article/2026/10/03/the-g7-is-releasing-emergency-fuel-reserves-how-much-will-it-help-americans-/",
+      "source": "Time Magazine",
+      "category": "energy",
+      "published": "2026-10-04 02:13"
+    },
+    {
       "id": "oqjewe",
       "title": "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
       "title_vi": "Cuộc đàm phán Mỹ-Nga về Ukraine hiện liên quan đến một thỏa thuận dầu mỏ gắn liền với các đồng minh của Trump",
@@ -539,17 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-10-03 03:47"
-    },
-    {
-      "id": "cug8q5",
-      "title": "Crops Analysis | Corrective bounce in cotton",
-      "title_vi": "Phân tích cây trồng | Chỉnh sửa độ nảy trên bông",
-      "summary_vi": "Ngày 2 tháng 10 năm 2026",
-      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
-      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-corrective-bounce-cotton",
-      "source": "Pro Farmer",
-      "category": "soft",
-      "published": "2026-10-03 03:35"
     }
   ]
 }

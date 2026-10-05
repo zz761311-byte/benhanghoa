@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05 16:00",
+  "updated_at": "2026-10-05 17:00",
   "items": [
     {
       "id": "12tclap",
@@ -99,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-05 04:00"
+    },
+    {
+      "id": "1lgve75",
+      "title": "Ukraine War, Day 1,683: Zelensky — We Will Step Up Attacks on Russia’s Oil Refineries",
+      "title_vi": "Chiến tranh Ukraine, Ngày 1.683: Zelensky - Chúng tôi sẽ tăng cường tấn công vào các nhà máy lọc dầu của Nga",
+      "summary_vi": "Tổng thống Ukraine Volodymyr Zelensky: Chúng tôi sẽ gia tăng các cuộc tấn công vào các nhà máy lọc dầu của Nga vì các cuộc tấn công của Moscow nhằm mục đích phá hoại dân thường.",
+      "image": "https://eaworldview.com/wp-content/uploads/2026/08/UKRAINE-STRIKE-RUSSIA-KSTOVO-REFINERY-26-08-26-e1787831348841.jpg",
+      "link": "https://eaworldview.com/2026/10/ukraine-war-zelensky-we-will-step-up-attacks-on-russias-oil-refineries/",
+      "source": "EA WorldView",
+      "category": "energy",
+      "published": "2026-10-05 02:07"
     },
     {
       "id": "7e53a0",
@@ -539,17 +550,6 @@
       "source": "IndexBox",
       "category": "soft",
       "published": "2026-10-02 07:11"
-    },
-    {
-      "id": "55v3l1",
-      "title": "New York is one of America's biggest coffee-loving states",
-      "title_vi": "New York là một trong những bang yêu thích cà phê nhất nước Mỹ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.lohud.com/story/news/2026/10/01/new-york-ranks-no-3-coffee-interest-study/92046555007/",
-      "source": "The Journal News | lohud.com",
-      "category": "soft",
-      "published": "2026-10-02 05:50"
     }
   ]
 }

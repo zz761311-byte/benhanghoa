@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05 19:43",
+  "updated_at": "2026-10-05 20:01",
   "items": [
     {
       "id": "rv6a1h",
@@ -77,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-05 15:00"
+    },
+    {
+      "id": "lxjbp0",
+      "title": "Natural Gas and Oil Forecast: OPEC+ Holds Supply, Can WTI Reclaim $92.90?",
+      "title_vi": "Dự báo khí đốt tự nhiên và dầu: OPEC + giữ nguồn cung, WTI có thể lấy lại 92,90 USD không?",
+      "summary_vi": "WTI chịu áp lực dưới 92,90 USD, Brent giữ trên 98,71 USD và khí đốt tự nhiên lấy lại 3,00 USD do OPEC+ giữ sản lượng tháng 11 không thay đổi.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-3.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-opec-holds-supply-can-wti-reclaim-92-90-1635264",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-10-05 14:46"
     },
     {
       "id": "8jpbgd",
@@ -165,6 +176,17 @@
       "source": "EA WorldView",
       "category": "energy",
       "published": "2026-10-05 02:07"
+    },
+    {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-05 00:16"
     },
     {
       "id": "1jltprk",
@@ -528,28 +550,6 @@
       "source": "cnn.com",
       "category": "soft",
       "published": "2026-10-02 16:00"
-    },
-    {
-      "id": "3blxau",
-      "title": "Global Food Prices Rise as Cereal and Sugar Costs Surge, UN Says",
-      "title_vi": "LHQ cho biết giá lương thực toàn cầu tăng do chi phí ngũ cốc và đường tăng cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/global-food-prices-rise-as-cereal-and-sugar-costs-surge-un-says-495c84f2",
-      "source": "WSJ",
-      "category": "soft",
-      "published": "2026-10-02 15:57"
-    },
-    {
-      "id": "1gy50ip",
-      "title": "Oil Prices Fall as Middle East Crude Exports Recover But Shipping Risks Remain",
-      "title_vi": "Giá dầu giảm khi xuất khẩu dầu thô ở Trung Đông phục hồi nhưng rủi ro vận chuyển vẫn còn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-middle-east-crude-exports-recover-but-shipping-risks-remain-84ca187f",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-10-02 15:45"
     }
   ]
 }

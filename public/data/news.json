@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 03:00",
+  "updated_at": "2026-10-07 03:22",
   "items": [
     {
       "id": "wix3mb",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-07 02:00"
+    },
+    {
+      "id": "1a76i97",
+      "title": "Short-Term Energy Outlook",
+      "title_vi": "Triển vọng năng lượng ngắn hạn",
+      "summary_vi": "Cơ quan Thông tin Năng lượng - EIA - Thống kê Năng lượng Chính thức của Chính phủ Hoa Kỳ",
+      "image": "",
+      "link": "https://www.eia.gov/outlooks/steo/report/perspectives/2026/10-winterfuels/article.php",
+      "source": "U.S. Energy Information Administration (EIA) (.gov)",
+      "category": "energy",
+      "published": "2026-10-07 01:54"
     },
     {
       "id": "tn1iu0",
@@ -332,6 +343,17 @@
       "published": "2026-10-06 04:10"
     },
     {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-06 03:48"
+    },
+    {
       "id": "r63kzo",
       "title": "Silver shortage could flip to surplus in 2027: Deutsche",
       "title_vi": "Tình trạng thiếu bạc có thể chuyển sang thặng dư vào năm 2027: Deutsche",
@@ -528,28 +550,6 @@
       "source": "NewsNation",
       "category": "energy",
       "published": "2026-10-05 08:30"
-    },
-    {
-      "id": "49dyak",
-      "title": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
-      "title_vi": "Cú sốc giá nhiên liệu lần đầu tiên đẩy doanh số bán xe chạy xăng toàn cầu xuống dưới 50%",
-      "summary_vi": "Tỷ trọng ô tô chạy xăng trong doanh số bán ô tô toàn cầu lần đầu tiên giảm xuống dưới 50% do cú sốc Hormuz và dẫn đến giá nhiên liệu cao kỷ lục đã thúc đẩy sự chuyển dịch chậm chạp trước đây sang xe điện bên ngoài Trung Quốc.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-04_j5kzqcxliy.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-10-05 06:00"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-10-05 05:41"
     }
   ]
 }

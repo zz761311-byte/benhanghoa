@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-06 14:01",
+  "updated_at": "2026-10-06 15:01",
   "items": [
+    {
+      "id": "10lxal3",
+      "title": "Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways",
+      "title_vi": "Trump, Putin, Ukraine và thỏa thuận dầu mỏ: 5 bài học rút ra",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html",
+      "source": "The New York Times",
+      "category": "energy",
+      "published": "2026-10-06 14:54"
+    },
+    {
+      "id": "s2yc74",
+      "title": "Gold Steadies as Stronger Dollar and Yields Weigh on Rate Path",
+      "title_vi": "Vàng ổn định khi đồng đô la mạnh hơn và lợi suất ảnh hưởng đến đường giá",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/gold-steadies-as-stronger-dollar-and-yields-weigh-on-rate-path",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-10-06 14:10"
+    },
     {
       "id": "1nmlsfe",
       "title": "World Bank Warns Asia Is Running Out of Money to Fight Energy Shock",
@@ -33,6 +55,17 @@
       "source": "ING THINK Economic and financial analysis | ING THINK",
       "category": "energy",
       "published": "2026-10-06 11:49"
+    },
+    {
+      "id": "ied4c8",
+      "title": "Ukraine war briefing: Kyiv claims half of Russia’s oil refining capacity destroyed",
+      "title_vi": "Cuộc họp báo về chiến tranh Ukraine: Kiev tuyên bố một nửa công suất lọc dầu của Nga bị phá hủy",
+      "summary_vi": "Ukraine cho biết các cuộc tấn công tầm xa của họ đã gây tổn hại cho nền kinh tế Nga trong khi Vladimir Putin thừa nhận chúng khiến Nga thiệt hại khoảng 1% GDP. Những gì chúng ta biết vào ngày 1.686",
+      "image": "https://i.guim.co.uk/img/media/a2c1d410d40fb417b7aa753057ae64e3d9e53b86/451_0_4491_3592/master/4491.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=983b25ca7f50c5bee2fa650201726396",
+      "link": "https://www.theguardian.com/world/2026/oct/06/ukraine-war-briefing-kyiv-claims-half-of-russias-oil-refining-capacity-destroyed",
+      "source": "The Guardian",
+      "category": "energy",
+      "published": "2026-10-06 10:19"
     },
     {
       "id": "1wfk9ji",
@@ -178,17 +211,6 @@
       "published": "2026-10-06 01:02"
     },
     {
-      "id": "q8ff50",
-      "title": "Ukraine claims its attacks have taken out more than half of Russia's oil refining capacity - ABC News",
-      "title_vi": "Ukraine tuyên bố các cuộc tấn công của họ đã làm giảm hơn một nửa công suất lọc dầu của Nga - ABC News",
-      "summary_vi": "Ukraine cho biết các cuộc tấn công tầm xa của họ đã vô hiệu hóa hơn một nửa công suất lọc dầu của Nga",
-      "image": "https://i.abcnewsfe.com/a/61daf547-7b7c-49fc-9391-72b5c8d2d884/wirestory_48793b176934f0516b7402c8706a421a_16x9.jpg?w=1600",
-      "link": "https://abcnews.com/International/wireStory/ukraine-claims-attacks-half-russias-oil-refining-capacity-136996326",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-10-05 23:10"
-    },
-    {
       "id": "1sx7707",
       "title": "Crude oil prices and refinery margins generally increased throughout the third quarter",
       "title_vi": "Giá dầu thô và biên lợi nhuận lọc dầu nhìn chung tăng trong quý 3",
@@ -297,17 +319,6 @@
       "source": "StoneX",
       "category": "macro",
       "published": "2026-10-05 19:32"
-    },
-    {
-      "id": "k0vlge",
-      "title": "Gold prices rise after weak September jobs report dims Fed rate hike",
-      "title_vi": "Giá vàng tăng sau khi báo cáo việc làm yếu trong tháng 9 làm giảm mức tăng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://qz.com/gold-prices-rise-september-jobs-report-fed-rate-hike-100526",
-      "source": "qz.com",
-      "category": "metal",
-      "published": "2026-10-05 19:22"
     },
     {
       "id": "106dv64",
@@ -539,17 +550,6 @@
       "source": "theguardian.com",
       "category": "energy",
       "published": "2026-10-03 19:00"
-    },
-    {
-      "id": "s6hekh",
-      "title": "Palladium Oct '26 Futures Price History",
-      "title_vi": "Lịch sử giá tương lai của Palladium ngày 26 tháng 10",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barchart.com/futures/quotes/PAV26/price-history",
-      "source": "Barchart.com",
-      "category": "metal",
-      "published": "2026-10-03 17:30"
     }
   ]
 }

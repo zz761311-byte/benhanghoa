@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-07 04:01",
+  "updated_at": "2026-10-07 05:00",
   "items": [
+    {
+      "id": "17moylu",
+      "title": "G7’s 100 Million Barrel Release Is Mostly Already Priced In",
+      "title_vi": "Số lượng 100 triệu thùng phát hành của G7 hầu hết đã được định giá",
+      "summary_vi": "Sau áp lực từ Tổng thống Mỹ Donald Trump, các nhà lãnh đạo G7 hôm thứ Sáu đã công bố phối hợp giải phóng 100 triệu thùng tồn kho dầu khẩn cấp thông qua IEA, bắt đầu ngay lập tức và hoàn thành trong vòng 4 tháng. Trước đó Trump dọa cấm xuất khẩu dầu diesel của Mỹ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-06_oipxrwfa9n.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/G7s-100-Million-Barrel-Release-Is-Mostly-Already-Priced-In.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-07 05:00"
+    },
+    {
+      "id": "4osc9v",
+      "title": "US Crude Inventories Slide",
+      "title_vi": "Trượt tồn kho dầu thô của Mỹ",
+      "summary_vi": "Viện Dầu khí Hoa Kỳ (API) ước tính rằng tồn kho dầu thô ở Hoa Kỳ đã giảm 2,09 triệu thùng trong tuần kết thúc vào ngày 2 tháng 10. Trong tuần trước, tồn kho dầu thô của Hoa Kỳ đã tăng 1,019 triệu thùng. Tồn kho dầu thô thương mại không bao gồm SPR ha",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-06_dn8jy7vcmb.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Inventories-Slide.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-07 04:15"
+    },
     {
       "id": "1gn7zls",
       "title": "Europe&#039;s Power Grid Is Digitalizing Faster Than Regulators Can Keep Up",
@@ -123,17 +145,6 @@
       "published": "2026-10-07 00:00"
     },
     {
-      "id": "8pndtg",
-      "title": "Saudi East-West Pipeline Moves 5.8 Million Barrels as Red Sea Route Recovers",
-      "title_vi": "Đường ống Đông-Tây của Saudi di chuyển 5,8 triệu thùng khi tuyến đường Biển Đỏ phục hồi",
-      "summary_vi": "Bộ trưởng Năng lượng, Hoàng tử Abdulaziz bin Salman cho biết, đường ống Đông-Tây của Ả Rập Saudi đã vận chuyển 5,8 triệu thùng dầu thô tính đến sáng thứ Ba, bổ sung thêm dầu vào tuyến xuất khẩu Biển Đỏ của vương quốc này khi các nhà sản xuất vùng Vịnh tiếp tục làm việc quanh eo biển Hormuz. Xe đường ống",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-06_6ll53wgc4w.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-East-West-Pipeline-Moves-58-Million-Barrels-as-Red-Sea-Route-Recovers.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-06 23:30"
-    },
-    {
       "id": "126nooc",
       "title": "Chile Government estimates 2026 average copper price at USD 6.15/lb and 2027 at USD 5.65/lb.",
       "title_vi": "Chính phủ Chile ước tính giá đồng trung bình năm 2026 ở mức 6,15 USD/lb và năm 2027 ở mức 5,65 USD/lb.",
@@ -143,17 +154,6 @@
       "source": "Newsquawk",
       "category": "metal",
       "published": "2026-10-06 23:07"
-    },
-    {
-      "id": "q7ufx",
-      "title": "The Hidden Cost of Saudi Arabia’s Oil Export Recovery",
-      "title_vi": "Cái giá tiềm ẩn của việc phục hồi xuất khẩu dầu của Ả Rập Saudi",
-      "summary_vi": "Brent giữ gần 100 USD khi dòng dầu phục hồi ở vùng Vịnh va chạm với chi phí vận chuyển hàng hóa kỷ lục và rủi ro tàu chở dầu gia tăng. Thị trường sản phẩm châu Á mất van an toàn Trung Quốc - Trung Quốc đã đi đầu trong đợt tăng giá sản phẩm tinh chế trong tháng này sau khi Bộ Thương mại nước này tuyên bố",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-06_exu4jfm9fx.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/The-Hidden-Cost-of-Saudi-Arabias-Oil-Export-Recovery.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-06 23:05"
     },
     {
       "id": "1hw28b0",
@@ -431,6 +431,17 @@
       "published": "2026-10-06 01:02"
     },
     {
+      "id": "ky8x9j",
+      "title": "Cocoa Prices Climb as Excessive Ivory Coast Rains Slow Cocoa Deliveries",
+      "title_vi": "Giá ca cao tăng cao khi Bờ Biển Ngà mưa quá nhiều Giao hàng ca cao chậm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/cocoa-prices-climb-excessive-ivory-161006287.html",
+      "source": "Yahoo Finance",
+      "category": "soft",
+      "published": "2026-10-05 23:10"
+    },
+    {
       "id": "1sx7707",
       "title": "Crude oil prices and refinery margins generally increased throughout the third quarter",
       "title_vi": "Giá dầu thô và biên lợi nhuận lọc dầu nhìn chung tăng trong quý 3",
@@ -539,17 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-10-05 17:58"
-    },
-    {
-      "id": "rr0vzk",
-      "title": "Innovation Is Always Welcome in the Sweetener Category",
-      "title_vi": "Sự đổi mới luôn được chào đón trong danh mục chất ngọt",
-      "summary_vi": "Thị trường chất ngọt đang có xu hướng đi lên, được thúc đẩy bởi sự thay đổi sở thích của người tiêu dùng đối với các sản phẩm thay thế đường. Các nhà sản xuất đang chú ý bằng cách cung cấp các loại chất làm ngọt mới có hàm lượng calo thấp hoặc không có calo hoặc cải tiến các thành phần nổi tiếng bằng công nghệ mới.",
-      "image": "https://cdn.sanity.io/images/0vv8moc6/nutrioutlook/2d8c0ab2a5ca0ef8cde71ee3bed8020d29dfdea2-1200x800.jpg",
-      "link": "https://www.nutritionaloutlook.com/view/innovation-is-always-welcome-in-the-sweetener-category",
-      "source": "Nutritional Outlook",
-      "category": "soft",
-      "published": "2026-10-05 16:45"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-06 15:10",
+  "updated_at": "2026-10-06 16:00",
   "items": [
+    {
+      "id": "1iil0iw",
+      "title": "Platinum Price Forecast: Strong Dollar Limits Recovery Below $1,900",
+      "title_vi": "Dự báo giá bạch kim: Phục hồi giới hạn đồng đô la mạnh dưới 1.900 USD",
+      "summary_vi": "Sự phục hồi của bạch kim phải đối mặt với áp lực từ đồng đô la Mỹ mạnh và rủi ro lạm phát, trong khi biên bản sắp tới của Fed có thể xác định động thái tiếp theo.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/platinum-metal-illustration-02.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/premium-platinum-price-forecast-strong-dollar-limits-recovery-below-1900-1635817",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-10-06 15:23"
+    },
     {
       "id": "1hn8vp5",
       "title": "Gulf Oil Exports Recover to 81% of Pre-War Levels",
@@ -539,17 +550,6 @@
       "source": "thehill.com",
       "category": "energy",
       "published": "2026-10-03 19:11"
-    },
-    {
-      "id": "1ykz5ie",
-      "title": "Soaring diesel prices take their toll on US farmers in midwest corn belt",
-      "title_vi": "Giá dầu diesel tăng vọt gây thiệt hại cho nông dân Mỹ ở vành đai ngô Trung Tây",
-      "summary_vi": "Chi phí nhiên liệu đang gây khó khăn cho người trồng trọt, các công ty vận tải đường bộ và một loạt các ngành công nghiệp khác khi chiến tranh Iran gây ra mức giá kỷ lục",
-      "image": "https://i.guim.co.uk/img/media/f3458c8f45d7533d5f6fd936fa6b92236e7d1cf1/0_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3831b2efe2be94af14f1a7f2d6dbd341",
-      "link": "https://www.theguardian.com/us-news/2026/oct/03/diesel-prices-midwest-farmers",
-      "source": "theguardian.com",
-      "category": "energy",
-      "published": "2026-10-03 19:00"
     }
   ]
 }

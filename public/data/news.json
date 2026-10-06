@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-07 03:22",
+  "updated_at": "2026-10-07 04:01",
   "items": [
+    {
+      "id": "1gn7zls",
+      "title": "Europe&#039;s Power Grid Is Digitalizing Faster Than Regulators Can Keep Up",
+      "title_vi": "Lưới điện của Châu Âu đang số hóa nhanh hơn mức cơ quan quản lý có thể theo kịp",
+      "summary_vi": "Bối cảnh năng lượng toàn cầu đang trải qua quá trình chuyển đổi nhanh chóng khi thời đại điện khí hóa diễn ra và sự phát triển vượt bậc của trí tuệ nhân tạo đặt ra những thách thức và khả năng mới trong sản xuất và sử dụng năng lượng, cũng như cách thức vận hành lưới điện của chúng ta.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-06_yjmrvshw8i.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Power-Grid-Is-Digitalizing-Faster-Than-Regulators-Can-Keep-Up.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-07 04:00"
+    },
+    {
+      "id": "14sxs8y",
+      "title": "Natural gas gets a boost in government winter forecast",
+      "title_vi": "Khí đốt tự nhiên được chính phủ nâng cao dự báo mùa đông",
+      "summary_vi": "Khách hàng sử dụng dầu sưởi đang nhận được nhiều tin xấu hơn do giá dầu ngày càng tăng. Nó đến từ Cơ quan Thông tin Năng lượng Hoa Kỳ đã phát hành",
+      "image": "https://okenergytoday.com/wp-content/uploads/2026/10/homeheatingoil.jpg",
+      "link": "https://okenergytoday.com/2026/10/natural-gas-gets-a-boost-in-government-winter-forecast/",
+      "source": "Oklahoma Energy Today",
+      "category": "energy",
+      "published": "2026-10-07 03:29"
+    },
     {
       "id": "wix3mb",
       "title": "Halliburton Shuns Falklands Oil Project",
@@ -53,7 +75,7 @@
       "image": "",
       "link": "https://www.eia.gov/outlooks/steo/report/perspectives/2026/10-winterfuels/article.php",
       "source": "U.S. Energy Information Administration (EIA) (.gov)",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-10-07 01:54"
     },
     {
@@ -132,17 +154,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-06 23:05"
-    },
-    {
-      "id": "ehil8e",
-      "title": "Gulf Storm Threat Could Put 3 Million Bpd of Refining Capacity at Risk",
-      "title_vi": "Mối đe dọa bão vùng Vịnh có thể khiến công suất lọc dầu 3 triệu thùng/ngày gặp rủi ro",
-      "summary_vi": "Đỉnh điểm khí hậu của mùa bão Đại Tây Dương là vào giữa tháng 9 và cho đến nay, mùa này rất yên tĩnh do hiện tượng gió đứt El Niño phá vỡ các nhiễu loạn nhiệt đới ở lưu vực Đại Tây Dương. Vào sáng thứ Hai, Trung tâm Bão quốc gia đã đưa ra cảnh báo nhiễu loạn nhiệt đới",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-06_nxmnzw70a1.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Gulf-Storm-Threat-Could-Put-3-Million-Bpd-of-Refining-Capacity-at-Risk.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-06 23:00"
     },
     {
       "id": "1hw28b0",
@@ -398,6 +409,17 @@
       "published": "2026-10-06 02:23"
     },
     {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-06 01:39"
+    },
+    {
       "id": "u7tl6k",
       "title": "Cocoa prices are climbing again. Here’s why this time is different",
       "title_vi": "Giá ca cao đang tăng trở lại. Đây là lý do tại sao lần này lại khác",
@@ -528,28 +550,6 @@
       "source": "Nutritional Outlook",
       "category": "soft",
       "published": "2026-10-05 16:45"
-    },
-    {
-      "id": "lxjbp0",
-      "title": "Natural Gas and Oil Forecast: OPEC+ Holds Supply, Can WTI Reclaim $92.90?",
-      "title_vi": "Dự báo khí đốt tự nhiên và dầu: OPEC + giữ nguồn cung, WTI có thể lấy lại 92,90 USD không?",
-      "summary_vi": "WTI chịu áp lực dưới 92,90 USD, Brent giữ trên 98,71 USD và khí đốt tự nhiên lấy lại 3,00 USD do OPEC+ giữ sản lượng tháng 11 không thay đổi.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-3.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-opec-holds-supply-can-wti-reclaim-92-90-1635264",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-10-05 14:46"
-    },
-    {
-      "id": "ddcxj0",
-      "title": "Russia threatens more strikes after Zelenskyy vows to hit oil refineries",
-      "title_vi": "Nga đe dọa tấn công thêm sau khi Zelenskyy thề sẽ tấn công các nhà máy lọc dầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.newsnationnow.com/world/russia-threatens-strikes-zelenskyy-vows-hit-oil-refineries/",
-      "source": "NewsNation",
-      "category": "energy",
-      "published": "2026-10-05 08:30"
     }
   ]
 }

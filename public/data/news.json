@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 09:00",
+  "updated_at": "2026-10-06 10:00",
   "items": [
     {
       "id": "1wfk9ji",
@@ -77,6 +77,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-06 03:00"
+    },
+    {
+      "id": "1p36grs",
+      "title": "Silver Price Forecast: XAG/USD builds base above $60, eyes $64",
+      "title_vi": "Dự báo giá bạc: XAG/USD xây dựng cơ sở trên 60 USD, hướng tới 64 USD",
+      "summary_vi": "Giá bạc (XAG/USD) tăng cao hơn 1,14% vào thứ Hai, ngay cả khi lãi suất trái phiếu kho bạc Hoa Kỳ tăng và đồng USD tăng mức tăng thêm 0,26%, theo Chỉ số Đô la Mỹ (DXY). XAG/USD giao dịch ở mức 61,13 USD, sau khi thoát khỏi mức thấp hàng ngày là 60,36 USD.",
+      "image": "https://editorial.fxsstatic.com/images/i/Silver4_Medium.png",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-builds-base-above-60-eyes-64-202610051923",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-10-06 02:23"
+    },
+    {
+      "id": "glbsqj",
+      "title": "Gold edges up as October rate hike bets ease, stronger dollar cap gains",
+      "title_vi": "Vàng tăng khi đặt cược tăng lãi suất vào tháng 10 giảm bớt, giới hạn đồng đô la tăng mạnh hơn",
+      "summary_vi": "Ngày 5 tháng 10 (Reuters) - Giá vàng tăng vào thứ Hai, được hỗ trợ bởi những lo ngại tiếp tục về nợ chính phủ Mỹ gia tăng và làm mờ đi kỳ vọng về việc Cục Dự trữ Liên bang tăng lãi suất ngay lập tức, mặc dù đồng đô la vững hơn đã hạn chế mức tăng. Vàng giao ngay tăng 0,4% lên 4.159,89 USD / ounce vào lúc 11:38 GMT. Hợp đồng tương lai vàng của Mỹ giao tháng 12 bổ sung",
+      "image": "https://image-api.prod.kitco.com/image/a8c61b15-b8e3-48e2-a4b5-09fed9190dc1.webp?top=0&left=0&width=1280&height=720&scale_width=1920&token=42ac5a21cc37e201c19f631a2c58ac5b8b23089268a5d516a7dcbebac23df18c",
+      "link": "https://www.kitco.com/news/off-the-wire/2026-10-05/gold-edges-october-rate-hike-bets-ease-stronger-dollar-cap-gains",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-10-06 02:02"
     },
     {
       "id": "r7pmmq",
@@ -244,6 +266,17 @@
       "published": "2026-10-05 19:22"
     },
     {
+      "id": "106dv64",
+      "title": "Russia's oil earnings fall despite price jump as output drops, rouble rises",
+      "title_vi": "Thu nhập từ dầu mỏ của Nga giảm mặc dù giá tăng do sản lượng giảm, đồng rúp tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/russias-oil-earnings-fall-despite-price-jump-output-drops-rouble-rises-2026-10-05/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-10-05 18:51"
+    },
+    {
       "id": "l9czdb",
       "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
       "title_vi": "Dữ liệu cho thấy xuất khẩu dầu ở Trung Đông vượt mức trước chiến tranh bất chấp căng thẳng",
@@ -264,17 +297,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-10-05 17:58"
-    },
-    {
-      "id": "1rzd4t2",
-      "title": "Gold and Silver Price Forecast: Rebound Faces Risk of a Deeper Drop",
-      "title_vi": "Dự báo giá vàng và bạc: Đối mặt với nguy cơ giảm sâu hơn",
-      "summary_vi": "Vàng và bạc phục hồi, nhưng lãi suất trái phiếu kho bạc cao khiến sự phục hồi trở nên mong manh khi các nhà giao dịch theo dõi diễn biến ở Trung Đông và các mức hỗ trợ quan trọng.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/gold-and-silver-precious-metals-02-1.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-rebound-faces-risk-of-a-deeper-drop-1635211",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-10-05 15:21"
     },
     {
       "id": "lxjbp0",
@@ -528,28 +550,6 @@
       "source": "StockInvest.us",
       "category": "metal",
       "published": "2026-10-03 06:55"
-    },
-    {
-      "id": "121avwn",
-      "title": "EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say",
-      "title_vi": "ĐỘC QUYỀN: Trung Quốc yêu cầu cam kết cung cấp đồng để phê duyệt sáp nhập Anglo Teck, các nguồn tin cho biết",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/china-demands-copper-supply-commitments-anglo-teck-merger-approval-sources-say-2026-10-02/",
-      "source": "reuters.com",
-      "category": "metal",
-      "published": "2026-10-03 05:30"
-    },
-    {
-      "id": "1jp9ozf",
-      "title": "Railroads are charging more to ship grain. U.S. farmers may have to pick up the tab",
-      "title_vi": "Đường sắt đang tính phí nhiều hơn để vận chuyển ngũ cốc. Nông dân Hoa Kỳ có thể phải chịu trách nhiệm",
-      "summary_vi": "Mùa thu hoạch đang đến gần với nhiều nông dân. Nhưng các tuyến đường sắt vận chuyển ngũ cốc đã thu hoạch của họ đã tăng chi phí vận chuyển do giá dầu diesel cao kỷ lục. Điều đó có thể có nghĩa là giá ngũ cốc thấp hơn cho người trồng trọt.",
-      "image": "https://ipmnewsroom.org/wp-content/uploads/2026/10/train.webp",
-      "link": "https://ipmnewsroom.org/railroads-are-charging-more-to-ship-grain-u-s-farmers-may-have-to-pick-up-the-tab/",
-      "source": "IPM Newsroom",
-      "category": "agri",
-      "published": "2026-10-03 05:00"
     }
   ]
 }

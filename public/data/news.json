@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 07:01",
+  "updated_at": "2026-10-06 08:01",
   "items": [
     {
       "id": "1wfk9ji",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-06 05:00"
+    },
+    {
+      "id": "1ooq0ga",
+      "title": "Platinum crashed 42% from its record high after a surplus forecast spooked investors",
+      "title_vi": "Bạch kim giảm 42% so với mức cao kỷ lục sau khi dự báo thặng dư khiến các nhà đầu tư lo sợ",
+      "summary_vi": "Bạch kim đã giảm 42% từ mức cao kỷ lục tháng 1 năm 2026 là 2.920 USD/oz xuống gần 1.700 USD sau khi WPIC chuyển dự báo của mình thành thặng dư và dòng tiền chảy ra của ETF tăng mạnh.",
+      "image": "https://startupfortune.com/wp-content/uploads/2026/10/platinum-futures-bank-of-america-securities-world-investment-council.jpg",
+      "link": "https://startupfortune.com/platinum-crashed-42-from-its-record-high-after-a-surplus-forecast-spooked-investors/",
+      "source": "Startup Fortune",
+      "category": "metal",
+      "published": "2026-10-06 04:10"
     },
     {
       "id": "n1fgu8",
@@ -255,6 +266,17 @@
       "published": "2026-10-05 17:58"
     },
     {
+      "id": "1rzd4t2",
+      "title": "Gold and Silver Price Forecast: Rebound Faces Risk of a Deeper Drop",
+      "title_vi": "Dự báo giá vàng và bạc: Đối mặt với nguy cơ giảm sâu hơn",
+      "summary_vi": "Vàng và bạc phục hồi, nhưng lãi suất trái phiếu kho bạc cao khiến sự phục hồi trở nên mong manh khi các nhà giao dịch theo dõi diễn biến ở Trung Đông và các mức hỗ trợ quan trọng.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/gold-and-silver-precious-metals-02-1.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-rebound-faces-risk-of-a-deeper-drop-1635211",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-10-05 15:21"
+    },
+    {
       "id": "lxjbp0",
       "title": "Natural Gas and Oil Forecast: OPEC+ Holds Supply, Can WTI Reclaim $92.90?",
       "title_vi": "Dự báo khí đốt tự nhiên và dầu: OPEC + giữ nguồn cung, WTI có thể lấy lại 92,90 USD không?",
@@ -264,17 +286,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-10-05 14:46"
-    },
-    {
-      "id": "1ala6m6",
-      "title": "Gold edges up as October rate hike bets ease, stronger dollar cap gains",
-      "title_vi": "Vàng tăng khi đặt cược tăng lãi suất vào tháng 10 giảm bớt, giới hạn đồng đô la tăng mạnh hơn",
-      "summary_vi": "Vàng tăng cao hơn vào thứ Hai sau khi dữ liệu việc làm mềm gần đây làm giảm mạnh mức đặt cược tăng lãi suất của Fed vào tháng 10, làm tăng sức hấp dẫn của tài sản không mang lại lợi suất.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108184328-1754934160177-gettyimages-2207845202-20090101250404-99-437465.jpeg?v=1791166571&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/10/05/gold-gains-as-october-fed-rate-hike-prospects-fade.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-10-05 11:01"
     },
     {
       "id": "ddcxj0",
@@ -539,17 +550,6 @@
       "source": "IPM Newsroom",
       "category": "agri",
       "published": "2026-10-03 05:00"
-    },
-    {
-      "id": "riimrz",
-      "title": "Natural Gas Turns Higher Amid Uncertain Outlook",
-      "title_vi": "Khí tự nhiên tăng cao hơn trong bối cảnh triển vọng không chắc chắn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/natural-gas-moves-lower-as-eia-reports-record-high-production-5779641b",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-10-03 03:59"
     }
   ]
 }

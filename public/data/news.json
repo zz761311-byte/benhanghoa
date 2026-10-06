@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 06:00",
+  "updated_at": "2026-10-07 06:53",
   "items": [
     {
       "id": "fhyvok",
@@ -121,6 +121,17 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-10-07 01:06"
+    },
+    {
+      "id": "1o7eif1",
+      "title": "South African exports to China’s 1.4 billion-person market surge as U.S. slaps 12.5% tariffs on Africa",
+      "title_vi": "Xuất khẩu của Nam Phi sang thị trường 1,4 tỷ dân của Trung Quốc tăng vọt khi Mỹ áp thuế 12,5% đối với châu Phi",
+      "summary_vi": "Các nhà xuất khẩu Nam Phi đang gửi những chuyến hàng lớn nguyên liệu thô số lượng lớn đến Đông Á sau khi triển khai khuôn khổ miễn thuế nhằm mở rộng khả năng tiếp cận của người tiêu dùng Trung Quốc.",
+      "image": "https://ocdn.eu/pulscms-transforms/1/puQktkpTURBXy9lYjc4NWIzMGJlNmRiYzI2MWU2MWFhOTRiOWZhOGFiMC5wbmeSlQPNAZITzQMezQHBkwXNBLDNAnY",
+      "link": "https://africa.businessinsider.com/local/markets/south-african-commodities-flood-chinas-13-billion-person-market-as-beijing-drops/qmgpeqz",
+      "source": "Business Insider Africa",
+      "category": "macro",
+      "published": "2026-10-07 01:00"
     },
     {
       "id": "dow860",
@@ -310,6 +321,17 @@
       "published": "2026-10-06 12:48"
     },
     {
+      "id": "lxt45y",
+      "title": "Platinum and palladium see larger-than-average COT positioning shifts as Euro reaches multi-year extreme",
+      "title_vi": "Bạch kim và palladium chứng kiến ​​sự thay đổi định vị COT lớn hơn mức trung bình khi đồng Euro đạt mức cực đoan trong nhiều năm",
+      "summary_vi": "Báo cáo COT 40 nêu bật một tuần có những thay đổi định vị đáng chú ý đối với hai kim loại thuộc nhóm bạch kim - với bối cảnh cực đoan hiếm có của đồng euro bổ sung thêm bối cảnh rộng hơn cho các nhà giao dịch hàng hóa. Hai thị trường không phải lúc nào cũng biến động song song đã thu hút sự chú ý của tôi trong báo cáo Cam kết của Nhà giao dịch tuần này: bạch kim và palladium",
+      "image": "https://image-api.prod.kitco.com/image/d2f442a3-0557-4642-aabc-92603580fab9.jpeg?top=0.15965290381125&left=0&width=1000&height=562.68069419238&scale_width=1920&token=41d5c3b2d41c9ba87b84bb91022b7bcf30ca980db3afdeb57366f528e2377104",
+      "link": "https://www.kitco.com/opinion/2026-10-05/platinum-and-palladium-see-larger-average-cot-positioning-shifts-euro-reaches",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-10-06 10:01"
+    },
+    {
       "id": "lcffq5",
       "title": "Gold gains as softer Fed rate expectations offset higher US yields",
       "title_vi": "Vàng tăng khi kỳ vọng lãi suất của Fed mềm hơn bù đắp cho lợi suất cao hơn của Mỹ",
@@ -363,6 +385,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-06 03:48"
+    },
+    {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-06 03:36"
     },
     {
       "id": "r63kzo",
@@ -517,39 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-05 20:02"
-    },
-    {
-      "id": "106dv64",
-      "title": "Russia's oil earnings fall despite price jump as output drops, rouble rises",
-      "title_vi": "Thu nhập từ dầu mỏ của Nga giảm mặc dù giá tăng do sản lượng giảm, đồng rúp tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/russias-oil-earnings-fall-despite-price-jump-output-drops-rouble-rises-2026-10-05/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-10-05 18:51"
-    },
-    {
-      "id": "l9czdb",
-      "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
-      "title_vi": "Dữ liệu cho thấy xuất khẩu dầu ở Trung Đông vượt mức trước chiến tranh bất chấp căng thẳng",
-      "summary_vi": "Chỉ huy IRGC cho biết lượng dầu chảy qua tuyến đường do Mỹ giám sát ở Hormuz là ‘không đáng kể’.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac14860e002-1791051872.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows",
-      "source": "Al Jazeera",
-      "category": "energy",
-      "published": "2026-10-05 18:37"
-    },
-    {
-      "id": "mldgse",
-      "title": "Silver Price Forecast: XAG/USD jumps to near $61.80 as hawkish Fed bets recede",
-      "title_vi": "Dự báo giá bạc: XAG/USD tăng lên gần 61,80 USD khi các khoản đặt cược diều hâu của Fed giảm dần",
-      "summary_vi": "Giá bạc (XAG/USD) tăng 2,3% lên gần 61,80 USD trong phiên giao dịch châu Âu vào thứ Hai. Kim loại trắng bắt đầu tuần mới một cách mạnh mẽ khi các nhà giao dịch đã giảm kỳ vọng về lãi suất của Cục Dự trữ Liên bang (Fed) sau dữ liệu thị trường lao động chính thức yếu kém của Hoa Kỳ trong tháng 9.",
-      "image": "https://editorial.fxsstatic.com/images/i/Silver5_Medium.png",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-6180-as-hawkish-fed-bets-recede-202610051058",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-10-05 17:58"
     }
   ]
 }

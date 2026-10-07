@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 09:44",
+  "updated_at": "2026-10-07 10:00",
   "items": [
     {
       "id": "1jkrpay",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-07 05:00"
+    },
+    {
+      "id": "y12kyn",
+      "title": "Gold to hit $5,000, silver $97 in the next 12 months - LBMA delegate survey",
+      "title_vi": "Vàng sẽ đạt 5.000 USD, bạc 97 USD trong 12 tháng tới - Khảo sát của đại biểu LBMA",
+      "summary_vi": "(Kitco News) - Cuộc khủng hoảng năng lượng đang diễn ra, lạm phát dai dẳng và lợi suất trái phiếu tăng cao tiếp tục tạo ra những trở ngại đáng kể trong ngắn hạn đối với vàng và bạc, nhưng những thách thức đó hầu như không làm lung lay niềm tin tăng giá dài hạn của ngành kim loại quý.",
+      "image": "https://image-api.prod.kitco.com/image/9e14fa83-2508-4fec-aa6f-4880c07b41ab.jpeg?top=0.15965290381125&left=0&width=1000&height=562.68069419238&scale_width=1920&token=1fd875d41a9b1af0f192cd4089d30217aa03260bf7c715a00cfa3b7fbb4224d0",
+      "link": "https://www.kitco.com/news/article/2026-10-06/gold-hit-5000-silver-97-next-12-months-lbma-delegate-survey",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-10-07 04:44"
     },
     {
       "id": "4osc9v",
@@ -352,17 +363,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-10-06 09:24"
-    },
-    {
-      "id": "glbsqj",
-      "title": "Gold edges up as October rate hike bets ease, stronger dollar cap gains",
-      "title_vi": "Vàng tăng khi đặt cược tăng lãi suất vào tháng 10 giảm bớt, giới hạn đồng đô la tăng mạnh hơn",
-      "summary_vi": "Ngày 5 tháng 10 (Reuters) - Giá vàng tăng vào thứ Hai, được hỗ trợ bởi những lo ngại tiếp tục về nợ chính phủ Mỹ gia tăng và làm mờ đi kỳ vọng về việc Cục Dự trữ Liên bang tăng lãi suất ngay lập tức, mặc dù đồng đô la vững hơn đã hạn chế mức tăng. Vàng giao ngay tăng 0,4% lên 4.159,89 USD / ounce vào lúc 11:38 GMT. Hợp đồng tương lai vàng của Mỹ giao tháng 12 bổ sung",
-      "image": "https://image-api.prod.kitco.com/image/a8c61b15-b8e3-48e2-a4b5-09fed9190dc1.webp?top=0&left=0&width=1280&height=720&scale_width=1920&token=42ac5a21cc37e201c19f631a2c58ac5b8b23089268a5d516a7dcbebac23df18c",
-      "link": "https://www.kitco.com/news/off-the-wire/2026-10-05/gold-edges-october-rate-hike-bets-ease-stronger-dollar-cap-gains",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-10-06 08:30"
     },
     {
       "id": "12rsg5g",

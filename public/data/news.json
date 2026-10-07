@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-07 19:00",
+  "updated_at": "2026-10-07 20:01",
   "items": [
+    {
+      "id": "11u3nb7",
+      "title": "Norway Plans to Tap $63.7 Billion From Its Oil Fund in 2027",
+      "title_vi": "Na Uy có kế hoạch khai thác 63,7 tỷ USD từ quỹ dầu mỏ vào năm 2027",
+      "summary_vi": "quỹ tài sản dành cho chi tiêu công vào năm tới, cao hơn mức chi tiêu trong năm nay của quỹ lớn nhất thế giới. Chính phủ đã công bố dự luật ngân sách cho năm 2027, trong đó bao gồm đề xuất rút và chi 608,4 tỷ curon Na Uy, tương đương 63,7 tỷ USD, từ Bút Chính phủ.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-07_dmn3d42vs7.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Norway-Plans-to-Tap-637-Billion-From-Its-Oil-Fund-in-2027.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-07 19:30"
+    },
+    {
+      "id": "1w5wc1o",
+      "title": "Copper Stable as AI-Driven Tech Stock Rally Holds Near Record",
+      "title_vi": "Đồng ổn định khi đợt tăng giá cổ phiếu công nghệ dựa trên AI giữ gần kỷ lục",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-07/copper-stable-as-ai-driven-tech-stock-rally-holds-near-record",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-10-07 19:18"
+    },
     {
       "id": "1yu9iy",
       "title": "Shell’s Refining Margin Jumps 75% as Fuel Supplies Dry Up",
@@ -156,15 +178,15 @@
       "published": "2026-10-07 07:00"
     },
     {
-      "id": "fhyvok",
-      "title": "5 Natural Gas Stocks Profiting From the Strait of Hormuz Standoff",
-      "title_vi": "5 cổ phiếu khí đốt tự nhiên được hưởng lợi từ eo biển Hormuz",
-      "summary_vi": "Khi Iran tấn công khu phức hợp Ras Laffan của Qatar vào tháng 3 và làm mất đi 17% công suất xuất khẩu LNG của nước này, hoạt động thương mại có vẻ khá đơn giản. Mua hàng của các nhà xuất khẩu Mỹ, ngồi đợi châu Âu và châu Á đến gõ cửa những hàng hóa không cần thiết.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-06_fphzeo72ae.jpg",
-      "link": "https://oilprice.com/Energy/Natural-Gas/5-Natural-Gas-Stocks-Profiting-From-the-Strait-of-Hormuz-Standoff.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-07 06:00"
+      "id": "dknmi2",
+      "title": "Gold and silver ALERT: Why a pullback doesn’t end the bull market",
+      "title_vi": "CẢNH BÁO về vàng và bạc: Tại sao pullback không kết thúc thị trường tăng trưởng",
+      "summary_vi": ".embed-container { vị trí: tương đối; phần đệm đáy: 56,25%; chiều cao: 0; tràn: ẩn; chiều rộng tối đa: 100%; } .embed-container iframe, đối tượng .embed-container, .embed-container embed { vị trí: tuyệt đối; trên cùng: 0; trái: 0; chiều rộng: 100%; chiều cao: 100%; }Trong bài trình bày này, Jeffrey Christian của CPM Group thảo luận về cách thức",
+      "image": "https://image-api.prod.kitco.com/image/63e23b31-ff3d-4bdc-b754-39c07d1a3607.png?top=0.20417422867514&left=0&width=1280&height=719.59165154265&scale_width=1920&token=eb2b15e897a4f973a4bfb04cb2f01e7eae5d722a7eb27ae3b11af9d73da88f51",
+      "link": "https://www.kitco.com/opinion/2026-10-06/gold-and-silver-alert-why-pullback-doesnt-end-bull-market",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-10-07 04:54"
     },
     {
       "id": "y12kyn",
@@ -176,6 +198,17 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-10-07 04:44"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-07 03:42"
     },
     {
       "id": "14sxs8y",
@@ -330,17 +363,6 @@
       "source": "World Grain",
       "category": "agri",
       "published": "2026-10-06 19:57"
-    },
-    {
-      "id": "ay3x7p",
-      "title": "Gold, silver prices rise as yields ease but December Fed risk remains - Kitco AM Report",
-      "title_vi": "Giá vàng, bạc tăng khi lãi suất giảm nhưng rủi ro của Fed vào tháng 12 vẫn còn - Báo cáo Kitco AM",
-      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay cao hơn vào đầu phiên giao dịch tại Hoa Kỳ hôm thứ Ba, do lãi suất trái phiếu kho bạc dài hạn giảm so với mức cao nhất trong nhiều thập kỷ hôm thứ Hai và dầu giảm xuống dưới 100 USD một thùng, tạo cơ hội cho kim loại kéo dài thời gian phục hồi sau bảng lương. Vào thời điểm viết bài, vàng giao ngay đang giao dịch ở mức gần 4.175,30 USD/ounce.",
-      "image": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0.16333938294011&left=0&width=1024&height=575.67332123412&scale_width=1920&token=3513496a268e71157f21dd883fe3c975a9cc282b0449adced236bdf7cfd2e35c",
-      "link": "https://www.kitco.com/news/article/2026-10-06/gold-silver-prices-rise-yields-ease-december-fed-risk-remains-kitco-am",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-10-06 19:53"
     },
     {
       "id": "1svgm84",
@@ -528,28 +550,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-10-06 03:36"
-    },
-    {
-      "id": "e3no1e",
-      "title": "Weekly market commentary",
-      "title_vi": "Bình luận thị trường hàng tuần",
-      "summary_vi": "Hãy theo dõi những hiểu biết sâu sắc về các chủ đề nóng và xu hướng mới nhất trên thị trường tài chính thông qua bài bình luận hàng tuần của Viện đầu tư BlackRock.",
-      "image": "/blk-one01-c-assets/include/common/images/blackrock_logo.png",
-      "link": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
-      "source": "BlackRock",
-      "category": "macro",
-      "published": "2026-10-06 03:19"
-    },
-    {
-      "id": "1p36grs",
-      "title": "Silver Price Forecast: XAG/USD builds base above $60, eyes $64",
-      "title_vi": "Dự báo giá bạc: XAG/USD xây dựng cơ sở trên 60 USD, hướng tới 64 USD",
-      "summary_vi": "Giá bạc (XAG/USD) tăng cao hơn 1,14% vào thứ Hai, ngay cả khi lãi suất trái phiếu kho bạc Hoa Kỳ tăng và đồng USD tăng mức tăng thêm 0,26%, theo Chỉ số Đô la Mỹ (DXY). XAG/USD giao dịch ở mức 61,13 USD, sau khi thoát khỏi mức thấp hàng ngày là 60,36 USD.",
-      "image": "https://editorial.fxsstatic.com/images/i/Silver4_Medium.png",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-builds-base-above-60-eyes-64-202610051923",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-10-06 02:23"
     }
   ]
 }

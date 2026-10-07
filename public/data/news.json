@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-07 16:23",
+  "updated_at": "2026-10-07 17:00",
   "items": [
+    {
+      "id": "xojwzw",
+      "title": "QatarEnergy Secures $3 Billion Loan From Chinese Banks as LNG Exports Stall",
+      "title_vi": "QatarEnergy đảm bảo khoản vay 3 tỷ USD từ các ngân hàng Trung Quốc khi xuất khẩu LNG bị đình trệ",
+      "summary_vi": "QatarEnergy thuộc sở hữu nhà nước đã nhận được khoản vay trị giá 3 tỷ USD trong 5 năm từ một nhóm ngân hàng Trung Quốc khi nhà xuất khẩu LNG của Qatar tiếp tục vật lộn với việc vận chuyển khối lượng lớn sang thị trường quốc tế. QatarEnergy đã đảm bảo khoản vay từ Ngân hàng Trung Quốc, Ngân hàng Công thương",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-07_km8hdebh6r.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/QatarEnergy-Secures-3-Billion-Loan-From-Chinese-Banks-as-LNG-Exports-Stall.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-07 16:30"
+    },
+    {
+      "id": "1bjm50",
+      "title": "How to Handle Red-Hot Copper Prices With Care",
+      "title_vi": "Làm thế nào để xử lý giá đồng nóng đỏ một cách cẩn thận",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/how-to-handle-red-hot-copper-prices-with-care-3968906d",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-10-07 16:30"
+    },
     {
       "id": "1yl5yvz",
       "title": "Australia&#039;s High Court Blocks Major Coal Mine Expansion Over Emissions",
@@ -143,17 +165,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-07 04:15"
-    },
-    {
-      "id": "1gn7zls",
-      "title": "Europe&#039;s Power Grid Is Digitalizing Faster Than Regulators Can Keep Up",
-      "title_vi": "Lưới điện của Châu Âu đang số hóa nhanh hơn mức cơ quan quản lý có thể theo kịp",
-      "summary_vi": "Bối cảnh năng lượng toàn cầu đang trải qua quá trình chuyển đổi nhanh chóng khi thời đại điện khí hóa diễn ra và sự phát triển vượt bậc của trí tuệ nhân tạo đặt ra những thách thức và khả năng mới trong sản xuất và sử dụng năng lượng, cũng như cách thức vận hành lưới điện của chúng ta.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-06_yjmrvshw8i.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Europes-Power-Grid-Is-Digitalizing-Faster-Than-Regulators-Can-Keep-Up.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-07 04:00"
     },
     {
       "id": "14sxs8y",
@@ -539,17 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-10-06 02:23"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!iekN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31124ef-ec07-467c-b803-1efd05e70c8b_1040x545.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-10-06 01:39"
     }
   ]
 }

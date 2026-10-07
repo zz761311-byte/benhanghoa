@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 15:01",
+  "updated_at": "2026-10-07 16:00",
   "items": [
     {
       "id": "1yl5yvz",
@@ -66,6 +66,17 @@
       "source": "WSJ",
       "category": "soft",
       "published": "2026-10-07 09:10"
+    },
+    {
+      "id": "1ofd623",
+      "title": "Dollar holds losses as markets await Fed minutes, speakers",
+      "title_vi": "Đồng đô la giữ mức thua lỗ khi thị trường chờ đợi biên bản của Fed, diễn giả",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-holds-losses-markets-await-011412651.html",
+      "source": "Yahoo Finance",
+      "category": "macro",
+      "published": "2026-10-07 08:14"
     },
     {
       "id": "1jkrpay",
@@ -209,6 +220,17 @@
       "source": "Newsquawk",
       "category": "metal",
       "published": "2026-10-06 23:07"
+    },
+    {
+      "id": "jk4bqk",
+      "title": "Corn Prices Could Fall Fast if Funds Head for the Exit",
+      "title_vi": "Giá ngô có thể giảm nhanh nếu các quỹ đầu tư rút lui",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/corn-prices-could-fall-fast-if-funds-head-for-the-exit-12160952",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-10-06 21:36"
     },
     {
       "id": "1hw28b0",
@@ -528,28 +550,6 @@
       "source": "Barchart.com",
       "category": "agri",
       "published": "2026-10-06 01:12"
-    },
-    {
-      "id": "u7tl6k",
-      "title": "Cocoa prices are climbing again. Here’s why this time is different",
-      "title_vi": "Giá ca cao đang tăng trở lại. Đây là lý do tại sao lần này lại khác",
-      "summary_vi": "Giá ca cao đang tăng trở lại do El Niño đe dọa nguồn cung ca cao ở Tây Phi. Các nhà sản xuất sôcôla có một số cách khắc phục dễ dàng để giảm chi phí cao hơn.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107254701-1686504166873-gettyimages-1265271295-1028_29_nbr8209.jpeg?v=1710932395&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/10/05/cocoa-prices-are-climbing-again-heres-why-this-time-is-different.html",
-      "source": "cnbc.com",
-      "category": "soft",
-      "published": "2026-10-06 01:02"
-    },
-    {
-      "id": "ky8x9j",
-      "title": "Cocoa Prices Climb as Excessive Ivory Coast Rains Slow Cocoa Deliveries",
-      "title_vi": "Giá ca cao tăng cao khi Bờ Biển Ngà mưa quá nhiều Giao hàng ca cao chậm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/cocoa-prices-climb-excessive-ivory-161006287.html",
-      "source": "Yahoo Finance",
-      "category": "soft",
-      "published": "2026-10-05 23:10"
     }
   ]
 }

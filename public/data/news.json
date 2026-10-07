@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-08 04:38",
+  "updated_at": "2026-10-08 05:01",
   "items": [
+    {
+      "id": "vn6vca",
+      "title": "Depleted Global Stocks Set Higher Floor Under Oil Prices",
+      "title_vi": "Cổ phiếu toàn cầu cạn kiệt đặt mức sàn cao hơn theo giá dầu",
+      "summary_vi": "Các giám đốc điều hành hàng đầu của ngành cho biết trong tuần này rằng thế giới gần như không còn vùng đệm để giảm bớt cú sốc nguồn cung từ cuộc chiến tranh Iran, khiến giá dầu tăng sàn mỗi khi leo thang tái leo thang đe dọa nguồn cung dầu từ Trung Đông. Dự trữ dầu toàn cầu đã cạn kiệt khi chiến tranh bắt đầu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-07_jzwry2xjid.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Depleted-Global-Stocks-Set-Higher-Floor-Under-Oil-Prices.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-08 05:00"
+    },
     {
       "id": "1zghi5",
       "title": "Iran War Pushes 25 Countries Into New Electrification Policies",
@@ -79,6 +90,17 @@
       "published": "2026-10-08 00:00"
     },
     {
+      "id": "1pev2uq",
+      "title": "Platinum, Dynamic, and Pricemaster: Senate Report Sheds Light on Ticketmaster’s Price-Surging Playbook",
+      "title_vi": "Bạch kim, năng động và quản lý giá: Báo cáo của Thượng viện làm sáng tỏ chiến lược tăng giá của Ticketmaster",
+      "summary_vi": "Một báo cáo của Thượng viện nêu chi tiết cách các hệ thống và ưu tiên kinh doanh của Live Nation và Ticketmaster được thiết kế để tăng giá vé.",
+      "image": "https://www.ticketnews.com/wp-content/uploads/2024/12/Morgan-Wallen.webp",
+      "link": "https://www.ticketnews.com/2026/03/platinum-dynamic-and-pricemaster-senate-report-shines-a-light-on-ticketmasters-price-surging-playbook/",
+      "source": "TicketNews",
+      "category": "metal",
+      "published": "2026-10-07 23:45"
+    },
+    {
       "id": "q3pu8x",
       "title": "SpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline",
       "title_vi": "SpaceX đang tìm kiếm sự chấp thuận cho đường ống khí đốt tự nhiên dài 32 dặm ở Florida",
@@ -99,17 +121,6 @@
       "source": "Michigan Farm News",
       "category": "agri",
       "published": "2026-10-07 23:07"
-    },
-    {
-      "id": "19pccbj",
-      "title": "Europe Moves to Curb the Flood of Chinese Hybrid Cars",
-      "title_vi": "Châu Âu nỗ lực ngăn chặn làn sóng xe hybrid của Trung Quốc",
-      "summary_vi": "Khoảng mười năm sau lẽ ra phải như vậy, châu Âu cuối cùng cũng phải phanh lại. Theo Bloomberg, Ủy ban Châu Âu đang chuẩn bị cái gọi là biện pháp tự vệ nhằm hạn chế nhập khẩu xe hybrid của Trung Quốc, rất có thể thông qua hạn ngạch thuế suất áp thuế đối với bất kỳ thứ gì trên thị trường.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-07_egzishlvrw.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Europe-Moves-to-Curb-the-Flood-of-Chinese-Hybrid-Cars.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-10-07 23:00"
     },
     {
       "id": "1ofx3yr",
@@ -539,17 +550,6 @@
       "source": "World Grain",
       "category": "agri",
       "published": "2026-10-06 19:57"
-    },
-    {
-      "id": "13gvbal",
-      "title": "China Trade Framework Highlights Weak Cotton Sorghum Demand - RFD-TV",
-      "title_vi": "Khung thương mại Trung Quốc làm nổi bật nhu cầu lúa miến bông yếu - RFD-TV",
-      "summary_vi": "Xuất khẩu nông sản của Mỹ sang Trung Quốc đã giảm mạnh do các nhà sản xuất chờ giảm thuế.",
-      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/74eed2c/2147483647/strip/true/crop/720x404+0+1/resize/730x410!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2FxlvrhU0N%2Fthumbnails%2F74SjNLOA.jpg",
-      "link": "https://www.rfdtv.com/china-trade-framework-highlights-weak-cotton-sorghum-demand",
-      "source": "RFD-TV",
-      "category": "soft",
-      "published": "2026-10-06 19:03"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 07:01",
+  "updated_at": "2026-10-07 08:01",
   "items": [
     {
       "id": "1jkrpay",
@@ -220,6 +220,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-10-06 20:06"
+    },
+    {
+      "id": "1kmupuc",
+      "title": "Corn for feed use seeing dip in China",
+      "title_vi": "Ngô dùng làm thức ăn chăn nuôi giảm ở Trung Quốc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.world-grain.com/articles/23299-corn-for-feed-use-seeing-dip-in-china",
+      "source": "World Grain",
+      "category": "agri",
+      "published": "2026-10-06 19:57"
     },
     {
       "id": "ay3x7p",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-05 20:58"
-    },
-    {
-      "id": "fs71o6",
-      "title": "Crude Oil Price Forecast – More Crude, Less Gasoline",
-      "title_vi": "Dự báo giá dầu thô – Thêm dầu thô, ít xăng hơn",
-      "summary_vi": "Dầu thô hiện đang tìm kiếm sự hỗ trợ. Môi trường hiện tại đang chứng kiến ​​nhiều dầu thô hơn nhưng lại có ít sản phẩm cuối cùng hơn.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/crude-oil-eia-report.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/crude-oil-price-forecast-more-crude-less-gasoline-1635497",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-10-05 20:10"
     }
   ]
 }

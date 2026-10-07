@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-07 06:53",
+  "updated_at": "2026-10-07 07:01",
   "items": [
+    {
+      "id": "1jkrpay",
+      "title": "Why $100 Oil Is Hard to Kill",
+      "title_vi": "Tại sao dầu 100 USD khó bị tiêu diệt",
+      "summary_vi": "Giá dầu thô Brent đã giữ trên 100 USD/thùng trong hầu hết tháng qua bất chấp nhiều báo cáo và số liệu được đưa ra trong những tuần gần đây bởi các dịch vụ theo dõi tàu chở dầu và các ngân hàng đầu tư rằng dòng dầu thô từ eo biển Hormuz đã phục hồi, thậm chí vượt mức trước đó.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-06_k4oavrjyvd.jpg",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-07 07:00"
+    },
     {
       "id": "fhyvok",
       "title": "5 Natural Gas Stocks Profiting From the Strait of Hormuz Standoff",
@@ -131,17 +142,6 @@
       "link": "https://africa.businessinsider.com/local/markets/south-african-commodities-flood-chinas-13-billion-person-market-as-beijing-drops/qmgpeqz",
       "source": "Business Insider Africa",
       "category": "macro",
-      "published": "2026-10-07 01:00"
-    },
-    {
-      "id": "dow860",
-      "title": "The World’s Gold Producers Are Starting to Hoard Their Own Gold",
-      "title_vi": "Các nhà sản xuất vàng trên thế giới đang bắt đầu tích trữ vàng của riêng mình",
-      "summary_vi": "Trong phần lớn lịch sử hiện đại, hoạt động buôn bán vàng diễn ra theo một cách: các mỏ ở thị trường mới nổi đào vàng lên và vận chuyển ra ngoài (thường là quặng giá rẻ, thường xuyên hơn là qua cửa sau), London và New York làm phần còn lại. Nhưng sự sắp xếp đó giờ đây đang lặng lẽ tan vỡ. Theo một đại diện phải đọc",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-06_d1akggvhik.jpg",
-      "link": "https://oilprice.com/Metals/Gold/The-Worlds-Gold-Producers-Are-Starting-to-Hoard-Their-Own-Gold.html",
-      "source": "OilPrice",
-      "category": "metal",
       "published": "2026-10-07 01:00"
     },
     {
@@ -343,6 +343,17 @@
       "published": "2026-10-06 09:15"
     },
     {
+      "id": "glbsqj",
+      "title": "Gold edges up as October rate hike bets ease, stronger dollar cap gains",
+      "title_vi": "Vàng tăng khi đặt cược tăng lãi suất vào tháng 10 giảm bớt, giới hạn đồng đô la tăng mạnh hơn",
+      "summary_vi": "Ngày 5 tháng 10 (Reuters) - Giá vàng tăng vào thứ Hai, được hỗ trợ bởi những lo ngại tiếp tục về nợ chính phủ Mỹ gia tăng và làm mờ đi kỳ vọng về việc Cục Dự trữ Liên bang tăng lãi suất ngay lập tức, mặc dù đồng đô la vững hơn đã hạn chế mức tăng. Vàng giao ngay tăng 0,4% lên 4.159,89 USD / ounce vào lúc 11:38 GMT. Hợp đồng tương lai vàng của Mỹ giao tháng 12 bổ sung",
+      "image": "https://image-api.prod.kitco.com/image/a8c61b15-b8e3-48e2-a4b5-09fed9190dc1.webp?top=0&left=0&width=1280&height=720&scale_width=1920&token=42ac5a21cc37e201c19f631a2c58ac5b8b23089268a5d516a7dcbebac23df18c",
+      "link": "https://www.kitco.com/news/off-the-wire/2026-10-05/gold-edges-october-rate-hike-bets-ease-stronger-dollar-cap-gains",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-10-06 08:30"
+    },
+    {
       "id": "12rsg5g",
       "title": "CA gas prices dip after ‘record-setting’ month. Is more relief on the way?",
       "title_vi": "Giá gas CA giảm sau tháng 'lập kỷ lục' Có thêm sự nhẹ nhõm trên đường đi không?",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-10-05 20:10"
-    },
-    {
-      "id": "yqtk3q",
-      "title": "Green Coffee Trader Hacea Gets Bigger in Brea",
-      "title_vi": "Thương nhân cà phê xanh Hacea trở nên lớn hơn ở Brea",
-      "summary_vi": "Nhà nhập khẩu cà phê xanh Hacea Coffee Source đã chuyển trụ sở chính ở Nam California từ Anaheim đến một nhà kho lớn hơn ở Brea, bổ sung thêm kho lưu trữ cà phê xanh, phòng thử nghiệm mở rộng và...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/10/05/green-coffee-trader-hacea-gets-bigger-in-brea/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-10-05 20:02"
     }
   ]
 }

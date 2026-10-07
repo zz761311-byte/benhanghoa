@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-07 22:01",
+  "updated_at": "2026-10-07 23:00",
   "items": [
+    {
+      "id": "1hch45m",
+      "title": "Iraq Devalues Dinar 14.5% as Hormuz Disruption Drains Oil Revenue",
+      "title_vi": "Iraq phá giá Dinar 14,5% do sự gián đoạn của Hormuz làm giảm doanh thu từ dầu mỏ",
+      "summary_vi": "Iraq đã phá giá đồng dinar 14,5% vào thứ Tư, thiết lập tỷ giá hối đoái ở mức 1.520 mỗi đô la sau nhiều tháng gián đoạn xuất khẩu dầu qua eo biển Hormuz đã cắt giảm nguồn thu chính của chính phủ. Nội các đã thông qua cơ cấu tỷ giá hối đoái mới vào thứ Ba, với",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-07_67japv0iwp.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Devalues-Dinar-145-as-Hormuz-Disruption-Drains-Oil-Revenue.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-07 22:30"
+    },
     {
       "id": "121xkj6",
       "title": "U.S. Crude Stocks Dip But Distillates Hold Steady",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-07 21:40"
+    },
+    {
+      "id": "1svabr5",
+      "title": "EUDR Compliance Gaps Persist for Smallholders, New Report Finds",
+      "title_vi": "Khoảng trống tuân thủ EUDR vẫn tồn tại đối với các chủ sở hữu nhỏ, Báo cáo mới phát hiện",
+      "summary_vi": "Khi Quy định phá rừng của Liên minh Châu Âu (EUDR) sắp đến ngày áp dụng vào ngày 30 tháng 12, một báo cáo mới từ Viện Phát triển Bền vững Quốc tế (IISD) cho thấy nhiều hộ sản xuất nhỏ vẫn thiếu...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/10/07/eudr-compliance-gaps-persist-for-smallholders-new-report-finds/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-10-07 21:36"
     },
     {
       "id": "1r6f8r0",
@@ -134,17 +156,6 @@
       "published": "2026-10-07 16:33"
     },
     {
-      "id": "xojwzw",
-      "title": "QatarEnergy Secures $3 Billion Loan From Chinese Banks as LNG Exports Stall",
-      "title_vi": "QatarEnergy đảm bảo khoản vay 3 tỷ USD từ các ngân hàng Trung Quốc khi xuất khẩu LNG bị đình trệ",
-      "summary_vi": "QatarEnergy thuộc sở hữu nhà nước đã nhận được khoản vay trị giá 3 tỷ USD trong 5 năm từ một nhóm ngân hàng Trung Quốc khi nhà xuất khẩu LNG của Qatar tiếp tục vật lộn với việc vận chuyển khối lượng lớn sang thị trường quốc tế. QatarEnergy đã đảm bảo khoản vay từ Ngân hàng Trung Quốc, Ngân hàng Công thương",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-07_km8hdebh6r.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/QatarEnergy-Secures-3-Billion-Loan-From-Chinese-Banks-as-LNG-Exports-Stall.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-07 16:30"
-    },
-    {
       "id": "1bjm50",
       "title": "How to Handle Red-Hot Copper Prices With Care",
       "title_vi": "Làm thế nào để xử lý giá đồng nóng đỏ một cách cẩn thận",
@@ -209,6 +220,17 @@
       "source": "Yahoo Finance",
       "category": "macro",
       "published": "2026-10-07 08:14"
+    },
+    {
+      "id": "1a8t3e8",
+      "title": "Republicans continue to slide in US polls, four weeks before midterm elections",
+      "title_vi": "Đảng Cộng hòa tiếp tục trượt dốc trong các cuộc thăm dò ở Mỹ, 4 tuần trước cuộc bầu cử giữa kỳ",
+      "summary_vi": "Người Mỹ vô cùng bất mãn với cuộc chiến tranh Iran và lạm phát, và tổng thống cũng như các thành viên đảng Cộng hòa đang phải trả giá.",
+      "image": "https://images.theconversation.com/files/764404/original/file-20261006-50-gb5lqo.jpg?ixlib=rb-4.1.1&rect=0%2C611%2C8314%2C4157&q=45&auto=format&w=1356&h=668&fit=crop",
+      "link": "https://theconversation.com/republicans-continue-to-slide-in-us-polls-four-weeks-before-midterm-elections-293444",
+      "source": "The Conversation",
+      "category": "macro",
+      "published": "2026-10-07 06:31"
     },
     {
       "id": "dknmi2",
@@ -528,28 +550,6 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-10-06 10:01"
-    },
-    {
-      "id": "12rsg5g",
-      "title": "CA gas prices dip after ‘record-setting’ month. Is more relief on the way?",
-      "title_vi": "Giá gas CA giảm sau tháng 'lập kỷ lục' Có thêm sự nhẹ nhõm trên đường đi không?",
-      "summary_vi": "Giá xăng ở California vẫn thấp hơn mức kỷ lục mọi thời đại của bang vài xu.",
-      "image": "https://www.mercedsunstar.com/public/latest-news/x2d9r0/picture315004023/alternates/LANDSCAPE_1200/ARCO%20gas%20station%20in%20Merced",
-      "link": "https://www.sacbee.com/news/california/article317499584.html",
-      "source": "Sacramento Bee",
-      "category": "energy",
-      "published": "2026-10-06 05:31"
-    },
-    {
-      "id": "1vuh995",
-      "title": "Wheat Futures Rebound as Corn Stalls and Soybeans Edge Higher on Export Demand",
-      "title_vi": "Giá lúa mì kỳ hạn phục hồi khi tồn kho ngô và đậu nành tăng do nhu cầu xuất khẩu",
-      "summary_vi": "Thị trường ngũ cốc của Mỹ phân hóa vào thứ Hai khi lúa mì phục hồi, ngô giữ ở mức gần 5 USD và đậu nành tăng, khiến xuất khẩu, sản lượng thu hoạch và nguồn cung toàn cầu trở thành tâm điểm chú ý.",
-      "image": "https://www.agrolatam.com/files/image/82/82006/6ac41c1b2782f_600_315!.jpg?s=e7f6c14a05fe36b6853260fcc1b6ac4e&d=1791237427",
-      "link": "https://www.agrolatam.com/usa/news/wheat-futures-rebound-corn-soybeans-us-grain-markets/",
-      "source": "AgroLatam",
-      "category": "agri",
-      "published": "2026-10-06 04:56"
     }
   ]
 }

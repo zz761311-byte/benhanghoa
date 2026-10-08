@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-08 21:57",
+  "updated_at": "2026-10-08 22:00",
   "items": [
+    {
+      "id": "1dg1dcg",
+      "title": "Will the Chinese Sink the Grid?",
+      "title_vi": "Liệu người Trung Quốc có đánh chìm lưới điện?",
+      "summary_vi": "Pin thời lượng dài hơn của Trung Quốc đã cắt giảm lý do cơ bản cho lưới điện hiện tại của chúng ta. Đồng thời, các tin tặc nước ngoài và các chương trình AI trong nước nhưng đang hoạt động mạnh mẽ cũng có thể đẩy nhanh sự sụp đổ của lưới điện. Nghe có vẻ cực đoan? Vâng, đây là câu chuyện. Truyền tải điện áp cao, đường dài",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-08_5o4grvacmh.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Will-the-Chinese-Sink-the-Grid.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-08 22:00"
+    },
     {
       "id": "d6tw1y",
       "title": "Russian Oil Flows to India Plunge to 310,000 Bpd",
@@ -112,15 +123,15 @@
       "published": "2026-10-08 16:00"
     },
     {
-      "id": "109c8ju",
-      "title": "Big Oil Begins Shutting In Gulf of Mexico Production",
-      "title_vi": "Dầu lớn bắt đầu ngừng sản xuất ở Vịnh Mexico",
-      "summary_vi": "Shell và Chevron đã bắt đầu đóng cửa các giàn khoan ở Vịnh Mexico trước một cơn bão đang đến gần có thể trở thành bão cuồng phong vào cuối tuần. Shell đang sơ tán tất cả nhân viên khỏi năm nền tảng, bao gồm Mars, Olympus, Ursa, Vito và Appomattox, đồng thời đóng cửa",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-08_cjy0cz8wav.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Big-Oil-Begins-Shutting-In-Gulf-of-Mexico-Production.html",
-      "source": "OilPrice",
+      "id": "1rvuk1n",
+      "title": "Natural Gas and Oil Forecast: WTI Tests $90.62, Can NG Extend Above $3.35?",
+      "title_vi": "Dự báo khí đốt tự nhiên và dầu: WTI kiểm tra 90,62 USD, NG có thể mở rộng trên 3,35 USD không?",
+      "summary_vi": "WTI kiểm tra mức kháng cự 90,62 USD, Brent ép 103,89 USD và khí đốt tự nhiên tăng trên 3,16 USD khi đà tăng mạnh mẽ trên các thị trường năng lượng.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-4-1.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-wti-tests-90-62-can-ng-extend-above-3-35-1636679",
+      "source": "FXEmpire",
       "category": "energy",
-      "published": "2026-10-08 15:00"
+      "published": "2026-10-08 13:25"
     },
     {
       "id": "fo8z0q",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "metal",
       "published": "2026-10-07 00:29"
-    },
-    {
-      "id": "17iwu6m",
-      "title": "EIA expects gas, propane-heated US homes to spend less this winter",
-      "title_vi": "EIA dự kiến ​​các ngôi nhà ở Mỹ sử dụng khí đốt và sưởi ấm bằng khí propan sẽ chi tiêu ít hơn trong mùa đông này",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/eia-expects-mixed-picture-us-households-winter-fuel-costs-this-year-2026-10-06/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-10-07 00:16"
     }
   ]
 }

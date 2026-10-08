@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 08:01",
+  "updated_at": "2026-10-08 08:21",
   "items": [
     {
       "id": "1af0m48",
@@ -77,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-08 02:00"
+    },
+    {
+      "id": "krnndc",
+      "title": "Palladium Price October 8 2026",
+      "title_vi": "Giá Palladium ngày 8 tháng 10 năm 2026",
+      "summary_vi": "Hợp đồng tương lai palladium ngày 26 tháng 12 sẽ kết thúc vào ngày 8 tháng 10 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
+      "image": "https://robinhood.com/api/public/og/event?id=d064d401-8e5a-4f08-9543-289fdea434b7",
+      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/palladium-price-october-8-2026-oct-08-2026/",
+      "source": "Robinhood",
+      "category": "metal",
+      "published": "2026-10-08 01:14"
     },
     {
       "id": "w8tewo",
@@ -429,17 +440,6 @@
       "source": "Business Insider Africa",
       "category": "macro",
       "published": "2026-10-07 01:00"
-    },
-    {
-      "id": "1gv0e1c",
-      "title": "Palladium Price October 7 2026",
-      "title_vi": "Giá Palladium ngày 7 tháng 10 năm 2026",
-      "summary_vi": "Hợp đồng tương lai palladium ngày 26 tháng 12 sẽ kết thúc vào ngày 7 tháng 10 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
-      "image": "https://robinhood.com/api/public/og/event?id=bdcad0f2-8652-4411-9227-0ba1192e7d89",
-      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/palladium-price-october-7-2026-oct-07-2026/",
-      "source": "Robinhood",
-      "category": "metal",
-      "published": "2026-10-07 00:50"
     },
     {
       "id": "sy7vxq",

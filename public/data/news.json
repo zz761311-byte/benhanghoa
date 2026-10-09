@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 07:41",
+  "updated_at": "2026-10-09 08:00",
   "items": [
     {
       "id": "omq2fx",
@@ -519,6 +519,17 @@
       "published": "2026-10-07 18:47"
     },
     {
+      "id": "d3j6di",
+      "title": "Shell expects record refining margins as Iran war boosts fuel markets",
+      "title_vi": "Shell kỳ vọng lợi nhuận lọc dầu kỷ lục khi chiến tranh Iran thúc đẩy thị trường nhiên liệu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/shell-raises-q3-gas-output-forecast-2026-10-07/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-10-07 17:40"
+    },
+    {
       "id": "13ubeaa",
       "title": "Sunshine holds for Wednesday, more clarity on weekend rain chances",
       "title_vi": "Nắng tiếp tục duy trì vào thứ Tư, khả năng mưa cuối tuần rõ ràng hơn",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-10-07 16:33"
-    },
-    {
-      "id": "1bjm50",
-      "title": "How to Handle Red-Hot Copper Prices With Care",
-      "title_vi": "Làm thế nào để xử lý giá đồng nóng đỏ một cách cẩn thận",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/how-to-handle-red-hot-copper-prices-with-care-3968906d",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-10-07 16:30"
     }
   ]
 }

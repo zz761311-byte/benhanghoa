@@ -1,5 +1,5 @@
 {
- "capNhat": "2026-10-09T22:00:44.928Z",
+ "capNhat": "2026-10-09T23:00:43.583Z",
  "nguon": "Yahoo Finance",
  "soMatHang": 18,
  "tyGia": {
@@ -27,7 +27,7 @@
    "doiMotTuan": 0.6,
    "doiMotThang": -4.57,
    "doiMotNam": 49.02,
-   "khoiLuong30Phien": 9319692,
+   "khoiLuong30Phien": 9319733,
    "tienTe": "USD",
    "tenHopDong": "Crude Oil Nov 26",
    "kyHan": "T11/26",
@@ -732,7 +732,7 @@
     "gia": 4195.6001,
     "lechSoVoiHopDong": 0.59,
     "nguon": "gold-api.com",
-    "capNhat": "2026-10-09T22:00:15Z"
+    "capNhat": "2026-10-09T23:00:15Z"
    }
   },
   "bac": {
@@ -789,7 +789,7 @@
     "gia": 60.949,
     "lechSoVoiHopDong": 0.26,
     "nguon": "gold-api.com",
-    "capNhat": "2026-10-09T22:00:14Z"
+    "capNhat": "2026-10-09T23:00:14Z"
    }
   },
   "dong": {
@@ -897,7 +897,7 @@
     "gia": 1695,
     "lechSoVoiHopDong": 0.02,
     "nguon": "gold-api.com",
-    "capNhat": "2026-10-09T22:00:28Z"
+    "capNhat": "2026-10-09T23:00:18Z"
    }
   },
   "nhom": {
@@ -912,14 +912,13 @@
    "doiMotTuan": -0.02,
    "doiMotThang": -9.12,
    "doiMotNam": 16.98,
-   "khoiLuong30Phien": 208,
+   "khoiLuong30Phien": 207,
    "tienTe": "USD",
    "tenHopDong": "Aluminum Futures,Dec-2026",
    "kyHan": "T12/26",
    "san": "COMEX",
    "capNhat": "2026-10-09T20:00:13.000Z",
    "duongGia": [
-    3357.5,
     3378.25,
     3376.5,
     3413.5,
@@ -938,6 +937,7 @@
     3425.5,
     3474.75,
     3434.75,
+    3426.75,
     3435,
     3385.75,
     3320.5,

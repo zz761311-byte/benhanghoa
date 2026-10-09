@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-10-09 19:01",
+  "updated_at": "2026-10-09 20:01",
   "items": [
+    {
+      "id": "2fmijf",
+      "title": "Crude Oil is Underpriced, Energy Aspects Says",
+      "title_vi": "Các khía cạnh năng lượng cho biết dầu thô đang được định giá thấp",
+      "summary_vi": "Amrita Sen, người sáng lập và giám đốc tình báo thị trường tại Energy Aspects, nói với CNBC hôm thứ Sáu rằng giá dầu kỳ hạn không liên quan đến thực tế ở Trung Đông và sẽ được giao dịch gần mức 150 USD/thùng đối với một số giá dầu thô giao ngay. Thị trường thật bất ngờ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-09_8j3jy60mnd.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Crude-Oil-is-Underpriced-Energy-Aspects-Says.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-09 19:30"
+    },
+    {
+      "id": "1khxq2q",
+      "title": "Dollar eyes longest winning streak since early 2025 on oil, Fed bets",
+      "title_vi": "Đồng đô la hướng tới chuỗi chiến thắng dài nhất kể từ đầu năm 2025 nhờ dầu mỏ, Fed đặt cược",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://qz.com/dollar-winning-streak-oil-prices-fed-rate-hikes-100926",
+      "source": "Quartz",
+      "category": "energy",
+      "published": "2026-10-09 19:21"
+    },
+    {
+      "id": "119izt8",
+      "title": "Ink and Drink Coffee creates artistic caffeinated haven in wake of storm",
+      "title_vi": "Ink and Drink Coffee tạo ra thiên đường nghệ thuật chứa caffein sau cơn bão",
+      "summary_vi": "Một quán cà phê độc đáo, đầy tính nghệ thuật ở Downtown Gresham ra đời sau cơn bão băng tàn khốc. Trở lại tháng 1 năm 2024, những ngày mưa lạnh giá bao phủ […]",
+      "image": "https://theoutlookonline.com/wp-content/uploads/sites/24/2026/10/business_inkdrink_101426_gro_1.jpg",
+      "link": "https://theoutlookonline.com/2026/10/09/ink-and-drink-coffee-creates-artistic-caffeinated-haven-in-wake-of-storm/",
+      "source": "Gresham Outlook",
+      "category": "soft",
+      "published": "2026-10-09 19:17"
+    },
     {
       "id": "1w0x7h4",
       "title": "Asian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million",
@@ -198,17 +231,6 @@
       "source": "Advisor Perspectives",
       "category": "energy",
       "published": "2026-10-09 05:30"
-    },
-    {
-      "id": "71iu9j",
-      "title": "Cuba’s Fuel Crisis Turns the Island Into a Solar Test Case",
-      "title_vi": "Khủng hoảng nhiên liệu ở Cuba biến hòn đảo thành nơi thử nghiệm năng lượng mặt trời",
-      "summary_vi": "Cuba đang biến thành một hòn đảo sử dụng năng lượng mặt trời vì sự phong tỏa của hải quân Hoa Kỳ đang ngăn cản nhiên liệu đến được quốc gia này. Nhập khẩu công nghệ năng lượng mặt trời từ chính Hoa Kỳ đó đang tăng mạnh bất chấp lệnh cấm vận kéo dài hàng thập kỷ của Hoa Kỳ đối với Cuba và củng cố luận cứ về năng lượng mặt trời—trong trường hợp không có",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-08_1rnrjuqond.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Cubas-Fuel-Crisis-Turns-the-Island-Into-a-Solar-Test-Case.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-09 05:00"
     },
     {
       "id": "1dhavww",
@@ -528,28 +550,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-10-07 22:28"
-    },
-    {
-      "id": "1qxdda6",
-      "title": "Gold and Silver Shed $400 Billion in Minutes. Here’s What Really Happened",
-      "title_vi": "Vàng và Bạc mất đi 400 tỷ USD chỉ trong vài phút Đây là những gì thực sự đã xảy ra",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-silver-shed-400-billion-152156350.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-10-07 22:21"
-    },
-    {
-      "id": "1ofx3yr",
-      "title": "Lawsuit Targets Starbucks ‘Sugar-Free’ Protein Drinks Over Milk Sugar",
-      "title_vi": "Vụ kiện nhắm vào đồ uống protein 'không đường' của Starbucks thay vì đường sữa",
-      "summary_vi": "Starbucks đang phải đối mặt với một vụ kiện tập thể được đề xuất với cáo buộc rằng 8 loại latte protein và matcha của họ được tiếp thị sai lệch là “Không đường” mặc dù chứa 13 đến 21 gam đường mỗi...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/10/07/lawsuit-targets-starbucks-sugar-free-protein-drinks-over-milk-sugar/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-10-07 22:15"
     }
   ]
 }

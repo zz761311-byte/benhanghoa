@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10 01:01",
+  "updated_at": "2026-10-10 02:01",
   "items": [
     {
       "id": "10xsb3a",
@@ -77,6 +77,17 @@
       "source": "AgroLatam",
       "category": "agri",
       "published": "2026-10-09 22:26"
+    },
+    {
+      "id": "1nz88jc",
+      "title": "Tenth District Energy Activity Continued to Grow in Q3 - Kansas City",
+      "title_vi": "Hoạt động năng lượng của Quận 10 tiếp tục phát triển trong Quý 3 - Thành phố Kansas",
+      "summary_vi": "Kết quả quý 3 từ cuộc khảo sát năng lượng cho thấy hoạt động năng lượng của Quận 10 tiếp tục tăng và kỳ vọng trong sáu tháng vẫn tăng.",
+      "image": "",
+      "link": "https://www.kansascityfed.org/surveys/energy-survey/tenth-district-energy-activity-continued-to-grow-in-q3-october-2026/",
+      "source": "Kansas City - Federal Reserve",
+      "category": "energy",
+      "published": "2026-10-09 22:15"
     },
     {
       "id": "hm933v",
@@ -539,17 +550,6 @@
       "source": "The Northern Miner",
       "category": "metal",
       "published": "2026-10-08 20:13"
-    },
-    {
-      "id": "oan22t",
-      "title": "Indian celebrations will be more expensive this year",
-      "title_vi": "Lễ kỷ niệm của Ấn Độ sẽ đắt đỏ hơn trong năm nay",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.economist.com/finance-and-economics/2026/10/08/indian-celebrations-will-be-more-expensive-this-year",
-      "source": "The Economist",
-      "category": "soft",
-      "published": "2026-10-08 16:25"
     }
   ]
 }

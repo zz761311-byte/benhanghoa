@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 10:00",
+  "updated_at": "2026-10-09 11:00",
   "items": [
     {
       "id": "1bsoxev",
@@ -44,6 +44,17 @@
       "source": "WBKO",
       "category": "energy",
       "published": "2026-10-09 06:12"
+    },
+    {
+      "id": "w9tj2b",
+      "title": "Evening EOT Forecast: Thursday, October 8, 2026",
+      "title_vi": "Dự báo EOT buổi tối: Thứ năm, ngày 8 tháng 10 năm 2026",
+      "summary_vi": "Bão Isaias có thể sẽ đổ bộ vào giữa Mobile và Destin vào tối thứ Sáu hoặc sáng sớm thứ Bảy. Chi tiết dự báo tại đây.",
+      "image": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F10-08-2026%2Ft_138c7152b36c4ad0bc22f797851d100d_name_Isaias__2_.PNG?auth=936f47c8684e231ea69a2c5ddf9780242006e8620f1b30fb4c22d03e9eaf14f2&width=1200&height=630&smart=true",
+      "link": "https://www.wftv.com/weather/eye-on-the-tropics/evening-eot-forecast-thursday-october-8-2026/642aa8fc-5f9b-4b5b-850f-1e7be9db79d2/",
+      "source": "WFTV",
+      "category": "soft",
+      "published": "2026-10-09 06:01"
     },
     {
       "id": "12jjojw",
@@ -539,17 +550,6 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-10-07 19:18"
-    },
-    {
-      "id": "1jltprk",
-      "title": "America’s Copper Hoard Stokes Fear of a Supply Crunch",
-      "title_vi": "Kho dự trữ đồng của Mỹ gây lo ngại về tình trạng khan hiếm nguồn cung",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/americas-copper-hoard-stokes-fear-of-a-supply-crunch-0097b560",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-10-07 18:47"
     }
   ]
 }

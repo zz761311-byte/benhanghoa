@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-09 08:00",
+  "updated_at": "2026-10-09 09:00",
   "items": [
+    {
+      "id": "rxe1cl",
+      "title": "Gold Rises, Supported by Potential China Demand",
+      "title_vi": "Vàng tăng, được hỗ trợ bởi nhu cầu tiềm năng của Trung Quốc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-supported-by-potential-china-demand-08b60462",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-10-09 08:08"
+    },
     {
       "id": "omq2fx",
       "title": "World’s Top Crude Trader Isn’t Ruling Out $200 Oil Just Yet",
@@ -539,17 +550,6 @@
       "source": "WVVA",
       "category": "soft",
       "published": "2026-10-07 16:38"
-    },
-    {
-      "id": "1u9rfmk",
-      "title": "Gold Prices Fall as Dollar Strengthens Ahead of Federal Reserve Minutes",
-      "title_vi": "Giá vàng giảm khi đồng đô la mạnh lên trước biên bản dự trữ liên bang",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-prices-fall-dollar-strengthens-093356396.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-10-07 16:33"
     }
   ]
 }

@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-10-10 04:01",
+  "updated_at": "2026-10-10 05:01",
   "items": [
+    {
+      "id": "1g6kthm",
+      "title": "Why Record Crude Output Can’t Solve America’s Diesel Crisis",
+      "title_vi": "Tại sao sản lượng dầu thô kỷ lục không thể giải quyết cuộc khủng hoảng diesel ở Mỹ",
+      "summary_vi": "Hoa Kỳ đang sản xuất nhiều dầu thô hơn bao giờ hết. Theo Cơ quan Thông tin Năng lượng, sản lượng dầu thô của Mỹ đang trên đà đạt mức trung bình kỷ lục 13,8 triệu thùng mỗi ngày vào năm 2026, vượt qua kỷ lục trước đó được thiết lập vào năm ngoái. Tuy nhiên, giá dầu diesel gần đây đã leo thang",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-09_loogzxbsqf.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Why-Record-Crude-Output-Cant-Solve-Americas-Diesel-Crisis.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-10 05:00"
+    },
+    {
+      "id": "1w2rvkc",
+      "title": "USDA: October WASDE increases forecast for 2026-’27 corn use in ethanol",
+      "title_vi": "USDA: Tháng 10 WASDE tăng dự báo sử dụng ngô làm ethanol trong năm 2026-27",
+      "summary_vi": "USDA đã mở rộng dự báo về việc sử dụng ngô để sản xuất ethanol trong giai đoạn 2026-2727 trong báo cáo Ước tính Cung và Cầu Nông nghiệp Thế giới mới nhất, công bố ngày 9 tháng 10.",
+      "image": "https://bbi-strapi.s3.us-east-2.amazonaws.com/archived/epm/posts/web/2014/06/CornCobBig_14025216574144.jpg",
+      "link": "https://ethanolproducer.com/articles/usda-october-wasde-increases-forecast-for-2026-27-corn-use-in-ethanol",
+      "source": "Ethanol Producer Magazine",
+      "category": "agri",
+      "published": "2026-10-10 04:39"
+    },
+    {
+      "id": "xh5phj",
+      "title": "USDA: October WASDE maintains forecast for 2026-’27 soybean oil use in biofuel",
+      "title_vi": "USDA: Tháng 10 WASDE duy trì dự báo sử dụng dầu đậu nành trong nhiên liệu sinh học năm 2026-27",
+      "summary_vi": "USDA duy trì dự báo về việc sử dụng dầu đậu nành trong sản xuất nhiên liệu sinh học trong báo cáo Ước tính Cung và Cầu Nông nghiệp Thế giới mới nhất, công bố ngày 11/12.",
+      "image": "https://bbi-strapi.s3.us-east-2.amazonaws.com/archived/biodieselmagazine/posts/web/2020/08/SoybeanField_15977898496687.jpg",
+      "link": "https://biomassmagazine.com/articles/usda-october-wasde-maintains-forecast-for-2026-27-soybean-oil-use-in-biofuel",
+      "source": "Biomass Magazine",
+      "category": "energy",
+      "published": "2026-10-10 04:37"
+    },
     {
       "id": "1gbnhns",
       "title": "Copper price heads for a weekly gain on mine supply risks, China demand",
@@ -176,17 +209,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-09 21:30"
-    },
-    {
-      "id": "jvlwvg",
-      "title": "Rubio Warns Ukraine Stalemate Could Turn Into Wider Conflict",
-      "title_vi": "Rubio cảnh báo bế tắc Ukraine có thể biến thành xung đột rộng hơn",
-      "summary_vi": "Ngoại trưởng Mỹ Marco Rubio cảnh báo cuộc chiến của Nga với Ukraine đang bế tắc nhưng có thể leo thang thành xung đột khu vực rộng hơn nếu bế tắc đẩy một trong hai bên có những hành động ngày càng nguy hiểm. Phát biểu tại Lisbon về điểm dừng chân cuối cùng của ba nước",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-09_rjw2ilzzqd.jpg",
-      "link": "https://oilprice.com/Geopolitics/International/Rubio-Warns-Ukraine-Stalemate-Could-Turn-Into-Wider-Conflict.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-09 21:00"
     },
     {
       "id": "1j4dgbm",
@@ -453,6 +475,17 @@
       "published": "2026-10-09 02:36"
     },
     {
+      "id": "z1jog7",
+      "title": "Gas prices face new threat as Hurricane Isaias forces widespread Gulf oil shutdowns",
+      "title_vi": "Giá xăng phải đối mặt với mối đe dọa mới khi cơn bão Isaias buộc các nhà máy dầu ở vùng Vịnh phải đóng cửa trên diện rộng",
+      "summary_vi": "Một nhà phân tích đã viết, gần như toàn bộ hoạt động sản xuất dầu ngoài khơi của Hoa Kỳ đều nằm trong lộ trình của Isaias, điều đó có nghĩa là “tác động, dù chỉ trong thời gian ngắn, cũng có thể rất đáng kể”.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261008-oil-rig-gulf-mexico-mn-0915-0791d4.jpg",
+      "link": "https://www.nbcnews.com/business/energy/gas-prices-hurricane-isaias-gulf-mexico-rcna602258",
+      "source": "NBC News",
+      "category": "energy",
+      "published": "2026-10-09 01:33"
+    },
+    {
       "id": "as9flf",
       "title": "Why are gas prices still high even as traffic improves in the Strait of Hormuz? - ABC News",
       "title_vi": "Tại sao giá xăng vẫn cao ngay cả khi giao thông ở eo biển Hormuz được cải thiện? - Tin tức ABC",
@@ -517,39 +550,6 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-10-08 23:08"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!HY-o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F098967c0-94d9-494e-b37b-1d8508627240_1500x1000.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-10-08 22:56"
-    },
-    {
-      "id": "oergla",
-      "title": "Citing Quality, Nespresso Discontinues Compostable Capsules",
-      "title_vi": "Trích dẫn chất lượng, Nespresso ngừng sản xuất viên nang có thể phân hủy",
-      "summary_vi": "Hãng cà phê khổng lồ Nespresso thuộc sở hữu của Nestlé đang ngừng sản xuất các viên nang cà phê làm bằng giấy, có thể phân hủy tại nhà, từ bỏ cải tiến bao bì được triển khai vào năm 2023 để thay thế cho viên nang nhôm sử dụng một lần của công ty. Người Thụy Sĩ...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/10/08/citing-quality-nespresso-discontinues-compostable-capsules/",
-      "source": "Daily Coffee News",
-      "category": "metal",
-      "published": "2026-10-08 22:09"
-    },
-    {
-      "id": "kukrbq",
-      "title": "Silver’s 4.5% Forecast Upgrade Raises Future Mine Value Potential",
-      "title_vi": "Dự báo nâng cấp 4,5% của Bạc làm tăng tiềm năng giá trị mỏ trong tương lai",
-      "summary_vi": "Nguồn cung mỏ bạc ổn định và nguồn dự trữ ngày càng thu hẹp khiến sự tập trung vào việc mở rộng mỏ, tài nguyên mới và chi phí đưa hoạt động sản xuất trong tương lai lên mạng.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6ac7af1d2df6b4a0f9bf2349_Silver%20Granules.png",
-      "link": "https://www.cruxinvestor.com/posts/silvers-4-5-forecast-upgrade-raises-future-mine-value-potential",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-10-08 22:06"
     }
   ]
 }

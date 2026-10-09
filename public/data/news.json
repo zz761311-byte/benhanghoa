@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-09 16:00",
+  "updated_at": "2026-10-09 17:00",
   "items": [
+    {
+      "id": "optga5",
+      "title": "Australia Close to Finalizing Gas Reservation Plan for LNG Exporters",
+      "title_vi": "Úc sắp hoàn tất kế hoạch dự trữ khí đốt cho các nhà xuất khẩu LNG",
+      "summary_vi": "Chính phủ Úc sẽ đưa ra vào tuần tới một dự luật đặt ra các quy tắc cuối cùng trong cái gọi là Chương trình dự trữ khí đốt nội địa, trong đó sẽ yêu cầu các nhà xuất khẩu LNG duy trì tới 20% tổng sản lượng của họ ở Úc, nơi bờ biển phía đông dự kiến ​​sẽ phải đối mặt với các vấn đề về nguồn cung tại thời điểm này.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-09_tyycrqmnti.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Close-to-Finalizing-Gas-Reservation-Plan-for-LNG-Exporters.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-09 16:30"
+    },
     {
       "id": "trtesv",
       "title": "Venture Global Loses LNG Arbitration to Portugal&#039;s Galp",
@@ -165,17 +176,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-09 03:30"
-    },
-    {
-      "id": "ubihe2",
-      "title": "Hurricane Isaias Shuts In 1.28 Million Bpd of Gulf Oil Production",
-      "title_vi": "Bão Isaias làm ảnh hưởng tới sản lượng dầu vùng Vịnh 1,28 triệu thùng/ngày",
-      "summary_vi": "Bão Isaias đã khiến 1,28 triệu thùng dầu mỗi ngày trong sản xuất dầu ở vùng Vịnh của Mỹ ngừng hoạt động, tăng so với mức chỉ 185.120 thùng/ngày hai ngày trước khi các nhà điều hành sơ tán nhân sự khỏi đường đi của cơn bão. Cục Quản lý Khoáng sản Biển cho biết hôm thứ Năm rằng 62,89% sản lượng dầu hiện tại của vùng Vịnh và",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Hurricane-Isaias-Shuts-In-128-Million-Bpd-of-Gulf-Oil-Production.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-09 03:00"
     },
     {
       "id": "as9flf",
@@ -409,6 +409,17 @@
       "published": "2026-10-08 04:45"
     },
     {
+      "id": "12y9ymh",
+      "title": "Sugar Prices Supported by Delayed Brazil Harvest",
+      "title_vi": "Giá đường được hỗ trợ bởi vụ thu hoạch Brazil bị trì hoãn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barchart.com/story/news/5012563/sugar-prices-supported-by-delayed-brazil-harvest",
+      "source": "Barchart.com",
+      "category": "soft",
+      "published": "2026-10-08 01:34"
+    },
+    {
       "id": "krnndc",
       "title": "Palladium Price October 8 2026",
       "title_vi": "Giá Palladium ngày 8 tháng 10 năm 2026",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-10-07 20:09"
-    },
-    {
-      "id": "f1oqwr",
-      "title": "US Tariff Relief Reshapes Dairy Ingredient Sourcing",
-      "title_vi": "Việc giảm thuế của Hoa Kỳ định hình lại nguồn cung nguyên liệu sữa",
-      "summary_vi": "Việc giảm thuế song phương có thể định hình lại nguồn cung nguyên liệu sữa, mở rộng khả năng cạnh tranh whey của Mỹ trong khi nguồn cung protein khan hiếm thúc đẩy tăng trưởng chung.",
-      "image": "https://en.edairynews.com/wp-content/uploads/2026/09/Nonfat-Dry-Milk-Climbs-to-2.05-as-CME-Cash-Dairy-Prices-Settle-Mixed.jpg",
-      "link": "https://en.edairynews.com/us-tariff-relief-reshapes-dairy-ingredient-sourcing/",
-      "source": "https://en.edairynews.com/",
-      "category": "macro",
-      "published": "2026-10-07 19:52"
     }
   ]
 }

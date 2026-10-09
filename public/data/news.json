@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-10 03:01",
+  "updated_at": "2026-10-10 04:01",
   "items": [
+    {
+      "id": "1gbnhns",
+      "title": "Copper price heads for a weekly gain on mine supply risks, China demand",
+      "title_vi": "Giá đồng hướng tới mức tăng hàng tuần do rủi ro nguồn cung mỏ và nhu cầu của Trung Quốc",
+      "summary_vi": "Giá đồng đang trên đà tăng 2,0% hàng tuần vào thứ Sáu, được hỗ trợ bởi những lo ngại về sự gián đoạn nguồn cung cấp mỏ, dấu hiệu nhu cầu tích cực ở nước tiêu dùng hàng đầu Trung Quốc và hàng tồn kho thắt chặt bên ngoài Hoa Kỳ. Đồng chuẩn CMCU3 trên Sàn giao dịch kim loại Luân Đôn tăng 1,6% ở mức 14.541 USD/tấn vào lúc 16:04 GMT. Dương Sơn",
+      "image": "https://image-api.prod.kitco.com/image/2df150ba-8bfe-449d-accb-b3e835f1aaf6.jpeg?top=0.45445110701107&left=0&width=1000&height=562.09109778598&scale_width=1920&token=71a65c1e646cf0a27671421c781335eb2bc512e603e4238aab255615ec3719b4",
+      "link": "https://www.kitco.com/news/off-the-wire/2026-10-09/copper-price-heads-weekly-gain-mine-supply-risks-china-demand",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-10-10 03:51"
+    },
     {
       "id": "1ta8ak7",
       "title": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
@@ -66,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-10 00:00"
+    },
+    {
+      "id": "175c7hz",
+      "title": "USDA Sends “Shock Waves” With Higher Corn Yield and Ending Stocks in Latest WASDE",
+      "title_vi": "USDA gửi “Sóng xung kích” với năng suất ngô cao hơn và tồn kho cuối kỳ trong WASDE mới nhất",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/october-usda-wasde-report-12161713",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-10-09 23:46"
     },
     {
       "id": "1fx0k2v",
@@ -528,28 +550,6 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-10-08 22:06"
-    },
-    {
-      "id": "z1jog7",
-      "title": "Gas prices face new threat as Hurricane Isaias forces Gulf oil shutdowns",
-      "title_vi": "Giá xăng phải đối mặt với mối đe dọa mới khi cơn bão Isaias buộc các nhà máy dầu ở vùng Vịnh phải đóng cửa",
-      "summary_vi": "Một nhà phân tích đã viết, gần như toàn bộ hoạt động sản xuất dầu ngoài khơi của Hoa Kỳ đều nằm trong lộ trình của Isaias, điều đó có nghĩa là “tác động, dù chỉ trong thời gian ngắn, cũng có thể rất đáng kể”.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261008-oil-rig-gulf-mexico-mn-0915-0791d4.jpg",
-      "link": "https://www.nbcnews.com/business/energy/gas-prices-hurricane-isaias-gulf-mexico-rcna602258",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-10-08 21:57"
-    },
-    {
-      "id": "1jltprk",
-      "title": "America’s Copper Hoard Stokes Fear of a Supply Crunch",
-      "title_vi": "Kho dự trữ đồng của Mỹ gây lo ngại về tình trạng khan hiếm nguồn cung",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/americas-copper-hoard-stokes-fear-of-a-supply-crunch-0097b560",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-10-08 21:28"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 04:00",
+  "updated_at": "2026-10-11 05:01",
   "items": [
     {
       "id": "mbwyvu",
@@ -220,6 +220,17 @@
       "source": "TicketNews",
       "category": "metal",
       "published": "2026-10-10 02:19"
+    },
+    {
+      "id": "1h0c5lw",
+      "title": "Copper Set for Weekly Gain on China’s Return and Supply Concerns",
+      "title_vi": "Bộ đồng để kiếm được hàng tuần do lo ngại về nguồn cung và lợi nhuận của Trung Quốc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-09/copper-set-for-weekly-gain-on-china-s-return-and-supply-concerns",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-10-10 02:02"
     },
     {
       "id": "1bfgcbm",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "metal",
       "published": "2026-10-09 08:24"
-    },
-    {
-      "id": "rxe1cl",
-      "title": "Gold Rises, Supported by Potential China Demand",
-      "title_vi": "Vàng tăng, được hỗ trợ bởi nhu cầu tiềm năng của Trung Quốc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-supported-by-potential-china-demand-08b60462",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-10-09 08:08"
     }
   ]
 }

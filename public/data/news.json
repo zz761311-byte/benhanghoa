@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10 06:19",
+  "updated_at": "2026-10-10 07:00",
   "items": [
     {
       "id": "1g6kthm",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-10 03:30"
+    },
+    {
+      "id": "145415r",
+      "title": "USDA yield shocker sends corn sinking to 8-week low",
+      "title_vi": "Cú sốc lợi suất của USDA khiến ngô giảm xuống mức thấp nhất 8 tuần",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/marketing/usda-yield-shocker-sends-corn-sinking-to-eight-week-low",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-10-10 03:07"
     },
     {
       "id": "1ta8ak7",
@@ -539,17 +550,6 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-10-08 23:28"
-    },
-    {
-      "id": "1in56jz",
-      "title": "Silver's long-term outlook remains bullish as new investment products offer income opportunities - Amplify ETFs",
-      "title_vi": "Triển vọng dài hạn của bạc vẫn lạc quan khi các sản phẩm đầu tư mới mang lại cơ hội thu nhập - Amplify ETFs",
-      "summary_vi": "(Kitco News) - Thị trường bạc tiếp tục gặp khó khăn trước áp lực lạm phát dai dẳng và lợi suất trái phiếu cao hơn. Tuy nhiên, một chiến lược gia thị trường cho biết kim loại quý vẫn là một tài sản tiền tệ quan trọng và là công cụ đa dạng hóa. Trong cuộc phỏng vấn với Kitco News, Nate Miller, Phó Chủ tịch Phát triển Sản phẩm",
-      "image": "https://image-api.prod.kitco.com/image/6b1afd94-c45d-4176-b689-9b7c43c0c58e.jpeg?top=0.15965290381125&left=0&width=1000&height=562.68069419238&scale_width=1920&token=5f44bbf1e0f507875367d82b5ad82bd0d6021e94960d773565878bb8ebf76305",
-      "link": "https://www.kitco.com/news/article/2026-10-08/silvers-long-term-outlook-remains-bullish-new-investment-products-offer",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-10-08 23:08"
     }
   ]
 }

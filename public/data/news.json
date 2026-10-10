@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-10 21:00",
+  "updated_at": "2026-10-10 21:48",
   "items": [
+    {
+      "id": "1th9zp0",
+      "title": "High silver prices threaten Lucknow’s famed bridal nagra craft",
+      "title_vi": "Giá bạc cao đe dọa nghề làm bánh nagra cô dâu nổi tiếng của Lucknow",
+      "summary_vi": "Giá bạc do chiến tranh đang đe dọa các nhà sản xuất nagra ở miền bắc Ấn Độ.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-2.10.04-PM-1791051025.png?resize=1848%2C1080",
+      "link": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft",
+      "source": "Al Jazeera",
+      "category": "metal",
+      "published": "2026-10-10 20:30"
+    },
     {
       "id": "53853o",
       "title": "UBS Forecasts Copper Supply Deficit of 379,000 Metric Tons in 2027, Targets $15,500 per Ton",
@@ -143,6 +154,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-10 03:00"
+    },
+    {
+      "id": "1pev2uq",
+      "title": "Platinum, Dynamic, and Pricemaster: Senate Report Sheds Light on Ticketmaster’s Price-Surging Playbook",
+      "title_vi": "Bạch kim, năng động và quản lý giá: Báo cáo của Thượng viện làm sáng tỏ chiến lược tăng giá của Ticketmaster",
+      "summary_vi": "Một báo cáo của Thượng viện nêu chi tiết cách các hệ thống và ưu tiên kinh doanh của Live Nation và Ticketmaster được thiết kế để tăng giá vé.",
+      "image": "https://www.ticketnews.com/wp-content/uploads/2024/12/Morgan-Wallen.webp",
+      "link": "https://www.ticketnews.com/2026/03/platinum-dynamic-and-pricemaster-senate-report-shines-a-light-on-ticketmasters-price-surging-playbook/",
+      "source": "TicketNews",
+      "category": "metal",
+      "published": "2026-10-10 02:19"
     },
     {
       "id": "1bfgcbm",
@@ -528,28 +550,6 @@
       "source": "WFTV",
       "category": "soft",
       "published": "2026-10-09 06:01"
-    },
-    {
-      "id": "1psaqci",
-      "title": "Fuel and fertiliser costs outpace higher grain prices - CoBank",
-      "title_vi": "Chi phí nhiên liệu và phân bón cao hơn giá ngũ cốc - CoBank",
-      "summary_vi": "Ngô tăng 20% ​​trong quý trước do nguồn cung của Mỹ thắt chặt",
-      "image": "https://cdn1.globalagmedia.com/Crop/feed-mill.jpg",
-      "link": "https://www.thepoultrysite.com/news/2026/10/fuel-and-fertiliser-costs-outpace-higher-grain-prices-cobank",
-      "source": "The Poultry Site",
-      "category": "energy",
-      "published": "2026-10-09 06:00"
-    },
-    {
-      "id": "12jjojw",
-      "title": "Short-Term Energy Outlook: October 2026",
-      "title_vi": "Triển vọng năng lượng ngắn hạn: Tháng 10 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.advisorperspectives.com/dshort/updates/2026/10/08/short-term-energy-outlook-october-2026",
-      "source": "Advisor Perspectives",
-      "category": "energy",
-      "published": "2026-10-09 05:30"
     }
   ]
 }

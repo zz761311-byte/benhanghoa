@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-10 20:00",
+  "updated_at": "2026-10-10 21:00",
   "items": [
+    {
+      "id": "53853o",
+      "title": "UBS Forecasts Copper Supply Deficit of 379,000 Metric Tons in 2027, Targets $15,500 per Ton",
+      "title_vi": "UBS dự báo nguồn cung đồng thiếu hụt 379.000 tấn vào năm 2027, mục tiêu 15.500 USD/tấn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/ubs-forecasts-copper-supply-deficit-130400624.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-10-10 20:04"
+    },
     {
       "id": "15b2cri",
       "title": "U.S. official: Trump cut deal with Putin after Zelensky ignored his requests",
@@ -539,17 +550,6 @@
       "source": "Advisor Perspectives",
       "category": "energy",
       "published": "2026-10-09 05:30"
-    },
-    {
-      "id": "1dhavww",
-      "title": "Genetic analysis reveals that some specialty coffee seeds do not match their commercial identity",
-      "title_vi": "Phân tích di truyền cho thấy một số hạt cà phê đặc sản không phù hợp với bản sắc thương mại của chúng",
-      "summary_vi": "Nghiên cứu đã kiểm tra các cây được trồng từ hạt Sidra và Gesha và tìm thấy sự khác biệt ở hai trong số bốn hình thái được phân tích.",
-      "image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/2ba88fda-bc90-4af8-93f8-61ba04ac027c/Rendition/thumbnail/Content/Public",
-      "link": "https://www.eurekalert.org/news-releases/1147088",
-      "source": "EurekAlert! Science News Releases",
-      "category": "soft",
-      "published": "2026-10-09 03:47"
     }
   ]
 }

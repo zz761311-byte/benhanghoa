@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 00:01",
+  "updated_at": "2026-10-11 01:01",
   "items": [
     {
       "id": "hqew4x",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-10 22:00"
+    },
+    {
+      "id": "1crxd47",
+      "title": "‘Gifts to Putin’: Ukraine rattled as Trump eases sanctions on Russian oil",
+      "title_vi": "'Quà tặng cho Putin': Ukraine náo loạn khi Trump nới lỏng lệnh trừng phạt đối với dầu Nga",
+      "summary_vi": "Quyết định này được đưa ra chỉ vài tuần sau khi Trump ký dự luật vinh danh cố Thượng nghị sĩ Lindsey Graham nhằm trừng phạt các nước khác vì mua dầu của Nga bị trừng phạt.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260916-russia-oil-refinery-mn-1040-48313a.jpg",
+      "link": "https://www.nbcnews.com/world/ukraine/gifts-putin-ukraine-rattled-trump-eases-sanctions-russian-oil-rcna602639",
+      "source": "NBC News",
+      "category": "energy",
+      "published": "2026-10-10 21:46"
     },
     {
       "id": "1th9zp0",
@@ -44,6 +55,17 @@
       "source": "Axios",
       "category": "energy",
       "published": "2026-10-10 14:38"
+    },
+    {
+      "id": "4gsi9d",
+      "title": "Gold vs Copper 2026: Price Trends, Ratio & Market Outlook",
+      "title_vi": "Vàng và Đồng 2026: Xu hướng giá, tỷ lệ và triển vọng thị trường",
+      "summary_vi": "So sánh vàng và đồng vào năm 2026, bao gồm xu hướng giá, tỷ lệ vàng-đồng, động lực vĩ ​​mô, nhu cầu AI, chuyển đổi năng lượng và rủi ro mua sắm.",
+      "image": "https://cdn.grandviewresearch.online/gvr/img/logo.png",
+      "link": "https://www.grandviewresearch.com/research-insights/gold-vs-copper-2026-price-market-outlook",
+      "source": "Grand View Research",
+      "category": "metal",
+      "published": "2026-10-10 09:52"
     },
     {
       "id": "1gbnhns",
@@ -528,28 +550,6 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-10-09 08:08"
-    },
-    {
-      "id": "nh8dt4",
-      "title": "AAA points to crude oil prices as gas costs climb in Kentucky",
-      "title_vi": "AAA chỉ ra giá dầu thô khi giá xăng tăng ở Kentucky",
-      "summary_vi": "Người phát ngôn của AAA thảo luận về các yếu tố đằng sau giá xăng tăng cao",
-      "image": "https://gray-wbko-prod.gtv-cdn.com/resizer/v2/3JJ4SX4SJBGYPPRDDRMFD3YARM.png?auth=75f65d2dab405e4fee8bc6d06dc2023f12642c13a5efabb4f009dc299c448bd5&width=1200&height=600&smart=true",
-      "link": "https://www.wbko.com/2026/10/08/aaa-points-crude-oil-prices-gas-costs-climb-kentucky/",
-      "source": "WBKO",
-      "category": "energy",
-      "published": "2026-10-09 06:12"
-    },
-    {
-      "id": "1in56jz",
-      "title": "Silver's long-term outlook remains bullish as new investment products offer income opportunities - Amplify ETFs",
-      "title_vi": "Triển vọng dài hạn của bạc vẫn lạc quan khi các sản phẩm đầu tư mới mang lại cơ hội thu nhập - Amplify ETFs",
-      "summary_vi": "(Kitco News) - Thị trường bạc tiếp tục gặp khó khăn trước áp lực lạm phát dai dẳng và lợi suất trái phiếu cao hơn. Tuy nhiên, một chiến lược gia thị trường cho biết kim loại quý vẫn là một tài sản tiền tệ quan trọng và là công cụ đa dạng hóa. Trong cuộc phỏng vấn với Kitco News, Nate Miller, Phó Chủ tịch Phát triển Sản phẩm",
-      "image": "https://image-api.prod.kitco.com/image/6b1afd94-c45d-4176-b689-9b7c43c0c58e.jpeg?top=0.15965290381125&left=0&width=1000&height=562.68069419238&scale_width=1920&token=5f44bbf1e0f507875367d82b5ad82bd0d6021e94960d773565878bb8ebf76305",
-      "link": "https://www.kitco.com/news/article/2026-10-08/silvers-long-term-outlook-remains-bullish-new-investment-products-offer",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-10-09 06:08"
     }
   ]
 }

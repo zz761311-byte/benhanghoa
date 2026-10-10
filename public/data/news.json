@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-10 14:00",
+  "updated_at": "2026-10-10 15:00",
   "items": [
+    {
+      "id": "15b2cri",
+      "title": "U.S. official: Trump cut deal with Putin after Zelensky ignored his requests",
+      "title_vi": "Quan chức Mỹ: Trump cắt thỏa thuận với Putin sau khi Zelensky phớt lờ yêu cầu của ông",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war",
+      "source": "Axios",
+      "category": "energy",
+      "published": "2026-10-10 14:38"
+    },
     {
       "id": "1ei6ir3",
       "title": "Copper price clinches weekly gain as Chinese demand signals strengthen",
@@ -539,17 +550,6 @@
       "source": "EurekAlert! Science News Releases",
       "category": "soft",
       "published": "2026-10-09 03:47"
-    },
-    {
-      "id": "bxh2cl",
-      "title": ",USDA WASDE report looms as corn, soybean and wheat prices fall ahead of key data",
-      "title_vi": ",Báo cáo WASDE của USDA xuất hiện khi giá ngô, đậu tương và lúa mì giảm trước dữ liệu quan trọng",
-      "summary_vi": "Giá ngũ cốc kỳ hạn của Mỹ giảm trước ngày thứ Sáu",
-      "image": "https://www.agrolatam.com/files/image/82/82205/6ac7fb479e68c_600_315!.jpg?s=a455ac66f500c291737cb6e3e7ba819a&d=1791491192",
-      "link": "https://www.agrolatam.com/usa/news/usda-wasde-report-corn-soybean-wheat-prices-october-2026/",
-      "source": "AgroLatam",
-      "category": "agri",
-      "published": "2026-10-09 03:33"
     }
   ]
 }

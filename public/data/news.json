@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-10 08:00",
+  "updated_at": "2026-10-10 09:00",
   "items": [
+    {
+      "id": "1ei6ir3",
+      "title": "Copper price clinches weekly gain as Chinese demand signals strengthen",
+      "title_vi": "Giá đồng tăng hàng tuần khi tín hiệu nhu cầu của Trung Quốc tăng cường",
+      "summary_vi": "Trong khi đó, tồn kho đồng tại các kho đăng ký LME giảm xuống mức thấp nhất trong 6 tuần.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/09/codelco-copper-cathodes.png",
+      "link": "https://www.mining.com/web/copper-price-heads-for-a-weekly-gain-on-mine-supply-risks-china-demand/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-10-10 06:21"
+    },
     {
       "id": "1y1vsqs",
       "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
@@ -11,6 +22,17 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-10-10 06:02"
+    },
+    {
+      "id": "11piuk3",
+      "title": "October WASDE’s Shocks Grain Futures",
+      "title_vi": "Cú sốc tháng 10 của WASDE về hợp đồng tương lai ngũ cốc",
+      "summary_vi": "Trong báo cáo Ước tính Cung và Cầu Nông nghiệp Thế giới (WASDE) và Sản xuất Cây trồng vào tháng 10 năm 2026, USDA đã gây sốc cho các nhà giao dịch và gửi những khoản tiền dài và sai lầm chạy đến cửa thoát hiểm. Đây là một cái nhìn…",
+      "image": "https://www.northernag.net/wp-content/uploads/2019/01/3451CornKernals_wiki.jpg",
+      "link": "https://www.northernag.net/october-wasdes-shocks-grain-futures/",
+      "source": "Northern Ag Network",
+      "category": "agri",
+      "published": "2026-10-10 05:05"
     },
     {
       "id": "1g6kthm",
@@ -57,17 +79,6 @@
       "published": "2026-10-10 04:30"
     },
     {
-      "id": "1gbnhns",
-      "title": "Copper price heads for a weekly gain on mine supply risks, China demand",
-      "title_vi": "Giá đồng hướng tới mức tăng hàng tuần do rủi ro nguồn cung mỏ và nhu cầu của Trung Quốc",
-      "summary_vi": "Giá đồng đang trên đà tăng 2,0% hàng tuần vào thứ Sáu, được hỗ trợ bởi những lo ngại về sự gián đoạn nguồn cung cấp mỏ, dấu hiệu nhu cầu tích cực ở nước tiêu dùng hàng đầu Trung Quốc và hàng tồn kho thắt chặt bên ngoài Hoa Kỳ. Đồng chuẩn CMCU3 trên Sàn giao dịch kim loại Luân Đôn tăng 1,6% ở mức 14.541 USD/tấn vào lúc 16:04 GMT. Dương Sơn",
-      "image": "https://image-api.prod.kitco.com/image/2df150ba-8bfe-449d-accb-b3e835f1aaf6.jpeg?top=0.45445110701107&left=0&width=1000&height=562.09109778598&scale_width=1920&token=71a65c1e646cf0a27671421c781335eb2bc512e603e4238aab255615ec3719b4",
-      "link": "https://www.kitco.com/news/off-the-wire/2026-10-09/copper-price-heads-weekly-gain-mine-supply-risks-china-demand",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-10-10 03:51"
-    },
-    {
       "id": "ajyvxs",
       "title": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
       "title_vi": "Bão Isaias làm ảnh hưởng 71% sản lượng dầu vùng Vịnh của Hoa Kỳ",
@@ -110,6 +121,17 @@
       "source": "NBC News",
       "category": "energy",
       "published": "2026-10-10 02:00"
+    },
+    {
+      "id": "1eae8n",
+      "title": "USDA Delivers Unexpected Blow to Corn Bulls, Corn Prices Tank",
+      "title_vi": "USDA giáng đòn bất ngờ vào giá ngô, giá ngô tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/news/usda-delivers-unexpected-blow-corn-bulls-corn-prices-tank",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-10-10 01:18"
     },
     {
       "id": "107z02a",
@@ -528,28 +550,6 @@
       "source": "NBC News",
       "category": "energy",
       "published": "2026-10-09 01:33"
-    },
-    {
-      "id": "as9flf",
-      "title": "Why are gas prices still high even as traffic improves in the Strait of Hormuz? - ABC News",
-      "title_vi": "Tại sao giá xăng vẫn cao ngay cả khi giao thông ở eo biển Hormuz được cải thiện? - Tin tức ABC",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://abcnews.com/Business/gas-prices-high-traffic-improves-strait-hormuz/story?id",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-10-09 01:33"
-    },
-    {
-      "id": "s51n7x",
-      "title": "Nate Silver’s Forecast Changes For Democrats—Seats Most Likely to Flip",
-      "title_vi": "Những thay đổi dự báo của Nate Silver dành cho đảng Dân chủ—Các ghế có nhiều khả năng bị lật đổ nhất",
-      "summary_vi": "Dự báo của Silver Bulletin mang lại cho đảng cơ hội giành được Thượng viện là 73,9% tính đến thứ Ba, tăng đáng kể so với 50,6% một tháng trước đó.",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2026/10/GettyImages-2295319186.jpg?w=1200&crop=1",
-      "link": "https://www.newsweek.com/nate-silvers-forecast-changes-for-democrats-seats-most-likely-to-flip-12542701",
-      "source": "Newsweek",
-      "category": "metal",
-      "published": "2026-10-09 00:32"
     }
   ]
 }

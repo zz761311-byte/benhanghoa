@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-12 01:00",
+  "updated_at": "2026-10-12 01:59",
   "items": [
+    {
+      "id": "1h9knkd",
+      "title": "How Ukraine uses precision drone strikes to hobble Russian oil refineries",
+      "title_vi": "Cách Ukraine sử dụng các cuộc tấn công bằng máy bay không người lái chính xác để gây trở ngại cho các nhà máy lọc dầu của Nga",
+      "summary_vi": "Các nhà khai thác máy bay không người lái của Kyiv đang nhắm tới các bộ phận quan trọng khó sửa chữa do các lệnh trừng phạt quốc tế. Các cuộc tấn công đang gây thiệt hại cho nền kinh tế Nga.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5SEDOKOYWBBZFD3NKMPXK46PQQ.png&w=1200",
+      "link": "https://www.washingtonpost.com/investigations/interactive/2026/10/11/how-ukraine-uses-precision-drone-strikes-hobble-russian-oil-refineries/",
+      "source": "The Washington Post",
+      "category": "energy",
+      "published": "2026-10-12 00:00"
+    },
     {
       "id": "a8qrjc",
       "title": "Australia Approves Giant Coal Extension Despite Paris Commitments",
@@ -539,17 +550,6 @@
       "source": "Newsweek",
       "category": "metal",
       "published": "2026-10-09 17:11"
-    },
-    {
-      "id": "1oy577v",
-      "title": "If the Strait of Hormuz is open, why are gas and diesel so expensive?",
-      "title_vi": "Nếu eo biển Hormuz mở, tại sao xăng và dầu diesel lại đắt như vậy?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.cnn.com/2026/10/09/business/oil-gas-diesel-trump-iran-hormuz",
-      "source": "CNN",
-      "category": "energy",
-      "published": "2026-10-09 16:00"
     }
   ]
 }

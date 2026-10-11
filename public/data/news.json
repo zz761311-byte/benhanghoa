@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 06:01",
+  "updated_at": "2026-10-11 07:00",
   "items": [
     {
       "id": "dkybri",
@@ -288,6 +288,17 @@
       "published": "2026-10-10 01:09"
     },
     {
+      "id": "1vd1b9c",
+      "title": "Palladium Price October 12 2026",
+      "title_vi": "Giá Palladium ngày 12 tháng 10 năm 2026",
+      "summary_vi": "Hợp đồng tương lai palladium ngày 26 tháng 12 sẽ kết thúc vào ngày 12 tháng 10 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
+      "image": "https://robinhood.com/api/public/og/event?id=2b69655a-edf3-4c63-8fd5-921fd74838f7",
+      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/palladium-price-october-12-2026-oct-12-2026/",
+      "source": "Robinhood",
+      "category": "metal",
+      "published": "2026-10-10 00:58"
+    },
+    {
       "id": "10xsb3a",
       "title": "US corn forecast weighs on European wheat prices",
       "title_vi": "Dự báo ngô Mỹ gây áp lực lên giá lúa mì châu Âu",
@@ -539,17 +550,6 @@
       "source": "KCRG",
       "category": "macro",
       "published": "2026-10-09 09:28"
-    },
-    {
-      "id": "fet07e",
-      "title": "You Decide: Mike Beltran, In Depth",
-      "title_vi": "Bạn quyết định: Mike Beltran, Chuyên sâu",
-      "summary_vi": "Cựu Dân biểu bang Florida của Đảng Cộng hòa Mike Beltran đang thách thức Dân biểu đương nhiệm của Đảng Dân chủ Kathy Castor cho Khu vực Quốc hội thứ 14 của Florida.",
-      "image": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2026/10/1200/630/vlcsnap-2026-10-08-22h11m57s556.jpg?ve=1&tl=1",
-      "link": "https://www.fox13news.com/news/one-on-one-mike-beltran-ending-sugar-subsidies-flood-insurance-restricting-federal-power",
-      "source": "FOX 13 Tampa Bay",
-      "category": "soft",
-      "published": "2026-10-09 09:12"
     }
   ]
 }

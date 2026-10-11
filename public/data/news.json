@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 16:00",
+  "updated_at": "2026-10-11 17:00",
   "items": [
     {
       "id": "dkybri",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-11 06:00"
+    },
+    {
+      "id": "14uk2vl",
+      "title": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal",
+      "title_vi": "Đảng Cộng hòa tại Hạ viện, triệu tập Reagan, tiến tới ngăn chặn thỏa thuận dầu mỏ với Nga của Trump",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.axios.com/2026/10/10/fitzpatrick-trump-russia-diesel-discharge-petition",
+      "source": "Axios",
+      "category": "energy",
+      "published": "2026-10-11 05:54"
     },
     {
       "id": "1kidqzm",
@@ -508,6 +519,17 @@
       "published": "2026-10-09 17:11"
     },
     {
+      "id": "15il1mp",
+      "title": "Gold and Silver Forecast: Softer Dollar Fuels Rebound Despite Fed Hike Risks",
+      "title_vi": "Dự báo vàng và bạc: Đồng đô la yếu hơn phục hồi bất chấp rủi ro tăng lãi suất của Fed",
+      "summary_vi": "Vàng và bạc phục hồi khi đồng đô la Mỹ suy yếu, nhưng rủi ro tăng lãi suất của Fed vào tháng 12 có thể hạn chế mức tăng thêm.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/gold-and-silver-precious-metals-02-1.jpg?func=cover&q=70&width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-softer-dollar-fuels-rebound-despite-fed-hike-risks-1636929",
+      "source": "FXEmpire",
+      "category": "macro",
+      "published": "2026-10-09 15:40"
+    },
+    {
       "id": "16h24i9",
       "title": "Platinum price recovers some of the losses– Forecast today – 9-10-2026",
       "title_vi": "Giá bạch kim phục hồi một số khoản lỗ– Dự báo hôm nay – 10-9-2026",
@@ -528,28 +550,6 @@
       "source": "East Daley",
       "category": "energy",
       "published": "2026-10-09 15:06"
-    },
-    {
-      "id": "6ph20l",
-      "title": "Natural Gas and Oil Forecast: WTI Eyes $91.40, Can Brent Break $103.89?",
-      "title_vi": "Dự báo về khí đốt tự nhiên và dầu: WTI hướng tới 91,40 USD, Brent có thể phá vỡ 103,89 USD không?",
-      "summary_vi": "WTI phục hồi lên mức 91,40 USD khi tình trạng ngừng cung cấp ở vùng Vịnh thắt chặt sản lượng, Brent kiểm tra mức 103,89 USD và khí đốt tự nhiên giữ mức hỗ trợ 3,12 USD trước khả năng đột phá 3,23 USD.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-4-2.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-wti-eyes-91-40-can-brent-break-103-89-1636939",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-10-09 14:58"
-    },
-    {
-      "id": "polxmi",
-      "title": "Improved 2027/28 Outlook Reduces Sugar Deficit",
-      "title_vi": "Triển vọng 2027/28 được cải thiện giúp giảm thâm hụt đường",
-      "summary_vi": "Triển vọng 2027/28 được cải thiện giúp giảm thâm hụt đường",
-      "image": "https://www.czapp.com/wp-content/uploads/2026/10/44130165-cb56-4ea6-a893-ff4489974023.jpg",
-      "link": "https://www.czapp.com/analyst-insights/improved-2027-28-outlook-reduces-sugar-deficit/",
-      "source": "Czapp",
-      "category": "soft",
-      "published": "2026-10-09 14:00"
     }
   ]
 }

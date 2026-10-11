@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 22:00",
+  "updated_at": "2026-10-11 23:00",
   "items": [
     {
       "id": "a8qrjc",
@@ -530,6 +530,17 @@
       "published": "2026-10-09 17:11"
     },
     {
+      "id": "1oy577v",
+      "title": "If the Strait of Hormuz is open, why are gas and diesel so expensive?",
+      "title_vi": "Nếu eo biển Hormuz mở, tại sao xăng và dầu diesel lại đắt như vậy?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.cnn.com/2026/10/09/business/oil-gas-diesel-trump-iran-hormuz",
+      "source": "CNN",
+      "category": "energy",
+      "published": "2026-10-09 16:00"
+    },
+    {
       "id": "15il1mp",
       "title": "Gold and Silver Forecast: Softer Dollar Fuels Rebound Despite Fed Hike Risks",
       "title_vi": "Dự báo vàng và bạc: Đồng đô la yếu hơn phục hồi bất chấp rủi ro tăng lãi suất của Fed",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "macro",
       "published": "2026-10-09 15:40"
-    },
-    {
-      "id": "16h24i9",
-      "title": "Platinum price recovers some of the losses– Forecast today – 9-10-2026",
-      "title_vi": "Giá bạch kim phục hồi một số khoản lỗ– Dự báo hôm nay – 10-9-2026",
-      "summary_vi": "Giá bạch kim duy trì sự ổn định trên mức $1605,00, hình thành một mức hỗ trợ mới, cho phép giá phục hồi một số khoản lỗ bằng cách tăng lên $1690,00.",
-      "image": "https://dylta6p24nxqg.cloudfront.net/images/1791533225.png",
-      "link": "https://www.economies.com/commodities/platinum-analysis/platinum-price-recovers-some-of-the-losses%E2%80%93-forecast-today-%E2%80%93-9-10-2026-131621",
-      "source": "Economies.com",
-      "category": "metal",
-      "published": "2026-10-09 15:07"
     }
   ]
 }

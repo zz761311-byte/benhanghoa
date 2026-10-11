@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 23:00",
+  "updated_at": "2026-10-12 00:01",
   "items": [
     {
       "id": "a8qrjc",
@@ -176,6 +176,17 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-10-10 07:46"
+    },
+    {
+      "id": "15v1oid",
+      "title": "Trump strikes deal with Putin to get diesel in sharp reversal of US policy weeks before midterms",
+      "title_vi": "Trump đạt được thỏa thuận với Putin để mua dầu diesel trong sự đảo ngược mạnh mẽ chính sách của Mỹ vài tuần trước kỳ giữa kỳ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://apnews.com/article/trump-russia-diesel-midterms-12baccc7aade559bf329079b0548c9da",
+      "source": "AP News",
+      "category": "energy",
+      "published": "2026-10-10 06:47"
     },
     {
       "id": "1y1vsqs",
@@ -539,17 +550,6 @@
       "source": "CNN",
       "category": "energy",
       "published": "2026-10-09 16:00"
-    },
-    {
-      "id": "15il1mp",
-      "title": "Gold and Silver Forecast: Softer Dollar Fuels Rebound Despite Fed Hike Risks",
-      "title_vi": "Dự báo vàng và bạc: Đồng đô la yếu hơn phục hồi bất chấp rủi ro tăng lãi suất của Fed",
-      "summary_vi": "Vàng và bạc phục hồi khi đồng đô la Mỹ suy yếu, nhưng rủi ro tăng lãi suất của Fed vào tháng 12 có thể hạn chế mức tăng thêm.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/gold-and-silver-precious-metals-02-1.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-softer-dollar-fuels-rebound-despite-fed-hike-risks-1636929",
-      "source": "FXEmpire",
-      "category": "macro",
-      "published": "2026-10-09 15:40"
     }
   ]
 }

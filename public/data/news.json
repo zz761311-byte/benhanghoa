@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 15:00",
+  "updated_at": "2026-10-11 16:00",
   "items": [
     {
       "id": "dkybri",
@@ -253,6 +253,17 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-10-10 03:07"
+    },
+    {
+      "id": "hjof9h",
+      "title": "El Niño Threatens West Africa Cocoa Supply",
+      "title_vi": "El Niño đe dọa nguồn cung ca cao ở Tây Phi",
+      "summary_vi": "Các đợt khô hạn do El Niño gây ra đe dọa vụ thu hoạch ca cao của Bờ Biển Ngà và Ghana, làm giảm sản lượng và khiến giá ca cao toàn cầu tăng cao trong bối cảnh giá ca cao kỳ hạn đầy biến động.",
+      "image": "https://www.briefs.co/wp-content/uploads/2026/10/el-ni-o-puts-west-africa-s-cocoa-outlook-on-edge-as-prices-s.png",
+      "link": "https://www.briefs.co/news/el-ni-o-puts-west-africa-s-cocoa-outlook-on-edge-as-prices-s/",
+      "source": "Briefs Finance",
+      "category": "soft",
+      "published": "2026-10-10 03:05"
     },
     {
       "id": "1pev2uq",
@@ -539,17 +550,6 @@
       "source": "Czapp",
       "category": "soft",
       "published": "2026-10-09 14:00"
-    },
-    {
-      "id": "15il1mp",
-      "title": "Gold and Silver Forecast: Softer Dollar Fuels Rebound Despite Fed Hike Risks",
-      "title_vi": "Dự báo vàng và bạc: Đồng đô la yếu hơn phục hồi bất chấp rủi ro tăng lãi suất của Fed",
-      "summary_vi": "Vàng và bạc phục hồi khi đồng đô la Mỹ suy yếu, nhưng rủi ro tăng lãi suất của Fed vào tháng 12 có thể hạn chế mức tăng thêm.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/gold-and-silver-precious-metals-02-1.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-forecast-softer-dollar-fuels-rebound-despite-fed-hike-risks-1636929",
-      "source": "FXEmpire",
-      "category": "macro",
-      "published": "2026-10-09 10:57"
     }
   ]
 }

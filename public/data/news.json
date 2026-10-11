@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 17:00",
+  "updated_at": "2026-10-11 18:00",
   "items": [
     {
       "id": "dkybri",
@@ -420,6 +420,17 @@
       "published": "2026-10-09 22:11"
     },
     {
+      "id": "eb5mtb",
+      "title": "Who’s ahead on the generic congressional ballot?",
+      "title_vi": "Ai dẫn trước trong cuộc bỏ phiếu chung của quốc hội?",
+      "summary_vi": "Công cụ theo dõi các cuộc thăm dò được cập nhật liên tục của chúng tôi để tìm ra chỉ số quan trọng nhất trong cuộc đua vào Quốc hội.",
+      "image": "https://substackcdn.com/image/fetch/$s_!DHD9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b7584a6-a95a-4054-90c6-ca160d014d37_1200x831.jpeg",
+      "link": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls",
+      "source": "Silver Bulletin",
+      "category": "metal",
+      "published": "2026-10-09 21:07"
+    },
+    {
       "id": "m22rmo",
       "title": "Bessent taps former Trump Fed pick Shelton to advise on China",
       "title_vi": "Bessent khai thác cựu Fed của Trump chọn Shelton để tư vấn về Trung Quốc",
@@ -539,17 +550,6 @@
       "source": "Economies.com",
       "category": "metal",
       "published": "2026-10-09 15:07"
-    },
-    {
-      "id": "ruen1t",
-      "title": "Up to Snow Good: Looser Winter Market Creates Risk for Gas Bulls",
-      "title_vi": "Lên đến tuyết tốt: Thị trường mùa đông lỏng lẻo hơn tạo ra rủi ro cho những người mua xăng",
-      "summary_vi": "East Daley Analytics kỳ vọng sự cân bằng thị trường khí đốt tự nhiên lỏng lẻo hơn sẽ chiếm ưu thế trong mùa sưởi ấm 2026-27 sắp tới, tạo ra một số rủi ro giảm giá trong năm tới.",
-      "image": "https://eastdaley.com/wp-content/uploads/2026/10/Winter-26.27-balance-10.7.26-wide.png",
-      "link": "https://eastdaley.com/daley-note/up-to-snow-good-looser-winter-market-creates-risk-for-gas-bulls",
-      "source": "East Daley",
-      "category": "energy",
-      "published": "2026-10-09 15:06"
     }
   ]
 }

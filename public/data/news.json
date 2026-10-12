@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 14:00",
+  "updated_at": "2026-10-12 15:01",
   "items": [
     {
       "id": "l3k2vg",
@@ -321,6 +321,17 @@
       "published": "2026-10-10 04:24"
     },
     {
+      "id": "s6u8ly",
+      "title": "In the agricultural heart of the country, it's a tale of two farm economies",
+      "title_vi": "Ở trung tâm nông nghiệp của đất nước, đó là câu chuyện về hai nền kinh tế trang trại",
+      "summary_vi": "Ngay cả nông nghiệp cũng đã chuyển sang hình chữ K.",
+      "image": "https://img.apmcdn.org/b51f7a5ea696064064bddb335961a906ce2b285b/widescreen/166241-20261009-cattle-in-a-grassy-area-2000.jpg",
+      "link": "https://www.marketplace.org/story/2026/10/09/cattle-ranchers-fare-well-as-commodity-farmers-struggle",
+      "source": "www.marketplace.org",
+      "category": "macro",
+      "published": "2026-10-10 04:15"
+    },
+    {
       "id": "145415r",
       "title": "USDA yield shocker sends corn sinking to 8-week low",
       "title_vi": "Cú sốc lợi suất của USDA khiến ngô giảm xuống mức thấp nhất 8 tuần",
@@ -539,17 +550,6 @@
       "source": "TradingView",
       "category": "metal",
       "published": "2026-10-09 19:57"
-    },
-    {
-      "id": "1p4vdbw",
-      "title": "Hurricane Isaias threatens to drive gas prices higher as oil production slows down in the Gulf",
-      "title_vi": "Bão Isaias có nguy cơ đẩy giá xăng lên cao do sản lượng dầu ở vùng Vịnh chậm lại",
-      "summary_vi": "Thời điểm xảy ra Bão Isaias đang làm dấy lên những mối lo ngại mới đối với người dân Mỹ vốn đang cảm thấy khó khăn do chi phí gia tăng.",
-      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/wjxt/6cacfb65-b4ff-424e-8f37-c75e9470b568/image.jpg?api_key=news4jax_3f10b25586458189",
-      "link": "https://www.news4jax.com/money/2026/10/09/hurricane-isaias-threatens-to-drive-gas-prices-higher-as-oil-production-slows-down-in-the-gulf/",
-      "source": "News4JAX",
-      "category": "energy",
-      "published": "2026-10-09 19:24"
     }
   ]
 }

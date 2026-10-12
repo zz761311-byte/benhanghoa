@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-12 08:00",
+  "updated_at": "2026-10-12 09:00",
   "items": [
+    {
+      "id": "vfzyd1",
+      "title": "Trump&#039;s Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries",
+      "title_vi": "Lệnh ngừng bắn năng lượng Nga-Ukraine của Trump có thể chỉ ảnh hưởng đến các nhà máy lọc dầu",
+      "summary_vi": "Thông báo của Tổng thống Trump về lệnh ngừng bắn năng lượng giữa Nga và Ukraine dường như hẹp hơn đáng kể so với đề xuất ban đầu, khi một quan chức Nhà Trắng nói với Axios rằng đề xuất này chỉ bao gồm các cuộc tấn công vào các nhà máy lọc dầu và không có xác nhận chính thức.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-11_92ym8hxjpf.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trumps-Russia-Ukraine-Energy-Ceasefire-May-Only-Cover-Oil-Refineries.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-12 08:01"
+    },
     {
       "id": "1w6m38",
       "title": "3 Stocks To Play The Nuclear Energy Boom",
@@ -44,6 +55,17 @@
       "source": "The Washington Post",
       "category": "energy",
       "published": "2026-10-12 00:00"
+    },
+    {
+      "id": "y1sggb",
+      "title": "Gold, silver prices next week: What investors should watch amid global uncertainty",
+      "title_vi": "Giá vàng, bạc tuần tới: Nhà đầu tư nên theo dõi điều gì trong bối cảnh bất ổn toàn cầu",
+      "summary_vi": "Các nhà phân tích cho biết giá vàng và bạc có thể vẫn dao động trong phạm vi hẹp với xu hướng tích cực nhẹ vào tuần tới, do đồng rupee yếu đi hỗ trợ giá vàng thỏi trong nước trong bối cảnh biến động toàn cầu.",
+      "image": "https://static.toiimg.com/thumb/msid-134873077,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-prices-next-week-what-investors-should-watch-amid-global-uncertainty/articleshow/134872993.cms",
+      "source": "The Times of India",
+      "category": "metal",
+      "published": "2026-10-11 22:49"
     },
     {
       "id": "a8qrjc",
@@ -121,17 +143,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-11 04:00"
-    },
-    {
-      "id": "42zl79",
-      "title": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
-      "title_vi": "Đông Nam Á cần thêm điện nhưng mạng lưới yếu kém có thể là một vấn đề",
-      "summary_vi": "Cuộc chiến ở Iran đã bộc lộ lỗ hổng nghiêm trọng trên thị trường năng lượng ở Đông Nam Á. Khu vực này phụ thuộc nhiều vào nhập khẩu nhiên liệu hóa thạch và nhu cầu đang tiếp tục quỹ đạo tăng trưởng mạnh mẽ ngay cả khi giá dầu thô toàn cầu vẫn ở mức cao. Mặc dù eo biển Horm",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-09_ya3qm90uo1.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Southeast-Asia-Needs-More-Power-But-Its-Weak-Grid-Could-Be-a-Problem.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-11 02:00"
     },
     {
       "id": "1crxd47",
@@ -539,17 +550,6 @@
       "source": "Gresham Outlook",
       "category": "soft",
       "published": "2026-10-09 19:17"
-    },
-    {
-      "id": "1bftnof",
-      "title": "The oil market that sets today’s gas prices was invented in western Pennsylvania",
-      "title_vi": "Thị trường dầu quyết định giá xăng ngày nay được phát minh ở phía tây Pennsylvania",
-      "summary_vi": "Một nhà sử học theo dõi cách các nhà môi giới của Thành phố Dầu mỏ, sau đó là John D. Rockefeller, sau đó là các sàn giao dịch hợp đồng tương lai quyết định số tiền thế giới trả cho dầu thô - và tại sao ngày nay không có một thực thể nào thực hiện điều đó.",
-      "image": "https://images.theconversation.com/files/764263/original/file-20261006-50-rjxzzw.jpg?ixlib=rb-4.1.1&rect=0%2C264%2C2048%2C1024&q=45&auto=format&w=1356&h=668&fit=crop",
-      "link": "https://theconversation.com/the-oil-market-that-sets-todays-gas-prices-was-invented-in-western-pennsylvania-292855",
-      "source": "The Conversation",
-      "category": "energy",
-      "published": "2026-10-09 19:09"
     }
   ]
 }

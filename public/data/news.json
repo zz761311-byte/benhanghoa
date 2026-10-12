@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 11:00",
+  "updated_at": "2026-10-12 12:01",
   "items": [
     {
       "id": "vfzyd1",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-12 02:00"
+    },
+    {
+      "id": "1tl91a3",
+      "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
+      "title_vi": "Mỹ đe dọa chặn cung cấp vũ khí cho Ukraine vì tấn công nhà máy lọc dầu của Nga",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6",
+      "source": "Financial Times",
+      "category": "energy",
+      "published": "2026-10-12 00:19"
     },
     {
       "id": "1h9knkd",
@@ -539,17 +550,6 @@
       "source": "Quartz",
       "category": "energy",
       "published": "2026-10-09 19:21"
-    },
-    {
-      "id": "119izt8",
-      "title": "Ink and Drink Coffee creates artistic caffeinated haven in wake of storm",
-      "title_vi": "Ink and Drink Coffee tạo ra thiên đường nghệ thuật chứa caffein sau cơn bão",
-      "summary_vi": "Một quán cà phê độc đáo, đầy tính nghệ thuật ở Downtown Gresham ra đời sau cơn bão băng tàn khốc. Trở lại tháng 1 năm 2024, những ngày mưa lạnh giá bao phủ […]",
-      "image": "https://theoutlookonline.com/wp-content/uploads/sites/24/2026/10/business_inkdrink_101426_gro_1.jpg",
-      "link": "https://theoutlookonline.com/2026/10/09/ink-and-drink-coffee-creates-artistic-caffeinated-haven-in-wake-of-storm/",
-      "source": "Gresham Outlook",
-      "category": "soft",
-      "published": "2026-10-09 19:17"
     }
   ]
 }

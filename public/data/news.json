@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-13 01:01",
+  "updated_at": "2026-10-13 02:01",
   "items": [
+    {
+      "id": "9syhmt",
+      "title": "$4,000 Gold Could Be Wall Street&#039;s Next Big Buying Opportunity",
+      "title_vi": "Vàng trị giá 4.000 USD có thể là cơ hội mua lớn tiếp theo của Phố Wall",
+      "summary_vi": "Vàng đang vật lộn để lấy lại chỗ đứng sau khi rút lui khỏi mức cao nhất trong tháng 9 trên 4.400 USD/ounce, do đồng đô la Mỹ mạnh hơn, lãi suất trái phiếu Kho bạc tăng cao và kỳ vọng về việc thắt chặt hơn nữa của Cục Dự trữ Liên bang đè nặng lên kim loại quý. Nhưng trong khi các nhà đầu tư đầu cơ đã",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-12_7b8cumcd9w.jpg",
+      "link": "https://oilprice.com/Metals/Gold/4000-Gold-Could-Be-Wall-Streets-Next-Big-Buying-Opportunity.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-10-13 02:00"
+    },
     {
       "id": "jr1y6k",
       "title": "Trump&#039;s Grid Security Order Could Backfire on America&#039;s AI Boom",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-13 01:00"
+    },
+    {
+      "id": "1vseepi",
+      "title": "Daily: Commodity fundamentals speak for further upside",
+      "title_vi": "Hàng ngày: Các nguyên tắc cơ bản của hàng hóa cho thấy xu hướng tăng giá hơn nữa",
+      "summary_vi": "Báo cáo thị trường tài chính của UBS CIO House View. Những bất ổn về địa chính trị và vĩ mô đang thúc đẩy biến động hàng hóa trong ngắn hạn, nhưng nguồn cung thắt chặt và nhu cầu lâu bền vẫn hỗ trợ cho triển vọng.",
+      "image": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2026/latest-12102026/_jcr_content/root/pagehead/opengraphimage.coreimg.1280.jpg/1345181608/man-playing-chess-three.jpg",
+      "link": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2026/latest-12102026.html",
+      "source": "UBS",
+      "category": "macro",
+      "published": "2026-10-13 00:55"
     },
     {
       "id": "bmercn",
@@ -88,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-12 22:30"
-    },
-    {
-      "id": "8d9gx7",
-      "title": "Inside The Secret Russian-Iranian Military-Energy-Pipeline Laundering Machine",
-      "title_vi": "Bên trong cỗ máy rửa đường ống năng lượng-quân sự bí mật của Nga-Iran",
-      "summary_vi": "Như đã được chứng minh hết lần này đến lần khác trong nhiều kịch bản: ‘Ở đâu có ý chí, ở đó có cách lách mọi lệnh trừng phạt’ và, bất chấp thời hạn chấm dứt toàn bộ hoạt động nhập khẩu dầu và khí đốt của Nga sắp đến – với những lời hứa sẽ tiếp tục giảm trước đó – Liên minh châu Âu (EU) dường như vẫn",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-12_9qyzl12bmf.jpg",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Inside-The-Secret-Russian-Iranian-Military-Energy-Pipeline-Laundering-Machine.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-10-12 22:00"
     },
     {
       "id": "pwf3lg",
@@ -275,6 +286,17 @@
       "source": "The Times of India",
       "category": "metal",
       "published": "2026-10-11 22:49"
+    },
+    {
+      "id": "14uk2vl",
+      "title": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal",
+      "title_vi": "Đảng Cộng hòa tại Hạ viện, triệu tập Reagan, tiến tới ngăn chặn thỏa thuận dầu mỏ với Nga của Trump",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.axios.com/2026/10/10/fitzpatrick-trump-russia-diesel-discharge-petition",
+      "source": "Axios",
+      "category": "energy",
+      "published": "2026-10-11 12:07"
     },
     {
       "id": "1kidqzm",
@@ -508,6 +530,17 @@
       "published": "2026-10-10 02:00"
     },
     {
+      "id": "7ma2tx",
+      "title": "Corn Plunges After USDA Hikes US Yield Outlook in Surprise Move",
+      "title_vi": "Ngô lao dốc sau khi USDA tăng triển vọng lợi suất của Mỹ trong một động thái bất ngờ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-09/corn-plunges-after-usda-hikes-us-yield-outlook-in-surprise-move",
+      "source": "Bloomberg.com",
+      "category": "agri",
+      "published": "2026-10-10 01:55"
+    },
+    {
       "id": "1eae8n",
       "title": "USDA Delivers Unexpected Blow to Corn Bulls, Corn Prices Tank",
       "title_vi": "USDA giáng đòn bất ngờ vào giá ngô, giá ngô tăng",
@@ -517,39 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-10-10 01:18"
-    },
-    {
-      "id": "107z02a",
-      "title": "WASDE report a ‘gut punch to corn farmers’",
-      "title_vi": "WASDE báo cáo một ‘cú đấm thẳng vào người nông dân trồng ngô’",
-      "summary_vi": "USDA dự đoán nguồn cung ngô lớn hơn, xuất khẩu, sử dụng trong nước và tồn kho cuối kỳ cao hơn, với lý do tồn kho đầu kỳ tăng 173 triệu giạ dựa trên báo cáo Kho ngũ cốc ngày 30 tháng 9.",
-      "image": "https://www.michiganfarmnews.com/sites/default/files/styles/default_share_image/public/2026-10/1-wasde-reoprt-case-ih-web.jpg?h=4362216e&itok=Lk6ged74",
-      "link": "https://www.michiganfarmnews.com/about/news-media/wasde-report-gut-punch-corn-farmers",
-      "source": "Michigan Farm News",
-      "category": "agri",
-      "published": "2026-10-10 01:09"
-    },
-    {
-      "id": "1vd1b9c",
-      "title": "Palladium Price October 12 2026",
-      "title_vi": "Giá Palladium ngày 12 tháng 10 năm 2026",
-      "summary_vi": "Hợp đồng tương lai palladium ngày 26 tháng 12 sẽ kết thúc vào ngày 12 tháng 10 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
-      "image": "https://robinhood.com/api/public/og/event?id=2b69655a-edf3-4c63-8fd5-921fd74838f7",
-      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/palladium-price-october-12-2026-oct-12-2026/",
-      "source": "Robinhood",
-      "category": "metal",
-      "published": "2026-10-10 00:58"
-    },
-    {
-      "id": "10xsb3a",
-      "title": "US corn forecast weighs on European wheat prices",
-      "title_vi": "Dự báo ngô Mỹ gây áp lực lên giá lúa mì châu Âu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/commodities-news/us-corn-forecast-weighs-on-european-wheat-prices-93CH-4941559",
-      "source": "Investing.com",
-      "category": "agri",
-      "published": "2026-10-10 00:56"
     }
   ]
 }

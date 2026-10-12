@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 07:00",
+  "updated_at": "2026-10-12 08:00",
   "items": [
     {
       "id": "1w6m38",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-12 06:00"
+    },
+    {
+      "id": "1oh8stk",
+      "title": "Rubber Just Hit a Nine-Year High. The Reason Starts With a Tree That Takes 15 Years to Grow.",
+      "title_vi": "Cao su vừa đạt mức cao nhất trong 9 năm. Lý do bắt đầu từ một cái cây phải mất 15 năm mới lớn lên.",
+      "summary_vi": "Các nhà máy sản xuất lốp xe đang tăng giá. Các nhà sản xuất găng tay đang phải trả chi phí ăn uống. Và ở Vân Nam, những người đi làm ở thành phố đang quay trở lại.",
+      "image": "https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/Y6_J56MNEjKQ_U87bHVvD800E5k.jpg",
+      "link": "https://vocal.media/trader/rubber-just-hit-a-nine-year-high-the-reason-starts-with-a-tree-that-takes-15-years-to-grow",
+      "source": "Vocal",
+      "category": "soft",
+      "published": "2026-10-12 04:40"
     },
     {
       "id": "d49iqv",
@@ -539,17 +550,6 @@
       "source": "The Conversation",
       "category": "energy",
       "published": "2026-10-09 19:09"
-    },
-    {
-      "id": "m34v2i",
-      "title": "Democrat Chances of Winning House, Senate Hit New High—Nate Silver Forecast",
-      "title_vi": "Cơ hội giành được Hạ viện, Thượng viện của Đảng Dân chủ đạt mức cao mới—Dự báo Bạc của Nate",
-      "summary_vi": "Theo nhà dự báo Nate Silver, cơ hội giành chiến thắng ở cả Thượng viện và Hạ viện của Đảng Dân chủ là cao nhất trong nhiều tháng.",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2026/10/GettyImages-2278934196.jpg?w=1200&crop=1",
-      "link": "https://www.newsweek.com/democrat-chances-of-winning-house-senate-hit-new-high-nate-silver-forecast-12545290",
-      "source": "Newsweek",
-      "category": "metal",
-      "published": "2026-10-09 17:11"
     }
   ]
 }

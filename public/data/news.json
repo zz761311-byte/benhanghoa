@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-12 18:03",
+  "updated_at": "2026-10-12 19:01",
   "items": [
+    {
+      "id": "ads4gr",
+      "title": "Oil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce",
+      "title_vi": "Dầu bị kẹt giữa leo thang ở Trung Đông và thỏa thuận ngừng bắn năng lượng Nga-Ukraine",
+      "summary_vi": "Giá dầu giao dịch thấp hơn một chút vào sáng sớm ở châu Âu hôm thứ Hai khi thông báo của Tổng thống Mỹ Trump về “ngừng bắn năng lượng” giữa Nga và Ukraine bù đắp cho sự leo thang vào cuối tuần này ở Trung Đông. Giá dầu thô Brent ở mức 104 USD/thùng và dự báo của Mỹ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-12_yqhaogenxk.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Stuck-Between-Middle-East-Escalation-and-Russia-Ukraine-Energy-Truce.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-12 18:30"
+    },
     {
       "id": "kb7dpp",
       "title": "BMI Predicts Brent Crude Will Remain Above $100 for Months",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-12 17:30"
+    },
+    {
+      "id": "poyst4",
+      "title": "Natural Gas and Oil Forecast: WTI Tests $91.40, Can Brent Break $106 and NG Reach $3.35?",
+      "title_vi": "Dự báo về khí đốt tự nhiên và dầu: WTI kiểm tra 91,40 USD, Brent có thể phá vỡ 106 USD và NG đạt 3,35 USD?",
+      "summary_vi": "WTI kiểm tra mức 91,40 USD khi sản lượng dầu ở vùng Vịnh phục hồi, Brent đặt mục tiêu 106,03 USD trong bối cảnh rủi ro nguồn cung Hormuz và khí đốt tự nhiên hướng tới 3,35 USD bất chấp tồn kho của Mỹ tăng.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-4-3.jpg?width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-wti-tests-91-40-can-brent-break-106-and-ng-reach-3-35-1637284",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-10-12 17:07"
     },
     {
       "id": "1j0b4lq",
@@ -110,17 +132,6 @@
       "source": "Vocal",
       "category": "soft",
       "published": "2026-10-12 04:40"
-    },
-    {
-      "id": "d49iqv",
-      "title": "How Low Can the Strategic Petroleum Reserve Actually Go?",
-      "title_vi": "Dự trữ dầu mỏ chiến lược thực sự có thể giảm tới mức nào?",
-      "summary_vi": "Theo Reuters, Cục Dự trữ Dầu khí Chiến lược Hoa Kỳ chỉ còn 283 triệu thùng dầu vào cuối tháng 9, mức thấp nhất kể từ tháng 10 năm 1982, khi kho dự trữ vẫn đang được lấp đầy lần đầu tiên. Đó là một con số trông đáng sợ, và hầu hết tin tức đều",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-09_3kqgz8mnxc.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/How-Low-Can-the-Strategic-Petroleum-Reserve-Actually-Go.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-12 02:00"
     },
     {
       "id": "1tl91a3",
@@ -475,6 +486,17 @@
       "published": "2026-10-09 22:56"
     },
     {
+      "id": "192d0tr",
+      "title": "Trump says Russia to supply diesel to US and global markets",
+      "title_vi": "Trump nói Nga sẽ cung cấp dầu diesel cho thị trường Mỹ và toàn cầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/trump-big-announcement-coming-up-diesel-2026-10-09/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-10-09 22:43"
+    },
+    {
       "id": "1elm39v",
       "title": "Corn Slips, Soybeans Rise as USDA Report Looms Over U.S. Grain Markets on Friday",
       "title_vi": "Giá ngô, đậu nành tăng khi báo cáo của USDA xuất hiện trên thị trường ngũ cốc Hoa Kỳ vào thứ Sáu",
@@ -528,28 +550,6 @@
       "source": "Politico",
       "category": "macro",
       "published": "2026-10-09 20:51"
-    },
-    {
-      "id": "1j4dgbm",
-      "title": "Weekly Coffee News: Good Food Awards Open + California Chain Expands",
-      "title_vi": "Tin tức Cà phê Hàng tuần: Giải thưởng Thực phẩm Tốt mở rộng + Chuỗi California mở rộng",
-      "summary_vi": "Các bài dự thi mở cho Giải thưởng Thực phẩm Tốt 2027 Thời gian tham gia Giải thưởng Thực phẩm Tốt 2027 kéo dài đến hết ngày 31 tháng 10, với các bài dự thi được chấp nhận ở 18 hạng mục, bao gồm cả cà phê. Nếm thử mù quáng...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/10/09/weekly-coffee-news-good-food-awards-open-california-chain-expands/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-10-09 20:11"
-    },
-    {
-      "id": "11glny0",
-      "title": "Silver Price Forecast – Silver Bounces from Crucial Level",
-      "title_vi": "Dự báo giá bạc - Bạc bật lên từ mức quan trọng",
-      "summary_vi": "Thị trường bạc tiếp tục được thúc đẩy bởi thị trường trái phiếu, cụ thể là lãi suất và liệu chúng đang tăng hay giảm. Vì hiện tại chúng chỉ đơn giản là đang trôi dạt nên điều này đã giúp thị trường bớt căng thẳng hơn.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-06-1.jpg?func=cover&q=70&width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/silver-price-forecast-silver-bounces-from-crucial-level-1637037",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-10-09 20:01"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13 02:01",
+  "updated_at": "2026-10-13 02:23",
   "items": [
     {
       "id": "9syhmt",
@@ -187,6 +187,17 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-10-12 20:26"
+    },
+    {
+      "id": "17fv5la",
+      "title": "Silver Price Forecast – Silver Continues to Watch Rates",
+      "title_vi": "Dự báo giá bạc - Bạc tiếp tục theo dõi tỷ giá",
+      "summary_vi": "Bạc tiếp tục chứng kiến ​​giao dịch qua lại ồn ào. Phiên thứ Hai tiếp tục là phiên được theo dõi sát lãi suất.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-01-3.jpg?width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/silver-price-forecast-silver-continues-to-watch-rates-1637388",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-10-12 20:12"
     },
     {
       "id": "mjxhh8",
@@ -539,17 +550,6 @@
       "source": "Bloomberg.com",
       "category": "agri",
       "published": "2026-10-10 01:55"
-    },
-    {
-      "id": "1eae8n",
-      "title": "USDA Delivers Unexpected Blow to Corn Bulls, Corn Prices Tank",
-      "title_vi": "USDA giáng đòn bất ngờ vào giá ngô, giá ngô tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/news/usda-delivers-unexpected-blow-corn-bulls-corn-prices-tank",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-10-10 01:18"
     }
   ]
 }

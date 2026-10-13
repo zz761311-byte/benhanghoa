@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-13 21:00",
+  "updated_at": "2026-10-13 22:00",
   "items": [
+    {
+      "id": "rsd1r2",
+      "title": "Japanese Refiners Buy Middle East Crude Through Ship-to-Ship Transfers",
+      "title_vi": "Các nhà máy lọc dầu Nhật Bản mua dầu thô Trung Đông thông qua vận chuyển từ tàu này sang tàu khác",
+      "summary_vi": "Một số tàu chở dầu của Nhật Bản đang quay trở lại Trung Đông để nhận hàng thô cho các nhà máy lọc dầu của Nhật Bản, nhưng không chiếc nào trong số này di chuyển vào Vịnh Ba Tư qua eo biển Hormuz. Thay vào đó, ngày càng có nhiều tàu chở dầu thuộc sở hữu của Nhật Bản hoặc xuất khẩu sang Nhật Bản - hầu hết đều có",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-13_uv3jf8gkwm.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japanese-Refiners-Buy-Middle-East-Crude-Through-Ship-to-Ship-Transfers.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-13 21:30"
+    },
+    {
+      "id": "6trd25",
+      "title": "Fall F&B Forecast: Coffee, Comfort, and a Bigger Seat at the Revenue Table",
+      "title_vi": "Dự báo F&B mùa thu: Cà phê, tiện nghi và vị trí lớn hơn trên bảng doanh thu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.hospitalitynet.org/opinion/4134862/fall-f-b-forecast-coffee-comfort-and-a-bigger-seat-at-the-revenue-table",
+      "source": "Hospitality Net",
+      "category": "soft",
+      "published": "2026-10-13 21:00"
+    },
     {
       "id": "r1w7uz",
       "title": "Trump Defends Russian Diesel Deal as Energy Ceasefire Claims Unravel",
@@ -132,17 +154,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-10-13 15:14"
-    },
-    {
-      "id": "lspti3",
-      "title": "Shell Slams Australia&#039;s Plan to Force LNG Producers to Supply Domestic Market",
-      "title_vi": "Shell chỉ trích kế hoạch của Australia nhằm buộc các nhà sản xuất LNG cung cấp cho thị trường nội địa",
-      "summary_vi": "Shell đã lên tiếng phản đối kế hoạch của chính phủ Australia nhằm đảm bảo nguồn cung khí đốt trong nước bằng cách yêu cầu các nhà sản xuất LNG dự trữ một lượng sản lượng nhất định để sử dụng trong nước. “Về cơ bản, việc bẻ đai ốc giống như một chiếc búa tạ. Và nó là một công việc cực kỳ nặng tay.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-13_vnecksscu9.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Slams-Australias-Plan-to-Force-LNG-Producers-to-Supply-Domestic-Market.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-13 14:00"
     },
     {
       "id": "1vk3ira",
@@ -539,17 +550,6 @@
       "source": "Nutritional Outlook",
       "category": "soft",
       "published": "2026-10-10 08:53"
-    },
-    {
-      "id": "1gbnhns",
-      "title": "Copper price heads for a weekly gain on mine supply risks, China demand",
-      "title_vi": "Giá đồng hướng tới mức tăng hàng tuần do rủi ro nguồn cung mỏ và nhu cầu của Trung Quốc",
-      "summary_vi": "Giá đồng đang trên đà tăng 2,0% hàng tuần vào thứ Sáu, được hỗ trợ bởi những lo ngại về sự gián đoạn nguồn cung cấp mỏ, dấu hiệu nhu cầu tích cực ở nước tiêu dùng hàng đầu Trung Quốc và hàng tồn kho thắt chặt bên ngoài Hoa Kỳ. Đồng chuẩn CMCU3 trên Sàn giao dịch kim loại Luân Đôn tăng 1,6% ở mức 14.541 USD/tấn vào lúc 16:04 GMT. Dương Sơn",
-      "image": "https://image-api.prod.kitco.com/image/2df150ba-8bfe-449d-accb-b3e835f1aaf6.jpeg?top=0.45445110701107&left=0&width=1000&height=562.09109778598&scale_width=1920&token=71a65c1e646cf0a27671421c781335eb2bc512e603e4238aab255615ec3719b4",
-      "link": "https://www.kitco.com/news/off-the-wire/2026-10-09/copper-price-heads-weekly-gain-mine-supply-risks-china-demand",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-10-10 07:46"
     }
   ]
 }

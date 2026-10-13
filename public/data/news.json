@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13 15:31",
+  "updated_at": "2026-10-13 16:00",
   "items": [
     {
       "id": "1rd40m1",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-10-13 15:15"
+    },
+    {
+      "id": "1q52mh0",
+      "title": "Platinum Price Forecast: China Car Sales Slump Clouds $1,900 Target",
+      "title_vi": "Dự báo giá bạch kim: Đám mây sụt giảm doanh số bán ô tô tại Trung Quốc Mục tiêu 1.900 USD",
+      "summary_vi": "Sự phục hồi của bạch kim phải đối mặt với lạm phát ở Mỹ và rủi ro về nhu cầu của Trung Quốc, trong khi việc phá vỡ trên mức 1.770 USD có thể mang lại mức 1.900 USD.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/precious-metals-market-illustration-01-2.jpg?width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/premium-platinum-price-forecast-china-car-sales-slump-clouds-1900-target-1637540",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-10-13 15:14"
     },
     {
       "id": "lspti3",
@@ -539,17 +550,6 @@
       "source": "Ethanol Producer Magazine",
       "category": "agri",
       "published": "2026-10-10 04:39"
-    },
-    {
-      "id": "xh5phj",
-      "title": "USDA: October WASDE maintains forecast for 2026-’27 soybean oil use in biofuel",
-      "title_vi": "USDA: Tháng 10 WASDE duy trì dự báo sử dụng dầu đậu nành trong nhiên liệu sinh học năm 2026-27",
-      "summary_vi": "USDA duy trì dự báo về việc sử dụng dầu đậu nành trong sản xuất nhiên liệu sinh học trong báo cáo Ước tính Cung và Cầu Nông nghiệp Thế giới mới nhất, công bố ngày 11/12.",
-      "image": "https://bbi-strapi.s3.us-east-2.amazonaws.com/archived/biodieselmagazine/posts/web/2020/08/SoybeanField_15977898496687.jpg",
-      "link": "https://biomassmagazine.com/articles/usda-october-wasde-maintains-forecast-for-2026-27-soybean-oil-use-in-biofuel",
-      "source": "Biomass Magazine",
-      "category": "energy",
-      "published": "2026-10-10 04:37"
     }
   ]
 }

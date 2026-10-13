@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-14 01:01",
+  "updated_at": "2026-10-14 02:00",
   "items": [
+    {
+      "id": "1lrckwh",
+      "title": "Presenting the 2027 Roaster of the Year Finalists",
+      "title_vi": "Giới thiệu những người lọt vào vòng chung kết Nhà rang xay của năm 2027",
+      "summary_vi": "Tạp chí Roast rất vui mừng được công bố những người lọt vào vòng chung kết cho giải thưởng Nhà rang xay thường niên của năm lần thứ 23! Danh mục Micro Roaster bao gồm các công ty rang ít hơn 100.000 pound cà phê mỗi...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/10/13/presenting-the-2027-roaster-of-the-year-finalists/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-10-14 01:01"
+    },
     {
       "id": "11hv7b",
       "title": "Trump&#039;s Middle Corridor Plans Face Russian and Iranian Roadblocks",
@@ -442,15 +453,15 @@
       "published": "2026-10-12 12:00"
     },
     {
-      "id": "s63yoa",
-      "title": "Gold prices muted amid firmer dollar and rising oil, ahead of CPI this week",
-      "title_vi": "Giá vàng trầm lắng trong bối cảnh đồng đô la mạnh hơn và giá dầu tăng, trước CPI tuần này",
+      "id": "tlpm0l",
+      "title": "Gold eases on strong dollar, oil prices; US inflation data eyed",
+      "title_vi": "Vàng giảm giá do đồng đô la mạnh và giá dầu; Dữ liệu lạm phát của Mỹ được chú ý",
       "summary_vi": "",
       "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-edges-higher-near-4-014728122.html",
-      "source": "Yahoo Finance",
+      "link": "https://www.reuters.com/world/india/gold-gains-weaker-oil-dollar-us-inflation-data-focus-2026-10-12/",
+      "source": "Reuters",
       "category": "macro",
-      "published": "2026-10-12 08:47"
+      "published": "2026-10-12 10:13"
     },
     {
       "id": "1oh8stk",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-10-10 20:04"
-    },
-    {
-      "id": "15b2cri",
-      "title": "U.S. official: Trump cut deal with Putin after Zelensky ignored his requests",
-      "title_vi": "Quan chức Mỹ: Trump cắt thỏa thuận với Putin sau khi Zelensky phớt lờ yêu cầu của ông",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war",
-      "source": "Axios",
-      "category": "energy",
-      "published": "2026-10-10 14:38"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 02:00",
+  "updated_at": "2026-10-15 02:44",
   "items": [
     {
       "id": "ocr7k3",
@@ -189,6 +189,17 @@
       "published": "2026-10-14 14:47"
     },
     {
+      "id": "1eullr0",
+      "title": "Florida Hurricane Aid Available and Corn Forecast Higher",
+      "title_vi": "Viện trợ bão Florida có sẵn và dự báo ngô cao hơn",
+      "summary_vi": "Ủy viên Cơ quan Nông nghiệp Florida, Wilton Simpson, đã thông báo rằng <p>Nông dân và chủ trang trại ở Florida bị ảnh hưởng bởi Bão Isaias có thể đăng ký các khoản vay không lãi suất và USDA đã nâng dự báo sản lượng ngô, dự báo nguồn cung lớn hơn dự đoán trong Báo cáo WASDE tháng 10.",
+      "image": "https://www.aginfo.net/Assets/ProgramImages/program_5d7762e6eac46602655257_1920_1080.jpg",
+      "link": "https://www.aginfo.net/report/66435/The-Agribusiness-Update/Florida-Hurricane-Aid-Available-and-Corn-Forecast-Higher",
+      "source": "AG INFORMATION NETWORK OF THE WEST",
+      "category": "agri",
+      "published": "2026-10-14 14:00"
+    },
+    {
       "id": "f9s4c1",
       "title": "Natural Gas and Oil Forecast: WTI Eyes $96.57, Can Brent Break $107 and NG Reach $3.46?",
       "title_vi": "Dự báo về khí đốt và dầu tự nhiên: WTI hướng tới 96,57 USD, Brent có thể phá vỡ 107 USD và NG đạt 3,46 USD?",
@@ -209,6 +220,17 @@
       "source": "Oxford Economics",
       "category": "macro",
       "published": "2026-10-14 11:14"
+    },
+    {
+      "id": "1ypska",
+      "title": "Gold Steady as Fed Official’s Remarks Temper Rate-Hike Bets",
+      "title_vi": "Vàng ổn định sau nhận xét của quan chức Fed về việc đặt cược tăng lãi suất",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://uk.finance.yahoo.com/news/gold-steady-fed-official-remarks-000805323.html",
+      "source": "Yahoo Finance UK",
+      "category": "metal",
+      "published": "2026-10-14 07:08"
     },
     {
       "id": "11un0sw",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-12 21:18"
-    },
-    {
-      "id": "vw9ktp",
-      "title": "Palladium Has Quietly Rallied While Gold and Silver Hog the Headlines",
-      "title_vi": "Palladium đã lặng lẽ tăng giá trong khi vàng và bạc gây chú ý",
-      "summary_vi": "Giá palladium giảm 47,3% xuống còn 1.156 USD vào ngày 24 tháng 6 năm 2026, sau đó phục hồi khi Commerzbank và Bank of America phân kỳ về vị trí tiếp theo.",
-      "image": "https://startupfortune.com/wp-content/uploads/2026/10/norilsk-nickel-johnson-matthey-sibanye-stillwater.jpg",
-      "link": "https://startupfortune.com/palladium-has-quietly-rallied-while-gold-and-silver-hog-the-headlines/",
-      "source": "Startup Fortune",
-      "category": "metal",
-      "published": "2026-10-12 21:05"
-    },
-    {
-      "id": "1t22vvu",
-      "title": "Europe set for another year of high gas prices as reserves hit lows",
-      "title_vi": "Châu Âu chuẩn bị đón thêm một năm giá xăng cao do trữ lượng chạm mức thấp",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/europe-set-another-year-high-gas-prices-reserves-hit-lows-2026-10-12/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-10-12 21:03"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-14 21:00",
+  "updated_at": "2026-10-14 22:00",
   "items": [
+    {
+      "id": "ursfc4",
+      "title": "Power Prices Top $1,000 on PJM as Heat Collides With Fall Plant Maintenance",
+      "title_vi": "Giá điện lên tới 1.000 USD đối với PJM khi nhiệt độ tăng cao khi bảo trì nhà máy vào mùa thu",
+      "summary_vi": "Một đợt nắng nóng trái mùa khắp Trung Tây và Trung Đại Tây Dương đã xảy ra vào giữa mùa bảo trì mùa thu của PJM Interconnection và lưới điện phục vụ 67 triệu người đang ngày càng mỏng đi. PJM đã đưa ra Cảnh báo thế hệ tối đa vào thứ Ba và giữ nguyên tư vấn về công suất trong",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-14_dvorkiaz38.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Power-Prices-Top-1000-on-PJM-as-Heat-Collides-With-Fall-Plant-Maintenance.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-14 22:00"
+    },
     {
       "id": "vqv9zu",
       "title": "Nord Stream Sabotage Trial Begins With Explosive Allegations Against Ukraine",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-14 21:00"
+    },
+    {
+      "id": "13to38v",
+      "title": "Silver prices plunge after hot US CPI report",
+      "title_vi": "Giá bạc lao dốc sau báo cáo CPI nóng của Mỹ",
+      "summary_vi": "Bạc giảm sau dữ liệu CPI nóng của Mỹ khi đồng đô la mạnh lên. Hỗ trợ ở mức 56,50 đô la và khả năng di chuyển lên 50 đô la đang được chú trọng khi đà giảm giá hình thành.",
+      "image": "https://images.ctfassets.net/vl2kvsmutclx/6em2YsrAuszvStBn6If905/49817fc310a7a906a0080d0ce047842a/pexels-zlataky-cz-61823415-8442431.jpg",
+      "link": "https://www.cmcmarkets.com/en-ie/news-and-analysis/silver-prices-plunge-after-hot-us-cpi-report",
+      "source": "CMC Markets",
+      "category": "metal",
+      "published": "2026-10-14 20:55"
     },
     {
       "id": "8020af",
@@ -132,17 +154,6 @@
       "source": "Pennsylvania Capital-Star",
       "category": "energy",
       "published": "2026-10-14 14:47"
-    },
-    {
-      "id": "r2we9u",
-      "title": "Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S.",
-      "title_vi": "Giá xăng tăng làm dấy lên lo ngại lạm phát mới ở Mỹ",
-      "summary_vi": "Chi phí năng lượng tăng cao dự kiến ​​sẽ khiến lạm phát tiêu dùng nói chung của Mỹ cao hơn, với con số trong tháng 9 được các nhà kinh tế tham gia khảo sát của Reuters dự đoán là 0,6% hàng tháng. Dữ liệu CPI chính thức cho tháng 9 sẽ được công bố vào cuối ngày hôm nay. Giá xăng tại Mỹ tăng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-14_fncxrd5kfm.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Rising-Gasoline-Prices-Fuel-Fresh-Inflation-Fears-in-the-US.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-14 13:45"
     },
     {
       "id": "f9s4c1",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-12 20:31"
-    },
-    {
-      "id": "1fqjgyg",
-      "title": "Natural Gas Price Forecast – Natural Gas Drops to Start the Week",
-      "title_vi": "Dự báo giá khí đốt tự nhiên – Khí đốt tự nhiên sẽ giảm vào đầu tuần",
-      "summary_vi": "Khí đốt tự nhiên tiếp tục ồn ào do chúng tôi nhận thấy lực bán tăng nhẹ vào đầu phiên thứ Hai. Điều đó đang được nói, Hoa Kỳ và Canada đều có ngày nghỉ lễ của ngân hàng hôm nay, vì vậy thanh khoản sẽ mỏng.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/natural-gas-market-illustration-02-2.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-price-forecast-natural-gas-drops-to-start-the-week-1637397",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-10-12 20:26"
     }
   ]
 }

@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-15 04:01",
+  "updated_at": "2026-10-15 05:01",
   "items": [
+    {
+      "id": "1eesi9z",
+      "title": "White House Turns to Korean War-Era Law as Diesel Prices Stay Above $6",
+      "title_vi": "Nhà Trắng chuyển sang Luật thời chiến tranh Triều Tiên khi giá dầu diesel duy trì trên 6 USD",
+      "summary_vi": "Phó Tổng thống JD Vance cho biết hôm thứ Ba rằng Hoa Kỳ đã sử dụng thẩm quyền năm 1950 để giúp thúc đẩy sản xuất nhiên liệu tại một nhà máy lọc dầu nhỏ ở Texas, khi Chính quyền Trump sắp hết đòn bẩy để hạ giá nhiên liệu cao kỷ lục. “Tôi vui mừng thông báo rằng chính quyền Trump",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-14_ai3ikujlbp.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/White-House-Turns-to-Korean-War-Era-Law-as-Diesel-Prices-Stay-Above-6.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-15 05:00"
+    },
+    {
+      "id": "5fq599",
+      "title": "US Crude Oil Inventories See Massive Drop Off",
+      "title_vi": "Tồn kho dầu thô của Mỹ giảm mạnh",
+      "summary_vi": "Viện Dầu khí Hoa Kỳ (API) ước tính rằng tồn kho dầu thô ở Hoa Kỳ đã giảm mạnh 11,12 triệu thùng trong tuần kết thúc vào ngày 9 tháng 10. Trong tuần trước, tồn kho dầu thô của Hoa Kỳ đã giảm 2,09 triệu thùng. Không bao gồm tồn kho dầu thô thương mại",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-14_kxb26fdmwa.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-See-Massive-Drop-Off.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-15 04:43"
+    },
     {
       "id": "1wf3o2r",
       "title": "Trump Announces $80 Billion Taiwan LNG Deal",
@@ -88,28 +110,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-10-14 23:31"
-    },
-    {
-      "id": "11851zh",
-      "title": "Novak Calls U.S. Diesel Deal a &#039;Positive Signal&#039; for Russia&#039;s Economy",
-      "title_vi": "Novak gọi thỏa thuận diesel của Mỹ là 'tín hiệu tích cực' cho nền kinh tế Nga",
-      "summary_vi": "Phó Thủ tướng Nga Alexander Novak cho biết hôm thứ Tư rằng thỏa thuận diesel với Hoa Kỳ có liên quan đến việc sản xuất và lọc dầu của Nga tăng cao hơn và đồng nghĩa với việc tăng thêm thuế cho ngân sách. Ông đã nói chuyện với các nhà báo tại Tuần lễ Năng lượng Nga ở Moscow, gọi đây là",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-14_vljywhljrw.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Novak-Calls-US-Diesel-Deal-a-Positive-Signal-for-Russias-Economy.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-14 23:30"
-    },
-    {
-      "id": "8bw2fs",
-      "title": "Big Tech Pushes Back Against Paying for America&#039;s Aging Power Grid",
-      "title_vi": "Công nghệ lớn phản đối việc trả tiền cho lưới điện cũ kỹ của Mỹ",
-      "summary_vi": "Khi Big Tech ký Cam kết bảo vệ người trả giá của Tổng thống Trump vào tháng 3, hứa sẽ chi trả cho tất cả các nâng cấp cơ sở hạ tầng lưới điện mới cần thiết để phục vụ các trung tâm dữ liệu của họ, chúng tôi đã cảnh báo rằng \"các cam kết tự nguyện từ những gã khổng lồ công nghệ nghìn tỷ đô la có thói quen phát triển.\"",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-14_5g7wsoixaz.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Big-Tech-Pushes-Back-Against-Paying-for-Americas-Aging-Power-Grid.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-14 23:00"
     },
     {
       "id": "182p806",
@@ -308,6 +308,17 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-10-14 00:59"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!HY-o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F098967c0-94d9-494e-b37b-1d8508627240_1500x1000.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-14 00:44"
     },
     {
       "id": "1e1cy2y",
@@ -539,17 +550,6 @@
       "source": "UBS",
       "category": "macro",
       "published": "2026-10-13 00:55"
-    },
-    {
-      "id": "1l4w4bf",
-      "title": "NCGA Calls for Action on Farm Bill, E15 Legislation Following WASDE Report, Corn Price Drop",
-      "title_vi": "NCGA kêu gọi hành động về dự luật trang trại, luật E15 sau báo cáo của WASDE, giá ngô giảm",
-      "summary_vi": "Bộ Nông nghiệp Hoa Kỳ hôm nay đã công bố báo cáo Ước tính Cung và Cầu Nông nghiệp Thế giới tháng 10 năm 2026, báo cáo này đã nâng sản lượng ngô dự kiến ​​​​vào năm 2026 lên 2,7 giạ mỗi mẫu Anh. Giá ngô ngay lập tức giảm sau khi báo cáo được công bố. Đáp lại, Chủ tịch Hiệp hội những người trồng ngô quốc gia (NCGA) Matt",
-      "image": "",
-      "link": "https://www.oklahomafarmreport.com/2026/10/12/ncga-calls-for-action-on-farm-bill-e15-legislation-following-wasde-report-corn-price-drop/",
-      "source": "Oklahoma Farm Report",
-      "category": "agri",
-      "published": "2026-10-13 00:05"
     }
   ]
 }

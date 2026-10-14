@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-15 01:00",
+  "updated_at": "2026-10-15 02:00",
   "items": [
+    {
+      "id": "ocr7k3",
+      "title": "Ship Sinks in Strait of Hormuz as Iran Escalates Maritime Attacks",
+      "title_vi": "Tàu chìm ở eo biển Hormuz khi Iran leo thang tấn công hàng hải",
+      "summary_vi": "Iran rõ ràng đã gia tăng các cuộc tấn công vào hoạt động vận chuyển thương mại ở eo biển Hormuz trong nỗ lực gây ra sự bất ổn và tàn phá kinh tế cho chính quyền Trump trước cuộc bầu cử giữa nhiệm kỳ vào tháng 11, làm suy yếu sự phục hồi gần đây của các chuyến hàng dầu ở Vịnh Ba Tư.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-14_upqp1zlvw2.jpg",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Ship-Sinks-in-Strait-of-Hormuz-as-Iran-Escalates-Maritime-Attacks.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-10-15 02:00"
+    },
     {
       "id": "96wof7",
       "title": "Putin Fights to Preserve Russia’s Fading Influence in Central Asia",
@@ -101,17 +112,6 @@
       "published": "2026-10-14 21:35"
     },
     {
-      "id": "vqv9zu",
-      "title": "Nord Stream Sabotage Trial Begins With Explosive Allegations Against Ukraine",
-      "title_vi": "Phiên tòa xét xử phá hoại dòng chảy phương Bắc bắt đầu với những cáo buộc bùng nổ chống lại Ukraine",
-      "summary_vi": "Sau bốn năm đồn đoán, rò rỉ và báo cáo từ các nguồn ẩn danh, thế giới cuối cùng cũng sắp được nghe bằng chứng được tuyên thệ công khai tại phòng xử án ở Đức về việc đường ống dẫn khí đốt Nord Stream đã bị nổ tung như thế nào -- trong một vụ án có thể gây bùng nổ về mặt chính trị. Đức",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-14_5rednc6jp9.jpg",
-      "link": "https://oilprice.com/Geopolitics/Europe/Nord-Stream-Sabotage-Trial-Begins-With-Explosive-Allegations-Against-Ukraine.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-14 21:00"
-    },
-    {
       "id": "13to38v",
       "title": "Silver prices plunge after hot US CPI report",
       "title_vi": "Giá bạc lao dốc sau báo cáo CPI nóng của Mỹ",
@@ -165,6 +165,17 @@
       "source": "Morningstar",
       "category": "metal",
       "published": "2026-10-14 17:40"
+    },
+    {
+      "id": "yvl71e",
+      "title": "Stonehearth Capital Q3 2026 Quarterly Insights Newsletter",
+      "title_vi": "Bản tin chuyên sâu hàng quý của Stonehearth Capital Q3 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://seekingalpha.com/article/4954020-stonehearth-capital-q3-2026-quarterly-insights-newsletter",
+      "source": "Seeking Alpha",
+      "category": "macro",
+      "published": "2026-10-14 16:57"
     },
     {
       "id": "dfjbqr",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-10-12 21:03"
-    },
-    {
-      "id": "bjeys",
-      "title": "Rising demand and tight mine supply support outlook for recycled copper",
-      "title_vi": "Nhu cầu gia tăng và nguồn cung cấp mỏ thắt chặt hỗ trợ triển vọng cho đồng tái chế",
-      "summary_vi": "American Recycler là tờ báo hàng tháng hàng đầu đưa tin về các ngành tái chế, tận dụng và phế thải với tin tức, xu hướng thị trường, cập nhật thiết bị và chính sách của chính phủ ảnh hưởng đến ngành. Được sở hữu và vận hành độc lập",
-      "image": "https://americanrecycler.com/wp-content/uploads/2026/10/International-Copper-Study-Group-ICSG-logo1200x630px.png",
-      "link": "https://americanrecycler.com/metal-recycling/recycled-copper-demand-supply-outlook/",
-      "source": "American Recycler",
-      "category": "metal",
-      "published": "2026-10-12 21:00"
     }
   ]
 }

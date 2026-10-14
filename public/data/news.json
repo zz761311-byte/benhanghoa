@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-15 00:00",
+  "updated_at": "2026-10-15 01:00",
   "items": [
+    {
+      "id": "96wof7",
+      "title": "Putin Fights to Preserve Russia’s Fading Influence in Central Asia",
+      "title_vi": "Putin đấu tranh để duy trì ảnh hưởng đang suy giảm của Nga ở Trung Á",
+      "summary_vi": "Trở lại năm 1991, việc thành lập Cộng đồng các quốc gia độc lập đã đặt chiếc đinh cuối cùng vào quan tài của Liên Xô. Kể từ đó, bản thân CIS gần như đã suy yếu, không thể hoàn thành các mục tiêu được nêu trong điều lệ năm 1993. Kết quả của CIS su gần đây",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-14_fvesy4zlti.jpg",
+      "link": "https://oilprice.com/Geopolitics/Asia/Putin-Fights-to-Preserve-Russias-Fading-Influence-in-Central-Asia.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-15 01:00"
+    },
+    {
+      "id": "w1qt61",
+      "title": "Houthis Vow More Attacks After Strike on Aramco Headquarters",
+      "title_vi": "Houthis thề sẽ tấn công nhiều hơn sau khi tấn công vào trụ sở Aramco",
+      "summary_vi": "Houthis của Yemen hôm thứ Tư cho biết họ sẽ tiếp tục các cuộc tấn công vào các sân bay và cơ sở dầu mỏ của Saudi \"trong những ngày tới\", sau khi chính quyền Saudi thông báo về một vụ hỏa hoạn hạn chế tại khu phức hợp văn phòng của Aramco ở Dhahran trong cuộc tấn công bằng tên lửa của Houthi vào tối thứ Ba. Người Houthis tuyên bố str",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-14_oh1g2ah4ve.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Vow-More-Attacks-After-Strike-on-Aramco-Headquarters.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-15 00:30"
+    },
     {
       "id": "17tff1g",
       "title": "5 Challenges Facing South America’s Copper Boom",
@@ -101,17 +123,6 @@
       "published": "2026-10-14 20:55"
     },
     {
-      "id": "8020af",
-      "title": "Russian Strikes Cut Power to 600,000 Ukrainians Days After U.S. Diesel Deal",
-      "title_vi": "Nga đình công cắt điện tới 600.000 người Ukraine vài ngày sau thỏa thuận diesel của Mỹ",
-      "summary_vi": "Ông Zelenskyy cho biết các cuộc đình công của Nga vào ngày 13 và 14 tháng 10 đã cắt điện cho ít nhất 600.000 người ở Ukraine, 4 ngày sau khi chính quyền Trump cấp phép nhập khẩu dầu diesel của Nga trong khi ép Ukraine ngừng tấn công các nhà máy lọc dầu của Nga. Zelenskyy cho biết Nga đã phóng 39 tên lửa đạn đạo",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-14_ifniukvech.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Strikes-Cut-Power-to-600000-Ukrainians-Days-After-US-Diesel-Deal.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-14 20:30"
-    },
-    {
       "id": "1kdpfnu",
       "title": "Niyyah Coffee Brings a Deaf-Owned Cafe to Indianapolis",
       "title_vi": "Niyyah Coffee mang quán cà phê dành cho người điếc đến Indianapolis",
@@ -121,17 +132,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-14 19:54"
-    },
-    {
-      "id": "1qmphhw",
-      "title": "Aramco’s New Chinese JV Refinery Gets First Saudi Crude Cargo",
-      "title_vi": "Nhà máy lọc dầu liên doanh Trung Quốc mới của Aramco nhận lô hàng thô đầu tiên của Saudi",
-      "summary_vi": "Nhà máy lọc dầu liên doanh mới nhất của Saudi Aramco tại Trung Quốc đã nhận được lô hàng dầu thô Ả Rập đầu tiên khi họ chuẩn bị khởi động, gã khổng lồ dầu mỏ Saudi cho biết trong một tuyên bố với Bloomberg hôm thứ Tư, mà không cung cấp mốc thời gian bắt đầu hoạt động thương mại. Ả Rập Saudi và tôi",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-14_bd0c2h8f45.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Aramcos-New-Chinese-JV-Refinery-Gets-First-Saudi-Crude-Cargo.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-14 19:30"
     },
     {
       "id": "1tux6g5",
@@ -198,6 +198,17 @@
       "source": "Oxford Economics",
       "category": "macro",
       "published": "2026-10-14 11:14"
+    },
+    {
+      "id": "11un0sw",
+      "title": "Three Federal Reserve officials hint that the fight against inflation is not over; Williams expects no rate hikes in 2027",
+      "title_vi": "Ba quan chức Cục Dự trữ Liên bang gợi ý rằng cuộc chiến chống lạm phát vẫn chưa kết thúc; Williams dự kiến ​​sẽ không tăng lãi suất vào năm 2027",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.moomoo.com/news/post/1001088717/three-federal-reserve-officials-hint-that-the-fight-against-inflation",
+      "source": "Moomoo",
+      "category": "macro",
+      "published": "2026-10-14 06:42"
     },
     {
       "id": "12yu1pn",
@@ -539,17 +550,6 @@
       "source": "American Recycler",
       "category": "metal",
       "published": "2026-10-12 21:00"
-    },
-    {
-      "id": "1kjt67y",
-      "title": "Oil Rebounds on Russia-Ukraine Energy Ceasefire Doubts, Houthi Attack on Saudi Airport",
-      "title_vi": "Dầu phục hồi do nghi ngờ ngừng bắn năng lượng Nga-Ukraine, cuộc tấn công của Houthi vào sân bay Saudi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-hopes-that-russian-diesel-can-ease-global-fuel-shortages-db1651af",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-10-12 20:42"
     }
   ]
 }

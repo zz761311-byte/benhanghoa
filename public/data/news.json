@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-14 06:00",
+  "updated_at": "2026-10-14 07:00",
   "items": [
+    {
+      "id": "17e2krk",
+      "title": "Wall Street Sees Inflation Easing Even With Oil Above $90",
+      "title_vi": "Phố Wall chứng kiến ​​lạm phát giảm bớt ngay cả khi giá dầu trên 90 USD",
+      "summary_vi": "Báo cáo Chỉ số giá tiêu dùng (CPI) của Hoa Kỳ sẽ được công bố vào thứ Tư, trong đó các nhà kinh tế dự đoán rằng các số liệu lạm phát chính tiếp tục ở mức vừa phải trong tháng 9 bất chấp giá dầu tăng cao, khiến Fed có thể giảm tốc độ tăng lãi suất. Trong tháng 9, các nhà kinh tế",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-13_tfxobfs2rh.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Wall-Street-Sees-Inflation-Easing-Even-With-Oil-Above-90.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-14 07:00"
+    },
     {
       "id": "13srnd5",
       "title": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
@@ -44,6 +55,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-10-14 04:00"
+    },
+    {
+      "id": "7c903k",
+      "title": "Dollar retreats from 18-month high as oil prices fall, inflation data in focus",
+      "title_vi": "Đồng đô la rút lui khỏi mức cao nhất trong 18 tháng khi giá dầu giảm, dữ liệu lạm phát được chú ý",
+      "summary_vi": "Bởi Laura Matthews NEW YORK, ngày 13 tháng 10 (Reuters) - Đồng đô la trượt khỏi mức cao nhất trong 18 tháng vào thứ Ba khi giá dầu giảm và các nhà đầu tư đánh giá lại đợt tăng giá nhờ AI đã thúc đẩy",
+      "image": "https://bloximages.chicago2.vip.townnews.com/centraloregondaily.com/content/tncms/assets/v3/editorial/5/99/5993428e-6cfe-5356-a84c-3fe16005e67b/6acd8ec4d6d4b.image.jpg?crop=800%2C420%2C0%2C56",
+      "link": "https://www.centraloregondaily.com/news/consumer/dollar-retreats-from-18-month-high-as-oil-prices-fall-inflation-data-in-focus/article_1983af42-8bc0-5256-a9af-41ea0ca3f2d3.html",
+      "source": "Central Oregon Daily",
+      "category": "energy",
+      "published": "2026-10-14 02:14"
     },
     {
       "id": "40t12a",
@@ -99,17 +121,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-14 00:30"
-    },
-    {
-      "id": "1h7s21h",
-      "title": "China’s $3 Billion Qatar LNG Deal Raises an Awkward Question",
-      "title_vi": "Thỏa thuận LNG Qatar trị giá 3 tỷ USD của Trung Quốc đặt ra một câu hỏi khó xử",
-      "summary_vi": "Vị trí địa lý rất nhạy cảm của Qatar – giữa biên giới đất liền phía tây với Ả Rập Saudi và biên giới hàng hải phía đông bắc với Iran – đã buộc nước này phải bước đi trên con đường ngoại giao tế nhị giữa các siêu cường khu vực và những nước ủng hộ siêu cường toàn cầu của họ kể từ khi nước này đi theo con đường ngoại giao mong manh.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-13_xstnlh9k8d.jpg",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Chinas-3-Billion-Qatar-LNG-Deal-Raises-an-Awkward-Question.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-14 00:00"
     },
     {
       "id": "1e1cy2y",
@@ -253,6 +264,17 @@
       "source": "Yahoo Finance",
       "category": "macro",
       "published": "2026-10-13 08:50"
+    },
+    {
+      "id": "ulrv91",
+      "title": "Why Trump’s Diesel-Supply Deal With Russia Won’t Ease Fuel Prices Much",
+      "title_vi": "Tại sao thỏa thuận cung cấp dầu diesel của Trump với Nga sẽ không làm giảm giá nhiên liệu nhiều",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/why-trumps-diesel-supply-deal-with-russia-wont-ease-fuel-prices-much-a8b0b3f5",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-10-13 04:03"
     },
     {
       "id": "64b3of",
@@ -528,28 +550,6 @@
       "source": "Financial Times",
       "category": "energy",
       "published": "2026-10-12 00:19"
-    },
-    {
-      "id": "1h9knkd",
-      "title": "How Ukraine uses precision drone strikes to hobble Russian oil refineries",
-      "title_vi": "Cách Ukraine sử dụng các cuộc tấn công bằng máy bay không người lái chính xác để gây trở ngại cho các nhà máy lọc dầu của Nga",
-      "summary_vi": "Các nhà khai thác máy bay không người lái của Kyiv đang nhắm tới các bộ phận quan trọng khó sửa chữa do các lệnh trừng phạt quốc tế. Các cuộc tấn công đang gây thiệt hại cho nền kinh tế Nga.",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5SEDOKOYWBBZFD3NKMPXK46PQQ.png&w=1200",
-      "link": "https://www.washingtonpost.com/investigations/interactive/2026/10/11/how-ukraine-uses-precision-drone-strikes-hobble-russian-oil-refineries/",
-      "source": "The Washington Post",
-      "category": "energy",
-      "published": "2026-10-12 00:00"
-    },
-    {
-      "id": "14uk2vl",
-      "title": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal",
-      "title_vi": "Đảng Cộng hòa tại Hạ viện, triệu tập Reagan, tiến tới ngăn chặn thỏa thuận dầu mỏ với Nga của Trump",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.axios.com/2026/10/10/fitzpatrick-trump-russia-diesel-discharge-petition",
-      "source": "Axios",
-      "category": "energy",
-      "published": "2026-10-11 12:07"
     }
   ]
 }

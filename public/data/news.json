@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-15 02:44",
+  "updated_at": "2026-10-15 03:00",
   "items": [
+    {
+      "id": "entxuy",
+      "title": "Britain&#039;s $47 Billion North Sea Oil Decision Hangs in the Balance",
+      "title_vi": "Quyết định về dầu Biển Bắc trị giá 47 tỷ USD của Anh bị treo trong thế cân bằng",
+      "summary_vi": "Thủ tướng Andy Burnham cho biết việc phê duyệt thêm hoạt động khoan dầu khí tại các địa điểm Jackdaw và Rosebank ở Biển Bắc đã bị trì hoãn do “quy trình của chính phủ” và những tranh cãi quan liêu kéo dài. Burnham nói với các nghị sĩ rằng ông sẽ thực hiện “cách tiếp cận thực tế” về vấn đề khai thác dầu khí.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-14_blf9gfskwr.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Britains-47-Billion-North-Sea-Oil-Decision-Hangs-in-the-Balance.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-15 03:00"
+    },
     {
       "id": "ocr7k3",
       "title": "Ship Sinks in Strait of Hormuz as Iran Escalates Maritime Attacks",
@@ -88,17 +99,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-14 22:30"
-    },
-    {
-      "id": "ursfc4",
-      "title": "Power Prices Top $1,000 on PJM as Heat Collides With Fall Plant Maintenance",
-      "title_vi": "Giá điện lên tới 1.000 USD đối với PJM khi nhiệt độ tăng cao khi bảo trì nhà máy vào mùa thu",
-      "summary_vi": "Một đợt nắng nóng trái mùa khắp Trung Tây và Trung Đại Tây Dương đã xảy ra vào giữa mùa bảo trì mùa thu của PJM Interconnection và lưới điện phục vụ 67 triệu người đang ngày càng mỏng đi. PJM đã đưa ra Cảnh báo thế hệ tối đa vào thứ Ba và giữ nguyên tư vấn về công suất trong",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-14_dvorkiaz38.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Power-Prices-Top-1000-on-PJM-as-Heat-Collides-With-Fall-Plant-Maintenance.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-14 22:00"
     },
     {
       "id": "bt8q84",
@@ -308,6 +308,17 @@
       "source": "SeedWorld",
       "category": "macro",
       "published": "2026-10-13 22:22"
+    },
+    {
+      "id": "4s4m1j",
+      "title": "Avalanche adds to Chile’s copper supply pressures",
+      "title_vi": "Avalanche làm tăng thêm áp lực cung cấp đồng của Chile",
+      "summary_vi": "Một trận tuyết lở khiến hai công nhân nhà thầu phụ thiệt mạng tại mỏ El Teniente của Codelco hôm Chủ Nhật đã làm gia tăng mối lo ngại về nguồn cung ở Chile, khi thời tiết khắc nghiệt, tranh chấp lao động và hoạt động...",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/10/codelco-rajo-sur.png",
+      "link": "https://www.northernminer.com/news/avalanche-adds-to-chiles-copper-supply-pressures/1003895663/",
+      "source": "The Northern Miner",
+      "category": "metal",
+      "published": "2026-10-13 21:27"
     },
     {
       "id": "6trd25",
@@ -539,17 +550,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-10-12 21:53"
-    },
-    {
-      "id": "1yhpi0t",
-      "title": "StoneX Acquiring Colombian Coffee Trader Integra",
-      "title_vi": "StoneX mua lại Integra của nhà kinh doanh cà phê Colombia",
-      "summary_vi": "Công ty hàng hóa và dịch vụ tài chính toàn cầu StoneX Group cho biết họ đã ký thỏa thuận mua lại nhà xuất khẩu và chế biến cà phê xanh Integra của Colombia, mở rộng hoạt động cà phê của StoneX tại Colombia. Việc mua lại...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/10/12/stonex-acquiring-colombian-coffee-trader-integra/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-10-12 21:18"
     }
   ]
 }

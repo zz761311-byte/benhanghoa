@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 11:00",
+  "updated_at": "2026-10-14 12:00",
   "items": [
     {
       "id": "17e2krk",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-14 06:00"
+    },
+    {
+      "id": "12yu1pn",
+      "title": "Asia Stocks to Gain on Signal for Fewer Fed Hikes: Markets Wrap",
+      "title_vi": "Chứng khoán châu Á tăng nhờ tín hiệu Fed sẽ ít tăng lãi suất hơn: Thị trường kết thúc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-13/stock-market-today-dow-s-p-live-updates",
+      "source": "Bloomberg.com",
+      "category": "macro",
+      "published": "2026-10-14 05:03"
     },
     {
       "id": "12432gq",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-10-12 13:00"
-    },
-    {
-      "id": "1k176rq",
-      "title": "Grain prices face harvest pressure test",
-      "title_vi": "Giá ngũ cốc đối mặt với áp lực thu hoạch",
-      "summary_vi": "Thu hoạch dữ liệu để xác định liệu đợt tăng giá ngũ cốc có diễn ra hay không.",
-      "image": "https://bloximages.newyork1.vip.townnews.com/farmweeknow.com/content/tncms/assets/v3/editorial/1/64/16457403-f614-41b1-85f0-01edbf8edd56/6ac7e4fca6045.preview.jpg?crop=900%2C473%2C0%2C363",
-      "link": "https://www.farmweeknow.com/opinion/market_focus/grain-prices-face-harvest-pressure-test/article_16457403-f614-41b1-85f0-01edbf8edd56.html",
-      "source": "FarmWeekNow",
-      "category": "agri",
-      "published": "2026-10-12 12:00"
     }
   ]
 }

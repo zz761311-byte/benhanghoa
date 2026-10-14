@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-14 16:00",
+  "updated_at": "2026-10-14 17:00",
   "items": [
+    {
+      "id": "1uwnoda",
+      "title": "Saudi Aramco Headquarters Hit as Houthi Attacks Escalate",
+      "title_vi": "Trụ sở chính của Saudi Aramco bị tấn công khi các cuộc tấn công của Houthi leo thang",
+      "summary_vi": "Tòa nhà hành chính của Saudi Aramco ở Dharan, miền đông Ả Rập Saudi, đã bị tấn công bởi lực lượng Houthis liên kết với Iran vào đêm thứ Ba và sáng thứ Tư, trong bối cảnh căng thẳng giữa Saudi-Houthi leo thang trong những ngày gần đây. Hỏa hoạn hạn chế được báo cáo tại trụ sở của Aramco khi Sáu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-14_31bctfzkio.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Headquarters-Hit-as-Houthi-Attacks-Escalate.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-14 16:30"
+    },
     {
       "id": "eka3yo",
       "title": "Taiwan Commits Up to $4.4 Billion to Alaska LNG Megaproject",
@@ -90,17 +101,6 @@
       "published": "2026-10-14 04:30"
     },
     {
-      "id": "1mex20g",
-      "title": "Five Shale Stocks to Watch Before Third-Quarter Earnings",
-      "title_vi": "Năm cổ phiếu đá phiến cần theo dõi trước báo cáo thu nhập quý 3",
-      "summary_vi": "Các nhà sản xuất ở Permian đã dành phần lớn thời gian trong năm nay để trả tiền cho người mua để vận chuyển khí tự nhiên đi kèm với dầu của họ. Giá giao ngay của Waha Hub ở dưới 0 trong kỷ lục 90 ngày liên tiếp trước khi chuyển biến tích cực vào ngày 16 tháng 6, Reuters đưa tin, và trung tâm này có mức giá trung bình là âm 2,19 USD mỗi m2",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-13_ctij8zran7.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Five-Shale-Stocks-to-Watch-Before-Third-Quarter-Earnings.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-10-14 04:00"
-    },
-    {
       "id": "7c903k",
       "title": "Dollar retreats from 18-month high as oil prices fall, inflation data in focus",
       "title_vi": "Đồng đô la rút lui khỏi mức cao nhất trong 18 tháng khi giá dầu giảm, dữ liệu lạm phát được chú ý",
@@ -187,6 +187,17 @@
       "source": "Kitco",
       "category": "macro",
       "published": "2026-10-13 20:49"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-13 20:10"
     },
     {
       "id": "3muwau",
@@ -539,17 +550,6 @@
       "source": "Morningstar",
       "category": "metal",
       "published": "2026-10-12 16:56"
-    },
-    {
-      "id": "yh95z",
-      "title": "Silver Price Weakness Opens Recovery Opportunities in Low-Cost Producers",
-      "title_vi": "Sự suy yếu của giá bạc mở ra cơ hội phục hồi cho các nhà sản xuất chi phí thấp",
-      "summary_vi": "Thâm hụt nguồn cung bạc thứ sáu hỗ trợ cho trường hợp phục hồi. Theo dõi mức kháng cự 63,07 USD và định vị hợp đồng tương lai để đánh giá liệu đợt tăng giá có thể giữ vững hay không.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6ace208476d132bf9f1607b4_Ornate%20Silver%20Keepsake%20Boxes%20on%20a%20Tray%20(1).png",
-      "link": "https://www.cruxinvestor.com/posts/silver-price-weakness-opens-recovery-opportunities-in-low-cost-producers",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-10-12 14:00"
     }
   ]
 }

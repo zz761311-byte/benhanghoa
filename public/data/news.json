@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 09:00",
+  "updated_at": "2026-10-14 10:00",
   "items": [
     {
       "id": "17e2krk",
@@ -154,6 +154,17 @@
       "source": "Hospitality Net",
       "category": "soft",
       "published": "2026-10-13 21:00"
+    },
+    {
+      "id": "5ynoua",
+      "title": "Op-Ed: AI will not just add copper demand. It could change who sets the price",
+      "title_vi": "Op-Ed: AI sẽ không chỉ bổ sung thêm nhu cầu về đồng. Nó có thể thay đổi người đặt giá",
+      "summary_vi": "AI không chỉ tạo ra người mua mới trên thị trường đồng và thúc đẩy nhu cầu.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/10/copper-mininig-AI.jpeg",
+      "link": "https://www.mining.com/op-ed-ai-will-not-just-add-copper-demand-it-could-change-who-sets-the-price/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-10-13 20:51"
     },
     {
       "id": "k65xpr",
@@ -539,17 +550,6 @@
       "source": "FarmWeekNow",
       "category": "agri",
       "published": "2026-10-12 12:00"
-    },
-    {
-      "id": "1722vnj",
-      "title": "EEX TTF EGSI Natural Gas Week Futures (Nov 2026 W1) Trade Ideas — EEX:G3F1X2026",
-      "title_vi": "Ý tưởng giao dịch trong Tuần khí đốt tự nhiên EEX TTF EGSI (Tháng 11 năm 2026 W1) - EEX:G3F1X2026",
-      "summary_vi": "Xem các ý tưởng đầu tư và giao dịch mới nhất cho Hợp đồng tương lai Tuần khí đốt tự nhiên EEX TTF EGSI (Tháng 11 năm 2026 W1) từ các tác giả hàng đầu của chúng tôi. Họ chia sẻ ý kiến ​​về xu hướng giá và triển vọng kỹ thuật của thị trường.",
-      "image": "https://s3-symbol-logo.tradingview.com/natural-gas--600.png",
-      "link": "https://www.tradingview.com/symbols/EEX-G3F1!/ideas/page-7/?contract",
-      "source": "TradingView",
-      "category": "energy",
-      "published": "2026-10-12 08:02"
     }
   ]
 }

@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-15 12:01",
+  "updated_at": "2026-10-15 12:57",
   "items": [
+    {
+      "id": "mwb3l2",
+      "title": "Oil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers",
+      "title_vi": "Giá dầu giảm khi Trump xem xét nới lỏng các lệnh trừng phạt đối với tàu chở dầu của Hạm đội Bóng tối",
+      "summary_vi": "Giá dầu thô đã giảm so với mức cao nhất của ngày hôm qua vào đầu ngày hôm nay, do có thông tin rằng Tổng thống Trump đang xem xét dỡ bỏ các lệnh trừng phạt đối với các tàu chở dầu dùng để vận chuyển dầu và nhiên liệu từ Venezuela, Nga và Iran nhằm giảm bớt cuộc khủng hoảng tàu chở dầu ngày càng sâu sắc. Tại thời điểm viết bài, Bren",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-15_ktwh96nipk.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Trump-Considers-Easing-Sanctions-on-Shadow-Fleet-Tankers.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-15 12:19"
+    },
+    {
+      "id": "1o6k7jj",
+      "title": "Gold rebounds 1% as hotter U.S. inflation stokes Fed rate-hike fears",
+      "title_vi": "Vàng phục hồi 1% khi lạm phát ở Mỹ nóng hơn làm dấy lên lo ngại về việc tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/commodities-news/gold-rebounds-after-inflationdriven-selloff-as-fed-ratehike-bets-rise-4950379",
+      "source": "Investing.com",
+      "category": "metal",
+      "published": "2026-10-15 08:57"
+    },
     {
       "id": "1r9ftkj",
       "title": "Brookfield, NextEra to Build $100 Billion AI Hub on Cold War Nuclear Site",
@@ -101,17 +123,6 @@
       "published": "2026-10-15 02:00"
     },
     {
-      "id": "96wof7",
-      "title": "Putin Fights to Preserve Russia’s Fading Influence in Central Asia",
-      "title_vi": "Putin đấu tranh để duy trì ảnh hưởng đang suy giảm của Nga ở Trung Á",
-      "summary_vi": "Trở lại năm 1991, việc thành lập Cộng đồng các quốc gia độc lập đã đặt chiếc đinh cuối cùng vào quan tài của Liên Xô. Kể từ đó, bản thân CIS gần như đã suy yếu, không thể hoàn thành các mục tiêu được nêu trong điều lệ năm 1993. Kết quả của CIS su gần đây",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-14_fvesy4zlti.jpg",
-      "link": "https://oilprice.com/Geopolitics/Asia/Putin-Fights-to-Preserve-Russias-Fading-Influence-in-Central-Asia.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-15 01:00"
-    },
-    {
       "id": "1szcmlr",
       "title": "Trump tariff threat built a US copper mountain, but the effects are fading",
       "title_vi": "Mối đe dọa thuế quan của Trump đã xây dựng một ngọn núi đồng của Mỹ, nhưng hiệu ứng đang mờ dần",
@@ -121,6 +132,17 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-10-15 00:32"
+    },
+    {
+      "id": "5idb3m",
+      "title": "Silver price plunges over 6% as strong US dollar and rising Treasury yields pressure metal",
+      "title_vi": "Giá bạc giảm hơn 6% do đồng đô la Mỹ mạnh và lãi suất trái phiếu kho bạc tăng gây áp lực lên kim loại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://tradersunion.com/news/commodities/show/3812803-silver-slides-6-28percent-today-to/",
+      "source": "Traders Union",
+      "category": "metal",
+      "published": "2026-10-15 00:17"
     },
     {
       "id": "iak1wz",
@@ -464,6 +486,17 @@
       "published": "2026-10-13 19:38"
     },
     {
+      "id": "1mgd4rk",
+      "title": "Feeder cattle hit three-month high on lower corn outlook - CME",
+      "title_vi": "Gia súc cho ăn đạt mức cao nhất trong ba tháng do triển vọng ngô thấp hơn - CME",
+      "summary_vi": "Giá lợn nạc tương lai giảm xuống mức thấp do giá thịt lợn yếu",
+      "image": "https://cdn1.globalagmedia.com/Markets/stock-market.jpg",
+      "link": "https://www.thecattlesite.com/news/feeder-cattle-hit-three-month-high-on-lower-corn-outlook-cme-2",
+      "source": "The Cattle Site",
+      "category": "agri",
+      "published": "2026-10-13 19:05"
+    },
+    {
       "id": "1zeodk",
       "title": "Dollar slips with oil prices, geopolitical risks seen easing before midterms",
       "title_vi": "Đồng đô la trượt giá theo giá dầu, rủi ro địa chính trị giảm bớt trước kỳ bầu cử giữa kỳ",
@@ -517,39 +550,6 @@
       "source": "Czapp",
       "category": "soft",
       "published": "2026-10-13 14:30"
-    },
-    {
-      "id": "1vk3ira",
-      "title": "Grand Rapids coffee shop posts financial figures on social media in name of transparency",
-      "title_vi": "Quán cà phê Grand Rapids đăng số liệu tài chính lên mạng xã hội với lý do minh bạch",
-      "summary_vi": "Chủ câu lạc bộ Scorpion Hearts Lori Slager Wenzel đang chia sẻ chi phí của quán cà phê sau những lời chỉ trích về giá cả, nói rằng tính minh bạch giúp khách hàng hiểu được những thách thức mà các doanh nghiệp nhỏ phải đối mặt.",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/53feb24/2147483647/strip/true/crop/1280x672+0+6/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F36%2F70%2Fd63e224041e891d362819f06db67%2Fscorpion-hearts-photo-1.jpg",
-      "link": "https://www.fox17online.com/news/local-news/grand-rapids/grand-rapids-coffee-shop-posts-financial-figures-on-social-media-in-name-of-transparency",
-      "source": "FOX 17 West Michigan News",
-      "category": "soft",
-      "published": "2026-10-13 11:27"
-    },
-    {
-      "id": "17lxcy0",
-      "title": "Gold inches up as oil dips, traders look ahead to U.S. inflation data",
-      "title_vi": "Vàng nhích lên khi dầu giảm, thương nhân chờ đợi dữ liệu lạm phát của Mỹ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-slips-near-4-160-015039835.html",
-      "source": "Yahoo Finance",
-      "category": "macro",
-      "published": "2026-10-13 08:50"
-    },
-    {
-      "id": "ulrv91",
-      "title": "Why Trump’s Diesel-Supply Deal With Russia Won’t Ease Fuel Prices Much",
-      "title_vi": "Tại sao thỏa thuận cung cấp dầu diesel của Trump với Nga sẽ không làm giảm giá nhiên liệu nhiều",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/why-trumps-diesel-supply-deal-with-russia-wont-ease-fuel-prices-much-a8b0b3f5",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-10-13 04:03"
     }
   ]
 }

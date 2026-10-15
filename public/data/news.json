@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-10-15 23:01",
+  "updated_at": "2026-10-16 00:01",
   "items": [
+    {
+      "id": "xiv34n",
+      "title": "Venezuela&#039;s Oil Recovery Gains Momentum as New Drilling Rigs Arrive",
+      "title_vi": "Sự phục hồi dầu của Venezuela đạt được động lực khi các giàn khoan mới đến",
+      "summary_vi": "Mười một giàn khoan công suất 550 mã lực mới sẽ hoạt động tại các mỏ dầu của Venezuela trong tháng này. Theo Đối tác Năng lượng Xanh Bắc Mỹ (NABEP), công ty đã công bố triển khai vào ngày 13 tháng 10, họ là đơn vị sửa chữa và bảo trì di động mới đầu tiên tham gia vào các lĩnh vực của đất nước.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-15_bwvmcwf1go.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Recovery-Gains-Momentum-as-New-Drilling-Rigs-Arrive.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-16 00:00"
+    },
+    {
+      "id": "xgbubv",
+      "title": "Gas Prices Not Budging Much as Crude Oil Remains High",
+      "title_vi": "Giá xăng không tăng nhiều do dầu thô vẫn ở mức cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://newsroom.aaa.com/2026/10/gas-prices-not-budging-much-as-crude-oil-remains-high/",
+      "source": "AAA Newsroom",
+      "category": "energy",
+      "published": "2026-10-15 23:26"
+    },
+    {
+      "id": "gsm8v8",
+      "title": "EIA Says US Crude Inventories Down Nearly 9 Million Barrels",
+      "title_vi": "EIA cho biết tồn kho dầu thô của Mỹ giảm gần 9 triệu thùng",
+      "summary_vi": "Theo dữ liệu mới từ Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA) công bố hôm thứ Năm, tồn kho dầu thô ở Mỹ đã giảm 8,6 triệu thùng trong tuần kết thúc vào ngày 9 tháng 10. Mức giảm này đưa tồn kho thương mại lên 415,6 triệu thùng,",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-15_ikbn8jchux.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/EIA-Says-US-Crude-Inventories-Down-Nearly-9-Million-Barrels.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-15 23:09"
+    },
+    {
+      "id": "ddi0i8",
+      "title": "FLIPR 2026 Senate forecast",
+      "title_vi": "Dự báo Thượng viện FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mỗi cuộc bầu cử Thượng viện vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!AKN4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc39f220e-89ec-444d-9e5b-0b5d142c79cd_1400x1000.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-15 23:00"
+    },
+    {
+      "id": "1spjqnr",
+      "title": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump",
+      "title_vi": "Ukraine từ bỏ thỏa thuận ngừng bắn và tấn công nhà máy lọc dầu của Nga khi Zelenskyy nói rằng ông cảm thấy bị Trump phản bội",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://apnews.com/article/russia-ukraine-war-oil-refinery-attacks-resume-0071b4f3792c9912b977b0ee73505b18",
+      "source": "AP News",
+      "category": "energy",
+      "published": "2026-10-15 23:00"
+    },
     {
       "id": "1ii6mbk",
       "title": "Trump Denies Cutting Ukraine Intelligence Amid Satellite Restrictions",
@@ -9,8 +64,19 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-15_gcks742iwj.jpg",
       "link": "https://oilprice.com/Geopolitics/Europe/Trump-Denies-Cutting-Ukraine-Intelligence-Amid-Satellite-Restrictions.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-10-15 23:00"
+    },
+    {
+      "id": "8j5ji",
+      "title": "Three Questions with Esther Singer of Segara Coffee",
+      "title_vi": "Ba câu hỏi với ca sĩ Esther của Segara Coffee",
+      "summary_vi": "Đối với Esther Singer, sự nghiệp cà phê phát triển từ một động lực khoa học cổ điển: Bắt đầu tìm hiểu và xem điều gì sẽ xảy ra. Nhà khoa học người Đức gốc Indonesia-California đã dành hơn một thập kỷ để nghiên cứu...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/10/15/three-questions-with-esther-singer-of-segara-coffee/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-10-15 22:50"
     },
     {
       "id": "1a63oh6",
@@ -90,28 +156,6 @@
       "published": "2026-10-15 19:52"
     },
     {
-      "id": "3q4s18",
-      "title": "Ship-to-Ship Oil Transfers Surge Off India’s West Coast",
-      "title_vi": "Vận chuyển dầu từ tàu này sang tàu khác tăng vọt ngoài khơi bờ biển phía Tây Ấn Độ",
-      "summary_vi": "Các vùng biển bên ngoài eo biển Hormuz quá đông đúc với hoạt động vận chuyển từ tàu này sang tàu khác để ngăn dầu chảy ra khỏi Vịnh Ba Tư đến nỗi các hoạt động của STS đang mở rộng sang Bờ Tây của Ấn Độ. Tổng cộng 82 lô hàng, tương đương khoảng 680.000 thùng/ngày, đã được chuyển đi",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-15_ekhs4cjfyd.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ship-to-Ship-Oil-Transfers-Surge-Off-Indias-West-Coast.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-15 19:30"
-    },
-    {
-      "id": "19zhfjb",
-      "title": "India’s Annual Wind Power Installations to Double by 2030",
-      "title_vi": "Công suất lắp đặt năng lượng gió hàng năm của Ấn Độ sẽ tăng gấp đôi vào năm 2030",
-      "summary_vi": "Giám đốc điều hành cấp cao của nhà sản xuất tuabin gió lớn Suzlon Energy nói với Bloomberg hôm thứ Năm rằng mức bổ sung công suất điện gió hàng năm kỷ lục của Ấn Độ có thể tăng gấp đôi vào cuối thập kỷ này. Năm ngoái, Ấn Độ đã lắp đặt công suất phát điện gió kỷ lục 6,3 gigawatt (GW).",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-15_ubtmf18o64.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Annual-Wind-Power-Installations-to-Double-by-2030.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-15 18:30"
-    },
-    {
       "id": "124whvd",
       "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
       "title_vi": "Các quan chức cho biết Ukraine nối lại các cuộc tấn công vào các nhà máy lọc dầu của Nga sau thời gian ngừng bắn ngắn ngủi",
@@ -187,17 +231,6 @@
       "source": "Economies.com",
       "category": "metal",
       "published": "2026-10-15 12:07"
-    },
-    {
-      "id": "1e2oex1",
-      "title": "Ukraine to resume strikes on Russian refineries, Zelenskyy says",
-      "title_vi": "Zelenskyy nói rằng Ukraine sẽ tiếp tục tấn công vào các nhà máy lọc dầu của Nga",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6",
-      "source": "Financial Times",
-      "category": "energy",
-      "published": "2026-10-15 11:00"
     },
     {
       "id": "11u0b5s",
@@ -497,17 +530,6 @@
       "published": "2026-10-14 00:59"
     },
     {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!HY-o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F098967c0-94d9-494e-b37b-1d8508627240_1500x1000.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-10-14 00:44"
-    },
-    {
       "id": "r2lmzj",
       "title": "Copper Price Could Hit Record High as Economic Indicators Turn Bullish",
       "title_vi": "Giá đồng có thể đạt mức cao kỷ lục khi các chỉ số kinh tế chuyển sang xu hướng tăng",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-13 23:06"
-    },
-    {
-      "id": "1ultcv0",
-      "title": "How Will I Know – Will a Newly Sanctioned Pipeline Give the Bakken a Big Surplus of Gas Takeaway?",
-      "title_vi": "Làm sao tôi biết được – Liệu một đường ống mới bị trừng phạt có mang lại cho Bakken một lượng khí đốt dư thừa lớn không?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://rbnenergy.com/daily-posts/blog/will-newly-sanctioned-pipeline-give-bakken-big-surplus-gas-takeaway",
-      "source": "RBN Energy",
-      "category": "energy",
-      "published": "2026-10-13 23:01"
-    },
-    {
-      "id": "105khm9",
-      "title": "Silver’s industrial demand, mining dynamics and free float mean price rally might not impact supply until it overwhelms it – Sprott’s Zhu",
-      "title_vi": "Nhu cầu công nghiệp của bạc, động lực khai thác và sự tăng giá tự do thả nổi có nghĩa là việc tăng giá có thể không ảnh hưởng đến nguồn cung cho đến khi nó lấn át nguồn cung - Sprott's Zhu",
-      "summary_vi": "(Tin tức Kitco) - Bạc có những điểm khác biệt chính giúp cách ly tác động của hành động giá khỏi động lực cung và cầu cơ bản - nhưng khi các nhà đầu tư đổ xô vào bạc, nguồn cung vật chất hạn chế của kim loại xám có nghĩa là thị trường có thể đi theo đường parabol theo cách mà vàng khó có thể làm được, theo Kenn",
-      "image": "https://image-api.prod.kitco.com/image/ee0024fb-a9af-4936-a70f-b99428bb0f3f.png?top=0&left=0&width=1672&height=941&scale_width=1920&token=505667ba2624f7649394c311ae95f8133079ee098dc3728692c77ab45026e979",
-      "link": "https://www.kitco.com/news/article/2026-10-13/silvers-industrial-demand-mining-dynamics-and-free-float-mean-price-rally",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-10-13 22:27"
     }
   ]
 }

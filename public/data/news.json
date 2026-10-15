@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-16 04:01",
+  "updated_at": "2026-10-16 05:01",
   "items": [
+    {
+      "id": "15o9duy",
+      "title": "Exxon’s Oil Boom Could Keep Guyana’s Gas at Home",
+      "title_vi": "Sự bùng nổ dầu mỏ của Exxon có thể giữ khí đốt của Guyana ở nhà",
+      "summary_vi": "Guyana đã trở thành một quốc gia nổi tiếng về dầu mỏ với hàng tỷ thùng dầu được Exxon phát hiện ngoài khơi quốc gia Nam Mỹ nhỏ bé này. Cùng với sự giàu có về dầu mỏ là khí đốt và đã có kế hoạch bổ sung LNG vào hàng hóa xuất khẩu của Guyana. Tuy nhiên hiện nay chính phủ đang xem xét k",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-15_giphle3vor.jpg",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Exxons-Oil-Boom-Could-Keep-Guyanas-Gas-at-Home.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-16 05:00"
+    },
     {
       "id": "h7tdep",
       "title": "U.S. Nuclear Fuel Independence Edges Closer as Urenco Expansion Hits 75%",
@@ -68,6 +79,17 @@
       "published": "2026-10-16 01:33"
     },
     {
+      "id": "n74zjh",
+      "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
+      "title_vi": "'Chúng ta xong rồi': Ukraine tiếp tục tấn công các nhà máy lọc dầu của Nga khi sự tức giận đối với Trump ngày càng tăng",
+      "summary_vi": "Theo Ukraine, chức năng internet vệ tinh thông qua Starshield – phiên bản quân sự của dịch vụ SpaceX ở Ukraine – đã hoạt động trở lại ở tốc độ trước đó vào thời điểm hiện tại.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-zelenskyy-rs-c30342.jpg",
+      "link": "https://www.nbcnews.com/world/ukraine/ukraine-resumes-strikes-russian-oil-refineries-trump-starlink-intel-rcna603648",
+      "source": "NBC News",
+      "category": "energy",
+      "published": "2026-10-16 01:28"
+    },
+    {
       "id": "1e7tdb3",
       "title": "Britain’s Biggest Business Lobby Calls for Tax Cuts and Lower Energy Bills",
       "title_vi": "Hành lang doanh nghiệp lớn nhất nước Anh kêu gọi cắt giảm thuế và giảm hóa đơn năng lượng",
@@ -110,17 +132,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-10-15 23:19"
-    },
-    {
-      "id": "gsm8v8",
-      "title": "EIA Says US Crude Inventories Down Nearly 9 Million Barrels",
-      "title_vi": "EIA cho biết tồn kho dầu thô của Mỹ giảm gần 9 triệu thùng",
-      "summary_vi": "Theo dữ liệu mới từ Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA) công bố hôm thứ Năm, tồn kho dầu thô ở Mỹ đã giảm 8,6 triệu thùng trong tuần kết thúc vào ngày 9 tháng 10. Mức giảm này đưa tồn kho thương mại lên 415,6 triệu thùng,",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-15_ikbn8jchux.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/EIA-Says-US-Crude-Inventories-Down-Nearly-9-Million-Barrels.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-15 23:09"
     },
     {
       "id": "ddi0i8",
@@ -539,17 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-10-14 10:33"
-    },
-    {
-      "id": "11un0sw",
-      "title": "Three Federal Reserve officials hint that the fight against inflation is not over; Williams expects no rate hikes in 2027",
-      "title_vi": "Ba quan chức Cục Dự trữ Liên bang gợi ý rằng cuộc chiến chống lạm phát vẫn chưa kết thúc; Williams dự kiến ​​sẽ không tăng lãi suất vào năm 2027",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.moomoo.com/news/post/1001088717/three-federal-reserve-officials-hint-that-the-fight-against-inflation",
-      "source": "Moomoo",
-      "category": "macro",
-      "published": "2026-10-14 06:42"
     }
   ]
 }

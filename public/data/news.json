@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-15 14:01",
+  "updated_at": "2026-10-15 15:01",
   "items": [
+    {
+      "id": "v9ywiq",
+      "title": "IMF Warns of Worldwide Fallout as Attacks on Saudi Arabia Escalate",
+      "title_vi": "IMF cảnh báo hậu quả toàn cầu khi các cuộc tấn công vào Ả Rập Saudi leo thang",
+      "summary_vi": "Giám đốc điều hành của Quỹ Tiền tệ Quốc tế cảnh báo rằng các cuộc tấn công vào cơ sở hạ tầng của Saudi do lực lượng Houthi ở Yemen thực hiện có thể ảnh hưởng đến nền kinh tế toàn cầu. Phát biểu tại một sự kiện chung với Ngân hàng Thế giới ở Thái Lan, Kristalina Georgieva cho biết, bất chấp mối nguy hiểm này, Ả Rập Saudi",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-15_fmabhiuyqd.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/IMF-Warns-of-Worldwide-Fallout-as-Attacks-on-Saudi-Arabia-Escalate.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-10-15 15:00"
+    },
     {
       "id": "18n3g5o",
       "title": "Lithium Prices Plunge as EU-China Trade Deal Sparks Demand Fears",
@@ -24,6 +35,17 @@
       "published": "2026-10-15 12:19"
     },
     {
+      "id": "1k0yjc1",
+      "title": "USDA’s Record Soybean Forecast Points to Higher U.S. Exports",
+      "title_vi": "Dự báo kỷ lục về đậu tương của USDA cho thấy xuất khẩu của Hoa Kỳ sẽ cao hơn",
+      "summary_vi": "Dự báo đậu tương kỷ lục mới nhất của Bộ Nông nghiệp Hoa Kỳ đang chỉ ra tiềm năng xuất khẩu tăng lên, vì nguồn cung nội địa lớn hơn có thể giúp Hoa Kỳ đáp ứng nhu cầu toàn cầu. Theo Ban Triển vọng Nông nghiệp Thế giới của USDA, tổng sản lượng đậu tương của Hoa Kỳ",
+      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2103/2025/10/14222817/soybeans-in-field.jpg",
+      "link": "https://www.hoosieragtoday.com/2026/10/14/usdas-record-soybean-forecast-points-to-higher-u-s-exports/",
+      "source": "Hoosier Ag Today",
+      "category": "agri",
+      "published": "2026-10-15 12:09"
+    },
+    {
       "id": "uqrm0y",
       "title": "Platinum price hits the second target– Forecast today – 15-10-2026",
       "title_vi": "Giá bạch kim chạm mục tiêu thứ 2– Dự báo hôm nay – 15-10-2026",
@@ -44,6 +66,17 @@
       "source": "Financial Times",
       "category": "energy",
       "published": "2026-10-15 11:00"
+    },
+    {
+      "id": "11u0b5s",
+      "title": "Gold rebounds from one-week low as dollar slips",
+      "title_vi": "Vàng phục hồi từ mức thấp nhất trong một tuần khi đồng đô la trượt giá",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-rebounds-one-week-low-dollar-slips-2026-10-15/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-10-15 10:18"
     },
     {
       "id": "1o6k7jj",
@@ -132,17 +165,6 @@
       "source": "StoneX",
       "category": "metal",
       "published": "2026-10-15 03:22"
-    },
-    {
-      "id": "entxuy",
-      "title": "Britain&#039;s $47 Billion North Sea Oil Decision Hangs in the Balance",
-      "title_vi": "Quyết định về dầu Biển Bắc trị giá 47 tỷ USD của Anh bị treo trong thế cân bằng",
-      "summary_vi": "Thủ tướng Andy Burnham cho biết việc phê duyệt thêm hoạt động khoan dầu khí tại các địa điểm Jackdaw và Rosebank ở Biển Bắc đã bị trì hoãn do “quy trình của chính phủ” và những tranh cãi quan liêu kéo dài. Burnham nói với các nghị sĩ rằng ông sẽ thực hiện “cách tiếp cận thực tế” về vấn đề khai thác dầu khí.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-14_blf9gfskwr.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Britains-47-Billion-North-Sea-Oil-Decision-Hangs-in-the-Balance.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-15 03:00"
     },
     {
       "id": "1szcmlr",
@@ -464,17 +486,6 @@
       "published": "2026-10-13 20:51"
     },
     {
-      "id": "k65xpr",
-      "title": "Gold rises on weaker dollar, lower oil ahead of US inflation data",
-      "title_vi": "Vàng tăng do đồng đô la yếu hơn, giá dầu giảm trước dữ liệu lạm phát của Mỹ",
-      "summary_vi": "Ngày 13 tháng 10 (Reuters) - Giá vàng tăng vào thứ Ba, do đồng đô la yếu hơn và giá dầu thấp hơn cung cấp hỗ trợ, trong khi các nhà đầu tư chú ý đến dữ liệu lạm phát quan trọng của Hoa Kỳ và nhận xét từ Chủ tịch Cục Dự trữ Liên bang vào cuối tuần này để đánh giá chính sách tiền tệ trong tương lai. Vàng giao ngay tăng 0,2% lên 4.178,97 USD mỗi ounce vào lúc 9:19 sáng EDT (13",
-      "image": "https://image-api.prod.kitco.com/image/852274e0-dbf7-4f10-ad77-fb757d6893c9.webp?top=0.28175313059034&left=0&width=1280&height=719.43649373882&scale_width=1920&token=767615e01945972253ef80270b5a726556e32f45c7999966f7cf6eaf54bcfd9a",
-      "link": "https://www.kitco.com/news/off-the-wire/2026-10-13/gold-rises-weaker-dollar-lower-oil-ahead-us-inflation-data",
-      "source": "Kitco",
-      "category": "macro",
-      "published": "2026-10-13 20:49"
-    },
-    {
       "id": "1lrkwix",
       "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
       "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "energy",
       "published": "2026-10-13 18:36"
-    },
-    {
-      "id": "pwrkmr",
-      "title": "Corn Market Outlook After USDA’s Yield Surprise",
-      "title_vi": "Triển vọng thị trường ngô sau bất ngờ về lợi suất của USDA",
-      "summary_vi": "Báo cáo vụ mùa tháng 10 của USDA đã làm rung chuyển thị trường ngũ cốc vào thứ Sáu tuần trước và hai cố vấn thị trường cho biết vài tuần tới sẽ cho biết liệu ngô có tìm được mức sàn hay không. John Heinberg của Total Farm Marketing và",
-      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2470/2026/10/07151147/web-photo-template-onecms-1000-x-563-px-2026-10-07t151137-810.jpg",
-      "link": "https://www.americanagnetwork.com/2026/10/13/corn-market-outlook-after-usdas-yield-surprise/",
-      "source": "American Ag Network",
-      "category": "agri",
-      "published": "2026-10-13 17:59"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 08:01",
+  "updated_at": "2026-10-15 09:01",
   "items": [
     {
       "id": "1r9ftkj",
@@ -110,6 +110,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-15 01:00"
+    },
+    {
+      "id": "1szcmlr",
+      "title": "Trump tariff threat built a US copper mountain, but the effects are fading",
+      "title_vi": "Mối đe dọa thuế quan của Trump đã xây dựng một ngọn núi đồng của Mỹ, nhưng hiệu ứng đang mờ dần",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/asia-pacific/trump-tariff-threat-built-us-copper-mountain-effects-are-fading-2026-10-14/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-10-15 00:32"
     },
     {
       "id": "iak1wz",
@@ -539,17 +550,6 @@
       "source": "PBS",
       "category": "energy",
       "published": "2026-10-13 01:12"
-    },
-    {
-      "id": "1vseepi",
-      "title": "Daily: Commodity fundamentals speak for further upside",
-      "title_vi": "Hàng ngày: Các nguyên tắc cơ bản của hàng hóa cho thấy xu hướng tăng giá hơn nữa",
-      "summary_vi": "Báo cáo thị trường tài chính của UBS CIO House View. Những bất ổn về địa chính trị và vĩ mô đang thúc đẩy biến động hàng hóa trong ngắn hạn, nhưng nguồn cung thắt chặt và nhu cầu lâu bền vẫn hỗ trợ cho triển vọng.",
-      "image": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2026/latest-12102026/_jcr_content/root/pagehead/opengraphimage.coreimg.1280.jpg/1345181608/man-playing-chess-three.jpg",
-      "link": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/daily/2026/latest-12102026.html",
-      "source": "UBS",
-      "category": "macro",
-      "published": "2026-10-13 00:55"
     }
   ]
 }

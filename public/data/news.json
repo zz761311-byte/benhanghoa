@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-16 00:01",
+  "updated_at": "2026-10-16 01:01",
   "items": [
+    {
+      "id": "1e7tdb3",
+      "title": "Britain’s Biggest Business Lobby Calls for Tax Cuts and Lower Energy Bills",
+      "title_vi": "Hành lang doanh nghiệp lớn nhất nước Anh kêu gọi cắt giảm thuế và giảm hóa đơn năng lượng",
+      "summary_vi": "Nhóm vận động hành lang doanh nghiệp lớn nhất nước Anh đã kêu gọi John Healey cắt giảm thuế việc làm và hóa đơn năng lượng trong Ngân sách đầu tiên của mình, cảnh báo rằng việc tăng thuế tiếp theo có nguy cơ bóp nghẹt đầu tư và việc làm. Liên đoàn Công nghiệp Anh (CBI) đã kêu gọi Thủ tướng mang lại cho các công ty “cơ hội",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-15_ihmsppgkuf.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Britains-Biggest-Business-Lobby-Calls-for-Tax-Cuts-and-Lower-Energy-Bills.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-16 01:00"
+    },
     {
       "id": "xiv34n",
       "title": "Venezuela&#039;s Oil Recovery Gains Momentum as New Drilling Rigs Arrive",
@@ -42,7 +53,7 @@
       "image": "https://substackcdn.com/image/fetch/$s_!AKN4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc39f220e-89ec-444d-9e5b-0b5d142c79cd_1400x1000.png",
       "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
       "source": "Silver Bulletin",
-      "category": "macro",
+      "category": "metal",
       "published": "2026-10-15 23:00"
     },
     {
@@ -101,6 +112,17 @@
       "published": "2026-10-15 22:00"
     },
     {
+      "id": "jxe7y7",
+      "title": "What Future for the US Dollar in the Gulf?",
+      "title_vi": "Tương lai nào cho đồng đô la Mỹ ở vùng Vịnh?",
+      "summary_vi": "Việc neo giá đồng đô la của GCC phải đối mặt với áp lực kinh tế và địa chính trị ngày càng tăng. Bài viết này xem xét các lựa chọn thay thế tiền tệ và đề xuất một phản ứng chính sách phối hợp. Sao chép",
+      "image": "https://mecouncil.org/wp-content/uploads/2026/10/Cover-for-YOAST-5365.jpg",
+      "link": "https://mecouncil.org/publication/what-future-for-the-us-dollar-in-the-gulf/",
+      "source": "Middle East Council on Global Affairs",
+      "category": "macro",
+      "published": "2026-10-15 21:59"
+    },
+    {
       "id": "qml21q",
       "title": "Europe’s Gas Prices Close to 2022 High as Hormuz LNG Flows Remain Limited",
       "title_vi": "Giá khí đốt ở châu Âu gần đạt mức cao năm 2022 do dòng LNG của Hormuz vẫn còn hạn chế",
@@ -132,17 +154,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-15 21:00"
-    },
-    {
-      "id": "kr1xy9",
-      "title": "U.S. Wants World Bank to Drop Ban on Upstream Oil and Gas Funding",
-      "title_vi": "Hoa Kỳ muốn Ngân hàng Thế giới bãi bỏ lệnh cấm cấp vốn cho dầu khí thượng nguồn",
-      "summary_vi": "Ngân hàng Thế giới cần cải cách sâu sắc, bao gồm đảo ngược lệnh cấm tài trợ dầu khí ở thượng nguồn, Bộ trưởng Tài chính Hoa Kỳ Scott Bessent cho biết trong một tuyên bố trước Ủy ban Phát triển Ngân hàng Thế giới và Ủy ban Tài chính và Tiền tệ Quốc tế IMF. Ngân hàng Thế giới có ma",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-15_nngzl17kam.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Wants-World-Bank-to-Drop-Ban-on-Upstream-Oil-and-Gas-Funding.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-15 20:30"
     },
     {
       "id": "akqpyr",
@@ -231,6 +242,17 @@
       "source": "Economies.com",
       "category": "metal",
       "published": "2026-10-15 12:07"
+    },
+    {
+      "id": "1e2oex1",
+      "title": "Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries",
+      "title_vi": "Zelenskyy thách thức Trump khi Ukraine tiếp tục đình công vào các nhà máy lọc dầu của Nga",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6",
+      "source": "Financial Times",
+      "category": "energy",
+      "published": "2026-10-15 11:00"
     },
     {
       "id": "11u0b5s",
@@ -528,28 +550,6 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-10-14 00:59"
-    },
-    {
-      "id": "r2lmzj",
-      "title": "Copper Price Could Hit Record High as Economic Indicators Turn Bullish",
-      "title_vi": "Giá đồng có thể đạt mức cao kỷ lục khi các chỉ số kinh tế chuyển sang xu hướng tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/copper-price-could-hit-record-171417650.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-10-14 00:14"
-    },
-    {
-      "id": "1e1cy2y",
-      "title": "NCA Convention Returns to Austin in March 2027",
-      "title_vi": "Hội nghị NCA quay trở lại Austin vào tháng 3 năm 2027",
-      "summary_vi": "Đăng ký đã mở cho Hội nghị Hiệp hội Cà phê Quốc gia (NCA) 2027, diễn ra từ ngày 4 đến ngày 6 tháng 3 tại JW Marriott Austin ở Austin, Texas. Tập đoàn thương mại cà phê Hoa Kỳ dự kiến ​​khoảng...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/10/13/nca-convention-returns-to-austin-in-march-2027/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-10-13 23:06"
     }
   ]
 }

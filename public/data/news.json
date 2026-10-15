@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 12:57",
+  "updated_at": "2026-10-15 13:02",
   "items": [
     {
       "id": "mwb3l2",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-15 12:19"
+    },
+    {
+      "id": "1e2oex1",
+      "title": "Ukraine to resume strikes on Russian refineries, Zelenskyy says",
+      "title_vi": "Zelenskyy nói rằng Ukraine sẽ tiếp tục tấn công vào các nhà máy lọc dầu của Nga",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6",
+      "source": "Financial Times",
+      "category": "energy",
+      "published": "2026-10-15 11:00"
     },
     {
       "id": "1o6k7jj",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-10-13 15:14"
-    },
-    {
-      "id": "1qeuk4",
-      "title": "US Sugar Buyers Resist High Prices Amid Supply Debate",
-      "title_vi": "Người mua đường ở Mỹ phản đối giá cao trong bối cảnh tranh luận về nguồn cung",
-      "summary_vi": "Người mua đường ở Mỹ phản đối giá cao trong bối cảnh tranh luận về nguồn cung",
-      "image": "https://www.czapp.com/wp-content/uploads/2026/10/f8fbf0d2-ccca-4258-bab5-5c647264ca04.jpg",
-      "link": "https://www.czapp.com/analyst-insights/us-sugar-buyers-resist-high-prices-amid-supply-debate/",
-      "source": "Czapp",
-      "category": "soft",
-      "published": "2026-10-13 14:30"
     }
   ]
 }

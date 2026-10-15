@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-15 16:01",
+  "updated_at": "2026-10-15 17:01",
   "items": [
+    {
+      "id": "zgbpet",
+      "title": "Ukraine to Resume Russian Oil Refinery Strikes After Failed Energy Ceasefire",
+      "title_vi": "Ukraine tiếp tục đình công nhà máy lọc dầu của Nga sau lệnh ngừng bắn năng lượng thất bại",
+      "summary_vi": "Ukraine sẽ tiếp tục các cuộc tấn công bằng máy bay không người lái vào các nhà máy lọc dầu của Nga sau khi Nga liên tục tấn công cơ sở hạ tầng năng lượng và giết hại dân thường ở Ukraine bất chấp tuyên bố của Tổng thống Mỹ Trump về “ngừng bắn năng lượng”, Tổng thống Ukraine Volodymyr Zelenskyy nói với Financial Times. trong cuộc phỏng vấn",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-15_kxiusogbmo.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-to-Resume-Russian-Oil-Refinery-Strikes-After-Failed-Energy-Ceasefire.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-15 16:30"
+    },
+    {
+      "id": "plxqat",
+      "title": "Antofagasta Shares Slump on Weak Copper Outlook",
+      "title_vi": "Cổ phiếu Antofagasta sụt giảm do triển vọng đồng yếu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/antofagasta-copper-production-rises-61a9bf89",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-10-15 16:00"
+    },
     {
       "id": "v9ywiq",
       "title": "IMF Warns of Worldwide Fallout as Attacks on Saudi Arabia Escalate",
@@ -143,17 +165,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-15 04:43"
-    },
-    {
-      "id": "1wf3o2r",
-      "title": "Trump Announces $80 Billion Taiwan LNG Deal",
-      "title_vi": "Trump công bố thỏa thuận LNG Đài Loan trị giá 80 tỷ USD",
-      "summary_vi": "Tổng thống Donald Trump đã công bố một thỏa thuận năng lượng mới khổng lồ với Đài Loan, tuyên bố hòn đảo này sẽ mua khí đốt tự nhiên hóa lỏng trị giá từ 70 tỷ đến 80 tỷ USD từ Alaska trong hai thập kỷ tới, khi các nhà nhập khẩu châu Á tranh giành để đảm bảo nguồn cung ngoài thế giới.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-14_x5pdejaiza.jpg",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Trump-Announces-80-Billion-Taiwan-LNG-Deal.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-15 04:00"
     },
     {
       "id": "136f6cg",
@@ -409,6 +420,17 @@
       "published": "2026-10-14 00:44"
     },
     {
+      "id": "r2lmzj",
+      "title": "Copper Price Could Hit Record High as Economic Indicators Turn Bullish",
+      "title_vi": "Giá đồng có thể đạt mức cao kỷ lục khi các chỉ số kinh tế chuyển sang xu hướng tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/copper-price-could-hit-record-171417650.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-10-14 00:14"
+    },
+    {
       "id": "1e1cy2y",
       "title": "NCA Convention Returns to Austin in March 2027",
       "title_vi": "Hội nghị NCA quay trở lại Austin vào tháng 3 năm 2027",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-13 19:38"
-    },
-    {
-      "id": "1mgd4rk",
-      "title": "Feeder cattle hit three-month high on lower corn outlook - CME",
-      "title_vi": "Gia súc cho ăn đạt mức cao nhất trong ba tháng do triển vọng ngô thấp hơn - CME",
-      "summary_vi": "Giá lợn nạc tương lai giảm xuống mức thấp do giá thịt lợn yếu",
-      "image": "https://cdn1.globalagmedia.com/Markets/stock-market.jpg",
-      "link": "https://www.thecattlesite.com/news/feeder-cattle-hit-three-month-high-on-lower-corn-outlook-cme-2",
-      "source": "The Cattle Site",
-      "category": "agri",
-      "published": "2026-10-13 19:05"
-    },
-    {
-      "id": "1zeodk",
-      "title": "Dollar slips with oil prices, geopolitical risks seen easing before midterms",
-      "title_vi": "Đồng đô la trượt giá theo giá dầu, rủi ro địa chính trị giảm bớt trước kỳ bầu cử giữa kỳ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-holds-near-18-month-014716820.html",
-      "source": "Yahoo Finance",
-      "category": "energy",
-      "published": "2026-10-13 18:36"
     }
   ]
 }

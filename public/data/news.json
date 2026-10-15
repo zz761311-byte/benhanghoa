@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 10:01",
+  "updated_at": "2026-10-15 11:01",
   "items": [
     {
       "id": "1r9ftkj",
@@ -143,6 +143,17 @@
       "source": "Citigroup",
       "category": "macro",
       "published": "2026-10-14 22:40"
+    },
+    {
+      "id": "mwuto5",
+      "title": "Selling Grain at Harvest? Compare Calls and Futures Before You Re-Own",
+      "title_vi": "Bán ngũ cốc khi thu hoạch? So sánh các cuộc gọi và tương lai trước khi bạn sở hữu lại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/selling-grain-at-harvest-compare-calls-and-futures-before-you-re-own-12173330",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-10-14 22:04"
     },
     {
       "id": "13to38v",
@@ -365,6 +376,17 @@
       "published": "2026-10-13 21:27"
     },
     {
+      "id": "clq4vk",
+      "title": "CME Group corn futures set daily volume record",
+      "title_vi": "Hợp đồng tương lai ngô của CME Group lập kỷ lục khối lượng hàng ngày",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.world-grain.com/articles/23325-cme-group-corn-futures-set-daily-volume-record",
+      "source": "World Grain",
+      "category": "agri",
+      "published": "2026-10-13 21:01"
+    },
+    {
       "id": "6trd25",
       "title": "Fall F&B Forecast: Coffee, Comfort, and a Bigger Seat at the Revenue Table",
       "title_vi": "Dự báo F&B mùa thu: Cà phê, tiện nghi và vị trí lớn hơn trên bảng doanh thu",
@@ -528,28 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-10-13 04:03"
-    },
-    {
-      "id": "64b3of",
-      "title": "Feeder cattle hit three-month high on lower corn outlook - CME",
-      "title_vi": "Gia súc cho ăn đạt mức cao nhất trong ba tháng do triển vọng ngô thấp hơn - CME",
-      "summary_vi": "Lợn nạc rơi phiên thứ tư liên tiếp",
-      "image": "https://cdn1.globalagmedia.com/misc/market-board.jpg",
-      "link": "https://www.thecattlesite.com/news/feeder-cattle-hit-three-month-high-on-lower-corn-outlook-cme",
-      "source": "The Cattle Site",
-      "category": "agri",
-      "published": "2026-10-13 03:55"
-    },
-    {
-      "id": "ggdp5t",
-      "title": "Kremlin relishes in U.S.-Russia diesel deal and Trump's criticism of Zelenskyy",
-      "title_vi": "Điện Kremlin thích thú với thỏa thuận diesel Mỹ-Nga và những lời chỉ trích của Trump đối với Zelenskyy",
-      "summary_vi": "Mặc dù quy mô xuất khẩu dầu diesel của Nga tương đối nhỏ và khó có thể tác động đáng kể đến giá cả, nhưng doanh thu sẽ giúp Moscow bổ sung kho bạc chiến tranh.",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-08T195447Z_1013445200_RC27ZNA3B9DY_RTRMADP_3_RUSSIA-IRAN-PUTIN-PEZESHKIAN-1024x691.jpg",
-      "link": "https://www.pbs.org/newshour/world/kremlin-relishes-in-u-s-russia-diesel-deal-and-trumps-criticism-of-zelenskyy",
-      "source": "PBS",
-      "category": "energy",
-      "published": "2026-10-13 01:12"
     }
   ]
 }

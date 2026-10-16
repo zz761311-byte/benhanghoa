@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-16 21:22",
+  "updated_at": "2026-10-16 22:01",
   "items": [
+    {
+      "id": "7ek72e",
+      "title": "Global Gas Crunch Makes Europe’s Remaining Coal Plants Profitable",
+      "title_vi": "Cuộc khủng hoảng khí đốt toàn cầu khiến các nhà máy than còn lại của châu Âu có lãi",
+      "summary_vi": "Cuộc khủng hoảng nguồn cung LNG toàn cầu đã khiến các nhà máy nhiệt điện than tồn tại cuối cùng của châu Âu có lãi trong năm nay do chi phí cung cấp khí đốt tăng cao trong khi nhu cầu phát điện thông thường để ổn định lưới điện vẫn còn. Ở Đức và Ba Lan, nơi tổ chức hầu hết các hoạt động hoặc dự phòng còn lại",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-16_omasmxnq7h.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-Gas-Crunch-Makes-Europes-Remaining-Coal-Plants-Profitable.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-16 21:30"
+    },
     {
       "id": "bgx1fs",
       "title": "Ukraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure",
@@ -156,15 +167,15 @@
       "published": "2026-10-16 16:48"
     },
     {
-      "id": "1579zyu",
-      "title": "India Slashes Diesel Export Tax as Global Fuel Crunch Deepens",
-      "title_vi": "Ấn Độ cắt giảm thuế xuất khẩu dầu diesel khi cuộc khủng hoảng nhiên liệu toàn cầu ngày càng sâu sắc",
-      "summary_vi": "Ấn Độ đã giảm gần một nửa thuế xuất khẩu dầu diesel trong hai tuần tới trong khi tăng thuế xuất khẩu xăng lên gấp 5 lần, có hiệu lực từ ngày 16 tháng 10. Thuế xuất khẩu dầu diesel thấp hơn có thể khuyến khích nguồn cung bổ sung cho thị trường quốc tế, vốn đang quay cuồng vì cuộc khủng hoảng dầu diesel.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-16_hrocjj45nf.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Slashes-Diesel-Export-Tax-as-Global-Fuel-Crunch-Deepens.html",
-      "source": "OilPrice",
+      "id": "n74zjh",
+      "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
+      "title_vi": "'Chúng ta xong rồi': Ukraine tiếp tục tấn công các nhà máy lọc dầu của Nga khi sự tức giận đối với Trump ngày càng tăng",
+      "summary_vi": "Theo Ukraine, chức năng Internet vệ tinh thông qua Starshield – phiên bản quân sự của dịch vụ Starlink của SpaceX ở Ukraine – đã hoạt động trở lại ở tốc độ trước đó vào thời điểm hiện tại.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-zelenskyy-rs-c30342.jpg",
+      "link": "https://www.nbcnews.com/world/ukraine/ukraine-resumes-strikes-russian-oil-refineries-trump-starlink-intel-rcna603648",
+      "source": "NBC News",
       "category": "energy",
-      "published": "2026-10-16 16:30"
+      "published": "2026-10-16 16:22"
     },
     {
       "id": "10tihkm",
@@ -233,15 +244,15 @@
       "published": "2026-10-16 08:34"
     },
     {
-      "id": "1sbbt6n",
-      "title": "Trump slams Zelenskyy as Ukraine resumes strikes on Russian oil refineries",
-      "title_vi": "Trump chỉ trích Zelenskyy khi Ukraine tiếp tục tấn công các nhà máy lọc dầu của Nga",
-      "summary_vi": "Zelenskyy nói rằng Kyiv đã 'hoàn thành' lệnh ngừng bắn năng lượng khi Trump gọi các cuộc tấn công vào nhà máy lọc dầu mới là 'một sự ô nhục'.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-20T042816Z_888155140_RC2QMNA71VDJ_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-1792058411.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries",
-      "source": "Al Jazeera",
+      "id": "1spjqnr",
+      "title": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump",
+      "title_vi": "Ukraine từ bỏ thỏa thuận ngừng bắn và tấn công nhà máy lọc dầu của Nga khi Zelenskyy nói rằng ông cảm thấy bị Trump phản bội",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://apnews.com/article/russia-ukraine-war-oil-refinery-attacks-resume-0071b4f3792c9912b977b0ee73505b18",
+      "source": "AP News",
       "category": "energy",
-      "published": "2026-10-16 07:52"
+      "published": "2026-10-16 08:29"
     },
     {
       "id": "h0i06i",
@@ -539,17 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-10-15 06:15"
-    },
-    {
-      "id": "lez8js",
-      "title": "Soybean futures trade sideways as harvest pace dictates direction.",
-      "title_vi": "Giá đậu tương kỳ hạn giao dịch đi ngang do tốc độ thu hoạch quyết định hướng đi.",
-      "summary_vi": "Hợp đồng tương lai nông sản chứng kiến ​​hoạt động giao dịch hỗn hợp vào thứ Tư khi các nhà giao dịch tiếp thu dữ liệu cơ bản và tiến độ thu hoạch. Giá đậu tương kỳ hạn được giao dịch trong phạm vi biến động 19,2 cent, ban đầu nhận được sự hỗ trợ từ lực mua 10 lô hàng của Trung Quốc trước khi đối mặt với áp lực bán mạnh khiến thị trường gần như đi ngang. Optio",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/soybean-futures-trade-sideways-as-harvest-pace-dictates-directio.jpg",
-      "link": "https://www.cmegroup.com/videos/2026/10/14/soybean-futures-trade-sideways-as-harvest-pace-dictates-directio.html",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-10-15 04:24"
     }
   ]
 }

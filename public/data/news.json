@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 03:01",
+  "updated_at": "2026-10-17 04:01",
   "items": [
     {
       "id": "mzui8",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-17 02:00"
+    },
+    {
+      "id": "1abibpi",
+      "title": "Oil surges to $110 per barrel for the first time since May",
+      "title_vi": "Dầu tăng lên 110 USD/thùng lần đầu tiên kể từ tháng 5",
+      "summary_vi": "Cổ phiếu công nghệ giảm mạnh diễn ra khi mối lo ngại lại nổi lên về nợ AI ngày càng tăng, lãi suất tăng và giá xăng cao.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261016-nyse-ch-1628-e5d99c.jpg",
+      "link": "https://www.nbcnews.com/business/energy/oil-prices-hormuz-iran-ukraine-rcna603919",
+      "source": "NBC News",
+      "category": "energy",
+      "published": "2026-10-17 01:46"
     },
     {
       "id": "1un5s2v",
@@ -132,6 +143,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-16 19:57"
+    },
+    {
+      "id": "1wkvqor",
+      "title": "Cotton Popping Higher on Friday Morning",
+      "title_vi": "Giá bông tăng cao hơn vào sáng thứ Sáu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/cotton-popping-higher-friday-morning-123057913.html",
+      "source": "Yahoo Finance",
+      "category": "soft",
+      "published": "2026-10-16 19:30"
     },
     {
       "id": "hhg802",
@@ -264,6 +286,17 @@
       "source": "S&P Global",
       "category": "metal",
       "published": "2026-10-16 12:50"
+    },
+    {
+      "id": "1amzjoy",
+      "title": "Thai raw sugar prices hit 22-month high amid Brazil supply concerns",
+      "title_vi": "Giá đường thô Thái Lan đạt mức cao nhất 22 tháng do lo ngại nguồn cung từ Brazil",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/101626-thai-raw-sugar-prices-hit-22-month-high-amid-brazil-supply-concerns",
+      "source": "S&P Global",
+      "category": "soft",
+      "published": "2026-10-16 12:26"
     },
     {
       "id": "uyn7yn",
@@ -517,39 +550,6 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-10-15 16:00"
-    },
-    {
-      "id": "5aasbl",
-      "title": "Natural Gas and Oil Forecast: WTI Eyes $95.19, Can Brent Hold $104 and NG Break $3.34?",
-      "title_vi": "Dự báo về khí đốt tự nhiên và dầu: WTI hướng tới 95,19 USD, Brent có thể giữ được 104 USD và NG có thể phá vỡ 3,34 USD không?",
-      "summary_vi": "WTI nhắm mục tiêu 95,19 USD sau khi giảm tồn kho API 11,1 triệu thùng, trong khi Brent kiểm tra mức hỗ trợ 104,01 USD trong bối cảnh rủi ro Hormuz và khí đốt tự nhiên hướng tới mức đột phá 3,34 USD.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-4-5.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-wti-eyes-95-19-can-brent-hold-104-and-ng-break-3-34-1638248",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-10-15 14:54"
-    },
-    {
-      "id": "17dyfvi",
-      "title": "Chocolate Demand Roars Back as Cocoa Grindings Beat Forecast",
-      "title_vi": "Nhu cầu sô cô la tăng trở lại khi dự báo nghiền ca cao",
-      "summary_vi": "Chế biến ca cao ở châu Âu và châu Á đã vượt quá mong đợi với tỷ suất lợi nhuận cao trong quý 3, báo hiệu sự phục hồi mạnh mẽ hơn dự đoán về nhu cầu toàn cầu sau nhiều năm giá sô cô la tăng cao.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVQt1GiueOzA/v1/1200x800.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-15/europe-cocoa-grindings-post-first-third-quarter-gain-since-2021",
-      "source": "Bloomberg.com",
-      "category": "soft",
-      "published": "2026-10-15 14:43"
-    },
-    {
-      "id": "wuc0qu",
-      "title": "Palladium (XPDUSD) Volatility Intensified on Oct 15: What to Watch",
-      "title_vi": "Biến động của palladium (XPDUSD) tăng cường vào ngày 15 tháng 10: Những điều cần xem",
-      "summary_vi": "Palladium tăng do mua ngắn hạn, mua kỹ thuật và điều kiện kinh tế vĩ mô thuận lợi. Nguồn cung hạn chế ở Nam Phi và Nga tiếp tục hỗ trợ định giá cơ bản. Sản xuất xe hybrid duy trì mức tiêu thụ kim loại công nghiệp ổn định trong ngắn hạn.",
-      "image": "https://resource.tradingkey.com/uploads/20260609/commodities-5-0ddb8dbd94ff4de296af8f488f6f2595.jpg",
-      "link": "https://www.tradingkey.com/news/market-movers/262218148-market-movers-xpdusd-20261015",
-      "source": "TradingKey",
-      "category": "metal",
-      "published": "2026-10-15 14:10"
     }
   ]
 }

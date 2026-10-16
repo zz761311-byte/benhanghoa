@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 21:01",
+  "updated_at": "2026-10-16 21:22",
   "items": [
     {
       "id": "bgx1fs",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-16 20:30"
+    },
+    {
+      "id": "1isdaf6",
+      "title": "Weekly Coffee News: New Look for IWCA + Nestlé in Mexico",
+      "title_vi": "Tin tức Cà phê Hàng tuần: Diện mạo mới cho IWCA + Nestlé ở Mexico",
+      "summary_vi": "Chào mừng bạn đến với Bản tin cà phê hàng tuần của DCN! Đăng ký tại đây để nhận tất cả các tin tức mới nhất về ngành cà phê. Ngoài ra, hãy xem các cơ hội nghề nghiệp mới nhất tại CoffeeIndustryJobs.com. IWCA giới thiệu nhận dạng hình ảnh toàn cầu mới...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/10/16/weekly-coffee-news-new-look-for-iwca-nestle-in-mexico/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-10-16 19:57"
     },
     {
       "id": "e8kv7j",
@@ -134,6 +145,17 @@
       "published": "2026-10-16 16:52"
     },
     {
+      "id": "1b1faa1",
+      "title": "National gas prices remain above $4 a gallon as crude oil prices stay high, AAA says",
+      "title_vi": "AAA cho biết giá xăng quốc gia vẫn ở mức trên 4 USD/gallon do giá dầu thô vẫn ở mức cao",
+      "summary_vi": "Giá trung bình toàn quốc cho một gallon xăng thông thường giảm nhẹ trong tuần qua nhưng vẫn ở mức trên 4 USD do giá dầu thô tiếp tục dao động gần 100 USD/…",
+      "image": "https://wrnjradio.com/wp-content/uploads/Screenshot-2025-04-11-041835.png",
+      "link": "https://wrnjradio.com/national-gas-prices-remain-above-4-a-gallon-as-crude-oil-prices-stay-high-aaa-says/",
+      "source": "WRNJ Radio",
+      "category": "energy",
+      "published": "2026-10-16 16:48"
+    },
+    {
       "id": "1579zyu",
       "title": "India Slashes Diesel Export Tax as Global Fuel Crunch Deepens",
       "title_vi": "Ấn Độ cắt giảm thuế xuất khẩu dầu diesel khi cuộc khủng hoảng nhiên liệu toàn cầu ngày càng sâu sắc",
@@ -189,6 +211,17 @@
       "published": "2026-10-16 12:50"
     },
     {
+      "id": "uyn7yn",
+      "title": "Gold edges up as dollar slips, Fed outlook in focus",
+      "title_vi": "Vàng tăng khi đồng đô la trượt dốc, tập trung vào triển vọng của Fed",
+      "summary_vi": "Vàng tăng giá vào thứ Sáu do đồng đô la yếu hơn hỗ trợ cho vay, trong khi những người tham gia thị trường tập trung vào quỹ đạo chính sách tương lai của Cục Dự trữ Liên bang Hoa Kỳ.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108134746-1745330034533-gettyimages-2210132918-AUSTRALIA_GOLD.jpeg?v=1792126904&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/10/16/gold-gains-on-softer-dollar-but-heads-for-weekly-fall.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-10-16 12:11"
+    },
+    {
       "id": "12ceotu",
       "title": "Glencore earns UBS Buy rating as copper growth strengthens outlook",
       "title_vi": "Glencore được UBS xếp hạng Mua khi tăng trưởng đồng củng cố triển vọng",
@@ -198,6 +231,17 @@
       "source": "Proactive financial news",
       "category": "metal",
       "published": "2026-10-16 08:34"
+    },
+    {
+      "id": "1sbbt6n",
+      "title": "Trump slams Zelenskyy as Ukraine resumes strikes on Russian oil refineries",
+      "title_vi": "Trump chỉ trích Zelenskyy khi Ukraine tiếp tục tấn công các nhà máy lọc dầu của Nga",
+      "summary_vi": "Zelenskyy nói rằng Kyiv đã 'hoàn thành' lệnh ngừng bắn năng lượng khi Trump gọi các cuộc tấn công vào nhà máy lọc dầu mới là 'một sự ô nhục'.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-20T042816Z_888155140_RC2QMNA71VDJ_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-1792058411.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-10-16 07:52"
     },
     {
       "id": "h0i06i",
@@ -222,15 +266,15 @@
       "published": "2026-10-16 06:32"
     },
     {
-      "id": "mg5vwd",
-      "title": "Nevada gas prices fall as crude oil prices remain high",
-      "title_vi": "Giá xăng Nevada giảm do giá dầu thô vẫn ở mức cao",
-      "summary_vi": "Dữ liệu mới từ AAA Nevada cho thấy giá xăng trong bang đang giảm ngay cả khi giá dầu thô vẫn ở mức cao.",
-      "image": "https://gray-kolo-prod.gtv-cdn.com/resizer/v2/EEUUVECWWZANJA2C25G6KK7O7U.jpg?auth=dfbc2f85c5a60b7dfe4648137e29bf910162adc3897f51b06659f21c292fcafb&width=1200&height=600&smart=true",
-      "link": "https://www.kolotv.com/2026/10/15/nevada-gas-prices-fall-crude-oil-prices-remain-high/",
-      "source": "KOLO | 8 News Now",
+      "id": "1xs5bab",
+      "title": "Nevada gas prices fall slightly as crude oil remains high",
+      "title_vi": "Giá xăng Nevada giảm nhẹ do dầu thô vẫn ở mức cao",
+      "summary_vi": "Giá trung bình cho một gallon xăng thông thường ở Nevada đã giảm trong tuần qua, ngay cả khi giá dầu thô vẫn ở mức cao.",
+      "image": "https://news3lv.com/resources/media/c36fa4a4-8189-43e3-828c-271208545c7d-jumbo16x9_thumb_131340.png?1649122676823",
+      "link": "https://news3lv.com/news/local/nevada-gas-prices-crude-oil-gasoline-per-gallon-mountain-west-las-vegas-reno-cars-driving",
+      "source": "KSNV",
       "category": "energy",
-      "published": "2026-10-16 05:45"
+      "published": "2026-10-16 03:40"
     },
     {
       "id": "shstnq",
@@ -242,17 +286,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-10-16 01:33"
-    },
-    {
-      "id": "n74zjh",
-      "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
-      "title_vi": "'Chúng ta xong rồi': Ukraine tiếp tục tấn công các nhà máy lọc dầu của Nga khi sự tức giận đối với Trump ngày càng tăng",
-      "summary_vi": "Theo Ukraine, chức năng internet vệ tinh thông qua Starshield – phiên bản quân sự của dịch vụ SpaceX ở Ukraine – đã hoạt động trở lại ở tốc độ trước đó vào thời điểm hiện tại.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-zelenskyy-rs-c30342.jpg",
-      "link": "https://www.nbcnews.com/world/ukraine/ukraine-resumes-strikes-russian-oil-refineries-trump-starlink-intel-rcna603648",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-10-16 01:28"
     },
     {
       "id": "170pb70",
@@ -318,17 +351,6 @@
       "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
       "source": "Silver Bulletin",
       "category": "metal",
-      "published": "2026-10-15 23:00"
-    },
-    {
-      "id": "1spjqnr",
-      "title": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump",
-      "title_vi": "Ukraine từ bỏ thỏa thuận ngừng bắn và tấn công nhà máy lọc dầu của Nga khi Zelenskyy nói rằng ông cảm thấy bị Trump phản bội",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://apnews.com/article/russia-ukraine-war-oil-refinery-attacks-resume-0071b4f3792c9912b977b0ee73505b18",
-      "source": "AP News",
-      "category": "energy",
       "published": "2026-10-15 23:00"
     },
     {
@@ -398,6 +420,17 @@
       "published": "2026-10-15 17:05"
     },
     {
+      "id": "dmzh7r",
+      "title": "Gold Prices Rebound as Dollar and Treasury Yields Ease Despite Higher US Inflation",
+      "title_vi": "Giá vàng phục hồi khi đồng đô la và lợi tức trái phiếu kho bạc giảm mặc dù lạm phát ở Mỹ cao hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-prices-rebound-dollar-treasury-094416553.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-10-15 16:44"
+    },
+    {
       "id": "plxqat",
       "title": "Antofagasta Shares Slump on Weak Copper Outlook",
       "title_vi": "Cổ phiếu Antofagasta sụt giảm do triển vọng đồng yếu",
@@ -407,17 +440,6 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-10-15 16:00"
-    },
-    {
-      "id": "1ckgx76",
-      "title": "Amid rising inflation and an economic slowdown, the Federal Reserve shifted its stance, triggering a reversal in gold prices.",
-      "title_vi": "Trong bối cảnh lạm phát gia tăng và kinh tế suy thoái, Cục Dự trữ Liên bang đã thay đổi lập trường, khiến giá vàng đảo chiều.",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.moomoo.com/news/post/1001292132/amid-rising-inflation-and-an-economic-slowdown-the-federal-reserve",
-      "source": "Moomoo",
-      "category": "metal",
-      "published": "2026-10-15 15:24"
     },
     {
       "id": "5aasbl",
@@ -486,17 +508,6 @@
       "published": "2026-10-15 12:07"
     },
     {
-      "id": "1d5abf1",
-      "title": "Gold rebounds on weaker dollar, yields; October Fed hike bets subdued",
-      "title_vi": "Vàng phục hồi do đồng đô la yếu hơn, lợi suất trái phiếu; Đặt cược tăng lãi suất của Fed vào tháng 10 đã bị khuất phục",
-      "summary_vi": "Vàng đã tăng hơn 1% vào thứ Năm, có vẻ sẽ chấm dứt đợt giảm giá kéo dài ba ngày, được hỗ trợ bởi đồng đô la yếu hơn và lãi suất trái phiếu Kho bạc Hoa Kỳ thấp hơn.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108134745-1745330034749-gettyimages-2210132895-AUSTRALIA_GOLD.jpeg?v=1792034833&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/10/15/gold-rebounds-from-one-week-low-as-dollar-slips.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-10-15 11:33"
-    },
-    {
       "id": "zrywp5",
       "title": "Kansas farmers urge calm after surprise USDA report sends corn prices lower",
       "title_vi": "Nông dân Kansas kêu gọi bình tĩnh sau báo cáo bất ngờ của USDA khiến giá ngô giảm",
@@ -506,6 +517,17 @@
       "source": "KWCH",
       "category": "agri",
       "published": "2026-10-15 10:12"
+    },
+    {
+      "id": "b9dhly",
+      "title": "Australian Wheat FOB (Platts)",
+      "title_vi": "FOB lúa mì Úc (Platts)",
+      "summary_vi": "Tìm thông tin về Tổng quan về Hợp đồng Tương lai FOB Lúa mì Úc (Platts) do CME Group cung cấp. Xem tổng quan",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/images/og-cme-group.jpg",
+      "link": "https://www.cmegroup.com/markets/agriculture/grains/australian-wheat-fob-platts-futures",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-10-15 07:00"
     },
     {
       "id": "1rfh27p",
@@ -528,28 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-10-15 04:24"
-    },
-    {
-      "id": "1hko7nc",
-      "title": "Dollar hits 18-month high, then cools as investors await patient Fed",
-      "title_vi": "Đồng đô la đạt mức cao nhất trong 18 tháng, sau đó hạ nhiệt khi các nhà đầu tư chờ đợi bệnh nhân của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-languishes-focus-turns-cpi-051448461.html",
-      "source": "Yahoo Finance",
-      "category": "macro",
-      "published": "2026-10-15 03:31"
-    },
-    {
-      "id": "136f6cg",
-      "title": "Silver Analysis: XAG/USD Falls Back to Annual Lows",
-      "title_vi": "Phân tích bạc: XAG/USD giảm trở lại mức thấp hàng năm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-gb/news-and-analysis/silver-analysis-xag-usd-falls-back-to-annual-lows-2026-10-14/",
-      "source": "StoneX",
-      "category": "metal",
-      "published": "2026-10-15 03:22"
     }
   ]
 }

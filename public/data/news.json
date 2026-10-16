@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-16 16:01",
+  "updated_at": "2026-10-16 16:55",
   "items": [
+    {
+      "id": "1579zyu",
+      "title": "India Slashes Diesel Export Tax as Global Fuel Crunch Deepens",
+      "title_vi": "Ấn Độ cắt giảm thuế xuất khẩu dầu diesel khi cuộc khủng hoảng nhiên liệu toàn cầu ngày càng sâu sắc",
+      "summary_vi": "Ấn Độ đã giảm gần một nửa thuế xuất khẩu dầu diesel trong hai tuần tới trong khi tăng thuế xuất khẩu xăng lên gấp 5 lần, có hiệu lực từ ngày 16 tháng 10. Thuế xuất khẩu dầu diesel thấp hơn có thể khuyến khích nguồn cung bổ sung cho thị trường quốc tế, vốn đang quay cuồng vì cuộc khủng hoảng dầu diesel.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-16_hrocjj45nf.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Slashes-Diesel-Export-Tax-as-Global-Fuel-Crunch-Deepens.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-16 16:30"
+    },
     {
       "id": "144nnw0",
       "title": "Trump Condemns Ukraine’s Russian Refinery Strikes as a “Disgrace”",
@@ -132,17 +143,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-16 05:00"
-    },
-    {
-      "id": "h7tdep",
-      "title": "U.S. Nuclear Fuel Independence Edges Closer as Urenco Expansion Hits 75%",
-      "title_vi": "Sự độc lập về nhiên liệu hạt nhân của Hoa Kỳ tiến gần hơn khi việc mở rộng Urenco đạt 75%",
-      "summary_vi": "Nhà máy làm giàu uranium quy mô thương mại duy nhất ở Hoa Kỳ hiện đã đi được 3/4 chặng đường trong quá trình mở rộng mới nhất, một cột mốc quan trọng cho nỗ lực xây dựng chuỗi cung ứng nhiên liệu hạt nhân trong nước của nước này. Urenco USA cho biết ngày 8 tháng 10 rằng thứ sáu trong số tám cen mới",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-15_ceslamdujw.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/US-Nuclear-Fuel-Independence-Edges-Closer-as-Urenco-Expansion-Hits-75.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-16 04:00"
     },
     {
       "id": "shstnq",
@@ -409,6 +409,17 @@
       "published": "2026-10-15 10:12"
     },
     {
+      "id": "1rfh27p",
+      "title": "Grain and Livestock Markets See Risk Off Selling Tied to Inflation Concerns, Harvest",
+      "title_vi": "Thị trường ngũ cốc và chăn nuôi gặp rủi ro khi bán ra do lo ngại về lạm phát, thu hoạch",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/grain-and-livestock-futures-see-risk-selling-tied-inflation-concerns-harvest",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-10-15 06:15"
+    },
+    {
       "id": "lez8js",
       "title": "Soybean futures trade sideways as harvest pace dictates direction.",
       "title_vi": "Giá đậu tương kỳ hạn giao dịch đi ngang do tốc độ thu hoạch quyết định hướng đi.",
@@ -539,17 +550,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-10-14 21:31"
-    },
-    {
-      "id": "13to38v",
-      "title": "Silver prices plunge after hot US CPI report",
-      "title_vi": "Giá bạc lao dốc sau báo cáo CPI nóng của Mỹ",
-      "summary_vi": "Bạc giảm sau dữ liệu CPI nóng của Mỹ khi đồng đô la mạnh lên. Hỗ trợ ở mức 56,50 đô la và khả năng di chuyển lên 50 đô la đang được chú trọng khi đà giảm giá hình thành.",
-      "image": "https://images.ctfassets.net/vl2kvsmutclx/6em2YsrAuszvStBn6If905/49817fc310a7a906a0080d0ce047842a/pexels-zlataky-cz-61823415-8442431.jpg",
-      "link": "https://www.cmcmarkets.com/en-ie/news-and-analysis/silver-prices-plunge-after-hot-us-cpi-report",
-      "source": "CMC Markets",
-      "category": "metal",
-      "published": "2026-10-14 20:55"
     }
   ]
 }

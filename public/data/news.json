@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 07:01",
+  "updated_at": "2026-10-16 07:50",
   "items": [
     {
       "id": "4v7l6r",
@@ -442,6 +442,17 @@
       "published": "2026-10-14 20:55"
     },
     {
+      "id": "fmcfy5",
+      "title": "Energy agency lowers world oil demand forecast for the year - Scranton Times-Tribune",
+      "title_vi": "Cơ quan năng lượng hạ dự báo nhu cầu dầu thế giới trong năm - Scranton Times-Tribune",
+      "summary_vi": "Diesel dự kiến ​​sẽ chiếm 25% mức giảm.",
+      "image": "https://www.thetimes-tribune.com/wp-content/uploads/2026/10/Gasoline_Prices_Colorado_9358_-1.jpg?w=2000&#038;h=1500",
+      "link": "https://www.thetimes-tribune.com/2026/10/14/iea-world-oil-forecast/",
+      "source": "Scranton Times-Tribune",
+      "category": "energy",
+      "published": "2026-10-14 20:27"
+    },
+    {
       "id": "1kdpfnu",
       "title": "Niyyah Coffee Brings a Deaf-Owned Cafe to Indianapolis",
       "title_vi": "Niyyah Coffee mang quán cà phê dành cho người điếc đến Indianapolis",
@@ -539,17 +550,6 @@
       "source": "AG INFORMATION NETWORK OF THE WEST",
       "category": "agri",
       "published": "2026-10-14 14:00"
-    },
-    {
-      "id": "m35lvz",
-      "title": "Commodity prices to hit record highs before easing through 2027",
-      "title_vi": "Giá hàng hóa đạt mức cao kỷ lục trước khi giảm nhẹ cho đến năm 2027",
-      "summary_vi": "Cuộc xung đột Iran đang ngày càng đè nặng lên người tiêu dùng toàn cầu.",
-      "image": "https://www.oxfordeconomics.com/wp-content/uploads/2024/07/Oil-field-with-engry-prices-commodities.png",
-      "link": "https://www.oxfordeconomics.com/resource/commodity-prices-to-hit-record-highs-before-easing-through-2027/",
-      "source": "Oxford Economics",
-      "category": "macro",
-      "published": "2026-10-14 11:14"
     }
   ]
 }

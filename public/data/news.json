@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-16 13:01",
+  "updated_at": "2026-10-16 14:01",
   "items": [
+    {
+      "id": "1x9brvf",
+      "title": "Global Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse",
+      "title_vi": "Tình trạng thiếu dầu nhiên liệu toàn cầu ngày càng trầm trọng khi nguồn cung ở Trung Đông và Nga sụp đổ",
+      "summary_vi": "Nguồn cung dầu nhiên liệu toàn cầu đang giảm trong khi nhu cầu nhiên liệu từ ngành vận tải biển vẫn mạnh, cho thấy nguồn cung sẽ tiếp tục giảm. Xuất khẩu dầu nhiên liệu có hàm lượng lưu huỳnh cao từ Trung Đông đang ở mức thấp hơn ít nhất 800.000 tấn một tháng so với trước đây.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-16_76cblrcdva.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-Fuel-Oil-Shortage-Deepens-as-Middle-East-and-Russia-Supplies-Collapse.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-16 14:00"
+    },
     {
       "id": "bfusfe",
       "title": "Oil Prices Head for Weekly Gain as Hormuz Attacks Rattle Markets",
@@ -101,17 +112,6 @@
       "published": "2026-10-16 03:00"
     },
     {
-      "id": "1kyntp9",
-      "title": "Ukraine Strikes Major Russian Oil Refinery",
-      "title_vi": "Ukraine tấn công nhà máy lọc dầu lớn của Nga",
-      "summary_vi": "Ukraine chỉ mất vài giờ để biến câu nói “chúng ta xong rồi” của Tổng thống Volodymyr Zelenskyy thành một vụ cháy nhà máy lọc dầu. Máy bay không người lái của Ukraine đã tấn công nhà máy lọc dầu Ryazan của Nga hôm thứ Năm, chấm dứt thời gian tạm dừng ngắn ngủi của Kyiv trong các cuộc tấn công vào cơ sở hạ tầng năng lượng của Nga sau khi ông Zelenskyy nói rằng Moscow đã phớt lờ lệnh cấm này.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-15_g0iujdtawz.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Strikes-Major-Russian-Oil-Refinery.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-16 02:30"
-    },
-    {
       "id": "shstnq",
       "title": "Producers skeptical of USDA’s higher Nebraska corn yield forecast",
       "title_vi": "Các nhà sản xuất hoài nghi về dự báo năng suất ngô Nebraska cao hơn của USDA",
@@ -154,6 +154,17 @@
       "source": "24/7 Wall St.",
       "category": "metal",
       "published": "2026-10-16 00:10"
+    },
+    {
+      "id": "14uxo7v",
+      "title": "Corn Growers Face More Price Pressure During Harvest - RFD-TV",
+      "title_vi": "Người trồng ngô phải đối mặt với áp lực giá nhiều hơn trong vụ thu hoạch - RFD-TV",
+      "summary_vi": "USDA đã tìm thấy nhiều giạ hơn trong vụ mùa năm nay khi vụ thu hoạch đang diễn ra.",
+      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/a9cb7b9/2147483647/strip/true/crop/720x404+0+1/resize/730x410!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2F24oG6MnO%2Fthumbnails%2FQAJirE3W.jpg",
+      "link": "https://www.rfdtv.com/corn-growers-face-more-price-pressure-during-harvest",
+      "source": "RFD-TV",
+      "category": "agri",
+      "published": "2026-10-16 00:08"
     },
     {
       "id": "pwf3lg",
@@ -231,6 +242,17 @@
       "source": "BeInCrypto",
       "category": "metal",
       "published": "2026-10-15 19:52"
+    },
+    {
+      "id": "fad7nw",
+      "title": "Cotton Posting Thursday AM Weakness",
+      "title_vi": "Bông Đăng Thứ Năm Sáng Điểm Yếu",
+      "summary_vi": "Hành động giá bông đã giảm 15 đến 23 điểm vào thứ Năm. Hợp đồng tương lai kết thúc phiên giao dịch giữa tuần, với các hợp đồng tăng 15 đến 21 điểm trong các tháng đầu năm và giảm 2 đến 35 điểm trong các hợp đồng trả chậm. Dầu thô đã tăng 1,03 USD/thùng trong phiên này, với chỉ số đô la Mỹ cao hơn 0,326 USD. Chương trình trồng trọt hàng tuần…",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://www.tradingview.com/news/barchart:93d97d2b5094b:0-cotton-posting-thursday-am-weakness/",
+      "source": "TradingView",
+      "category": "soft",
+      "published": "2026-10-15 19:39"
     },
     {
       "id": "124whvd",
@@ -528,28 +550,6 @@
       "source": "Global Banking & Finance Review",
       "category": "metal",
       "published": "2026-10-14 18:27"
-    },
-    {
-      "id": "xwdtcv",
-      "title": "Silver Price Forecast: China’s Solar Slowdown Threatens Demand",
-      "title_vi": "Dự báo giá bạc: Sự suy giảm năng lượng mặt trời của Trung Quốc đe dọa nhu cầu",
-      "summary_vi": "Bạc vẫn chịu áp lực gần mức 59 USD do sự suy giảm năng lượng mặt trời của Trung Quốc làm tăng thêm rủi ro về nhu cầu, trong khi việc phá vỡ dưới 55 USD có thể mở đường tới mức 50 USD.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-02-1-1.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/premium-silver-price-forecast-chinas-solar-slowdown-threatens-demand-1637931",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-10-14 17:46"
-    },
-    {
-      "id": "b5slhq",
-      "title": "Is It Too Late to Buy Mining Stocks After Copper’s Rally?",
-      "title_vi": "Có quá muộn để mua cổ phiếu khai thác sau đợt phục hồi của Copper?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://global.morningstar.com/en-gb/stocks/copper-is-booming-are-uk-miners-now-too-expensive",
-      "source": "Morningstar",
-      "category": "metal",
-      "published": "2026-10-14 17:40"
     }
   ]
 }

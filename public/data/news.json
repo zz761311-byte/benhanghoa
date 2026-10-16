@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-16 22:01",
+  "updated_at": "2026-10-16 23:01",
   "items": [
+    {
+      "id": "lhr1qx",
+      "title": "IMF Sounds Alarm Over AI’s Threat to Government Tax Bases",
+      "title_vi": "IMF đưa ra cảnh báo về mối đe dọa của AI đối với cơ sở thuế của chính phủ",
+      "summary_vi": "Người đứng đầu Quỹ Tiền tệ Quốc tế đã cảnh báo các bộ trưởng tài chính rằng việc áp dụng AI rộng rãi có thể làm xói mòn cơ sở thuế trên toàn thế giới khi thu nhập bị công nghệ siết chặt. Kristalina Georgieva, giám đốc điều hành của IMF, cho biết các chính phủ có thể chưa chuẩn bị tốt cho những tình huống này.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-16_o9p4ytqvjm.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/IMF-Sounds-Alarm-Over-AIs-Threat-to-Government-Tax-Bases.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-16 23:00"
+    },
+    {
+      "id": "g51xau",
+      "title": "German Power Supply Startups Exit Market as Wholesale Prices Soar",
+      "title_vi": "Các công ty khởi nghiệp cung cấp điện của Đức rời khỏi thị trường khi giá bán buôn tăng cao",
+      "summary_vi": "Hai nhà bán lẻ điện khởi nghiệp ở Đức gần đây đã thông báo rằng họ sẽ ngừng hoạt động do giá bán buôn tăng đột biến trong bối cảnh giá khí đốt tăng cao đang gây áp lực trở lại cho ngành và lần này áp lực còn tăng thêm bởi các kế hoạch thay đổi chính sách tái tạo. Điện tái tạo",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-16_mdt2ywnyv6.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/German-Power-Supply-Startups-Exit-Market-as-Wholesale-Prices-Soar.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-16 22:30"
+    },
     {
       "id": "7ek72e",
       "title": "Global Gas Crunch Makes Europe’s Remaining Coal Plants Profitable",
@@ -90,17 +112,6 @@
       "published": "2026-10-16 19:10"
     },
     {
-      "id": "ydwl98",
-      "title": "China’s Sufficient Gas Stocks Could Ease Winter Supply Concerns",
-      "title_vi": "Dự trữ khí đốt đầy đủ của Trung Quốc có thể giảm bớt mối lo ngại về nguồn cung trong mùa đông",
-      "summary_vi": "Các nhà phân tích trong ngành nói với Bloomberg rằng những người mua LNG Trung Quốc đã hành động sớm để xây dựng kho dự trữ khí đốt trong bối cảnh chiến tranh Iran, giúp nhà nhập khẩu LNG hàng đầu thế giới dự trữ đủ hàng tồn kho trước mùa đông. Tính đến cuối tháng 9, kho chứa khí đốt ngầm của Trung Quốc đã đầy 80%",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-16_ksviihsaea.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Sufficient-Gas-Stocks-Could-Ease-Winter-Supply-Concerns.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-16 18:30"
-    },
-    {
       "id": "14teci8",
       "title": "Howard Lutnick opposes tariff cuts as U.S.-Mexico trade talks stall",
       "title_vi": "Howard Lutnick phản đối việc cắt giảm thuế khi đàm phán thương mại Mỹ-Mexico bị đình trệ",
@@ -121,17 +132,6 @@
       "source": "CBT News",
       "category": "metal",
       "published": "2026-10-16 17:52"
-    },
-    {
-      "id": "1809fgp",
-      "title": "South Korea Turns Back to Coal as LNG Crisis Deepens",
-      "title_vi": "Hàn Quốc quay trở lại sử dụng than khi khủng hoảng LNG ngày càng trầm trọng",
-      "summary_vi": "Giá nguồn cung LNG giao ngay tăng vọt trong bối cảnh thiếu nguồn cung từ Trung Đông đã khiến Hàn Quốc phải phụ thuộc nhiều hơn vào sản xuất điện đốt than trong mùa đông tới, bất chấp cam kết chuyển hướng khỏi nhiên liệu hóa thạch. Giống như tất cả các nhà nhập khẩu châu Á khác, Hàn Quốc, nước thứ ba trên thế giới",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-16_royeuqytbs.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Turns-Back-to-Coal-as-LNG-Crisis-Deepens.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-16 17:30"
     },
     {
       "id": "yv3s6l",
@@ -253,6 +253,17 @@
       "source": "AP News",
       "category": "energy",
       "published": "2026-10-16 08:29"
+    },
+    {
+      "id": "1a53dmz",
+      "title": "Oil heads for weekly gain with focus on Middle East supply",
+      "title_vi": "Dầu hướng tới mức tăng hàng tuần nhờ tập trung vào nguồn cung Trung Đông",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/autos-transportation/oil-edges-down-investors-weigh-possible-us-sanctions-shadow-fleet-2026-10-16/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-10-16 07:57"
     },
     {
       "id": "h0i06i",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-10-15 07:00"
-    },
-    {
-      "id": "1rfh27p",
-      "title": "Grain and Livestock Markets See Risk Off Selling Tied to Inflation Concerns, Harvest",
-      "title_vi": "Thị trường ngũ cốc và chăn nuôi gặp rủi ro khi bán ra do lo ngại về lạm phát, thu hoạch",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/grain-and-livestock-futures-see-risk-selling-tied-inflation-concerns-harvest",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-10-15 06:15"
     }
   ]
 }

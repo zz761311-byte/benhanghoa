@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 05:00",
+  "updated_at": "2026-10-17 06:01",
   "items": [
     {
       "id": "e5gnit",
@@ -209,6 +209,17 @@
       "source": "CBT News",
       "category": "metal",
       "published": "2026-10-16 17:52"
+    },
+    {
+      "id": "ce04dq",
+      "title": "Sharp coffee price volatility likely to persist! Exchange inventory shortages remain unresolved despite supply glut",
+      "title_vi": "Giá cà phê biến động mạnh có khả năng kéo dài! Tình trạng thiếu hàng tồn kho trên sàn giao dịch vẫn chưa được giải quyết mặc dù nguồn cung dư thừa",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.moomoo.com/news/post/1001422446/sharp-coffee-price-volatility-likely-to-persist-exchange-inventory-shortages",
+      "source": "Moomoo",
+      "category": "soft",
+      "published": "2026-10-16 17:48"
     },
     {
       "id": "yv3s6l",
@@ -530,26 +541,15 @@
       "published": "2026-10-15 21:11"
     },
     {
-      "id": "akqpyr",
-      "title": "Silver Price Trades Near Its 2026 Low: Bargain or Value Trap?",
-      "title_vi": "Giá bạc giao dịch gần mức thấp năm 2026: Mặc cả hay bẫy giá trị?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://beincrypto.com/silver-price-lowest-close-2026-cpi/",
-      "source": "BeInCrypto",
+      "id": "b6mh06",
+      "title": "Antofagasta shares sink as 2027 copper outlook falls flat",
+      "title_vi": "Cổ phiếu Antofagasta chìm khi triển vọng đồng năm 2027 không thay đổi",
+      "summary_vi": "thợ mỏ Chile",
+      "image": "https://www.mining.com/wp-content/uploads/2026/10/los-pelambres-snowed.png",
+      "link": "https://www.mining.com/antofagasta-shares-sink-as-2027-copper-outlook-falls-flat/",
+      "source": "Mining.com",
       "category": "metal",
-      "published": "2026-10-15 19:52"
-    },
-    {
-      "id": "fad7nw",
-      "title": "Cotton Posting Thursday AM Weakness",
-      "title_vi": "Bông Đăng Thứ Năm Sáng Điểm Yếu",
-      "summary_vi": "Hành động giá bông đã giảm 15 đến 23 điểm vào thứ Năm. Hợp đồng tương lai kết thúc phiên giao dịch giữa tuần, với các hợp đồng tăng 15 đến 21 điểm trong các tháng đầu năm và giảm 2 đến 35 điểm trong các hợp đồng trả chậm. Dầu thô đã tăng 1,03 USD/thùng trong phiên này, với chỉ số đô la Mỹ cao hơn 0,326 USD. Chương trình trồng trọt hàng tuần…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://www.tradingview.com/news/barchart:93d97d2b5094b:0-cotton-posting-thursday-am-weakness/",
-      "source": "TradingView",
-      "category": "soft",
-      "published": "2026-10-15 19:39"
+      "published": "2026-10-15 20:44"
     }
   ]
 }

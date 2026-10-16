@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-17 06:01",
+  "updated_at": "2026-10-17 06:40",
   "items": [
+    {
+      "id": "166ul4g",
+      "title": "Oil prices rise as Iran, proxies lash out",
+      "title_vi": "Giá dầu tăng khi Iran và các nước ủy nhiệm tấn công",
+      "summary_vi": "Dầu, phân tích cơ bản Các cuộc tấn công vào tàu thuyền được xác nhận và lưu lượng giao thông giảm, cùng với lượng hàng tồn kho liên quan đến bão giảm mạnh đã khiến giá dầu thô tăng trong tuần này. Mức cao của WTI...",
+      "image": "https://img.ogj.com/files/base/ebm/ogj/image/website/logos/1752245958870-ogj_horizontalcolor_reg2.png?auto=format,compress&fit=fill&fill=solid&fill-color=&w=1200&h=627",
+      "link": "https://www.ogj.com/general-interest/economics-markets/article/55412601/oil-prices-rise-as-iran-proxies-lash-out",
+      "source": "Oil & Gas Journal",
+      "category": "energy",
+      "published": "2026-10-17 06:09"
+    },
     {
       "id": "e5gnit",
       "title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-15 21:11"
-    },
-    {
-      "id": "b6mh06",
-      "title": "Antofagasta shares sink as 2027 copper outlook falls flat",
-      "title_vi": "Cổ phiếu Antofagasta chìm khi triển vọng đồng năm 2027 không thay đổi",
-      "summary_vi": "thợ mỏ Chile",
-      "image": "https://www.mining.com/wp-content/uploads/2026/10/los-pelambres-snowed.png",
-      "link": "https://www.mining.com/antofagasta-shares-sink-as-2027-copper-outlook-falls-flat/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-10-15 20:44"
     }
   ]
 }

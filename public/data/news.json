@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-16 06:01",
+  "updated_at": "2026-10-16 07:01",
   "items": [
+    {
+      "id": "4v7l6r",
+      "title": "Standard Chartered: Trump&#039;s Russian Diesel Won&#039;t Add New Supply",
+      "title_vi": "Standard Chartered: Động cơ diesel Nga của Trump sẽ không bổ sung thêm nguồn cung mới",
+      "summary_vi": "Giá dầu biến động trái chiều trong phiên giao dịch hôm thứ Năm, với triển vọng Mỹ nới lỏng các hạn chế đối với dầu thô của Nga giúp giảm bớt tiêu chuẩn quốc tế trong khi các cuộc tấn công vào tàu ở Trung Đông hỗ trợ. Dầu thô Brent giao tháng 12 đã được thực hiện",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-15_23xnprz9sf.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Trumps-Russian-Diesel-Wont-Add-New-Supply.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-16 07:00"
+    },
     {
       "id": "2o8bu",
       "title": "The Diesel Crunch Will Persist Well into 2027",
@@ -110,17 +121,6 @@
       "source": "NBC News",
       "category": "energy",
       "published": "2026-10-16 01:28"
-    },
-    {
-      "id": "1e7tdb3",
-      "title": "Britain’s Biggest Business Lobby Calls for Tax Cuts and Lower Energy Bills",
-      "title_vi": "Hành lang doanh nghiệp lớn nhất nước Anh kêu gọi cắt giảm thuế và giảm hóa đơn năng lượng",
-      "summary_vi": "Nhóm vận động hành lang doanh nghiệp lớn nhất nước Anh đã kêu gọi John Healey cắt giảm thuế việc làm và hóa đơn năng lượng trong Ngân sách đầu tiên của mình, cảnh báo rằng việc tăng thuế tiếp theo có nguy cơ bóp nghẹt đầu tư và việc làm. Liên đoàn Công nghiệp Anh (CBI) đã kêu gọi Thủ tướng mang lại cho các công ty “cơ hội",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-15_ihmsppgkuf.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Britains-Biggest-Business-Lobby-Calls-for-Tax-Cuts-and-Lower-Energy-Bills.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-16 01:00"
     },
     {
       "id": "pwf3lg",
@@ -354,6 +354,17 @@
       "published": "2026-10-15 03:22"
     },
     {
+      "id": "qcl0dv",
+      "title": "Has Biofuel Demand Replaced Export Demand in U.S. Soybean Markets?",
+      "title_vi": "Nhu cầu nhiên liệu sinh học có thay thế nhu cầu xuất khẩu ở thị trường đậu nành Hoa Kỳ không?",
+      "summary_vi": "Bởi Thực tập sinh kinh tế ASA Taylor Gillit & Tiến sĩ Kinh tế trưởng ASA Scott Gerlt Trong nhiều thập kỷ, nhu cầu xuất khẩu là động lực tăng trưởng chính của Hoa Kỳ.",
+      "image": "https://soygrowers.com/wp-content/uploads/2026/10/fig-1.png",
+      "link": "https://soygrowers.com/news-releases/has-biofuel-demand-replaced-export-demand-in-u-s-soybean-markets/",
+      "source": "American Soybean Association",
+      "category": "agri",
+      "published": "2026-10-15 00:41"
+    },
+    {
       "id": "1szcmlr",
       "title": "Trump tariff threat built a US copper mountain, but the effects are fading",
       "title_vi": "Mối đe dọa thuế quan của Trump đã xây dựng một ngọn núi đồng của Mỹ, nhưng hiệu ứng đang mờ dần",
@@ -539,17 +550,6 @@
       "source": "Oxford Economics",
       "category": "macro",
       "published": "2026-10-14 11:14"
-    },
-    {
-      "id": "dl0d6y",
-      "title": "Silver Price Forecast: XAG/USD remains above $59.00 amid dovish Fed remarks",
-      "title_vi": "Dự báo giá bạc: XAG/USD vẫn ở mức trên 59,00 USD trong bối cảnh Fed ôn hòa nhận xét",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-above-5900-amid-dovish-fed-remarks-202610140333",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-10-14 10:33"
     }
   ]
 }

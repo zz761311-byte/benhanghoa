@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 08:01",
+  "updated_at": "2026-10-16 09:01",
   "items": [
     {
       "id": "4v7l6r",
@@ -121,6 +121,17 @@
       "source": "NBC News",
       "category": "energy",
       "published": "2026-10-16 01:28"
+    },
+    {
+      "id": "170pb70",
+      "title": "Coffee Prices Slide on Optimism Over Global Coffee Crops",
+      "title_vi": "Giá cà phê trượt dốc do sự lạc quan về cây cà phê toàn cầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barchart.com/story/news/7939289/coffee-prices-slide-on-optimism-over-global-coffee-crops",
+      "source": "Barchart.com",
+      "category": "soft",
+      "published": "2026-10-16 01:24"
     },
     {
       "id": "pwf3lg",
@@ -539,17 +550,6 @@
       "source": "Pennsylvania Capital-Star",
       "category": "energy",
       "published": "2026-10-14 14:47"
-    },
-    {
-      "id": "1eullr0",
-      "title": "Florida Hurricane Aid Available and Corn Forecast Higher",
-      "title_vi": "Viện trợ bão Florida có sẵn và dự báo ngô cao hơn",
-      "summary_vi": "Ủy viên Cơ quan Nông nghiệp Florida, Wilton Simpson, đã thông báo rằng <p>Nông dân và chủ trang trại ở Florida bị ảnh hưởng bởi Bão Isaias có thể đăng ký các khoản vay không lãi suất và USDA đã nâng dự báo sản lượng ngô, dự báo nguồn cung lớn hơn dự đoán trong Báo cáo WASDE tháng 10.",
-      "image": "https://www.aginfo.net/Assets/ProgramImages/program_5d7762e6eac46602655257_1920_1080.jpg",
-      "link": "https://www.aginfo.net/report/66435/The-Agribusiness-Update/Florida-Hurricane-Aid-Available-and-Corn-Forecast-Higher",
-      "source": "AG INFORMATION NETWORK OF THE WEST",
-      "category": "agri",
-      "published": "2026-10-14 14:00"
     }
   ]
 }

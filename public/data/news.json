@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 09:00",
+  "updated_at": "2026-10-17 10:00",
   "items": [
     {
       "id": "166ul4g",
@@ -79,15 +79,15 @@
       "published": "2026-10-17 01:27"
     },
     {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!HY-o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F098967c0-94d9-494e-b37b-1d8508627240_1500x1000.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "id": "ddi0i8",
+      "title": "FLIPR 2026 Senate forecast",
+      "title_vi": "Dự báo Thượng viện FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mỗi cuộc bầu cử Thượng viện vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!AKN4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc39f220e-89ec-444d-9e5b-0b5d142c79cd_1400x1000.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
       "source": "Silver Bulletin",
       "category": "macro",
-      "published": "2026-10-17 01:22"
+      "published": "2026-10-17 01:26"
     },
     {
       "id": "1a11b1w",
@@ -519,6 +519,17 @@
       "published": "2026-10-16 00:08"
     },
     {
+      "id": "fqo5yw",
+      "title": "Corn, Soybeans See More Fund Selling and Harvest Pressure: Livestock Try to Bounce",
+      "title_vi": "Ngô, Đậu nành Xem thêm Áp lực bán quỹ và thu hoạch: Chăn nuôi cố gắng phục hồi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/corn-soybeans-see-more-fund-selling-and-harvest-pressure-livestock-try-bo",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-10-15 23:01"
+    },
+    {
       "id": "8j5ji",
       "title": "Three Questions with Esther Singer of Segara Coffee",
       "title_vi": "Ba câu hỏi với ca sĩ Esther của Segara Coffee",
@@ -539,17 +550,6 @@
       "source": "Middle East Council on Global Affairs",
       "category": "macro",
       "published": "2026-10-15 21:59"
-    },
-    {
-      "id": "m59f2a",
-      "title": "Pastime Coffee Goes All In at New Portland Production Roastery",
-      "title_vi": "Cà phê Pastime phát huy tác dụng tại New Portland Production Roastery",
-      "summary_vi": "Cà phê Pastime có trụ sở tại Portland, Oregon đang hướng toàn bộ vào hoạt động sản xuất chuyên nghiệp với việc khai trương một cơ sở rang xay mới rộng 1.000 foot vuông tại một cửa hàng hoa cũ ở Đông Bắc Portland.  Tại trung tâm của...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/10/15/pastime-coffee-goes-all-in-at-new-portland-production-roastery/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-10-15 21:11"
     }
   ]
 }

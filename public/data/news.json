@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 15:01",
+  "updated_at": "2026-10-17 16:01",
   "items": [
     {
       "id": "jti9dm",
@@ -187,6 +187,17 @@
       "source": "Daily Coffee News",
       "category": "metal",
       "published": "2026-10-16 21:57"
+    },
+    {
+      "id": "w6o3p9",
+      "title": "Silver: Rise Of The Registered COMEX Stockpile (NYSEARCA:SLV)",
+      "title_vi": "Bạc: Sự trỗi dậy của kho dự trữ COMEX đã đăng ký (NYSEARCA:SLV)",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://seekingalpha.com/article/4954757-silver-rise-of-registered-comex-stockpile",
+      "source": "Seeking Alpha",
+      "category": "metal",
+      "published": "2026-10-16 20:26"
     },
     {
       "id": "1isdaf6",
@@ -539,17 +550,6 @@
       "source": "RFD-TV",
       "category": "agri",
       "published": "2026-10-16 00:08"
-    },
-    {
-      "id": "fqo5yw",
-      "title": "Corn, Soybeans See More Fund Selling and Harvest Pressure: Livestock Try to Bounce",
-      "title_vi": "Ngô, Đậu nành Xem thêm Áp lực bán quỹ và thu hoạch: Chăn nuôi cố gắng phục hồi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/corn-soybeans-see-more-fund-selling-and-harvest-pressure-livestock-try-bo",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-10-15 23:01"
     }
   ]
 }

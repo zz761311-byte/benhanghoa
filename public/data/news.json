@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 13:01",
+  "updated_at": "2026-10-17 13:15",
   "items": [
     {
       "id": "pwf3lg",
@@ -231,6 +231,17 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-10-16 18:12"
+    },
+    {
+      "id": "60ykw1",
+      "title": "October outlook: what 1A bought, two key hires and coffee with commissioners",
+      "title_vi": "Triển vọng tháng 10: những gì 1A đã mua, hai nhân viên chủ chốt và cà phê với các ủy viên",
+      "summary_vi": "Trong tháng này, các ủy viên Quận La Plata sẽ đề cập đến một số vấn đề quan trọng định hình tương lai chung của chúng ta. Đầu tiên, đó là mùa ngân sách. Bất kì",
+      "image": "https://imengine.public.prod.dur.navigacloud.com/?uuid=56866711-A220-50E4-BDA1-B9201DD64C31&function=cover&type=preview&source=false&width=1280&height=853",
+      "link": "https://www.durangoherald.com/articles/columnists/october-outlook-what-1a-bought-two-key-hires-and-coffee-with-commissioners/",
+      "source": "Durango Herald",
+      "category": "soft",
+      "published": "2026-10-16 18:00"
     },
     {
       "id": "1w3gxft",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-15 22:50"
-    },
-    {
-      "id": "jxe7y7",
-      "title": "What Future for the US Dollar in the Gulf?",
-      "title_vi": "Tương lai nào cho đồng đô la Mỹ ở vùng Vịnh?",
-      "summary_vi": "Việc neo giá đồng đô la của GCC phải đối mặt với áp lực kinh tế và địa chính trị ngày càng tăng. Bài viết này xem xét các lựa chọn thay thế tiền tệ và đề xuất một phản ứng chính sách phối hợp. Sao chép",
-      "image": "https://mecouncil.org/wp-content/uploads/2026/10/Cover-for-YOAST-5365.jpg",
-      "link": "https://mecouncil.org/publication/what-future-for-the-us-dollar-in-the-gulf/",
-      "source": "Middle East Council on Global Affairs",
-      "category": "macro",
-      "published": "2026-10-15 21:59"
     }
   ]
 }

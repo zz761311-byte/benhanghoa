@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-17 13:15",
+  "updated_at": "2026-10-17 14:01",
   "items": [
+    {
+      "id": "jti9dm",
+      "title": "Canadian wheat outlook improves as harvest advances, quality fears ease",
+      "title_vi": "Triển vọng lúa mì Canada cải thiện khi thu hoạch tiến triển, lo ngại về chất lượng giảm bớt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/101626-canadian-wheat-outlook-improves-as-harvest-advances-quality-fears-ease",
+      "source": "S&P Global",
+      "category": "agri",
+      "published": "2026-10-17 12:32"
+    },
     {
       "id": "pwf3lg",
       "title": "FLIPR 2026 midterm election forecast",
@@ -539,17 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-10-15 23:01"
-    },
-    {
-      "id": "8j5ji",
-      "title": "Three Questions with Esther Singer of Segara Coffee",
-      "title_vi": "Ba câu hỏi với ca sĩ Esther của Segara Coffee",
-      "summary_vi": "Đối với Esther Singer, sự nghiệp cà phê phát triển từ một động lực khoa học cổ điển: Bắt đầu tìm hiểu và xem điều gì sẽ xảy ra. Nhà khoa học người Đức gốc Indonesia-California đã dành hơn một thập kỷ để nghiên cứu...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/10/15/three-questions-with-esther-singer-of-segara-coffee/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-10-15 22:50"
     }
   ]
 }

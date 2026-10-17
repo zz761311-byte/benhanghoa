@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 07:00",
+  "updated_at": "2026-10-17 08:00",
   "items": [
     {
       "id": "166ul4g",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-17 01:30"
+    },
+    {
+      "id": "1g6p4cx",
+      "title": "FLIPR 2026 Governors forecast",
+      "title_vi": "Dự báo của Thống đốc FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mỗi cuộc bầu cử thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!wXNC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7571df41-26dc-4747-ae50-6704a42db63b_1400x1000.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-governors-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-17 01:27"
     },
     {
       "id": "1a11b1w",
@@ -495,17 +506,6 @@
       "source": "RFD-TV",
       "category": "agri",
       "published": "2026-10-16 00:08"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!HY-o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F098967c0-94d9-494e-b37b-1d8508627240_1500x1000.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-10-15 23:19"
     },
     {
       "id": "ddi0i8",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 00:17",
+  "updated_at": "2026-10-18 01:01",
   "items": [
     {
       "id": "15nt255",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-17 05:00"
+    },
+    {
+      "id": "yfszqs",
+      "title": "Gold, silver diverge as Fed-pause expectations collide with rising crude prices - Kitco PM Report",
+      "title_vi": "Vàng, bạc phân kỳ khi kỳ vọng Fed tạm dừng va chạm với giá dầu thô tăng - Báo cáo của Kitco PM",
+      "summary_vi": "(Kitco NewsWire) - Giá vàng giao ngay gần ổn định và giá bạc giao ngay thấp hơn vào cuối phiên giao dịch tại Mỹ hôm thứ Sáu, do giá dầu thô tăng mạnh và lãi suất trái phiếu kho bạc phục hồi khiêm tốn bù đắp cho sự hỗ trợ từ đồng đô la Mỹ yếu hơn và nhu cầu trú ẩn an toàn mới. Vàng đã không duy trì được mức tăng trước đó lên tới 4.200 USD",
+      "image": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0&left=0.34758995247798&width=1023.304820095&height=576&scale_width=1920&token=028891d21b35d636c49368768875b5c2ee19f0c070999de74071d8e3b47c8cfd",
+      "link": "https://www.kitco.com/news/article/2026-10-16/gold-silver-diverge-fed-pause-expectations-collide-rising-crude-prices",
+      "source": "Kitco",
+      "category": "macro",
+      "published": "2026-10-17 04:21"
     },
     {
       "id": "1ypcoh3",
@@ -539,17 +550,6 @@
       "source": "KSNV",
       "category": "energy",
       "published": "2026-10-16 03:40"
-    },
-    {
-      "id": "shstnq",
-      "title": "Producers skeptical of USDA’s higher Nebraska corn yield forecast",
-      "title_vi": "Các nhà sản xuất hoài nghi về dự báo năng suất ngô Nebraska cao hơn của USDA",
-      "summary_vi": "Một số nông dân ở Nebraska cho biết họ không tin rằng USDA đã tăng mạnh sản lượng ngô dự kiến ​​của bang trong báo cáo cung cầu mới nhất. “Vẫn còn hơi sốc.” Nhà sản xuất Logan Bredemeier của Falls City cho biết ông không hiểu tại sao cơ quan này lại trồng ngô để đạt năng suất 11 giạ/mẫu Anh trong một tháng. “Một số người đã chọn",
-      "image": "https://brownfieldagnews.com/wp-content/uploads/2026/09/MO-Corn-Harvest_Sept2023_4-768x1024.jpg",
-      "link": "https://brownfieldagnews.com/news/producers-skeptical-of-usdas-higher-nebraska-corn-yield-forecast/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-10-16 01:33"
     }
   ]
 }

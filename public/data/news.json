@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 22:01",
+  "updated_at": "2026-10-17 23:01",
   "items": [
     {
       "id": "1ihyr1r",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-17 22:00"
+    },
+    {
+      "id": "1qtaieu",
+      "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
+      "title_vi": "Trump nới lỏng lệnh trừng phạt dầu mỏ Nga, nhưng châu Âu vẫn mua khí đốt của Moscow?",
+      "summary_vi": "Các nhà phân tích cho rằng Nga sẽ được hưởng lợi nhiều nhất từ ​​việc Mỹ miễn trừ lệnh trừng phạt.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26152358239961-1792235916.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-10-17 18:16"
     },
     {
       "id": "jti9dm",
@@ -539,17 +550,6 @@
       "source": "Robinhood",
       "category": "metal",
       "published": "2026-10-16 01:08"
-    },
-    {
-      "id": "1gqwkus",
-      "title": "Gold Lost $100 an Ounce in Hours After the Inflation Report",
-      "title_vi": "Vàng mất 100 USD/ounce trong vài giờ sau báo cáo lạm phát",
-      "summary_vi": "Vàng được cho là sẽ tăng giá khi lạm phát tăng nóng, nhưng vào ngày một báo cáo CPI bất ngờ làm rung chuyển thị trường, thay vào đó, kim loại này lại sụt giảm. Lý do bắt nguồn từ một con số duy nhất mà Cục Dự trữ Liên bang đang theo dõi rất chặt chẽ.",
-      "image": "https://247wallst.com/wp-content/uploads/2026/10/shutterstock_2742564777-scaled.jpg",
-      "link": "https://247wallst.com/investing/2026/10/15/gold-lost-100-an-ounce-in-hours-after-the-inflation-report/",
-      "source": "24/7 Wall St.",
-      "category": "metal",
-      "published": "2026-10-16 00:10"
     }
   ]
 }

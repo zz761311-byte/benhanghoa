@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 14:01",
+  "updated_at": "2026-10-18 15:01",
   "items": [
     {
       "id": "1rfjcb2",
@@ -46,6 +46,17 @@
       "published": "2026-10-18 00:00"
     },
     {
+      "id": "ddi0i8",
+      "title": "FLIPR 2026 Senate forecast",
+      "title_vi": "Dự báo Thượng viện FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mỗi cuộc bầu cử Thượng viện vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!AKN4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc39f220e-89ec-444d-9e5b-0b5d142c79cd_1400x1000.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-17 23:26"
+    },
+    {
       "id": "1g6p4cx",
       "title": "FLIPR 2026 Governors forecast",
       "title_vi": "Dự báo của Thống đốc FLIPR 2026",
@@ -77,6 +88,17 @@
       "source": "Al Jazeera",
       "category": "energy",
       "published": "2026-10-17 18:16"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-17 13:58"
     },
     {
       "id": "e83xw1",
@@ -528,28 +550,6 @@
       "source": "Proactive financial news",
       "category": "metal",
       "published": "2026-10-16 08:34"
-    },
-    {
-      "id": "1spjqnr",
-      "title": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump",
-      "title_vi": "Ukraine từ bỏ thỏa thuận ngừng bắn và tấn công nhà máy lọc dầu của Nga khi Zelenskyy nói rằng ông cảm thấy bị Trump phản bội",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://apnews.com/article/russia-ukraine-war-oil-refinery-attacks-resume-0071b4f3792c9912b977b0ee73505b18",
-      "source": "AP News",
-      "category": "energy",
-      "published": "2026-10-16 08:29"
-    },
-    {
-      "id": "1a53dmz",
-      "title": "Oil heads for weekly gain with focus on Middle East supply",
-      "title_vi": "Dầu hướng tới mức tăng hàng tuần nhờ tập trung vào nguồn cung Trung Đông",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/autos-transportation/oil-edges-down-investors-weigh-possible-us-sanctions-shadow-fleet-2026-10-16/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-10-16 07:57"
     }
   ]
 }

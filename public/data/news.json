@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-19 05:01",
+  "updated_at": "2026-10-19 06:01",
   "items": [
+    {
+      "id": "gm7fqj",
+      "title": "Record Shipping Costs Force Oil Producers to Slash Prices",
+      "title_vi": "Chi phí vận chuyển kỷ lục buộc các nhà sản xuất dầu phải giảm giá",
+      "summary_vi": "Vận tải hàng hóa đang định hình lại thương mại dầu mỏ toàn cầu và mức giá mà các nhà sản xuất có thể đưa ra cho dầu thô của họ. Chi phí vận chuyển tăng vọt đang đẩy giá giao vượt quá mức mà các nhà tinh chế sẵn sàng trả, buộc người bán phải cắt giảm chênh lệch hoặc tìm người mua gần nhà hơn. Với xu hướng của các nhà máy lọc dầu Trung Quốc",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-18_2rjrlwsvz3.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Record-Shipping-Costs-Force-Oil-Producers-to-Slash-Prices.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-19 06:00"
+    },
     {
       "id": "u8c5ot",
       "title": "Trump says he's \"negotiating Peace\" as Ukraine launches 1,000 drones at Russia amid continued back-and-forth strikes",
@@ -55,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-19 00:00"
+    },
+    {
+      "id": "ddi0i8",
+      "title": "FLIPR 2026 Senate forecast",
+      "title_vi": "Dự báo Thượng viện FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mỗi cuộc bầu cử Thượng viện vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!AKN4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc39f220e-89ec-444d-9e5b-0b5d142c79cd_1400x1000.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-18 23:26"
     },
     {
       "id": "qda01m",
@@ -231,17 +253,6 @@
       "source": "Oil & Gas Journal",
       "category": "energy",
       "published": "2026-10-17 06:09"
-    },
-    {
-      "id": "e5gnit",
-      "title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
-      "title_vi": "Rystad cho biết sự phụ thuộc vào nhập khẩu năng lượng toàn cầu sẽ đạt mức cao nhất vào năm 2034",
-      "summary_vi": "Ấn bản thứ năm của báo cáo thường niên hàng đầu của Rystad Energy, Kịch bản Năng lượng Toàn cầu (GES) 2026, cho thấy sự phụ thuộc toàn cầu vào năng lượng nhập khẩu được dự đoán sẽ đạt đỉnh điểm vào năm 2034 khi những lo ngại về an ninh năng lượng đẩy nhanh quá trình chuyển đổi sang điện khí hóa. Trong bối cảnh của hai chính",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-16_scrtuhpljm.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Global-Energy-Import-Dependence-Set-to-Peak-by-2034-Rystad-Says.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-17 05:00"
     },
     {
       "id": "k8bdpx",
@@ -539,17 +550,6 @@
       "source": "24/7 Wall St.",
       "category": "soft",
       "published": "2026-10-16 15:03"
-    },
-    {
-      "id": "15almct",
-      "title": "China’s declining soyabean demand set to impact US shipments after…",
-      "title_vi": "Nhu cầu đậu nành giảm của Trung Quốc có thể ảnh hưởng đến xuất khẩu của Mỹ sau…",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.ofimagazine.com/news/chinas-declining-soyabean-demand-set-to-impact-us-shipments-after-beijing-excludes-the-commodity-from-tariff-cuts-on-american-agricultural-goods",
-      "source": "Oils & Fats International",
-      "category": "macro",
-      "published": "2026-10-16 14:35"
     }
   ]
 }

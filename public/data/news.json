@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 15:01",
+  "updated_at": "2026-10-18 16:01",
   "items": [
     {
       "id": "1rfjcb2",
@@ -53,17 +53,6 @@
       "image": "https://substackcdn.com/image/fetch/$s_!AKN4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc39f220e-89ec-444d-9e5b-0b5d142c79cd_1400x1000.png",
       "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
       "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-10-17 23:26"
-    },
-    {
-      "id": "1g6p4cx",
-      "title": "FLIPR 2026 Governors forecast",
-      "title_vi": "Dự báo của Thống đốc FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mỗi cuộc bầu cử thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!wXNC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7571df41-26dc-4747-ae50-6704a42db63b_1400x1000.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-governors-model",
-      "source": "Silver Bulletin",
       "category": "metal",
       "published": "2026-10-17 23:26"
     },
@@ -88,6 +77,17 @@
       "source": "Al Jazeera",
       "category": "energy",
       "published": "2026-10-17 18:16"
+    },
+    {
+      "id": "8vuo3s",
+      "title": "US Natgas Falls 4% to 8-Week Low on Milder Weather Outlook, Lower LNG Export Flows",
+      "title_vi": "Natgas của Mỹ giảm 4% xuống mức thấp nhất trong 8 tuần do thời tiết ôn hòa hơn, lưu lượng xuất khẩu LNG thấp hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/us-natgas-falls-4-to-8-week-low-on-milder-weather-outlook-lower-lng-export-flows/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-17 14:07"
     },
     {
       "id": "1lrkwix",

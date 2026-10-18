@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 18:01",
+  "updated_at": "2026-10-18 18:46",
   "items": [
     {
       "id": "1rfjcb2",
@@ -154,6 +154,17 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-10-17 04:29"
+    },
+    {
+      "id": "1nhpu61",
+      "title": "Why silver is falling faster than gold: What it means for the next surge",
+      "title_vi": "Tại sao bạc giảm nhanh hơn vàng: Điều đó có ý nghĩa gì đối với đợt tăng giá tiếp theo",
+      "summary_vi": ".embed-container { vị trí: tương đối; phần đệm đáy: 56,25%; chiều cao: 0; tràn: ẩn; chiều rộng tối đa: 100%; } .embed-container iframe, đối tượng .embed-container, .embed-container embed { vị trí: tuyệt đối; trên cùng: 0; trái: 0; chiều rộng: 100%; chiều cao: 100%; }Trong bài trình bày này, Jeffrey Christian của CPM Group thảo luận về cách thức",
+      "image": "https://image-api.prod.kitco.com/image/23111e24-0c6b-4f1b-a1cc-c8d82ed5f8b2.webp?top=0&left=0.43448744059747&width=1279.1310251188&height=720&scale_width=1920&token=ee520a69efa5e2806bdf81f16d535b34b3e7e2e9a1dd16a13c1fa6af761403e6",
+      "link": "https://www.kitco.com/opinion/2026-10-16/why-silver-falling-faster-gold-what-it-means-next-surge",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-10-17 04:25"
     },
     {
       "id": "yfszqs",
@@ -528,17 +539,6 @@
       "source": "S&P Global",
       "category": "soft",
       "published": "2026-10-16 12:26"
-    },
-    {
-      "id": "uyn7yn",
-      "title": "Gold edges up as dollar slips, Fed outlook in focus",
-      "title_vi": "Vàng tăng khi đồng đô la trượt dốc, tập trung vào triển vọng của Fed",
-      "summary_vi": "Vàng tăng giá vào thứ Sáu do đồng đô la yếu hơn hỗ trợ cho vay, trong khi những người tham gia thị trường tập trung vào quỹ đạo chính sách tương lai của Cục Dự trữ Liên bang Hoa Kỳ.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108134746-1745330034533-gettyimages-2210132918-AUSTRALIA_GOLD.jpeg?v=1792126904&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/10/16/gold-gains-on-softer-dollar-but-heads-for-weekly-fall.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-10-16 12:11"
     },
     {
       "id": "19fgrwn",

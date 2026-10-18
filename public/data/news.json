@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 13:38",
+  "updated_at": "2026-10-18 14:01",
   "items": [
     {
       "id": "1rfjcb2",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-18 06:00"
+    },
+    {
+      "id": "1p2pybi",
+      "title": "4 Charts That Explain the Copper Supply Crunch Investors Should Watch",
+      "title_vi": "4 biểu đồ giải thích cuộc khủng hoảng nguồn cung đồng mà các nhà đầu tư nên theo dõi",
+      "summary_vi": "Nhu cầu ngày càng tăng từ các trung tâm dữ liệu AI, xe điện, năng lượng tái tạo và điện khí hóa được cho là cơ sở để mua đồng và cổ phiếu đồng trong tương lai.",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889070%2Fcopper-wire-factory-production-machinery-1200x798-36b7a2e.jpg&w=1200&op=resize",
+      "link": "https://www.fool.com/investing/2026/10/17/4-charts-that-explain-the-copper-supply-crunch-inv/",
+      "source": "The Motley Fool",
+      "category": "metal",
+      "published": "2026-10-18 04:05"
     },
     {
       "id": "1mbguia",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-10-16 07:57"
-    },
-    {
-      "id": "h0i06i",
-      "title": "Progress toward a US-Mexico tariff deal has stalled, WSJ reports",
-      "title_vi": "WSJ đưa tin tiến trình hướng tới thỏa thuận thuế quan Mỹ-Mexico đã bị đình trệ",
-      "summary_vi": "Ngày 15 tháng 10 (Reuters) - Tiến trình hướng tới một thỏa thuận thuế quan Mỹ-Mexico đã bị đình trệ sau sự phản đối của Bộ trưởng Thương mại Howard ​Lutnick, Wall Street Journal ‌đưa tin hôm thứ Năm, trích dẫn những người quen thuộc với các cuộc đàm phán. Mỹ và Mexico đã đóng cửa trong...",
-      "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-10/16/2026-10-16T001127Z_1_LYNXMPEM9F008_RTROPTP_3_USA-TRUMP-TARIFFS-MEXICO.JPG",
-      "link": "https://kfgo.com/2026/10/15/progress-toward-a-us-mexico-tariff-deal-has-stalled-wsj-reports/",
-      "source": "The Mighty 790 KFGO",
-      "category": "macro",
-      "published": "2026-10-16 07:31"
     }
   ]
 }

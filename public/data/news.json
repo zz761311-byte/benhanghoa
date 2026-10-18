@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-18 21:52",
+  "updated_at": "2026-10-18 22:01",
   "items": [
+    {
+      "id": "qda01m",
+      "title": "Electric Supercars Are Getting Faster, Smarter, and Harder to Ignore",
+      "title_vi": "Siêu xe điện ngày càng nhanh hơn, thông minh hơn và khó bỏ qua hơn",
+      "summary_vi": "Doanh số bán xe điện (EV) và xe hybrid tiếp tục tăng, đặc biệt ở các khu vực như Châu Âu và Châu Á, khi mọi người chuyển từ sử dụng xe động cơ đốt trong (ICE) sang các phương tiện thay thế sạch hơn. Tuy nhiên, từ lâu đã có sự kỳ thị đối với xe điện và xe điện cao cấp.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-15_eajin1egvc.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Electric-Supercars-Are-Getting-Faster-Smarter-and-Harder-to-Ignore.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-18 22:00"
+    },
     {
       "id": "yqr8za",
       "title": "Ukraine Strikes Russian Oil Terminal, as Starshield Disruptions Persist",
@@ -288,17 +299,6 @@
       "published": "2026-10-17 00:51"
     },
     {
-      "id": "1ekiqqb",
-      "title": "U.S. Oil Drillers Back Off Even As Prices Soar",
-      "title_vi": "Các công ty khoan dầu của Mỹ rút lui ngay cả khi giá tăng cao",
-      "summary_vi": "Theo dữ liệu mới mà Baker Hughes công bố hôm thứ Sáu, tổng số giàn khoan đang hoạt động ở Mỹ không thay đổi trong tuần này, với tổng số giàn khoan ở Mỹ ở mức 603, tăng 55 so với cùng thời điểm này năm ngoái. Số lượng oi đang hoạt động",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Back-Off-Even-As-Prices-Soar.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-17 00:29"
-    },
-    {
       "id": "11mkgms",
       "title": "NOAA’s New Winter Outlook Tests Northeast Natural Gas Price Premiums",
       "title_vi": "Triển vọng mùa đông mới của NOAA kiểm tra mức tăng giá khí đốt tự nhiên ở vùng Đông Bắc",
@@ -530,6 +530,17 @@
       "published": "2026-10-16 13:18"
     },
     {
+      "id": "1amzjoy",
+      "title": "Thai raw sugar prices hit 22-month high amid Brazil supply concerns",
+      "title_vi": "Giá đường thô Thái Lan đạt mức cao nhất 22 tháng do lo ngại nguồn cung từ Brazil",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/101626-thai-raw-sugar-prices-hit-22-month-high-amid-brazil-supply-concerns",
+      "source": "S&P Global",
+      "category": "soft",
+      "published": "2026-10-16 12:50"
+    },
+    {
       "id": "1o3r6bu",
       "title": "Copper demand to double by 2035 as mining struggles to keep pace: Teck CEO",
       "title_vi": "Nhu cầu đồng sẽ tăng gấp đôi vào năm 2035 do việc khai thác gặp khó khăn để theo kịp: CEO Teck",
@@ -539,17 +550,6 @@
       "source": "S&P Global",
       "category": "metal",
       "published": "2026-10-16 12:50"
-    },
-    {
-      "id": "12ceotu",
-      "title": "Glencore earns UBS Buy rating as copper growth strengthens outlook",
-      "title_vi": "Glencore được UBS xếp hạng Mua khi tăng trưởng đồng củng cố triển vọng",
-      "summary_vi": "UBS đã bắt đầu đưa tin về danh sách mới của Glencore PLC (LSE:GLEN, ASX:GLC) tại Úc với xếp hạng Mua và mục tiêu giá 13,40 đô la Úc, ngụ ý khoảng 19%...",
-      "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzEwXC8yMDIzLTA5LTE0LTA5LTAyLTM2LWE3N2E5MmZjZTFhZjMzZWEzMzg4YWFlZDdmYjQzMjM0XzZhZDE3NWE4MmM0OWQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
-      "link": "https://www.proactiveinvestors.com/companies/news/1100204/glencore-earns-ubs-buy-rating-as-copper-growth-strengthens-outlook-1100204.html",
-      "source": "Proactive financial news",
-      "category": "metal",
-      "published": "2026-10-16 08:34"
     }
   ]
 }

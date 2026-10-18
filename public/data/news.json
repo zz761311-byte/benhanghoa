@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 12:01",
+  "updated_at": "2026-10-18 13:01",
   "items": [
     {
       "id": "1rfjcb2",
@@ -42,17 +42,6 @@
       "image": "https://substackcdn.com/image/fetch/$s_!wXNC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7571df41-26dc-4747-ae50-6704a42db63b_1400x1000.png",
       "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-governors-model",
       "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-10-17 23:26"
-    },
-    {
-      "id": "ddi0i8",
-      "title": "FLIPR 2026 Senate forecast",
-      "title_vi": "Dự báo Thượng viện FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mỗi cuộc bầu cử Thượng viện vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!AKN4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc39f220e-89ec-444d-9e5b-0b5d142c79cd_1400x1000.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
-      "source": "Silver Bulletin",
       "category": "metal",
       "published": "2026-10-17 23:26"
     },
@@ -77,6 +66,17 @@
       "source": "Al Jazeera",
       "category": "energy",
       "published": "2026-10-17 18:16"
+    },
+    {
+      "id": "e83xw1",
+      "title": "US Natural Gas Output, Demand to Hit Record Highs in 2026, EIA Says",
+      "title_vi": "EIA cho biết sản lượng khí đốt tự nhiên của Hoa Kỳ sẽ đạt mức cao kỷ lục vào năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/08/us-natural-gas-output-demand-to-hit-record-highs-in-2026-eia-says/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-17 13:54"
     },
     {
       "id": "jti9dm",
@@ -132,6 +132,17 @@
       "source": "Kitco",
       "category": "macro",
       "published": "2026-10-17 04:21"
+    },
+    {
+      "id": "1sw6jkq",
+      "title": "Soybean Demand Helps Market Absorb Record Yield Forecast - RFD-TV",
+      "title_vi": "Nhu cầu đậu nành giúp thị trường hấp thụ dự báo năng suất kỷ lục - RFD-TV",
+      "summary_vi": "Nhu cầu xuất khẩu và nghiền mạnh hơn có thể giúp bù đắp áp lực từ dự báo sản lượng kỷ lục của USDA.",
+      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/e6ecab3/2147483647/strip/true/crop/720x404+0+1/resize/730x410!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2F0byPcflx%2Fthumbnails%2FAivsTpSD.jpg",
+      "link": "https://www.rfdtv.com/soybean-demand-helps-market-absorb-record-yield-forecast",
+      "source": "RFD-TV",
+      "category": "agri",
+      "published": "2026-10-17 03:18"
     },
     {
       "id": "1ypcoh3",
@@ -539,17 +550,6 @@
       "source": "The Mighty 790 KFGO",
       "category": "macro",
       "published": "2026-10-16 07:31"
-    },
-    {
-      "id": "vu8lry",
-      "title": "Pittsburgh Coffee Week",
-      "title_vi": "Tuần lễ cà phê Pittsburgh",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.cbsnews.com/pittsburgh/video/pittsburgh-coffee-week/",
-      "source": "CBS News",
-      "category": "soft",
-      "published": "2026-10-16 06:32"
     }
   ]
 }

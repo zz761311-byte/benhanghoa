@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 11:01",
+  "updated_at": "2026-10-18 12:01",
   "items": [
     {
       "id": "1rfjcb2",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-18 00:00"
+    },
+    {
+      "id": "1g6p4cx",
+      "title": "FLIPR 2026 Governors forecast",
+      "title_vi": "Dự báo của Thống đốc FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mỗi cuộc bầu cử thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!wXNC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7571df41-26dc-4747-ae50-6704a42db63b_1400x1000.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-governors-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-17 23:26"
     },
     {
       "id": "ddi0i8",
@@ -539,17 +550,6 @@
       "source": "CBS News",
       "category": "soft",
       "published": "2026-10-16 06:32"
-    },
-    {
-      "id": "uc5oab",
-      "title": "Trump’s ‘Diesel Deal’ With Russia Was Just the Start",
-      "title_vi": "'Thỏa thuận diesel' của Trump với Nga chỉ là bước khởi đầu",
-      "summary_vi": "Thỏa thuận mua dầu diesel từ Nga có thể đánh dấu sự thay đổi nguy hiểm trong cách nhìn của Tổng thống Mỹ về cuộc xung đột với Ukraine.",
-      "image": "https://assets.cfr.org/images/t_og_image_landscape/v1792100823/2026-10-15T170618Z_384031649_RC2S3OAGCLM4_RTRMADP_3_USA-TRUMP/2026-10-15T170618Z_384031649_RC2S3OAGCLM4_RTRMADP_3_USA-TRUMP.jpg",
-      "link": "https://www.cfr.org/articles/trumps-diesel-deal-with-russia-was-just-the-start",
-      "source": "Council on Foreign Relations",
-      "category": "energy",
-      "published": "2026-10-16 05:35"
     }
   ]
 }

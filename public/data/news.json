@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 08:34",
+  "updated_at": "2026-10-18 09:01",
   "items": [
     {
       "id": "1rfjcb2",
@@ -35,6 +35,17 @@
       "published": "2026-10-18 00:00"
     },
     {
+      "id": "ddi0i8",
+      "title": "FLIPR 2026 Senate forecast",
+      "title_vi": "Dự báo Thượng viện FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mỗi cuộc bầu cử Thượng viện vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!AKN4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc39f220e-89ec-444d-9e5b-0b5d142c79cd_1400x1000.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-17 23:26"
+    },
+    {
       "id": "1qtaieu",
       "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
       "title_vi": "Trump nới lỏng lệnh trừng phạt dầu mỏ Nga, nhưng châu Âu vẫn mua khí đốt của Moscow?",
@@ -55,17 +66,6 @@
       "source": "S&P Global",
       "category": "agri",
       "published": "2026-10-17 12:32"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!HY-o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F098967c0-94d9-494e-b37b-1d8508627240_1500x1000.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-10-17 07:17"
     },
     {
       "id": "166ul4g",

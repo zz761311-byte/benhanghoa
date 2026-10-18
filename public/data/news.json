@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 21:01",
+  "updated_at": "2026-10-18 21:52",
   "items": [
     {
       "id": "yqr8za",
@@ -63,17 +63,6 @@
       "summary_vi": "Dự đoán của Silver Bulletin cho mỗi cuộc bầu cử thống đốc vào năm 2026.",
       "image": "https://substackcdn.com/image/fetch/$s_!wXNC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7571df41-26dc-4747-ae50-6704a42db63b_1400x1000.png",
       "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-governors-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-10-17 23:26"
-    },
-    {
-      "id": "ddi0i8",
-      "title": "FLIPR 2026 Senate forecast",
-      "title_vi": "Dự báo Thượng viện FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mỗi cuộc bầu cử Thượng viện vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!AKN4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc39f220e-89ec-444d-9e5b-0b5d142c79cd_1400x1000.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
       "source": "Silver Bulletin",
       "category": "metal",
       "published": "2026-10-17 23:26"
@@ -550,6 +539,17 @@
       "source": "S&P Global",
       "category": "metal",
       "published": "2026-10-16 12:50"
+    },
+    {
+      "id": "12ceotu",
+      "title": "Glencore earns UBS Buy rating as copper growth strengthens outlook",
+      "title_vi": "Glencore được UBS xếp hạng Mua khi tăng trưởng đồng củng cố triển vọng",
+      "summary_vi": "UBS đã bắt đầu đưa tin về danh sách mới của Glencore PLC (LSE:GLEN, ASX:GLC) tại Úc với xếp hạng Mua và mục tiêu giá 13,40 đô la Úc, ngụ ý khoảng 19%...",
+      "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzEwXC8yMDIzLTA5LTE0LTA5LTAyLTM2LWE3N2E5MmZjZTFhZjMzZWEzMzg4YWFlZDdmYjQzMjM0XzZhZDE3NWE4MmM0OWQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+      "link": "https://www.proactiveinvestors.com/companies/news/1100204/glencore-earns-ubs-buy-rating-as-copper-growth-strengthens-outlook-1100204.html",
+      "source": "Proactive financial news",
+      "category": "metal",
+      "published": "2026-10-16 08:34"
     }
   ]
 }

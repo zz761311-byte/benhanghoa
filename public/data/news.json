@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-18 20:01",
+  "updated_at": "2026-10-18 21:01",
   "items": [
+    {
+      "id": "yqr8za",
+      "title": "Ukraine Strikes Russian Oil Terminal, as Starshield Disruptions Persist",
+      "title_vi": "Ukraine tấn công kho dầu của Nga khi sự gián đoạn của Starshield vẫn tiếp diễn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html",
+      "source": "The New York Times",
+      "category": "energy",
+      "published": "2026-10-18 18:01"
+    },
     {
       "id": "1rfjcb2",
       "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
@@ -44,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-18 00:00"
+    },
+    {
+      "id": "1g6p4cx",
+      "title": "FLIPR 2026 Governors forecast",
+      "title_vi": "Dự báo của Thống đốc FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mỗi cuộc bầu cử thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!wXNC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7571df41-26dc-4747-ae50-6704a42db63b_1400x1000.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-governors-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-17 23:26"
     },
     {
       "id": "ddi0i8",
@@ -528,28 +550,6 @@
       "source": "S&P Global",
       "category": "metal",
       "published": "2026-10-16 12:50"
-    },
-    {
-      "id": "1amzjoy",
-      "title": "Thai raw sugar prices hit 22-month high amid Brazil supply concerns",
-      "title_vi": "Giá đường thô Thái Lan đạt mức cao nhất 22 tháng do lo ngại nguồn cung từ Brazil",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/101626-thai-raw-sugar-prices-hit-22-month-high-amid-brazil-supply-concerns",
-      "source": "S&P Global",
-      "category": "soft",
-      "published": "2026-10-16 12:26"
-    },
-    {
-      "id": "19fgrwn",
-      "title": "Fall F&B Forecast: Coffee, Comfort, and a Bigger Seat at the Revenue Table - By Guy Reinbold",
-      "title_vi": "Dự báo F&B mùa thu: Cà phê, tiện nghi và vị trí lớn hơn trên bảng doanh thu - Tác giả Guy Reinbold",
-      "summary_vi": "Guy Reinbold nhấn mạnh cách các khách sạn đang ưu tiên các chương trình cà phê, thực đơn hướng đến sự thoải mái và trải nghiệm F&B nâng cao vào mùa thu này để thu hút mức chi tiêu lớn hơn của khách và tăng cường lợi nhuận tổng thể của cơ sở kinh doanh.",
-      "image": "https://www.hotelnewsresource.com/ul/4/2025/07/15/1_1752595245.webp",
-      "link": "https://www.hotelnewsresource.com/article143352.html",
-      "source": "Hotel News Resource",
-      "category": "soft",
-      "published": "2026-10-16 08:58"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 08:01",
+  "updated_at": "2026-10-18 08:34",
   "items": [
     {
       "id": "1rfjcb2",
@@ -88,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-17 05:00"
+    },
+    {
+      "id": "k8bdpx",
+      "title": "Wall Street undecided on gold’s near-term trajectory, Main Street flirts with bearish bias after gold hits $4,200/oz ceiling",
+      "title_vi": "Phố Wall chưa quyết định về quỹ đạo ngắn hạn của vàng, nền kinh tế thực có xu hướng giảm sau khi vàng chạm trần 4.200 USD/oz",
+      "summary_vi": "(Kitco News) - Giá vàng phục hồi vào cuối tuần sau khi chịu áp lực nặng nề từ dữ liệu lạm phát nóng hơn dự kiến ​​của Mỹ, lãi suất trái phiếu kho bạc tăng và đồng đô la vững hơn, do lãi suất trái phiếu giảm và giảm kỳ vọng về việc Cục Dự trữ Liên bang tăng lãi suất vào tháng 10 đã giúp kim loại quý phục hồi phần lớn khoản lỗ.",
+      "image": "https://image-api.prod.kitco.com/image/7f804eea-b3ea-49b4-9d9a-aa0408b53d0e.png?top=0&left=0&width=1672&height=941&scale_width=1920&token=1da807fbb2999a30e6934c2871d20cc737309415d90aecae6f4cb8143a4b096a",
+      "link": "https://www.kitco.com/news/article/2026-10-16/wall-street-undecided-golds-near-term-trajectory-main-street-flirts-bearish",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-10-17 04:29"
     },
     {
       "id": "yfszqs",
@@ -451,17 +462,6 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-10-16 12:11"
-    },
-    {
-      "id": "16i18p1",
-      "title": "Gold inches higher as dollar softens, investors eye Fed rate outlook",
-      "title_vi": "Vàng tăng vài inch khi đồng đô la giảm giá, nhà đầu tư để mắt tới triển vọng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-near-4-160-015611640.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-10-16 08:56"
     },
     {
       "id": "12ceotu",

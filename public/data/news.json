@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 17:01",
+  "updated_at": "2026-10-19 17:20",
   "items": [
     {
       "id": "17dq6c1",
@@ -9,7 +9,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-19_fhm5hvog2d.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Coal-Production-Slumps-68-as-Winter-Supply-Fears-Grow.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-10-19 16:30"
     },
     {
@@ -420,6 +420,17 @@
       "published": "2026-10-17 00:30"
     },
     {
+      "id": "yv3s6l",
+      "title": "Coffee’s Coming Glut May Not Be Enough to Calm Volatile Prices",
+      "title_vi": "Lượng dư thừa của cà phê có thể không đủ để xoa dịu giá cả biến động",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-16/coffee-s-coming-glut-may-not-be-enough-to-calm-volatile-prices",
+      "source": "Bloomberg.com",
+      "category": "soft",
+      "published": "2026-10-16 23:22"
+    },
+    {
       "id": "11mkgms",
       "title": "NOAA’s New Winter Outlook Tests Northeast Natural Gas Price Premiums",
       "title_vi": "Triển vọng mùa đông mới của NOAA kiểm tra mức tăng giá khí đốt tự nhiên ở vùng Đông Bắc",
@@ -539,17 +550,6 @@
       "source": "CBT News",
       "category": "metal",
       "published": "2026-10-16 17:52"
-    },
-    {
-      "id": "ce04dq",
-      "title": "Sharp coffee price volatility likely to persist! Exchange inventory shortages remain unresolved despite supply glut",
-      "title_vi": "Giá cà phê biến động mạnh có khả năng kéo dài! Tình trạng thiếu hàng tồn kho trên sàn giao dịch vẫn chưa được giải quyết mặc dù nguồn cung dư thừa",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.moomoo.com/news/post/1001422446/sharp-coffee-price-volatility-likely-to-persist-exchange-inventory-shortages",
-      "source": "Moomoo",
-      "category": "soft",
-      "published": "2026-10-16 17:48"
     }
   ]
 }

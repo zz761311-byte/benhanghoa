@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-19 13:01",
+  "updated_at": "2026-10-19 14:01",
   "items": [
+    {
+      "id": "ihzcwk",
+      "title": "Greenpeace Protest Forces Shutdown at Woodside’s $12.5 Billion Gas Project",
+      "title_vi": "Lực lượng biểu tình của Greenpeace đóng cửa dự án khí đốt trị giá 12,5 tỷ USD của Woodside",
+      "summary_vi": "Hai nhà hoạt động của Greenpeace đã bị bắt ở Australia sau khi họ gây ra sự ngừng hoạt động tại giàn khoan LNG Scarborough của Woodside Energy, ngoài khơi Tây Australia. Cả hai bị buộc tội “can thiệp vào hoạt động hoặc lắp đặt dầu khí ngoài khơi”, cơ quan chức năng địa phương cho biết.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-19_btegvk6nn9.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Greenpeace-Protest-Forces-Shutdown-at-Woodsides-125-Billion-Gas-Project.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-19 14:00"
+    },
     {
       "id": "7rtt25",
       "title": "Oil Prices Slip as Trump-Putin Diesel Deal Raises Supply Hopes",
@@ -154,17 +165,6 @@
       "source": "CNN",
       "category": "energy",
       "published": "2026-10-18 17:49"
-    },
-    {
-      "id": "1rfjcb2",
-      "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
-      "title_vi": "Giá dầu duy trì ở mức cao do chiến tranh khiến nguồn cung thắt chặt cho đến năm 2027",
-      "summary_vi": "Trong khoảng ba tháng đầu tiên của cuộc chiến giữa Mỹ và Israel với Iran, tâm lý chủ đạo trên thị trường dầu mỏ là xung đột sẽ kết thúc bất cứ lúc nào. Cuộc ngừng bắn ngắn ngủi vào tháng 6 đã củng cố thêm sự lạc quan đó nên phải mất một thời gian nữa người ta mới đối mặt với sự thật: chiến tranh sẽ không kết thúc chút nào.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-16_2lw6yw3rjs.jpg",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Stay-High-as-War-Keeps-Supply-Tight-Into-2027.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-18 06:00"
     },
     {
       "id": "1p2pybi",
@@ -365,6 +365,17 @@
       "published": "2026-10-17 00:51"
     },
     {
+      "id": "hzgosk",
+      "title": "HyBlend: Opportunities for Hydrogen Blending in Natural Gas Pipelines",
+      "title_vi": "HyBlend: Cơ hội pha trộn hydro trong đường ống khí đốt tự nhiên",
+      "summary_vi": "Sáng kiến ​​HyBlend nhằm mục đích giải quyết các rào cản kỹ thuật trong việc trộn hydro trong đường ống dẫn khí đốt tự nhiên.",
+      "image": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
+      "link": "https://www.energy.gov/cmei/fuels/hyblend-opportunities-hydrogen-blending-natural-gas-pipelines",
+      "source": "Department of Energy (.gov)",
+      "category": "energy",
+      "published": "2026-10-17 00:30"
+    },
+    {
       "id": "11mkgms",
       "title": "NOAA’s New Winter Outlook Tests Northeast Natural Gas Price Premiums",
       "title_vi": "Triển vọng mùa đông mới của NOAA kiểm tra mức tăng giá khí đốt tự nhiên ở vùng Đông Bắc",
@@ -539,17 +550,6 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-10-16 16:41"
-    },
-    {
-      "id": "n74zjh",
-      "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts",
-      "title_vi": "'Chúng ta xong rồi': Ukraine tiếp tục tấn công các nhà máy lọc dầu của Nga khi sự tức giận đối với Trump ngày càng tăng",
-      "summary_vi": "Theo Ukraine, chức năng Internet vệ tinh thông qua Starshield – phiên bản quân sự của dịch vụ Starlink của SpaceX ở Ukraine – đã hoạt động trở lại ở tốc độ trước đó vào thời điểm hiện tại.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-zelenskyy-rs-c30342.jpg",
-      "link": "https://www.nbcnews.com/world/ukraine/ukraine-resumes-strikes-russian-oil-refineries-trump-starlink-intel-rcna603648",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-10-16 16:22"
     }
   ]
 }

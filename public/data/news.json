@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 05:00",
+  "updated_at": "2026-10-20 06:00",
   "items": [
     {
       "id": "16ohho2",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-10-20 05:00"
+    },
+    {
+      "id": "1eyyjg",
+      "title": "Western Natural Gas Prices Buck Mild Weather Outlook",
+      "title_vi": "Giá khí đốt tự nhiên miền Tây Buck Triển vọng thời tiết ôn hòa",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/western-natural-gas-prices-buck-mild-weather-outlook/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-10-20 04:09"
     },
     {
       "id": "gjq8qe",
@@ -539,17 +550,6 @@
       "source": "RFD-TV",
       "category": "agri",
       "published": "2026-10-17 03:18"
-    },
-    {
-      "id": "1ypcoh3",
-      "title": "Silver Price Forecast: Bears target $55 as RSI nears oversold",
-      "title_vi": "Dự báo giá bạc: Xu hướng giảm mục tiêu là 55 USD khi RSI gần vượt bán",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-bears-target-55-as-rsi-nears-oversold-202610161923",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-10-17 02:23"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-19 23:01",
+  "updated_at": "2026-10-20 00:00",
   "items": [
+    {
+      "id": "1qb6949",
+      "title": "Canada&#039;s Inflation Rises to 3.1% as Fuel Oil Prices Jump 58%",
+      "title_vi": "Lạm phát của Canada tăng lên 3,1% khi giá dầu nhiên liệu tăng 58%",
+      "summary_vi": "Hôm thứ Hai, Cơ quan Thống kê Canada cho biết xăng và dầu nhiên liệu đã đẩy tỷ lệ lạm phát hàng năm của Canada lên 3,1% trong tháng 9, tăng từ mức 3,0% trong tháng 8, do chiến tranh ở Trung Đông khiến giá nhiên liệu ở mức cao. Giá xăng tăng 27,8% so với một năm trước đó, tăng từ mức 22,8% trong tháng 8, mặc dù",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-19_mww0mnui39.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Canadas-Inflation-Rises-to-31-as-Fuel-Oil-Prices-Jump-58.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-19 23:30"
+    },
     {
       "id": "1cxos0i",
       "title": "What’s Trump’s Thinking Behind The ‘Diesel Deal’ With Russia?",
@@ -123,17 +134,6 @@
       "published": "2026-10-19 18:36"
     },
     {
-      "id": "1afqepe",
-      "title": "Woodside Resumes Work at Australian LNG Project after Greenpeace Stunt",
-      "title_vi": "Woodside tiếp tục làm việc tại Dự án LNG của Úc sau Greenpeace Stunt",
-      "summary_vi": "Công ty Woodside Energy của Australia hôm thứ Hai thông báo họ đã nối lại công việc tại dự án Scarborough sắp được đưa vào hoạt động ngoài khơi Tây Australia, dự kiến ​​xuất khẩu LNG sang thị trường toàn cầu và cung cấp khí đốt cho thị trường nội địa. Cuối tuần này, hai nhà hoạt động của Greenpeace đã leo lên",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-19_rsx91cqkw3.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Woodside-Resumes-Work-at-Australian-LNG-Project-after-Greenpeace-Stunt.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-19 18:30"
-    },
-    {
       "id": "1ault52",
       "title": "Platinum Industries share price jumps 14%: Technical analyst sees further upside; Check key levels to watch",
       "title_vi": "Giá cổ phiếu của Platinum Industries tăng 14%: Nhà phân tích kỹ thuật nhận thấy xu hướng tăng giá hơn nữa; Kiểm tra các cấp độ chính để xem",
@@ -143,6 +143,17 @@
       "source": "TradingView",
       "category": "metal",
       "published": "2026-10-19 17:58"
+    },
+    {
+      "id": "52dbm0",
+      "title": "Nate Silver Revises Democrats’ Chances of Winning the Senate",
+      "title_vi": "Nate Silver xem xét lại cơ hội giành được Thượng viện của đảng Dân chủ",
+      "summary_vi": "Nate Silver đã nâng cơ hội giành được Thượng viện của đảng Dân chủ lên “Có khả năng D”, với dự báo của ông đưa tỷ lệ cược của họ lên 75%.",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2026/10/GettyImages-2292886565.jpg?w=1200&crop=1",
+      "link": "https://www.newsweek.com/nate-silver-revises-democrats-chances-winning-senate-12586949",
+      "source": "Newsweek",
+      "category": "metal",
+      "published": "2026-10-19 17:25"
     },
     {
       "id": "vju6ib",
@@ -198,6 +209,17 @@
       "source": "Reuters",
       "category": "macro",
       "published": "2026-10-19 11:04"
+    },
+    {
+      "id": "n9igrg",
+      "title": "Proposed rail merger puts focus on grain rates and service",
+      "title_vi": "Đề xuất sáp nhập đường sắt tập trung vào giá ngũ cốc và dịch vụ",
+      "summary_vi": "Một nhà kinh tế nông nghiệp cho biết ngành nông nghiệp đang bị đe dọa rất nhiều khi hai tuyến đường sắt lớn theo đuổi khả năng sáp nhập. Guy Allen của Đại học Bang Kansas cho biết việc hợp nhất Union Pacific và Norfolk Southern thể hiện sự phát triển thị trường của ngành đường sắt. “Các tuyến đường sắt đang tranh luận về việc tăng hiệu quả và tái",
+      "image": "https://brownfieldagnews.com/wp-content/uploads/2021/10/Rail-cars.jpg",
+      "link": "https://brownfieldagnews.com/news/proposed-rail-merger-puts-focus-on-grain-rates-and-service/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-10-19 11:02"
     },
     {
       "id": "u8c5ot",
@@ -528,28 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-10-16 22:39"
-    },
-    {
-      "id": "1f6tktf",
-      "title": "Natural Gas Market Indicators – October 16, 2026",
-      "title_vi": "Các chỉ số thị trường khí đốt tự nhiên - ngày 16 tháng 10 năm 2026",
-      "summary_vi": "Bão Isaias, cơn bão Đại Tây Dương đầu tiên của mùa 2026, đã tạm thời làm gián đoạn các điều kiện cung cấp khí đốt tự nhiên mạnh mẽ của Hoa Kỳ. Sản lượng ngoài khơi ở Vịnh Mexico giảm mạnh trong bối cảnh nhà sản xuất đóng cửa trước cơn bão đổ bộ vào ngày 9 tháng 10 và kể từ đó đã bắt đầu phục hồi. Bất chấp sự gián đoạn, U.S.",
-      "image": "https://www.aga.org/wp-content/uploads/2026/10/NGMI-519-Price.png",
-      "link": "https://www.aga.org/research-policy/resource-library/natural-gas-market-indicators-october-16-2026/",
-      "source": "American Gas Association",
-      "category": "energy",
-      "published": "2026-10-16 22:32"
-    },
-    {
-      "id": "1drbmry",
-      "title": "Raiders-Bills Week 6: 5 things to watch",
-      "title_vi": "Raiders-Bills Tuần 6: 5 điều cần xem",
-      "summary_vi": "Chìa khóa để giành chiến thắng khó chịu trước Buffalo",
-      "image": "https://platform.silverandblackpride.com/wp-content/uploads/sites/143/2026/10/gettyimages-2299702295.jpg?quality=90&strip=all&crop=0%2C10.726988413562%2C100%2C78.546023172876&w=1200",
-      "link": "https://www.silverandblackpride.com/las-vegas-raiders-analysis/142587/raiders-bills-week-6-preview",
-      "source": "Silver And Black Pride",
-      "category": "metal",
-      "published": "2026-10-16 22:04"
     }
   ]
 }

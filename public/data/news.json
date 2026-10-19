@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 09:01",
+  "updated_at": "2026-10-19 10:01",
   "items": [
     {
       "id": "wchfwu",
@@ -99,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-18 22:00"
+    },
+    {
+      "id": "10hbei7",
+      "title": "Turkey will get some diesel from US-Russia supply deal, energy minister says",
+      "title_vi": "Bộ trưởng năng lượng cho biết Thổ Nhĩ Kỳ sẽ nhận được một số dầu diesel từ thỏa thuận cung cấp Mỹ-Nga",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/turkey-will-get-some-diesel-us-russia-supply-deal-energy-minister-says-2026-10-18/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-10-18 18:51"
     },
     {
       "id": "15uuqdi",
@@ -539,17 +550,6 @@
       "source": "NBC News",
       "category": "energy",
       "published": "2026-10-16 16:22"
-    },
-    {
-      "id": "15almct",
-      "title": "China’s declining soyabean demand set to impact US shipments after…",
-      "title_vi": "Nhu cầu đậu nành giảm của Trung Quốc có thể ảnh hưởng đến xuất khẩu của Mỹ sau…",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.ofimagazine.com/news/chinas-declining-soyabean-demand-set-to-impact-us-shipments-after-beijing-excludes-the-commodity-from-tariff-cuts-on-american-agricultural-goods",
-      "source": "Oils & Fats International",
-      "category": "macro",
-      "published": "2026-10-16 15:19"
     }
   ]
 }

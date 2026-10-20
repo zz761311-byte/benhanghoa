@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-21 03:00",
+  "updated_at": "2026-10-21 04:01",
   "items": [
+    {
+      "id": "mcdy3a",
+      "title": "Energy Costs Are Driving U.S. Inflation, and Wages Aren&#039;t Keeping Up",
+      "title_vi": "Chi phí năng lượng đang thúc đẩy lạm phát ở Mỹ và tiền lương không theo kịp",
+      "summary_vi": "Tỷ lệ lạm phát vẫn ở mức cao trên khắp nước Mỹ. Chỉ số giá tiêu dùng gần đây nhất của Cục Thống kê Lao động, được công bố vào tuần trước, tiết lộ những con số cao hơn hầu hết các dự đoán, cho thấy nỗi đau lâu dài đối với người tiêu dùng và một chu kỳ bầu cử ác mộng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-20_d0y3fnx8fa.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Energy-Costs-Are-Driving-US-Inflation-and-Wages-Arent-Keeping-Up.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-10-21 04:00"
+    },
+    {
+      "id": "chpkck",
+      "title": "API: Crude, Product Inventories Continue to Draw",
+      "title_vi": "API: Dầu thô, tồn kho sản phẩm tiếp tục tăng",
+      "summary_vi": "Viện Dầu khí Hoa Kỳ (API) ước tính rằng tồn kho dầu thô ở Hoa Kỳ đã giảm 4,93 triệu thùng trong tuần kết thúc vào ngày 16 tháng 10. Trong tuần trước, tồn kho dầu thô của Hoa Kỳ đã giảm đáng kinh ngạc 11,12 triệu thùng. Tồn kho dầu thô thương mại cũ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-20_wgkyfll5q2.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/API-Crude-Products-Continu-eto-Draw.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-21 03:56"
+    },
     {
       "id": "13bwufb",
       "title": "The Middle East&#039;s Next Energy Boom Has Nothing to Do With Oil",
@@ -79,17 +101,6 @@
       "published": "2026-10-21 00:00"
     },
     {
-      "id": "1136a0p",
-      "title": "Russia’s Oil Export Revenue Slides as Production Declines",
-      "title_vi": "Doanh thu xuất khẩu dầu của Nga trượt dốc khi sản lượng giảm",
-      "summary_vi": "Theo dữ liệu theo dõi tàu chở dầu do Bloomberg tổng hợp, xuất khẩu dầu thô bằng đường biển của Nga đã giảm xuống mức trung bình 4 tuần thấp nhất trong một tháng sau khi các chuyến hàng từ cảng Primorsk của Baltic dừng lại trong vài ngày. Xuất khẩu trung bình đạt 3,59 triệu thùng/ngày trong 4 tuần",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-20_i7azyyrwht.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Export-Revenue-Slides-as-Production-Declines.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-20 23:30"
-    },
-    {
       "id": "cwbjhu",
       "title": "Gas prices dip slightly in Idaho amid crude oil fluctuations",
       "title_vi": "Giá xăng giảm nhẹ ở Idaho trong bối cảnh giá dầu thô biến động",
@@ -99,17 +110,6 @@
       "source": "Idaho Business Review",
       "category": "energy",
       "published": "2026-10-20 23:17"
-    },
-    {
-      "id": "wv3g1",
-      "title": "The Next Major Oil Supply Shock Could Come From Saudi Arabia",
-      "title_vi": "Cú sốc nguồn cung dầu lớn tiếp theo có thể đến từ Ả Rập Saudi",
-      "summary_vi": "Cuộc tấn công của Houthi vào cơ sở hạ tầng dầu mỏ của Saudi đe dọa sản xuất khi dầu thô Brent đạt 108 USD và chênh lệch giá Brent-WTI tăng lên 5 USD. Thị trường LNG nhận được phí bảo hiểm chiến tranh mới - Giá khí đốt tự nhiên hóa lỏng ở châu Á tăng vọt lên mức cao nhất kể từ tháng 12 năm 2022, khi các cuộc tấn công liên tục vào tàu chở dầu",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-20_fpsaiwnc1r.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/The-Next-Major-Oil-Supply-Shock-Could-Come-From-Saudi-Arabia.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-20 23:11"
     },
     {
       "id": "ll2fbg",
@@ -132,6 +132,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-20 21:59"
+    },
+    {
+      "id": "1fbsnbh",
+      "title": "Gold's path to $6,000 and silver's return above $90 depend on renewed investor confidence – Metals Focus",
+      "title_vi": "Con đường của vàng đến 6.000 USD và lợi nhuận của bạc trên 90 USD phụ thuộc vào niềm tin mới của nhà đầu tư - Metals Focus",
+      "summary_vi": "(Kitco News) - Giá vàng tiếp tục gặp khó khăn do lạm phát dai dẳng và lãi suất tăng khiến các nhà đầu tư hướng tới các tài sản có lợi suất cao hơn; tuy nhiên, một nhà phân tích kim loại quý cho biết thị trường đang củng cố thay vì bước vào thị trường giá xuống, với các động lực cơ cấu hỗ trợ cho mức tăng lịch sử năm ngoái.",
+      "image": "https://image-api.prod.kitco.com/image/231a99ae-3039-4365-8ea6-8e1db672fc32.jpeg?top=0.62482476635514&left=0&width=1000&height=561.75035046729&scale_width=1920&token=b185b51c8e5fe01261cda150e7c15f6143cf3c9629f265064284f23215cead6c",
+      "link": "https://www.kitco.com/news/article/2026-10-19/golds-path-6000-and-silvers-return-above-90-depend-renewed-investor",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-10-20 21:25"
     },
     {
       "id": "11vcofj",
@@ -321,17 +332,6 @@
       "published": "2026-10-20 13:17"
     },
     {
-      "id": "1vbveam",
-      "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
-      "title_vi": "Đồng đang lấn át vàng trong năm nay. Các nhà đầu tư cho rằng đợt phục hồi có thể tồn tại sau đợt điều chỉnh AI",
-      "summary_vi": "Đồng tăng 15,8% vào năm 2026 khi các nhà đầu tư chỉ ra nhu cầu về AI, lưới điện và an ninh quốc gia, nguồn cung thắt chặt và kho dự trữ của Hoa Kỳ do thuế quan.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108346259-1786046336117-gettyimages-2228106041-US_COPPER.jpeg?v=1786046387&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-10-20 12:57"
-    },
-    {
       "id": "v6cpea",
       "title": "Copper Holds Drop as Traders Gauge Risks From US Tariff Policy",
       "title_vi": "Giá đồng giảm khi thương nhân đánh giá rủi ro từ chính sách thuế quan của Mỹ",
@@ -429,6 +429,17 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-10-20 02:45"
+    },
+    {
+      "id": "26k3m7",
+      "title": "Oil Futures Pull Back as U.S. Waives Some Russia Sanctions",
+      "title_vi": "Giá dầu kỳ hạn giảm khi Mỹ bãi bỏ một số lệnh trừng phạt Nga",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-10-20 02:43"
     },
     {
       "id": "dofdun",
@@ -539,17 +550,6 @@
       "source": "AGDAILY",
       "category": "macro",
       "published": "2026-10-19 21:11"
-    },
-    {
-      "id": "10iwxlo",
-      "title": "USDA: 2025 cotton crop slightly below 2024",
-      "title_vi": "USDA: Vụ bông năm 2025 thấp hơn một chút so với năm 2024",
-      "summary_vi": "Hoa Kỳ sản xuất ít bông hơn vào năm 2025 so với năm 2024. Sản lượng vùng cao năm ngoái là 13,492 triệu kiện, giảm 447.000 kiện so với năm trước đó, với năng suất giảm xuống còn 842 pound/mẫu Anh khiến diện tích thu hoạch tăng lên 7,689 triệu mẫu Anh. Năm 2024, sản lượng vùng cao là 13,939 triệu kiện với [&helli",
-      "image": "https://brownfieldagnews.com/wp-content/uploads/2022/02/cotton400x400.jpg",
-      "link": "https://brownfieldagnews.com/news/usda-2025-cotton-crop-slightly-below-2024/",
-      "source": "Brownfield Ag News",
-      "category": "soft",
-      "published": "2026-10-19 19:39"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 10:00",
+  "updated_at": "2026-10-20 11:00",
   "items": [
     {
       "id": "1k6htec",
@@ -244,6 +244,17 @@
       "published": "2026-10-19 17:25"
     },
     {
+      "id": "1meuko2",
+      "title": "The Iran War has sent gas and oil prices higher. That could spell economic disaster in the midterms.",
+      "title_vi": "Chiến tranh Iran đã khiến giá xăng và dầu tăng cao. Điều đó có thể gây ra thảm họa kinh tế trong thời gian giữa nhiệm kỳ.",
+      "summary_vi": "Người Mỹ đang cảm thấy áp lực trước máy bơm khi Chiến tranh Iran giữ giá cao. Điều đó có thể có tác động lớn trong trung hạn.",
+      "image": "https://i.insider.com/6ad26d1c2428f6b4558133cf?width=1200&format=jpeg",
+      "link": "https://www.businessinsider.com/gas-oil-prices-soar-as-trump-deals-iran-war-inflation-2026-10",
+      "source": "Business Insider",
+      "category": "energy",
+      "published": "2026-10-19 17:00"
+    },
+    {
       "id": "vju6ib",
       "title": "Gold Prices Rise Above $4,200 in Futures Trading as Fed Rate Hike Expectations Ease",
       "title_vi": "Giá vàng tăng trên 4.200 USD trong giao dịch tương lai khi kỳ vọng tăng lãi suất của Fed dễ dàng hơn",
@@ -354,6 +365,17 @@
       "published": "2026-10-19 10:11"
     },
     {
+      "id": "xat65y",
+      "title": "Gold rises as Warsh remarks curb Fed hike bets",
+      "title_vi": "Vàng tăng khi nhận xét của Warsh hạn chế đặt cược tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-warsh-remarks-curb-013418779.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-10-19 08:34"
+    },
+    {
       "id": "1pm5x4a",
       "title": "Brent crude edges lower, even after Houthi attacks on Saudi infrastructure",
       "title_vi": "Dầu thô Brent giảm nhẹ, ngay cả sau khi Houthi tấn công cơ sở hạ tầng của Saudi",
@@ -363,6 +385,17 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-10-19 05:23"
+    },
+    {
+      "id": "10qfojn",
+      "title": "Oil Price Surge May Increase Gas Costs",
+      "title_vi": "Giá dầu tăng có thể làm tăng chi phí khí đốt",
+      "summary_vi": "Giá xăng ở Florida đã tăng vọt vào đầu tuần trước, đạt 4,23 USD/gallon vào thứ Năm trước khi giảm vào cuối tuần. Chủ nhật",
+      "image": "https://content.presspage.com/uploads/2983/8917e56c-8fb5-49e4-94c0-d514ce8fc05b/1920_gas-offshorerig2nd.jpg?10000",
+      "link": "https://newsroom.acg.aaa.com/rising-oil-prices-could-push-gas-prices-higher/",
+      "source": "ACG AAA Newsroom",
+      "category": "energy",
+      "published": "2026-10-19 04:24"
     },
     {
       "id": "u8c5ot",
@@ -517,39 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-17 14:07"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-17 13:58"
-    },
-    {
-      "id": "e83xw1",
-      "title": "US Natural Gas Output, Demand to Hit Record Highs in 2026, EIA Says",
-      "title_vi": "EIA cho biết sản lượng khí đốt tự nhiên của Hoa Kỳ sẽ đạt mức cao kỷ lục vào năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/08/us-natural-gas-output-demand-to-hit-record-highs-in-2026-eia-says/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-17 13:54"
-    },
-    {
-      "id": "jti9dm",
-      "title": "Canadian wheat outlook improves as harvest advances, quality fears ease",
-      "title_vi": "Triển vọng lúa mì Canada cải thiện khi thu hoạch tiến triển, lo ngại về chất lượng giảm bớt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/101626-canadian-wheat-outlook-improves-as-harvest-advances-quality-fears-ease",
-      "source": "S&P Global",
-      "category": "agri",
-      "published": "2026-10-17 12:32"
     }
   ]
 }

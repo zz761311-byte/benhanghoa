@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-20 19:01",
+  "updated_at": "2026-10-20 20:00",
   "items": [
+    {
+      "id": "nxmgoj",
+      "title": "Asia’s Coal Prices To Stay High as Supply Drops and Demand Firms",
+      "title_vi": "Giá than Châu Á vẫn ở mức cao do nguồn cung giảm và nhu cầu của các công ty",
+      "summary_vi": "Fitch Ratings cho biết trong một báo cáo rằng giá than nhiệt ở châu Á dự kiến ​​sẽ tiếp tục tăng cao trong những tháng tới do nhu cầu đang tăng lên trong quá trình chuyển đổi khí đốt sang than đang diễn ra, trong khi nguồn cung từ Trung Quốc và Indonesia đang giảm. Ví dụ, giá than ở Trung Quốc đã chạm mức thấp nhất trong ba năm",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-20_p9irobpydt.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asias-Coal-Prices-To-Stay-High-as-Supply-Drops-and-Demand-Firms.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-20 19:30"
+    },
     {
       "id": "1bb467p",
       "title": "Copper Needs $332 Billion in New Mines to Avoid Deficit, BloombergNEF Says",
@@ -123,6 +134,17 @@
       "published": "2026-10-20 11:56"
     },
     {
+      "id": "v6cpea",
+      "title": "Copper Holds Drop as Traders Gauge Risks From US Tariff Policy",
+      "title_vi": "Giá đồng giảm khi thương nhân đánh giá rủi ro từ chính sách thuế quan của Mỹ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/copper-holds-drop-traders-gauge-030531282.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-10-20 10:05"
+    },
+    {
       "id": "1fifoh6",
       "title": "BloombergNEF’s Transition Metals Outlook 2026: Global Metal Supply Shortages Set to Ease, but Copper Faces a $332 Billion Investment Gap",
       "title_vi": "Triển vọng kim loại chuyển đổi của BloombergNEF năm 2026: Tình trạng thiếu nguồn cung kim loại toàn cầu sẽ giảm bớt, nhưng đồng phải đối mặt với khoảng cách đầu tư 332 tỷ USD",
@@ -178,17 +200,6 @@
       "published": "2026-10-20 05:44"
     },
     {
-      "id": "16ohho2",
-      "title": "UK Pays Record Sums to Balance Grid as Transmission Falls Behind",
-      "title_vi": "Vương quốc Anh trả số tiền kỷ lục để cân bằng lưới điện khi đường truyền tải tụt lại phía sau",
-      "summary_vi": "Vương quốc Anh là một trong những quốc gia tham vọng nhất khi chuyển đổi sang nền kinh tế không có lưới. Ngoài ra, Vương quốc Anh đang phải vật lộn với một số mức giá điện cao nhất ở châu Âu và đang phải trả một khoản tiền đáng kể để duy trì sự cân bằng lưới điện, ngay cả khi hệ thống lắp đặt gió của nước này đang phát điện.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-19_qsj7n0cs2q.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/UK-Pays-Record-Sums-to-Balance-Grid-as-Transmission-Falls-Behind.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-10-20 05:00"
-    },
-    {
       "id": "2c20kw",
       "title": "Energy Market Assessment: United States Energy Price Outlook Natural Gas Outlook Supply/Demand Assessment October 2026",
       "title_vi": "Đánh giá thị trường năng lượng: Triển vọng giá năng lượng của Hoa Kỳ Đánh giá cung/cầu khí đốt tự nhiên vào tháng 10 năm 2026",
@@ -220,6 +231,17 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-10-20 02:45"
+    },
+    {
+      "id": "dofdun",
+      "title": "Crude Oil Prices Surge on Global Supply Risks",
+      "title_vi": "Giá dầu thô tăng do rủi ro nguồn cung toàn cầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-surge-global-191800913.html",
+      "source": "Yahoo Finance",
+      "category": "energy",
+      "published": "2026-10-20 02:18"
     },
     {
       "id": "13in19v",
@@ -528,28 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-10-18 18:51"
-    },
-    {
-      "id": "15uuqdi",
-      "title": "Ukraine targets Russia with more than 1,000 drones, striking oil terminal in St. Petersburg - ABC News",
-      "title_vi": "Ukraine dùng hơn 1.000 máy bay không người lái tấn công Nga, tấn công kho dầu ở St. Petersburg - ABC News",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://abcnews.com/International/ukraine-targets-russia-1000-drones-striking-oil-terminal/story?id",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-10-18 18:20"
-    },
-    {
-      "id": "yqr8za",
-      "title": "Ukraine Strikes Russian Oil Terminal, as Starshield Disruptions Persist",
-      "title_vi": "Ukraine tấn công kho dầu của Nga khi sự gián đoạn của Starshield vẫn tiếp diễn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-10-18 18:01"
     }
   ]
 }

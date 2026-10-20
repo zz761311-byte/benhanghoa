@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-21 05:24",
+  "updated_at": "2026-10-21 06:01",
   "items": [
+    {
+      "id": "u6y1wz",
+      "title": "Mexico Poised to Approve $12.5 Billion in Renewable Energy Projects",
+      "title_vi": "Mexico sẵn sàng phê duyệt 12,5 tỷ USD cho các dự án năng lượng tái tạo",
+      "summary_vi": "Theo một nguồn tin giấu tên nói với Bloomberg, công ty điện lực bang Mexico ngày nay đã bật đèn xanh cho khoảng 60 dự án năng lượng thay thế, hầu hết là năng lượng mặt trời, sẽ bổ sung thêm 8,2 GW công suất thế hệ mới vào tổng công suất của cả nước. Tổng mức đầu tư vào các trang này",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-20_klyg7sqeam.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Mexico-Poised-to-Approve-125-Billion-in-Renewable-Energy-Projects.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-21 06:00"
+    },
     {
       "id": "1yfdrfq",
       "title": "Europe’s Power Demand Returns to Growth",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-21 05:00"
+    },
+    {
+      "id": "ja2ih3",
+      "title": "Grain markets await more Chinese purchases",
+      "title_vi": "Thị trường ngũ cốc chờ đợi thêm lượng mua từ Trung Quốc",
+      "summary_vi": "Một nhà kinh tế hàng hóa cho biết thị trường ngũ cốc thất vọng vì thiếu nguồn mua ngay lập tức từ Trung Quốc khi nhiều thông tin chi tiết được công bố từ cuộc họp tuần trước. Arlan Suderman nói: “Tôi nghĩ thị trường đã có những kỳ vọng phi thực tế rằng chúng ta sẽ ngay lập tức thấy các đơn đặt hàng trên sổ sách”. Suderman,",
+      "image": "https://brownfieldagnews.com/wp-content/uploads/2026/08/Soybeans-in-Johns-semi-e1720799551920.jpg",
+      "link": "https://brownfieldagnews.com/news/grain-markets-await-more-chinese-purchases/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-10-21 04:35"
     },
     {
       "id": "mcdy3a",
@@ -88,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-21 01:00"
-    },
-    {
-      "id": "1383sa7",
-      "title": "EU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis",
-      "title_vi": "EU kiên quyết chống lại hoạt động khoan dầu khí ở Bắc Cực bất chấp khủng hoảng năng lượng",
-      "summary_vi": "Liên minh châu Âu đã tái khẳng định sự phản đối của mình đối với việc phát triển dầu khí ở Bắc Cực vào thứ Ba, ngay cả khi khối này chuẩn bị cho một mùa đông đắt đỏ khác với kho dự trữ khí đốt cạn kiệt và giá đạt đến mức gần nhất trong cuộc khủng hoảng năng lượng năm 2022. Ar mới của Ủy ban Châu Âu",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Stands-Firm-Against-Arctic-Oil-and-Gas-Drilling-Despite-Energy-Crisis.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-21 00:45"
     },
     {
       "id": "cwbjhu",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-19 22:00"
-    },
-    {
-      "id": "n81ggr",
-      "title": "U.S.-Mexico tariff dispute complicates USMCA talks",
-      "title_vi": "Tranh chấp thuế quan Mỹ-Mexico làm phức tạp các cuộc đàm phán USMCA",
-      "summary_vi": "Các cuộc đàm phán thương mại Mỹ-Mexico đã chậm lại về thuế ô tô và kim loại, làm dấy lên lo ngại trước cuộc đánh giá của USMCA.",
-      "image": "https://www.agdaily.com/wp-content/uploads/2019/07/bg-usmca-By-Lightspring.jpg",
-      "link": "https://www.agdaily.com/news/u-s-mexico-tariff-dispute-complicates-usmca-talks/",
-      "source": "AGDAILY",
-      "category": "macro",
-      "published": "2026-10-19 21:11"
     }
   ]
 }

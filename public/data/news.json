@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 09:00",
+  "updated_at": "2026-10-20 10:00",
   "items": [
     {
       "id": "1k6htec",
@@ -332,6 +332,17 @@
       "published": "2026-10-19 11:02"
     },
     {
+      "id": "aia9kx",
+      "title": "Gold edges lower as firm dollar, elevated yields weigh",
+      "title_vi": "Vàng giảm do đồng đô la vững, lợi suất tăng cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-edges-higher-softer-oil-fed-rate-outlook-focus-2026-10-19/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-10-19 10:11"
+    },
+    {
       "id": "1w55xht",
       "title": "Can Trump stop the surge in oil prices? Experts weigh in - ABC News",
       "title_vi": "Trump có thể ngăn chặn sự tăng vọt của giá dầu? Các chuyên gia cân nhắc - ABC News",
@@ -539,17 +550,6 @@
       "source": "S&P Global",
       "category": "agri",
       "published": "2026-10-17 12:32"
-    },
-    {
-      "id": "166ul4g",
-      "title": "Oil prices rise as Iran, proxies lash out",
-      "title_vi": "Giá dầu tăng khi Iran và các nước ủy nhiệm tấn công",
-      "summary_vi": "Dầu, phân tích cơ bản Các cuộc tấn công vào tàu thuyền được xác nhận và lưu lượng giao thông giảm, cùng với lượng hàng tồn kho liên quan đến bão giảm mạnh đã khiến giá dầu thô tăng trong tuần này. Mức cao của WTI...",
-      "image": "https://img.ogj.com/files/base/ebm/ogj/image/website/logos/1752245958870-ogj_horizontalcolor_reg2.png?auto=format,compress&fit=fill&fill=solid&fill-color=&w=1200&h=627",
-      "link": "https://www.ogj.com/general-interest/economics-markets/article/55412601/oil-prices-rise-as-iran-proxies-lash-out",
-      "source": "Oil & Gas Journal",
-      "category": "energy",
-      "published": "2026-10-17 06:09"
     }
   ]
 }

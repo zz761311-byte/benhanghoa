@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 07:43",
+  "updated_at": "2026-10-20 08:00",
   "items": [
     {
       "id": "1k6htec",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-10-20 05:00"
+    },
+    {
+      "id": "2c20kw",
+      "title": "Energy Market Assessment: United States Energy Price Outlook Natural Gas Outlook Supply/Demand Assessment October 2026",
+      "title_vi": "Đánh giá thị trường năng lượng: Triển vọng giá năng lượng của Hoa Kỳ Đánh giá cung/cầu khí đốt tự nhiên vào tháng 10 năm 2026",
+      "summary_vi": "Tin tức mới nhất về dầu khí, dành riêng cho tất cả mọi thứ về dầu khí: con người, công nghệ, giao dịch, xu hướng và phân tích kinh tế vĩ mô tác động đến giá cả hàng hóa.",
+      "image": "https://www.oilandgas360.com/wp-content/uploads/2026/10/OAG360-opinions-blue-1.png",
+      "link": "https://www.oilandgas360.com/energy-market-assessment-united-states-energy-price-outlook-natural-gas-outlook-supply-demand-assessment-october-2026/",
+      "source": "Oil & Gas 360",
+      "category": "energy",
+      "published": "2026-10-20 04:42"
     },
     {
       "id": "1eyyjg",
@@ -143,6 +154,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-19 23:09"
+    },
+    {
+      "id": "1crw5zz",
+      "title": "Supply Risks Support Coffee Prices",
+      "title_vi": "Rủi ro nguồn cung Hỗ trợ giá cà phê",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/supply-risks-support-coffee-prices-154542114.html",
+      "source": "Yahoo Finance",
+      "category": "soft",
+      "published": "2026-10-19 22:45"
     },
     {
       "id": "19nn8wo",
@@ -528,28 +550,6 @@
       "source": "Oil & Gas Journal",
       "category": "energy",
       "published": "2026-10-17 06:09"
-    },
-    {
-      "id": "k8bdpx",
-      "title": "Wall Street undecided on gold’s near-term trajectory, Main Street flirts with bearish bias after gold hits $4,200/oz ceiling",
-      "title_vi": "Phố Wall chưa quyết định về quỹ đạo ngắn hạn của vàng, nền kinh tế thực có xu hướng giảm sau khi vàng chạm trần 4.200 USD/oz",
-      "summary_vi": "(Kitco News) - Giá vàng phục hồi vào cuối tuần sau khi chịu áp lực nặng nề từ dữ liệu lạm phát nóng hơn dự kiến ​​của Mỹ, lãi suất trái phiếu kho bạc tăng và đồng đô la vững hơn, do lãi suất trái phiếu giảm và giảm kỳ vọng về việc Cục Dự trữ Liên bang tăng lãi suất vào tháng 10 đã giúp kim loại quý phục hồi phần lớn khoản lỗ.",
-      "image": "https://image-api.prod.kitco.com/image/7f804eea-b3ea-49b4-9d9a-aa0408b53d0e.png?top=0&left=0&width=1672&height=941&scale_width=1920&token=1da807fbb2999a30e6934c2871d20cc737309415d90aecae6f4cb8143a4b096a",
-      "link": "https://www.kitco.com/news/article/2026-10-16/wall-street-undecided-golds-near-term-trajectory-main-street-flirts-bearish",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-10-17 04:29"
-    },
-    {
-      "id": "1nhpu61",
-      "title": "Why silver is falling faster than gold: What it means for the next surge",
-      "title_vi": "Tại sao bạc giảm nhanh hơn vàng: Điều đó có ý nghĩa gì đối với đợt tăng giá tiếp theo",
-      "summary_vi": ".embed-container { vị trí: tương đối; phần đệm đáy: 56,25%; chiều cao: 0; tràn: ẩn; chiều rộng tối đa: 100%; } .embed-container iframe, đối tượng .embed-container, .embed-container embed { vị trí: tuyệt đối; trên cùng: 0; trái: 0; chiều rộng: 100%; chiều cao: 100%; }Trong bài trình bày này, Jeffrey Christian của CPM Group thảo luận về cách thức",
-      "image": "https://image-api.prod.kitco.com/image/23111e24-0c6b-4f1b-a1cc-c8d82ed5f8b2.webp?top=0&left=0.43448744059747&width=1279.1310251188&height=720&scale_width=1920&token=ee520a69efa5e2806bdf81f16d535b34b3e7e2e9a1dd16a13c1fa6af761403e6",
-      "link": "https://www.kitco.com/opinion/2026-10-16/why-silver-falling-faster-gold-what-it-means-next-surge",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-10-17 04:25"
     }
   ]
 }

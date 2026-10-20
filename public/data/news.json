@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 14:01",
+  "updated_at": "2026-10-20 15:01",
   "items": [
     {
       "id": "41e335",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-20 14:00"
+    },
+    {
+      "id": "1vbveam",
+      "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
+      "title_vi": "Đồng đang lấn át vàng trong năm nay. Các nhà đầu tư cho rằng đợt phục hồi có thể tồn tại sau đợt điều chỉnh AI",
+      "summary_vi": "Đồng tăng 15,8% vào năm 2026 khi các nhà đầu tư chỉ ra nhu cầu về AI, lưới điện và an ninh quốc gia, nguồn cung thắt chặt và kho dự trữ của Hoa Kỳ do thuế quan.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108346259-1786046336117-gettyimages-2228106041-US_COPPER.jpeg?v=1786046387&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-10-20 12:57"
     },
     {
       "id": "1e1hrem",
@@ -363,17 +374,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-10-19 11:02"
-    },
-    {
-      "id": "aia9kx",
-      "title": "Gold edges lower as firm dollar, elevated yields weigh",
-      "title_vi": "Vàng giảm do đồng đô la vững, lợi suất tăng cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-edges-higher-softer-oil-fed-rate-outlook-focus-2026-10-19/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-10-19 10:11"
     },
     {
       "id": "1w55xht",

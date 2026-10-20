@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 22:01",
+  "updated_at": "2026-10-20 22:10",
   "items": [
     {
       "id": "16hqpwp",
@@ -187,6 +187,17 @@
       "source": "Czapp",
       "category": "agri",
       "published": "2026-10-20 14:30"
+    },
+    {
+      "id": "18deazm",
+      "title": "Natural rubber price rally runs out of steam",
+      "title_vi": "Sự phục hồi giá cao su tự nhiên đã hết hơi",
+      "summary_vi": "Tâm lý nhà giao dịch bị ảnh hưởng bởi sự suy yếu của chứng khoán toàn cầu và mối lo ngại về các cổ phiếu liên quan đến AI",
+      "image": "",
+      "link": "https://www.european-rubber-journal.com/article/2099866/erj-jpx-report-to-19-oct",
+      "source": "European Rubber Journal",
+      "category": "soft",
+      "published": "2026-10-20 13:57"
     },
     {
       "id": "1wnlonb",
@@ -539,17 +550,6 @@
       "source": "TradingView",
       "category": "soft",
       "published": "2026-10-19 10:27"
-    },
-    {
-      "id": "1w55xht",
-      "title": "Can Trump stop the surge in oil prices? Experts weigh in - ABC News",
-      "title_vi": "Trump có thể ngăn chặn sự tăng vọt của giá dầu? Các chuyên gia cân nhắc - ABC News",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://abcnews.com/Business/trump-stop-surge-oil-prices-experts-weigh/story?id",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-10-19 10:11"
     }
   ]
 }

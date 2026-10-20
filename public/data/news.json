@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-20 11:00",
+  "updated_at": "2026-10-20 12:00",
   "items": [
+    {
+      "id": "1e1hrem",
+      "title": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply",
+      "title_vi": "Dầu Brent đạt mức 110 USD khi các cuộc tấn công tàu chở dầu đe dọa nguồn cung ở Vịnh Ba Tư",
+      "summary_vi": "Giá dầu thô tiếp tục tăng trong ngày hôm nay, với Brent lại đạt mức 110 USD/thùng vào đầu ngày và WTI quay trở lại mức hơn 100 USD, khi các nhà giao dịch ngày càng bi quan về việc nối lại dòng dầu bình thường ra khỏi Vịnh Ba Tư. Tại thời điểm viết bài, dầu thô Brent",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tops-110-as-Tanker-Attacks-Threaten-Persian-Gulf-Supply.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-20 11:56"
+    },
+    {
+      "id": "15lu4bl",
+      "title": "Gold inches up on softer dollar as investors assess Fed rate outlook",
+      "title_vi": "Vàng tăng nhẹ do đồng đô la yếu hơn khi các nhà đầu tư đánh giá triển vọng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-slips-investors-weigh-fed-rate-outlook-2026-10-20/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-10-20 08:33"
+    },
     {
       "id": "1k6htec",
       "title": "Robot Wars – How China Has the Robotics Industry in Its Grip",
@@ -134,17 +156,6 @@
       "published": "2026-10-20 00:42"
     },
     {
-      "id": "293cqm",
-      "title": "Pakistan’s Growth Slows as Hormuz Crisis Hits Industry",
-      "title_vi": "Tăng trưởng của Pakistan chậm lại khi khủng hoảng Hormuz tấn công ngành công nghiệp",
-      "summary_vi": "Cuộc khủng hoảng Trung Đông đang đe dọa sự phục hồi tạm thời của Pakistan từ bờ vực với sự trợ giúp của Quỹ Tiền tệ Quốc tế (IMF), khi giá năng lượng tăng vọt và việc thiếu nguồn cung cấp LNG thường xuyên từ Qatar đã kéo tăng trưởng tổng sản phẩm quốc nội (GDP) xuống thấp hơn nhiều so với ước tính của các nhà phân tích.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-19_d0bjgwckxa.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistans-Growth-Slows-as-Hormuz-Crisis-Hits-Industry.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-10-20 00:30"
-    },
-    {
       "id": "15bkqap",
       "title": "US Pain at the Pump Worsens After More US-Iran Fighting Lifts Oil Prices",
       "title_vi": "Nỗi đau của Mỹ tại máy bơm trở nên tồi tệ hơn sau khi nhiều cuộc chiến giữa Mỹ và Iran nâng giá dầu",
@@ -154,6 +165,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-19 23:09"
+    },
+    {
+      "id": "e83xw1",
+      "title": "US Natural Gas Output, Demand to Hit Record Highs in 2026, EIA Says",
+      "title_vi": "EIA cho biết sản lượng khí đốt tự nhiên của Hoa Kỳ sẽ đạt mức cao kỷ lục vào năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/08/us-natural-gas-output-demand-to-hit-record-highs-in-2026-eia-says/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-19 23:00"
     },
     {
       "id": "1crw5zz",
@@ -365,17 +387,6 @@
       "published": "2026-10-19 10:11"
     },
     {
-      "id": "xat65y",
-      "title": "Gold rises as Warsh remarks curb Fed hike bets",
-      "title_vi": "Vàng tăng khi nhận xét của Warsh hạn chế đặt cược tăng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-warsh-remarks-curb-013418779.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-10-19 08:34"
-    },
-    {
       "id": "1pm5x4a",
       "title": "Brent crude edges lower, even after Houthi attacks on Saudi infrastructure",
       "title_vi": "Dầu thô Brent giảm nhẹ, ngay cả sau khi Houthi tấn công cơ sở hạ tầng của Saudi",
@@ -539,17 +550,6 @@
       "source": "BeInCrypto",
       "category": "metal",
       "published": "2026-10-17 18:13"
-    },
-    {
-      "id": "8vuo3s",
-      "title": "US Natgas Falls 4% to 8-Week Low on Milder Weather Outlook, Lower LNG Export Flows",
-      "title_vi": "Natgas của Mỹ giảm 4% xuống mức thấp nhất trong 8 tuần do thời tiết ôn hòa hơn, lưu lượng xuất khẩu LNG thấp hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/07/us-natgas-falls-4-to-8-week-low-on-milder-weather-outlook-lower-lng-export-flows/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-17 14:07"
     }
   ]
 }

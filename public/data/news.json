@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-20 07:00",
+  "updated_at": "2026-10-20 07:43",
   "items": [
+    {
+      "id": "1k6htec",
+      "title": "Robot Wars – How China Has the Robotics Industry in Its Grip",
+      "title_vi": "Cuộc chiến robot – Làm thế nào Trung Quốc nắm bắt được ngành công nghiệp robot",
+      "summary_vi": "Năm ngoái, Trung Quốc bắt đầu yêu cầu giấy phép xuất khẩu nam châm đất hiếm. Trong vòng vài tuần, Elon Musk đã thông báo với các nhà đầu tư rằng việc sản xuất robot Optimus của Tesla đã bị ảnh hưởng. Đó là bởi vì mỗi robot hình người cần tới 4,5 kg nam châm đất hiếm để di chuyển,",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-19_sy5ye14dxg.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-20 07:41"
+    },
     {
       "id": "gy6ls1",
       "title": "Autocatalytic Palladium Final Finishes Market To 2035: Advanced Semiconductor Packaging Demand Supports Growth - News and Statistics",
@@ -121,17 +132,6 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-10-20 00:30"
-    },
-    {
-      "id": "d75vc1",
-      "title": "Why Canadian Oil Is Lagging Even As Global Crude Soars",
-      "title_vi": "Tại sao dầu Canada tụt hậu ngay cả khi giá dầu thô toàn cầu tăng vọt",
-      "summary_vi": "đợt tăng giá giá dầu đã tiếp tục quỹ đạo đi lên vào thứ Sáu sau khi Bộ Tư lệnh Trung ương Hoa Kỳ (CENTCOM) xác nhận vụ chìm tàu ​​container treo cờ Singapore sau cuộc tấn công bằng đạn của Quân đoàn Vệ binh Cách mạng Iran (IRGC) ở eo biển Hormuz. Dầu thô Brent cho tháng 12",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-19_7ecznvyuhc.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Why-Canadian-Oil-Is-Lagging-Even-As-Global-Crude-Soars.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-20 00:00"
     },
     {
       "id": "15bkqap",
@@ -319,6 +319,17 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "energy",
       "published": "2026-10-19 10:11"
+    },
+    {
+      "id": "1pm5x4a",
+      "title": "Brent crude edges lower, even after Houthi attacks on Saudi infrastructure",
+      "title_vi": "Dầu thô Brent giảm nhẹ, ngay cả sau khi Houthi tấn công cơ sở hạ tầng của Saudi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/oil-slips-trumps-sanction-waiver-may-lead-more-russian-fuel-supplies-2026-10-18/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-10-19 05:23"
     },
     {
       "id": "u8c5ot",
@@ -539,17 +550,6 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-10-17 04:25"
-    },
-    {
-      "id": "1abibpi",
-      "title": "Tech stocks erase $1 trillion of wealth as oil surges to $110 for the first time since May",
-      "title_vi": "Cổ phiếu công nghệ xóa đi 1 nghìn tỷ USD tài sản khi giá dầu tăng lên 110 USD lần đầu tiên kể từ tháng 5",
-      "summary_vi": "Cổ phiếu công nghệ giảm mạnh diễn ra khi mối lo ngại lại nổi lên về khoản nợ AI ngày càng tăng, lãi suất tăng và giá xăng tăng cao.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261016-nyse-ch-1628-e5d99c.jpg",
-      "link": "https://www.nbcnews.com/business/energy/oil-prices-hormuz-iran-ukraine-rcna603919",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-10-17 04:16"
     }
   ]
 }

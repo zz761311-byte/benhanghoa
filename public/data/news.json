@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-21 02:22",
+  "updated_at": "2026-10-21 03:00",
   "items": [
+    {
+      "id": "13bwufb",
+      "title": "The Middle East&#039;s Next Energy Boom Has Nothing to Do With Oil",
+      "title_vi": "Sự bùng nổ năng lượng tiếp theo của Trung Đông không liên quan gì đến dầu mỏ",
+      "summary_vi": "Một hệ thống năng lượng mới ở Trung Đông đã được đưa ra xem xét tại hội nghị Tuần lễ Thương mại Năng lượng Trung Đông ở Dubai vào tháng trước. Chi phí năng lượng mặt trời thấp nhất thế giới trong khu vực có tiềm năng to lớn trong việc thay đổi cách các quốc gia tiêu thụ và xuất khẩu năng lượng ở các sản phẩm có hàm lượng carbon thấp. “",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-20_aegjnfzlpp.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Middle-Easts-Next-Energy-Boom-Has-Nothing-to-Do-With-Oil.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-21 03:00"
+    },
     {
       "id": "17mfc0n",
       "title": "One Kurdish Peace Deal Could Ignite Another Middle Eastern Conflict",
@@ -112,17 +123,6 @@
       "published": "2026-10-20 23:02"
     },
     {
-      "id": "1w5awdg",
-      "title": "US and China Battle for Influence in Central Asia as Rubio Seals $12 Billion in",
-      "title_vi": "Cuộc chiến giành ảnh hưởng của Mỹ và Trung Quốc ở Trung Á khi Rubio huy động được 12 tỷ USD",
-      "summary_vi": "Uzbekistan trong những ngày gần đây đã đóng vai trò là trung tâm cạnh tranh giữa Hoa Kỳ và Trung Quốc về ảnh hưởng kinh tế ở Trung Á. Ngoại trưởng Hoa Kỳ Marco Rubio dẫn đầu một phái đoàn doanh nghiệp Mỹ gồm gần 300 người đến thành phố Samarkand của Uzbekistan để kinh doanh.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-19_kzz0o6dmw2.jpg",
-      "link": "https://oilprice.com/Geopolitics/Asia/US-and-China-Battle-for-Influence-in-Central-Asia-as-Rubio-Seals-12-Billion-in.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-10-20 23:00"
-    },
-    {
       "id": "1qqkqrg",
       "title": "Dr. Joseph John, Champion of Indian Coffee and Espresso, Dies at 88",
       "title_vi": "Tiến sĩ Joseph John, Nhà vô địch về Cà phê và Espresso Ấn Độ, qua đời ở tuổi 88",
@@ -143,6 +143,17 @@
       "source": "Newswise",
       "category": "soft",
       "published": "2026-10-20 21:20"
+    },
+    {
+      "id": "p25jnk",
+      "title": "LME Week: Copper supply struggles to keep pace with electrification demand",
+      "title_vi": "Tuần LME: Nguồn cung đồng đấu tranh để theo kịp nhu cầu điện khí hóa",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/102026-lme-week-copper-supply-struggles-to-keep-pace-with-electrification-demand",
+      "source": "S&P Global",
+      "category": "metal",
+      "published": "2026-10-20 21:08"
     },
     {
       "id": "1107pdx",
@@ -264,6 +275,17 @@
       "source": "Czapp",
       "category": "agri",
       "published": "2026-10-20 14:30"
+    },
+    {
+      "id": "1w94fbk",
+      "title": "Why unrest in the Strait of Hormuz is leading to rising oil and gasoline prices - ABC News",
+      "title_vi": "Vì sao bất ổn ở eo biển Hormuz khiến giá dầu, xăng tăng cao - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/Business/unrest-strait-hormuz-leading-rising-oil-gasoline-prices/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-10-20 14:28"
     },
     {
       "id": "18deazm",
@@ -442,6 +464,17 @@
       "published": "2026-10-20 00:42"
     },
     {
+      "id": "1cjqxk3",
+      "title": "Kiplinger Energy Outlook: High Gas Prices Loom over Midterm Elections",
+      "title_vi": "Triển vọng năng lượng của Kiplinger: Giá khí đốt cao sắp xảy ra trong cuộc bầu cử giữa kỳ",
+      "summary_vi": "Sự gián đoạn liên tục trong sản xuất và lọc dầu ở Trung Đông và Nga khiến giá nhiên liệu tăng cao.",
+      "image": "https://cdn.mos.cms.futurecdn.net/VqoAu2CHMSpTb9ZZJ5CPSU-1280-80.jpg",
+      "link": "https://www.kiplinger.com/economic-forecasts/energy",
+      "source": "Kiplinger",
+      "category": "energy",
+      "published": "2026-10-20 00:40"
+    },
+    {
       "id": "15bkqap",
       "title": "US Pain at the Pump Worsens After More US-Iran Fighting Lifts Oil Prices",
       "title_vi": "Nỗi đau của Mỹ tại máy bơm trở nên tồi tệ hơn sau khi nhiều cuộc chiến giữa Mỹ và Iran nâng giá dầu",
@@ -517,39 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "soft",
       "published": "2026-10-19 19:39"
-    },
-    {
-      "id": "xhd5jc",
-      "title": "Tax Charges Added to Federal ‘100% Kona’ Coffee Fraud Case",
-      "title_vi": "Các khoản phí thuế được bổ sung vào vụ lừa đảo cà phê '100% Kona' của liên bang",
-      "summary_vi": "Một phụ nữ Hawaii bị cáo buộc bán cà phê trồng ở nước ngoài trị giá hàng triệu đô la với tên gọi “100% Kona” hiện phải đối mặt với bốn khoản thuế liên bang bổ sung theo bản cáo trạng thay thế. Patricia “Trish” Johnson...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/10/19/tax-charges-added-to-federal-100-kona-coffee-fraud-case/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-10-19 19:39"
-    },
-    {
-      "id": "26k3m7",
-      "title": "Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks",
-      "title_vi": "Giá dầu giảm khi các thương nhân cân nhắc việc miễn trừ lệnh trừng phạt của Nga, rủi ro ở Trung Đông",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-10-19 18:36"
-    },
-    {
-      "id": "1ault52",
-      "title": "Platinum Industries share price jumps 14%: Technical analyst sees further upside; Check key levels to watch",
-      "title_vi": "Giá cổ phiếu của Platinum Industries tăng 14%: Nhà phân tích kỹ thuật nhận thấy xu hướng tăng giá hơn nữa; Kiểm tra các cấp độ chính để xem",
-      "summary_vi": "New Delhi, ngày 19 tháng 10 - Giá cổ phiếu của Platinum Industries đã tăng gần 14% vào thứ Hai, ngày 19 tháng 10, khi cổ phiếu chứng kiến ​​lực mua mạnh mẽ và khối lượng giao dịch cải thiện mạnh mẽ. đợt tăng giá diễn ra khi các nhà đầu tư theo dõi kế hoạch mở rộng của công ty và chờ đợi những tiến bộ hơn nữa trong hoạt động sản xuất mới của công ty.",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://www.tradingview.com/news/moodys:49bd7a943579b:0-platinum-industries-share-price-jumps-14-technical-analyst-sees-further-upside-check-key-levels-to-watch/",
-      "source": "TradingView",
-      "category": "metal",
-      "published": "2026-10-19 17:58"
     }
   ]
 }

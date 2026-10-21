@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-21 15:00",
+  "updated_at": "2026-10-21 16:00",
   "items": [
+    {
+      "id": "xlbl80",
+      "title": "India’s Coal Crisis Deepens as Power Demand Surges",
+      "title_vi": "Khủng hoảng than ở Ấn Độ ngày càng trầm trọng khi nhu cầu điện tăng cao",
+      "summary_vi": "Reuters đưa tin, các nhà máy điện ở Ấn Độ đang chuẩn bị cho tình trạng nguồn cung than bị siết chặt, với một nửa số nhà máy điện than của nước này đang hoạt động với lượng dự trữ cực kỳ thấp, Reuters đưa tin, với lý do nhu cầu điện cao hơn bình thường vì thời tiết ấm hơn bình thường vào thời điểm này trong năm.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-21_rci49ezgpa.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Coal-Crisis-Deepens-as-Power-Demand-Surges.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-21 15:30"
+    },
     {
       "id": "1angf98",
       "title": "Trump Administration Pushes Refiners to Boost Diesel Output as Prices Soar",
@@ -121,17 +132,6 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-10-21 04:00"
-    },
-    {
-      "id": "chpkck",
-      "title": "API: Crude, Product Inventories Continue to Draw",
-      "title_vi": "API: Dầu thô, tồn kho sản phẩm tiếp tục tăng",
-      "summary_vi": "Viện Dầu khí Hoa Kỳ (API) ước tính rằng tồn kho dầu thô ở Hoa Kỳ đã giảm 4,93 triệu thùng trong tuần kết thúc vào ngày 16 tháng 10. Trong tuần trước, tồn kho dầu thô của Hoa Kỳ đã giảm đáng kinh ngạc 11,12 triệu thùng. Tồn kho dầu thô thương mại cũ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-20_wgkyfll5q2.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/API-Crude-Products-Continu-eto-Draw.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-21 03:56"
     },
     {
       "id": "a5e9jd",

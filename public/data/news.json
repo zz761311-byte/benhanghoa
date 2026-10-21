@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 11:00",
+  "updated_at": "2026-10-21 12:01",
   "items": [
     {
       "id": "1qk6xep",
@@ -154,6 +154,17 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-10-20 23:02"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-20 22:05"
     },
     {
       "id": "1qqkqrg",
@@ -539,17 +550,6 @@
       "source": "S&P Global",
       "category": "macro",
       "published": "2026-10-20 00:42"
-    },
-    {
-      "id": "1cjqxk3",
-      "title": "Kiplinger Energy Outlook: High Gas Prices Loom over Midterm Elections",
-      "title_vi": "Triển vọng năng lượng của Kiplinger: Giá khí đốt cao sắp xảy ra trong cuộc bầu cử giữa kỳ",
-      "summary_vi": "Sự gián đoạn liên tục trong sản xuất và lọc dầu ở Trung Đông và Nga khiến giá nhiên liệu tăng cao.",
-      "image": "https://cdn.mos.cms.futurecdn.net/VqoAu2CHMSpTb9ZZJ5CPSU-1280-80.jpg",
-      "link": "https://www.kiplinger.com/economic-forecasts/energy",
-      "source": "Kiplinger",
-      "category": "energy",
-      "published": "2026-10-20 00:40"
     }
   ]
 }

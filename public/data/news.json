@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 10:00",
+  "updated_at": "2026-10-21 11:00",
   "items": [
     {
       "id": "1qk6xep",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-10-21 06:00"
+    },
+    {
+      "id": "e83xw1",
+      "title": "US Natural Gas Output, Demand to Hit Record Highs in 2026, EIA Says",
+      "title_vi": "EIA cho biết sản lượng khí đốt tự nhiên của Hoa Kỳ sẽ đạt mức cao kỷ lục vào năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/08/us-natural-gas-output-demand-to-hit-record-highs-in-2026-eia-says/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-21 05:01"
     },
     {
       "id": "1yfdrfq",
@@ -332,6 +343,17 @@
       "published": "2026-10-20 14:28"
     },
     {
+      "id": "1r7zjp5",
+      "title": "Why Brazil’s election could sway the U.S. soybean market",
+      "title_vi": "Tại sao cuộc bầu cử ở Brazil có thể ảnh hưởng đến thị trường đậu nành Mỹ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/soybean/why-brazil-s-election-could-sway-the-u-s-soybean-market",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-10-20 14:02"
+    },
+    {
       "id": "18deazm",
       "title": "Natural rubber price rally runs out of steam",
       "title_vi": "Sự phục hồi giá cao su tự nhiên đã hết hơi",
@@ -528,28 +550,6 @@
       "source": "Kiplinger",
       "category": "energy",
       "published": "2026-10-20 00:40"
-    },
-    {
-      "id": "15bkqap",
-      "title": "US Pain at the Pump Worsens After More US-Iran Fighting Lifts Oil Prices",
-      "title_vi": "Nỗi đau của Mỹ tại máy bơm trở nên tồi tệ hơn sau khi nhiều cuộc chiến giữa Mỹ và Iran nâng giá dầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/07/us-pain-at-the-pump-worsens-after-more-us-iran-fighting-lifts-oil-prices/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-19 23:09"
-    },
-    {
-      "id": "3gjfse",
-      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
-      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo giá dầu thô",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-19 23:06"
     }
   ]
 }

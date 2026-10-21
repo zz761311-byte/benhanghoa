@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-21 20:00",
+  "updated_at": "2026-10-21 21:00",
   "items": [
+    {
+      "id": "e2ap3i",
+      "title": "Japan’s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs",
+      "title_vi": "Thâm hụt thương mại của Nhật Bản tăng gấp đôi khi khủng hoảng Hormuz làm tăng chi phí nhập khẩu năng lượng",
+      "summary_vi": "Nhật Bản đã đặt mức thâm hụt thương mại 17,8 tỷ USD (2,82 nghìn tỷ Yên Nhật) từ tháng 4 đến tháng 9, gần gấp đôi mức thâm hụt so với một năm trước đó, dữ liệu của chính phủ cho thấy hôm thứ Tư, do cuộc khủng hoảng ở Trung Đông khiến việc nhập khẩu năng lượng vào nền kinh tế G7 nghèo tài nguyên trở nên đắt đỏ hơn nhiều.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-21_6afodrcvlp.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Trade-Deficit-Doubles-as-Hormuz-Crisis-Hikes-Energy-Import-Costs.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-10-21 20:30"
+    },
+    {
+      "id": "aboeqh",
+      "title": "Little Nest Coffee Roasters Hatches Outside Detroit",
+      "title_vi": "Nhà rang xay cà phê Little Nest mở cửa bên ngoài Detroit",
+      "summary_vi": "Một cơ sở mới dành cho gia đình dành cho các loại cà phê rang tươi mới nở gần đây ở vùng ngoại ô Detroit của Grosse Pointe Woods với việc khai trương Little Nest Coffee Roasters. Vị trí rộng 3.400 foot vuông có hiệu quả...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/10/21/little-nest-coffee-roasters-hatches-outside-detroit/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-10-21 20:17"
+    },
     {
       "id": "31hf59",
       "title": "Ukraine Welcomes Restored U.S. Intelligence Amid Russian Attacks",
@@ -9,7 +31,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-21_imvzh03j6y.jpg",
       "link": "https://oilprice.com/Geopolitics/Europe/Ukraine-Welcomes-Restored-US-Intelligence-Amid-Russian-Attacks.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-10-21 20:00"
     },
     {
@@ -154,17 +176,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-10-21 12:22"
-    },
-    {
-      "id": "j741g2",
-      "title": "Oil Prices Climb Above $110 as Middle East Supply Fears Persist",
-      "title_vi": "Giá dầu tăng trên 110 USD khi lo ngại về nguồn cung ở Trung Đông vẫn tồn tại",
-      "summary_vi": "Giá dầu thô tăng cao hơn vào đầu ngày hôm nay, kéo dài mức tăng từ thứ Ba khi các nhà giao dịch tiếp tục lo lắng về sự ổn định của dòng chảy ra khỏi Trung Đông. Tại thời điểm viết bài, dầu thô Brent đang giao dịch ở mức 110,30 USD/thùng, với West Texas Middle ở mức 99,12 USD/thùng,",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-Above-110-as-Middle-East-Supply-Fears-Persist.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-21 12:11"
     },
     {
       "id": "e83xw1",
@@ -539,17 +550,6 @@
       "source": "BloombergNEF",
       "category": "metal",
       "published": "2026-10-20 09:13"
-    },
-    {
-      "id": "gy6ls1",
-      "title": "Autocatalytic Palladium Final Finishes Market To 2035: Advanced Semiconductor Packaging Demand Supports Growth - News and Statistics",
-      "title_vi": "Thị trường hoàn thiện cuối cùng của Palladium xúc tác tự động đến năm 2035: Nhu cầu đóng gói chất bán dẫn tiên tiến hỗ trợ tăng trưởng - Tin tức và thống kê",
-      "summary_vi": "Thị trường hoàn thiện cuối cùng bằng palladium tự xúc tác dự kiến ​​sẽ phát triển đến năm 2035, được hỗ trợ bởi bao bì bán dẫn tiên tiến và việc sử dụng liên kết dây đồng.",
-      "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-autocatalytic-palladium-final-finishes-market-analysis-forecast-size-trends-and-insights-1792451785.webp",
-      "link": "https://www.indexbox.io/blog/autocatalytic-palladium-final-finishes-market-forecast-to-2035-driven-by-advanced-semiconductor-packaging-demand/",
-      "source": "IndexBox",
-      "category": "metal",
-      "published": "2026-10-20 06:16"
     }
   ]
 }

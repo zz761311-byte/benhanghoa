@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-21 16:00",
+  "updated_at": "2026-10-21 17:00",
   "items": [
+    {
+      "id": "oi97fz",
+      "title": "Goldman Sachs Warns of New Oil Price Shock as Tanker Rates Soar",
+      "title_vi": "Goldman Sachs cảnh báo về cú sốc giá dầu mới khi giá tàu chở dầu tăng cao",
+      "summary_vi": "Goldman Sachs cho biết, giá cước vận tải trung bình toàn cầu để vận chuyển dầu đã tăng lên 20 USD/thùng từ mức 3 USD/thùng vào năm ngoái do chiến tranh Iran và cuộc khủng hoảng Hormuz đã tạo ra một cuộc khủng hoảng vận chuyển khó có thể kết thúc sớm. Giá cước vận chuyển dầu dự kiến ​​sẽ tiếp tục tăng cao trong thời gian tới",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-21_e5tabasirt.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-of-New-Oil-Price-Shock-as-Tanker-Rates-Soar.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-21 16:30"
+    },
     {
       "id": "xlbl80",
       "title": "India’s Coal Crisis Deepens as Power Demand Surges",
@@ -9,8 +20,19 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-21_rci49ezgpa.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Coal-Crisis-Deepens-as-Power-Demand-Surges.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-10-21 15:30"
+    },
+    {
+      "id": "plxqat",
+      "title": "Antofagasta Shares Slump on Weak Copper Outlook",
+      "title_vi": "Cổ phiếu Antofagasta sụt giảm do triển vọng đồng yếu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/antofagasta-copper-production-rises-61a9bf89",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-10-21 15:11"
     },
     {
       "id": "1angf98",
@@ -22,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-21 14:00"
+    },
+    {
+      "id": "ndj3ac",
+      "title": "Despite Production Increase, U.S. Wheat Crop Remains The Smallest In A Generation",
+      "title_vi": "Mặc dù sản lượng tăng, cây lúa mì của Hoa Kỳ vẫn ở mức nhỏ nhất trong một thế hệ",
+      "summary_vi": "Ước tính cung và cầu tháng 10 của USDA cho thấy dự báo sản lượng lúa mì lớn hơn. Vậy, điều đó có nghĩa gì...",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3839/files/2025/11/shutterstock-wheat-field-combine-harvester-1200x675.jpg",
+      "link": "https://www.sfntoday.com/2026/10/21/despite-production-increase-u-s-wheat-crop-remains-the-smallest-in-a-generation/",
+      "source": "Southern Farm Network",
+      "category": "agri",
+      "published": "2026-10-21 13:10"
     },
     {
       "id": "1c8796c",
@@ -123,17 +156,6 @@
       "published": "2026-10-21 04:35"
     },
     {
-      "id": "mcdy3a",
-      "title": "Energy Costs Are Driving U.S. Inflation, and Wages Aren&#039;t Keeping Up",
-      "title_vi": "Chi phí năng lượng đang thúc đẩy lạm phát ở Mỹ và tiền lương không theo kịp",
-      "summary_vi": "Tỷ lệ lạm phát vẫn ở mức cao trên khắp nước Mỹ. Chỉ số giá tiêu dùng gần đây nhất của Cục Thống kê Lao động, được công bố vào tuần trước, tiết lộ những con số cao hơn hầu hết các dự đoán, cho thấy nỗi đau lâu dài đối với người tiêu dùng và một chu kỳ bầu cử ác mộng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-20_d0y3fnx8fa.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Energy-Costs-Are-Driving-US-Inflation-and-Wages-Arent-Keeping-Up.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-10-21 04:00"
-    },
-    {
       "id": "a5e9jd",
       "title": "Evanston-based coffee shop opens second location inside former Urbana Cafe space",
       "title_vi": "Quán cà phê có trụ sở tại Evanston mở địa điểm thứ hai bên trong không gian Urbana Cafe trước đây",
@@ -165,6 +187,17 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-10-20 23:02"
+    },
+    {
+      "id": "1pn0olf",
+      "title": "Wheat and Soybean Markets Face Downward Pressure Amid Weak Exports and Bearish Fundamentals",
+      "title_vi": "Thị trường lúa mì và đậu nành đối mặt với áp lực giảm giá trong bối cảnh xuất khẩu yếu và các nguyên tắc cơ bản giảm giá",
+      "summary_vi": "Trong bản tin hàng tuần, chuyên gia Tiếp thị Cây trồng của OSU, Todd Hubbs, ông cho biết giá Ngũ cốc tiếp tục giảm vào tuần trước khi bức tranh cơ bản giảm giá được đưa ra bởi loạt báo cáo gần đây của USDA đã xuất hiện trên thị trường. Các sự kiện địa chính trị vẫn là động lực chính của thị trường khi xung đột ở Biển Đen và Iran tiếp tục diễn ra ầm ĩ.",
+      "image": "",
+      "link": "https://www.oklahomafarmreport.com/2026/10/20/wheat-and-soybean-markets-face-downward-pressure-amid-weak-exports-and-bearish-fundamentals/",
+      "source": "Oklahoma Farm Report",
+      "category": "agri",
+      "published": "2026-10-20 22:10"
     },
     {
       "id": "1lrkwix",
@@ -517,39 +550,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-10-20 04:04"
-    },
-    {
-      "id": "1wpxmgk",
-      "title": "Copper price falls as LME stocks edge higher and mine supply concerns ease",
-      "title_vi": "Giá đồng giảm do dự trữ LME tăng cao và mối lo ngại về nguồn cung mỏ giảm bớt",
-      "summary_vi": "Giá đồng giảm hôm thứ Hai do tồn kho tăng và cuộc đình công chấm dứt tại một mỏ lớn của Chile làm giảm bớt lo ngại về nguồn cung. Giá đồng chuẩn ba tháng trên Sàn giao dịch kim loại Luân Đôn giảm 0,4% ở mức 14.342 USD/tấn vào lúc 16:00 GMT. Tồn kho đồng sẵn có trong các kho đăng ký LME đã tăng lên mức cao nhất hai tháng là 147.450 lên 147.450 lên 147.450 USD/tấn.",
-      "image": "https://image-api.prod.kitco.com/image/9bb21b1e-46e5-46f3-ad23-3014ac97c9ac.jpeg?top=0.52033271719039&left=0&width=1000&height=561.95933456562&scale_width=1920&token=e74432f3a4da398cbec1fceb8beeb718ecc3028612f4fc6685ac28116fe959ea",
-      "link": "https://www.kitco.com/news/off-the-wire/2026-10-19/copper-price-falls-lme-stocks-edge-higher-and-mine-supply-concerns",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-10-20 02:45"
-    },
-    {
-      "id": "26k3m7",
-      "title": "Oil Futures Pull Back as U.S. Waives Some Russia Sanctions",
-      "title_vi": "Giá dầu kỳ hạn giảm khi Mỹ bãi bỏ một số lệnh trừng phạt Nga",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-10-20 02:43"
-    },
-    {
-      "id": "dofdun",
-      "title": "Crude Oil Prices Surge on Global Supply Risks",
-      "title_vi": "Giá dầu thô tăng do rủi ro nguồn cung toàn cầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-surge-global-191800913.html",
-      "source": "Yahoo Finance",
-      "category": "energy",
-      "published": "2026-10-20 02:18"
     }
   ]
 }

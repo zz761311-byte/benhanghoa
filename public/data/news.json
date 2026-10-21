@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-22 01:01",
+  "updated_at": "2026-10-22 02:00",
   "items": [
+    {
+      "id": "g73sjq",
+      "title": "Russia’s Northern Sea Route Workaround Supplying Asian Buyers",
+      "title_vi": "Giải pháp tuyến đường biển phía Bắc của Nga Cung cấp cho người mua châu Á",
+      "summary_vi": "Nguồn cung cấp nhiên liệu và dầu thô của Nga đến châu Á đang được định tuyến lại khi cuộc chiến Mỹ-Israel với Iran và sự gián đoạn ở eo biển Hormuz và Bab al-Mandab đã làm tắc nghẽn dòng dầu thô truyền thống từ Vịnh Ba Tư. Thật vậy, Nga đã tăng cường vận chuyển dầu và LNG qua tuyến đường biển phía Bắc",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-21_zs6aipqq5x.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Russias-Northern-Sea-Route-Workaround-Supplying-Asian-Buyers.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-22 02:00"
+    },
     {
       "id": "1hbl4kx",
       "title": "Washington’s Central Asia Charm Offensive Yields $12 Billion in Deals",
@@ -57,6 +68,17 @@
       "published": "2026-10-21 23:00"
     },
     {
+      "id": "x0k0ti",
+      "title": "US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says",
+      "title_vi": "EIA cho biết sản lượng dầu thô của Mỹ sẽ giảm trong thập kỷ tới do dự báo giá dầu Brent dưới 70 USD",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-crude-output-to-fall-next-decade-on-sub-70-brent-price-forecast-eia-says/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-21 22:31"
+    },
+    {
       "id": "dzj6vu",
       "title": "India’s Top State Refiner to Reduce Middle East Term Oil Purchases",
       "title_vi": "Nhà máy lọc dầu quốc gia hàng đầu của Ấn Độ giảm mua dầu kỳ hạn ở Trung Đông",
@@ -68,6 +90,17 @@
       "published": "2026-10-21 22:30"
     },
     {
+      "id": "ugtxx2",
+      "title": "Nate Silver Forecast Shifts Toward Republicans After Fake Polls Removed",
+      "title_vi": "Dự báo bạc của Nate chuyển hướng sang đảng Cộng hòa sau khi các cuộc thăm dò giả bị xóa",
+      "summary_vi": "",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2026/10/GettyImages-2289533628.jpg?w=1200&crop=1",
+      "link": "https://www.newsweek.com/nate-silver-forecast-shifts-towards-republicans-after-fake-polls-removed-12600692",
+      "source": "Newsweek",
+      "category": "metal",
+      "published": "2026-10-21 22:28"
+    },
+    {
       "id": "1a83awf",
       "title": "EIA Says US Crude Inventories Sink Further",
       "title_vi": "EIA cho biết tồn kho dầu thô của Mỹ tiếp tục giảm",
@@ -77,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-21 21:39"
-    },
-    {
-      "id": "1crmz40",
-      "title": "Higher Oil Availability Pressures Middle East Crude Benchmarks",
-      "title_vi": "Áp lực về nguồn cung dầu cao hơn Điểm chuẩn dầu thô Trung Đông",
-      "summary_vi": "Dòng dầu thô mạnh mẽ chảy ra khỏi Trung Đông trong những tuần gần đây đã bắt đầu gây áp lực lên thước đo sức mạnh chính đối với nguồn cung vật chất ra khỏi khu vực. Chênh lệch giá dầu thô Oman so với Dubai, thước đo sức mạnh thị trường Trung Đông, đã giảm trong tuần này xuống mức thấp nhất.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-21_iy9hg0xeun.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Higher-Oil-Availability-Pressures-Middle-East-Crude-Benchmarks.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-21 21:30"
     },
     {
       "id": "19fupdc",
@@ -110,6 +132,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-21 21:24"
+    },
+    {
+      "id": "rvb8ud",
+      "title": "Can Soybean Demand Keep Prices Near $12?",
+      "title_vi": "Nhu cầu đậu nành có thể giữ giá gần 12 USD không?",
+      "summary_vi": "Grant Gardner viết trên Southern Ag Today: Vào tháng 10 WASDE (USDA-WAOB, 2026), USDA đã nâng kỳ vọng năng suất đậu tương thêm 0,3 giạ lên mức kỷ lục 53,1 giạ mỗi mẫu Anh, nâng sản lượng thêm 27 triệu giạ lên mức kỷ lục 4,56 tỷ. Vụ mùa lớn hơn không làm giảm dự báo giá trung bình theo mùa của USDA. USDA cũng",
+      "image": "",
+      "link": "https://www.oklahomafarmreport.com/2026/10/21/can-soybean-demand-keep-prices-near-12/",
+      "source": "Oklahoma Farm Report",
+      "category": "agri",
+      "published": "2026-10-21 21:01"
     },
     {
       "id": "1ngboi",
@@ -517,39 +550,6 @@
       "source": "NPR",
       "category": "soft",
       "published": "2026-10-20 16:00"
-    },
-    {
-      "id": "bq8s6w",
-      "title": "Silver Price Forecast: XAG/USD rises to near $57.30 amid drop in US bond yields",
-      "title_vi": "Dự báo giá bạc: XAG/USD tăng lên gần 57,30 USD trong bối cảnh lãi suất trái phiếu Mỹ giảm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-5730-amid-drop-in-us-bond-yields-202610200838",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-10-20 15:38"
-    },
-    {
-      "id": "1rtuam6",
-      "title": "Limited Supply Keeps US Sugar Market Firm",
-      "title_vi": "Nguồn cung hạn chế giữ vững thị trường đường Hoa Kỳ",
-      "summary_vi": "Nguồn cung hạn chế giữ vững thị trường đường Hoa Kỳ",
-      "image": "https://www.czapp.com/wp-content/uploads/2026/10/4f2c9073-df93-4e25-897c-e0cca5d149b1.jpg",
-      "link": "https://www.czapp.com/analyst-insights/limited-supply-keeps-us-sugar-market-firm/",
-      "source": "Czapp",
-      "category": "soft",
-      "published": "2026-10-20 15:00"
-    },
-    {
-      "id": "1apj86s",
-      "title": "Bearish US Corn Outlook Contrasts with European Supply Concerns",
-      "title_vi": "Triển vọng ngô Mỹ giảm tương phản với mối lo ngại về nguồn cung châu Âu",
-      "summary_vi": "Triển vọng ngô Mỹ giảm tương phản với mối lo ngại về nguồn cung châu Âu",
-      "image": "https://www.czapp.com/wp-content/uploads/2026/10/d74fe873-8e21-4fcd-b9d9-b2b2f59ee93a.jpg",
-      "link": "https://www.czapp.com/analyst-insights/bearish-us-corn-outlook-contrasts-with-european-supply-concerns/",
-      "source": "Czapp",
-      "category": "agri",
-      "published": "2026-10-20 14:30"
     }
   ]
 }

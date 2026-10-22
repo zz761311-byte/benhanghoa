@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-22 16:01",
+  "updated_at": "2026-10-22 17:00",
   "items": [
+    {
+      "id": "1k2li78",
+      "title": "Iran Claims Seven Ships Hit in Persian Gulf as Oil Prices Surge",
+      "title_vi": "Iran tuyên bố bảy tàu bị tấn công ở Vịnh Ba Tư khi giá dầu tăng cao",
+      "summary_vi": "Hải quân của Lực lượng Vệ binh Cách mạng Hồi giáo Iran (IRGC) hôm thứ Năm tuyên bố rằng 7 tàu, bao gồm cả tàu chở dầu, đã bị lực lượng Iran tấn công hoặc trúng mìn ở Vịnh Ba Tư trong ngày qua, khi căng thẳng trong khu vực bùng phát trở lại trong tuần này. Hải quân IRGC cho biết",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-22_ea4mpvypxh.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Claims-Seven-Ships-Hit-in-Persian-Gulf-as-Oil-Prices-Surge.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-22 16:30"
+    },
     {
       "id": "18clb0q",
       "title": "India Ramps Up Coal Supplies to Record High as Power Crisis Looms",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-22 15:30"
+    },
+    {
+      "id": "a93s50",
+      "title": "Wheat markets sink as weak exports outweigh drought concerns",
+      "title_vi": "Thị trường lúa mì sụt giảm do xuất khẩu yếu vượt qua lo ngại hạn hán",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/wheat/wheat-markets-sink-as-weak-exports-outweigh-drought-concerns",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-10-22 14:02"
     },
     {
       "id": "6ka75g",
@@ -132,17 +154,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-10-22 03:05"
-    },
-    {
-      "id": "16vlqdz",
-      "title": "As BP Leaves the North Sea, These Independents Are Buying In",
-      "title_vi": "Khi BP rời Biển Bắc, những công ty độc lập này đang mua vào",
-      "summary_vi": "Trở lại vào tháng 7, công ty dầu khí lớn của Anh BP Plc. (NYSE: BP) thông báo rằng họ sẽ rao bán toàn bộ hoạt động kinh doanh dầu khí Biển Bắc của Vương quốc Anh như một phần của cuộc cải tổ danh mục đầu tư trị giá 20 tỷ USD, đánh dấu sự kết thúc kỷ nguyên 60 năm với tư cách là công ty hàng đầu trong lưu vực dầu lớn nhất Châu Âu.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-21_1qus6u8rhs.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/As-BP-Leaves-the-North-Sea-These-Independents-Are-Buying-In.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-22 03:00"
     },
     {
       "id": "14amwob",
@@ -539,17 +550,6 @@
       "source": "Oklahoma Farm Report",
       "category": "agri",
       "published": "2026-10-20 22:10"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-20 22:05"
     }
   ]
 }

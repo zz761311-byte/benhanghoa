@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-22 13:10",
+  "updated_at": "2026-10-22 14:00",
   "items": [
+    {
+      "id": "6ka75g",
+      "title": "Iran’s Oil Reserves Run Dry as U.S. Naval Blockade Tightens",
+      "title_vi": "Dự trữ dầu của Iran cạn kiệt khi lệnh phong tỏa của hải quân Mỹ thắt chặt",
+      "summary_vi": "Tờ Wall Street Journal đưa tin, dầu của Iran trong kho nổi đã cạn kiệt trong bối cảnh Hải quân Hoa Kỳ phong tỏa, trích dẫn dữ liệu của Kpler cho thấy nguồn cung dầu toàn cầu đang tiếp tục thắt chặt. “Không còn dầu để xả sang Trung Quốc nữa”, người đứng đầu bộ phận phân tích dầu thô của Kpler, Ho",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-22_ji3dcnzmqu.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Irans-Oil-Reserves-Run-Dry-as-US-Naval-Blockade-Tightens.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-22 14:00"
+    },
     {
       "id": "yy07ij",
       "title": "Oil Prices Surge Above $111 as Houthis Strike Saudi Targets",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-22 12:30"
+    },
+    {
+      "id": "1fy1dvz",
+      "title": "Soybean and Wheat futures fall as harvest pressure and supply risks ease.",
+      "title_vi": "Giá đậu tương và lúa mì giảm do áp lực thu hoạch và rủi ro nguồn cung giảm bớt.",
+      "summary_vi": "Giá đậu tương kỳ hạn tiếp tục giảm phiên thứ 9 liên tiếp do thời tiết thuận lợi đẩy nhanh tiến độ thu hoạch ở Trung Tây bất chấp doanh số bán gần đây sang Trung Quốc. Giá ngô kỳ hạn được giao dịch không đồng đều do nhu cầu Vành đai ngô phía Tây phản ánh sản lượng thấp hơn ở phía Đông. Giá lúa mì kỳ hạn giảm do các nhà giao dịch giảm phí bảo hiểm rủi ro địa chính trị, khiến giá giảm",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/soybean-and-wheat-futures-fall-as-harvest-pressure-and-supply-ri.jpg",
+      "link": "https://www.cmegroup.com/videos/2026/10/21/soybean-and-wheat-futures-fall-as-harvest-pressure-and-supply-ri.html",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-10-22 08:02"
     },
     {
       "id": "1p6q3tz",
@@ -66,6 +88,17 @@
       "source": "Nebraska State Climate Office",
       "category": "agri",
       "published": "2026-10-22 04:59"
+    },
+    {
+      "id": "18kgoeq",
+      "title": "Is Corn Bottoming? After Market Bounces Despite Fresh Lows in Soybeans and Wheat",
+      "title_vi": "Ngô có chạm đáy không? Sau khi thị trường phục hồi bất chấp mức thấp mới về đậu nành và lúa mì",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/corn-bottoming-after-market-bounces-despite-fresh-lows-soybeans-and-wheat",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-10-22 04:46"
     },
     {
       "id": "1iv4g5h",
@@ -134,15 +167,15 @@
       "published": "2026-10-22 01:12"
     },
     {
-      "id": "1hbl4kx",
-      "title": "Washington’s Central Asia Charm Offensive Yields $12 Billion in Deals",
-      "title_vi": "Cuộc tấn công quyến rũ Trung Á của Washington mang lại lợi nhuận 12 tỷ USD",
-      "summary_vi": "Hai động lực kinh tế của Trung Á là Kazakhstan và Uzbekistan có vẻ hài lòng với kết quả chuyến thăm khu vực này của Ngoại trưởng Mỹ Marco Rubio. Nhưng cả Astana và Tashkent đều muốn thấy nhiều nỗ lực hơn nữa để “chuyển các thỏa thuận chính trị thành các khoản đầu tư cụ thể”. Rubio dẫn đầu",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-21_djdwpcobn5.jpg",
-      "link": "https://oilprice.com/Geopolitics/Asia/Washingtons-Central-Asia-Charm-Offensive-Yields-12-Billion-in-Deals.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-10-22 01:00"
+      "id": "bngfto",
+      "title": "Copper price falls as inventories rise, supply worries ease; nickel climbs",
+      "title_vi": "Giá đồng giảm do hàng tồn kho tăng, lo ngại về nguồn cung giảm bớt; leo núi niken",
+      "summary_vi": "Dữ liệu cho thấy tồn kho LME tăng 11.475 tấn vào thứ Tư, tăng 8% trong một tuần.",
+      "image": "https://www.mining.com/wp-content/uploads/2025/01/Copper-Smelter-AdobeStock_214225845-1024x576.png",
+      "link": "https://www.mining.com/web/copper-price-falls-as-inventories-rise-supply-worries-ease-nickel-climbs/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-10-22 00:24"
     },
     {
       "id": "x0k0ti",
@@ -517,39 +550,6 @@
       "source": "Newswise",
       "category": "soft",
       "published": "2026-10-20 21:20"
-    },
-    {
-      "id": "p25jnk",
-      "title": "LME Week: Copper supply struggles to keep pace with electrification demand",
-      "title_vi": "Tuần LME: Nguồn cung đồng đấu tranh để theo kịp nhu cầu điện khí hóa",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/102026-lme-week-copper-supply-struggles-to-keep-pace-with-electrification-demand",
-      "source": "S&P Global",
-      "category": "metal",
-      "published": "2026-10-20 21:08"
-    },
-    {
-      "id": "1107pdx",
-      "title": "Oil prices move higher as traders adjust to a new normal in the Middle East",
-      "title_vi": "Giá dầu tăng cao hơn khi các nhà giao dịch điều chỉnh theo trạng thái bình thường mới ở Trung Đông",
-      "summary_vi": "Deutsche Bank viết: Chi phí của các hợp đồng dầu thô cho năm tới đạt mức cao kỷ lục, “ngụ ý rằng giá dầu cao sẽ kéo dài đến tận năm 2027”.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261020-strait-hormuz-mn-0850-bb983e.jpg",
-      "link": "https://www.nbcnews.com/business/energy/oil-prices-new-normal-gas-midterms-rcna604542",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-10-20 20:48"
-    },
-    {
-      "id": "s33mpj",
-      "title": "Syracuse Haraz Coffee House Closes as Franchise Dispute Heads to Court",
-      "title_vi": "Quán cà phê Syracuse Haraz đóng cửa khi tranh chấp nhượng quyền được đưa ra tòa",
-      "summary_vi": "Chưa đầy một năm sau khi khai trương, quán cà phê Haraz gần Đại học Syracuse ở New York đã đóng cửa khi các nhà điều hành địa phương phải đối mặt với vụ kiện do...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/10/20/syracuse-haraz-coffee-house-closes-as-franchise-dispute-heads-to-court/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-10-20 20:43"
     }
   ]
 }

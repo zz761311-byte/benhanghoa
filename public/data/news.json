@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 07:57",
+  "updated_at": "2026-10-22 08:00",
   "items": [
     {
       "id": "1p6q3tz",
@@ -354,6 +354,17 @@
       "published": "2026-10-21 11:22"
     },
     {
+      "id": "z6eigg",
+      "title": "Silver futures rally as supply deficit balances weak industrial demand.",
+      "title_vi": "Giá bạc kỳ hạn tăng do thâm hụt nguồn cung cân bằng nhu cầu công nghiệp yếu.",
+      "summary_vi": "Giá bạc kỳ hạn có xu hướng cao hơn khi hợp đồng tháng 12 tăng 3,67% kể từ khi đóng cửa ngày 14 tháng 10, mặc dù đã giảm nhẹ so với mức cao nhất trong ngày là 58,76 USD. Thị trường tiếp tục theo dõi kỳ vọng về lãi suất của Cục Dự trữ Liên bang, với Công cụ FedWatch CME cho thấy xác suất 82,8% lãi suất không thay đổi ở thời điểm sắp tới.",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/silver-futures-rally-as-supply-deficit-balances-weak-industrial-.jpg",
+      "link": "https://www.cmegroup.com/videos/2026/10/20/silver-futures-rally-as-supply-deficit-balances-weak-industrial-.html",
+      "source": "CME Group",
+      "category": "metal",
+      "published": "2026-10-21 07:40"
+    },
+    {
       "id": "1i273g7",
       "title": "Corn Selling Continues on Tuesday",
       "title_vi": "Bán ngô tiếp tục vào thứ ba",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-20 20:43"
-    },
-    {
-      "id": "sqgsm5",
-      "title": "144% Chip Sales Surge Supports Silver’s Long-Term Demand",
-      "title_vi": "Doanh số bán chip tăng 144% hỗ trợ nhu cầu dài hạn của bạc",
-      "summary_vi": "Cơ sở hạ tầng AI và đóng gói chip tiên tiến có thể đa dạng hóa nhu cầu bạc công nghiệp ngoài năng lượng mặt trời, tạo ra cơ hội trong lĩnh vực khai thác bạc.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6ad76d84a5de51c7989e023e_Semiconductor%20Leadframes.png",
-      "link": "https://www.cruxinvestor.com/posts/144-chip-sales-surge-supports-silvers-long-term-demand",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-10-20 20:42"
     }
   ]
 }

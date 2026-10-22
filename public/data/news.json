@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-23 03:00",
+  "updated_at": "2026-10-23 03:35",
   "items": [
+    {
+      "id": "vu16p9",
+      "title": "Latest report shows Arkansas gas prices dropping even as crude oil prices stay high",
+      "title_vi": "Báo cáo mới nhất cho thấy giá xăng ở Arkansas giảm ngay cả khi giá dầu thô vẫn ở mức cao",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.kark.com/news/state-news/latest-report-shows-arkansas-gas-prices-dropping-even-as-crude-oil-prices-stay-high/",
+      "source": "KARK",
+      "category": "energy",
+      "published": "2026-10-23 03:24"
+    },
     {
       "id": "1ui8d95",
       "title": "Why Fossil Fuel Demand Can Rise Even as Clean Energy Wins Terrain",
@@ -539,17 +550,6 @@
       "source": "Nasdaq",
       "category": "metal",
       "published": "2026-10-21 17:51"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!HY-o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F098967c0-94d9-494e-b37b-1d8508627240_1500x1000.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-10-21 16:39"
     }
   ]
 }

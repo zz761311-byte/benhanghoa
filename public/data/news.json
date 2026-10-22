@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 06:00",
+  "updated_at": "2026-10-23 06:40",
   "items": [
     {
       "id": "3kpqd4",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-23 06:00"
+    },
+    {
+      "id": "1wu2uzn",
+      "title": "How rising crude oil prices could impact the U.S. and global economy",
+      "title_vi": "Giá dầu thô tăng có thể tác động đến nền kinh tế Mỹ và toàn cầu như thế nào",
+      "summary_vi": "Thứ Năm là một ngày đầy sóng gió đối với thị trường dầu mỏ. Dầu thô Brent có thời điểm tăng hơn 3% và dầu thô chuẩn West Texas Middle của Mỹ đã nhanh chóng đạt mốc 100 USD/thùng.",
+      "image": "https://img.apmcdn.org/650debff6b73af7538763f4c8f25bca56d0ddf2a/widescreen/1ca091-20261022-gas-price-displayed-at-a-shell-2000.jpg",
+      "link": "https://www.marketplace.org/story/2026/10/22/whats-the-affect-of-rising-crude-oil-prices",
+      "source": "Marketplace.org",
+      "category": "energy",
+      "published": "2026-10-23 05:57"
     },
     {
       "id": "8q3bmk",
@@ -539,17 +550,6 @@
       "source": "RFD-TV",
       "category": "agri",
       "published": "2026-10-21 19:07"
-    },
-    {
-      "id": "p8xucn",
-      "title": "Automotive transition reshapes platinum’s mine-to-market supply chain",
-      "title_vi": "Quá trình chuyển đổi ô tô định hình lại chuỗi cung ứng từ mỏ tới thị trường của bạch kim",
-      "summary_vi": "Các nhà sản xuất bạch kim phải đối mặt với một thị trường ô tô đang thay đổi khi điện khí hóa định hình lại nhu cầu PGM và việc tái chế mang lại sự hỗ trợ hạn chế",
-      "image": "https://www.mining-technology.com/wp-content/uploads/sites/19/2026/10/shutterstock_2576694701-1.jpg",
-      "link": "https://www.mining-technology.com/features/automotive-transition-reshapes-platinums-mine-to-market-supply-chain/",
-      "source": "Mining Technology",
-      "category": "metal",
-      "published": "2026-10-21 18:57"
     }
   ]
 }

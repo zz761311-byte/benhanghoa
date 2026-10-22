@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 14:00",
+  "updated_at": "2026-10-22 15:00",
   "items": [
     {
       "id": "6ka75g",
@@ -110,6 +110,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-10-22 04:00"
+    },
+    {
+      "id": "11i5m18",
+      "title": "Silver Price Forecast: Failed rebound leaves $57 exposed",
+      "title_vi": "Dự báo giá bạc: Sự phục hồi không thành công khiến 57 USD bị lộ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-failed-rebound-leaves-57-exposed-202610212005",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-10-22 03:05"
     },
     {
       "id": "16vlqdz",
@@ -310,6 +321,17 @@
       "published": "2026-10-21 17:51"
     },
     {
+      "id": "z37xel",
+      "title": "Gold Declines Towards $4,120 as Iran Conflict and Federal Reserve Outlook Remain in Focus",
+      "title_vi": "Vàng giảm xuống còn 4.120 USD khi xung đột Iran và triển vọng của Cục Dự trữ Liên bang vẫn là tâm điểm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-declines-towards-4-120-095044034.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-10-21 16:50"
+    },
+    {
       "id": "butus2",
       "title": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report",
       "title_vi": "Vàng tăng, bạc trượt khi giá dầu tăng, kỳ vọng tăng lãi suất của Fed vẫn tồn tại - Báo cáo Kitco AM",
@@ -374,17 +396,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-10-21 12:22"
-    },
-    {
-      "id": "1ub2k3p",
-      "title": "Gold and Silver Price Forecast: Breakdown Risk Persists as Oil Rebounds",
-      "title_vi": "Dự báo giá vàng và bạc: Rủi ro suy thoái vẫn tồn tại khi dầu phục hồi",
-      "summary_vi": "Vàng và bạc vẫn chịu áp lực khi giá dầu cao gây lo ngại về lạm phát và khiến Fed phải tập trung vào việc tăng lãi suất hơn nữa.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-and-silver-precious-metals-02-1.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-breakdown-risk-persists-as-oil-rebounds-1639384",
-      "source": "FXEmpire",
-      "category": "macro",
-      "published": "2026-10-21 11:22"
     },
     {
       "id": "z6eigg",
@@ -539,17 +550,6 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "energy",
       "published": "2026-10-20 21:29"
-    },
-    {
-      "id": "11vcofj",
-      "title": "Americans are putting more additives—and calories—in their coffee | Newswise",
-      "title_vi": "Người Mỹ đang cho thêm nhiều chất phụ gia—và calo—vào cà phê của họ | Tin tức",
-      "summary_vi": "Nghiên cứu mới nói rằng trong khi người Mỹ uống cùng một lượng cà phê trong những năm gần đây, lượng calo trong những cốc đó đã tăng lên chủ yếu nhờ vào việc bổ sung kem không sữa.",
-      "image": "https://media.newswise.com/pio/articles/856647/6ad0da7a6a800_other_coffee_alonso_856647.JPG",
-      "link": "https://www.newswise.com/articles/americans-are-putting-more-additives-and-calories-in-their-coffee",
-      "source": "Newswise",
-      "category": "soft",
-      "published": "2026-10-20 21:20"
     }
   ]
 }

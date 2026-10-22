@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-10-23 01:00",
+  "updated_at": "2026-10-23 02:00",
   "items": [
+    {
+      "id": "pmtli4",
+      "title": "Strathcona Pitches 250,000-Bpd Oil Export Route to Asia",
+      "title_vi": "Strathcona triển khai lộ trình xuất khẩu dầu 250.000 thùng/ngày sang châu Á",
+      "summary_vi": "Nhà sản xuất dầu mỏ Canada Strathcona Resources muốn xuất khẩu tới 250.000 thùng dầu thô mỗi ngày từ bờ biển phía bắc British Columbia bằng cách sử dụng các chuyến hàng bằng đường sắt và một bến cảng biển mới để tiếp cận thị trường châu Á. Nhưng trước tiên, họ cần Ottawa đưa ra một ngoại lệ đối với lệnh cấm tàu ​​chở dầu. S",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-22_l8ipcan7fl.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Strathcona-Pitches-250000-Bpd-Oil-Export-Route-to-Asia.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-23 02:00"
+    },
+    {
+      "id": "1s6vihx",
+      "title": "Silver Futures Fall to Lowest This Year as Oil Prices Fuel Inflation Risks",
+      "title_vi": "Giá bạc kỳ hạn giảm xuống mức thấp nhất trong năm nay do giá dầu gây ra rủi ro lạm phát",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/silver-futures-fall-to-lowest-this-year-as-oil-prices-fuel-inflation-risks-f013e561",
+      "source": "WSJ",
+      "category": "macro",
+      "published": "2026-10-23 01:34"
+    },
+    {
+      "id": "1rwrrxb",
+      "title": "Silver Forecast: XAG/USD Hits Fresh 2026 Lows as Selling Pressure Accelerates",
+      "title_vi": "Dự báo bạc: XAG/USD đạt mức thấp mới năm 2026 khi áp lực bán tăng nhanh",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forex.com/en-us/news-and-analysis/silver-forecast-xag-usd-hits-fresh-2026-lows-as-selling-pressure-accelerates/",
+      "source": "FOREX.com",
+      "category": "metal",
+      "published": "2026-10-23 01:00"
+    },
     {
       "id": "vf5786",
       "title": "EU’s Proposed Shipping Subsidies Could Make BioLNG Cheaper Than Fuel Oil",
@@ -11,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-23 01:00"
+    },
+    {
+      "id": "19g5x1o",
+      "title": "Why candy prices are scary high ahead of Halloween",
+      "title_vi": "Tại sao giá kẹo lại tăng cao đáng sợ trước Halloween",
+      "summary_vi": "Chi phí nguyên liệu ngày càng tăng trong ngành bánh kẹo đã khiến những gã khổng lồ như Hershey phải suy nghĩ lại về việc đổi mới và mở rộng các lựa chọn chiêu đãi hoặc chiêu đãi bao gồm cả đồ ăn nhẹ có vị mặn.",
+      "image": "https://imgproxy.divecdn.com/8SBwi_fCUnGUFn2a2afzgHwBaBduyrSD2Kxvga_Frew/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ0MjIwMjA0LmpwZw==.webp",
+      "link": "https://www.fooddive.com/news/halloween-candy-inflation-2026-hershey-mondelez/833754/",
+      "source": "Food Dive",
+      "category": "soft",
+      "published": "2026-10-23 00:54"
     },
     {
       "id": "1ui77aj",
@@ -90,6 +134,17 @@
       "published": "2026-10-22 22:30"
     },
     {
+      "id": "13eizuq",
+      "title": "Corn and Wheat Look for Lows, Soybeans Bounce on Exports: Cattle Correct",
+      "title_vi": "Ngô và lúa mì tìm kiếm mức thấp, đậu nành tăng nhờ xuất khẩu: Gia súc đúng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/corn-and-wheat-look-lows-soybeans-bounce-exports-cattle-correct",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-10-22 22:24"
+    },
+    {
       "id": "x3d6y2",
       "title": "Iran&#039;s Hardliners Push for Nuclear Weapons as U.S. War Drags On",
       "title_vi": "Những người theo đường lối cứng rắn của Iran thúc đẩy vũ khí hạt nhân khi chiến tranh của Mỹ kéo dài",
@@ -99,17 +154,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-22 22:00"
-    },
-    {
-      "id": "16zh6e4",
-      "title": "European Natural Gas Prices Rise on Middle East Escalation",
-      "title_vi": "Giá khí đốt tự nhiên châu Âu tăng do leo thang ở Trung Đông",
-      "summary_vi": "Giá khí đốt tự nhiên chuẩn của châu Âu đã tăng vào thứ Năm lên gần 90 euro mỗi megawatt giờ, tương đương 29,50 USD trên một triệu đơn vị nhiệt của Anh (MMBtu), do sự leo thang ở Trung Đông làm dấy lên lo ngại về nguồn cung khí đốt mùa đông ở châu Âu trong bối cảnh lượng phát minh thấp kỷ lục.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-22_zoumrgciqk.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Rise-on-Middle-East-Escalation.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-22 21:30"
     },
     {
       "id": "xu2usg",
@@ -321,6 +365,17 @@
       "published": "2026-10-21 22:28"
     },
     {
+      "id": "1xtkm6p",
+      "title": "Valentine's Day shoppers face soaring chocolate prices - ABC News",
+      "title_vi": "Người mua sắm ngày lễ tình nhân đối mặt với giá sô cô la tăng vọt - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/Business/valentines-day-shoppers-face-soaring-chocolate-prices/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "soft",
+      "published": "2026-10-21 22:12"
+    },
+    {
       "id": "12o6zla",
       "title": "AI boom ‘overhyped’ as copper demand driver: LME Week",
       "title_vi": "Sự bùng nổ AI 'quá mức' khi là động lực thúc đẩy nhu cầu đồng: Tuần lễ LME",
@@ -442,6 +497,17 @@
       "published": "2026-10-21 19:07"
     },
     {
+      "id": "p8xucn",
+      "title": "Automotive transition reshapes platinum’s mine-to-market supply chain",
+      "title_vi": "Quá trình chuyển đổi ô tô định hình lại chuỗi cung ứng từ mỏ tới thị trường của bạch kim",
+      "summary_vi": "Các nhà sản xuất bạch kim phải đối mặt với một thị trường ô tô đang thay đổi khi điện khí hóa định hình lại nhu cầu PGM và việc tái chế mang lại sự hỗ trợ hạn chế",
+      "image": "https://www.mining-technology.com/wp-content/uploads/sites/19/2026/10/shutterstock_2576694701-1.jpg",
+      "link": "https://www.mining-technology.com/features/automotive-transition-reshapes-platinums-mine-to-market-supply-chain/",
+      "source": "Mining Technology",
+      "category": "metal",
+      "published": "2026-10-21 18:57"
+    },
+    {
       "id": "dstzeu",
       "title": "Chocolate has a new problem. And it’s not cocoa prices",
       "title_vi": "Sô cô la có một vấn đề mới. Và đó không phải là giá ca cao",
@@ -484,72 +550,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-10-21 16:39"
-    },
-    {
-      "id": "plxqat",
-      "title": "Antofagasta Shares Slump on Weak Copper Outlook",
-      "title_vi": "Cổ phiếu Antofagasta sụt giảm do triển vọng đồng yếu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/antofagasta-copper-production-rises-61a9bf89",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-10-21 15:11"
-    },
-    {
-      "id": "ndj3ac",
-      "title": "Despite Production Increase, U.S. Wheat Crop Remains The Smallest In A Generation",
-      "title_vi": "Mặc dù sản lượng tăng, cây lúa mì của Hoa Kỳ vẫn ở mức nhỏ nhất trong một thế hệ",
-      "summary_vi": "Ước tính cung và cầu tháng 10 của USDA cho thấy dự báo sản lượng lúa mì lớn hơn. Vậy, điều đó có nghĩa gì...",
-      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3839/files/2025/11/shutterstock-wheat-field-combine-harvester-1200x675.jpg",
-      "link": "https://www.sfntoday.com/2026/10/21/despite-production-increase-u-s-wheat-crop-remains-the-smallest-in-a-generation/",
-      "source": "Southern Farm Network",
-      "category": "agri",
-      "published": "2026-10-21 13:10"
-    },
-    {
-      "id": "t7fyp5",
-      "title": "Hudbay and Mitsubishi Approve Copper World Project Construction; Advancing Next Major U.S. Copper Mine Towards First Production in 2029",
-      "title_vi": "Hudbay và Mitsubishi phê duyệt xây dựng dự án Copper World; Thúc đẩy mỏ đồng lớn tiếp theo của Hoa Kỳ hướng tới sản xuất đầu tiên vào năm 2029",
-      "summary_vi": "",
-      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-      "link": "https://www.morningstar.com/news/globe-newswire/9850104/hudbay-and-mitsubishi-approve-copper-world-project-construction-advancing-next-major-us-copper-mine-towards-first-production-in-2029",
-      "source": "Morningstar",
-      "category": "metal",
-      "published": "2026-10-21 12:26"
-    },
-    {
-      "id": "1c8796c",
-      "title": "Natural Gas and Oil Forecast: Diesel Shortage Draws Washington In, Can WTI Break $101.38?",
-      "title_vi": "Dự báo về dầu và khí đốt tự nhiên: Tình trạng thiếu dầu diesel kéo Washington vào cuộc, WTI có thể phá vỡ 101,38 USD không?",
-      "summary_vi": "Dự báo về khí đốt và dầu tự nhiên: Các mối đe dọa của Houthi và mức giảm API 4,93 triệu thùng giữ giá dầu thô khi WTI hướng tới 101,38 USD và Brent giữ 108,21 USD; NG trượt xuống dưới 3,02 USD.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-6-5.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-diesel-shortage-draws-washington-in-can-wti-break-101-38-1639394",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-10-21 12:22"
-    },
-    {
-      "id": "1u639ao",
-      "title": "Platinum price repeats negative closes – Forecast today – 21-10-2026",
-      "title_vi": "Giá bạch kim lặp lại mức đóng cửa âm – Dự báo hôm nay – 21-10-2026",
-      "summary_vi": "Bạch kim vẫn duy trì vị thế giảm giá cho đến nay, vẫn ở dưới hàng rào kháng cự ở mức $1740,00, xác nhận sự sẵn sàng tiếp tục nỗ lực giảm giá của mình khi hiện tại tiến về mức $1635,00.",
-      "image": "https://dylta6p24nxqg.cloudfront.net/images/1792557214.png",
-      "link": "https://www.economies.com/commodities/platinum-analysis/platinum-price-repeats-negative-closes-%E2%80%93-forecast-today-%E2%80%93-21-10-2026-132390",
-      "source": "Economies.com",
-      "category": "metal",
-      "published": "2026-10-21 11:33"
-    },
-    {
-      "id": "z6eigg",
-      "title": "Silver futures rally as supply deficit balances weak industrial demand.",
-      "title_vi": "Giá bạc kỳ hạn tăng do thâm hụt nguồn cung cân bằng nhu cầu công nghiệp yếu.",
-      "summary_vi": "Giá bạc kỳ hạn có xu hướng cao hơn khi hợp đồng tháng 12 tăng 3,67% kể từ khi đóng cửa ngày 14 tháng 10, mặc dù đã giảm nhẹ so với mức cao nhất trong ngày là 58,76 USD. Thị trường tiếp tục theo dõi kỳ vọng về lãi suất của Cục Dự trữ Liên bang, với Công cụ FedWatch CME cho thấy xác suất 82,8% lãi suất không thay đổi ở thời điểm sắp tới.",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/silver-futures-rally-as-supply-deficit-balances-weak-industrial-.jpg",
-      "link": "https://www.cmegroup.com/videos/2026/10/20/silver-futures-rally-as-supply-deficit-balances-weak-industrial-.html",
-      "source": "CME Group",
-      "category": "metal",
-      "published": "2026-10-21 07:40"
     }
   ]
 }

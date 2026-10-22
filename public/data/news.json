@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-22 19:04",
+  "updated_at": "2026-10-22 20:00",
   "items": [
+    {
+      "id": "1raah17",
+      "title": "Grid Constraints Curtailed 119 GW of Renewables in India in September",
+      "title_vi": "Các hạn chế về lưới điện đã làm giảm 119 GW năng lượng tái tạo ở Ấn Độ trong tháng 9",
+      "summary_vi": "Dữ liệu của JMK Research & Analytics của Ấn Độ cho thấy những hạn chế về lưới điện, tính linh hoạt và truyền tải trong bối cảnh dung lượng pin hạn chế đã buộc Ấn Độ phải cắt giảm tới 118,6 gigawatt (GW) công suất năng lượng mặt trời và năng lượng gió trong tháng 9. Tổng công suất năng lượng tái tạo là 118,6 GW",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-22_ny0rlwdbhk.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Grid-Constraints-Curtailed-119-GW-of-Renewables-in-India-in-September.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-22 20:00"
+    },
     {
       "id": "15nmj40",
       "title": "Record Fuel Prices Accelerate Europe’s EV Sales",
@@ -143,17 +154,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-22 06:07"
-    },
-    {
-      "id": "2i8yt0",
-      "title": "Big Oil Eyes Record Profits but Keeps Spending in Check",
-      "title_vi": "Big Oil Eyes ghi nhận lợi nhuận nhưng vẫn kiểm soát chi tiêu",
-      "summary_vi": "Các siêu cường dầu mỏ đã kiếm được nhiều tiền kể từ khi cuộc chiến ở Trung Đông bắt đầu. Giờ đây, họ chuẩn bị báo cáo một quý mạnh mẽ khác, ngay cả khi một số khu vực pháp lý nơi họ hoạt động có kế hoạch đánh thuế bất ngờ đối với họ. Câu hỏi bây giờ là Big Oil sẽ làm gì với số lợi nhuận này. cái an",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-21_winjemfl3g.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Eyes-Record-Profits-but-Keeps-Spending-in-Check.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-22 06:00"
     },
     {
       "id": "jlpgak",
@@ -464,6 +464,17 @@
       "published": "2026-10-21 07:40"
     },
     {
+      "id": "1i6o5lx",
+      "title": "Copper supply gap favors projects that can get built - Jeff Pontius",
+      "title_vi": "Khoảng cách nguồn cung đồng tạo điều kiện cho các dự án có thể được xây dựng - Jeff Pontius",
+      "summary_vi": "(Tin tức Kitco) Khoảng cách nguồn cung đồng sắp tới đang mang lại nhiều giá trị hơn cho các dự án đã có cơ sở hạ tầng, lộ trình cấp phép rõ ràng hơn và lộ trình sản xuất thực tế, theo thăm dò…",
+      "image": "https://image-api.prod.kitco.com/image/3e187490-caa8-45b9-903a-b41bca5c4324.png?top=0.37709497206704&left=0&width=1920&height=1079.2458100559&scale_width=1920&token=7f96c4e87fb835b72fa3e0b9765d368820199652dcbdec19541cb64ce8fd2707",
+      "link": "https://www.kitco.com/news/article/2026-10-20/copper-supply-gap-favors-projects-can-get-built-jeff-pontius",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-10-21 05:26"
+    },
+    {
       "id": "1i273g7",
       "title": "Corn Selling Continues on Tuesday",
       "title_vi": "Bán ngô tiếp tục vào thứ ba",
@@ -539,17 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-10-20 23:50"
-    },
-    {
-      "id": "cwbjhu",
-      "title": "Gas prices dip slightly in Idaho amid crude oil fluctuations",
-      "title_vi": "Giá xăng giảm nhẹ ở Idaho trong bối cảnh giá dầu thô biến động",
-      "summary_vi": "Giá xăng ở Idaho trung bình là 4,80 USD/gallon, giảm nhẹ do giá dầu thô dao động trong khoảng từ 95 USD đến 102 USD/thùng, ảnh hưởng đến chi phí nhiên liệu trong khu vực.",
-      "image": "https://idahobusinessreview.com/files/2026/03/Depositphotos-gas-pump.jpg",
-      "link": "https://idahobusinessreview.com/2026/10/20/gas-prices-dip-slightly-idaho-crude-oil-fluctuations/",
-      "source": "Idaho Business Review",
-      "category": "energy",
-      "published": "2026-10-20 23:17"
     }
   ]
 }

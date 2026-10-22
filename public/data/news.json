@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 19:00",
+  "updated_at": "2026-10-22 19:04",
   "items": [
     {
       "id": "15nmj40",
@@ -132,6 +132,17 @@
       "source": "FOREX.com",
       "category": "metal",
       "published": "2026-10-22 06:27"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-22 06:07"
     },
     {
       "id": "2i8yt0",
@@ -332,6 +343,17 @@
       "published": "2026-10-21 19:59"
     },
     {
+      "id": "butus2",
+      "title": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report",
+      "title_vi": "Vàng tăng, bạc trượt khi giá dầu tăng, kỳ vọng tăng lãi suất của Fed vẫn tồn tại - Báo cáo Kitco AM",
+      "summary_vi": "(Kitco NewsWire) - Giá vàng giao ngay cao hơn một chút và giá bạc giao ngay thấp hơn vào đầu phiên giao dịch tại Hoa Kỳ hôm thứ Tư, do những lo ngại mới về nguồn cung năng lượng qua eo biển Hormuz…",
+      "image": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0&left=0&width=1024&height=576&scale_width=1920&token=0d9da6ca319ebd6ec3558a5a67daf43aac0dbad78ed3a55760c605840c32fcf3",
+      "link": "https://www.kitco.com/news/article/2026-10-21/gold-gains-silver-slips-oil-prices-rise-fed-rate-hike-expectations-persist",
+      "source": "Kitco",
+      "category": "macro",
+      "published": "2026-10-21 19:45"
+    },
+    {
       "id": "19w1vq6",
       "title": "Market Prices Keep Major Crops Above PLC Triggers - RFD-TV",
       "title_vi": "Giá thị trường giữ các loại cây trồng chính ở mức cao hơn mức kích hoạt PLC - RFD-TV",
@@ -374,17 +396,6 @@
       "source": "Nasdaq",
       "category": "metal",
       "published": "2026-10-21 17:51"
-    },
-    {
-      "id": "z37xel",
-      "title": "Gold Declines Towards $4,120 as Iran Conflict and Federal Reserve Outlook Remain in Focus",
-      "title_vi": "Vàng giảm xuống còn 4.120 USD khi xung đột Iran và triển vọng của Cục Dự trữ Liên bang vẫn là tâm điểm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-declines-towards-4-120-095044034.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-10-21 16:50"
     },
     {
       "id": "pwf3lg",
@@ -539,17 +550,6 @@
       "source": "Idaho Business Review",
       "category": "energy",
       "published": "2026-10-20 23:17"
-    },
-    {
-      "id": "ll2fbg",
-      "title": "Corn Prices Dropped 15% in Six Weeks. What Should Farmers Do Now?",
-      "title_vi": "Giá ngô giảm 15% trong sáu tuần. Nông dân nên làm gì bây giờ?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/corn-prices-dropped-15-in-six-weeks-what-should-farmers-do-now-12184455",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-10-20 23:02"
     }
   ]
 }

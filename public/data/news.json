@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-23 15:00",
+  "updated_at": "2026-10-23 16:00",
   "items": [
+    {
+      "id": "17iy837",
+      "title": "UK Rules Out Winter Energy Shortages as Gas Prices Soar",
+      "title_vi": "Vương quốc Anh loại trừ tình trạng thiếu năng lượng vào mùa đông khi giá xăng tăng cao",
+      "summary_vi": "Cơ quan Điều hành Hệ thống Năng lượng Quốc gia cho biết trong báo cáo triển vọng đầu mùa đông này rằng không có nguy cơ mất điện hoặc mất khí đốt trong mùa đông này ở Vương quốc Anh vì sẽ có đủ nguồn cung cấp khí đốt và sản xuất. Trên thực tế, NESO cho biết họ dự kiến ​​sản lượng điện dư thừa ở mức 5,5 GW trong thời gian gần đây.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-23_pwm17rz8km.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Rules-Out-Winter-Energy-Shortages-as-Gas-Prices-Soar.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-23 15:30"
+    },
     {
       "id": "1khgd9p",
       "title": "Platinum Surplus Hinges on Fund Selling, Leaving Room for a Price Rebound",
@@ -11,6 +22,17 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-10-23 14:58"
+    },
+    {
+      "id": "4ls9js",
+      "title": "Oil Prices Rise as Middle East Risks Persist",
+      "title_vi": "Giá dầu tăng khi rủi ro ở Trung Đông vẫn tồn tại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-10-23 14:31"
     },
     {
       "id": "1hfwxb8",
@@ -143,17 +165,6 @@
       "source": "KARK",
       "category": "energy",
       "published": "2026-10-23 03:24"
-    },
-    {
-      "id": "1ui8d95",
-      "title": "Why Fossil Fuel Demand Can Rise Even as Clean Energy Wins Terrain",
-      "title_vi": "Tại sao nhu cầu nhiên liệu hóa thạch có thể tăng ngay cả khi năng lượng sạch chiếm lĩnh địa hình",
-      "summary_vi": "Nhà sử học người Pháp Jean-Baptiste Fressoz đã đưa ra những lập luận lịch sử hấp dẫn cho những người hoài nghi về chuyển đổi năng lượng. Trong More and More and More, ông lập luận rằng nhân loại chưa bao giờ thực sự chuyển từ nguồn năng lượng này sang nguồn năng lượng khác. Gỗ được nối với than, than với dầu, dầu với khí và tất cả",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-22_fnobrojxwi.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Fossil-Fuel-Demand-Can-Rise-Even-as-Clean-Energy-Wins-Terrain.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-23 03:00"
     },
     {
       "id": "1lnb13y",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-21 21:24"
-    },
-    {
-      "id": "jyqcea",
-      "title": "Ruthenium Prices Double as AI Storage Demand Meets Limited Supply",
-      "title_vi": "Giá Ruthenium tăng gấp đôi khi nhu cầu lưu trữ AI đáp ứng nguồn cung hạn chế",
-      "summary_vi": "Ruthenium đã tăng giá hơn gấp đôi trong năm qua, đưa một thành phần ít được biết đến trong việc lưu trữ dữ liệu vào cuộc thảo luận quan trọng về khoáng sản. Nền tảng Khoáng sản Quan trọng (CMP) báo cáo mức tăng 109,43% lên 1.780,14 USD mỗi troy ounce kể từ ngày 13 tháng 10 năm 2026. Đánh giá của nó bao gồm 99,95% ruthenium trên toàn cầu.",
-      "image": "https://investornews.com/wp-content/uploads/2026/10/Dr.-Mark-Andrich-portrait-caption.png",
-      "link": "https://investornews.com/market-opinion/ruthenium-prices-double-as-ai-storage-demand-meets-limited-supply/",
-      "source": "InvestorNews",
-      "category": "metal",
-      "published": "2026-10-21 21:22"
     }
   ]
 }

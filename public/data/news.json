@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-10-24 04:00",
+  "updated_at": "2026-10-24 05:01",
   "items": [
+    {
+      "id": "1ge56ib",
+      "title": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
+      "title_vi": "Tại sao Trump và Carney chưa chạm đến năng lượng trong cuộc chiến thuế quan của họ",
+      "summary_vi": "Hoa Kỳ và Canada đang mắc kẹt trong một cuộc chiến tranh thương mại năng lượng. Mặc dù Tổng thống Hoa Kỳ Donald Trump và Thủ tướng Canada Mark Carney đã vận động rất nhiều mức thuế cao ngất ngưởng, chưa kể đến những lời đe dọa và lăng mạ lẫn nhau trong suốt thời gian qua.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-23_pdcs9b2lza.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-and-Carney-Havent-Touched-Energy-in-Their-Tariff-War.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-10-24 05:00"
+    },
+    {
+      "id": "18uhuwq",
+      "title": "Platinum & Palladium Deficits Set the Price Backdrop for ValOre's First PEA",
+      "title_vi": "Sự thiếu hụt bạch kim và palladium đặt bối cảnh giá cho PEA đầu tiên của ValOre",
+      "summary_vi": "ValOre Metals nhắm mục tiêu Pedra Branca PEA vào cuối năm 2026 khi triển vọng bạch kim và paladi khác nhau đặt ra bối cảnh giá cho dự án PGE Brazil.",
+      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6adbcfa3bb6e923044e87fd8_Screenshot%202026-10-24%20at%203.34.02%E2%80%AFAM.png",
+      "link": "https://www.cruxinvestor.com/posts/platinum-palladium-deficits-set-the-price-backdrop-for-valores-first-pea",
+      "source": "Crux Investor",
+      "category": "metal",
+      "published": "2026-10-24 04:28"
+    },
+    {
+      "id": "1i4vcu1",
+      "title": "Hedge Funds Are Record Short Natural Gas on Mild Winter Outlook",
+      "title_vi": "Các quỹ phòng hộ đang thiếu hụt khí đốt tự nhiên kỷ lục trong bối cảnh mùa đông ôn hòa",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://uk.finance.yahoo.com/news/hedge-funds-record-short-natural-205409918.html",
+      "source": "Yahoo Finance UK",
+      "category": "energy",
+      "published": "2026-10-24 03:54"
+    },
     {
       "id": "252x8",
       "title": "NASA&#039;s Freeze-Resistant Moon Battery Could Eventually Reach EVs",
@@ -143,17 +176,6 @@
       "source": "Forbes",
       "category": "metal",
       "published": "2026-10-23 21:18"
-    },
-    {
-      "id": "grrgrn",
-      "title": "The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher",
-      "title_vi": "Chi phí tiềm ẩn 40 USD/thùng khiến giá dầu tăng cao hơn",
-      "summary_vi": "Khi người Mỹ nghĩ về giá dầu, họ thường tập trung vào những con số được niêm yết hàng ngày trên thị trường tài chính. Nếu dầu thô Brent đang giao dịch trên 100 USD/thùng hoặc dầu thô West Texas Middle ở mức gần 100 USD/thùng, thì những con số đó sẽ trở thành cách nói tắt cho việc dầu đắt hay rẻ. Nhưng thứ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-23_ki5euwavog.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Hidden-40-Per-Barrel-Cost-Driving-Oil-Prices-Higher.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-23 21:00"
     },
     {
       "id": "1u3sy3y",
@@ -528,28 +550,6 @@
       "source": "Saxo",
       "category": "metal",
       "published": "2026-10-22 15:30"
-    },
-    {
-      "id": "a93s50",
-      "title": "Wheat markets sink as weak exports outweigh drought concerns",
-      "title_vi": "Thị trường lúa mì sụt giảm do xuất khẩu yếu vượt qua lo ngại hạn hán",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/wheat/wheat-markets-sink-as-weak-exports-outweigh-drought-concerns",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-10-22 14:02"
-    },
-    {
-      "id": "e83xw1",
-      "title": "US Natural Gas Output, Demand to Hit Record Highs in 2026, EIA Says",
-      "title_vi": "EIA cho biết sản lượng khí đốt tự nhiên của Hoa Kỳ sẽ đạt mức cao kỷ lục vào năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/08/us-natural-gas-output-demand-to-hit-record-highs-in-2026-eia-says/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-22 13:26"
     }
   ]
 }

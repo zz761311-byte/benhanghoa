@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 00:31",
+  "updated_at": "2026-10-24 01:01",
   "items": [
     {
       "id": "rgy1cv",
@@ -66,6 +66,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-23 21:45"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!HY-o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F098967c0-94d9-494e-b37b-1d8508627240_1500x1000.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-23 21:31"
     },
     {
       "id": "kyz3qk",
@@ -350,7 +361,7 @@
       "image": "https://substackcdn.com/image/fetch/$s_!cOW0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8fad6d03-f111-4c6f-9229-c798f29888bc_1400x1000.png",
       "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-house-model",
       "source": "Silver Bulletin",
-      "category": "macro",
+      "category": "metal",
       "published": "2026-10-23 00:22"
     },
     {
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-10-22 06:04"
-    },
-    {
-      "id": "1ivp8w1",
-      "title": "Brazil’s Record Coffee Crop: Luca Mattei examines where the 67.6 million bags are going",
-      "title_vi": "Kỷ lục vụ cà phê của Brazil: Luca Mattei kiểm tra xem 67,6 triệu bao sẽ đi về đâu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.comunicaffe.com/brazil-record-coffee-crop-luca-mattei/",
-      "source": "Comunicaffe International",
-      "category": "soft",
-      "published": "2026-10-22 05:55"
     }
   ]
 }

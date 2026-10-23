@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-24 05:01",
+  "updated_at": "2026-10-24 06:00",
   "items": [
+    {
+      "id": "1cddm27",
+      "title": "Trump&#039;s Reverse Nixon Strategy: Bring Russia In, Shut China Out",
+      "title_vi": "Chiến lược Nixon đảo ngược của Trump: Đưa Nga vào, đuổi Trung Quốc ra",
+      "summary_vi": "Vào ngày 9 tháng 10, vài giờ sau cuộc điện đàm giữa Tổng thống Trump và Tổng thống Putin, Bộ Tài chính đã ban hành lệnh miễn trừ sáu tháng cho phép dầu diesel của Nga được bán trên thị trường toàn cầu. Mục đích đã nêu là giảm giá nhiên liệu trước cuộc bầu cử giữa kỳ ngày 3 tháng 11. Nhưng tôi tin",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-23_uf6xnkd2cr.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-24 06:00"
+    },
     {
       "id": "1ge56ib",
       "title": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
@@ -66,6 +77,17 @@
       "source": "StoneX",
       "category": "metal",
       "published": "2026-10-24 00:52"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-24 00:31"
     },
     {
       "id": "rgy1cv",
@@ -154,17 +176,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-10-23 21:31"
-    },
-    {
-      "id": "kyz3qk",
-      "title": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
-      "title_vi": "Dầu mỏ Ấn Độ khai thác khí đốt tự nhiên ở lưu vực nông ngoài khơi",
-      "summary_vi": "Công ty thăm dò quốc gia Oil India Limited (OIL) đã tìm thấy khí tự nhiên ở một thành tạo chưa được khám phá trước đây ở lưu vực cạn Krishna-Godavari, công ty Ấn Độ cho biết hôm thứ Sáu. OIL đã phát hiện ra giếng thẩm lượng Godavari-1 thuộc hệ tầng Matsyapuri ở Krishna-Godav",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-23_jdwoblsaen.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-India-Strikes-Natural-Gas-in-Shallow-Offshore-Basin.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-23 21:30"
     },
     {
       "id": "1645d5t",
@@ -539,17 +550,6 @@
       "source": "FXStreet",
       "category": "macro",
       "published": "2026-10-22 16:12"
-    },
-    {
-      "id": "1qx0j7k",
-      "title": "Commodities caught between AI jitters and escalating energy risks",
-      "title_vi": "Hàng hóa bị mắc kẹt giữa sự lo lắng về AI và rủi ro năng lượng leo thang",
-      "summary_vi": "Nỗi lo lắng về AI đè nặng lên đồng, căng thẳng ở Trung Đông nâng giá dầu và vàng gặp khó khăn khi hàng hóa phân kỳ, trong khi rủi ro nguồn cung hỗ trợ sự hấp dẫn của chúng như một hàng rào danh mục đầu tư.",
-      "image": "https://www.home.saxo/-/media/content-hub/images/categories/commodities/ai-generated-images/wcu/global-markets-ai-war-and-risks_ai-label.png",
-      "link": "https://www.home.saxo/content/articles/commodities/commodities-caught-between-ai-jitters-and-escalating-energy-risks-22102026",
-      "source": "Saxo",
-      "category": "metal",
-      "published": "2026-10-22 15:30"
     }
   ]
 }

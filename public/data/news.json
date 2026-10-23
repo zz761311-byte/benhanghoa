@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 03:40",
+  "updated_at": "2026-10-24 04:00",
   "items": [
     {
       "id": "252x8",
@@ -220,6 +220,17 @@
       "source": "Time Magazine",
       "category": "energy",
       "published": "2026-10-23 17:15"
+    },
+    {
+      "id": "s1esgo",
+      "title": "When Housing Falters and Inflation Persists, Gold Stands Strong",
+      "title_vi": "Khi nhà ở sụt giảm và lạm phát kéo dài, vàng vẫn mạnh",
+      "summary_vi": "Lãi suất tăng đang làm tê liệt thị trường bất động sản Mỹ, trong khi căng thẳng trên thị trường dầu mỏ đang làm tăng nguy cơ lạm phát. Trong bối cảnh thâm hụt kỷ lục của chính phủ, nền kinh tế chậm lại và rủi ro lạm phát gia tăng, vàng có thể củng cố hơn nữa vai trò của nó như một tài sản trú ẩn an toàn.",
+      "image": "https://goldbroker.com/_api/media/file/immobilier-inflation-or.jpg?prefix=production",
+      "link": "https://goldbroker.com/news/housing-falters-inflation-persists-gold-stands-strong",
+      "source": "GoldBroker",
+      "category": "metal",
+      "published": "2026-10-23 16:05"
     },
     {
       "id": "1khgd9p",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-22 13:26"
-    },
-    {
-      "id": "14pk7do",
-      "title": "Nestle third quarter organic sales beat forecast, deconsolidates Russian business",
-      "title_vi": "Doanh số hữu cơ quý 3 của Nestle vượt dự báo, làm suy yếu hoạt động kinh doanh của Nga",
-      "summary_vi": "LONDON, ngày 22 tháng 10 (Reuters) - Nestle đã báo cáo mức tăng trưởng doanh số bán hàng hữu cơ tốt hơn dự kiến ​​​​trong quý thứ ba vào thứ Năm, đẩy cổ phiếu của nhà sản xuất thực phẩm đóng gói Thụy Sĩ cao hơn khoảng 1,5% do sự thay đổi do Giám đốc điều hành Philipp Navratil dẫn đầu đã tăng tốc.",
-      "image": "https://www.mcclatchy-wires.com/public/incoming/s3u0zd/picture317726752/alternates/LANDSCAPE_1200/e70999ed-4fb1-4aa8-8dea-399acaffc558",
-      "link": "https://www.charlotteobserver.com/news/business/article317726780.html",
-      "source": "Charlotte Observer",
-      "category": "soft",
-      "published": "2026-10-22 12:24"
     }
   ]
 }

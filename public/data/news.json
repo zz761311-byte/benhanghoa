@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-23 12:00",
+  "updated_at": "2026-10-23 13:01",
   "items": [
+    {
+      "id": "1ddj73m",
+      "title": "Brent Hits $114 as Houthi Attacks Threaten Saudi Energy Infrastructure",
+      "title_vi": "Brent đạt 114 USD khi các cuộc tấn công của Houthi đe dọa cơ sở hạ tầng năng lượng của Saudi",
+      "summary_vi": "Giá dầu thô đang trên đà ghi nhận mức tăng mạnh hàng tuần, với dầu thô Brent đang trên đà tăng khoảng 6 USD/thùng và dầu WTI ghi nhận mức tăng khiêm tốn hơn nhiều, từ khoảng 99 USD/thùng vào thứ Hai lên hơn 100 USD vào sáng sớm hôm nay. Tại thời điểm viết bài, dầu thô Brent đang được giao dịch",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-114-as-Houthi-Attacks-Threaten-Saudi-Energy-Infrastructure.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-23 12:33"
+    },
     {
       "id": "snw0ok",
       "title": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns",
@@ -11,6 +22,17 @@
       "source": "Reuters",
       "category": "macro",
       "published": "2026-10-23 11:14"
+    },
+    {
+      "id": "14xmlbx",
+      "title": "Commodities: Brent Builds Geopolitical Premium As Gulf Risks Rise",
+      "title_vi": "Hàng hóa: Brent xây dựng ưu thế địa chính trị khi rủi ro vùng Vịnh gia tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://seekingalpha.com/article/4956746-commodities-brent-builds-geopolitical-premium-gulf-risks-rise",
+      "source": "Seeking Alpha",
+      "category": "energy",
+      "published": "2026-10-23 10:52"
     },
     {
       "id": "14duwk2",
@@ -121,17 +143,6 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-10-23 02:30"
-    },
-    {
-      "id": "pmtli4",
-      "title": "Strathcona Pitches 250,000-Bpd Oil Export Route to Asia",
-      "title_vi": "Strathcona triển khai lộ trình xuất khẩu dầu 250.000 thùng/ngày sang châu Á",
-      "summary_vi": "Nhà sản xuất dầu mỏ Canada Strathcona Resources muốn xuất khẩu tới 250.000 thùng dầu thô mỗi ngày từ bờ biển phía bắc British Columbia bằng cách sử dụng các chuyến hàng bằng đường sắt và một bến cảng biển mới để tiếp cận thị trường châu Á. Nhưng trước tiên, họ cần Ottawa đưa ra một ngoại lệ đối với lệnh cấm tàu ​​chở dầu. S",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-22_l8ipcan7fl.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Strathcona-Pitches-250000-Bpd-Oil-Export-Route-to-Asia.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-23 02:00"
     },
     {
       "id": "1s6vihx",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-21 19:59"
-    },
-    {
-      "id": "llkq6g",
-      "title": "Will coffee price break higher as buyer dominance and strong momentum persist?",
-      "title_vi": "Liệu giá cà phê có tăng cao hơn khi sự thống trị của người mua và động lực mạnh mẽ vẫn tồn tại?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://tradersunion.com/news/commodities/show/3908830-coffee-up-0-19percent-today-at/",
-      "source": "Traders Union",
-      "category": "soft",
-      "published": "2026-10-21 19:35"
     }
   ]
 }

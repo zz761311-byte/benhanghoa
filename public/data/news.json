@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 19:01",
+  "updated_at": "2026-10-24 19:06",
   "items": [
     {
       "id": "1efvkx7",
@@ -354,6 +354,17 @@
       "published": "2026-10-23 21:18"
     },
     {
+      "id": "5zoc72",
+      "title": "American Express profit jumps as customers stick with the $895 Platinum Card - ABC News",
+      "title_vi": "Lợi nhuận của American Express tăng vọt khi khách hàng gắn bó với Thẻ bạch kim trị giá 895 USD",
+      "summary_vi": "American Express báo cáo lợi nhuận quý 3 tăng mạnh, nhờ chuyển đổi thành công sang Thẻ bạch kim có mức phí cao hơn",
+      "image": "https://i.abcnewsfe.com/a/18af1f08-6e3e-4265-af6e-7fc7148f9ccd/wirestory_fbe9dcebe7d1477253076208ea22afc2_16x9.jpg?w=1600",
+      "link": "https://abcnews.com/Business/wireStory/american-express-profit-jumps-customers-stick-895-platinum-137506852",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "metal",
+      "published": "2026-10-23 21:05"
+    },
+    {
       "id": "1u3sy3y",
       "title": "Price Analysis Shows China Holds Upper Hand in Russia Gas Supply Talks",
       "title_vi": "Phân tích giá cho thấy Trung Quốc chiếm thế thượng phong trong các cuộc đàm phán về cung cấp khí đốt của Nga",
@@ -539,17 +550,6 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-10-23 04:03"
-    },
-    {
-      "id": "vu16p9",
-      "title": "Latest report shows Arkansas gas prices dropping even as crude oil prices stay high",
-      "title_vi": "Báo cáo mới nhất cho thấy giá xăng ở Arkansas giảm ngay cả khi giá dầu thô vẫn ở mức cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.kark.com/news/state-news/latest-report-shows-arkansas-gas-prices-dropping-even-as-crude-oil-prices-stay-high/",
-      "source": "KARK",
-      "category": "energy",
-      "published": "2026-10-23 03:24"
     }
   ]
 }

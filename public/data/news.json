@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 13:00",
+  "updated_at": "2026-10-24 14:00",
   "items": [
     {
       "id": "kv6twk",
@@ -209,6 +209,17 @@
       "source": "Capital Press",
       "category": "agri",
       "published": "2026-10-23 22:57"
+    },
+    {
+      "id": "4c3hyo",
+      "title": "Tiffany floats expansion of Wisconsin’s oil refinery to reduce reliance on Middle East",
+      "title_vi": "Tiffany thả nổi việc mở rộng nhà máy lọc dầu ở Wisconsin để giảm sự phụ thuộc vào Trung Đông",
+      "summary_vi": "Hạ nghị sĩ đảng Cộng hòa Hoa Kỳ Tom Tiffany đang khuyến khích mở rộng nhà máy lọc dầu duy nhất của Wisconsin để giảm sự phụ thuộc vào Trung Đông, nhưng các chuyên gia năng lượng cho rằng điều đó sẽ không có tác dụng mấy trong việc hạ giá khí đốt địa phương.",
+      "image": "https://www.wpr.org/wp-content/uploads/2026/08/IMG_4190-scaled.jpg?width=1200&height=800&fit=bounds",
+      "link": "https://www.wpr.org/news/tiffany-floats-expansion-wisconsins-oil-refinery-reduce-reliance-middle-east",
+      "source": "WPR",
+      "category": "energy",
+      "published": "2026-10-23 22:02"
     },
     {
       "id": "2bgy1o",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-23 00:46"
-    },
-    {
-      "id": "225grg",
-      "title": "FLIPR 2026 House forecast",
-      "title_vi": "FLIPR 2026 Dự báo nhà",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mỗi cuộc bầu cử Hạ viện vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!cOW0!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8fad6d03-f111-4c6f-9229-c798f29888bc_1400x1000.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-house-model",
-      "source": "Silver Bulletin",
-      "category": "metal",
-      "published": "2026-10-23 00:22"
     }
   ]
 }

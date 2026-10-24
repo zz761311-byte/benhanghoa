@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-24 08:01",
+  "updated_at": "2026-10-24 09:01",
   "items": [
+    {
+      "id": "kv6twk",
+      "title": "Corn: Is There a Light at the End of the Tunnel?",
+      "title_vi": "Ngô: Có ánh sáng cuối đường hầm?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/corn-there-light-end-tunnel",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-10-24 08:31"
+    },
     {
       "id": "iq8gj1",
       "title": "Oil rallies on dual-front war",
@@ -33,6 +44,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-24 05:54"
+    },
+    {
+      "id": "1nm6nh5",
+      "title": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
+      "title_vi": "Mỹ lại rơi vào dự trữ dầu chiến lược trong bối cảnh nguồn cung bị gián đoạn",
+      "summary_vi": "Mỹ lại tiếp tục sử dụng Dự trữ Dầu mỏ Chiến lược, lần này là để duy trì dòng dầu thô đến nhà máy lọc dầu ở Louisiana trong khi giá dầu tăng trên 117 USD/thùng. The reserve, meanwhile, is already at its lowest level since 1982. The Department of Energy on Friday aut",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Dips-Into-Strategic-Oil-Reserve-Again-Amid-Supply-Disruptions.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-24 05:30"
     },
     {
       "id": "1ge56ib",
@@ -165,17 +187,6 @@
       "source": "Capital Press",
       "category": "agri",
       "published": "2026-10-23 22:57"
-    },
-    {
-      "id": "r0v1w8",
-      "title": "Middle East Physical Crude Slides While Brent Hits Five-Month High",
-      "title_vi": "Dầu thô vật chất Trung Đông trượt dốc trong khi dầu Brent đạt mức cao nhất trong 5 tháng",
-      "summary_vi": "Ngược lại với giá kỳ hạn chuẩn quốc tế, giá dầu thô thực tế từ Trung Đông đã giảm trong tuần này, do dầu tiếp tục chảy ra khỏi Vịnh Ba Tư trong các chuyến vận chuyển bằng tàu này sang tàu khác ngoài khơi Oman và các nhà sản xuất đưa ra mức giá cạnh tranh cho người mua châu Á.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-23_lbznfzmqku.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Physical-Crude-Slides-While-Brent-Hits-Five-Month-High.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-23 22:30"
     },
     {
       "id": "2bgy1o",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-22 20:38"
-    },
-    {
-      "id": "1mq42dq",
-      "title": "Thyme Kitchen & Catering and Hollowed Grounds Coffee",
-      "title_vi": "Thyme Kitchen & Catering và Cà phê rỗng",
-      "summary_vi": "Bob Kelly của Fox 29 tới Merchantville, NJ để thử các món trong thực đơn Halloween đặc biệt của Thyme Kitchen & Catering và Hollowed Grounds Coffee!",
-      "image": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/dndic7g0mr7j6jqo/1200/630/rtmgv5ombw5wskkd.jpg?ve=1&tl=1",
-      "link": "https://www.fox29.com/video/fmc-hpp1u8rsuumi4o0x",
-      "source": "FOX 29 Philadelphia",
-      "category": "soft",
-      "published": "2026-10-22 20:30"
     }
   ]
 }

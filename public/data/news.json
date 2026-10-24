@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 12:00",
+  "updated_at": "2026-10-24 13:00",
   "items": [
     {
       "id": "kv6twk",
@@ -11,6 +11,17 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-10-24 08:31"
+    },
+    {
+      "id": "n207ij",
+      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
+      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
+      "source": "EnergyNow.com",
+      "category": "macro",
+      "published": "2026-10-24 06:31"
     },
     {
       "id": "iq8gj1",
@@ -88,6 +99,17 @@
       "source": "Yahoo Finance UK",
       "category": "energy",
       "published": "2026-10-24 03:54"
+    },
+    {
+      "id": "gtwox4",
+      "title": "USDA Admits Corn Data Error in September Report, But Controversial 181.2-Bu. Yield Forecast Stands",
+      "title_vi": "USDA thừa nhận lỗi dữ liệu ngô trong báo cáo tháng 9, nhưng gây tranh cãi 181.2-Bu. Dự báo lợi nhuận",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/news/crops/corn/usda-corrects-september-corn-data-after-yield-controversy-october-forecast-unchan",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-10-24 03:51"
     },
     {
       "id": "252x8",
@@ -528,28 +550,6 @@
       "source": "Silver Bulletin",
       "category": "metal",
       "published": "2026-10-23 00:22"
-    },
-    {
-      "id": "qu5htw",
-      "title": "Grain merchandisers face rising cost risks",
-      "title_vi": "Người kinh doanh ngũ cốc phải đối mặt với rủi ro chi phí gia tăng",
-      "summary_vi": "Nông dân bán nhiều, chi phí vận chuyển cao hơn và giá cước vận chuyển tăng đang làm tăng rủi ro thanh khoản cho những người buôn bán ngũ cốc trong năm 2026/27.",
-      "image": "https://images.contentstack.io/v3/assets/bltea445f1b4314cae7/blt599c868b9bbcd13b/6ad919f7edd892aaac156952/grain-merchandisers_cover_3000x1688.jpg",
-      "link": "https://www.cobank.com/knowledge-exchange/grain-merchandisers-face-rising-cost-risks",
-      "source": "CoBank",
-      "category": "agri",
-      "published": "2026-10-22 23:21"
-    },
-    {
-      "id": "1fczw1f",
-      "title": "HSBC lowers platinum and palladium price forecasts for 2026",
-      "title_vi": "HSBC hạ dự báo giá bạch kim và palladium cho năm 2026",
-      "summary_vi": "HSBC hôm thứ Năm đã hạ dự báo giá trung bình đối với bạch kim và palađi cho năm 2026, với lý do các nguyên tắc cơ bản thay đổi và sự thanh lý của nhà đầu tư. Theo một báo cáo nghiên cứu, ngân hàng đã cắt giảm dự báo giá trung bình năm 2026 đối với bạch kim xuống còn 1.925 USD/ounce và palađi xuống còn 1.436 USD/ounce.",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4682K2:0-hsbc-lowers-platinum-and-palladium-price-forecasts-for-2026/",
-      "source": "TradingView",
-      "category": "metal",
-      "published": "2026-10-22 23:01"
     }
   ]
 }

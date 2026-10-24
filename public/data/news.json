@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-25 05:00",
+  "updated_at": "2026-10-25 06:00",
   "items": [
+    {
+      "id": "2rqt9q",
+      "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
+      "title_vi": "Giá tàu chở dầu kỷ lục làm tê liệt dòng dầu thô của Mỹ tới châu Á",
+      "summary_vi": "Chiến tranh Iran đã khiến các chuyến đi của tàu chở dầu trở nên kém hiệu quả đến mức số lượng tàu sẵn có bị sụt giảm và chi phí vận tải tăng vọt lên mức cao kỷ lục, gần như xóa bỏ động lực vận chuyển dầu thô từ Bờ Vịnh Hoa Kỳ đến Châu Á. Chi phí vận chuyển dầu thô từ US Gulf Co",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-23_pkz2hacvuf.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-25 06:00"
+    },
     {
       "id": "kfeiih",
       "title": "Fuel Oil Becomes Asia’s Next Cost Shock",
@@ -255,17 +266,6 @@
       "published": "2026-10-24 03:34"
     },
     {
-      "id": "252x8",
-      "title": "NASA&#039;s Freeze-Resistant Moon Battery Could Eventually Reach EVs",
-      "title_vi": "Pin mặt trăng chống đóng băng của NASA cuối cùng có thể đạt tới xe điện",
-      "summary_vi": "Cơ quan Hàng không và Vũ trụ Quốc gia Hoa Kỳ (NASA) đã phát triển một loại pin mới mang tính cách mạng có thể cung cấp năng lượng cho chuyến quay trở lại mặt trăng của đất nước đồng thời có khả năng cách mạng hóa cách chúng ta cung cấp năng lượng cho các phương tiện điện ở đây trên Trái đất. Công nghệ mới có thể",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-23_as2ldrmbpy.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/NASAs-Freeze-Resistant-Moon-Battery-Could-Eventually-Reach-EVs.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-24 03:00"
-    },
-    {
       "id": "1s8p26t",
       "title": "Moon River lifts Davidson value to $879M, tungsten output jumps",
       "title_vi": "Moon River nâng giá trị Davidson lên 879 triệu USD, sản lượng vonfram tăng vọt",
@@ -475,6 +475,17 @@
       "published": "2026-10-23 19:06"
     },
     {
+      "id": "1ome7h5",
+      "title": "What the coming copper crunch means for the global economy",
+      "title_vi": "Cuộc khủng hoảng đồng sắp tới có ý nghĩa gì đối với nền kinh tế toàn cầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.ft.com/content/06209f51-de7c-4de0-8e66-5c621a960b87?syn-25a6b1a6",
+      "source": "Financial Times",
+      "category": "metal",
+      "published": "2026-10-23 18:01"
+    },
+    {
       "id": "1k10niw",
       "title": "Trump Invokes Defense Production Act to Boost Oil Production",
       "title_vi": "Trump viện dẫn Đạo luật sản xuất quốc phòng để thúc đẩy sản xuất dầu",
@@ -539,17 +550,6 @@
       "source": "Economies.com",
       "category": "metal",
       "published": "2026-10-23 12:57"
-    },
-    {
-      "id": "plxqat",
-      "title": "Antofagasta Shares Slump on Weak Copper Outlook",
-      "title_vi": "Cổ phiếu Antofagasta sụt giảm do triển vọng đồng yếu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/antofagasta-copper-production-rises-61a9bf89",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-10-23 12:42"
     }
   ]
 }

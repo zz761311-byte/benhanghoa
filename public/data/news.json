@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 10:00",
+  "updated_at": "2026-10-24 11:00",
   "items": [
     {
       "id": "kv6twk",
@@ -288,6 +288,17 @@
       "published": "2026-10-23 17:15"
     },
     {
+      "id": "8ayyv0",
+      "title": "Global Copper, Nickel Prices Could Double in 10 Years",
+      "title_vi": "Giá đồng, niken toàn cầu có thể tăng gấp đôi sau 10 năm",
+      "summary_vi": "Industrial Info Resources đang theo dõi các dự án khai thác đồng và niken trị giá hơn 325 tỷ USD và 115 tỷ USD tương ứng",
+      "image": "https://media.industrialinfo.com/news/img/webp/iir_industry_news_metals_minerals_article_thumbnail_03.webp",
+      "link": "https://www.industrialinfo.com/news/article/global-copper-nickel-prices-could-double-in-10-years--364073",
+      "source": "Industrial Info",
+      "category": "metal",
+      "published": "2026-10-23 16:07"
+    },
+    {
       "id": "s1esgo",
       "title": "When Housing Falters and Inflation Persists, Gold Stands Strong",
       "title_vi": "Khi nhà ở sụt giảm và lạm phát kéo dài, vàng vẫn mạnh",
@@ -464,6 +475,17 @@
       "published": "2026-10-23 01:00"
     },
     {
+      "id": "bm9ovr",
+      "title": "Why the Price of Gas Is the Most Important Number in US Politics",
+      "title_vi": "Tại sao giá xăng là con số quan trọng nhất trong chính trị Hoa Kỳ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/05/why-the-price-of-gas-is-the-most-important-number-in-us-politics/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-23 00:57"
+    },
+    {
       "id": "19g5x1o",
       "title": "Why candy prices are scary high ahead of Halloween",
       "title_vi": "Tại sao giá kẹo lại tăng cao đáng sợ trước Halloween",
@@ -473,6 +495,17 @@
       "source": "Food Dive",
       "category": "soft",
       "published": "2026-10-23 00:54"
+    },
+    {
+      "id": "166ohct",
+      "title": "Market Intelligence Provider Permutable Wins Second AI Innovation Award of 2026 at Euromoney Markets Awards",
+      "title_vi": "Nhà cung cấp thông tin thị trường Permutable giành được Giải thưởng Sáng tạo AI lần thứ hai năm 2026 tại Euromoney Markets Awards",
+      "summary_vi": "Luân Đôn, LONDON, ngày 22 tháng 10 năm 2026 (GLOBE NEWSWIRE) -- Permutable, nhà cung cấp thông tin dự đoán thị trường cho các nhà đầu tư tổ chức, đã giành chiến thắng ...",
+      "image": "https://media-vault-usw1.s3.us-west-1.amazonaws.com/4275664/Euromoney-AI-innovation-award-plaque.png",
+      "link": "https://markets.businessinsider.com/news/stocks/market-intelligence-provider-permutable-wins-second-ai-innovation-award-of-2026-at-euromoney-markets-awards-1036655861",
+      "source": "markets.businessinsider.com",
+      "category": "macro",
+      "published": "2026-10-23 00:51"
     },
     {
       "id": "x0k0ti",
@@ -517,39 +550,6 @@
       "source": "TradingView",
       "category": "metal",
       "published": "2026-10-22 23:01"
-    },
-    {
-      "id": "13eizuq",
-      "title": "Corn and Wheat Look for Lows, Soybeans Bounce on Exports: Cattle Correct",
-      "title_vi": "Ngô và lúa mì tìm kiếm mức thấp, đậu nành tăng nhờ xuất khẩu: Gia súc đúng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/corn-and-wheat-look-lows-soybeans-bounce-exports-cattle-correct",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-10-22 22:24"
-    },
-    {
-      "id": "1x7xc9k",
-      "title": "Trump is desperate to bring gas prices down. The solution might be in India.",
-      "title_vi": "Trump đang tuyệt vọng để giảm giá xăng. Giải pháp có thể là ở Ấn Độ.",
-      "summary_vi": "Trong chuyến đi tới Ấn Độ vào tuần này, Ngoại trưởng Marco Rubio đã đi thăm khu phức hợp lọc dầu mà ông hy vọng có thể xử lý nhiều dầu thô hơn từ Venezuela trong bối cảnh khủng hoảng năng lượng toàn cầu.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261021-Jamnagar-rs-507208.jpg",
-      "link": "https://www.nbcnews.com/world/asia/trump-desperate-bring-gas-prices-solution-might-india-rcna604729",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-10-22 20:51"
-    },
-    {
-      "id": "xu2usg",
-      "title": "Massive Coffee Variety Trial Reveals Yield and Leaf Rust Winners",
-      "title_vi": "Thử nghiệm giống cà phê quy mô lớn cho thấy những loại đạt năng suất và bệnh gỉ sắt ở lá",
-      "summary_vi": "Cuộc thử nghiệm đồng ruộng phối hợp lớn nhất của ngành cà phê đã phát hiện ra rằng các giống Arabica được lai tạo gần đây thường cho năng suất cao hơn và khả năng kháng bệnh gỉ sắt lá cà phê cao hơn so với các giống Arabica nguyên chất truyền thống, trong khi...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/10/22/massive-coffee-variety-trial-reveals-yield-and-leaf-rust-winners/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-10-22 20:38"
     }
   ]
 }

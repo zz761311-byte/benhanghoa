@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 01:00",
+  "updated_at": "2026-10-25 01:50",
   "items": [
     {
       "id": "1vgodve",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-25 00:00"
+    },
+    {
+      "id": "1lbu0sj",
+      "title": "Outlook Enrichment hosts coffee bike ride for people who are blind or visually impaired",
+      "title_vi": "Outlook Enrichment tổ chức chuyến đi xe đạp cà phê cho người mù hoặc khiếm thị",
+      "summary_vi": "Hoạt động đạp xe song song của Outlook Enrichment cho phép những người mù hoặc khiếm thị đi xe đạp, một hoạt động mà họ có thể không được thực hiện.",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/85ce65d9-b787-47f4-8ae0-c7c29803bc78.png?crop=1.00xw%3A0.887xh%3B0%2C0.0614xh&resize=1200%3A*",
+      "link": "https://www.ketv.com/article/outlook-enrichment-hosts-last-tandem-bike-ride-of-the-season-omaha/74237782",
+      "source": "KETV",
+      "category": "soft",
+      "published": "2026-10-24 23:32"
     },
     {
       "id": "lfofoc",
@@ -44,6 +55,17 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-10-24 14:01"
+    },
+    {
+      "id": "3gjfse",
+      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
+      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo giá dầu thô",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-24 13:52"
     },
     {
       "id": "bm9ovr",
@@ -528,28 +550,6 @@
       "source": "Recycling Today",
       "category": "metal",
       "published": "2026-10-23 12:35"
-    },
-    {
-      "id": "14xmlbx",
-      "title": "Commodities: Brent Builds Geopolitical Premium As Gulf Risks Rise",
-      "title_vi": "Hàng hóa: Brent xây dựng ưu thế địa chính trị khi rủi ro vùng Vịnh gia tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://seekingalpha.com/article/4956746-commodities-brent-builds-geopolitical-premium-gulf-risks-rise",
-      "source": "Seeking Alpha",
-      "category": "energy",
-      "published": "2026-10-23 10:52"
-    },
-    {
-      "id": "1m0iyoa",
-      "title": "Corn futures hit lowest close since August 11.",
-      "title_vi": "Giá ngô kỳ hạn đóng cửa ở mức thấp nhất kể từ ngày 11 tháng 8.",
-      "summary_vi": "Giá ngô kỳ hạn tháng 12 giảm thấp hơn sau khi không xác nhận được sự đảo chiều của phiên trước đó, đánh dấu mức đóng cửa thấp nhất của hợp đồng kể từ ngày 11 tháng 8 và đẩy Chỉ số sức mạnh tương đối vào vùng quá bán ở mức 25%. Ted Seifried của Zaner Ag Hedge phân tích hành động kỹ thuật cùng với việc phát triển phản hồi thu hoạch và f",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/corn-futures-hit-lowest-close-since-august-11-10-22-26.jpg",
-      "link": "https://www.cmegroup.com/videos/2026/10/22/corn-futures-hit-lowest-close-since-august-11-10-22-26.html",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-10-23 08:01"
     }
   ]
 }

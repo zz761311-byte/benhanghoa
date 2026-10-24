@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 07:00",
+  "updated_at": "2026-10-24 08:01",
   "items": [
     {
       "id": "iq8gj1",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-24 06:00"
+    },
+    {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-24 05:54"
     },
     {
       "id": "1ge56ib",
@@ -299,6 +310,17 @@
       "published": "2026-10-23 14:31"
     },
     {
+      "id": "1f3omin",
+      "title": "Gold and Silver Price Forecast: Gold Tests $4,000 as Oil Surges",
+      "title_vi": "Dự báo giá vàng và bạc: Vàng kiểm tra mức 4.000 USD khi dầu tăng",
+      "summary_vi": "Vàng và bạc phải đối mặt với áp lực từ giá dầu cao và rủi ro tăng lãi suất của Fed, với vàng kiểm tra mức 4.000 USD và bạc dễ bị tổn thương dưới 55 USD.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-and-silver-precious-metals-02-1.jpg?width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-gold-tests-4000-as-oil-surges-1639918",
+      "source": "FXEmpire",
+      "category": "macro",
+      "published": "2026-10-23 14:19"
+    },
+    {
       "id": "ojn5mr",
       "title": "Platinum price achieves the initial target– Forecast today – 23-10-2026",
       "title_vi": "Giá bạch kim đạt mục tiêu ban đầu– Dự báo hôm nay – 23-10-2026",
@@ -528,28 +550,6 @@
       "source": "FOX 29 Philadelphia",
       "category": "soft",
       "published": "2026-10-22 20:30"
-    },
-    {
-      "id": "11cyzqn",
-      "title": "Nestlé Q3 results: Confectionery and frozen foods drive growth as pricing eases",
-      "title_vi": "Kết quả Q3 của Nestlé: Bánh kẹo và thực phẩm đông lạnh thúc đẩy tăng trưởng khi giá giảm",
-      "summary_vi": "Hoạt động kinh doanh thực phẩm và đồ ăn nhẹ của Nestlé đã đạt được động lực trong quý 3, được hỗ trợ bởi bánh kẹo, giải pháp nấu ăn và cải thiện doanh số bán thực phẩm đông lạnh tại Hoa Kỳ.",
-      "image": "https://article-cns.cnsmedia.com/articleimgs/resized_rect_newsimages/jpg/639282705560760814Nestl_France_headquarters_building_in_Issy_les_Moulineaux_France.jpg",
-      "link": "https://www.foodingredientsfirst.com/news/nestle-sales-growth-coffee-russia.html",
-      "source": "Food Ingredients First",
-      "category": "soft",
-      "published": "2026-10-22 20:02"
-    },
-    {
-      "id": "dwk9df",
-      "title": "India permits large silver imports despite weak domestic demand",
-      "title_vi": "Ấn Độ cho phép nhập khẩu bạc số lượng lớn bất chấp nhu cầu trong nước yếu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/india-permits-large-silver-imports-despite-weak-domestic-demand-2026-10-22/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-10-22 18:21"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-24 21:00",
+  "updated_at": "2026-10-24 22:00",
   "items": [
+    {
+      "id": "lfofoc",
+      "title": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
+      "title_vi": "Trump nhắm mục tiêu dự án gió ngoài khơi trị giá 6,2 tỷ USD sắp hoàn thành",
+      "summary_vi": "Tổng thống Hoa Kỳ Donald Trump đã nhiều lần nhắm tới năng lượng gió ngoài khơi kể từ khi nhậm chức vào năm ngoái, khi ông cố gắng mở rộng lĩnh vực nhiên liệu hóa thạch của đất nước và chuyển trọng tâm ra khỏi năng lượng tái tạo. Trump đã tìm cách ngăn chặn sự phát triển của một số chiến thắng ở nước ngoài",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-23_izandgfjnu.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Trump-Targets-62-Billion-Offshore-Wind-Project-Nearing-Completion.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-24 22:00"
+    },
     {
       "id": "1efvkx7",
       "title": "Farmer evaluates marketing strategy as corn and soybean prices ease",
@@ -11,6 +22,17 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-10-24 14:01"
+    },
+    {
+      "id": "bm9ovr",
+      "title": "Why the Price of Gas Is the Most Important Number in US Politics",
+      "title_vi": "Tại sao giá xăng là con số quan trọng nhất trong chính trị Hoa Kỳ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/05/why-the-price-of-gas-is-the-most-important-number-in-us-politics/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-24 13:30"
     },
     {
       "id": "kv6twk",
@@ -277,17 +299,6 @@
       "published": "2026-10-23 23:30"
     },
     {
-      "id": "1ibqw3k",
-      "title": "Space War Fears Rise as Russian Satellite Makes Dangerous Maneuver",
-      "title_vi": "Nỗi lo chiến tranh không gian gia tăng khi vệ tinh Nga thực hiện hành động nguy hiểm",
-      "summary_vi": "Các quan chức Mỹ công khai cáo buộc Nga đe dọa một vệ tinh thương mại do Phần Lan vận hành nhằm cung cấp hình ảnh và thông tin tình báo cho Ukraine và các quốc gia khác, gọi hành động này là \"cố tình liều lĩnh\". Đáp lại những cáo buộc được đưa ra trong cuộc tranh luận của Liên hợp quốc vào tháng 10",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-23_7bowluhfqu.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Space-War-Fears-Rise-as-Russian-Satellite-Makes-Dangerous-Maneuver.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-10-23 23:00"
-    },
-    {
       "id": "ib7z0m",
       "title": "Post-harvest, wheat industry ponders low protein, price dockage",
       "title_vi": "Sau thu hoạch, ngành lúa mì lo ngại hàm lượng protein thấp, giá neo đậu",
@@ -539,17 +550,6 @@
       "source": "Marketplace.org",
       "category": "energy",
       "published": "2026-10-23 05:57"
-    },
-    {
-      "id": "15nx5zv",
-      "title": "Precious metals tumble despite falling yields as Hormuz tensions intensify - Kitco PM Report",
-      "title_vi": "Kim loại quý sụt giảm mặc dù sản lượng giảm khi căng thẳng Hormuz gia tăng - Báo cáo của Kitco PM",
-      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay giảm mạnh vào cuối phiên giao dịch tại Mỹ hôm thứ Năm, do căng thẳng gia tăng ở Trung Đông khiến giá dầu thô tăng cao, làm gia tăng lo ngại về lạm phát và…",
-      "image": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0&left=0&width=1024&height=576&scale_width=1920&token=a51c68ac263c91daaa3ab64d911fd1760563231366b3715159ce82243f499495",
-      "link": "https://www.kitco.com/news/article/2026-10-22/precious-metals-tumble-despite-falling-yields-hormuz-tensions-intensify",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-10-23 04:03"
     }
   ]
 }

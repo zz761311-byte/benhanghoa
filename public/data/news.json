@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 04:13",
+  "updated_at": "2026-10-25 05:00",
   "items": [
     {
       "id": "kfeiih",
@@ -99,6 +99,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-24 13:30"
+    },
+    {
+      "id": "160mjgf",
+      "title": "‘Unacceptable’: Corn Growers Blast USDA After Major Crop Data Error Comes to Light",
+      "title_vi": "‘Không thể chấp nhận được’: Người trồng ngô làm thất vọng USDA sau khi lỗi dữ liệu cây trồng lớn được phát hiện",
+      "summary_vi": "Lãnh đạo Hiệp hội những người trồng ngô quốc gia (NCGA) đang kêu gọi chính phủ liên bang sau khi USDA thừa nhận vào cuối ngày thứ Sáu về một lỗi xử lý dữ liệu lớn trong báo cáo vụ mùa tháng 9 - một sai lầm mà các nhà lãnh đạo ngành ngô cho rằng thị trường ngũ cốc bị thiệt hại nghiêm trọng",
+      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2103/2024/07/16005317/corn-harvest-photo-1.jpeg",
+      "link": "https://www.hoosieragtoday.com/2026/10/23/ncga-usda-corn-data-error/",
+      "source": "Hoosier Ag Today",
+      "category": "agri",
+      "published": "2026-10-24 09:57"
     },
     {
       "id": "kv6twk",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-10-23 12:42"
-    },
-    {
-      "id": "6wz9vn",
-      "title": "Study examines data centers’ base metals demand",
-      "title_vi": "Nghiên cứu kiểm tra nhu cầu kim loại cơ bản của trung tâm dữ liệu",
-      "summary_vi": "Các nhà phân tích của Wood Mackenzie cho biết các công ty khai thác mỏ đã đầu tư khiêm tốn và chậm rãi để đáp ứng việc xây dựng trung tâm dữ liệu toàn cầu.",
-      "image": "https://www.recyclingtoday.com/fileuploads/image/2026/10/23/copperwirestrippedtaylor.jpg",
-      "link": "https://www.recyclingtoday.com/news/wood-mackzenzie-data-centers-ai-metals-demand-copper-aluminum/",
-      "source": "Recycling Today",
-      "category": "metal",
-      "published": "2026-10-23 12:35"
     }
   ]
 }

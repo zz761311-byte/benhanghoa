@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 08:01",
+  "updated_at": "2026-10-25 08:17",
   "items": [
     {
       "id": "xirjlc",
@@ -42,8 +42,19 @@
       "image": "https://substackcdn.com/image/fetch/$s_!AKN4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc39f220e-89ec-444d-9e5b-0b5d142c79cd_1400x1000.png",
       "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
       "source": "Silver Bulletin",
-      "category": "macro",
+      "category": "metal",
       "published": "2026-10-25 03:22"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!HY-o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F098967c0-94d9-494e-b37b-1d8508627240_1500x1000.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-25 03:13"
     },
     {
       "id": "1gw7817",
@@ -539,17 +550,6 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-10-23 14:58"
-    },
-    {
-      "id": "4ls9js",
-      "title": "Oil Prices Rise as Middle East Risks Persist",
-      "title_vi": "Giá dầu tăng khi rủi ro ở Trung Đông vẫn tồn tại",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-10-23 14:31"
     }
   ]
 }

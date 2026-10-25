@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 12:00",
+  "updated_at": "2026-10-25 13:00",
   "items": [
     {
       "id": "18jgdi4",
@@ -198,6 +198,17 @@
       "source": "Oil & Gas Journal",
       "category": "energy",
       "published": "2026-10-24 06:26"
+    },
+    {
+      "id": "hxrh6s",
+      "title": "Copper price rebounds as inventories, stock markets stabilize",
+      "title_vi": "Giá đồng phục hồi do hàng tồn kho, thị trường chứng khoán ổn định",
+      "summary_vi": "Thị trường kim loại được hỗ trợ khi đà tăng giá của cổ phiếu công nghệ toàn cầu giảm bớt sau khi lo ngại về nhu cầu tài trợ khổng lồ của AI đã cản trở Phố Wall.",
+      "image": "https://www.mining.com/wp-content/uploads/2025/01/Copper-Smelter-AdobeStock_214225845-1024x576.png",
+      "link": "https://www.mining.com/web/copper-price-rebounds-as-inventories-stock-markets-stabilize/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-10-24 06:03"
     },
     {
       "id": "1cddm27",
@@ -539,17 +550,6 @@
       "source": "Industrial Info",
       "category": "metal",
       "published": "2026-10-23 16:07"
-    },
-    {
-      "id": "s1esgo",
-      "title": "When Housing Falters and Inflation Persists, Gold Stands Strong",
-      "title_vi": "Khi nhà ở sụt giảm và lạm phát kéo dài, vàng vẫn mạnh",
-      "summary_vi": "Lãi suất tăng đang làm tê liệt thị trường bất động sản Mỹ, trong khi căng thẳng trên thị trường dầu mỏ đang làm tăng nguy cơ lạm phát. Trong bối cảnh thâm hụt kỷ lục của chính phủ, nền kinh tế chậm lại và rủi ro lạm phát gia tăng, vàng có thể củng cố hơn nữa vai trò của nó như một tài sản trú ẩn an toàn.",
-      "image": "https://goldbroker.com/_api/media/file/immobilier-inflation-or.jpg?prefix=production",
-      "link": "https://goldbroker.com/news/housing-falters-inflation-persists-gold-stands-strong",
-      "source": "GoldBroker",
-      "category": "metal",
-      "published": "2026-10-23 16:05"
     }
   ]
 }

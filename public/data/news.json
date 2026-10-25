@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-26 01:26",
+  "updated_at": "2026-10-26 02:01",
   "items": [
+    {
+      "id": "137w3ca",
+      "title": "Britain&#039;s Renewable Energy Boom Is Hitting a Grid Bottleneck",
+      "title_vi": "Sự bùng nổ năng lượng tái tạo của Anh đang chạm tới nút cổ chai lưới điện",
+      "summary_vi": "Vương quốc Anh đã đầu tư rất nhiều vào việc mở rộng năng lực năng lượng tái tạo trong những năm gần đây để giảm sự phụ thuộc vào nhiên liệu hóa thạch và hỗ trợ quá trình chuyển đổi xanh. Tuy nhiên, một vấn đề lớn cản trở họ đạt được mục tiêu này đó là cơ sở hạ tầng truyền tải chưa được chuẩn bị sẵn.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-23_k1cwmfa57d.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Britains-Renewable-Energy-Boom-Is-Hitting-a-Grid-Bottleneck.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-26 02:00"
+    },
     {
       "id": "v7wo47",
       "title": "World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom",
@@ -288,17 +299,6 @@
       "published": "2026-10-24 06:03"
     },
     {
-      "id": "1cddm27",
-      "title": "Trump&#039;s Reverse Nixon Strategy: Bring Russia In, Shut China Out",
-      "title_vi": "Chiến lược Nixon đảo ngược của Trump: Đưa Nga vào, đuổi Trung Quốc ra",
-      "summary_vi": "Vào ngày 9 tháng 10, vài giờ sau cuộc điện đàm giữa Tổng thống Trump và Tổng thống Putin, Bộ Tài chính đã ban hành lệnh miễn trừ sáu tháng cho phép dầu diesel của Nga được bán trên thị trường toàn cầu. Mục đích đã nêu là giảm giá nhiên liệu trước cuộc bầu cử giữa kỳ ngày 3 tháng 11. Nhưng tôi tin",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-23_uf6xnkd2cr.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-24 06:00"
-    },
-    {
       "id": "1xmztgd",
       "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
       "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
@@ -508,6 +508,17 @@
       "published": "2026-10-23 21:45"
     },
     {
+      "id": "h0fgyb",
+      "title": "Oil prices hit levels not seen since March",
+      "title_vi": "Giá dầu chạm mức chưa từng thấy kể từ tháng 3",
+      "summary_vi": "Dầu thô Brent tăng 2,7% lên 116,24 USD một thùng và giá trung bình quốc gia cho một gallon khí thông thường tăng 2 cent lên 4,29 USD vào ngày 23 tháng 10, so với 3,07 USD một năm trước.",
+      "image": "https://www.ttnews.com/sites/default/files/styles/social_media_1200x630/public/2026-10/Gas-pump-bb-1200.jpg",
+      "link": "https://www.ttnews.com/articles/oil-prices-levels-may",
+      "source": "Transport Topics",
+      "category": "energy",
+      "published": "2026-10-23 21:32"
+    },
+    {
       "id": "15wnzu3",
       "title": "Diesel price surge putting mining profits to test",
       "title_vi": "Giá dầu diesel tăng cao khiến lợi nhuận khai thác bị thử thách",
@@ -539,17 +550,6 @@
       "source": "Department of Energy (.gov)",
       "category": "energy",
       "published": "2026-10-23 21:00"
-    },
-    {
-      "id": "1u3sy3y",
-      "title": "Price Analysis Shows China Holds Upper Hand in Russia Gas Supply Talks",
-      "title_vi": "Phân tích giá cho thấy Trung Quốc chiếm thế thượng phong trong các cuộc đàm phán về cung cấp khí đốt của Nga",
-      "summary_vi": "Việc rò rỉ dữ liệu về giá khí đốt của Nga giúp chứng minh rằng Trung Quốc đang trả cho Nga ít hơn nhiều so với các nước Trung Á và các khách hàng châu Âu trước đây của Gazprom.",
-      "image": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJpbWFnZXMvcnVzc2lhLWNoaW5hLWdhcy1wcmljZXMtMTQ0MC1nZXR0eS5qcGcifQ==",
-      "link": "https://carnegieendowment.org/russia-eurasia/politika/2026/10/russia-china-gas-prices",
-      "source": "Carnegie Endowment for International Peace",
-      "category": "energy",
-      "published": "2026-10-23 20:59"
     }
   ]
 }

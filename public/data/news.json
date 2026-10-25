@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 15:00",
+  "updated_at": "2026-10-25 16:00",
   "items": [
     {
       "id": "18jgdi4",
@@ -409,6 +409,17 @@
       "published": "2026-10-24 00:15"
     },
     {
+      "id": "1y0udqy",
+      "title": "Could silver rebound in 2027? What experts predict will happen next",
+      "title_vi": "Bạc có thể phục hồi vào năm 2027? Điều chuyên gia dự đoán sẽ xảy ra tiếp theo",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.usatoday.com/story/money/money-management/investing/will-silver-hit-100-again/90530149007/",
+      "source": "USA Today",
+      "category": "metal",
+      "published": "2026-10-23 23:33"
+    },
+    {
       "id": "ib7z0m",
       "title": "Post-harvest, wheat industry ponders low protein, price dockage",
       "title_vi": "Sau thu hoạch, ngành lúa mì lo ngại hàm lượng protein thấp, giá neo đậu",
@@ -539,17 +550,6 @@
       "source": "Financial Times",
       "category": "metal",
       "published": "2026-10-23 18:01"
-    },
-    {
-      "id": "1k10niw",
-      "title": "Trump Invokes Defense Production Act to Boost Oil Production",
-      "title_vi": "Trump viện dẫn Đạo luật sản xuất quốc phòng để thúc đẩy sản xuất dầu",
-      "summary_vi": "Đây là những điều cần biết khi Tổng thống chính thức xác định tình trạng thiếu hụt sản xuất năng lượng là một rủi ro quốc phòng.",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blte584c636698a5197/6adb3027290ea833fd6995f8/gas_prices.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
-      "link": "https://time.com/article/2026/10/23/defense-production-act-memorandum-oil-gas-diesel-energy-us-iran/",
-      "source": "Time Magazine",
-      "category": "energy",
-      "published": "2026-10-23 17:15"
     }
   ]
 }

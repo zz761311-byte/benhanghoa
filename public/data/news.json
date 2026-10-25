@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 19:00",
+  "updated_at": "2026-10-25 20:00",
   "items": [
     {
       "id": "18jgdi4",
@@ -22,6 +22,17 @@
       "source": "KOTA Territory News",
       "category": "soft",
       "published": "2026-10-25 07:00"
+    },
+    {
+      "id": "1wcmp8w",
+      "title": "Gold rebounds on easing geopolitical tensions and stalls: eyes on US CPI as the next key catalyst",
+      "title_vi": "Vàng phục hồi nhờ giảm bớt căng thẳng địa chính trị và đình trệ: chú ý đến CPI của Mỹ là chất xúc tác quan trọng tiếp theo",
+      "summary_vi": "Vàng đã phục hồi vào cuối tuần trước khi Trump loại trừ khả năng tấn công Iran trước cuộc bầu cử tháng 11, giảm bớt rủi ro leo thang và đẩy Kho bạc...",
+      "image": "https://investinglive.com/cms/media/gold-5.png?width=960&format=webp",
+      "link": "https://investinglive.com/commodities/gold-rebounds-on-easing-geopolitical-tensions-and-stalls-eyes-on-us-cpi-as-the-next-key-catalyst/",
+      "source": "investingLive",
+      "category": "metal",
+      "published": "2026-10-25 06:05"
     },
     {
       "id": "2rqt9q",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-23 20:02"
-    },
-    {
-      "id": "13v8k2x",
-      "title": "Warm Forecasts Overwhelm Bullish Outlook, Push Winter Natural Gas Prices Lower",
-      "title_vi": "Dự báo ấm áp lấn át triển vọng tăng giá, đẩy giá khí đốt tự nhiên mùa đông xuống thấp hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/warm-forecasts-overwhelm-bullish-outlook-push-winter-natural-gas-prices-lower/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-10-23 19:57"
     }
   ]
 }

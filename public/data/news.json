@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 09:00",
+  "updated_at": "2026-10-26 10:00",
   "items": [
     {
       "id": "100x76e",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-26 00:00"
+    },
+    {
+      "id": "i841ar",
+      "title": "Silver Price Forecast: $50 in View as Oil Fuels Fed Rate Hike Fears",
+      "title_vi": "Dự báo giá bạc: 50 USD được coi là nhiên liệu cho nỗi lo tăng lãi suất của Fed",
+      "summary_vi": "Bạc vẫn chịu áp lực giảm giá và đạt gần 50 USD do giá dầu tăng cao làm dấy lên lo ngại lạm phát.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-01-2.jpg?width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/silver-price-forecast-50-in-view-as-oil-fuels-fed-rate-hike-fears-1640211",
+      "source": "FXEmpire",
+      "category": "macro",
+      "published": "2026-10-25 23:08"
     },
     {
       "id": "1jfvg9n",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-23 21:45"
-    },
-    {
-      "id": "h0fgyb",
-      "title": "Oil prices hit levels not seen since March",
-      "title_vi": "Giá dầu chạm mức chưa từng thấy kể từ tháng 3",
-      "summary_vi": "Dầu thô Brent tăng 2,7% lên 116,24 USD một thùng và giá trung bình quốc gia cho một gallon khí thông thường tăng 2 cent lên 4,29 USD vào ngày 23 tháng 10, so với 3,07 USD một năm trước.",
-      "image": "https://www.ttnews.com/sites/default/files/styles/social_media_1200x630/public/2026-10/Gas-pump-bb-1200.jpg",
-      "link": "https://www.ttnews.com/articles/oil-prices-levels-may",
-      "source": "Transport Topics",
-      "category": "energy",
-      "published": "2026-10-23 21:32"
     }
   ]
 }

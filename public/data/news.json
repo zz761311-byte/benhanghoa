@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-26 23:15",
+  "updated_at": "2026-10-27 00:01",
   "items": [
+    {
+      "id": "syemna",
+      "title": "Kazakhstan Faces $12 Billion Oil Setback as New Investment Plans Take Shape",
+      "title_vi": "Kazakhstan đối mặt với thất bại 12 tỷ USD về dầu mỏ khi các kế hoạch đầu tư mới hình thành",
+      "summary_vi": "Kazakhstan có lý do để vui mừng sau khi nhận được cam kết từ Tập đoàn Tài chính Quốc tế giúp phát triển các dự án cơ sở hạ tầng trị giá 3 tỷ USD. Nhưng tin vui về đầu tư nước ngoài đó đã bị bù đắp bởi quyết định của tòa án trọng tài quốc tế hủy bỏ 12 tỷ USD.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-26_7v6jcjoyp2.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Faces-12-Billion-Oil-Setback-as-New-Investment-Plans-Take-Shape.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-27 00:00"
+    },
+    {
+      "id": "ydthql",
+      "title": "EQT Bets on Record U.S. Gas Demand With $50 Billion Range Takeover",
+      "title_vi": "EQT đặt cược vào nhu cầu khí đốt kỷ lục của Hoa Kỳ với phạm vi tiếp quản trị giá 50 tỷ USD",
+      "summary_vi": "EQT Corp. (NYSE:EQT) sẽ mua Range Resources (NYSE:RRC) trong một thương vụ mua toàn bộ cổ phiếu trị giá hơn 50 tỷ USD, bao gồm cả nợ. Công ty kết hợp sẽ sản xuất hơn 9 tỷ feet khối khí đốt Appalachian tương đương một ngày và hai công ty gọi đây là công ty lớn nhất theo chiều dọc.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-26_5exn1uz7cg.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EQT-Bets-on-Record-US-Gas-Demand-With-50-Billion-Range-Takeover.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-26 23:30"
+    },
     {
       "id": "1hqzy74",
       "title": "Why Saudi Just Abandoned Its Core Oil Rule",
@@ -90,17 +112,6 @@
       "published": "2026-10-26 20:09"
     },
     {
-      "id": "q0gpwp",
-      "title": "Russia&#039;s Arctic Oil Shortcut Runs Into a Wall of Ice",
-      "title_vi": "Đường tắt dầu mỏ Bắc Cực của Nga lao vào bức tường băng",
-      "summary_vi": "Một nhóm tàu ​​chở dầu của Nga bị trừng phạt đã thả neo cách Vòng Bắc Cực khoảng 1.300 km về phía bắc vào tháng 7 sau khi bị mắc kẹt và phải chờ đợi lâu trong vùng nước đóng băng trên đỉnh thế giới. Sự trợ giúp từ hai tàu phá băng chạy bằng năng lượng hạt nhân kéo dài vài ngày",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-26_oaq3qrkwwf.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Russias-Arctic-Oil-Shortcut-Runs-Into-a-Wall-of-Ice.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-26 20:00"
-    },
-    {
       "id": "ngjhp8",
       "title": "USDA September Corn Forecast Error Raises Fresh Data Concerns",
       "title_vi": "Lỗi dự báo ngô tháng 9 của USDA làm tăng mối lo ngại về dữ liệu mới",
@@ -110,17 +121,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-10-26 19:44"
-    },
-    {
-      "id": "1h33qe0",
-      "title": "Saudi Oil Output Jumps 12.2% to 8 Million Bpd in September",
-      "title_vi": "Sản lượng dầu của Saudi tăng 12,2% lên 8 triệu thùng/ngày trong tháng 9",
-      "summary_vi": "Sản lượng dầu thô ở Ả Rập Saudi đã tăng 12,2% trong tháng 9 so với một tháng trước đó, đạt 8 triệu thùng mỗi ngày (bpd), dữ liệu của Al Rajhi Capital Research được TradeArabia trích dẫn hôm thứ Hai cho thấy. Sau khi sản lượng dầu thô ở mức rất thấp vào mùa xuân và đầu mùa hè",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Output-Jumps-122-to-8-Million-Bpd-in-September.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-26 19:30"
     },
     {
       "id": "8vzgom",
@@ -508,6 +508,17 @@
       "published": "2026-10-24 05:39"
     },
     {
+      "id": "g4uqn",
+      "title": "Soybeans Up Friday, Corn and Wheat Falter: What Bottoms the Grain Markets?",
+      "title_vi": "Đậu nành tăng giá vào thứ Sáu, ngô và lúa mì sụt giảm: Điều gì chạm đáy thị trường ngũ cốc?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/soybeans-friday-corn-and-wheat-falter-what-bottoms-grain-markets",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-10-24 05:28"
+    },
+    {
       "id": "18uhuwq",
       "title": "Platinum & Palladium Deficits Set the Price Backdrop for ValOre's First PEA",
       "title_vi": "Sự thiếu hụt bạch kim và palladium đặt bối cảnh giá cho PEA đầu tiên của ValOre",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance UK",
       "category": "energy",
       "published": "2026-10-24 03:54"
-    },
-    {
-      "id": "gtwox4",
-      "title": "USDA Admits Corn Data Error in September Report, But Controversial 181.2-Bu. Yield Forecast Stands",
-      "title_vi": "USDA thừa nhận lỗi dữ liệu ngô trong báo cáo tháng 9, nhưng gây tranh cãi 181.2-Bu. Dự báo lợi nhuận",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/news/crops/corn/usda-corrects-september-corn-data-after-yield-controversy-october-forecast-unchan",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-10-24 03:51"
     }
   ]
 }

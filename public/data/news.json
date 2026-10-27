@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-27 17:01",
+  "updated_at": "2026-10-27 18:01",
   "items": [
+    {
+      "id": "15teaxu",
+      "title": "India Rejects Claims of U.S. Pressure Over Russian Oil Purchases",
+      "title_vi": "Ấn Độ bác bỏ tuyên bố về áp lực của Mỹ đối với việc mua dầu của Nga",
+      "summary_vi": "Bộ trưởng Dầu mỏ Ấn Độ Hardeep Singh Puri cho biết hôm thứ Ba rằng Mỹ đã không gây áp lực buộc Ấn Độ cắt giảm nhập khẩu dầu thô từ Nga, do lượng hàng hóa từ Nga đến nước nhập khẩu dầu thô lớn thứ ba thế giới đã giảm trong những tuần gần đây trong bối cảnh nhập khẩu từ Trung Đông tăng.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-27_ch8lqo92a7.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Rejects-Claims-of-US-Pressure-Over-Russian-Oil-Purchases.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-27 17:30"
+    },
     {
       "id": "1qmba05",
       "title": "Boston 25 Morning Forecast",
@@ -79,6 +90,28 @@
       "published": "2026-10-27 13:15"
     },
     {
+      "id": "r6v3ux",
+      "title": "Will gas prices keep falling? Experts weigh in - ABC News",
+      "title_vi": "Giá xăng sẽ tiếp tục giảm? Các chuyên gia cân nhắc - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/Business/gas-prices-falling-experts-weigh/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-10-27 12:55"
+    },
+    {
+      "id": "orxk1i",
+      "title": "Gold retreats on stronger dollar; traders brace for Fed",
+      "title_vi": "Vàng giảm giá do đồng đô la mạnh hơn; nhà giao dịch chuẩn bị cho Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-eases-firmer-dollar-ahead-fed-decision-2026-10-27/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-10-27 12:46"
+    },
+    {
       "id": "ozs9zr",
       "title": "Gold eases on firmer dollar ahead of Fed decision",
       "title_vi": "Vàng giảm do đồng đô la vững hơn trước quyết định của Fed",
@@ -143,17 +176,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-27 05:00"
-    },
-    {
-      "id": "qq7whv",
-      "title": "Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock",
-      "title_vi": "Châu Á cần 1 nghìn tỷ USD mỗi năm để tránh cú sốc năng lượng tiếp theo",
-      "summary_vi": "Dầu khí có thể lại chảy qua eo biển Hormuz, nhưng tác động của việc đóng cửa kéo dài nhiều tháng này sẽ còn ảnh hưởng trong nhiều năm tới. Đặc biệt đối với châu Á, việc điều tiết thị trường và tăng cường an ninh năng lượng để tránh cú sốc năng lượng tiếp theo sẽ đòi hỏi hàng nghìn tỷ đô la.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-26_uyqlxnaxn1.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Asia-Needs-1-Trillion-a-Year-to-Avoid-the-Next-Energy-Shock.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-10-27 04:00"
     },
     {
       "id": "1lrkwix",
@@ -464,17 +486,6 @@
       "published": "2026-10-26 16:47"
     },
     {
-      "id": "1h0hrpw",
-      "title": "Fed Rate Decision This Week: Will the US Dollar Strengthen and Gold Prices Fall? (26 October 2026)",
-      "title_vi": "Quyết định lãi suất của Fed tuần này: Liệu đồng đô la Mỹ có mạnh lên và giá vàng giảm? (26 tháng 10 năm 2026)",
-      "summary_vi": "Quyết định của Fed, lạm phát của Mỹ và căng thẳng ở Trung Đông chiếm vị trí trung tâm. Khám phá triển vọng về đồng đô la Mỹ, vàng và AUD/USD dành cho các nhà giao dịch Úc.",
-      "image": "https://tw.mitrade.com/cms_uploads/img/20250521/f49ab9ba3adac453e97f708525b05bea.png",
-      "link": "https://www.mitrade.com/au/insights/currency/usd/us-dollar-gold-forecast-fed-decision",
-      "source": "Mitrade",
-      "category": "metal",
-      "published": "2026-10-26 16:47"
-    },
-    {
       "id": "c9pehg",
       "title": "Coffee price remains bullish – Forecast Today – 26-10-2026",
       "title_vi": "Giá cà phê vẫn tăng – Dự báo hôm nay – 26-10-2026",
@@ -539,17 +550,6 @@
       "source": "Brownfield Ag News",
       "category": "agri",
       "published": "2026-10-25 21:22"
-    },
-    {
-      "id": "1ds9a5s",
-      "title": "Silver Price Hits 2026 Low. Will It Crash Further?",
-      "title_vi": "Giá bạc chạm mức thấp năm 2026. Nó sẽ sụp đổ hơn nữa?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://beincrypto.com/silver-price-2026-low-crowded-shorts/",
-      "source": "BeInCrypto",
-      "category": "metal",
-      "published": "2026-10-25 17:31"
     }
   ]
 }

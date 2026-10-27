@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-10-27 16:01",
+  "updated_at": "2026-10-27 17:01",
   "items": [
+    {
+      "id": "1qmba05",
+      "title": "Boston 25 Morning Forecast",
+      "title_vi": "Dự báo buổi sáng ngày 25 ở Boston",
+      "summary_vi": "",
+      "image": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F10-27-2026%2Ft_0dc3461f54d7487aac2aa639907bbf12_name_file_1920x1080_5400_v4_.jpg?auth=58ddac040ffb0a53eabe1b7a2ad334716299f274b07bd3fd46812171659702c4&width=1200&height=630&smart=true",
+      "link": "https://www.boston25news.com/weather/video-forecast/boston-25-morning-forecast/b2a4b102-086e-4689-a9c6-ddba6141dad1/",
+      "source": "Boston 25 News",
+      "category": "soft",
+      "published": "2026-10-27 16:46"
+    },
+    {
+      "id": "1hxydsb",
+      "title": "Trump Moves to Ease Methane Regulations for U.S. Oil Producers",
+      "title_vi": "Trump chuyển sang nới lỏng các quy định về khí mê-tan cho các nhà sản xuất dầu của Hoa Kỳ",
+      "summary_vi": "Chính quyền Trump chuẩn bị tuyên bố nới lỏng các quy định liên bang về khí mê-tan đối với sản xuất dầu khí nhằm thúc đẩy sản xuất năng lượng nội địa của Hoa Kỳ và giảm chi phí cho nhà sản xuất và người tiêu dùng. Tổng thống Donald Trump chuẩn bị công bố đề xuất này tại một cuộc vận động tranh cử",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Moves-to-Ease-Methane-Regulations-for-US-Oil-Producers.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-27 16:35"
+    },
+    {
+      "id": "1sndlhi",
+      "title": "Platinum Price Forecast: Oil Above $110 Raises the Risk of a Drop to $1,350",
+      "title_vi": "Dự báo giá bạch kim: Dầu trên 110 USD làm tăng nguy cơ giảm xuống 1.350 USD",
+      "summary_vi": "Bạch kim vẫn chịu áp lực từ giá dầu cao và rủi ro tăng lãi suất của Fed, trong khi việc phá vỡ dưới 1.530 USD sẽ mở đường tới 1.350 USD.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/platinum2.jpg?width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/premium-platinum-price-forecast-oil-above-110-raises-the-risk-of-a-drop-to-1350-1640601",
+      "source": "FXEmpire",
+      "category": "macro",
+      "published": "2026-10-27 16:24"
+    },
+    {
+      "id": "2nz4hn",
+      "title": "UBS cuts palladium forecast on weaker investor sentiment By Investing.com",
+      "title_vi": "UBS cắt giảm dự báo về palladium do tâm lý nhà đầu tư yếu đi Theo Investing.com",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/commodities-news/ubs-cuts-palladium-forecast-on-weaker-investor-sentiment-93CH-4974535",
+      "source": "Investing.com",
+      "category": "metal",
+      "published": "2026-10-27 16:16"
+    },
     {
       "id": "dt3w6m",
       "title": "IEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains",
@@ -132,17 +176,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-10-27 03:13"
-    },
-    {
-      "id": "5q55vo",
-      "title": "Iran War Pushes Trump&#039;s Average Gasoline Prices Above Biden&#039;s",
-      "title_vi": "Chiến tranh Iran đẩy giá xăng trung bình của Trump lên trên giá xăng của Biden",
-      "summary_vi": "Giá xăng trung bình mà người Mỹ phải trả trong nhiệm kỳ thứ hai của Tổng thống Donald Trump hiện đã vượt qua mức trung bình được ghi nhận trong nhiệm kỳ tổng thống của Joe Biden, đánh dấu một cột mốc quan trọng về mặt chính trị chỉ vài ngày trước cuộc bầu cử giữa nhiệm kỳ ngày 3/11. Theo",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-26_ntu7qbbg3i.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Pushes-Trumps-Average-Gasoline-Prices-Above-Bidens.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-27 03:00"
     },
     {
       "id": "18lhqp3",
@@ -517,39 +550,6 @@
       "source": "BeInCrypto",
       "category": "metal",
       "published": "2026-10-25 17:31"
-    },
-    {
-      "id": "p1ios3",
-      "title": "Trump Brags U.S. Is Making A ‘Fortune’ Off High Gas Prices As Oil Hits Highest Price in Nearly 6 Months",
-      "title_vi": "Trump khoe rằng Hoa Kỳ đang kiếm được 'vận may' nhờ giá xăng tăng cao khi dầu đạt mức giá cao nhất trong gần 6 tháng",
-      "summary_vi": "Dầu thô Brent, chuẩn mực toàn cầu về giá dầu, đã tăng lên khoảng 116 USD/thùng vào thứ Sáu.",
-      "image": "https://s.yimg.com/lo/mysterio/api/c0d2f05072d82950b2aece9d8b720c2cb41fb60d0cc9606b9c8ec6a04452b268/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F9ef331b484ca4cd66a21e949d9e1a213.jpg",
-      "link": "https://sg.news.yahoo.com/trump-brags-u-making-fortune-030001811.html",
-      "source": "Yahoo News Singapore",
-      "category": "energy",
-      "published": "2026-10-25 10:00"
-    },
-    {
-      "id": "18jgdi4",
-      "title": "Wheat prices encourage planting, but input costs remain a wildcard",
-      "title_vi": "Giá lúa mì khuyến khích trồng trọt nhưng chi phí đầu vào vẫn là yếu tố quyết định",
-      "summary_vi": "Một nhà phân tích thị trường cho biết có một số yếu tố có thể ảnh hưởng đến số lượng trồng lúa mì vào mùa thu này. Jim McCormick của AgMarket.Net cho biết xung đột đang diễn ra giữa Nga và Ukraine đã một phần dẫn đến sự tăng giá gần đây. “Bây giờ họ đang tấn công cơ sở hạ tầng. Họ đang cố gắng đánh chiếm các tàu chở hàng. T",
-      "image": "https://brownfieldagnews.com/wp-content/uploads/2026/08/Winterwheat_midJune_MO1_2026-e1781550303427.jpg",
-      "link": "https://brownfieldagnews.com/news/wheat-prices-encourage-planting-but-input-costs-remain-a-wildcard/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-10-25 08:17"
-    },
-    {
-      "id": "m73zta",
-      "title": "Watch Halloween Candy Prices Reflect Cocoa’s Wild Ride",
-      "title_vi": "Xem giá kẹo Halloween phản ánh chuyến đi hoang dã của ca cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/videos/2026-10-25/halloween-candy-prices-reflect-cocoa-s-wild-ride-video",
-      "source": "Bloomberg.com",
-      "category": "soft",
-      "published": "2026-10-25 07:00"
     }
   ]
 }

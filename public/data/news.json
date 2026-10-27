@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-27 06:11",
+  "updated_at": "2026-10-27 07:01",
   "items": [
+    {
+      "id": "hbag3i",
+      "title": "UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100",
+      "title_vi": "Vương quốc Anh cân nhắc việc loại bỏ mỏ dầu lớn nhất chưa được khai thác với giá dầu trên 100 USD",
+      "summary_vi": "Anh đang quyết định có nên khoan mỏ dầu lớn nhất chưa được khai thác giữa lúc xảy ra cú sốc dầu mỏ hay không, với giá dầu Brent trên 100 và hơn 70% lượng dầu của nước này đến từ nước ngoài. Rosebank, phía tây Shetland, là một dự án phát triển trị giá 8,7 tỷ bảng Anh (~11,6 tỷ USD) mà nhà điều hành nó cho biết sẽ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-26_h2bhu9f4xn.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/UK-Weighs-Scrapping-Its-Largest-Untapped-Oilfield-With-Oil-Over-100.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-27 07:00"
+    },
     {
       "id": "3hkf4p",
       "title": "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up",
@@ -79,17 +90,6 @@
       "published": "2026-10-27 00:30"
     },
     {
-      "id": "syemna",
-      "title": "Kazakhstan Faces $12 Billion Oil Setback as New Investment Plans Take Shape",
-      "title_vi": "Kazakhstan đối mặt với thất bại 12 tỷ USD về dầu mỏ khi các kế hoạch đầu tư mới hình thành",
-      "summary_vi": "Kazakhstan có lý do để vui mừng sau khi nhận được cam kết từ Tập đoàn Tài chính Quốc tế giúp phát triển các dự án cơ sở hạ tầng trị giá 3 tỷ USD. Nhưng tin vui về đầu tư nước ngoài đó đã bị bù đắp bởi quyết định của tòa án trọng tài quốc tế hủy bỏ 12 tỷ USD.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-26_7v6jcjoyp2.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Faces-12-Billion-Oil-Setback-as-New-Investment-Plans-Take-Shape.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-27 00:00"
-    },
-    {
       "id": "1cb51jr",
       "title": "Iran attack could drive up gas prices within days, some analysts say - ABC News",
       "title_vi": "Một số nhà phân tích cho biết cuộc tấn công của Iran có thể đẩy giá xăng tăng trong vài ngày - ABC News",
@@ -101,6 +101,17 @@
       "published": "2026-10-26 23:45"
     },
     {
+      "id": "e3no1e",
+      "title": "Weekly market commentary",
+      "title_vi": "Bình luận thị trường hàng tuần",
+      "summary_vi": "Hãy theo dõi để biết thông tin chi tiết về các chủ đề nóng và xu hướng mới nhất trên thị trường tài chính thông qua bài bình luận hàng tuần của Viện đầu tư BlackRock.",
+      "image": "/blk-one01-c-assets/include/common/images/blackrock_logo.png",
+      "link": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
+      "source": "BlackRock",
+      "category": "macro",
+      "published": "2026-10-26 23:40"
+    },
+    {
       "id": "wanwf1",
       "title": "U.S. Coffee Drink Calories Climbed 40% in 15-Year Span",
       "title_vi": "Lượng calo trong đồ uống cà phê của Hoa Kỳ đã tăng 40% trong khoảng thời gian 15 năm",
@@ -110,6 +121,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-26 21:31"
+    },
+    {
+      "id": "uqyp8r",
+      "title": "Platinum and palladium receive yet another futures trading boost",
+      "title_vi": "Bạch kim và palladium nhận được thêm một đợt thúc đẩy giao dịch tương lai",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.miningweekly.com/article/platinum-and-palladium-receive-yet-another-futures-trading-boost-2026-10-26",
+      "source": "Mining Weekly",
+      "category": "metal",
+      "published": "2026-10-26 21:04"
     },
     {
       "id": "acbtl0",
@@ -143,6 +165,17 @@
       "source": "CME Group",
       "category": "metal",
       "published": "2026-10-26 19:56"
+    },
+    {
+      "id": "1vaig2e",
+      "title": "Brazil election results put ag commodities under pressure",
+      "title_vi": "Kết quả bầu cử Brazil khiến hàng hóa nông nghiệp chịu áp lực",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/marketing/brazil-election-results-put-ag-commodities-under-pressure",
+      "source": "Farm Progress",
+      "category": "macro",
+      "published": "2026-10-26 19:55"
     },
     {
       "id": "ngjhp8",
@@ -517,39 +550,6 @@
       "source": "EnergyNow.com",
       "category": "macro",
       "published": "2026-10-24 06:31"
-    },
-    {
-      "id": "iq8gj1",
-      "title": "Oil rallies on dual-front war",
-      "title_vi": "Dầu tăng giá trong cuộc chiến hai mặt trận",
-      "summary_vi": "Bất chấp hy vọng tạm dừng leo thang sau khi Tổng thống Trump ra hiệu không tấn công thêm Iran trước cuộc bầu cử giữa nhiệm kỳ, xung đột trên khắp Trung Đông vẫn tiếp diễn. Đi đôi với...",
-      "image": "https://img.ogj.com/files/base/ebm/ogj/image/website/logos/1752245958870-ogj_horizontalcolor_reg2.png?auto=format,compress&fit=fill&fill=solid&fill-color=&w=1200&h=627",
-      "link": "https://www.ogj.com/general-interest/economics-markets/article/55414186/oil-rallies-on-dual-front-war",
-      "source": "Oil & Gas Journal",
-      "category": "energy",
-      "published": "2026-10-24 06:26"
-    },
-    {
-      "id": "hxrh6s",
-      "title": "Copper price rebounds as inventories, stock markets stabilize",
-      "title_vi": "Giá đồng phục hồi do hàng tồn kho, thị trường chứng khoán ổn định",
-      "summary_vi": "Thị trường kim loại được hỗ trợ khi đà tăng giá của cổ phiếu công nghệ toàn cầu giảm bớt sau khi lo ngại về nhu cầu tài trợ khổng lồ của AI đã cản trở Phố Wall.",
-      "image": "https://www.mining.com/wp-content/uploads/2025/01/Copper-Smelter-AdobeStock_214225845-1024x576.png",
-      "link": "https://www.mining.com/web/copper-price-rebounds-as-inventories-stock-markets-stabilize/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-10-24 06:03"
-    },
-    {
-      "id": "1xmztgd",
-      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
-      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-24 05:54"
     }
   ]
 }

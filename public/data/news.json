@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-28 05:01",
+  "updated_at": "2026-10-28 06:01",
   "items": [
+    {
+      "id": "oehbft",
+      "title": "Americans Hit Hardest by War-Driven Oil Price Surge",
+      "title_vi": "Người Mỹ bị ảnh hưởng nặng nề nhất bởi giá dầu tăng do chiến tranh",
+      "summary_vi": "Người Mỹ đang phải gánh chịu phần lớn nhất của lạm phát giá năng lượng toàn cầu do cuộc chiến ở Trung Đông, một cơ quan năng lượng và khí hậu của Phần Lan đưa tin. Ước tính tổng lạm phát nhiên liệu toàn cầu ở mức 468 tỷ USD, Trung tâm Nghiên cứu Năng lượng và Không khí Sạch sa",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-27_lpwbm7l1nj.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Americans-Hit-Hardest-by-War-Driven-Oil-Price-Surge.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-28 06:00"
+    },
     {
       "id": "17hrhjx",
       "title": "Will Rubio’s Jamnagar Move Permanently Break The Russia-India Oil Axis?",
@@ -110,17 +121,6 @@
       "source": "GoldBroker",
       "category": "metal",
       "published": "2026-10-28 00:43"
-    },
-    {
-      "id": "dn6737",
-      "title": "Saudi Aramco Offers Discounted Oil to Europe as Exports Recover",
-      "title_vi": "Saudi Aramco chào bán dầu giảm giá sang châu Âu khi xuất khẩu phục hồi",
-      "summary_vi": "Saudi Aramco đang cung cấp thêm dầu thô cho các nhà máy lọc dầu châu Âu nạp vào tháng 10 và tháng 11, chỉ vài tuần sau khi thông báo với khách hàng rằng họ sẽ không nhận được dầu theo hợp đồng tháng 10 sau cuộc tấn công vào đường ống Đông-Tây của vương quốc này. Gã khổng lồ dầu mỏ Saudi đưa ra lời đề nghị",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-27_a7yprem305.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Offers-Discounted-Oil-to-Europe-as-Exports-Recover.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-28 00:40"
     },
     {
       "id": "189y37u",
@@ -332,6 +332,17 @@
       "published": "2026-10-27 14:41"
     },
     {
+      "id": "m0y55r",
+      "title": "Natural Gas and Oil Forecast: Oil Eases on Tehran Diplomacy, Can Brent Clear $112.20?",
+      "title_vi": "Dự báo về khí đốt tự nhiên và dầu: Dầu nới lỏng chính sách ngoại giao của Tehran, dầu Brent có thể đạt mức 112,20 USD không?",
+      "summary_vi": "Dự báo về khí đốt tự nhiên và dầu: Các cuộc đàm phán của Tehran cắt giảm phí bảo hiểm rủi ro dầu mỏ khi WTI giữ trên 96,72 USD, Brent kiểm tra 109,22 USD và khí đốt vẫn bị giới hạn dưới 2,70 USD.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-6-5.jpg?width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-oil-eases-on-tehran-diplomacy-can-brent-clear-112-20-1640578",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-10-27 13:14"
+    },
+    {
       "id": "r6v3ux",
       "title": "Will gas prices keep falling? Experts weigh in - ABC News",
       "title_vi": "Giá xăng sẽ tiếp tục giảm? Các chuyên gia cân nhắc - ABC News",
@@ -539,17 +550,6 @@
       "source": "CBS News",
       "category": "macro",
       "published": "2026-10-26 21:52"
-    },
-    {
-      "id": "uv3fv5",
-      "title": "COMMENTARY: Quantum copper steals the show at LME Week",
-      "title_vi": "BÌNH LUẬN: Đồng lượng tử chiếm ưu thế tại Tuần lễ LME",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/commentary/reuters-open-interest/quantum-copper-steals-show-lme-week-2026-10-26/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-10-26 21:33"
     }
   ]
 }

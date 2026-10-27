@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 02:01",
+  "updated_at": "2026-10-28 02:41",
   "items": [
     {
       "id": "147l4pq",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-28 01:00"
+    },
+    {
+      "id": "h86ewi",
+      "title": "Guillermo Barba: Gold & Silver from a Mexican Perspective",
+      "title_vi": "Guillermo Barba: Vàng và Bạc từ góc nhìn của Mexico",
+      "summary_vi": "Guillermo Barba: Vàng và Bạc từ góc nhìn của Mexico",
+      "image": "https://goldbroker.com/_api/media/file/yt-Df__mg_M8cw.jpg?prefix=production",
+      "link": "https://goldbroker.com/news/videos/guillermo-barba-gold-silver-from-a-mexican-perspective",
+      "source": "GoldBroker",
+      "category": "metal",
+      "published": "2026-10-28 00:43"
     },
     {
       "id": "dn6737",
@@ -178,6 +189,17 @@
       "published": "2026-10-27 20:51"
     },
     {
+      "id": "1eudg9e",
+      "title": "POLL Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
+      "title_vi": "POLL Đồng đô la mạnh, lợi suất cao kéo theo triển vọng vàng, nhưng nhu cầu của ngân hàng trung ương hỗ trợ cho vay",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/china/strong-dollar-high-yields-drag-gold-outlook-central-bank-demand-lends-support-2026-10-27/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-10-27 20:30"
+    },
+    {
       "id": "ox6z4y",
       "title": "Lovr Boys Cafe &#038; Roastery is Pouring Hearts in Bonita Springs, Florida",
       "title_vi": "Lovr Boys Cafe & Roastery đang làm rung động trái tim ở Bonita Springs, Florida",
@@ -275,28 +297,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-10-27 12:46"
-    },
-    {
-      "id": "ozs9zr",
-      "title": "Gold eases on firmer dollar ahead of Fed decision",
-      "title_vi": "Vàng giảm do đồng đô la vững hơn trước quyết định của Fed",
-      "summary_vi": "Giá vàng giảm hôm thứ Ba, do đồng đô la tăng giá, khi các nhà đầu tư chờ đợi cuộc họp chính sách của Fed để có hướng dẫn mới về triển vọng lãi suất.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107347161-1702486288633-gettyimages-1852395794-_cf23044_6ytni45j.jpeg?v=1793073812&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/10/27/gold-eases-on-firmer-dollar-ahead-of-fed-decision.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-10-27 11:06"
-    },
-    {
-      "id": "n21ess",
-      "title": "Gold Holds Above $4,000 per Ounce – Investors Await the U.S. Federal Reserve’s Decision",
-      "title_vi": "Vàng giữ trên 4.000 USD/ounce - Nhà đầu tư chờ đợi quyết định của Cục Dự trữ Liên bang Hoa Kỳ",
-      "summary_vi": "УНН Nền kinh tế ✎ Vàng có giá 4.011,58 USD/ounce trước quyết định của Fed. Các nhà giao dịch đánh giá khả năng tăng lãi suất trong tuần này là 10%.",
-      "image": "https://unn.ua/img/2026/10/26/1793058572-4366-large.webp",
-      "link": "https://unn.ua/en/news/gold-holds-above-dollar4000-per-ounce-investors-await-the-us-federal-reserves-decision",
-      "source": "Українські Національні Новини (УНН)",
-      "category": "metal",
-      "published": "2026-10-27 08:56"
     },
     {
       "id": "s9w0dq",

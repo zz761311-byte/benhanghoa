@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 09:01",
+  "updated_at": "2026-10-27 09:08",
   "items": [
     {
       "id": "hbag3i",
@@ -121,6 +121,17 @@
       "source": "BlackRock",
       "category": "metal",
       "published": "2026-10-26 23:40"
+    },
+    {
+      "id": "n207ij",
+      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
+      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
+      "source": "EnergyNow.com",
+      "category": "macro",
+      "published": "2026-10-26 23:32"
     },
     {
       "id": "wanwf1",
@@ -539,17 +550,6 @@
       "source": "Carnegie Endowment for International Peace",
       "category": "energy",
       "published": "2026-10-24 08:59"
-    },
-    {
-      "id": "kv6twk",
-      "title": "Corn: Is There a Light at the End of the Tunnel?",
-      "title_vi": "Ngô: Có ánh sáng cuối đường hầm?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/corn-there-light-end-tunnel",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-10-24 08:31"
     }
   ]
 }

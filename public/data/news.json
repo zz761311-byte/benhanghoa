@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 06:01",
+  "updated_at": "2026-10-28 06:14",
   "items": [
     {
       "id": "oehbft",
@@ -121,6 +121,17 @@
       "source": "GoldBroker",
       "category": "metal",
       "published": "2026-10-28 00:43"
+    },
+    {
+      "id": "1w0rx3h",
+      "title": "Russian oil refineries boost output as drone attacks halt after US-brokered deal, sources say",
+      "title_vi": "Các nguồn tin cho biết các nhà máy lọc dầu của Nga tăng sản lượng khi các cuộc tấn công bằng máy bay không người lái dừng lại sau thỏa thuận do Mỹ làm trung gian",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/russian-oil-refineries-boost-output-drone-attacks-halt-after-us-brokered-deal-2026-10-27/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-10-27 23:52"
     },
     {
       "id": "189y37u",
@@ -539,17 +550,6 @@
       "source": "AgroLatam",
       "category": "agri",
       "published": "2026-10-26 22:12"
-    },
-    {
-      "id": "186yggf",
-      "title": "Consumers face scarier Halloween costs this year. Here's why.",
-      "title_vi": "Người tiêu dùng phải đối mặt với chi phí Halloween đáng sợ hơn trong năm nay Đây là lý do tại sao.",
-      "summary_vi": "Người Mỹ được dự báo sẽ chi kỷ lục 13,5 tỷ USD cho dịp Halloween năm nay, với mức trung bình người tiêu dùng chi ra hàng trăm USD.",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/26/09055454-60b5-4748-82e3-b00e3d72a582/thumbnail/1200x630/27fdd63599e22fbc987d8aebbf4517e9/gettyimages-2295272607.jpg",
-      "link": "https://www.cbsnews.com/news/consumers-face-scarier-halloween-costs-this-year-heres-why/",
-      "source": "CBS News",
-      "category": "macro",
-      "published": "2026-10-26 21:52"
     }
   ]
 }

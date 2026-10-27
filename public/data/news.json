@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-27 21:01",
+  "updated_at": "2026-10-27 21:38",
   "items": [
+    {
+      "id": "1s0nn03",
+      "title": "OPEC+ Set to Keep Oil Quotas Unchanged",
+      "title_vi": "OPEC+ quyết định giữ nguyên hạn ngạch dầu",
+      "summary_vi": "Các nguồn tin quen thuộc với kế hoạch nói với Reuters hôm thứ Ba rằng các nhà sản xuất chính của OPEC+ quản lý sản lượng dầu chung của họ dự kiến ​​sẽ giữ nguyên hạn ngạch cho tháng 12 khi họ gặp nhau vào Chủ nhật. Ả Rập Saudi, Nga, Iraq, Kuwait, Kazakhstan, Algeria và Oman vẫn giữ nguyên",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Set-to-Keep-Oil-Quotas-Unchanged.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-27 21:30"
+    },
     {
       "id": "upbpbv",
       "title": "Iran Turns to Russia for Nuclear Power as IAEA Oversight Falters",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-27 21:00"
+    },
+    {
+      "id": "1jglbtw",
+      "title": "Silver Hits Fresh Year-To-Date Low Tuesday Morning As Interest Rate Decision Looms",
+      "title_vi": "Bạc đạt mức thấp mới từ đầu năm đến nay vào sáng thứ Ba khi quyết định lãi suất sắp xuất hiện",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forbes.com/sites/conormurray/2026/10/27/silver-hits-fresh-year-to-date-low-tuesday-morning-as-interest-rate-decision-looms/",
+      "source": "Forbes",
+      "category": "metal",
+      "published": "2026-10-27 20:55"
     },
     {
       "id": "lf4cp",
@@ -134,17 +156,6 @@
       "published": "2026-10-27 15:30"
     },
     {
-      "id": "16j0cud",
-      "title": "India’s Oil Buyers Squeezed by $123 Crude and Weak Rupee",
-      "title_vi": "Người mua dầu của Ấn Độ bị ép bởi giá dầu thô 123 USD và đồng Rupee yếu",
-      "summary_vi": "Giá dầu thô Ấn Độ đạt 123,29 USD/thùng vào tuần trước, tiến gần đến mức được ghi nhận vào tháng 3 năm 2012, và tăng thêm 86% mức giá mà các công ty tiếp thị dầu Ấn Độ phải trả, truyền thông địa phương đưa tin, cũng lưu ý đến tác động của đồng rupee rẻ hơn. Vì các công ty Ấn Độ trả tiền mua dầu nên họ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-27_x6uywc8grq.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Buyers-Squeezed-by-123-Crude-and-Weak-Rupee.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-27 14:30"
-    },
-    {
       "id": "r6v3ux",
       "title": "Will gas prices keep falling? Experts weigh in - ABC News",
       "title_vi": "Giá xăng sẽ tiếp tục giảm? Các chuyên gia cân nhắc - ABC News",
@@ -198,6 +209,17 @@
       "source": "StoneX",
       "category": "soft",
       "published": "2026-10-27 08:39"
+    },
+    {
+      "id": "3gjfse",
+      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
+      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo giá dầu thô",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-27 03:58"
     },
     {
       "id": "1lrkwix",
@@ -528,28 +550,6 @@
       "source": "Economies.com",
       "category": "soft",
       "published": "2026-10-26 12:03"
-    },
-    {
-      "id": "1l56xkp",
-      "title": "Russia’s War on Ukraine Is Straining Food and Fuel Supply",
-      "title_vi": "Cuộc chiến của Nga với Ukraine đang gây căng thẳng về nguồn cung cấp thực phẩm và nhiên liệu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/graphics/2026-ukraine-russia-strikes-exports/",
-      "source": "Bloomberg.com",
-      "category": "energy",
-      "published": "2026-10-26 12:02"
-    },
-    {
-      "id": "1au8jt6",
-      "title": "Coffee Price Check: Starbucks, Dunkin’, 7 Brew, Wawa, and McDonald’s",
-      "title_vi": "Kiểm tra giá cà phê: Starbucks, Dunkin’, 7 Brew, Wawa và McDonald’s",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.thestreet.com/restaurants/coffee-price-check-starbucks-dunkin-7-brew-wawa-and-mcdonalds",
-      "source": "TheStreet",
-      "category": "soft",
-      "published": "2026-10-26 05:17"
     }
   ]
 }

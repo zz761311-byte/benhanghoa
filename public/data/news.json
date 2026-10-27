@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-27 11:01",
+  "updated_at": "2026-10-27 12:01",
   "items": [
+    {
+      "id": "ozs9zr",
+      "title": "Gold eases on firmer dollar ahead of Fed decision",
+      "title_vi": "Vàng giảm do đồng đô la vững hơn trước quyết định của Fed",
+      "summary_vi": "Giá vàng giảm hôm thứ Ba, do đồng đô la tăng giá, khi các nhà đầu tư chờ đợi cuộc họp chính sách của Fed để có hướng dẫn mới về triển vọng lãi suất.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107347161-1702486288633-gettyimages-1852395794-_cf23044_6ytni45j.jpeg?v=1793073812&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/10/27/gold-eases-on-firmer-dollar-ahead-of-fed-decision.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-10-27 11:06"
+    },
     {
       "id": "n21ess",
       "title": "Gold Holds Above $4,000 per Ounce – Investors Await the U.S. Federal Reserve’s Decision",
@@ -99,6 +110,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-10-27 02:00"
+    },
+    {
+      "id": "vyoja0",
+      "title": "Silver Is Down 17% in a Month. Here's My Prediction for What's Ahead for the Precious Metal.",
+      "title_vi": "Bạc giảm 17% trong một tháng. Đây là dự đoán của tôi về tương lai của kim loại quý.",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/silver-down-17-month-heres-181500009.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-10-27 01:15"
     },
     {
       "id": "1uybvhf",
@@ -321,17 +343,6 @@
       "published": "2026-10-26 16:47"
     },
     {
-      "id": "i6bj3y",
-      "title": "Gold and Silver Price Forecast: Metals Face Pressure Ahead of the Fed",
-      "title_vi": "Dự báo giá vàng và bạc: Kim loại phải đối mặt với áp lực trước Fed",
-      "summary_vi": "Vàng và bạc phải đối mặt với áp lực từ giá dầu cao, với vàng gần mức hỗ trợ 3.950 USD và bạc dễ bị giảm xuống còn 50 USD.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-and-silver-precious-metals-02-1.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-metals-face-pressure-ahead-of-the-fed-1640226",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-10-26 13:53"
-    },
-    {
       "id": "c9pehg",
       "title": "Coffee price remains bullish – Forecast Today – 26-10-2026",
       "title_vi": "Giá cà phê vẫn tăng – Dự báo hôm nay – 26-10-2026",
@@ -374,6 +385,17 @@
       "source": "FXEmpire",
       "category": "macro",
       "published": "2026-10-25 23:08"
+    },
+    {
+      "id": "3gjfse",
+      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
+      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo giá dầu thô",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-25 22:58"
     },
     {
       "id": "28jzfq",
@@ -528,28 +550,6 @@
       "source": "Monochrome Watches",
       "category": "metal",
       "published": "2026-10-24 17:01"
-    },
-    {
-      "id": "1efvkx7",
-      "title": "Farmer evaluates marketing strategy as corn and soybean prices ease",
-      "title_vi": "Nông dân đánh giá chiến lược tiếp thị khi giá ngô và đậu nành giảm",
-      "summary_vi": "Giá ngô và đậu tương kỳ hạn đã giảm so với mức cao gần đây, và một nông dân ở miền đông Nam Dakota cho biết ông ước mình sẽ chốt được nhiều doanh số bán cây trồng mới hơn. Paul Casper nói: “Tôi đã khóa khoảng 10% cho mùa thu, nhưng tôi vẫn chưa khóa đủ. Anh ấy nói với Brownfield rằng anh ấy hy vọng cuộc xung đột […]",
-      "image": "https://brownfieldagnews.com/wp-content/uploads/2025/11/CornGrainBin-1024x683.jpeg",
-      "link": "https://brownfieldagnews.com/news/farmer-evaluates-marketing-strategy-as-corn-and-soybean-prices-ease/",
-      "source": "Brownfield Ag News",
-      "category": "agri",
-      "published": "2026-10-24 14:01"
-    },
-    {
-      "id": "1nvaas5",
-      "title": "Topic: Coffee market worldwide",
-      "title_vi": "Chủ đề: Thị trường cà phê thế giới",
-      "summary_vi": "Tìm thông tin và số liệu thống kê liên quan về thị trường cà phê toàn cầu",
-      "image": "https://cdn.statcdn.com/static/img/openGraph/statista.png",
-      "link": "https://www.statista.com/topics/5945/coffee-market-worldwide/",
-      "source": "Statista",
-      "category": "soft",
-      "published": "2026-10-24 14:00"
     }
   ]
 }

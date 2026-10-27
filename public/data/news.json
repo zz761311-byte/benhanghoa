@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 10:01",
+  "updated_at": "2026-10-27 11:01",
   "items": [
     {
       "id": "n21ess",
@@ -123,6 +123,17 @@
       "published": "2026-10-27 00:30"
     },
     {
+      "id": "1m3askw",
+      "title": "LME Week: AI demand, security, and tight copper supply",
+      "title_vi": "Tuần lễ LME: Nhu cầu AI, bảo mật và nguồn cung đồng chặt chẽ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/energy/en/news-research/videos/metals/102626-lme-week-ai-demand-security-and-tight-copper-supply",
+      "source": "S&P Global",
+      "category": "metal",
+      "published": "2026-10-27 00:26"
+    },
+    {
       "id": "1cb51jr",
       "title": "Iran attack could drive up gas prices within days, some analysts say - ABC News",
       "title_vi": "Một số nhà phân tích cho biết cuộc tấn công của Iran có thể đẩy giá xăng tăng trong vài ngày - ABC News",
@@ -154,6 +165,17 @@
       "source": "EnergyNow.com",
       "category": "macro",
       "published": "2026-10-26 23:32"
+    },
+    {
+      "id": "sb7kav",
+      "title": "Oil eases on diplomacy hopes; European gas rises on winter supply concerns",
+      "title_vi": "Dầu giảm bớt hy vọng ngoại giao; Khí đốt châu Âu tăng do lo ngại nguồn cung mùa đông",
+      "summary_vi": "Giá dầu thô giảm trong bối cảnh hy vọng về ngoại giao khu vực ở Trung Đông, nhưng triển vọng khí đốt mùa đông thắt chặt của châu Âu đã khiến giá TTF của Hà Lan lên mức cao nhất kể từ tháng 12...",
+      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/10/6adf64ca80181c6da36791f8-oil_market_3.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "link": "https://www.ogj.com/general-interest/economics-markets/news/55414324/oil-eases-on-diplomacy-hopes-european-gas-rises-on-winter-supply-concerns",
+      "source": "Oil & Gas Journal",
+      "category": "energy",
+      "published": "2026-10-26 22:39"
     },
     {
       "id": "wanwf1",
@@ -275,6 +297,17 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-10-26 16:59"
+    },
+    {
+      "id": "1e37jla",
+      "title": "India expected to extend duty-free cotton imports through December, sources say",
+      "title_vi": "Các nguồn tin cho biết Ấn Độ dự kiến ​​sẽ gia hạn nhập khẩu bông miễn thuế đến hết tháng 12",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/india-expected-extend-duty-free-cotton-imports-through-december-sources-say-2026-10-26/",
+      "source": "Reuters",
+      "category": "soft",
+      "published": "2026-10-26 16:49"
     },
     {
       "id": "1h0hrpw",
@@ -517,39 +550,6 @@
       "source": "Statista",
       "category": "soft",
       "published": "2026-10-24 14:00"
-    },
-    {
-      "id": "3gjfse",
-      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
-      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo giá dầu thô",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-24 13:52"
-    },
-    {
-      "id": "bm9ovr",
-      "title": "Why the Price of Gas Is the Most Important Number in US Politics",
-      "title_vi": "Tại sao giá xăng là con số quan trọng nhất trong chính trị Hoa Kỳ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/05/why-the-price-of-gas-is-the-most-important-number-in-us-politics/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-24 13:30"
-    },
-    {
-      "id": "160mjgf",
-      "title": "‘Unacceptable’: Corn Growers Blast USDA After Major Crop Data Error Comes to Light",
-      "title_vi": "‘Không thể chấp nhận được’: Người trồng ngô làm thất vọng USDA sau khi lỗi dữ liệu cây trồng lớn được phát hiện",
-      "summary_vi": "Lãnh đạo Hiệp hội những người trồng ngô quốc gia (NCGA) đang kêu gọi chính phủ liên bang sau khi USDA thừa nhận vào cuối ngày thứ Sáu về một lỗi xử lý dữ liệu lớn trong báo cáo vụ mùa tháng 9 - một sai lầm mà các nhà lãnh đạo ngành ngô cho rằng thị trường ngũ cốc bị thiệt hại nghiêm trọng",
-      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2103/2024/07/16005317/corn-harvest-photo-1.jpeg",
-      "link": "https://www.hoosieragtoday.com/2026/10/23/ncga-usda-corn-data-error/",
-      "source": "Hoosier Ag Today",
-      "category": "agri",
-      "published": "2026-10-24 09:57"
     }
   ]
 }

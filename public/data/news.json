@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 03:01",
+  "updated_at": "2026-10-29 03:36",
   "items": [
     {
       "id": "1bmxa5r",
@@ -321,6 +321,17 @@
       "published": "2026-10-28 13:16"
     },
     {
+      "id": "1br1pdb",
+      "title": "Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections",
+      "title_vi": "Giá dầu tăng khi Mỹ yêu cầu các nước vùng Vịnh chuẩn bị cho cuộc tấn công của Iran sau cuộc bầu cử giữa nhiệm kỳ",
+      "summary_vi": "Giá dầu tăng hôm thứ Tư khi các nhà đầu tư cân nhắc khả năng xảy ra xung đột kéo dài ở Trung Đông.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108419670-1792156386789-gettyimages-2299888156-US_OIL.jpeg?v=1792156436&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-10-28 12:52"
+    },
+    {
       "id": "117hvs2",
       "title": "Air quality in Cocoa Beach",
       "title_vi": "Chất lượng không khí tại Cocoa Beach",
@@ -539,17 +550,6 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "soft",
       "published": "2026-10-27 21:47"
-    },
-    {
-      "id": "1h0xhsn",
-      "title": "Flip-Flopping Brazil Forecast Leads to More Favorable Conditions for Early Soybean Development",
-      "title_vi": "Dự báo thay đổi ở Brazil dẫn đến điều kiện thuận lợi hơn cho việc phát triển đậu nành sớm",
-      "summary_vi": "Điều kiện thời tiết thay đổi đang cải thiện độ ẩm của đất đồng thời cho phép công việc thực địa tiến triển nhanh chóng.",
-      "image": "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredImage?category=CMS&symbolicName=2026v27-sa-precip.png",
-      "link": "https://www.dtnpf.com/agriculture/web/ag/news/article/2026/10/27/flip-flopping-brazil-forecast-leads",
-      "source": "DTN Progressive Farmer",
-      "category": "metal",
-      "published": "2026-10-27 21:09"
     }
   ]
 }

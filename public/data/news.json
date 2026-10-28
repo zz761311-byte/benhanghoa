@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 09:22",
+  "updated_at": "2026-10-28 10:01",
   "items": [
     {
       "id": "fgfsbj",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-28 06:00"
+    },
+    {
+      "id": "z3uxha",
+      "title": "Grains Hit New Lows Again: What’s Causing the Bleeding and When Does it End?",
+      "title_vi": "Ngũ cốc lại đạt mức thấp mới: Điều gì gây ra tình trạng chảy máu và khi nào nó kết thúc?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/grains-hit-new-lows-again-whats-causing-bleeding-and-when-does-it-end",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-10-28 05:34"
     },
     {
       "id": "17hrhjx",
@@ -539,17 +550,6 @@
       "source": "BlackRock",
       "category": "metal",
       "published": "2026-10-26 23:40"
-    },
-    {
-      "id": "n207ij",
-      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
-      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
-      "source": "EnergyNow.com",
-      "category": "macro",
-      "published": "2026-10-26 23:32"
     }
   ]
 }

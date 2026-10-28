@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-28 10:01",
+  "updated_at": "2026-10-28 11:01",
   "items": [
+    {
+      "id": "lnc1q5",
+      "title": "Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears",
+      "title_vi": "Giá dầu tăng khi các cuộc tấn công của Houthi khơi lại nỗi lo về nguồn cung của Saudi",
+      "summary_vi": "Giá dầu tăng vào đầu phiên giao dịch châu Á hôm thứ Tư khi các cuộc tấn công mới của Houthi vào Ả Rập Saudi làm dấy lên lo ngại về nguồn cung trong khu vực. Tồn kho giảm và báo cáo cho biết Mỹ đang chuẩn bị cho một chiến dịch quân sự mới chống lại Iran sau cuộc bầu cử giữa kỳ đã góp phần làm tăng",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Houthi-Attacks-Reignite-Saudi-Supply-Fears.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-28 10:53"
+    },
     {
       "id": "fgfsbj",
       "title": "Gold Holds Above $4,000 as Traders Look to Fed Rate Decision",
@@ -145,15 +156,15 @@
       "published": "2026-10-28 02:00"
     },
     {
-      "id": "1026i8m",
-      "title": "Russia’s Crude Exports Set to Fall as Diesel Production Rises",
-      "title_vi": "Xuất khẩu dầu thô của Nga có thể giảm do sản lượng dầu diesel tăng",
-      "summary_vi": "Xuất khẩu dầu thô của Nga từ các cảng phía Tây có thể giảm tới 200.000 thùng/ngày trong tháng 11 do các nhà máy lọc dầu tăng sản lượng dầu diesel theo thỏa thuận mới của Moscow với Washington, theo lịch trình nạp sơ bộ được Reuters trích dẫn hôm thứ Ba. Hai tr",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Crude-Exports-Set-to-Fall-as-Diesel-Production-Rises.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-28 01:30"
+      "id": "n207ij",
+      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
+      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
+      "source": "EnergyNow.com",
+      "category": "macro",
+      "published": "2026-10-28 00:46"
     },
     {
       "id": "1ccumle",
@@ -508,6 +519,17 @@
       "published": "2026-10-27 02:00"
     },
     {
+      "id": "1416o6k",
+      "title": "Copper Extends Drop as AI Stocks Weigh Ahead of Fed Meeting",
+      "title_vi": "Đồng tiếp tục giảm khi cổ phiếu AI cân nhắc trước cuộc họp của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-26/copper-extends-drop-as-ai-stocks-weigh-ahead-of-fed-meeting",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-10-27 01:54"
+    },
+    {
       "id": "vyoja0",
       "title": "Silver Is Down 17% in a Month. Here's My Prediction for What's Ahead for the Precious Metal.",
       "title_vi": "Bạc giảm 17% trong một tháng. Đây là dự đoán của tôi về tương lai của kim loại quý.",
@@ -528,28 +550,6 @@
       "source": "S&P Global",
       "category": "metal",
       "published": "2026-10-27 00:26"
-    },
-    {
-      "id": "1cb51jr",
-      "title": "Iran attack could drive up gas prices within days, some analysts say - ABC News",
-      "title_vi": "Một số nhà phân tích cho biết cuộc tấn công của Iran có thể đẩy giá xăng tăng trong vài ngày - ABC News",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://abcnews.com/Business/iran-attack-drive-gas-prices-days-analysts/story?id",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-10-26 23:45"
-    },
-    {
-      "id": "e3no1e",
-      "title": "Weekly market commentary",
-      "title_vi": "Bình luận thị trường hàng tuần",
-      "summary_vi": "Hãy theo dõi để biết thông tin chi tiết về các chủ đề nóng và xu hướng mới nhất trên thị trường tài chính thông qua bài bình luận hàng tuần của Viện đầu tư BlackRock.",
-      "image": "/blk-one01-c-assets/include/common/images/blackrock_logo.png",
-      "link": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
-      "source": "BlackRock",
-      "category": "metal",
-      "published": "2026-10-26 23:40"
     }
   ]
 }

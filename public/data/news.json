@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 11:01",
+  "updated_at": "2026-10-28 12:01",
   "items": [
     {
       "id": "lnc1q5",
@@ -123,6 +123,17 @@
       "published": "2026-10-28 03:00"
     },
     {
+      "id": "u1ek15",
+      "title": "Copper price climbs on AI rebound, China demand strength",
+      "title_vi": "Giá đồng tăng nhờ trí tuệ nhân tạo phục hồi, nhu cầu của Trung Quốc tăng mạnh",
+      "summary_vi": "Đồng tăng vào thứ Ba khi tâm lý xung quanh cổ phiếu AI phục hồi và nhu cầu tăng cường ở nước tiêu dùng hàng đầu Trung Quốc, mặc dù đồng đô la vững hơn đã hạn chế mức tăng. Điểm chuẩn CMCU3 đồng ba tháng trên thị trường London…",
+      "image": "https://image-api.prod.kitco.com/image/9a2ed6e1-4336-441e-af70-16e9db629bad.jpeg?top=0.1902027027027&left=0&width=1000&height=562.61959459459&scale_width=1920&token=4faa8bc413f5beee4b8adf338afbed0159be707ceaa33bab2328d0e2a136f640",
+      "link": "https://www.kitco.com/news/off-the-wire/2026-10-27/copper-price-climbs-ai-rebound-china-demand-strength",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-10-28 02:59"
+    },
+    {
       "id": "k9kaek",
       "title": "Washington discusses Russian deals for US oil majors in Ukraine peace talks",
       "title_vi": "Washington thảo luận về thỏa thuận của Nga với các hãng dầu mỏ lớn của Mỹ trong đàm phán hòa bình Ukraine",
@@ -154,6 +165,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-28 02:00"
+    },
+    {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-28 00:55"
     },
     {
       "id": "n207ij",
@@ -528,28 +550,6 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-10-27 01:54"
-    },
-    {
-      "id": "vyoja0",
-      "title": "Silver Is Down 17% in a Month. Here's My Prediction for What's Ahead for the Precious Metal.",
-      "title_vi": "Bạc giảm 17% trong một tháng. Đây là dự đoán của tôi về tương lai của kim loại quý.",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/silver-down-17-month-heres-181500009.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-10-27 01:15"
-    },
-    {
-      "id": "1m3askw",
-      "title": "LME Week: AI demand, security, and tight copper supply",
-      "title_vi": "Tuần lễ LME: Nhu cầu AI, bảo mật và nguồn cung đồng chặt chẽ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spglobal.com/energy/en/news-research/videos/metals/102626-lme-week-ai-demand-security-and-tight-copper-supply",
-      "source": "S&P Global",
-      "category": "metal",
-      "published": "2026-10-27 00:26"
     }
   ]
 }

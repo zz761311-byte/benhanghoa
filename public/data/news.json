@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 15:00",
+  "updated_at": "2026-10-28 15:43",
   "items": [
     {
       "id": "1nj6af8",
@@ -33,6 +33,17 @@
       "source": "Reuters",
       "category": "macro",
       "published": "2026-10-28 13:16"
+    },
+    {
+      "id": "1go9ej5",
+      "title": "Gold, silver outlook: Trading the ranges before the next break",
+      "title_vi": "Triển vọng vàng, bạc: Giao dịch trong phạm vi trước đợt nghỉ tiếp theo",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-gb/news-and-analysis/gold-silver-outlook-trading-the-ranges-before-the-next-break/",
+      "source": "StoneX",
+      "category": "metal",
+      "published": "2026-10-28 11:14"
     },
     {
       "id": "lnc1q5",
@@ -206,17 +217,6 @@
       "summary_vi": "Julian Phillips về Vàng, Địa chính trị & Sự tái thiết lập lớn",
       "image": "https://goldbroker.com/_api/media/file/yt-m5FCG-oLKjg.jpg?prefix=production",
       "link": "https://goldbroker.com/news/videos/julian-phillips-on-gold-geopolitics-the-big-reset",
-      "source": "GoldBroker",
-      "category": "metal",
-      "published": "2026-10-28 00:43"
-    },
-    {
-      "id": "h86ewi",
-      "title": "Guillermo Barba: Gold & Silver from a Mexican Perspective",
-      "title_vi": "Guillermo Barba: Vàng và Bạc từ góc nhìn của Mexico",
-      "summary_vi": "Guillermo Barba: Vàng và Bạc từ góc nhìn của Mexico",
-      "image": "https://goldbroker.com/_api/media/file/yt-Df__mg_M8cw.jpg?prefix=production",
-      "link": "https://goldbroker.com/news/videos/guillermo-barba-gold-silver-from-a-mexican-perspective",
       "source": "GoldBroker",
       "category": "metal",
       "published": "2026-10-28 00:43"

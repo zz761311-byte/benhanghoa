@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 07:01",
+  "updated_at": "2026-10-28 08:02",
   "items": [
     {
       "id": "1mmi82h",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-10-28 07:00"
+    },
+    {
+      "id": "c46alj",
+      "title": "Oregon, Bend gas prices fall, but high crude oil costs could slow declines",
+      "title_vi": "Giá khí đốt ở Oregon, Bend giảm, nhưng chi phí dầu thô cao có thể làm chậm đà giảm",
+      "summary_vi": "PORTLAND, Ore. (KTVZ) - Giá xăng đang giảm ở hầu hết các bang, bao gồm cả Oregon, trong tuần này, mặc dù giá dầu thô dao động quanh mức 100 USD/thùng, AAA Oregon/Idaho đưa tin hôm thứ Ba. Thông thường, sự chuyển đổi theo mùa sang sử dụng khí đốt hỗn hợp vào mùa đông và nhu cầu sử dụng khí đốt giảm thông thường giúp người lái xe giảm bớt đáng kể tình trạng khó khăn trong cuộc sống.",
+      "image": "https://ktvz.com/wp-content/uploads/2026/10/AAA-gas-prices-1027.jpg",
+      "link": "https://ktvz.com/news/gas-prices/2026/10/27/oregon-bend-gas-prices-still-easing-aaa-says-but-high-crude-oil-prices-may-put-the-brakes-on-declines/",
+      "source": "KTVZ",
+      "category": "energy",
+      "published": "2026-10-28 06:24"
     },
     {
       "id": "oehbft",
@@ -387,6 +398,17 @@
       "published": "2026-10-27 12:55"
     },
     {
+      "id": "rg7jbu",
+      "title": "Platinum price faces historic support – Forecast today – 27-10-2026",
+      "title_vi": "Giá bạch kim đối mặt với ngưỡng hỗ trợ lịch sử – Dự báo hôm nay – 27-10-2026",
+      "summary_vi": "Bạch kim đã kết thúc làn sóng giảm giá gần đây sau khi gặp phải mức hỗ trợ lịch sử gần $1505,00, mức này đã được chứng minh là rào cản mạnh mẽ chống lại sự sụt giảm tiếp theo, buộc giá phải tham gia giao dịch đi ngang quanh mức $1525,00.",
+      "image": "https://dylta6p24nxqg.cloudfront.net/images/1793076731.png",
+      "link": "https://www.economies.com/commodities/platinum-analysis/platinum-price-faces-historic-support-%E2%80%93-forecast-today-%E2%80%93-27-10-2026-132778",
+      "source": "Economies.com",
+      "category": "metal",
+      "published": "2026-10-27 11:52"
+    },
+    {
       "id": "s9w0dq",
       "title": "Coffee retreats on an improved supply outlook, though stocks and irregular weather continue to limit declines",
       "title_vi": "Cà phê giảm do triển vọng nguồn cung được cải thiện, mặc dù tồn kho và thời tiết bất thường tiếp tục hạn chế sự sụt giảm",
@@ -528,28 +550,6 @@
       "source": "EnergyNow.com",
       "category": "macro",
       "published": "2026-10-26 23:32"
-    },
-    {
-      "id": "bm9ovr",
-      "title": "Why the Price of Gas Is the Most Important Number in US Politics",
-      "title_vi": "Tại sao giá xăng là con số quan trọng nhất trong chính trị Hoa Kỳ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/05/why-the-price-of-gas-is-the-most-important-number-in-us-politics/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-26 23:29"
-    },
-    {
-      "id": "sb7kav",
-      "title": "Oil eases on diplomacy hopes; European gas rises on winter supply concerns",
-      "title_vi": "Dầu giảm bớt hy vọng ngoại giao; Khí đốt châu Âu tăng do lo ngại nguồn cung mùa đông",
-      "summary_vi": "Giá dầu thô giảm trong bối cảnh hy vọng về ngoại giao khu vực ở Trung Đông, nhưng triển vọng khí đốt mùa đông thắt chặt của châu Âu đã khiến giá TTF của Hà Lan lên mức cao nhất kể từ tháng 12...",
-      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/10/6adf64ca80181c6da36791f8-oil_market_3.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-      "link": "https://www.ogj.com/general-interest/economics-markets/news/55414324/oil-eases-on-diplomacy-hopes-european-gas-rises-on-winter-supply-concerns",
-      "source": "Oil & Gas Journal",
-      "category": "energy",
-      "published": "2026-10-26 22:39"
     }
   ]
 }

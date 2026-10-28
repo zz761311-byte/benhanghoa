@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-28 21:01",
+  "updated_at": "2026-10-28 22:01",
   "items": [
+    {
+      "id": "qgyyff",
+      "title": "US Oil Inventories Fall Again As Prices Rise",
+      "title_vi": "Tồn kho dầu của Mỹ lại giảm khi giá tăng",
+      "summary_vi": "Theo dữ liệu mới từ Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA) công bố hôm thứ Tư, tồn kho dầu thô ở Mỹ đã giảm 1,9 triệu thùng trong tuần kết thúc vào ngày 23 tháng 10. Mức giảm này đưa tồn kho thương mại lên 410,6 triệu thùng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-28_qvlsfooas5.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Inventories-Fall-Again-As-Prices-Rise.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-28 21:44"
+    },
+    {
+      "id": "x5a6al",
+      "title": "China’s Refiners Turn to Africa and Brazil Crude as Freight Rates Ease",
+      "title_vi": "Các nhà máy lọc dầu của Trung Quốc chuyển sang châu Phi và dầu thô Brazil khi giá cước vận chuyển giảm",
+      "summary_vi": "Các nhà máy lọc dầu của Trung Quốc đang mua dầu thô từ Tây Phi và Brazil sau khi giá cước vận chuyển giảm bớt trong hai tuần qua, trong khi sự cạnh tranh về nguồn cung của Nga mạnh hơn và các thùng dầu của Iran đã biến mất. Sau khi giá cước vận chuyển giảm từ mức cao nhất mọi thời đại, một số công ty Trung Quốc đã tinh chỉnh",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-28_rexgdzsibp.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Refiners-Turn-to-Africa-and-Brazil-Crude-as-Freight-Rates-Ease.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-28 21:30"
+    },
     {
       "id": "19bnn6e",
       "title": "Iran Eyes $130 Oil While at Least 50 Tankers Sit Stuck in the Gulf",
@@ -68,6 +90,17 @@
       "published": "2026-10-28 19:06"
     },
     {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!HY-o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F098967c0-94d9-494e-b37b-1d8508627240_1500x1000.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-28 18:55"
+    },
+    {
       "id": "wly1dm",
       "title": "India&#039;s Gasoline Demand Could Peak by 2035 as EVs Gain Ground",
       "title_vi": "Nhu cầu xăng của Ấn Độ có thể đạt đỉnh vào năm 2035 khi xe điện tăng trưởng",
@@ -101,26 +134,15 @@
       "published": "2026-10-28 16:32"
     },
     {
-      "id": "anzkj4",
-      "title": "Equinor Profits Triple as Oil and Gas Prices Surge",
-      "title_vi": "Lợi nhuận Equinor tăng gấp ba khi giá dầu và khí đốt tăng",
-      "summary_vi": "Equinor đã tăng gấp ba lần thu nhập ròng đã điều chỉnh trong quý thứ ba so với một năm trước đó, nhờ lợi nhuận lọc dầu tăng mạnh, giá dầu và khí tự nhiên cao cũng như sản lượng hydrocarbon tăng. Công ty năng lượng lớn của Na Uy hôm thứ Tư đã báo cáo thu nhập ròng đã điều chỉnh là 2,86 tỷ USD.",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Profits-Triple-as-Oil-and-Gas-Prices-Surge.html",
-      "source": "OilPrice",
+      "id": "3gjfse",
+      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
+      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
+      "source": "EnergyNow.com",
       "category": "energy",
-      "published": "2026-10-28 16:20"
-    },
-    {
-      "id": "1nj6af8",
-      "title": "Oil Traders Brace for Iran Escalation After U.S. Elections",
-      "title_vi": "Các nhà giao dịch dầu mỏ chuẩn bị cho sự leo thang của Iran sau cuộc bầu cử ở Hoa Kỳ",
-      "summary_vi": "Các nhà kinh doanh dầu dường như đang chuẩn bị cho việc nối lại tình trạng thù địch ở Trung Đông sau cuộc bầu cử giữa nhiệm kỳ của Hoa Kỳ vào ngày 3 tháng 11, và nếu việc nối lại như vậy không diễn ra, giá dầu có thể sẽ giảm, các chiến lược gia hàng hóa của ING hôm nay viết trong một ghi chú. Với Chủ tịch T.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-28_r8oqmc7igh.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Brace-for-Iran-Escalation-After-US-Elections.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-28 14:50"
+      "published": "2026-10-28 15:21"
     },
     {
       "id": "7tnlit",
@@ -143,6 +165,17 @@
       "source": "StoneX",
       "category": "metal",
       "published": "2026-10-28 11:14"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-28 10:43"
     },
     {
       "id": "qim8rx",
@@ -517,39 +550,6 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "energy",
       "published": "2026-10-27 12:55"
-    },
-    {
-      "id": "rg7jbu",
-      "title": "Platinum price faces historic support – Forecast today – 27-10-2026",
-      "title_vi": "Giá bạch kim đối mặt với ngưỡng hỗ trợ lịch sử – Dự báo hôm nay – 27-10-2026",
-      "summary_vi": "Bạch kim đã kết thúc làn sóng giảm giá gần đây sau khi gặp phải mức hỗ trợ lịch sử gần $1505,00, mức này đã được chứng minh là rào cản mạnh mẽ chống lại sự sụt giảm tiếp theo, buộc giá phải tham gia giao dịch đi ngang quanh mức $1525,00.",
-      "image": "https://dylta6p24nxqg.cloudfront.net/images/1793076731.png",
-      "link": "https://www.economies.com/commodities/platinum-analysis/platinum-price-faces-historic-support-%E2%80%93-forecast-today-%E2%80%93-27-10-2026-132778",
-      "source": "Economies.com",
-      "category": "metal",
-      "published": "2026-10-27 11:52"
-    },
-    {
-      "id": "s9w0dq",
-      "title": "Coffee retreats on an improved supply outlook, though stocks and irregular weather continue to limit declines",
-      "title_vi": "Cà phê giảm do triển vọng nguồn cung được cải thiện, mặc dù tồn kho và thời tiết bất thường tiếp tục hạn chế sự sụt giảm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-gb/insights/coffee-retreats-on-an-improved-supply-outlook-though-stocks-and-irregular-weather-continue-to-limit-declines/",
-      "source": "StoneX",
-      "category": "soft",
-      "published": "2026-10-27 08:39"
-    },
-    {
-      "id": "cddsig",
-      "title": "Soybean futures dip as Brazilian real slides following Lula election win",
-      "title_vi": "Giá đậu nành kỳ hạn giảm khi đồng Real Brazil trượt giá sau chiến thắng bầu cử ở Lula",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/102626-soybean-futures-dip-as-brazilian-real-slides-following-lula-election-win",
-      "source": "S&P Global",
-      "category": "agri",
-      "published": "2026-10-27 07:11"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-29 16:00",
+  "updated_at": "2026-10-29 17:01",
   "items": [
+    {
+      "id": "9wqjb1",
+      "title": "EU Rules Out New Climate Finance Pledges at COP31",
+      "title_vi": "EU loại trừ các cam kết tài chính khí hậu mới tại COP31",
+      "summary_vi": "Ủy viên khí hậu Wopke Hoekstra cho biết, Liên minh Châu Âu sẽ không đưa ra các cam kết tài chính khí hậu mới tại hội nghị COP31 sắp tới, mô tả khả năng các cam kết tài chính tiếp theo để giảm phát thải là “chết trong nước”.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-29_ifzyp1mgwu.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Rules-Out-New-Climate-Finance-Pledges-at-COP31.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-29 16:15"
+    },
     {
       "id": "1swmw63",
       "title": "EU Scrambles to Contain Energy Price Crisis Ahead of Winter",
@@ -145,17 +156,6 @@
       "published": "2026-10-29 04:00"
     },
     {
-      "id": "1w28myk",
-      "title": "GE Vernova Expands in High-Voltage Grid Gear With Trench Deal",
-      "title_vi": "GE Vernova mở rộng lĩnh vực thiết bị lưới điện cao áp với thỏa thuận rãnh",
-      "summary_vi": "GE Vernova đang mua nhà sản xuất thiết bị điện áp cao Trench Group từ Triton Partners với giá 9 tỷ USD và nâng dự báo doanh thu năm 2026 lần thứ ba liên tiếp vào thứ Tư. Công ty hiện kỳ ​​vọng doanh thu sẽ đạt từ 46,5 tỷ USD đến 47,5 tỷ USD trong năm nay, tăng từ mức 45,5-46,5 tỷ USD.",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/GE-Vernova-Expands-in-High-Voltage-Grid-Gear-With-Trench-Deal.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-29 03:30"
-    },
-    {
       "id": "1xmztgd",
       "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
       "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
@@ -275,6 +275,17 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-10-28 22:43"
+    },
+    {
+      "id": "1toedgu",
+      "title": "European gas touches €100 for first time since 2022 energy crisis as consumers, industry feel the pain",
+      "title_vi": "Khí đốt châu Âu chạm mốc 100 euro lần đầu tiên kể từ cuộc khủng hoảng năng lượng năm 2022 khi người tiêu dùng và ngành công nghiệp cảm nhận được nỗi đau",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/european-benchmark-gas-price-touches-100-first-time-since-december-2022-2026-10-28/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-10-28 22:28"
     },
     {
       "id": "vu5y33",
@@ -539,17 +550,6 @@
       "source": "AgWeb",
       "category": "agri",
       "published": "2026-10-28 05:34"
-    },
-    {
-      "id": "85hny2",
-      "title": "Southern Gas Markets Bring the Heat to a Lukewarm Outlook",
-      "title_vi": "Thị trường khí đốt miền Nam mang lại sức nóng cho một viễn cảnh ảm đạm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/southern-gas-markets-bring-the-heat-to-a-lukewarm-outlook/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-10-28 04:28"
     }
   ]
 }

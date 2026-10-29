@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-30 02:01",
+  "updated_at": "2026-10-30 02:17",
   "items": [
+    {
+      "id": "12nrtfz",
+      "title": "Falling cocoa prices offer little relief for Halloween candy shoppers",
+      "title_vi": "Giá ca cao giảm mang lại chút nhẹ nhõm cho người mua kẹo Halloween",
+      "summary_vi": "Bởi Tracy Turner, Chuyên gia Truyền thông, Trường Cao đẳng Thực phẩm, Nông nghiệp và Đại học Bang Ohio",
+      "image": "https://ocj.com/wp-content/uploads/2026/10/Falling-cocoa-prices-offer-little-relief-for-Halloween-candy-shoppers-.png",
+      "link": "https://ocj.com/2026/10/falling-cocoa-prices-offer-little-relief-for-halloween-candy-shoppers/",
+      "source": "Ohio's Country Journal",
+      "category": "soft",
+      "published": "2026-10-30 02:00"
+    },
     {
       "id": "jgdj8o",
       "title": "BYD Earnings Miss Estimates as China&#039;s EV Price War Takes Its Toll",
@@ -88,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-29 22:30"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!HY-o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F098967c0-94d9-494e-b37b-1d8508627240_1500x1000.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-29 22:26"
     },
     {
       "id": "nk1kyp",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-28 20:20"
-    },
-    {
-      "id": "1pluug5",
-      "title": "Canada facing carbon tariff threat from European Union: internal documents",
-      "title_vi": "Canada đối mặt với mối đe dọa thuế carbon từ Liên minh châu Âu: tài liệu nội bộ",
-      "summary_vi": "Canada đang phải đối mặt với mối đe dọa thuế carbon từ Liên minh châu Âu trong vòng vài tháng khi khối kinh tế này thực hiện đầy đủ Cơ chế điều chỉnh biên giới carbon của mình.",
-      "image": "https://i.cbc.ca/ais/5edb2680-0519-41d8-be9c-d16051abb75e,1793140630232/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C67%2C5500%2C3093%29%3BResize%3D620",
-      "link": "https://www.cbc.ca/news/politics/cbam-carbon-tariff-canada-european-union-9.7398807",
-      "source": "CBC",
-      "category": "macro",
-      "published": "2026-10-28 20:12"
-    },
-    {
-      "id": "1nvaas5",
-      "title": "Topic: Coffee market worldwide",
-      "title_vi": "Chủ đề: Thị trường cà phê thế giới",
-      "summary_vi": "Tìm các sự kiện và số liệu thống kê có liên quan trên thị trường cà phê toàn cầu",
-      "image": "https://cdn.statcdn.com/static/img/openGraph/statista.png",
-      "link": "https://www.statista.com/topics/5945/coffee-market-worldwide/",
-      "source": "Statista",
-      "category": "soft",
-      "published": "2026-10-28 19:35"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 07:27",
+  "updated_at": "2026-10-29 08:00",
   "items": [
     {
       "id": "1ro4el5",
@@ -68,6 +68,17 @@
       "published": "2026-10-29 04:29"
     },
     {
+      "id": "1tbtk7c",
+      "title": "World Bank lifts copper price outlook by 18%",
+      "title_vi": "Ngân hàng Thế giới nâng triển vọng giá đồng lên 18%",
+      "summary_vi": "Các sửa đổi hướng lên của ngân hàng không chỉ dừng lại ở đồng.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/10/el-teniente-mine-smelter.png",
+      "link": "https://www.mining.com/world-bank-lifts-copper-price-outlook-by-18/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-10-29 04:24"
+    },
+    {
       "id": "1cbxlex",
       "title": "Cocoa Beach Pier Surf Report, Surf Forecast and Surf Cams",
       "title_vi": "Báo cáo lướt sóng trên bến tàu trên bãi biển Cocoa, dự báo lướt sóng và máy quay lướt sóng",
@@ -110,6 +121,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-29 03:00"
+    },
+    {
+      "id": "4d3d2h",
+      "title": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
+      "title_vi": "Các tuyến đường thay thế cho dầu khí Trung Đông do sự gián đoạn của Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/alternative-routes-for-middle-east-oil-and-gas-due-to-hormuz-disruption/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-29 02:12"
     },
     {
       "id": "1nmgmce",
@@ -528,28 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-28 00:55"
-    },
-    {
-      "id": "n207ij",
-      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
-      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
-      "source": "EnergyNow.com",
-      "category": "macro",
-      "published": "2026-10-28 00:46"
-    },
-    {
-      "id": "1w0rx3h",
-      "title": "Russian oil refineries boost output as drone attacks halt after US-brokered deal, sources say",
-      "title_vi": "Các nguồn tin cho biết các nhà máy lọc dầu của Nga tăng sản lượng khi các cuộc tấn công bằng máy bay không người lái dừng lại sau thỏa thuận do Mỹ làm trung gian",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/russian-oil-refineries-boost-output-drone-attacks-halt-after-us-brokered-deal-2026-10-27/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-10-27 23:52"
     }
   ]
 }

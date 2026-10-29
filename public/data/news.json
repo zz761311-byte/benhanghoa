@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-29 07:01",
+  "updated_at": "2026-10-29 07:27",
   "items": [
+    {
+      "id": "1ro4el5",
+      "title": "Exclusive | Death Threats, Lawsuits and Billions in Play: The Battle Over Moving Russian Oil",
+      "title_vi": "Độc quyền | Các mối đe dọa tử vong, các vụ kiện tụng và hàng tỷ USD đang diễn ra: Cuộc chiến di chuyển dầu mỏ của Nga",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/world/russia/death-threats-lawsuits-and-billions-in-play-the-battle-over-moving-russian-oil-1daea5ce",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-10-29 07:02"
+    },
     {
       "id": "1wxtwx6",
       "title": "Peace Talks Won’t Save Oil Buyers From $100-Plus Oil",
@@ -200,6 +211,17 @@
       "published": "2026-10-28 21:49"
     },
     {
+      "id": "1vknsht",
+      "title": "S&P 500 Forecast: SPX flat ahead of FOMC rate decision and tech earnings",
+      "title_vi": "Dự báo S&P 500: SPX đi ngang trước quyết định lãi suất của FOMC và thu nhập công nghệ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-gb/news-and-analysis/sandp-500-forecast-spx-flat-ahead-of-fomc-rate-decision-and-tech-earnings/",
+      "source": "StoneX",
+      "category": "macro",
+      "published": "2026-10-28 21:12"
+    },
+    {
       "id": "1op07gt",
       "title": "Questions to Ask Before Buying a Used Coffee Roaster",
       "title_vi": "Những câu hỏi cần hỏi trước khi mua máy rang cà phê đã qua sử dụng",
@@ -308,6 +330,17 @@
       "source": "TradingView",
       "category": "soft",
       "published": "2026-10-28 16:32"
+    },
+    {
+      "id": "anzkj4",
+      "title": "Equinor Profits Triple as Oil and Gas Prices Surge",
+      "title_vi": "Lợi nhuận Equinor tăng gấp ba khi giá dầu và khí đốt tăng",
+      "summary_vi": "Thu nhập ròng được điều chỉnh của Equinor đã tăng gấp ba lần lên 2,86 tỷ USD trong quý 3 năm 2026, do giá dầu và khí đốt cao hơn, tỷ suất lợi nhuận lọc dầu cao và sản lượng tăng.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-28_tbrwfez7ec.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Profits-Triple-as-Oil-and-Gas-Prices-Surge.html",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "energy",
+      "published": "2026-10-28 16:20"
     },
     {
       "id": "bm9ovr",
@@ -442,6 +475,17 @@
       "published": "2026-10-28 04:28"
     },
     {
+      "id": "1au8jt6",
+      "title": "Coffee Price Check: Starbucks, Dunkin’, 7 Brew, Wawa, and McDonald’s",
+      "title_vi": "Kiểm tra giá cà phê: Starbucks, Dunkin’, 7 Brew, Wawa và McDonald’s",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.thestreet.com/restaurants/coffee-price-check-starbucks-dunkin-7-brew-wawa-and-mcdonalds",
+      "source": "TheStreet",
+      "category": "soft",
+      "published": "2026-10-28 04:13"
+    },
+    {
       "id": "u1ek15",
       "title": "Copper price climbs on AI rebound, China demand strength",
       "title_vi": "Giá đồng tăng nhờ trí tuệ nhân tạo phục hồi, nhu cầu của Trung Quốc tăng mạnh",
@@ -506,50 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-10-27 23:52"
-    },
-    {
-      "id": "189y37u",
-      "title": "Silver Forecast: Is XAG/USD Finally Finding a Bottom? | Technical Tuesday",
-      "title_vi": "Dự báo bạc: XAG/USD cuối cùng có tìm thấy đáy không? | Kỹ thuật thứ ba",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forex.com/en-us/news-and-analysis/silver-forecast-is-xag-usd-finally-finding-a-bottom/",
-      "source": "FOREX.com",
-      "category": "metal",
-      "published": "2026-10-27 23:48"
-    },
-    {
-      "id": "15qtmg0",
-      "title": "Setting the Price on Stalks: How to Value and Structure Corn Residue Grazing",
-      "title_vi": "Định giá thân cây: Cách định giá và cơ cấu việc chăn thả bã ngô",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.drovers.com/news/setting-price-stalks-how-value-and-structure-corn-residue-grazing",
-      "source": "Drovers Magazine",
-      "category": "agri",
-      "published": "2026-10-27 23:37"
-    },
-    {
-      "id": "lbf7lh",
-      "title": "America Needs Canada's Aluminum. Trump's Tariff Exposed Just How Badly. -- Commodities Roundup",
-      "title_vi": "Mỹ cần nhôm của Canada. Thuế quan của Trump cho thấy mức độ tồi tệ như thế nào -- Tổng hợp hàng hóa",
-      "summary_vi": "Diễn biến thị trường: --Dầu thô Brent giảm 1,6% xuống 113,95 USD/thùng. --Khí chuẩn châu Âu giảm 0,7% xuống 95,82 euro/MWh. --Giá đồng kỳ hạn tăng 1% ở mức 14.481 USD/số liệu...",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "link": "https://www.marketscreener.com/news/america-needs-canada-s-aluminum-trump-s-tariff-exposed-just-how-badly-commodities-roundup-ce785cdddf8bf32d",
-      "source": "marketscreener.com",
-      "category": "metal",
-      "published": "2026-10-27 23:29"
-    },
-    {
-      "id": "qeesig",
-      "title": "Boo! Tariffs Inflate Halloween Candy Prices",
-      "title_vi": "Ối! Thuế quan làm tăng giá kẹo Halloween",
-      "summary_vi": "Giá kẹo đang ở mức cao kỷ lục trong mùa Halloween năm nay. Chỉ số giá tiêu dùng (CPI) đối với kẹo và kẹo cao su trong tháng 9 năm 2026 cao hơn 7,7% so với một năm trước, cao hơn gấp đôi mức tăng CPI chung. Thuế quan và hạn ngạch nhập khẩu, khiến giá đường của Mỹ cao hơn gấp đôi so với giá thế giới, là một phần của",
-      "image": "https://www.ntu.org/library/imglib/2024/10/AdobeStock-291374139.jpeg?v=20241025023700",
-      "link": "https://www.ntu.org/publications/detail/boo-tariffs-inflate-halloween-candy-prices",
-      "source": "National Taxpayers Union",
-      "category": "macro",
-      "published": "2026-10-27 23:15"
     }
   ]
 }

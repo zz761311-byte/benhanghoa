@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-30 01:01",
+  "updated_at": "2026-10-30 02:01",
   "items": [
+    {
+      "id": "jgdj8o",
+      "title": "BYD Earnings Miss Estimates as China&#039;s EV Price War Takes Its Toll",
+      "title_vi": "Thu nhập của BYD không được ước tính khi cuộc chiến giá xe điện của Trung Quốc gây thiệt hại",
+      "summary_vi": "Hãng xe điện khổng lồ BYD của Trung Quốc đã báo cáo thu nhập quý 3 yếu hơn dự kiến ​​vào thứ Năm, nêu bật những thách thức ngày càng tăng mà các nhà sản xuất ô tô Trung Quốc phải đối mặt ngay cả khi doanh số bán hàng ở nước ngoài tiếp tục tăng. Lợi nhuận ròng của BYD tăng 28% so với cùng kỳ năm trước lên 10,02 tỷ nhân dân tệ (",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-29_up6v1sguq3.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/BYD-Earnings-Miss-Estimates-as-Chinas-EV-Price-War-Takes-Its-Toll.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-30 02:00"
+    },
     {
       "id": "1njrl8f",
       "title": "U.S. Pushes Nuclear Energy Expansion in Central Asia and Caucasus",
@@ -90,15 +101,15 @@
       "published": "2026-10-29 22:26"
     },
     {
-      "id": "1b6ibuz",
-      "title": "Investors Are Piling Into Dangote. But Is the Price Right?",
-      "title_vi": "Các nhà đầu tư đang đổ tiền vào Dangote. Nhưng giá có phù hợp không?",
-      "summary_vi": "Nhà máy lọc dầu Dangote khổng lồ ở hạ nguồn Nigeria đã kết thúc đợt chào bán cổ phiếu ra công chúng (IPO). Hiện nó đang đưa tham vọng công nghiệp của châu Phi vào bảng cân đối kế toán của các nhà đầu tư. Kết quả đã rất đáng kể rồi. Tuy nhiên, vẫn còn những câu hỏi về trường hợp đầu tư. Có, một nhà máy lọc dầu có thể",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-29_wg9iyc1qig.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Investors-Are-Piling-Into-Dangote-But-Is-the-Price-Right.html",
-      "source": "OilPrice",
+      "id": "4ls9js",
+      "title": "Oil Prices Rise on Fears of Middle East Conflict Escalation",
+      "title_vi": "Giá dầu tăng do lo ngại leo thang xung đột ở Trung Đông",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364",
+      "source": "WSJ",
       "category": "energy",
-      "published": "2026-10-29 22:00"
+      "published": "2026-10-29 21:50"
     },
     {
       "id": "1agn6kp",
@@ -189,17 +200,6 @@
       "published": "2026-10-29 12:01"
     },
     {
-      "id": "xg5csx",
-      "title": "Oil prices fall as peace hopes offset fears of growing Middle East conflict",
-      "title_vi": "Giá dầu giảm do hy vọng hòa bình bù đắp lo ngại xung đột Trung Đông ngày càng gia tăng",
-      "summary_vi": "Dầu giảm hôm thứ Năm, giảm mức tăng của ngày hôm trước, do hy vọng về các cuộc đàm phán hòa bình bù đắp những lo ngại mới về sự gián đoạn nguồn cung ở Trung Đông.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108278829-1773747965777-108278829-1773747914707-gettyimages-2266989649-bb2_7726_2fd42ayv.jpg?v=1793241772&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/10/29/oil-prices-fall-as-peace-hopes-offset-fears-of-growing-middle-east-conflict.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-10-29 10:04"
-    },
-    {
       "id": "jf29e8",
       "title": "How Bad Policies Will Make This Winter More Expensive Than Usual",
       "title_vi": "Các chính sách tồi tệ sẽ khiến mùa đông năm nay đắt đỏ hơn bình thường như thế nào",
@@ -233,6 +233,17 @@
       "published": "2026-10-29 07:02"
     },
     {
+      "id": "1p9406u",
+      "title": "Corn Bounces But Can it Bottom? Will Soybeans and Wheat Follow?",
+      "title_vi": "Ngô trả lại nhưng nó có thể chạm đáy? Đậu nành và lúa mì sẽ theo sau?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/corn-bounces-can-it-bottom-will-soybeans-and-wheat-follow",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-10-29 06:28"
+    },
+    {
       "id": "1pnuode",
       "title": "Natural Gas Price Forecast: Double Top Threatens Recovery Toward $3.15",
       "title_vi": "Dự báo giá khí đốt tự nhiên: Đỉnh kép đe dọa sự phục hồi về mức 3,15 USD",
@@ -264,6 +275,17 @@
       "source": "Surfline",
       "category": "soft",
       "published": "2026-10-29 04:05"
+    },
+    {
+      "id": "3gjfse",
+      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
+      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-29 02:31"
     },
     {
       "id": "1xmztgd",
@@ -376,6 +398,17 @@
       "published": "2026-10-28 22:55"
     },
     {
+      "id": "15uuqdi",
+      "title": "Ukraine targets Russia with more than 1,000 drones, striking oil terminal in St. Petersburg - ABC News",
+      "title_vi": "Ukraine dùng hơn 1.000 máy bay không người lái tấn công Nga, tấn công kho dầu ở St. Petersburg - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/International/ukraine-targets-russia-1000-drones-striking-oil-terminal/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-10-28 22:52"
+    },
+    {
       "id": "1o0ofzf",
       "title": "Ohio State researchers aim to use chemical analysis to predict coffee flavors",
       "title_vi": "Các nhà nghiên cứu của bang Ohio nhằm mục đích sử dụng phân tích hóa học để dự đoán hương vị cà phê",
@@ -464,6 +497,17 @@
       "published": "2026-10-28 20:50"
     },
     {
+      "id": "1w55xht",
+      "title": "Can Trump stop the surge in oil prices? Experts weigh in - ABC News",
+      "title_vi": "Trump có thể ngăn chặn sự tăng vọt của giá dầu? Các chuyên gia cân nhắc - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/Business/trump-stop-surge-oil-prices-experts-weigh/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-10-28 20:43"
+    },
+    {
       "id": "ym73qb",
       "title": "Natural Gas Price Forecast: Natural Gas Jumps on Contract Roll",
       "title_vi": "Dự báo giá khí đốt tự nhiên: Khí đốt tự nhiên tăng vọt khi ký hợp đồng",
@@ -506,50 +550,6 @@
       "source": "Statista",
       "category": "soft",
       "published": "2026-10-28 19:35"
-    },
-    {
-      "id": "1y3kpof",
-      "title": "If You Think Inflation Is Bad Now . . .",
-      "title_vi": "Nếu bạn nghĩ lạm phát bây giờ là xấu. . .",
-      "summary_vi": "Đầu những năm 1980, lãi suất tăng vọt lên 20% khi Fed cố gắng kiểm soát lạm phát tràn lan. Chúng ta có thể nhìn thấy những con số như vậy một lần nữa?",
-      "image": "https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/dollar-shutterstock_1976918936.jpg",
-      "link": "https://www.saturdayeveningpost.com/2026/10/if-you-think-inflation-is-bad-now/",
-      "source": "The Saturday Evening Post",
-      "category": "macro",
-      "published": "2026-10-28 19:06"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!HY-o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F098967c0-94d9-494e-b37b-1d8508627240_1500x1000.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-10-28 18:55"
-    },
-    {
-      "id": "fbmmia",
-      "title": "China Hainan Rubber Industry Group: Rubber-price gains and cost cuts supported Q3, but 9M revenue fell 22.28%",
-      "title_vi": "Tập đoàn Công nghiệp Cao su Hải Nam Trung Quốc: Giá cao su tăng và cắt giảm chi phí hỗ trợ quý 3, nhưng doanh thu 9 tháng giảm 22,28%",
-      "summary_vi": "Doanh thu quý 3 giảm 16,14% so với cùng kỳ và doanh thu 9 tháng giảm 22,28%; Khoản lỗ ròng có thể quy cho 9 triệu đã thu hẹp xuống còn 211,7 triệu RMB từ mức 275,2 triệu RMB. Giá cao su cao hơn và chi phí trong kỳ thấp hơn đã hỗ trợ kết quả kinh doanh quý 3, mặc dù vẫn tiếp tục thua lỗ. Tài liệu gốc: China Hainan Rubber Industry Group Co., Ltd. Loại A [601118…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4372150:0-china-hainan-rubber-industry-group-rubber-price-gains-and-cost-cuts-supported-q3-but-9m-revenue-fell-22-28/",
-      "source": "TradingView",
-      "category": "soft",
-      "published": "2026-10-28 16:32"
-    },
-    {
-      "id": "bm9ovr",
-      "title": "Why the Price of Gas Is the Most Important Number in US Politics",
-      "title_vi": "Tại sao giá xăng là con số quan trọng nhất trong chính trị Hoa Kỳ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/05/why-the-price-of-gas-is-the-most-important-number-in-us-politics/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-28 15:24"
     }
   ]
 }

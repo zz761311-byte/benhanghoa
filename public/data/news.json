@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 09:01",
+  "updated_at": "2026-10-29 10:01",
   "items": [
     {
       "id": "iefwia",
@@ -132,6 +132,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-29 03:00"
+    },
+    {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-29 02:16"
     },
     {
       "id": "4d3d2h",
@@ -539,17 +550,6 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-10-28 02:59"
-    },
-    {
-      "id": "k9kaek",
-      "title": "Washington discusses Russian deals for US oil majors in Ukraine peace talks",
-      "title_vi": "Washington thảo luận về thỏa thuận của Nga với các hãng dầu mỏ lớn của Mỹ trong đàm phán hòa bình Ukraine",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6",
-      "source": "Financial Times",
-      "category": "energy",
-      "published": "2026-10-28 02:06"
     }
   ]
 }

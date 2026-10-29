@@ -1,11 +1,11 @@
 {
- "capNhat": "2026-10-29T20:00:47.032Z",
+ "capNhat": "2026-10-29T21:00:47.816Z",
  "nguon": "Yahoo Finance",
  "soMatHang": 18,
  "tyGia": {
   "gia": 25799,
   "nguon": "Yahoo Finance (USD/VND)",
-  "capNhat": "2026-10-29T19:43:55.000Z"
+  "capNhat": "2026-10-29T20:48:30.000Z"
  },
  "sucKhoe": {
   "soCanLay": 18,
@@ -16,23 +16,23 @@
  },
  "items": {
   "dau-tho-wti": {
-   "gia": 102.46,
+   "gia": 102.76,
    "dongCuaTruoc": 102.78,
-   "doi": -0.32,
-   "doiPhanTram": -0.31,
-   "caoTrongNgay": 102.52,
+   "doi": -0.02,
+   "doiPhanTram": -0.02,
+   "caoTrongNgay": 103,
    "thapTrongNgay": 99.79,
    "cao52Tuan": 119.48,
    "thap52Tuan": 54.98,
-   "doiMotTuan": 3.01,
-   "doiMotThang": 14.63,
-   "doiMotNam": 69.41,
-   "khoiLuong30Phien": 8361683,
+   "doiMotTuan": 3.31,
+   "doiMotThang": 14.97,
+   "doiMotNam": 69.91,
+   "khoiLuong30Phien": 8370091,
    "tienTe": "USD",
    "tenHopDong": "Crude Oil Dec 26",
    "kyHan": "T12/26",
    "san": "NY Mercantile",
-   "capNhat": "2026-10-29T19:50:42.000Z",
+   "capNhat": "2026-10-29T20:50:45.000Z",
    "duongGia": [
     100.3,
     95.78,
@@ -63,27 +63,27 @@
     101.76,
     99.9,
     102.78,
-    102.46
+    102.76
    ]
   },
   "dau-brent": {
-   "gia": 111.18,
+   "gia": 111.44,
    "dongCuaTruoc": 115.32,
-   "doi": -4.14,
-   "doiPhanTram": -3.59,
-   "caoTrongNgay": 111.23,
+   "doi": -3.88,
+   "doiPhanTram": -3.36,
+   "caoTrongNgay": 111.79,
    "thapTrongNgay": 109.03,
    "cao52Tuan": 126.1,
    "thap52Tuan": 58.72,
-   "doiMotTuan": -1.76,
-   "doiMotThang": 8.37,
-   "doiMotNam": 71.26,
-   "khoiLuong30Phien": 1151307,
+   "doiMotTuan": -1.53,
+   "doiMotThang": 8.63,
+   "doiMotNam": 71.66,
+   "khoiLuong30Phien": 1152714,
    "tienTe": "USD",
    "tenHopDong": "Brent Crude Oil Last Day Financ",
    "kyHan": null,
    "san": "NY Mercantile",
-   "capNhat": "2026-10-29T19:50:40.000Z",
+   "capNhat": "2026-10-29T20:50:44.000Z",
    "duongGia": [
     103.87,
     100.34,
@@ -114,27 +114,27 @@
     115.81,
     113.88,
     115.32,
-    111.18
+    111.44
    ]
   },
   "khi-tu-nhien": {
-   "gia": 2.92,
+   "gia": 2.9,
    "dongCuaTruoc": 2.817,
-   "doi": 0.103,
-   "doiPhanTram": 3.66,
+   "doi": 0.083,
+   "doiPhanTram": 2.95,
    "caoTrongNgay": 3.073,
-   "thapTrongNgay": 2.899,
+   "thapTrongNgay": 2.896,
    "cao52Tuan": 7.827,
    "thap52Tuan": 2.483,
-   "doiMotTuan": 4.43,
-   "doiMotThang": -3.02,
-   "doiMotNam": -13.51,
-   "khoiLuong30Phien": 5294865,
+   "doiMotTuan": 3.72,
+   "doiMotThang": -3.69,
+   "doiMotNam": -14.1,
+   "khoiLuong30Phien": 5299233,
    "tienTe": "USD",
    "tenHopDong": "Natural Gas Dec 26",
    "kyHan": "T12/26",
    "san": "NY Mercantile",
-   "capNhat": "2026-10-29T19:50:40.000Z",
+   "capNhat": "2026-10-29T20:50:39.000Z",
    "duongGia": [
     2.912,
     2.836,
@@ -165,27 +165,27 @@
     2.602,
     2.697,
     2.817,
-    2.92
+    2.9
    ]
   },
   "xang-rbob": {
-   "gia": 3.0942,
+   "gia": 3.1009,
    "dongCuaTruoc": 3.1734,
-   "doi": -0.0792,
-   "doiPhanTram": -2.5,
+   "doi": -0.0725,
+   "doiPhanTram": -2.28,
    "caoTrongNgay": 3.1163,
    "thapTrongNgay": 3.0188,
    "cao52Tuan": 3.8232,
    "thap52Tuan": 1.6656,
-   "doiMotTuan": -2.59,
-   "doiMotThang": -5.61,
-   "doiMotNam": 56.77,
-   "khoiLuong30Phien": 1248220,
+   "doiMotTuan": -2.38,
+   "doiMotThang": -5.41,
+   "doiMotNam": 57.11,
+   "khoiLuong30Phien": 1249029,
    "tienTe": "USD",
    "tenHopDong": "RBOB Gasoline Dec 26",
    "kyHan": "T12/26",
    "san": "NY Mercantile",
-   "capNhat": "2026-10-29T19:50:31.000Z",
+   "capNhat": "2026-10-29T20:50:12.000Z",
    "duongGia": [
     3.5276,
     3.4699,
@@ -216,7 +216,7 @@
     3.2185,
     3.1376,
     3.1734,
-    3.0942
+    3.1009
    ]
   },
   "ngo": {
@@ -679,23 +679,23 @@
    ]
   },
   "vang": {
-   "gia": 4032.3,
+   "gia": 4031.3,
    "dongCuaTruoc": 4051.6001,
-   "doi": -19.3001,
-   "doiPhanTram": -0.48,
+   "doi": -20.3001,
+   "doiPhanTram": -0.5,
    "caoTrongNgay": 4081.7,
    "thapTrongNgay": 4016.6,
    "cao52Tuan": 5586.2,
    "thap52Tuan": 3925.1,
-   "doiMotTuan": -0.69,
-   "doiMotThang": -3.53,
-   "doiMotNam": 0.79,
-   "khoiLuong30Phien": 4506500,
+   "doiMotTuan": -0.72,
+   "doiMotThang": -3.55,
+   "doiMotNam": 0.76,
+   "khoiLuong30Phien": 4511785,
    "tienTe": "USD",
    "tenHopDong": "Gold Dec 26",
    "kyHan": "T12/26",
    "san": "COMEX",
-   "capNhat": "2026-10-29T19:50:42.000Z",
+   "capNhat": "2026-10-29T20:50:43.000Z",
    "duongGia": [
     4424.8999,
     4383.8999,
@@ -726,33 +726,33 @@
     4038.3999,
     4074.6001,
     4051.6001,
-    4032.3
+    4031.3
    ],
    "giaoNgay": {
-    "gia": 4023.7,
-    "lechSoVoiHopDong": 0.21,
+    "gia": 4022.5,
+    "lechSoVoiHopDong": 0.22,
     "nguon": "gold-api.com",
-    "capNhat": "2026-10-29T20:00:40Z"
+    "capNhat": "2026-10-29T21:00:40Z"
    }
   },
   "bac": {
-   "gia": 52.285,
+   "gia": 52.155,
    "dongCuaTruoc": 53.457,
-   "doi": -1.172,
-   "doiPhanTram": -2.19,
+   "doi": -1.302,
+   "doiPhanTram": -2.44,
    "caoTrongNgay": 54.445,
    "thapTrongNgay": 52.035,
    "cao52Tuan": 121.3,
    "thap52Tuan": 46.805,
-   "doiMotTuan": -4.53,
-   "doiMotThang": -13.82,
-   "doiMotNam": 9.56,
-   "khoiLuong30Phien": 63546,
+   "doiMotTuan": -4.76,
+   "doiMotThang": -14.03,
+   "doiMotNam": 9.29,
+   "khoiLuong30Phien": 65317,
    "tienTe": "USD",
    "tenHopDong": "Silver Dec 26",
    "kyHan": "T12/26",
    "san": "COMEX",
-   "capNhat": "2026-10-29T19:50:41.000Z",
+   "capNhat": "2026-10-29T20:50:41.000Z",
    "duongGia": [
     66.556,
     65.825,
@@ -783,33 +783,33 @@
     54.108,
     54.293,
     53.457,
-    52.285
+    52.155
    ],
    "giaoNgay": {
-    "gia": 52.488,
-    "lechSoVoiHopDong": -0.39,
+    "gia": 52.294,
+    "lechSoVoiHopDong": -0.27,
     "nguon": "gold-api.com",
-    "capNhat": "2026-10-29T20:00:39Z"
+    "capNhat": "2026-10-29T21:00:39Z"
    }
   },
   "dong": {
-   "gia": 6.607,
+   "gia": 6.5925,
    "dongCuaTruoc": 6.6415,
-   "doi": -0.0345,
-   "doiPhanTram": -0.52,
+   "doi": -0.049,
+   "doiPhanTram": -0.74,
    "caoTrongNgay": 6.697,
    "thapTrongNgay": 6.548,
    "cao52Tuan": 6.83,
    "thap52Tuan": 4.9195,
-   "doiMotTuan": 3.84,
-   "doiMotThang": 0.97,
-   "doiMotNam": 26.24,
-   "khoiLuong30Phien": 76713,
+   "doiMotTuan": 3.61,
+   "doiMotThang": 0.75,
+   "doiMotNam": 25.97,
+   "khoiLuong30Phien": 77697,
    "tienTe": "USD",
    "tenHopDong": "Copper Dec 26",
    "kyHan": "T12/26",
    "san": "COMEX",
-   "capNhat": "2026-10-29T19:50:23.000Z",
+   "capNhat": "2026-10-29T20:50:00.000Z",
    "duongGia": [
     6.615,
     6.6865,
@@ -840,27 +840,27 @@
     6.508,
     6.622,
     6.6415,
-    6.607
+    6.5925
    ]
   },
   "bach-kim": {
-   "gia": 1489.5,
+   "gia": 1488,
    "dongCuaTruoc": 1547.9,
-   "doi": -58.4,
-   "doiPhanTram": -3.77,
+   "doi": -59.9,
+   "doiPhanTram": -3.87,
    "caoTrongNgay": 1548.6,
    "thapTrongNgay": 1476.3,
    "cao52Tuan": 2852.4,
    "thap52Tuan": 1476.3,
-   "doiMotTuan": -4.98,
-   "doiMotThang": -11.34,
-   "doiMotNam": -6.4,
-   "khoiLuong30Phien": 27347,
+   "doiMotTuan": -5.07,
+   "doiMotThang": -11.43,
+   "doiMotNam": -6.49,
+   "khoiLuong30Phien": 27550,
    "tienTe": "USD",
    "tenHopDong": "Platinum Jan 27",
    "kyHan": "T1/27",
    "san": "NY Mercantile",
-   "capNhat": "2026-10-29T19:50:25.000Z",
+   "capNhat": "2026-10-29T20:50:44.000Z",
    "duongGia": [
     1803.5,
     1798.5,
@@ -891,13 +891,13 @@
     1536.7,
     1535,
     1547.9,
-    1489.5
+    1488
    ],
    "giaoNgay": {
-    "gia": 1493,
-    "lechSoVoiHopDong": -0.23,
+    "gia": 1492,
+    "lechSoVoiHopDong": -0.27,
     "nguon": "gold-api.com",
-    "capNhat": "2026-10-29T20:00:46Z"
+    "capNhat": "2026-10-29T21:00:43Z"
    }
   },
   "nhom": {

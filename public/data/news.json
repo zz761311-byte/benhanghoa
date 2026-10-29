@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-29 08:00",
+  "updated_at": "2026-10-29 09:01",
   "items": [
+    {
+      "id": "iefwia",
+      "title": "Oil Is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel?",
+      "title_vi": "Dầu đang chảy ra khỏi vùng Vịnh. Tại sao giá vẫn trên 100 USD một thùng?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-is-gushing-out-of-the-gulf-why-are-prices-still-above-100-a-barrel-3ccff61d",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-10-29 08:00"
+    },
     {
       "id": "1ro4el5",
       "title": "Exclusive | Death Threats, Lawsuits and Billions in Play: The Battle Over Moving Russian Oil",
@@ -132,6 +143,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-29 02:12"
+    },
+    {
+      "id": "n207ij",
+      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
+      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
+      "source": "EnergyNow.com",
+      "category": "macro",
+      "published": "2026-10-29 02:06"
     },
     {
       "id": "1nmgmce",
@@ -528,28 +550,6 @@
       "source": "Financial Times",
       "category": "energy",
       "published": "2026-10-28 02:06"
-    },
-    {
-      "id": "1w4ppbb",
-      "title": "Oregon, Bend gas prices still easing, AAA says - but high crude oil prices may put the brakes on declines",
-      "title_vi": "AAA cho biết giá xăng ở Oregon, Bend vẫn giảm - nhưng giá dầu thô cao có thể khiến đà giảm giảm",
-      "summary_vi": "PORTLAND, Ore. (KTVZ) - Giá xăng đang giảm ở hầu hết các bang, bao gồm cả Oregon, trong tuần này, mặc dù giá dầu thô dao động quanh mức 100 USD/thùng, AAA Oregon/Idaho đưa tin hôm thứ Ba. Thông thường, sự chuyển đổi theo mùa sang sử dụng khí đốt hỗn hợp vào mùa đông và nhu cầu về khí đốt giảm thông thường giúp người lái xe giảm bớt đáng kể tình trạng khó khăn trong cuộc sống.",
-      "image": "https://ktvz.com/wp-content/uploads/2026/10/AAA-gas-prices-1027.jpg",
-      "link": "https://ktvz.com/news/business/2026/10/27/oregon-bend-gas-prices-still-easing-aaa-says-but-high-crude-oil-prices-may-put-the-brakes-on-declines/",
-      "source": "KTVZ",
-      "category": "energy",
-      "published": "2026-10-28 02:03"
-    },
-    {
-      "id": "1xmztgd",
-      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
-      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-28 00:55"
     }
   ]
 }

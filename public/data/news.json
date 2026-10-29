@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-29 23:01",
+  "updated_at": "2026-10-30 00:01",
   "items": [
+    {
+      "id": "eufnxj",
+      "title": "The CCS Project That Passed Every Test Except the Investment Test",
+      "title_vi": "Dự án CCS đã vượt qua mọi thử nghiệm ngoại trừ thử nghiệm đầu tư",
+      "summary_vi": "Dự án thu hồi carbon do Heidelberg Materials đề xuất ở Edmonton dường như chứa hầu hết mọi thành phần mà các nhà hoạch định chính sách cho rằng cần có để phát triển CCS thành công. Nó nhắm vào xi măng, một ngành công nghiệp khó giảm khí thải, nơi phần lớn khí thải đến từ quá trình hóa học sản xuất clinker thay vì",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-29_sp0rqynobv.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/The-CCS-Project-That-Passed-Every-Test-Except-the-Investment-Test.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-30 00:00"
+    },
+    {
+      "id": "o71okr",
+      "title": "Sinopec Third-Quarter Profit Jumps 64% as Oil Prices Climb",
+      "title_vi": "Lợi nhuận quý 3 của Sinopec tăng 64% khi giá dầu tăng",
+      "summary_vi": "Giá dầu cao hơn đã giúp thu nhập quý 3 của Sinopec tăng 64% so với một năm trước đó, ngay cả khi nhà máy lọc dầu hàng đầu của Trung Quốc không thể hoàn toàn nắm bắt được lợi nhuận lọc dầu toàn cầu cao kỷ lục. Tập đoàn Dầu khí và Hóa chất Trung Quốc, tên chính thức là Sinopec, cho biết hôm thứ Năm rằng họ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-29_prqncitlmx.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Sinopec-Third-Quarter-Profit-Jumps-64-as-Oil-Prices-Climb.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-29 23:30"
+    },
     {
       "id": "q5nz9f",
       "title": "UK Budget Signals Wave of New North Sea Oil and Gas Drilling",
@@ -33,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-29 22:00"
+    },
+    {
+      "id": "1agn6kp",
+      "title": "Sugar prices rally as more excess rains forecast in Brazil",
+      "title_vi": "Giá đường tăng do dự báo sẽ có nhiều mưa hơn ở Brazil",
+      "summary_vi": "Giá đường thô kỳ hạn trên ICE tăng hôm thứ Năm do triển vọng nguồn cung trở nên tồi tệ hơn với dự báo lượng mưa dư thừa do El Nino gây ra ở quốc gia trồng hàng đầu Brazil, trong khi cà phê arabica chạm mức thấp nhất trong một tháng.SUGAR* Đường thô ICEUS:SB1! ​​tăng 0,7% lên 19,48 cent mỗi lb lúc 14:24 GMT, kéo dài thời gian phục hồi từ mức 5,6…",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46F0ZB:0-sugar-prices-rally-as-more-excess-rains-forecast-in-brazil/",
+      "source": "TradingView",
+      "category": "soft",
+      "published": "2026-10-29 21:46"
     },
     {
       "id": "1f045yw",
@@ -110,28 +143,6 @@
       "source": "Yahoo Finance UK",
       "category": "metal",
       "published": "2026-10-29 18:38"
-    },
-    {
-      "id": "jmgnr2",
-      "title": "TotalEnergies Profit Doubles as War Boosts Refining and Trading",
-      "title_vi": "Lợi nhuận của TotalEnergies tăng gấp đôi khi chiến tranh thúc đẩy hoạt động tinh chế và giao dịch",
-      "summary_vi": "TotalEnergies đạt 9,1 tỷ USD thu nhập ròng đã điều chỉnh trong quý 3, tăng gấp đôi thu nhập so với một năm trước đó trong bối cảnh tỷ suất lợi nhuận lọc dầu cao kỷ lục, giá dầu và khí đốt cao hơn cũng như giao dịch dầu và LNG mạnh mẽ. Siêu thị của Pháp hôm thứ Năm đã báo cáo thu nhập ròng đã điều chỉnh là $",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-29_qua3krboad.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Profit-Doubles-as-War-Boosts-Refining-and-Trading.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-29 18:30"
-    },
-    {
-      "id": "cmj7l4",
-      "title": "Shell Profits Nearly Double to $10.8 Billion as Refining Margins Hit Record",
-      "title_vi": "Lợi nhuận của Shell tăng gần gấp đôi lên 10,8 tỷ USD khi lợi nhuận tinh chỉnh đạt kỷ lục",
-      "summary_vi": "Biên lợi nhuận lọc dầu kỷ lục và giá khí đốt và LNG cao hơn đã thúc đẩy thu nhập quý 3 của Shell lên hơn 10,8 tỷ USD, gần gấp đôi so với cùng kỳ năm ngoái, do cuộc khủng hoảng ở Trung Đông siết chặt nguồn cung nhiên liệu và giá dầu khí tăng cao. Shell hôm thứ Năm đã báo cáo điều chỉnh",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-29_tzmdg9jlfw.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Profits-Nearly-Double-to-108-Billion-as-Refining-Margins-Hit-Record.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-29 18:30"
     },
     {
       "id": "ib8m49",
@@ -453,6 +464,17 @@
       "published": "2026-10-28 20:20"
     },
     {
+      "id": "1pluug5",
+      "title": "Canada facing carbon tariff threat from European Union: internal documents",
+      "title_vi": "Canada đối mặt với mối đe dọa thuế carbon từ Liên minh châu Âu: tài liệu nội bộ",
+      "summary_vi": "Canada đang phải đối mặt với mối đe dọa thuế carbon từ Liên minh châu Âu trong vòng vài tháng khi khối kinh tế này thực hiện đầy đủ Cơ chế điều chỉnh biên giới carbon của mình.",
+      "image": "https://i.cbc.ca/ais/5edb2680-0519-41d8-be9c-d16051abb75e,1793140630232/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C67%2C5500%2C3093%29%3BResize%3D620",
+      "link": "https://www.cbc.ca/news/politics/cbam-carbon-tariff-canada-european-union-9.7398807",
+      "source": "CBC",
+      "category": "macro",
+      "published": "2026-10-28 20:12"
+    },
+    {
       "id": "1nvaas5",
       "title": "Topic: Coffee market worldwide",
       "title_vi": "Chủ đề: Thị trường cà phê thế giới",
@@ -528,28 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-28 15:21"
-    },
-    {
-      "id": "xz206x",
-      "title": "OPEC Sees No Peak Oil Demand as Energy Security Beats Climate",
-      "title_vi": "OPEC nhận thấy nhu cầu dầu không đạt đỉnh do an ninh năng lượng vượt qua khí hậu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/06/opec-sees-no-peak-oil-demand-as-energy-security-beats-climate/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-28 15:10"
-    },
-    {
-      "id": "1j0vuip",
-      "title": "Natural Gas Analysis: US Short Squeeze Risk Grows as Europe Prices Iran Threat",
-      "title_vi": "Phân tích khí đốt tự nhiên: Rủi ro siết chặt ngắn hạn của Hoa Kỳ tăng lên khi giá châu Âu đe dọa Iran",
-      "summary_vi": "Trong báo cáo này: $TTF đang đạt mức cao mới trong khi NATTY có tuần tồi tệ nhất kể từ tháng Hai. Thị trường đã từ bỏ việc chờ đợi đợt rét đậm và eo biển này cũng chưa thể được mở ra.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/natural-gas-market-illustration-10-5.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-analysis-us-short-squeeze-risk-grows-as-europe-prices-iran-threat-1640843",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-10-28 15:10"
     }
   ]
 }

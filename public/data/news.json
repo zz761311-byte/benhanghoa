@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-30 05:01",
+  "updated_at": "2026-10-30 06:01",
   "items": [
+    {
+      "id": "gareyu",
+      "title": "What’s Next for Global Natural Gas Demand?",
+      "title_vi": "Điều gì tiếp theo cho nhu cầu khí đốt tự nhiên toàn cầu?",
+      "summary_vi": "Chiến tranh Iran và việc thiếu nguồn cung LNG từ Trung Đông đã làm đảo lộn các dự báo về nhu cầu khí đốt tự nhiên và chi phí nhập khẩu trong ngắn hạn. Từ đầu năm đến nay, các nền kinh tế ở châu Âu và châu Á đã phụ thuộc nhiều hơn vào năng lượng tái tạo và than để sản xuất điện nhằm bù đắp cho việc giảm nguồn cung khí đốt.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-29_wdle9gpk0w.jpg",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Whats-Next-for-Global-Natural-Gas-Demand.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-30 06:00"
+    },
     {
       "id": "1xujq2f",
       "title": "China’s Battery Factories May Sit Atop Lithium Resources",
@@ -44,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-30 03:00"
+    },
+    {
+      "id": "16b7ccm",
+      "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
+      "title_vi": "Bảy tàu chở dầu chở 288.000 tấn dầu diesel của Nga hướng tới Mỹ",
+      "summary_vi": "Các tàu chở dầu, được Greenpeace theo dõi, là giai đoạn đầu tiên của thỏa thuận Trump-Putin - nhưng không chắc chắn về việc liệu họ có dỡ hàng hay không",
+      "image": "https://i.guim.co.uk/img/media/41a7157fdd6dc04cb818357a54195062d320a2ed/292_0_4500_3600/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f5e7af0e0fb53ac2f9b1a56f05b36ba",
+      "link": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
+      "source": "The Guardian",
+      "category": "energy",
+      "published": "2026-10-30 02:01"
     },
     {
       "id": "12nrtfz",
@@ -101,17 +123,6 @@
       "published": "2026-10-30 00:30"
     },
     {
-      "id": "1siadxd",
-      "title": "Europe to Release 42 Million Barrels of Oil",
-      "title_vi": "Châu Âu sẽ phát hành 42 triệu thùng dầu",
-      "summary_vi": "Bộ trưởng Kinh tế Pháp Roland Lescure cho biết châu Âu sẽ giải phóng 42 triệu thùng dự trữ dầu khẩn cấp trong ba tháng tới, một nửa trong số đó là dầu diesel, khi các chính phủ cố gắng giảm giá nhiên liệu trước mùa đông. Thị phần của Pháp bao gồm 10 triệu thùng dầu diesel",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-29_expsj85kum.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-to-Release-42-Million-Barrels-of-Oil.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-30 00:30"
-    },
-    {
       "id": "861z0e",
       "title": "Responsible Copper Sourcing and the Supply Gap",
       "title_vi": "Tìm nguồn cung ứng đồng có trách nhiệm và khoảng cách cung ứng",
@@ -154,6 +165,17 @@
       "source": "BullionVault",
       "category": "metal",
       "published": "2026-10-29 22:26"
+    },
+    {
+      "id": "1p2a6fq",
+      "title": "Silver Price Forecast: Downtrend Continues as Fed Hike Risk Remains",
+      "title_vi": "Dự báo giá bạc: Xu hướng giảm tiếp tục khi rủi ro tăng lãi suất của Fed vẫn còn",
+      "summary_vi": "Bạc giao ngay vẫn trong xu hướng giảm do kỳ vọng tăng lãi suất lấn át những câu chuyện tăng giá đang mờ dần, khiến 46,48 USD đến 45,55 USD làm vùng giá trị quan trọng.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-07-5.jpg?width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/silver-price-forecast-downtrend-continues-as-fed-hike-risk-remains-1641276",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-10-29 21:52"
     },
     {
       "id": "4ls9js",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-28 21:10"
-    },
-    {
-      "id": "10kr3ub",
-      "title": "Gold stalls its recovery as markets brace for Fed interest rate decision",
-      "title_vi": "Vàng cản trở sự phục hồi khi thị trường chuẩn bị cho quyết định lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.fxstreet.com/news/gold-struggles-to-gain-traction-ahead-of-fed-policy-verdict-202610281119",
-      "source": "FXStreet",
-      "category": "metal",
-      "published": "2026-10-28 21:05"
-    },
-    {
-      "id": "1sxsf5l",
-      "title": "President Trump’s Steel and Aluminum Tariffs: 1.0 vs. 2.0",
-      "title_vi": "Thuế thép và nhôm của Tổng thống Trump: 1,0 so với 2,0",
-      "summary_vi": "Tóm tắt nội dung Trong hai nhiệm kỳ, Chính quyền Trump đã áp đặt mức thuế thép và nhôm ngày càng cao với hứa hẹn sẽ tạo ra nhiều việc làm và sản xuất trong nước hơn trong các ngành này; trên thực tế, những mức thuế này không mang lại việc làm cũng như sự bùng nổ sản xuất mà chỉ mang lại mức giá cao hơn - và f",
-      "image": "https://www.americanactionforum.org/wp-content/uploads/2026/10/horndesign-iron-2326791_1280.jpg",
-      "link": "https://www.americanactionforum.org/insight/president-trumps-steel-and-aluminum-tariffs-1-0-vs-2-0/",
-      "source": "The American Action Forum",
-      "category": "metal",
-      "published": "2026-10-28 20:50"
     }
   ]
 }

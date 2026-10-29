@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-30 04:01",
+  "updated_at": "2026-10-30 05:01",
   "items": [
+    {
+      "id": "1xujq2f",
+      "title": "China’s Battery Factories May Sit Atop Lithium Resources",
+      "title_vi": "Các nhà máy sản xuất pin của Trung Quốc có thể đứng đầu về nguồn tài nguyên lithium",
+      "summary_vi": "Nhà sản xuất và sử dụng pin lớn nhất thế giới, quốc gia thống trị tất cả công nghệ năng lượng thay thế, sắp tìm hiểu xem liệu họ có thể tăng cường sự hiện diện vốn đã thống trị của mình trong một kim loại pin quan trọng: lithium hay không. Trung Quốc, theo một nghiên cứu mới, có thể có tác động đáng kể,",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-29_ye7k9niclj.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Battery-Factories-May-Sit-Atop-Lithium-Resources.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-10-30 05:00"
+    },
     {
       "id": "18722hm",
       "title": "Trump&#039;s Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse",
@@ -20,7 +31,7 @@
       "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-Chevron-Executives-Cancel-Gulf-Visit-Over-Security-Concerns.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-10-30 03:00"
     },
     {
@@ -101,15 +112,15 @@
       "published": "2026-10-30 00:30"
     },
     {
-      "id": "eufnxj",
-      "title": "The CCS Project That Passed Every Test Except the Investment Test",
-      "title_vi": "Dự án CCS đã vượt qua mọi thử nghiệm ngoại trừ thử nghiệm đầu tư",
-      "summary_vi": "Dự án thu hồi carbon do Heidelberg Materials đề xuất ở Edmonton dường như chứa hầu hết mọi thành phần mà các nhà hoạch định chính sách cho rằng cần có để phát triển CCS thành công. Nó nhắm vào xi măng, một ngành công nghiệp khó giảm khí thải, nơi phần lớn khí thải đến từ quá trình hóa học sản xuất clinker thay vì",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-29_sp0rqynobv.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/The-CCS-Project-That-Passed-Every-Test-Except-the-Investment-Test.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-30 00:00"
+      "id": "861z0e",
+      "title": "Responsible Copper Sourcing and the Supply Gap",
+      "title_vi": "Tìm nguồn cung ứng đồng có trách nhiệm và khoảng cách cung ứng",
+      "summary_vi": "Nguồn cung đồng sẽ giảm so với nhu cầu. Tìm hiểu cách các tiêu chuẩn đã được xác minh, hoạt động tái chế và quan hệ đối tác đảm bảo nguồn cung ứng có trách nhiệm.",
+      "image": "",
+      "link": "https://www.nexans.com/perspective/responsible-copper-sourcing-and-the-supply-gap/",
+      "source": "Nexans",
+      "category": "metal",
+      "published": "2026-10-29 22:55"
     },
     {
       "id": "vzorri",
@@ -539,17 +550,6 @@
       "source": "The American Action Forum",
       "category": "metal",
       "published": "2026-10-28 20:50"
-    },
-    {
-      "id": "1w55xht",
-      "title": "Can Trump stop the surge in oil prices? Experts weigh in - ABC News",
-      "title_vi": "Trump có thể ngăn chặn sự tăng vọt của giá dầu? Các chuyên gia cân nhắc - ABC News",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://abcnews.com/Business/trump-stop-surge-oil-prices-experts-weigh/story?id",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-10-28 20:43"
     }
   ]
 }

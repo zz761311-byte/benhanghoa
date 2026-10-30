@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 12:00",
+  "updated_at": "2026-10-30 13:01",
   "items": [
     {
       "id": "k3y7m7",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-30 06:00"
+    },
+    {
+      "id": "td1dko",
+      "title": "Chicago Grain Futures Close Mixed as Wheat Rallies and Soybeans Extend Losses",
+      "title_vi": "Hợp đồng tương lai ngũ cốc Chicago kết thúc hỗn hợp khi lúa mì và đậu nành tăng giá kéo dài mức lỗ",
+      "summary_vi": "Giá lúa mì kỳ hạn tại Chicago phục hồi vào thứ Năm, trong khi giá đậu tương giảm và ngô giảm nhẹ, làm nổi bật các xu hướng khác nhau trên thị trường ngũ cốc Mỹ.",
+      "image": "https://www.agrolatam.com/files/image/83/83581/6ae3b178364c7_600_315!.jpg?s=9e82ca7f6d84a79c56452df31f58b3db&d=1793314165",
+      "link": "https://www.agrolatam.com/usa/news/chicago-grain-futures-close-mixed-as-wheat-rallies-and-soybeans-extend-losses/",
+      "source": "AgroLatam",
+      "category": "agri",
+      "published": "2026-10-30 05:48"
     },
     {
       "id": "1xujq2f",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-10-28 22:43"
-    },
-    {
-      "id": "1toedgu",
-      "title": "European gas touches €100 for first time since 2022 energy crisis as consumers, industry feel the pain",
-      "title_vi": "Khí đốt châu Âu chạm mốc 100 euro lần đầu tiên kể từ cuộc khủng hoảng năng lượng năm 2022 khi người tiêu dùng và ngành công nghiệp cảm nhận được nỗi đau",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/european-benchmark-gas-price-touches-100-first-time-since-december-2022-2026-10-28/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-10-28 22:28"
     }
   ]
 }

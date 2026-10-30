@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 08:00",
+  "updated_at": "2026-10-30 09:00",
   "items": [
     {
       "id": "19n9wiq",
@@ -110,6 +110,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-30 02:00"
+    },
+    {
+      "id": "2bnyox",
+      "title": "Silver could see further losses against gold as physical market weakens - Metals Focus",
+      "title_vi": "Bạc có thể giảm thêm so với vàng khi thị trường vật chất suy yếu - Metals Focus",
+      "summary_vi": "(Kitco News) - Vàng và bạc tiếp tục gặp khó khăn trước áp lực lạm phát dai dẳng và lãi suất trái phiếu cao hơn, nhưng trong khi vàng đã cố gắng giữ được mức hỗ trợ quan trọng khoảng 4.000 USD/ounce,…",
+      "image": "https://image-api.prod.kitco.com/image/8001f2ca-255a-4497-9c78-0f620e66a798.jpeg?top=0.1902027027027&left=0&width=1000&height=562.61959459459&scale_width=1920&token=878a41b34875e7f8d12cb0b20b87dded18d08ee932c62d54fad26bc34d5cd6ed",
+      "link": "https://www.kitco.com/news/article/2026-10-29/silver-could-see-further-losses-against-gold-physical-market-weakens-metals",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-10-30 01:35"
     },
     {
       "id": "1uj0trf",
@@ -473,17 +484,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-10-28 23:07"
-    },
-    {
-      "id": "cp7gqe",
-      "title": "Gold prices could fall to $3,900, silver to $50 as Fed tightening pressures precious metals – Sucden Financial",
-      "title_vi": "Giá vàng có thể giảm xuống 3.900 USD, bạc xuống 50 USD khi Fed thắt chặt gây áp lực lên kim loại quý - Sucden Financial",
-      "summary_vi": "(Kitco News) - Giá vàng tiếp tục giữ mức hỗ trợ quan trọng trên 4.000 USD/ounce, nhưng một công ty đầu tư dự đoán giá sẽ giảm xuống vào cuối năm do Cục Dự trữ Liên bang dự kiến ​​sẽ duy trì…",
-      "image": "https://image-api.prod.kitco.com/image/a5093f9d-4fdf-47a0-8da1-f739162f8fd1.jpeg?top=0.1902027027027&left=0&width=1000&height=562.61959459459&scale_width=1920&token=e2d8ab250e201eb7b6f9f9769a969b70c721f926177646220918a0177385b2ff",
-      "link": "https://www.kitco.com/news/article/2026-10-28/gold-prices-could-fall-3900-silver-50-fed-tightening-pressures-precious",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-10-28 23:05"
     },
     {
       "id": "1db0nsf",

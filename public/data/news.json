@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-31 05:02",
+  "updated_at": "2026-10-31 06:01",
   "items": [
+    {
+      "id": "f23n4e",
+      "title": "Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down",
+      "title_vi": "Châu Âu hiện đang nghiêm túc xem xét lại giai đoạn ngừng hoạt động của nhà máy lọc dầu",
+      "summary_vi": "Trong vài thập kỷ qua, Châu Âu đã theo đuổi một số chính sách năng lượng sạch đầy tham vọng nhất thế giới, nhằm trở thành lục địa trung hòa về khí hậu đầu tiên vào năm 2050. Không có gì đáng ngạc nhiên khi Châu Âu hiện đang tiến xa hơn trong quá trình chuyển đổi năng lượng sạch so với các nước phương Tây.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_3ahnqioufr.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Europe-Is-Now-Seriously-Rethinking-Its-Oil-Refinery-Phase-Down.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-31 06:00"
+    },
     {
       "id": "g5408c",
       "title": "Gasoline Up 34% and Heating Oil Up 74% as Voters Head to the Midterms",
@@ -44,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-31 01:30"
+    },
+    {
+      "id": "ss8t4n",
+      "title": "Palladium Price November 2 2026",
+      "title_vi": "Giá Palladium ngày 2 tháng 11 năm 2026",
+      "summary_vi": "Hợp đồng tương lai palladium ngày 26 tháng 12 sẽ kết thúc vào ngày 2 tháng 11 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
+      "image": "https://robinhood.com/api/public/og/event?id=74a35faa-1a86-49f6-890f-dc414d56bc66",
+      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/palladium-price-november-2-2026-nov-02-2026/",
+      "source": "Robinhood",
+      "category": "metal",
+      "published": "2026-10-31 01:21"
     },
     {
       "id": "ehd1vx",
@@ -165,17 +187,6 @@
       "source": "CBS News",
       "category": "soft",
       "published": "2026-10-30 22:08"
-    },
-    {
-      "id": "yh1e8b",
-      "title": "European Gas Tops 101 Euros for First Time Since 2022",
-      "title_vi": "Khí đốt châu Âu lần đầu tiên vượt mốc 101 Euro kể từ năm 2022",
-      "summary_vi": "Giá khí đốt tự nhiên chuẩn của châu Âu lần đầu tiên đạt mức 101 euro mỗi megawatt giờ (MWh) kể từ cuộc khủng hoảng năm 2022 khi mùa đông sắp đến trong bối cảnh mức dự trữ khí đốt ở châu Âu thấp kỷ lục. Giá tháng trước tại Cơ sở chuyển nhượng quyền sở hữu Hà Lan (TTF), mức chuẩn cho đồng Euro",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-30_lvicsnldty.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Tops-101-Euros-for-First-Time-Since-2022.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-30 21:30"
     },
     {
       "id": "1nbp3oq",
@@ -539,17 +550,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-10-29 22:26"
-    },
-    {
-      "id": "1p2a6fq",
-      "title": "Silver Price Forecast: Downtrend Continues as Fed Hike Risk Remains",
-      "title_vi": "Dự báo giá bạc: Xu hướng giảm tiếp tục khi rủi ro tăng lãi suất của Fed vẫn còn",
-      "summary_vi": "Bạc giao ngay vẫn trong xu hướng giảm do kỳ vọng tăng lãi suất lấn át những câu chuyện tăng giá đang mờ dần, khiến 46,48 USD đến 45,55 USD làm vùng giá trị quan trọng.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-07-5.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/silver-price-forecast-downtrend-continues-as-fed-hike-risk-remains-1641276",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-10-29 21:52"
     }
   ]
 }

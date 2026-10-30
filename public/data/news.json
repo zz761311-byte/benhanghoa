@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-30 06:22",
+  "updated_at": "2026-10-30 07:00",
   "items": [
+    {
+      "id": "19n9wiq",
+      "title": "Off-Grid Solar Is Now the Cheapest Power for Nearly 400 Million People",
+      "title_vi": "Năng lượng mặt trời không nối lưới hiện là nguồn điện rẻ nhất cho gần 400 triệu người",
+      "summary_vi": "Ngân hàng Thế giới hiện xếp hạng năng lượng mặt trời không nối lưới là cách rẻ nhất để mang điện đến cho ít nhất 398 triệu người vẫn sống mà không có điện. Một báo cáo chung được công bố trong tuần này bởi Chương trình Hỗ trợ Quản lý Ngành Năng lượng (ESMAP) của Ngân hàng Thế giới và ngành công nghiệp năng lượng mặt trời không nối lưới.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-29_xnvawkipuc.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Off-Grid-Solar-Is-Now-the-Cheapest-Power-for-Nearly-400-Million-People.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-30 07:00"
+    },
+    {
+      "id": "189upz0",
+      "title": "Low levels on the Mississippi River impact grain profits",
+      "title_vi": "Mức thấp trên sông Mississippi ảnh hưởng đến lợi nhuận ngũ cốc",
+      "summary_vi": "Vụ thu hoạch sắp kết thúc nhanh chóng nhưng một vấn đề kinh tế khác đối với người sản xuất đang lại xảy ra trên sông Mississippi. Những năm gần đây, hạn hán đã khiến dòng sông...",
+      "image": "https://talkbusiness.net/wp-content/uploads/2025/09/miss-river-low-memphis-1-1-1.jpg",
+      "link": "https://talkbusiness.net/2026/10/low-levels-on-the-mississippi-river-impact-grain-profits/",
+      "source": "Talk Business & Politics",
+      "category": "agri",
+      "published": "2026-10-30 06:10"
+    },
     {
       "id": "gareyu",
       "title": "What’s Next for Global Natural Gas Demand?",
@@ -110,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-30 01:00"
-    },
-    {
-      "id": "de8ezx",
-      "title": "Mexico’s Richest Man Sells $1.15 Billion in Oil Stocks",
-      "title_vi": "Người giàu nhất Mexico bán 1,15 tỷ USD cổ phiếu dầu mỏ",
-      "summary_vi": "Carlos Slim đã bán hơn 1,15 tỷ USD cổ phiếu dầu mỏ của Mỹ trong năm nay khi chiến tranh Iran khiến giá dầu thô và cổ phiếu năng lượng tăng cao. Tỷ phú người Mexico đã cắt giảm gần một nửa số cổ phần của mình tại PBF Energy và Talos Energy, tuy nhiên số cổ phiếu ông vẫn sở hữu trị giá khoảng 1,4 tỷ USD.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-29_znv2kcnbfj.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Mexicos-Richest-Man-Sells-115-Billion-in-Oil-Stocks.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-30 00:30"
     },
     {
       "id": "861z0e",
@@ -539,17 +550,6 @@
       "source": "IFPRI",
       "category": "soft",
       "published": "2026-10-28 21:49"
-    },
-    {
-      "id": "1vknsht",
-      "title": "S&P 500 Forecast: SPX flat ahead of FOMC rate decision and tech earnings",
-      "title_vi": "Dự báo S&P 500: SPX đi ngang trước quyết định lãi suất của FOMC và thu nhập công nghệ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-gb/news-and-analysis/sandp-500-forecast-spx-flat-ahead-of-fomc-rate-decision-and-tech-earnings/",
-      "source": "StoneX",
-      "category": "macro",
-      "published": "2026-10-28 21:12"
     }
   ]
 }

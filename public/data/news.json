@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-10-31 00:01",
+  "updated_at": "2026-10-31 01:01",
   "items": [
+    {
+      "id": "ehd1vx",
+      "title": "Water Tank Rupture Triggers Safety Concerns at Tajikistan’s Rogun Dam",
+      "title_vi": "Vỡ bể nước gây lo ngại về an toàn tại đập Rogun của Tajikistan",
+      "summary_vi": "Một “sự cố” công nghiệp gần đây đã làm gián đoạn công trình ở Đập Rogun ở Tajikistan. Tùy thuộc vào nguồn tin nào được tin tưởng, không có ai bị hại hoặc ít nhất 5 người bị thương. Theo Cơ quan Nhà nước về Giám sát An toàn Công nghiệp và Khai thác mỏ của Tajikistan,",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_qa32inucsz.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Hydroelectric/Water-Tank-Rupture-Triggers-Safety-Concerns-at-Tajikistans-Rogun-Dam.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-31 01:00"
+    },
+    {
+      "id": "qn52f6",
+      "title": "ExxonMobil Profits Double to $15.4 Billion",
+      "title_vi": "Lợi nhuận của ExxonMobil tăng gấp đôi lên 15,4 tỷ USD",
+      "summary_vi": "ExxonMobil đã báo cáo lợi nhuận quý 3 là 15,4 tỷ USD vào thứ Sáu, cao hơn gấp đôi thu nhập của họ một năm trước đó, nhờ các nhà máy lọc dầu ở Bờ Vịnh hoạt động hết công suất và giá dầu diesel đảm nhiệm phần còn lại. Công ty kiếm được 3,72 USD trên mỗi cổ phiếu, hay 4,23 USD trên cơ sở điều chỉnh, đánh bại Wal",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-30_dlr2xg7s6j.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ExxonMobil-Profits-Double-to-154-Billion.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-31 00:27"
+    },
+    {
+      "id": "1he20ex",
+      "title": "U.S. Oil, Gas Drillers Still on Hold",
+      "title_vi": "Các máy khoan dầu, khí đốt của Hoa Kỳ vẫn đang tạm dừng",
+      "summary_vi": "Theo dữ liệu mới mà Baker Hughes công bố hôm thứ Sáu, tổng số giàn khoan đang hoạt động ở Mỹ vẫn không thay đổi trong tuần này, với tổng số giàn khoan ở Mỹ ở mức 603, tăng 57 so với cùng thời điểm này năm ngoái. Số lượng hành động",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_sskxyhzter.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Drillers-Still-on-Hold.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-31 00:09"
+    },
     {
       "id": "1mklyfz",
       "title": "Oil Traders Brace for a Wild Week as Brent Approaches $120",
@@ -11,6 +44,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-30 23:51"
+    },
+    {
+      "id": "1hre5vx",
+      "title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank",
+      "title_vi": "Giá vàng giảm xuống mức thấp nhất một năm, giá bạc phá vỡ 50 USD khi cổ phiếu khai thác giảm",
+      "summary_vi": "Vàng thỏi đang hướng tới tháng 10 tồi tệ nhất kể từ năm 2008, kéo các nhà sản xuất vàng và bạc giảm tới 8% vào thứ Sáu.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/10/stock-market-trading-floor-finance-mining-stocks-1024x571.jpeg",
+      "link": "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-10-30 23:30"
+    },
+    {
+      "id": "bukox2",
+      "title": "World Bank Warns of Sharp Grain Price Increases Through 2027",
+      "title_vi": "Ngân hàng Thế giới cảnh báo giá ngũ cốc sắc nét sẽ tăng đến năm 2027",
+      "summary_vi": "Giá ngũ cốc toàn cầu được dự đoán sẽ tăng 14,1% vào năm 2026 và 9,3% khác vào năm 2027, trong đó lúa mì dẫn đầu mức tăng do chi phí năng lượng, gián đoạn thương mại và rủi ro thời tiết gây áp lực lên thị trường.",
+      "image": "https://www.agrolatam.com/files/image/83/83635/6ae4be789ba89_600_315!.png?s=2cdcd339bc97e306e9004ebe8eebe179&d=1793376074",
+      "link": "https://www.agrolatam.com/usa/news/world-bank-grain-prices-wheat-corn-soybeans-2027/",
+      "source": "AgroLatam",
+      "category": "agri",
+      "published": "2026-10-30 23:01"
     },
     {
       "id": "19jxrwd",
@@ -57,6 +112,28 @@
       "published": "2026-10-30 21:30"
     },
     {
+      "id": "1nbp3oq",
+      "title": "Editorial: Boo! Candy prices rise along with blood sugar",
+      "title_vi": "Biên tập: Boo! Giá kẹo tăng cùng với lượng đường trong máu",
+      "summary_vi": "Đầu tuần này, những người bạn của chúng tôi tại Chicago Tribune đã lưu ý một điều mà nhiều người trong số các bạn có thể rung cảm: Việc điều trị ngày càng khó khăn hơn rất nhiều. Giá kẹo đã tăng đều đặn — tăng hơn 50% kể từ năm 2019 và gần 8% trong…",
+      "image": "https://www.orlandosentinel.com/wp-content/uploads/2026/10/TOS-L-spooky-awards-28.jpg?w=4000&#038;h=2667",
+      "link": "https://www.orlandosentinel.com/2026/10/30/editorial-boo-candy-prices-rise-along-with-blood-sugar/",
+      "source": "Orlando Sentinel",
+      "category": "soft",
+      "published": "2026-10-30 21:19"
+    },
+    {
+      "id": "q8zx40",
+      "title": "Silver Falls Thru' 1980 and 2011 Peak at $50 as Gold Sinks",
+      "title_vi": "Silver Falls qua đỉnh năm 1980 và 2011 ở mức 50 USD khi vàng chìm",
+      "summary_vi": "Bạc đã giảm xuống mức 50 USD/ounce vào thứ Sáu, giảm xuống dưới mức cao nhất mọi thời đại của năm 1980 và 2011 trước Năm mới này.",
+      "image": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/2026-10-30-silver-sub-50.png",
+      "link": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-50-1980-2011-103020261",
+      "source": "BullionVault",
+      "category": "metal",
+      "published": "2026-10-30 21:09"
+    },
+    {
       "id": "jb6iuq",
       "title": "Trump Considers Lifting Sanctions on Putin’s ‘Slush Fund’",
       "title_vi": "Trump xem xét dỡ bỏ lệnh trừng phạt đối với 'Quỹ đen' của Putin",
@@ -90,17 +167,6 @@
       "published": "2026-10-30 20:38"
     },
     {
-      "id": "1jagdlu",
-      "title": "Japan to Tap $7 Billion from Government Fund to Subsidize Gasoline Prices",
-      "title_vi": "Nhật Bản sẽ huy động 7 tỷ $ từ Quỹ Chính phủ để trợ giá xăng dầu",
-      "summary_vi": "Chính phủ Nhật Bản hôm thứ Sáu đã quyết định trích 7 tỷ USD từ dự trữ dự phòng của mình để duy trì trợ cấp cho xăng và các nhiên liệu khác, ngay cả khi nước này có kế hoạch giảm dần quy mô hỗ trợ từ tháng 12. Chính phủ Nhật Bản hôm nay quyết định phân bổ khoảng 7 tỷ USD (1,1 nghìn tỷ USD).",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-30_2syp5qnw4t.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-to-Tap-7-Billion-from-Government-Fund-to-Subsidize-Gasoline-Prices.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-30 20:30"
-    },
-    {
       "id": "11jeq5a",
       "title": "Silver loses its sparkle as prices crash below $50 (XAGUSD:CUR:Commodity)",
       "title_vi": "Bạc mất đi sự lấp lánh khi giá giảm xuống dưới $50 (XAGUSD:CUR:Commodity)",
@@ -132,28 +198,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-30 19:40"
-    },
-    {
-      "id": "10awkf2",
-      "title": "Brent Hits $117 as Tanker Catches Fire in Strait of Hormuz",
-      "title_vi": "Brent đạt 117 USD khi tàu chở dầu bốc cháy ở eo biển Hormuz",
-      "summary_vi": "Căng thẳng ở Trung Đông lại leo thang khi một tàu chở dầu được báo cáo bốc cháy sau khi thiết bị nổ được gắn vào thân tàu khi con tàu đang cố gắng di chuyển ra ngoài eo biển Hormuz. Cơ quan Điều hành Thương mại Hàng hải Vương quốc Anh (UKMTO), được liên kết với",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-30_vhbnjq6rv8.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-117-as-Tanker-Catches-Fire-in-Strait-of-Hormuz.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-30 19:30"
-    },
-    {
-      "id": "egjhwp",
-      "title": "Oil Markets Caught Between Iran War Risks and Emergency SPR Releases",
-      "title_vi": "Thị trường dầu bị kẹt giữa rủi ro chiến tranh Iran và các bản phát hành SPR khẩn cấp",
-      "summary_vi": "Giá dầu thô phục hồi vào thứ Năm khi các nhà giao dịch cân nhắc nguồn cung khẩn cấp trước những nỗ lực dự kiến ​​mở lại các cuộc đàm phán với Iran. Không bên nào nắm quyền kiểm soát. Cục Dự trữ Dầu khí Chiến lược Hoa Kỳ đang cung cấp số thùng, nhưng lượng dự trữ này gần mức thấp nhất kể từ năm 1982. Hòa bình e",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_kqtbvje2zk.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Markets-Caught-Between-Iran-War-Risks-and-Emergency-SPR-Releases.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-30 18:30"
     },
     {
       "id": "3rkgcj",
@@ -255,17 +299,6 @@
       "published": "2026-10-30 12:30"
     },
     {
-      "id": "1go9ej5",
-      "title": "Gold, silver outlook: Trading the ranges before the next break",
-      "title_vi": "Triển vọng vàng, bạc: Giao dịch trong phạm vi trước đợt nghỉ tiếp theo",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-gb/news-and-analysis/gold-silver-outlook-trading-the-ranges-before-the-next-break/",
-      "source": "StoneX",
-      "category": "metal",
-      "published": "2026-10-30 10:53"
-    },
-    {
       "id": "1b92k6j",
       "title": "Tiny's Coffee Bar is full of surprises, from menu items to the town it's located in",
       "title_vi": "Tiny's Coffee Bar chứa đầy những điều bất ngờ, từ các món trong thực đơn cho đến thị trấn nơi nó tọa lạc",
@@ -330,17 +363,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-30 05:10"
-    },
-    {
-      "id": "1lryxl3",
-      "title": "Nebraska corn farmers question ‘gold standard’ USDA yield report after data error, tough weather conditions",
-      "title_vi": "Nông dân trồng ngô ở Nebraska đặt câu hỏi về báo cáo sản lượng USDA 'tiêu chuẩn vàng' sau lỗi dữ liệu, điều kiện thời tiết khắc nghiệt",
-      "summary_vi": "Sau lỗi dữ liệu, USDA đã điều chỉnh dự báo năng suất ngô ở Nebraska. Điều này đã làm thay đổi giá thị trường của ngô kỳ hạn và khiến một số người đặt câu hỏi về tính chính xác của các dự báo.",
-      "image": "https://nebraskapublicmedia.org/assets/images/1_d2hWIar.2e16d0ba.fill-1200x630.png",
-      "link": "https://nebraskapublicmedia.org/en/news/news-articles/nebraska-corn-farmers-question-gold-standard-usda-yield-report-after-data-error-tough-weather-conditions/",
-      "source": "Nebraska Public Media",
-      "category": "metal",
-      "published": "2026-10-30 05:04"
     },
     {
       "id": "n207ij",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-29 20:14"
-    },
-    {
-      "id": "iefwia",
-      "title": "Oil Is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel?",
-      "title_vi": "Dầu đang chảy ra khỏi vùng Vịnh. Tại sao giá vẫn trên 100 USD một thùng?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-is-gushing-out-of-the-gulf-why-are-prices-still-above-100-a-barrel-3ccff61d",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-10-29 17:05"
-    },
-    {
-      "id": "gl20ka",
-      "title": "US–China Commodity Trade and the Atlantic Freight Outlook",
-      "title_vi": "Thương mại hàng hóa Mỹ-Trung và triển vọng vận tải hàng hóa Đại Tây Dương",
-      "summary_vi": "Báo cáo hàng tuần của đồng minh",
-      "image": "http://static1.squarespace.com/static/5a4d1d26e5dd5b537a6647c5/t/6ae2fc1cd327c61b7a90d4ef/1793260572244/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF+%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82+2026-10-29+094854.png?format=1500w",
-      "link": "https://www.breakwaveadvisors.com/insights/2026/10/29/uschina-commodity-trade-and-the-atlantic-freight-outlook",
-      "source": "Breakwave Advisors",
-      "category": "macro",
-      "published": "2026-10-29 14:58"
     }
   ]
 }

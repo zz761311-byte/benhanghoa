@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-31 01:01",
+  "updated_at": "2026-10-31 02:01",
   "items": [
+    {
+      "id": "1y9e8b2",
+      "title": "Another Russian refinery is aflame despite Trump’s warning to Kyiv",
+      "title_vi": "Một nhà máy lọc dầu khác của Nga bốc cháy bất chấp cảnh báo của Trump tới Kyiv",
+      "summary_vi": "Theo một công ty quốc phòng Ukraine, máy bay không người lái đã tấn công một cơ sở lớn ở vùng Samara của Nga, phá vỡ thời kỳ tạm lắng của các cuộc tấn công như vậy vốn diễn ra sau cảnh báo từ Tổng thống Donald Trump.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/P2SUSTTFPYN7W2FXZOMHAOO3V4.jpg&w=1440",
+      "link": "https://www.washingtonpost.com/world/2026/10/30/another-russian-refinery-is-aflame-despite-trumps-warning-kyiv/",
+      "source": "The Washington Post",
+      "category": "energy",
+      "published": "2026-10-31 01:33"
+    },
+    {
+      "id": "1rypirf",
+      "title": "Chevron Profits Nearly Triple to $9.9 Billion",
+      "title_vi": "Lợi nhuận của Chevron tăng gần gấp ba lên 9,9 tỷ USD",
+      "summary_vi": "Lợi nhuận quý 3 của Chevron tăng gần gấp ba lên 9,9 tỷ USD, nhờ các nhà máy lọc dầu của họ thực hiện phần lớn công việc nặng nhọc mặc dù chỉ xử lý dầu thô nhiều hơn 3% so với một năm trước đó. Công ty đã báo cáo thu nhập 5,06 USD trên mỗi cổ phiếu vào thứ Sáu, tăng từ mức 1,82 USD một năm trước. Thu nhập được điều chỉnh",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-30_vy2qiilbvl.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Profits-Nearly-Triple-to-99-Billion.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-31 01:30"
+    },
     {
       "id": "ehd1vx",
       "title": "Water Tank Rupture Triggers Safety Concerns at Tajikistan’s Rogun Dam",
@@ -9,19 +31,8 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_qa32inucsz.jpg",
       "link": "https://oilprice.com/Alternative-Energy/Hydroelectric/Water-Tank-Rupture-Triggers-Safety-Concerns-at-Tajikistans-Rogun-Dam.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-10-31 01:00"
-    },
-    {
-      "id": "qn52f6",
-      "title": "ExxonMobil Profits Double to $15.4 Billion",
-      "title_vi": "Lợi nhuận của ExxonMobil tăng gấp đôi lên 15,4 tỷ USD",
-      "summary_vi": "ExxonMobil đã báo cáo lợi nhuận quý 3 là 15,4 tỷ USD vào thứ Sáu, cao hơn gấp đôi thu nhập của họ một năm trước đó, nhờ các nhà máy lọc dầu ở Bờ Vịnh hoạt động hết công suất và giá dầu diesel đảm nhiệm phần còn lại. Công ty kiếm được 3,72 USD trên mỗi cổ phiếu, hay 4,23 USD trên cơ sở điều chỉnh, đánh bại Wal",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-30_dlr2xg7s6j.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ExxonMobil-Profits-Double-to-154-Billion.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-31 00:27"
     },
     {
       "id": "1he20ex",
@@ -99,6 +110,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-30 22:30"
+    },
+    {
+      "id": "1b8279e",
+      "title": "PTL Halloween Spooktacular: Decorating Disney villian-themed sugar cookies",
+      "title_vi": "PTL Halloween Spooktacular: Trang trí bánh quy đường theo chủ đề nhân vật phản diện của Disney",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.cbsnews.com/pittsburgh/video/ptl-halloween-spooktacular-decorating-disney-villian-themed-sugar-cookies/",
+      "source": "CBS News",
+      "category": "soft",
+      "published": "2026-10-30 22:08"
     },
     {
       "id": "yh1e8b",
@@ -528,28 +550,6 @@
       "source": "Markets Group",
       "category": "macro",
       "published": "2026-10-29 20:52"
-    },
-    {
-      "id": "1nzo3vz",
-      "title": "Bodum Recalls 5.9 Million French Presses After Burn Reports",
-      "title_vi": "Bodum thu hồi 5,9 triệu máy ép Pháp sau khi có báo cáo cháy",
-      "summary_vi": "Bodum USA đang thu hồi khoảng 5,9 triệu máy pha cà phê kiểu Pháp được bán tại Hoa Kỳ trong khoảng thời gian 52 năm. Việc thu hồi diễn ra sau 70 báo cáo về việc bình thủy tinh bị vỡ trong...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/10/29/bodum-recalls-5-9-million-french-presses-after-burn-reports/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-10-29 20:39"
-    },
-    {
-      "id": "m2f7o3",
-      "title": "Kerry Opens Massive Roasting and Extraction Plant in Pennsylvania",
-      "title_vi": "Kerry mở nhà máy rang và chiết xuất quy mô lớn ở Pennsylvania",
-      "summary_vi": "Công ty dinh dưỡng và hương vị toàn cầu Kerry đã cắt băng khánh thành cơ sở rang và chiết xuất cà phê rộng 48.600 foot vuông gần Bethlehem, Pennsylvania, vào tháng 9, mở rộng đáng kể hoạt động sản xuất cà phê ở Bắc Mỹ của công ty...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/10/29/kerry-opens-massive-roasting-and-extraction-plant-in-pennsylvania/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-10-29 20:14"
     }
   ]
 }

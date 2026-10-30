@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-30 23:00",
+  "updated_at": "2026-10-30 23:01",
   "items": [
+    {
+      "id": "b63xdg",
+      "title": "America’s LNG Boom Faces Its Biggest Test Yet",
+      "title_vi": "Sự bùng nổ LNG của Mỹ phải đối mặt với thử nghiệm lớn nhất từ ​​trước đến nay",
+      "summary_vi": "Một thập kỷ trước, Hoa Kỳ mới chỉ bắt đầu thoát khỏi viễn cảnh năng lượng vốn từng cho rằng sự phụ thuộc ngày càng tăng vào khí đốt tự nhiên nhập khẩu. Trong nhiều năm, mối lo ngại phổ biến là sản xuất trong nước sẽ gặp khó khăn trong việc theo kịp nhu cầu, khiến đất nước rơi vào tình trạng khó khăn.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_nzkqimyb2b.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Americas-LNG-Boom-Faces-Its-Biggest-Test-Yet.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-30 23:00"
+    },
     {
       "id": "eys4a7",
       "title": "Japan to Overtake China As World’s Top LNG Importer This Year",
@@ -129,17 +140,6 @@
       "summary_vi": "Chính trị, Địa chính trị & Xung đột Bolsonaro đã được bí mật bay đến Miami trên một chiếc máy bay riêng, ba ngày sau khi thua Lula trong cuộc tranh cử tổng thống Brazil và một ngày sau khi bất chấp lệnh của Tòa án Tối cao giao nộp hộ chiếu của ông trong một vụ án rửa tiền. Bộ Ngoại giao là",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_b0aeixsqsp.jpg",
       "link": "https://oilprice.com/Energy/Energy-General/Bolsonaros-Election-Defeat-Could-Complicate-US-Rare-Earth-Plans.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-10-30 18:30"
-    },
-    {
-      "id": "3xhffc",
-      "title": "Israel’s Election Deadlock Opens the Door to Another Iran Offensive",
-      "title_vi": "Bế tắc bầu cử ở Israel mở ra cánh cửa cho một cuộc tấn công khác của Iran",
-      "summary_vi": "Khối của Netanyahu đã thiếu 8 ghế so với đa số Knesset vào ngày 27 tháng 10, giành được 53 trong số 120 ghế xuống còn 48 cho phe của Gadi Eisenkot. Các đảng Ả Rập đã đạt kỷ lục 19 người với tỷ lệ cử tri đi bỏ phiếu khoảng 80% trong cộng đồng Ả Rập, tăng từ mức 54% vào năm 2022. Ông Netanyahu sẽ tiếp tục giữ chức Thủ tướng tạm quyền cho đến khi",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_o5k0jqxua4.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Israels-Election-Deadlock-Opens-the-Door-to-Another-Iran-Offensive.html",
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-10-30 18:30"
@@ -519,6 +519,17 @@
       "published": "2026-10-29 20:14"
     },
     {
+      "id": "iefwia",
+      "title": "Oil Is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel?",
+      "title_vi": "Dầu đang chảy ra khỏi vùng Vịnh. Tại sao giá vẫn trên 100 USD một thùng?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-is-gushing-out-of-the-gulf-why-are-prices-still-above-100-a-barrel-3ccff61d",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-10-29 17:05"
+    },
+    {
       "id": "gl20ka",
       "title": "US–China Commodity Trade and the Atlantic Freight Outlook",
       "title_vi": "Thương mại hàng hóa Mỹ-Trung và triển vọng vận tải hàng hóa Đại Tây Dương",
@@ -539,17 +550,6 @@
       "source": "Moomoo",
       "category": "macro",
       "published": "2026-10-29 13:44"
-    },
-    {
-      "id": "10397pg",
-      "title": "Copper’s AI-fuelled boom gets a reality check",
-      "title_vi": "Sự bùng nổ sử dụng nhiên liệu AI của Copper được kiểm chứng thực tế",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.ft.com/content/6b5b96f5-0d2a-4161-911f-71dda46ccb9d?syn-25a6b1a6",
-      "source": "Financial Times",
-      "category": "metal",
-      "published": "2026-10-29 12:01"
     }
   ]
 }

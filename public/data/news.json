@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-30 14:01",
+  "updated_at": "2026-10-30 15:01",
   "items": [
+    {
+      "id": "1ge2upz",
+      "title": "Houthis Claim Fresh Strikes on Saudi Oil Refineries and Aramco Facilities",
+      "title_vi": "Houthis tuyên bố tấn công mới vào các nhà máy lọc dầu và cơ sở Aramco của Saudi",
+      "summary_vi": "Lực lượng Houthi ở Yemen đã tuyên bố thực hiện một loạt cuộc tấn công mới vào các mục tiêu của Saudi, bao gồm cơ sở hạ tầng dầu mỏ: hai nhà máy lọc dầu và một cơ sở tại mỏ dầu Abqaiq. Người phát ngôn của Houthis Yahya Saree cho biết trong một bài đăng trên Twitter rằng người Houthis đã tấn công nhà máy lọc dầu Ras Tanura và nhà máy lọc dầu Rabigh.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-30_shy1rw74gl.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Fresh-Strikes-on-Saudi-Oil-Refineries-and-Aramco-Facilities.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-10-30 14:30"
+    },
     {
       "id": "1s20qcp",
       "title": "Oil Prices Head for Fourth Monthly Gain as Middle East Tensions Escalate",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-30 13:20"
+    },
+    {
+      "id": "1go9ej5",
+      "title": "Gold, silver outlook: Trading the ranges before the next break",
+      "title_vi": "Triển vọng vàng, bạc: Giao dịch trong phạm vi trước đợt nghỉ tiếp theo",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-gb/news-and-analysis/gold-silver-outlook-trading-the-ranges-before-the-next-break/",
+      "source": "StoneX",
+      "category": "metal",
+      "published": "2026-10-30 10:53"
     },
     {
       "id": "k3y7m7",
@@ -75,7 +97,7 @@
       "image": "https://nebraskapublicmedia.org/assets/images/1_d2hWIar.2e16d0ba.fill-1200x630.png",
       "link": "https://nebraskapublicmedia.org/en/news/news-articles/nebraska-corn-farmers-question-gold-standard-usda-yield-report-after-data-error-tough-weather-conditions/",
       "source": "Nebraska Public Media",
-      "category": "agri",
+      "category": "metal",
       "published": "2026-10-30 05:04"
     },
     {
@@ -134,6 +156,17 @@
       "published": "2026-10-30 03:00"
     },
     {
+      "id": "ezkpqe",
+      "title": "Record gas production reshapes outlook for U.S. producers and pipelines",
+      "title_vi": "Sản lượng khí đốt kỷ lục định hình lại triển vọng cho các nhà sản xuất và đường ống của Hoa Kỳ",
+      "summary_vi": "Tin tức mới nhất về dầu khí, dành riêng cho tất cả mọi thứ về dầu khí: con người, công nghệ, giao dịch, xu hướng và phân tích kinh tế vĩ mô tác động đến giá cả hàng hóa.",
+      "image": "https://www.oilandgas360.com/wp-content/uploads/2026/10/natural-ga-USA.jpg",
+      "link": "https://www.oilandgas360.com/record-gas-production-reshapes-outlook-for-u-s-producers-and-pipelines/",
+      "source": "Oil & Gas 360",
+      "category": "energy",
+      "published": "2026-10-30 02:39"
+    },
+    {
       "id": "16b7ccm",
       "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
       "title_vi": "Bảy tàu chở dầu chở 288.000 tấn dầu diesel của Nga hướng tới Mỹ",
@@ -153,17 +186,6 @@
       "link": "https://ocj.com/2026/10/falling-cocoa-prices-offer-little-relief-for-halloween-candy-shoppers/",
       "source": "Ohio's Country Journal",
       "category": "soft",
-      "published": "2026-10-30 02:00"
-    },
-    {
-      "id": "jgdj8o",
-      "title": "BYD Earnings Miss Estimates as China&#039;s EV Price War Takes Its Toll",
-      "title_vi": "Thu nhập của BYD không được ước tính khi cuộc chiến giá xe điện của Trung Quốc gây thiệt hại",
-      "summary_vi": "Hãng xe điện khổng lồ BYD của Trung Quốc đã báo cáo thu nhập quý 3 yếu hơn dự kiến ​​vào thứ Năm, nêu bật những thách thức ngày càng tăng mà các nhà sản xuất ô tô Trung Quốc phải đối mặt ngay cả khi doanh số bán hàng ở nước ngoài tiếp tục tăng. Lợi nhuận ròng của BYD tăng 28% so với cùng kỳ năm trước lên 10,02 tỷ nhân dân tệ (",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-29_up6v1sguq3.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/BYD-Earnings-Miss-Estimates-as-Chinas-EV-Price-War-Takes-Its-Toll.html",
-      "source": "OilPrice",
-      "category": "energy",
       "published": "2026-10-30 02:00"
     },
     {
@@ -308,17 +330,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-29 20:14"
-    },
-    {
-      "id": "12vm9n8",
-      "title": "Gold Retreats Below $4,050 as Federal Reserve Policy Uncertainty Keeps US Inflation Data in Focus",
-      "title_vi": "Vàng giảm xuống dưới 4.050 USD do sự không chắc chắn về chính sách của Cục Dự trữ Liên bang khiến dữ liệu lạm phát của Hoa Kỳ trở thành tâm điểm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://uk.finance.yahoo.com/news/gold-retreats-below-4-050-113848483.html",
-      "source": "Yahoo Finance UK",
-      "category": "metal",
-      "published": "2026-10-29 18:38"
     },
     {
       "id": "gl20ka",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-10-28 22:55"
-    },
-    {
-      "id": "15uuqdi",
-      "title": "Ukraine targets Russia with more than 1,000 drones, striking oil terminal in St. Petersburg - ABC News",
-      "title_vi": "Ukraine dùng hơn 1.000 máy bay không người lái tấn công Nga, tấn công kho dầu ở St. Petersburg - ABC News",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://abcnews.com/International/ukraine-targets-russia-1000-drones-striking-oil-terminal/story?id",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-10-28 22:52"
     }
   ]
 }

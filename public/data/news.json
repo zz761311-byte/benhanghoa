@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 03:53",
+  "updated_at": "2026-10-31 04:01",
   "items": [
     {
       "id": "1y9e8b2",
@@ -110,6 +110,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-30 23:00"
+    },
+    {
+      "id": "bm9ovr",
+      "title": "Why the Price of Gas Is the Most Important Number in US Politics",
+      "title_vi": "Tại sao giá xăng là con số quan trọng nhất trong chính trị Hoa Kỳ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/05/why-the-price-of-gas-is-the-most-important-number-in-us-politics/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-30 22:33"
     },
     {
       "id": "eys4a7",
@@ -286,6 +297,17 @@
       "source": "Cleveland.com",
       "category": "soft",
       "published": "2026-10-30 16:00"
+    },
+    {
+      "id": "1gxtnfc",
+      "title": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+      "title_vi": "Dòng dầu tăng lên khi bất ổn chiến tranh Iran giảm bớt Tại sao giá cứ tăng mãi?",
+      "summary_vi": "Giá dầu thô Brent tăng hơn 60% so với mức trước chiến tranh, bất chấp nguồn cung phục hồi.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26253657242641-1-1793234091_8cc3e0-1793343640.jpg?resize=1200%2C630&quality=80",
+      "link": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-10-30 15:37"
     },
     {
       "id": "8c4sa7",
@@ -528,28 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-10-29 21:50"
-    },
-    {
-      "id": "1agn6kp",
-      "title": "Sugar prices rally as more excess rains forecast in Brazil",
-      "title_vi": "Giá đường tăng do dự báo sẽ có nhiều mưa hơn ở Brazil",
-      "summary_vi": "Giá đường thô kỳ hạn trên ICE tăng hôm thứ Năm do triển vọng nguồn cung trở nên tồi tệ hơn với dự báo lượng mưa dư thừa do El Nino gây ra ở quốc gia trồng hàng đầu Brazil, trong khi cà phê arabica chạm mức thấp nhất trong một tháng.SUGAR* Đường thô ICEUS:SB1! ​​tăng 0,7% lên 19,48 cent mỗi lb lúc 14:24 GMT, kéo dài thời gian phục hồi từ mức 5,6…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46F0ZB:0-sugar-prices-rally-as-more-excess-rains-forecast-in-brazil/",
-      "source": "TradingView",
-      "category": "soft",
-      "published": "2026-10-29 21:46"
-    },
-    {
-      "id": "1vra7z3",
-      "title": "Viewpoint’s risk-parity strategy finding opportunities in commodities amid war, weather disruptions",
-      "title_vi": "Chiến lược cân bằng rủi ro của Viewpoint tìm kiếm cơ hội hàng hóa trong bối cảnh chiến tranh, gián đoạn thời tiết",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.marketsgroup.org/news/viewpoint-investment-partners-commodity-risk-parity-strategy",
-      "source": "Markets Group",
-      "category": "macro",
-      "published": "2026-10-29 21:27"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 02:01",
+  "updated_at": "2026-10-31 03:01",
   "items": [
     {
       "id": "1y9e8b2",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-10-31 01:00"
+    },
+    {
+      "id": "1go9ej5",
+      "title": "Gold, silver outlook: Trading the ranges before the next break",
+      "title_vi": "Triển vọng vàng, bạc: Giao dịch trong phạm vi trước đợt nghỉ tiếp theo",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-gb/news-and-analysis/gold-silver-outlook-trading-the-ranges-before-the-next-break/",
+      "source": "StoneX",
+      "category": "metal",
+      "published": "2026-10-31 00:15"
     },
     {
       "id": "1he20ex",
@@ -299,15 +310,15 @@
       "published": "2026-10-30 15:14"
     },
     {
-      "id": "1lufzy1",
-      "title": "Gold and Silver Price Forecast: Silver Lags as Fed Hike Fears Grow",
-      "title_vi": "Dự báo giá vàng và bạc: Bạc tụt lại khi nỗi lo tăng lãi suất của Fed tăng lên",
-      "summary_vi": "Vàng và bạc vẫn chịu áp lực từ những lo ngại về việc tăng lãi suất của Fed, với mức hỗ trợ 3.950 USD của vàng và vùng 48–50 USD của bạc là trọng tâm.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-and-silver-precious-metals-02-1.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-silver-lags-as-fed-hike-fears-grow-1641453",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-10-30 13:36"
+      "id": "ff9i3e",
+      "title": "Crop Insurance Protection Sticks With Spring Guarantees: $4.75 for Corn, $12.63 for Soybeans",
+      "title_vi": "Gậy bảo vệ mùa màng với đảm bảo mùa xuân: 4,75 USD cho ngô, 12,63 USD cho đậu nành",
+      "summary_vi": "Giá tháng 10 đối với các hợp đồng ngô và đậu tương đều đạt mức trung bình cao hơn giai đoạn phát hiện giá mùa xuân. Việc bảo vệ giá trong các chính sách bảo hiểm mùa màng sẽ sử dụng mức đảm bảo về giá thu hoạch là 4,75 USD/giạ đối với ngô và 12,63 USD/giạ đậu nành.",
+      "image": "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredImage?category=CMS&symbolicName=2026v30-crop-insurance-guarantees.png",
+      "link": "https://www.dtnpf.com/agriculture/web/ag/news/business-inputs/article/2026/10/30/crop-insurance-protection-sticks-4",
+      "source": "DTN Progressive Farmer",
+      "category": "agri",
+      "published": "2026-10-30 14:44"
     },
     {
       "id": "1tf3raa",
@@ -539,17 +550,6 @@
       "source": "FoodNavigator.com",
       "category": "soft",
       "published": "2026-10-29 21:03"
-    },
-    {
-      "id": "1vra7z3",
-      "title": "Viewpoint’s risk-parity strategy finding opportunities in commodities amid war, weather disruptions",
-      "title_vi": "Chiến lược cân bằng rủi ro của Viewpoint tìm kiếm cơ hội hàng hóa trong bối cảnh chiến tranh, gián đoạn thời tiết",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.marketsgroup.org/news/viewpoint-investment-partners-commodity-risk-parity-strategy",
-      "source": "Markets Group",
-      "category": "macro",
-      "published": "2026-10-29 20:52"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 17:01",
+  "updated_at": "2026-10-30 18:01",
   "items": [
     {
       "id": "yfv4a2",
@@ -11,6 +11,39 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-30 17:00"
+    },
+    {
+      "id": "1k1rsi4",
+      "title": "Coffee Futures Rebound as Short Covering Sparks Rally, but Supply Outlook Remains Bearish",
+      "title_vi": "Hợp đồng tương lai cà phê phục hồi sau đợt phục hồi ngắn hạn, nhưng triển vọng nguồn cung vẫn giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-us/insights/coffee-futures-rebound-as-short-covering-sparks-rally-but-supply-outlook-remains-bearish/",
+      "source": "StoneX",
+      "category": "soft",
+      "published": "2026-10-30 16:33"
+    },
+    {
+      "id": "1d4k8js",
+      "title": "UPDATE:Coffee Growers Adjust Purchase Price of Lower-Grade Beans in Colombia Following the El Niño Phenomenon",
+      "title_vi": "CẬP NHẬT:Người trồng cà phê điều chỉnh giá thu mua các loại đậu cấp thấp hơn ở Colombia sau hiện tượng El Niño",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-us/insights/coffee-growers-adjust-purchase-price-of-lower-grade-beans-in-colombia-following-the-el-nino-phenomenon/",
+      "source": "StoneX",
+      "category": "soft",
+      "published": "2026-10-30 16:33"
+    },
+    {
+      "id": "1kbvvxe",
+      "title": "Russian oil refinery struck as Ukraine renews drone attacks",
+      "title_vi": "Nhà máy lọc dầu của Nga bị tấn công khi Ukraine nối lại các cuộc tấn công bằng máy bay không người lái",
+      "summary_vi": "Chính quyền Nga cho biết họ đã chặn hơn 1.000 máy bay không người lái của Ukraine trên nhiều khu vực chỉ trong một đêm.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793351650.jpg?resize=1200%2C675",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-10-30 16:19"
     },
     {
       "id": "oll1gx",
@@ -33,6 +66,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-10-30 15:16"
+    },
+    {
+      "id": "p55vkw",
+      "title": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump",
+      "title_vi": "Ukraine tấn công nhà máy lọc dầu của Nga, chấm dứt tạm dừng và thách thức Trump",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-10-30 15:14"
     },
     {
       "id": "1ge2upz",
@@ -506,50 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-29 02:12"
-    },
-    {
-      "id": "n207ij",
-      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
-      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
-      "source": "EnergyNow.com",
-      "category": "macro",
-      "published": "2026-10-29 02:06"
-    },
-    {
-      "id": "rchhor",
-      "title": "Palladium price enters oversold zone in high-impact week",
-      "title_vi": "Giá palladium rơi vào vùng quá bán trong tuần có tác động cao",
-      "summary_vi": "Giá palladium đã giảm bớt xu hướng giảm khi thị trường tài chính bước vào một tuần có tác động lớn. Các nhà đầu tư đang chờ đợi những tín hiệu mới từ cuộc họp tháng 10 của Fed, chỉ số PCE của Hoa Kỳ và thu nhập quý 3 từ các công ty công nghệ lớn. Trong khi đó, HSBC đã hạ dự báo năm 2026 về giá bạch kim và palladium. Trong một ghi chú…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://es.tradingview.com/news/invezz:9c74a9da4094b:0-palladium-price-enters-oversold-zone-in-high-impact-week/",
-      "source": "TradingView",
-      "category": "metal",
-      "published": "2026-10-29 01:52"
-    },
-    {
-      "id": "mwytxc",
-      "title": "Palladium Price October 29 2026",
-      "title_vi": "Giá Palladium ngày 29 tháng 10 năm 2026",
-      "summary_vi": "Hợp đồng tương lai palladium ngày 26 tháng 12 sẽ kết thúc vào ngày 29 tháng 10 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
-      "image": "https://robinhood.com/api/public/og/event?id=cc9700c7-dcfd-4768-a160-0f533620a764",
-      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/palladium-price-october-29-2026-oct-29-2026/",
-      "source": "Robinhood",
-      "category": "metal",
-      "published": "2026-10-29 01:36"
-    },
-    {
-      "id": "sniwpp",
-      "title": "Equinor Raises Oil and Gas Output Forecast as Operating Profit Doubles",
-      "title_vi": "Equinor nâng dự báo sản lượng dầu khí khi lợi nhuận hoạt động tăng gấp đôi",
-      "summary_vi": "Equinor đã nâng dự báo tăng trưởng sản xuất dầu và khí đốt năm 2026 lên khoảng 4% sau khi giá hàng hóa cao hơn và thu nhập kỷ lục tại nhà máy lọc dầu Mongstad của họ đã giúp lợi nhuận hoạt động trong quý 3 tăng hơn gấp đôi.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-28_7nogbc1pob.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Raises-Oil-and-Gas-Output-Forecast-as-Operating-Profit-Doubles.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-10-28 23:30"
     }
   ]
 }

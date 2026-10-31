@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 12:55",
+  "updated_at": "2026-10-31 13:01",
   "items": [
     {
       "id": "1cbxlex",
@@ -176,6 +176,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-30 23:51"
+    },
+    {
+      "id": "1l9gyg",
+      "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
+      "title_vi": "Halloween trở nên đắt hơn khi giá sô cô la tăng cao – Hershey có thể cảm thấy khó khăn",
+      "summary_vi": "Giá ca cao và đường cao hơn đang thúc đẩy lạm phát chi phí trên mức trung bình đối với kẹo",
+      "image": "https://image.cnbcfm.com/api/v1/image/108470614-1793387256202-108470614-1793133906190-gettyimages-2302281733-dsc03765_18vbojw2.jpg?v=1793387272&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
+      "source": "CNBC",
+      "category": "macro",
+      "published": "2026-10-30 23:31"
     },
     {
       "id": "bukox2",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "macro",
       "published": "2026-10-30 04:54"
-    },
-    {
-      "id": "4d3d2h",
-      "title": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
-      "title_vi": "Các tuyến đường thay thế cho dầu khí Trung Đông do sự gián đoạn của Hormuz",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/alternative-routes-for-middle-east-oil-and-gas-due-to-hormuz-disruption/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-30 04:51"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 08:01",
+  "updated_at": "2026-10-31 09:01",
   "items": [
     {
       "id": "7octi3",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-31 05:00"
+    },
+    {
+      "id": "m5kucu",
+      "title": "Crops Analysis | Wheat inches lower despite renewed Black Sea strikes",
+      "title_vi": "Phân tích cây trồng | Lúa mì giảm vài inch bất chấp các cuộc đình công mới ở Biển Đen",
+      "summary_vi": "Ngày 30 tháng 10 năm 2026",
+      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
+      "link": "https://www.profarmer.com/pro-farmer-max/crops-analysis/crops-analysis-wheat-inches-lower-despite-renewed-black-sea-strikes",
+      "source": "Pro Farmer",
+      "category": "agri",
+      "published": "2026-10-31 04:09"
     },
     {
       "id": "9xc80c",
@@ -453,6 +464,17 @@
       "published": "2026-10-30 06:57"
     },
     {
+      "id": "1oqco7b",
+      "title": "Mondelez Beats On Cocoa-Driven Margin Recovery And Broadening Volume, But A Held Outlook Leaves A Heavy Q4 Burden",
+      "title_vi": "Mondelez đánh bại khả năng phục hồi lợi nhuận nhờ ca cao và mở rộng khối lượng, nhưng triển vọng được giữ vững để lại gánh nặng Q4 nặng nề",
+      "summary_vi": "Sàng lọc cổ phiếu dành cho nhà đầu tư và nhà giao dịch, trực quan hóa tài chính.",
+      "image": "",
+      "link": "https://finviz.com/news/412327/mondelez-beats-on-cocoa-driven-margin-recovery-and-broadening-volume-but-a-held-outlook-leaves-a-heavy-q4-burden",
+      "source": "Finviz",
+      "category": "soft",
+      "published": "2026-10-30 06:33"
+    },
+    {
       "id": "189upz0",
       "title": "Low levels on the Mississippi River impact grain profits",
       "title_vi": "Mức thấp trên sông Mississippi ảnh hưởng đến lợi nhuận ngũ cốc",
@@ -528,28 +550,6 @@
       "source": "Oil & Gas 360",
       "category": "energy",
       "published": "2026-10-30 02:39"
-    },
-    {
-      "id": "16b7ccm",
-      "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
-      "title_vi": "Bảy tàu chở dầu chở 288.000 tấn dầu diesel của Nga hướng tới Mỹ",
-      "summary_vi": "Các tàu chở dầu, được Greenpeace theo dõi, là giai đoạn đầu tiên của thỏa thuận Trump-Putin - nhưng không chắc chắn về việc liệu họ có dỡ hàng hay không",
-      "image": "https://i.guim.co.uk/img/media/41a7157fdd6dc04cb818357a54195062d320a2ed/292_0_4500_3600/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f5e7af0e0fb53ac2f9b1a56f05b36ba",
-      "link": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
-      "source": "The Guardian",
-      "category": "energy",
-      "published": "2026-10-30 02:01"
-    },
-    {
-      "id": "12nrtfz",
-      "title": "Falling cocoa prices offer little relief for Halloween candy shoppers",
-      "title_vi": "Giá ca cao giảm mang lại chút nhẹ nhõm cho người mua kẹo Halloween",
-      "summary_vi": "Bởi Tracy Turner, Chuyên gia Truyền thông, Trường Cao đẳng Thực phẩm, Nông nghiệp và Đại học Bang Ohio",
-      "image": "https://ocj.com/wp-content/uploads/2026/10/Falling-cocoa-prices-offer-little-relief-for-Halloween-candy-shoppers-.png",
-      "link": "https://ocj.com/2026/10/falling-cocoa-prices-offer-little-relief-for-halloween-candy-shoppers/",
-      "source": "Ohio's Country Journal",
-      "category": "soft",
-      "published": "2026-10-30 02:00"
     }
   ]
 }

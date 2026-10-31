@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 04:00",
+  "updated_at": "2026-11-01 05:01",
   "items": [
     {
       "id": "1wml6pr",
@@ -332,6 +332,17 @@
       "published": "2026-10-30 22:08"
     },
     {
+      "id": "10u82vf",
+      "title": "Will Falling Platinum Prices Drive Further Weakness in the US Potassium Tetrachloroplatinate Market?",
+      "title_vi": "Giá bạch kim giảm có làm suy yếu thêm thị trường kali Tetrachloroplatinate của Hoa Kỳ không?",
+      "summary_vi": "Thị trường Kali Tetrachloroplatinate của Hoa Kỳ đang trải qua những điều kiện hỗn hợp vào cuối tháng 10, do giá bạch kim giảm làm đối trọng với chi phí liên quan đến sản xuất cao hơn ở Trung Quốc.",
+      "image": "",
+      "link": "https://www.chemanalyst.com/NewsAndDeals/NewsDetails/will-falling-platinum-prices-drive-further-weakness-in-the-us-45266",
+      "source": "ChemAnalyst",
+      "category": "metal",
+      "published": "2026-10-30 22:00"
+    },
+    {
       "id": "1nbp3oq",
       "title": "Editorial: Boo! Candy prices rise along with blood sugar",
       "title_vi": "Biên tập: Boo! Giá kẹo tăng cùng với lượng đường trong máu",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-10-30 12:30"
-    },
-    {
-      "id": "1b92k6j",
-      "title": "Tiny's Coffee Bar is full of surprises, from menu items to the town it's located in",
-      "title_vi": "Tiny's Coffee Bar chứa đầy những điều bất ngờ, từ các món trong thực đơn cho đến thị trấn nơi nó tọa lạc",
-      "summary_vi": "Phân đoạn \"Food Guy\" tuần này thực sự là về sự mong đợi. Kevin Pang tìm hiểu về Tiny's Coffee Bar.",
-      "image": "https://media.nbcchicago.com/2026/10/52298565850-1080pnbcstations.jpg?quality=85&#038;strip=all&#038;resize=1200%2C675",
-      "link": "https://www.nbcchicago.com/video/news/local/tinys-coffee-bar-is-full-of-surprises-from-menu-items-to-the-town-its-located-in/4009580/",
-      "source": "NBC 5 Chicago",
-      "category": "soft",
-      "published": "2026-10-30 10:21"
     }
   ]
 }

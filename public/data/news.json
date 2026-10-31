@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 13:01",
+  "updated_at": "2026-10-31 14:01",
   "items": [
     {
       "id": "1cbxlex",
@@ -88,6 +88,17 @@
       "source": "The Washington Post",
       "category": "energy",
       "published": "2026-10-31 01:33"
+    },
+    {
+      "id": "15jpzdy",
+      "title": "Precious metals surge over growing geopolitical tensions",
+      "title_vi": "Kim loại quý tăng vọt do căng thẳng địa chính trị ngày càng gia tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://ddnews.gov.in/en/precious-metals-surge-over-growing-geopolitical-tensions/",
+      "source": "DD News",
+      "category": "metal",
+      "published": "2026-10-31 01:31"
     },
     {
       "id": "1rypirf",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-30 05:10"
-    },
-    {
-      "id": "n207ij",
-      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
-      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
-      "source": "EnergyNow.com",
-      "category": "macro",
-      "published": "2026-10-30 04:54"
     }
   ]
 }

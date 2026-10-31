@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-31 10:01",
+  "updated_at": "2026-10-31 11:01",
   "items": [
+    {
+      "id": "1cbxlex",
+      "title": "Cocoa Beach Pier Surf Report, Surf Forecast and Surf Cams",
+      "title_vi": "Báo cáo lướt sóng trên bến tàu trên bãi biển Cocoa, dự báo lướt sóng và máy quay lướt sóng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.surfline.com/surf-report/cocoa-beach-pier/5842041f4e65fad6a7708872",
+      "source": "Surfline",
+      "category": "soft",
+      "published": "2026-10-31 09:22"
+    },
     {
       "id": "7octi3",
       "title": "Oil moves higher just before midterms",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-30 04:51"
-    },
-    {
-      "id": "xz206x",
-      "title": "OPEC Sees No Peak Oil Demand as Energy Security Beats Climate",
-      "title_vi": "OPEC nhận thấy nhu cầu dầu không đạt đỉnh do an ninh năng lượng vượt qua khí hậu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/06/opec-sees-no-peak-oil-demand-as-energy-security-beats-climate/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-30 04:50"
     }
   ]
 }

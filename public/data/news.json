@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 09:01",
+  "updated_at": "2026-10-31 10:01",
   "items": [
     {
       "id": "7octi3",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-31 05:00"
+    },
+    {
+      "id": "1wcmp8w",
+      "title": "Gold rebounds on easing geopolitical tensions and stalls: eyes on US CPI as the next key catalyst",
+      "title_vi": "Vàng phục hồi nhờ giảm bớt căng thẳng và đình trệ địa chính trị: chú ý đến CPI của Mỹ là chất xúc tác quan trọng tiếp theo",
+      "summary_vi": "Vàng đã phục hồi vào cuối tuần trước khi Trump loại trừ khả năng tấn công Iran trước cuộc bầu cử tháng 11, giảm bớt rủi ro leo thang và đẩy Kho bạc...",
+      "image": "https://investinglive.com/cms/media/gold-5.png?width=960&format=webp",
+      "link": "https://investinglive.com/commodities/gold-rebounds-on-easing-geopolitical-tensions-and-stalls-eyes-on-us-cpi-as-the-next-key-catalyst/",
+      "source": "investingLive",
+      "category": "metal",
+      "published": "2026-10-31 04:28"
     },
     {
       "id": "m5kucu",
@@ -79,12 +90,12 @@
       "published": "2026-10-31 01:30"
     },
     {
-      "id": "ss8t4n",
-      "title": "Palladium Price November 2 2026",
-      "title_vi": "Giá Palladium ngày 2 tháng 11 năm 2026",
-      "summary_vi": "Hợp đồng tương lai palladium ngày 26 tháng 12 sẽ kết thúc vào ngày 2 tháng 11 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
-      "image": "https://robinhood.com/api/public/og/event?id=74a35faa-1a86-49f6-890f-dc414d56bc66",
-      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/palladium-price-november-2-2026-nov-02-2026/",
+      "id": "jwqnfr",
+      "title": "Palladium Price November 30 2026",
+      "title_vi": "Giá Palladium ngày 30 tháng 11 năm 2026",
+      "summary_vi": "Hợp đồng tương lai palladium ngày 27 tháng 3 sẽ kết thúc vào ngày 30 tháng 11 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
+      "image": "https://robinhood.com/api/public/og/event?id=327ee6b2-e606-4a72-9497-96cf40ff7515",
+      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/palladium-price-november-30-2026-nov-30-2026/",
       "source": "Robinhood",
       "category": "metal",
       "published": "2026-10-31 01:21"
@@ -154,17 +165,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-30 23:51"
-    },
-    {
-      "id": "1hre5vx",
-      "title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank",
-      "title_vi": "Giá vàng giảm xuống mức thấp nhất một năm, giá bạc phá vỡ 50 USD khi cổ phiếu khai thác giảm",
-      "summary_vi": "Vàng thỏi đang hướng tới tháng 10 tồi tệ nhất kể từ năm 2008, kéo các nhà sản xuất vàng và bạc giảm tới 8% vào thứ Sáu.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/10/stock-market-trading-floor-finance-mining-stocks-1024x571.jpeg",
-      "link": "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-10-30 23:30"
     },
     {
       "id": "bukox2",
@@ -453,6 +453,17 @@
       "published": "2026-10-30 07:35"
     },
     {
+      "id": "5nwl99",
+      "title": "Why is Platinum price down 4.1% today?",
+      "title_vi": "Tại sao giá Bạch kim hôm nay giảm 4,1%?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://tradersunion.com/news/commodities/show/4040734-platinum-slides-4-14percent-today-to/",
+      "source": "Traders Union",
+      "category": "metal",
+      "published": "2026-10-30 07:08"
+    },
+    {
       "id": "10wwdo6",
       "title": "Exclusive | Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S.",
       "title_vi": "Độc quyền | Ukraine tạm dừng tấn công các nhà máy lọc dầu của Nga sau áp lực từ Mỹ",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-30 04:50"
-    },
-    {
-      "id": "ezkpqe",
-      "title": "Record gas production reshapes outlook for U.S. producers and pipelines",
-      "title_vi": "Sản lượng khí đốt kỷ lục định hình lại triển vọng cho các nhà sản xuất và đường ống của Hoa Kỳ",
-      "summary_vi": "Tin tức mới nhất về dầu khí, dành riêng cho tất cả mọi thứ về dầu khí: con người, công nghệ, giao dịch, xu hướng và phân tích kinh tế vĩ mô tác động đến giá cả hàng hóa.",
-      "image": "https://www.oilandgas360.com/wp-content/uploads/2026/10/natural-ga-USA.jpg",
-      "link": "https://www.oilandgas360.com/record-gas-production-reshapes-outlook-for-u-s-producers-and-pipelines/",
-      "source": "Oil & Gas 360",
-      "category": "energy",
-      "published": "2026-10-30 02:39"
     }
   ]
 }

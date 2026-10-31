@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-01 01:00",
+  "updated_at": "2026-11-01 02:01",
   "items": [
+    {
+      "id": "fn600p",
+      "title": "Jackdaw Approval Sparks Fierce Debate Over Britain&#039;s Energy Future",
+      "title_vi": "Sự chấp thuận của Jackdaw làm dấy lên cuộc tranh luận gay gắt về tương lai năng lượng của nước Anh",
+      "summary_vi": "Vương quốc Anh đã phê duyệt việc phát triển mỏ khí đốt Jackdaw Biển Bắc vào ngày 21 tháng 10 sau nhiều năm đấu tranh pháp lý và bất ổn chính trị. Jackdaw là mỏ khí đốt tự nhiên ngoài khơi lớn ở Biển Bắc, thuộc sở hữu của Adura, một liên doanh giữa Shell và Equi.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_lov0fit7ue.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Jackdaw-Approval-Sparks-Fierce-Debate-Over-Britains-Energy-Future.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-01 02:00"
+    },
     {
       "id": "ss8t4n",
       "title": "Palladium Price November 2 2026",
@@ -145,6 +156,17 @@
       "published": "2026-10-31 04:09"
     },
     {
+      "id": "lcigh",
+      "title": "Gold falls below $3,900, silver tumbles as Wall Street selloff triggers liquidation - Kitco PM Report",
+      "title_vi": "Vàng giảm xuống dưới 3.900 USD, bạc sụt giảm khi đợt bán tháo ở Phố Wall gây ra tình trạng thanh lý - Báo cáo của Kitco PM",
+      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay giảm mạnh vào cuối phiên giao dịch tại Mỹ hôm thứ Sáu, do đợt bán tháo trên thị trường chứng khoán do công nghệ dẫn đầu đã làm gia tăng áp lực thanh lý đối với các…",
+      "image": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0.19459459459459&left=0&width=1024&height=575.61081081081&scale_width=1920&token=445bdc4fb7ee2e21c02415533cd3f2e0b82ff32871ca3f559822d03d4f95d1db",
+      "link": "https://www.kitco.com/news/article/2026-10-30/gold-falls-below-3900-silver-tumbles-wall-street-selloff-triggers",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-10-31 04:06"
+    },
+    {
       "id": "9xc80c",
       "title": "Gold and silver prices coming dangerously close to capitulation levels – Jesse Colombo",
       "title_vi": "Giá vàng và bạc đang tiến gần đến mức đầu hàng một cách nguy hiểm - Jesse Colombo",
@@ -233,17 +255,6 @@
       "published": "2026-10-31 00:44"
     },
     {
-      "id": "1go9ej5",
-      "title": "Gold, silver outlook: Trading the ranges before the next break",
-      "title_vi": "Triển vọng vàng, bạc: Giao dịch trong phạm vi trước đợt nghỉ tiếp theo",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-gb/news-and-analysis/gold-silver-outlook-trading-the-ranges-before-the-next-break/",
-      "source": "StoneX",
-      "category": "metal",
-      "published": "2026-10-31 00:15"
-    },
-    {
       "id": "1he20ex",
       "title": "U.S. Oil, Gas Drillers Still on Hold",
       "title_vi": "Các máy khoan dầu, khí đốt của Hoa Kỳ vẫn đang tạm dừng",
@@ -253,17 +264,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-31 00:09"
-    },
-    {
-      "id": "1mklyfz",
-      "title": "Oil Traders Brace for a Wild Week as Brent Approaches $120",
-      "title_vi": "Các nhà giao dịch dầu chuẩn bị cho một tuần hoang dã khi Brent đạt gần 120 USD",
-      "summary_vi": "Những lo ngại về sự thù địch mới giữa Mỹ và Iran đang gia tăng, với các cuộc tấn công Hormuz gia tăng, các vụ nổ được báo cáo tại cảng Jask của Iran và việc tái bố trí quân sự làm lu mờ các nỗ lực ngoại giao. Thứ Sáu, ngày 30 tháng 10 năm 2026 Chỉ còn vài ngày nữa là đến cuộc bầu cử giữa nhiệm kỳ của Hoa Kỳ, giá dầu",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_vtzr31lr5q.jpg",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Brace-for-a-Wild-Week-as-Brent-Approaches-120.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-30 23:51"
     },
     {
       "id": "1l9gyg",

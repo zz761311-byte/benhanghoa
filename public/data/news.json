@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 17:01",
+  "updated_at": "2026-10-31 18:01",
   "items": [
     {
       "id": "1cbxlex",
@@ -264,6 +264,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-30 23:00"
+    },
+    {
+      "id": "7tlz5q",
+      "title": "Silver Price Forecast: XAG/USD slumps nearly 60% from January peak as downturn deepens",
+      "title_vi": "Dự báo giá bạc: XAG/USD giảm gần 60% so với mức đỉnh tháng 1 khi suy thoái ngày càng sâu sắc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slumps-nearly-60-from-january-peak-as-as-downturn-deepens-202610301556",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-10-30 22:56"
     },
     {
       "id": "bm9ovr",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-10-30 06:57"
-    },
-    {
-      "id": "1oqco7b",
-      "title": "Mondelez Beats On Cocoa-Driven Margin Recovery And Broadening Volume, But A Held Outlook Leaves A Heavy Q4 Burden",
-      "title_vi": "Mondelez đánh bại khả năng phục hồi lợi nhuận nhờ ca cao và mở rộng khối lượng, nhưng triển vọng được giữ vững để lại gánh nặng Q4 nặng nề",
-      "summary_vi": "Sàng lọc cổ phiếu dành cho nhà đầu tư và nhà giao dịch, trực quan hóa tài chính.",
-      "image": "",
-      "link": "https://finviz.com/news/412327/mondelez-beats-on-cocoa-driven-margin-recovery-and-broadening-volume-but-a-held-outlook-leaves-a-heavy-q4-burden",
-      "source": "Finviz",
-      "category": "soft",
-      "published": "2026-10-30 06:33"
     }
   ]
 }

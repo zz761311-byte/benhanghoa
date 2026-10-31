@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 22:01",
+  "updated_at": "2026-10-31 23:00",
   "items": [
     {
       "id": "1uooxz8",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-31 22:00"
+    },
+    {
+      "id": "cjjd0t",
+      "title": "Oil company earnings skyrocket — again",
+      "title_vi": "Thu nhập của công ty dầu mỏ tăng vọt - một lần nữa",
+      "summary_vi": "Các công ty dầu mỏ đang báo cáo thêm một phần tư lợi nhuận cao ngất trời khi cuộc chiến ở Iran đẩy giá dầu lên cao - và giá cả tại trạm bơm.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4228x2378+0+220/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F6a%2Fd1b7e36748dc8b2b8e11b5fcdc22%2Fap26133474349802.jpg",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices",
+      "source": "NPR",
+      "category": "energy",
+      "published": "2026-10-31 16:00"
     },
     {
       "id": "1cbxlex",
@@ -539,17 +550,6 @@
       "source": "Traders Union",
       "category": "metal",
       "published": "2026-10-30 07:08"
-    },
-    {
-      "id": "10wwdo6",
-      "title": "Exclusive | Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S.",
-      "title_vi": "Độc quyền | Ukraine tạm dừng tấn công các nhà máy lọc dầu của Nga sau áp lực từ Mỹ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/world/ukraine-pauses-strikes-on-russian-refineries-after-pressure-from-u-s-a9e512f8",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-10-30 06:57"
     }
   ]
 }

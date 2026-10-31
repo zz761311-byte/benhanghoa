@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-10-31 23:00",
+  "updated_at": "2026-11-01 00:00",
   "items": [
+    {
+      "id": "51541k",
+      "title": "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
+      "title_vi": "DARPA ủng hộ dự án đo lường việc sử dụng năng lượng AI ở mọi giai đoạn của quy trình làm việc",
+      "summary_vi": "Sự bùng nổ trí tuệ nhân tạo đang tạo ra một con quái vật năng lượng. Sự tích hợp bừa bãi của máy học vào mọi thứ, từ lưới năng lượng đến bàn chải đánh răng điện – không, thực sự đấy – đã tạo ra một cuộc chạy đua toàn cầu nhằm xây dựng năng lực trung tâm dữ liệu nhanh như con người.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_uyw3wnnmtd.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/DARPA-Backs-Project-to-Measure-AI-Energy-Use-at-Every-Stage-of-the-Workflow.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-01 00:00"
+    },
     {
       "id": "1uooxz8",
       "title": "Senegal’s Ambitious Plan to Slash Electricity Costs and Boost Energy Security",
@@ -275,17 +286,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-10-30 23:01"
-    },
-    {
-      "id": "b63xdg",
-      "title": "America’s LNG Boom Faces Its Biggest Test Yet",
-      "title_vi": "Sự bùng nổ LNG của Mỹ phải đối mặt với thử nghiệm lớn nhất từ ​​trước đến nay",
-      "summary_vi": "Một thập kỷ trước, Hoa Kỳ mới chỉ bắt đầu thoát khỏi viễn cảnh năng lượng vốn từng cho rằng sự phụ thuộc ngày càng tăng vào khí đốt tự nhiên nhập khẩu. Trong nhiều năm, mối lo ngại phổ biến là sản xuất trong nước sẽ gặp khó khăn trong việc theo kịp nhu cầu, khiến đất nước rơi vào tình trạng khó khăn.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_nzkqimyb2b.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Americas-LNG-Boom-Faces-Its-Biggest-Test-Yet.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-10-30 23:00"
     },
     {
       "id": "7tlz5q",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 07:01",
+  "updated_at": "2026-10-31 07:10",
   "items": [
     {
       "id": "7octi3",
@@ -99,6 +99,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-10-31 01:00"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!HY-o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F098967c0-94d9-494e-b37b-1d8508627240_1500x1000.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-10-31 00:44"
     },
     {
       "id": "1go9ej5",
@@ -264,6 +275,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-10-30 19:40"
+    },
+    {
+      "id": "p2t4ey",
+      "title": "Metro Atlanta trick-or-treat forecast brings mild weather and few showers",
+      "title_vi": "Dự báo về trò lừa hoặc chiêu đãi của Metro Atlanta mang lại thời tiết ôn hòa và ít mưa rào",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.cbsnews.com/atlanta/video/metro-atlanta-trick-or-treat-forecast-brings-mild-weather-and-few-showers/",
+      "source": "CBS News",
+      "category": "soft",
+      "published": "2026-10-30 19:05"
     },
     {
       "id": "2q4jk5",
@@ -528,28 +550,6 @@
       "source": "POWDER Magazine",
       "category": "soft",
       "published": "2026-10-30 01:23"
-    },
-    {
-      "id": "861z0e",
-      "title": "Responsible Copper Sourcing and the Supply Gap",
-      "title_vi": "Tìm nguồn cung ứng đồng có trách nhiệm và khoảng cách cung ứng",
-      "summary_vi": "Nguồn cung đồng sẽ giảm so với nhu cầu. Tìm hiểu cách các tiêu chuẩn đã được xác minh, hoạt động tái chế và quan hệ đối tác đảm bảo nguồn cung ứng có trách nhiệm.",
-      "image": "",
-      "link": "https://www.nexans.com/perspective/responsible-copper-sourcing-and-the-supply-gap/",
-      "source": "Nexans",
-      "category": "metal",
-      "published": "2026-10-29 22:55"
-    },
-    {
-      "id": "vzorri",
-      "title": "Copper ‘Sold Out Everywhere’ as Key China Gauge Flashes Warning",
-      "title_vi": "Đồng 'Hết hàng ở mọi nơi' khi cảnh báo về máy đo chính của Trung Quốc nhấp nháy",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-29/copper-sold-out-everywhere-as-key-china-gauge-flashes-warning",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-10-29 22:35"
     }
   ]
 }

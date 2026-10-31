@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 07:10",
+  "updated_at": "2026-10-31 08:01",
   "items": [
     {
       "id": "7octi3",
@@ -288,6 +288,17 @@
       "published": "2026-10-30 19:05"
     },
     {
+      "id": "909lkx",
+      "title": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
+      "title_vi": "Các cuộc tấn công của Nga khiến thành phố Ukraine rơi vào tình trạng mất điện khi Zelenskyy cảnh báo về nhiều cuộc tấn công tên lửa",
+      "summary_vi": "Các cuộc tấn công của Nga đã gây ra tình trạng mất điện lớn ở Dnipro khi một cuộc tấn công bằng máy bay không người lái của Ukraine được báo cáo đã gây ra hỏa hoạn tại một nhà máy lọc dầu của Nga.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108485495-1793355796811-gettyimages-2299620675-BRITAIN-UKRAINE-CONFLICT-DIPLOMACY.jpeg?v=1793355806&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-10-30 18:29"
+    },
+    {
       "id": "2q4jk5",
       "title": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War",
       "title_vi": "Ngành dầu mỏ Hoa Kỳ kiếm được hơn 130 tỷ USD lợi nhuận trong chiến tranh Iran",
@@ -539,17 +550,6 @@
       "source": "Ohio's Country Journal",
       "category": "soft",
       "published": "2026-10-30 02:00"
-    },
-    {
-      "id": "1uj0trf",
-      "title": "California’s Sugar Bowl Resort To Open Snow Tubing on Halloween Weekend, Tickets are Half-Price",
-      "title_vi": "Khu nghỉ dưỡng Sugar Bowl ở California sẽ mở ống tuyết vào cuối tuần Halloween, giá vé chỉ bằng một nửa",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.powder.com/news/sugar-bowl-snow-tubing-halloween",
-      "source": "POWDER Magazine",
-      "category": "soft",
-      "published": "2026-10-30 01:23"
     }
   ]
 }

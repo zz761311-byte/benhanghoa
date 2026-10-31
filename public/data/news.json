@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 15:01",
+  "updated_at": "2026-10-31 16:01",
   "items": [
     {
       "id": "1cbxlex",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-31 06:00"
+    },
+    {
+      "id": "3gjfse",
+      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
+      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo giá dầu thô",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-10-31 05:20"
     },
     {
       "id": "g5408c",
@@ -539,17 +550,6 @@
       "source": "Talk Business & Politics",
       "category": "agri",
       "published": "2026-10-30 06:10"
-    },
-    {
-      "id": "td1dko",
-      "title": "Chicago Grain Futures Close Mixed as Wheat Rallies and Soybeans Extend Losses",
-      "title_vi": "Hợp đồng tương lai ngũ cốc Chicago kết thúc hỗn hợp khi lúa mì và đậu nành tăng giá kéo dài mức lỗ",
-      "summary_vi": "Giá lúa mì kỳ hạn tại Chicago phục hồi vào thứ Năm, trong khi giá đậu tương giảm và ngô giảm nhẹ, làm nổi bật các xu hướng khác nhau trên thị trường ngũ cốc Mỹ.",
-      "image": "https://www.agrolatam.com/files/image/83/83581/6ae3b178364c7_600_315!.jpg?s=9e82ca7f6d84a79c56452df31f58b3db&d=1793314165",
-      "link": "https://www.agrolatam.com/usa/news/chicago-grain-futures-close-mixed-as-wheat-rallies-and-soybeans-extend-losses/",
-      "source": "AgroLatam",
-      "category": "agri",
-      "published": "2026-10-30 05:48"
     }
   ]
 }

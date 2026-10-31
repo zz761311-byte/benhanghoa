@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 14:01",
+  "updated_at": "2026-10-31 15:01",
   "items": [
     {
       "id": "1cbxlex",
@@ -99,6 +99,17 @@
       "source": "DD News",
       "category": "metal",
       "published": "2026-10-31 01:31"
+    },
+    {
+      "id": "n207ij",
+      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
+      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
+      "source": "EnergyNow.com",
+      "category": "macro",
+      "published": "2026-10-31 01:30"
     },
     {
       "id": "1rypirf",
@@ -539,17 +550,6 @@
       "source": "AgroLatam",
       "category": "agri",
       "published": "2026-10-30 05:48"
-    },
-    {
-      "id": "3gjfse",
-      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
-      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo giá dầu thô",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-30 05:10"
     }
   ]
 }

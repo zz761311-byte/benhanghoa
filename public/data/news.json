@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 00:00",
+  "updated_at": "2026-11-01 00:22",
   "items": [
     {
       "id": "51541k",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-31 22:00"
+    },
+    {
+      "id": "1mcrk2v",
+      "title": "Nate Silver raises Democrats’ chances in 2026 midterm Senate and House races",
+      "title_vi": "Nate Silver nâng cao cơ hội của đảng Dân chủ trong cuộc đua vào Thượng viện và Hạ viện giữa kỳ năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nacionale.com/en/articles/nate-silver-raises-democrats-chances-in-2026-midterm-senate-and-house-races-736713",
+      "source": "Nacionale",
+      "category": "metal",
+      "published": "2026-10-31 20:51"
     },
     {
       "id": "cjjd0t",
@@ -539,17 +550,6 @@
       "source": "American Gas Association",
       "category": "energy",
       "published": "2026-10-30 07:35"
-    },
-    {
-      "id": "5nwl99",
-      "title": "Why is Platinum price down 4.1% today?",
-      "title_vi": "Tại sao giá Bạch kim hôm nay giảm 4,1%?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://tradersunion.com/news/commodities/show/4040734-platinum-slides-4-14percent-today-to/",
-      "source": "Traders Union",
-      "category": "metal",
-      "published": "2026-10-30 07:08"
     }
   ]
 }

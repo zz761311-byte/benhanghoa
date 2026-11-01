@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-01 10:01",
+  "updated_at": "2026-11-01 11:01",
   "items": [
+    {
+      "id": "10uw3t8",
+      "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+      "title_vi": "Theo dõi giá xăng của Hoa Kỳ, tiểu bang và quận bằng bản đồ và biểu đồ. Cập nhật hàng ngày.",
+      "summary_vi": "Giá gas trên cả nước sau khi đạt đỉnh vào tháng 5 và giảm vào tháng 6, đã tăng vọt vào tháng 9.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/20260430-gas-price-tracker-cover-2x1-jw-a9a332.jpg",
+      "link": "https://www.nbcnews.com/data-graphics/gas-prices-iran-war-state-national-cost-trump-rcna265835",
+      "source": "NBC News",
+      "category": "energy",
+      "published": "2026-11-01 08:07"
+    },
     {
       "id": "xn0pmy",
       "title": "Chevron Raises Exploration Spending By 50%",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-10-30 15:14"
-    },
-    {
-      "id": "10y849m",
-      "title": "Crop Insurance Protection Improves With Harvest Price: $4.75 for Corn, $12.63 for Soybeans",
-      "title_vi": "Bảo hiểm mùa màng được cải thiện nhờ giá thu hoạch: 4,75 USD cho ngô, 12,63 USD cho đậu nành",
-      "summary_vi": "Giá tháng 10 đối với các hợp đồng ngô và đậu tương đều đạt mức trung bình cao hơn giai đoạn phát hiện giá mùa xuân. Bảo vệ giá trong chính sách bảo hiểm cây trồng sẽ sử dụng mức đảm bảo giá thu hoạch là 4,75 USD/giạ đối với ngô và 12,63 USD/giạ đậu nành.",
-      "image": "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredImage?category=CMS&symbolicName=2026v30-crop-insurance-guarantees.png",
-      "link": "https://www.dtnpf.com/agriculture/web/AG/news/business-inputs/article/2026/10/30/crop-insurance-protection-sticks-4",
-      "source": "DTN Progressive Farmer",
-      "category": "agri",
-      "published": "2026-10-30 14:44"
     }
   ]
 }

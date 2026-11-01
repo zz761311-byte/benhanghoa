@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 19:01",
+  "updated_at": "2026-11-01 20:00",
   "items": [
     {
       "id": "w6b6ya",
@@ -154,6 +154,17 @@
       "source": "Surfline",
       "category": "soft",
       "published": "2026-10-31 09:22"
+    },
+    {
+      "id": "1y1p8as",
+      "title": "Gulke: Grain Markets in Free Fall",
+      "title_vi": "Gulke: Thị trường ngũ cốc vào mùa thu tự do",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/gulke-grain-markets-free-fall",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-10-31 08:15"
     },
     {
       "id": "7octi3",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-10-30 18:18"
-    },
-    {
-      "id": "2q4jk5",
-      "title": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War",
-      "title_vi": "Ngành dầu mỏ Hoa Kỳ kiếm được hơn 130 tỷ USD lợi nhuận trong chiến tranh Iran",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-10-30 17:35"
     }
   ]
 }

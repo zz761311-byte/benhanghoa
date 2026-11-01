@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-02 05:01",
+  "updated_at": "2026-11-02 06:01",
   "items": [
+    {
+      "id": "v2fc68",
+      "title": "Cochilco cuts Chilean copper forecast for 2026, 2027",
+      "title_vi": "Cochilco cắt giảm dự báo đồng Chile năm 2026, 2027",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.miningweekly.com/article/cochilco-cuts-chilean-copper-forecast-for-2026-2027-2026-11-02",
+      "source": "Mining Weekly",
+      "category": "metal",
+      "published": "2026-11-02 05:00"
+    },
+    {
+      "id": "6y3ofa",
+      "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+      "title_vi": "Ukraine thách thức Trump tiếp tục tấn công các nhà máy lọc dầu của Nga",
+      "summary_vi": "Điện Kremlin nói rằng Kyiv 'chỉ đơn giản là phớt lờ' mong muốn của Mỹ vài ngày trước cuộc bầu cử giữa nhiệm kỳ sau khi có báo cáo về các cuộc tấn công vào hai địa điểm khai thác dầu",
+      "image": "https://i.guim.co.uk/img/media/e521bd30aafd13837c587fdc1c0f6c632ad8d0fd/1585_152_2231_1784/master/2231.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09673a80783ed613f95ef861202aeab8",
+      "link": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+      "source": "The Guardian",
+      "category": "energy",
+      "published": "2026-11-02 04:46"
+    },
     {
       "id": "8cbj0q",
       "title": "Silver Price Forecast: Tech Sell-Off Raises Risk of a Drop to $45",
@@ -11,6 +33,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-11-02 04:35"
+    },
+    {
+      "id": "sktovm",
+      "title": "Organic Decaf Coffee Market To 2035: Health-Driven Demand Supports Growth - News and Statistics",
+      "title_vi": "Thị trường cà phê Decaf hữu cơ đến năm 2035: Nhu cầu hướng tới sức khỏe hỗ trợ tăng trưởng - Tin tức và Thống kê",
+      "summary_vi": "Thị trường cà phê hữu cơ decaf được thiết lập để tăng trưởng ổn định đến năm 2035, được hỗ trợ bởi ý thức về sức khỏe ngày càng tăng và sự cao cấp hóa ở các thị trường trưởng thành và mới nổi.",
+      "image": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-kw-organic-decaf-coffee-840-market-analysis-forecast-size-trends-and-insights-1793564487.webp",
+      "link": "https://www.indexbox.io/blog/organic-decaf-coffee-market-forecast-to-2035-driven-by-health-conscious-demand-and-premiumization/",
+      "source": "IndexBox",
+      "category": "soft",
+      "published": "2026-11-02 03:21"
     },
     {
       "id": "13omjhz",
@@ -420,28 +453,6 @@
       "published": "2026-10-31 00:44"
     },
     {
-      "id": "151b77d",
-      "title": "Chile's Cochilco raises copper price forecasts for 2026, 2027",
-      "title_vi": "Cochilco của Chile nâng dự báo giá đồng năm 2026, 2027",
-      "summary_vi": "Cochilco của Chile hôm thứ Sáu đã nâng dự báo giá đồng trung bình lên 6,18 USD/ pound vào năm 2026 và 5,95 USD/ pound vào năm 2027, với lý do nguồn cung cấp mỏ hạn chế và thị trường đồng tinh luyện không còn nhiều dư địa để giải quyết sự gián đoạn sản xuất. Cochilco cũng dự báo sản lượng đồng của Chile sẽ giảm 8…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_S0N45Q01R:0-chile-s-cochilco-raises-copper-price-forecasts-for-2026-2027/",
-      "source": "TradingView",
-      "category": "metal",
-      "published": "2026-10-31 00:42"
-    },
-    {
-      "id": "p55vkw",
-      "title": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump",
-      "title_vi": "Ukraine tấn công nhà máy lọc dầu của Nga, chấm dứt tạm dừng và thách thức Trump",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-10-30 23:41"
-    },
-    {
       "id": "1l9gyg",
       "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
       "title_vi": "Halloween trở nên đắt hơn khi giá sô cô la tăng cao – Hershey có thể cảm thấy khó khăn",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-10-30 20:48"
-    },
-    {
-      "id": "sfftbn",
-      "title": "Enterprise Lifts Permian Natural Gas Forecast Through 2030",
-      "title_vi": "Doanh nghiệp nâng cao dự báo khí đốt tự nhiên Permian đến năm 2030",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.naturalgasintel.com/news/5912/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-10-30 20:40"
     }
   ]
 }

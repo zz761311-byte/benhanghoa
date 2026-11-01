@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 21:01",
+  "updated_at": "2026-11-01 22:00",
   "items": [
     {
       "id": "w6b6ya",
@@ -11,6 +11,17 @@
       "source": "Startup Fortune",
       "category": "metal",
       "published": "2026-11-01 12:12"
+    },
+    {
+      "id": "woql3f",
+      "title": "Ghana's cocoa price slash sparks outrage",
+      "title_vi": "Việc Ghana giảm giá ca cao gây phẫn nộ",
+      "summary_vi": "Ngành ca cao của Ghana đang đối mặt với biến động lớn sau khi chính phủ giảm 28% giá sản xuất. Đây là một đòn nặng nề đối với nhiều người trong số 800.000 nông dân trồng ca cao trên cả nước. Nhưng các quan chức cho biết họ buộc phải đưa ra quyết định này sau khi giá ca cao toàn cầu sụt giảm. Eddy Micah Jr. nói chuyện với Nana Aduna II về",
+      "image": "https://static.dw.com/image/74973921_6.jpg",
+      "link": "https://www.dw.com/en/ghanas-cocoa-price-slash-sparks-outrage/audio-76122172",
+      "source": "DW.com",
+      "category": "soft",
+      "published": "2026-11-01 11:02"
     },
     {
       "id": "10uw3t8",
@@ -539,17 +550,6 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-10-30 18:29"
-    },
-    {
-      "id": "11x7ga",
-      "title": "UK energy poised for more deals amid high taxes and oil prices",
-      "title_vi": "Năng lượng của Anh sẵn sàng cho nhiều giao dịch hơn trong bối cảnh thuế và giá dầu cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/taxes-high-oil-prices-are-set-spur-more-uk-energy-deals-2026-10-30/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-10-30 18:18"
     }
   ]
 }

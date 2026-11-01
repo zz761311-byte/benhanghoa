@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 11:01",
+  "updated_at": "2026-11-01 12:01",
   "items": [
     {
       "id": "10uw3t8",
@@ -264,6 +264,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-10-31 01:30"
+    },
+    {
+      "id": "1qtlkza",
+      "title": "Why Oil Prices Could Keep Rising and What Could Bring Them Down",
+      "title_vi": "Tại sao giá dầu có thể tiếp tục tăng và điều gì có thể khiến chúng giảm giá",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forbes.com/sites/mikepatton/2026/10/30/why-oil-prices-will-continue-rising--and-what-can-be-done-about-it/",
+      "source": "Forbes",
+      "category": "energy",
+      "published": "2026-10-31 01:01"
     },
     {
       "id": "pwf3lg",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-10-30 15:16"
-    },
-    {
-      "id": "p55vkw",
-      "title": "Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump",
-      "title_vi": "Ukraine tấn công nhà máy lọc dầu của Nga, chấm dứt tạm dừng và thách thức Trump",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-10-30 15:14"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 11:01",
+  "updated_at": "2026-11-02 12:00",
   "items": [
     {
       "id": "1g3wri5",
@@ -110,6 +110,17 @@
       "source": "UNITED24 Media",
       "category": "energy",
       "published": "2026-11-01 22:58"
+    },
+    {
+      "id": "1eyi297",
+      "title": "Election forecaster drops doomsday midterm warnings for Trump",
+      "title_vi": "Người dự báo bầu cử đưa ra cảnh báo về ngày tận thế giữa kỳ cho Trump",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nj.com/politics/2026/11/election-forecaster-drops-doomsday-midterm-predictions-against-trump.html",
+      "source": "NJ.com",
+      "category": "macro",
+      "published": "2026-11-01 19:30"
     },
     {
       "id": "t4w721",
@@ -539,17 +550,6 @@
       "source": "Orlando Sentinel",
       "category": "soft",
       "published": "2026-10-30 21:19"
-    },
-    {
-      "id": "1vptuh9",
-      "title": "Silver Has Lost More Than Half Its Value Since January",
-      "title_vi": "Bạc đã mất hơn một nửa giá trị kể từ tháng 1",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/silver-lost-more-half-value-134813458.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-10-30 20:48"
     }
   ]
 }

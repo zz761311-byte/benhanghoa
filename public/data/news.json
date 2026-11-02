@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-03 01:01",
+  "updated_at": "2026-11-03 02:00",
   "items": [
+    {
+      "id": "1jy42ur",
+      "title": "The 50-Year-Old Microplastics Warning That Has Come Back to Haunt the Industry",
+      "title_vi": "Cảnh báo vi mô 50 năm tuổi đã quay trở lại ám ảnh ngành công nghiệp",
+      "summary_vi": "Vào tháng 6 năm 1973, trong phiên điều trần về vụ bê bối Watergate nổ ra xung quanh Tổng thống Richard Nixon, Thượng nghị sĩ Howard Baker, một đảng viên Đảng Cộng hòa đến từ Tennessee, đã thốt ra câu nói nổi tiếng nhất trong toàn bộ sự nghiệp của mình: \"Tổng thống đã biết gì và ông ấy biết điều đó khi nào?\" Thì ra Nixon đã đầu gối",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-01_4nnba85mrd.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/The-50-Year-Old-Microplastics-Warning-That-Has-Come-Back-to-Haunt-the-Industry.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-03 02:00"
+    },
+    {
+      "id": "1gur1p",
+      "title": "A corn market surprise puts USDA data accuracy in focus",
+      "title_vi": "Sự bất ngờ của thị trường ngô đặt trọng tâm vào độ chính xác của dữ liệu USDA",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wisfarmer.com/story/news/2026/11/02/usda-crop-estimate-mistake-sent-shockwaves-through-corn-trade/92522264007/",
+      "source": "Wisconsin Farmer",
+      "category": "agri",
+      "published": "2026-11-03 01:00"
+    },
     {
       "id": "1t1heco",
       "title": "Rare Iranian Strike On Vessel Hundreds Of Miles From Strait Of Hormuz",
@@ -22,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-03 00:30"
+    },
+    {
+      "id": "1xbj2zf",
+      "title": "Gas prices likely to drop below $4 a gallon in the next week if oil prices keep declining, analyst says",
+      "title_vi": "Nhà phân tích cho biết giá xăng có thể giảm xuống dưới 4 USD/gallon trong tuần tới nếu giá dầu tiếp tục giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/article/gasoline-could-fall-below-4-in-the-next-week-as-oil-prices-drop-says-analyst-171201913.html",
+      "source": "Yahoo Finance",
+      "category": "energy",
+      "published": "2026-11-03 00:12"
     },
     {
       "id": "mb4a4y",
@@ -145,17 +178,6 @@
       "published": "2026-11-02 22:05"
     },
     {
-      "id": "5qrgh",
-      "title": "Brazil&#039;s Data Center Boom Faces a 14-GW Reality Check",
-      "title_vi": "Sự bùng nổ trung tâm dữ liệu của Brazil phải đối mặt với kiểm tra thực tế 14 GW",
-      "summary_vi": "Khi cuộc bầu cử đã ổn định, nhiệm kỳ tổng thống tiếp tục kéo dài thêm 4 năm nữa và Quốc hội mới được bầu sẽ nhậm chức vào tháng 2, chính sách trung tâm dữ liệu của Brazil hiện xoay quanh việc thực thi, đòi hỏi sự phối hợp chặt chẽ giữa quốc hội và cơ quan hành pháp. Chính sách công nghệ sạch nhất",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-01_hhy7xznjdv.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Brazils-Data-Center-Boom-Faces-a-14-GW-Reality-Check.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-11-02 22:00"
-    },
-    {
       "id": "1ntafn3",
       "title": "Keurig Must Face Antitrust Claims Over Coffee Pods, Judge Rules",
       "title_vi": "Keurig phải đối mặt với các khiếu nại chống độc quyền đối với vỏ cà phê, quy định của thẩm phán",
@@ -176,6 +198,17 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-11-02 20:55"
+    },
+    {
+      "id": "3gjfse",
+      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
+      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-02 19:59"
     },
     {
       "id": "16imnlv",
@@ -517,39 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-10-31 13:00"
-    },
-    {
-      "id": "1v2bt33",
-      "title": "India extends duty-free cotton imports by two months to ease domestic prices",
-      "title_vi": "Ấn Độ gia hạn nhập khẩu bông miễn thuế thêm hai tháng để giảm giá trong nước",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/india-extends-duty-free-cotton-imports-by-two-months-ease-domestic-prices-2026-10-31/",
-      "source": "Reuters",
-      "category": "soft",
-      "published": "2026-10-31 11:02"
-    },
-    {
-      "id": "1x0kwap",
-      "title": "From Stanford to Central Asia: Oxus Metals AI Raises US$36 Million to Transform Mineral Discovery Beyond Geopolitical Fault Lines",
-      "title_vi": "Từ Stanford đến Trung Á: Oxus Metals AI huy động được 36 triệu đô la Mỹ để chuyển đổi việc khám phá khoáng sản vượt ra ngoài các đường đứt gãy địa chính trị",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://us.acrofan.com/detail.php?number",
-      "source": "ACROFAN USA",
-      "category": "metal",
-      "published": "2026-10-31 10:07"
-    },
-    {
-      "id": "1cbxlex",
-      "title": "Cocoa Beach Pier Surf Report, Surf Forecast and Surf Cams",
-      "title_vi": "Báo cáo lướt sóng trên bến tàu trên bãi biển Cocoa, dự báo lướt sóng và máy quay lướt sóng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.surfline.com/surf-report/cocoa-beach-pier/5842041f4e65fad6a7708872",
-      "source": "Surfline",
-      "category": "soft",
-      "published": "2026-10-31 09:22"
     }
   ]
 }

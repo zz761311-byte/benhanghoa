@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-02 17:01",
+  "updated_at": "2026-11-02 18:01",
   "items": [
+    {
+      "id": "1wepae9",
+      "title": "TotalEnergies to Acquire 30% Stake in Two Major Malaysian Gas Fields",
+      "title_vi": "TotalEnergies mua lại 30% cổ phần tại hai mỏ khí đốt lớn của Malaysia",
+      "summary_vi": "TotalEnergies đã ký thỏa thuận mua 30% quyền lợi vận hành tại hai mỏ khí đốt ngoài khơi ở Malaysia để tăng nguồn cung cho nhà máy LNG hiện tại của Malaysia, tập đoàn lớn của Pháp cho biết hôm thứ Hai. Theo thỏa thuận đã ký với PETRONAS Carigali Sdn Bhd (PCSB), một đơn vị của Malaysia",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-02_v71hqrst6i.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-to-Acquire-30-Stake-in-Two-Major-Malaysian-Gas-Fields.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-02 18:00"
+    },
     {
       "id": "1sffjcn",
       "title": "Iraq&#039;s Oil Exports via Turkey Surge to 500,000 Bpd",
@@ -132,17 +143,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-02 01:00"
-    },
-    {
-      "id": "ssruos",
-      "title": "Azerbaijan’s Renewable Energy Boom Is Transforming Its Power Sector",
-      "title_vi": "Sự bùng nổ năng lượng tái tạo của Azerbaijan đang chuyển đổi ngành điện",
-      "summary_vi": "Azerbaijan, từ lâu được biết đến là cường quốc dầu khí, đã mạo hiểm đầu tư vào năng lượng tái tạo trong những năm gần đây và đang nhanh chóng tăng cường công suất. Với tư cách là chủ nhà của COP29, chính phủ Azerbaijan đã công bố mục tiêu đầy tham vọng về khí hậu và khuyến khích các chính phủ khác làm điều tương tự. Gia hạn",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_xmzhz42api.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Azerbaijans-Renewable-Energy-Boom-Is-Transforming-Its-Power-Sector.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-01 23:00"
     },
     {
       "id": "m0pira",
@@ -297,6 +297,17 @@
       "source": "NPR",
       "category": "energy",
       "published": "2026-10-31 16:00"
+    },
+    {
+      "id": "1va3qtm",
+      "title": "16th St. South Surf Report, Surf Forecast and Surf Cam",
+      "title_vi": "Báo cáo Lướt sóng Nam lần thứ 16, Dự báo Lướt sóng và Cam Lướt sóng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.surfline.com/surf-report/16th-st-south/5842041f4e65fad6a7708ac7",
+      "source": "Surfline",
+      "category": "soft",
+      "published": "2026-10-31 14:00"
     },
     {
       "id": "1v2bt33",
@@ -539,17 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-10-30 22:56"
-    },
-    {
-      "id": "bm9ovr",
-      "title": "Why the Price of Gas Is the Most Important Number in US Politics",
-      "title_vi": "Tại sao giá xăng là con số quan trọng nhất trong chính trị Hoa Kỳ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/05/why-the-price-of-gas-is-the-most-important-number-in-us-politics/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-10-30 22:33"
     }
   ]
 }

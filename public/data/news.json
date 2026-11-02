@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-02 20:01",
+  "updated_at": "2026-11-02 21:01",
   "items": [
+    {
+      "id": "14dyqzn",
+      "title": "ADNOC Chief Says World Has “Eroded Its Supply Buffers”",
+      "title_vi": "Giám đốc ADNOC cho biết thế giới đã “làm xói mòn nguồn cung cấp đệm”",
+      "summary_vi": "Giám đốc điều hành của ADNOC, ông Sultan Al Jaber, cho biết hôm thứ Hai rằng thế giới cần năng lực lưu trữ và lọc dầu chiến lược gần hơn với người tiêu dùng sau khi 1 tỷ thùng dầu đã cạn kiệt khỏi kho dự trữ toàn cầu sau sự gián đoạn giao thông ở eo biển Hormuz. Hệ thống năng lượng toàn cầu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-02_3gqomnrxlz.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Chief-Says-World-Has-Eroded-Its-Supply-Buffers.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-02 20:30"
+    },
     {
       "id": "8itofe",
       "title": "Blackstone-Led Investors Buy into LNG Canada for $3.1 Billion",
@@ -167,15 +178,15 @@
       "published": "2026-11-02 03:21"
     },
     {
-      "id": "13omjhz",
-      "title": "Massive AI Data Center Sparks Backlash Despite Clean Energy Promises",
-      "title_vi": "Trung tâm dữ liệu AI khổng lồ gây ra phản ứng dữ dội bất chấp những hứa hẹn về năng lượng sạch",
-      "summary_vi": "Khi ngày càng có nhiều chính phủ gây áp lực lên các công ty công nghệ để phát triển các trung tâm dữ liệu bền vững hơn, nhằm đảm bảo họ không tạo thêm gánh nặng cho lưới điện, một số công ty công nghệ đang đầu tư phát triển công suất năng lượng mới và kết hợp các ý tưởng đổi mới khác vào hoạt động của họ.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_yr45feg6j9.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Massive-AI-Data-Center-Sparks-Backlash-Despite-Clean-Energy-Promises.html",
-      "source": "OilPrice",
+      "id": "yje6ie",
+      "title": "Oil-rich Oklahoma isn’t immune to rising gas prices. Will it matter in the midterms?",
+      "title_vi": "Oklahoma giàu dầu mỏ không tránh khỏi giá xăng tăng. Liệu nó có quan trọng trong cuộc bầu cử giữa kỳ?",
+      "summary_vi": "Oklahoma sản xuất rất nhiều dầu, nhưng người lái xe vẫn phải trả giá thị trường tại máy bơm - và những chi phí cao hơn đó có thể ảnh hưởng đến cảm nhận của cử tri tại các cuộc bầu cử.",
+      "image": "https://kubrick.htvapps.com/vidthumb/be6abe46-1094-49e6-9643-441187dcf3ad/75cbf1a6-0d23-4dc0-b5a2-e14d2969d975.jpg?crop=1xw%3A1.0xh%3Bcenter%2Ctop&resize=1200%3A*",
+      "link": "https://www.koco.com/article/oklahoma-city-gas-prices-midterms/74274574",
+      "source": "KOCO",
       "category": "energy",
-      "published": "2026-11-02 03:00"
+      "published": "2026-11-02 03:19"
     },
     {
       "id": "m0pira",
@@ -539,17 +550,6 @@
       "source": "CNBC",
       "category": "macro",
       "published": "2026-10-30 23:31"
-    },
-    {
-      "id": "19jxrwd",
-      "title": "How Should Farmers Respond to Lower Corn and Soybean Prices?",
-      "title_vi": "Nông dân nên ứng phó thế nào khi giá ngô và đậu nành giảm?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/how-should-farmers-respond-to-lower-corn-and-soybean-prices-12202556",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-10-30 23:01"
     }
   ]
 }

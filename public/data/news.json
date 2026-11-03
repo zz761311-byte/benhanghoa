@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 19:00",
+  "updated_at": "2026-11-03 19:02",
   "items": [
     {
       "id": "11fpmke",
@@ -165,6 +165,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-03 06:00"
+    },
+    {
+      "id": "u8p9hh",
+      "title": "Soybean Prices Fall Toward $12 Despite Strong Export Demand",
+      "title_vi": "Giá đậu nành giảm xuống còn 12 USD mặc dù nhu cầu xuất khẩu mạnh",
+      "summary_vi": "Giá đậu tương kỳ hạn giảm xuống còn 12 USD/giạ bất chấp các cuộc thanh tra xuất khẩu mạnh mẽ và hoạt động mua hàng mới của Trung Quốc, làm dấy lên lo ngại về lợi nhuận nông nghiệp và giá ngũ cốc.",
+      "image": "https://www.agrolatam.com/files/image/83/83768/6ae905b1a0d1c_600_315!.jpg?s=8c396000ed744382d7be73cae31785d3&d=1793656539",
+      "link": "https://www.agrolatam.com/usa/news/soybean-prices-fall-china-exports-grain-markets-2026/",
+      "source": "AgroLatam",
+      "category": "agri",
+      "published": "2026-11-03 04:51"
     },
     {
       "id": "1b4kd1j",
@@ -539,17 +550,6 @@
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "category": "macro",
       "published": "2026-11-02 12:32"
-    },
-    {
-      "id": "1fzwm8p",
-      "title": "Platinum price approaches the additional target – Forecast today – 2-11-2026",
-      "title_vi": "Giá bạch kim tiến gần mục tiêu bổ sung – Dự báo hôm nay – 11-2-2026",
-      "summary_vi": "Giá bạch kim đã kết thúc làn sóng giảm giá mới nhất của họ sau khi chạm vào $1418,00, đưa chúng đến gần mục tiêu bổ sung đầu tiên ở mức $1400,00. Sau đó, giá tăng trở lại và ổn định gần hàng rào kháng cự ở mức $1440,00, được hỗ trợ bởi sự ổn định ngẫu nhiên trên mức 20.",
-      "image": "https://dylta6p24nxqg.cloudfront.net/images/1793596537.png",
-      "link": "https://www.economies.com/commodities/platinum-analysis/platinum-price-approaches-the-additional-target-%E2%80%93-forecast-today-%E2%80%93-2-11-2026-133158",
-      "source": "Economies.com",
-      "category": "metal",
-      "published": "2026-11-02 12:15"
     }
   ]
 }

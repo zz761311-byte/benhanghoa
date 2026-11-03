@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-03 16:00",
+  "updated_at": "2026-11-03 17:00",
   "items": [
+    {
+      "id": "1uimnvk",
+      "title": "Saudi Aramco Profit Beats Expectations as Oil Prices Soar",
+      "title_vi": "Lợi nhuận của Saudi Aramco vượt kỳ vọng khi giá dầu tăng cao",
+      "summary_vi": "Saudi Aramco đánh bại ước tính của các nhà phân tích về lợi nhuận quý 3 do giá dầu thô và nhiên liệu cao hơn bù đắp tác động của sự gián đoạn nguồn cung dầu do các cuộc tấn công vào tài sản của họ. Gã khổng lồ dầu mỏ nhà nước Saudi hôm thứ Ba đã báo cáo thu nhập ròng đã điều chỉnh là 31,2 tỷ USD trong quý thứ ba.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-03_kvnepwjmgg.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Profit-Beats-Expectations-as-Oil-Prices-Soar.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-03 16:45"
+    },
     {
       "id": "rmocez",
       "title": "CVR Energy Nears $4 Billion Refinery Deal With Marathon",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-03 15:15"
+    },
+    {
+      "id": "1w7u16l",
+      "title": "Copper, Tin Fall With Base Metals on Renewed AI Stocks Selloff",
+      "title_vi": "Đồng, Thiếc giảm với kim loại cơ bản do đợt bán tháo cổ phiếu AI mới",
+      "summary_vi": "Đồng chạm mức thấp nhất trong 7 tuần - giảm xuống dưới 14.000 USD/tấn - do sự sụt giảm của cổ phiếu công nghệ làm ảnh hưởng đến khẩu vị rủi ro và che mờ triển vọng nhu cầu.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSJmkXXCJ6tg/v1/1200x800.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-03/copper-tin-fall-with-base-metals-on-renewed-ai-stocks-selloff",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-11-03 14:42"
     },
     {
       "id": "163kp3n",
@@ -132,17 +154,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-11-03 04:50"
-    },
-    {
-      "id": "1lmuusq",
-      "title": "Trump’s Trillion-Dollar Oil Play: A Trap For Big Oil?",
-      "title_vi": "Trò chơi dầu mỏ nghìn tỷ đô la của Trump: Một cái bẫy cho các hãng dầu lớn?",
-      "summary_vi": "Tầm nhìn cốt lõi của Tổng thống Hoa Kỳ Donald Trump về tương lai của dầu khí toàn cầu là có được càng nhiều nguồn cung cấp đó càng tốt từ khu vực 'Châu Mỹ' mà ông tự xưng, vốn nằm trực tiếp trong phạm vi ảnh hưởng của Hoa Kỳ. Venezuela là một trong những quốc gia quan trọng mà từ đó",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-02_ujq70rm2bd.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Trumps-Trillion-Dollar-Oil-Play-A-Trap-For-Big-Oil.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-03 04:00"
     },
     {
       "id": "t5trm7",
@@ -539,17 +550,6 @@
       "source": "Silver Bulletin",
       "category": "macro",
       "published": "2026-11-02 10:04"
-    },
-    {
-      "id": "1z0ios6",
-      "title": "The Commodities Feed: US midterm elections key for oil market",
-      "title_vi": "The Commodities Feed: Chìa khóa của cuộc bầu cử giữa nhiệm kỳ ở Mỹ đối với thị trường dầu mỏ",
-      "summary_vi": "Những lo ngại vẫn còn cao về khả năng xảy ra các cuộc tấn công mới của Mỹ-Israel vào Iran sau cuộc bầu cử giữa nhiệm kỳ",
-      "image": "https://think.ing.com/uploads/hero/_w800h450/shutterstock_1105883009.jpg",
-      "link": "https://think.ing.com/articles/the-commodities-feed-post-midterms-key-for-the-oil-market021126/",
-      "source": "ing think",
-      "category": "energy",
-      "published": "2026-11-02 09:27"
     }
   ]
 }

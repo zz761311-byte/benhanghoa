@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 08:01",
+  "updated_at": "2026-11-03 09:00",
   "items": [
     {
       "id": "1dslmhp",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-03 08:00"
+    },
+    {
+      "id": "1ti5rj5",
+      "title": "Soybeans Make New Lows, Capping Rally in Corn, Wheat Despite Big Mexico Sales",
+      "title_vi": "Đậu nành đạt mức thấp mới, giới hạn mức tăng giá ngô, lúa mì bất chấp doanh số bán hàng lớn ở Mexico",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/soybeans-make-new-lows-capping-rally-corn-wheat-despite-big-mexico-sales",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-11-03 07:51"
     },
     {
       "id": "1ubtcox",
@@ -277,6 +288,17 @@
       "published": "2026-11-02 22:05"
     },
     {
+      "id": "odvcs4",
+      "title": "Seed, Fertilizer, and Pesticide Costs: Comparing U.S. and Brazilian Soybean Farms",
+      "title_vi": "Chi phí hạt giống, phân bón và thuốc trừ sâu: So sánh các trang trại đậu nành của Hoa Kỳ và Brazil",
+      "summary_vi": "Julio Bellodi Cortarelli, Grant Gardner và Joana Colussi -",
+      "image": "https://farmdocdaily.illinois.edu/wp-content/uploads/2026/11/11022026_tab1.png",
+      "link": "https://farmdocdaily.illinois.edu/2026/11/seed-fertilizer-and-pesticide-costs-comparing-u-s-and-brazilian-soybean-farms.html",
+      "source": "farmdoc daily",
+      "category": "agri",
+      "published": "2026-11-02 21:20"
+    },
+    {
       "id": "1ntafn3",
       "title": "Keurig Must Face Antitrust Claims Over Coffee Pods, Judge Rules",
       "title_vi": "Keurig phải đối mặt với các khiếu nại chống độc quyền đối với vỏ cà phê, quy định của thẩm phán",
@@ -528,28 +550,6 @@
       "source": "Euronews.com",
       "category": "energy",
       "published": "2026-11-01 14:13"
-    },
-    {
-      "id": "iq9lif",
-      "title": "Prysmian and Aurubis partner on copper agreement",
-      "title_vi": "Prysmian và Aurubis hợp tác về thỏa thuận đồng",
-      "summary_vi": "American Recycler là tờ báo hàng tháng hàng đầu đưa tin về các ngành tái chế, tận dụng và phế thải với tin tức, xu hướng thị trường, cập nhật thiết bị và chính sách của chính phủ ảnh hưởng đến ngành. Được sở hữu và vận hành độc lập",
-      "image": "https://americanrecycler.com/wp-content/uploads/2026/06/Aurubis_image1200x630px-1024x537.jpg",
-      "link": "https://americanrecycler.com/metal-recycling/prysmian-aurubis-copper-supply-agreement/",
-      "source": "American Recycler",
-      "category": "metal",
-      "published": "2026-11-01 12:21"
-    },
-    {
-      "id": "w6b6ya",
-      "title": "China's platinum jewelry demand collapsed 76 percent after Beijing ended a tax break",
-      "title_vi": "Nhu cầu trang sức bạch kim của Trung Quốc giảm 76% sau khi Bắc Kinh chấm dứt chính sách miễn thuế",
-      "summary_vi": "Trung Quốc",
-      "image": "https://startupfortune.com/wp-content/uploads/2026/11/trevor-raymond-china-platinum-co-vat-exemption.jpg",
-      "link": "https://startupfortune.com/chinas-platinum-jewelry-demand-collapsed-76-percent-after-beijing-ended-a-tax-break/",
-      "source": "Startup Fortune",
-      "category": "metal",
-      "published": "2026-11-01 12:12"
     }
   ]
 }

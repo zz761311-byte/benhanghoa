@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 18:00",
+  "updated_at": "2026-11-03 19:00",
   "items": [
     {
       "id": "11fpmke",
@@ -77,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-03 12:25"
+    },
+    {
+      "id": "pwf3lg",
+      "title": "FINAL FLIPR 2026 midterm election forecast",
+      "title_vi": "Dự báo cuộc bầu cử giữa kỳ FLIPR 2026 cuối cùng",
+      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
+      "image": "https://substackcdn.com/image/fetch/$s_!HY-o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F098967c0-94d9-494e-b37b-1d8508627240_1500x1000.png",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "source": "Silver Bulletin",
+      "category": "macro",
+      "published": "2026-11-03 12:16"
     },
     {
       "id": "vm99lw",
@@ -431,6 +442,17 @@
       "published": "2026-11-02 19:59"
     },
     {
+      "id": "yuutqc",
+      "title": "When Will High Corn and Soybean Prices Start Driving Buyers Away? 3 Signs to Watch",
+      "title_vi": "Khi nào giá ngô và đậu tương cao sẽ bắt đầu khiến người mua bỏ đi? 3 dấu hiệu cần chú ý",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/when-will-high-corn-and-soybean-prices-start-driving-buyers-away-3-signs-to-watch-7023233yp-12198457",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-11-02 19:00"
+    },
+    {
       "id": "p1f1kd",
       "title": "Fed rates, oil prices, and US elections: Key factors shaping the Belarusian ruble's trajectory in November",
       "title_vi": "Lãi suất của Fed, giá dầu và bầu cử Mỹ: Những yếu tố chính định hình quỹ đạo của đồng rúp Belarus trong tháng 11",
@@ -528,28 +550,6 @@
       "source": "Economies.com",
       "category": "metal",
       "published": "2026-11-02 12:15"
-    },
-    {
-      "id": "1ozf12y",
-      "title": "America Is Making a ‘Freaking Fortune’ In an Energy Crisis",
-      "title_vi": "Nước Mỹ đang tạo ra 'vận may đáng kinh ngạc' trong cuộc khủng hoảng năng lượng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/opinion/articles/2026-11-02/natural-gas-prices-are-an-advantage-for-trump-in-iran-war",
-      "source": "Bloomberg.com",
-      "category": "energy",
-      "published": "2026-11-02 12:00"
-    },
-    {
-      "id": "8cbj0q",
-      "title": "Silver Price Forecast: Tech Sell-Off Raises Risk of a Drop to $45",
-      "title_vi": "Dự báo giá bạc: Bán tháo công nghệ làm tăng nguy cơ giảm giá xuống 45 USD",
-      "summary_vi": "Bạc kiểm tra mức hỗ trợ $48-$50 khi cổ phiếu công nghệ giảm, trong khi việc tiếp tục chi tiêu cho AI có thể hỗ trợ nhu cầu theo thời gian.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-02-1-1.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/silver-price-forecast-tech-sell-off-raises-risk-of-a-drop-to-45-1641801",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-11-02 10:12"
     }
   ]
 }

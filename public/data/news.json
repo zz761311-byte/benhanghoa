@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 11:04",
+  "updated_at": "2026-11-03 12:00",
   "items": [
     {
       "id": "1dbnpqy",
@@ -132,6 +132,17 @@
       "source": "IndexBox",
       "category": "soft",
       "published": "2026-11-03 02:46"
+    },
+    {
+      "id": "lbh0e4",
+      "title": "How soon gas prices could go down now that oil is tumbling",
+      "title_vi": "Giá xăng có thể giảm trong bao lâu khi dầu đang sụt giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2",
+      "source": "MarketWatch",
+      "category": "energy",
+      "published": "2026-11-03 02:27"
     },
     {
       "id": "10uced3",
@@ -539,17 +550,6 @@
       "source": "UNITED24 Media",
       "category": "energy",
       "published": "2026-11-01 22:58"
-    },
-    {
-      "id": "1eyi297",
-      "title": "Election forecaster drops doomsday midterm warnings for Trump",
-      "title_vi": "Người dự báo bầu cử đưa ra cảnh báo về ngày tận thế giữa kỳ cho Trump",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nj.com/politics/2026/11/election-forecaster-drops-doomsday-midterm-predictions-against-trump.html",
-      "source": "NJ.com",
-      "category": "macro",
-      "published": "2026-11-01 19:30"
     }
   ]
 }

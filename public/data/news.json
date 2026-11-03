@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-03 09:00",
+  "updated_at": "2026-11-03 10:00",
   "items": [
+    {
+      "id": "1dbnpqy",
+      "title": "Gold, silver outlook: Sandwiched between bullish bonds and AI angst",
+      "title_vi": "Triển vọng vàng, bạc: Bị kẹp giữa trái phiếu tăng giá và nỗi lo lắng về AI",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forex.com/en-us/news-and-analysis/gold-silver-outlook-sandwiched-between-bullish-bonds-and-ai-angst/",
+      "source": "FOREX.com",
+      "category": "metal",
+      "published": "2026-11-03 08:19"
+    },
     {
       "id": "1dslmhp",
       "title": "Questions Mount Over Venezuela’s Biggest Oil Deal",
@@ -539,17 +550,6 @@
       "source": "Global Market Insights Inc.",
       "category": "energy",
       "published": "2026-11-01 16:19"
-    },
-    {
-      "id": "o11lao",
-      "title": "Russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery hit",
-      "title_vi": "Nga cho biết cuộc tấn công bằng máy bay không người lái 'quy mô lớn' nhắm vào 'doanh nghiệp công nghiệp' trong bối cảnh có tin nhà máy lọc dầu bị tấn công",
-      "summary_vi": "Các kênh giám sát chiến tranh Telegram cho biết một cuộc tấn công đã nhắm vào nhà máy lọc dầu Kstovo - còn được gọi là nhà máy lọc dầu Lukoil-Nizhegorodnefteorgsintez, được cho là một trong những cơ sở lớn nhất của Nga. #Tin tức Châu Âu",
-      "image": "https://images.euronews.com/articles/stories/09/97/51/55/1200x675_cmsv2_0d798eb6-8273-54e9-813c-571131c771ee-9975155.jpg",
-      "link": "https://www.euronews.com/2026/11/01/russia-says-massive-drone-attack-targeted-industrial-enterprise-amid-reports-oil-refinery-",
-      "source": "Euronews.com",
-      "category": "energy",
-      "published": "2026-11-01 14:13"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-03 19:02",
+  "updated_at": "2026-11-03 20:00",
   "items": [
+    {
+      "id": "1tvzp9f",
+      "title": "ADNOC Gas to Supply LNG to TotalEnergies Under Five-Year Deal",
+      "title_vi": "ADNOC Gas cung cấp LNG cho TotalEnergies theo thỏa thuận 5 năm",
+      "summary_vi": "ADNOC Gas sẽ cung cấp tới 1,6 triệu tấn LNG cho TotalEnergies trong 5 năm tới theo thỏa thuận được công bố hôm thứ Ba giữa đơn vị khí đốt của công ty năng lượng nhà nước Abu Dhabi và tập đoàn lớn của Pháp. TotalE cho biết đợt giao hàng LNG đầu tiên sẽ bắt đầu sớm nhất là trong năm nay",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-03_8hkh3r2vzp.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Gas-to-Supply-LNG-to-TotalEnergies-Under-Five-Year-Deal.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-03 19:30"
+    },
     {
       "id": "11fpmke",
       "title": "Shell Sells North West Shelf LNG Stake to Abu Dhabi&#039;s XRG for $1.45 Billion",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-03 16:45"
+    },
+    {
+      "id": "15uuqdi",
+      "title": "Ukraine targets Russia with more than 1,000 drones, striking oil terminal in St. Petersburg - ABC News",
+      "title_vi": "Ukraine dùng hơn 1.000 máy bay không người lái tấn công Nga, tấn công kho dầu ở St. Petersburg - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/International/ukraine-targets-russia-1000-drones-striking-oil-terminal/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-11-03 15:17"
     },
     {
       "id": "rmocez",
@@ -154,17 +176,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-03 07:00"
-    },
-    {
-      "id": "1d62j2n",
-      "title": "Africa Launches Its Own Oil Bank as Western Lenders Retreat",
-      "title_vi": "Châu Phi ra mắt ngân hàng dầu mỏ riêng khi các nhà cho vay phương Tây rút lui",
-      "summary_vi": "Châu Phi hiện có một ngân hàng được thành lập để tài trợ cho các dự án dầu khí mà các ngân hàng phương Tây và các tổ chức cho vay phát triển đã rút khỏi cam kết về khí hậu của họ. Afreximbank và Tổ chức các nhà sản xuất dầu mỏ châu Phi (APPO) đã chính thức thành lập Ngân hàng năng lượng châu Phi (AEB) tại lễ khánh thành",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-02_jwfqnyfzuw.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Africa-Launches-Its-Own-Oil-Bank-as-Western-Lenders-Retreat.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-03 06:00"
     },
     {
       "id": "u8p9hh",
@@ -539,17 +550,6 @@
       "source": "FarmWeekNow",
       "category": "agri",
       "published": "2026-11-02 13:00"
-    },
-    {
-      "id": "1lgbp3b",
-      "title": "Land of the free, home of the bill shock. This is life in Trump's America",
-      "title_vi": "Đất tự do, nhà của hóa đơn sốc. Đây là cuộc sống ở nước Mỹ của Trump",
-      "summary_vi": "Từ nhiên liệu đến thực phẩm và một ngày xem bóng đá, người Mỹ đang cảm thấy gánh nặng về chi phí sinh hoạt ngày càng tăng. Đây là vấn đề duy nhất hiện lên trong tâm trí của nhiều cử tri khi họ chuẩn bị bỏ phiếu trong cuộc bầu cử giữa kỳ ở Mỹ.",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c8c89b176e6cfb96145940e5e6666a3d?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-      "link": "https://www.abc.net.au/news/2026-11-02/cost-of-living-impact-us-midterms-inflation-trump-charted/107316344",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "category": "macro",
-      "published": "2026-11-02 12:32"
     }
   ]
 }

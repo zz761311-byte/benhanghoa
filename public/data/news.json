@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-03 07:00",
+  "updated_at": "2026-11-03 08:01",
   "items": [
+    {
+      "id": "1dslmhp",
+      "title": "Questions Mount Over Venezuela’s Biggest Oil Deal",
+      "title_vi": "Câu hỏi đặt ra về thỏa thuận dầu lớn nhất của Venezuela",
+      "summary_vi": "“Thỏa thuận dầu mỏ lớn nhất trong lịch sử thế giới” giữa Chính quyền Trump và Đối tác Năng lượng Xanh Bắc Mỹ có thể không đạt được sự cường điệu vì công ty tư nhân và trước đây ít được biết đến này có thể phải đối mặt với những thách thức lớn trong việc phát triển nguồn tài nguyên dầu mỏ khổng lồ của Venezuela, Reuters",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-02_salnqhzury.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Questions-Mount-Over-Venezuelas-Biggest-Oil-Deal.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-03 08:00"
+    },
     {
       "id": "1ubtcox",
       "title": "Germany Misses Gas Storage Target as Prices Soar",
@@ -55,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-03 04:00"
+    },
+    {
+      "id": "t5trm7",
+      "title": "Gold and silver selloff is the buying opportunity of a lifetime - Bawden Capital",
+      "title_vi": "Bán tháo vàng bạc là cơ hội mua trong đời - Bawden Capital",
+      "summary_vi": "(Kitco News) - Vàng và bạc đang chứng kiến ​​sự phục hồi khiêm tốn sau sự biến động của thị trường vào thứ Sáu, dẫn đến kết quả hoạt động tồi tệ nhất trong tháng 10 kể từ năm 2008. Một số nhà đầu tư đã trở nên thất vọng với đồng tiền quý giá…",
+      "image": "https://image-api.prod.kitco.com/image/26edbec1-684b-47c2-81fd-4c408a2bb4cd.jpeg?top=0.46212476547842&left=0&width=1000&height=562.07575046904&scale_width=1920&token=6f62b26610aef01ae4ba9f24ef15013c7632afc5b33599e202b5d58af8d466b6",
+      "link": "https://www.kitco.com/news/article/2026-11-02/gold-and-silver-selloff-buying-opportunity-lifetime-bawden-capital",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-11-03 03:20"
     },
     {
       "id": "1sncl4l",
@@ -145,17 +167,6 @@
       "published": "2026-11-03 01:00"
     },
     {
-      "id": "17yfjmi",
-      "title": "TotalEnergies Now Sees Oil Demand Peaking Between 2035 and 2040",
-      "title_vi": "TotalEnergies hiện thấy nhu cầu dầu đạt đỉnh từ năm 2035 đến năm 2040",
-      "summary_vi": "Một năm sau khi dự báo nhu cầu dầu sẽ tiếp tục tăng cho đến năm 2040, TotalEnergies đã tiến tới đỉnh cao trong khoảng thời gian từ năm 2035 đến năm 2040 và cho biết chiến tranh Iran có thể đẩy nhanh quá trình chuyển đổi năng lượng. Triển vọng năng lượng hàng năm của công ty, được công bố vào thứ Hai, dự đoán nhu cầu về vật nuôi",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-02_asfkytpexu.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Now-Sees-Oil-Demand-Peaking-Between-2035-and-2040.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-03 00:30"
-    },
-    {
       "id": "1xbj2zf",
       "title": "Gas prices likely to drop below $4 a gallon in the next week if oil prices keep declining, analyst says",
       "title_vi": "Nhà phân tích cho biết giá xăng có thể giảm xuống dưới 4 USD/gallon trong tuần tới nếu giá dầu tiếp tục giảm",
@@ -209,6 +220,17 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-11-02 23:12"
+    },
+    {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-02 22:44"
     },
     {
       "id": "p4x375",
@@ -528,28 +550,6 @@
       "source": "Startup Fortune",
       "category": "metal",
       "published": "2026-11-01 12:12"
-    },
-    {
-      "id": "woql3f",
-      "title": "Ghana's cocoa price slash sparks outrage",
-      "title_vi": "Việc Ghana giảm giá ca cao gây phẫn nộ",
-      "summary_vi": "Ngành ca cao của Ghana đang đối mặt với biến động lớn sau khi chính phủ giảm 28% giá sản xuất. Đây là một đòn nặng nề đối với nhiều người trong số 800.000 nông dân trồng ca cao trên cả nước. Nhưng các quan chức cho biết họ buộc phải đưa ra quyết định này sau khi giá ca cao toàn cầu sụt giảm. Eddy Micah Jr. nói chuyện với Nana Aduna II về",
-      "image": "https://static.dw.com/image/74973921_6.jpg",
-      "link": "https://www.dw.com/en/ghanas-cocoa-price-slash-sparks-outrage/audio-76122172",
-      "source": "DW.com",
-      "category": "soft",
-      "published": "2026-11-01 11:02"
-    },
-    {
-      "id": "10uw3t8",
-      "title": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
-      "title_vi": "Theo dõi giá xăng của Hoa Kỳ, tiểu bang và quận bằng bản đồ và biểu đồ. Cập nhật hàng ngày.",
-      "summary_vi": "Giá gas trên cả nước sau khi đạt đỉnh vào tháng 5 và giảm vào tháng 6, đã tăng vọt vào tháng 9.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/20260430-gas-price-tracker-cover-2x1-jw-a9a332.jpg",
-      "link": "https://www.nbcnews.com/data-graphics/gas-prices-iran-war-state-national-cost-trump-rcna265835",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-11-01 08:07"
     }
   ]
 }

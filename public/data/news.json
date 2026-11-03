@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-03 17:00",
+  "updated_at": "2026-11-03 18:00",
   "items": [
+    {
+      "id": "11fpmke",
+      "title": "Shell Sells North West Shelf LNG Stake to Abu Dhabi&#039;s XRG for $1.45 Billion",
+      "title_vi": "Shell bán cổ phần LNG của North West Shelf cho XRG của Abu Dhabi với giá 1,45 tỷ USD",
+      "summary_vi": "Shell đang bán 16,67% lợi ích phi hoạt động của mình trong dự án LNG North West Shelf ở Úc cho XRG của Các Tiểu vương quốc Ả Rập Thống nhất với giá 1,45 tỷ USD như một phần trong chiến lược phân bổ vốn và lựa chọn danh mục đầu tư có kỷ luật. Shell hôm thứ Ba đã thông báo rằng công ty này hoàn toàn sở hữu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-03_4kryztbk1i.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Sells-North-West-Shelf-LNG-Stake-to-Abu-Dhabis-XRG-for-145-Billion.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-03 18:00"
+    },
     {
       "id": "1uimnvk",
       "title": "Saudi Aramco Profit Beats Expectations as Oil Prices Soar",
@@ -112,6 +123,17 @@
       "published": "2026-11-03 07:51"
     },
     {
+      "id": "1uy5zjj",
+      "title": "Beyond cocoa prices: Why manufacturers are rethinking recipes for long-term resilience",
+      "title_vi": "Ngoài giá ca cao: Tại sao các nhà sản xuất đang xem xét lại các công thức để có khả năng phục hồi lâu dài",
+      "summary_vi": "Giá hạt ca cao giảm không làm mất đi động cơ khuyến khích các nhà sản xuất thực phẩm suy nghĩ lại về công thức làm bánh kẹo của họ. Theo Kerry và Symrise,",
+      "image": "https://article-cns.cnsmedia.com/articleimgs/resized_rect_newsimages/jpg/639292278760293394eating_chocolate_slider_image.jpg",
+      "link": "https://www.foodingredientsfirst.com/news/cocoa-reformulation-supply-resilience.html",
+      "source": "Food Ingredients First",
+      "category": "soft",
+      "published": "2026-11-03 07:07"
+    },
+    {
       "id": "1ubtcox",
       "title": "Germany Misses Gas Storage Target as Prices Soar",
       "title_vi": "Đức bỏ lỡ mục tiêu lưu trữ khí đốt khi giá tăng cao",
@@ -132,17 +154,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-03 06:00"
-    },
-    {
-      "id": "3l0cz",
-      "title": "4 Energy Stocks for Midterm Elections That Could Go Either Way",
-      "title_vi": "4 cổ phiếu năng lượng cho cuộc bầu cử giữa kỳ có thể đi theo hướng nào",
-      "summary_vi": "Các cuộc thăm dò sẽ mở vào thứ Ba với các thị trường dự đoán đã nghiêng về một phía, vì các nhà giao dịch tại Polymarket đang định giá tỷ lệ ủng hộ của đảng Dân chủ ở cả hai viện là khoảng 71%, Hạ viện của đảng Dân chủ với Thượng viện của đảng Cộng hòa là 24% và tỷ lệ của đảng Cộng hòa là 5%. Còn một chặng đường dài kể từ tháng Hai",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-02_golvcyxmnf.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/4-Energy-Stocks-for-Midterm-Elections-That-Could-Go-Either-Way.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-11-03 05:00"
     },
     {
       "id": "1b4kd1j",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-11-02 10:12"
-    },
-    {
-      "id": "pwf3lg",
-      "title": "FLIPR 2026 midterm election forecast",
-      "title_vi": "Dự báo bầu cử giữa kỳ FLIPR 2026",
-      "summary_vi": "Dự đoán của Silver Bulletin cho mọi cuộc bầu cử Thượng viện, Hạ viện và thống đốc vào năm 2026.",
-      "image": "https://substackcdn.com/image/fetch/$s_!HY-o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F098967c0-94d9-494e-b37b-1d8508627240_1500x1000.png",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "source": "Silver Bulletin",
-      "category": "macro",
-      "published": "2026-11-02 10:04"
     }
   ]
 }

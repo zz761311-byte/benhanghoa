@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-03 13:00",
+  "updated_at": "2026-11-03 14:00",
   "items": [
+    {
+      "id": "c5eizo",
+      "title": "Silver & Gold at Crucial Long-Term Backtests",
+      "title_vi": "Bạc và Vàng ở các cuộc kiểm tra ngược dài hạn quan trọng",
+      "summary_vi": "Bạc và vàng đang tiến đến các mức kỹ thuật dài hạn quan trọng có thể tạo tiền đề cho đợt tăng giá lớn tiếp theo của chúng. Khám phá các mô hình biểu đồ chính, các mức hỗ trợ lịch sử và tiềm năng để bạc đạt 700 USD và vàng sẽ mở rộng thị trường tăng giá lâu dài của nó.",
+      "image": "https://goldbroker.com/_api/media/file/6ab0f38f5a0e4175931573.jpg?prefix=production",
+      "link": "https://goldbroker.com/news/silver-gold-crucial-long-term-backtests",
+      "source": "GoldBroker",
+      "category": "metal",
+      "published": "2026-11-03 13:25"
+    },
     {
       "id": "byqssu",
       "title": "Oil Prices Bounce Back Following Reports of U.S. Strikes on Iran",
@@ -539,17 +550,6 @@
       "source": "KOCO",
       "category": "energy",
       "published": "2026-11-02 03:19"
-    },
-    {
-      "id": "m0pira",
-      "title": "Ukraine Hits 10% of Russia’s Oil Refining Capacity in Just 72 Hours",
-      "title_vi": "Ukraine đạt 10% công suất lọc dầu của Nga chỉ sau 72 giờ",
-      "summary_vi": "Các cuộc tấn công bằng máy bay không người lái của Ukraine đã tấn công ba nhà máy lọc dầu lớn của Nga, ảnh hưởng đến khoảng 10% công suất lọc dầu của quốc gia chỉ sau 72 giờ.",
-      "image": "https://storage.united24media.com/og/2/36/a130fcece2b3124daf22734063ae5362.jpg",
-      "link": "https://united24media.com/war-in-ukraine/ukraine-hits-10-of-russias-oil-refining-capacity-in-just-72-hours-23988",
-      "source": "UNITED24 Media",
-      "category": "energy",
-      "published": "2026-11-01 22:58"
     }
   ]
 }

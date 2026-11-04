@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-05 00:01",
+  "updated_at": "2026-11-05 01:01",
   "items": [
+    {
+      "id": "1fkeb2u",
+      "title": "China&#039;s Rail Line Into Central Asia Is Set for 2031",
+      "title_vi": "Tuyến đường sắt của Trung Quốc tới Trung Á được thiết lập vào năm 2031",
+      "summary_vi": "Theo Công ty Đường sắt Kyrgyz, một đối tác của dự án, việc xây dựng tuyến đường sắt Trung Quốc-Kyrgyzstan-Uzbekistan đang tiến triển đều đặn, với công việc đang được tiến hành trên 28 trong số 29 đường hầm theo kế hoạch và 47 trong số 50 cây cầu dọc theo tuyến đường dài khoảng 305 km của đoạn Kyrgyzstan. Khoảng 22 phần trăm",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-04_igdvbygabs.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Rail-Line-Into-Central-Asia-Is-Set-for-2031.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-05 01:00"
+    },
+    {
+      "id": "1rhvku4",
+      "title": "Fire Shuts Equinor’s Visund Platform in Norwegian North Sea",
+      "title_vi": "Lửa đóng cửa nền tảng Visund của Equinor ở Biển Bắc Na Uy",
+      "summary_vi": "Equinor đã ngừng sản xuất tại giàn khoan dầu khí Visund ở Biển Bắc Na Uy vào thứ Tư sau vụ hỏa hoạn ở phòng tổng đài điện, khiến toàn bộ 13,2 triệu mét khối mỗi ngày công suất xuất khẩu khí đốt của mỏ này ra khỏi thị trường từ thứ Năm. Ngọn lửa bùng phát trong thời gian ngắn",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-04_4oinydakpq.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Fire-Shuts-Equinors-Visund-Platform-in-Norwegian-North-Sea.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-05 00:30"
+    },
     {
       "id": "98l97p",
       "title": "New Jersey Moves to Block Trump&#039;s Russian Diesel Imports",
@@ -33,6 +55,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-04 22:52"
+    },
+    {
+      "id": "n207ij",
+      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
+      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
+      "source": "EnergyNow.com",
+      "category": "macro",
+      "published": "2026-11-04 22:40"
     },
     {
       "id": "1w510dl",
@@ -90,15 +123,26 @@
       "published": "2026-11-04 21:30"
     },
     {
-      "id": "17efxn4",
-      "title": "Democrats Win Texas Oil Regulator Seat for First Time Since 1990",
-      "title_vi": "Đảng Dân chủ giành được ghế điều tiết dầu mỏ ở Texas lần đầu tiên kể từ năm 1990",
-      "summary_vi": "Các cử tri Texas hôm thứ Ba đã bầu một đảng viên Đảng Dân chủ vào Ủy ban Đường sắt, cơ quan quản lý ngành dầu khí của bang, lần đầu tiên kể từ năm 1990. Họ cũng bầu một thống đốc Đảng Dân chủ, người hứa sẽ tạm dừng việc xây dựng trung tâm dữ liệu mới. Đảng Dân chủ chống lại trung tâm dữ liệu",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-04_v78ph9w3rb.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Democrats-Win-Texas-Oil-Regulator-Seat-for-First-Time-Since-1990.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-04 21:00"
+      "id": "97tagh",
+      "title": "Silver, Nasdaq Outlook: Democratic Win Supports Risk-Asset Rebounds",
+      "title_vi": "Triển vọng Bạc, Nasdaq: Chiến thắng của đảng Dân chủ hỗ trợ sự phục hồi tài sản rủi ro",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-gb/news-and-analysis/silver-nasdaq-outlook-democratic-win-supports-risk-asset-rebounds-2026-11-04/",
+      "source": "StoneX",
+      "category": "metal",
+      "published": "2026-11-04 21:15"
+    },
+    {
+      "id": "1cn6cbq",
+      "title": "Gold and silver surge as Democratic midterm sweep drives dollar, yields lower - Kitco AM Report",
+      "title_vi": "Vàng và bạc tăng vọt khi cuộc tấn công giữa kỳ của đảng Dân chủ thúc đẩy đồng đô la, lợi suất thấp hơn - Báo cáo Kitco AM",
+      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay tăng mạnh vào đầu phiên giao dịch tại Hoa Kỳ hôm thứ Tư, khi chiến thắng vang dội của Đảng Dân chủ trong cuộc bầu cử giữa nhiệm kỳ của Hoa Kỳ đã khiến đồng đô la và Kho bạc…",
+      "image": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0&left=0.12027249236555&width=1023.7594550153&height=576&scale_width=1920&token=8628415b746c7f23d429de84a6618a34dba95f3e0aa672b5b77779e74a34f6de",
+      "link": "https://www.kitco.com/news/article/2026-11-04/gold-and-silver-surge-democratic-midterm-sweep-drives-dollar-yields-lower",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-11-04 20:55"
     },
     {
       "id": "17qcbjm",
@@ -121,17 +165,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-11-04 20:46"
-    },
-    {
-      "id": "5bld9x",
-      "title": "European Gas Prices Fall 2% as Traders Wait on Trump’s Next Move in Iran",
-      "title_vi": "Giá khí đốt châu Âu giảm 2% khi các thương nhân chờ đợi động thái tiếp theo của Trump ở Iran",
-      "summary_vi": "Giá khí đốt tự nhiên chuẩn châu Âu giảm vào sáng sớm ngày thứ Tư, khi các nhà giao dịch chuẩn bị cho những gì sẽ xảy ra tiếp theo ở Iran sau khi Tổng thống Mỹ Donald Trump mất quyền kiểm soát của Đảng Cộng hòa đối với cả hai viện Quốc hội trong cuộc bầu cử giữa nhiệm kỳ vào thứ Ba. Giá tháng trước tại thời điểm thứ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-04_dtu6wjsefr.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Prices-Fall-2-as-Traders-Wait-on-Trumps-Next-Move-in-Iran.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-04 20:30"
     },
     {
       "id": "o5l7x6",
@@ -244,17 +277,6 @@
       "published": "2026-11-04 12:51"
     },
     {
-      "id": "17x0aga",
-      "title": "Gold rises as dollar weakens ahead of U.S. midterm election results",
-      "title_vi": "Vàng tăng khi đồng đô la suy yếu trước kết quả bầu cử giữa kỳ của Mỹ",
-      "summary_vi": "Vàng tăng cao hơn vào thứ Tư, được hỗ trợ bởi đồng đô la yếu hơn trước cuộc bầu cử giữa kỳ của Hoa Kỳ, trong khi các nhà đầu tư chờ đợi dữ liệu quan trọng vào cuối tuần này để tìm manh mối về lộ trình lãi suất của Fed.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108070242-1733186993850-2017-07-23T095149Z_104088800_RC197C0FB0C0_RTRMADP_3_SINGAPORE-GOLD.JPG?v=1793764791&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/11/04/gold-rises-as-dollar-weakens-ahead-of-us-midterm-election-results.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-11-04 12:04"
-    },
-    {
       "id": "r6v3ux",
       "title": "Will gas prices keep falling? Experts weigh in - ABC News",
       "title_vi": "Giá xăng sẽ tiếp tục giảm? Các chuyên gia cân nhắc - ABC News",
@@ -286,6 +308,17 @@
       "source": "farmdoc daily",
       "category": "agri",
       "published": "2026-11-04 08:42"
+    },
+    {
+      "id": "1u9b516",
+      "title": "Metals brace for US payrolls and tech earnings as crude tracks geopolitical risk",
+      "title_vi": "Kim loại tăng cường cho bảng lương và thu nhập công nghệ của Hoa Kỳ khi dầu thô theo dõi rủi ro địa chính trị",
+      "summary_vi": "Cuộc bầu cử giữa nhiệm kỳ của Mỹ vào thứ Ba, ngày 3/11 có thể sẽ ảnh hưởng đến kỳ vọng về chính sách tài chính và năng lượng, cũng như lập trường của Washington đối với Iran, với những tác động trực tiếp đến dầu thô.",
+      "image": "https://images.moneycontrol.com/static-mcnews/2024/09/20240906033445_stock-market-pexels-.jpg",
+      "link": "https://www.moneycontrol.com/news/business/commodities/metals-brace-for-us-payrolls-and-tech-earnings-as-crude-tracks-geopolitical-risk-14065517.html",
+      "source": "Moneycontrol.com",
+      "category": "macro",
+      "published": "2026-11-04 07:22"
     },
     {
       "id": "1dn4t1n",
@@ -330,6 +363,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-04 05:43"
+    },
+    {
+      "id": "1xtkm6p",
+      "title": "Valentine's Day shoppers face soaring chocolate prices - ABC News",
+      "title_vi": "Người mua sắm ngày lễ tình nhân đối mặt với giá sô cô la tăng vọt - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/Business/valentines-day-shoppers-face-soaring-chocolate-prices/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "soft",
+      "published": "2026-11-04 04:58"
     },
     {
       "id": "1sfc5iw",
@@ -506,50 +550,6 @@
       "source": "Daily Sabah",
       "category": "macro",
       "published": "2026-11-03 19:17"
-    },
-    {
-      "id": "1mu4h1",
-      "title": "Why Mexico imports more coffee than it exports",
-      "title_vi": "Tại sao Mexico nhập khẩu nhiều cà phê hơn xuất khẩu",
-      "summary_vi": "Mặc dù là nước sản xuất cà phê lớn nhưng Mexico nhập khẩu nhiều cà phê hơn xuất khẩu để đáp ứng nhu cầu công nghiệp về cà phê hòa tan và cà phê không chứa caffein.",
-      "image": "https://intelligence.coffee/wp-content/uploads/2026/11/Cargo-ships-moving-towards-Mexico.webp",
-      "link": "https://intelligence.coffee/2026/11/why-mexico-imports-more-coffee-than-exports/",
-      "source": "Coffee Intelligence",
-      "category": "soft",
-      "published": "2026-11-03 18:03"
-    },
-    {
-      "id": "9rt9lt",
-      "title": "Nate Silver Drops Final Forecast With Brutal News for Trump",
-      "title_vi": "Nate Silver Drop Dự báo cuối cùng với tin tức tàn bạo dành cho Trump",
-      "summary_vi": "Các cuộc thăm dò cho thấy đêm thứ Ba có thể là một đêm dài đối với Đảng Cộng hòa.",
-      "image": "https://media.thedailybeast.com/resizer/v2/CJGXZGN4YRGHTCUTV26Q6WGPAY.jpg?auth=561d14dcae82fb9d17651bc44ec07b63960ff0b2f6a3ee51947d367cc196ffbe&width=1200&height=630&focal=1412%2C794",
-      "link": "https://www.thedailybeast.com/nate-silver-drops-final-forecast-with-brutal-news-for-trump",
-      "source": "The Daily Beast",
-      "category": "metal",
-      "published": "2026-11-03 17:53"
-    },
-    {
-      "id": "17tvkng",
-      "title": "Why oil and gas corporations are making so much money – and we’re all paying the bill",
-      "title_vi": "Tại sao các tập đoàn dầu khí kiếm được nhiều tiền như vậy - và tất cả chúng ta đều đang thanh toán hóa đơn",
-      "summary_vi": "Các tập đoàn dầu khí lớn nhất thế giới vừa báo thêm một quý lợi nhuận đáng kinh ngạc. Trong khi đó, việc trả tiền cho những thứ bạn cần hàng ngày đã trở nên đắt đỏ một cách đáng báo động.",
-      "image": "https://www.greenpeace.org/static/planet4-international-stateless/2026/11/d3b214f2-gp0su8tv4.jpg",
-      "link": "https://www.greenpeace.org/international/story/86904/why-oil-and-gas-corporations-are-making-so-much-money-and-were-all-paying-the-bill/",
-      "source": "Greenpeace",
-      "category": "energy",
-      "published": "2026-11-03 16:55"
-    },
-    {
-      "id": "17c0bot",
-      "title": "US Sugar Remains Tight as Brazil Election Pressures Global Prices",
-      "title_vi": "Đường Mỹ vẫn khan hiếm khi cuộc bầu cử ở Brazil gây áp lực lên giá toàn cầu",
-      "summary_vi": "Đường Mỹ vẫn khan hiếm khi cuộc bầu cử ở Brazil gây áp lực lên giá toàn cầu",
-      "image": "https://www.czapp.com/wp-content/uploads/2026/11/b9aaf71b-69c2-47b6-bde6-cce0f0eccd5a.jpg",
-      "link": "https://www.czapp.com/analyst-insights/us-sugar-remains-tight-as-brazil-election-pressures-global-prices/",
-      "source": "Czapp",
-      "category": "soft",
-      "published": "2026-11-03 16:54"
     }
   ]
 }

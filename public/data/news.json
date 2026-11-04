@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 09:01",
+  "updated_at": "2026-11-04 10:01",
   "items": [
     {
       "id": "3b6xqt",
@@ -143,6 +143,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-04 03:00"
+    },
+    {
+      "id": "ci988i",
+      "title": "Keurig Dr Pepper Maintains Full-Year Outlook Following 'Challenging' Quarter for US Coffee",
+      "title_vi": "Keurig Dr Pepper duy trì triển vọng cả năm sau quý 'thách thức' đối với cà phê Hoa Kỳ",
+      "summary_vi": "Keurig Dr Pepper tái khẳng định hướng dẫn cả năm của mình và cho biết hoạt động kinh doanh cà phê tại Hoa Kỳ của họ đã phải đối mặt với một môi trường đầy thách thức trong quý 3, khiến công ty phải đối mặt với khó khăn.",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "link": "https://www.marketscreener.com/news/keurig-dr-pepper-maintains-full-year-outlook-following-challenging-quarter-for-us-coffee-ce785fdedd8df727",
+      "source": "marketscreener.com",
+      "category": "soft",
+      "published": "2026-11-04 02:42"
     },
     {
       "id": "4av1mf",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-03 01:18"
-    },
-    {
-      "id": "1gur1p",
-      "title": "A corn market surprise puts USDA data accuracy in focus",
-      "title_vi": "Sự bất ngờ của thị trường ngô đặt trọng tâm vào độ chính xác của dữ liệu USDA",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wisfarmer.com/story/news/2026/11/02/usda-crop-estimate-mistake-sent-shockwaves-through-corn-trade/92522264007/",
-      "source": "Wisconsin Farmer",
-      "category": "agri",
-      "published": "2026-11-03 01:00"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-05 14:00",
+  "updated_at": "2026-11-05 15:00",
   "items": [
+    {
+      "id": "9ohpxo",
+      "title": "EU Survey Reveals Massive Support for Renewable Energy Transition",
+      "title_vi": "Khảo sát của EU tiết lộ sự hỗ trợ lớn cho quá trình chuyển đổi năng lượng tái tạo",
+      "summary_vi": "Một cuộc khảo sát do Ngân hàng Đầu tư Châu Âu thực hiện đã cho thấy, theo báo cáo của Reuters, phần lớn công dân Liên minh Châu Âu ủng hộ việc đẩy nhanh quá trình chuyển đổi từ dầu khí sang các nguồn năng lượng thay thế và điện khí hóa giao thông.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-05_b0lmfxujfd.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Survey-Reveals-Massive-Support-for-Renewable-Energy-Transition.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-05 14:45"
+    },
     {
       "id": "1qfq3qe",
       "title": "Oil Prices Continue to Fall as Democratic Sweep Shakes Energy Markets",
@@ -33,6 +44,17 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-11-05 11:05"
+    },
+    {
+      "id": "u4cjs",
+      "title": "Gold rallies on softer dollar, easing yields after US midterm results",
+      "title_vi": "Vàng tăng do đồng đô la mềm hơn, lợi suất giảm sau kết quả giữa kỳ của Mỹ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-hits-two-week-high-dollar-treasury-yields-ease-after-us-midterm-elections-2026-11-05/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-11-05 10:46"
     },
     {
       "id": "ezsxuh",
@@ -178,6 +200,17 @@
       "published": "2026-11-05 03:00"
     },
     {
+      "id": "z3m4x6",
+      "title": "Keurig Dr Pepper Coffee Concerns Persist, But Outlook Remains Positive, UBS Says",
+      "title_vi": "UBS cho biết mối lo ngại về cà phê Keurig Dr Pepper vẫn tồn tại nhưng triển vọng vẫn tích cực",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-coffee-concerns-195948776.html",
+      "source": "Yahoo Finance",
+      "category": "soft",
+      "published": "2026-11-05 02:59"
+    },
+    {
       "id": "1tjfzt3",
       "title": "Unsweetened Coffee Pods Market To 2035: Premiumization and Sustainability Shape Growth - News and Statistics",
       "title_vi": "Thị trường cà phê viên không đường đến năm 2035: Tính ưu việt hóa và tính bền vững Định hình tăng trưởng - Tin tức và Thống kê",
@@ -198,17 +231,6 @@
       "source": "Briefs Finance",
       "category": "soft",
       "published": "2026-11-05 02:15"
-    },
-    {
-      "id": "1fh9131",
-      "title": "Polar Vortex Puts Europe&#039;s Gas Reserves at Risk",
-      "title_vi": "Cơn lốc vùng cực khiến trữ lượng khí đốt của châu Âu gặp rủi ro",
-      "summary_vi": "Trung tâm Dự báo Thời tiết Trung bình Châu Âu cho thấy các dấu hiệu về sự gián đoạn sớm của xoáy cực Bắc Cực có thể đưa không khí lạnh vào Tây Bắc Âu khi lục địa bị ảnh hưởng bởi năng lượng này phải đối mặt với vùng đệm cung cấp rất mỏng trước khi mùa đông ở Bắc bán cầu bắt đầu tăng tốc.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-04_ku0x153bgq.jpg",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Polar-Vortex-Puts-Europes-Gas-Reserves-at-Risk.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-05 02:00"
     },
     {
       "id": "6awmsq",
@@ -321,17 +343,6 @@
       "published": "2026-11-04 20:00"
     },
     {
-      "id": "rszh5m",
-      "title": "Gold Climbs on Softer Dollar, Falling Treasury Yields After U.S. Midterms",
-      "title_vi": "Vàng tăng do đồng đô la yếu hơn, lợi suất trái phiếu kho bạc giảm sau cuộc bầu cử giữa kỳ của Hoa Kỳ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-climbs-on-softer-dollar-falling-treasury-yields-after-u-s-midterms-b16998e4",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-11-04 18:29"
-    },
-    {
       "id": "12j0i0q",
       "title": "Chocolate maker Barry Callebaut sees profit slightly below forecast on pricey cocoa",
       "title_vi": "Nhà sản xuất sô cô la Barry Callebaut thấy lợi nhuận thấp hơn một chút so với dự báo do ca cao đắt tiền",
@@ -376,15 +387,15 @@
       "published": "2026-11-04 16:27"
     },
     {
-      "id": "kf4gpn",
-      "title": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
-      "title_vi": "Giá vàng, bạc và kim loại quý tăng vọt, đồng đô la giảm khi đảng Dân chủ nắm quyền kiểm soát Quốc hội",
-      "summary_vi": "Kim loại quý chứng kiến ​​mức tăng mạnh vào sáng thứ Ba, khi các nhà đầu tư đón nhận chiến thắng của đảng Dân chủ trong cuộc bầu cử giữa kỳ ở Hoa Kỳ.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108256504-17691942812026-01-23t182552z_1555020399_rc2xav9y5ez9_rtrmadp_0_global-metals-silver.jpeg?v=1769194324&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html",
-      "source": "CNBC",
+      "id": "12uae6t",
+      "title": "Gold, silver prices surge as US dollar drops after midterm elections",
+      "title_vi": "Giá vàng, bạc tăng vọt khi đồng đô la Mỹ giảm sau cuộc bầu cử giữa nhiệm kỳ",
+      "summary_vi": "Vàng thỏi lấy lại ngưỡng 4.000 USD/ounce trong khi bạc tăng lên 52 USD trong bối cảnh lãi suất trái phiếu kho bạc giảm, đồng USD suy yếu | Anadolu",
+      "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/04/thumbs_b_c_fe215e8c9a32a427c8410b9c04275c94.jpg",
+      "link": "https://aa.com.tr/en/economy/gold-silver-prices-surge-as-us-dollar-drops-after-midterm-elections/4111106",
+      "source": "Anadolu Ajansı",
       "category": "metal",
-      "published": "2026-11-04 14:43"
+      "published": "2026-11-04 14:59"
     },
     {
       "id": "1wkqknb",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-04 03:26"
-    },
-    {
-      "id": "1w0n9v7",
-      "title": "Oil Prices Swing as Uncertainty Swirls Over US-Iran Peace Talks",
-      "title_vi": "Giá dầu dao động khi sự bất ổn xoay quanh các cuộc đàm phán hòa bình Mỹ-Iran",
-      "summary_vi": "Giá dầu dao động trong một phiên giao dịch biến động khi các nhà giao dịch phân tích các dấu hiệu mâu thuẫn trên quỹ đạo đàm phán hòa bình giữa Mỹ và Iran.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilzSWO1MJ.jo/v0/1200x800.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-02/latest-oil-market-news-and-analysis-for-nov-3",
-      "source": "Bloomberg.com",
-      "category": "energy",
-      "published": "2026-11-04 03:15"
     }
   ]
 }

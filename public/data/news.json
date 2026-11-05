@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-06 04:01",
+  "updated_at": "2026-11-06 05:00",
   "items": [
+    {
+      "id": "1bwl7e7",
+      "title": "India&#039;s Renewables Have Saved $100 Billion in Fuel Imports, IEA Says",
+      "title_vi": "IEA cho biết năng lượng tái tạo của Ấn Độ đã tiết kiệm 100 tỷ USD nhiên liệu nhập khẩu",
+      "summary_vi": "Tăng trưởng năng lượng sạch của Ấn Độ đang vượt xa kỳ vọng và nhanh chóng đưa quốc gia đông dân nhất thế giới này trở thành một trong những quốc gia có vai trò lớn trên thị trường năng lượng sạch trên toàn cầu. Ấn Độ hiện là thị trường năng lượng sạch phát triển nhanh thứ hai trên thế giới và là thị trường lớn thứ hai thế giới",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_jquy0pbek8.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Indias-Renewables-Have-Saved-100-Billion-in-Fuel-Imports-IEA-Says.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-06 05:00"
+    },
     {
       "id": "awbepd",
       "title": "Batteries Are Taking the Gas Peaker’s Best Hours",
@@ -112,17 +123,6 @@
       "published": "2026-11-06 00:00"
     },
     {
-      "id": "e0idzs",
-      "title": "Turkey Unveils $500 Billion Energy Plan Built on Gas, Solar, Nuclear",
-      "title_vi": "Thổ Nhĩ Kỳ công bố kế hoạch năng lượng trị giá 500 tỷ USD dựa trên khí đốt, năng lượng mặt trời và hạt nhân",
-      "summary_vi": "Thổ Nhĩ Kỳ đặt mục tiêu tổng đầu tư 500 tỷ USD vào cơ sở hạ tầng năng lượng trong kế hoạch năng lượng mới đến năm 2040, Bộ trưởng Bộ Năng lượng và Tài nguyên thiên nhiên Alparslan Bayraktar cho biết hôm thứ Năm, khi nước này tìm cách tăng cường độc lập về năng lượng và cuối cùng trở thành độc lập về năng lượng.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-05_rrqc8dvw5g.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Turkey-Unveils-500-Billion-Energy-Plan-Built-on-Gas-Solar-Nuclear.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-05 23:30"
-    },
-    {
       "id": "7towg3",
       "title": "Dry Weather Returns as Soybean Harvest Delays Persist and Unusual Warmth Approaches",
       "title_vi": "Thời tiết khô hạn quay trở lại do việc thu hoạch đậu nành vẫn bị trì hoãn và thời tiết ấm áp bất thường đang đến gần",
@@ -200,6 +200,17 @@
       "published": "2026-11-05 20:08"
     },
     {
+      "id": "1edx0nq",
+      "title": "China Ties U.S. Farm Purchases to Tariff Cuts as Trade Uncertainty Grows",
+      "title_vi": "Trung Quốc buộc việc mua nông sản của Hoa Kỳ phải cắt giảm thuế khi sự bất ổn thương mại gia tăng",
+      "summary_vi": "Trung Quốc ràng buộc việc mua nông sản mới của Mỹ với việc cắt giảm thuế, gây lo ngại cho nông dân Mỹ, các nhà xuất khẩu đậu nành và thị trường nông sản vào năm 2027.",
+      "image": "https://www.agrolatam.com/files/image/83/83860/6aec741056cc4_600_315!.jpg?s=67d90c2d4908c364352e1592fd5d087e&d=1793881263",
+      "link": "https://www.agrolatam.com/usa/news/china-us-farm-purchases-tariff-cuts-2026/",
+      "source": "AgroLatam",
+      "category": "macro",
+      "published": "2026-11-05 19:19"
+    },
+    {
       "id": "14cur7t",
       "title": "What Farmers Need to Know Before the November WASDE Report",
       "title_vi": "Những điều nông dân cần biết trước báo cáo WASDE tháng 11",
@@ -242,6 +253,17 @@
       "source": "NPR",
       "category": "energy",
       "published": "2026-11-05 17:00"
+    },
+    {
+      "id": "n207ij",
+      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
+      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
+      "source": "EnergyNow.com",
+      "category": "macro",
+      "published": "2026-11-05 16:51"
     },
     {
       "id": "1wul1gd",
@@ -508,6 +530,17 @@
       "published": "2026-11-05 00:27"
     },
     {
+      "id": "1stt8s9",
+      "title": "Investors Are Rushing To Gold As US Dollar Tanks",
+      "title_vi": "Các nhà đầu tư đang đổ xô vào vàng khi đồng đô la Mỹ tăng giá",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/investors-rushing-gold-us-dollar-171949355.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-11-05 00:19"
+    },
+    {
       "id": "1otrt8f",
       "title": "Palladium Rebounds From 16-Month Low",
       "title_vi": "Palladium phục hồi từ mức thấp nhất trong 16 tháng",
@@ -517,39 +550,6 @@
       "source": "TradingView",
       "category": "metal",
       "published": "2026-11-05 00:13"
-    },
-    {
-      "id": "6awmsq",
-      "title": "Oil prices drop below $100 for the first time in nearly a month",
-      "title_vi": "Giá dầu giảm xuống dưới 100 USD lần đầu tiên sau gần một tháng",
-      "summary_vi": "Dầu thô đã được giao dịch ở mức cao tới 118 USD vào thứ Sáu. Giá dầu diesel kỳ hạn cũng giảm xuống mức thấp nhất kể từ tháng 8 khi hy vọng về một giải pháp cho cuộc chiến Iran ngày càng tăng.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-diesel-gas-vl-1158a-1fd436.jpg",
-      "link": "https://www.nbcnews.com/business/energy/oil-prices-iran-war-midterms-rcna607448",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-11-05 00:05"
-    },
-    {
-      "id": "1sys2f1",
-      "title": "Kraft Heinz To Sell North America Coffee Business For $650M, Raises Full-Year Sales Outlook",
-      "title_vi": "Kraft Heinz bán mảng kinh doanh cà phê Bắc Mỹ với giá 650 triệu USD, nâng triển vọng doanh thu cả năm",
-      "summary_vi": "Kraft Heinz (KHC) đã đồng ý bán hoạt động kinh doanh cà phê ở Bắc Mỹ của mình cho một chi nhánh của One Rock Capital Partners với giá trị doanh nghiệp là 650 triệu USD, đồng thời giữ lại 30% cổ phần không kiểm soát.",
-      "image": "https://news.stocktwits-cdn.com/large_kraft_heinz_jpg_4db2a61952.webp",
-      "link": "https://stocktwits.com/news-articles/markets/equity/kraft-heinz-to-sell-north-america-coffee-business-for-650-m-raises-full-year-sales-outlook/cNGLiqBR93o",
-      "source": "Stocktwits",
-      "category": "soft",
-      "published": "2026-11-04 23:02"
-    },
-    {
-      "id": "1qaaj42",
-      "title": "Hundreds of Cuppers to Help Build a Kenya Coffee Flavor Atlas",
-      "title_vi": "Hàng trăm Cuppers giúp xây dựng bản đồ hương vị cà phê Kenya",
-      "summary_vi": "Một sáng kiến ​​mới ở Kenya có kế hoạch ghi lại hương vị cà phê đa dạng của đất nước thông qua nỗ lực nếm thử phối hợp với hơn 500 mẫu từ 34 quận. Hương vị cà phê Kenya...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/11/04/hundreds-of-cuppers-to-help-build-a-kenya-coffee-flavor-atlas/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-11-04 22:52"
     }
   ]
 }

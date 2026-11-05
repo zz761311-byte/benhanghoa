@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-06 03:01",
+  "updated_at": "2026-11-06 04:01",
   "items": [
+    {
+      "id": "awbepd",
+      "title": "Batteries Are Taking the Gas Peaker’s Best Hours",
+      "title_vi": "Pin đang ở thời điểm tốt nhất của Gas Peaker",
+      "summary_vi": "Các mỏ khí đốt đỉnh cao luôn có một lợi thế kinh tế mang tính quyết định: chi phí chế tạo chúng tương đối rẻ. Một nhà máy đạt công suất cao nhất có thể không hoạt động trong hầu hết thời gian trong năm, sau đó bắt đầu hoạt động khi nhu cầu và giá điện tăng cao. Nhiên liệu của nó đắt và hiệu suất của nó thường ở mức trung bình, nhưng chi phí ban đầu thấp.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_ryyxju2gqu.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Batteries-Are-Taking-the-Gas-Peakers-Best-Hours.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-06 04:00"
+    },
+    {
+      "id": "1nkn49n",
+      "title": "ConocoPhillips Doubles Profit to $4 Billion, Raises Dividend",
+      "title_vi": "ConocoPhillips tăng gấp đôi lợi nhuận lên 4 tỷ USD, tăng cổ tức",
+      "summary_vi": "ConocoPhillips đã tăng hơn gấp đôi lợi nhuận quý 3 lên 4 tỷ USD và tăng cổ tức hàng quý lên 11% vào thứ Năm, gia nhập danh sách ngày càng tăng các công ty dầu mỏ báo cáo mức tăng thu nhập khổng lồ khi giá dầu thô cao hơn bù đắp cho sự gián đoạn sản xuất do chiến tranh Iran gây ra. Thế Hồ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-05_8vnbmbxstl.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ConocoPhillips-Doubles-Profit-to-4-Billion-Raises-Dividend.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-06 03:30"
+    },
+    {
+      "id": "1xyktzh",
+      "title": "AAA Texas reports gas prices drop alongside crude oil costs",
+      "title_vi": "AAA Texas báo cáo giá xăng giảm cùng với chi phí dầu thô",
+      "summary_vi": "Theo AAA Texas, các tài xế ở Texas đang thấy nhẹ nhõm hơn nhờ máy bơm xăng khi giá xăng tiếp tục có xu hướng giảm.",
+      "image": "https://gray-kauz-prod.gtv-cdn.com/resizer/v2/N4R7CM76VBCHBIVIRS6W3ZUKEE.jpg?auth=e44da12ccba2be241233a2ac5f7cdf544b6683057b6ade0254e10f830db55ddc&width=1200&height=600&smart=true",
+      "link": "https://www.newschannel6now.com/2026/11/05/aaa-texas-reports-gas-prices-drop-alongside-crude-oil-costs/",
+      "source": "News Channel 6 | Wichita Falls, TX",
+      "category": "energy",
+      "published": "2026-11-06 03:09"
+    },
     {
       "id": "vtjkqd",
       "title": "France&#039;s Debt Crisis Could Trigger a Much Bigger European Meltdown",
@@ -90,17 +123,6 @@
       "published": "2026-11-05 23:30"
     },
     {
-      "id": "15s4irq",
-      "title": "Iran Opens Strait of Hormuz to China and India as U.S. Blockade Continues",
-      "title_vi": "Iran mở eo biển Hormuz cho Trung Quốc và Ấn Độ khi Mỹ tiếp tục phong tỏa",
-      "summary_vi": "Trong một diễn biến đáng kể, mặc dù chưa được báo cáo đầy đủ về năng lượng toàn cầu và đối với bế tắc Mỹ-Iran ở Vịnh Ba Tư, quốc hội Iran trong tuần này đã tuyên bố miễn trừ một số đối tác thương mại quan trọng khỏi các hạn chế vận chuyển dầu ở eo biển Hormuz. việc di chuyển",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_a3cramjhkq.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Iran-Opens-Strait-of-Hormuz-to-China-and-India-as-US-Blockade-Continues.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-05 23:00"
-    },
-    {
       "id": "7towg3",
       "title": "Dry Weather Returns as Soybean Harvest Delays Persist and Unusual Warmth Approaches",
       "title_vi": "Thời tiết khô hạn quay trở lại do việc thu hoạch đậu nành vẫn bị trì hoãn và thời tiết ấm áp bất thường đang đến gần",
@@ -110,17 +132,6 @@
       "source": "AgroLatam",
       "category": "agri",
       "published": "2026-11-05 22:50"
-    },
-    {
-      "id": "c7ewrx",
-      "title": "EU Not Planning to Resume Russian Gas Purchases",
-      "title_vi": "EU không có kế hoạch nối lại việc mua khí đốt của Nga",
-      "summary_vi": "Các nhà ngoại giao EU nói với EUobserver rằng Liên minh châu Âu không muốn cũng như không có bất kỳ kế hoạch nào tiếp tục mua khí đốt của Nga khi các quan chức châu Âu, Mỹ và Ukraine đang gặp nhau tại Brussels để thảo luận về việc phục hồi sau chiến tranh ở Ukraine trước cuộc đàm phán Mỹ-Ukraine-Nga vào tuần tới tại Ab.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-05_rwmtdbibln.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Not-Planning-to-Resume-Russian-Gas-Purchases.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-05 22:30"
     },
     {
       "id": "1c30vbe",
@@ -486,6 +497,17 @@
       "published": "2026-11-05 02:15"
     },
     {
+      "id": "1e7mct8",
+      "title": "“A model can suggest where to look”: Mario Stifano on AI and mining",
+      "title_vi": "“Một mô hình có thể gợi ý nơi cần tìm”: Mario Stifano về AI và khai thác",
+      "summary_vi": "Giám đốc điều hành Galantas Mario Stifano giải thích lý do tại sao các trung tâm dữ liệu AI phụ thuộc vào đồng và năng lượng cũng như tại sao các mỏ mới phải mất gần 18 năm mới đi vào hoạt động.",
+      "image": "https://media.thenextweb.com/2026/11/mario-stifano-galantas-ceo-headshot.jpg",
+      "link": "https://thenextweb.com/news/galantas-ceo-mario-stifano-ai-data-centres-copper-gold-mining",
+      "source": "The Next Web",
+      "category": "metal",
+      "published": "2026-11-05 00:27"
+    },
+    {
       "id": "1otrt8f",
       "title": "Palladium Rebounds From 16-Month Low",
       "title_vi": "Palladium phục hồi từ mức thấp nhất trong 16 tháng",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-04 22:52"
-    },
-    {
-      "id": "n207ij",
-      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
-      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
-      "source": "EnergyNow.com",
-      "category": "macro",
-      "published": "2026-11-04 22:40"
-    },
-    {
-      "id": "1w510dl",
-      "title": "US Oil Inventories Fall Further As Demand Holds",
-      "title_vi": "Tồn kho dầu của Mỹ giảm hơn nữa khi nhu cầu giữ nguyên",
-      "summary_vi": "Theo dữ liệu mới từ Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA) công bố hôm thứ Tư, tồn kho dầu thô ở Hoa Kỳ đã giảm 900.000 thùng trong tuần kết thúc vào ngày 30 tháng 10.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-04_r7jexzqvzl.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Inventories-Fall-Further-As-Demand-Holds.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-11-04 22:37"
     }
   ]
 }

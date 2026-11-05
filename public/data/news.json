@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-06 05:24",
+  "updated_at": "2026-11-06 06:01",
   "items": [
+    {
+      "id": "qy98i5",
+      "title": "Asia Hopes U.S. Midterm Results Will Ease Energy Crisis",
+      "title_vi": "Châu Á hy vọng kết quả giữa kỳ của Mỹ sẽ xoa dịu khủng hoảng năng lượng",
+      "summary_vi": "Các nước châu Á phụ thuộc vào nhập khẩu dầu khí để đảm bảo an ninh năng lượng đang hy vọng rằng kết quả của cuộc bầu cử giữa nhiệm kỳ của Mỹ sẽ dẫn đến chấm dứt chiến tranh ở Trung Đông và do đó chấm dứt cuộc khủng hoảng nhiên liệu nghiêm trọng mà các nước châu Á đang trải qua. Những hy vọng có thể là p",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_ead9sx0btk.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Asia-Hopes-US-Midterm-Results-Will-Ease-Energy-Crisis.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-06 06:00"
+    },
     {
       "id": "1bwl7e7",
       "title": "India&#039;s Renewables Have Saved $100 Billion in Fuel Imports, IEA Says",
@@ -110,17 +121,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-06 01:00"
-    },
-    {
-      "id": "155jr8r",
-      "title": "Guyana’s Oil Boom Could Ease the Global Supply Crunch",
-      "title_vi": "Sự bùng nổ dầu mỏ ở Guyana có thể xoa dịu cuộc khủng hoảng nguồn cung toàn cầu",
-      "summary_vi": "Nguồn cung dầu toàn cầu thắt chặt, cộng thêm lo ngại về các cuộc tấn công tiếp theo của Mỹ nhằm vào Iran, đang làm dấy lên mối lo ngại về khả năng giá dầu tăng đột biến. Tồn kho xăng dầu toàn cầu đang sụt giảm, trong khi giá nhiên liệu của Mỹ tăng lên mức cao lịch sử, thúc đẩy lạm phát và tăng áp lực",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-04_lkbqtnvfye.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Boom-Could-Ease-the-Global-Supply-Crunch.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-06 00:00"
     },
     {
       "id": "7towg3",
@@ -275,6 +275,17 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-11-05 15:26"
+    },
+    {
+      "id": "1ey1x12",
+      "title": "USDA errors raise credibility concerns ahead of Nov. crop reports",
+      "title_vi": "Những sai sót của USDA làm tăng mối lo ngại về độ tin cậy trước báo cáo vụ mùa tháng 11",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/corn/usda-errors-raise-credibility-concerns-ahead-of-november-crop-reports",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-11-05 15:03"
     },
     {
       "id": "x91fvt",
@@ -539,17 +550,6 @@
       "source": "The Next Web",
       "category": "metal",
       "published": "2026-11-05 00:27"
-    },
-    {
-      "id": "1stt8s9",
-      "title": "Investors Are Rushing To Gold As US Dollar Tanks",
-      "title_vi": "Các nhà đầu tư đang đổ xô vào vàng khi đồng đô la Mỹ tăng giá",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/investors-rushing-gold-us-dollar-171949355.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-11-05 00:19"
     }
   ]
 }

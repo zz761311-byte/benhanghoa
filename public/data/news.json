@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-05 20:01",
+  "updated_at": "2026-11-05 21:01",
   "items": [
+    {
+      "id": "1vlkfwk",
+      "title": "European Gas Prices Drop on Iran Deal Hopes after U.S. Midterms",
+      "title_vi": "Giá khí đốt châu Âu giảm do hy vọng đạt được thỏa thuận với Iran sau cuộc bầu cử giữa kỳ ở Mỹ",
+      "summary_vi": "Giá khí đốt tự nhiên chuẩn của châu Âu đã giảm 2% vào sáng sớm tại Amsterdam hôm thứ Năm, kéo dài đà giảm của ngày thứ Tư, sau chiến thắng vang dội của đảng Dân chủ trong cuộc bầu cử giữa kỳ ở Hoa Kỳ làm dấy lên hy vọng về một giải pháp cho cuộc chiến tranh Iran và sự quay trở lại của dòng LNG đi qua",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-05_f5rc8ayxjs.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Prices-Drop-on-Iran-Deal-Hopes-after-US-Midterms.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-05 20:30"
+    },
+    {
+      "id": "1hz54du",
+      "title": "Cocoa Falls to One-Month Low as Warehouse Stockpiles Rise",
+      "title_vi": "Ca cao giảm xuống mức thấp nhất trong một tháng do lượng tồn kho trong kho tăng lên",
+      "summary_vi": "Giá cacao kỳ hạn tại New York giảm xuống mức thấp nhất trong một tháng do tồn kho tại các kho hàng ở châu Âu và Mỹ tăng cao vượt qua lo ngại về rủi ro thời tiết ở các nước sản xuất chính.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1o0iaxwTR2A/v1/1200x800.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-05/cocoa-falls-to-one-month-low-as-warehouse-stockpiles-rise",
+      "source": "Bloomberg.com",
+      "category": "soft",
+      "published": "2026-11-05 20:08"
+    },
     {
       "id": "acyosq",
       "title": "Pentagon Eyes Unprecedented 75-Year Deal to End China&#039;s Rare Earth Stranglehold",
@@ -187,17 +209,6 @@
       "source": "China Daily Global Edition",
       "category": "macro",
       "published": "2026-11-05 08:26"
-    },
-    {
-      "id": "r0mfuc",
-      "title": "Africa’s LNG Exports Set to Soar 175% as Buyers Flee Hormuz",
-      "title_vi": "Xuất khẩu LNG của Châu Phi tăng vọt 175% khi người mua rời khỏi Hormuz",
-      "summary_vi": "Những người mua năng lượng bị đốt cháy bởi eo biển Hormuz đang chuyển sang châu Phi và tiền cũng theo sau. Phòng Năng lượng Châu Phi dự đoán rằng khu vực thượng nguồn của Châu Phi sẽ thu hút ~40 tỷ USD mỗi năm cho đến năm 2030, nâng sản lượng hydrocarbon của lục địa này lên 12,5 MBoe/ngày. Mô-dăm-bích,",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-04_bf4kwsdztj.jpg",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Africas-LNG-Exports-Set-to-Soar-175-as-Buyers-Flee-Hormuz.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-05 08:00"
     },
     {
       "id": "3gjfse",
@@ -539,17 +550,6 @@
       "source": "farmdoc daily",
       "category": "agri",
       "published": "2026-11-04 08:42"
-    },
-    {
-      "id": "1u9b516",
-      "title": "Metals brace for US payrolls and tech earnings as crude tracks geopolitical risk",
-      "title_vi": "Kim loại tăng cường cho bảng lương và thu nhập công nghệ của Hoa Kỳ khi dầu thô theo dõi rủi ro địa chính trị",
-      "summary_vi": "Cuộc bầu cử giữa nhiệm kỳ của Mỹ vào thứ Ba, ngày 3/11 có thể sẽ ảnh hưởng đến kỳ vọng về chính sách tài chính và năng lượng, cũng như lập trường của Washington đối với Iran, với những tác động trực tiếp đến dầu thô.",
-      "image": "https://images.moneycontrol.com/static-mcnews/2024/09/20240906033445_stock-market-pexels-.jpg",
-      "link": "https://www.moneycontrol.com/news/business/commodities/metals-brace-for-us-payrolls-and-tech-earnings-as-crude-tracks-geopolitical-risk-14065517.html",
-      "source": "Moneycontrol.com",
-      "category": "macro",
-      "published": "2026-11-04 07:22"
     }
   ]
 }

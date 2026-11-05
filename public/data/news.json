@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 15:00",
+  "updated_at": "2026-11-05 15:34",
   "items": [
     {
       "id": "9ohpxo",
@@ -187,6 +187,17 @@
       "source": "AgroLatam",
       "category": "agri",
       "published": "2026-11-05 03:12"
+    },
+    {
+      "id": "1qj48bw",
+      "title": "History offers clues for corn prices heading into winter",
+      "title_vi": "Lịch sử cung cấp manh mối về giá ngô sắp bước vào mùa đông",
+      "summary_vi": "Bởi Jon Scheve Một số người có thể lập luận rằng việc USDA điều chỉnh ước tính ngô tháng 9 đã làm tổn hại đến c",
+      "image": "https://ocj.com/wp-content/uploads/2026/11/History-offers-clues-for-corn-prices-heading-into-winter.png",
+      "link": "https://ocj.com/2026/11/history-offers-clues-for-corn-prices-heading-into-winter/",
+      "source": "Ohio's Country Journal",
+      "category": "agri",
+      "published": "2026-11-05 03:02"
     },
     {
       "id": "1m5i1oc",
@@ -539,17 +550,6 @@
       "source": "IndexBox",
       "category": "soft",
       "published": "2026-11-04 03:41"
-    },
-    {
-      "id": "13xj4us",
-      "title": "Keurig and Luckin Report Growth Amid Coffee Market Shifts",
-      "title_vi": "Keurig và Luckin báo cáo tăng trưởng trong bối cảnh thị trường cà phê thay đổi",
-      "summary_vi": "Hai trong số những công ty cà phê lớn nhất thế giới, Keurig Dr Pepper và Luckin Coffee, đã báo cáo kết quả tài chính hàng quý vào hôm nay, ngày 3 tháng 11, cho thấy mức tăng trưởng tổng thể mạnh mẽ bên cạnh những thách thức đáng chú ý ở những bộ phận quan trọng...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/11/03/keurig-and-luckin-report-growth-amid-coffee-market-shifts/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-11-04 03:26"
     }
   ]
 }

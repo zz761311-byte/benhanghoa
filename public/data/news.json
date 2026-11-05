@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 05:00",
+  "updated_at": "2026-11-06 05:24",
   "items": [
     {
       "id": "1bwl7e7",
@@ -497,6 +497,17 @@
       "published": "2026-11-05 02:59"
     },
     {
+      "id": "6awmsq",
+      "title": "Oil prices drop below $100 as midterms fuel hope for an end to the Iran war",
+      "title_vi": "Giá dầu giảm xuống dưới 100 USD do kỳ vọng giữa kỳ về việc chấm dứt chiến tranh Iran",
+      "summary_vi": "Dầu thô đã giao dịch ở mức cao tới 118 USD/thùng vào thứ Sáu. Giá dầu diesel kỳ hạn cũng giảm xuống mức thấp nhất kể từ tháng 8.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-diesel-gas-vl-1158a-1fd436.jpg",
+      "link": "https://www.nbcnews.com/business/energy/oil-prices-iran-war-midterms-rcna607448",
+      "source": "NBC News",
+      "category": "energy",
+      "published": "2026-11-05 02:56"
+    },
+    {
       "id": "1tjfzt3",
       "title": "Unsweetened Coffee Pods Market To 2035: Premiumization and Sustainability Shape Growth - News and Statistics",
       "title_vi": "Thị trường cà phê viên không đường đến năm 2035: Tính ưu việt hóa và tính bền vững Định hình tăng trưởng - Tin tức và Thống kê",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-11-05 00:19"
-    },
-    {
-      "id": "1otrt8f",
-      "title": "Palladium Rebounds From 16-Month Low",
-      "title_vi": "Palladium phục hồi từ mức thấp nhất trong 16 tháng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.tradingview.com/news/te_news:598264:0-palladium-rebounds-from-16-month-low/",
-      "source": "TradingView",
-      "category": "metal",
-      "published": "2026-11-05 00:13"
     }
   ]
 }

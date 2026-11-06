@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-06 06:01",
+  "updated_at": "2026-11-06 07:00",
   "items": [
+    {
+      "id": "1imiw2m",
+      "title": "U.S. Shale Giants Hold Back on Drilling Despite Higher Oil Prices",
+      "title_vi": "Các gã khổng lồ đá phiến của Mỹ hạn chế hoạt động khoan bất chấp giá dầu cao hơn",
+      "summary_vi": "Các nhà sản xuất đá phiến lớn nhất của Mỹ vẫn thận trọng trong chi tiêu cho hoạt động khoan trong năm nay bất chấp giá dầu thô WTI trung bình tăng 20 USD/thùng so với năm ngoái. Trong khi các dấu hiệu đã xuất hiện cho thấy các công ty độc lập nhỏ hơn đã bắt đầu tận dụng lợi thế cao hơn.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_ewsso3xlnb.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Shale-Giants-Hold-Back-on-Drilling-Despite-Higher-Oil-Prices.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-06 07:00"
+    },
     {
       "id": "qy98i5",
       "title": "Asia Hopes U.S. Midterm Results Will Ease Energy Crisis",
@@ -110,17 +121,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-06 02:00"
-    },
-    {
-      "id": "1u6lzet",
-      "title": "U.S. Refineries Make Dramatic Shift Away From Gasoline",
-      "title_vi": "Các nhà máy lọc dầu của Hoa Kỳ thực hiện sự thay đổi đáng kể từ bỏ xăng dầu",
-      "summary_vi": "Các nhà máy lọc dầu của Hoa Kỳ đang sản xuất một tỷ lệ xăng nhỏ hơn từ mỗi thùng dầu thô mà họ xử lý và chuyển nỗ lực sản xuất sang nhiên liệu diesel và nhiên liệu máy bay phản lực khi tỷ suất lợi nhuận tăng vọt của những sản phẩm đó định hình lại nền kinh tế lọc dầu của Mỹ. Sản lượng xăng trung bình dưới 45% trong thời gian",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_retpu9ns4g.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Refineries-Make-Dramatic-Shift-Away-From-Gasoline.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-06 01:00"
     },
     {
       "id": "7towg3",
@@ -387,6 +387,17 @@
       "published": "2026-11-05 08:26"
     },
     {
+      "id": "1uy6hdz",
+      "title": "Investors’ Long-Term Strategies Grapple with Contrasting Commodity Outlooks",
+      "title_vi": "Chiến lược dài hạn của nhà đầu tư gặp khó khăn với triển vọng hàng hóa tương phản",
+      "summary_vi": "Sự gián đoạn kéo dài ở Trung Đông có thể khiến giá dầu tăng cao trong khi lượng khí đốt tự nhiên dồi dào của Mỹ chuyển cơ hội đầu tư sang cơ sở hạ tầng.",
+      "image": "https://www.hartenergy.com/resizer/v2/HI5XJ6B72RDVJKB6PXFLVLOUUE.jpg?auth=4670ffeb2182f6e8d4ee4054ecdcbb9aae2b53e15e5b600ee2b48598f878c08e&width=1200",
+      "link": "https://www.hartenergy.com/upstream/exploration-production/he-oil-gas-breakfast-marshall-adkins/",
+      "source": "Hart Energy",
+      "category": "energy",
+      "published": "2026-11-05 07:43"
+    },
+    {
       "id": "3gjfse",
       "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
       "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
@@ -539,17 +550,6 @@
       "source": "Briefs Finance",
       "category": "soft",
       "published": "2026-11-05 02:15"
-    },
-    {
-      "id": "1e7mct8",
-      "title": "“A model can suggest where to look”: Mario Stifano on AI and mining",
-      "title_vi": "“Một mô hình có thể gợi ý nơi cần tìm”: Mario Stifano về AI và khai thác",
-      "summary_vi": "Giám đốc điều hành Galantas Mario Stifano giải thích lý do tại sao các trung tâm dữ liệu AI phụ thuộc vào đồng và năng lượng cũng như tại sao các mỏ mới phải mất gần 18 năm mới đi vào hoạt động.",
-      "image": "https://media.thenextweb.com/2026/11/mario-stifano-galantas-ceo-headshot.jpg",
-      "link": "https://thenextweb.com/news/galantas-ceo-mario-stifano-ai-data-centres-copper-gold-mining",
-      "source": "The Next Web",
-      "category": "metal",
-      "published": "2026-11-05 00:27"
     }
   ]
 }

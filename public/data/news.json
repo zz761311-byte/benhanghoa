@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-06 07:00",
+  "updated_at": "2026-11-06 08:00",
   "items": [
+    {
+      "id": "1v8cl2i",
+      "title": "Oil Rebounds Toward $100 as Democrats’ Sweep Rattles Energy Stocks",
+      "title_vi": "Dầu phục hồi lên mức 100 USD khi đảng Dân chủ quét sạch cổ phiếu năng lượng",
+      "summary_vi": "Giá dầu đã đảo ngược xu hướng giảm gần đây vào thứ Năm, một ngày sau khi đảng Dân chủ giành quyền kiểm soát cả Hạ viện và Thượng viện, tạo ra khả năng kiểm soát lập pháp đối với chính quyền của Tổng thống Mỹ Donald Trump. Dầu thô Brent tăng 4,0% để giao dịch ở mức 98,38 USD/thùng lúc 3:15 chiều ET, w",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_9cik1nxs7p.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Rebounds-Toward-100-as-Democrats-Sweep-Rattles-Energy-Stocks.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-06 08:00"
+    },
     {
       "id": "1imiw2m",
       "title": "U.S. Shale Giants Hold Back on Drilling Despite Higher Oil Prices",
@@ -112,17 +123,6 @@
       "published": "2026-11-06 02:30"
     },
     {
-      "id": "1o4x0f",
-      "title": "US and Turkmenistan Explore New Gas Routes Across the Caspian",
-      "title_vi": "Mỹ và Turkmenistan khám phá các tuyến đường khí đốt mới trên khắp Caspi",
-      "summary_vi": "Các nhà ngoại giao Hoa Kỳ và Turkmenistan tập trung vào việc mở rộng kết nối xuyên Caspian và thúc đẩy đa dạng hóa xuất khẩu năng lượng trong các cuộc tham vấn hàng năm ở Ashgabat. Các quan chức Turkmenistan đang thể hiện mong muốn mạnh mẽ cải thiện quan hệ thương mại với cả Nam Á và phương Tây, đồng thời duy trì",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-04_k0oijfcdhc.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/US-and-Turkmenistan-Explore-New-Gas-Routes-Across-the-Caspian.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-06 02:00"
-    },
-    {
       "id": "7towg3",
       "title": "Dry Weather Returns as Soybean Harvest Delays Persist and Unusual Warmth Approaches",
       "title_vi": "Thời tiết khô hạn quay trở lại do việc thu hoạch đậu nành vẫn bị trì hoãn và thời tiết ấm áp bất thường đang đến gần",
@@ -187,6 +187,17 @@
       "source": "marketscreener.com",
       "category": "metal",
       "published": "2026-11-05 20:42"
+    },
+    {
+      "id": "1m685jf",
+      "title": "Natural Gas Futures Face Storage Test After Midweek Rally",
+      "title_vi": "Thử nghiệm lưu trữ khí tự nhiên tương lai sau đợt tăng giá giữa tuần",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/natural-gas-futures-face-storage-test-after-midweek-rally/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-11-05 20:29"
     },
     {
       "id": "1hz54du",
@@ -539,17 +550,6 @@
       "source": "IndexBox",
       "category": "soft",
       "published": "2026-11-05 02:51"
-    },
-    {
-      "id": "ldsbqp",
-      "title": "India trims coffee output outlook after weak monsoon hits crops",
-      "title_vi": "Ấn Độ cắt giảm triển vọng sản lượng cà phê sau khi gió mùa yếu ảnh hưởng đến mùa màng",
-      "summary_vi": "Ấn Độ cắt giảm sản lượng cà phê niên vụ 2026-27 xuống còn khoảng 380.000 tấn sau đợt gió mùa yếu, có nguy cơ xuất khẩu bị thắt chặt hơn và giá cao hơn khi Brazil và Việt Nam định hình lại nền kinh tế toàn cầu.",
-      "image": "https://www.briefs.co/wp-content/uploads/2026/11/india-trims-coffee-output-outlook-after-weak-monsoon-hits-cr.png",
-      "link": "https://www.briefs.co/news/india-trims-coffee-output-outlook-after-weak-monsoon-hits-cr/",
-      "source": "Briefs Finance",
-      "category": "soft",
-      "published": "2026-11-05 02:15"
     }
   ]
 }

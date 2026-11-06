@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-07 00:00",
+  "updated_at": "2026-11-07 00:33",
   "items": [
+    {
+      "id": "39le2j",
+      "title": "ONGC Moves to Take Over Venezuelan Oilfields, Recover $500 Million",
+      "title_vi": "ONGC chuyển sang tiếp quản các mỏ dầu của Venezuela, thu hồi 500 triệu USD",
+      "summary_vi": "Tập đoàn Dầu khí Tự nhiên (ONGC) thuộc sở hữu nhà nước của Ấn Độ đang đàm phán để tiếp quản hoạt động tại hai dự án dầu mỏ của Venezuela trong vòng sáu tháng, một động thái có thể giúp họ kiểm soát sản xuất và bán hàng tại các mỏ mà họ đang nợ cổ tức hơn 500 triệu USD. Công ty&#0",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-06_t3yb9aqdvo.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ONGC-Moves-to-Take-Over-Venezuelan-Oilfields-Recover-500-Million.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-07 00:30"
+    },
     {
       "id": "vuxay7",
       "title": "Norway’s Oil and Gas Industry Faces a Major Decline Without New Discoveries",
@@ -156,17 +167,6 @@
       "published": "2026-11-06 19:38"
     },
     {
-      "id": "t8lko6",
-      "title": "Oil Prices Plunge as U.S. Elections Shake Up the Iran War",
-      "title_vi": "Giá dầu lao dốc khi cuộc bầu cử ở Mỹ làm rung chuyển cuộc chiến Iran",
-      "summary_vi": "Dầu thô WTI tháng 12 đang hướng tới một trong những tuần giảm giá nặng nề nhất trong nhiều tháng sau khi thị trường giảm 11,37 USD, tương đương 11,10%, so với giá mở cửa là 102,39 USD. Giá đạt mức cao hàng tuần ở mức 102,75 USD trước khi giảm mạnh xuống còn 86,65 USD. Đầu ngày thứ Sáu, hợp đồng được giao dịch ở mức gần 91,5 USD",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_asp7mrayjh.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Plunge-as-US-Elections-Shake-Up-the-Iran-War.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-06 19:30"
-    },
-    {
       "id": "7w8jwp",
       "title": "Global Food Prices Fall, but a Troubling Signal Emerges: What's Really Happening to Markets?",
       "title_vi": "Giá lương thực toàn cầu giảm, nhưng tín hiệu đáng lo ngại xuất hiện: Điều gì thực sự đang xảy ra với thị trường?",
@@ -231,6 +231,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-11-06 15:17"
+    },
+    {
+      "id": "n207ij",
+      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
+      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
+      "source": "EnergyNow.com",
+      "category": "macro",
+      "published": "2026-11-06 15:04"
     },
     {
       "id": "sctbw6",
@@ -409,6 +420,17 @@
       "published": "2026-11-06 02:15"
     },
     {
+      "id": "1lft2w5",
+      "title": "4 Best Silver Stocks for 2026 and How to Invest",
+      "title_vi": "4 cổ phiếu bạc tốt nhất năm 2026 và cách đầu tư",
+      "summary_vi": "Chúng tôi đã tìm ra những công ty bạc tốt nhất để bạn đầu tư, cùng với lời khuyên của chuyên gia về việc đầu tư tiền của bạn vào lĩnh vực này.",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fm.foolcdn.com%2Fmedia%2Fdubs%2Foriginal_images%2F17_06_20_Miner_with_a_silver_nugget_GettyImages-134059508.jpg&w=1200&op=resize",
+      "link": "https://www.fool.com/investing/stock-market/market-sectors/materials/silver-stocks/",
+      "source": "The Motley Fool",
+      "category": "metal",
+      "published": "2026-11-06 01:59"
+    },
+    {
       "id": "7towg3",
       "title": "Dry Weather Returns as Soybean Harvest Delays Persist and Unusual Warmth Approaches",
       "title_vi": "Thời tiết khô hạn quay trở lại do việc thu hoạch đậu nành vẫn bị trì hoãn và thời tiết ấm áp bất thường đang đến gần",
@@ -528,28 +550,6 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-11-05 19:00"
-    },
-    {
-      "id": "13u3m4y",
-      "title": "How Governor Becerra Can Tackle Unfair Gas Prices Without Sacrificing Environmental Progress? - The Equation",
-      "title_vi": "Thống đốc Becerra có thể giải quyết vấn đề giá khí đốt bất công bằng cách nào mà không ảnh hưởng đến tiến bộ môi trường? - Phương trình",
-      "summary_vi": "Việc thiết lập các thị trường linh hoạt và cạnh tranh cho năng lượng sạch và nhiên liệu truyền thống có thể đáp ứng nhu cầu hàng ngày của người tiêu dùng California cho đến khi quá trình chuyển đổi khỏi nhiên liệu hóa thạch hoàn tất.",
-      "image": "https://blog.ucs.org/wp-content/uploads/2026/11/chevron-station-prices-pasadea-ca-2026.jpg",
-      "link": "https://blog.ucs.org/jeremy-martin/how-governor-becerra-can-tackle-unfair-gas-prices-without-sacrificing-environmental-progress/",
-      "source": "The Equation - Union of Concerned Scientists",
-      "category": "energy",
-      "published": "2026-11-05 19:00"
-    },
-    {
-      "id": "1rk1byt",
-      "title": "Does the blue wave mean lower gasoline and diesel prices soon? Don’t hold your breath",
-      "title_vi": "Phải chăng làn sóng xanh đồng nghĩa với việc giá xăng và dầu diesel sẽ sớm giảm? Đừng nín thở",
-      "summary_vi": "Đa số đảng Dân chủ mới trong Quốc hội có thể gây áp lực buộc tổng thống chấm dứt chiến tranh ở Iran. Nhưng họ sẽ khó có thể tác động trực tiếp đến giá nhiên liệu, vốn gắn liền với thị trường dầu mỏ quốc tế phức tạp.",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8174x4598+0+426/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa1%2Fd5%2F2f507d3245b58e37869c017c2f94%2Fap26107769190989.jpg",
-      "link": "https://www.npr.org/2026/11/05/nx-s1-6029365/gas-diesel-price-congress-midterms",
-      "source": "NPR",
-      "category": "energy",
-      "published": "2026-11-05 17:00"
     }
   ]
 }

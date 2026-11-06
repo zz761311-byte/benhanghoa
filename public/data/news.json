@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 09:00",
+  "updated_at": "2026-11-06 09:35",
   "items": [
     {
       "id": "1i78jj6",
@@ -22,6 +22,17 @@
       "source": "Eurasia Review",
       "category": "soft",
       "published": "2026-11-06 08:29"
+    },
+    {
+      "id": "1fj9n61",
+      "title": "Copper Moves Lower as US Election Undermines AI and Tariff Trade",
+      "title_vi": "Đồng giảm xuống khi cuộc bầu cử ở Hoa Kỳ làm suy yếu AI và thương mại thuế quan",
+      "summary_vi": "Giá đồng giảm xuống mức thấp nhất kể từ tháng 7 do biến động chính trị ở Washington đe dọa làm giảm hai động lực tăng giá chính: cơ sở hạ tầng AI được xây dựng nhanh chóng và nguy cơ thuế nhập khẩu của Mỹ đối với kim loại.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inNhjNbUB7xA/v1/1200x800.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/copper-moves-lower-as-us-election-undermines-ai-and-tariff-trade",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-11-06 08:26"
     },
     {
       "id": "1v8cl2i",
@@ -143,6 +154,17 @@
       "source": "The Washington Post",
       "category": "metal",
       "published": "2026-11-06 02:56"
+    },
+    {
+      "id": "lbdf7o",
+      "title": "Why the silver price case now rests on investors",
+      "title_vi": "Tại sao trường hợp giá bạc bây giờ lại phụ thuộc vào các nhà đầu tư",
+      "summary_vi": "(Bình luận Kitco) - Công ty đứng sau cuộc khảo sát bạc trên thế giới hiện kỳ ​​vọng nhiều bạc hơn mức người mua cần vào năm 2027, tuy nhiên họ vẫn kỳ vọng giá bạc trung bình sẽ cao hơn vào năm tới so với năm nay.",
+      "image": "https://image-api.prod.kitco.com/image/ee3716fb-5733-4d08-af46-16361be05a5e.jpeg?top=35.751936316695&left=0&width=1385&height=778.49612736661&scale_width=1920&token=a0d101fae7e853d69781f7932186bd7dde37d10d61349c284c9d33849e0e6964",
+      "link": "https://www.kitco.com/opinion/2026-11-05/why-silver-price-case-now-rests-investors",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-11-06 02:15"
     },
     {
       "id": "7towg3",
@@ -420,6 +442,17 @@
       "published": "2026-11-05 07:43"
     },
     {
+      "id": "eivo42",
+      "title": "China weathered the Hormuz shock. Clean energy can make that resilience last.",
+      "title_vi": "Trung Quốc vượt qua cú sốc Hormuz Năng lượng sạch có thể giúp khả năng phục hồi đó kéo dài.",
+      "summary_vi": "",
+      "image": "https://energyandcleanair.org/wp/wp-content/uploads/2026/11/image.png",
+      "link": "https://energyandcleanair.org/china-weathered-the-hormuz-shock-clean-energy-can-make-that-resilience-last/",
+      "source": "Centre for Research on Energy and Clean Air",
+      "category": "energy",
+      "published": "2026-11-05 07:01"
+    },
+    {
       "id": "3gjfse",
       "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
       "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
@@ -517,39 +550,6 @@
       "source": "AgroLatam",
       "category": "agri",
       "published": "2026-11-05 03:12"
-    },
-    {
-      "id": "1qj48bw",
-      "title": "History offers clues for corn prices heading into winter",
-      "title_vi": "Lịch sử cung cấp manh mối về giá ngô sắp bước vào mùa đông",
-      "summary_vi": "Bởi Jon Scheve Một số người có thể lập luận rằng việc USDA điều chỉnh ước tính ngô tháng 9 đã làm tổn hại đến c",
-      "image": "https://ocj.com/wp-content/uploads/2026/11/History-offers-clues-for-corn-prices-heading-into-winter.png",
-      "link": "https://ocj.com/2026/11/history-offers-clues-for-corn-prices-heading-into-winter/",
-      "source": "Ohio's Country Journal",
-      "category": "agri",
-      "published": "2026-11-05 03:02"
-    },
-    {
-      "id": "z3m4x6",
-      "title": "Keurig Dr Pepper Coffee Concerns Persist, But Outlook Remains Positive, UBS Says",
-      "title_vi": "UBS cho biết mối lo ngại về cà phê Keurig Dr Pepper vẫn tồn tại nhưng triển vọng vẫn tích cực",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-coffee-concerns-195948776.html",
-      "source": "Yahoo Finance",
-      "category": "soft",
-      "published": "2026-11-05 02:59"
-    },
-    {
-      "id": "6awmsq",
-      "title": "Oil prices drop below $100 as midterms fuel hope for an end to the Iran war",
-      "title_vi": "Giá dầu giảm xuống dưới 100 USD do kỳ vọng giữa kỳ về việc chấm dứt chiến tranh Iran",
-      "summary_vi": "Dầu thô đã giao dịch ở mức cao tới 118 USD/thùng vào thứ Sáu. Giá dầu diesel kỳ hạn cũng giảm xuống mức thấp nhất kể từ tháng 8.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-diesel-gas-vl-1158a-1fd436.jpg",
-      "link": "https://www.nbcnews.com/business/energy/oil-prices-iran-war-midterms-rcna607448",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-11-05 02:56"
     }
   ]
 }

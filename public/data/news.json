@@ -1,6 +1,72 @@
 {
-  "updated_at": "2026-11-06 19:00",
+  "updated_at": "2026-11-06 20:00",
   "items": [
+    {
+      "id": "4ay52e",
+      "title": "Private Investing Jumps on Gold and Silver Price Drop",
+      "title_vi": "Đầu tư tư nhân tăng vọt khi giá vàng và bạc giảm",
+      "summary_vi": "Đầu tư vào vàng và bạc tăng vọt trong tháng 10 khi giá giảm, với số lượng người mua trên BullionVault nhiều hơn số người bán nhiều nhất trong 3 tháng >>",
+      "image": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/gold-investor-index-october-2026.png",
+      "link": "https://www.bullionvault.com/gold-news/gold-investor-index/gold-silver-investing-price-drop-110620261",
+      "source": "BullionVault",
+      "category": "metal",
+      "published": "2026-11-06 19:38"
+    },
+    {
+      "id": "t8lko6",
+      "title": "Oil Prices Plunge as U.S. Elections Shake Up the Iran War",
+      "title_vi": "Giá dầu lao dốc khi cuộc bầu cử ở Mỹ làm rung chuyển cuộc chiến Iran",
+      "summary_vi": "Dầu thô WTI tháng 12 đang hướng tới một trong những tuần giảm giá nặng nề nhất trong nhiều tháng sau khi thị trường giảm 11,37 USD, tương đương 11,10%, so với giá mở cửa là 102,39 USD. Giá đạt mức cao hàng tuần ở mức 102,75 USD trước khi giảm mạnh xuống còn 86,65 USD. Đầu ngày thứ Sáu, hợp đồng được giao dịch ở mức gần 91,5 USD",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_asp7mrayjh.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Plunge-as-US-Elections-Shake-Up-the-Iran-War.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-06 19:30"
+    },
+    {
+      "id": "1wmlo71",
+      "title": "Israel’s Election Dispute Escalates Amid Claims of Foreign Interference",
+      "title_vi": "Tranh chấp bầu cử ở Israel leo thang trong bối cảnh có tuyên bố về sự can thiệp của nước ngoài",
+      "summary_vi": "Chính trị, Địa chính trị & Xung đột Benjamin Netanyahu đang sử dụng Shin Bet để thách thức cuộc bầu cử mà khối của ông đã thua. Giám đốc Shin Bet David Zini, người được Netanyahu bổ nhiệm, đang tìm cách thẩm vấn 4 lãnh đạo đảng Ả Rập, bao gồm cả Mansour Abbas của Ra'am, về các cáo buộc liên quan đến hoạt động do nước ngoài tài trợ.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_hqtri6cxug.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Israels-Election-Dispute-Escalates-Amid-Claims-of-Foreign-Interference.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-11-06 19:30"
+    },
+    {
+      "id": "145qtdb",
+      "title": "A New Middle East Power Struggle Is Taking Shape in the Red Sea",
+      "title_vi": "Một cuộc tranh giành quyền lực mới ở Trung Đông đang hình thành ở Biển Đỏ",
+      "summary_vi": "Cơ quan an ninh của Israel, trong cơn hoảng loạn với thiết kế của chính mình, đang coi khối phòng thủ do Thổ Nhĩ Kỳ lãnh đạo đang hình thành xung quanh Ả Rập Saudi là “vòng lửa của người Sunni”, kế thừa của vòng tròn Shiite mà Iran xây dựng từ Hezbollah, Houthis và dân quân Iraq. Văn kiện thành lập khối",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_kuo0uexfmr.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/A-New-Middle-East-Power-Struggle-Is-Taking-Shape-in-the-Red-Sea.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-06 19:30"
+    },
+    {
+      "id": "17o95k",
+      "title": "Asia’s Fuel Oil Market Signals Hopes of U.S.-Iran De-Escalation",
+      "title_vi": "Thị trường dầu nhiên liệu châu Á báo hiệu hy vọng giảm căng thẳng Mỹ-Iran",
+      "summary_vi": "Biên lợi nhuận lọc dầu nhiên liệu và giá chuẩn của châu Á đã giảm trong tuần này sau khi kết quả cuộc bầu cử giữa kỳ của Mỹ làm tăng hy vọng rằng có thể có sự xuống thang ở Trung Đông cho phép nhiều sản phẩm dầu di chuyển ra khỏi eo biển Hormuz. Thị trường dầu nhiên liệu cũng yếu đi",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-06_cehvm4bref.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asias-Fuel-Oil-Market-Signals-Hopes-of-US-Iran-De-Escalation.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-06 19:30"
+    },
+    {
+      "id": "7w8jwp",
+      "title": "Global Food Prices Fall, but a Troubling Signal Emerges: What's Really Happening to Markets?",
+      "title_vi": "Giá lương thực toàn cầu giảm, nhưng tín hiệu đáng lo ngại xuất hiện: Điều gì thực sự đang xảy ra với thị trường?",
+      "summary_vi": "Giá lương thực toàn cầu giảm trong tháng 10 nhưng đường lại tăng và thị trường ngũ cốc suy yếu. Dữ liệu của FAO tiết lộ những thách thức mới đối với nông dân và nhà xuất khẩu",
+      "image": "https://www.agrolatam.com/files/image/83/83914/6aedbfa77be83_600_315!.png?s=a9ef3a5ae03211e2279d123d74ffa84a&d=1793966453",
+      "link": "https://www.agrolatam.com/usa/news/global-food-prices-october-2026-fao-grain-sugar-markets/",
+      "source": "AgroLatam",
+      "category": "soft",
+      "published": "2026-11-06 19:00"
+    },
     {
       "id": "qqdv3y",
       "title": "India’s HPCL Struggles to Secure Oil Tankers as Hormuz Risks Persist",
@@ -11,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-06 18:15"
+    },
+    {
+      "id": "fg18db",
+      "title": "Gold Retreats Below $4,050 as Dollar Strengthens Ahead of US Employment Report",
+      "title_vi": "Vàng giảm xuống dưới 4.050 USD khi đồng đô la mạnh lên trước báo cáo việc làm của Hoa Kỳ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://uk.finance.yahoo.com/news/gold-retreats-below-4-050-102822484.html",
+      "source": "Yahoo Finance UK",
+      "category": "metal",
+      "published": "2026-11-06 17:28"
     },
     {
       "id": "guozun",
@@ -90,17 +167,6 @@
       "published": "2026-11-06 14:15"
     },
     {
-      "id": "pho8ac",
-      "title": "Oil Prices Head for 12% Weekly Loss Despite Fresh Tanker Attacks",
-      "title_vi": "Giá dầu giảm 12% mỗi tuần bất chấp các cuộc tấn công tàu chở dầu mới",
-      "summary_vi": "Giá dầu thô đang có xu hướng giảm mạnh hàng tuần, với cả dầu thô Brent và WTI đều giảm 12% kể từ thứ Hai, sau kết quả cuộc bầu cử giữa nhiệm kỳ của Hoa Kỳ, điều này làm nảy sinh hy vọng rằng cuộc chiến ở Trung Đông có thể nhanh chóng kết thúc. Tại thời điểm viết bài,",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-06_1uaxnd4aom.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-12-Weekly-Loss-Despite-Fresh-Tanker-Attacks.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-06 13:05"
-    },
-    {
       "id": "c7wbmp",
       "title": "NC extreme drought: Wheat farmers hope for rain to plant crops, no impactful rainfall in forecast for central North Carolina",
       "title_vi": "Hạn hán khắc nghiệt ở NC: Nông dân trồng lúa mì hy vọng có mưa để trồng trọt, dự báo không có lượng mưa ảnh hưởng đến miền trung Bắc Carolina",
@@ -121,17 +187,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-11-06 09:49"
-    },
-    {
-      "id": "1i78jj6",
-      "title": "America’s Rare Earth Reckoning Is Less Than 60 Days Away",
-      "title_vi": "Việc tính toán đất hiếm của Mỹ chỉ còn chưa đầy 60 ngày nữa",
-      "summary_vi": "Vào tháng 2 năm 2026, Tổng thống Trump đã công bố một trong những sáng kiến ​​an ninh công nghiệp đầy tham vọng nhất trong nhiệm kỳ tổng thống của ông: Dự án Vault, kho dự trữ chiến lược trị giá 12 tỷ USD gồm các khoáng sản quan trọng và đất hiếm được thiết kế để bảo vệ các nhà sản xuất Mỹ và cơ sở công nghiệp quốc phòng.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_segnteywmx.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Americas-Rare-Earth-Reckoning-Is-Less-Than-60-Days-Away.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-06 09:00"
     },
     {
       "id": "z8d5qr",
@@ -156,17 +211,6 @@
       "published": "2026-11-06 08:26"
     },
     {
-      "id": "1v8cl2i",
-      "title": "Oil Rebounds Toward $100 as Democrats’ Sweep Rattles Energy Stocks",
-      "title_vi": "Dầu phục hồi lên mức 100 USD khi đảng Dân chủ quét sạch cổ phiếu năng lượng",
-      "summary_vi": "Giá dầu đã đảo ngược xu hướng giảm gần đây vào thứ Năm, một ngày sau khi đảng Dân chủ giành quyền kiểm soát cả Hạ viện và Thượng viện, tạo ra khả năng kiểm soát lập pháp đối với chính quyền của Tổng thống Mỹ Donald Trump. Dầu thô Brent tăng 4,0% để giao dịch ở mức 98,38 USD/thùng lúc 3:15 chiều ET, w",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_9cik1nxs7p.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Rebounds-Toward-100-as-Democrats-Sweep-Rattles-Energy-Stocks.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-06 08:00"
-    },
-    {
       "id": "1yy5yik",
       "title": "Tankers carrying Russian diesel change course, raising doubts about shipments to U.S.",
       "title_vi": "Tàu chở dầu chở động cơ diesel của Nga thay đổi hành trình, làm dấy lên nghi ngờ về các chuyến hàng sang Mỹ",
@@ -176,17 +220,6 @@
       "source": "PBS",
       "category": "energy",
       "published": "2026-11-06 07:17"
-    },
-    {
-      "id": "1imiw2m",
-      "title": "U.S. Shale Giants Hold Back on Drilling Despite Higher Oil Prices",
-      "title_vi": "Các gã khổng lồ đá phiến của Mỹ hạn chế hoạt động khoan bất chấp giá dầu cao hơn",
-      "summary_vi": "Các nhà sản xuất đá phiến lớn nhất của Mỹ vẫn thận trọng trong chi tiêu cho hoạt động khoan trong năm nay bất chấp giá dầu thô WTI trung bình tăng 20 USD/thùng so với năm ngoái. Trong khi các dấu hiệu đã xuất hiện cho thấy các công ty độc lập nhỏ hơn đã bắt đầu tận dụng lợi thế cao hơn.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_ewsso3xlnb.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Shale-Giants-Hold-Back-on-Drilling-Despite-Higher-Oil-Prices.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-06 07:00"
     },
     {
       "id": "1gxqtqw",
@@ -420,28 +453,6 @@
       "published": "2026-11-05 19:00"
     },
     {
-      "id": "1d6pw2u",
-      "title": "Gold Prices Rise as Weaker Dollar and Treasury Yields Follow US Midterm Elections",
-      "title_vi": "Giá vàng tăng do đồng đô la và lợi suất trái phiếu kho bạc yếu hơn sau cuộc bầu cử giữa kỳ của Hoa Kỳ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-prices-rise-weaker-dollar-103714664.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-11-05 17:37"
-    },
-    {
-      "id": "lm94mj",
-      "title": "Jobs Report vs. Midterms in the Fight to Steer Gold and the Dollar",
-      "title_vi": "Báo cáo việc làm so với cuộc bầu cử giữa kỳ trong cuộc chiến giành vàng và đô la",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en/insights/jobs-report-vs-midterms-in-the-fight-to-steer-gold-and-the-dollar/",
-      "source": "StoneX",
-      "category": "metal",
-      "published": "2026-11-05 17:12"
-    },
-    {
       "id": "1rk1byt",
       "title": "Does the blue wave mean lower gasoline and diesel prices soon? Don’t hold your breath",
       "title_vi": "Phải chăng làn sóng xanh đồng nghĩa với việc giá xăng và dầu diesel sẽ sớm giảm? Đừng nín thở",
@@ -539,17 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-11-05 11:05"
-    },
-    {
-      "id": "1cbxlex",
-      "title": "Cocoa Beach Pier Surf Report, Surf Forecast and Surf Cams",
-      "title_vi": "Báo cáo lướt sóng trên bến tàu trên bãi biển Cocoa, dự báo lướt sóng và máy quay lướt sóng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.surfline.com/surf-report/cocoa-beach-pier/5842041f4e65fad6a7708872",
-      "source": "Surfline",
-      "category": "soft",
-      "published": "2026-11-05 09:47"
     }
   ]
 }

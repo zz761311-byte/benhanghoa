@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-06 14:00",
+  "updated_at": "2026-11-06 15:00",
   "items": [
+    {
+      "id": "12xvv2i",
+      "title": "The Global Oil Glut Returns as High Prices Crush Demand",
+      "title_vi": "Tình trạng dư thừa dầu toàn cầu quay trở lại khi giá cao đè bẹp nhu cầu",
+      "summary_vi": "Theo các nhà phân tích từ Goldman Sachs và JPMorgan, thị trường dầu thô toàn cầu đang quay trở lại tình trạng dư cung, với sự sụt giảm nhu cầu do giá cao khiến lo ngại về thâm hụt giảm dần và lo ngại về tình trạng dư thừa gia tăng. “Chúng tôi ước tính thị trường dầu mỏ toàn cầu đã trở lại mức dư thừa",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-06_ryhurvfann.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/The-Global-Oil-Glut-Returns-as-High-Prices-Crush-Demand.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-06 14:30"
+    },
+    {
+      "id": "sctbw6",
+      "title": "Brent Crude Climbs Above $100 as Middle East Oil Supply Risks Persist",
+      "title_vi": "Dầu thô Brent tăng trên 100 USD khi rủi ro nguồn cung dầu ở Trung Đông vẫn tồn tại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/brent-crude-climbs-above-100-as-middle-east-oil-supply-risks-persist-caaf64bb",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-11-06 14:15"
+    },
     {
       "id": "pho8ac",
       "title": "Oil Prices Head for 12% Weekly Loss Despite Fresh Tanker Attacks",
@@ -143,17 +165,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-06 04:00"
-    },
-    {
-      "id": "1nkn49n",
-      "title": "ConocoPhillips Doubles Profit to $4 Billion, Raises Dividend",
-      "title_vi": "ConocoPhillips tăng gấp đôi lợi nhuận lên 4 tỷ USD, tăng cổ tức",
-      "summary_vi": "ConocoPhillips đã tăng hơn gấp đôi lợi nhuận quý 3 lên 4 tỷ USD và tăng cổ tức hàng quý lên 11% vào thứ Năm, gia nhập danh sách ngày càng tăng các công ty dầu mỏ báo cáo mức tăng thu nhập khổng lồ khi giá dầu thô cao hơn bù đắp cho sự gián đoạn sản xuất do chiến tranh Iran gây ra. Thế Hồ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-05_8vnbmbxstl.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ConocoPhillips-Doubles-Profit-to-4-Billion-Raises-Dividend.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-06 03:30"
     },
     {
       "id": "dhkide",
@@ -539,17 +550,6 @@
       "source": "Farms.com",
       "category": "energy",
       "published": "2026-11-05 04:07"
-    },
-    {
-      "id": "13xojew",
-      "title": "How The AI Stock Selloff Is Hurting Copper Price",
-      "title_vi": "Việc bán tháo cổ phiếu AI đang ảnh hưởng đến giá đồng như thế nào",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://beincrypto.com/copper-price-3-month-low-ai-selloff/",
-      "source": "BeInCrypto",
-      "category": "metal",
-      "published": "2026-11-05 03:59"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 02:00",
+  "updated_at": "2026-11-07 03:00",
   "items": [
     {
       "id": "f48slc",
@@ -277,6 +277,17 @@
       "published": "2026-11-06 14:15"
     },
     {
+      "id": "17j7ems",
+      "title": "Gold drops 1% as strong U.S. payrolls boost dollar, yields",
+      "title_vi": "Vàng giảm 1% khi bảng lương Mỹ mạnh mẽ thúc đẩy đồng đô la, lợi suất",
+      "summary_vi": "Giá vàng giảm 1% vào thứ Sáu sau khi Mỹ mạnh mẽ dữ liệu bảng lương củng cố kỳ vọng rằng Cục Dự trữ Liên bang có thể giữ lãi suất cao hơn trong thời gian dài hơn.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108305382-1778556157191-gettyimages-2270738496-AFP_A7NP2TN.jpeg?v=1787315911&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/11/06/gold-eases-on-inflation-worries-from-higher-oil-us-payrolls-data-in-focus.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-11-06 12:03"
+    },
+    {
       "id": "c7wbmp",
       "title": "NC extreme drought: Wheat farmers hope for rain to plant crops, no impactful rainfall in forecast for central North Carolina",
       "title_vi": "Hạn hán khắc nghiệt ở NC: Nông dân trồng lúa mì hy vọng có mưa để trồng trọt, dự báo không có lượng mưa ảnh hưởng đến miền trung Bắc Carolina",
@@ -286,17 +297,6 @@
       "source": "ABC11 News",
       "category": "agri",
       "published": "2026-11-06 10:47"
-    },
-    {
-      "id": "rykvwg",
-      "title": "Gold drops 1% as strong US payrolls boost dollar, yields",
-      "title_vi": "Vàng giảm 1% khi bảng lương Mỹ mạnh mẽ thúc đẩy đồng đô la, lợi suất",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-eases-inflation-worries-higher-oil-us-payrolls-data-focus-2026-11-06/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-11-06 10:46"
     },
     {
       "id": "cisbkk",
@@ -385,6 +385,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-06 05:31"
+    },
+    {
+      "id": "k70zdt",
+      "title": "TEMPORARY DEAL – US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies",
+      "title_vi": "THỎA THUẬN TẠM THỜI - Hoa Kỳ nới lỏng các lệnh trừng phạt dầu mỏ của Nga để chế ngự sự tăng giá, chọc tức các đồng minh châu Âu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/03/temporary-deal-us-eases-russia-oil-sanctions-to-tame-price-surge-riling-european-allies/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-06 04:50"
     },
     {
       "id": "1s9kda2",
@@ -539,17 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-11-05 20:29"
-    },
-    {
-      "id": "1hz54du",
-      "title": "Cocoa Falls to One-Month Low as Warehouse Stockpiles Rise",
-      "title_vi": "Ca cao giảm xuống mức thấp nhất trong một tháng do lượng tồn kho trong kho tăng lên",
-      "summary_vi": "Giá cacao kỳ hạn tại New York giảm xuống mức thấp nhất trong một tháng do tồn kho tại các kho hàng ở châu Âu và Mỹ tăng cao vượt qua lo ngại về rủi ro thời tiết ở các nước sản xuất chính.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1o0iaxwTR2A/v1/1200x800.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-05/cocoa-falls-to-one-month-low-as-warehouse-stockpiles-rise",
-      "source": "Bloomberg.com",
-      "category": "soft",
-      "published": "2026-11-05 20:08"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 11:00",
+  "updated_at": "2026-11-06 12:00",
   "items": [
     {
       "id": "c7wbmp",
@@ -110,6 +110,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-06 05:00"
+    },
+    {
+      "id": "mmz1gk",
+      "title": "Gold and Silver Outlook 2027: What the Forecasts Say",
+      "title_vi": "Triển vọng vàng và bạc năm 2027: Dự báo nói gì",
+      "summary_vi": "Vàng và bạc có thể đi về đâu vào năm 2027? So sánh các dự báo chính, động lực đằng sau chúng và ý nghĩa của chúng đối với quyền sở hữu vật chất lâu dài.",
+      "image": "https://goldsilver.com/wp-content/uploads/2026/11/gold-and-silver-outlook-2027.jpeg",
+      "link": "https://goldsilver.com/industry-news/article/gold-silver-outlook-2027/",
+      "source": "GoldSilver",
+      "category": "metal",
+      "published": "2026-11-06 04:23"
     },
     {
       "id": "awbepd",
@@ -539,17 +550,6 @@
       "source": "BeInCrypto",
       "category": "metal",
       "published": "2026-11-05 03:59"
-    },
-    {
-      "id": "rlfgcx",
-      "title": "Treasuries Advance as Traders Eye US Votes, Refinancing Plans",
-      "title_vi": "Kho bạc tăng giá khi các nhà giao dịch để mắt đến phiếu bầu của Hoa Kỳ, kế hoạch tái cấp vốn",
-      "summary_vi": "Trái phiếu kho bạc tăng do kết quả cuộc bầu cử giữa nhiệm kỳ của Mỹ góp phần khiến giá dầu giảm mạnh do triển vọng chiến tranh ở Trung Đông chấm dứt.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijlaF5FG6aIg/v0/1200x800.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans",
-      "source": "Bloomberg.com",
-      "category": "macro",
-      "published": "2026-11-05 03:52"
     }
   ]
 }

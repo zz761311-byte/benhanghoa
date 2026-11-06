@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 04:00",
+  "updated_at": "2026-11-07 05:00",
   "items": [
     {
       "id": "1x7idn4",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-07 02:00"
+    },
+    {
+      "id": "6f3l62",
+      "title": "Zelenskiy says Ukraine is continuing attacks on Russia's oil refining sector",
+      "title_vi": "Zelenskiy nói Ukraine đang tiếp tục tấn công khu vực lọc dầu của Nga",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/zelenskiy-says-ukraine-is-continuing-attacks-russias-oil-refining-sector-2026-11-06/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-11-07 01:59"
     },
     {
       "id": "1rkylr4",
@@ -231,6 +242,17 @@
       "source": "Equiti Global",
       "category": "metal",
       "published": "2026-11-06 18:21"
+    },
+    {
+      "id": "1ha50dz",
+      "title": "FAO Food Price Index edges down in October amid subdued demand",
+      "title_vi": "Chỉ số giá thực phẩm FAO giảm trong tháng 10 do nhu cầu yếu",
+      "summary_vi": "Giá ngũ cốc, sữa và thịt giảm, trong khi giá đường tăng tháng thứ 4 liên tiếp",
+      "image": "https://www.fao.org/media/images/newsroomlibraries/default-album/uf13jqb-00165556.jpg?sfvrsn=5435e02f_4",
+      "link": "https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-in-october-amid-subdued-demand/en",
+      "source": "Food and Agriculture Organization",
+      "category": "soft",
+      "published": "2026-11-06 17:34"
     },
     {
       "id": "fg18db",
@@ -528,28 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-11-05 20:58"
-    },
-    {
-      "id": "12rjz90",
-      "title": "America’s copper giant has big dreams—but cautious plans",
-      "title_vi": "Người khổng lồ đồng của Mỹ có những giấc mơ lớn nhưng có kế hoạch thận trọng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
-      "source": "The Economist",
-      "category": "metal",
-      "published": "2026-11-05 20:58"
-    },
-    {
-      "id": "1n2w8vu",
-      "title": "Natural Gas and Oil Forecast: Gulf Supply Recovers, Can WTI Hold $85.17?",
-      "title_vi": "Dự báo khí đốt tự nhiên và dầu: Nguồn cung vùng Vịnh phục hồi, WTI có thể giữ được mức 85,17 USD không?",
-      "summary_vi": "Dự báo về khí đốt và dầu tự nhiên: WTI giao dịch gần 86,85 USD và Brent gần 93,83 USD khi nguồn cung vùng Vịnh phục hồi, trong khi khí đốt giữ mức hỗ trợ 2,927 USD trước dữ liệu lưu trữ của Mỹ.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-7-2.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-gulf-supply-recovers-can-wti-hold-85-17-1642634",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-11-05 20:47"
     }
   ]
 }

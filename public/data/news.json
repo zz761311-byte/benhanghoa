@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-11-06 21:00",
+  "updated_at": "2026-11-06 22:00",
   "items": [
+    {
+      "id": "foq3pr",
+      "title": "Trump’s Iran Strategy Reaches a Critical Crossroads After Midterm Defeat",
+      "title_vi": "Chiến lược Iran của Trump đạt đến một ngã rẽ quan trọng sau thất bại giữa nhiệm kỳ",
+      "summary_vi": "Tổng thống Donald Trump dành những tuần cuối cùng của chiến dịch tranh cử giữa kỳ ở Mỹ để dự đoán cuộc chiến với Iran sẽ kết thúc \"ngay sau cuộc bầu cử\". Với số phiếu hiện đã có, Đảng Cộng hòa của ông đang quay cuồng vì mất cả hai viện Quốc hội trong một tình huống mà chính phó tổng thống của ông đổ lỗi cho",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_zhlwctqj98.jpg",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Trumps-Iran-Strategy-Reaches-a-Critical-Crossroads-After-Midterm-Defeat.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-11-06 22:00"
+    },
+    {
+      "id": "1ciz0t8",
+      "title": "Corn output decline forecast for South Africa",
+      "title_vi": "Dự báo sản lượng ngô tại Nam Phi giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.world-grain.com/articles/23427-corn-output-decline-forecast-for-south-africa",
+      "source": "World Grain",
+      "category": "agri",
+      "published": "2026-11-06 21:33"
+    },
+    {
+      "id": "bq4zw2",
+      "title": "Europe&#039;s Grid Spending Is Up 155% Since 2019",
+      "title_vi": "Chi tiêu cho lưới điện của Châu Âu tăng 155% kể từ năm 2019",
+      "summary_vi": "Hầu hết các nước châu Âu mong đợi đầu tư cao hơn vào cơ sở hạ tầng lưới điện của họ cho đến năm 2030 sau khi tăng hơn gấp đôi khoản đầu tư hàng năm kể từ năm 2019, Cơ quan Hợp tác Quản lý Năng lượng Liên minh Châu Âu (ACER) cho biết trong một báo cáo hôm thứ Sáu. Tổng cộng 22 trên 24 quốc gia",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-06_aln4hu7pyc.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Grid-Spending-Is-Up-155-Since-2019.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-06 21:30"
+    },
+    {
+      "id": "1ci5mki",
+      "title": "Precious metals, resources benefit from geopolitical tailwinds",
+      "title_vi": "Kim loại quý, tài nguyên được hưởng lợi từ những thuận lợi địa chính trị",
+      "summary_vi": "Đầu tư vào các quỹ đạt giải thưởng năng lượng vàng, bạc và dầu mỏ",
+      "image": "https://www.theglobeandmail.com/resizer/v2/D6K5WYVJ7BDXNOFR34FE5MSA44.jpg?auth=3e4672920534e9d388e6ab3cc55cbaa246e3cf8bc2d96c1fcf7454679b958a9a&width=1200&height=800&quality=80&smart=true",
+      "link": "https://www.theglobeandmail.com/investing/article-precious-metals-resources-benefit-from-geopolitical-tailwinds/",
+      "source": "The Globe and Mail",
+      "category": "metal",
+      "published": "2026-11-06 21:00"
+    },
     {
       "id": "1vnq9n7",
       "title": "FGE NexantECA Sees Slim Chance of U.S.-Iran Deal",
@@ -11,6 +55,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-11-06 20:30"
+    },
+    {
+      "id": "o90if4",
+      "title": "Weekly Coffee News: Costa Rica Harvest Concerns + Restoring Iconic Coffee Sign",
+      "title_vi": "Tin tức cà phê hàng tuần: Mối lo ngại về thu hoạch của Costa Rica + Khôi phục dấu hiệu cà phê mang tính biểu tượng",
+      "summary_vi": "Chào mừng bạn đến với Bản tin cà phê hàng tuần của DCN! Đăng ký tại đây để nhận tất cả các tin tức mới nhất về ngành cà phê. Ngoài ra, hãy xem các cơ hội nghề nghiệp mới nhất tại CoffeeIndustryJobs.com. El Niño khiến ước tính thu hoạch thấp hơn...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/11/06/weekly-coffee-news-costa-rica-harvest-concerns-restoring-iconic-coffee-sign/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-11-06 20:10"
     },
     {
       "id": "4ay52e",
@@ -123,28 +178,6 @@
       "published": "2026-11-06 17:22"
     },
     {
-      "id": "1ptg09n",
-      "title": "ADNOC Expands LNG Empire With Major New India Supply Deal",
-      "title_vi": "ADNOC mở rộng đế chế LNG với thỏa thuận cung cấp lớn mới cho Ấn Độ",
-      "summary_vi": "ADNOC đã ký thỏa thuận 10 năm cung cấp LNG cho Công ty TNHH Năng lượng Gujarat Ấn Độ, trong thỏa thuận đầu tiên bán khí đốt từ danh mục khí đốt quốc tế của công ty đầu tư quốc tế của ADNOC, XRG. Gujarat Energy sẽ nhận được tới 4 triệu tấn LNG trong vòng 10 năm, bắt đầu từ",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Expands-LNG-Empire-With-Major-New-India-Supply-Deal.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-06 17:15"
-    },
-    {
-      "id": "lnw871",
-      "title": "China’s Carbon Emissions Plunge 3.1% as Oil Demand Slumps",
-      "title_vi": "Lượng khí thải carbon của Trung Quốc giảm mạnh 3,1% do nhu cầu dầu sụt giảm",
-      "summary_vi": "Theo trích dẫn của Reuters, Trung tâm Nghiên cứu Năng lượng và Không khí Sạch của Phần Lan đã báo cáo rằng việc giảm sử dụng nhiên liệu trong lĩnh vực công nghiệp của Trung Quốc đã dẫn đến lượng khí thải carbon dioxide giảm 3,1% trong quý 3 năm nay. Lượng khí thải trên thế giới thấp hơn'",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-06_em9vdfgckx.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Carbon-Emissions-Plunge-31-as-Oil-Demand-Slumps.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-06 15:45"
-    },
-    {
       "id": "6y3tte",
       "title": "15 Min Silver Price Prediction Markets for Short-Term Trading",
       "title_vi": "Thị trường dự đoán giá bạc trong 15 phút cho giao dịch ngắn hạn",
@@ -187,6 +220,17 @@
       "source": "ABC11 News",
       "category": "agri",
       "published": "2026-11-06 10:47"
+    },
+    {
+      "id": "rykvwg",
+      "title": "Gold drops 1% as strong US payrolls boost dollar, yields",
+      "title_vi": "Vàng giảm 1% khi bảng lương Mỹ mạnh mẽ thúc đẩy đồng đô la, lợi suất",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-eases-inflation-worries-higher-oil-us-payrolls-data-focus-2026-11-06/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-11-06 10:46"
     },
     {
       "id": "cisbkk",
@@ -255,6 +299,17 @@
       "published": "2026-11-06 05:38"
     },
     {
+      "id": "18uzuk1",
+      "title": "Ukraine knocks out 15 Russian oil refineries, causing $23.2 billion in damage: officials",
+      "title_vi": "Ukraine đánh sập 15 nhà máy lọc dầu của Nga, gây thiệt hại 23,2 tỷ USD",
+      "summary_vi": "Chỉ có 12 nhà máy lọc dầu đang hoạt động với công suất giảm sau các cuộc đình công chính xác.",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147693145.jpg?quality=75&#038;strip=all&#038;w=1200",
+      "link": "https://nypost.com/2026/11/05/world-news/ukraine-knocks-out-15-russian-oil-refineries-causing-23-2-billion-in-damage-officials/",
+      "source": "New York Post",
+      "category": "energy",
+      "published": "2026-11-06 05:36"
+    },
+    {
       "id": "1xmztgd",
       "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
       "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
@@ -286,17 +341,6 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-11-06 03:43"
-    },
-    {
-      "id": "dhkide",
-      "title": "World Bank sees gold holding above $4,000 through 2028, but warns silver faces steeper correction",
-      "title_vi": "Ngân hàng Thế giới nhận thấy vàng sẽ giữ trên 4.000 USD cho đến năm 2028, nhưng cảnh báo bạc sẽ phải đối mặt với sự điều chỉnh mạnh hơn",
-      "summary_vi": "(Kitco News) - Giá vàng và bạc dự kiến ​​​​sẽ duy trì ở mức cao lịch sử cho đến năm 2027, nhưng các nhà đầu tư không nên mong đợi sự lặp lại của mức tăng bùng nổ và biến động đã xác định vào năm 2026,…",
-      "image": "https://image-api.prod.kitco.com/image/11f2057f-8b47-49ec-9945-4ac2733aeaea.jpeg?top=0.46212476547842&left=0&width=1000&height=562.07575046904&scale_width=1920&token=9d64f3c529cdbff84c68a1c7454a4a69e65ec9e38e136e5864bc1b6796b03285",
-      "link": "https://www.kitco.com/news/article/2026-11-05/world-bank-sees-gold-holding-above-4000-through-2028-warns-silver-faces",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-11-06 03:10"
     },
     {
       "id": "1xyktzh",
@@ -493,7 +537,7 @@
       "image": "https://i.iranintl.com/images/rdk9umy0/production/188bd98d2564158639254fe4274216fe8a03482f-1200x800.jpg?rect=0,85,1200,630&w=1200&h=630&q=66&fit=max&auto=format",
       "link": "https://www.iranintl.com/en/202611054124",
       "source": "Iran International",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-11-05 15:49"
     },
     {
@@ -506,50 +550,6 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-11-05 15:26"
-    },
-    {
-      "id": "1ey1x12",
-      "title": "USDA errors raise credibility concerns ahead of Nov. crop reports",
-      "title_vi": "Những sai sót của USDA làm tăng mối lo ngại về độ tin cậy trước báo cáo vụ mùa tháng 11",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/corn/usda-errors-raise-credibility-concerns-ahead-of-november-crop-reports",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-11-05 15:03"
-    },
-    {
-      "id": "1acxc72",
-      "title": "China ties more US farm imports to reciprocal tariff cuts By Reuters",
-      "title_vi": "Trung Quốc ràng buộc nhiều hàng nông sản nhập khẩu của Mỹ hơn để cắt giảm thuế quan có đi có lại",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/commodities-news/china-ties-more-us-farm-imports-to-reciprocal-tariff-cuts-5002457",
-      "source": "Investing.com",
-      "category": "macro",
-      "published": "2026-11-05 14:50"
-    },
-    {
-      "id": "1n2w8vu",
-      "title": "Natural Gas and Oil Forecast: Gulf Supply Recovers, Can WTI Hold $85.17?",
-      "title_vi": "Dự báo khí đốt tự nhiên và dầu: Nguồn cung vùng Vịnh phục hồi, WTI có thể giữ được mức 85,17 USD không?",
-      "summary_vi": "Dự báo về khí đốt và dầu tự nhiên: WTI giao dịch gần 86,85 USD và Brent gần 93,83 USD khi nguồn cung vùng Vịnh phục hồi, trong khi khí đốt giữ mức hỗ trợ 2,927 USD trước dữ liệu lưu trữ của Mỹ.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-7-2.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-gulf-supply-recovers-can-wti-hold-85-17-1642634",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-11-05 12:30"
-    },
-    {
-      "id": "1lvfduc",
-      "title": "Wheat Climbs as Weak Russian Export Outlook Fans Supply Concerns",
-      "title_vi": "Lúa mì tăng do triển vọng xuất khẩu của Nga suy yếu Người hâm mộ lo ngại về nguồn cung",
-      "summary_vi": "Lúa mì tăng do triển vọng xuất khẩu của Nga yếu hơn làm dấy lên lo ngại về nguồn cung toàn cầu, với sự gián đoạn ở Biển Đen tiếp tục cắt giảm các chuyến hàng từ khu vực sản xuất ngũ cốc quan trọng.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igs_cSf.MK9g/v0/1200x800.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-05/wheat-climbs-as-weak-russian-export-outlook-fans-supply-concerns",
-      "source": "Bloomberg.com",
-      "category": "agri",
-      "published": "2026-11-05 11:46"
     }
   ]
 }

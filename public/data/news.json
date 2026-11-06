@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-06 15:00",
+  "updated_at": "2026-11-06 16:00",
   "items": [
+    {
+      "id": "lnw871",
+      "title": "China’s Carbon Emissions Plunge 3.1% as Oil Demand Slumps",
+      "title_vi": "Lượng khí thải carbon của Trung Quốc giảm mạnh 3,1% do nhu cầu dầu sụt giảm",
+      "summary_vi": "Theo trích dẫn của Reuters, Trung tâm Nghiên cứu Năng lượng và Không khí Sạch của Phần Lan đã báo cáo rằng việc giảm sử dụng nhiên liệu trong lĩnh vực công nghiệp của Trung Quốc đã dẫn đến lượng khí thải carbon dioxide giảm 3,1% trong quý 3 năm nay. Lượng khí thải trên thế giới thấp hơn'",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-06_em9vdfgckx.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Carbon-Emissions-Plunge-31-as-Oil-Demand-Slumps.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-06 15:45"
+    },
     {
       "id": "12xvv2i",
       "title": "The Global Oil Glut Returns as High Prices Crush Demand",
@@ -156,15 +167,15 @@
       "published": "2026-11-06 04:23"
     },
     {
-      "id": "awbepd",
-      "title": "Batteries Are Taking the Gas Peaker’s Best Hours",
-      "title_vi": "Pin đang ở thời điểm tốt nhất của Gas Peaker",
-      "summary_vi": "Các mỏ khí đốt đỉnh cao luôn có một lợi thế kinh tế mang tính quyết định: chi phí chế tạo chúng tương đối rẻ. Một nhà máy đạt công suất cao nhất có thể không hoạt động trong hầu hết thời gian trong năm, sau đó bắt đầu hoạt động khi nhu cầu và giá điện tăng cao. Nhiên liệu của nó đắt và hiệu suất của nó thường ở mức trung bình, nhưng chi phí ban đầu thấp.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_ryyxju2gqu.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Batteries-Are-Taking-the-Gas-Peakers-Best-Hours.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-06 04:00"
+      "id": "1s9kda2",
+      "title": "Nickel price leaps to 5-week high on Indonesian crackdown; copper hits 3-month low",
+      "title_vi": "Giá niken tăng vọt lên mức cao nhất trong 5 tuần do lệnh trừng phạt của Indonesia; đồng chạm mức thấp nhất trong 3 tháng",
+      "summary_vi": "Niken đã tăng lên mức giá cao nhất trong hơn 5 tuần vào thứ Năm sau khi nhà sản xuất hàng đầu Indonesia cho biết họ sẽ hạn chế hoạt động kinh doanh quặng lớn, trong khi giá đồng giảm xuống mức thấp nhất trong 3 tháng do...",
+      "image": "https://image-api.prod.kitco.com/image/21f8e3d0-db36-4d94-88c4-4c613fc4251e.jpeg?top=0.46212476547842&left=0&width=1000&height=562.07575046904&scale_width=1920&token=40bbf668fd483e5dfee7c6fe5319c8a52f445a44616c9e66eb7bb84370300290",
+      "link": "https://www.kitco.com/news/off-the-wire/2026-11-05/nickel-price-leaps-5-week-high-indonesian-crackdown-copper-hits-3",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-11-06 03:43"
     },
     {
       "id": "dhkide",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-05 05:27"
-    },
-    {
-      "id": "p8279",
-      "title": "Soybean Oil Demand Fuels Strong Soybean Outlook",
-      "title_vi": "Nhu cầu dầu đậu nành thúc đẩy triển vọng đậu tương mạnh mẽ",
-      "summary_vi": "Sản xuất nhiên liệu sinh học ngày càng tăng đang thúc đẩy nhu cầu dầu đậu nành cao hơn, hỗ trợ khối lượng nghiền kỷ lục, giá đậu nành tăng và công suất chế biến được mở rộng.",
-      "image": "",
-      "link": "https://www.farms.com/ag-industry-news/soybean-oil-demand-fuels-strong-soybean-outlook-945.aspx",
-      "source": "Farms.com",
-      "category": "energy",
-      "published": "2026-11-05 04:07"
     }
   ]
 }

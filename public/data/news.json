@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-06 10:00",
+  "updated_at": "2026-11-06 11:00",
   "items": [
+    {
+      "id": "c7wbmp",
+      "title": "NC extreme drought: Wheat farmers hope for rain to plant crops, no impactful rainfall in forecast for central North Carolina",
+      "title_vi": "Hạn hán khắc nghiệt ở NC: Nông dân trồng lúa mì hy vọng có mưa để trồng trọt, dự báo không có lượng mưa ảnh hưởng đến miền trung Bắc Carolina",
+      "summary_vi": "Dự báo có một số khả năng sẽ có lượng mưa rất cần thiết nhưng dự kiến ​​sẽ không có mức giảm đáng kể.",
+      "image": "https://cdn.abcotvs.com/dip/images/20017914_NCDroughtNov526.png?w=1600",
+      "link": "https://abc11.com/post/nc-extreme-drought-wheat-farmers-hope-rain-plant-crops-no-impactful-rainfall-forecast-central-north-carolina/20017713/",
+      "source": "ABC11 News",
+      "category": "agri",
+      "published": "2026-11-06 10:47"
+    },
+    {
+      "id": "cisbkk",
+      "title": "Oil set for sharp weekly drop but Middle East supply concerns provide floor",
+      "title_vi": "Dầu có thể giảm mạnh hàng tuần nhưng mối lo ngại về nguồn cung ở Trung Đông tạo ra mức sàn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/oil-set-sharp-weekly-drop-middle-east-supply-concerns-provide-floor-2026-11-06/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-11-06 09:49"
+    },
     {
       "id": "1i78jj6",
       "title": "America’s Rare Earth Reckoning Is Less Than 60 Days Away",
@@ -110,6 +132,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-06 03:30"
+    },
+    {
+      "id": "dhkide",
+      "title": "World Bank sees gold holding above $4,000 through 2028, but warns silver faces steeper correction",
+      "title_vi": "Ngân hàng Thế giới nhận thấy vàng sẽ giữ trên 4.000 USD cho đến năm 2028, nhưng cảnh báo bạc sẽ phải đối mặt với sự điều chỉnh mạnh hơn",
+      "summary_vi": "(Kitco News) - Giá vàng và bạc dự kiến ​​​​sẽ duy trì ở mức cao lịch sử cho đến năm 2027, nhưng các nhà đầu tư không nên mong đợi sự lặp lại của mức tăng bùng nổ và biến động đã xác định vào năm 2026,…",
+      "image": "https://image-api.prod.kitco.com/image/11f2057f-8b47-49ec-9945-4ac2733aeaea.jpeg?top=0.46212476547842&left=0&width=1000&height=562.07575046904&scale_width=1920&token=9d64f3c529cdbff84c68a1c7454a4a69e65ec9e38e136e5864bc1b6796b03285",
+      "link": "https://www.kitco.com/news/article/2026-11-05/world-bank-sees-gold-holding-above-4000-through-2028-warns-silver-faces",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-11-06 03:10"
     },
     {
       "id": "1xyktzh",
@@ -517,39 +550,6 @@
       "source": "Bloomberg.com",
       "category": "macro",
       "published": "2026-11-05 03:52"
-    },
-    {
-      "id": "5x7a5z",
-      "title": "Palladium Price November 5 2026",
-      "title_vi": "Giá Palladium ngày 5 tháng 11 năm 2026",
-      "summary_vi": "Hợp đồng tương lai palladium ngày 26 tháng 12 sẽ kết thúc vào ngày 5 tháng 11 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
-      "image": "https://robinhood.com/api/public/og/event?id=3ed00b02-db1d-4245-baf6-30016c1c5428",
-      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/palladium-price-november-5-2026-nov-05-2026/",
-      "source": "Robinhood",
-      "category": "metal",
-      "published": "2026-11-05 03:30"
-    },
-    {
-      "id": "k70zdt",
-      "title": "TEMPORARY DEAL – US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies",
-      "title_vi": "THỎA THUẬN TẠM THỜI - Hoa Kỳ nới lỏng các lệnh trừng phạt dầu mỏ của Nga để chế ngự sự tăng giá, chọc tức các đồng minh châu Âu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/03/temporary-deal-us-eases-russia-oil-sanctions-to-tame-price-surge-riling-european-allies/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-05 03:18"
-    },
-    {
-      "id": "19jn421",
-      "title": "Brazil Wheat Outlook 2027: Lower Domestic Production, Record Imports and the Dollar at the Center of Costs",
-      "title_vi": "Triển vọng lúa mì Brazil năm 2027: Sản lượng trong nước thấp hơn, nhập khẩu kỷ lục và đồng đô la là trung tâm của chi phí",
-      "summary_vi": "Brazil phải đối mặt với lượng nhập khẩu lúa mì kỷ lục vào năm 2027, nhưng mối đe dọa lớn nhất đối với các nhà máy bột mì có thể đến từ tỷ giá hối đoái.",
-      "image": "",
-      "link": "https://www.agrolatam.com/nota/brazil-wheat-outlook-2027-lower-domestic-production-record-imports-and-the-dollar-at-the-center-of-costs/",
-      "source": "AgroLatam",
-      "category": "agri",
-      "published": "2026-11-05 03:12"
     }
   ]
 }

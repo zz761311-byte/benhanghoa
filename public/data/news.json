@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-08 04:00",
+  "updated_at": "2026-11-08 05:00",
   "items": [
+    {
+      "id": "h7gje6",
+      "title": "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It",
+      "title_vi": "Hoa Kỳ có 50 tỷ USD cho chất thải hạt nhân và không có nơi nào để vứt nó",
+      "summary_vi": "Phần Lan và Hoa Kỳ đang minh họa hai cách tiếp cận đối lập nhau trong việc quản lý vấn đề ngày càng gia tăng về nhiên liệu hạt nhân đã qua sử dụng. Phần Lan sắp mở cơ sở xử lý chất thải hạt nhân vĩnh viễn đầu tiên trên thế giới. Hoa Kỳ bị mắc kẹt trong một chu kỳ luân chuyển chính trị vô tận",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-06_ucknuqxdw1.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-US-Has-50-Billion-for-Nuclear-Waste-and-Nowhere-to-Put-It.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-08 05:00"
+    },
     {
       "id": "z533by",
       "title": "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-07 23:00"
+    },
+    {
+      "id": "15k4rgs",
+      "title": "FAO Food Price Index edges down in October, with commodity price indices easing except for sugar and vegetable oils",
+      "title_vi": "Chỉ số giá thực phẩm của FAO giảm trong tháng 10, với chỉ số giá hàng hóa giảm ngoại trừ đường và dầu thực vật",
+      "summary_vi": "Chỉ số giá thực phẩm của FAO đã giảm 1,2% vào tháng 10 năm 2026 do giá ngũ cốc, sữa và thịt giảm. Giá dầu thực vật tăng cao, trong khi đường tăng mạnh. Chỉ số này vẫn cao hơn 5,9% so với một năm trước đó.",
+      "image": "https://media.potatopro.com/fao-oct-2026-1200.jpg",
+      "link": "https://www.potatopro.com/news/2026/fao-food-price-index-edges-down-october-commodity-price-indices-easing-except-sugar-and",
+      "source": "PotatoPro",
+      "category": "energy",
+      "published": "2026-11-07 22:23"
     },
     {
       "id": "861z0e",
@@ -176,17 +198,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-11-07 01:59"
-    },
-    {
-      "id": "1rkylr4",
-      "title": "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash",
-      "title_vi": "Các công ty khoan dầu, khí đốt của Hoa Kỳ nhận thấy mức tăng nhẹ khi giá dầu sụt giảm",
-      "summary_vi": "Theo dữ liệu mới mà Baker Hughes công bố hôm thứ Sáu, tổng số giàn khoan đang hoạt động ở Mỹ tăng nhẹ trong tuần này, với tổng số giàn khoan ở Mỹ tăng lên 604, tăng 56 giàn so với cùng thời điểm này năm ngoái. Số giàn khoan dầu đang hoạt động",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Drillers-See-Minor-Uptick-as-Oil-Prices-Crash.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-07 01:21"
     },
     {
       "id": "r02jx3",
@@ -431,6 +442,17 @@
       "published": "2026-11-06 14:15"
     },
     {
+      "id": "itpo0",
+      "title": "Supermicro ARS-511GD-NB-LCC Super AI Station-1600W Platinum Level Power Supply 2",
+      "title_vi": "Supermicro ARS-511GD-NB-LCC Super AI Station-1600W Bộ nguồn cấp bạch kim 2",
+      "summary_vi": "Supermicro ARS-511GD-NB-LCC Super AI Station-1600W Bộ nguồn cấp bạch kim 2",
+      "image": "https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/supermicro-ars-511gd-nb-lcc-super-ai-station-1600w-platinum-level-power-supply-2",
+      "link": "https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/supermicro-ars-511gd-nb-lcc-super-ai-station-1600w-platinum-level-power-supply-2/",
+      "source": "ServeTheHome",
+      "category": "metal",
+      "published": "2026-11-06 13:22"
+    },
+    {
       "id": "9gzilg",
       "title": "Natural Gas and Oil Forecast: Hormuz Risks Persist, Can Brent Reclaim $104?",
       "title_vi": "Dự báo khí đốt tự nhiên và dầu: Rủi ro Hormuz vẫn tồn tại, Brent có thể lấy lại 104 USD không?",
@@ -528,28 +550,6 @@
       "source": "New York Post",
       "category": "energy",
       "published": "2026-11-06 05:36"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-06 05:31"
-    },
-    {
-      "id": "1xmztgd",
-      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
-      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-06 05:31"
     }
   ]
 }

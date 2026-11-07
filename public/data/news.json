@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 05:00",
+  "updated_at": "2026-11-08 06:00",
   "items": [
     {
       "id": "h7gje6",
@@ -132,6 +132,17 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-11-07 05:50"
+    },
+    {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-07 05:24"
     },
     {
       "id": "16jyonr",
@@ -475,6 +486,17 @@
       "published": "2026-11-06 10:47"
     },
     {
+      "id": "fwwa7y",
+      "title": "Trump says he and Putin are close to a deal about Ukraine and ‘all of Europe’",
+      "title_vi": "Trump nói ông và Putin sắp đạt được thỏa thuận về Ukraine và 'toàn bộ châu Âu'",
+      "summary_vi": "Tổng thống Donald Trump đã loại Kyiv khỏi cuộc đàm phán hôm thứ Năm, trong đó ông gặp đặc phái viên của Putin để thảo luận về Ukraine và tương lai của châu Âu.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/VZQ2IBLBLW6T44VZLAEPTPCUM4.JPG&w=1440",
+      "link": "https://www.washingtonpost.com/world/2026/11/05/ukraine-continues-strikes-russian-refineries-lead-up-white-house-meeting/",
+      "source": "The Washington Post",
+      "category": "energy",
+      "published": "2026-11-06 10:02"
+    },
+    {
       "id": "cisbkk",
       "title": "Oil set for sharp weekly drop but Middle East supply concerns provide floor",
       "title_vi": "Dầu có thể giảm mạnh hàng tuần nhưng mối lo ngại về nguồn cung ở Trung Đông tạo ra mức sàn",
@@ -528,28 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-11-06 06:36"
-    },
-    {
-      "id": "3gjfse",
-      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
-      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-06 05:38"
-    },
-    {
-      "id": "18uzuk1",
-      "title": "Ukraine knocks out 15 Russian oil refineries, causing $23.2 billion in damage: officials",
-      "title_vi": "Ukraine đánh sập 15 nhà máy lọc dầu của Nga, gây thiệt hại 23,2 tỷ USD",
-      "summary_vi": "Chỉ có 12 nhà máy lọc dầu đang hoạt động với công suất giảm sau các cuộc đình công chính xác.",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147693145.jpg?quality=75&#038;strip=all&#038;w=1200",
-      "link": "https://nypost.com/2026/11/05/world-news/ukraine-knocks-out-15-russian-oil-refineries-causing-23-2-billion-in-damage-officials/",
-      "source": "New York Post",
-      "category": "energy",
-      "published": "2026-11-06 05:36"
     }
   ]
 }

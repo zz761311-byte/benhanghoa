@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 06:00",
+  "updated_at": "2026-11-08 06:06",
   "items": [
     {
       "id": "h7gje6",
@@ -242,6 +242,17 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-11-07 00:36"
+    },
+    {
+      "id": "3gjfse",
+      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
+      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-06 23:35"
     },
     {
       "id": "17a1jvw",
@@ -539,17 +550,6 @@
       "source": "PBS",
       "category": "energy",
       "published": "2026-11-06 07:17"
-    },
-    {
-      "id": "1gxqtqw",
-      "title": "Renewed refinery attacks deplete Russian diesel supply as US deal in focus",
-      "title_vi": "Các cuộc tấn công vào nhà máy lọc dầu mới làm cạn kiệt nguồn cung cấp dầu diesel của Nga khi Mỹ tập trung vào thỏa thuận",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/renewed-refinery-attacks-deplete-russian-diesel-supply-us-deal-focus-2026-11-05/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-11-06 06:36"
     }
   ]
 }

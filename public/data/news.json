@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-08 00:00",
+  "updated_at": "2026-11-08 01:00",
   "items": [
+    {
+      "id": "1rhfmfb",
+      "title": "Trump-Backed Trade Corridor Advances Despite Geopolitical Resistance",
+      "title_vi": "Hành lang thương mại do Trump hậu thuẫn tiến triển bất chấp sự phản kháng địa chính trị",
+      "summary_vi": "Các quan chức Armenia đã bắt đầu công việc thiết kế hành lang thương mại TRIPP, mặc dù thỏa thuận điều hành với Hoa Kỳ vẫn chưa được hoàn tất. Các quan chức Mỹ và Armenia đã công bố vào tháng 1 một thỏa thuận sơ bộ phác thảo việc thành lập một thực thể, TRIPP De.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_qtjbh7jzrc.jpg",
+      "link": "https://oilprice.com/Geopolitics/Asia/Trump-Backed-Trade-Corridor-Advances-Despite-Geopolitical-Resistance.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-11-08 01:00"
+    },
     {
       "id": "1o8l4wi",
       "title": "America’s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand",
@@ -88,6 +99,17 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-11-07 05:50"
+    },
+    {
+      "id": "16jyonr",
+      "title": "abrdn Palladium ETF Trust 3Q 2026: Net loss ($6.15M) — 10-Q Summary",
+      "title_vi": "abrdn Palladium ETF Trust Quý 3 năm 2026: Lỗ ròng ($6,15 triệu) — Tóm tắt 10-Q",
+      "summary_vi": "Quỹ Tín thác đã công bố sự sụt giảm tài sản ròng từ hoạt động kinh doanh, so với mức tăng một năm trước đó, do khoản lỗ định giá giá palladium và khoản lỗ thực tế đối với palladium được phân phối để mua lại vượt xa lợi nhuận từ việc tạo ra hoặc mua lại chưa thanh toán. NAV của nó tăng 7,82% trong quý, hỗ trợ…",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://www.tradingview.com/news/tradingview:67e0da31eed8a:0-abrdn-palladium-etf-trust-3q-2026-net-loss-6-15m-10-q-summary/",
+      "source": "TradingView",
+      "category": "metal",
+      "published": "2026-11-07 05:01"
     },
     {
       "id": "1x7idn4",
@@ -198,17 +220,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-07 00:30"
-    },
-    {
-      "id": "vuxay7",
-      "title": "Norway’s Oil and Gas Industry Faces a Major Decline Without New Discoveries",
-      "title_vi": "Ngành công nghiệp dầu khí của Na Uy phải đối mặt với sự suy giảm lớn nếu không có phát hiện mới",
-      "summary_vi": "Trong hơn nửa thế kỷ, hoạt động sản xuất dầu khí của Na Uy đã được củng cố bởi một số phát hiện rất lớn, trong đó phát hiện cuối cùng là Wisting ở Biển Barents, được thực hiện cách đây hơn một thập kỷ. Kể từ đó, hoạt động thăm dò Thềm lục địa Na Uy (NCS) ngày càng tăng.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_1fpswuty6w.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Norways-Oil-and-Gas-Industry-Faces-a-Major-Decline-Without-New-Discoveries.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-07 00:00"
     },
     {
       "id": "17a1jvw",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-06 05:31"
-    },
-    {
-      "id": "k70zdt",
-      "title": "TEMPORARY DEAL – US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies",
-      "title_vi": "THỎA THUẬN TẠM THỜI - Hoa Kỳ nới lỏng các lệnh trừng phạt dầu mỏ của Nga để chế ngự sự tăng giá, chọc tức các đồng minh châu Âu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/03/temporary-deal-us-eases-russia-oil-sanctions-to-tame-price-surge-riling-european-allies/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-06 04:50"
     }
   ]
 }

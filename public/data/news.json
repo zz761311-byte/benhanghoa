@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 23:00",
+  "updated_at": "2026-11-08 00:00",
   "items": [
     {
       "id": "1o8l4wi",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-07 23:00"
+    },
+    {
+      "id": "861z0e",
+      "title": "Responsible Copper Sourcing and the Supply Gap",
+      "title_vi": "Tìm nguồn cung ứng đồng có trách nhiệm và khoảng cách cung ứng",
+      "summary_vi": "Nguồn cung đồng sẽ giảm so với nhu cầu. Tìm hiểu cách các tiêu chuẩn đã được xác minh, hoạt động tái chế và quan hệ đối tác đảm bảo nguồn cung ứng có trách nhiệm.",
+      "image": "",
+      "link": "https://www.nexans.com/perspective/responsible-copper-sourcing-and-the-supply-gap/",
+      "source": "Nexans",
+      "category": "metal",
+      "published": "2026-11-07 21:00"
     },
     {
       "id": "nv765c",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-06 04:50"
-    },
-    {
-      "id": "7baw94",
-      "title": "Crops Analysis | Soybean slump continues",
-      "title_vi": "Phân tích cây trồng | Đậu nành tiếp tục sụt giảm",
-      "summary_vi": "Ngày 5 tháng 11 năm 2026",
-      "image": "https://assets.farmjournal.com/dims4/default/2377821/2147483647/strip/true/crop/840x473+0+64/resize/1440x810!/quality/90/?url=https%3A%2F%2Ffj-corp-pub.s3.us-east-2.amazonaws.com%2Fs3fs-public%2F2021-05%2FCrops%20Analysis%20-%20Pro%20Farmer.jpg",
-      "link": "https://www.profarmer.com/crops-analysis-soybean-slump-continues",
-      "source": "Pro Farmer",
-      "category": "agri",
-      "published": "2026-11-06 04:42"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-08 22:01",
+  "updated_at": "2026-11-08 23:01",
   "items": [
+    {
+      "id": "1lh83qh",
+      "title": "How New York Plans to Turn Waste Heat Into Clean Energy",
+      "title_vi": "New York có kế hoạch biến nhiệt thải thành năng lượng sạch như thế nào",
+      "summary_vi": "Hệ thống sưởi ấm khu vực đã tồn tại gần 150 năm, với hệ thống thương mại đầu tiên được thành lập ở New York vào năm 1877, tuy nhiên nó vẫn chưa được sử dụng rộng rãi. Các hệ thống ban đầu sử dụng hơi nước được sản xuất bởi nồi hơi sử dụng nhiên liệu hóa thạch trung tâm. Tuy nhiên, các hệ thống đã phát triển theo thời gian và hiện đại",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-06_6rg0we9mrp.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/How-New-York-Plans-to-Turn-Waste-Heat-Into-Clean-Energy.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-08 23:00"
+    },
     {
       "id": "pnoe30",
       "title": "Gulls’ Late Rally Not Enough to Take Down Silver Knights",
@@ -88,6 +99,17 @@
       "source": "Nexans",
       "category": "metal",
       "published": "2026-11-07 21:00"
+    },
+    {
+      "id": "emxdy8",
+      "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
+      "title_vi": "Tại sao thương nhân dầu mỏ từ chối mua dầu diesel của Nga sau thỏa thuận Trump-Putin?",
+      "summary_vi": "Dầu diesel Zero của Nga đã đến Mỹ khi các tàu chở dầu chuyển hướng và người mua lo ngại hành động pháp lý.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6aeeee2203f6-1794043426.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-11-07 19:32"
     },
     {
       "id": "qtubz5",
@@ -231,17 +253,6 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-11-07 03:37"
-    },
-    {
-      "id": "rqulcu",
-      "title": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar",
-      "title_vi": "Các nhà giao dịch dầu muốn Mỹ thả các tàu chở dầu bị trừng phạt khi chi phí vận chuyển hàng hóa tăng cao",
-      "summary_vi": "Một số nhà kinh doanh dầu lớn nhất thế giới đang xin phép Washington để đưa các tàu chở dầu bị trừng phạt hoạt động trở lại, vì tình trạng thiếu tàu toàn cầu đẩy chi phí vận chuyển dầu lên mức phi thường. Trafigura, Vitol, Mercuria và Công ty Dầu khí Quốc gia Abu Dhabi đang đàm phán",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Want-US-to-Release-Sanctioned-Tankers-as-Freight-Costs-Soar.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-07 03:30"
     },
     {
       "id": "1hsge1y",
@@ -539,17 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-11-06 15:00"
-    },
-    {
-      "id": "sctbw6",
-      "title": "Brent Crude Climbs Above $100 as Middle East Oil Supply Risks Persist",
-      "title_vi": "Dầu thô Brent tăng trên 100 USD khi rủi ro nguồn cung dầu ở Trung Đông vẫn tồn tại",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/brent-crude-climbs-above-100-as-middle-east-oil-supply-risks-persist-caaf64bb",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-11-06 14:15"
     }
   ]
 }

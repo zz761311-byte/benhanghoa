@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 14:00",
+  "updated_at": "2026-11-08 15:00",
   "items": [
     {
       "id": "ft8isb",
@@ -99,6 +99,17 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-11-07 15:00"
+    },
+    {
+      "id": "r6v3ux",
+      "title": "Will gas prices keep falling? Experts weigh in - ABC News",
+      "title_vi": "Giá xăng sẽ tiếp tục giảm? Các chuyên gia cân nhắc - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/Business/gas-prices-falling-experts-weigh/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-11-07 12:41"
     },
     {
       "id": "m9mekg",
@@ -299,6 +310,17 @@
       "published": "2026-11-06 22:53"
     },
     {
+      "id": "rykvwg",
+      "title": "Gold drops as strong US payrolls boost dollar, yields",
+      "title_vi": "Vàng giảm khi bảng lương Mỹ mạnh mẽ thúc đẩy đồng đô la, lợi suất",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-eases-inflation-worries-higher-oil-us-payrolls-data-focus-2026-11-06/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-11-06 21:50"
+    },
+    {
       "id": "1sys2f1",
       "title": "Kraft Heinz To Sell North America Coffee Business For $650M, Raises Full-Year Sales Outlook",
       "title_vi": "Kraft Heinz bán mảng kinh doanh cà phê Bắc Mỹ với giá 650 triệu USD, nâng triển vọng doanh thu cả năm",
@@ -374,17 +396,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-11-06 20:41"
-    },
-    {
-      "id": "1pggxmg",
-      "title": "Gold prices see some selling pressure as US economy created 165k in October",
-      "title_vi": "Giá vàng chịu một số áp lực bán khi nền kinh tế Mỹ tạo ra 165 nghìn đô la trong tháng 10",
-      "summary_vi": "(Kitco News) - Sau một mùa hè chậm chạp, thị trường lao động Hoa Kỳ dường như đang lấy lại động lực đáng kể, đúng như dự đoán, một lần nữa đang gây áp lực lên vàng, với trọng tâm mới là hỗ trợ tại…",
-      "image": "https://image-api.prod.kitco.com/image/4483dab0-8260-471c-b190-bb23c8f7dfc2.jpeg?top=48.336538461538&left=0&width=640&height=360.32692307692&scale_width=1920&token=338eaf03364f9518a13e991ce1425cb6230e9736476839108e46a9d452bff430",
-      "link": "https://www.kitco.com/news/article/2026-11-06/gold-prices-see-some-selling-pressure-us-economy-created-165k-october",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-11-06 20:31"
     },
     {
       "id": "o90if4",
@@ -539,17 +550,6 @@
       "source": "The Washington Post",
       "category": "energy",
       "published": "2026-11-06 10:02"
-    },
-    {
-      "id": "cisbkk",
-      "title": "Oil set for sharp weekly drop but Middle East supply concerns provide floor",
-      "title_vi": "Dầu có thể giảm mạnh hàng tuần nhưng mối lo ngại về nguồn cung ở Trung Đông tạo ra mức sàn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/oil-set-sharp-weekly-drop-middle-east-supply-concerns-provide-floor-2026-11-06/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-11-06 09:49"
     }
   ]
 }

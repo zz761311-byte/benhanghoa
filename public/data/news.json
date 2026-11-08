@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 20:00",
+  "updated_at": "2026-11-08 21:01",
   "items": [
     {
       "id": "pnoe30",
@@ -420,6 +420,17 @@
       "published": "2026-11-06 20:41"
     },
     {
+      "id": "1xpgoql",
+      "title": "FAO Food Price Index falls in October",
+      "title_vi": "Chỉ số giá lương thực FAO giảm trong tháng 10",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.world-grain.com/articles/23426-fao-food-price-index-falls-in-october",
+      "source": "World Grain",
+      "category": "agri",
+      "published": "2026-11-06 20:28"
+    },
+    {
       "id": "o90if4",
       "title": "Weekly Coffee News: Costa Rica Harvest Concerns + Restoring Iconic Coffee Sign",
       "title_vi": "Tin tức cà phê hàng tuần: Mối lo ngại về thu hoạch của Costa Rica + Khôi phục dấu hiệu cà phê mang tính biểu tượng",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-11-06 14:15"
-    },
-    {
-      "id": "itpo0",
-      "title": "Supermicro ARS-511GD-NB-LCC Super AI Station-1600W Platinum Level Power Supply 2",
-      "title_vi": "Supermicro ARS-511GD-NB-LCC Super AI Station-1600W Bộ nguồn cấp bạch kim 2",
-      "summary_vi": "Supermicro ARS-511GD-NB-LCC Super AI Station-1600W Bộ nguồn cấp bạch kim 2",
-      "image": "https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/supermicro-ars-511gd-nb-lcc-super-ai-station-1600w-platinum-level-power-supply-2",
-      "link": "https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/supermicro-ars-511gd-nb-lcc-super-ai-station-1600w-platinum-level-power-supply-2/",
-      "source": "ServeTheHome",
-      "category": "metal",
-      "published": "2026-11-06 13:22"
     }
   ]
 }

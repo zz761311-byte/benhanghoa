@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 09:01",
+  "updated_at": "2026-11-09 10:02",
   "items": [
     {
       "id": "g7b8lw",
@@ -132,6 +132,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-08 03:00"
+    },
+    {
+      "id": "s2n96n",
+      "title": "U.S. TOPS THE LIST – Half the World’s Oil Comes From Just Five Countries – Visual Capitalist",
+      "title_vi": "Hoa Kỳ ĐỨNG ĐẦU DANH SÁCH – Một nửa lượng dầu của thế giới chỉ đến từ năm quốc gia – Nhà tư bản thị giác",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/half-the-worlds-oil-comes-from-just-five-countries-visual-capitalist/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-08 00:55"
     },
     {
       "id": "15k4rgs",
@@ -275,6 +286,17 @@
       "source": "TradingView",
       "category": "metal",
       "published": "2026-11-07 05:01"
+    },
+    {
+      "id": "10qaesm",
+      "title": "GraniteShares Platinum Trust 3Q 2026: Net income $14.84M — 10-Q Summary",
+      "title_vi": "GraniteShares Platinum Trust Q3 2026: Thu nhập ròng $ 14,84M — Tóm tắt 10-Q",
+      "summary_vi": "Tài sản ròng của GraniteShares Platinum Trust tăng so với quý trước, trong khi tài sản ròng do hoạt động thấp hơn, vì lợi nhuận chưa thực hiện nhỏ hơn trên bạch kim đã được bù đắp một phần bằng lợi nhuận thực hiện. Giá bạch kim tăng 9,39% trong quý, trong khi cổ phiếu đang lưu hành giảm 0,4…",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://www.tradingview.com/news/tradingview:4c8b2f602a30e:0-graniteshares-platinum-trust-3q-2026-net-income-14-84m-10-q-summary/",
+      "source": "TradingView",
+      "category": "metal",
+      "published": "2026-11-07 04:11"
     },
     {
       "id": "1fj9n61",
@@ -528,28 +550,6 @@
       "source": "SailGP",
       "category": "metal",
       "published": "2026-11-06 15:44"
-    },
-    {
-      "id": "l8hy9z",
-      "title": "Platinum and Palladium Price Forecast: Recovery at Risk Before US Jobs Data",
-      "title_vi": "Dự báo giá bạch kim và Palladium: Rủi ro phục hồi trước dữ liệu việc làm của Hoa Kỳ",
-      "summary_vi": "Bạch kim và palladium đang chờ dữ liệu việc làm của Hoa Kỳ, trong đó bạch kim phải đối mặt với mức kháng cự 1.550 USD và palladium cần phải vượt qua 1.175 USD để kéo dài thời gian phục hồi.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Platinum-Palladium-1.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/platinum-and-palladium-price-forecast-recovery-at-risk-before-us-jobs-data-1642906",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-11-06 15:17"
-    },
-    {
-      "id": "n207ij",
-      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
-      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
-      "source": "EnergyNow.com",
-      "category": "macro",
-      "published": "2026-11-06 15:04"
     }
   ]
 }

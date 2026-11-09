@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-09 23:54",
+  "updated_at": "2026-11-10 00:01",
   "items": [
+    {
+      "id": "2neyji",
+      "title": "Global LNG Markets Face a Winter of Extreme Uncertainty",
+      "title_vi": "Thị trường LNG toàn cầu phải đối mặt với một mùa đông cực kỳ bất ổn",
+      "summary_vi": "Đặc điểm nổi bật của mùa đông Bắc bán cầu 2026/27 là sự không chắc chắn. Giá khí đốt tự nhiên hóa lỏng (LNG) ở mức trên 30 USD/một triệu đơn vị nhiệt Anh (MMBtu) và tồn kho khí đốt thấp hơn rõ rệt ở các thị trường trọng điểm. Những đợt tăng giá tiếp theo không phải là kết quả tất yếu, t",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-09_6mohegpdua.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Global-LNG-Markets-Face-a-Winter-of-Extreme-Uncertainty.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-10 00:00"
+    },
     {
       "id": "3ieasi",
       "title": "Europe’s Power Prices Jump to 2022 High as Wind and Solar Falter",
@@ -145,17 +156,6 @@
       "published": "2026-11-09 18:51"
     },
     {
-      "id": "1ovkeoe",
-      "title": "Iraq&#039;s Oil Sales to America Fall to Lowest Since the 2003 War",
-      "title_vi": "Doanh số bán dầu của Iraq sang Mỹ giảm xuống mức thấp nhất kể từ Chiến tranh 2003",
-      "summary_vi": "Dữ liệu EIA cho thấy nhập khẩu dầu thô từ Iraq của Mỹ đã giảm trong năm nay xuống mức thấp nhất trong nhiều thập kỷ, do cuộc khủng hoảng eo biển Hormuz đã bóp nghẹt các chuyến hàng quốc tế từ nhà sản xuất dầu lớn thứ hai của OPEC. Nhập khẩu của Hoa Kỳ đã giảm rõ rệt kể từ tháng 3, xuống mức 0 trong tổng số tuần này",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-09_j5elmujxgh.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Sales-to-America-Fall-to-Lowest-Since-the-2003-War.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-09 18:30"
-    },
-    {
       "id": "z79i0c",
       "title": "Barrick Quarterly Earnings Benefit from Higher Prices as Production Remains On Track for Annual Target",
       "title_vi": "Thu nhập hàng quý của Barrick được hưởng lợi từ giá cao hơn khi sản xuất vẫn đi đúng mục tiêu hàng năm",
@@ -209,6 +209,17 @@
       "source": "Food Ingredients First",
       "category": "soft",
       "published": "2026-11-09 15:20"
+    },
+    {
+      "id": "1twowxp",
+      "title": "Silver Price Forecast: Supply Deficit vs Fed Pressure",
+      "title_vi": "Dự báo giá bạc: Thâm hụt nguồn cung và áp lực của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.equiti.com/sc-en/news/market-insights/silver-price-forecast-supply-deficit-fed-pressure/",
+      "source": "Equiti Global",
+      "category": "metal",
+      "published": "2026-11-09 15:01"
     },
     {
       "id": "tifw3z",
@@ -539,17 +550,6 @@
       "source": "The Western Producer",
       "category": "agri",
       "published": "2026-11-07 03:00"
-    },
-    {
-      "id": "6f3l62",
-      "title": "Zelenskiy says Ukraine is continuing attacks on Russia's oil refining sector",
-      "title_vi": "Zelenskiy nói Ukraine đang tiếp tục tấn công khu vực lọc dầu của Nga",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/zelenskiy-says-ukraine-is-continuing-attacks-russias-oil-refining-sector-2026-11-06/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-11-07 01:59"
     }
   ]
 }

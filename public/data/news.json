@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 08:01",
+  "updated_at": "2026-11-09 09:01",
   "items": [
     {
       "id": "g7b8lw",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-09 07:00"
+    },
+    {
+      "id": "l8ey8j",
+      "title": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets",
+      "title_vi": "Vàng tiếp tục giảm khi người hâm mộ dữ liệu việc làm của Hoa Kỳ đặt cược tăng lãi suất vào tháng 12",
+      "summary_vi": "Vàng tăng, xóa đi đà giảm hôm thứ Sáu, khi giá dầu kéo dài đà giảm và cuộc điều tra về giám đốc điều hành của Nvidia Corp. đè nặng lên cổ phiếu công nghệ.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iArgGxe6NKE4/v1/1200x800.jpg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
+      "source": "Bloomberg",
+      "category": "metal",
+      "published": "2026-11-09 06:40"
     },
     {
       "id": "x4m3vq",
@@ -363,17 +374,6 @@
       "source": "The Motley Fool",
       "category": "metal",
       "published": "2026-11-06 22:53"
-    },
-    {
-      "id": "rykvwg",
-      "title": "Gold drops as strong US payrolls boost dollar, yields",
-      "title_vi": "Vàng giảm khi bảng lương Mỹ mạnh mẽ thúc đẩy đồng đô la, lợi suất",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-eases-inflation-worries-higher-oil-us-payrolls-data-focus-2026-11-06/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-11-06 21:50"
     },
     {
       "id": "1sys2f1",

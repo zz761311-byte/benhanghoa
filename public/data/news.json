@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-09 11:01",
+  "updated_at": "2026-11-09 12:01",
   "items": [
+    {
+      "id": "1aco55f",
+      "title": "What Does Freeport’s Decision Say About the Future of US Copper Supply?",
+      "title_vi": "Quyết định của Freeport nói gì về tương lai nguồn cung đồng của Hoa Kỳ?",
+      "summary_vi": "Cuộc trò chuyện xung quanh nguồn cung đồng trong tương lai thường tập trung vào những khám phá mới, các khu vực pháp lý mới nổi và cuộc đua xác định nguồn cung tiếp theo.",
+      "image": "https://www.theassay.com/wp-content/uploads/2026/11/What-Does-Freeports-Decision-Say.png",
+      "link": "https://www.theassay.com/articles/what-does-freeports-decision-say-about-the-future-of-us-copper-supply/",
+      "source": "The Assay",
+      "category": "metal",
+      "published": "2026-11-09 11:35"
+    },
     {
       "id": "g7b8lw",
       "title": "Iraq’s 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push",
@@ -539,17 +550,6 @@
       "source": "IG Bank",
       "category": "soft",
       "published": "2026-11-06 17:22"
-    },
-    {
-      "id": "1b8qqcp",
-      "title": "First look: The Breguet Classique Souscription, now in Platinum",
-      "title_vi": "Cái nhìn đầu tiên: Breguet Classique Souscription, hiện có màu Bạch kim",
-      "summary_vi": "Breguet Classique Souscription 2025 được sản xuất nhân kỷ niệm 250 năm thành lập thương hiệu đã trở lại với phiên bản bạch kim bóng bẩy.",
-      "image": "https://monochrome-watches.com/app/uploads/2026/11/Breguet-Classique-Souscription-Platinum-2026PT-review-6.jpg",
-      "link": "https://monochrome-watches.com/breguet-classique-souscription-platinum-2026pt-review-price/",
-      "source": "Monochrome Watches",
-      "category": "metal",
-      "published": "2026-11-06 16:01"
     }
   ]
 }

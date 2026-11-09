@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-09 23:01",
+  "updated_at": "2026-11-09 23:54",
   "items": [
+    {
+      "id": "3ieasi",
+      "title": "Europe’s Power Prices Jump to 2022 High as Wind and Solar Falter",
+      "title_vi": "Giá điện ở Châu Âu tăng lên mức cao nhất vào năm 2022 do gió và mặt trời sụt giảm",
+      "summary_vi": "Tình hình thời tiết đang mang đến thời tiết tĩnh lặng và nhiều mây vào đầu tuần tại một số thị trường điện lớn nhất châu Âu, khiến giá điện vào các thời điểm buổi tối cao điểm tăng vọt lên mức cao nhất năm 2022. Trên khắp Vương quốc Anh, Đức và Pháp, các thị trường năng lượng hàng đầu ở Châu Âu, năng lượng gió và gió",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-09_kcc7u3oq5i.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Power-Prices-Jump-to-2022-High-as-Wind-and-Solar-Falter.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-09 23:30"
+    },
     {
       "id": "zr3v0m",
       "title": "After Midterm Failure, Trump’s Foreign Strategy May Be Even More Dangerous",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-11-09 22:30"
+    },
+    {
+      "id": "e3no1e",
+      "title": "Weekly market commentary",
+      "title_vi": "Bình luận thị trường hàng tuần",
+      "summary_vi": "Hãy theo dõi những hiểu biết sâu sắc về các chủ đề nóng và xu hướng mới nhất trên thị trường tài chính thông qua bài bình luận hàng tuần của Viện đầu tư BlackRock.",
+      "image": "/blk-one01-c-assets/include/common/images/blackrock_logo.png",
+      "link": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
+      "source": "BlackRock",
+      "category": "macro",
+      "published": "2026-11-09 22:02"
     },
     {
       "id": "dv0olk",
@@ -154,17 +176,6 @@
       "source": "Investing.com",
       "category": "macro",
       "published": "2026-11-09 18:18"
-    },
-    {
-      "id": "4vrkc2",
-      "title": "Nordic Power Prices Could Soar This Winter as Hydropower Reserves Plunge",
-      "title_vi": "Giá điện Bắc Âu có thể tăng vọt trong mùa đông này khi trữ lượng thủy điện sụt giảm",
-      "summary_vi": "Công ty kinh doanh năng lượng Mind Energy có trụ sở tại Đan Mạch cho biết mực nước thấp tại các hồ thủy điện và giá khí đốt tự nhiên tăng cao đang gây áp lực lên giá điện ở các nước Bắc Âu khi mùa đông đến gần. Giá khí đốt tăng cao và khả năng sản xuất thủy điện giảm",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-09_zt3oaxbqvn.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Nordic-Power-Prices-Could-Soar-This-Winter-as-Hydropower-Reserves-Plunge.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-09 17:20"
     },
     {
       "id": "1a1xcux",
@@ -431,6 +442,17 @@
       "published": "2026-11-07 08:10"
     },
     {
+      "id": "cb4vmm",
+      "title": "Platinum crashes to 2026 lows as rate fears erase its record January rally",
+      "title_vi": "Bạch kim rơi xuống mức thấp nhất năm 2026 khi lo ngại lãi suất xóa đi đợt tăng kỷ lục trong tháng 1",
+      "summary_vi": "Bạch kim đã giảm xuống mức 1.630 USD/oz trong tuần này, giảm 44% so với kỷ lục tháng 1, do WPIC đảo ngược dự báo năm 2026 từ thâm hụt sang thặng dư 265.000 oz.",
+      "image": "https://startupfortune.com/wp-content/uploads/2026/11/wpic-federal-reserve-2026-platinum-surplus-forecast.jpg",
+      "link": "https://startupfortune.com/platinum-crashes-to-2026-lows-as-rate-fears-erase-its-record-january-rally/",
+      "source": "Startup Fortune",
+      "category": "metal",
+      "published": "2026-11-07 07:13"
+    },
+    {
       "id": "1yr486f",
       "title": "Oil prices fall as mid-terms signal possible end to Iran war",
       "title_vi": "Giá dầu giảm khi tín hiệu trung hạn có thể kết thúc chiến tranh Iran",
@@ -528,28 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-11-07 01:59"
-    },
-    {
-      "id": "1twowxp",
-      "title": "Silver Price Forecast: Supply Deficit vs Fed Pressure",
-      "title_vi": "Dự báo giá bạc: Thâm hụt nguồn cung và áp lực của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.equiti.com/sc-en/news/market-insights/silver-price-forecast-supply-deficit-fed-pressure/",
-      "source": "Equiti Global",
-      "category": "metal",
-      "published": "2026-11-07 01:10"
-    },
-    {
-      "id": "r02jx3",
-      "title": "MI Sugar expects below-average crop, noting weather ‘didn’t cooperate with us’",
-      "title_vi": "MI Sugar dự kiến ​​vụ mùa dưới mức trung bình, lưu ý rằng thời tiết ‘không hợp tác với chúng tôi’",
-      "summary_vi": "Công ty Đường Michigan dự đoán sản lượng và hàm lượng đường trong vụ củ cải năm nay sẽ dưới mức trung bình, đồng thời lưu ý rằng thời tiết “không hợp tác với chúng tôi”.",
-      "image": "https://www.michiganfarmnews.com/sites/default/files/styles/default_share_image/public/2026-11/4-michigan-sugar.jpg?h=854a7be2&itok=2WUNVYcc",
-      "link": "https://www.michiganfarmnews.com/about/news-media/mi-sugar-expects-below-average-crop-noting-weather-didnt-cooperate-us",
-      "source": "Michigan Farm News",
-      "category": "soft",
-      "published": "2026-11-07 01:03"
     }
   ]
 }

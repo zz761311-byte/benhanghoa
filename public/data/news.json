@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-09 19:01",
+  "updated_at": "2026-11-09 20:01",
   "items": [
+    {
+      "id": "1izpj8r",
+      "title": "IEA Backs Electrification Efforts at COP31 Climate Summit",
+      "title_vi": "IEA ủng hộ nỗ lực điện khí hóa tại Hội nghị thượng đỉnh về khí hậu COP31",
+      "summary_vi": "Cơ quan Năng lượng Quốc tế (IEA) sẽ thúc đẩy điện khí hóa nhanh hơn và rộng hơn tại COP31 bắt đầu vào thứ Hai tại Antalya, Thổ Nhĩ Kỳ, khi các nhà lãnh đạo và nhà hoạch định chính sách tập trung tại hội nghị thượng đỉnh về khí hậu trong cuộc khủng hoảng năng lượng toàn cầu chưa từng có. Phân tích của IEA đang cung cấp thông tin cho",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-09_o8hye1aki6.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Backs-Electrification-Efforts-at-COP31-Climate-Summit.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-09 19:30"
+    },
     {
       "id": "1ovkeoe",
       "title": "Iraq&#039;s Oil Sales to America Fall to Lowest Since the 2003 War",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-09 18:30"
+    },
+    {
+      "id": "z79i0c",
+      "title": "Barrick Quarterly Earnings Benefit from Higher Prices as Production Remains On Track for Annual Target",
+      "title_vi": "Thu nhập hàng quý của Barrick được hưởng lợi từ giá cao hơn khi sản xuất vẫn đi đúng mục tiêu hàng năm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/earnings/barrick-quarterly-earnings-benefit-from-higher-prices-as-production-remains-on-track-for-annual-target-d7e6f1f3",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-11-09 18:27"
     },
     {
       "id": "4vrkc2",
@@ -165,17 +187,6 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-11-09 05:00"
-    },
-    {
-      "id": "xyw16h",
-      "title": "The Global Race to Harness Solar Power From Space",
-      "title_vi": "Cuộc đua toàn cầu khai thác năng lượng mặt trời từ không gian",
-      "summary_vi": "Một số quốc gia trên toàn cầu đang chạy đua phát triển hệ thống năng lượng mặt trời trên không gian (SBSP) để khai thác năng lượng mặt trời từ không gian. Trên Trái đất, năng lượng mặt trời đã trở thành một hình thức sản xuất năng lượng tái tạo phổ biến. Tuy nhiên, việc khai thác năng lượng mặt trời bị hạn chế bởi ban đêm, mây che phủ, khí quyển.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-06_id8sthpnxc.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Global-Race-to-Harness-Solar-Power-From-Space.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-09 03:00"
     },
     {
       "id": "sctbw6",
@@ -539,17 +550,6 @@
       "source": "The Des Moines Register",
       "category": "agri",
       "published": "2026-11-06 21:27"
-    },
-    {
-      "id": "1ci5mki",
-      "title": "Precious metals, resources benefit from geopolitical tailwinds",
-      "title_vi": "Kim loại quý, tài nguyên được hưởng lợi từ những thuận lợi địa chính trị",
-      "summary_vi": "Đầu tư vào các quỹ đạt giải thưởng năng lượng vàng, bạc và dầu mỏ",
-      "image": "https://www.theglobeandmail.com/resizer/v2/D6K5WYVJ7BDXNOFR34FE5MSA44.jpg?auth=3e4672920534e9d388e6ab3cc55cbaa246e3cf8bc2d96c1fcf7454679b958a9a&width=1200&height=800&quality=80&smart=true",
-      "link": "https://www.theglobeandmail.com/investing/article-precious-metals-resources-benefit-from-geopolitical-tailwinds/",
-      "source": "The Globe and Mail",
-      "category": "metal",
-      "published": "2026-11-06 21:00"
     }
   ]
 }

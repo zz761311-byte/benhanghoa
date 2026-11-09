@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-10 05:01",
+  "updated_at": "2026-11-10 06:01",
   "items": [
+    {
+      "id": "14cbeu9",
+      "title": "Gold, silver advance as dollar weakens, Fed rate expectations face inflation test - Kitco PM Report",
+      "title_vi": "Vàng, bạc tăng giá khi đồng đô la suy yếu, kỳ vọng lãi suất của Fed đối mặt với kiểm tra lạm phát - Báo cáo của Kitco PM",
+      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay tăng mạnh vào cuối phiên giao dịch tại Mỹ hôm thứ Hai, được hỗ trợ bởi đồng đô la Mỹ yếu hơn và giá dầu thô giảm mạnh khi các nhà đầu tư phản ứng…",
+      "image": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0&left=0.30227889951594&width=1023.395442201&height=576&scale_width=1920&token=6cf3a9d390a1d72c730ba300fe44fdf5e66aacd55f32eaf3f0877fbe04e5f4df",
+      "link": "https://www.kitco.com/news/article/2026-11-09/gold-silver-advance-dollar-weakens-fed-rate-expectations-face-inflation",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-11-10 05:03"
+    },
     {
       "id": "fozpho",
       "title": "Why Sudan&#039;s Civil War Is Becoming a U.S. National Security Threat",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-10 03:00"
+    },
+    {
+      "id": "17bgn95",
+      "title": "Soybean prices fell $1 in 6 weeks — what to do now",
+      "title_vi": "Giá đậu nành giảm 1 USD trong 6 tuần - phải làm gì bây giờ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/soybean/soybean-prices-fell-1-in-6-weeks-what-to-do-now",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-11-10 02:41"
     },
     {
       "id": "18zr1kx",
@@ -299,17 +321,6 @@
       "published": "2026-11-09 08:19"
     },
     {
-      "id": "l8ey8j",
-      "title": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets",
-      "title_vi": "Vàng tiếp tục giảm khi người hâm mộ dữ liệu việc làm của Hoa Kỳ đặt cược tăng lãi suất vào tháng 12",
-      "summary_vi": "Vàng tăng, xóa đi đà giảm hôm thứ Sáu, khi giá dầu kéo dài đà giảm và cuộc điều tra về giám đốc điều hành của Nvidia Corp. đè nặng lên cổ phiếu công nghệ.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iArgGxe6NKE4/v1/1200x800.jpg",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
-      "source": "Bloomberg",
-      "category": "metal",
-      "published": "2026-11-09 06:40"
-    },
-    {
       "id": "sctbw6",
       "title": "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy",
       "title_vi": "Giá dầu kỳ hạn trượt dốc khi thị trường nuôi hy vọng cho ngoại giao Trung Đông",
@@ -539,17 +550,6 @@
       "source": "TradingView",
       "category": "metal",
       "published": "2026-11-07 05:01"
-    },
-    {
-      "id": "n207ij",
-      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
-      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
-      "source": "EnergyNow.com",
-      "category": "macro",
-      "published": "2026-11-07 04:28"
     }
   ]
 }

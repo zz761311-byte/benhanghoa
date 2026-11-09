@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 04:01",
+  "updated_at": "2026-11-10 05:01",
   "items": [
     {
       "id": "fozpho",
@@ -475,6 +475,17 @@
       "published": "2026-11-07 08:10"
     },
     {
+      "id": "zustrg",
+      "title": "Capitol Coffee Meet and Greet with Rice University’s Baker Institute",
+      "title_vi": "Buổi gặp mặt và chào hỏi của Capitol Coffee với Viện Baker của Đại học Rice",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bakerinstitute.org/event/capitol-coffee-meet-and-greet-rice-universitys-baker-institute",
+      "source": "Baker Institute",
+      "category": "soft",
+      "published": "2026-11-07 07:42"
+    },
+    {
       "id": "cb4vmm",
       "title": "Platinum crashes to 2026 lows as rate fears erase its record January rally",
       "title_vi": "Bạch kim rơi xuống mức thấp nhất năm 2026 khi lo ngại lãi suất xóa đi đợt tăng kỷ lục trong tháng 1",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "macro",
       "published": "2026-11-07 04:28"
-    },
-    {
-      "id": "10qaesm",
-      "title": "GraniteShares Platinum Trust 3Q 2026: Net income $14.84M — 10-Q Summary",
-      "title_vi": "GraniteShares Platinum Trust Q3 2026: Thu nhập ròng $ 14,84M — Tóm tắt 10-Q",
-      "summary_vi": "Tài sản ròng của GraniteShares Platinum Trust tăng so với quý trước, trong khi tài sản ròng do hoạt động thấp hơn, vì lợi nhuận chưa thực hiện nhỏ hơn trên bạch kim đã được bù đắp một phần bằng lợi nhuận thực hiện. Giá bạch kim tăng 9,39% trong quý, trong khi cổ phiếu đang lưu hành giảm 0,4…",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://www.tradingview.com/news/tradingview:4c8b2f602a30e:0-graniteshares-platinum-trust-3q-2026-net-income-14-84m-10-q-summary/",
-      "source": "TradingView",
-      "category": "metal",
-      "published": "2026-11-07 04:11"
     }
   ]
 }

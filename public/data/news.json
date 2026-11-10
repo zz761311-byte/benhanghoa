@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 07:01",
+  "updated_at": "2026-11-10 07:27",
   "items": [
     {
       "id": "qfp09y",
@@ -209,6 +209,28 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-09 20:43"
+    },
+    {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-09 20:37"
+    },
+    {
+      "id": "1b23xgx",
+      "title": "Natural Gas Prices Gain 3.5% for the Week: What's Next?",
+      "title_vi": "Giá khí đốt tự nhiên tăng 3,5% trong tuần: Điều gì tiếp theo?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/energy/articles/natural-gas-prices-gain-3-131200133.html",
+      "source": "Yahoo Finance",
+      "category": "energy",
+      "published": "2026-11-09 20:12"
     },
     {
       "id": "1v4ob3v",
@@ -528,28 +550,6 @@
       "source": "Startup Fortune",
       "category": "metal",
       "published": "2026-11-07 07:13"
-    },
-    {
-      "id": "1yr486f",
-      "title": "Oil prices fall as mid-terms signal possible end to Iran war",
-      "title_vi": "Giá dầu giảm khi tín hiệu trung hạn có thể kết thúc chiến tranh Iran",
-      "summary_vi": "Kết quả bầu cử hiện khiến thị trường lạc quan hơn về một số hình thức dàn xếp vì chiến thắng của đảng Dân chủ, một phần là để đáp lại sự không được ưa chuộng của chiến tranh và...",
-      "image": "https://img.ogj.com/files/base/ebm/ogj/image/website/logos/1752245958870-ogj_horizontalcolor_reg2.png?auto=format,compress&fit=fill&fill=solid&fill-color=&w=1200&h=627",
-      "link": "https://www.ogj.com/general-interest/economics-markets/article/55417388/oil-prices-fall-as-mid-terms-signal-possible-end-to-iran-war",
-      "source": "Oil & Gas Journal",
-      "category": "energy",
-      "published": "2026-11-07 06:29"
-    },
-    {
-      "id": "yjnnld",
-      "title": "Corn, Soybeans Bounce Friday But Grain and Livestock See Bloodbath This Week",
-      "title_vi": "Ngô, đậu nành tăng giá vào thứ Sáu nhưng ngũ cốc và gia súc sẽ có cuộc tắm máu trong tuần này",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/corn-soybeans-bounce-friday-grain-and-livestock-see-bloodbath-week",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-11-07 06:26"
     }
   ]
 }

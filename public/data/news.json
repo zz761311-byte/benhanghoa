@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-10 13:01",
+  "updated_at": "2026-11-10 14:01",
   "items": [
+    {
+      "id": "lb4hqb",
+      "title": "LNG Traffic Through Hormuz Hits Highest Level Since Iran War Began",
+      "title_vi": "Lưu lượng LNG qua Hormuz đạt mức cao nhất kể từ khi chiến tranh Iran bắt đầu",
+      "summary_vi": "Theo dữ liệu từ Kpler, Reuters trích dẫn dữ liệu từ Kpler cho biết, xuất khẩu khí đốt tự nhiên hóa lỏng qua eo biển Hormuz vào tháng trước đã đạt tổng số cao nhất kể từ tháng 2, với 31 tàu chở dầu, so với 27 tàu vào tháng 9. Điều có lẽ ấn tượng hơn là hầu hết số hàng hóa này đã được chất lên",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-10_phrijskidq.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Traffic-Through-Hormuz-Hits-Highest-Level-Since-Iran-War-Began.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-10 13:45"
+    },
+    {
+      "id": "z4f2ut",
+      "title": "Mueller earnings rise in high copper price environment",
+      "title_vi": "Thu nhập của Mueller tăng trong môi trường giá đồng cao",
+      "summary_vi": "Nhà sản xuất các sản phẩm đồng và thau đã báo cáo thu nhập tăng trong 9 quý tài chính liên tiếp.",
+      "image": "https://www.recyclingtoday.com/fileuploads/image/2026/11/10/brassfittingstaylor.jpg",
+      "link": "https://www.recyclingtoday.com/news/mueller-industries-copper-brass-q3-profits-recycling-2026/",
+      "source": "Recycling Today",
+      "category": "metal",
+      "published": "2026-11-10 13:30"
+    },
     {
       "id": "dak963",
       "title": "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran",
@@ -187,17 +209,6 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-11-10 02:18"
-    },
-    {
-      "id": "18zr1kx",
-      "title": "Central Asia Confronts Growing Threat of AI-Enabled Extremism",
-      "title_vi": "Trung Á đối mặt với mối đe dọa ngày càng tăng của chủ nghĩa cực đoan được hỗ trợ bởi AI",
-      "summary_vi": "Các nhà lãnh đạo Trung Á đã tập trung tại Astana vào ngày 6 tháng 11 để thảo luận về cách ngăn chặn mặt tối của Internet và trí tuệ nhân tạo. Các cuộc đàm phán diễn ra theo khuôn khổ được gọi là Quy trình Aqaba, tập trung vào cách các nhóm chiến binh có thể sử dụng AI để hỗ trợ khủng bố. D",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-09_pflhrbg4iq.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Central-Asia-Confronts-Growing-Threat-of-AI-Enabled-Extremism.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-10 02:00"
     },
     {
       "id": "hqpff",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-08 00:55"
-    },
-    {
-      "id": "hzgosk",
-      "title": "HyBlend: Opportunities for Hydrogen Blending in Natural Gas Pipelines",
-      "title_vi": "HyBlend: Cơ hội pha trộn hydro trong đường ống khí đốt tự nhiên",
-      "summary_vi": "Sáng kiến ​​HyBlend nhằm mục đích giải quyết các rào cản kỹ thuật trong việc trộn hydro trong đường ống dẫn khí đốt tự nhiên.",
-      "image": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
-      "link": "https://www.energy.gov/cmei/fuels/hyblend-opportunities-hydrogen-blending-natural-gas-pipelines",
-      "source": "Department of Energy (.gov)",
-      "category": "energy",
-      "published": "2026-11-07 23:30"
     }
   ]
 }

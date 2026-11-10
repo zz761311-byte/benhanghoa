@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 08:01",
+  "updated_at": "2026-11-10 09:01",
   "items": [
     {
       "id": "1m2gh6b",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-10 08:00"
+    },
+    {
+      "id": "1ahd66u",
+      "title": "Revenue Protection crop insurance with harvest option see higher price guarantees in 2026",
+      "title_vi": "Bảo vệ doanh thu Bảo hiểm cây trồng với tùy chọn thu hoạch được đảm bảo giá cao hơn vào năm 2026",
+      "summary_vi": "Giá thu hoạch đã tăng ở tất cả bốn loại cây trồng chính vào năm 2026, tăng cường đảm bảo doanh thu cho nông dân với các chính sách Bảo vệ doanh thu bao gồm tùy chọn giá thu hoạch. Đây chỉ là lần thứ hai",
+      "image": "https://www.michiganfarmnews.com/sites/default/files/styles/default_share_image/public/2026-11/1-trucking-grain-outlaw-grain-trans-web.jpg?h=a22e2246&itok=mHD4TFWM",
+      "link": "https://www.michiganfarmnews.com/about/news-media/revenue-protection-crop-insurance-harvest-option-see-higher-price-guarantees-2026",
+      "source": "Michigan Farm News",
+      "category": "agri",
+      "published": "2026-11-10 07:22"
     },
     {
       "id": "qfp09y",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-07 08:10"
-    },
-    {
-      "id": "zustrg",
-      "title": "Capitol Coffee Meet and Greet with Rice University’s Baker Institute",
-      "title_vi": "Buổi gặp mặt và chào hỏi của Capitol Coffee với Viện Baker của Đại học Rice",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bakerinstitute.org/event/capitol-coffee-meet-and-greet-rice-universitys-baker-institute",
-      "source": "Baker Institute",
-      "category": "soft",
-      "published": "2026-11-07 07:42"
     }
   ]
 }

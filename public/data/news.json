@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-10 17:01",
+  "updated_at": "2026-11-10 18:01",
   "items": [
+    {
+      "id": "1c5660",
+      "title": "Brent Crude Falls Below $90 for First Time Since August",
+      "title_vi": "Dầu thô Brent giảm xuống dưới 90 USD lần đầu tiên kể từ tháng 8",
+      "summary_vi": "Giá dầu thô Brent đã giảm xuống dưới 90 USD/thùng vào đầu ngày thứ Ba, lần đầu tiên giảm xuống dưới ngưỡng đó kể từ tháng 8, khi Tổng thống Mỹ Donald Trump một lần nữa ra tín hiệu về khả năng giảm căng thẳng ở Trung Đông và không cần tấn công Iran. Tính đến sáng sớm ở",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-10_zg39taqf57.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crude-Falls-Below-90-for-First-Time-Since-August.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-10 17:06"
+    },
     {
       "id": "pkotuv",
       "title": "ADNOC Gas Posts Stunning Profit Recovery as Energy Exports Rebound",
@@ -11,17 +22,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-10 16:30"
-    },
-    {
-      "id": "co6rc0",
-      "title": "Gas prices fall below $4 per gallon for the first time since July",
-      "title_vi": "Giá xăng giảm xuống dưới 4 USD/gallon lần đầu tiên kể từ tháng 7",
-      "summary_vi": "Giá dầu giảm diễn ra sau khi giá dầu lao dốc xuống mức thấp nhất kể từ tháng 8, do Tổng thống Donald Trump liên tục ra tín hiệu rằng ông không có kế hoạch tấn công Iran.",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261110-gas-rs-d1b348.jpg",
-      "link": "https://www.nbcnews.com/business/energy/gas-prices-fall-4-gallon-oil-markets-trump-iran-war-russia-ukraine-rcna608498",
-      "source": "NBC News",
-      "category": "energy",
-      "published": "2026-11-10 16:09"
     },
     {
       "id": "nng7q1",
@@ -88,6 +88,17 @@
       "source": "Recycling Today",
       "category": "metal",
       "published": "2026-11-10 13:30"
+    },
+    {
+      "id": "1l898yx",
+      "title": "Silver Price Forecast: XAG/USD trades flat around $53 ahead of US inflation data",
+      "title_vi": "Dự báo giá bạc: XAG/USD giao dịch ổn định quanh mức 53 USD trước dữ liệu lạm phát của Mỹ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-flat-around-53-ahead-of-us-inflation-data-202611100549",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-11-10 12:50"
     },
     {
       "id": "dak963",
@@ -231,17 +242,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-10 03:14"
-    },
-    {
-      "id": "uzmnc",
-      "title": "Brent Crashes 7% on Iran Peace Hopes Despite Fresh Saudi Pipeline Attack",
-      "title_vi": "Brent giảm 7% do hy vọng hòa bình ở Iran bất chấp cuộc tấn công đường ống mới của Saudi",
-      "summary_vi": "Một loạt báo cáo chưa được xác nhận khác về một bước đột phá ngoại giao tiềm năng giữa Mỹ và Iran đã mang đến sự lạc quan mới lan truyền khắp thị trường dầu mỏ vào thứ Hai, sau khi Al Arabiya tuyên bố rằng đề xuất hòa giải giữa Qatar và Pakistan đã làm sống lại các cuộc đàm phán nghiêm túc về chương trình hạt nhân của Tehran.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-09_u2pk1ytalm.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crashes-7-on-Iran-Peace-Hopes-Despite-Fresh-Saudi-Pipeline-Attack.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-10 03:10"
     },
     {
       "id": "idatbr",

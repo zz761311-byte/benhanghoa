@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-11 04:01",
+  "updated_at": "2026-11-11 04:27",
   "items": [
+    {
+      "id": "1x6p3gu",
+      "title": "Oil, gas, and diesel prices are declining — but not all for the same reason",
+      "title_vi": "Giá dầu, khí đốt và dầu diesel đang giảm - nhưng không phải tất cả đều vì cùng một lý do",
+      "summary_vi": "Lạm phát đã trở nên trầm trọng hơn do giá năng lượng cao - nhưng có bằng chứng cho thấy các điều kiện đang thay đổi và người tiêu dùng sẽ thấy được sự phục hồi vào tháng 11.",
+      "image": "https://img.apmcdn.org/dcaf1248727e7d9a9ad46b948ae6d51bf311101d/widescreen/bc9750-20261110-an-oil-refinery-with-a-crude-oil-tanker-in-the-background-2000.jpg",
+      "link": "https://www.marketplace.org/story/2026/11/10/oil-gas-and-diesel-prices-are-declining-for-different-reasons",
+      "source": "Marketplace.org",
+      "category": "energy",
+      "published": "2026-11-11 04:00"
+    },
     {
       "id": "nt6bc",
       "title": "Houthis Launch Another Attack on Pumping Stations Along Crucial Saudi East-West",
@@ -431,6 +442,17 @@
       "published": "2026-11-10 09:59"
     },
     {
+      "id": "14nfmh0",
+      "title": "US yields climb, stocks fall as inflation data boosts chances for larger Fed rate hike",
+      "title_vi": "Lợi suất trái phiếu Mỹ tăng, chứng khoán giảm khi dữ liệu lạm phát làm tăng cơ hội tăng lãi suất của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-10/",
+      "source": "Reuters",
+      "category": "macro",
+      "published": "2026-11-10 09:23"
+    },
+    {
       "id": "fug259",
       "title": "Silver Price Forecast: XAG/USD bulls seem hesitant above $53.00; 23.6% Fibo. holds the key",
       "title_vi": "Dự báo giá bạc: Xu hướng tăng XAG/USD có vẻ do dự trên mức $53,00; Fibo 23,6%. giữ chìa khóa",
@@ -528,28 +550,6 @@
       "source": "EnergyNow.com",
       "category": "macro",
       "published": "2026-11-10 02:55"
-    },
-    {
-      "id": "17bgn95",
-      "title": "Soybean prices fell $1 in 6 weeks — what to do now",
-      "title_vi": "Giá đậu nành giảm 1 USD trong 6 tuần - phải làm gì bây giờ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/soybean/soybean-prices-fell-1-in-6-weeks-what-to-do-now",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-11-10 02:41"
-    },
-    {
-      "id": "m54ekm",
-      "title": "Copper price bounces after worst week since March amid scramble for metal in China",
-      "title_vi": "Giá đồng phục hồi sau tuần tồi tệ nhất kể từ tháng 3 trong bối cảnh tranh giành kim loại ở Trung Quốc",
-      "summary_vi": "Phí bảo hiểm Yangshan đối với đồng vận chuyển vào Trung Quốc đã tăng lên mức kỷ lục 230 USD/tấn vào thứ Hai, phí bảo hiểm giao ngay tại Thượng Hải đã tăng gấp ba lần trong hai tuần và lượng tồn kho giao trên SHFE sẽ đủ đáp ứng nhu cầu tiêu dùng của Trung Quốc chưa đầy một ngày.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/11/copper-cathodes-chile.jpeg",
-      "link": "https://www.mining.com/copper-price-bounces-after-worst-week-since-march-amid-scramble-for-metal-in-china/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-11-10 02:39"
     }
   ]
 }

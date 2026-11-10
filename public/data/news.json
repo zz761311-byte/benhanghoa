@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-11 03:01",
+  "updated_at": "2026-11-11 04:01",
   "items": [
+    {
+      "id": "nt6bc",
+      "title": "Houthis Launch Another Attack on Pumping Stations Along Crucial Saudi East-West",
+      "title_vi": "Houthis tiến hành một cuộc tấn công khác vào các trạm bơm dọc theo khu vực Đông-Tây quan trọng của Saudi",
+      "summary_vi": "Hôm thứ Ba, người Houthis đã phóng một loạt tên lửa lớn khác vào sâu bên trong Ả Rập Saudi, tuy nhiên chính quyền Ả Rập Xê Út vẫn chưa thừa nhận cuộc tấn công mới hoặc đánh giá công khai thiệt hại có thể xảy ra - mặc dù có báo cáo về cảnh báo tên lửa ở vương quốc này. Người phát ngôn của quân đội Houthi",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-10_iu8tycs6mm.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Houthis-Launch-Another-Attack-on-Pumping-Stations-Along-Crucial-Saudi-East-West.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-11 04:00"
+    },
     {
       "id": "445is9",
       "title": "British Airways Owner Warns Green Fuel Mandates Could Kill European Aviation",
@@ -112,6 +123,17 @@
       "published": "2026-11-11 01:00"
     },
     {
+      "id": "1tollqp",
+      "title": "November WASDE Surprise: Tighter Corn and Soybean Yields, Stocks Than Expected",
+      "title_vi": "Tháng 11 Điều bất ngờ WASDE: Sản lượng ngô và đậu nành giảm, tồn kho nhiều hơn dự kiến",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/november-usda-wasde-report-12240469",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-11-11 00:19"
+    },
+    {
       "id": "1qtt6rs",
       "title": "WASDE Preview: Corn Demand Holds Firm Despite Larger Supply Outlook - RFD-TV",
       "title_vi": "Xem trước WASDE: Nhu cầu ngô giữ vững mặc dù triển vọng nguồn cung lớn hơn - RFD-TV",
@@ -156,6 +178,17 @@
       "published": "2026-11-10 23:34"
     },
     {
+      "id": "3gjfse",
+      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
+      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-10 23:13"
+    },
+    {
       "id": "16rxii4",
       "title": "Average U.S. Gasoline Price Dips below $4 for First Time since July",
       "title_vi": "Giá xăng trung bình ở Mỹ lần đầu tiên giảm xuống dưới 4 USD kể từ tháng 7",
@@ -167,15 +200,15 @@
       "published": "2026-11-10 23:00"
     },
     {
-      "id": "a7p2mw",
-      "title": "China’s Coal Buyers Resist Waiver Demands in New Indonesian Deals",
-      "title_vi": "Người mua than của Trung Quốc phản đối yêu cầu miễn trừ trong các thỏa thuận mới của Indonesia",
-      "summary_vi": "Các nhà nhập khẩu than của Trung Quốc đang chống lại nỗ lực của các nhà xuất khẩu Indonesia đưa các điều khoản miễn trừ vào các hợp đồng cung cấp mới để giúp họ thoát khỏi khối lượng giao hàng nghiêm ngặt nếu chính phủ Indonesia quyết định lại hạn chế xuất khẩu hoặc hạn ngạch sản lượng, các nguồn tin quen thuộc với cuộc đàm phán",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-10_3lrp4czioq.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Coal-Buyers-Resist-Waiver-Demands-in-New-Indonesian-Deals.html",
-      "source": "OilPrice",
+      "id": "1xb8c",
+      "title": "Gold, Silver Fall as Rate-Hike Betting Jumps on Strong Inflation Data",
+      "title_vi": "Vàng, Bạc giảm khi cá cược tăng lãi suất tăng vọt do dữ liệu lạm phát mạnh",
+      "summary_vi": "Dữ liệu lạm phát mạnh của Mỹ chứng kiến ​​vàng và bạc bị xóa sổ ngày hôm qua",
+      "image": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/2026-11-10-gold-oct-cpi.png",
+      "link": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-inflation-fed-hike-111020261",
+      "source": "BullionVault",
       "category": "metal",
-      "published": "2026-11-10 22:30"
+      "published": "2026-11-10 22:13"
     },
     {
       "id": "1fpxxzm",
@@ -453,17 +486,6 @@
       "published": "2026-11-10 05:15"
     },
     {
-      "id": "14cbeu9",
-      "title": "Gold, silver advance as dollar weakens, Fed rate expectations face inflation test - Kitco PM Report",
-      "title_vi": "Vàng, bạc tăng giá khi đồng đô la suy yếu, kỳ vọng lãi suất của Fed đối mặt với kiểm tra lạm phát - Báo cáo của Kitco PM",
-      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay tăng mạnh vào cuối phiên giao dịch tại Mỹ hôm thứ Hai, được hỗ trợ bởi đồng đô la Mỹ yếu hơn và giá dầu thô giảm mạnh khi các nhà đầu tư phản ứng…",
-      "image": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0&left=0.30227889951594&width=1023.395442201&height=576&scale_width=1920&token=6cf3a9d390a1d72c730ba300fe44fdf5e66aacd55f32eaf3f0877fbe04e5f4df",
-      "link": "https://www.kitco.com/news/article/2026-11-09/gold-silver-advance-dollar-weakens-fed-rate-expectations-face-inflation",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-11-10 05:03"
-    },
-    {
       "id": "1lrkwix",
       "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
       "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
@@ -528,28 +550,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-11-10 02:39"
-    },
-    {
-      "id": "hqpff",
-      "title": "OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows",
-      "title_vi": "Khảo sát của Reuters cho thấy sản lượng dầu của OPEC tăng trong tháng 10 lên 90% so với trước chiến tranh",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/opec-oil-output-rises-october-90-of-pre-war-rate-reuters-survey-shows-2026-11-09/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-11-10 01:28"
-    },
-    {
-      "id": "8j6oae",
-      "title": "Cocoa Prices Sink as Supply Concerns Ease",
-      "title_vi": "Giá ca cao giảm do lo ngại về nguồn cung giảm bớt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/news/cocoa-prices-sink-supply-concerns-170746472.html",
-      "source": "Yahoo Finance",
-      "category": "soft",
-      "published": "2026-11-10 00:07"
     }
   ]
 }

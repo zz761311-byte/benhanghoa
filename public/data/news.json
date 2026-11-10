@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 14:01",
+  "updated_at": "2026-11-10 14:48",
   "items": [
     {
       "id": "lb4hqb",
@@ -198,6 +198,17 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-11-10 02:41"
+    },
+    {
+      "id": "m54ekm",
+      "title": "Copper price bounces after worst week since March amid scramble for metal in China",
+      "title_vi": "Giá đồng phục hồi sau tuần tồi tệ nhất kể từ tháng 3 trong bối cảnh tranh giành kim loại ở Trung Quốc",
+      "summary_vi": "Phí bảo hiểm Yangshan đối với đồng vận chuyển vào Trung Quốc đã tăng lên mức kỷ lục 230 USD/tấn vào thứ Hai, phí bảo hiểm giao ngay tại Thượng Hải đã tăng gấp ba lần trong hai tuần và lượng tồn kho giao trên SHFE sẽ đủ đáp ứng nhu cầu tiêu dùng của Trung Quốc chưa đầy một ngày.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/11/copper-cathodes-chile.jpeg",
+      "link": "https://www.mining.com/copper-price-bounces-after-worst-week-since-march-amid-scramble-for-metal-in-china/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-11-10 02:39"
     },
     {
       "id": "l8ey8j",
@@ -486,6 +497,17 @@
       "published": "2026-11-09 07:06"
     },
     {
+      "id": "1fkkldl",
+      "title": "Giveaway: Win a MONTECH KING 15 PRO Case, HyperFlow 360 AIO and 850W Platinum PSU",
+      "title_vi": "Quà tặng: Giành được Vỏ MONTECH KING 15 PRO, HyperFlow 360 AIO và PSU bạch kim 850W",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.tweaktown.com/news/114547/giveaway-win-a-montech-king-15-pro-case-hyperflow-360-aio-and-850w-platinum-psu/index.html",
+      "source": "TweakTown",
+      "category": "metal",
+      "published": "2026-11-09 02:35"
+    },
+    {
       "id": "sctbw6",
       "title": "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy",
       "title_vi": "Giá dầu kỳ hạn trượt dốc khi thị trường nuôi hy vọng cho ngoại giao Trung Đông",
@@ -528,28 +550,6 @@
       "source": "San Diego Gulls",
       "category": "metal",
       "published": "2026-11-08 12:08"
-    },
-    {
-      "id": "1w55xht",
-      "title": "Can Trump stop the surge in oil prices? Experts weigh in - ABC News",
-      "title_vi": "Trump có thể ngăn chặn sự tăng vọt của giá dầu? Các chuyên gia cân nhắc - ABC News",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://abcnews.com/Business/trump-stop-surge-oil-prices-experts-weigh/story?id",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-11-08 02:02"
-    },
-    {
-      "id": "s2n96n",
-      "title": "U.S. TOPS THE LIST – Half the World’s Oil Comes From Just Five Countries – Visual Capitalist",
-      "title_vi": "Hoa Kỳ ĐỨNG ĐẦU DANH SÁCH – Một nửa lượng dầu của thế giới chỉ đến từ năm quốc gia – Nhà tư bản thị giác",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/half-the-worlds-oil-comes-from-just-five-countries-visual-capitalist/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-08 00:55"
     }
   ]
 }

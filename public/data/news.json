@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-10 22:49",
+  "updated_at": "2026-11-10 23:01",
   "items": [
+    {
+      "id": "16rxii4",
+      "title": "Average U.S. Gasoline Price Dips below $4 for First Time since July",
+      "title_vi": "Giá xăng trung bình ở Mỹ lần đầu tiên giảm xuống dưới 4 USD kể từ tháng 7",
+      "summary_vi": "Giá xăng thông thường trung bình ở Mỹ lần đầu tiên giảm xuống dưới 4 USD/gallon kể từ giữa tháng 7, trong bối cảnh giá dầu thô quốc tế giảm và nhu cầu giảm theo mùa. Tính đến đầu ngày thứ Ba, giá xăng trung bình trên toàn quốc đứng ở mức 3 USD.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-10_7ickq9qpve.jpg",
+      "link": "https://oilprice.com/Energy/Gas-Prices/Regular-gasoline-averaged-39788-a-gallon-on-Tuesday-per-AAA-the-first-readin.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-10 23:00"
+    },
     {
       "id": "a7p2mw",
       "title": "China’s Coal Buyers Resist Waiver Demands in New Indonesian Deals",
@@ -9,7 +20,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-10_3lrp4czioq.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Coal-Buyers-Resist-Waiver-Demands-in-New-Indonesian-Deals.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-11-10 22:30"
     },
     {
@@ -99,17 +110,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-11-10 18:06"
-    },
-    {
-      "id": "1c5660",
-      "title": "Brent Crude Falls Below $90 for First Time Since August",
-      "title_vi": "Dầu thô Brent giảm xuống dưới 90 USD lần đầu tiên kể từ tháng 8",
-      "summary_vi": "Giá dầu thô Brent đã giảm xuống dưới 90 USD/thùng vào đầu ngày thứ Ba, lần đầu tiên giảm xuống dưới ngưỡng đó kể từ tháng 8, khi Tổng thống Mỹ Donald Trump một lần nữa ra tín hiệu về khả năng giảm căng thẳng ở Trung Đông và không cần tấn công Iran. Tính đến sáng sớm ở",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-10_zg39taqf57.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crude-Falls-Below-90-for-First-Time-Since-August.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-10 17:06"
     },
     {
       "id": "1xtkm6p",
@@ -231,6 +231,17 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-11-10 12:46"
+    },
+    {
+      "id": "3xyqs4",
+      "title": "Gold falls more than 2% as CPI tops forecasts, lifting dollar and yields",
+      "title_vi": "Vàng giảm hơn 2% khi CPI vượt dự báo, đồng đô la và lợi suất tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-edges-lower-focus-shifts-us-inflation-data-2026-11-10/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-11-10 10:31"
     },
     {
       "id": "1jzyepi",
@@ -374,17 +385,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-11-10 02:39"
-    },
-    {
-      "id": "l8ey8j",
-      "title": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets",
-      "title_vi": "Vàng tiếp tục giảm khi người hâm mộ dữ liệu việc làm của Hoa Kỳ đặt cược tăng lãi suất vào tháng 12",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-11-10 02:18"
     },
     {
       "id": "hqpff",

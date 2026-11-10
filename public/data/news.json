@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 14:48",
+  "updated_at": "2026-11-10 15:01",
   "items": [
     {
       "id": "lb4hqb",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-10 13:45"
+    },
+    {
+      "id": "1tllvbc",
+      "title": "Global Markets Rebound: Oil Falls, Stocks Rally and Traders Brace for US Inflation Data",
+      "title_vi": "Thị trường toàn cầu phục hồi: Dầu giảm, chứng khoán tăng và nhà đầu tư chuẩn bị đón dữ liệu lạm phát của Mỹ",
+      "summary_vi": "Phố Wall ghi nhận sự phục hồi mạnh mẽ khi hy vọng về tiến bộ ngoại giao Mỹ-Iran đẩy giá dầu giảm. Vàng, đồng đô la, trái phiếu và tiền điện tử hiện phải đối mặt với một thử thách quan trọng khác khi các nhà giao dịch chuẩn bị cho số liệu lạm phát mới.",
+      "image": "https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/VGkSbMvvTMzpZScHp3ttkm7EsMQ.png",
+      "link": "https://vocal.media/trader/global-markets-rebound-oil-falls-stocks-rally-and-traders-brace-for-us-inflation-data",
+      "source": "Vocal",
+      "category": "energy",
+      "published": "2026-11-10 13:44"
     },
     {
       "id": "z4f2ut",
@@ -121,6 +132,17 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-11-10 06:05"
+    },
+    {
+      "id": "s2n96n",
+      "title": "U.S. TOPS THE LIST – Half the World’s Oil Comes From Just Five Countries – Visual Capitalist",
+      "title_vi": "Hoa Kỳ đứng đầu danh sách – Một nửa lượng dầu thế giới đến từ chỉ 5 quốc gia – Visual Capitalist",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/half-the-worlds-oil-comes-from-just-five-countries-visual-capitalist/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-10 05:15"
     },
     {
       "id": "14cbeu9",
@@ -528,28 +550,6 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "soft",
       "published": "2026-11-08 21:08"
-    },
-    {
-      "id": "1b2e3ux",
-      "title": "Copper Price November 9 2026",
-      "title_vi": "Giá đồng ngày 9 tháng 11 năm 2026",
-      "summary_vi": "Hợp đồng tương lai đồng ngày 26 tháng 12 sẽ kết thúc vào ngày 9 tháng 11 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
-      "image": "https://robinhood.com/api/public/og/event?id=1158c7ea-bb97-4de8-935a-ff5cee1feaa0",
-      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/copper-price-november-9-2026-nov-09-2026/",
-      "source": "Robinhood",
-      "category": "metal",
-      "published": "2026-11-08 17:51"
-    },
-    {
-      "id": "pnoe30",
-      "title": "Gulls’ Late Rally Not Enough to Take Down Silver Knights",
-      "title_vi": "đợt tăng giá muộn màng của Gulls không đủ để hạ gục Silver Knights",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.sandiegogulls.com/news/detail/san-diego-gulls-henderson-silver-knights-recap-nov-7-2026",
-      "source": "San Diego Gulls",
-      "category": "metal",
-      "published": "2026-11-08 12:08"
     }
   ]
 }

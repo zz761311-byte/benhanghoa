@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-11-11 02:01",
+  "updated_at": "2026-11-11 03:01",
   "items": [
+    {
+      "id": "445is9",
+      "title": "British Airways Owner Warns Green Fuel Mandates Could Kill European Aviation",
+      "title_vi": "Chủ sở hữu British Airways cảnh báo các nhiệm vụ nhiên liệu xanh có thể giết chết hàng không châu Âu",
+      "summary_vi": "Giám đốc điều hành của công ty mẹ British Airways cho biết các khoản phí môi trường theo kế hoạch đối với các hãng hàng không sẽ “giết chết” ngành hàng không châu Âu và đẩy giá vé lên cao. Luis Gallego, giám đốc điều hành của International Airlines Group (IAG), đã cảnh báo các khoản phí xanh được đề xuất",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-09_eh63awtlay.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/British-Airways-Owner-Warns-Green-Fuel-Mandates-Could-Kill-European-Aviation.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-11 03:00"
+    },
+    {
+      "id": "vq0l5w",
+      "title": "USDA lowers corn production forecast, raises soybean outlook - Agri-Pulse Communications, Inc.",
+      "title_vi": "USDA hạ dự báo sản lượng ngô, tăng triển vọng đậu tương - Agri-Pulse Communications, Inc.",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agri-pulse.com/articles/25485-usda-lowers-corn-production-forecast-raises-soybean-outlook",
+      "source": "Agri-Pulse Communications, Inc.",
+      "category": "agri",
+      "published": "2026-11-11 02:32"
+    },
+    {
+      "id": "ra8sk7",
+      "title": "Turkey Wants COP31 to Focus on Electrification Instead of Fossil Fuel Cuts",
+      "title_vi": "Thổ Nhĩ Kỳ muốn COP31 tập trung vào điện khí hóa thay vì cắt giảm nhiên liệu hóa thạch",
+      "summary_vi": "Thổ Nhĩ Kỳ muốn gần 200 quốc gia tham dự COP31 cam kết tăng tỷ trọng điện tiêu thụ năng lượng toàn cầu lên 35% vào năm 2035, tăng từ mức khoảng 20% ​​hiện nay. Tuy nhiên, cam kết được đề xuất không có yêu cầu thực sự giảm mức tiêu thụ nhiên liệu hóa thạch. Sự khác biệt đó",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Turkey-Wants-COP31-to-Focus-on-Electrification-Instead-of-Fossil-Fuel-Cuts.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-11 02:30"
+    },
+    {
+      "id": "13ioa0f",
+      "title": "November WASDE sees markets move green for corn, soybeans",
+      "title_vi": "Tháng 11 WASDE chứng kiến ​​thị trường chuyển sang màu xanh đối với ngô, đậu nành",
+      "summary_vi": "Tính đến thời điểm viết bài, giá ngô tăng 10 xu lên 4,48 USD/giạ, trong khi giá đậu nành tăng 43 xu lên 12,26 USD/giạ.",
+      "image": "https://www.michiganfarmnews.com/sites/default/files/styles/default_share_image/public/2026-11/4-wasde-grain-harvest-kline-web.jpg?h=4362216e&itok=bZqfkV3S",
+      "link": "https://www.michiganfarmnews.com/about/news-media/november-wasde-sees-markets-move-green-corn-soybeans",
+      "source": "Michigan Farm News",
+      "category": "agri",
+      "published": "2026-11-11 02:29"
+    },
+    {
+      "id": "1g7lfsh",
+      "title": "Mo-Rez Responses Span B7-H4 Expression Levels in Platinum-Resistant Ovarian Cancer in BEHOLD-1 Biomarker Analysis",
+      "title_vi": "Phản hồi của Mo-Rez Mở rộng mức độ biểu hiện B7-H4 trong ung thư buồng trứng kháng bạch kim trong phân tích dấu ấn sinh học BEHOLD-1",
+      "summary_vi": "Dữ liệu thăm dò BEHOLD-1 cho thấy phản ứng với mocertatug rezetecan trong bệnh ung thư buồng trứng kháng bạch kim ở các mức độ biểu hiện B7-H4.",
+      "image": "https://cdn.sanity.io/images/0vv8moc6/onclive/03c82443714e828ad6f933fdcc90d7564bff6378-1280x720.jpg?w=1200&fit=max&q=75&fm=jpg",
+      "link": "https://www.onclive.com/view/mo-rez-responses-span-b7-h4-expression-levels-in-platinum-resistant-ovarian-cancer-in-behold-1",
+      "source": "OncLive",
+      "category": "metal",
+      "published": "2026-11-11 02:01"
+    },
     {
       "id": "spyhhf",
       "title": "U.S. Midterm Shake-Up Could Reshape Global Oil and Gas Markets",
@@ -79,6 +134,17 @@
       "published": "2026-11-11 00:00"
     },
     {
+      "id": "ni4h2o",
+      "title": "Corn prices soar on friendly WASDE data",
+      "title_vi": "Giá ngô tăng vọt nhờ dữ liệu WASDE thân thiện",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/marketing/corn-prices-soar-on-friendly-wasde-data",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-11-10 23:48"
+    },
+    {
       "id": "p5leye",
       "title": "Oil Falls to Lowest Level Since August",
       "title_vi": "Dầu giảm xuống mức thấp nhất kể từ tháng 8",
@@ -132,28 +198,6 @@
       "source": "upi",
       "category": "energy",
       "published": "2026-11-10 21:39"
-    },
-    {
-      "id": "bv9emq",
-      "title": "Ukraine Peace Talks Face an Uphill Battle as Winter Approaches",
-      "title_vi": "Cuộc đàm phán hòa bình Ukraine phải đối mặt với một trận chiến khó khăn khi mùa đông đến gần",
-      "summary_vi": "Sau khi chìm vào quên lãng khi cuộc chiến với Iran bắt đầu, nỗ lực ngoại giao của Mỹ nhằm chấm dứt cuộc xâm lược Ukraine của Nga lại được tăng cường, với cuộc đàm phán Mỹ-Ukraine-Nga đầu tiên kể từ tháng 2 dự kiến ​​diễn ra vào ngày 10-11/11 tại Abu Dhabi. Trước thềm hội đàm, Tổng thống Mỹ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-09_x4ewtrzqzv.jpg",
-      "link": "https://oilprice.com/Geopolitics/Europe/Ukraine-Peace-Talks-Face-an-Uphill-Battle-as-Winter-Approaches.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-10 21:30"
-    },
-    {
-      "id": "1er406v",
-      "title": "Iran War Set to Drive A Drop in Global Fossil Fuel Emissions in 2026",
-      "title_vi": "Chiến tranh Iran sẽ làm giảm lượng phát thải nhiên liệu hóa thạch toàn cầu vào năm 2026",
-      "summary_vi": "Nghiên cứu mới của Dự án Carbon Toàn cầu cho thấy lượng khí thải carbon dioxide toàn cầu từ nhiên liệu hóa thạch dự kiến ​​sẽ giảm 0,4% vào năm 2026 so với một năm trước đó, do cú sốc dầu mỏ từ chiến tranh Iran và sự gia tăng sản xuất năng lượng mặt trời và năng lượng gió. Bù carbon toàn cầu năm 2026",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-10_pjn2hctxrs.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-War-Set-to-Drive-A-Drop-in-Global-Fossil-Fuel-Emissions-in-2026.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-10 21:30"
     },
     {
       "id": "etqlcv",
@@ -264,6 +308,17 @@
       "source": "Modern Diplomacy",
       "category": "metal",
       "published": "2026-11-10 14:50"
+    },
+    {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-10 14:46"
     },
     {
       "id": "1tllvbc",
@@ -442,6 +497,17 @@
       "published": "2026-11-10 02:57"
     },
     {
+      "id": "n207ij",
+      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
+      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
+      "source": "EnergyNow.com",
+      "category": "macro",
+      "published": "2026-11-10 02:55"
+    },
+    {
       "id": "17bgn95",
       "title": "Soybean prices fell $1 in 6 weeks — what to do now",
       "title_vi": "Giá đậu nành giảm 1 USD trong 6 tuần - phải làm gì bây giờ",
@@ -484,72 +550,6 @@
       "source": "Yahoo Finance",
       "category": "soft",
       "published": "2026-11-10 00:07"
-    },
-    {
-      "id": "10hmfon",
-      "title": "Alaska’s 2026 Copper River sockeye harvest 33% below forecast",
-      "title_vi": "Thu hoạch mắt đỏ Copper River năm 2026 của Alaska thấp hơn 33% so với dự báo",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.undercurrentnews.com/2026/11/09/alaskas-2026-copper-river-sockeye-harvest-33-below-forecast/",
-      "source": "Undercurrent News",
-      "category": "metal",
-      "published": "2026-11-09 23:43"
-    },
-    {
-      "id": "8bbew4",
-      "title": "Brazil Study Field-Tests the Economics of Regenerative Coffee",
-      "title_vi": "Nghiên cứu thực địa của Brazil-Kiểm tra tính kinh tế của cà phê tái tạo",
-      "summary_vi": "Một nghiên cứu mới về bảy trang trại cà phê ở Brazil cho thấy ngoài những lợi ích đáng kể về môi trường, nông nghiệp tái tạo có thể cạnh tranh về mặt kinh tế trong khi vẫn duy trì năng suất cao. Được dẫn dắt bởi chi nhánh Brazil của...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/11/09/brazil-study-field-tests-the-economics-of-regenerative-coffee/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-11-09 23:43"
-    },
-    {
-      "id": "1hp1dr5",
-      "title": "Design Details: Social Space for Specialty Coffee at MIKSI in Valencia, Spain",
-      "title_vi": "Chi tiết thiết kế: Không gian xã hội dành cho cà phê đặc sản tại MIKSI ở Valencia, Tây Ban Nha",
-      "summary_vi": "Chào mừng bạn đến với Chi tiết Thiết kế, một tính năng biên tập đang diễn ra trên Daily Coffee News tập trung vào các ví dụ riêng lẻ về kiến ​​trúc quán cà phê, thiết kế nội thất, thiết kế bao bì hoặc thương hiệu. Nếu bạn là một...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/11/09/design-details-social-space-for-specialty-coffee-at-miksi-in-valencia-spain/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-11-09 23:41"
-    },
-    {
-      "id": "s6v7ei",
-      "title": "ROSELLA Subgroup Analysis Supports Relacorilant Use in Patients Previously Treated With Taxanes",
-      "title_vi": "Phân tích phân nhóm ROSELLA hỗ trợ sử dụng Relacorilant ở những bệnh nhân trước đây đã được điều trị bằng Taxanes",
-      "summary_vi": "Bệnh nhân ung thư buồng trứng kháng bạch kim được điều trị bằng liệu pháp taxane có thể được hưởng lợi từ việc dùng thuốc relacorilant sau taxane không? Một phân tích phân nhóm mới từ thử nghiệm ROSELLA giai đoạn III cho thấy...",
-      "image": "https://ascopost.com/media/14027527/gilbert_lucy.jpg",
-      "link": "https://ascopost.com/news/november-2026/rosella-subgroup-analysis-supports-relacorilant-use-in-patients-previously-treated-with-taxanes/",
-      "source": "The ASCO Post",
-      "category": "metal",
-      "published": "2026-11-09 22:10"
-    },
-    {
-      "id": "50dykz",
-      "title": "Silver Price Outlook: Silver Continues to Balance Between Monetary and Industrial Influences",
-      "title_vi": "Triển vọng giá bạc: Bạc tiếp tục cân bằng giữa ảnh hưởng tiền tệ và công nghiệp",
-      "summary_vi": "Bạc cho thấy sức mạnh tạm thời, nhưng lợi suất thực tăng cao và tăng trưởng công nghiệp không đồng đều khiến các đợt tăng giá dễ bị bán ra trừ khi giá phá vỡ trên 55 USD.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/11/silver-precious-metal-price-chart-01-1.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/silver-price-outlook-silver-continues-to-balance-between-monetary-and-industrial-influences-1643305",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-11-09 22:06"
-    },
-    {
-      "id": "e3no1e",
-      "title": "Weekly market commentary",
-      "title_vi": "Bình luận thị trường hàng tuần",
-      "summary_vi": "Hãy theo dõi những hiểu biết sâu sắc về các chủ đề nóng và xu hướng mới nhất trên thị trường tài chính thông qua bài bình luận hàng tuần của Viện đầu tư BlackRock.",
-      "image": "/blk-one01-c-assets/include/common/images/blackrock_logo.png",
-      "link": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
-      "source": "BlackRock",
-      "category": "macro",
-      "published": "2026-11-09 22:02"
     }
   ]
 }

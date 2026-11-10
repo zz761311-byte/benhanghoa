@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 09:01",
+  "updated_at": "2026-11-10 10:01",
   "items": [
     {
       "id": "1m2gh6b",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-10 08:00"
+    },
+    {
+      "id": "9ucnfm",
+      "title": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes",
+      "title_vi": "Vàng giữ mức tăng trên 4.100 $ khi dầu thấp hơn giảm bớt tai ương lạm phát",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-gain-above-4-100-as-lower-oil-eases-inflation-woes",
+      "source": "Bloomberg.com",
+      "category": "macro",
+      "published": "2026-11-10 07:27"
     },
     {
       "id": "1ahd66u",
@@ -66,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-10 04:00"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-10 03:14"
     },
     {
       "id": "uzmnc",
@@ -310,17 +332,6 @@
       "published": "2026-11-09 17:11"
     },
     {
-      "id": "1d1b9t6",
-      "title": "Gold Rises Toward $4,100 as Weaker Dollar Offsets Expectations of December Fed Rate Increase",
-      "title_vi": "Vàng tăng lên mức 4.100 USD khi đồng đô la yếu hơn bù đắp kỳ vọng về việc tăng lãi suất của Fed vào tháng 12",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-toward-4-100-100711794.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-11-09 17:07"
-    },
-    {
       "id": "1k8slgj",
       "title": "Treefera CEO: AI flags cocoa supply risks as weather pressures cloud 2027 outlook",
       "title_vi": "Giám đốc điều hành Treefera: AI cảnh báo rủi ro cung cấp ca cao do áp lực thời tiết lên đám mây triển vọng năm 2027",
@@ -539,17 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-11-07 12:07"
-    },
-    {
-      "id": "3gjfse",
-      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
-      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-07 08:10"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 06:02",
+  "updated_at": "2026-11-12 06:07",
   "items": [
     {
       "id": "g80lgf",
@@ -253,6 +253,17 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-11-11 17:13"
+    },
+    {
+      "id": "o900g4",
+      "title": "Trump’s peaceful mood doesn’t fully explain why energy prices are plunging",
+      "title_vi": "Tâm trạng ôn hòa của Trump không giải thích đầy đủ lý do giá năng lượng lao dốc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.cnn.com/2026/11/11/economy/oil-price-iran-trump",
+      "source": "CNN",
+      "category": "energy",
+      "published": "2026-11-11 17:00"
     },
     {
       "id": "1q4gkps",
@@ -539,17 +550,6 @@
       "source": "AgroLatam",
       "category": "agri",
       "published": "2026-11-11 01:16"
-    },
-    {
-      "id": "7yyayj",
-      "title": "Strong Copper Prices Show Up in Miners' Quarterly Results Alongside New Capacity Plans",
-      "title_vi": "Giá đồng tăng mạnh thể hiện trong kết quả hàng quý của các thợ mỏ cùng với các kế hoạch công suất mới",
-      "summary_vi": "NEW YORK, ngày 10 tháng 11 năm 2026 /CNW/ -- Bình luận tin tức về kim loại năng lượng - Giá đồng thanh toán trung bình hàng tháng trên Sàn giao dịch kim loại Luân Đôn (LME) được trích dẫn trung bình là 6 đô la.",
-      "image": "https://www.quantisnow.com/insight/strong-copper-prices-show-up-in-miners-quarterly-results-alongside-6783523/opengraph-image-y85f3i?db00802c92d5c8bb",
-      "link": "https://www.quantisnow.com/insight/strong-copper-prices-show-up-in-miners-quarterly-results-alongside-6783523",
-      "source": "Quantisnow",
-      "category": "metal",
-      "published": "2026-11-11 01:06"
     }
   ]
 }

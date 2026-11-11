@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-11 12:00",
+  "updated_at": "2026-11-11 13:00",
   "items": [
+    {
+      "id": "1o7jpq3",
+      "title": "Oil Prices Rise as Iran Peace Optimism Fades",
+      "title_vi": "Giá dầu tăng khi sự lạc quan về hòa bình của Iran mất dần",
+      "summary_vi": "Giá dầu thô đã đảo ngược mức giảm so với đầu tuần này khi các nhà giao dịch ngày càng kém lạc quan hơn về thỏa thuận hòa bình giữa Mỹ và Iran trong bối cảnh các cuộc tấn công tàu chở dầu tiếp tục diễn ra ở eo biển Hormuz, với số vụ tấn công kỷ lục trong tháng 10. Tại thời điểm viết bài, Brent",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-10_vywbqs4sya.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-as-Iran-Peace-Optimism-Fades.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-11 12:45"
+    },
     {
       "id": "1sxmimf",
       "title": "Oil Rises as Middle East Risks Linger",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-11 07:00"
+    },
+    {
+      "id": "1eekrta",
+      "title": "USD/JPY, USD/CAD Outlook: Fed hawks put dollar bulls on alert",
+      "title_vi": "Triển vọng USD/JPY, USD/CAD: Những quan điểm diều hâu của Fed cảnh báo xu hướng tăng giá của đồng đô la",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-gb/news-and-analysis/usd-jpy-usd-cad-outlook-fed-hawks-put-dollar-bulls-on-alert/",
+      "source": "StoneX",
+      "category": "macro",
+      "published": "2026-11-11 06:51"
     },
     {
       "id": "7vwi6f",
@@ -154,17 +176,6 @@
       "source": "Agri-Pulse Communications, Inc.",
       "category": "agri",
       "published": "2026-11-11 02:32"
-    },
-    {
-      "id": "ra8sk7",
-      "title": "Turkey Wants COP31 to Focus on Electrification Instead of Fossil Fuel Cuts",
-      "title_vi": "Thổ Nhĩ Kỳ muốn COP31 tập trung vào điện khí hóa thay vì cắt giảm nhiên liệu hóa thạch",
-      "summary_vi": "Thổ Nhĩ Kỳ muốn gần 200 quốc gia tham dự COP31 cam kết tăng tỷ trọng điện tiêu thụ năng lượng toàn cầu lên 35% vào năm 2035, tăng từ mức khoảng 20% ​​hiện nay. Tuy nhiên, cam kết được đề xuất không có yêu cầu thực sự giảm mức tiêu thụ nhiên liệu hóa thạch. Sự khác biệt đó",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Turkey-Wants-COP31-to-Focus-on-Electrification-Instead-of-Fossil-Fuel-Cuts.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-11 02:30"
     },
     {
       "id": "13ioa0f",
@@ -539,17 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-11-10 12:50"
-    },
-    {
-      "id": "5u5uz8",
-      "title": "Gold drops 1% on hawkish Fed comments ahead of U.S. inflation data",
-      "title_vi": "Vàng giảm 1% do bình luận diều hâu của Fed trước dữ liệu lạm phát của Mỹ",
-      "summary_vi": "Giá vàng giảm hơn 2% vào thứ Ba sau khi dữ liệu lạm phát của Mỹ nóng hơn dự kiến ​​đã nâng đồng đô la và lãi suất trái phiếu kho bạc.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108134744-1745330034653-gettyimages-2210132769-AUSTRALIA_GOLD.jpeg?v=1794284643&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/11/10/gold-edges-lower-as-focus-shifts-to-us-inflation-data.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-11-10 12:46"
     }
   ]
 }

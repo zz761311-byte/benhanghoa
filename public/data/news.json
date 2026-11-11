@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-11 10:00",
+  "updated_at": "2026-11-11 11:00",
   "items": [
+    {
+      "id": "1sxmimf",
+      "title": "Oil Rises as Middle East Risks Linger",
+      "title_vi": "Dầu tăng khi rủi ro ở Trung Đông kéo dài",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-middle-east-risks-linger-53d39c2e",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-11-11 09:19"
+    },
     {
       "id": "1r5gefv",
       "title": "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
@@ -539,17 +550,6 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-11-10 12:46"
-    },
-    {
-      "id": "1jzyepi",
-      "title": "Silver Price Prediction 2026: Forecast, Trends, and Investment Guide",
-      "title_vi": "Dự đoán giá bạc năm 2026: Dự báo, xu hướng và hướng dẫn đầu tư",
-      "summary_vi": "Mở khóa dự đoán giá bạc cho năm 2026! Bạc sẽ vượt qua 100 USD? Khám phá các mục tiêu, xu hướng kỹ thuật và chiến lược hàng đầu của Phố Wall để mua ngay.",
-      "image": "https://tw.mitrade.com/cms_uploads/img/20231116/357a97c31f26bc79ebb4d3653ee8b99d.jpg",
-      "link": "https://www.mitrade.com/ae-en/insights/commodity/metals/silver-price-prediction",
-      "source": "Mitrade",
-      "category": "metal",
-      "published": "2026-11-10 10:05"
     }
   ]
 }

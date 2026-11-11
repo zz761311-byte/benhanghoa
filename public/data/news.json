@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 09:00",
+  "updated_at": "2026-11-11 10:00",
   "items": [
     {
       "id": "1r5gefv",
@@ -209,6 +209,17 @@
       "source": "Quantisnow",
       "category": "metal",
       "published": "2026-11-11 01:06"
+    },
+    {
+      "id": "1tet8nl",
+      "title": "Silver Price Forecast: XAG/USD slides as US CPI tops estimates",
+      "title_vi": "Dự báo giá bạc: XAG/USD trượt khi ước tính CPI của Mỹ đạt đỉnh",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slides-as-us-cpi-tops-estimates-202611101741",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-11-11 00:41"
     },
     {
       "id": "1tollqp",
@@ -539,17 +550,6 @@
       "source": "Mitrade",
       "category": "metal",
       "published": "2026-11-10 10:05"
-    },
-    {
-      "id": "jy47h2",
-      "title": "Ogawa Coffee Review: Impeccable Craft, Hard-to-Swallow Price",
-      "title_vi": "Review Cà phê Ogawa: Thủ công hoàn hảo, Giá khó nuốt",
-      "summary_vi": "Đối với sinh viên Harvard, Ogawa tốt nhất nên để dành cho một dịp đặc biệt.",
-      "image": "https://thumbnails.thecrimson.com/photos/2026/11/10/024302_1389158.jpeg.1500x1125_q95_crop-smart_upscale.jpg",
-      "link": "https://www.thecrimson.com/article/2026/11/10/ogawa-coffee-review/",
-      "source": "The Harvard Crimson",
-      "category": "soft",
-      "published": "2026-11-10 09:59"
     }
   ]
 }

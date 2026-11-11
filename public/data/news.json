@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-11 15:27",
+  "updated_at": "2026-11-11 16:00",
   "items": [
+    {
+      "id": "1ps8guf",
+      "title": "Saudi Arabia and Turkey Sign Major 3 GW Wind Power Deal",
+      "title_vi": "Ả Rập Saudi và Thổ Nhĩ Kỳ ký Thỏa thuận điện gió lớn 3 GW",
+      "summary_vi": "Ả Rập Saudi và Thổ Nhĩ Kỳ đã ký một thỏa thuận thúc đẩy các dự án điện gió 3 GW ở Thổ Nhĩ Kỳ như một phần của chương trình năng lượng tái tạo 5 GW rộng hơn đã được thống nhất vào đầu năm nay. Chương trình này do ACWA Power của Ả Rập Saudi dẫn đầu, bao gồm 2 GW các dự án năng lượng mặt trời ở Sivas và Karaman vào năm 2017.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-11_l9jvudayj1.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-and-Turkey-Sign-Major-3-GW-Wind-Power-Deal.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-11 15:45"
+    },
     {
       "id": "rds3lu",
       "title": "The Commodities Feed: Oil rebounds as geopolitical risks linger",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-11 14:30"
+    },
+    {
+      "id": "1l56ff4",
+      "title": "Gold Holds Loss Near $4,000 on Hot US Inflation, Fed Remarks",
+      "title_vi": "Vàng giữ mức lỗ gần 4.000 USD do lạm phát nóng ở Mỹ, nhận xét của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-11-11 14:17"
     },
     {
       "id": "1o7jpq3",
@@ -112,6 +134,17 @@
       "published": "2026-11-11 06:51"
     },
     {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-11 06:13"
+    },
+    {
       "id": "7vwi6f",
       "title": "Midterm Results Could Trip Trump’s Energy Independence Plans",
       "title_vi": "Kết quả giữa kỳ có thể cản trở Kế hoạch Độc lập Năng lượng của Trump",
@@ -185,17 +218,6 @@
       "image": "https://img.apmcdn.org/dcaf1248727e7d9a9ad46b948ae6d51bf311101d/widescreen/bc9750-20261110-an-oil-refinery-with-a-crude-oil-tanker-in-the-background-2000.jpg",
       "link": "https://www.marketplace.org/story/2026/11/10/oil-gas-and-diesel-prices-are-declining-for-different-reasons",
       "source": "Marketplace.org",
-      "category": "energy",
-      "published": "2026-11-11 04:00"
-    },
-    {
-      "id": "nt6bc",
-      "title": "Houthis Launch Another Attack on Pumping Stations Along Crucial Saudi East-West",
-      "title_vi": "Houthis tiến hành một cuộc tấn công khác vào các trạm bơm dọc theo khu vực Đông-Tây quan trọng của Saudi",
-      "summary_vi": "Hôm thứ Ba, người Houthis đã phóng một loạt tên lửa lớn khác vào sâu bên trong Ả Rập Saudi, tuy nhiên chính quyền Ả Rập Xê Út vẫn chưa thừa nhận cuộc tấn công mới hoặc đánh giá công khai thiệt hại có thể xảy ra - mặc dù có báo cáo về cảnh báo tên lửa ở vương quốc này. Người phát ngôn của quân đội Houthi",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-10_iu8tycs6mm.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Houthis-Launch-Another-Attack-on-Pumping-Stations-Along-Crucial-Saudi-East-West.html",
-      "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-11 04:00"
     },
@@ -475,17 +497,6 @@
       "published": "2026-11-10 18:06"
     },
     {
-      "id": "1cb4qzh",
-      "title": "Gold Retreats From Recent Gains as US Inflation Report and Fed Rate Outlook Take Centre Stage",
-      "title_vi": "Vàng rút lui khỏi mức tăng gần đây khi báo cáo lạm phát của Mỹ và triển vọng lãi suất của Fed chiếm vị trí trung tâm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://uk.finance.yahoo.com/news/gold-retreats-recent-gains-us-101701390.html",
-      "source": "Yahoo Finance UK",
-      "category": "metal",
-      "published": "2026-11-10 17:17"
-    },
-    {
       "id": "1xtkm6p",
       "title": "Valentine's Day shoppers face soaring chocolate prices - ABC News",
       "title_vi": "Người mua sắm ngày lễ tình nhân đối mặt với giá sô cô la tăng vọt - ABC News",
@@ -539,17 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-11-10 15:02"
-    },
-    {
-      "id": "1hrmjgg",
-      "title": "Natural gas surges 8% as record short position unwinds on cooler forecasts",
-      "title_vi": "Khí đốt tự nhiên tăng 8% do vị thế bán khống kỷ lục giảm do dự báo mát hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/commodities-news/natural-gas-surges-8-as-record-short-position-unwinds-on-cooler-forecasts-93CH-5013049",
-      "source": "Investing.com",
-      "category": "energy",
-      "published": "2026-11-10 14:54"
     }
   ]
 }

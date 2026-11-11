@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-11 23:39",
+  "updated_at": "2026-11-12 00:01",
   "items": [
+    {
+      "id": "7g1pm4",
+      "title": "Germany Bets Big on Natural Gas to Keep the Lights On",
+      "title_vi": "Đức đặt cược lớn vào khí đốt tự nhiên để tiếp tục thắp sáng",
+      "summary_vi": "Các dự án đốt khí đốt đã đảm bảo toàn bộ công suất giảm 5,16 gigawatt (GW) trong cuộc đấu giá công suất đầu tiên ở Đức, trong đó hơn một nửa sẽ được phát triển tại các mỏ than hiện có. Kết quả cho thấy việc tìm kiếm nguồn điện dự phòng đáng tin cậy đang mang lại lợi thế cho các máy phát điện lâu đời như thế nào.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-10_gh0gkd8tlx.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Germany-Bets-Big-on-Natural-Gas-to-Keep-the-Lights-On.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-12 00:00"
+    },
     {
       "id": "yb63jv",
       "title": "Brent Jumps Nearly 3% as Iran Denies Any Talks With Washington",
@@ -134,17 +145,6 @@
       "published": "2026-11-11 19:12"
     },
     {
-      "id": "1uf96hg",
-      "title": "RWE and KKR Seal $16 Billion UK Offshore Wind Mega-Deal",
-      "title_vi": "RWE và KKR đạt được thỏa thuận lớn về gió ngoài khơi trị giá 16 tỷ USD của Vương quốc Anh",
-      "summary_vi": "Công ty năng lượng RWE của Đức và công ty đầu tư toàn cầu KKR sẽ đầu tư 16 tỷ USD vào các dự án gió ngoài khơi ở Anh, đây có thể là khoản đầu tư năng lượng tái tạo lớn nhất từ ​​trước đến nay ở Anh. RWE và KKR dự kiến ​​bàn giao Vanguard West và Vanguard East ngoài khơi",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-11_csyxenqp58.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/RWE-and-KKR-Seal-16-Billion-UK-Offshore-Wind-Mega-Deal.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-11 18:30"
-    },
-    {
       "id": "vxmtav",
       "title": "Gold & Copper Markets Outlook Fuels Junior's Las Tinajas Catalyst Push",
       "title_vi": "Triển vọng thị trường vàng và đồng thúc đẩy nỗ lực thúc đẩy chất xúc tác Las Tinajas của Junior",
@@ -253,6 +253,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-11-11 14:09"
+    },
+    {
+      "id": "ko929d",
+      "title": "Natural Gas and Oil Forecast: Oil Rebounds From Two-Month Low, Can WTI Hold $83.99?",
+      "title_vi": "Dự báo về khí đốt tự nhiên và dầu: Dầu phục hồi từ mức thấp nhất trong hai tháng, WTI có thể giữ được 83,99 USD không?",
+      "summary_vi": "Dự báo về khí đốt và dầu tự nhiên: dầu phục hồi từ mức thấp nhất trong hai tháng khi các cuộc tấn công của Hormuz vẫn tiếp diễn, với WTI dưới 91,84 USD, Brent kiểm tra 93,28 USD và NG trên 3,25 USD.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-3.jpg?width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-oil-rebounds-from-two-month-low-can-wti-hold-83-99-1643776",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-11-11 12:49"
     },
     {
       "id": "g6t6r3",
@@ -539,17 +550,6 @@
       "source": "upi",
       "category": "energy",
       "published": "2026-11-10 21:39"
-    },
-    {
-      "id": "1ep1uei",
-      "title": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll",
-      "title_vi": "Fed sẽ tăng lãi suất một lần nữa vào tháng 12 do rủi ro lạm phát vẫn ở mức cao: cuộc thăm dò của Reuters",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/poll-fed-raise-rates-once-more-december-inflation-risks-stay-high-2026-11-10/",
-      "source": "Reuters",
-      "category": "macro",
-      "published": "2026-11-10 21:35"
     }
   ]
 }

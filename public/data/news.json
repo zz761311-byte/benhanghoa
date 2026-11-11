@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-11 17:01",
+  "updated_at": "2026-11-11 18:00",
   "items": [
+    {
+      "id": "18sitzf",
+      "title": "Gold Prices Recover Above $4,040 as Investors Assess Federal Reserve Rate Hike Expectations",
+      "title_vi": "Giá vàng phục hồi trên 4.040 USD khi các nhà đầu tư đánh giá kỳ vọng tăng lãi suất của Cục Dự trữ Liên bang",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-prices-recover-above-4-101349286.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-11-11 17:13"
+    },
     {
       "id": "c3bbxe",
       "title": "Siemens Energy More Than Triples Dividend After Record Year",
@@ -299,6 +310,17 @@
       "published": "2026-11-11 01:06"
     },
     {
+      "id": "12hx218",
+      "title": "U.S. raises forecasts for 2027 gasoline and diesel prices",
+      "title_vi": "Mỹ nâng dự báo giá xăng và dầu diesel năm 2027",
+      "summary_vi": "EIA đã tăng giá bán lẻ dự kiến ​​của dầu diesel vào năm tới lên 5,03 USD/gallon, tăng từ mức 4,49 USD/gallon và xăng lên mức trung bình là 3,73 USD/gallon, tăng từ mức 3,56 USD/gallon.",
+      "image": "https://www.ttnews.com/sites/default/files/styles/social_media_1200x630/public/2026-11/Gas-fillup-bb-1200.jpg",
+      "link": "https://www.ttnews.com/articles/us-forecasts-2027-diesel",
+      "source": "Transport Topics",
+      "category": "energy",
+      "published": "2026-11-11 01:02"
+    },
+    {
       "id": "1tet8nl",
       "title": "Silver Price Forecast: XAG/USD slides as US CPI tops estimates",
       "title_vi": "Dự báo giá bạc: XAG/USD trượt khi ước tính CPI của Mỹ đạt đỉnh",
@@ -396,17 +418,6 @@
       "source": "Fastmarkets",
       "category": "agri",
       "published": "2026-11-10 22:11"
-    },
-    {
-      "id": "17qloa6",
-      "title": "Gold and Silver Investing: Why Commodities May Hurt Your Long-Term Retirement Plan",
-      "title_vi": "Đầu tư vàng và bạc: Tại sao hàng hóa có thể ảnh hưởng đến kế hoạch nghỉ hưu dài hạn của bạn",
-      "summary_vi": "",
-      "image": "https://www.stwserve.com/wp-content/uploads/2026/10/Gold-Silver-1.jpg",
-      "link": "https://www.stwserve.com/gold-and-silver-investing-why-commodities-may-hurt-your-long-term-retirement-plan/",
-      "source": "Serving Those Who Serve",
-      "category": "metal",
-      "published": "2026-11-10 22:08"
     },
     {
       "id": "1g59qqy",
@@ -539,17 +550,6 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "energy",
       "published": "2026-11-10 15:25"
-    },
-    {
-      "id": "1ww0fj6",
-      "title": "Could 2027 bring a bounce-back for U.S. wheat growers?",
-      "title_vi": "Năm 2027 có thể mang lại sự phục hồi cho những người trồng lúa mì ở Hoa Kỳ không?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/wheat/could-2027-bring-a-bounce-back-for-u-s-wheat-growers-",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-11-10 15:02"
     }
   ]
 }

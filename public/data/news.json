@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-13 01:01",
+  "updated_at": "2026-11-13 02:01",
   "items": [
+    {
+      "id": "3tqoyu",
+      "title": "Record Car Prices Are Pushing American Drivers Deeper Into Debt",
+      "title_vi": "Giá ô tô kỷ lục đang đẩy tài xế Mỹ lún sâu hơn vào nợ nần",
+      "summary_vi": "Theo một báo cáo mới của Cox Automotive trích dẫn dữ liệu của Kelley Blue Book, giá trung bình của một chiếc xe mới ở Mỹ đã tăng lên mức kỷ lục 51.109 USD. Kết hợp với lãi suất cho vay mua ô tô mới gần mức cao nhất kể từ giữa những năm 2000, giá nhãn kỷ lục đang khiến quyền sở hữu xe trở nên khó khăn hơn.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-12_gnwldbqxfj.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Record-Car-Prices-Are-Pushing-American-Drivers-Deeper-Into-Debt.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-13 02:00"
+    },
     {
       "id": "16tkuu0",
       "title": "Argentina Could Overtake Chile as South America’s Top Lithium Producer by 2035",
@@ -90,17 +101,6 @@
       "published": "2026-11-12 22:30"
     },
     {
-      "id": "ct3b0e",
-      "title": "Ukraine Peace Talks Yield Prisoner Deal but No Path to Peace",
-      "title_vi": "Cuộc đàm phán hòa bình Ukraine mang lại thỏa thuận với tù nhân nhưng không có con đường dẫn đến hòa bình",
-      "summary_vi": "Các cuộc đàm phán ba bên đầu tiên giữa Nga, Ukraine và Mỹ kể từ đầu năm nay đã tạo ra một bước đột phá nhân đạo có thể đo lường được, nhưng có rất ít tiến bộ rõ ràng hướng tới việc chấm dứt chiến tranh. Hai ngày đàm phán tại Abu Dhabi ngày 10-11/11 đã đạt được thỏa thuận về nguyên tắc",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-12_7qn0jzmkgo.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Ukraine-Peace-Talks-Yield-Prisoner-Deal-but-No-Path-to-Peace.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-12 22:00"
-    },
-    {
       "id": "dbliug",
       "title": "Corsair HX1000i Shift Crystal power supply review: 1000W Platinum efficiency with an eye-catching transparent aesthetic",
       "title_vi": "Đánh giá bộ nguồn Corsair HX1000i Shift Crystal: Hiệu suất bạch kim 1000W với vẻ đẹp trong suốt bắt mắt",
@@ -165,6 +165,17 @@
       "source": "Kroll",
       "category": "macro",
       "published": "2026-11-12 16:06"
+    },
+    {
+      "id": "ltiabb",
+      "title": "October 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
+      "title_vi": "Tháng 10 năm 2026 — Phân tích hàng tháng về hoạt động xuất khẩu nhiên liệu hóa thạch của Nga và các biện pháp trừng phạt",
+      "summary_vi": "",
+      "image": "https://energyandcleanair.org/wp/wp-content/uploads/2026/11/image-85.png",
+      "link": "https://energyandcleanair.org/october-2026-monthly-analysis-of-russian-fossil-fuel-exports-and-sanctions/",
+      "source": "Centre for Research on Energy and Clean Air",
+      "category": "energy",
+      "published": "2026-11-12 14:00"
     },
     {
       "id": "woql3f",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-11-11 15:02"
-    },
-    {
-      "id": "nre7oe",
-      "title": "Silver Market Outlook: Testing Support Before the Next Potential Breakout",
-      "title_vi": "Triển vọng thị trường bạc: Kiểm tra hỗ trợ trước khi đột phá tiềm năng tiếp theo",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/analysis/silver-market-outlook-testing-support-before-the-next-potential-breakout-200691334",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-11-11 14:20"
     }
   ]
 }

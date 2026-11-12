@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-12 19:01",
+  "updated_at": "2026-11-12 20:01",
   "items": [
+    {
+      "id": "10ersky",
+      "title": "FairWave Opens Modular Coffee Lab in Kansas City",
+      "title_vi": "FairWave mở phòng thí nghiệm cà phê mô-đun ở thành phố Kansas",
+      "summary_vi": "Tập đoàn cà phê đặc sản FairWave Specialty Coffee Collective có trụ sở tại Thành phố Kansas, Missouri đã khai trương một phòng trưng bày thiết bị chỉ dành cho cuộc hẹn và trung tâm đào tạo vào tháng trước có tên The Collective Lab dành cho các chuyên gia cà phê trong mạng lưới của mình...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/11/12/fairwave-opens-modular-coffee-lab-in-kansas-city/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-11-12 19:40"
+    },
+    {
+      "id": "17ngu0v",
+      "title": "Nigeria Hits OPEC Oil Production Quota for Sixth Straight Month",
+      "title_vi": "Nigeria đạt hạn ngạch sản xuất dầu của OPEC trong tháng thứ sáu liên tiếp",
+      "summary_vi": "Sản lượng dầu thô của Nigeria đạt trung bình 1,51 triệu thùng/ngày (bpd) trong tháng 10 do nhà sản xuất lớn nhất châu Phi của OPEC bơm theo hạn ngạch trong tháng thứ sáu liên tiếp, dữ liệu từ Ủy ban Điều tiết Dầu mỏ Thượng nguồn Nigeria (NUPRC) cho thấy trong tuần này. Nigeria tháng trước p",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-12_bcfratt4ie.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Nigeria-Hits-OPEC-Oil-Production-Quota-for-Sixth-Straight-Month.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-12 19:30"
+    },
     {
       "id": "2t1v8i",
       "title": "India Boosts Gulf Oil Imports as Russian Crude Loses Its Price Advantage",
@@ -22,6 +44,17 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-11-12 18:06"
+    },
+    {
+      "id": "1twowxp",
+      "title": "Silver Price Forecast: Supply Deficit vs Fed Pressure",
+      "title_vi": "Dự báo giá bạc: Thâm hụt nguồn cung và áp lực của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.equiti.com/sc-en/news/market-insights/silver-price-forecast-supply-deficit-fed-pressure/",
+      "source": "Equiti Global",
+      "category": "metal",
+      "published": "2026-11-12 17:19"
     },
     {
       "id": "1r4p7ym",
@@ -156,17 +189,6 @@
       "published": "2026-11-12 06:04"
     },
     {
-      "id": "g80lgf",
-      "title": "Fusion&#039;s Next Race Is Over Superconducting Tape, Not Plasma",
-      "title_vi": "Cuộc đua tiếp theo của phản ứng nhiệt hạch là băng siêu dẫn, chứ không phải plasma",
-      "summary_vi": "Cuộc đua xây dựng nhà máy điện nhiệt hạch thương mại đầu tiên trên thế giới đã chuyển từ phòng thí nghiệm vật lý sang nhà máy sản xuất. Các nhà đầu tư tư nhân đã đổ một số tiền kỷ lục là 4,48 tỷ USD vào lĩnh vực phản ứng nhiệt hạch vào năm ngoái, tăng 69%, nâng tổng số tiền đầu tư của ngành này kể từ năm 2021 lên 14,24 tỷ USD. Theo",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-11_wgdmnabpju.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Fusions-Next-Race-Is-Over-Superconducting-Tape-Not-Plasma.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-12 06:00"
-    },
-    {
       "id": "d1hzk9",
       "title": "Oil production nears pre-Iran war levels, OPEC says",
       "title_vi": "OPEC cho biết sản lượng dầu gần mức trước chiến tranh Iran",
@@ -242,6 +264,17 @@
       "source": "Fox Business",
       "category": "energy",
       "published": "2026-11-12 02:15"
+    },
+    {
+      "id": "1682m58",
+      "title": "Corn, Soybean Rally Pauses Post WASDE, Wheat Bounces: Closes Key to Confirming Low",
+      "title_vi": "đợt tăng giá ngô, đậu nành tạm dừng sau WASDE, lúa mì tăng trở lại: Đóng chìa khóa để xác nhận mức thấp",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/market-analysis/corn-soybean-rally-pauses-post-wasde-wheat-bounces-closes-key-confirming-",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-11-12 01:43"
     },
     {
       "id": "onz7ie",
@@ -517,39 +550,6 @@
       "source": "Nature",
       "category": "soft",
       "published": "2026-11-11 12:42"
-    },
-    {
-      "id": "g6t6r3",
-      "title": "Honduras: Food Security Outlook - Staple losses, limited income and an early lean season drive Crisis (IPC Phase 3), October 2026 - May 2027",
-      "title_vi": "Honduras: Triển vọng an ninh lương thực - Thất thoát chủ yếu, thu nhập hạn chế và khủng hoảng đầu mùa khủng hoảng (Giai đoạn 3 của IPC), tháng 10 năm 2026 - tháng 5 năm 2027",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://reliefweb.int/report/honduras/honduras-food-security-outlook-staple-losses-limited-income-and-early-lean-season-drive-crisis-ipc-phase-3-october-2026-may-2027",
-      "source": "ReliefWeb",
-      "category": "soft",
-      "published": "2026-11-11 10:48"
-    },
-    {
-      "id": "kh4dj1",
-      "title": "Bonds reel as hot inflation fuels jumbo Fed hike fears",
-      "title_vi": "Trái phiếu quay cuồng khi lạm phát nóng làm tăng lo ngại Fed tăng lãi suất",
-      "summary_vi": "Bởi Stella Qiu SYDNEY, ngày 11 tháng 11 (Reuters) - Chứng khoán châu Á tăng điểm vào thứ Tư khi kết quả CoreWeave xua tan nỗi lo bong bóng AI, trong khi lợi suất trái phiếu toàn cầu tăng vọt và đồng đô la giữ vững sau khi báo cáo lạm phát nóng của Mỹ làm tăng nguy cơ tỷ giá nửa điểm h...",
-      "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/11/2026-11-11T020451Z_1_LYNXNPEMAA04I_RTROPTP_3_GLOBAL-MARKETS.JPG",
-      "link": "https://kfgo.com/2026/11/10/bonds-reel-as-hot-inflation-fuels-jumbo-fed-hike-fears/",
-      "source": "The Mighty 790 KFGO",
-      "category": "energy",
-      "published": "2026-11-11 10:17"
-    },
-    {
-      "id": "1fpxxzm",
-      "title": "AMIS revises global wheat and corn forecast; warns on Black Sea bottleneck",
-      "title_vi": "AMIS điều chỉnh dự báo lúa mì và ngô toàn cầu; cảnh báo nút thắt cổ chai ở Biển Đen",
-      "summary_vi": "Ấn bản tháng 11 của Hệ thống giám sát thị trường nông nghiệp (AMIS) đã cải thiện triển vọng cung và cầu toàn cầu năm 2026/27, nhưng vẫn dự đoán sản lượng ngũ cốc sẽ giảm xuống dưới mức năm 2025/26.",
-      "image": "https://www.fastmarkets.com/tachyon/2024/10/Ag_Grains_CornConveyorBelt_Getty-502273317Med.jpg",
-      "link": "https://www.fastmarkets.com/insights/amis-revises-global-wheat-and-corn-forecast-warns-on-black-sea-bottleneck/",
-      "source": "Fastmarkets",
-      "category": "agri",
-      "published": "2026-11-11 09:23"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-12 15:01",
+  "updated_at": "2026-11-12 16:01",
   "items": [
+    {
+      "id": "19xjxqr",
+      "title": "Asian Oil Buyers Turn to Africa and Brazil as Tanker Rates Plunge",
+      "title_vi": "Người mua dầu châu Á chuyển sang châu Phi và Brazil khi giá tàu chở dầu giảm",
+      "summary_vi": "Người mua hàng hóa năng lượng châu Á đang ngày càng chuyển sang mua hàng hóa châu Phi và Brazil, bị thu hút bởi giá thấp hơn do giá vận chuyển dầu ra khỏi Vịnh Ba Tư vẫn ở gần mức cao lịch sử. Giá cước vận chuyển hàng hóa ở Nam Mỹ và Châu Phi đã đạt mức kỷ lục trước đó",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-12_qed7bu6mhc.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Oil-Buyers-Turn-to-Africa-and-Brazil-as-Tanker-Rates-Plunge.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-12 15:30"
+    },
     {
       "id": "15jm77q",
       "title": "ASEAN Moves to Build Emergency Oil Reserves Amid Iran Supply Crisis",
@@ -24,6 +35,17 @@
       "published": "2026-11-12 13:35"
     },
     {
+      "id": "woql3f",
+      "title": "Ghana's cocoa price slash sparks outrage",
+      "title_vi": "Việc Ghana giảm giá ca cao gây phẫn nộ",
+      "summary_vi": "Ngành ca cao của Ghana đang đối mặt với biến động lớn sau khi chính phủ giảm 28% giá sản xuất. Đây là một đòn nặng nề đối với nhiều người trong số 800.000 nông dân trồng ca cao trên cả nước. Nhưng các quan chức cho biết họ buộc phải đưa ra quyết định này sau khi giá ca cao toàn cầu sụt giảm. Eddy Micah Jr. nói chuyện với Nana Aduna II về",
+      "image": "https://static.dw.com/image/74973921_6.jpg",
+      "link": "https://www.dw.com/en/ghanas-cocoa-price-slash-sparks-outrage/audio-76122172",
+      "source": "DW.com",
+      "category": "soft",
+      "published": "2026-11-12 11:21"
+    },
+    {
       "id": "1f8ivak",
       "title": "Arabica coffee prices fall to four-month low on improving Brazilian supply outlook",
       "title_vi": "Giá cà phê Arabica giảm xuống mức thấp nhất 4 tháng do triển vọng nguồn cung Brazil cải thiện",
@@ -33,6 +55,17 @@
       "source": "Global Coffee Report",
       "category": "soft",
       "published": "2026-11-12 11:17"
+    },
+    {
+      "id": "1wy0zn1",
+      "title": "Oil gains after early drop as geopolitical risks support market",
+      "title_vi": "Dầu tăng sau khi giảm sớm do rủi ro địa chính trị hỗ trợ thị trường",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/business/energy/oil-prices-drop-more-than-1-hopes-iran-ukraine-peace-talks-pressure-markets-2026-11-12/",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-11-12 08:52"
     },
     {
       "id": "1amzv8d",
@@ -167,15 +200,15 @@
       "published": "2026-11-12 03:10"
     },
     {
-      "id": "15fs0na",
-      "title": "Burnham Heads to COP31 Torn Between Cheaper Power and Net Zero",
-      "title_vi": "Burnham hướng tới COP31 Bị giằng xé giữa nguồn điện rẻ hơn và Net Zero",
-      "summary_vi": "Andy Burnham sẽ phải đối mặt với những quyết định khó khăn về chính sách năng lượng trước áp lực cạnh tranh của chi phí công nghiệp cao ngất ngưởng và các cam kết bằng 0 của Đảng Lao động. Mauricio Alencar xem xét những sự đánh đổi mà chính phủ phải đối mặt trước chuyến thăm COP 31 của Thủ tướng. Mặc dù nó không tạo ra",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-11_xqz4nvshua.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Burnham-Heads-to-COP31-Torn-Between-Cheaper-Power-and-Net-Zero.html",
-      "source": "OilPrice",
+      "id": "138ym75",
+      "title": "Gas prices estimate rises for 2027, though consumers could still see relief from pain at the pump: EIA",
+      "title_vi": "Ước tính giá xăng sẽ tăng vào năm 2027, mặc dù người tiêu dùng vẫn có thể thấy bớt đau đớn khi sử dụng máy bơm: EIA",
+      "summary_vi": "EIA đã nâng dự báo giá khí đốt năm 2027 lên 5% so với tháng trước, do nguồn cung xăng dầu toàn cầu hạn chế và vết nứt lan rộng hơn cho đến cuối năm.",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/gas-station-texas.jpg?ve=1&tl=1",
+      "link": "https://www.foxbusiness.com/economy/gas-prices-estimate-rises-2027-though-consumers-could-still-see-relief-from-pain-pump-eia",
+      "source": "Fox Business",
       "category": "energy",
-      "published": "2026-11-12 03:00"
+      "published": "2026-11-12 02:15"
     },
     {
       "id": "onz7ie",
@@ -517,39 +550,6 @@
       "source": "Sandler, Travis & Rosenberg, P.A.",
       "category": "metal",
       "published": "2026-11-11 05:42"
-    },
-    {
-      "id": "bxfp15",
-      "title": "Ukraine’s new drone blitz cuts Russian oil refining capacity by 30 percent",
-      "title_vi": "Cuộc tấn công bằng máy bay không người lái mới của Ukraine làm giảm 30% công suất lọc dầu của Nga",
-      "summary_vi": "Peter Dickinson viết: Ukraine đã tiếp tục các cuộc tấn công vào ngành năng lượng của Putin trong những ngày gần đây, tiến hành một loạt các cuộc đình công mạnh mẽ được cho là đã cắt giảm khoảng 30% công suất lọc dầu của Nga và gây ra tình trạng thiếu nhiên liệu trên khắp đất nước.",
-      "image": "https://www.atlanticcouncil.org/wp-content/uploads/2026/11/2026-10-30T125255Z_772908342_RC2ODOAADQY3_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-e1794346923306.jpg",
-      "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-new-drone-blitz-cuts-russian-oil-refining-capacity-by-30-percent/",
-      "source": "Atlantic Council",
-      "category": "energy",
-      "published": "2026-11-11 04:54"
-    },
-    {
-      "id": "ni4h2o",
-      "title": "Corn prices soar on friendly WASDE data",
-      "title_vi": "Giá ngô tăng vọt nhờ dữ liệu WASDE thân thiện",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/corn-prices-soar-on-friendly-wasde-data",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-11-11 04:44"
-    },
-    {
-      "id": "1jome1z",
-      "title": "Palladium Price November 11 2026",
-      "title_vi": "Giá Palladium ngày 11 tháng 11 năm 2026",
-      "summary_vi": "Hợp đồng tương lai palladium ngày 26 tháng 12 sẽ kết thúc vào ngày 11 tháng 11 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
-      "image": "https://robinhood.com/api/public/og/event?id=5e02cec9-d7d1-4339-a808-d0b19cf54f40",
-      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/palladium-price-november-11-2026-nov-11-2026/",
-      "source": "Robinhood",
-      "category": "metal",
-      "published": "2026-11-11 04:42"
     }
   ]
 }

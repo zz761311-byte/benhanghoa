@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-12 22:01",
+  "updated_at": "2026-11-12 23:01",
   "items": [
+    {
+      "id": "wt8hvk",
+      "title": "Who is Really Paying for the Data Center Boom?",
+      "title_vi": "Ai thực sự trả tiền cho sự bùng nổ trung tâm dữ liệu?",
+      "summary_vi": "Ngành công nghiệp AI đang bùng nổ đang ngày càng tiêu thụ nhiều năng lượng hơn với mỗi trung tâm dữ liệu mọc lên trên khắp nước Mỹ. Nhu cầu điện tăng vọt đòi hỏi phải nâng cấp và mở rộng lưới điện trong cơ sở hạ tầng năng lượng. Nhưng chi phí không được phân bổ công bằng và cuối cùng các hộ gia đình phải gánh chịu hậu quả",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-11_gdq5mclzve.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Who-is-Really-Paying-for-the-Data-Center-Boom.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-12 23:00"
+    },
+    {
+      "id": "af0e4a",
+      "title": "EU Imports of Russian LNG Top 2025 Value Ahead of January Ban",
+      "title_vi": "Giá trị nhập khẩu LNG của Nga vào EU năm 2025 trước lệnh cấm tháng 1",
+      "summary_vi": "Nhóm chiến dịch Đức Urgewald cho biết hôm thứ Năm rằng EU đã trả nhiều tiền hơn để nhập khẩu LNG của Nga so với cả năm 2025, chỉ còn một tháng rưỡi nữa là EU sẽ ban hành lệnh cấm hoàn toàn đối với việc nhập khẩu khí đốt tự nhiên hóa lỏng từ Nga. Từ tháng 1 đến tháng 10, EU đã thanh toán theo m",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-12_1kyck5pstr.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Imports-of-Russian-LNG-Top-2025-Value-Ahead-of-January-Ban.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-12 22:30"
+    },
     {
       "id": "ct3b0e",
       "title": "Ukraine Peace Talks Yield Prisoner Deal but No Path to Peace",
@@ -33,6 +55,17 @@
       "source": "Tom's Hardware",
       "category": "metal",
       "published": "2026-11-12 21:00"
+    },
+    {
+      "id": "nepi4",
+      "title": "Luckin Coffee Inc. Sponsored ADR (LKNCY)'s Technical Outlook is Bright After Key Golden Cross",
+      "title_vi": "Triển vọng kỹ thuật của Luckin Coffee Inc. được tài trợ bởi ADR (LKNCY) rất sáng sủa sau Key Golden Cross",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/luckin-coffee-inc-sponsored-adr-135501795.html",
+      "source": "Yahoo Finance",
+      "category": "soft",
+      "published": "2026-11-12 20:55"
     },
     {
       "id": "dugqo4",
@@ -121,28 +154,6 @@
       "source": "Kroll",
       "category": "macro",
       "published": "2026-11-12 16:06"
-    },
-    {
-      "id": "19xjxqr",
-      "title": "Asian Oil Buyers Turn to Africa and Brazil as Tanker Rates Plunge",
-      "title_vi": "Người mua dầu châu Á chuyển sang châu Phi và Brazil khi giá tàu chở dầu giảm",
-      "summary_vi": "Người mua hàng hóa năng lượng châu Á đang ngày càng chuyển sang mua hàng hóa châu Phi và Brazil, bị thu hút bởi giá thấp hơn do giá vận chuyển dầu ra khỏi Vịnh Ba Tư vẫn ở gần mức cao lịch sử. Giá cước vận chuyển hàng hóa ở Nam Mỹ và Châu Phi đã đạt mức kỷ lục trước đó",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-12_qed7bu6mhc.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Oil-Buyers-Turn-to-Africa-and-Brazil-as-Tanker-Rates-Plunge.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-12 15:30"
-    },
-    {
-      "id": "15jm77q",
-      "title": "ASEAN Moves to Build Emergency Oil Reserves Amid Iran Supply Crisis",
-      "title_vi": "ASEAN chuyển sang xây dựng kho dự trữ dầu khẩn cấp trong bối cảnh khủng hoảng nguồn cung Iran",
-      "summary_vi": "Hiệp hội các quốc gia Đông Nam Á đã nhất trí thiết lập kế hoạch dự trữ dầu thô chung nhằm ứng phó với sự gián đoạn nguồn cung do chiến tranh ở Iran khiến các nước trong khu vực bị ảnh hưởng nặng nề. Kế hoạch này sẽ bao gồm các địa điểm lưu trữ ở Indonesia và Thái Lan, Reute",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-12_12otl4gesi.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ASEAN-Moves-to-Build-Emergency-Oil-Reserves-Amid-Iran-Supply-Crisis.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-12 14:30"
     },
     {
       "id": "woql3f",
@@ -319,6 +330,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-11 22:21"
+    },
+    {
+      "id": "159zp4z",
+      "title": "Why is Palladium price down 4.3% today?",
+      "title_vi": "Tại sao giá Palladium hôm nay giảm 4,3%?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://tradersunion.com/news/commodities/show/4217452-palladium-slides-4-38percent-today-to/",
+      "source": "Traders Union",
+      "category": "metal",
+      "published": "2026-11-11 22:12"
     },
     {
       "id": "1sa93rl",
@@ -528,28 +550,6 @@
       "source": "Bioengineer.org",
       "category": "soft",
       "published": "2026-11-11 14:00"
-    },
-    {
-      "id": "1p7nv49",
-      "title": "Japan's Eneos ups FY26 net profit forecast 48% on stronger oil prices",
-      "title_vi": "Eneos của Nhật Bản tăng dự báo lợi nhuận ròng năm tài chính 2026 lên 48% nhờ giá dầu tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/business/energy/japans-eneos-ups-fy26-net-profit-forecast-48-stronger-oil-prices-2026-11-11/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-11-11 13:09"
-    },
-    {
-      "id": "ko929d",
-      "title": "Natural Gas and Oil Forecast: Oil Rebounds From Two-Month Low, Can WTI Hold $83.99?",
-      "title_vi": "Dự báo về khí đốt tự nhiên và dầu: Dầu phục hồi từ mức thấp nhất trong hai tháng, WTI có thể giữ được 83,99 USD không?",
-      "summary_vi": "Dự báo về khí đốt và dầu tự nhiên: dầu phục hồi từ mức thấp nhất trong hai tháng khi các cuộc tấn công của Hormuz vẫn tiếp diễn, với WTI dưới 91,84 USD, Brent kiểm tra 93,28 USD và NG trên 3,25 USD.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-3.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-oil-rebounds-from-two-month-low-can-wti-hold-83-99-1643776",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-11-11 12:49"
     }
   ]
 }

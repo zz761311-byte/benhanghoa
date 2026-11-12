@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 10:01",
+  "updated_at": "2026-11-12 10:53",
   "items": [
     {
       "id": "1amzv8d",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-12 05:00"
+    },
+    {
+      "id": "d1hzk9",
+      "title": "Oil production nears pre-Iran war levels, OPEC says",
+      "title_vi": "OPEC cho biết sản lượng dầu gần mức trước chiến tranh Iran",
+      "summary_vi": "Ả Rập Saudi báo cáo sản lượng dầu tăng vọt lên mức cao nhất trong nhiều tháng mặc dù hoạt động vận chuyển tiếp tục bị gián đoạn.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69f1e9ec-1777461740.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-11-12 04:13"
     },
     {
       "id": "iemdxf",
@@ -143,17 +154,6 @@
       "source": "Oklahoma Farm Report",
       "category": "agri",
       "published": "2026-11-11 21:48"
-    },
-    {
-      "id": "18l93s8",
-      "title": "OPEC’s Oil Production Nears Prewar Levels on Saudi Rebound",
-      "title_vi": "Sản lượng dầu của OPEC gần đạt mức trước chiến tranh nhờ sự phục hồi của Saudi Arabia",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/opecs-oil-production-nears-prewar-levels-on-saudi-rebound-70ffcc13",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-11-11 21:43"
     },
     {
       "id": "1fwc0qr",

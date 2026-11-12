@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 18:55",
+  "updated_at": "2026-11-12 19:01",
   "items": [
     {
       "id": "2t1v8i",
@@ -222,6 +222,17 @@
       "published": "2026-11-12 03:10"
     },
     {
+      "id": "n207ij",
+      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
+      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
+      "source": "EnergyNow.com",
+      "category": "macro",
+      "published": "2026-11-12 02:57"
+    },
+    {
       "id": "138ym75",
       "title": "Gas prices estimate rises for 2027, though consumers could still see relief from pain at the pump: EIA",
       "title_vi": "Ước tính giá xăng sẽ tăng vào năm 2027, mặc dù người tiêu dùng vẫn có thể thấy bớt đau đớn khi sử dụng máy bơm: EIA",
@@ -242,6 +253,17 @@
       "source": "Oil & Gas Journal",
       "category": "energy",
       "published": "2026-11-12 01:39"
+    },
+    {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-11 22:21"
     },
     {
       "id": "1sa93rl",
@@ -528,28 +550,6 @@
       "source": "Fastmarkets",
       "category": "agri",
       "published": "2026-11-11 09:23"
-    },
-    {
-      "id": "hq29oa",
-      "title": "USDA: November WASDE maintains forecast for corn use in ethanol",
-      "title_vi": "USDA: Tháng 11 WASDE duy trì dự báo sử dụng ngô làm ethanol",
-      "summary_vi": "USDA duy trì dự báo về việc sử dụng ngô từ năm 2026 đến năm 2027 trong sản xuất ethanol trong báo cáo Ước tính Cung và Cầu Nông nghiệp Thế giới mới nhất được công bố.",
-      "image": "https://bbi-strapi.s3.us-east-2.amazonaws.com/archived/epm/posts/web/2014/06/CornCobBig_14025216574144.jpg",
-      "link": "https://ethanolproducer.com/articles/usda-november-wasde-maintains-forecast-for-corn-use-in-ethanol",
-      "source": "Ethanol Producer Magazine",
-      "category": "agri",
-      "published": "2026-11-11 07:35"
-    },
-    {
-      "id": "1eekrta",
-      "title": "USD/JPY, USD/CAD Outlook: Fed hawks put dollar bulls on alert",
-      "title_vi": "Triển vọng USD/JPY, USD/CAD: Những quan điểm diều hâu của Fed cảnh báo xu hướng tăng giá của đồng đô la",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-gb/news-and-analysis/usd-jpy-usd-cad-outlook-fed-hawks-put-dollar-bulls-on-alert/",
-      "source": "StoneX",
-      "category": "macro",
-      "published": "2026-11-11 06:51"
     }
   ]
 }

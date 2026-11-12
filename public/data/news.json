@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-13 04:01",
+  "updated_at": "2026-11-13 05:01",
   "items": [
+    {
+      "id": "sup1kf",
+      "title": "More Drilling Won’t Shield U.S. Consumers From Oil Price Shocks",
+      "title_vi": "Khoan nhiều hơn sẽ không bảo vệ người tiêu dùng Mỹ khỏi cú sốc giá dầu",
+      "summary_vi": "Một tháng nữa, một báo cáo Chỉ số giá tiêu dùng đáng lo ngại khác. Khi chiến tranh ở Iran kéo dài, lạm phát ở Mỹ vẫn ở mức cao dai dẳng, phần lớn là do chi phí năng lượng và thực phẩm tăng cao. Nhìn chung, giá đã tăng 4/10 của một phần trăm so với tháng trước, và",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-12_ms13xuz2wq.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/More-Drilling-Wont-Shield-US-Consumers-From-Oil-Price-Shocks.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-13 05:00"
+    },
     {
       "id": "1tio2sd",
       "title": "Europe Enters Winter With Its Lowest Gas Inventory of the 2020s",
@@ -79,17 +90,6 @@
       "published": "2026-11-13 00:30"
     },
     {
-      "id": "1e5z5ht",
-      "title": "Soaring Electricity Costs Force Britain to Rethink Its Green Agenda",
-      "title_vi": "Chi phí điện tăng vọt buộc Anh phải suy nghĩ lại về Chương trình nghị sự xanh của mình",
-      "summary_vi": "Mặc dù nó không gây chú ý nhưng bài phát biểu về Ngân sách của Thủ tướng John Healey đã báo hiệu một sự thay đổi lớn trong quan điểm của các chính phủ trước đây so với số 0 ròng. Healey nói: “Hôm nay tôi đang thiết lập một lộ trình mới về năng lượng: giảm chi phí năng lượng của Vương quốc Anh ngang bằng với châu Âu”. “Từ thời điểm này, bạn",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-12_mchio9usb5.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Soaring-Electricity-Costs-Force-Britain-to-Rethink-Its-Green-Agenda.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-13 00:00"
-    },
-    {
       "id": "mt4omx",
       "title": "Design Details: The Recessed Sculptural Bar of Palace Coffee in Melbourne",
       "title_vi": "Chi tiết thiết kế: Quầy bar điêu khắc âm tường của Palace Coffee ở Melbourne",
@@ -154,6 +154,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-12 19:40"
+    },
+    {
+      "id": "193ww2e",
+      "title": "Ukraine Says It Hit Russia’s Biggest Oil Refinery in Siberia",
+      "title_vi": "Ukraine cho biết nó tấn công nhà máy lọc dầu lớn nhất của Nga ở Siberia",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-12/ukraine-says-it-hit-russia-s-biggest-oil-refinery-in-siberia",
+      "source": "Bloomberg.com",
+      "category": "energy",
+      "published": "2026-11-12 19:27"
     },
     {
       "id": "1hck8hc",
@@ -539,17 +550,6 @@
       "source": "Seeking Alpha",
       "category": "energy",
       "published": "2026-11-11 18:05"
-    },
-    {
-      "id": "k07stz",
-      "title": "Come anytime. We have Tupperware. Bring some corn.",
-      "title_vi": "Hãy đến bất cứ lúc nào. Chúng tôi có Tupperware. Mang theo một ít ngô.",
-      "summary_vi": "Lời mời tham dự Lễ tạ ơn phát triển thành những bữa tối và cộng đồng kéo dài nhiều năm.",
-      "image": "https://d1xsof2vgflx1h.cloudfront.net/wp-content/uploads/2026/11/Turkey1-iStock-1349366821.webp",
-      "link": "https://pres-outlook.org/2026/11/come-anytime-we-have-tupperware-bring-some-corn/",
-      "source": "The Presbyterian Outlook",
-      "category": "agri",
-      "published": "2026-11-11 18:00"
     }
   ]
 }

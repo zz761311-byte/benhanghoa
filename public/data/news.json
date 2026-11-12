@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-12 16:01",
+  "updated_at": "2026-11-12 17:01",
   "items": [
+    {
+      "id": "1mhc14o",
+      "title": "Kroll Geoeconomic Risk Index",
+      "title_vi": "Chỉ số rủi ro địa kinh tế Kroll",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.kroll.com/en/tools-and-platforms/kroll-geoeconomic-risk-index",
+      "source": "Kroll",
+      "category": "macro",
+      "published": "2026-11-12 16:06"
+    },
     {
       "id": "19xjxqr",
       "title": "Asian Oil Buyers Turn to Africa and Brazil as Tanker Rates Plunge",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-11 06:13"
-    },
-    {
-      "id": "11a7x3d",
-      "title": "American Metals Supply Chain Institute Customs Committee Meeting",
-      "title_vi": "Cuộc họp Ủy ban Hải quan của Viện Chuỗi Cung ứng Kim loại Hoa Kỳ",
-      "summary_vi": "Bạn quan tâm đến chuyện gì đang xảy ra với Sander, Travis & Rosenberg? Kiểm tra thông tin cập nhật trong phần tin tức và thông cáo báo chí của chúng tôi!",
-      "image": "https://www.strtrade.com/wp-content/uploads/2026/09/STR-site-image.jpg",
-      "link": "https://www.strtrade.com/about/firm-news-events/events/american-metals-supply-chain-institute-customs-committee-meeting",
-      "source": "Sandler, Travis & Rosenberg, P.A.",
-      "category": "metal",
-      "published": "2026-11-11 05:42"
     }
   ]
 }

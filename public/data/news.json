@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-12 14:00",
+  "updated_at": "2026-11-12 15:01",
   "items": [
+    {
+      "id": "15jm77q",
+      "title": "ASEAN Moves to Build Emergency Oil Reserves Amid Iran Supply Crisis",
+      "title_vi": "ASEAN chuyển sang xây dựng kho dự trữ dầu khẩn cấp trong bối cảnh khủng hoảng nguồn cung Iran",
+      "summary_vi": "Hiệp hội các quốc gia Đông Nam Á đã nhất trí thiết lập kế hoạch dự trữ dầu thô chung nhằm ứng phó với sự gián đoạn nguồn cung do chiến tranh ở Iran khiến các nước trong khu vực bị ảnh hưởng nặng nề. Kế hoạch này sẽ bao gồm các địa điểm lưu trữ ở Indonesia và Thái Lan, Reute",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-12_12otl4gesi.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ASEAN-Moves-to-Build-Emergency-Oil-Reserves-Amid-Iran-Supply-Crisis.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-12 14:30"
+    },
     {
       "id": "1hkda9p",
       "title": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds",
@@ -134,6 +145,17 @@
       "published": "2026-11-12 03:43"
     },
     {
+      "id": "1fgzjh",
+      "title": "Short-Term Energy Outlook: November 2026",
+      "title_vi": "Triển vọng năng lượng ngắn hạn: Tháng 11 năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.advisorperspectives.com/dshort/updates/2026/11/11/short-term-energy-outlook-november-2026",
+      "source": "Advisor Perspectives",
+      "category": "energy",
+      "published": "2026-11-12 03:24"
+    },
+    {
       "id": "hdx2fl",
       "title": "BMO says silver’s solar boom is fading, investment demand unlikely to compensate",
       "title_vi": "BMO cho biết sự bùng nổ năng lượng mặt trời của bạc đang mờ dần, nhu cầu đầu tư khó có thể bù đắp",
@@ -154,17 +176,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-12 03:00"
-    },
-    {
-      "id": "5xj1qc",
-      "title": "Murphy Oil Draws Boycott Call Over Israeli Gas Licenses",
-      "title_vi": "Murphy Oil kêu gọi tẩy chay giấy phép khí đốt của Israel",
-      "summary_vi": "Các nhà hoạt động ủng hộ Palestine đã gây áp lực buộc Eni và Dana Petroleum phải từ bỏ một liên doanh khí đốt ngoài khơi của Israel hiện đang truy lùng Murphy Oil, công ty có trụ sở tại Houston đã thay thế họ vào thứ Hai. Phong trào Tẩy chay, Thoái vốn và Xử phạt và các đối tác của nó kêu gọi Murphy vào thứ Tư",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-11_23xipmn0gl.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Murphy-Oil-Draws-Boycott-Call-Over-Israeli-Gas-Licenses.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-12 02:30"
     },
     {
       "id": "onz7ie",
@@ -539,17 +550,6 @@
       "source": "Robinhood",
       "category": "metal",
       "published": "2026-11-11 04:42"
-    },
-    {
-      "id": "1x6p3gu",
-      "title": "Oil, gas, and diesel prices are declining — but not all for the same reason",
-      "title_vi": "Giá dầu, khí đốt và dầu diesel đang giảm - nhưng không phải tất cả đều vì cùng một lý do",
-      "summary_vi": "Lạm phát đã trở nên trầm trọng hơn do giá năng lượng cao - nhưng có bằng chứng cho thấy các điều kiện đang thay đổi và người tiêu dùng sẽ thấy được sự phục hồi vào tháng 11.",
-      "image": "https://img.apmcdn.org/dcaf1248727e7d9a9ad46b948ae6d51bf311101d/widescreen/bc9750-20261110-an-oil-refinery-with-a-crude-oil-tanker-in-the-background-2000.jpg",
-      "link": "https://www.marketplace.org/story/2026/11/10/oil-gas-and-diesel-prices-are-declining-for-different-reasons",
-      "source": "Marketplace.org",
-      "category": "energy",
-      "published": "2026-11-11 04:00"
     }
   ]
 }

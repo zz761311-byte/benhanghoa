@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-12 12:00",
+  "updated_at": "2026-11-12 13:00",
   "items": [
+    {
+      "id": "1f8ivak",
+      "title": "Arabica coffee prices fall to four-month low on improving Brazilian supply outlook",
+      "title_vi": "Giá cà phê Arabica giảm xuống mức thấp nhất 4 tháng do triển vọng nguồn cung Brazil cải thiện",
+      "summary_vi": "Giá cà phê Arabica kỳ hạn đã giảm xuống mức thấp nhất trong hơn 4 tháng.",
+      "image": "https://www.gcrmag.com/wp-content/uploads/2026/11/AdobeStock_2221667848.jpeg",
+      "link": "https://www.gcrmag.com/arabica-coffee-prices-fall-to-four-month-low-on-improving-brazilian-supply-outlook/",
+      "source": "Global Coffee Report",
+      "category": "soft",
+      "published": "2026-11-12 11:17"
+    },
     {
       "id": "1amzv8d",
       "title": "Who Will Buy Sable’s Oil if California Keeps Closing Refineries?",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-12 07:00"
+    },
+    {
+      "id": "1mjwsss",
+      "title": "USDA lowers U.S. corn production forecast, raises soybean outlook",
+      "title_vi": "USDA hạ dự báo sản lượng ngô Mỹ, tăng triển vọng đậu tương",
+      "summary_vi": "USDA hạ dự báo sản lượng ngô và bông của Mỹ trong khi tăng sản lượng đậu tương và điều chỉnh dự báo nguồn cung ngũ cốc toàn cầu.",
+      "image": "https://hpj.com/wp-content/uploads/2026/11/IMG_4195-scaled-e1794429422308.jpg",
+      "link": "https://hpj.com/2026/11/11/november-10-wasde-report/",
+      "source": "High Plains Journal",
+      "category": "agri",
+      "published": "2026-11-12 06:04"
     },
     {
       "id": "g80lgf",
@@ -528,28 +550,6 @@
       "source": "Marketplace.org",
       "category": "energy",
       "published": "2026-11-11 04:00"
-    },
-    {
-      "id": "34jaqz",
-      "title": "Soybean Prices Struggle Despite Strong Export Shipments - RFD-TV",
-      "title_vi": "Giá đậu nành gặp khó dù xuất khẩu tăng mạnh - RFD-TV",
-      "summary_vi": "Nhu cầu mạnh mẽ từ Trung Quốc có thể giúp hỗ trợ giá đậu tương sau sự sụt giảm trong tháng trước.",
-      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/a81ae47/2147483647/strip/true/crop/720x404+0+1/resize/730x410!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2FzX3xseql%2Fthumbnails%2FF02skhqj.jpg",
-      "link": "https://www.rfdtv.com/soybean-prices-struggle-despite-strong-export-shipments",
-      "source": "RFD-TV",
-      "category": "agri",
-      "published": "2026-11-11 03:49"
-    },
-    {
-      "id": "vq0l5w",
-      "title": "USDA lowers corn production forecast, raises soybean outlook - Agri-Pulse Communications, Inc.",
-      "title_vi": "USDA hạ dự báo sản lượng ngô, tăng triển vọng đậu tương - Agri-Pulse Communications, Inc.",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agri-pulse.com/articles/25485-usda-lowers-corn-production-forecast-raises-soybean-outlook",
-      "source": "Agri-Pulse Communications, Inc.",
-      "category": "agri",
-      "published": "2026-11-11 02:32"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-12 06:07",
+  "updated_at": "2026-11-12 07:00",
   "items": [
+    {
+      "id": "4524ae",
+      "title": "Global Power Grid Expansion Surges 50% to Record High",
+      "title_vi": "Việc mở rộng lưới điện toàn cầu tăng 50% lên mức cao kỷ lục",
+      "summary_vi": "Cơ quan Năng lượng Tái tạo Quốc tế đã báo cáo trong tuần này tại COP31, trích dẫn dữ liệu từ một nhóm có tên là Utilities for Net Zero Alliance. Con số này cao hơn 50% so với đường dây truyền tải mới được lắp đặt",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-11_bgoqnrofjy.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Global-Power-Grid-Expansion-Surges-50-to-Record-High.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-12 07:00"
+    },
     {
       "id": "g80lgf",
       "title": "Fusion&#039;s Next Race Is Over Superconducting Tape, Not Plasma",
@@ -101,17 +112,6 @@
       "published": "2026-11-12 01:30"
     },
     {
-      "id": "areuf",
-      "title": "Crude Is Back at 80% in the Gulf, but Refined Products Are Stuck at 35%",
-      "title_vi": "Dầu thô đã trở lại mức 80% ở vùng Vịnh, nhưng các sản phẩm tinh chế vẫn bị kẹt ở mức 35%",
-      "summary_vi": "Câu chuyện ở eo biển Hormuz là xuất khẩu dầu thô của Trung Đông đã phục hồi khoảng 80% đến 85% mức trước chiến tranh, bao gồm cả vận chuyển qua đường ống, trong khi xuất khẩu sản phẩm tinh chế vẫn im ắng. Sự phục hồi không đồng đều cho thấy các nhà sản xuất vùng Vịnh ưu tiên vận chuyển dầu thô như thế nào",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-11_olm7gwdnvz.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Crude-Is-Back-at-80-in-the-Gulf-but-Refined-Products-Are-Stuck-at-35.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-12 01:00"
-    },
-    {
       "id": "1sa93rl",
       "title": "USDA Reports Point to Muted Grain Price Action Amid Robust Global Stocks and Shifting U.S. Crop Numbers",
       "title_vi": "Báo cáo của USDA chỉ ra hành động giá ngũ cốc yếu trong bối cảnh tồn kho toàn cầu mạnh mẽ và số lượng cây trồng ở Hoa Kỳ đang thay đổi",
@@ -198,6 +198,17 @@
       "source": "FOREX.com",
       "category": "metal",
       "published": "2026-11-11 19:12"
+    },
+    {
+      "id": "1qjymwt",
+      "title": "Cooler temperatures on the way in Maryland weather forecast",
+      "title_vi": "Dự báo thời tiết ở Maryland sắp có nhiệt độ mát hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.cbsnews.com/baltimore/video/cooler-temperatures-on-the-way-in-maryland-weather-forecast/",
+      "source": "CBS News",
+      "category": "soft",
+      "published": "2026-11-11 18:38"
     },
     {
       "id": "vxmtav",
@@ -539,17 +550,6 @@
       "source": "OncLive",
       "category": "metal",
       "published": "2026-11-11 02:01"
-    },
-    {
-      "id": "1qusvyl",
-      "title": "USDA Cuts U.S. Corn Output as Global Grain Markets Face New Supply Shifts",
-      "title_vi": "USDA cắt giảm sản lượng ngô của Mỹ do thị trường ngũ cốc toàn cầu phải đối mặt với những thay đổi nguồn cung mới",
-      "summary_vi": "USDA đã cắt giảm sản lượng ngô của Mỹ và chấm dứt tồn kho trong WASDE tháng 11, định hình lại kỳ vọng về nguồn cung ngũ cốc và triển vọng thương mại nông nghiệp toàn cầu.",
-      "image": "https://www.agrolatam.com/files/image/84/84053/6af35d98b882c_600_315!.jpg?s=d9a65bc3ee5c9fb96122c13ab2ec52f5&d=1794334598",
-      "link": "https://www.agrolatam.com/usa/news/usda-corn-production-cuts-november-wasde-2026/",
-      "source": "AgroLatam",
-      "category": "agri",
-      "published": "2026-11-11 01:16"
     }
   ]
 }

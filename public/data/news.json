@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-13 05:01",
+  "updated_at": "2026-11-13 06:01",
   "items": [
+    {
+      "id": "tmkkr9",
+      "title": "Venezuela Ends 19-Year Power Monopoly, With Oil Fields First in Line",
+      "title_vi": "Venezuela chấm dứt tình trạng độc quyền điện kéo dài 19 năm, với các mỏ dầu đứng đầu",
+      "summary_vi": "Venezuela đang mở cửa ngành điện cho vốn tư nhân lần đầu tiên kể từ khi Hugo Chávez quốc hữu hóa ngành này vào năm 2007, trong một cuộc cải cách được thông qua trong tuần này chủ yếu nhằm mang lại lợi ích cho các nhà sản xuất dầu và các doanh nghiệp lớn có khả năng chi trả mức thuế theo đồng euro, trong khi nhà nước vẫn duy trì nguồn thủy điện.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-12_6savk58bay.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuela-Ends-19-Year-Power-Monopoly-With-Oil-Fields-First-in-Line.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-13 06:00"
+    },
     {
       "id": "sup1kf",
       "title": "More Drilling Won’t Shield U.S. Consumers From Oil Price Shocks",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-13 05:00"
+    },
+    {
+      "id": "sarfqg",
+      "title": "Ghana unveils $10 billion 'New Economy' plan in 2027 budget",
+      "title_vi": "Ghana công bố kế hoạch 'Nền kinh tế mới' trị giá 10 tỷ USD trong ngân sách năm 2027",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/africa/ghana-unveils-10-billion-new-economy-plan-2027-budget-2026-11-12/",
+      "source": "Reuters",
+      "category": "macro",
+      "published": "2026-11-13 04:56"
     },
     {
       "id": "1tio2sd",
@@ -77,17 +99,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-13 00:46"
-    },
-    {
-      "id": "1yat73q",
-      "title": "Brent Briefly Hits $94 After Trump Says U.S. Has No Need for Iran Deal",
-      "title_vi": "Brent nhanh chóng đạt 94 USD sau khi Trump nói rằng Mỹ không cần thỏa thuận với Iran",
-      "summary_vi": "Tổng thống Donald Trump hôm thứ Năm tuyên bố rằng Hoa Kỳ không còn cần thỏa thuận với Iran nữa, chỉ ba ngày sau khi cho biết cuộc chiến kéo dài 8 tháng sắp kết thúc. Giá dầu nhanh chóng tăng vọt, tạo thêm một đợt biến động nữa cho thị trường đã trải qua tháng 11 để phản ứng",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-12_ysnkewz3jt.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Briefly-Hits-94-After-Trump-Says-US-Has-No-Need-for-Iran-Deal.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-13 00:30"
     },
     {
       "id": "mt4omx",
@@ -187,6 +198,17 @@
       "source": "Equiti Global",
       "category": "metal",
       "published": "2026-11-12 17:19"
+    },
+    {
+      "id": "1rmis02",
+      "title": "Silver price outlook: Downside momentum persists as oversold signals linger",
+      "title_vi": "Triển vọng giá bạc: Động lực giảm vẫn tồn tại khi tín hiệu bán quá mức kéo dài",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://tradersunion.com/news/commodities/show/4210076-silver-drops-1-71percent-today-to/",
+      "source": "Traders Union",
+      "category": "metal",
+      "published": "2026-11-12 16:12"
     },
     {
       "id": "1mhc14o",
@@ -308,6 +330,17 @@
       "source": "Spencer Fane",
       "category": "metal",
       "published": "2026-11-12 03:43"
+    },
+    {
+      "id": "13oywrc",
+      "title": "TRUMPED AT THE PUMP: Americans Hit With Record-High Labor Day Weekend Gasoline Prices",
+      "title_vi": "TRUMPED TẠI MÁY BƠM: Người Mỹ đạt mức giá xăng cuối tuần cao kỷ lục trong Ngày lễ Lao động",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/09/trumped-at-the-pump-americans-hit-with-record-high-labor-day-weekend-gasoline-prices/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-12 03:41"
     },
     {
       "id": "1fgzjh",
@@ -517,39 +550,6 @@
       "source": "CBS News",
       "category": "soft",
       "published": "2026-11-11 18:38"
-    },
-    {
-      "id": "vxmtav",
-      "title": "Gold & Copper Markets Outlook Fuels Junior's Las Tinajas Catalyst Push",
-      "title_vi": "Triển vọng thị trường vàng và đồng thúc đẩy nỗ lực thúc đẩy chất xúc tác Las Tinajas của Junior",
-      "summary_vi": "Ngân hàng Thế giới dự báo giá vàng và đồng sẽ tiếp tục ở mức cao lịch sử cho đến năm 2027, trong khi Gelum Resources Ltd. (GMR:CSE; GMRCF:OTCQB) tiến hành các kế hoạch khoan và khảo sát địa vật lý Las Tinajas ở Chile",
-      "image": "https://www.streetwisereports.com/images/gold-and-copper-markets-outlook-fuels-juniors-las-tinajas-catalyst-push-article-feature-image.jpg",
-      "link": "https://www.streetwisereports.com/article/2026/11/10/gold-and-copper-markets-outlook-fuels-juniors-las-tinajas-catalyst-push.html",
-      "source": "Streetwise Reports",
-      "category": "metal",
-      "published": "2026-11-11 18:26"
-    },
-    {
-      "id": "1cwpe6o",
-      "title": "Palladium jumps 6 percent as recovery faces key tests",
-      "title_vi": "Palladium tăng 6% khi quá trình phục hồi phải đối mặt với những thử thách quan trọng",
-      "summary_vi": "Palladium tăng khoảng 6% khi mức phục hồi của nó đạt đến mức kháng cự quan trọng. Khoảng thời gian thuận lợi theo mùa đang đến gần, nhưng xu hướng giảm rộng hơn vẫn còn nguyên.",
-      "image": "https://www.ig.com/content/dam/publicsites/igcom/uk/images/news-article-image-folder/BB_Palladium _150425.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "link": "https://www.ig.com/en-ch/news-and-trade-ideas/palladium-price-rebound-resistance-seasonality-261111",
-      "source": "IG Bank",
-      "category": "metal",
-      "published": "2026-11-11 18:14"
-    },
-    {
-      "id": "1vwttc9",
-      "title": "Commodities: Oil Rebounds As Geopolitical Risks Linger",
-      "title_vi": "Hàng hóa: Dầu phục hồi khi rủi ro địa chính trị kéo dài",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://seekingalpha.com/article/4966374-commodities-oil-rebounds-geopolitical-risks-linger?utm_source",
-      "source": "Seeking Alpha",
-      "category": "energy",
-      "published": "2026-11-11 18:05"
     }
   ]
 }

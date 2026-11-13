@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 09:01",
+  "updated_at": "2026-11-13 10:01",
   "items": [
     {
       "id": "l22e1h",
@@ -220,6 +220,17 @@
       "source": "Equiti Global",
       "category": "metal",
       "published": "2026-11-12 17:19"
+    },
+    {
+      "id": "1d64jqz",
+      "title": "Gold Falls Below $4,000 as US Inflation Fuels Expectations of Further Fed Rate Hikes",
+      "title_vi": "Vàng giảm xuống dưới 4.000 USD do lạm phát ở Mỹ thúc đẩy kỳ vọng Fed sẽ tăng lãi suất thêm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://uk.finance.yahoo.com/news/gold-falls-below-4-000-100948110.html",
+      "source": "Yahoo Finance UK",
+      "category": "macro",
+      "published": "2026-11-12 17:09"
     },
     {
       "id": "1rmis02",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-11 20:38"
-    },
-    {
-      "id": "ygnn2v",
-      "title": "Gold, silver rebound after CPI-driven selloff, Hormuz tensions lift crude oil - Kitco AM Report",
-      "title_vi": "Vàng, bạc phục hồi sau đợt bán tháo do CPI, căng thẳng ở eo biển Hormuz đẩy giá dầu thô tăng - Báo cáo buổi sáng của Kitco",
-      "summary_vi": "(Kitco NewsWire) – Giá vàng và bạc giao ngay tăng trong phiên giao dịch đầu giờ sáng thứ Tư tại Mỹ, phục hồi sau đợt giảm mạnh vào thứ Ba khi hoạt động săn hàng giá rẻ và mua bù vị thế bán khống đã hỗ trợ cho các kim loại quý…",
-      "image": "https://image-api.prod.kitco.com/image/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg?top=0&left=0.30227889951594&width=1023.395442201&height=576&scale_width=1920&token=d61f79aa7f2a6b36609a8c85e04797630e51aa60396dba0cb1fbc867870c83bd",
-      "link": "https://www.kitco.com/news/article/2026-11-11/gold-silver-rebound-after-cpi-driven-selloff-hormuz-tensions-lift-crude-oil",
-      "source": "Kitco",
-      "category": "macro",
-      "published": "2026-11-11 20:33"
     }
   ]
 }

@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-13 18:01",
+  "updated_at": "2026-11-13 19:01",
   "items": [
+    {
+      "id": "1jraw30",
+      "title": "Asian Refiners Turn Back to Gulf Oil Despite War Risks",
+      "title_vi": "Các nhà máy lọc dầu châu Á quay trở lại sử dụng dầu vùng Vịnh bất chấp rủi ro chiến tranh",
+      "summary_vi": "Các nhà máy lọc dầu châu Á đang quay trở lại mua dầu Trung Đông khi dòng chảy qua eo biển Hormuz tăng lên, giá cước vận chuyển giảm từ mức cao kỷ lục và các nhà sản xuất vùng Vịnh đang chào bán dầu thô của họ với mức chiết khấu so với tiêu chuẩn khu vực. Các nhà máy lọc dầu của Trung Quốc, Nhật Bản và Thái Lan ngày càng được ưa chuộng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-13_cnomak2wlz.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Refiners-Turn-Back-to-Gulf-Oil-Despite-War-Risks.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-13 18:30"
+    },
+    {
+      "id": "rds3lu",
+      "title": "The Commodities Feed: Oil rebounds as geopolitical risks linger",
+      "title_vi": "Nguồn cấp dữ liệu hàng hóa: Dầu phục hồi khi rủi ro địa chính trị kéo dài",
+      "summary_vi": "Giá dầu tăng do tình trạng bất ổn ở Trung Đông vẫn tiếp diễn",
+      "image": "https://think.ing.com/uploads/hero/_w800h450/shutterstock_316027709.jpg",
+      "link": "https://think.ing.com/articles/the-commodities-feed-oil-rebounds-as-geopolitical-risks-linger/",
+      "source": "ing think",
+      "category": "energy",
+      "published": "2026-11-13 18:16"
+    },
     {
       "id": "uauoqt",
       "title": "Silver demand seen down 5% this year due to weaker jewellery purchases",
@@ -154,17 +176,6 @@
       "source": "Reuters",
       "category": "macro",
       "published": "2026-11-13 04:56"
-    },
-    {
-      "id": "1tio2sd",
-      "title": "Europe Enters Winter With Its Lowest Gas Inventory of the 2020s",
-      "title_vi": "Châu Âu bước vào mùa đông với lượng tồn kho khí đốt thấp nhất trong những năm 2020",
-      "summary_vi": "LNG giao ngay tại Châu Á đang giao dịch trên 30 USD/một triệu đơn vị nhiệt của Anh và Châu Âu đang bước vào mùa đông với lượng khí đốt tồn kho thấp nhất trong những năm 2020, tuy nhiên Rystad Energy không dự đoán được một đợt tăng giá tiếp theo. Trong báo cáo triển vọng LNG mùa đông được công bố trong tuần này, công ty tư vấn này đưa ra",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-12_xihg54cpke.jpg",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Europe-Enters-Winter-With-Its-Lowest-Gas-Inventory-of-the-2020s.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-13 04:00"
     },
     {
       "id": "dmi0iy",
@@ -354,6 +365,17 @@
       "published": "2026-11-12 16:06"
     },
     {
+      "id": "12djyd3",
+      "title": "Global cotton prices remain subdued as USDA trims 2026-27 forecasts",
+      "title_vi": "Giá bông toàn cầu vẫn giảm do USDA cắt giảm dự báo năm 2026-27",
+      "summary_vi": "Diễn biến giá bông toàn cầu bị hạn chế trong tháng 11, với hầu hết các giá bông chuẩn đều ổn định đến thấp hơn một chút và lãi suất mở của NY/ICE chuyển từ tháng 12 sang tháng 3, Cotton Incorporated...",
+      "image": "https://static.fibre2fashion.com/Newsresource/images/314/ripe-cotton-plants-meadow-dusk-generated-by-ai_326521.jpg",
+      "link": "https://www.fibre2fashion.com/news/cotton-news/global-cotton-prices-remain-subdued-as-usda-trims-2026-27-forecasts-314944-newsdetails.htm",
+      "source": "Fibre2Fashion",
+      "category": "soft",
+      "published": "2026-11-12 14:27"
+    },
+    {
       "id": "ltiabb",
       "title": "October 2026 — Monthly analysis of Russian fossil fuel exports and sanctions",
       "title_vi": "Tháng 10 năm 2026 — Phân tích hàng tháng về hoạt động xuất khẩu nhiên liệu hóa thạch của Nga và các biện pháp trừng phạt",
@@ -396,6 +418,17 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-11-12 10:40"
+    },
+    {
+      "id": "159zp4z",
+      "title": "Why is Palladium price down 4.3% today?",
+      "title_vi": "Tại sao giá Palladium hôm nay giảm 4,3%?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://tradersunion.com/news/commodities/show/4217452-palladium-slides-4-38percent-today-to/",
+      "source": "Traders Union",
+      "category": "metal",
+      "published": "2026-11-12 10:16"
     },
     {
       "id": "1wy0zn1",
@@ -517,39 +550,6 @@
       "source": "NPR",
       "category": "energy",
       "published": "2026-11-12 02:59"
-    },
-    {
-      "id": "n207ij",
-      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
-      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
-      "source": "EnergyNow.com",
-      "category": "macro",
-      "published": "2026-11-12 02:57"
-    },
-    {
-      "id": "138ym75",
-      "title": "Gas prices estimate rises for 2027, though consumers could still see relief from pain at the pump: EIA",
-      "title_vi": "Ước tính giá xăng sẽ tăng vào năm 2027, mặc dù người tiêu dùng vẫn có thể thấy bớt đau đớn khi sử dụng máy bơm: EIA",
-      "summary_vi": "EIA đã nâng dự báo giá khí đốt năm 2027 lên 5% so với tháng trước, do nguồn cung xăng dầu toàn cầu hạn chế và vết nứt lan rộng hơn cho đến cuối năm.",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/gas-station-texas.jpg?ve=1&tl=1",
-      "link": "https://www.foxbusiness.com/economy/gas-prices-estimate-rises-2027-though-consumers-could-still-see-relief-from-pain-pump-eia",
-      "source": "Fox Business",
-      "category": "energy",
-      "published": "2026-11-12 02:15"
-    },
-    {
-      "id": "1682m58",
-      "title": "Corn, Soybean Rally Pauses Post WASDE, Wheat Bounces: Closes Key to Confirming Low",
-      "title_vi": "đợt tăng giá ngô, đậu nành tạm dừng sau WASDE, lúa mì tăng trở lại: Đóng chìa khóa để xác nhận mức thấp",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agweb.com/markets/market-analysis/corn-soybean-rally-pauses-post-wasde-wheat-bounces-closes-key-confirming-",
-      "source": "AgWeb",
-      "category": "agri",
-      "published": "2026-11-12 01:43"
     }
   ]
 }

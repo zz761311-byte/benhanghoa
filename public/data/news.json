@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 04:00",
+  "updated_at": "2026-11-14 04:40",
   "items": [
     {
       "id": "ytxq0i",
@@ -143,6 +143,17 @@
       "source": "Traders Union",
       "category": "soft",
       "published": "2026-11-13 21:17"
+    },
+    {
+      "id": "p974tk",
+      "title": "Brazil soybean crop begins with positive outlook",
+      "title_vi": "Vụ đậu tương Brazil bắt đầu với triển vọng tích cực",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.world-grain.com/articles/23455-brazil-soybean-crop-begins-with-positive-outlook",
+      "source": "World Grain",
+      "category": "agri",
+      "published": "2026-11-13 21:14"
     },
     {
       "id": "1k19up1",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-11-12 10:40"
-    },
-    {
-      "id": "159zp4z",
-      "title": "Why is Palladium price down 4.3% today?",
-      "title_vi": "Tại sao giá Palladium hôm nay giảm 4,3%?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://tradersunion.com/news/commodities/show/4217452-palladium-slides-4-38percent-today-to/",
-      "source": "Traders Union",
-      "category": "metal",
-      "published": "2026-11-12 10:16"
     }
   ]
 }

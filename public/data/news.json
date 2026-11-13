@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 08:01",
+  "updated_at": "2026-11-13 09:01",
   "items": [
     {
       "id": "l22e1h",
@@ -132,6 +132,17 @@
       "source": "CBS News",
       "category": "soft",
       "published": "2026-11-12 22:40"
+    },
+    {
+      "id": "18x0h9d",
+      "title": "Food prices climb as conflicts and El Niño tighten grain supplies",
+      "title_vi": "Giá lương thực tăng do xung đột và El Niño thắt chặt nguồn cung ngũ cốc",
+      "summary_vi": "Nguồn cung ngũ cốc đang sụt giảm, tồn kho lương thực đang thắt chặt và giá cả đang tăng lên. Dữ liệu CMO của Ngân hàng Thế giới mới tiết lộ những rủi ro đối với an ninh lương thực và lạm phát.",
+      "image": "https://s7d1.scene7.com/is/image/wbcollab/food-prices-2026-1?qlt=90&hei=630&wid=1200&fit=hfit",
+      "link": "https://blogs.worldbank.org/en/opendata/food-prices-climb-as-conflicts-and-el-nino-tighten-grain-supplie",
+      "source": "World Bank Blogs",
+      "category": "agri",
+      "published": "2026-11-12 22:30"
     },
     {
       "id": "dbliug",
@@ -539,17 +550,6 @@
       "source": "Kitco",
       "category": "macro",
       "published": "2026-11-11 20:33"
-    },
-    {
-      "id": "ney3x3",
-      "title": "EUR/USD, DXY, Silver Price Outlook: Bullish Rebounds on Hold?",
-      "title_vi": "Triển vọng giá EUR/USD, DXY, Bạc: Sự phục hồi tăng giá đang tạm dừng?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forex.com/en-us/news-and-analysis/eur-usd-dxy-silver-price-outlook-bullish-rebounds-on-hold/?amp",
-      "source": "FOREX.com",
-      "category": "metal",
-      "published": "2026-11-11 19:12"
     }
   ]
 }

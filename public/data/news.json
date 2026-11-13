@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 13:01",
+  "updated_at": "2026-11-13 14:01",
   "items": [
     {
       "id": "oku8mb",
@@ -33,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-13 08:00"
+    },
+    {
+      "id": "15tlq5a",
+      "title": "The Split Personality of 2026 US Corn Yield Estimates",
+      "title_vi": "Tính cách chia rẽ trong ước tính năng suất ngô năm 2026 của Hoa Kỳ",
+      "summary_vi": "Joe Janzen -",
+      "image": "https://farmdocdaily.illinois.edu/wp-content/uploads/2026/11/11122026_fig1.png",
+      "link": "https://farmdocdaily.illinois.edu/2026/11/the-split-personality-of-2026-us-corn-yield-estimates.html",
+      "source": "farmdoc daily",
+      "category": "agri",
+      "published": "2026-11-13 07:13"
     },
     {
       "id": "15ymyxh",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-11 21:30"
-    },
-    {
-      "id": "6q7chr",
-      "title": "Cocoa price rallies amid strong buyer dominance and overbought signals",
-      "title_vi": "Giá ca cao tăng trong bối cảnh người mua chiếm ưu thế mạnh mẽ và tín hiệu mua quá mức",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://tradersunion.com/news/commodities/show/4197488-cocoa-jumps-3-18percent-to-usd5026/",
-      "source": "Traders Union",
-      "category": "soft",
-      "published": "2026-11-11 21:08"
     }
   ]
 }

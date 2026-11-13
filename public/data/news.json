@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-14 00:00",
+  "updated_at": "2026-11-14 01:00",
   "items": [
+    {
+      "id": "1ywqc52",
+      "title": "Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge",
+      "title_vi": "Sản lượng dầu của Iraq tăng vọt lên mức cao nhất năm 2019 khi dòng chảy Hormuz tăng mạnh",
+      "summary_vi": "Sản lượng dầu thô của Iraq đạt 4,6 triệu thùng/ngày (bpd) trong tháng 10, cao nhất kể từ năm 2019, dữ liệu từ báo cáo hàng tháng của Cơ quan Năng lượng Quốc tế cho thấy hôm thứ Sáu, khi nhà sản xuất lớn thứ hai của OPEC tăng sản lượng thêm 540.000 thùng/ngày kể từ tháng 9. Kuwait và Ả Rập Saudi",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-13_qghl8pktob.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-14 00:30"
+    },
     {
       "id": "lyns78",
       "title": "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-13 23:10"
+    },
+    {
+      "id": "f5v4ex",
+      "title": "Copper shortage or surplus? Banks split on 2027 outlook",
+      "title_vi": "Thiếu hay thừa đồng? Các ngân hàng chia rẽ về triển vọng năm 2027",
+      "summary_vi": "Ngân hàng Deutsche cảnh báo nguồn cung suy giảm có thể gây ra tình trạng ép giá, trong khi Goldman Sachs nhận thấy rủi ro từ thuế quan và vị thế của nhà đầu tư.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/11/centinela-mine.jpg",
+      "link": "https://www.mining.com/copper-shortage-or-surplus-banks-split-on-2027-outlook/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-11-13 22:47"
     },
     {
       "id": "1hgrsf4",
@@ -110,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-13 19:45"
-    },
-    {
-      "id": "vdzfv7",
-      "title": "Nvidia Spy Scandal Threatens the Gulf’s AI Ambitions",
-      "title_vi": "Vụ bê bối gián điệp của Nvidia đe dọa tham vọng AI của vùng Vịnh",
-      "summary_vi": "Chính trị, địa chính trị và xung đột Một quả bom xe đã giết chết hoa tiêu trưởng của Lực lượng phòng không và phòng không cận vệ số 6 của Nga có trụ sở tại St. Petersburg vào sáng thứ Năm, một ngày sau khi máy bay không người lái của Ukraine đốt cháy một kho dầu tại Ust-Luga và buộc hạn chế các chuyến bay tại St. Peter",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-13_lfiosbnfir.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Nvidia-Spy-Scandal-Threatens-the-Gulfs-AI-Ambitions.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-13 19:30"
     },
     {
       "id": "rds3lu",
@@ -539,17 +550,6 @@
       "source": "High Plains Journal",
       "category": "agri",
       "published": "2026-11-12 06:04"
-    },
-    {
-      "id": "d1hzk9",
-      "title": "Oil production nears pre-Iran war levels, OPEC says",
-      "title_vi": "OPEC cho biết sản lượng dầu gần mức trước chiến tranh Iran",
-      "summary_vi": "Ả Rập Saudi báo cáo sản lượng dầu tăng vọt lên mức cao nhất trong nhiều tháng mặc dù hoạt động vận chuyển tiếp tục bị gián đoạn.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69f1e9ec-1777461740.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says",
-      "source": "Al Jazeera",
-      "category": "energy",
-      "published": "2026-11-12 04:13"
     }
   ]
 }

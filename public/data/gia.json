@@ -1,5 +1,5 @@
 {
- "capNhat": "2026-11-13T22:34:49.360Z",
+ "capNhat": "2026-11-13T23:00:31.235Z",
  "nguon": "Yahoo Finance",
  "soMatHang": 18,
  "tyGia": {
@@ -174,7 +174,7 @@
    "doi": -0.071,
    "doiPhanTram": -2.66,
    "caoTrongNgay": 2.6375,
-   "thapTrongNgay": 2.5859,
+   "thapTrongNgay": 2.5861,
    "cao52Tuan": 3.8232,
    "thap52Tuan": 1.6656,
    "doiMotTuan": -6.37,
@@ -231,7 +231,7 @@
    "doiMotTuan": 1.02,
    "doiMotThang": -7.23,
    "doiMotNam": 1.02,
-   "khoiLuong30Phien": 7429703,
+   "khoiLuong30Phien": 7429708,
    "tienTe": "USX",
    "tenHopDong": "Corn Futures,Dec-2026",
    "kyHan": "T12/26",
@@ -326,14 +326,14 @@
    "dongCuaTruoc": 325.4,
    "doi": 4.8,
    "doiPhanTram": 1.48,
-   "caoTrongNgay": 331.5,
+   "caoTrongNgay": 331.7,
    "thapTrongNgay": 324.7,
    "cao52Tuan": 377.6,
    "thap52Tuan": 286.4,
    "doiMotTuan": 3.45,
    "doiMotThang": -10.78,
    "doiMotNam": 0.55,
-   "khoiLuong30Phien": 2032723,
+   "khoiLuong30Phien": 2032725,
    "tienTe": "USD",
    "tenHopDong": "Soybean Meal Futures,Dec-2026",
    "kyHan": "T12/26",
@@ -480,7 +480,7 @@
    "doi": -6.2,
    "doiPhanTram": -2.21,
    "caoTrongNgay": 279.2,
-   "thapTrongNgay": 272.35,
+   "thapTrongNgay": 272.4,
    "cao52Tuan": 418.45,
    "thap52Tuan": 242.7,
    "doiMotTuan": -2.14,
@@ -732,7 +732,7 @@
     "gia": 3887.6001,
     "lechSoVoiHopDong": 0,
     "nguon": "gold-api.com",
-    "capNhat": "2026-11-13T22:34:26Z"
+    "capNhat": "2026-11-13T23:00:26Z"
    }
   },
   "bac": {
@@ -789,7 +789,7 @@
     "gia": 48.65,
     "lechSoVoiHopDong": 0,
     "nguon": "gold-api.com",
-    "capNhat": "2026-11-13T22:34:25Z"
+    "capNhat": "2026-11-13T23:00:25Z"
    }
   },
   "dong": {
@@ -897,7 +897,7 @@
     "gia": 1492.2,
     "lechSoVoiHopDong": 0,
     "nguon": "gold-api.com",
-    "capNhat": "2026-11-13T22:34:29Z"
+    "capNhat": "2026-11-13T22:59:59Z"
    }
   },
   "nhom": {

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-13 06:01",
+  "updated_at": "2026-11-13 07:01",
   "items": [
+    {
+      "id": "15ymyxh",
+      "title": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
+      "title_vi": "Giá dầu bị ép giữa hy vọng hòa bình và nguy cơ leo thang Iran",
+      "summary_vi": "Giá dầu đã giảm khoảng 20% ​​so với mức đỉnh cuối tháng 10 là 118 USD/thùng, bị đè nặng bởi hy vọng giảm leo thang bền vững ở Trung Đông và cuộc chiến Nga-Ukraine. Trong nhiều tháng, các nhà giao dịch và các quỹ phòng hộ thường đặt cược vào việc giải quyết các xung đột, chỉ để kích hoạt lại các xung đột.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-12_acuinvfz10.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Squeezed-Between-Peace-Hopes-and-Iran-Escalation-Risk.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-13 07:00"
+    },
     {
       "id": "tmkkr9",
       "title": "Venezuela Ends 19-Year Power Monopoly, With Oil Fields First in Line",
@@ -68,6 +79,17 @@
       "published": "2026-11-13 03:00"
     },
     {
+      "id": "18o167q",
+      "title": "Copper hits four-month lows; focus on demand, AI and US rates",
+      "title_vi": "Đồng chạm mức thấp nhất trong 4 tháng; tập trung vào nhu cầu, AI và tỷ giá của Hoa Kỳ",
+      "summary_vi": "Giá đồng giảm xuống mức thấp nhất trong 4 tháng vào thứ Năm do thị trường lo ngại về nhu cầu yếu, một phần do rắc rối trong ngành AI và kỳ vọng về việc Mỹ tăng lãi suất có thể đồng nghĩa với...",
+      "image": "https://images.kitco.com/img/extract_0_0_1000_562,width_1200,enlarge,format_jpeg/icms/546c003c-e081-433e-82fd-c3e13e5afb06.jpeg",
+      "link": "https://www.kitco.com/news/off-the-wire/2026-11-12/copper-hits-four-month-lows-focus-demand-ai-and-us-rates",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-11-13 02:16"
+    },
+    {
       "id": "3tqoyu",
       "title": "Record Car Prices Are Pushing American Drivers Deeper Into Debt",
       "title_vi": "Giá ô tô kỷ lục đang đẩy tài xế Mỹ lún sâu hơn vào nợ nần",
@@ -88,17 +110,6 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-11-13 01:00"
-    },
-    {
-      "id": "1ivdbyt",
-      "title": "EIA Data Shows Builds in Crude, Gasoline and Distillates",
-      "title_vi": "Dữ liệu EIA cho thấy giá dầu thô, xăng và sản phẩm chưng cất tăng",
-      "summary_vi": "Theo dữ liệu mới từ Cơ quan Thông tin Năng lượng Hoa Kỳ (EIA) công bố hôm thứ Năm, tồn kho dầu thô ở Mỹ đã tăng 4,7 triệu thùng trong tuần kết thúc vào ngày 6 tháng 11. Sự gia tăng này đưa dự trữ thương mại lên 414,4 triệu thùng",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Energy/Crude-Oil/EIA-Data-Shows-Builds-in-Crude-Gasoline-and-Distillates.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-13 00:46"
     },
     {
       "id": "mt4omx",
@@ -539,17 +550,6 @@
       "source": "FOREX.com",
       "category": "metal",
       "published": "2026-11-11 19:12"
-    },
-    {
-      "id": "1qjymwt",
-      "title": "Cooler temperatures on the way in Maryland weather forecast",
-      "title_vi": "Dự báo thời tiết ở Maryland sắp có nhiệt độ mát hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.cbsnews.com/baltimore/video/cooler-temperatures-on-the-way-in-maryland-weather-forecast/",
-      "source": "CBS News",
-      "category": "soft",
-      "published": "2026-11-11 18:38"
     }
   ]
 }

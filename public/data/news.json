@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-13 22:31",
+  "updated_at": "2026-11-13 23:00",
   "items": [
+    {
+      "id": "1hgrsf4",
+      "title": "Goldman Sachs recommends commodities as portfolio hedge amid geopolitical and supply risks",
+      "title_vi": "Goldman Sachs khuyến nghị hàng hóa là hàng rào phòng ngừa danh mục đầu tư trong bối cảnh rủi ro địa chính trị và nguồn cung",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://uk.finance.yahoo.com/news/goldman-sachs-recommends-commodities-portfolio-153000784.html",
+      "source": "Yahoo Finance UK",
+      "category": "macro",
+      "published": "2026-11-13 22:30"
+    },
     {
       "id": "187v35w",
       "title": "Iran Rules Out Return of UN Nuclear Inspectors as U.S. War Talks Stall",
@@ -187,6 +198,17 @@
       "source": "farmdoc daily",
       "category": "agri",
       "published": "2026-11-13 07:13"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-13 06:09"
     },
     {
       "id": "sarfqg",
@@ -528,28 +550,6 @@
       "source": "Al Jazeera",
       "category": "energy",
       "published": "2026-11-12 04:13"
-    },
-    {
-      "id": "1nugixt",
-      "title": "Supply Pressure, Weaker BRL Accelerate Soybean Price Slide",
-      "title_vi": "Áp lực cung, BRL yếu hơn đẩy nhanh tốc độ trượt giá đậu nành",
-      "summary_vi": "Áp lực cung, BRL yếu hơn đẩy nhanh tốc độ trượt giá đậu nành",
-      "image": "https://webapi.czapp.com/api/v1/attachments/fefd4538-7ceb-4102-9c96-daa151f5e2ae.png",
-      "link": "https://www.czapp.com/analyst-insights/supply-pressure-weaker-brl-accelerate-soybean-price-slide/",
-      "source": "Czapp",
-      "category": "agri",
-      "published": "2026-11-12 04:06"
-    },
-    {
-      "id": "1ea3w8l",
-      "title": "Mike G. Silver Discusses CFPB Outlook Amid Johnson Confirmation Delay in Inside Mortgage Finance",
-      "title_vi": "Mike G. Silver thảo luận về triển vọng CFPB trong bối cảnh Johnson chậm trễ xác nhận về tài chính thế chấp nội bộ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spencerfane.com/insight/mike-g-silver-discusses-cfpb-outlook-amid-johnson-confirmation-delay-in-inside-mortgage-finance/",
-      "source": "Spencer Fane",
-      "category": "metal",
-      "published": "2026-11-12 03:43"
     }
   ]
 }

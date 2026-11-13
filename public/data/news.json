@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 16:01",
+  "updated_at": "2026-11-13 17:01",
   "items": [
     {
       "id": "i8b4qx",
@@ -11,6 +11,39 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-13 15:50"
+    },
+    {
+      "id": "1qbt2ey",
+      "title": "Gold and Silver Price Forecast: Gold Hits 13-Month Low Before US PPI",
+      "title_vi": "Dự báo giá vàng và bạc: Vàng chạm mức thấp nhất 13 tháng trước PPI của Mỹ",
+      "summary_vi": "Báo cáo giá sản xuất của Mỹ nóng hơn dự kiến ​​vào thứ Sáu có thể nâng lãi suất trái phiếu Kho bạc, đẩy vàng lên mức 3.780 USD và khiến mức hỗ trợ 50 USD của bạc gặp rủi ro.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/gold-and-silver-precious-metals-02-1.jpg?width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-gold-hits-13-month-low-before-us-ppi-1644401",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-11-13 14:39"
+    },
+    {
+      "id": "dx3qrw",
+      "title": "Oil Prices Rise as Middle East Supply Risks Persist",
+      "title_vi": "Giá dầu tăng khi rủi ro nguồn cung ở Trung Đông vẫn tồn tại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-middle-east-supply-risks-persist-2066e758",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-11-13 14:37"
+    },
+    {
+      "id": "10jlfzc",
+      "title": "Goldman Sachs flags risks to $15 400/t copper price forecast for 2027",
+      "title_vi": "Goldman Sachs cảnh báo rủi ro đối với dự báo giá đồng 15,400 USD/tấn vào năm 2027",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.miningweekly.com/article/goldman-sachs-flags-risks-to-15-400t-copper-price-forecast-for-2027-2026-11-13",
+      "source": "Mining Weekly",
+      "category": "metal",
+      "published": "2026-11-13 13:35"
     },
     {
       "id": "oku8mb",
@@ -517,39 +550,6 @@
       "source": "Traders Union",
       "category": "metal",
       "published": "2026-11-11 22:12"
-    },
-    {
-      "id": "1sa93rl",
-      "title": "USDA Reports Point to Muted Grain Price Action Amid Robust Global Stocks and Shifting U.S. Crop Numbers",
-      "title_vi": "Báo cáo của USDA chỉ ra hành động giá ngũ cốc yếu trong bối cảnh tồn kho toàn cầu mạnh mẽ và số lượng cây trồng ở Hoa Kỳ đang thay đổi",
-      "summary_vi": "Trong Bản tin mới nhất từ ​​Todd Hubbs của OSU, ông cho biết việc công bố báo cáo Sản xuất cây trồng và WASDE của USDA hôm thứ Ba cho thấy NASS tiếp tục dao động về sản lượng ngô quốc gia và xác nhận các yếu tố cơ bản cơ bản đang tác động đến thị trường ngũ cốc và hạt có dầu gần đây. Dự trữ ngũ cốc và lúa mì toàn cầu vẫn còn",
-      "image": "",
-      "link": "https://www.oklahomafarmreport.com/2026/11/11/usda-reports-point-to-muted-grain-price-action-amid-robust-global-stocks-and-shifting-u-s-crop-numbers/",
-      "source": "Oklahoma Farm Report",
-      "category": "agri",
-      "published": "2026-11-11 21:48"
-    },
-    {
-      "id": "c3z9iu",
-      "title": "Silver Faces $55 Resistance as Rising Real Yields Weigh on Outlook",
-      "title_vi": "Bạc phải đối mặt với mức kháng cự 55 USD khi lợi suất thực tăng lên ảnh hưởng đến triển vọng",
-      "summary_vi": "Bạc gặp khó khăn trong việc tạo đà tăng khi lợi suất thực tế tăng và lạm phát cốt lõi cố định củng cố mức kháng cự gần 55 USD bất chấp những cải thiện sản xuất khiêm tốn.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/11/silver-precious-metal-price-chart-01-2.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/silver-faces-55-resistance-as-rising-real-yields-weigh-on-outlook-1643879",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-11-11 21:39"
-    },
-    {
-      "id": "1fwc0qr",
-      "title": "Researchers Make Membrane That Decaffeinates Liquid Coffee",
-      "title_vi": "Các nhà nghiên cứu tạo ra màng khử caffein trong cà phê lỏng",
-      "summary_vi": "Các nhà nghiên cứu ở Úc đã phát triển một bộ lọc thử nghiệm giúp loại bỏ gần một nửa lượng caffeine khỏi cà phê sau khi pha chế, có khả năng mở ra một con đường mới cho việc khử caffein sau khi pha...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/11/11/researchers-make-membrane-that-decaffeinates-liquid-coffee/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-11-11 21:34"
     }
   ]
 }

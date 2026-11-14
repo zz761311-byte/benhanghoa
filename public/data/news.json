@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 16:00",
+  "updated_at": "2026-11-14 17:00",
   "items": [
     {
       "id": "14ym5vf",
@@ -365,6 +365,17 @@
       "published": "2026-11-13 02:16"
     },
     {
+      "id": "vgh3hd",
+      "title": "Morningstar holds 2027 Brent forecast at $71/bbl as Persian Gulf supply recovers",
+      "title_vi": "Morningstar giữ dự báo giá dầu Brent năm 2027 ở mức 71 USD/thùng khi nguồn cung Vịnh Ba Tư phục hồi",
+      "summary_vi": "bộ phim",
+      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/11/6af5fb065dea69f6dc9e001e-morningstar.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "link": "https://www.ogj.com/general-interest/economics-markets/news/55418528/morningstar-holds-2027-brent-forecast-at-71-bbl-as-persian-gulf-supply-recovers",
+      "source": "Oil & Gas Journal",
+      "category": "energy",
+      "published": "2026-11-13 01:21"
+    },
+    {
       "id": "n207ij",
       "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
       "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
@@ -539,17 +550,6 @@
       "source": "Traders Union",
       "category": "metal",
       "published": "2026-11-12 16:12"
-    },
-    {
-      "id": "1mhc14o",
-      "title": "Kroll Geoeconomic Risk Index",
-      "title_vi": "Chỉ số rủi ro địa kinh tế Kroll",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.kroll.com/en/tools-and-platforms/kroll-geoeconomic-risk-index",
-      "source": "Kroll",
-      "category": "macro",
-      "published": "2026-11-12 16:06"
     }
   ]
 }

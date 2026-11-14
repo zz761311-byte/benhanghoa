@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 01:00",
+  "updated_at": "2026-11-15 02:00",
   "items": [
     {
       "id": "1snp2kv",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-14 23:00"
+    },
+    {
+      "id": "1twowxp",
+      "title": "Silver Price Forecast: Supply Deficit vs Fed Pressure",
+      "title_vi": "Dự báo giá bạc: Thâm hụt nguồn cung và áp lực của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.equiti.com/sc-en/news/market-insights/silver-price-forecast-supply-deficit-fed-pressure/",
+      "source": "Equiti Global",
+      "category": "metal",
+      "published": "2026-11-14 16:24"
     },
     {
       "id": "14ym5vf",
@@ -209,6 +220,17 @@
       "source": "Yahoo Finance UK",
       "category": "macro",
       "published": "2026-11-13 22:30"
+    },
+    {
+      "id": "1ngozp8",
+      "title": "Ukraine Hits Ninth Russian Oil Refinery Since Start of November",
+      "title_vi": "Ukraine tấn công nhà máy lọc dầu thứ 9 của Nga kể từ đầu tháng 11",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-13/ukraine-hits-ninth-russian-oil-refinery-since-start-of-november",
+      "source": "Bloomberg.com",
+      "category": "energy",
+      "published": "2026-11-13 22:04"
     },
     {
       "id": "1wbyxfs",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-12 19:40"
-    },
-    {
-      "id": "193ww2e",
-      "title": "Ukraine Says It Hit Russia’s Biggest Oil Refinery in Siberia",
-      "title_vi": "Ukraine cho biết nó tấn công nhà máy lọc dầu lớn nhất của Nga ở Siberia",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-12/ukraine-says-it-hit-russia-s-biggest-oil-refinery-in-siberia",
-      "source": "Bloomberg.com",
-      "category": "energy",
-      "published": "2026-11-12 19:27"
-    },
-    {
-      "id": "1hck8hc",
-      "title": "Silver's 4% Capacity Growth Outlook Supports Additional Supply Investment",
-      "title_vi": "Triển vọng tăng trưởng công suất 4% của Bạc hỗ trợ đầu tư nguồn cung bổ sung",
-      "summary_vi": "Tỷ lệ sử dụng mỏ cao, mức thâm hụt dự kiến ​​và trữ lượng giảm dần càng củng cố thêm cơ hội đầu tư vào việc mở rộng mỏ bạc và các dự án cung cấp mới.",
-      "image": "https://cdn.prod.website-files.com/64523461a75e4b406281bdba/6af59b7ca47c6587f46eb336_Silver%20Coins.png",
-      "link": "https://www.cruxinvestor.com/posts/silvers-4-capacity-growth-outlook-supports-additional-supply-investment",
-      "source": "Crux Investor",
-      "category": "metal",
-      "published": "2026-11-12 18:06"
     }
   ]
 }

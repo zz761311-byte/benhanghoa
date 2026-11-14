@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 17:00",
+  "updated_at": "2026-11-14 18:00",
   "items": [
     {
       "id": "14ym5vf",
@@ -33,6 +33,17 @@
       "source": "DW.com",
       "category": "soft",
       "published": "2026-11-14 08:32"
+    },
+    {
+      "id": "1cxo9ev",
+      "title": "Palladium Price November 16 2026",
+      "title_vi": "Giá Palladium ngày 16 tháng 11 năm 2026",
+      "summary_vi": "Hợp đồng tương lai palladium ngày 26 tháng 12 sẽ kết thúc vào ngày 16 tháng 11 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
+      "image": "https://robinhood.com/api/public/og/event?id=2b6cc731-5765-48ad-bb28-8c0d10affc18",
+      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/palladium-price-november-16-2026-nov-16-2026/",
+      "source": "Robinhood",
+      "category": "metal",
+      "published": "2026-11-14 07:16"
     },
     {
       "id": "194etid",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance UK",
       "category": "macro",
       "published": "2026-11-12 17:09"
-    },
-    {
-      "id": "1rmis02",
-      "title": "Silver price outlook: Downside momentum persists as oversold signals linger",
-      "title_vi": "Triển vọng giá bạc: Động lực giảm vẫn tồn tại khi tín hiệu bán quá mức kéo dài",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://tradersunion.com/news/commodities/show/4210076-silver-drops-1-71percent-today-to/",
-      "source": "Traders Union",
-      "category": "metal",
-      "published": "2026-11-12 16:12"
     }
   ]
 }

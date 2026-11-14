@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 06:00",
+  "updated_at": "2026-11-14 07:00",
   "items": [
     {
       "id": "194etid",
@@ -220,6 +220,17 @@
       "source": "Mining Weekly",
       "category": "metal",
       "published": "2026-11-13 13:35"
+    },
+    {
+      "id": "1u4ak44",
+      "title": "Sugar production, use both lowered for 2026-27",
+      "title_vi": "Sản lượng đường, sử dụng cả hai đều giảm trong năm 2026-27",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bakingbusiness.com/articles/67236-sugar-production-use-both-lowered-for-2026-27",
+      "source": "Baking Business",
+      "category": "soft",
+      "published": "2026-11-13 12:00"
     },
     {
       "id": "4g96yd",
@@ -539,17 +550,6 @@
       "source": "Global Coffee Report",
       "category": "soft",
       "published": "2026-11-12 11:17"
-    },
-    {
-      "id": "1o4xoco",
-      "title": "Gold extends losses to one-week low as dollar rallies on Fed hike bets",
-      "title_vi": "Vàng kéo dài đà giảm xuống mức thấp nhất trong một tuần khi đồng đô la tăng nhờ đặt cược tăng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-falls-over-one-week-low-firm-dollar-fed-rate-hike-bets-2026-11-12/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-11-12 10:40"
     }
   ]
 }

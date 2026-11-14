@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 05:00",
+  "updated_at": "2026-11-15 06:01",
   "items": [
     {
       "id": "1m5tzm2",
@@ -299,6 +299,17 @@
       "published": "2026-11-13 20:41"
     },
     {
+      "id": "1c605at",
+      "title": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus",
+      "title_vi": "IEA cho biết sản lượng dầu thô của Nga phục hồi sau thỏa thuận diesel của Trump khi thị trường dầu trở lại dư thừa",
+      "summary_vi": "IEA cho biết sản lượng dầu thô của Nga đã tăng lên 8,73 triệu thùng/ngày trong tháng 10 do xuất khẩu vùng Vịnh phục hồi đã đẩy nguồn cung toàn cầu vượt quá nhu cầu.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107192503-1676021483338-gettyimages-1238944101-20090101220305-99-397367.jpeg?v=1693962475&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html",
+      "source": "CNBC",
+      "category": "energy",
+      "published": "2026-11-13 19:05"
+    },
+    {
       "id": "rds3lu",
       "title": "The Commodities Feed: Oil rebounds as geopolitical risks linger",
       "title_vi": "Nguồn cấp dữ liệu hàng hóa: Dầu phục hồi khi rủi ro địa chính trị kéo dài",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "soft",
       "published": "2026-11-12 20:55"
-    },
-    {
-      "id": "yqbt1r",
-      "title": "Coffee price rises around 5.5% as strong buying momentum fuels rally despite lingering downside risks",
-      "title_vi": "Giá cà phê tăng khoảng 5,5% do động lực mua mạnh thúc đẩy bất chấp rủi ro giảm giá kéo dài",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://tradersunion.com/news/commodities/show/4214491-coffee-surges-5-46percent-today-to/",
-      "source": "Traders Union",
-      "category": "energy",
-      "published": "2026-11-12 20:43"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-15 04:00",
+  "updated_at": "2026-11-15 05:00",
   "items": [
+    {
+      "id": "1m5tzm2",
+      "title": "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
+      "title_vi": "Nvidia không có Huang: Sự tạm dừng trong giao dịch AI có ý nghĩa như thế nào đối với kim loại",
+      "summary_vi": "Đồng trượt xuống mức thấp nhất trong gần 4 tháng vào thứ Sáu và hướng tới tuần giảm thứ 5 liên tiếp, trong đó các nhà giao dịch đổ lỗi cho việc Nvidia (Nasdaq: NVDA) mất Jensen Huang là nguyên nhân dẫn đến đợt giảm giá mới nhất. Lối ra là một thủ phạm thuận tiện, nhưng đường trượt đã bắt đầu trước đó. Đồng có dro",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-13_eqdriwpcaf.jpg",
+      "link": "https://oilprice.com/Metals/Commodities/Nvidia-Without-Huang-What-a-Pause-in-AI-Deals-Means-for-Metals.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-11-15 05:00"
+    },
     {
       "id": "byjkyg",
       "title": "Iran War Accelerates Southeast Asia’s Renewable Energy Push",
@@ -189,17 +200,6 @@
       "published": "2026-11-14 02:00"
     },
     {
-      "id": "ru7pct",
-      "title": "Germany Eyes €4 Billion Buyout of RWE and E.ON’s Urenco Stake",
-      "title_vi": "Đức hướng tới việc mua lại cổ phần Urenco của RWE và E.ON với giá 4 tỷ euro",
-      "summary_vi": "Báo chí Đức đưa tin, chính phủ Đức có kế hoạch mua 1/3 cổ phần của RWE và E.ON trong công ty làm giàu uranium Urenco với giá lên tới 4 tỷ euro, trong một thỏa thuận mà Anh yêu cầu giữ cổ phần trong tay châu Âu khi nước này chuẩn bị sử dụng Urenco làm nhiên liệu cho phản ứng quân sự của mình.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-13_nuaxziqwbg.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germany-Eyes-4-Billion-Buyout-of-RWE-and-EONs-Urenco-Stake.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-14 01:30"
-    },
-    {
       "id": "f5v4ex",
       "title": "Copper shortage or surplus? Banks split on 2027 outlook",
       "title_vi": "Thiếu hay thừa đồng? Các ngân hàng chia rẽ về triển vọng năm 2027",
@@ -209,6 +209,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-11-13 22:47"
+    },
+    {
+      "id": "zwnm04",
+      "title": "Kansas City Wheat price remains steady as low volatility and buyer activity limit directional moves",
+      "title_vi": "Giá lúa mì Kansas City vẫn ổn định do biến động thấp và hoạt động của người mua hạn chế chuyển động định hướng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://tradersunion.com/news/commodities/show/4234282-kansas-city-wheat-rises-0-84percent/",
+      "source": "Traders Union",
+      "category": "agri",
+      "published": "2026-11-13 22:33"
     },
     {
       "id": "1hgrsf4",
@@ -539,17 +550,6 @@
       "source": "Traders Union",
       "category": "energy",
       "published": "2026-11-12 20:43"
-    },
-    {
-      "id": "10ersky",
-      "title": "FairWave Opens Modular Coffee Lab in Kansas City",
-      "title_vi": "FairWave mở phòng thí nghiệm cà phê mô-đun ở thành phố Kansas",
-      "summary_vi": "Tập đoàn cà phê đặc sản FairWave Specialty Coffee Collective có trụ sở tại Thành phố Kansas, Missouri đã khai trương một phòng trưng bày thiết bị chỉ dành cho cuộc hẹn và trung tâm đào tạo vào tháng trước có tên The Collective Lab dành cho các chuyên gia cà phê trong mạng lưới của mình...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/11/12/fairwave-opens-modular-coffee-lab-in-kansas-city/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-11-12 19:40"
     }
   ]
 }

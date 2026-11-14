@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 14:00",
+  "updated_at": "2026-11-14 15:00",
   "items": [
     {
       "id": "14ym5vf",
@@ -24,6 +24,17 @@
       "published": "2026-11-14 11:05"
     },
     {
+      "id": "woql3f",
+      "title": "Ghana's cocoa price slash sparks outrage",
+      "title_vi": "Việc Ghana giảm giá ca cao gây phẫn nộ",
+      "summary_vi": "Ngành ca cao của Ghana đang đối mặt với biến động lớn sau khi chính phủ giảm 28% giá sản xuất. Đó là một đòn nặng nề đối với nhiều người trong số 800.000 nông dân trồng ca cao trên cả nước. Nhưng các quan chức cho biết họ buộc phải đưa ra quyết định này sau khi giá ca cao toàn cầu sụt giảm. Eddy Micah Jr. nói chuyện với Nana Aduna II về",
+      "image": "https://static.dw.com/image/74973921_6.jpg",
+      "link": "https://www.dw.com/en/ghanas-cocoa-price-slash-sparks-outrage/audio-76122172",
+      "source": "DW.com",
+      "category": "soft",
+      "published": "2026-11-14 08:32"
+    },
+    {
       "id": "194etid",
       "title": "Iran Braces for a Budget Without Oil Revenue",
       "title_vi": "Iran chuẩn bị cho ngân sách không có doanh thu từ dầu mỏ",
@@ -44,6 +55,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-14 05:27"
+    },
+    {
+      "id": "lpe5ci",
+      "title": "Silver market remains resilient despite price volatility and weakening industrial demand – Metals Focus",
+      "title_vi": "Thị trường bạc vẫn kiên cường bất chấp biến động giá cả và nhu cầu công nghiệp suy yếu - Metals Focus",
+      "summary_vi": "(Kitco News) - Thị trường bạc tiếp tục gặp khó khăn trong việc thu hút sự quan tâm của nhà đầu tư sau đợt giảm giá lịch sử vào đầu năm nay; tuy nhiên, một công ty nghiên cứu vẫn lạc quan rằng…",
+      "image": "https://images.kitco.com/img/extract_0_0_1000_562,width_1200,enlarge,format_jpeg/icms/d88931e7-b62e-4535-a72b-1df3a791bdd8.jpeg",
+      "link": "https://www.kitco.com/news/article/2026-11-13/silver-market-remains-resilient-despite-price-volatility-and-weakening",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-11-14 05:09"
     },
     {
       "id": "1vlef8c",
@@ -528,28 +550,6 @@
       "source": "Kroll",
       "category": "macro",
       "published": "2026-11-12 16:06"
-    },
-    {
-      "id": "1fgzjh",
-      "title": "Short-Term Energy Outlook: November 2026",
-      "title_vi": "Triển vọng năng lượng ngắn hạn: Tháng 11 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.advisorperspectives.com/dshort/updates/2026/11/11/short-term-energy-outlook-november-2026",
-      "source": "Advisor Perspectives",
-      "category": "energy",
-      "published": "2026-11-12 15:24"
-    },
-    {
-      "id": "12djyd3",
-      "title": "Global cotton prices remain subdued as USDA trims 2026-27 forecasts",
-      "title_vi": "Giá bông toàn cầu vẫn giảm do USDA cắt giảm dự báo năm 2026-27",
-      "summary_vi": "Diễn biến giá bông toàn cầu bị hạn chế trong tháng 11, với hầu hết các giá bông chuẩn đều ổn định đến thấp hơn một chút và lãi suất mở của NY/ICE chuyển từ tháng 12 sang tháng 3, Cotton Incorporated...",
-      "image": "https://static.fibre2fashion.com/Newsresource/images/314/ripe-cotton-plants-meadow-dusk-generated-by-ai_326521.jpg",
-      "link": "https://www.fibre2fashion.com/news/cotton-news/global-cotton-prices-remain-subdued-as-usda-trims-2026-27-forecasts-314944-newsdetails.htm",
-      "source": "Fibre2Fashion",
-      "category": "soft",
-      "published": "2026-11-12 14:27"
     }
   ]
 }

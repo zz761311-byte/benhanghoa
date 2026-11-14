@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 20:00",
+  "updated_at": "2026-11-14 21:00",
   "items": [
     {
       "id": "14ym5vf",
@@ -442,6 +442,17 @@
       "published": "2026-11-12 22:30"
     },
     {
+      "id": "j7i763",
+      "title": "Trump Threatens to Double Tariffs on Mexican Goods Over Migrants",
+      "title_vi": "Trump đe dọa tăng gấp đôi thuế quan đối với hàng hóa Mexico đối với người di cư",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-12/trump-threatens-to-double-tariffs-on-mexican-goods-over-migrants",
+      "source": "Bloomberg",
+      "category": "macro",
+      "published": "2026-11-12 21:53"
+    },
+    {
       "id": "1sx7707",
       "title": "EIA forecasts Alaskan crude oil production to grow 13% in 2027",
       "title_vi": "EIA dự báo sản lượng dầu thô Alaska tăng 13% vào năm 2027",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-11-12 17:11"
-    },
-    {
-      "id": "1d64jqz",
-      "title": "Gold Falls Below $4,000 as US Inflation Fuels Expectations of Further Fed Rate Hikes",
-      "title_vi": "Vàng giảm xuống dưới 4.000 USD do lạm phát ở Mỹ thúc đẩy kỳ vọng Fed sẽ tăng lãi suất thêm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://uk.finance.yahoo.com/news/gold-falls-below-4-000-100948110.html",
-      "source": "Yahoo Finance UK",
-      "category": "macro",
-      "published": "2026-11-12 17:09"
     }
   ]
 }

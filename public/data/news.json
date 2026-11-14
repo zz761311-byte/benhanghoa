@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-15 00:00",
+  "updated_at": "2026-11-15 01:00",
   "items": [
+    {
+      "id": "1snp2kv",
+      "title": "Singapore Makes a $65 Billion Bet on the Future of Gold",
+      "title_vi": "Singapore đặt cược 65 tỷ USD vào tương lai của vàng",
+      "summary_vi": "Trong ba năm, câu chuyện về vàng là về người mua. Vào năm 2026, nó đã trở thành câu chuyện về nơi kim loại ngủ vào ban đêm. Hôm thứ Ba, Cơ quan tiền tệ Singapore đã mở kho tiền tệ quốc gia, có chỗ chứa 500 tấn vàng, cho các ngân hàng trung ương nước ngoài và các ngân hàng trung ương.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-13_iatc1ajols.jpg",
+      "link": "https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-11-15 01:00"
+    },
     {
       "id": "1achti5",
       "title": "America’s Offshore Wind Industry Is Growing Despite Trump’s Crackdown",
@@ -33,6 +44,17 @@
       "source": "Startup Fortune",
       "category": "metal",
       "published": "2026-11-14 11:05"
+    },
+    {
+      "id": "1kxgjxb",
+      "title": "STAR DIAMOND CORPORATION ANNOUNCES THIRD QUARTER 2026 RESULTS",
+      "title_vi": "CÔNG TY CỔ PHẦN STAR DIAMOND CÔNG BỐ KẾT QUẢ QUÝ III NĂM 2026",
+      "summary_vi": "TSX: DIAM,OTC:SHGDF Star Diamond Corporation (\"Star Diamond\" hoặc \"Công ty\") công bố kết quả hoạt động và tài chính trong ba và chín tháng kết thúc vào ngày 30 tháng 9 năm 2026. Tất cả số tiền đều tính bằng hàng nghìn đô la Canada, ngoại trừ số lượng cổ phiếu phổ thông hoặc trên mỗi cổ phiếu hoặc được ghi chú khác. ...",
+      "image": "https://investingnews.com/media-library/image.gif?id=30568147&width=1200&height=600&coordinates=31%2C0%2C31%2C0",
+      "link": "https://investingnews.com/star-diamond-corporation-announces-third-quarter-2026-results/",
+      "source": "Investing News Network",
+      "category": "macro",
+      "published": "2026-11-14 10:13"
     },
     {
       "id": "woql3f",
@@ -112,6 +134,17 @@
       "published": "2026-11-14 04:00"
     },
     {
+      "id": "a1zmes",
+      "title": "The NVIDIA story is a BFD",
+      "title_vi": "Câu chuyện NVIDIA là một BFD",
+      "summary_vi": "13 suy đoán hơi mang tính suy đoán về hậu quả chính trị",
+      "image": "https://substackcdn.com/image/fetch/$s_!-B2q!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c9ce7c8-f3df-4d86-b18f-f3a322cd6dc7_2560x1440.png",
+      "link": "https://www.natesilver.net/p/the-nvidia-story-is-a-bfd",
+      "source": "Silver Bulletin",
+      "category": "metal",
+      "published": "2026-11-14 03:08"
+    },
+    {
       "id": "1igxxpq",
       "title": "Trump Extends Jones Act Waiver For Another 90 Days",
       "title_vi": "Trump gia hạn miễn trừ đạo luật Jones thêm 90 ngày nữa",
@@ -154,17 +187,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-14 01:11"
-    },
-    {
-      "id": "1ywqc52",
-      "title": "Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge",
-      "title_vi": "Sản lượng dầu của Iraq tăng vọt lên mức cao nhất năm 2019 khi dòng chảy Hormuz tăng mạnh",
-      "summary_vi": "Sản lượng dầu thô của Iraq đạt 4,6 triệu thùng/ngày (bpd) trong tháng 10, cao nhất kể từ năm 2019, dữ liệu từ báo cáo hàng tháng của Cơ quan Năng lượng Quốc tế cho thấy hôm thứ Sáu, khi nhà sản xuất lớn thứ hai của OPEC tăng sản lượng thêm 540.000 thùng/ngày kể từ tháng 9. Kuwait và Ả Rập Saudi",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-13_qghl8pktob.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-14 00:30"
     },
     {
       "id": "f5v4ex",
@@ -528,28 +550,6 @@
       "source": "Crux Investor",
       "category": "metal",
       "published": "2026-11-12 18:06"
-    },
-    {
-      "id": "1twowxp",
-      "title": "Silver Price Forecast: Supply Deficit vs Fed Pressure",
-      "title_vi": "Dự báo giá bạc: Thâm hụt nguồn cung và áp lực của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.equiti.com/sc-en/news/market-insights/silver-price-forecast-supply-deficit-fed-pressure/",
-      "source": "Equiti Global",
-      "category": "metal",
-      "published": "2026-11-12 17:19"
-    },
-    {
-      "id": "127nuqa",
-      "title": "Gold Declines to $3,973 as US Inflation Raises Expectations of December Fed Rate Increase",
-      "title_vi": "Vàng giảm xuống còn 3.973 USD khi lạm phát ở Mỹ làm tăng kỳ vọng về việc tăng lãi suất của Fed vào tháng 12",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-declines-3-973-us-101129832.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-11-12 17:11"
     }
   ]
 }

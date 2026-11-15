@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 07:00",
+  "updated_at": "2026-11-15 08:01",
   "items": [
     {
       "id": "3sup11",
@@ -343,6 +343,17 @@
       "published": "2026-11-13 17:26"
     },
     {
+      "id": "37ybkd",
+      "title": "Goldman Sachs Forecasts Copper Prices to Reach $15,600 per Tonne by December 2027",
+      "title_vi": "Goldman Sachs dự báo giá đồng sẽ đạt 15.600 USD/tấn vào tháng 12 năm 2027",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/goldman-sachs-forecasts-copper-prices-101203384.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-11-13 17:12"
+    },
+    {
       "id": "1qbt2ey",
       "title": "Gold and Silver Price Forecast: Gold Hits 13-Month Low Before US PPI",
       "title_vi": "Dự báo giá vàng và bạc: Vàng chạm mức thấp nhất 13 tháng trước PPI của Mỹ",
@@ -363,17 +374,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-11-13 14:37"
-    },
-    {
-      "id": "10jlfzc",
-      "title": "Goldman Sachs flags risks to $15 400/t copper price forecast for 2027",
-      "title_vi": "Goldman Sachs cảnh báo rủi ro đối với dự báo giá đồng 15,400 USD/tấn vào năm 2027",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.miningweekly.com/article/goldman-sachs-flags-risks-to-15-400t-copper-price-forecast-for-2027-2026-11-13",
-      "source": "Mining Weekly",
-      "category": "metal",
-      "published": "2026-11-13 13:35"
     },
     {
       "id": "1u4ak44",

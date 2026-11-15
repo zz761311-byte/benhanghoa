@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 13:00",
+  "updated_at": "2026-11-15 13:47",
   "items": [
     {
       "id": "3sup11",
@@ -66,6 +66,17 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "soft",
       "published": "2026-11-14 22:16"
+    },
+    {
+      "id": "xpwnqe",
+      "title": "3 US Agricultural Exporter Stocks Investors Are Watching Before China Tariff Talks",
+      "title_vi": "3 cổ phiếu xuất khẩu nông nghiệp của Mỹ Các nhà đầu tư đang theo dõi trước các cuộc đàm phán thuế quan với Trung Quốc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/3-us-agricultural-exporter-stocks-130910521.html",
+      "source": "Yahoo Finance",
+      "category": "macro",
+      "published": "2026-11-14 20:09"
     },
     {
       "id": "1twowxp",
@@ -187,6 +198,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-14 04:00"
+    },
+    {
+      "id": "1daoi2f",
+      "title": "Copper price heads for biggest weekly drop since March on AI rout",
+      "title_vi": "Giá đồng hướng tới mức giảm hàng tuần lớn nhất kể từ tháng 3 do sự thay đổi của AI",
+      "summary_vi": "Kim loại quý này đang trên đà giảm 2,9% trong tuần này, đánh dấu tuần giảm thứ 5 liên tiếp.",
+      "image": "https://www.mining.com/wp-content/uploads/2026/05/AdobeStock_587822052-1024x683.jpeg",
+      "link": "https://www.mining.com/web/copper-price-heads-for-biggest-weekly-drop-since-march-on-ai-rout/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-11-14 03:11"
     },
     {
       "id": "a1zmes",
@@ -528,28 +550,6 @@
       "source": "ETF.com",
       "category": "macro",
       "published": "2026-11-12 22:36"
-    },
-    {
-      "id": "18x0h9d",
-      "title": "Food prices climb as conflicts and El Niño tighten grain supplies",
-      "title_vi": "Giá lương thực tăng do xung đột và El Niño thắt chặt nguồn cung ngũ cốc",
-      "summary_vi": "Nguồn cung ngũ cốc đang sụt giảm, tồn kho lương thực đang thắt chặt và giá cả đang tăng lên. Dữ liệu CMO của Ngân hàng Thế giới mới tiết lộ những rủi ro đối với an ninh lương thực và lạm phát.",
-      "image": "https://s7d1.scene7.com/is/image/wbcollab/food-prices-2026-1?qlt=90&hei=630&wid=1200&fit=hfit",
-      "link": "https://blogs.worldbank.org/en/opendata/food-prices-climb-as-conflicts-and-el-nino-tighten-grain-supplie",
-      "source": "World Bank Blogs",
-      "category": "agri",
-      "published": "2026-11-12 22:30"
-    },
-    {
-      "id": "j7i763",
-      "title": "Trump Threatens to Double Tariffs on Mexican Goods Over Migrants",
-      "title_vi": "Trump đe dọa tăng gấp đôi thuế quan đối với hàng hóa Mexico đối với người di cư",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-12/trump-threatens-to-double-tariffs-on-mexican-goods-over-migrants",
-      "source": "Bloomberg",
-      "category": "macro",
-      "published": "2026-11-12 21:53"
     }
   ]
 }

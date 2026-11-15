@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 15:00",
+  "updated_at": "2026-11-15 16:00",
   "items": [
     {
       "id": "3sup11",
@@ -387,6 +387,17 @@
       "published": "2026-11-13 17:12"
     },
     {
+      "id": "18x0h9d",
+      "title": "Food prices climb as conflicts and El Niño tighten grain supplies",
+      "title_vi": "Giá lương thực tăng do xung đột và El Niño thắt chặt nguồn cung ngũ cốc",
+      "summary_vi": "Nguồn cung ngũ cốc đang sụt giảm, tồn kho lương thực đang thắt chặt và giá cả đang tăng lên. Dữ liệu CMO của Ngân hàng Thế giới mới tiết lộ những rủi ro đối với an ninh lương thực và lạm phát.",
+      "image": "https://s7d1.scene7.com/is/image/wbcollab/food-prices-2026-1?qlt=90&hei=630&wid=1200&fit=hfit",
+      "link": "https://blogs.worldbank.org/en/opendata/food-prices-climb-as-conflicts-and-el-nino-tighten-grain-supplie",
+      "source": "World Bank Blogs",
+      "category": "agri",
+      "published": "2026-11-13 15:30"
+    },
+    {
       "id": "1qbt2ey",
       "title": "Gold and Silver Price Forecast: Gold Hits 13-Month Low Before US PPI",
       "title_vi": "Dự báo giá vàng và bạc: Vàng chạm mức thấp nhất 13 tháng trước PPI của Mỹ",
@@ -539,17 +550,6 @@
       "source": "CBS News",
       "category": "soft",
       "published": "2026-11-12 22:40"
-    },
-    {
-      "id": "1jtoel5",
-      "title": "How Commodities Went from Ignored to Unmissable",
-      "title_vi": "Làm thế nào hàng hóa đi từ bị bỏ qua đến không thể chấp nhận được",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.etf.com/sections/conferences/how-commodities-went-ignored-unmissable",
-      "source": "ETF.com",
-      "category": "macro",
-      "published": "2026-11-12 22:36"
     }
   ]
 }

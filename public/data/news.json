@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 02:00",
+  "updated_at": "2026-11-16 02:50",
   "items": [
     {
       "id": "1wkebw3",
@@ -132,6 +132,17 @@
       "source": "IndexBox",
       "category": "soft",
       "published": "2026-11-14 12:11"
+    },
+    {
+      "id": "3uad0a",
+      "title": "CONNECT WITH MARKET-MAKING FIRMS FOR GRAINS AND OILSEED PRODUCTS",
+      "title_vi": "KẾT NỐI VỚI CÁC DOANH NGHIỆP THỊ TRƯỜNG VẬT LIỆU VÀ SẢN PHẨM HẠT DẦU",
+      "summary_vi": "Giao dịch hoặc phòng ngừa rủi ro với nhiều hợp đồng tương lai và quyền chọn hàng hóa nông nghiệp của CME Group, bao gồm ngũ cốc và hạt có dầu, vật nuôi, sữa và lâm sản.",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/markets/agriculture/images/grain-oilseed-pgp-leadspace.jpg",
+      "link": "https://www.cmegroup.com/markets/agriculture/grain-and-oilseed",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-11-14 11:59"
     },
     {
       "id": "zeskd3",
@@ -539,17 +550,6 @@
       "source": "Oil & Gas Journal",
       "category": "energy",
       "published": "2026-11-13 01:21"
-    },
-    {
-      "id": "gxm2s5",
-      "title": "Top Tips: Did WASDE open a window for grain sales?",
-      "title_vi": "Lời khuyên hàng đầu: WASDE có mở cơ hội bán ngũ cốc không?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/management/top-tips-did-wasde-open-a-window-for-grain-sales-",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-11-13 00:49"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 03:01",
+  "updated_at": "2026-11-16 04:00",
   "items": [
     {
       "id": "lxt8g9",
@@ -431,6 +431,17 @@
       "published": "2026-11-13 15:30"
     },
     {
+      "id": "1b8ye9u",
+      "title": "Weekly Natural Gas Storage Report",
+      "title_vi": "Báo cáo lưu trữ khí đốt tự nhiên hàng tuần",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.eia.gov/naturalgas/storage/",
+      "source": "U.S. Energy Information Administration (EIA) (.gov)",
+      "category": "energy",
+      "published": "2026-11-13 15:00"
+    },
+    {
       "id": "my7osy",
       "title": "Give bushels the boot: 5 steps to revenue-based marketing",
       "title_vi": "Khởi động các giạ: 5 bước để tiếp thị dựa trên doanh thu",
@@ -539,17 +550,6 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-11-13 02:16"
-    },
-    {
-      "id": "vgh3hd",
-      "title": "Morningstar holds 2027 Brent forecast at $71/bbl as Persian Gulf supply recovers",
-      "title_vi": "Morningstar giữ dự báo giá dầu Brent năm 2027 ở mức 71 USD/thùng khi nguồn cung Vịnh Ba Tư phục hồi",
-      "summary_vi": "bộ phim",
-      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/11/6af5fb065dea69f6dc9e001e-morningstar.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-      "link": "https://www.ogj.com/general-interest/economics-markets/news/55418528/morningstar-holds-2027-brent-forecast-at-71-bbl-as-persian-gulf-supply-recovers",
-      "source": "Oil & Gas Journal",
-      "category": "energy",
-      "published": "2026-11-13 01:21"
     }
   ]
 }

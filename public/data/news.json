@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-17 05:01",
+  "updated_at": "2026-11-17 06:01",
   "items": [
+    {
+      "id": "1hzyyp9",
+      "title": "Uganda Pushes First Oil to Mid-2027 as Iran War Holds Up Equipment",
+      "title_vi": "Uganda đẩy dầu đầu tiên đến giữa năm 2027 khi chiến tranh Iran giữ thiết bị",
+      "summary_vi": "Giấc mơ đạt được sản lượng dầu thương mại và xuất khẩu dầu thô đầu tiên của Uganda lại bị trì hoãn, kéo dài thời gian chờ đợi của nước này lên hơn hai thập kỷ kể từ khi trữ lượng dầu thương mại lần đầu tiên được phát hiện ở nước này vào năm 2006.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-16_cex2igvsj4.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Uganda-Pushes-First-Oil-to-Mid-2027-as-Iran-War-Holds-Up-Equipment.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-17 06:00"
+    },
     {
       "id": "1wycto1",
       "title": "Can Underwater Data Centers Escape the Land-Based Backlash?",
@@ -99,17 +110,6 @@
       "source": "investingLive",
       "category": "energy",
       "published": "2026-11-17 00:17"
-    },
-    {
-      "id": "1p2hnkd",
-      "title": "Venezuela’s Oil Comeback Faces a New Threat From Washington",
-      "title_vi": "Sự trở lại dầu mỏ của Venezuela đối mặt với mối đe dọa mới từ Washington",
-      "summary_vi": "Chiến thắng của Đảng Dân chủ trong cuộc bầu cử giữa nhiệm kỳ Hoa Kỳ năm 2026 đã trao cho đảng quyền kiểm soát cả hai viện Quốc hội, hạn chế chương trình nghị sự trong nước của Tổng thống Trump kể từ tháng 1 năm 2027. Tuy nhiên, chính sách đối ngoại phần lớn vẫn nằm trong quyền hạn của tổng thống, thể hiện qua sự can thiệp của ông.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-16_noi1nce7z4.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Comeback-Faces-a-New-Threat-From-Washington.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-17 00:00"
     },
     {
       "id": "10uw3t8",
@@ -286,6 +286,17 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-11-16 17:02"
+    },
+    {
+      "id": "xc8len",
+      "title": "Copper Sinks to Four-Month Low on Tech Rout, China Growth Woes",
+      "title_vi": "Đồng giảm xuống mức thấp nhất trong 4 tháng do sự thay đổi công nghệ, khủng hoảng tăng trưởng của Trung Quốc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/copper-sinks-four-month-low-035511007.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-11-16 16:50"
     },
     {
       "id": "hok9b6",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-11-14 07:06"
-    },
-    {
-      "id": "17790ni",
-      "title": "Corn and Soybean Prices Rally as USDA Export Sales Surge",
-      "title_vi": "Giá ngô và đậu nành tăng do doanh số xuất khẩu của USDA tăng",
-      "summary_vi": "Giá ngô, đậu tương và lúa mì kỳ hạn tại Mỹ tăng vào thứ Sáu do doanh số xuất khẩu mạnh mẽ của USDA thúc đẩy thị trường ngũ cốc và khôi phục lại sự lạc quan về cung và cầu toàn cầu.",
-      "image": "https://www.agrolatam.com/files/image/84/84186/6af7a1f2dff3a_600_315!.jpg?s=72f7660b50dd4bef67ef965fc45cfb04&d=1794613891",
-      "link": "https://www.agrolatam.com/usa/news/corn-soybean-prices-rally-usda-export-sales-november-2026/",
-      "source": "AgroLatam",
-      "category": "agri",
-      "published": "2026-11-14 06:55"
     }
   ]
 }

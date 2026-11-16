@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 11:01",
+  "updated_at": "2026-11-16 12:01",
   "items": [
     {
       "id": "182mst3",
@@ -11,6 +11,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-11-16 07:41"
+    },
+    {
+      "id": "1xpspmr",
+      "title": "Ukrainian drone attacks 'neutralized' 55% of Russia's oil refining capacity, Zelensky says",
+      "title_vi": "Zelensky nói các cuộc tấn công bằng máy bay không người lái của Ukraine đã 'vô hiệu hóa' 55% công suất lọc dầu của Nga",
+      "summary_vi": "“Tổng cộng, chúng tôi đã vô hiệu hóa hơn 55% công suất lọc dầu của Nga”, Zelensky nói, trích dẫn báo cáo của Thiếu tướng Mykhailo Drapatyi. \"Đây là phản ứng phù hợp trước việc Nga từ chối giảm căng thẳng cũng như trước các cuộc tấn công của họ nhằm vào cơ sở hạ tầng năng lượng của chúng tôi.\"",
+      "image": "https://assets.kyivindependent.com/content/images/2026/11/GettyImages-2304267523_20261115-232938.jpg",
+      "link": "https://kyivindependent.com/ukrainian-drone-attacks-neutralized-55-of-russias-oil-refining-capacity-zelensky-says/",
+      "source": "The Kyiv Independent",
+      "category": "energy",
+      "published": "2026-11-16 06:30"
     },
     {
       "id": "1bfqx9g",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-11-13 14:37"
-    },
-    {
-      "id": "1u4ak44",
-      "title": "Sugar production, use both lowered for 2026-27",
-      "title_vi": "Sản lượng đường, sử dụng cả hai đều giảm trong năm 2026-27",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bakingbusiness.com/articles/67236-sugar-production-use-both-lowered-for-2026-27",
-      "source": "Baking Business",
-      "category": "soft",
-      "published": "2026-11-13 12:00"
     }
   ]
 }

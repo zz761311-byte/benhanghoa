@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-16 15:01",
+  "updated_at": "2026-11-16 16:01",
   "items": [
+    {
+      "id": "bq7ro8",
+      "title": "Goldman Sachs Warns of Massive Oil Glut in 2027",
+      "title_vi": "Goldman Sachs cảnh báo về tình trạng dư thừa dầu lớn vào năm 2027",
+      "summary_vi": "Các nhà phân tích hàng hóa của Goldman Sachs đã dự đoán trong một báo cáo mới rằng nguồn cung dầu thô có thể vượt quá nhu cầu 2 triệu thùng mỗi ngày vào năm tới, ngay cả khi họ thừa nhận nguy cơ gián đoạn nguồn cung tiếp tục. Do đó, ngân hàng dự kiến ​​dầu thô Brent sẽ đạt mức trung bình 88 USD/thùng vào năm 202.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-16_dqc5ax0vin.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-of-Massive-Oil-Glut-in-2027.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-16 15:30"
+    },
+    {
+      "id": "6n9kr3",
+      "title": "Gold set to snap blistering run of 3-year gains as Fed rate increase looms",
+      "title_vi": "Vàng sắp đạt được mức tăng chóng mặt trong 3 năm khi Fed sắp tăng lãi suất",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.scmp.com/business/commodities/article/3374547/gold-set-snap-blistering-run-three-year-gains-fed-rate-increase-looms",
+      "source": "South China Morning Post",
+      "category": "metal",
+      "published": "2026-11-16 15:00"
+    },
+    {
+      "id": "hok9b6",
+      "title": "Oil Prices Rise as Fresh Attacks Renew Middle East Supply Concerns",
+      "title_vi": "Giá dầu tăng khi các cuộc tấn công mới làm gia tăng mối lo ngại về nguồn cung ở Trung Đông",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-fresh-attacks-renew-middle-east-supply-concerns-bee22d97",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-11-16 14:58"
+    },
     {
       "id": "b5kef7",
       "title": "China Turns to Iraqi Oil as U.S. Blockade Chokes Iranian Supply",
@@ -22,6 +55,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-16 12:25"
+    },
+    {
+      "id": "t942yz",
+      "title": "Silver Breaks Below $48 for the First Time in a Year, and Buyers Aren’t Rushing In",
+      "title_vi": "Bạc phá vỡ dưới 48 đô la lần đầu tiên sau một năm và người mua không đổ xô vào",
+      "summary_vi": "Bạc đạt 47,34 USD, mức thấp nhất kể từ tháng 11 năm 2025, trong khi Metals Focus dự báo nhu cầu bạc năm 2026 sẽ giảm 5%.",
+      "image": "https://assets.beincrypto.com/img/oihrTlgPkcFli5AtK_mG56w7ZLU=/1200x630/smart/filters:format(jpeg):quality(82)/c1cd2c773e4b419bb14a6422b6e05aa7",
+      "link": "https://beincrypto.com/silver-price-below-48-year-low/",
+      "source": "BeInCrypto",
+      "category": "metal",
+      "published": "2026-11-16 10:04"
+    },
+    {
+      "id": "p6mz4h",
+      "title": "The fruit ingredient on your food label may tell only part of the sugar story - News-Medical",
+      "title_vi": "Thành phần trái cây trên nhãn thực phẩm của bạn có thể chỉ nói lên một phần câu chuyện về đường - News-Medical",
+      "summary_vi": "Các nhà nghiên cứu đã kiểm tra danh sách thành phần từ 5.276 thực phẩm đóng gói được bán ở Brazil và phát hiện ra rằng 15,7% thành phần trái cây chế biến sẵn được phân loại là nguồn cung cấp đường tự do theo định nghĩa rộng hơn của Bộ Y tế Công cộng Anh. Nước ép trái cây, nước xay nhuyễn và bột giấy là những loại phổ biến nhất, đặt ra câu hỏi về nhãn bổ sung đường.",
+      "image": "https://www.news-medical.net/images/news/ImageForNews_851675_1794794274415550.png",
+      "link": "https://www.news-medical.net/news/20261115/The-fruit-ingredient-on-your-food-label-may-tell-only-part-of-the-sugar-story.aspx",
+      "source": "News-Medical",
+      "category": "soft",
+      "published": "2026-11-16 08:59"
     },
     {
       "id": "b70j56",
@@ -121,17 +176,6 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-11-15 05:00"
-    },
-    {
-      "id": "byjkyg",
-      "title": "Iran War Accelerates Southeast Asia’s Renewable Energy Push",
-      "title_vi": "Chiến tranh Iran đẩy nhanh nỗ lực thúc đẩy năng lượng tái tạo của Đông Nam Á",
-      "summary_vi": "Một số quốc gia ở châu Á đã nhận thấy sự cần thiết phải đẩy nhanh việc triển khai năng lượng tái tạo để giảm sự phụ thuộc vào nhập khẩu nhiên liệu hóa thạch và hỗ trợ đa dạng hóa năng lượng. Cuộc xung đột đang diễn ra ở Trung Đông đã làm giảm đáng kể hoạt động buôn bán nhiên liệu trong những tháng gần đây, dẫn đến",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-12_4kqtl7rxjn.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Accelerates-Southeast-Asias-Renewable-Energy-Push.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-15 03:00"
     },
     {
       "id": "1xtkm6p",
@@ -506,50 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-11-13 17:26"
-    },
-    {
-      "id": "37ybkd",
-      "title": "Goldman Sachs Forecasts Copper Prices to Reach $15,600 per Tonne by December 2027",
-      "title_vi": "Goldman Sachs dự báo giá đồng sẽ đạt 15.600 USD/tấn vào tháng 12 năm 2027",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/goldman-sachs-forecasts-copper-prices-101203384.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-11-13 17:12"
-    },
-    {
-      "id": "18x0h9d",
-      "title": "Food prices climb as conflicts and El Niño tighten grain supplies",
-      "title_vi": "Giá lương thực tăng do xung đột và El Niño thắt chặt nguồn cung ngũ cốc",
-      "summary_vi": "Nguồn cung ngũ cốc đang sụt giảm, tồn kho lương thực đang thắt chặt và giá cả đang tăng lên. Dữ liệu CMO của Ngân hàng Thế giới mới tiết lộ những rủi ro đối với an ninh lương thực và lạm phát.",
-      "image": "https://s7d1.scene7.com/is/image/wbcollab/food-prices-2026-1?qlt=90&hei=630&wid=1200&fit=hfit",
-      "link": "https://blogs.worldbank.org/en/opendata/food-prices-climb-as-conflicts-and-el-nino-tighten-grain-supplie",
-      "source": "World Bank Blogs",
-      "category": "agri",
-      "published": "2026-11-13 15:30"
-    },
-    {
-      "id": "1b8ye9u",
-      "title": "Weekly Natural Gas Storage Report",
-      "title_vi": "Báo cáo lưu trữ khí đốt tự nhiên hàng tuần",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.eia.gov/naturalgas/storage/",
-      "source": "U.S. Energy Information Administration (EIA) (.gov)",
-      "category": "energy",
-      "published": "2026-11-13 15:00"
-    },
-    {
-      "id": "my7osy",
-      "title": "Give bushels the boot: 5 steps to revenue-based marketing",
-      "title_vi": "Khởi động các giạ: 5 bước để tiếp thị dựa trên doanh thu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-11-13 15:00"
     }
   ]
 }

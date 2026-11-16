@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-16 18:01",
+  "updated_at": "2026-11-16 18:42",
   "items": [
+    {
+      "id": "1iqo5g2",
+      "title": "Rfine launches coffee-based cocoa extender in Canada and EU",
+      "title_vi": "Rfine ra mắt sản phẩm ca cao làm từ cà phê ở Canada và EU",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.foodbev.com/post301/rfine-launches-coffee-based-cocoa-extender-in-canada-and-eu",
+      "source": "FoodBev Media",
+      "category": "soft",
+      "published": "2026-11-16 18:33"
+    },
+    {
+      "id": "ki292s",
+      "title": "New North Sea Gas Supply Comes Online Amid Growing Political Backlash",
+      "title_vi": "Nguồn cung cấp khí đốt mới ở Biển Bắc xuất hiện trong bối cảnh phản ứng chính trị ngày càng gia tăng",
+      "summary_vi": "Khí tự nhiên bắt đầu chảy từ giàn sản xuất Jackdaw ở Biển Bắc của Anh chưa đầy một tháng sau khi Anh phê duyệt dự án, nhưng tương lai của một dự án dầu khí lớn hơn được đề xuất, Rosebank, đang bị treo trong thế cân bằng trong bối cảnh phản ứng chính trị dữ dội. Khí Jackdaw sẽ đi theo phễu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-16_gld6sn7jre.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/New-North-Sea-Gas-Supply-Comes-Online-Amid-Growing-Political-Backlash.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-16 18:15"
+    },
+    {
+      "id": "1v57r47",
+      "title": "Gold Prices Retreat Below $3,900 as Inflation Concerns Fuel Expectations of Further Fed Tightening",
+      "title_vi": "Giá vàng giảm xuống dưới 3.900 USD do lo ngại lạm phát thúc đẩy kỳ vọng về việc thắt chặt hơn nữa của Fed",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://uk.finance.yahoo.com/news/gold-prices-retreat-below-3-100408801.html",
+      "source": "Yahoo Finance UK",
+      "category": "macro",
+      "published": "2026-11-16 17:04"
+    },
     {
       "id": "1ei0sh6",
       "title": "Gold Falls Below $3,900 as Stronger Dollar and Fed Rate Expectations Pressure Precious Metals",
@@ -178,17 +211,6 @@
       "published": "2026-11-15 17:16"
     },
     {
-      "id": "3sup11",
-      "title": "Electrifying Ambitions Meet Tough Reality in Europe",
-      "title_vi": "Tham vọng điện khí hóa đáp ứng thực tế khó khăn ở châu Âu",
-      "summary_vi": "Các nhà lãnh đạo Liên minh châu Âu là một trong những người ủng hộ nhiệt tình nhất việc điện khí hóa tối đa để giảm sự phụ thuộc vào các mặt hàng năng lượng nhập khẩu. Rất nhiều chính sách của EU theo đuổi chính xác điều đó. Tuy nhiên, giá điện của EU tuần trước đã tăng lên hơn 600 euro/MWh do hạn hán do gió, và",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-13_hki89itrcp.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Electrifying-Ambitions-Meet-Tough-Reality-in-Europe.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-15 07:00"
-    },
-    {
       "id": "1xtkm6p",
       "title": "Valentine's Day shoppers face soaring chocolate prices - ABC News",
       "title_vi": "Người mua sắm ngày lễ tình nhân đối mặt với giá sô cô la tăng vọt - ABC News",
@@ -321,6 +343,17 @@
       "published": "2026-11-14 07:16"
     },
     {
+      "id": "yphrbd",
+      "title": "What I Am Watching Today — AUD/USD, USD/JPY, Copper, and Platinum",
+      "title_vi": "Những gì tôi đang xem hôm nay - AUD/USD, USD/JPY, Đồng và Bạch kim",
+      "summary_vi": "Lãi suất thực của Hoa Kỳ tăng gây áp lực lên AUD/USD và bạch kim, trong khi USD/JPY kiểm tra mức kháng cự nhạy cảm với sự can thiệp và đồng tiếp cận mức hỗ trợ mua tiềm năng gần 6 USD.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/11/us-dollar-index-dxy-02-1.jpg?width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/premium-what-i-am-watching-today-aud-usd-usd-jpy-copper-and-platinum-1644533",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-11-14 07:06"
+    },
+    {
       "id": "17790ni",
       "title": "Corn and Soybean Prices Rally as USDA Export Sales Surge",
       "title_vi": "Giá ngô và đậu nành tăng do doanh số xuất khẩu của USDA tăng",
@@ -352,17 +385,6 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-11-14 05:09"
-    },
-    {
-      "id": "1vlef8c",
-      "title": "Gold Holds Drop to Near One-Year Low as Rate-Hike Bets Increase",
-      "title_vi": "Giá vàng giảm xuống gần mức thấp nhất trong một năm khi đặt cược tăng lãi suất tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-drop-to-near-one-year-low-as-rate-hike-bets-increase",
-      "source": "Bloomberg",
-      "category": "metal",
-      "published": "2026-11-14 04:33"
     },
     {
       "id": "1daoi2f",
@@ -528,28 +550,6 @@
       "source": "CNBC",
       "category": "energy",
       "published": "2026-11-13 19:05"
-    },
-    {
-      "id": "rds3lu",
-      "title": "The Commodities Feed: Oil rebounds as geopolitical risks linger",
-      "title_vi": "Nguồn cấp dữ liệu hàng hóa: Dầu phục hồi khi rủi ro địa chính trị kéo dài",
-      "summary_vi": "Giá dầu tăng do tình trạng bất ổn ở Trung Đông vẫn tiếp diễn",
-      "image": "https://think.ing.com/uploads/hero/_w800h450/shutterstock_316027709.jpg",
-      "link": "https://think.ing.com/articles/the-commodities-feed-oil-rebounds-as-geopolitical-risks-linger/",
-      "source": "ing think",
-      "category": "energy",
-      "published": "2026-11-13 18:16"
-    },
-    {
-      "id": "uauoqt",
-      "title": "Silver demand seen down 5% this year due to weaker jewellery purchases",
-      "title_vi": "Nhu cầu bạc giảm 5% trong năm nay do sức mua trang sức yếu hơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/china/silver-demand-seen-down-5-this-year-due-weaker-jewellery-purchases-2026-11-13/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-11-13 17:26"
     }
   ]
 }

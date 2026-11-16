@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 04:01",
+  "updated_at": "2026-11-17 04:16",
   "items": [
     {
       "id": "reyj6m",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-17 00:30"
+    },
+    {
+      "id": "1grvx96",
+      "title": "Explained: What causes gas prices to swing dramatically from one week to the next?",
+      "title_vi": "Giải thích: Điều gì khiến giá xăng dao động mạnh từ tuần này sang tuần khác?",
+      "summary_vi": "Từ mỏ dầu đến trạm xăng, ai cũng được hưởng lợi. Nhưng yếu tố lớn nhất thúc đẩy giá xăng có thể làm bạn ngạc nhiên — và tác động này vượt xa máy bơm.",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/16/b94cfeeb-dac5-4dc9-9ec1-9c841504c4f8/thumbnail/1200x630/7781da0a9a5f220bdd84f9ab65eaac98/gas-prices-cover-card.png",
+      "link": "https://www.cbsnews.com/texas/news/explained-what-causes-gas-prices-to-swing-dramatically-from-one-week-to-the-next/",
+      "source": "CBS News",
+      "category": "energy",
+      "published": "2026-11-17 00:26"
     },
     {
       "id": "1pf9hwb",
@@ -145,6 +156,17 @@
       "published": "2026-11-16 22:48"
     },
     {
+      "id": "17zzqh9",
+      "title": "Dr. Copper’s New Diagnosis: AI & Power Grid Demand",
+      "title_vi": "Chẩn đoán mới của Tiến sĩ Copper: AI & Nhu cầu lưới điện",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTmZtZ01JRmdvRk13NGhSR19WSjFzYi1EWlJDUExaWGloUVRxdzBTQnZmUHpiQ0JNczh1V1JYd0xLR2xLcWJHRC1VMXRhNDJsZGxNRVR3ZjN5WjhYN0J6a0NlWmRKd2J5QWppZmpfYjZmRjlVTnpaVDh4MEp5UzJEb1dTbnZ0NmJjb1pQS0dSUF9mMzdsdmxTZ3ptVnhXSkU?oc=5",
+      "source": "ETF Database",
+      "category": "energy",
+      "published": "2026-11-16 22:14"
+    },
+    {
       "id": "1563asu",
       "title": "Gold price slides as Fed hike bets rise, silver bar and coin sales drop despite lower prices – Heraeus",
       "title_vi": "Giá vàng trượt dốc khi đặt cược tăng lãi suất của Fed tăng, doanh số bán bạc miếng và tiền xu giảm mặc dù giá thấp hơn - Heraeus",
@@ -176,6 +198,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-16 21:00"
+    },
+    {
+      "id": "6in9fm",
+      "title": "Cotton Falling on Monday Morning",
+      "title_vi": "Bông rơi vào sáng thứ Hai",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barchart.com/story/news/8854360/cotton-falling-on-monday-morning",
+      "source": "Barchart.com",
+      "category": "soft",
+      "published": "2026-11-16 20:36"
     },
     {
       "id": "1898kb3",
@@ -517,39 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-14 05:27"
-    },
-    {
-      "id": "lpe5ci",
-      "title": "Silver market remains resilient despite price volatility and weakening industrial demand – Metals Focus",
-      "title_vi": "Thị trường bạc vẫn kiên cường bất chấp biến động giá cả và nhu cầu công nghiệp suy yếu - Metals Focus",
-      "summary_vi": "(Kitco News) - Thị trường bạc tiếp tục gặp khó khăn trong việc thu hút sự quan tâm của nhà đầu tư sau đợt giảm giá lịch sử vào đầu năm nay; tuy nhiên, một công ty nghiên cứu vẫn lạc quan rằng…",
-      "image": "https://images.kitco.com/img/extract_0_0_1000_562,width_1200,enlarge,format_jpeg/icms/d88931e7-b62e-4535-a72b-1df3a791bdd8.jpeg",
-      "link": "https://www.kitco.com/news/article/2026-11-13/silver-market-remains-resilient-despite-price-volatility-and-weakening",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-11-14 05:09"
-    },
-    {
-      "id": "1daoi2f",
-      "title": "Copper price heads for biggest weekly drop since March on AI rout",
-      "title_vi": "Giá đồng hướng tới mức giảm hàng tuần lớn nhất kể từ tháng 3 do sự thay đổi của AI",
-      "summary_vi": "Kim loại quý này đang trên đà giảm 2,9% trong tuần này, đánh dấu tuần giảm thứ 5 liên tiếp.",
-      "image": "https://www.mining.com/wp-content/uploads/2026/05/AdobeStock_587822052-1024x683.jpeg",
-      "link": "https://www.mining.com/web/copper-price-heads-for-biggest-weekly-drop-since-march-on-ai-rout/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-11-14 03:11"
-    },
-    {
-      "id": "a1zmes",
-      "title": "The NVIDIA story is a BFD",
-      "title_vi": "Câu chuyện NVIDIA là một BFD",
-      "summary_vi": "13 suy đoán hơi mang tính suy đoán về hậu quả chính trị",
-      "image": "https://substackcdn.com/image/fetch/$s_!-B2q!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c9ce7c8-f3df-4d86-b18f-f3a322cd6dc7_2560x1440.png",
-      "link": "https://www.natesilver.net/p/the-nvidia-story-is-a-bfd",
-      "source": "Silver Bulletin",
-      "category": "metal",
-      "published": "2026-11-14 03:08"
     }
   ]
 }

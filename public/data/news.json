@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 18:42",
+  "updated_at": "2026-11-16 19:01",
   "items": [
     {
       "id": "1iqo5g2",
@@ -420,6 +420,17 @@
       "published": "2026-11-14 02:19"
     },
     {
+      "id": "uauoqt",
+      "title": "Silver demand seen down 5% this year due to weaker jewellery purchases",
+      "title_vi": "Nhu cầu bạc giảm 5% trong năm nay do sức mua trang sức yếu hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/china/silver-demand-seen-down-5-this-year-due-weaker-jewellery-purchases-2026-11-13/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-11-14 01:05"
+    },
+    {
       "id": "f5v4ex",
       "title": "Copper shortage or surplus? Banks split on 2027 outlook",
       "title_vi": "Thiếu hay thừa đồng? Các ngân hàng chia rẽ về triển vọng năm 2027",
@@ -539,17 +550,6 @@
       "source": "The Salt Lake Tribune",
       "category": "soft",
       "published": "2026-11-13 20:01"
-    },
-    {
-      "id": "1c605at",
-      "title": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus",
-      "title_vi": "IEA cho biết sản lượng dầu thô của Nga phục hồi sau thỏa thuận diesel của Trump khi thị trường dầu trở lại dư thừa",
-      "summary_vi": "IEA cho biết sản lượng dầu thô của Nga đã tăng lên 8,73 triệu thùng/ngày trong tháng 10 do xuất khẩu vùng Vịnh phục hồi đã đẩy nguồn cung toàn cầu vượt quá nhu cầu.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107192503-1676021483338-gettyimages-1238944101-20090101220305-99-397367.jpeg?v=1693962475&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-11-13 19:05"
     }
   ]
 }

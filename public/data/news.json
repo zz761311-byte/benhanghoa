@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-17 04:16",
+  "updated_at": "2026-11-17 05:01",
   "items": [
+    {
+      "id": "1wycto1",
+      "title": "Can Underwater Data Centers Escape the Land-Based Backlash?",
+      "title_vi": "Các trung tâm dữ liệu dưới nước có thể thoát khỏi phản ứng dữ dội trên đất liền không?",
+      "summary_vi": "Sự bùng nổ AI đang thúc đẩy các nhà phát triển thử nghiệm một giới hạn mới để định vị các trung tâm dữ liệu, sau phản ứng dữ dội ngày càng tăng đối với việc sử dụng quá mức tài nguyên đất, nước và năng lượng trên đất liền. Vì vậy, các công ty khởi nghiệp và siêu quy mô đã chuyển sang thử nghiệm việc đặt các trung tâm dữ liệu dưới biển hoặc đại dương.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-16_8gon1qs9fa.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Can-Underwater-Data-Centers-Escape-the-Land-Based-Backlash.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-17 05:00"
+    },
     {
       "id": "reyj6m",
       "title": "Can Economic Populism Survive an Age of Scarcity?",
@@ -121,17 +132,6 @@
       "source": "Investing News Network",
       "category": "metal",
       "published": "2026-11-16 23:55"
-    },
-    {
-      "id": "fsdp1k",
-      "title": "Europe Has Already Drained 10% of Its Summer Gas Injections",
-      "title_vi": "Châu Âu đã cạn kiệt 10% lượng khí bơm vào mùa hè",
-      "summary_vi": "Châu Âu không chỉ bước vào mùa sưởi ấm với mức khí đốt tại các điểm lưu trữ thấp nhất trong nhiều thập kỷ, mà trong những tuần gần đây, nước này cũng đã rút 10% lượng khí đốt tự nhiên được bơm vào trong mùa lấp đầy mùa hè, khiến nguồn cung dễ bị ảnh hưởng bởi thời tiết mùa đông cực lạnh.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-16_xl78upcvzg.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Has-Already-Drained-10-of-Its-Summer-Gas-Injections.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-16 23:30"
     },
     {
       "id": "1j74bpr",
@@ -354,6 +354,17 @@
       "published": "2026-11-16 06:30"
     },
     {
+      "id": "1wul1gd",
+      "title": "How High Are Gas Prices Where You Live?",
+      "title_vi": "Giá xăng ở nơi bạn sống cao đến mức nào?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/interactive/2026/business/energy-environment/gas-prices-map-iran-war-oil.html",
+      "source": "The New York Times",
+      "category": "energy",
+      "published": "2026-11-15 18:20"
+    },
+    {
       "id": "1xkfy1h",
       "title": "Fair Trade Coffee Beans Market Outlook to 2035",
       "title_vi": "Triển vọng thị trường hạt cà phê Fair Trade đến năm 2035",
@@ -539,17 +550,6 @@
       "source": "AgroLatam",
       "category": "agri",
       "published": "2026-11-14 06:55"
-    },
-    {
-      "id": "13zkh31",
-      "title": "US Natural Gas Falls on Warmer Outlook, Growing Storage Surplus",
-      "title_vi": "Khí đốt tự nhiên của Hoa Kỳ giảm do triển vọng ấm hơn, dư thừa kho dự trữ ngày càng tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/03/us-natural-gas-falls-on-warmer-outlook-growing-storage-surplus/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-14 05:27"
     }
   ]
 }

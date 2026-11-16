@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-16 23:01",
+  "updated_at": "2026-11-17 00:01",
   "items": [
+    {
+      "id": "1p2hnkd",
+      "title": "Venezuela’s Oil Comeback Faces a New Threat From Washington",
+      "title_vi": "Sự trở lại dầu mỏ của Venezuela đối mặt với mối đe dọa mới từ Washington",
+      "summary_vi": "Chiến thắng của Đảng Dân chủ trong cuộc bầu cử giữa nhiệm kỳ Hoa Kỳ năm 2026 đã trao cho đảng quyền kiểm soát cả hai viện Quốc hội, hạn chế chương trình nghị sự trong nước của Tổng thống Trump kể từ tháng 1 năm 2027. Tuy nhiên, chính sách đối ngoại phần lớn vẫn nằm trong quyền hạn của tổng thống, thể hiện qua sự can thiệp của ông.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-16_noi1nce7z4.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Comeback-Faces-a-New-Threat-From-Washington.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-17 00:00"
+    },
+    {
+      "id": "1ynlfhr",
+      "title": "Platinum Demand Soars with AI Data Center Expansion",
+      "title_vi": "Nhu cầu bạch kim tăng vọt nhờ việc mở rộng trung tâm dữ liệu AI",
+      "summary_vi": "Khi các trung tâm dữ liệu và công nghệ AI mở rộng, nhu cầu về bạch kim cũng tăng theo. Metals Focus lưu ý đây là một đối trọng ngày càng tăng trước nhu cầu ô tô đang suy giảm. Liệu AI có thực sự định nghĩa lại việc sử dụng bạch kim? Đi sâu vào bối cảnh phát triển của bạch kim trong các ứng dụng công nghiệp để tìm hiểu thêm.",
+      "image": "https://investingnews.com/media-library/rows-of-reflective-platinum-bars-stacked-closely.jpg?id=66805445&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
+      "link": "https://investingnews.com/ai-infrastructure-boosts-platinum-demand/",
+      "source": "Investing News Network",
+      "category": "metal",
+      "published": "2026-11-16 23:55"
+    },
+    {
+      "id": "fsdp1k",
+      "title": "Europe Has Already Drained 10% of Its Summer Gas Injections",
+      "title_vi": "Châu Âu đã cạn kiệt 10% lượng khí bơm vào mùa hè",
+      "summary_vi": "Châu Âu không chỉ bước vào mùa sưởi ấm với mức khí đốt tại các điểm lưu trữ thấp nhất trong nhiều thập kỷ, mà trong những tuần gần đây, nước này cũng đã rút 10% lượng khí đốt tự nhiên được bơm vào trong mùa lấp đầy mùa hè, khiến nguồn cung dễ bị ảnh hưởng bởi thời tiết mùa đông cực lạnh.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-16_xl78upcvzg.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Has-Already-Drained-10-of-Its-Summer-Gas-Injections.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-16 23:30"
+    },
     {
       "id": "oa19fr",
       "title": "Houthi Advance Puts Saudi Crude Exports at Risk",
@@ -44,6 +77,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-16 22:00"
+    },
+    {
+      "id": "1rnxvxi",
+      "title": "‘Scorching-hot’ construction input prices are more difficult to pass along",
+      "title_vi": "Giá đầu vào xây dựng ‘nóng’ khó vượt qua hơn",
+      "summary_vi": "Theo phân tích của Hiệp hội Xây dựng và Nhà thầu, các vật liệu bị ảnh hưởng bởi thuế quan bao gồm sắt, thép và đồng có thể sẽ tiếp tục đẩy giá leo thang trong những tháng tới.",
+      "image": "https://imgproxy.divecdn.com/93ruEJtwZYND-XAXoLmDOW7sBGF5rVgPurBfe2mXFxk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2NDU1NDEzLmpwZw==.webp",
+      "link": "https://www.constructiondive.com/news/scorching-hot-construction-input-prices-october/874729/",
+      "source": "Construction Dive",
+      "category": "macro",
+      "published": "2026-11-16 21:39"
     },
     {
       "id": "1e6e6c6",
@@ -134,17 +178,6 @@
       "published": "2026-11-16 18:33"
     },
     {
-      "id": "ki292s",
-      "title": "New North Sea Gas Supply Comes Online Amid Growing Political Backlash",
-      "title_vi": "Nguồn cung cấp khí đốt mới ở Biển Bắc xuất hiện trong bối cảnh phản ứng chính trị ngày càng gia tăng",
-      "summary_vi": "Khí tự nhiên bắt đầu chảy từ giàn sản xuất Jackdaw ở Biển Bắc của Anh chưa đầy một tháng sau khi Anh phê duyệt dự án, nhưng tương lai của một dự án dầu khí lớn hơn được đề xuất, Rosebank, đang bị treo trong thế cân bằng trong bối cảnh phản ứng chính trị dữ dội. Khí Jackdaw sẽ đi theo phễu",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-16_gld6sn7jre.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/New-North-Sea-Gas-Supply-Comes-Online-Amid-Growing-Political-Backlash.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-16 18:15"
-    },
-    {
       "id": "1v57r47",
       "title": "Gold Prices Retreat Below $3,900 as Inflation Concerns Fuel Expectations of Further Fed Tightening",
       "title_vi": "Giá vàng giảm xuống dưới 3.900 USD do lo ngại lạm phát thúc đẩy kỳ vọng về việc thắt chặt hơn nữa của Fed",
@@ -165,17 +198,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-11-16 17:02"
-    },
-    {
-      "id": "s6o4fc",
-      "title": "Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz",
-      "title_vi": "Iran tuyên bố thêm hai tàu chở dầu trúng mìn ở eo biển Hormuz",
-      "summary_vi": "Hai tàu chở dầu đã phát nổ và bốc cháy ở eo biển Hormuz sau khi va phải mìn hải quân khi cố gắng đi qua điểm nghẽn qua tuyến đường phía nam không được Iran ủy quyền, Lực lượng Vệ binh Cách mạng Hồi giáo (IRGC) cho biết hôm thứ Hai, khi Iran báo cáo về những sự cố như vậy.",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Claims-Two-More-Oil-Tankers-Hit-Mines-in-Strait-of-Hormuz.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-16 17:00"
     },
     {
       "id": "6n9kr3",
@@ -409,12 +431,12 @@
       "published": "2026-11-14 08:32"
     },
     {
-      "id": "1cxo9ev",
-      "title": "Palladium Price November 16 2026",
-      "title_vi": "Giá Palladium ngày 16 tháng 11 năm 2026",
-      "summary_vi": "Hợp đồng tương lai palladium ngày 26 tháng 12 sẽ kết thúc vào ngày 16 tháng 11 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
-      "image": "https://robinhood.com/api/public/og/event?id=2b6cc731-5765-48ad-bb28-8c0d10affc18",
-      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/palladium-price-november-16-2026-nov-16-2026/",
+      "id": "1twiuqh",
+      "title": "Copper Price November 16 2026",
+      "title_vi": "Giá đồng ngày 16 tháng 11 năm 2026",
+      "summary_vi": "Hợp đồng tương lai đồng ngày 26 tháng 12 sẽ kết thúc vào ngày 16 tháng 11 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
+      "image": "https://robinhood.com/api/public/og/event?id=6aadae17-81c4-4fc7-9268-599436cf6888",
+      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/copper-price-november-16-2026-nov-16-2026/",
       "source": "Robinhood",
       "category": "metal",
       "published": "2026-11-14 07:16"
@@ -528,28 +550,6 @@
       "source": "Traders Union",
       "category": "agri",
       "published": "2026-11-13 22:33"
-    },
-    {
-      "id": "1hgrsf4",
-      "title": "Goldman Sachs recommends commodities as portfolio hedge amid geopolitical and supply risks",
-      "title_vi": "Goldman Sachs khuyến nghị hàng hóa là hàng rào phòng ngừa danh mục đầu tư trong bối cảnh rủi ro địa chính trị và nguồn cung",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://uk.finance.yahoo.com/news/goldman-sachs-recommends-commodities-portfolio-153000784.html",
-      "source": "Yahoo Finance UK",
-      "category": "macro",
-      "published": "2026-11-13 22:30"
-    },
-    {
-      "id": "1ngozp8",
-      "title": "Ukraine Hits Ninth Russian Oil Refinery Since Start of November",
-      "title_vi": "Ukraine tấn công nhà máy lọc dầu thứ 9 của Nga kể từ đầu tháng 11",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-13/ukraine-hits-ninth-russian-oil-refinery-since-start-of-november",
-      "source": "Bloomberg.com",
-      "category": "energy",
-      "published": "2026-11-13 22:04"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 10:14",
+  "updated_at": "2026-11-16 11:01",
   "items": [
     {
       "id": "182mst3",
@@ -143,6 +143,17 @@
       "source": "The Kyiv Independent",
       "category": "energy",
       "published": "2026-11-14 20:29"
+    },
+    {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-14 20:13"
     },
     {
       "id": "xpwnqe",
@@ -420,6 +431,17 @@
       "published": "2026-11-13 20:41"
     },
     {
+      "id": "10d6mr2",
+      "title": "This Utah coffee company is extending tariff credits to customers, but a cup of joe won’t get cheaper in the long run",
+      "title_vi": "Công ty cà phê ở Utah này đang mở rộng tín dụng thuế quan cho khách hàng, nhưng về lâu dài một tách cà phê sẽ không rẻ hơn",
+      "summary_vi": "Doanh nghiệp cho biết mặc dù họ không có nghĩa vụ phải tín dụng chi phí thuế quan cho khách hàng trước đây nhưng đó là “điều đúng đắn nên làm”.",
+      "image": "https://www.sltrib.com/resizer/v2/ANGEB7KJNBAENCDNKNTDXGLNNA.jpg?auth=4c71221de5243c151bda47a96ce923ec96c8e0dc2a221f22370daaff5783e103&width=1200&height=630&quality=88&smart=true",
+      "link": "https://www.sltrib.com/news/2026/11/13/logan-coffee-shop-caffe-ibis/",
+      "source": "The Salt Lake Tribune",
+      "category": "soft",
+      "published": "2026-11-13 20:01"
+    },
+    {
       "id": "1c605at",
       "title": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus",
       "title_vi": "IEA cho biết sản lượng dầu thô của Nga phục hồi sau thỏa thuận diesel của Trump khi thị trường dầu trở lại dư thừa",
@@ -528,28 +550,6 @@
       "source": "Baking Business",
       "category": "soft",
       "published": "2026-11-13 12:00"
-    },
-    {
-      "id": "4g96yd",
-      "title": "Can a cup of coffee predict the weather?",
-      "title_vi": "Một tách cà phê có thể dự đoán được thời tiết?",
-      "summary_vi": "Một tách cà phê có thể dự đoán được thời tiết? Hãy cùng tìm hiểu!",
-      "image": "https://gray-wsmv-prod.gtv-cdn.com/resizer/v2/MROYDSHPMVH6DHLKMFAXBRXOTU.png?auth=6cf99eafeb52172fba1cb3e67af85ab3866d40fa3630f24d7b674da836e555f7&width=1200&height=600&smart=true",
-      "link": "https://www.wsmv.com/2026/11/13/can-cup-coffee-predict-weather/",
-      "source": "WSMV",
-      "category": "soft",
-      "published": "2026-11-13 10:26"
-    },
-    {
-      "id": "15tlq5a",
-      "title": "The Split Personality of 2026 US Corn Yield Estimates",
-      "title_vi": "Tính cách chia rẽ trong ước tính năng suất ngô năm 2026 của Hoa Kỳ",
-      "summary_vi": "Joe Janzen -",
-      "image": "https://farmdocdaily.illinois.edu/wp-content/uploads/2026/11/11122026_fig1.png",
-      "link": "https://farmdocdaily.illinois.edu/2026/11/the-split-personality-of-2026-us-corn-yield-estimates.html",
-      "source": "farmdoc daily",
-      "category": "agri",
-      "published": "2026-11-13 07:13"
     }
   ]
 }

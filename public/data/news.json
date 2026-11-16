@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 10:00",
+  "updated_at": "2026-11-16 10:14",
   "items": [
     {
       "id": "182mst3",
@@ -288,6 +288,17 @@
       "published": "2026-11-14 03:08"
     },
     {
+      "id": "mvkdb9",
+      "title": "Cocoa Prices Climb as Heavy Rains Disrupt Cocoa Transport in Ivory Coast",
+      "title_vi": "Giá ca cao tăng do mưa lớn làm gián đoạn việc vận chuyển ca cao ở Bờ Biển Ngà",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barchart.com/story/news/8827373/cocoa-prices-climb-as-heavy-rains-disrupt-cocoa-transport-in-ivory-coast",
+      "source": "Barchart.com",
+      "category": "soft",
+      "published": "2026-11-14 02:19"
+    },
+    {
       "id": "dy86uz",
       "title": "Gold Makes Worst Losing Run in 4 Decades, Silver Plunge Tests $50 Again",
       "title_vi": "Vàng tạo ra chuỗi thua lỗ tồi tệ nhất trong 4 thập kỷ, Bạc thử nghiệm mức giảm 50 USD một lần nữa",
@@ -539,17 +550,6 @@
       "source": "farmdoc daily",
       "category": "agri",
       "published": "2026-11-13 07:13"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-13 06:09"
     }
   ]
 }

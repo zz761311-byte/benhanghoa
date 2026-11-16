@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 13:01",
+  "updated_at": "2026-11-16 14:01",
   "items": [
     {
       "id": "1bex3yc",
@@ -264,6 +264,17 @@
       "source": "Robinhood",
       "category": "metal",
       "published": "2026-11-14 07:16"
+    },
+    {
+      "id": "17790ni",
+      "title": "Corn and Soybean Prices Rally as USDA Export Sales Surge",
+      "title_vi": "Giá ngô và đậu nành tăng do doanh số xuất khẩu của USDA tăng",
+      "summary_vi": "Giá ngô, đậu tương và lúa mì kỳ hạn tại Mỹ tăng vào thứ Sáu do doanh số xuất khẩu mạnh mẽ của USDA thúc đẩy thị trường ngũ cốc và khôi phục lại sự lạc quan về cung và cầu toàn cầu.",
+      "image": "https://www.agrolatam.com/files/image/84/84186/6af7a1f2dff3a_600_315!.jpg?s=72f7660b50dd4bef67ef965fc45cfb04&d=1794613891",
+      "link": "https://www.agrolatam.com/usa/news/corn-soybean-prices-rally-usda-export-sales-november-2026/",
+      "source": "AgroLatam",
+      "category": "agri",
+      "published": "2026-11-14 06:55"
     },
     {
       "id": "13zkh31",
@@ -539,17 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-11-13 15:00"
-    },
-    {
-      "id": "dx3qrw",
-      "title": "Oil Prices Rise as Middle East Supply Risks Persist",
-      "title_vi": "Giá dầu tăng khi rủi ro nguồn cung ở Trung Đông vẫn tồn tại",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-middle-east-supply-risks-persist-2066e758",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-11-13 14:37"
     }
   ]
 }

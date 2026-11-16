@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 07:01",
+  "updated_at": "2026-11-16 08:00",
   "items": [
     {
       "id": "1bfqx9g",
@@ -264,6 +264,17 @@
       "source": "Silver Bulletin",
       "category": "metal",
       "published": "2026-11-14 03:08"
+    },
+    {
+      "id": "dy86uz",
+      "title": "Gold Makes Worst Losing Run in 4 Decades, Silver Plunge Tests $50 Again",
+      "title_vi": "Vàng tạo ra chuỗi thua lỗ tồi tệ nhất trong 4 thập kỷ, Bạc thử nghiệm mức giảm 50 USD một lần nữa",
+      "summary_vi": "Vàng giảm lần thứ 10 trong 12 tuần vào thứ Sáu, phù hợp với đợt giảm giá tồi tệ nhất kể từ năm 1989 khi bạc vật lộn ở mức 50 USD trong bối cảnh lạm phát, quan điểm diều hâu của Fed và lãi suất trái phiếu tăng cao >>",
+      "image": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/2026-11-13-gold-3-months_0.png",
+      "link": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-price-week-111320261",
+      "source": "BullionVault",
+      "category": "metal",
+      "published": "2026-11-14 00:02"
     },
     {
       "id": "f5v4ex",
@@ -539,17 +550,6 @@
       "source": "Yahoo Finance",
       "category": "soft",
       "published": "2026-11-13 02:25"
-    },
-    {
-      "id": "18o167q",
-      "title": "Copper hits four-month lows; focus on demand, AI and US rates",
-      "title_vi": "Đồng chạm mức thấp nhất trong 4 tháng; tập trung vào nhu cầu, AI và tỷ giá của Hoa Kỳ",
-      "summary_vi": "Giá đồng giảm xuống mức thấp nhất trong 4 tháng vào thứ Năm do thị trường lo ngại về nhu cầu yếu, một phần do rắc rối trong ngành AI và kỳ vọng về việc Mỹ tăng lãi suất có thể đồng nghĩa với...",
-      "image": "https://images.kitco.com/img/extract_0_0_1000_562,width_1200,enlarge,format_jpeg/icms/546c003c-e081-433e-82fd-c3e13e5afb06.jpeg",
-      "link": "https://www.kitco.com/news/off-the-wire/2026-11-12/copper-hits-four-month-lows-focus-demand-ai-and-us-rates",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-11-13 02:16"
     }
   ]
 }

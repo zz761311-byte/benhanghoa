@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-17 17:01",
+  "updated_at": "2026-11-17 18:01",
   "items": [
+    {
+      "id": "1kth4if",
+      "title": "US Dollar, Gold, Silver Outlook: 2026 Extremes and Key Levels to Watch",
+      "title_vi": "Triển vọng về Đô la Mỹ, Vàng, Bạc: Các mức cực đoan và mức quan trọng cần theo dõi vào năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forex.com/en-us/news-and-analysis/us-dollar-gold-silver-outlook-2026-extremes-and-key-levels-to-watch/",
+      "source": "FOREX.com",
+      "category": "metal",
+      "published": "2026-11-17 17:33"
+    },
     {
       "id": "fddylb",
       "title": "Iran and Oman Hold Talks on Strait of Hormuz Security as Tanker Attacks Surge",
@@ -33,6 +44,17 @@
       "source": "Czapp",
       "category": "soft",
       "published": "2026-11-17 15:40"
+    },
+    {
+      "id": "1nknbnq",
+      "title": "Coffee & Football: Texas Football Analysis & Viewer Questions Answered",
+      "title_vi": "Cà phê & Bóng đá: Câu hỏi của người xem và phân tích bóng đá Texas đã được trả lời",
+      "summary_vi": "Chào buổi sáng mọi người! Đã đến lúc dành cho Coffee & Football của OTF, nơi chúng ta đi sâu vào những tin tức bóng đá hot nhất Texas Longhorns, cập nhật tuyển dụng",
+      "image": "https://i3.ytimg.com/vi/ZCcWKwT4sLM/hqdefault.jpg",
+      "link": "https://bvmsports.com/2026/11/17/coffee-football-texas-football-analysis-viewer-questions-answered/",
+      "source": "BVM Sports",
+      "category": "soft",
+      "published": "2026-11-17 15:36"
     },
     {
       "id": "1tvayu4",
@@ -376,17 +398,6 @@
       "published": "2026-11-16 18:33"
     },
     {
-      "id": "1v57r47",
-      "title": "Gold Prices Retreat Below $3,900 as Inflation Concerns Fuel Expectations of Further Fed Tightening",
-      "title_vi": "Giá vàng giảm xuống dưới 3.900 USD do lo ngại lạm phát thúc đẩy kỳ vọng về việc thắt chặt hơn nữa của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://uk.finance.yahoo.com/news/gold-prices-retreat-below-3-100408801.html",
-      "source": "Yahoo Finance UK",
-      "category": "macro",
-      "published": "2026-11-16 17:04"
-    },
-    {
       "id": "xc8len",
       "title": "Copper Sinks to Four-Month Low on Tech Rout, China Growth Woes",
       "title_vi": "Đồng giảm xuống mức thấp nhất trong 4 tháng do sự thay đổi công nghệ, khủng hoảng tăng trưởng của Trung Quốc",
@@ -539,17 +550,6 @@
       "source": "The Kyiv Independent",
       "category": "energy",
       "published": "2026-11-14 20:29"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-14 20:13"
     }
   ]
 }

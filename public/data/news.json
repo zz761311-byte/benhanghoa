@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 10:01",
+  "updated_at": "2026-11-17 10:59",
   "items": [
     {
       "id": "h8l3mq",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-17 07:00"
+    },
+    {
+      "id": "h1z5yv",
+      "title": "US Pain at the Pump Worsens After More US-Iran Fighting Lifts Oil Prices",
+      "title_vi": "Nỗi đau của Mỹ tại máy bơm trở nên tồi tệ hơn sau khi nhiều cuộc chiến giữa Mỹ và Iran nâng giá dầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY0lMbnZ0dUdpSkN1VTNPZm5TMlNLVVBsTkVrRUE3TUhPdE9McXlEWGp0Tkpsc3d2S1I3dF95QkFhTHFKMldlRXNSWmJqR2hpYjNOOXlGcHBZS09qdy0zSHg3bGM2bWpXSXNGdUNOWnpLT0hpRVRCajRBR0NQRlhDTU53MzlYZk5hcS14QnM3YzJXazhTLVlTQkc4eTBKcVhFSUZzUy1n?oc=5",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-17 06:14"
     },
     {
       "id": "1hzyyp9",
@@ -220,6 +231,17 @@
       "source": "Construction Dive",
       "category": "macro",
       "published": "2026-11-16 21:39"
+    },
+    {
+      "id": "1e6e6c6",
+      "title": "European Gas Slumps on Milder Weather and Record U.S. LNG Flows",
+      "title_vi": "Khí đốt châu Âu sụt giảm do thời tiết ôn hòa hơn và lưu lượng LNG kỷ lục của Mỹ",
+      "summary_vi": "Giá khí đốt ở châu Âu giảm 3,3% do thời tiết ôn hòa hơn và lưu lượng LNG kỷ lục của Mỹ làm giảm bớt lo ngại về nguồn cung, nhưng kho dự trữ của EU chỉ đầy 70% vào mùa đông.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-16_qdrztmx9i2.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Slumps-on-Milder-Weather-and-Record-US-LNG-Flows.html",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "energy",
+      "published": "2026-11-16 21:30"
     },
     {
       "id": "1aol504",
@@ -528,28 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-11-14 11:59"
-    },
-    {
-      "id": "zeskd3",
-      "title": "Platinum slips to $1,490 as palladium's 33% discount tempts carmakers",
-      "title_vi": "Bạch kim trượt xuống còn 1.490 USD khi mức giảm giá 33% của palladium cám dỗ các nhà sản xuất ô tô",
-      "summary_vi": "Bạch kim giảm khoảng 2% xuống còn 1.490 USD/ounce vào ngày 13 tháng 11 trong khi palladium giao dịch gần 1.000 USD, mức giảm 33% khiến các nhà sản xuất ô tô phải chú ý đến những thay đổi mang tính chất xúc tác.",
-      "image": "https://startupfortune.com/wp-content/uploads/2026/11/crux-investor-trading-economics-catalytic-converters.jpg",
-      "link": "https://startupfortune.com/platinum-slips-to-1490-as-palladiums-33-discount-tempts-carmakers/",
-      "source": "Startup Fortune",
-      "category": "metal",
-      "published": "2026-11-14 11:05"
-    },
-    {
-      "id": "1kxgjxb",
-      "title": "STAR DIAMOND CORPORATION ANNOUNCES THIRD QUARTER 2026 RESULTS",
-      "title_vi": "CÔNG TY CỔ PHẦN STAR DIAMOND CÔNG BỐ KẾT QUẢ QUÝ III NĂM 2026",
-      "summary_vi": "TSX: DIAM,OTC:SHGDF Star Diamond Corporation (\"Star Diamond\" hoặc \"Công ty\") công bố kết quả hoạt động và tài chính trong ba và chín tháng kết thúc vào ngày 30 tháng 9 năm 2026. Tất cả số tiền đều tính bằng hàng nghìn đô la Canada, ngoại trừ số lượng cổ phiếu phổ thông hoặc trên mỗi cổ phiếu hoặc được ghi chú khác. ...",
-      "image": "https://investingnews.com/media-library/image.gif?id=30568147&width=1200&height=600&coordinates=31%2C0%2C31%2C0",
-      "link": "https://investingnews.com/star-diamond-corporation-announces-third-quarter-2026-results/",
-      "source": "Investing News Network",
-      "category": "macro",
-      "published": "2026-11-14 10:13"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 12:01",
+  "updated_at": "2026-11-17 13:01",
   "items": [
     {
       "id": "12oi4nj",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-17 07:00"
+    },
+    {
+      "id": "f5h4sq",
+      "title": "This Utah coffee company is extending tariff credits to customers, but prices won't fall",
+      "title_vi": "Công ty cà phê Utah này đang gia hạn tín dụng thuế quan cho khách hàng nhưng giá sẽ không giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQazJXM1JnVU1yNnRTeS1odXBfYURvbDdXbTRTN2QzbGs3dzI5QXV2SHdZRVg2RGpKd0lpTUVGV3BpUHQ2TFBTb3paQlFxaW5DVFdMNkxwbTN2QnZJTkJ2blNfX1gzTE12Um1CaldXenJZMWVpTlpkVlk1elFFLXZXaVJlU2VEU3ZhaVFtS3k3dUI2eExnVkcwYUxQc3RFTUpRTlp4S3FtX2N2Y3d5cmgtUFh5ODE0T0oxN1RQbXZ5dTRSbnlaZlE?oc=5",
+      "source": "Utah Public Radio",
+      "category": "soft",
+      "published": "2026-11-17 06:48"
     },
     {
       "id": "h1z5yv",
@@ -539,17 +550,6 @@
       "source": "ChiniMandi",
       "category": "soft",
       "published": "2026-11-14 19:11"
-    },
-    {
-      "id": "1twowxp",
-      "title": "Silver Price Forecast: Supply Deficit vs Fed Pressure",
-      "title_vi": "Dự báo giá bạc: Thâm hụt nguồn cung và áp lực của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.equiti.com/sc-en/news/market-insights/silver-price-forecast-supply-deficit-fed-pressure/",
-      "source": "Equiti Global",
-      "category": "metal",
-      "published": "2026-11-14 16:24"
     }
   ]
 }

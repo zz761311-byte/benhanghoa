@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-19 03:01",
+  "updated_at": "2026-11-19 03:41",
   "items": [
+    {
+      "id": "10mtd4o",
+      "title": "El Nino improving U.S. winter wheat outlook",
+      "title_vi": "El Nino cải thiện triển vọng lúa mì mùa đông của Mỹ",
+      "summary_vi": "Vụ lúa mì mùa đông của Mỹ đang được hưởng lợi từ El Nino. Nhà khí tượng học trưởng của USDA Brad Rippey cho biết kiểu thời tiết này đã mang lại lượng hơi ẩm cần thiết cho các khu vực trồng lúa mì mùa đông quan trọng. “Vì vậy, hạn hán bao trùm vùng Đồng bằng khi bắt đầu trồng lúa mì mùa đông hầu như đã giảm bớt.” Ông nói: “Mặc dù",
+      "image": "https://brownfieldagnews.com/wp-content/uploads/2026/11/11-18-26-Brad-Rippey-USDA-Meteorologist-1024x710.jpg",
+      "link": "https://brownfieldagnews.com/news/el-nino-improving-u-s-winter-wheat-outlook/",
+      "source": "Brownfield Ag News",
+      "category": "agri",
+      "published": "2026-11-19 03:15"
+    },
     {
       "id": "1l31zxh",
       "title": "Iraq&#039;s Border Shutdown With Iran Threatens a Much Bigger Economic Crisis",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-11-19 03:00"
+    },
+    {
+      "id": "1pe9dba",
+      "title": "Gold Price Slumps 3% As Silver Also Tumbles: Metals Hit 14-Month Low",
+      "title_vi": "Giá vàng giảm 3% khi bạc cũng giảm: Kim loại chạm mức thấp nhất trong 14 tháng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forbes.com/sites/conormurray/2026/11/18/gold-price-slumps-3-as-silver-also-tumbles-metals-hit-14-month-low/",
+      "source": "Forbes",
+      "category": "metal",
+      "published": "2026-11-19 02:15"
     },
     {
       "id": "1mcqrcc",
@@ -244,6 +266,17 @@
       "published": "2026-11-18 21:08"
     },
     {
+      "id": "1g3ankh",
+      "title": "Extreme weather poses growing risks to global oil and natural gas shipping, new IEA report finds - IEA",
+      "title_vi": "Báo cáo mới của IEA cho thấy thời tiết cực đoan gây ra rủi ro ngày càng tăng đối với vận chuyển dầu và khí tự nhiên toàn cầu - IEA",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.iea.org/news/extreme-weather-poses-growing-risks-to-global-oil-and-natural-gas-shipping-new-iea-report-finds",
+      "source": "IEA - International Energy Agency",
+      "category": "energy",
+      "published": "2026-11-18 20:35"
+    },
+    {
       "id": "ikqjth",
       "title": "Canada and China ease tariffs on pork, seafood, steel and aluminium",
       "title_vi": "Canada và Trung Quốc giảm thuế đối với thịt lợn, hải sản, thép và nhôm",
@@ -308,17 +341,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-11-18 17:26"
-    },
-    {
-      "id": "6sodyn",
-      "title": "Why gold and silver prices have fallen to their lowest in over a year",
-      "title_vi": "Tại sao giá vàng và bạc giảm xuống mức thấp nhất trong hơn một năm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/why-gold-silver-prices-fallen-152155296.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-11-18 16:54"
     },
     {
       "id": "1rf1anu",
@@ -528,28 +550,6 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-11-18 04:34"
-    },
-    {
-      "id": "17q29nq",
-      "title": "Oil Futures Rise as Middle East Shipping Risks Persist",
-      "title_vi": "Giá dầu kỳ hạn tăng khi rủi ro vận chuyển ở Trung Đông vẫn tồn tại",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-continue-to-fall-as-global-supply-surplus-weighs-7b54e93b",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-11-18 03:44"
-    },
-    {
-      "id": "1qisgpl",
-      "title": "Copper Price November 18 2026",
-      "title_vi": "Giá Đồng Ngày 18 tháng 11 năm 2026",
-      "summary_vi": "Hợp đồng tương lai đồng ngày 26 tháng 12 sẽ kết thúc vào ngày 18 tháng 11 năm 2026 như thế nào? Được trả 1 USD cho mỗi hợp đồng khi dự đoán của bạn đúng hoặc 0 USD nếu dự đoán sai.",
-      "image": "https://robinhood.com/api/public/og/event?id=8160cf34-cf83-4ba5-bc73-fa033e9fb656",
-      "link": "https://robinhood.com/us/en/prediction-markets/metals/events/copper-price-november-18-2026-nov-18-2026/",
-      "source": "Robinhood",
-      "category": "metal",
-      "published": "2026-11-18 01:55"
     }
   ]
 }

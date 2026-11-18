@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-18 19:01",
+  "updated_at": "2026-11-18 19:19",
   "items": [
+    {
+      "id": "13lg7z5",
+      "title": "Roasting Partner Launches an Operating System for Roasters",
+      "title_vi": "Đối tác rang ra mắt hệ điều hành dành cho nhà rang xay",
+      "summary_vi": "Một nền tảng phần mềm mới có tên Roasting Partner đã mở cửa cho các doanh nghiệp rang cà phê bên ngoài vào tháng 10, cung cấp các công cụ được thiết kế để tổ chức sản xuất, kiểm kê, bán hàng, vận hành quán cà phê và các dữ liệu rang xay hàng ngày khác...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/11/18/roasting-partner-launches-an-operating-system-for-roasters/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-11-18 19:08"
+    },
     {
       "id": "m3opfi",
       "title": "Small Vessel Trade Thrives in Hormuz as Iran Targets Supertankers",
@@ -539,17 +550,6 @@
       "source": "IndexBox",
       "category": "soft",
       "published": "2026-11-17 07:31"
-    },
-    {
-      "id": "e3no1e",
-      "title": "Weekly market commentary",
-      "title_vi": "Bình luận thị trường hàng tuần",
-      "summary_vi": "Hãy theo dõi để biết thông tin chi tiết về các chủ đề nóng và xu hướng mới nhất trên thị trường tài chính thông qua bài bình luận hàng tuần của Viện đầu tư BlackRock.",
-      "image": "/blk-one01-c-assets/include/common/images/blackrock_logo.png",
-      "link": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
-      "source": "BlackRock",
-      "category": "metal",
-      "published": "2026-11-17 07:02"
     }
   ]
 }

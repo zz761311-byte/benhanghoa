@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-11-18 21:01",
+  "updated_at": "2026-11-18 22:01",
   "items": [
+    {
+      "id": "1iiy7ss",
+      "title": "FDA Revokes Some Methylene Chloride Use, But Decaf Decision Still Pending",
+      "title_vi": "FDA thu hồi một số việc sử dụng Methylene Chloride, nhưng quyết định về Decaf vẫn đang chờ xử lý",
+      "summary_vi": "Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) đang thu hồi một số giấy phép sử dụng methylene chloride trong các ứng dụng liên quan đến thực phẩm, với lý do bằng chứng cho thấy hóa chất này gây ung thư ở động vật thí nghiệm. Được công bố vào ngày 9 tháng 11...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/11/18/fda-revokes-some-methylene-chloride-use-but-decaf-decision-still-pending/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-11-18 21:45"
+    },
+    {
+      "id": "e8zv7t",
+      "title": "Fair Trade USA Raising Minimum Coffee Prices to New Fairtrade Levels",
+      "title_vi": "Fair Trade USA Tăng giá cà phê tối thiểu lên mức Fairtrade mới",
+      "summary_vi": "Fair Trade USA đang tăng giá tối thiểu cho cà phê Arabica đã qua chế biến từ 1,40 USD lên 2 USD/ pound, đánh dấu một sự thay đổi đáng kể ba năm sau khi tổ chức chứng nhận từ chối...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/11/18/fair-trade-usa-raising-minimum-coffee-prices-to-new-fairtrade-levels/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-11-18 21:41"
+    },
+    {
+      "id": "23pm7",
+      "title": "U.S.-Iran Conflict Flares Again as Gulf Nations Brace for Attacks",
+      "title_vi": "Xung đột Mỹ-Iran bùng phát trở lại khi các quốc gia vùng Vịnh chuẩn bị tấn công",
+      "summary_vi": "Các lực lượng Mỹ và Iran đã trao đổi các cuộc không kích ăn miếng trả miếng ở Trung Đông, trong khi các quốc gia vùng Vịnh đưa ra những cảnh báo mới cho người dân trong bối cảnh có mối đe dọa từ các quả đạn bay tới khi cuộc xung đột ở mức độ thấp hiện nay vẫn tiếp tục gia tăng bất chấp nỗ lực của các nhà hòa giải khu vực. quan chức Mỹ nói",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-17_x7rxogokvv.jpg",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/US-Iran-Conflict-Flares-Again-as-Gulf-Nations-Brace-for-Attacks.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-18 21:30"
+    },
+    {
+      "id": "taqrtb",
+      "title": "Flood warning issued for Brevard area",
+      "title_vi": "Cảnh báo lũ lụt được ban hành cho khu vực Brevard",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.floridatoday.com/story/weather/2026/11/18/weather-alert-melbourne-florida-brevard/92841800007/",
+      "source": "Florida Today",
+      "category": "soft",
+      "published": "2026-11-18 21:22"
+    },
     {
       "id": "1id75zz",
       "title": "Fracking Giants Tapped to Drill Gas Project in Western Australia",
@@ -200,17 +244,6 @@
       "published": "2026-11-18 13:00"
     },
     {
-      "id": "tp7cr9",
-      "title": "Oil Prices Drop Despite Escalating U.S.-Iran Conflict",
-      "title_vi": "Giá dầu giảm mặc dù xung đột Mỹ-Iran leo thang",
-      "summary_vi": "Giá dầu thô tiếp tục giảm trong ngày hôm nay, sau khi báo cáo dự trữ dầu của Viện Dầu khí Hoa Kỳ công bố hôm thứ Ba, cho thấy giá dầu thô và nhiên liệu đều tăng. Tại thời điểm viết bài, dầu thô Brent đang giao dịch ở mức 92,49 USD/thùng, với giá dầu thô West Texas Middle ở mức 8 USD.",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Drop-Despite-Escalating-US-Iran-Conflict.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-18 12:55"
-    },
-    {
       "id": "1e2dx64",
       "title": "Build resilience through gold and commodities",
       "title_vi": "Xây dựng khả năng phục hồi thông qua vàng và hàng hóa",
@@ -275,6 +308,17 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-11-18 09:00"
+    },
+    {
+      "id": "1hcsn9",
+      "title": "Wheat Adds War Premium as Corn, Soybeans Fail Pre-APEC: Livestock Plunge",
+      "title_vi": "Lúa mì bổ sung chất lượng chiến tranh như ngô, đậu nành thất bại trước APEC: Chăn nuôi sụt giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agweb.com/markets/wheat-adds-war-premium-corn-soybeans-and-livestock-slide",
+      "source": "AgWeb",
+      "category": "agri",
+      "published": "2026-11-18 05:55"
     },
     {
       "id": "5s9jwh",
@@ -387,6 +431,17 @@
       "published": "2026-11-17 23:53"
     },
     {
+      "id": "p7x58d",
+      "title": "Klein departing Washington Grain Commission after nine years",
+      "title_vi": "Klein rời Ủy ban Ngũ cốc Washington sau chín năm",
+      "summary_vi": "Kevin Klein, người đã đại diện cho nông dân trồng lúa mạch trong Ủy ban Ngũ cốc Washington trong 9 năm, sẽ rời khỏi hội đồng quản trị khi hết nhiệm kỳ vào ngày 31 tháng 12. Các trang trại của Klein ở Edwall, Wash. […]",
+      "image": "https://capitalpress.com/wp-content/uploads/sites/11/2026/11/news_kevinklein_112026_cap_01.jpeg",
+      "link": "https://capitalpress.com/2026/11/17/klein-departing-washington-grain-commission-after-nine-years/",
+      "source": "Capital Press",
+      "category": "agri",
+      "published": "2026-11-17 22:32"
+    },
+    {
       "id": "z97e4u",
       "title": "Gold and Silver Rally as Nvidia, Deutsche Bank Scandals Hit Equities",
       "title_vi": "đợt tăng giá vàng và bạc khi vụ bê bối của Nvidia, Deutsche Bank ảnh hưởng đến cổ phiếu",
@@ -495,61 +550,6 @@
       "source": "ing think",
       "category": "energy",
       "published": "2026-11-17 16:05"
-    },
-    {
-      "id": "r2iulb",
-      "title": "US Sugar Production Cuts Keep Domestic Prices Supported",
-      "title_vi": "Việc cắt giảm sản lượng đường của Hoa Kỳ giữ giá trong nước được hỗ trợ",
-      "summary_vi": "Việc cắt giảm sản lượng đường của Hoa Kỳ giữ giá trong nước được hỗ trợ",
-      "image": "https://www.czapp.com/wp-content/uploads/2026/11/7599ff64-ecdf-4a88-a980-a51711d6c47c.jpg",
-      "link": "https://www.czapp.com/analyst-insights/us-sugar-production-cuts-keep-domestic-prices-supported/",
-      "source": "Czapp",
-      "category": "soft",
-      "published": "2026-11-17 15:40"
-    },
-    {
-      "id": "1nknbnq",
-      "title": "Coffee & Football: Texas Football Analysis & Viewer Questions Answered",
-      "title_vi": "Cà phê & Bóng đá: Câu hỏi của người xem và phân tích bóng đá Texas đã được trả lời",
-      "summary_vi": "Chào buổi sáng mọi người! Đã đến lúc dành cho Coffee & Football của OTF, nơi chúng ta đi sâu vào những tin tức bóng đá hot nhất Texas Longhorns, cập nhật tuyển dụng",
-      "image": "https://i3.ytimg.com/vi/ZCcWKwT4sLM/hqdefault.jpg",
-      "link": "https://bvmsports.com/2026/11/17/coffee-football-texas-football-analysis-viewer-questions-answered/",
-      "source": "BVM Sports",
-      "category": "soft",
-      "published": "2026-11-17 15:36"
-    },
-    {
-      "id": "9t3brw",
-      "title": "Biofuel demand boosts soybean outlook",
-      "title_vi": "Nhu cầu nhiên liệu sinh học thúc đẩy triển vọng đậu tương",
-      "summary_vi": "Vụ mùa lớn, lợi nhuận eo hẹp thách thức người nông dân.",
-      "image": "https://bloximages.newyork1.vip.townnews.com/farmweeknow.com/content/tncms/assets/v3/editorial/c/e0/ce03840d-4a46-4fd8-a46d-2dac317b032e/6af3964d65a83.preview.jpg?crop=1643%2C863%2C0%2C199&resize=1200%2C630&order=crop%2Cresize",
-      "link": "https://www.farmweeknow.com/profitability/biofuel-demand-boosts-soybean-outlook/article_ce03840d-4a46-4fd8-a46d-2dac317b032e.html",
-      "source": "FarmWeekNow",
-      "category": "agri",
-      "published": "2026-11-17 14:00"
-    },
-    {
-      "id": "1793q2c",
-      "title": "China, Canada Expand Tariff Relief Through 2028",
-      "title_vi": "Trung Quốc, Canada mở rộng giảm thuế đến năm 2028",
-      "summary_vi": "Bắc Kinh và Ottawa mở rộng giảm thuế: Thêm 400 triệu đô la Canada vào nông nghiệp Canada được giảm thuế và Canada miễn thuế đối với một số mặt hàng thép và nhôm của Trung Quốc",
-      "image": "https://www.briefs.co/wp-content/uploads/2026/11/beijing-and-ottawa-widen-tariff-breaks-on-food-and-metals-th.png",
-      "link": "https://www.briefs.co/news/beijing-and-ottawa-widen-tariff-breaks-on-food-and-metals-th/",
-      "source": "Briefs Finance",
-      "category": "macro",
-      "published": "2026-11-17 14:00"
-    },
-    {
-      "id": "12oi4nj",
-      "title": "How Trump and Xi Moved From Tariff War to Trade Truce (Timeline)",
-      "title_vi": "Trump và Tập chuyển từ chiến tranh thuế quan sang đình chiến thương mại như thế nào (Dòng thời gian)",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPalY3MHVPcWdGVTc0bVBzandqY0trLWJzR1hrUWxsN2x3QzBqbTc0b0tkbTB0eVdQZExUSXczRjhfUEVndi1YTm0wa3FlOHFua2Y3OXd0NEpSOTRpYXJpMHc3bEhsdl9EWGhVNkVvRGdzRW9mZko1SnNnMjBwS3BPcTZUcw?oc=5",
-      "source": "Global Banking & Finance Review",
-      "category": "macro",
-      "published": "2026-11-17 10:59"
     }
   ]
 }

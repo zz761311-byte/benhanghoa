@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-18 17:01",
+  "updated_at": "2026-11-18 18:01",
   "items": [
+    {
+      "id": "1f579vp",
+      "title": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals",
+      "title_vi": "Vàng giảm xuống dưới 3.800 USD do kỳ vọng tăng lãi suất của Cục Dự trữ Liên bang gây áp lực lên kim loại quý",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-below-3-800-102601874.html",
+      "source": "Yahoo Finance",
+      "category": "metal",
+      "published": "2026-11-18 17:26"
+    },
     {
       "id": "1qz07z0",
       "title": "ADNOC Ship Attacked in Hormuz as Maritime Security Risks Rise",
@@ -11,6 +22,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-18 17:00"
+    },
+    {
+      "id": "n1foxy",
+      "title": "Copper Extends Fall to Near Five-Month Low as Dollar Strengthens",
+      "title_vi": "Đồng kéo dài giảm xuống mức thấp gần 5 tháng khi đồng đô la mạnh lên",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/copper-prices-industrial-metal-dollar-lme",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-11-18 16:15"
+    },
+    {
+      "id": "if7e5t",
+      "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
+      "title_vi": "Giá dầu giảm trong bối cảnh kỳ vọng dư cung, căng thẳng ở Trung Đông",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-11-18 15:55"
     },
     {
       "id": "1tyvm8",
@@ -88,6 +121,17 @@
       "source": "UBS",
       "category": "metal",
       "published": "2026-11-18 12:02"
+    },
+    {
+      "id": "113qzil",
+      "title": "Outlook 2027: Flavor Trends",
+      "title_vi": "Triển vọng 2027: Xu hướng hương vị",
+      "summary_vi": "",
+      "image": "https://www.ift.org/cdn-cgi/image/width=480,height=0/siteassets/pubs/1-food-technology-magazine/2026/11/outlook-2027-flavor-trends/happy-couple_1024x576.jpg?v=",
+      "link": "https://www.ift.org/food-technology-magazine/outlook-2027-flavor-trends",
+      "source": "IFT.org",
+      "category": "soft",
+      "published": "2026-11-18 10:50"
     },
     {
       "id": "15dhhys",
@@ -233,6 +277,17 @@
       "published": "2026-11-18 01:27"
     },
     {
+      "id": "1ulwcrx",
+      "title": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
+      "title_vi": "Druckenmiller nói thiếu đồng, cảnh báo kinh tế yếu kém vào năm 2027",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
+      "source": "CoinDesk",
+      "category": "metal",
+      "published": "2026-11-18 00:42"
+    },
+    {
       "id": "1q5m6a7",
       "title": "China's $17 Billion Farm Trade Pledge at Risk as U.S. Farmers Face Growing Pressure",
       "title_vi": "Cam kết thương mại trang trại trị giá 17 tỷ USD của Trung Quốc gặp rủi ro khi nông dân Mỹ đối mặt với áp lực ngày càng tăng",
@@ -264,17 +319,6 @@
       "source": "Barchart.com",
       "category": "soft",
       "published": "2026-11-17 23:53"
-    },
-    {
-      "id": "z97e4u",
-      "title": "Gold and Silver Rally as Nvidia, Deutsche Bank Scandals Hit Equities",
-      "title_vi": "đợt tăng giá vàng và bạc khi vụ bê bối của Nvidia, Deutsche Bank ảnh hưởng đến cổ phiếu",
-      "summary_vi": "Vàng và bạc tăng giá hôm thứ Ba từ mức thấp nhất trong 13 tháng khi gã khổng lồ AI Nvidia chuẩn bị công bố thu nhập hàng quý và vụ bê bối mới xảy ra với Deutsche Bank >>",
-      "image": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/2026-11-17-gold-1-year-usd-price.png",
-      "link": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-nvda-deutsche-111720261",
-      "source": "BullionVault",
-      "category": "metal",
-      "published": "2026-11-17 22:10"
     },
     {
       "id": "bxpcsi",
@@ -506,50 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-17 06:14"
-    },
-    {
-      "id": "1px4q0n",
-      "title": "Oil Prices Retreat as Market Digests Global Surplus Expectations",
-      "title_vi": "Giá dầu giảm khi thị trường tiêu hóa kỳ vọng thặng dư toàn cầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-fresh-attacks-renew-middle-east-supply-concerns-bee22d97",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-11-17 03:30"
-    },
-    {
-      "id": "1jwxs83",
-      "title": "Does farm size influence price received per bushel?",
-      "title_vi": "Quy mô trang trại có ảnh hưởng đến giá nhận được trên mỗi giạ không?",
-      "summary_vi": "Bởi Wm. Bruce Clevenger, Khuyến nông Đại học Bang Ohio, Chuyên gia thực địa, Quản lý trang trại Trang trại pla",
-      "image": "https://ocj.com/wp-content/uploads/2026/11/History-offers-clues-for-corn-prices-heading-into-winter-1.png",
-      "link": "https://ocj.com/2026/11/does-farm-size-influence-price-received-per-bushel/",
-      "source": "Ohio's Country Journal",
-      "category": "agri",
-      "published": "2026-11-17 03:00"
-    },
-    {
-      "id": "6hwdfd",
-      "title": "2027 grain outlook: Fewer bushels, fewer bucks, lots of questions",
-      "title_vi": "Triển vọng ngũ cốc năm 2027: Ít giạ hơn, ít tiền hơn, nhiều câu hỏi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/2027-grain-outlook-fewer-bushels-fewer-bucks-lots-of-questions",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-11-17 02:44"
-    },
-    {
-      "id": "qekpg1",
-      "title": "Will gas prices keep falling? Experts weigh in - ABC News",
-      "title_vi": "Giá xăng sẽ tiếp tục giảm? Các chuyên gia cân nhắc - ABC News",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2pCZXZaTE5Kb1FndUYtNlQyaG14YkV5YXBna2JxaE43bzNvOFozSFhvMm5MZkNPTnFJLVVwMXRGWnotWEZTRkZfYWxCZldsMk45OHpscTBoajVQWHVQU1ZfOTh5R2hFMklMZTYzTDhzTzhPMXVzYWRnUGU1S1l6MlpXNmg4M0XSAYwBQVVfeXFMTVhwb1BidmEwS1JMUWM1c2JXLU15Nld5RHlDdHhFMDhqMDhhdThoZkxpd2tMLUZPSjdESWZGem5sLThDZzdQbE9fc20yVzRzSHNQdWd4TlhuZEVJTGJvZklIc0NtaDVGMzJiNVEzZGsyNVBtd0RueUVtV0REY09uT0oxVHNUMGFhc2JJTTI?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "energy",
-      "published": "2026-11-17 00:28"
     }
   ]
 }

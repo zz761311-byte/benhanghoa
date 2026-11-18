@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-18 12:01",
+  "updated_at": "2026-11-18 13:01",
   "items": [
+    {
+      "id": "tp7cr9",
+      "title": "Oil Prices Drop Despite Escalating U.S.-Iran Conflict",
+      "title_vi": "Giá dầu giảm mặc dù xung đột Mỹ-Iran leo thang",
+      "summary_vi": "Giá dầu thô tiếp tục giảm trong ngày hôm nay, sau khi báo cáo dự trữ dầu của Viện Dầu khí Hoa Kỳ công bố hôm thứ Ba, cho thấy giá dầu thô và nhiên liệu đều tăng. Tại thời điểm viết bài, dầu thô Brent đang giao dịch ở mức 92,49 USD/thùng, với giá dầu thô West Texas Middle ở mức 8 USD.",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Drop-Despite-Escalating-US-Iran-Conflict.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-18 12:55"
+    },
     {
       "id": "15dhhys",
       "title": "Florida’s east coast faces a moderate flash flood risk Wednesday through Friday, with 4 to 8 inches of rain forecast and the St. Johns River near Cocoa already in major flood at 17.13 feet - The Watchers",
@@ -112,6 +123,17 @@
       "published": "2026-11-18 04:58"
     },
     {
+      "id": "1jbmmc",
+      "title": "Silver below $50: How much further could it fall?",
+      "title_vi": "Bạc dưới 50 USD: Nó có thể giảm thêm bao nhiêu?",
+      "summary_vi": ".embed-container { vị trí: tương đối; phần đệm đáy: 56,25%; chiều cao: 0; tràn: ẩn; chiều rộng tối đa: 100%; } .embed-container iframe, đối tượng .embed-container, .embed-container embed { vị trí:…",
+      "image": "https://images.kitco.com/img/extract_0_0_1279_720,width_1200,enlarge,format_jpeg/icms/552fe7e4-b703-4c9b-9968-957ca6a4729f.webp",
+      "link": "https://www.kitco.com/opinion/2026-11-17/silver-below-50-how-much-further-could-it-fall",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-11-18 04:34"
+    },
+    {
       "id": "1do9i68",
       "title": "China Tests 250-Mile Electric Plane in Major Aviation Milestone",
       "title_vi": "Trung Quốc thử nghiệm máy bay điện dài 250 dặm trong cột mốc hàng không lớn",
@@ -132,17 +154,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-11-18 03:44"
-    },
-    {
-      "id": "1rc12s6",
-      "title": "Are Resource Limits Fueling the World&#039;s Growing Conflicts?",
-      "title_vi": "Giới hạn tài nguyên có thúc đẩy xung đột ngày càng gia tăng trên thế giới không?",
-      "summary_vi": "Tại sao mọi người trên khắp thế giới không hạnh phúc? Cử tri ở Mỹ đã kêu gọi thay đổi. Những kẻ bạo loạn ở châu Âu, Ấn Độ và Bangladesh cũng đang tìm kiếm sự thay đổi. Tôi tin rằng vấn đề cơ bản là nền kinh tế thế giới đã đạt đến cái gọi là Giới hạn tăng trưởng. Có quá nhiều người",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-16_poqgz9d7gk.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Are-Resource-Limits-Fueling-the-Worlds-Growing-Conflicts.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-11-18 02:00"
     },
     {
       "id": "1qisgpl",
@@ -220,6 +231,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-17 21:43"
+    },
+    {
+      "id": "1r4fwe6",
+      "title": "German Sugar Beet Yield Cut Tightens EU Sugar Supply Outlook",
+      "title_vi": "Việc cắt giảm năng suất củ cải đường của Đức thắt chặt triển vọng nguồn cung đường của EU",
+      "summary_vi": "Việc cắt giảm lần thứ ba ước tính sản lượng củ cải đường năm 2026 của Đức làm sâu sắc thêm tình trạng thắt chặt nguồn cung đường trong khu vực trong khi giá giao ngay tại EU giảm. Phân tích các trình điều khiển, rủi ro và triển vọng.",
+      "image": "https://imagedelivery.net/36XlR1UZca9aYAsKLMcK3A/731bd388-f28d-49c1-52d5-419afb80f700/og",
+      "link": "https://commodity-board.com/german-sugar-beet-yields-cut-again-tightening-eu-sugar-balance",
+      "source": "CMB News",
+      "category": "soft",
+      "published": "2026-11-17 20:50"
     },
     {
       "id": "q5t37",
@@ -528,28 +550,6 @@
       "source": "ETF Database",
       "category": "energy",
       "published": "2026-11-16 22:14"
-    },
-    {
-      "id": "evxu2p",
-      "title": "Monday Rockpile: Will Hunter Goodman win the NL Silver Slugger for catcher?",
-      "title_vi": "Thứ Hai Rockpile: Liệu Hunter Goodman có giành được NL Silver Slugger cho người bắt bóng không?",
-      "summary_vi": "Nó phụ thuộc vào những gì người bỏ phiếu đánh giá cao ở một sát thủ.",
-      "image": "https://platform.purplerow.com/wp-content/uploads/sites/128/2026/11/gettyimages-2296521490.jpg?quality=90&strip=all&crop=0%2C5.7161090295177%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.purplerow.com/colorado-rockies-analysis/111018/colorado-rockies-will-hunter-goodman-win-the-nl-silver-slugger-for-catcher",
-      "source": "Purple Row",
-      "category": "metal",
-      "published": "2026-11-16 22:00"
-    },
-    {
-      "id": "1rnxvxi",
-      "title": "‘Scorching-hot’ construction input prices are more difficult to pass along",
-      "title_vi": "Giá đầu vào xây dựng ‘nóng’ khó vượt qua hơn",
-      "summary_vi": "Theo phân tích của Hiệp hội Xây dựng và Nhà thầu, các vật liệu bị ảnh hưởng bởi thuế quan bao gồm sắt, thép và đồng có thể sẽ tiếp tục đẩy giá leo thang trong những tháng tới.",
-      "image": "https://imgproxy.divecdn.com/93ruEJtwZYND-XAXoLmDOW7sBGF5rVgPurBfe2mXFxk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2NDU1NDEzLmpwZw==.webp",
-      "link": "https://www.constructiondive.com/news/scorching-hot-construction-input-prices-october/874729/",
-      "source": "Construction Dive",
-      "category": "macro",
-      "published": "2026-11-16 21:39"
     }
   ]
 }

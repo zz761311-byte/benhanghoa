@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-19 04:01",
+  "updated_at": "2026-11-19 05:01",
   "items": [
+    {
+      "id": "rnnive",
+      "title": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix",
+      "title_vi": "Trung Quốc đốt ít dầu và than hơn khi chiến tranh Iran định hình lại cơ cấu năng lượng của nước này",
+      "summary_vi": "Cuộc chiến ở Iran đang gây ra sự xáo trộn lâu dài trên thị trường dầu khí toàn cầu với những hậu quả lâu dài đối với nền kinh tế, ngành năng lượng và khí hậu. Đối với nhiều quốc gia, điều này đã dẫn đến giá năng lượng tăng vọt và sự chuyển dịch nhanh chóng sang năng lượng tái tạo để",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-18_hbyqqsriwi.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Burns-Less-Oil-and-Coal-as-the-Iran-War-Reshapes-Its-Energy-Mix.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-19 05:00"
+    },
+    {
+      "id": "7vsctt",
+      "title": "Corn Prices Plunge as Wheat Selloff Deepens Across U.S. Grain Markets",
+      "title_vi": "Giá ngô lao dốc khi tình trạng bán lúa mì ngày càng sâu sắc trên khắp thị trường ngũ cốc Hoa Kỳ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUG5FeHRYbGlnNUVfb0VUcDhBb1NleUUwYmtSMzJUY0w4ZVNYb1BMZHFaWXVtMzR1Qnh5SG1MRjV5Q0llOVM5aWdVWHNJVk5rMEQwZ0p1Mll2TW9HRUZDT0JlcVN1aHVLU2cyQXZxTFhLTlU2Sm5KaTlIVDFBUDZLY2s5YWVqRi1zbXRkZw?oc=5",
+      "source": "AgroLatam",
+      "category": "agri",
+      "published": "2026-11-19 04:15"
+    },
     {
       "id": "1sqq1rv",
       "title": "Thames Water&#039;s Rescue Deal Comes With a Dirty Catch",
@@ -9,8 +31,19 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-18_nsayff7ztl.jpg",
       "link": "https://oilprice.com/Energy/Energy-General/Thames-Waters-Rescue-Deal-Comes-With-a-Dirty-Catch.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-11-19 04:00"
+    },
+    {
+      "id": "1m43o4w",
+      "title": "Natural Gas Price Forecast: $3.30 Breakout Could Trigger More Gains",
+      "title_vi": "Dự báo giá khí đốt tự nhiên: Đột phá 3,30 USD có thể mang lại nhiều lợi nhuận hơn",
+      "summary_vi": "Người mua khí đốt tự nhiên nhắm mục tiêu đột phá trên $3,30– $3,40, nhưng thời tiết ấm áp và tồn kho trên mức trung bình có thể hạn chế mức tăng mặc dù xuất khẩu LNG ngày càng tăng.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/11/natural-gas-market-illustration-08-3.jpg?width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-price-forecast-3-30-breakout-could-trigger-more-gains-1645438",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-11-19 03:44"
     },
     {
       "id": "10mtd4o",
@@ -143,17 +176,6 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-11-19 00:00"
-    },
-    {
-      "id": "16xq547",
-      "title": "Iran War Set to Hike 2027 UK Energy Bills to Four-Year High",
-      "title_vi": "Chiến tranh Iran sẽ tăng hóa đơn năng lượng năm 2027 của Vương quốc Anh lên mức cao nhất trong 4 năm",
-      "summary_vi": "Công ty tư vấn năng lượng Cornwall Insight cho biết hôm thứ Tư rằng hóa đơn năng lượng của các hộ gia đình ở Vương quốc Anh dự kiến ​​sẽ tăng thêm 26% kể từ tháng 1 năm 2027, lên mức cao nhất kể từ năm 2023, do chiến tranh Iran tiếp tục đẩy giá điện và khí đốt bán buôn tăng cao. Hiện tại, hóa đơn năng lượng của Vương quốc Anh đang ở mức t",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-18_xgjmyhgte8.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-War-Set-to-Hike-2027-UK-Energy-Bills-to-Four-Year-High.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-18 23:30"
     },
     {
       "id": "1sua1cn",
@@ -528,28 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-18 05:19"
-    },
-    {
-      "id": "5s9jwh",
-      "title": "Copper price falls to lowest since July as tech weakness saps risk appetite",
-      "title_vi": "Giá đồng giảm xuống mức thấp nhất kể từ tháng 7 do sự yếu kém về công nghệ làm giảm khẩu vị rủi ro",
-      "summary_vi": "Một chiến lược gia hàng hóa của ING cho biết: “Việc bán tháo cổ phiếu liên quan đến AI đã làm dấy lên lo ngại về triển vọng nhu cầu đối với đồng”.",
-      "image": "https://www.mining.com/wp-content/uploads/2024/06/AdobeStock_514724486-1024x681.jpeg",
-      "link": "https://www.mining.com/web/copper-price-falls-to-lowest-since-july-as-tech-weakness-saps-risk-appetite/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-11-18 05:06"
-    },
-    {
-      "id": "16894l7",
-      "title": "API Shows Substantial Crude Oil, Gasoline Inventory Builds",
-      "title_vi": "API cho thấy lượng dầu thô, tồn kho xăng tăng đáng kể",
-      "summary_vi": "API báo cáo lượng dầu thô của Mỹ tăng 5,3 triệu thùng và lượng xăng tăng 5,1 triệu thùng trong tuần kết thúc vào ngày 13 tháng 11, với giá dầu Brent ở mức gần 93 USD.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-17_c2hzfacziv.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/API-Shows-Substantial-Crude-Oil-Gasoline-Inventory-Builds.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-11-18 04:58"
     }
   ]
 }

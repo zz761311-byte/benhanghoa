@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-20 05:01",
+  "updated_at": "2026-11-20 06:01",
   "items": [
+    {
+      "id": "1ld0t05",
+      "title": "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage",
+      "title_vi": "Xuất khẩu dầu Hormuz có thể giảm do thiếu tàu chở dầu trong nước",
+      "summary_vi": "Các nhà phân tích đang đánh giá cao sự phục hồi đáng chú ý trong xuất khẩu dầu thô từ Vịnh Ba Tư, vốn đã tăng gần mức trước chiến tranh trong những tháng gần đây. Thị trường dầu phản ánh tâm lý giảm giá, với giá dầu thô Brent giảm trong những tuần qua xuống khoảng 92 USD/thùng, giảm so với",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-19_2vhmqs3jji.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Oil-Exports-Could-Decline-amid-Inbound-Tanker-Shortage.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-20 06:00"
+    },
+    {
+      "id": "1qej27r",
+      "title": "Why is Palladium price down 4.4% today?",
+      "title_vi": "Tại sao giá Palladium hôm nay giảm 4,4%?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://tradersunion.com/news/commodities/show/4329155-palladium-slides-4-43percent-today/",
+      "source": "Traders Union",
+      "category": "metal",
+      "published": "2026-11-20 05:09"
+    },
     {
       "id": "9prd8u",
       "title": "5 Energy Stocks to Benefit from Anthropic’s $1.5 Trillion Debut",
@@ -9,7 +31,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-19_xbdvy1awjj.jpg",
       "link": "https://oilprice.com/Energy/Energy-General/5-Energy-Stocks-to-Benefit-from-Anthropics-15-Trillion-Debut.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-11-20 05:00"
     },
     {
@@ -22,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-20 04:00"
+    },
+    {
+      "id": "3gjfse",
+      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
+      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-20 02:44"
     },
     {
       "id": "vakloh",
@@ -77,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-20 00:00"
-    },
-    {
-      "id": "1pj318j",
-      "title": "Carlyle and Orlen Team Up to Hunt for Energy Deals Across Europe",
-      "title_vi": "Carlyle và Orlen hợp tác để săn lùng các thỏa thuận năng lượng trên khắp châu Âu",
-      "summary_vi": "Công ty đầu tư toàn cầu Carlyle và công ty năng lượng lớn nhất ở Trung Âu, Orlen của Ba Lan, hôm thứ Năm đã đồng ý cùng khám phá các cơ hội đầu tư vào lĩnh vực năng lượng trên khắp Ba Lan, Châu Âu và quốc tế. Hai công ty đã ký biên bản ghi nhớ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-19_xp5nikceyz.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Carlyle-and-Orlen-Team-Up-to-Hunt-for-Energy-Deals-Across-Europe.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-19 23:30"
     },
     {
       "id": "epm6ti",
@@ -528,28 +550,6 @@
       "source": "The Pennsylvania Independent",
       "category": "energy",
       "published": "2026-11-18 23:15"
-    },
-    {
-      "id": "3odnrp",
-      "title": "Ukraine says it hit 2 Russian oil refineries as Zelensky hails weapons produced in the country",
-      "title_vi": "Ukraine cho biết họ đã tấn công 2 nhà máy lọc dầu của Nga khi Zelensky ca ngợi vũ khí được sản xuất tại nước này",
-      "summary_vi": "Ukraine cho biết họ đã tiến hành các cuộc tấn công mới vào hai nhà máy lọc dầu ở miền nam nước Nga.",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/0830954/2147483647/strip/true/crop/6387x3353+0+452/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F45%2Fa2%2Fe805201d4f5589ccfd21a49dd200%2F4c93e5d26e21417fbb8cc983d8d40386.jpg",
-      "link": "https://www.latimes.com/world-nation/story/2026-11-18/ukraine-says-it-hit-2-russian-oil-refineries-as-zelensky-hails-weapons-produced-in-country",
-      "source": "Los Angeles Times",
-      "category": "energy",
-      "published": "2026-11-18 23:12"
-    },
-    {
-      "id": "u46m6",
-      "title": "With 45 Inches on the Ground and 50 Inches in the Forecast, Sugar Bowl Is Opening Early",
-      "title_vi": "Với dự báo là 45 inch trên mặt đất và 50 inch, Sugar Bowl sẽ mở cửa sớm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.powder.com/news/sugar-bowl-to-open-early",
-      "source": "POWDER Magazine",
-      "category": "soft",
-      "published": "2026-11-18 23:11"
     }
   ]
 }

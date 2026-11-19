@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-19 17:29",
+  "updated_at": "2026-11-19 18:01",
   "items": [
+    {
+      "id": "qu11lo",
+      "title": "India’s Oil Imports Hit Record High as Saudi Shipments Surge",
+      "title_vi": "Nhập khẩu dầu của Ấn Độ đạt mức cao kỷ lục khi xuất khẩu của Saudi tăng mạnh",
+      "summary_vi": "Dữ liệu thương mại cho thấy Ấn Độ đã nhập khẩu khối lượng dầu thô ở mức cao kỷ lục trong tháng 10, do khối lượng từ Ả Rập Saudi tăng lên mức cao nhất 8 tháng trong bối cảnh các chuyến hàng vùng Vịnh phục hồi. Ấn Độ đã nhập khẩu kỷ lục 5,58 triệu thùng dầu thô mỗi ngày (bpd) vào tháng trước, tăng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-19_4nsdl7pm02.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Imports-Hit-Record-High-as-Saudi-Shipments-Surge.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-19 17:30"
+    },
+    {
+      "id": "x8hj1j",
+      "title": "Tereos cuts profit outlook after poor French sugar beet harvest",
+      "title_vi": "Tereos cắt giảm triển vọng lợi nhuận sau vụ thu hoạch củ cải đường kém ở Pháp",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/stock-market-news/tereos-cuts-profit-outlook-after-poor-french-sugar-beet-harvest-93CH-5038200",
+      "source": "Investing.com",
+      "category": "soft",
+      "published": "2026-11-19 16:47"
+    },
     {
       "id": "1y93nm0",
       "title": "FAO Food Outlook: Global food commodity supplies remain generally ample, but risks are mounting",
@@ -110,17 +132,6 @@
       "source": "OilPrice",
       "category": "metal",
       "published": "2026-11-19 06:00"
-    },
-    {
-      "id": "rnnive",
-      "title": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix",
-      "title_vi": "Trung Quốc đốt ít dầu và than hơn khi chiến tranh Iran định hình lại cơ cấu năng lượng của nước này",
-      "summary_vi": "Cuộc chiến ở Iran đang gây ra sự xáo trộn lâu dài trên thị trường dầu khí toàn cầu với những hậu quả lâu dài đối với nền kinh tế, ngành năng lượng và khí hậu. Đối với nhiều quốc gia, điều này đã dẫn đến giá năng lượng tăng vọt và sự chuyển dịch nhanh chóng sang năng lượng tái tạo để",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-18_hbyqqsriwi.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/China-Burns-Less-Oil-and-Coal-as-the-Iran-War-Reshapes-Its-Energy-Mix.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-19 05:00"
     },
     {
       "id": "7vsctt",
@@ -539,17 +550,6 @@
       "source": "Traders Union",
       "category": "metal",
       "published": "2026-11-18 16:13"
-    },
-    {
-      "id": "if7e5t",
-      "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
-      "title_vi": "Giá dầu giảm trong bối cảnh kỳ vọng dư cung, căng thẳng ở Trung Đông",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-11-18 15:55"
     }
   ]
 }

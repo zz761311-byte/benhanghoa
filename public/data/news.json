@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-19 15:01",
+  "updated_at": "2026-11-19 16:01",
   "items": [
+    {
+      "id": "1to4exp",
+      "title": "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply",
+      "title_vi": "Chiến tranh Trung Đông đã xóa sạch nguồn cung dầu toàn cầu 2,8 tỷ thùng",
+      "summary_vi": "Cơ quan Năng lượng Quốc tế ước tính trong Triển vọng Năng lượng Thế giới mới nhất công bố hôm nay rằng cuộc chiến ở Trung Đông đã khiến nguồn cung dầu toàn cầu bị tổn thất tổng cộng 2,8 tỷ thùng cộng với 60 tỷ mét khối khí đốt tự nhiên. Sự gián đoạn này sẽ ảnh hưởng đến nhu cầu dầu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-19_ub9jjl6ovc.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/The-Middle-East-War-Has-Wiped-28-Billion-Barrels-Off-Global-Oil-Supply.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-19 16:00"
+    },
     {
       "id": "4vv98b",
       "title": "EU Delays Methane Rules by Two Years Amid Energy Supply Fears",
@@ -33,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-19 13:00"
+    },
+    {
+      "id": "134g738",
+      "title": "Gold recovers from over one-year low as markets assess Fed rate outlook",
+      "title_vi": "Vàng phục hồi từ mức thấp hơn một năm khi thị trường đánh giá triển vọng lãi suất của Fed",
+      "summary_vi": "Vàng tăng hôm thứ Năm sau khi chạm mức thấp nhất trong hơn một năm, khi các nhà đầu tư xem xét bình luận của Fed để tìm manh mối về triển vọng lãi suất.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107353016-1704179575447-gettyimages-1868370950-THAILAND_GOLD.jpeg?v=1795058423&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/11/19/gold-silver-metals-price-treasury.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-11-19 10:28"
     },
     {
       "id": "1p6fqor",
@@ -99,17 +121,6 @@
       "source": "AgroLatam",
       "category": "agri",
       "published": "2026-11-19 04:15"
-    },
-    {
-      "id": "1sqq1rv",
-      "title": "Thames Water&#039;s Rescue Deal Comes With a Dirty Catch",
-      "title_vi": "Thỏa thuận giải cứu Thames Water đi kèm với một vụ đánh bắt bẩn",
-      "summary_vi": "Câu chuyện về Thames Water đang gặp khó khăn về tài chính có thể đã đạt đến mức thấp mới. Tờ Financial Times và những tờ khác đưa tin rằng nhà thầu mới nhất của Hoa Kỳ cho tiện ích này đã lên kế hoạch tăng giá thầu lên 1 tỷ bảng Anh nếu chính phủ dỡ bỏ các yêu cầu giảm thiểu ô nhiễm cho đến năm 2030.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-18_nsayff7ztl.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Thames-Waters-Rescue-Deal-Comes-With-a-Dirty-Catch.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-11-19 04:00"
     },
     {
       "id": "1m43o4w",
@@ -396,17 +407,6 @@
       "source": "ING Think",
       "category": "energy",
       "published": "2026-11-18 21:08"
-    },
-    {
-      "id": "3t8usl",
-      "title": "Gold plunges to 14-month low, silver tumbles as Fed rate hike bets intensify - Kitco AM Report",
-      "title_vi": "Vàng giảm xuống mức thấp nhất 14 tháng, bạc sụt giảm khi đặt cược tăng lãi suất của Fed tăng cường - Báo cáo Kitco AM",
-      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay giảm mạnh vào đầu phiên giao dịch tại Hoa Kỳ hôm thứ Tư, do kỳ vọng về việc Cục Dự trữ Liên bang tăng lãi suất và đồng đô la Mỹ vững…",
-      "image": "https://images.kitco.com/img/extract_0_0_1023_576,width_1200,enlarge,format_jpeg/icms/8329ee1b-e903-4905-90ce-ccd6fe5d1c38.jpeg",
-      "link": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-14-month-low-silver-tumbles-fed-rate-hike-bets-intensify-kitco",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-11-18 21:06"
     },
     {
       "id": "1g3ankh",

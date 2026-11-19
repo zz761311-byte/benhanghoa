@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-20 02:11",
+  "updated_at": "2026-11-20 03:01",
   "items": [
+    {
+      "id": "vakloh",
+      "title": "EU Moves to Overhaul Emergency Oil Stockpiles",
+      "title_vi": "EU chuyển sang đại tu kho dự trữ dầu khẩn cấp",
+      "summary_vi": "Liên minh Châu Âu muốn các nước dự trữ nhiên liệu mà họ thực sự sử dụng, sau cuộc xung đột kéo dài 9 tháng ở Trung Đông đã bộc lộ vấn đề với nguồn dự trữ dầu khẩn cấp của Châu Âu: có đủ dầu trong kho không nhất thiết có nghĩa là có đủ dầu diesel hoặc máy bay phản lực.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-19_0tdzqj5hke.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Moves-to-Overhaul-Emergency-Oil-Stockpiles.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-20 02:30"
+    },
     {
       "id": "l17yha",
       "title": "Central Asia Faces a Looming Water Crisis as Glaciers Retreat",
@@ -90,17 +101,6 @@
       "published": "2026-11-19 22:10"
     },
     {
-      "id": "xpgw3v",
-      "title": "Russia Faces a Logistics Nightmare After Crimea Bridge Collapse",
-      "title_vi": "Nga đối mặt với cơn ác mộng hậu cần sau vụ sập cầu Crimea",
-      "summary_vi": "Đó là một công trình kỹ thuật trị giá 4 tỷ USD, bắc cầu dài 19 km đường thủy trên Biển Đen và củng cố sự kiểm soát của Moscow đối với Crimea, bán đảo Ukraine mà Nga chiếm đóng vào năm 2014. Giờ đây, hơn 200 mét cầu Crimea nằm dưới mực nước sâu 9 mét, để lại một đống nhựa đường.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-19_mjs2proqh4.jpg",
-      "link": "https://oilprice.com/Geopolitics/Europe/Russia-Faces-a-Logistics-Nightmare-After-Crimea-Bridge-Collapse.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-19 21:30"
-    },
-    {
       "id": "lu51lj",
       "title": "Three Questions with &#8220;The Little Bean That Grew to Brew&#8221; Author and Artist Wendra Lynne",
       "title_vi": "Ba câu hỏi với tác giả và nghệ sĩ “The Little Bean That Grew to Brew” Wendra Lynne",
@@ -110,6 +110,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-19 20:57"
+    },
+    {
+      "id": "1g1xaw5",
+      "title": "Kansas City Wheat price rises nearly 3% as short-term buying pressure boosts intraday momentum",
+      "title_vi": "Giá lúa mì Kansas City tăng gần 3% do áp lực mua ngắn hạn thúc đẩy đà trong ngày",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWVRDNFNseXJDNWFtSXdrRWd4VDltLThPMTRJbDJIeXpRTmhoem4yQWQ5dl8xN0dDYmpITkZHcFhjNFJrbHJrY0NGWGZxb0I1MzJKeExYSkdBZ1dXVVFXYkk3MDEtWFFnenNCNnBZOHlUREUxRGVjN0E1ZVdaeWVuOU9rUXNxeWZ4RDFObXR1TFdiZVJ5QlE?oc=5",
+      "source": "Traders Union",
+      "category": "agri",
+      "published": "2026-11-19 20:48"
     },
     {
       "id": "6p1qkj",
@@ -198,6 +209,17 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-11-19 10:28"
+    },
+    {
+      "id": "1d7j8so",
+      "title": "Oil prices inch up as tanker disruptions offset surplus supply outlook",
+      "title_vi": "Giá dầu nhích lên do sự gián đoạn của tàu chở dầu bù đắp cho triển vọng nguồn cung dư thừa",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnV0bXBXX1ZzNHpkcHFmanlPQ2FmczM3Z2xCcXRqRjYwTVB6SlFhZ29vbGcyM3V5a3lOMHZ3OXprMDM0ang4RVEwQmhFMTZ2QU1GT2lQN0ZPUXQyZWJ4MHR1S0JQTmE5Y0Z5dkZlemdFU0V6TWFId0pZZlFtbHVzaU1EeVl1S2RiSFdrcE95d1ZqQW9NRWlZUFNHWU9QVHNXRlZiTmEtckdWZEpScFREcVpPQ0x3MDNQeFhiZHJHMUlVQXFRNkE?oc=5",
+      "source": "Reuters",
+      "category": "energy",
+      "published": "2026-11-19 09:47"
     },
     {
       "id": "1lrkwix",
@@ -528,28 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-18 21:45"
-    },
-    {
-      "id": "katlh7",
-      "title": "Copper price falls nearly 3% as AI investment slowdown and China uncertainty weigh",
-      "title_vi": "Giá đồng giảm gần 3% do đầu tư AI chậm lại và sự bất ổn của Trung Quốc đè nặng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://tradersunion.com/news/commodities/show/4304467-copper-futures-drop-2-79percent-today/",
-      "source": "Traders Union",
-      "category": "metal",
-      "published": "2026-11-18 21:43"
-    },
-    {
-      "id": "e8zv7t",
-      "title": "Fair Trade USA Raising Minimum Coffee Prices to New Fairtrade Levels",
-      "title_vi": "Fair Trade USA Tăng giá cà phê tối thiểu lên mức Fairtrade mới",
-      "summary_vi": "Fair Trade USA đang tăng giá tối thiểu cho cà phê Arabica đã qua chế biến từ 1,40 USD lên 2 USD/ pound, đánh dấu một sự thay đổi đáng kể ba năm sau khi tổ chức chứng nhận từ chối...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/11/18/fair-trade-usa-raising-minimum-coffee-prices-to-new-fairtrade-levels/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-11-18 21:41"
     }
   ]
 }

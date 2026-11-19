@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-19 16:01",
+  "updated_at": "2026-11-19 17:01",
   "items": [
+    {
+      "id": "1y93nm0",
+      "title": "FAO Food Outlook: Global food commodity supplies remain generally ample, but risks are mounting",
+      "title_vi": "Triển vọng lương thực của FAO: Nguồn cung thực phẩm toàn cầu nhìn chung vẫn dồi dào nhưng rủi ro đang gia tăng",
+      "summary_vi": "Ấn bản mới xem xét thị trường phân bón, sự gián đoạn xuất khẩu ở Biển Đen và sự phát triển của giá dầu ô liu, váng sữa và thức ăn chăn nuôi.",
+      "image": "https://www.fao.org/media/images/newsroomlibraries/default-album/fonov26cover.jpg?sfvrsn=abf29ce_2",
+      "link": "https://www.fao.org/newsroom/detail/fao-food-outlook--global-food-commodity-supplies-remain-generally-ample--but-risks-are-mounting/en",
+      "source": "Food and Agriculture Organization",
+      "category": "energy",
+      "published": "2026-11-19 16:11"
+    },
     {
       "id": "1to4exp",
       "title": "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply",
@@ -288,6 +299,17 @@
       "published": "2026-11-18 23:26"
     },
     {
+      "id": "2185xz",
+      "title": "National average price for gas drops below $4 for the first time since July",
+      "title_vi": "Giá xăng trung bình toàn quốc giảm xuống dưới 4 USD lần đầu tiên kể từ tháng 7",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://pennsylvaniaindependent.com/economy/national-average-price-for-gas-drops-below-4-for-the-first-time-since-july/",
+      "source": "The Pennsylvania Independent",
+      "category": "energy",
+      "published": "2026-11-18 23:15"
+    },
+    {
       "id": "3odnrp",
       "title": "Ukraine says it hit 2 Russian oil refineries as Zelensky hails weapons produced in the country",
       "title_vi": "Ukraine cho biết họ đã tấn công 2 nhà máy lọc dầu của Nga khi Zelensky ca ngợi vũ khí được sản xuất tại nước này",
@@ -528,28 +550,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-11-18 15:55"
-    },
-    {
-      "id": "1lrkwix",
-      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
-      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-18 15:12"
-    },
-    {
-      "id": "uk9kmd",
-      "title": "Red Hot Metal: China's Role In The Global Copper Supply Chain",
-      "title_vi": "Kim loại nóng đỏ: Vai trò của Trung Quốc trong chuỗi cung ứng đồng toàn cầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://seekingalpha.com/article/4969432-red-hot-metal-china-role-in-global-copper-supply-chain",
-      "source": "Seeking Alpha",
-      "category": "metal",
-      "published": "2026-11-18 14:15"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-20 03:01",
+  "updated_at": "2026-11-20 04:01",
   "items": [
+    {
+      "id": "co3nr7",
+      "title": "Mercosur’s Tax Break Is Fueling Brazil’s Oil Push Into Europe",
+      "title_vi": "Việc giảm thuế của Mercosur đang thúc đẩy dầu mỏ của Brazil chảy vào châu Âu",
+      "summary_vi": "Năm nay Brazil dự kiến ​​sẽ bổ sung nhiều dầu hơn bất kỳ nhà sản xuất nào khác trên thế giới. Và sự bùng nổ sản xuất ngoài khơi này đến vào đúng thời điểm thị trường dầu mỏ toàn cầu đang thiếu hụt nguồn cung đến các nhà máy lọc dầu mà không đi qua eo biển Hormuz. Sản lượng dầu thô của Brazil bị ảnh hưởng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-19_iup6d4po1i.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Mercosurs-Tax-Break-Is-Fueling-Brazils-Oil-Push-Into-Europe.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-20 04:00"
+    },
     {
       "id": "vakloh",
       "title": "EU Moves to Overhaul Emergency Oil Stockpiles",
@@ -79,17 +90,6 @@
       "published": "2026-11-19 23:00"
     },
     {
-      "id": "18s072m",
-      "title": "Venezuela Turns to AI to Cut Methane Leaks",
-      "title_vi": "Venezuela chuyển sang sử dụng AI để cắt giảm rò rỉ khí mê-tan",
-      "summary_vi": "Venezuela đang sử dụng trí tuệ nhân tạo để giảm lượng khí thải và tăng hiệu quả trong ngành dầu khí, một quan chức cấp cao nói với Reuters bên lề hội nghị thượng đỉnh COP31 ở Antalya, khi quốc gia có trữ lượng dầu thô lớn nhất thế giới tìm cách thúc đẩy sản xuất. Venezuela với",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-19_1i6vtgmnat.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Venezuela-Turns-to-AI-to-Cut-Methane-Leaks.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-19 22:30"
-    },
-    {
       "id": "1x8huna",
       "title": "Brazil&#8217;s Record Coffee Harvest Comes with Quality and Stock Concerns",
       "title_vi": "Vụ thu hoạch cà phê kỷ lục của Brazil đi kèm với mối lo ngại về chất lượng và tồn kho",
@@ -99,6 +99,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-19 22:10"
+    },
+    {
+      "id": "ogrd9y",
+      "title": "Sugar price forecast: Downward pressure likely to persist unless key support is challenged",
+      "title_vi": "Dự báo giá đường: Áp lực giảm có thể tiếp tục tồn tại trừ khi hỗ trợ chính bị thách thức",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://tradersunion.com/news/commodities/show/4321490-sugar-slides-2-05percent-today-to/",
+      "source": "Traders Union",
+      "category": "soft",
+      "published": "2026-11-19 21:29"
     },
     {
       "id": "lu51lj",
@@ -198,6 +209,17 @@
       "source": "Traders Union",
       "category": "agri",
       "published": "2026-11-19 11:41"
+    },
+    {
+      "id": "1nezb8e",
+      "title": "Strong dollar, tighter Fed policy bets leave gold to languish at 14-month low",
+      "title_vi": "Đồng đô la mạnh, đặt cược chính sách chặt chẽ hơn của Fed khiến vàng suy yếu ở mức thấp nhất trong 14 tháng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzSmhHOXhFdnBjdTJSSHQ5eENObngzd3UwdF9SOFNkV1NlSlRONkEzSzJXaGZZNTlxV3VlXzVNV2E5MV9hb3RKREJfS0VCM213X1VZTUpTRGNFanc2dHBHLVZzRk9qVkFIVlZwcVBtOUhaMHNmUkRBNGF30gF_QVVfeXFMTVdQV0Z4T1c2TlFoWi00UVZPbFJxdTVlVUwtcHRiX1NvWDQ3X09FcnhzbmRhdnBTRnVYUURCcDZaWEZJYWpSdzVfVGRoQ2NrNWFSdjNVMjREYUtGNGU5U1p5dWhONUVJVTJTYWhqSURFbGVSSGhTNVdaOUctczVUcw?oc=5",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-11-19 10:28"
     },
     {
       "id": "134g738",
@@ -365,17 +387,6 @@
       "published": "2026-11-19 01:54"
     },
     {
-      "id": "1cm089a",
-      "title": "Gold Steadies Near 14-Month Low as Rate-Hike Pressure Mounts",
-      "title_vi": "Vàng ổn định gần mức thấp nhất trong 14 tháng khi áp lực tăng lãi suất tăng cao",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
-      "source": "Bloomberg.com",
-      "category": "metal",
-      "published": "2026-11-19 01:03"
-    },
-    {
       "id": "1rzn3b2",
       "title": "Copper forecast: risk-off mood and demand worries sink prices below $6",
       "title_vi": "Dự báo đồng: tâm lý ngại rủi ro và lo lắng về nhu cầu khiến giá đồng giảm xuống dưới 6 USD",
@@ -539,17 +550,6 @@
       "source": "Stuttgart Daily Leader",
       "category": "agri",
       "published": "2026-11-18 22:00"
-    },
-    {
-      "id": "1iiy7ss",
-      "title": "FDA Revokes Some Methylene Chloride Use, But Decaf Decision Still Pending",
-      "title_vi": "FDA thu hồi một số việc sử dụng Methylene Chloride, nhưng quyết định về Decaf vẫn đang chờ xử lý",
-      "summary_vi": "Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) đang thu hồi một số giấy phép sử dụng methylene chloride trong các ứng dụng liên quan đến thực phẩm, với lý do bằng chứng cho thấy hóa chất này gây ung thư ở động vật thí nghiệm. Được công bố vào ngày 9 tháng 11...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/11/18/fda-revokes-some-methylene-chloride-use-but-decaf-decision-still-pending/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-11-18 21:45"
     }
   ]
 }

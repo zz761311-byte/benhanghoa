@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-20 12:01",
+  "updated_at": "2026-11-20 13:01",
   "items": [
+    {
+      "id": "x2q07s",
+      "title": "Oil Prices Rebound as Houthi Attacks Reignite Middle East Supply Fears",
+      "title_vi": "Giá dầu phục hồi khi các cuộc tấn công của Houthi làm dấy lên lo ngại về nguồn cung ở Trung Đông",
+      "summary_vi": "Giá dầu thô hôm nay đã đảo ngược mức giảm bắt đầu vào đầu tuần, nhờ có báo cáo về các cuộc tấn công mới của Houthi vào các mục tiêu của Saudi và sự cố tiếp tục xảy ra với tàu chở dầu ở eo biển Hormuz. Tại thời điểm viết bài, dầu thô Brent đang giao dịch ở mức 92,67 USD/thùng và giá dầu thô West Texas",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-19_c1vz4fasyp.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-as-Houthi-Attacks-Reignite-Middle-East-Supply-Fears.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-20 12:51"
+    },
     {
       "id": "1ndm5a7",
       "title": "Canada Builds an Energy Exit From the U.S.",
@@ -145,15 +156,26 @@
       "published": "2026-11-20 02:30"
     },
     {
-      "id": "l17yha",
-      "title": "Central Asia Faces a Looming Water Crisis as Glaciers Retreat",
-      "title_vi": "Trung Á phải đối mặt với cuộc khủng hoảng nước sắp xảy ra khi sông băng rút lui",
-      "summary_vi": "Một phân tích của Ngân hàng Phát triển Châu Á về các kiểu thời tiết trong bốn thập kỷ đã đưa ra cảnh báo về tốc độ tan nhanh của các sông băng ở Trung Á và vùng Kavkaz. Đánh giá của ADB, có tiêu đề Đánh giá năng lực và rủi ro khí hậu từ sông băng đến trang trại, đã đánh giá các sông băng và nước",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-19_ari5c1r9qw.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Central-Asia-Faces-a-Looming-Water-Crisis-as-Glaciers-Retreat.html",
-      "source": "OilPrice",
+      "id": "w057j7",
+      "title": "IEA sees potential for looser oil, LNG markets after Hormuz crisis",
+      "title_vi": "IEA nhận thấy tiềm năng thị trường dầu, LNG lỏng lẻo hơn sau cuộc khủng hoảng Hormuz",
+      "summary_vi": "IEA cho biết thị trường dầu khí có thể phải đối mặt với nguồn cung dồi dào và giá thấp hơn nếu tình trạng gián đoạn ở Trung Đông giảm bớt, nhưng thời gian và quy mô phục hồi vẫn chưa chắc chắn.",
+      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/11/6aff32d16143d1aca42a3c8a-20026iea_outlook.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+      "link": "https://www.ogj.com/general-interest/economics-markets/news/55420309/iea-sees-potential-for-looser-oil-lng-markets-after-hormuz-crisis",
+      "source": "Oil & Gas Journal",
       "category": "energy",
-      "published": "2026-11-20 02:00"
+      "published": "2026-11-20 00:53"
+    },
+    {
+      "id": "hgr9se",
+      "title": "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition",
+      "title_vi": "Tại Hội nghị thượng đỉnh APEC, Mỹ, Trung Quốc và Nga cam kết tăng nguồn cung dầu trong bối cảnh chuyển đổi năng lượng toàn cầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
+      "source": "The New York Times",
+      "category": "energy",
+      "published": "2026-11-20 00:25"
     },
     {
       "id": "epm6ti",
@@ -528,28 +550,6 @@
       "source": "IndexBox",
       "category": "soft",
       "published": "2026-11-19 00:56"
-    },
-    {
-      "id": "1h74f4f",
-      "title": "Silver Price Erased 45 Years of Gains. Will It Crash Further?",
-      "title_vi": "Giá bạc đã xóa bỏ 45 năm tăng trưởng. Nó sẽ sụp đổ hơn nữa?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/silver-price-erased-45-years-174033945.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-11-19 00:40"
-    },
-    {
-      "id": "akyb6s",
-      "title": "Heavy rain threatens to flood Brevard County homes",
-      "title_vi": "Mưa lớn có nguy cơ làm ngập nhà ở hạt Brevard",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.floridatoday.com/story/news/local/2026/11/18/st-johns-river-flood-risk-rises-with-heavy-rain/92841054007/",
-      "source": "Florida Today",
-      "category": "soft",
-      "published": "2026-11-19 00:19"
     }
   ]
 }

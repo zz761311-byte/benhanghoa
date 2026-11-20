@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-21 00:01",
+  "updated_at": "2026-11-21 00:21",
   "items": [
+    {
+      "id": "6r053d",
+      "title": "Tankers Are Being Hit Daily. So Why Is Oil Falling?",
+      "title_vi": "Tàu chở dầu đang bị tấn công hàng ngày. Vậy tại sao dầu lại giảm?",
+      "summary_vi": "Dầu Brent đã giảm 5% xuống còn 91 USD trong tuần này, do dòng dầu vùng Vịnh phục hồi vượt trội so với các cuộc tấn công của tàu chở dầu, các mối đe dọa của Houthi và căng thẳng địa chính trị leo thang. Thứ sáu, ngày 20 tháng 11 năm 2026 Giá dầu dự kiến ​​​​sẽ giảm 5% hàng tuần do tâm lý vẫn bị ảnh hưởng bởi lượng dầu dồi dào ở Trung Đông chảy vào",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-20_qlfqaer527.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Tankers-Are-Being-Hit-Daily-So-Why-Is-Oil-Falling.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-21 00:11"
+    },
     {
       "id": "1l8xwe0",
       "title": "The 2026 Midterms Have Changed the Battle for American Energy",
@@ -129,17 +140,6 @@
       "summary_vi": "Chính trị, Địa chính trị & Xung đột “Thỏa thuận ngừng bắn năng lượng” vào tháng 10 của Trump giữa Nga và Ukraine vào tháng 10 đã kết thúc, và Vladimir Putin đã loại bỏ một thỏa thuận mới khỏi bàn đàm phán. Sau khi gặp Trump và Tập tại hội nghị thượng đỉnh APEC hôm thứ Năm, Putin nói rằng Nga sẽ không đàm phán sau căng thẳng của Ukraine.",
       "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-20_cyibzkuqzv.jpg",
       "link": "https://oilprice.com/Energy/Energy-General/Trumps-Ukraine-Energy-Truce-Unravels-as-Russian-Missiles-Hit-Kyiv.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-20 19:30"
-    },
-    {
-      "id": "1g7cbmo",
-      "title": "Iraq&#039;s Oil Crackdown Sparks New Showdown With Kurdistan",
-      "title_vi": "Cuộc đàn áp dầu mỏ của Iraq gây ra cuộc đối đầu mới với người Kurd",
-      "summary_vi": "Chính phủ liên bang Iraq đang lợi dụng vụ buôn lậu dầu chống lại lực lượng dân quân thân Iran Kata'ib Hezbollah ở phía nam Baghdad để buộc Chính quyền khu vực người Kurd ở phía bắc giao thêm dầu và mở cửa mỏ cho các thanh tra liên bang. Phía nam Baghdad, Thủ tướng Iraq đã",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-20_gas2ircllb.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Iraqs-Oil-Crackdown-Sparks-New-Showdown-With-Kurdistan.html",
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-20 19:30"
@@ -354,6 +354,17 @@
       "published": "2026-11-19 22:10"
     },
     {
+      "id": "1sx7707",
+      "title": "Oil flows through Middle East chokepoints increased in the third quarter",
+      "title_vi": "Lưu lượng dầu qua các điểm nghẽn ở Trung Đông tăng trong quý 3",
+      "summary_vi": "Cơ quan Thông tin Năng lượng - EIA - Thống kê Năng lượng Chính thức của Chính phủ Hoa Kỳ",
+      "image": "",
+      "link": "https://www.eia.gov/todayinenergy/detail.php?id",
+      "source": "U.S. Energy Information Administration (EIA) (.gov)",
+      "category": "energy",
+      "published": "2026-11-19 21:49"
+    },
+    {
       "id": "ogrd9y",
       "title": "Sugar price forecast: Downward pressure likely to persist unless key support is challenged",
       "title_vi": "Dự báo giá đường: Áp lực giảm có thể tiếp tục tồn tại trừ khi hỗ trợ chính bị thách thức",
@@ -539,17 +550,6 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-11-19 09:47"
-    },
-    {
-      "id": "j9rkzi",
-      "title": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026",
-      "title_vi": "Chiến tranh Iran làm đảo lộn triển vọng thị trường dầu mỏ của IEA khi cung và cầu toàn cầu giảm vào năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/iran-war-upends-ieas-oil-market-outlook-as-global-supply-and-demand-to-contract-in-2026/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-19 06:07"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-20 17:00",
+  "updated_at": "2026-11-20 18:01",
   "items": [
+    {
+      "id": "uyoq12",
+      "title": "China’s Solar Exports Surge 21% as U.S. Tariff Deadline Looms",
+      "title_vi": "Xuất khẩu năng lượng mặt trời của Trung Quốc tăng 21% khi thời hạn thuế quan của Hoa Kỳ sắp đến",
+      "summary_vi": "Xuất khẩu pin mặt trời của Trung Quốc đã tăng vọt trong tháng 10 trong tháng thứ hai liên tiếp do các nhà nhập khẩu đang tích trữ trước khi thuế quan mới của Mỹ đối với polysilicon có hiệu lực vào ngày 4 tháng 12. Xuất khẩu pin mặt trời của Trung Quốc đã tăng 21% so với cùng kỳ năm ngoái lên 1,55 tỷ chiếc trong tháng 10, Bloo",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-20_deetpk6joy.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Solar-Exports-Surge-21-as-US-Tariff-Deadline-Looms.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-11-20 17:15"
+    },
     {
       "id": "tgwzj1",
       "title": "Iran Moves to Restart Oil Exports Despite U.S. Naval Blockade",
@@ -134,17 +145,6 @@
       "published": "2026-11-20 05:09"
     },
     {
-      "id": "9prd8u",
-      "title": "5 Energy Stocks to Benefit from Anthropic’s $1.5 Trillion Debut",
-      "title_vi": "5 cổ phiếu năng lượng sẽ được hưởng lợi từ sự ra mắt trị giá 1,5 nghìn tỷ USD của Anthropic",
-      "summary_vi": "CNBC đưa tin Anthropic đã định giá đợt IPO của mình ở mức 83 USD một cổ phiếu vào tối thứ Tư, cao hơn mức từ 70 đến 78 USD mà nó đã đưa ra thị trường và huy động được 81,3 tỷ USD. Cổ phiếu của nhà sản xuất Claude (Nasdaq: ANT) dự kiến ​​bắt đầu giao dịch vào thứ Năm và không có giao dịch đầu tiên nào được thực hiện khi thông báo này được viết. Anyo",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-19_xbdvy1awjj.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/5-Energy-Stocks-to-Benefit-from-Anthropics-15-Trillion-Debut.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-11-20 05:00"
-    },
-    {
       "id": "l3ep80",
       "title": "Gold falls below $3,650, silver tumbles as Fed rate concerns pressure metals - Kitco PM Report",
       "title_vi": "Vàng giảm xuống dưới 3.650 USD, bạc sụt giảm khi lãi suất của Fed gây áp lực lên kim loại - Báo cáo của Kitco PM",
@@ -176,6 +176,17 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-11-20 03:55"
+    },
+    {
+      "id": "18yhk3n",
+      "title": "Prediction: Silver Will Be Worth This Much By the End of 2027",
+      "title_vi": "Dự đoán: Bạc sẽ có giá trị lớn như vậy vào cuối năm 2027",
+      "summary_vi": "Kim loại quý có thể chạm đáy ở mức này.",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F961c7574f2a3d2629b6e3c78f73014cf5fc7761d-8000x4500.jpg&w=1200&op=resize",
+      "link": "https://www.fool.com/investing/2026/11/19/prediction-silver-will-be-worth-this-much-by-the-end-of-2027/",
+      "source": "The Motley Fool",
+      "category": "metal",
+      "published": "2026-11-20 03:26"
     },
     {
       "id": "3gjfse",
@@ -539,17 +550,6 @@
       "source": "Robinhood",
       "category": "metal",
       "published": "2026-11-19 02:30"
-    },
-    {
-      "id": "13wmwbu",
-      "title": "EUR/USD, DXY, Silver Price Outlook: Bullish Rebounds on Hold?",
-      "title_vi": "Triển vọng giá EUR/USD, DXY, Bạc: Sự phục hồi tăng giá đang tạm dừng?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-gb/news-and-analysis/eur-usd-dxy-silver-price-outlook-bullish-rebounds-on-hold/",
-      "source": "StoneX",
-      "category": "metal",
-      "published": "2026-11-19 02:28"
     }
   ]
 }

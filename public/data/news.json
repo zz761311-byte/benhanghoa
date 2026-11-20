@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 08:19",
+  "updated_at": "2026-11-20 09:01",
   "items": [
     {
       "id": "1ndm5a7",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-20 08:00"
+    },
+    {
+      "id": "1l7cq23",
+      "title": "Oil Rises Amid Middle East Tensions",
+      "title_vi": "Dầu tăng trong bối cảnh căng thẳng ở Trung Đông",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-11-20 07:42"
     },
     {
       "id": "gi6cwd",
@@ -68,6 +79,17 @@
       "published": "2026-11-20 05:00"
     },
     {
+      "id": "l3ep80",
+      "title": "Gold falls below $3,650, silver tumbles as Fed rate concerns pressure metals - Kitco PM Report",
+      "title_vi": "Vàng giảm xuống dưới 3.650 USD, bạc sụt giảm khi lãi suất của Fed gây áp lực lên kim loại - Báo cáo của Kitco PM",
+      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay giảm mạnh vào cuối phiên giao dịch tại Mỹ hôm thứ Năm, kéo dài đợt bán tháo gần đây do kỳ vọng về lãi suất tiếp theo của Cục Dự trữ Liên bang…",
+      "image": "https://images.kitco.com/img/extract_0_0_1024_575,width_1200,enlarge,format_jpeg/icms/5768df25-c265-4c2d-a489-e51917a45667.jpeg",
+      "link": "https://www.kitco.com/news/article/2026-11-19/gold-falls-below-3650-silver-tumbles-fed-rate-concerns-pressure-metals",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-11-20 04:55"
+    },
+    {
       "id": "co3nr7",
       "title": "Mercosur’s Tax Break Is Fueling Brazil’s Oil Push Into Europe",
       "title_vi": "Việc giảm thuế của Mercosur đang thúc đẩy dầu mỏ của Brazil chảy vào châu Âu",
@@ -77,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-20 04:00"
+    },
+    {
+      "id": "1l8ek5p",
+      "title": "Corn, Wheat, Livestock Higher and Soybeans Lower | Thursday, Nov. 19, 2026",
+      "title_vi": "Ngô, lúa mì, chăn nuôi cao hơn và đậu nành thấp hơn | Thứ Năm, ngày 19 tháng 11 năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.agriculture.com/corn-wheat-livestock-higher-and-soybeans-lower-or-thursday-nov-19-2026-12265647",
+      "source": "Successful Farming",
+      "category": "agri",
+      "published": "2026-11-20 03:55"
     },
     {
       "id": "3gjfse",
@@ -143,6 +176,17 @@
       "source": "Traders Union",
       "category": "soft",
       "published": "2026-11-19 21:29"
+    },
+    {
+      "id": "gtem0a",
+      "title": "Silver Price Forecast: Fed Rate Pressure Threatens Further Losses",
+      "title_vi": "Dự báo giá bạc: Áp lực lãi suất của Fed đe dọa thua lỗ thêm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1N0ZjRZUlB4OVlfT2ZFUXdoLTF6UXRVYy15T19laWhNeUlDTFVTUTcxc25VS0xldzY4RVpmMmJla1IwSi0xdWZmc1dPbW95Qi1zT242Rzd4QmRmOEVDeGh1NWIzNmtMWnFSNFZaVXBtVUpCSEE4MU4tSkJyWEtnSGpBdWp3eUdkMHRMRlktbmF6bThnMkdGZXBoVG5tY1pYUGltUWlBa1RUVWJzRnpaSXZJWTdOQQ?oc=5",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-11-19 21:09"
     },
     {
       "id": "lu51lj",
@@ -332,17 +376,6 @@
       "published": "2026-11-19 04:15"
     },
     {
-      "id": "if7e5t",
-      "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
-      "title_vi": "Giá dầu giảm trong bối cảnh kỳ vọng dư cung, căng thẳng ở Trung Đông",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-11-19 04:02"
-    },
-    {
       "id": "1m43o4w",
       "title": "Natural Gas Price Forecast: $3.30 Breakout Could Trigger More Gains",
       "title_vi": "Dự báo giá khí đốt tự nhiên: Đột phá 3,30 USD có thể mang lại nhiều lợi nhuận hơn",
@@ -418,17 +451,6 @@
       "source": "StoneX",
       "category": "metal",
       "published": "2026-11-19 02:28"
-    },
-    {
-      "id": "1pe9dba",
-      "title": "Gold Price Slumps 3% As Silver Also Tumbles: Metals Hit 14-Month Low",
-      "title_vi": "Giá vàng giảm 3% khi bạc cũng giảm: Kim loại chạm mức thấp nhất trong 14 tháng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forbes.com/sites/conormurray/2026/11/18/gold-price-slumps-3-as-silver-also-tumbles-metals-hit-14-month-low/",
-      "source": "Forbes",
-      "category": "metal",
-      "published": "2026-11-19 02:15"
     },
     {
       "id": "n1foxy",
@@ -528,28 +550,6 @@
       "source": "Equitable Growth",
       "category": "macro",
       "published": "2026-11-18 23:29"
-    },
-    {
-      "id": "buxfk0",
-      "title": "Oil Is Estimated to Ease in 2027 as Suppliers Adapt to Hormuz Disruption",
-      "title_vi": "Dầu được ước tính sẽ tăng giá vào năm 2027 khi các nhà cung cấp thích ứng với sự gián đoạn của Hormuz",
-      "summary_vi": "Goldman Sachs Research kỳ vọng giá dầu và LNG châu Âu sẽ giảm vào năm 2027 khi nguồn cung từ Trung Đông tăng lên.",
-      "image": "https://www.goldmansachs.com/images/insights/articles/oil-is-estimated-to-ease-in-2027-as-suppliers-adapt-to-hormuz-disruption/oil-tankers-bug-image-3x2.jpg",
-      "link": "https://www.goldmansachs.com/insights/articles/oil-is-estimated-to-ease-in-2027-as-suppliers-adapt-to-hormuz-disruption",
-      "source": "Goldman Sachs",
-      "category": "energy",
-      "published": "2026-11-18 23:28"
-    },
-    {
-      "id": "top6ea",
-      "title": "Copper at Lowest Since April Amid AI Market Turmoil, Chinese Demand Concerns",
-      "title_vi": "Đồng ở mức thấp nhất kể từ tháng 4 trong bối cảnh thị trường AI hỗn loạn, lo ngại về nhu cầu của Trung Quốc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/copper-at-lowest-since-april-amid-ai-market-turmoil-chinese-demand-concerns-4325361e",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-11-18 23:26"
     }
   ]
 }

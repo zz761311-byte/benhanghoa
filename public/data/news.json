@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-21 06:01",
+  "updated_at": "2026-11-21 06:11",
   "items": [
+    {
+      "id": "hpb1tx",
+      "title": "Oil Prices Fall Despite Hostilities as Flows Increase",
+      "title_vi": "Giá dầu giảm bất chấp sự thù địch khi dòng chảy tăng",
+      "summary_vi": "Mức cao nhất của WTI là 89,50 USD/thùng của ngày thứ Hai trong khi mức thấp nhất là 81,55 USD của ngày thứ Sáu. Dầu thô Brent cũng đạt mức cao nhất vào thứ Hai ở mức 96,75 USD/thùng và mức thấp vào thứ Sáu là 90,05 USD. Chênh lệch giá dầu WTI/Brent...",
+      "image": "https://img.ogj.com/files/base/ebm/ogj/image/website/logos/1752245958870-ogj_horizontalcolor_reg2.png?auto=format,compress&fit=fill&fill=solid&fill-color=&w=1200&h=627",
+      "link": "https://www.ogj.com/general-interest/economics-markets/article/55420777/oil-prices-fall-despite-hostilities-as-flows-increase",
+      "source": "Oil & Gas Journal",
+      "category": "energy",
+      "published": "2026-11-21 06:07"
+    },
     {
       "id": "3sk7u8",
       "title": "Levels, timing: St. Johns River at record or major crest from Cocoa to Astor",
@@ -145,6 +156,17 @@
       "published": "2026-11-21 00:00"
     },
     {
+      "id": "1bgqbiz",
+      "title": "Silver price tumbles over 6% as US Dollar strength and Fed hike fears drive selloff",
+      "title_vi": "Giá bạc giảm hơn 6% do sức mạnh của đồng đô la Mỹ và nỗi lo tăng giá của Fed thúc đẩy làn sóng bán tháo",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://tradersunion.com/news/commodities/show/4345327-silver-slides-6-33percent-today-to/",
+      "source": "Traders Union",
+      "category": "metal",
+      "published": "2026-11-20 23:53"
+    },
+    {
       "id": "al57j9",
       "title": "The Outlook for Stronger Brazil Coffee Exports Weighs on Prices",
       "title_vi": "Triển vọng xuất khẩu cà phê Brazil mạnh hơn ảnh hưởng đến giá",
@@ -165,6 +187,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-20 23:30"
+    },
+    {
+      "id": "s2n96n",
+      "title": "U.S. TOPS THE LIST – Half the World’s Oil Comes From Just Five Countries – Visual Capitalist",
+      "title_vi": "Hoa Kỳ đứng đầu danh sách – Một nửa lượng dầu thế giới đến từ chỉ 5 quốc gia – Visual Capitalist",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/half-the-worlds-oil-comes-from-just-five-countries-visual-capitalist/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-20 22:28"
     },
     {
       "id": "1lrkwix",
@@ -517,39 +550,6 @@
       "source": "Traders Union",
       "category": "soft",
       "published": "2026-11-19 21:29"
-    },
-    {
-      "id": "1ga0mv9",
-      "title": "COMMENTARY: Funds dump copper but Shanghai has run out of metal",
-      "title_vi": "BÌNH LUẬN: Các quỹ bán đồng nhưng Thượng Hải đã hết kim loại",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/commentary/reuters-open-interest/funds-dump-copper-shanghai-has-run-out-metal-2026-11-19/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-11-19 21:26"
-    },
-    {
-      "id": "uy4und",
-      "title": "Will coffee price remain range-bound as resistance limits buying attempts?",
-      "title_vi": "Liệu giá cà phê có duy trì trong phạm vi giới hạn do mức kháng cự hạn chế nỗ lực mua?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://tradersunion.com/news/commodities/show/4320977-coffee-slips-at-usx275-9-today/",
-      "source": "Traders Union",
-      "category": "soft",
-      "published": "2026-11-19 21:18"
-    },
-    {
-      "id": "gtem0a",
-      "title": "Silver Price Forecast: Fed Rate Pressure Threatens Further Losses",
-      "title_vi": "Dự báo giá bạc: Áp lực lãi suất của Fed đe dọa thua lỗ thêm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1N0ZjRZUlB4OVlfT2ZFUXdoLTF6UXRVYy15T19laWhNeUlDTFVTUTcxc25VS0xldzY4RVpmMmJla1IwSi0xdWZmc1dPbW95Qi1zT242Rzd4QmRmOEVDeGh1NWIzNmtMWnFSNFZaVXBtVUpCSEE4MU4tSkJyWEtnSGpBdWp3eUdkMHRMRlktbmF6bThnMkdGZXBoVG5tY1pYUGltUWlBa1RUVWJzRnpaSXZJWTdOQQ?oc=5",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-11-19 21:09"
     }
   ]
 }

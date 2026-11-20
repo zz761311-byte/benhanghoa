@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 02:01",
+  "updated_at": "2026-11-21 03:01",
   "items": [
     {
       "id": "3aau4x",
@@ -101,6 +101,17 @@
       "published": "2026-11-20 22:36"
     },
     {
+      "id": "1lrkwix",
+      "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
+      "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/us-natural-gas-supply-outlook-hinges-on-three-key-shale-basins-maguire/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-20 22:25"
+    },
+    {
       "id": "1g91iox",
       "title": "Flakes on Friday and Saturday | Copper Mountain Daily Snow Forecast",
       "title_vi": "Flakes vào thứ sáu và thứ bảy | Dự báo tuyết hàng ngày trên núi Copper",
@@ -110,6 +121,17 @@
       "source": "OpenSnow",
       "category": "metal",
       "published": "2026-11-20 21:55"
+    },
+    {
+      "id": "1ybj1kh",
+      "title": "Ukrainian Drones Hit Key Russian Oil Hub 1,300 Kilometers From Ukraine",
+      "title_vi": "Máy bay không người lái Ukraine tấn công trung tâm dầu mỏ quan trọng của Nga cách Ukraine 1.300 km",
+      "summary_vi": "Chính quyền Tatarstan xác nhận các cuộc tấn công vào các bể chứa dầu gần Almetyevsk, trong khi một cuộc tấn công bằng máy bay không người lái riêng biệt đã gây ra hỏa hoạn ở trung tâm Kursk.",
+      "image": "https://static.kyivpost.com/storage/2026/11/19/e285f98b2d7a114fdbd292ef49291a8f.png?w=1200&q=90&f=jpg",
+      "link": "https://www.kyivpost.com/post/90575",
+      "source": "Kyiv Post",
+      "category": "energy",
+      "published": "2026-11-20 21:37"
     },
     {
       "id": "55uk1n",
@@ -528,28 +550,6 @@
       "source": "Farm Progress",
       "category": "agri",
       "published": "2026-11-19 15:01"
-    },
-    {
-      "id": "am55c4",
-      "title": "Natural Gas and Oil Forecast: Oil Steadies After Big US Stock Builds, Can WTI Hold $81.13?",
-      "title_vi": "Dự báo về khí đốt tự nhiên và dầu: Dầu ổn định sau khi chứng khoán Mỹ tăng mạnh, WTI có thể giữ được 81,13 USD không?",
-      "summary_vi": "Dự báo về khí đốt và dầu tự nhiên: lượng dầu thô Mỹ tăng 3,4 triệu thùng và đặt cược tăng lãi suất của Fed sẽ giữ giá dầu bị giới hạn khi WTI giữ ở mức 81,13 USD và khí đốt tự nhiên hướng tới 3,42 USD.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-3.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-oil-steadies-after-big-us-stock-builds-can-wti-hold-81-13-1645636",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-11-19 14:17"
-    },
-    {
-      "id": "ze3sdd",
-      "title": "Why Are Gasoline Prices Falling? Thank the Diesel Shortage",
-      "title_vi": "Tại sao giá xăng giảm? Cảm ơn sự thiếu hụt Diesel",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.bloomberg.com/opinion/articles/2026-11-19/gas-prices-are-falling-as-a-side-effect-of-the-diesel-shortage",
-      "source": "Bloomberg.com",
-      "category": "energy",
-      "published": "2026-11-19 12:00"
     }
   ]
 }

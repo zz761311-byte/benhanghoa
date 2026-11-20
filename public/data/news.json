@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-20 15:00",
+  "updated_at": "2026-11-20 15:40",
   "items": [
+    {
+      "id": "myjng",
+      "title": "Oil Prices Edge Higher as Traders Assess Middle East Shipping Risks, Supply Outlook",
+      "title_vi": "Giá dầu tăng cao hơn khi các thương nhân đánh giá rủi ro vận chuyển ở Trung Đông, triển vọng nguồn cung",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-11-20 15:25"
+    },
     {
       "id": "1e4cb3h",
       "title": "Senate Passes Sweeping Energy Permitting Reform Bill in 62-33 Vote",
@@ -55,6 +66,17 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-11-20 07:42"
+    },
+    {
+      "id": "11csip2",
+      "title": "Gold Falls, Weighed by Elevated Yields, Strong Dollar",
+      "title_vi": "Vàng giảm, được cân nhắc bởi lợi suất tăng cao, đồng đô la mạnh",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-11-20 07:18"
     },
     {
       "id": "gi6cwd",
@@ -354,17 +376,6 @@
       "published": "2026-11-19 14:17"
     },
     {
-      "id": "18nv7ap",
-      "title": "Gold hits 14-month low as strong dollar, rate bets weigh",
-      "title_vi": "Vàng chạm mức thấp nhất 14 tháng do đồng đô la mạnh, đặt cược lãi suất đè nặng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-edges-up-14-month-low-markets-assess-fed-rate-outlook-2026-11-19/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-11-19 13:53"
-    },
-    {
       "id": "ze3sdd",
       "title": "Why Are Gasoline Prices Falling? Thank the Diesel Shortage",
       "title_vi": "Tại sao giá xăng giảm? Cảm ơn sự thiếu hụt Diesel",
@@ -539,17 +550,6 @@
       "source": "Bloomberg.com",
       "category": "metal",
       "published": "2026-11-19 02:14"
-    },
-    {
-      "id": "e83xw1",
-      "title": "US Natural Gas Output, Demand to Hit Record Highs in 2026, EIA Says",
-      "title_vi": "EIA cho biết sản lượng khí đốt tự nhiên của Hoa Kỳ sẽ đạt mức cao kỷ lục vào năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/08/us-natural-gas-output-demand-to-hit-record-highs-in-2026-eia-says/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-19 01:54"
     }
   ]
 }

@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-21 01:00",
+  "updated_at": "2026-11-21 02:01",
   "items": [
+    {
+      "id": "3aau4x",
+      "title": "US Data Center Boom Faces a New Political Reality",
+      "title_vi": "Sự bùng nổ trung tâm dữ liệu của Hoa Kỳ phải đối mặt với một thực tế chính trị mới",
+      "summary_vi": "Bắt đầu từ tháng 1, các thống đốc Đảng Dân chủ sẽ lãnh đạo các bang của Hoa Kỳ nắm giữ 77% trong tổng số 300 gigawatt (GW) công suất trung tâm dữ liệu được công bố cho giai đoạn 2027-2030, bao gồm 5 thị trường lớn nhất: Texas, Virginia, Pennsylvania, Ohio và Georgia. Hầu hết các ứng cử viên chiến thắng cắm trại",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-19_jhiit6zsnf.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Data-Center-Boom-Faces-a-New-Political-Reality.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-11-21 02:00"
+    },
+    {
+      "id": "8tuzkc",
+      "title": "Saudi Arabia Expands Oil Storage in Japan as Tokyo Restocks",
+      "title_vi": "Ả Rập Saudi mở rộng kho chứa dầu ở Nhật Bản khi Tokyo bổ sung thêm",
+      "summary_vi": "Nhật Bản có kế hoạch mua tới 8 triệu thùng dầu thô của Saudi cho kho dự trữ xăng dầu quốc gia mà nước này đã cạn kiệt trong cuộc khủng hoảng Hormuz, theo một thỏa thuận mà hai nước đã công bố hôm thứ Sáu khiến việc mua hàng phải tuân theo các điều kiện thị trường thuận lợi. Thỏa thuận này cũng mang lại cho Ả Rập Saudi",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-20_aftx968d7p.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Expands-Oil-Storage-in-Japan-as-Tokyo-Restocks.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-21 01:30"
+    },
+    {
+      "id": "1qyznj6",
+      "title": "U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall",
+      "title_vi": "Các công ty khoan dầu của Hoa Kỳ tăng tốc ngay khi giá dầu giảm",
+      "summary_vi": "Theo dữ liệu mới mà Baker Hughes công bố hôm thứ Sáu, tổng số giàn khoan đang hoạt động ở Mỹ đã tăng trong tuần này, với tổng số giàn khoan ở Mỹ tăng lên 607, tăng 53 giàn so với cùng thời điểm này năm ngoái. Số lượng giàn khoan dầu đang hoạt động tăng",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-20_dslodqtqi3.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Pick-Up-the-Pace-Just-as-Oil-Prices-Fall.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-21 01:09"
+    },
     {
       "id": "o4gclb",
       "title": "Lufthansa to Slash 1,000 Jobs as Airlines Reel from High Fuel Costs",
@@ -68,17 +101,6 @@
       "published": "2026-11-20 22:36"
     },
     {
-      "id": "uzu7pe",
-      "title": "Historic Superpower Summit Delivers Big Promises but Few Breakthroughs",
-      "title_vi": "Hội nghị thượng đỉnh siêu cường lịch sử mang lại những hứa hẹn lớn nhưng ít đột phá",
-      "summary_vi": "Tổng thống Mỹ Donald Trump, nhà lãnh đạo Trung Quốc Tập Cận Bình và Tổng thống Nga Vladimir Putin đã tổ chức cuộc gặp lịch sử bên lề hội nghị thượng đỉnh Hợp tác kinh tế châu Á-Thái Bình Dương (APEC) tại Thâm Quyến, mang lại chiến thắng khiêm tốn cho cả ba người nhưng không có hiệp định nào thay đổi cuộc chơi. lời chào",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-19_cwg4raumh2.jpg",
-      "link": "https://oilprice.com/Geopolitics/Asia/Historic-Superpower-Summit-Delivers-Big-Promises-but-Few-Breakthroughs.html",
-      "source": "OilPrice",
-      "category": "macro",
-      "published": "2026-11-20 22:00"
-    },
-    {
       "id": "1g91iox",
       "title": "Flakes on Friday and Saturday | Copper Mountain Daily Snow Forecast",
       "title_vi": "Flakes vào thứ sáu và thứ bảy | Dự báo tuyết hàng ngày trên núi Copper",
@@ -88,17 +110,6 @@
       "source": "OpenSnow",
       "category": "metal",
       "published": "2026-11-20 21:55"
-    },
-    {
-      "id": "rhl5ft",
-      "title": "Europe Has Already Drained 11% of Its Summer Gas Injections",
-      "title_vi": "Châu Âu đã cạn kiệt 11% lượng khí bơm vào mùa hè",
-      "summary_vi": "Trong vòng chưa đầy một tháng, châu Âu đã giảm 11% lượng khí đốt tự nhiên đã đưa vào kho dự trữ trong mùa hè, kết hợp với điểm xuất phát khí đốt trong kho thấp, làm tăng thêm mối lo ngại về nguồn cung mùa đông. Cho đến nay đã bước vào mùa sưởi ấm, chính thức b",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-20_crdkz6w5mh.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Has-Already-Drained-11-of-Its-Summer-Gas-Injections.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-20 21:30"
     },
     {
       "id": "55uk1n",
@@ -134,17 +145,6 @@
       "published": "2026-11-20 20:56"
     },
     {
-      "id": "b22zhm",
-      "title": "India’s LPG Consumption Hits 8-Month High as Supply Rebounds",
-      "title_vi": "Tiêu thụ LPG của Ấn Độ đạt mức cao nhất trong 8 tháng do nguồn cung phục hồi",
-      "summary_vi": "Tiêu thụ khí hóa lỏng (LPG) của Ấn Độ tăng lên mức cao nhất trong 8 tháng trong tháng 10 do nguồn cung dần phục hồi sau cú sốc mất nguồn hàng từ Trung Đông hồi đầu năm nay. Nhu cầu về LPG, nhiên liệu nấu ăn chính của Ấn Độ, tăng lên 2,6 triệu",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-20_yov7hehq4x.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-LPG-Consumption-Hits-8-Month-High-as-Supply-Rebounds.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-20 20:30"
-    },
-    {
       "id": "1yxpfv3",
       "title": "Corn Futures Slipping Back Lower on Friday Morning",
       "title_vi": "Giá ngô kỳ hạn giảm trở lại vào sáng thứ Sáu",
@@ -176,6 +176,17 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-11-20 17:06"
+    },
+    {
+      "id": "174nuqy",
+      "title": "Gold Prices Hit 14-Month Low as Strong Dollar and Fed Rate Hike Bets Drive Weekly Sell-Off",
+      "title_vi": "Giá vàng chạm mức thấp nhất trong 14 tháng do đồng đô la mạnh và việc đặt cược tăng lãi suất của Fed thúc đẩy đợt bán tháo hàng tuần",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://uk.finance.yahoo.com/news/gold-prices-hit-14-month-095239581.html",
+      "source": "Yahoo Finance UK",
+      "category": "metal",
+      "published": "2026-11-20 16:52"
     },
     {
       "id": "myjng",
@@ -220,17 +231,6 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-11-20 07:42"
-    },
-    {
-      "id": "11csip2",
-      "title": "Gold Falls, Weighed by Elevated Yields, Strong Dollar",
-      "title_vi": "Vàng giảm, được cân nhắc bởi lợi suất tăng cao, đồng đô la mạnh",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-11-20 07:18"
     },
     {
       "id": "e83xw1",
@@ -286,6 +286,17 @@
       "source": "The Motley Fool",
       "category": "metal",
       "published": "2026-11-20 03:26"
+    },
+    {
+      "id": "7u04gh",
+      "title": "Rising St. Johns River likely to flood soon in Seminole, Volusia counties",
+      "title_vi": "Sông St. Johns dâng cao có khả năng sẽ sớm gây lũ lụt ở các quận Seminole, Volusia",
+      "summary_vi": "Sông St. Johns gần Cocoa đạt mức lũ cao kỷ lục vào sáng sớm thứ Năm, phá vỡ kỷ lục trước đó từ năm 1953.",
+      "image": "https://npr.brightspotcdn.com/dims4/default/20e48c1/2147483647/strip/true/crop/2000x1050+0+225/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb1%2F4f%2F6a0a64b64a65971a42b5330a3dfb%2Fvia-mike-poniatowski2.jpg",
+      "link": "https://www.cfpublic.org/environment/2026-11-19/rising-st-johns-river-likely-flood-soon-seminole-volusia-counties",
+      "source": "Central Florida Public Media",
+      "category": "soft",
+      "published": "2026-11-20 03:22"
     },
     {
       "id": "3gjfse",
@@ -539,17 +550,6 @@
       "source": "Bloomberg.com",
       "category": "energy",
       "published": "2026-11-19 12:00"
-    },
-    {
-      "id": "yj5a6u",
-      "title": "Kansas City Wheat price falls nearly 3% as persistent selling pressure and technical weakness dominate",
-      "title_vi": "Giá lúa mì Kansas City giảm gần 3% do áp lực bán dai dẳng và điểm yếu kỹ thuật chiếm ưu thế",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://tradersunion.com/news/commodities/show/4313219-kansas-city-wheat-slides-2-66percent/",
-      "source": "Traders Union",
-      "category": "agri",
-      "published": "2026-11-19 11:41"
     }
   ]
 }

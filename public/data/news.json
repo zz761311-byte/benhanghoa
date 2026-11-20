@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-20 06:01",
+  "updated_at": "2026-11-20 07:01",
   "items": [
+    {
+      "id": "gi6cwd",
+      "title": "Guyana Oil Boom Rekindles Frontier Drilling Appetite",
+      "title_vi": "Sự bùng nổ dầu Guyana khơi dậy sự thèm ăn ở biên giới",
+      "summary_vi": "Exxon công bố trong tuần này rằng tổng sản lượng dầu ở Guyana đã lên tới 1 triệu thùng. Sự biến đổi của Guyana thành một cường quốc dầu mỏ đáng gờm hiện đang thúc đẩy các công ty dầu mỏ khác tìm kiếm cơ hội để lặp lại câu chuyện của Exxon. Nó khá dễ dàng để biết lý do tại sao. Exxon, cùng với nó",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-19_c08wzjfmnr.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Guyana-Oil-Boom-Rekindles-Frontier-Drilling-Appetite.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-20 07:00"
+    },
     {
       "id": "1ld0t05",
       "title": "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage",
@@ -99,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-20 01:00"
-    },
-    {
-      "id": "gyntwc",
-      "title": "How Energy Security Is Reshaping Global Investment Decisions",
-      "title_vi": "An ninh năng lượng đang định hình lại các quyết định đầu tư toàn cầu như thế nào",
-      "summary_vi": "An ninh năng lượng theo truyền thống được coi là một vấn đề chính sách, nhưng chúng ta đang chứng kiến ​​một sự thay đổi cơ bản. Nó ngày càng trở thành một quyết định phân bổ vốn, có ý nghĩa quan trọng đối với các ngân hàng, nhà đầu tư và các công ty tài trợ cho ngành năng lượng. Trên p",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-19_dfwaowt5gc.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/How-Energy-Security-Is-Reshaping-Global-Investment-Decisions.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-20 00:00"
     },
     {
       "id": "epm6ti",
@@ -308,6 +308,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-19 05:49"
+    },
+    {
+      "id": "1dpt99a",
+      "title": "Wheat Price Model Signals Possible PLC Program Payment - RFD-TV",
+      "title_vi": "Tín hiệu mô hình giá lúa mì Có thể thanh toán chương trình PLC - RFD-TV",
+      "summary_vi": "Các khoản thanh toán PLC cuối cùng phụ thuộc vào giá trung bình chính thức của năm tiếp thị của NASS sau khi năm tiếp thị kết thúc. Các nhà sản xuất nên coi mô hình này như một tín hiệu rủi ro sớm chứ không phải một khoản thanh toán được đảm bảo.",
+      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/c2a3c15/2147483647/strip/true/crop/800x449+0+0/resize/730x410!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2F64%2F453d9ab4c530bd9aae5c00aca770%2F18960699-g.jpg",
+      "link": "https://www.rfdtv.com/wheat-price-model-signals-possible-plc-program-payment",
+      "source": "RFD-TV",
+      "category": "agri",
+      "published": "2026-11-19 04:50"
     },
     {
       "id": "7vsctt",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-11-18 23:26"
-    },
-    {
-      "id": "2185xz",
-      "title": "National average price for gas drops below $4 for the first time since July",
-      "title_vi": "Giá xăng trung bình toàn quốc giảm xuống dưới 4 USD lần đầu tiên kể từ tháng 7",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://pennsylvaniaindependent.com/economy/national-average-price-for-gas-drops-below-4-for-the-first-time-since-july/",
-      "source": "The Pennsylvania Independent",
-      "category": "energy",
-      "published": "2026-11-18 23:15"
     }
   ]
 }

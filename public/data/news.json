@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 03:01",
+  "updated_at": "2026-11-21 04:00",
   "items": [
     {
       "id": "3aau4x",
@@ -112,6 +112,17 @@
       "published": "2026-11-20 22:25"
     },
     {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-20 22:23"
+    },
+    {
       "id": "1g91iox",
       "title": "Flakes on Friday and Saturday | Copper Mountain Daily Snow Forecast",
       "title_vi": "Flakes vào thứ sáu và thứ bảy | Dự báo tuyết hàng ngày trên núi Copper",
@@ -154,6 +165,17 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-11-20 21:14"
+    },
+    {
+      "id": "1tkxyzi",
+      "title": "Cocoa price holds near $5,404 resistance amid strong upward momentum",
+      "title_vi": "Giá ca cao giữ gần ngưỡng kháng cự $5,404 trong bối cảnh đà tăng mạnh",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://tradersunion.com/news/commodities/show/4340335-cocoa-rises-2-38percent-today-to/",
+      "source": "Traders Union",
+      "category": "soft",
+      "published": "2026-11-20 21:07"
     },
     {
       "id": "qjm4ck",
@@ -497,6 +519,17 @@
       "published": "2026-11-19 18:56"
     },
     {
+      "id": "am55c4",
+      "title": "Natural Gas and Oil Forecast: Oil Steadies After Big US Stock Builds, Can WTI Hold $81.13?",
+      "title_vi": "Dự báo về khí đốt tự nhiên và dầu: Dầu ổn định sau khi chứng khoán Mỹ tăng mạnh, WTI có thể giữ được 81,13 USD không?",
+      "summary_vi": "Dự báo về khí đốt và dầu tự nhiên: lượng dầu thô Mỹ tăng 3,4 triệu thùng và đặt cược tăng lãi suất của Fed sẽ giữ giá dầu bị giới hạn khi WTI giữ ở mức 81,13 USD và khí đốt tự nhiên hướng tới 3,42 USD.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-3.jpg?width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-oil-steadies-after-big-us-stock-builds-can-wti-hold-81-13-1645636",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-11-19 17:14"
+    },
+    {
       "id": "1gn8mxo",
       "title": "Risks and realities of agricultural commodity market concentration",
       "title_vi": "Rủi ro và thực trạng tập trung thị trường hàng nông sản",
@@ -517,39 +550,6 @@
       "source": "ING Think",
       "category": "energy",
       "published": "2026-11-19 17:09"
-    },
-    {
-      "id": "x8hj1j",
-      "title": "Tereos cuts profit outlook after poor French sugar beet harvest",
-      "title_vi": "Tereos cắt giảm triển vọng lợi nhuận sau vụ thu hoạch củ cải đường kém ở Pháp",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/stock-market-news/tereos-cuts-profit-outlook-after-poor-french-sugar-beet-harvest-93CH-5038200",
-      "source": "Investing.com",
-      "category": "soft",
-      "published": "2026-11-19 16:47"
-    },
-    {
-      "id": "1y93nm0",
-      "title": "FAO Food Outlook: Global food commodity supplies remain generally ample, but risks are mounting",
-      "title_vi": "Triển vọng lương thực của FAO: Nguồn cung thực phẩm toàn cầu nhìn chung vẫn dồi dào nhưng rủi ro đang gia tăng",
-      "summary_vi": "Ấn bản mới xem xét thị trường phân bón, sự gián đoạn xuất khẩu ở Biển Đen và sự phát triển của giá dầu ô liu, váng sữa và thức ăn chăn nuôi.",
-      "image": "https://www.fao.org/media/images/newsroomlibraries/default-album/fonov26cover.jpg?sfvrsn=abf29ce_2",
-      "link": "https://www.fao.org/newsroom/detail/fao-food-outlook--global-food-commodity-supplies-remain-generally-ample--but-risks-are-mounting/en",
-      "source": "Food and Agriculture Organization",
-      "category": "energy",
-      "published": "2026-11-19 16:11"
-    },
-    {
-      "id": "1stkfeg",
-      "title": "What could turn 2027 corn prices?",
-      "title_vi": "Điều gì có thể thay đổi giá ngô năm 2027?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/corn/what-could-turn-2027-corn-prices-",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-11-19 15:01"
     }
   ]
 }

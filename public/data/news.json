@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-20 22:00",
+  "updated_at": "2026-11-20 23:00",
   "items": [
+    {
+      "id": "swj8wr",
+      "title": "China’s Oil Imports from Persian Gulf Jump to Wartime High",
+      "title_vi": "Nhập khẩu dầu của Trung Quốc từ Vịnh Ba Tư tăng lên mức cao thời chiến",
+      "summary_vi": "Nhập khẩu dầu thô của Trung Quốc từ Vịnh Ba Tư đã tăng 42,4% trong tháng 10 so với tháng 9, lên mức cao nhất kể từ khi chiến tranh Iran bắt đầu, do nguồn cung qua eo biển Hormuz phục hồi và các nhà sản xuất vùng Vịnh giảm giá dầu thô của họ để thu hút người mua trong bối cảnh giá cước vận chuyển cao kỷ lục.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-20_mnx6k5wrqi.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Oil-Imports-from-Persian-Gulf-Jump-to-Wartime-High.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-20 22:36"
+    },
     {
       "id": "uzu7pe",
       "title": "Historic Superpower Summit Delivers Big Promises but Few Breakthroughs",
@@ -44,6 +55,28 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-20 21:26"
+    },
+    {
+      "id": "8324sm",
+      "title": "Gold, Silver Drop to Lowest Levels in Over a Year",
+      "title_vi": "Vàng, Bạc giảm xuống mức thấp nhất trong hơn một năm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-silver-drop-to-lowest-levels-in-over-a-year-c657402c",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-11-20 21:14"
+    },
+    {
+      "id": "qjm4ck",
+      "title": "See it: Dozens of animals rescued from farm as intense flooding swamps Florida's Space Coast",
+      "title_vi": "Xem nó: Hàng chục động vật được giải cứu khỏi trang trại khi đầm lầy lũ lụt dữ dội Bờ biển Không gian của Florida",
+      "summary_vi": "Những cơn bão không ngừng gây mưa lớn trên Space Coast của Florida suốt tuần qua, làm ngập lụt các khu vực như Cocoa, Florida.",
+      "image": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/11/1024/512/842_0853.mxf_.06_15_14_32.still005.jpg?ve=1&tl=1",
+      "link": "https://www.foxweather.com/weather-news/see-it-dozens-animals-rescued-intense-flooding-florida-space-coast-november-2026",
+      "source": "FOX Weather",
+      "category": "soft",
+      "published": "2026-11-20 20:56"
     },
     {
       "id": "b22zhm",
@@ -99,17 +132,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-20 19:30"
-    },
-    {
-      "id": "4nh5hj",
-      "title": "Iran Refuses Nuclear Inspections as U.S. Military Threats Mount",
-      "title_vi": "Iran từ chối thanh tra hạt nhân khi các mối đe dọa quân sự của Mỹ gia tăng",
-      "summary_vi": "Iran đã cảnh báo một lần nữa rằng nước này sẽ không cấp quyền tiếp cận các địa điểm và vật liệu hạt nhân của mình cho các thanh sát viên của Liên hợp quốc trong bối cảnh Mỹ tiếp tục đe dọa tấn công quân sự, một quan chức cấp cao của Iran cho biết hôm thứ Sáu. “Chúng tôi sẽ không chấp nhận bị ném bom một mặt vì",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-20_0mkfspioti.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Refuses-Nuclear-Inspections-as-US-Military-Threats-Mount.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-20 18:30"
     },
     {
       "id": "qll1rd",
@@ -220,17 +242,6 @@
       "source": "Traders Union",
       "category": "metal",
       "published": "2026-11-20 05:09"
-    },
-    {
-      "id": "l3ep80",
-      "title": "Gold falls below $3,650, silver tumbles as Fed rate concerns pressure metals - Kitco PM Report",
-      "title_vi": "Vàng giảm xuống dưới 3.650 USD, bạc sụt giảm khi lãi suất của Fed gây áp lực lên kim loại - Báo cáo của Kitco PM",
-      "summary_vi": "(Kitco NewsWire) - Giá vàng và bạc giao ngay giảm mạnh vào cuối phiên giao dịch tại Mỹ hôm thứ Năm, kéo dài đợt bán tháo gần đây do kỳ vọng về lãi suất tiếp theo của Cục Dự trữ Liên bang…",
-      "image": "https://images.kitco.com/img/extract_0_0_1024_575,width_1200,enlarge,format_jpeg/icms/5768df25-c265-4c2d-a489-e51917a45667.jpeg",
-      "link": "https://www.kitco.com/news/article/2026-11-19/gold-falls-below-3650-silver-tumbles-fed-rate-concerns-pressure-metals",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-11-20 04:55"
     },
     {
       "id": "1l8ek5p",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-19 05:49"
-    },
-    {
-      "id": "1dpt99a",
-      "title": "Wheat Price Model Signals Possible PLC Program Payment - RFD-TV",
-      "title_vi": "Tín hiệu mô hình giá lúa mì Có thể thanh toán chương trình PLC - RFD-TV",
-      "summary_vi": "Các khoản thanh toán PLC cuối cùng phụ thuộc vào giá trung bình chính thức của năm tiếp thị của NASS sau khi năm tiếp thị kết thúc. Các nhà sản xuất nên coi mô hình này như một tín hiệu rủi ro sớm chứ không phải một khoản thanh toán được đảm bảo.",
-      "image": "https://rfdtv.brightspotgocdn.com/dims4/default/c2a3c15/2147483647/strip/true/crop/800x449+0+0/resize/730x410!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2F64%2F453d9ab4c530bd9aae5c00aca770%2F18960699-g.jpg",
-      "link": "https://www.rfdtv.com/wheat-price-model-signals-possible-plc-program-payment",
-      "source": "RFD-TV",
-      "category": "agri",
-      "published": "2026-11-19 04:50"
     }
   ]
 }

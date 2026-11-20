@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 10:01",
+  "updated_at": "2026-11-20 11:01",
   "items": [
     {
       "id": "1ndm5a7",
@@ -88,6 +88,17 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-11-20 04:55"
+    },
+    {
+      "id": "skmyj",
+      "title": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes",
+      "title_vi": "Vàng ổn định gần mức thấp nhất trong 14 tháng khi Fed phát tín hiệu tăng lãi suất nhiều hơn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-11-20 04:27"
     },
     {
       "id": "co3nr7",
@@ -231,6 +242,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-19 18:56"
+    },
+    {
+      "id": "1gn8mxo",
+      "title": "Risks and realities of agricultural commodity market concentration",
+      "title_vi": "Rủi ro và thực trạng tập trung thị trường hàng nông sản",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nature.com/articles/s43016-026-01458-2",
+      "source": "Nature",
+      "category": "macro",
+      "published": "2026-11-19 17:11"
     },
     {
       "id": "15gjygi",
@@ -420,17 +442,6 @@
       "published": "2026-11-19 03:15"
     },
     {
-      "id": "16yww8b",
-      "title": "Gold prices remain under pressure as Fed minutes show central bank committed to cooling inflation",
-      "title_vi": "Giá vàng vẫn chịu áp lực khi biên bản của Fed cho thấy ngân hàng trung ương cam kết hạ nhiệt lạm phát",
-      "summary_vi": "(Kitco News) - Giá vàng đã giảm xuống mức thấp nhất trong phiên do Cục Dự trữ Liên bang vẫn cam kết tăng lãi suất để đưa lạm phát xuống mục tiêu 2%, theo báo cáo mới nhất…",
-      "image": "https://images.kitco.com/img/extract_0_51_1000_563,width_1200,enlarge,format_jpeg/icms/01204ca0-fbe3-4463-a3c7-924357e708f0.jpeg",
-      "link": "https://www.kitco.com/news/article/2026-11-18/gold-prices-remain-under-pressure-fed-minutes-show-central-bank-committed",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-11-19 02:43"
-    },
-    {
       "id": "top6ea",
       "title": "Copper at Lowest Since April Amid AI Market Turmoil, Chinese Demand Concerns",
       "title_vi": "Đồng ở mức thấp nhất kể từ tháng 4 trong bối cảnh thị trường AI hỗn loạn, lo ngại về nhu cầu của Trung Quốc",
@@ -539,17 +550,6 @@
       "source": "Florida Today",
       "category": "soft",
       "published": "2026-11-19 00:19"
-    },
-    {
-      "id": "buxfk0",
-      "title": "Oil Is Estimated to Ease in 2027 as Suppliers Adapt to Hormuz Disruption",
-      "title_vi": "Dầu được ước tính sẽ tăng giá vào năm 2027 khi các nhà cung cấp thích ứng với sự gián đoạn của Hormuz",
-      "summary_vi": "Goldman Sachs Research kỳ vọng giá dầu và LNG châu Âu sẽ giảm vào năm 2027 khi nguồn cung từ Trung Đông tăng lên.",
-      "image": "https://www.goldmansachs.com/images/insights/articles/oil-is-estimated-to-ease-in-2027-as-suppliers-adapt-to-hormuz-disruption/oil-tankers-bug-image-3x2.jpg",
-      "link": "https://www.goldmansachs.com/insights/articles/oil-is-estimated-to-ease-in-2027-as-suppliers-adapt-to-hormuz-disruption",
-      "source": "Goldman Sachs",
-      "category": "energy",
-      "published": "2026-11-19 00:12"
     }
   ]
 }

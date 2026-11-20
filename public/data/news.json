@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 09:01",
+  "updated_at": "2026-11-20 10:01",
   "items": [
     {
       "id": "1ndm5a7",
@@ -343,6 +343,17 @@
       "published": "2026-11-19 09:47"
     },
     {
+      "id": "j9rkzi",
+      "title": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026",
+      "title_vi": "Chiến tranh Iran làm đảo lộn triển vọng thị trường dầu mỏ của IEA khi cung và cầu toàn cầu giảm vào năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/iran-war-upends-ieas-oil-market-outlook-as-global-supply-and-demand-to-contract-in-2026/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-19 06:07"
+    },
+    {
       "id": "1lrkwix",
       "title": "US Natural Gas Supply Outlook Hinges on Three Key Shale Basins: Maguire",
       "title_vi": "Triển vọng cung cấp khí đốt tự nhiên của Hoa Kỳ phụ thuộc vào ba lưu vực đá phiến chính: Maguire",
@@ -418,6 +429,17 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-11-19 02:43"
+    },
+    {
+      "id": "top6ea",
+      "title": "Copper at Lowest Since April Amid AI Market Turmoil, Chinese Demand Concerns",
+      "title_vi": "Đồng ở mức thấp nhất kể từ tháng 4 trong bối cảnh thị trường AI hỗn loạn, lo ngại về nhu cầu của Trung Quốc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/copper-at-lowest-since-april-amid-ai-market-turmoil-chinese-demand-concerns-4325361e",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-11-19 02:35"
     },
     {
       "id": "i2wf31",
@@ -519,37 +541,15 @@
       "published": "2026-11-19 00:19"
     },
     {
-      "id": "1gn8mxo",
-      "title": "Risks and realities of agricultural commodity market concentration",
-      "title_vi": "Rủi ro và thực trạng tập trung thị trường hàng nông sản",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nature.com/articles/s43016-026-01458-2",
-      "source": "Nature",
-      "category": "macro",
-      "published": "2026-11-19 00:06"
-    },
-    {
-      "id": "95ykef",
-      "title": "Crude Oil Prices Slump on Ample Global Supplies",
-      "title_vi": "Giá dầu thô sụt giảm do nguồn cung toàn cầu dồi dào",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barchart.com/story/news/8900477/crude-oil-prices-slump-on-ample-global-supplies",
-      "source": "Barchart.com",
+      "id": "buxfk0",
+      "title": "Oil Is Estimated to Ease in 2027 as Suppliers Adapt to Hormuz Disruption",
+      "title_vi": "Dầu được ước tính sẽ tăng giá vào năm 2027 khi các nhà cung cấp thích ứng với sự gián đoạn của Hormuz",
+      "summary_vi": "Goldman Sachs Research kỳ vọng giá dầu và LNG châu Âu sẽ giảm vào năm 2027 khi nguồn cung từ Trung Đông tăng lên.",
+      "image": "https://www.goldmansachs.com/images/insights/articles/oil-is-estimated-to-ease-in-2027-as-suppliers-adapt-to-hormuz-disruption/oil-tankers-bug-image-3x2.jpg",
+      "link": "https://www.goldmansachs.com/insights/articles/oil-is-estimated-to-ease-in-2027-as-suppliers-adapt-to-hormuz-disruption",
+      "source": "Goldman Sachs",
       "category": "energy",
-      "published": "2026-11-18 23:46"
-    },
-    {
-      "id": "1sua1cn",
-      "title": "AI-related inputs drove U.S. businesses’ import growth in 2025",
-      "title_vi": "Đầu vào liên quan đến AI đã thúc đẩy tăng trưởng nhập khẩu của các doanh nghiệp Hoa Kỳ vào năm 2025",
-      "summary_vi": "Tăng trưởng đầu vào nhập khẩu gần đây chủ yếu được thúc đẩy bởi hàng hóa liên quan đến AI và các chính sách thuế quan phức tạp cho đến nay vẫn không thể thay đổi cách các doanh nghiệp Hoa Kỳ tìm nguồn đầu vào.",
-      "image": "https://equitablegrowth.org/wp-content/uploads/2026/11/AI-related-inputs.png",
-      "link": "https://equitablegrowth.org/ai-related-inputs-drove-u-s-businesses-import-growth-in-2025/",
-      "source": "Equitable Growth",
-      "category": "macro",
-      "published": "2026-11-18 23:29"
+      "published": "2026-11-19 00:12"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-20 14:01",
+  "updated_at": "2026-11-20 15:00",
   "items": [
+    {
+      "id": "1e4cb3h",
+      "title": "Senate Passes Sweeping Energy Permitting Reform Bill in 62-33 Vote",
+      "title_vi": "Thượng viện thông qua Dự luật cải cách cấp phép năng lượng sâu rộng trong cuộc bỏ phiếu 62-33",
+      "summary_vi": "Thượng viện đã thông qua Dự luật Việc làm và Giá cả phải chăng của lưỡng đảng Mỹ nhằm mục đích đẩy nhanh quá trình phê duyệt các dự án năng lượng quy mô lớn, bao gồm các nhà máy điện mới, nâng cấp lưới điện và trung tâm dữ liệu. Các thượng nghị sĩ đã bỏ phiếu 62-33 cho dự luật, với đa số đảng viên Đảng Cộng hòa",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-20_uomhokfx5g.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Senate-Passes-Sweeping-Energy-Permitting-Reform-Bill-in-62-33-Vote.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-20 14:30"
+    },
     {
       "id": "x2q07s",
       "title": "Oil Prices Rebound as Houthi Attacks Reignite Middle East Supply Fears",
@@ -143,17 +154,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-20 02:44"
-    },
-    {
-      "id": "vakloh",
-      "title": "EU Moves to Overhaul Emergency Oil Stockpiles",
-      "title_vi": "EU chuyển sang đại tu kho dự trữ dầu khẩn cấp",
-      "summary_vi": "Liên minh Châu Âu muốn các nước dự trữ nhiên liệu mà họ thực sự sử dụng, sau cuộc xung đột kéo dài 9 tháng ở Trung Đông đã bộc lộ vấn đề với nguồn dự trữ dầu khẩn cấp của Châu Âu: có đủ dầu trong kho không nhất thiết có nghĩa là có đủ dầu diesel hoặc máy bay phản lực.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-19_0tdzqj5hke.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Moves-to-Overhaul-Emergency-Oil-Stockpiles.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-20 02:30"
     },
     {
       "id": "w057j7",
@@ -354,6 +354,17 @@
       "published": "2026-11-19 14:17"
     },
     {
+      "id": "18nv7ap",
+      "title": "Gold hits 14-month low as strong dollar, rate bets weigh",
+      "title_vi": "Vàng chạm mức thấp nhất 14 tháng do đồng đô la mạnh, đặt cược lãi suất đè nặng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-edges-up-14-month-low-markets-assess-fed-rate-outlook-2026-11-19/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-11-19 13:53"
+    },
+    {
       "id": "ze3sdd",
       "title": "Why Are Gasoline Prices Falling? Thank the Diesel Shortage",
       "title_vi": "Tại sao giá xăng giảm? Cảm ơn sự thiếu hụt Diesel",
@@ -374,17 +385,6 @@
       "source": "Traders Union",
       "category": "agri",
       "published": "2026-11-19 11:41"
-    },
-    {
-      "id": "1nezb8e",
-      "title": "Strong dollar, tighter Fed policy bets leave gold to languish at 14-month low",
-      "title_vi": "Đồng đô la mạnh, đặt cược chính sách chặt chẽ hơn của Fed khiến vàng suy yếu ở mức thấp nhất trong 14 tháng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzSmhHOXhFdnBjdTJSSHQ5eENObngzd3UwdF9SOFNkV1NlSlRONkEzSzJXaGZZNTlxV3VlXzVNV2E5MV9hb3RKREJfS0VCM213X1VZTUpTRGNFanc2dHBHLVZzRk9qVkFIVlZwcVBtOUhaMHNmUkRBNGF30gF_QVVfeXFMTVdQV0Z4T1c2TlFoWi00UVZPbFJxdTVlVUwtcHRiX1NvWDQ3X09FcnhzbmRhdnBTRnVYUURCcDZaWEZJYWpSdzVfVGRoQ2NrNWFSdjNVMjREYUtGNGU5U1p5dWhONUVJVTJTYWhqSURFbGVSSGhTNVdaOUctczVUcw?oc=5",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-11-19 10:28"
     },
     {
       "id": "1d7j8so",

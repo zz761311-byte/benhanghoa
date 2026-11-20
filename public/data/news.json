@@ -1,6 +1,72 @@
 {
-  "updated_at": "2026-11-21 04:00",
+  "updated_at": "2026-11-21 06:01",
   "items": [
+    {
+      "id": "3sk7u8",
+      "title": "Levels, timing: St. Johns River at record or major crest from Cocoa to Astor",
+      "title_vi": "Cấp độ, thời gian: Sông St. Johns đạt kỷ lục hoặc đỉnh cao từ Cocoa đến Astor",
+      "summary_vi": "Theo thông tin được chia sẻ hôm thứ Sáu bởi Khu quản lý nước sông St. Johns, sông St. Johns đã đạt mức cao nhất hoặc kỷ lục ở các khu vực trải dài các quận Brevard, Seminole, Volusia và Lake.",
+      "image": "https://kubrick.htvapps.com/vidthumb/b56d63e2-a059-405a-8151-797e19f05957/9091a400-7f8d-4147-a0c5-2e7b8299dae7.jpg?crop=0.824xw%3A0.824xh%3B0.168xw%2C0&resize=1200%3A*",
+      "link": "https://www.wesh.com/article/st-johns-river-flooding-cocoa-astor/74494860",
+      "source": "WESH",
+      "category": "soft",
+      "published": "2026-11-21 05:54"
+    },
+    {
+      "id": "16ehoki",
+      "title": "Argentine Energy Firms Rush to Sell Bonds Before the 2027 Election",
+      "title_vi": "Các công ty năng lượng Argentina gấp rút bán trái phiếu trước cuộc bầu cử năm 2027",
+      "summary_vi": "Ngành năng lượng của Argentina đang có một năm thành công. Nửa đầu năm 2026 chứng kiến ​​cán cân thương mại năng lượng tốt nhất của quốc gia Nam Mỹ trong nửa thập kỷ khi xuất khẩu bùng nổ nhờ xuất khẩu từ Trung Đông giảm và số lượng sản xuất tăng mạnh từ khu vực đá phiến Vaca Muerta.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-20_igtpxkdouz.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Argentine-Energy-Firms-Rush-to-Sell-Bonds-Before-the-2027-Election.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-11-21 05:00"
+    },
+    {
+      "id": "jsg2db",
+      "title": "Citi closes long sugar call with stop-loss, keeps bullish outlook",
+      "title_vi": "Citi kết thúc lệnh mua đường với lệnh dừng lỗ, giữ triển vọng tăng giá",
+      "summary_vi": "Citi đã đóng vị thế mua đường dài của mình khi hết hạn vào tháng 7 (SBN7C) vào thứ Sáu với mức lỗ 47 xu, sau khi tín hiệu dừng lỗ được kích hoạt, ngân hàng cho biết trong một ghi chú.",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N471228:0-citi-closes-long-sugar-call-with-stop-loss-keeps-bullish-outlook/",
+      "source": "TradingView",
+      "category": "soft",
+      "published": "2026-11-21 04:49"
+    },
+    {
+      "id": "1o4d22o",
+      "title": "Trump’s Misguided Claim That ‘They’ Waited to Lower Gas Prices Until After the Midterms",
+      "title_vi": "Tuyên bố sai lầm của Trump rằng 'Họ' đã chờ đợi để giảm giá xăng cho đến sau cuộc bầu cử giữa kỳ",
+      "summary_vi": "Giá xăng đang có xu hướng giảm, giảm khoảng 75 xu mỗi gallon kể từ ngày 24 tháng 9, mặc dù giá vẫn cao hơn khoảng 69 xu so với thời điểm này một năm trước. Trong một bài đăng trên mạng xã hội vào ngày 17 tháng 11, Tổng thống Donald Trump đã sai khi cho rằng có động cơ chính trị đằng sau việc giá cả giảm làm tổn hại đến nền Cộng hòa.",
+      "image": "https://cdn.factcheck.org/UploadedFiles/Gas-Pump-720-x-307.png",
+      "link": "https://www.factcheck.org/2026/11/trumps-misguided-claim-that-they-waited-to-lower-gas-prices-until-after-the-midterms/",
+      "source": "FactCheck.org",
+      "category": "energy",
+      "published": "2026-11-21 04:24"
+    },
+    {
+      "id": "lhddeq",
+      "title": "'Very interesting': Trump suggests recent gas price drops are linked to the election",
+      "title_vi": "'Rất thú vị': Trump cho rằng việc giảm giá xăng gần đây có liên quan đến cuộc bầu cử",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://finance.yahoo.com/energy/article/very-interesting-trump-suggests-recent-gas-price-drops-are-linked-to-the-election-193449064.html",
+      "source": "Yahoo Finance",
+      "category": "energy",
+      "published": "2026-11-21 02:34"
+    },
+    {
+      "id": "1hl6289",
+      "title": "Improved Supply Outlook Weighs on Sugar Prices",
+      "title_vi": "Triển vọng nguồn cung được cải thiện ảnh hưởng đến giá đường",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barchart.com/story/news/8941176/improved-supply-outlook-weighs-on-sugar-prices",
+      "source": "Barchart.com",
+      "category": "soft",
+      "published": "2026-11-21 02:20"
+    },
     {
       "id": "3aau4x",
       "title": "US Data Center Boom Faces a New Political Reality",
@@ -33,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-21 01:09"
+    },
+    {
+      "id": "eadzzz",
+      "title": "The Fed - Europe’s Natural Gas Outlook for the Upcoming Winter 2026/2027",
+      "title_vi": "Fed - Triển vọng khí đốt tự nhiên của Châu Âu cho mùa đông sắp tới 2026/2027",
+      "summary_vi": "Hội đồng Thống đốc Cục Dự trữ Liên bang ở Washington DC.",
+      "image": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+      "link": "https://www.federalreserve.gov/econres/notes/feds-notes/europes-natural-gas-outlook-for-the-upcoming-winter-2026-2027-20261120.html",
+      "source": "Federal Reserve (.gov)",
+      "category": "energy",
+      "published": "2026-11-21 01:06"
     },
     {
       "id": "o4gclb",
@@ -88,17 +165,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-20 23:30"
-    },
-    {
-      "id": "swj8wr",
-      "title": "China’s Oil Imports from Persian Gulf Jump to Wartime High",
-      "title_vi": "Nhập khẩu dầu của Trung Quốc từ Vịnh Ba Tư tăng lên mức cao thời chiến",
-      "summary_vi": "Nhập khẩu dầu thô của Trung Quốc từ Vịnh Ba Tư đã tăng 42,4% trong tháng 10 so với tháng 9, lên mức cao nhất kể từ khi chiến tranh Iran bắt đầu, do nguồn cung qua eo biển Hormuz phục hồi và các nhà sản xuất vùng Vịnh giảm giá dầu thô của họ để thu hút người mua trong bối cảnh giá cước vận chuyển cao kỷ lục.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-20_mnx6k5wrqi.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Oil-Imports-from-Persian-Gulf-Jump-to-Wartime-High.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-20 22:36"
     },
     {
       "id": "1lrkwix",
@@ -253,6 +319,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-11-20 14:19"
+    },
+    {
+      "id": "bpsn58",
+      "title": "Stocks and commodities plunge deep into red as tariff spat intensifies",
+      "title_vi": "Cổ phiếu và hàng hóa chìm sâu trong sắc đỏ khi thuế quan gia tăng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forex.com/ie/news-and-analysis/stocks-and-commodities-plunge-deep-into-red-as-tariff-spat-intensifies/",
+      "source": "FOREX.com",
+      "category": "macro",
+      "published": "2026-11-20 13:09"
     },
     {
       "id": "i5284u",
@@ -473,83 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-11-19 21:09"
-    },
-    {
-      "id": "lu51lj",
-      "title": "Three Questions with &#8220;The Little Bean That Grew to Brew&#8221; Author and Artist Wendra Lynne",
-      "title_vi": "Ba câu hỏi với tác giả và nghệ sĩ “The Little Bean That Grew to Brew” Wendra Lynne",
-      "summary_vi": "Tác giả và họa sĩ minh họa Wendra Lynne đã phát hành cuốn sách ảnh thứ hai của mình, “The Little Bean That Grew to Brew”, sau chiến dịch Kickstarter thành công cho dự án được xuất bản độc lập. Câu chuyện...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/11/19/three-questions-with-the-little-bean-that-grew-to-brew-author-and-artist-wendra-lynne/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-11-19 20:57"
-    },
-    {
-      "id": "1g1xaw5",
-      "title": "Kansas City Wheat price rises nearly 3% as short-term buying pressure boosts intraday momentum",
-      "title_vi": "Giá lúa mì Kansas City tăng gần 3% do áp lực mua ngắn hạn thúc đẩy đà trong ngày",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWVRDNFNseXJDNWFtSXdrRWd4VDltLThPMTRJbDJIeXpRTmhoem4yQWQ5dl8xN0dDYmpITkZHcFhjNFJrbHJrY0NGWGZxb0I1MzJKeExYSkdBZ1dXVVFXYkk3MDEtWFFnenNCNnBZOHlUREUxRGVjN0E1ZVdaeWVuOU9rUXNxeWZ4RDFObXR1TFdiZVJ5QlE?oc=5",
-      "source": "Traders Union",
-      "category": "agri",
-      "published": "2026-11-19 20:48"
-    },
-    {
-      "id": "6p1qkj",
-      "title": "US's Greer to join EU trade ministers as metals tariff deadline nears",
-      "title_vi": "Greer của Hoa Kỳ sẽ tham gia cùng các bộ trưởng thương mại EU khi thời hạn áp thuế kim loại sắp đến gần",
-      "summary_vi": "Đại diện Thương mại Hoa Kỳ Jamieson Greer sẽ nói chuyện với các bộ trưởng thương mại EU vào ngày 30 tháng 11, một ngày trước khi Ủy ban Châu Âu phải báo cáo với các nhà lập pháp và chính phủ EU về thuế quan của Hoa Kỳ đối với các sản phẩm phái sinh thép và nhôm từ khối này. Hà Lan có kế hoạch cảnh báo thuế quan của Mỹ nhằm khuyến khích sự gia tăng sản xuất trong nước",
-      "image": "https://www.mlex.com/images/.png",
-      "link": "https://www.mlex.com/mlex/trade/articles/2552148/us-s-greer-to-join-eu-trade-ministers-as-metals-tariff-deadline-nears",
-      "source": "MLex",
-      "category": "metal",
-      "published": "2026-11-19 19:43"
-    },
-    {
-      "id": "s2n96n",
-      "title": "U.S. TOPS THE LIST – Half the World’s Oil Comes From Just Five Countries – Visual Capitalist",
-      "title_vi": "Hoa Kỳ đứng đầu danh sách – Một nửa lượng dầu thế giới đến từ chỉ 5 quốc gia – Visual Capitalist",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/half-the-worlds-oil-comes-from-just-five-countries-visual-capitalist/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-19 18:56"
-    },
-    {
-      "id": "am55c4",
-      "title": "Natural Gas and Oil Forecast: Oil Steadies After Big US Stock Builds, Can WTI Hold $81.13?",
-      "title_vi": "Dự báo về khí đốt tự nhiên và dầu: Dầu ổn định sau khi chứng khoán Mỹ tăng mạnh, WTI có thể giữ được 81,13 USD không?",
-      "summary_vi": "Dự báo về khí đốt và dầu tự nhiên: lượng dầu thô Mỹ tăng 3,4 triệu thùng và đặt cược tăng lãi suất của Fed sẽ giữ giá dầu bị giới hạn khi WTI giữ ở mức 81,13 USD và khí đốt tự nhiên hướng tới 3,42 USD.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images-3.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-oil-steadies-after-big-us-stock-builds-can-wti-hold-81-13-1645636",
-      "source": "FXEmpire",
-      "category": "energy",
-      "published": "2026-11-19 17:14"
-    },
-    {
-      "id": "1gn8mxo",
-      "title": "Risks and realities of agricultural commodity market concentration",
-      "title_vi": "Rủi ro và thực trạng tập trung thị trường hàng nông sản",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nature.com/articles/s43016-026-01458-2",
-      "source": "Nature",
-      "category": "macro",
-      "published": "2026-11-19 17:11"
-    },
-    {
-      "id": "15gjygi",
-      "title": "The Commodities Feed: Metals under pressure while oil supply improves",
-      "title_vi": "Nguồn cấp dữ liệu hàng hóa: Kim loại chịu áp lực trong khi nguồn cung dầu được cải thiện",
-      "summary_vi": "Dầu trượt dốc khi nguồn cung phục hồi, tình trạng thắt chặt nhôm vẫn tiếp diễn",
-      "image": "https://think.ing.com/uploads/hero/_w800h450/shutterstock_2686865231.jpg",
-      "link": "https://think.ing.com/articles/the-commodities-feed-gold-slides-to-lowest-since-october-2025/",
-      "source": "ING Think",
-      "category": "energy",
-      "published": "2026-11-19 17:09"
     }
   ]
 }

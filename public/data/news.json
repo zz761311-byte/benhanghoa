@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 05:01",
+  "updated_at": "2026-11-22 06:01",
   "items": [
     {
       "id": "1rpg3eq",
@@ -110,6 +110,17 @@
       "source": "OilPrice",
       "category": "macro",
       "published": "2026-11-21 05:00"
+    },
+    {
+      "id": "3gjfse",
+      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
+      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-21 04:56"
     },
     {
       "id": "jsg2db",
@@ -539,17 +550,6 @@
       "source": "Investing.com",
       "category": "metal",
       "published": "2026-11-20 05:42"
-    },
-    {
-      "id": "1qej27r",
-      "title": "Why is Palladium price down 4.4% today?",
-      "title_vi": "Tại sao giá Palladium hôm nay giảm 4,4%?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://tradersunion.com/news/commodities/show/4329155-palladium-slides-4-43percent-today/",
-      "source": "Traders Union",
-      "category": "metal",
-      "published": "2026-11-20 05:09"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 16:00",
+  "updated_at": "2026-11-21 17:00",
   "items": [
     {
       "id": "qyz3ra",
@@ -143,6 +143,17 @@
       "source": "Federal Reserve (.gov)",
       "category": "energy",
       "published": "2026-11-21 01:06"
+    },
+    {
+      "id": "hgr9se",
+      "title": "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition",
+      "title_vi": "Tại Hội nghị thượng đỉnh APEC, Mỹ, Trung Quốc và Nga cam kết tăng nguồn cung dầu trong bối cảnh chuyển đổi năng lượng toàn cầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
+      "source": "The New York Times",
+      "category": "energy",
+      "published": "2026-11-21 00:45"
     },
     {
       "id": "o4gclb",
@@ -539,17 +550,6 @@
       "source": "StoneX",
       "category": "metal",
       "published": "2026-11-20 01:13"
-    },
-    {
-      "id": "w057j7",
-      "title": "IEA sees potential for looser oil, LNG markets after Hormuz crisis",
-      "title_vi": "IEA nhận thấy tiềm năng thị trường dầu, LNG lỏng lẻo hơn sau cuộc khủng hoảng Hormuz",
-      "summary_vi": "IEA cho biết thị trường dầu khí có thể phải đối mặt với nguồn cung dồi dào và giá thấp hơn nếu tình trạng gián đoạn ở Trung Đông giảm bớt, nhưng thời gian và quy mô phục hồi vẫn chưa chắc chắn.",
-      "image": "https://img.ogj.com/files/base/ebm/ogj/image/2026/11/6aff32d16143d1aca42a3c8a-20026iea_outlook.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-      "link": "https://www.ogj.com/general-interest/economics-markets/news/55420309/iea-sees-potential-for-looser-oil-lng-markets-after-hormuz-crisis",
-      "source": "Oil & Gas Journal",
-      "category": "energy",
-      "published": "2026-11-20 00:53"
     }
   ]
 }

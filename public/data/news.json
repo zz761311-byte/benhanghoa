@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-21 07:01",
+  "updated_at": "2026-11-21 08:01",
   "items": [
+    {
+      "id": "qyz3ra",
+      "title": "Copper price sinks into bear market, erasing 2026 gains in worst week of the year",
+      "title_vi": "Giá đồng chìm vào thị trường giá xuống, xóa đi mức tăng năm 2026 trong tuần tồi tệ nhất trong năm",
+      "summary_vi": "Benchmark cho biết sức hút của AI đối với đồng là \"hơi quá đáng\", và kim loại chất đống ở Mỹ do đặt cược thuế quan hiện đang được chuyển đến Trung Quốc, nơi các nhà giao dịch đang phải trả phí bảo hiểm 500 USD.",
+      "image": "https://www.mining.com/wp-content/uploads/2025/10/AdobeStock_870897907-scaled-e1760828605896.jpeg",
+      "link": "https://www.mining.com/copper-price-sinks-into-bear-market-erasing-2026-gains-in-worst-week-of-the-year/",
+      "source": "Mining.com",
+      "category": "metal",
+      "published": "2026-11-21 07:15"
+    },
     {
       "id": "1jebwk2",
       "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-19 22:10"
-    },
-    {
-      "id": "1sx7707",
-      "title": "Oil flows through Middle East chokepoints increased in the third quarter",
-      "title_vi": "Lưu lượng dầu qua các điểm nghẽn ở Trung Đông tăng trong quý 3",
-      "summary_vi": "Cơ quan Thông tin Năng lượng - EIA - Thống kê Năng lượng Chính thức của Chính phủ Hoa Kỳ",
-      "image": "",
-      "link": "https://www.eia.gov/todayinenergy/detail.php?id",
-      "source": "U.S. Energy Information Administration (EIA) (.gov)",
-      "category": "energy",
-      "published": "2026-11-19 21:49"
     }
   ]
 }

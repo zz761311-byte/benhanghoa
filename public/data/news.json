@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 15:00",
+  "updated_at": "2026-11-21 16:00",
   "items": [
     {
       "id": "qyz3ra",
@@ -464,6 +464,17 @@
       "published": "2026-11-20 06:02"
     },
     {
+      "id": "epm6ti",
+      "title": "Palladium hits 52-week low as surplus outlook overwhelms tight mine supply",
+      "title_vi": "Palladium chạm mức thấp nhất trong 52 tuần do triển vọng dư thừa lấn át nguồn cung mỏ thắt chặt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.investing.com/news/commodities-news/palladium-hits-52week-low-as-surplus-outlook-overwhelms-tight-mine-supply-93CH-5039478",
+      "source": "Investing.com",
+      "category": "metal",
+      "published": "2026-11-20 05:42"
+    },
+    {
       "id": "1qej27r",
       "title": "Why is Palladium price down 4.4% today?",
       "title_vi": "Tại sao giá Palladium hôm nay giảm 4,4%?",
@@ -539,17 +550,6 @@
       "source": "Oil & Gas Journal",
       "category": "energy",
       "published": "2026-11-20 00:53"
-    },
-    {
-      "id": "hgr9se",
-      "title": "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition",
-      "title_vi": "Tại Hội nghị thượng đỉnh APEC, Mỹ, Trung Quốc và Nga cam kết tăng nguồn cung dầu trong bối cảnh chuyển đổi năng lượng toàn cầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-11-20 00:25"
     }
   ]
 }

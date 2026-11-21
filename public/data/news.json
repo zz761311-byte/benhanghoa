@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-22 00:01",
+  "updated_at": "2026-11-22 01:01",
   "items": [
+    {
+      "id": "1koupz9",
+      "title": "Britain&#039;s Net Zero Revolution Has a China Problem",
+      "title_vi": "Cuộc cách mạng Net Zero của Anh có vấn đề với Trung Quốc",
+      "summary_vi": "Chính phủ Đảng Lao động đã bị cáo buộc “đầu hàng” trong quan hệ thương mại với Trung Quốc khi quá trình chuyển đổi sang mức 0 ròng của Anh phải đối mặt với một số rủi ro an ninh. Một báo cáo mới, được công bố ngay trước cuộc gặp ba bên quan trọng của Tổng thống Trump với Tập Cận Bình và Vladimir Puti",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-19_t2yizds0kx.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Revolution-Has-a-China-Problem.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-22 01:00"
+    },
     {
       "id": "dngfef",
       "title": "UK Races to Rewrite Nuclear Rules by 2027",
@@ -176,17 +187,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-21 00:30"
-    },
-    {
-      "id": "6r053d",
-      "title": "Tankers Are Being Hit Daily. So Why Is Oil Falling?",
-      "title_vi": "Tàu chở dầu đang bị tấn công hàng ngày. Vậy tại sao dầu lại giảm?",
-      "summary_vi": "Dầu Brent đã giảm 5% xuống còn 91 USD trong tuần này, do dòng dầu vùng Vịnh phục hồi vượt trội so với các cuộc tấn công của tàu chở dầu, các mối đe dọa của Houthi và căng thẳng địa chính trị leo thang. Thứ sáu, ngày 20 tháng 11 năm 2026 Giá dầu dự kiến ​​​​sẽ giảm 5% hàng tuần do tâm lý vẫn bị ảnh hưởng bởi lượng dầu dồi dào ở Trung Đông chảy vào",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-20_qlfqaer527.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Tankers-Are-Being-Hit-Daily-So-Why-Is-Oil-Falling.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-21 00:11"
     },
     {
       "id": "1bgqbiz",
@@ -398,6 +398,17 @@
       "published": "2026-11-20 15:25"
     },
     {
+      "id": "vkt8yl",
+      "title": "How popular is Donald Trump?",
+      "title_vi": "Donald Trump được yêu thích đến mức nào?",
+      "summary_vi": "Xếp hạng phê duyệt của Silver Bulletin dành cho Tổng thống Trump - và tất cả các tổng thống kể từ Truman.",
+      "image": "https://substackcdn.com/image/fetch/$s_!Xfx5!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47c9842-cfbc-4300-8bea-3c73291e02c3_1200x634.jpeg",
+      "link": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
+      "source": "Silver Bulletin",
+      "category": "metal",
+      "published": "2026-11-20 15:00"
+    },
+    {
       "id": "14shngb",
       "title": "India’s Sugar Industry",
       "title_vi": "Ngành đường của Ấn Độ",
@@ -539,17 +550,6 @@
       "source": "The Motley Fool",
       "category": "metal",
       "published": "2026-11-20 03:26"
-    },
-    {
-      "id": "7u04gh",
-      "title": "Rising St. Johns River likely to flood soon in Seminole, Volusia counties",
-      "title_vi": "Sông St. Johns dâng cao có khả năng sẽ sớm gây lũ lụt ở các quận Seminole, Volusia",
-      "summary_vi": "Sông St. Johns gần Cocoa đạt mức lũ cao kỷ lục vào sáng sớm thứ Năm, phá vỡ kỷ lục trước đó từ năm 1953.",
-      "image": "https://npr.brightspotcdn.com/dims4/default/20e48c1/2147483647/strip/true/crop/2000x1050+0+225/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb1%2F4f%2F6a0a64b64a65971a42b5330a3dfb%2Fvia-mike-poniatowski2.jpg",
-      "link": "https://www.cfpublic.org/environment/2026-11-19/rising-st-johns-river-likely-flood-soon-seminole-volusia-counties",
-      "source": "Central Florida Public Media",
-      "category": "soft",
-      "published": "2026-11-20 03:22"
     }
   ]
 }

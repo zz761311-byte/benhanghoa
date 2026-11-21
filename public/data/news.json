@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 01:01",
+  "updated_at": "2026-11-22 02:01",
   "items": [
     {
       "id": "1koupz9",
@@ -321,6 +321,17 @@
       "published": "2026-11-20 20:56"
     },
     {
+      "id": "17s6p0p",
+      "title": "Silver crash: is 2026 repeating the 2011 collapse, or is this time different?",
+      "title_vi": "Vụ sụp đổ bạc: năm 2026 có lặp lại sự sụp đổ năm 2011 hay lần này sẽ khác?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.forex.com/en-us/news-and-analysis/silver-crash-2026-vs-2011-collapse/",
+      "source": "FOREX.com",
+      "category": "metal",
+      "published": "2026-11-20 20:49"
+    },
+    {
       "id": "1yxpfv3",
       "title": "Corn Futures Slipping Back Lower on Friday Morning",
       "title_vi": "Giá ngô kỳ hạn giảm trở lại vào sáng thứ Sáu",
@@ -396,6 +407,17 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-11-20 15:25"
+    },
+    {
+      "id": "gzv9cy",
+      "title": "Higher fuel prices seep into core inflation",
+      "title_vi": "Giá nhiên liệu cao hơn ảnh hưởng đến lạm phát cơ bản",
+      "summary_vi": "Năng lượng và thực phẩm được loại trừ khi tính toán lạm phát cơ bản, nhưng giá nhiên liệu cao hơn sẽ gián tiếp ảnh hưởng đến lạm phát cơ bản thông qua tác động của chúng lên giá của hàng hóa và dịch vụ tiêu dùng khác.",
+      "image": "https://www.dallasfed.org/-/media/Images/research/economics/2026/1119/semis-warehouse-pri.jpg",
+      "link": "https://www.dallasfed.org/research/economics/2026/1119",
+      "source": "Federal Reserve Bank of Dallas",
+      "category": "energy",
+      "published": "2026-11-20 15:09"
     },
     {
       "id": "vkt8yl",
@@ -528,28 +550,6 @@
       "source": "Traders Union",
       "category": "metal",
       "published": "2026-11-20 05:09"
-    },
-    {
-      "id": "1l8ek5p",
-      "title": "Corn, Wheat, Livestock Higher and Soybeans Lower | Thursday, Nov. 19, 2026",
-      "title_vi": "Ngô, lúa mì, chăn nuôi cao hơn và đậu nành thấp hơn | Thứ Năm, ngày 19 tháng 11 năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.agriculture.com/corn-wheat-livestock-higher-and-soybeans-lower-or-thursday-nov-19-2026-12265647",
-      "source": "Successful Farming",
-      "category": "agri",
-      "published": "2026-11-20 03:55"
-    },
-    {
-      "id": "18yhk3n",
-      "title": "Prediction: Silver Will Be Worth This Much By the End of 2027",
-      "title_vi": "Dự đoán: Bạc sẽ có giá trị lớn như vậy vào cuối năm 2027",
-      "summary_vi": "Kim loại quý có thể chạm đáy ở mức này.",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F961c7574f2a3d2629b6e3c78f73014cf5fc7761d-8000x4500.jpg&w=1200&op=resize",
-      "link": "https://www.fool.com/investing/2026/11/19/prediction-silver-will-be-worth-this-much-by-the-end-of-2027/",
-      "source": "The Motley Fool",
-      "category": "metal",
-      "published": "2026-11-20 03:26"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 21:00",
+  "updated_at": "2026-11-21 22:00",
   "items": [
     {
       "id": "qyz3ra",
@@ -343,6 +343,17 @@
       "published": "2026-11-20 19:43"
     },
     {
+      "id": "oxgzbp",
+      "title": "Global wheat outlook pressures wheat market",
+      "title_vi": "Triển vọng lúa mì toàn cầu gây áp lực lên thị trường lúa mì",
+      "summary_vi": "Triển vọng lúa mì toàn cầu từ Bộ Nông nghiệp Hoa Kỳ (USDA) đang kêu gọi nguồn cung cao hơn, mức tiêu thụ lớn hơn, thương mại thấp hơn và tồn kho lớn hơn, và điều đó đang gây áp lực lên thị trường lúa mì.",
+      "image": "https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/2/03/2038714e-cd55-497c-b6bb-a65ed2d69c63/6afd2558a9ad1.image.jpg?crop=900%2C473%2C0%2C16",
+      "link": "https://agupdate.com/farmandranchguide/markets/crop/article_6ad682d2-c43a-4583-b7f5-f1f307638168.html",
+      "source": "AgUpdate",
+      "category": "agri",
+      "published": "2026-11-20 19:00"
+    },
+    {
       "id": "qll1rd",
       "title": "High Risk of excessive rainfall covers Florida’s Space Coast as St. Johns River near Cocoa reaches 5.67 m - The Watchers",
       "title_vi": "Nguy cơ cao về lượng mưa quá mức bao trùm Bờ biển Không gian của Florida khi Sông St. Johns gần Cocoa đạt 5,67 m - The Watchers",
@@ -539,17 +550,6 @@
       "source": "Central Florida Public Media",
       "category": "soft",
       "published": "2026-11-20 03:22"
-    },
-    {
-      "id": "3gjfse",
-      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
-      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-20 02:44"
     }
   ]
 }

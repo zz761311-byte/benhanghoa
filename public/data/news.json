@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 14:00",
+  "updated_at": "2026-11-21 15:00",
   "items": [
     {
       "id": "qyz3ra",
@@ -321,6 +321,17 @@
       "published": "2026-11-20 20:28"
     },
     {
+      "id": "1e9fo9w",
+      "title": "Wheat Prices Slip as Global Supply Outlook Brightens",
+      "title_vi": "Giá lúa mì trượt dốc khi triển vọng nguồn cung toàn cầu sáng sủa hơn",
+      "summary_vi": "Giá lúa mì giảm xuống gần 5,70 USD/giạ do IGC nâng dự báo sản lượng lúa mì toàn cầu niên vụ 2026/27 lên 826 triệu tấn và thu hoạch của Argentina vượt quá mong đợi, trong khi dòng thương mại ngũ cốc ở Biển Đen vẫn sôi động.",
+      "image": "https://www.indexbox.io/landing/img/blog/telegram-fallback/7110604c54702be1be568d66d720d260.webp",
+      "link": "https://www.indexbox.io/blog/wheat-prices-slip-as-global-supply-outlook-brightens/",
+      "source": "IndexBox",
+      "category": "agri",
+      "published": "2026-11-20 19:43"
+    },
+    {
       "id": "qll1rd",
       "title": "High Risk of excessive rainfall covers Florida’s Space Coast as St. Johns River near Cocoa reaches 5.67 m - The Watchers",
       "title_vi": "Nguy cơ cao về lượng mưa quá mức bao trùm Bờ biển Không gian của Florida khi Sông St. Johns gần Cocoa đạt 5,67 m - The Watchers",
@@ -363,6 +374,17 @@
       "source": "WSJ",
       "category": "energy",
       "published": "2026-11-20 15:25"
+    },
+    {
+      "id": "14shngb",
+      "title": "India’s Sugar Industry",
+      "title_vi": "Ngành đường của Ấn Độ",
+      "summary_vi": "Cục Thông tin Báo chí (PIB) là cơ quan đầu mối của Chính phủ Ấn Độ phổ biến thông tin tới các phương tiện truyền thông in ấn và điện tử về các chính sách, chương trình, sáng kiến ​​và thành tựu của chính phủ.",
+      "image": "",
+      "link": "https://www.pib.gov.in/FactsheetDetails.aspx?id",
+      "source": "www.pib.gov.in",
+      "category": "soft",
+      "published": "2026-11-20 14:52"
     },
     {
       "id": "176dvid",
@@ -528,28 +550,6 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-11-20 00:25"
-    },
-    {
-      "id": "epm6ti",
-      "title": "Palladium hits 52-week low as surplus outlook overwhelms tight mine supply",
-      "title_vi": "Palladium chạm mức thấp nhất trong 52 tuần do triển vọng dư thừa lấn át nguồn cung mỏ thắt chặt",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.investing.com/news/commodities-news/palladium-hits-52week-low-as-surplus-outlook-overwhelms-tight-mine-supply-93CH-5039478",
-      "source": "Investing.com",
-      "category": "metal",
-      "published": "2026-11-19 22:48"
-    },
-    {
-      "id": "19op36",
-      "title": "Targeting Côte d’Ivoire cocoa exporters hit by price fall, BGFIBank secures €100m syndicated facility",
-      "title_vi": "Nhắm mục tiêu các nhà xuất khẩu ca cao Côte d'Ivoire bị ảnh hưởng bởi giá giảm, BGFIBank đảm bảo cơ sở hợp vốn trị giá 100 triệu euro",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.tradefinanceglobal.com/posts/targeting-cote-divoire-cocoa-exporters-hit-by-price-fall-bgfibank-secures-100m-syndicated-facility/",
-      "source": "Trade Finance Global",
-      "category": "soft",
-      "published": "2026-11-19 22:30"
     }
   ]
 }

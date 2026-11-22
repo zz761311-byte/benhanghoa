@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 21:00",
+  "updated_at": "2026-11-22 22:00",
   "items": [
     {
       "id": "top6ea",
@@ -11,6 +11,17 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-11-22 20:02"
+    },
+    {
+      "id": "1rhk1mj",
+      "title": "Copper Prices Are Plunging and Sending a Warning for the US Economy",
+      "title_vi": "Giá đồng đang lao dốc và gửi cảnh báo cho nền kinh tế Mỹ",
+      "summary_vi": "Đồng, một yếu tố kinh tế hàng đầu, đã giảm 17% so với mức cao gần đây, gây ra cảnh báo rằng nền kinh tế Mỹ sắp suy yếu.",
+      "image": "https://i.insider.com/6b0086f373f126f9eccb8e9e?width=1200&format=jpeg",
+      "link": "https://www.businessinsider.com/copper-prices-plunging-warning-us-economy-2026-11",
+      "source": "Business Insider",
+      "category": "metal",
+      "published": "2026-11-22 17:25"
     },
     {
       "id": "eze1ww",
@@ -99,6 +110,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-21 23:00"
+    },
+    {
+      "id": "15uuqdi",
+      "title": "Ukraine targets Russia with more than 1,000 drones, striking oil terminal in St. Petersburg - ABC News",
+      "title_vi": "Ukraine dùng hơn 1.000 máy bay không người lái tấn công Nga, tấn công kho dầu ở St. Petersburg - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/International/ukraine-targets-russia-1000-drones-striking-oil-terminal/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-11-21 12:20"
     },
     {
       "id": "qyz3ra",
@@ -354,17 +376,6 @@
       "published": "2026-11-20 21:55"
     },
     {
-      "id": "1ybj1kh",
-      "title": "Ukrainian Drones Hit Key Russian Oil Hub 1,300 Kilometers From Ukraine",
-      "title_vi": "Máy bay không người lái Ukraine tấn công trung tâm dầu mỏ quan trọng của Nga cách Ukraine 1.300 km",
-      "summary_vi": "Chính quyền Tatarstan xác nhận các cuộc tấn công vào các bể chứa dầu gần Almetyevsk, trong khi một cuộc tấn công bằng máy bay không người lái riêng biệt đã gây ra hỏa hoạn ở trung tâm Kursk.",
-      "image": "https://static.kyivpost.com/storage/2026/11/19/e285f98b2d7a114fdbd292ef49291a8f.png?w=1200&q=90&f=jpg",
-      "link": "https://www.kyivpost.com/post/90575",
-      "source": "Kyiv Post",
-      "category": "energy",
-      "published": "2026-11-20 21:37"
-    },
-    {
       "id": "55uk1n",
       "title": "Weekly Coffee News: Rocket Showroom in Geneva + New Labor Abuse Case",
       "title_vi": "Tin tức cà phê hàng tuần: Phòng trưng bày tên lửa ở Geneva + Vụ án lạm dụng lao động mới",
@@ -539,17 +550,6 @@
       "source": "Silver Bulletin",
       "category": "metal",
       "published": "2026-11-20 15:00"
-    },
-    {
-      "id": "14shngb",
-      "title": "India’s Sugar Industry",
-      "title_vi": "Ngành đường của Ấn Độ",
-      "summary_vi": "Cục Thông tin Báo chí (PIB) là cơ quan đầu mối của Chính phủ Ấn Độ phổ biến thông tin tới các phương tiện truyền thông in ấn và điện tử về các chính sách, chương trình, sáng kiến ​​và thành tựu của chính phủ.",
-      "image": "",
-      "link": "https://www.pib.gov.in/FactsheetDetails.aspx?id",
-      "source": "www.pib.gov.in",
-      "category": "soft",
-      "published": "2026-11-20 14:52"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
- "capNhat": "2026-11-22T22:00:48.510Z",
+ "capNhat": "2026-11-22T23:00:47.703Z",
  "nguon": "Yahoo Finance",
  "soMatHang": 18,
  "tyGia": {
@@ -730,10 +730,9 @@
    ],
    "giaoNgay": {
     "gia": 3539,
-    "lechSoVoiHopDong": 0,
+    "lechSoVoiHopDong": -0.67,
     "nguon": "gold-api.com",
-    "capNhat": "2026-11-21T00:46:36Z",
-    "soCu": true
+    "capNhat": "2026-11-22T23:00:40Z"
    }
   },
   "bac": {
@@ -790,7 +789,7 @@
     "gia": 41.08,
     "lechSoVoiHopDong": -0.02,
     "nguon": "gold-api.com",
-    "capNhat": "2026-11-22T22:00:40Z"
+    "capNhat": "2026-11-22T23:00:40Z"
    }
   },
   "dong": {
@@ -898,7 +897,7 @@
     "gia": 1286,
     "lechSoVoiHopDong": 0.28,
     "nguon": "gold-api.com",
-    "capNhat": "2026-11-22T22:00:43Z"
+    "capNhat": "2026-11-22T23:00:44Z"
    }
   },
   "nhom": {

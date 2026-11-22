@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-23 05:01",
+  "updated_at": "2026-11-23 06:01",
   "items": [
+    {
+      "id": "youv78",
+      "title": "U.S. Energy Exports Hit Records as Global Competition Intensifies",
+      "title_vi": "Xuất khẩu năng lượng của Hoa Kỳ đạt kỷ lục khi cạnh tranh toàn cầu ngày càng gay gắt",
+      "summary_vi": "Năng lực sản xuất và xuất khẩu dầu khí của Mỹ ngày càng tăng, cùng với sự thay đổi trong dòng chảy thương mại năng lượng toàn cầu do cuộc chiến ở Iran, đã giúp Mỹ đạt mức cao kỷ lục về xuất khẩu dầu thô, nhiên liệu và LNG trong năm nay. Trong thập kỷ kể từ năm 2016, khi xuất khẩu LNG bắt đầu và vận chuyển dầu thô",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Energy-Exports-Hit-Records-as-Global-Competition-Intensifies.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-23 05:00"
+    },
     {
       "id": "feymcm",
       "title": "California’s Wildfire Crisis Is Threatening Its Energy Future",
@@ -110,17 +121,6 @@
       "source": "CEO Economy",
       "category": "metal",
       "published": "2026-11-22 02:00"
-    },
-    {
-      "id": "1koupz9",
-      "title": "Britain&#039;s Net Zero Revolution Has a China Problem",
-      "title_vi": "Cuộc cách mạng Net Zero của Anh có vấn đề với Trung Quốc",
-      "summary_vi": "Chính phủ Đảng Lao động đã bị cáo buộc “đầu hàng” trong quan hệ thương mại với Trung Quốc khi quá trình chuyển đổi sang mức 0 ròng của Anh phải đối mặt với một số rủi ro an ninh. Một báo cáo mới, được công bố ngay trước cuộc gặp ba bên quan trọng của Tổng thống Trump với Tập Cận Bình và Vladimir Puti",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-19_t2yizds0kx.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Revolution-Has-a-China-Problem.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-22 01:00"
     },
     {
       "id": "if7e5t",
@@ -530,25 +530,25 @@
       "published": "2026-11-20 15:09"
     },
     {
-      "id": "rpljr9",
-      "title": "Cocoa Bean Suppliers & Manufacturers, Export Data & Price Trends | Global Market Overview 2026",
-      "title_vi": "Nhà cung cấp & Nhà sản xuất Hạt Ca cao, Dữ liệu Xuất khẩu & Xu hướng Giá | Tổng quan thị trường toàn cầu 2026",
-      "summary_vi": "Trong tháng 5/2026, giao dịch xuất khẩu Hạt ca cao từ Ecuador đạt trung bình 4,09 USD/kg. Nguồn: Tridge, tháng 11 năm 2026.",
-      "image": "https://cdn-new.tridge.com/og_v6.png",
-      "link": "https://www.tridge.com/market-overview/cocoa-bean",
-      "source": "Tridge",
-      "category": "soft",
+      "id": "bbg4mv",
+      "title": "Give thanks for this corn price trend",
+      "title_vi": "Cảm ơn vì xu hướng giá ngô này",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+      "source": "Farm Progress",
+      "category": "agri",
       "published": "2026-11-20 15:00"
     },
     {
-      "id": "my7osy",
-      "title": "How high by next July? Assessing corn’s ’27 rally prospects",
-      "title_vi": "Cao bao nhiêu vào tháng 7 tới? Đánh giá triển vọng tăng trưởng năm 27 của ngô",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
-      "source": "Farm Progress",
-      "category": "agri",
+      "id": "1t2ifnh",
+      "title": "Live Palladium Price in New Zealand Dollar (NZD)",
+      "title_vi": "Giá Palladium trực tiếp bằng Đô la New Zealand (NZD)",
+      "summary_vi": "Giá palladium trực tiếp bằng đô la New Zealand (NZD), 24/5. Theo dõi giá palladium trên troy ounce, gram và kilogam trên các thị trường kim loại quý lớn trên thế giới.",
+      "image": "https://goldbroker.com/assets/og/og-image-en.png",
+      "link": "https://goldbroker.com/charts/palladium-price/nzd",
+      "source": "GoldBroker",
+      "category": "metal",
       "published": "2026-11-20 15:00"
     }
   ]

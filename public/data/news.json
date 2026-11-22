@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-23 00:00",
+  "updated_at": "2026-11-23 01:01",
   "items": [
+    {
+      "id": "p03ohy",
+      "title": "Google Backs Superhot Geothermal in 50 MW Oregon Power Deal",
+      "title_vi": "Google ủng hộ địa nhiệt siêu nóng trong thỏa thuận điện 50 MW ở Oregon",
+      "summary_vi": "Nhu cầu năng lượng tăng vọt do kỷ nguyên trí tuệ nhân tạo thúc đẩy đang thúc đẩy Big Tech theo đuổi cách tiếp cận toàn diện ở trên để sản xuất năng lượng. Đồng thời, lĩnh vực này đang gây ra sự bùng nổ về khí đốt tự nhiên và kéo dài tuổi thọ của nhiên liệu hóa thạch, nó cũng đang tạo ra một nguồn thu khổng lồ.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-20_whqb78xys0.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Google-Backs-Superhot-Geothermal-in-50-MW-Oregon-Power-Deal.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-23 01:00"
+    },
     {
       "id": "p6zo6n",
       "title": "The $25 Billion Problem Facing Australia’s Hydropower Revolution",
@@ -143,17 +154,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-11-21 07:15"
-    },
-    {
-      "id": "1jebwk2",
-      "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
-      "title_vi": "Giá dầu bị mắc kẹt giữa tình trạng dư thừa và bất ổn ở Trung Đông",
-      "summary_vi": "Giá dầu đã giao dịch trong biên độ hẹp trong vài phiên qua do dự báo về tình trạng dư thừa sắp xảy ra xung đột với các cuộc tấn công liên tục và hoạt động ngoại giao bị đình trệ ở Trung Đông. Một loạt báo cáo của cơ quan này trong tháng này đã đẩy kỳ vọng về tình trạng dư cung và đè nặng lên giá dầu thô. dầu Brent",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-20_4lj1w8vw2i.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-21 07:00"
     },
     {
       "id": "hpb1tx",
@@ -519,6 +519,17 @@
       "published": "2026-11-20 15:09"
     },
     {
+      "id": "1t2ifnh",
+      "title": "Live Palladium Price in New Zealand Dollar (NZD)",
+      "title_vi": "Giá Palladium trực tiếp bằng Đô la New Zealand (NZD)",
+      "summary_vi": "Giá palladium trực tiếp bằng đô la New Zealand (NZD), 24/5. Theo dõi giá palladium trên troy ounce, gram và kilogam trên các thị trường kim loại quý lớn trên thế giới.",
+      "image": "https://goldbroker.com/assets/og/og-image-en.png",
+      "link": "https://goldbroker.com/charts/palladium-price/nzd",
+      "source": "GoldBroker",
+      "category": "metal",
+      "published": "2026-11-20 15:00"
+    },
+    {
       "id": "bbg4mv",
       "title": "Give thanks for this corn price trend",
       "title_vi": "Cảm ơn vì xu hướng giá ngô này",
@@ -538,17 +549,6 @@
       "link": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
       "source": "Farm Progress",
       "category": "agri",
-      "published": "2026-11-20 15:00"
-    },
-    {
-      "id": "rpljr9",
-      "title": "Cocoa Bean Suppliers & Manufacturers, Export Data & Price Trends | Global Market Overview 2026",
-      "title_vi": "Nhà cung cấp & Nhà sản xuất Hạt Ca cao, Dữ liệu Xuất khẩu & Xu hướng Giá | Tổng quan thị trường toàn cầu 2026",
-      "summary_vi": "Trong tháng 5/2026, giao dịch xuất khẩu Hạt ca cao từ Ecuador đạt trung bình 4,09 USD/kg. Nguồn: Tridge, tháng 11 năm 2026.",
-      "image": "https://cdn-new.tridge.com/og_v6.png",
-      "link": "https://www.tridge.com/market-overview/cocoa-bean",
-      "source": "Tridge",
-      "category": "soft",
       "published": "2026-11-20 15:00"
     }
   ]

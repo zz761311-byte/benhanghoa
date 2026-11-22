@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 22:00",
+  "updated_at": "2026-11-22 22:27",
   "items": [
     {
       "id": "top6ea",
@@ -376,6 +376,17 @@
       "published": "2026-11-20 21:55"
     },
     {
+      "id": "1ybj1kh",
+      "title": "Ukrainian Drones Hit Key Russian Oil Hub 1,300 Kilometers From Border as Attacks Spread to Kursk",
+      "title_vi": "Máy bay không người lái của Ukraine tấn công trung tâm dầu mỏ quan trọng của Nga cách biên giới 1.300 km khi các cuộc tấn công lan tới Kursk",
+      "summary_vi": "Chính quyền Tatarstan xác nhận các cuộc tấn công vào các bể chứa dầu gần Almetyevsk, trong khi một cuộc tấn công bằng máy bay không người lái riêng biệt đã gây ra hỏa hoạn ở trung tâm Kursk.",
+      "image": "https://static.kyivpost.com/storage/2026/11/19/e285f98b2d7a114fdbd292ef49291a8f.png?w=1200&q=90&f=jpg",
+      "link": "https://www.kyivpost.com/post/90575",
+      "source": "Kyiv Post",
+      "category": "energy",
+      "published": "2026-11-20 21:37"
+    },
+    {
       "id": "55uk1n",
       "title": "Weekly Coffee News: Rocket Showroom in Geneva + New Labor Abuse Case",
       "title_vi": "Tin tức cà phê hàng tuần: Phòng trưng bày tên lửa ở Geneva + Vụ án lạm dụng lao động mới",
@@ -538,17 +549,6 @@
       "link": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
       "source": "Farm Progress",
       "category": "agri",
-      "published": "2026-11-20 15:00"
-    },
-    {
-      "id": "vkt8yl",
-      "title": "How popular is Donald Trump?",
-      "title_vi": "Donald Trump được yêu thích đến mức nào?",
-      "summary_vi": "Xếp hạng phê duyệt của Silver Bulletin dành cho Tổng thống Trump - và tất cả các tổng thống kể từ Truman.",
-      "image": "https://substackcdn.com/image/fetch/$s_!Xfx5!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47c9842-cfbc-4300-8bea-3c73291e02c3_1200x634.jpeg",
-      "link": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
-      "source": "Silver Bulletin",
-      "category": "metal",
       "published": "2026-11-20 15:00"
     }
   ]

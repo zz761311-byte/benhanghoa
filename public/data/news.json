@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 16:01",
+  "updated_at": "2026-11-22 17:01",
   "items": [
     {
       "id": "eze1ww",
@@ -189,6 +189,17 @@
       "published": "2026-11-21 04:13"
     },
     {
+      "id": "106ihf6",
+      "title": "Gold and silver prices fall again: How much lower could they go?",
+      "title_vi": "Giá vàng và bạc lại giảm: Chúng có thể giảm tới mức nào?",
+      "summary_vi": ".embed-container { vị trí: tương đối; phần đệm đáy: 56,25%; chiều cao: 0; tràn: ẩn; chiều rộng tối đa: 100%; } .embed-container iframe, đối tượng .embed-container, .embed-container embed { vị trí:…",
+      "image": "https://images.kitco.com/img/extract_0_0_1280_719,width_1200,enlarge,format_jpeg/icms/23111e24-0c6b-4f1b-a1cc-c8d82ed5f8b2.webp",
+      "link": "https://www.kitco.com/opinion/2026-11-20/gold-and-silver-prices-fall-again-how-much-lower-could-they-go",
+      "source": "Kitco",
+      "category": "metal",
+      "published": "2026-11-21 04:00"
+    },
+    {
       "id": "i5284u",
       "title": "Gold's slide deepens as AI rout, rate-hike bets hurt bullion",
       "title_vi": "Sự trượt dốc của vàng ngày càng sâu sắc khi AI thất bại, đặt cược tăng lãi suất làm tổn thương vàng thỏi",
@@ -343,17 +354,6 @@
       "published": "2026-11-20 21:26"
     },
     {
-      "id": "8324sm",
-      "title": "Gold, Silver Drop to Lowest Levels in Over a Year",
-      "title_vi": "Vàng, Bạc giảm xuống mức thấp nhất trong hơn một năm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-silver-drop-to-lowest-levels-in-over-a-year-c657402c",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-11-20 21:14"
-    },
-    {
       "id": "1tkxyzi",
       "title": "Cocoa price holds near $5,404 resistance amid strong upward momentum",
       "title_vi": "Giá ca cao giữ gần ngưỡng kháng cự $5,404 trong bối cảnh đà tăng mạnh",
@@ -475,6 +475,17 @@
       "published": "2026-11-20 15:09"
     },
     {
+      "id": "bbg4mv",
+      "title": "Give thanks for this corn price trend",
+      "title_vi": "Cảm ơn vì xu hướng giá ngô này",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+      "source": "Farm Progress",
+      "category": "agri",
+      "published": "2026-11-20 15:00"
+    },
+    {
       "id": "vkt8yl",
       "title": "How popular is Donald Trump?",
       "title_vi": "Donald Trump được yêu thích đến mức nào?",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-20 06:06"
-    },
-    {
-      "id": "1tpwgqi",
-      "title": "Canada sees little US movement on tariff relief, sources say",
-      "title_vi": "Canada nhận thấy ít động thái của Mỹ về giảm thuế, các nguồn tin cho biết",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/markets/commodities/canada-sees-little-us-movement-tariff-relief-sources-say-2026-11-19/",
-      "source": "Reuters",
-      "category": "macro",
-      "published": "2026-11-20 06:02"
     }
   ]
 }

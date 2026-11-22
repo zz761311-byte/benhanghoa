@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 17:01",
+  "updated_at": "2026-11-22 18:01",
   "items": [
     {
       "id": "eze1ww",
@@ -475,6 +475,17 @@
       "published": "2026-11-20 15:09"
     },
     {
+      "id": "1t2ifnh",
+      "title": "Live Palladium Price in New Zealand Dollar (NZD)",
+      "title_vi": "Giá Palladium trực tiếp bằng Đô la New Zealand (NZD)",
+      "summary_vi": "Giá palladium trực tiếp bằng đô la New Zealand (NZD), 24/5. Theo dõi giá palladium trên troy ounce, gram và kilogam trên các thị trường kim loại quý lớn trên thế giới.",
+      "image": "https://goldbroker.com/assets/og/og-image-en.png",
+      "link": "https://goldbroker.com/charts/palladium-price/nzd",
+      "source": "GoldBroker",
+      "category": "metal",
+      "published": "2026-11-20 15:00"
+    },
+    {
       "id": "bbg4mv",
       "title": "Give thanks for this corn price trend",
       "title_vi": "Cảm ơn vì xu hướng giá ngô này",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-11-20 10:29"
-    },
-    {
-      "id": "e83xw1",
-      "title": "US Natural Gas Output, Demand to Hit Record Highs in 2026, EIA Says",
-      "title_vi": "EIA cho biết sản lượng khí đốt tự nhiên của Hoa Kỳ sẽ đạt mức cao kỷ lục vào năm 2026",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/08/us-natural-gas-output-demand-to-hit-record-highs-in-2026-eia-says/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-20 06:06"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 08:00",
+  "updated_at": "2026-11-22 09:01",
   "items": [
     {
       "id": "eze1ww",
@@ -165,6 +165,17 @@
       "source": "FactCheck.org",
       "category": "energy",
       "published": "2026-11-21 04:24"
+    },
+    {
+      "id": "i5284u",
+      "title": "Gold's slide deepens as AI rout, rate-hike bets hurt bullion",
+      "title_vi": "Sự trượt dốc của vàng ngày càng sâu sắc khi AI thất bại, đặt cược tăng lãi suất làm tổn thương vàng thỏi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-set-worst-week-eight-months-firm-dollar-fed-hike-bets-weigh-2026-11-20/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-11-21 03:13"
     },
     {
       "id": "lhddeq",
@@ -484,17 +495,6 @@
       "source": "FOREX.com",
       "category": "macro",
       "published": "2026-11-20 13:09"
-    },
-    {
-      "id": "q508n2",
-      "title": "Gold's slide deepens as AI rout, rate hike bets hurt bullion",
-      "title_vi": "Sự trượt dốc của vàng ngày càng sâu sắc khi AI thất bại, đặt cược tăng lãi suất làm tổn thương vàng thỏi",
-      "summary_vi": "Giai đoạn giảm giá của vàng tiếp tục vào thứ Sáu khi nó lao dốc xuống mức thấp nhất trong 14 tháng và hướng tới tuần tồi tệ nhất trong 8 tháng.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108185907-17551735752025-08-14t091256z_630820223_rc2w6ga88zft_rtrmadp_0_usa-trump-tariffs-swiss-gold.jpeg?v=1795150107&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/11/20/gold-federal-reserve-price-dollar-metals.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-11-20 12:05"
     },
     {
       "id": "1oc8kyi",

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-22 20:01",
+  "updated_at": "2026-11-22 21:00",
   "items": [
+    {
+      "id": "top6ea",
+      "title": "Copper at Lowest Since April Amid AI Market Turmoil, Chinese Demand Concerns",
+      "title_vi": "Đồng ở mức thấp nhất kể từ tháng 4 trong bối cảnh thị trường AI hỗn loạn, lo ngại về nhu cầu của Trung Quốc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/copper-at-lowest-since-april-amid-ai-market-turmoil-chinese-demand-concerns-4325361e",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-11-22 20:02"
+    },
     {
       "id": "eze1ww",
       "title": "AI Boom Forces Massive Investment in Power Grids Worldwide",
@@ -539,17 +550,6 @@
       "source": "www.pib.gov.in",
       "category": "soft",
       "published": "2026-11-20 14:52"
-    },
-    {
-      "id": "bpsn58",
-      "title": "Stocks and commodities plunge deep into red as tariff spat intensifies",
-      "title_vi": "Cổ phiếu và hàng hóa chìm sâu trong sắc đỏ khi thuế quan gia tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forex.com/ie/news-and-analysis/stocks-and-commodities-plunge-deep-into-red-as-tariff-spat-intensifies/",
-      "source": "FOREX.com",
-      "category": "macro",
-      "published": "2026-11-20 13:09"
     }
   ]
 }

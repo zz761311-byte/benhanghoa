@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-23 15:01",
+  "updated_at": "2026-11-23 16:01",
   "items": [
+    {
+      "id": "1daqiva",
+      "title": "European Natural Gas Prices Surge 8.6% as Cold Snap Looms",
+      "title_vi": "Giá khí đốt tự nhiên châu Âu tăng 8,6% khi thời tiết lạnh sắp đến",
+      "summary_vi": "Giá khí đốt tự nhiên ở châu Âu bắt đầu tuần mới với mức tăng lên 96,075 euro mỗi MWh, tăng 8,6% so với thứ Sáu do dự báo thời tiết chứng kiến ​​thời tiết lạnh hơn đến với lục địa này, nơi đang phải vật lộn với lượng tồn kho thấp kỷ lục. Giá TTF chuẩn là 105,49 USD/MWh và",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-23_3od2k7cx6t.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Surge-86-as-Cold-Snap-Looms.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-23 15:30"
+    },
     {
       "id": "nb51u2",
       "title": "EU Green Energy Giants Slam €40 Billion Budget Cut",
@@ -33,6 +44,17 @@
       "source": "WESH",
       "category": "soft",
       "published": "2026-11-23 10:23"
+    },
+    {
+      "id": "zsgxsj",
+      "title": "Silver Price Forecast: XAG/USD holds opening gains as Fed bigger rate hike prospects wane",
+      "title_vi": "Dự báo giá bạc: XAG/USD giữ mức tăng mở màn khi triển vọng tăng lãi suất lớn hơn của Fed suy yếu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZy1IUHlrT3k5d1FSU1BYSERadV9YZXhHMTJLdTltWDZmTGNUbzhnUFNrN3lBU0Y2Wko1WEFBWXl6cmhxUURuUDVpOFJxeVZKTUNvQzRDbldQbUxqWlB2anhCNUhORVhTbkV1V0t5Zm5rLTdUbjRINV9FZ2ROQXFDRWdkS1o3c1VlLWdOYVJleEtVU2tOU3g0Y3RQR2NmTVVrclFqNHpnblMya3VESWUta0pkcXdHN2ZIR2x6UXc2WTdGam5oWXZGTFBhMA?oc=5",
+      "source": "FXStreet",
+      "category": "metal",
+      "published": "2026-11-23 10:19"
     },
     {
       "id": "s0cb47",
@@ -145,17 +167,6 @@
       "published": "2026-11-22 07:00"
     },
     {
-      "id": "eze1ww",
-      "title": "AI Boom Forces Massive Investment in Power Grids Worldwide",
-      "title_vi": "Sự bùng nổ AI thúc đẩy đầu tư lớn vào lưới điện trên toàn thế giới",
-      "summary_vi": "Ngành công nghệ thông tin đang thúc đẩy sự tăng trưởng mạnh mẽ về nhu cầu điện toàn cầu, dự kiến ​​sẽ tăng hơn 10.000 TWh trong 10 năm tới. Để lượng điện này tiếp cận được các trung tâm nhu cầu, lưới điện trên toàn thế giới sẽ cần được nâng cấp khẩn cấp. Câu hỏi lớn là ai sẽ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-20_qspdraqzby.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/AI-Boom-Forces-Massive-Investment-in-Power-Grids-Worldwide.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-22 07:00"
-    },
-    {
       "id": "1f3862z",
       "title": "Precious metals week: platinum and palladium join gold and silver in a broad rout",
       "title_vi": "Tuần lễ kim loại quý: bạch kim và palladium nối tiếp vàng và bạc theo một lộ trình rộng rãi",
@@ -209,6 +220,17 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-11-21 11:59"
+    },
+    {
+      "id": "1w55xht",
+      "title": "Can Trump stop the surge in oil prices? Experts weigh in - ABC News",
+      "title_vi": "Trump có thể ngăn chặn sự tăng vọt của giá dầu? Các chuyên gia cân nhắc - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/Business/trump-stop-surge-oil-prices-experts-weigh/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-11-21 07:50"
     },
     {
       "id": "qyz3ra",
@@ -528,28 +550,6 @@
       "source": "Crude Oil Prices Today | OilPrice.com",
       "category": "energy",
       "published": "2026-11-20 19:30"
-    },
-    {
-      "id": "oxgzbp",
-      "title": "Global wheat outlook pressures wheat market",
-      "title_vi": "Triển vọng lúa mì toàn cầu gây áp lực lên thị trường lúa mì",
-      "summary_vi": "Triển vọng lúa mì toàn cầu từ Bộ Nông nghiệp Hoa Kỳ (USDA) đang kêu gọi nguồn cung cao hơn, mức tiêu thụ lớn hơn, thương mại thấp hơn và tồn kho lớn hơn, và điều đó đang gây áp lực lên thị trường lúa mì.",
-      "image": "https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/2/03/2038714e-cd55-497c-b6bb-a65ed2d69c63/6afd2558a9ad1.image.jpg?crop=900%2C473%2C0%2C16",
-      "link": "https://agupdate.com/farmandranchguide/markets/crop/article_6ad682d2-c43a-4583-b7f5-f1f307638168.html",
-      "source": "AgUpdate",
-      "category": "agri",
-      "published": "2026-11-20 19:00"
-    },
-    {
-      "id": "qll1rd",
-      "title": "High Risk of excessive rainfall covers Florida’s Space Coast as St. Johns River near Cocoa reaches 5.67 m - The Watchers",
-      "title_vi": "Nguy cơ cao về lượng mưa quá mức bao trùm Bờ biển Không gian của Florida khi Sông St. Johns gần Cocoa đạt 5,67 m - The Watchers",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://watchers.news/2026/11/20/high-risk-of-excessive-rainfall-covers-floridas-space-coast-as-st-johns-river-near-cocoa-reaches-5-67-m/",
-      "source": "The Watchers - Watching the world evolve and transform",
-      "category": "soft",
-      "published": "2026-11-20 18:28"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-24 04:44",
+  "updated_at": "2026-11-24 05:01",
   "items": [
+    {
+      "id": "xgnn4n",
+      "title": "5 Energy Stocks That Can Shrug Off a December Fed Rate Hike",
+      "title_vi": "5 cổ phiếu năng lượng có thể tránh được việc Fed tăng lãi suất vào tháng 12",
+      "summary_vi": "Cục Dự trữ Liên bang gần như chắc chắn sẽ tăng lãi suất vào ngày 9 tháng 12 và họ sẽ làm điều đó mà không cần xem báo cáo lạm phát tháng 11 mà Cục Thống kê Lao động đã lên lịch vào 8:30 sáng hôm sau. Các nhà hoạch định chính sách đang cam kết tăng giá gần như toàn bộ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-23_fkol6z3smm.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/5-Energy-Stocks-That-Can-Shrug-Off-a-December-Fed-Rate-Hike.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-11-24 05:00"
+    },
     {
       "id": "1ofuezi",
       "title": "Will Batteries Kill Off Gas Turbines at Data Centers",
@@ -77,17 +88,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-24 00:30"
-    },
-    {
-      "id": "16u9pd0",
-      "title": "America’s Biggest Oil Export Port Faces Thousands of Cyberattack Attempts",
-      "title_vi": "Cảng xuất khẩu dầu lớn nhất nước Mỹ đối mặt với hàng nghìn nỗ lực tấn công mạng",
-      "summary_vi": "Cảng vận chuyển phần lớn dầu thô của Mỹ ra nước ngoài hiện đang chống lại \"hàng trăm, thậm chí hàng nghìn\" nỗ lực đột nhập vào hệ thống của mình mỗi ngày, Giám đốc điều hành của Port of Corpus Christi, Kent Britton nói với Financial Times, khi tin tặc đẩy mạnh chiến dịch chống lại các cảng của Mỹ và các cảng của nước này.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-23_eeor2hulms.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Americas-Biggest-Oil-Export-Port-Faces-Thousands-of-Cyberattack-Attempts.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-24 00:00"
     },
     {
       "id": "1y28ofu",
@@ -187,6 +187,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-23 20:44"
+    },
+    {
+      "id": "1mbqj2q",
+      "title": "Chicago Grain Prices Rebound, but Brazil Could Cap Soybean Gains",
+      "title_vi": "Giá ngũ cốc ở Chicago phục hồi, nhưng Brazil có thể hạn chế mức tăng đậu nành",
+      "summary_vi": "Giá đậu nành kỳ hạn tăng 8 cent vào ngày 23 tháng 11, trong khi ngô gần như không thay đổi do các thương nhân theo dõi thời tiết Nam Mỹ và thời hạn hợp đồng sắp tới.",
+      "image": "https://www.agrolatam.com/files/image/84/84514/6b0441912993b_600_315!.jpg?s=32f46ae7b801629574da39dbee1f6dad&d=1795441178",
+      "link": "https://www.agrolatam.com/usa/news/chicago-grain-rebound-brazil-soy-crop-argentina/",
+      "source": "AgroLatam",
+      "category": "agri",
+      "published": "2026-11-23 20:40"
     },
     {
       "id": "1l4s8v2",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-21 04:56"
-    },
-    {
-      "id": "jsg2db",
-      "title": "Citi closes long sugar call with stop-loss, keeps bullish outlook",
-      "title_vi": "Citi kết thúc lệnh mua đường với lệnh dừng lỗ, giữ triển vọng tăng giá",
-      "summary_vi": "Citi đã đóng vị thế mua đường dài của mình khi hết hạn vào tháng 7 (SBN7C) vào thứ Sáu với mức lỗ 47 xu, sau khi tín hiệu dừng lỗ được kích hoạt, ngân hàng cho biết trong một ghi chú.",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N471228:0-citi-closes-long-sugar-call-with-stop-loss-keeps-bullish-outlook/",
-      "source": "TradingView",
-      "category": "soft",
-      "published": "2026-11-21 04:49"
     }
   ]
 }

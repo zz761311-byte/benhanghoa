@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-24 00:01",
+  "updated_at": "2026-11-24 01:01",
   "items": [
+    {
+      "id": "14ki6by",
+      "title": "The Energy Transition Needs More Metals but Less Extraction",
+      "title_vi": "Quá trình chuyển đổi năng lượng cần nhiều kim loại hơn nhưng khai thác ít hơn",
+      "summary_vi": "Quá trình chuyển đổi năng lượng thường được mô tả là sự chuyển đổi từ ngành khai thác này sang ngành khai thác khác. Lập luận cho rằng thay vì đào than và khoan dầu, chúng ta sẽ chỉ đào một lượng lớn lithium, đồng và niken. Có một số sự thật trong mô tả đó. Hơn",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-23_mmkx8ruvof.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Energy-Transition-Needs-More-Metals-but-Less-Extraction.html",
+      "source": "OilPrice",
+      "category": "metal",
+      "published": "2026-11-24 01:00"
+    },
+    {
+      "id": "fwzchb",
+      "title": "Japan’s Electricity Prices Surge to 2022 High as Cold Weather Arrives",
+      "title_vi": "Giá điện của Nhật Bản tăng cao đến năm 2022 khi thời tiết lạnh đến",
+      "summary_vi": "Giá điện giao ngay ở Nhật Bản hôm thứ Hai tăng lên mức cao nhất kể từ tháng 8 năm 2022 do nhu cầu khí đốt dự kiến ​​sẽ tăng trong bối cảnh dự đoán tuyết sẽ rơi và thời tiết lạnh hơn trong những ngày tới. Dự kiến ​​nhu cầu khí đốt cao hơn ở khu vực Chubu và Hokkaido, với khí đốt hiện ở mức cao nhất",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-23_jubv8tlvah.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Electricity-Prices-Surge-to-2022-High-as-Cold-Weather-Arrives.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-24 00:30"
+    },
     {
       "id": "16u9pd0",
       "title": "America’s Biggest Oil Export Port Faces Thousands of Cyberattack Attempts",
@@ -90,17 +112,6 @@
       "published": "2026-11-23 22:00"
     },
     {
-      "id": "1yd722d",
-      "title": "Brent Drops Below $90 as Wall Street Splits on 2027 Oil Outlook",
-      "title_vi": "Dầu Brent giảm xuống dưới 90 USD khi Phố Wall chia rẽ về triển vọng dầu năm 2027",
-      "summary_vi": "Bank of America cho biết trong một lưu ý mới rằng dầu thô Brent sẽ đạt trung bình 80 USD/thùng vào năm 2027 do tình hình địa chính trị và tồn kho toàn cầu tương đối thấp khiến phần lớn thế giới dễ bị tổn thương trước sự gián đoạn nguồn cung. Brent giảm 2,9% xuống 89,86 đô la vào lúc 9:02 sáng thứ Hai theo giờ ET và West Texas Intermedia",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-23_dmmb0enzxv.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Drops-Below-90-as-Wall-Street-Splits-on-2027-Oil-Outlook.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-23 21:30"
-    },
-    {
       "id": "qlt3gn",
       "title": "Design Details: The Organic Forms of X Coffee Tools by Pose Bureau",
       "title_vi": "Chi tiết thiết kế: Các dạng hữu cơ của dụng cụ pha cà phê X của Pose Bureau",
@@ -112,6 +123,17 @@
       "published": "2026-11-23 20:44"
     },
     {
+      "id": "1l4s8v2",
+      "title": "Hefty HDD Losses Sink Natural Gas Futures Ahead of Holiday",
+      "title_vi": "Tổn thất nặng nề của ổ cứng HDD làm ảnh hưởng đến tương lai khí đốt tự nhiên trước kỳ nghỉ lễ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjZBdHpFelF5VzVQSExLYkdBNGcxRFBVTTFSbnJDYXFUb0tZNmZpc1I4NVpYWlg0bXM3TktlYXpoSmdVTzdXM1NUU0NIbzNZNDdub3ZfcnNpclZmTUtpMTlMVTNBZ3pYc1czamxGdHJmdUJ3TFRud2FxcFV5TDMyWFlNYnNhcWtEZkFFSGZEM21Fck1QU2VZ?oc=5",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-11-23 20:39"
+    },
+    {
       "id": "2wkfpr",
       "title": "North America Poised to Lead Platinum Jewelry as Global Demand Sinks 20%",
       "title_vi": "Bắc Mỹ sẵn sàng dẫn đầu trang sức bạch kim khi nhu cầu toàn cầu giảm 20%",
@@ -121,17 +143,6 @@
       "source": "www.jckonline.com",
       "category": "metal",
       "published": "2026-11-23 20:36"
-    },
-    {
-      "id": "1jy1l8t",
-      "title": "South Korea Asks Qatar for Priority LNG Once Hormuz Reopens",
-      "title_vi": "Hàn Quốc yêu cầu Qatar ưu tiên LNG sau khi Hormuz mở cửa trở lại",
-      "summary_vi": "Bộ Thương mại, Công nghiệp và Tài nguyên Hàn Quốc cho biết hôm thứ Hai rằng Hàn Quốc đã yêu cầu Qatar ưu tiên cung cấp LNG cho quốc gia châu Á này khi giao thông qua eo biển Hormuz bình thường hóa. Qatar, nước xuất khẩu LNG lớn thứ hai thế giới trước chiến tranh Iran, đang gặp khó khăn",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-23_fgptqxs03b.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Asks-Qatar-for-Priority-LNG-Once-Hormuz-Reopens.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-23 20:30"
     },
     {
       "id": "1aa21vn",
@@ -165,6 +176,17 @@
       "source": "The Africa Report",
       "category": "soft",
       "published": "2026-11-23 16:16"
+    },
+    {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-23 16:13"
     },
     {
       "id": "1wfybj7",
@@ -528,28 +550,6 @@
       "source": "Traders Union",
       "category": "metal",
       "published": "2026-11-20 23:53"
-    },
-    {
-      "id": "al57j9",
-      "title": "The Outlook for Stronger Brazil Coffee Exports Weighs on Prices",
-      "title_vi": "Triển vọng xuất khẩu cà phê Brazil mạnh hơn ảnh hưởng đến giá",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barchart.com/story/news/8938636/the-outlook-for-stronger-brazil-coffee-exports-weighs-on-prices",
-      "source": "Barchart.com",
-      "category": "soft",
-      "published": "2026-11-20 23:48"
-    },
-    {
-      "id": "s2n96n",
-      "title": "U.S. TOPS THE LIST – Half the World’s Oil Comes From Just Five Countries – Visual Capitalist",
-      "title_vi": "Hoa Kỳ đứng đầu danh sách – Một nửa lượng dầu thế giới đến từ chỉ 5 quốc gia – Visual Capitalist",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/half-the-worlds-oil-comes-from-just-five-countries-visual-capitalist/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-20 22:28"
     }
   ]
 }

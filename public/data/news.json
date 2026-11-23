@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-23 16:01",
+  "updated_at": "2026-11-23 16:53",
   "items": [
+    {
+      "id": "1vybv49",
+      "title": "Libya’s Oil Output Plunges as Armed Groups Shut Key Pipelines",
+      "title_vi": "Sản lượng dầu của Libya giảm mạnh khi các nhóm vũ trang đóng cửa các đường ống quan trọng",
+      "summary_vi": "Tập đoàn Dầu mỏ Quốc gia cho biết hôm thứ Hai rằng sản lượng dầu của Libya đã giảm khoảng 350.000 thùng mỗi ngày (bpd) sau khi một nhóm ngoài vòng pháp luật đóng van trên đường ống vận chuyển dầu thô từ Sharara, mỏ dầu lớn nhất nước này. NOC của Libya lên án việc đóng cửa",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-23_yebngsrqch.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Libyas-Oil-Output-Plunges-as-Armed-Groups-Shut-Key-Pipelines.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-23 16:45"
+    },
+    {
+      "id": "656wwk",
+      "title": "European hunger for chocolate is killing West African rainforests",
+      "title_vi": "Cơn đói sôcôla ở châu Âu đang giết chết rừng nhiệt đới Tây Phi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.theafricareport.com/437190/european-hunger-for-chocolate-is-killing-west-african-rainforests/",
+      "source": "The Africa Report",
+      "category": "soft",
+      "published": "2026-11-23 16:16"
+    },
     {
       "id": "1daqiva",
       "title": "European Natural Gas Prices Surge 8.6% as Cold Snap Looms",
@@ -22,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-23 14:30"
+    },
+    {
+      "id": "1wfybj7",
+      "title": "Busy market calendar shapes grain price action ahead",
+      "title_vi": "Lịch thị trường bận rộn định hình hành động giá ngũ cốc phía trước",
+      "summary_vi": "Thời điểm hoạt động của vụ thu hoạch mùa thu đã đóng lại và các thương nhân đã chuyển sang thị trường mùa đông.",
+      "image": "https://bloximages.newyork1.vip.townnews.com/farmweeknow.com/content/tncms/assets/v3/editorial/8/fb/8fb92438-3cba-4103-9fbd-801d224f6ae6/6aff44762dc6a.preview.jpg?crop=900%2C473%2C0%2C363",
+      "link": "https://www.farmweeknow.com/opinion/market_focus/busy-market-calendar-shapes-grain-price-action-ahead/article_8fb92438-3cba-4103-9fbd-801d224f6ae6.html",
+      "source": "FarmWeekNow",
+      "category": "agri",
+      "published": "2026-11-23 13:00"
     },
     {
       "id": "1bqzwzd",
@@ -112,17 +145,6 @@
       "published": "2026-11-23 01:00"
     },
     {
-      "id": "p6zo6n",
-      "title": "The $25 Billion Problem Facing Australia’s Hydropower Revolution",
-      "title_vi": "Vấn đề trị giá 25 tỷ USD đối với cuộc cách mạng thủy điện ở Australia",
-      "summary_vi": "Chính phủ Úc đặt mục tiêu phát triển thủy điện và Lưu trữ năng lượng thủy điện bơm (PHES) của đất nước như một phần của Kế hoạch cung cấp năng lượng cho Úc, hướng tới mục tiêu 82% điện tái tạo vào năm 2030 và lượng phát thải ròng bằng 0 vào năm 2050. Là một phần của kế hoạch khử cacbon, chính phủ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-19_nik60msx24.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/The-25-Billion-Problem-Facing-Australias-Hydropower-Revolution.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-22 23:00"
-    },
-    {
       "id": "top6ea",
       "title": "Copper at Lowest Since April Amid AI Market Turmoil, Chinese Demand Concerns",
       "title_vi": "Đồng ở mức thấp nhất kể từ tháng 4 trong bối cảnh thị trường AI hỗn loạn, lo ngại về nhu cầu của Trung Quốc",
@@ -143,6 +165,17 @@
       "source": "Business Insider",
       "category": "metal",
       "published": "2026-11-22 17:25"
+    },
+    {
+      "id": "1uxea2q",
+      "title": "Copper Prices Are Falling. Memo to the Fed: Inflation Could Be Next.",
+      "title_vi": "Giá đồng đang giảm. Bản ghi nhớ gửi Fed: Lạm phát có thể là vấn đề tiếp theo",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.barrons.com/articles/copper-prices-falling-inflation-could-be-next-9ca3e2b5",
+      "source": "Barron's",
+      "category": "metal",
+      "published": "2026-11-22 17:00"
     },
     {
       "id": "17is9ns",
@@ -517,39 +550,6 @@
       "source": "FOREX.com",
       "category": "metal",
       "published": "2026-11-20 20:49"
-    },
-    {
-      "id": "1yxpfv3",
-      "title": "Corn Futures Slipping Back Lower on Friday Morning",
-      "title_vi": "Giá ngô kỳ hạn giảm trở lại vào sáng thứ Sáu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barchart.com/story/news/8934908/corn-futures-slipping-back-lower-on-friday-morning",
-      "source": "Barchart.com",
-      "category": "agri",
-      "published": "2026-11-20 20:28"
-    },
-    {
-      "id": "1e9fo9w",
-      "title": "Wheat Prices Slip as Global Supply Outlook Brightens",
-      "title_vi": "Giá lúa mì trượt dốc khi triển vọng nguồn cung toàn cầu sáng sủa hơn",
-      "summary_vi": "Giá lúa mì giảm xuống gần 5,70 USD/giạ do IGC nâng dự báo sản lượng lúa mì toàn cầu niên vụ 2026/27 lên 826 triệu tấn và thu hoạch của Argentina vượt quá mong đợi, trong khi dòng thương mại ngũ cốc ở Biển Đen vẫn sôi động.",
-      "image": "https://www.indexbox.io/landing/img/blog/telegram-fallback/7110604c54702be1be568d66d720d260.webp",
-      "link": "https://www.indexbox.io/blog/wheat-prices-slip-as-global-supply-outlook-brightens/",
-      "source": "IndexBox",
-      "category": "agri",
-      "published": "2026-11-20 19:43"
-    },
-    {
-      "id": "125y8td",
-      "title": "WTI Crude Sinks More Than 5% as Global Oil Glut Fears Grow",
-      "title_vi": "Dầu thô WTI giảm hơn 5% khi nỗi lo dư thừa dầu toàn cầu gia tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSnYxaFp3anpBb2EzVFI1VTktenhoZGFKQ3pCVWhibVo0bkpxV0c0dVZGQ0podFVCYTBCTzFfRVZBY1JpTXhfTkNIeXdydzNyeDJwT2ZhTFljLTRqb3VqcmFhQlVXUUduY25vUFFNaVlHRUhiWTR0dUctbnFXdUJJZGFOdTlkVnJOR2lnOURzTHc2bS1UZ3Y1bzc5NFRSM29mTGdaanRfTUrSAa4BQVVfeXFMT1JWVzNDZXhUSTA3c1lxMkRlcWdTNlhoaGxMR0J1eDVkYlgycnFEZm1UbnU1VEpUdnNzamVxWmh2SmczMlZfV1R5QjBLWUhjN3p6ZGU1RmdhNGpKdHBPTlVCRVFJbkNiekxHQWF3Qi1yaXhFNHd1cW9KcUNiamRXVUdTY1c0NlZEaG5tTkVGQUtUUld0bjlQUlUzSEJzWGxZVkJWR1dRS3oxTDdULW5R?oc=5",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-11-20 19:30"
     }
   ]
 }

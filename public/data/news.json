@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 13:01",
+  "updated_at": "2026-11-23 14:01",
   "items": [
     {
       "id": "1bqzwzd",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-23 12:50"
+    },
+    {
+      "id": "1v86l3",
+      "title": "Levels, timing: St. Johns River to reach record or major crest from Cocoa to Astor in coming days",
+      "title_vi": "Cấp độ, thời gian: Sông St. Johns đạt kỷ lục hoặc đỉnh cao từ Cocoa đến Astor trong những ngày tới",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SYloxVmFJaFU4UW1Cdkt2MUFzNElWdk5OSFVDYV96ZmVvX2M5NktnMXlwVmdyS3hJcFpCbEduUVEtVDlweGh0b3ltRlZZOE9fcXI5aFE3UWNSRTZpWVh2X2RUdC1NZzhzSVFYd0VIdjk3VXNpY093cW0taTdRQQ?oc=5",
+      "source": "WESH",
+      "category": "soft",
+      "published": "2026-11-23 10:23"
     },
     {
       "id": "s0cb47",
@@ -167,6 +178,17 @@
       "published": "2026-11-21 23:39"
     },
     {
+      "id": "r6v3ux",
+      "title": "Will gas prices keep falling? Experts weigh in - ABC News",
+      "title_vi": "Giá xăng sẽ tiếp tục giảm? Các chuyên gia cân nhắc - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/Business/gas-prices-falling-experts-weigh/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-11-21 23:26"
+    },
+    {
       "id": "15uuqdi",
       "title": "Ukraine targets Russia with more than 1,000 drones, striking oil terminal in St. Petersburg - ABC News",
       "title_vi": "Ukraine dùng hơn 1.000 máy bay không người lái tấn công Nga, tấn công kho dầu ở St. Petersburg - ABC News",
@@ -220,17 +242,6 @@
       "source": "Oil & Gas Journal",
       "category": "energy",
       "published": "2026-11-21 06:07"
-    },
-    {
-      "id": "3sk7u8",
-      "title": "Levels, timing: St. Johns River at record or major crest from Cocoa to Astor",
-      "title_vi": "Cấp độ, thời gian: Sông St. Johns đạt kỷ lục hoặc đỉnh cao từ Cocoa đến Astor",
-      "summary_vi": "Theo thông tin được chia sẻ hôm thứ Sáu bởi Khu quản lý nước sông St. Johns, sông St. Johns đã đạt mức cao nhất hoặc kỷ lục ở các khu vực trải dài các quận Brevard, Seminole, Volusia và Lake.",
-      "image": "https://kubrick.htvapps.com/vidthumb/b56d63e2-a059-405a-8151-797e19f05957/9091a400-7f8d-4147-a0c5-2e7b8299dae7.jpg?crop=0.824xw%3A0.824xh%3B0.168xw%2C0&resize=1200%3A*",
-      "link": "https://www.wesh.com/article/st-johns-river-flooding-cocoa-astor/74494860",
-      "source": "WESH",
-      "category": "soft",
-      "published": "2026-11-21 05:54"
     },
     {
       "id": "3gjfse",
@@ -539,17 +550,6 @@
       "source": "The Watchers - Watching the world evolve and transform",
       "category": "soft",
       "published": "2026-11-20 18:28"
-    },
-    {
-      "id": "1edss18",
-      "title": "Copper price rebounds after rout as physical tightness persists",
-      "title_vi": "Giá đồng phục hồi sau đợt giảm giá do tình trạng thắt chặt vật chất vẫn tiếp diễn",
-      "summary_vi": "Nguồn cung vật chất vẫn khan hiếm bên ngoài Hoa Kỳ, đặc biệt là ở Trung Quốc, nơi hàng tồn kho đã giảm xuống mức cực kỳ thấp.",
-      "image": "https://www.mining.com/wp-content/uploads/2024/07/AdobeStock_838976552-scaled-e1721320517598.jpeg",
-      "link": "https://www.mining.com/web/copper-price-rebounds-after-rout-as-physical-tightness-persists/",
-      "source": "Mining.com",
-      "category": "metal",
-      "published": "2026-11-20 17:06"
     }
   ]
 }

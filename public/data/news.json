@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 04:01",
+  "updated_at": "2026-11-24 04:44",
   "items": [
     {
       "id": "1ofuezi",
@@ -154,6 +154,28 @@
       "source": "BullionVault",
       "category": "metal",
       "published": "2026-11-23 21:54"
+    },
+    {
+      "id": "1yd722d",
+      "title": "Brent Drops Below $90 as Wall Street Splits on 2027 Oil Outlook",
+      "title_vi": "Dầu Brent giảm xuống dưới 90 USD khi Phố Wall chia rẽ về triển vọng dầu năm 2027",
+      "summary_vi": "Dầu Brent giảm xuống dưới 90 USD khi Bank of America giữ dự báo 80 USD cho năm 2027, trong khi JPMorgan nhận thấy tình trạng dư cung sẽ đẩy giá lên mức 60 USD.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-23_dmmb0enzxv.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Drops-Below-90-as-Wall-Street-Splits-on-2027-Oil-Outlook.html",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "energy",
+      "published": "2026-11-23 21:30"
+    },
+    {
+      "id": "1j80cr2",
+      "title": "Cocoa price forecast: Sideways movement expected with $5,229 support and $5,406 resistance",
+      "title_vi": "Dự báo giá ca cao: Dự kiến ​​diễn biến đi ngang với mức hỗ trợ 5.229 USD và mức kháng cự 5.406 USD",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://tradersunion.com/news/commodities/show/4374091-cocoa-rises-0-4percent-to-usd5315/",
+      "source": "Traders Union",
+      "category": "soft",
+      "published": "2026-11-23 21:07"
     },
     {
       "id": "qlt3gn",
@@ -528,28 +550,6 @@
       "source": "TradingView",
       "category": "soft",
       "published": "2026-11-21 04:49"
-    },
-    {
-      "id": "1o4d22o",
-      "title": "Trump’s Misguided Claim That ‘They’ Waited to Lower Gas Prices Until After the Midterms",
-      "title_vi": "Tuyên bố sai lầm của Trump rằng 'Họ' đã chờ đợi để giảm giá xăng cho đến sau cuộc bầu cử giữa kỳ",
-      "summary_vi": "Giá xăng đang có xu hướng giảm, giảm khoảng 75 xu mỗi gallon kể từ ngày 24 tháng 9, mặc dù giá vẫn cao hơn khoảng 69 xu so với thời điểm này một năm trước. Trong một bài đăng trên mạng xã hội vào ngày 17 tháng 11, Tổng thống Donald Trump đã sai khi cho rằng có động cơ chính trị đằng sau việc giá cả giảm làm tổn hại đến nền Cộng hòa.",
-      "image": "https://cdn.factcheck.org/UploadedFiles/Gas-Pump-720-x-307.png",
-      "link": "https://www.factcheck.org/2026/11/trumps-misguided-claim-that-they-waited-to-lower-gas-prices-until-after-the-midterms/",
-      "source": "FactCheck.org",
-      "category": "energy",
-      "published": "2026-11-21 04:24"
-    },
-    {
-      "id": "18t89j8",
-      "title": "Stop guessing the bottom in the silver price. Watch these 6 signs instead",
-      "title_vi": "Đừng đoán đáy của giá bạc nữa. Hãy xem 6 dấu hiệu này thay thế",
-      "summary_vi": "(Bình luận Kitco) - Bạc đã giảm gần 30% trong một tháng, từ khoảng 58 USD xuống còn khoảng 41 USD. Mọi khách hàng mà tôi nói chuyện đều hỏi tôi điều tương tự: đâu là đáy và khi nào thì chảy máu…",
-      "image": "https://images.kitco.com/img/extract_20_0_1497_843,width_1200,enlarge,format_jpeg/icms/34780acf-643d-4ba8-bdbd-d296fd10a28b.png",
-      "link": "https://www.kitco.com/opinion/2026-11-20/stop-guessing-bottom-silver-price-watch-these-6-signs-instead",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-11-21 03:23"
     }
   ]
 }

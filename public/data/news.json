@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-24 01:01",
+  "updated_at": "2026-11-24 02:01",
   "items": [
+    {
+      "id": "emuirb",
+      "title": "Why Blocking the Sun Won&#039;t Solve the Climate Crisis",
+      "title_vi": "Tại sao chặn mặt trời sẽ không giải quyết được khủng hoảng khí hậu",
+      "summary_vi": "Khi mọi người nghĩ về kỹ thuật địa lý khí hậu để ngăn chặn hoặc đảo ngược biến đổi khí hậu, họ thường nghĩ đến các phòng thí nghiệm nghiên cứu của trường đại học và chính phủ. Với phạm vi và tầm quan trọng của một dự án như vậy, có vẻ tự nhiên là các chính phủ sẽ là người thực hiện một thời điểm như vậy.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-22_btyhzvl5ow.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-Blocking-the-Sun-Wont-Solve-the-Climate-Crisis.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-24 02:00"
+    },
+    {
+      "id": "114feej",
+      "title": "Pakistan and Iran Move to Boost Energy Cooperation",
+      "title_vi": "Pakistan và Iran chuyển sang tăng cường hợp tác năng lượng",
+      "summary_vi": "Pakistan và Iran sắp thành lập một nhóm làm việc chung để tăng cường hợp tác năng lượng, tập trung vào các dự án cung cấp điện và truyền tải điện, tờ Business Recorder của Pakistan đưa tin hôm thứ Hai, trích dẫn các nguồn thông tin về vấn đề này. hai",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-23_lifuqjvzw6.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-and-Iran-Move-to-Boost-Energy-Cooperation.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-24 01:30"
+    },
     {
       "id": "14ki6by",
       "title": "The Energy Transition Needs More Metals but Less Extraction",
@@ -68,6 +90,17 @@
       "published": "2026-11-23 23:00"
     },
     {
+      "id": "s2n96n",
+      "title": "U.S. TOPS THE LIST – Half the World’s Oil Comes From Just Five Countries – Visual Capitalist",
+      "title_vi": "Hoa Kỳ đứng đầu danh sách – Một nửa lượng dầu thế giới đến từ chỉ 5 quốc gia – Visual Capitalist",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/04/half-the-worlds-oil-comes-from-just-five-countries-visual-capitalist/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-23 22:56"
+    },
+    {
       "id": "pon05p",
       "title": "Oil Slides Nearly 4% as Returning Supply Outweighs Gulf Attacks",
       "title_vi": "Dầu trượt gần 4% khi nguồn cung quay trở lại vượt xa các cuộc tấn công ở vùng Vịnh",
@@ -77,6 +110,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-23 22:51"
+    },
+    {
+      "id": "ktzfsj",
+      "title": "Spot Natural Gas Prices Lose Stream in Latest Weekly Period",
+      "title_vi": "Giá khí đốt tự nhiên giao ngay giảm trong giai đoạn hàng tuần mới nhất",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/spot-natural-gas-prices-lose-stream-in-latest-weekly-period/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-11-23 22:45"
     },
     {
       "id": "199e9y7",
@@ -90,26 +134,15 @@
       "published": "2026-11-23 22:34"
     },
     {
-      "id": "1s547xe",
-      "title": "Ukrainian Naval Drones Sink Russian Warship in Libya",
-      "title_vi": "Máy bay không người lái của hải quân Ukraine đánh chìm tàu ​​chiến Nga ở Libya",
-      "summary_vi": "Tổng thống Volodymyr Zelenskiy hôm thứ Hai cho biết máy bay không người lái của hải quân Ukraine đã đánh chìm một tàu chiến Nga ở cảng Benghazi của Libya, trong cuộc tấn công đầu tiên được thừa nhận của Kyiv trên đất Libya và cuộc tấn công mới nhất dọc theo tuyến đường Địa Trung Hải chở dầu của Nga đến châu Á. Theo Zelen",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-23_bvqyy5oxj7.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Naval-Drones-Sink-Russian-Warship-in-Libya.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-23 22:30"
-    },
-    {
-      "id": "1fepbqw",
-      "title": "US Weighs NATO-Style Security Guarantees for Ukraine as Russia Pushes Back",
-      "title_vi": "Mỹ cân nhắc đảm bảo an ninh kiểu NATO cho Ukraine khi Nga đẩy lùi",
-      "summary_vi": "Đặc phái viên Jared Kushner cho biết, Tổng thống Mỹ Donald Trump có thể cân nhắc đưa ra những đảm bảo an ninh cho Ukraine theo mô hình cam kết phòng thủ tập thể của NATO nếu ông tin rằng nguy cơ xảy ra một cuộc xâm lược khác của Nga đã giảm đủ. Trong một bài viết dài trên X o",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-22_b750csqowj.jpg",
-      "link": "https://oilprice.com/Geopolitics/Europe/US-Weighs-NATO-Style-Security-Guarantees-for-Ukraine-as-Russia-Pushes-Back.html",
-      "source": "OilPrice",
+      "id": "udm2q0",
+      "title": "Gold, Silver Prices Rebound with US Stocks from Markets-Wide 'Washout'",
+      "title_vi": "Giá vàng, bạc phục hồi nhờ chứng khoán Mỹ thoát khỏi 'sự rửa trôi' trên toàn thị trường",
+      "summary_vi": "Vàng và bạc tăng vọt trong giao dịch châu Á và sau đó là Mỹ vào thứ Hai, đảo ngược một phần của tháng 11",
+      "image": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/2026-11-23-washout.png",
+      "link": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-crash-rally-112320261",
+      "source": "BullionVault",
       "category": "metal",
-      "published": "2026-11-23 22:00"
+      "published": "2026-11-23 21:54"
     },
     {
       "id": "qlt3gn",
@@ -475,17 +508,6 @@
       "published": "2026-11-21 04:13"
     },
     {
-      "id": "106ihf6",
-      "title": "Gold and silver prices fall again: How much lower could they go?",
-      "title_vi": "Giá vàng và bạc lại giảm: Chúng có thể giảm tới mức nào?",
-      "summary_vi": ".embed-container { vị trí: tương đối; phần đệm đáy: 56,25%; chiều cao: 0; tràn: ẩn; chiều rộng tối đa: 100%; } .embed-container iframe, đối tượng .embed-container, .embed-container embed { vị trí:…",
-      "image": "https://images.kitco.com/img/extract_0_0_1280_719,width_1200,enlarge,format_jpeg/icms/23111e24-0c6b-4f1b-a1cc-c8d82ed5f8b2.webp",
-      "link": "https://www.kitco.com/opinion/2026-11-20/gold-and-silver-prices-fall-again-how-much-lower-could-they-go",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-11-21 04:00"
-    },
-    {
       "id": "18t89j8",
       "title": "Stop guessing the bottom in the silver price. Watch these 6 signs instead",
       "title_vi": "Đừng đoán đáy của giá bạc nữa. Hãy xem 6 dấu hiệu này thay thế",
@@ -528,28 +550,6 @@
       "source": "Federal Reserve (.gov)",
       "category": "energy",
       "published": "2026-11-21 01:06"
-    },
-    {
-      "id": "hgr9se",
-      "title": "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition",
-      "title_vi": "Tại Hội nghị thượng đỉnh APEC, Mỹ, Trung Quốc và Nga cam kết tăng nguồn cung dầu trong bối cảnh chuyển đổi năng lượng toàn cầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
-      "source": "The New York Times",
-      "category": "energy",
-      "published": "2026-11-21 00:45"
-    },
-    {
-      "id": "1bgqbiz",
-      "title": "Silver price tumbles over 6% as US Dollar strength and Fed hike fears drive selloff",
-      "title_vi": "Giá bạc giảm hơn 6% do sức mạnh của đồng đô la Mỹ và nỗi lo tăng giá của Fed thúc đẩy làn sóng bán tháo",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://tradersunion.com/news/commodities/show/4345327-silver-slides-6-33percent-today-to/",
-      "source": "Traders Union",
-      "category": "metal",
-      "published": "2026-11-20 23:53"
     }
   ]
 }

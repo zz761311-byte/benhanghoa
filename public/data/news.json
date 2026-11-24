@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 23:01",
+  "updated_at": "2026-11-24 23:31",
   "items": [
     {
       "id": "15hbudl",
@@ -44,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-24 22:00"
+    },
+    {
+      "id": "duwmo6",
+      "title": "PALL: Substantial Portfolio Allocation Is Unwarranted Given Weak Long-Term Demand",
+      "title_vi": "PALL: Việc phân bổ danh mục đầu tư đáng kể là không chính đáng do nhu cầu dài hạn yếu",
+      "summary_vi": "Trường hợp giảm giá đối với PALL: Xe điện đe dọa 80%-85% nhu cầu palladium.",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1418567649/image_1418567649.jpg?io=getty-c-og",
+      "link": "https://seekingalpha.com/article/4971452-pall-substantial-portfolio-allocation-is-unwarranted-given-weak-long-term-demand?source",
+      "source": "Seeking Alpha",
+      "category": "metal",
+      "published": "2026-11-24 21:37"
     },
     {
       "id": "1fv726d",
@@ -200,6 +211,17 @@
       "published": "2026-11-24 16:25"
     },
     {
+      "id": "5oxb7y",
+      "title": "Price Forecasts for Gold, Silver, and Platinum (2026–2027)",
+      "title_vi": "Dự báo giá vàng, bạc và bạch kim (2026–2027)",
+      "summary_vi": "Dự báo vàng/bạc, bạch kim cho giai đoạn 2026–2027: so sánh triển vọng giá, các yếu tố thúc đẩy và rủi ro thị trường chính, đồng thời tìm hiểu cách các nhà đầu tư có thể xây dựng vị thế theo từng giai đoạn.",
+      "image": "https://tw.mitrade.com/cms_uploads/img/20231215/e033b11db72fbf9c417ba28d6f5c47ca.jpg",
+      "link": "https://www.mitrade.com/ae-en/insights/commodity/metals/gold-silver-platinum-forecast",
+      "source": "Mitrade",
+      "category": "metal",
+      "published": "2026-11-24 16:04"
+    },
+    {
       "id": "1tlu5rt",
       "title": "Will corn and soybean farmers get a price rally for Christmas?",
       "title_vi": "Liệu nông dân trồng ngô và đậu nành có tăng giá vào dịp Giáng sinh?",
@@ -264,6 +286,17 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-11-24 07:57"
+    },
+    {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-24 06:08"
     },
     {
       "id": "1ritdpb",
@@ -517,39 +550,6 @@
       "source": "SWI swissinfo.ch",
       "category": "soft",
       "published": "2026-11-23 19:15"
-    },
-    {
-      "id": "1jie6ka",
-      "title": "Platinum Price Forecast: Dollar Threatens Rebound After 13% Drop",
-      "title_vi": "Dự báo giá bạch kim: Đồng đô la có nguy cơ phục hồi sau khi giảm 13%",
-      "summary_vi": "Sự phục hồi của bạch kim phải đối mặt với áp lực từ đồng đô la mạnh và nhu cầu yếu của Trung Quốc, trong khi mức hỗ trợ ở mức 1.200–1.350 đô la có thể tạo cơ sở để phục hồi về phía 1.500 đô la.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/platinum2.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/platinum-price-forecast-dollar-threatens-rebound-after-13-drop-1646492",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-11-23 17:46"
-    },
-    {
-      "id": "p7bnhq",
-      "title": "Gold and silver forecast: Precious metals extend drop but seasonality hopes keeps bullish case alive",
-      "title_vi": "Dự báo vàng và bạc: Kim loại quý tiếp tục giảm nhưng hy vọng theo mùa giúp duy trì xu hướng tăng giá",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.forex.com/en-sg/news-and-analysis/gold-and-silver-forecast-precious-metals-extend-drop-but-seasonality-hopes-keeps-bullish-case-alive/",
-      "source": "FOREX.com",
-      "category": "metal",
-      "published": "2026-11-23 17:38"
-    },
-    {
-      "id": "mf9ex3",
-      "title": "Core PCE Inflation vs. Softer Data in the Debate Over Fed Rate Hikes",
-      "title_vi": "Lạm phát PCE cốt lõi so với dữ liệu yếu hơn trong cuộc tranh luận về việc tăng lãi suất của Fed",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-us/insights/core-pce-inflation-vs-softer-data-in-the-debate-over-fed-rate-hikes/",
-      "source": "StoneX",
-      "category": "macro",
-      "published": "2026-11-23 16:39"
     }
   ]
 }

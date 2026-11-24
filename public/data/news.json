@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-24 07:01",
+  "updated_at": "2026-11-24 08:01",
   "items": [
+    {
+      "id": "1a8vk0z",
+      "title": "America&#039;s Refiners Drowned Their Own Gasoline Windfall",
+      "title_vi": "Các nhà máy lọc dầu của Mỹ đã tự nhận chìm vận may xăng dầu của chính mình",
+      "summary_vi": "Các nhà máy lọc dầu của Hoa Kỳ đã dành năm 2026 để ép ít xăng ra khỏi mỗi thùng hơn để theo đuổi lợi nhuận từ nhiên liệu diesel và máy bay phản lực, và họ vẫn sản xuất đủ xăng để gần như xóa sạch lợi nhuận của họ. Sản lượng xăng trung bình đạt dưới 45% trong 8 tháng đầu năm và giảm xuống dưới mức trung bình.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-23_rv3wsxlzt6.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Americas-Refiners-Drowned-Their-Own-Gasoline-Windfall.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-24 08:00"
+    },
     {
       "id": "jwap4g",
       "title": "Climate Finance Dispute Derails COP31 Negotiations",
@@ -77,17 +88,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-24 02:00"
-    },
-    {
-      "id": "114feej",
-      "title": "Pakistan and Iran Move to Boost Energy Cooperation",
-      "title_vi": "Pakistan và Iran chuyển sang tăng cường hợp tác năng lượng",
-      "summary_vi": "Pakistan và Iran sắp thành lập một nhóm làm việc chung để tăng cường hợp tác năng lượng, tập trung vào các dự án cung cấp điện và truyền tải điện, tờ Business Recorder của Pakistan đưa tin hôm thứ Hai, trích dẫn các nguồn thông tin về vấn đề này. hai",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-23_lifuqjvzw6.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-and-Iran-Move-to-Boost-Energy-Cooperation.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-11-24 01:30"
     },
     {
       "id": "1y28ofu",
@@ -308,6 +308,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-23 16:13"
+    },
+    {
+      "id": "4sc0e6",
+      "title": "Gas Prices Ease for Thanksgiving",
+      "title_vi": "Giá xăng giảm vào dịp Lễ Tạ ơn",
+      "summary_vi": "Giá dầu thô giảm đang giúp cung cấp một số cứu trợ cho máy bơm trước Lễ Tạ ơn. Mặc dù tăng nhẹ vào thứ Sáu tuần trước, nhưng giá dầu nhìn chung đã kết thúc tuần ở mức thấp hơn, giảm bớt một số áp lực lên giá xăng. Tuy nhiên, người dân Georgia vẫn phải trả mức giá tương đối cao vào thời điểm này trong năm, với mức giá trung bình hiện tại của bang.",
+      "image": "https://content.presspage.com/uploads/2983/334902bb-ed86-4aa5-ba66-e6fd2bf4949a/1920_oiljack.jpg?10000",
+      "link": "https://newsroom.acg.aaa.com/gas-prices-ease-for-thanksgiving/",
+      "source": "ACG AAA Newsroom",
+      "category": "energy",
+      "published": "2026-11-23 13:00"
     },
     {
       "id": "1wfybj7",
@@ -539,17 +550,6 @@
       "source": "Purdue University - College of Agriculture",
       "category": "agri",
       "published": "2026-11-21 05:08"
-    },
-    {
-      "id": "3gjfse",
-      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
-      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-21 04:56"
     }
   ]
 }

@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-25 00:01",
+  "updated_at": "2026-11-25 01:01",
   "items": [
+    {
+      "id": "myr5v1",
+      "title": "Canada’s Oilfield Services Sector Is Gearing Up for a Stronger 2027",
+      "title_vi": "Ngành dịch vụ mỏ dầu của Canada đang chuẩn bị cho năm 2027 mạnh mẽ hơn",
+      "summary_vi": "Thị trường dịch vụ mỏ dầu của Canada kết thúc năm 2026 mạnh mẽ hơn so với thời điểm bắt đầu. Số lượng giếng khoan giảm 3% và số lượng giếng khoan bằng fracking giảm 5% trong nửa đầu năm, nhưng sự phục hồi mạnh mẽ trong nửa cuối năm do giá hàng hóa cao hơn sau chiến tranh Mỹ-Iran đã khiến hoạt động khoan và hoàn thiện giếng bị ảnh hưởng.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-24_cwezulxspt.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Canadas-Oilfield-Services-Sector-Is-Gearing-Up-for-a-Stronger-2027.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-25 01:00"
+    },
+    {
+      "id": "1hmeq52",
+      "title": "Saudi Arabia Sees Smaller Economic Slump as More Oil Reaches Market",
+      "title_vi": "Ả Rập Saudi chứng kiến ​​​​sự suy thoái kinh tế nhỏ hơn khi có nhiều dầu tiếp cận thị trường hơn",
+      "summary_vi": "Ả Rập Saudi hiện dự đoán nền kinh tế của mình sẽ giảm 2,1% trong năm nay thay vì 3,6%, sau khi khôi phục đủ xuất khẩu dầu để giảm thiểu một số thiệt hại do chiến tranh Iran gây ra. Dự báo sửa đổi, được công bố trong báo cáo ngân sách hôm thứ Ba, là một sự cải thiện đáng kể so với tháng trước.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-24_gr4b6hn5ql.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Sees-Smaller-Economic-Slump-as-More-Oil-Reaches-Market.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-25 00:00"
+    },
     {
       "id": "1yobpco",
       "title": "Europe’s Gas Prices Jumped 163% in a Year",
@@ -11,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-25 00:00"
+    },
+    {
+      "id": "o5ps2j",
+      "title": "Copper Resumes Decline as Investors Look Beyond Drama at Nvidia",
+      "title_vi": "Đồng tiếp tục suy giảm khi các nhà đầu tư nhìn xa hơn kịch tính tại Nvidia",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/copper-resumes-decline-as-investors-look-beyond-drama-at-nvidia",
+      "source": "Bloomberg",
+      "category": "metal",
+      "published": "2026-11-24 23:33"
     },
     {
       "id": "cw2w12",
@@ -178,17 +211,6 @@
       "published": "2026-11-24 19:32"
     },
     {
-      "id": "1niygzw",
-      "title": "European Gas Prices Climb as Cold Snap Threatens Depleted Reserves",
-      "title_vi": "Giá khí đốt châu Âu tăng do đợt rét đậm đe dọa nguồn dự trữ cạn kiệt",
-      "summary_vi": "Giá khí đốt tự nhiên tiêu chuẩn châu Âu đã tăng vào thứ Ba trong phiên giao dịch thứ tư liên tiếp do một đợt lạnh trong tuần này sẽ đẩy nhanh việc rút tiền từ kho dự trữ, nơi mức ở mức thấp nhất trong nhiều năm khi bắt đầu mùa sưởi ấm. Giá tháng đầu tiên của đồng Tit Hà Lan",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Prices-Climb-as-Cold-Snap-Threatens-Depleted-Reserves.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-24 18:45"
-    },
-    {
       "id": "xd0kbx",
       "title": "How High Are Gas Prices Where You Live?",
       "title_vi": "Giá xăng ở nơi bạn sống cao đến mức nào?",
@@ -198,17 +220,6 @@
       "source": "The New York Times",
       "category": "energy",
       "published": "2026-11-24 18:20"
-    },
-    {
-      "id": "59h2u0",
-      "title": "Japan Poised to Ramp Up LNG Buying as Power Prices Surge",
-      "title_vi": "Nhật Bản sẵn sàng tăng cường mua LNG khi giá điện tăng cao",
-      "summary_vi": "Các công ty điện lực của Nhật Bản có thể tăng cường mua hàng LNG giao ngay do giá điện tăng cao trong những ngày gần đây khiến việc sản xuất điện chạy bằng khí đốt lần đầu tiên có lãi kể từ khi chiến tranh Iran bắt đầu. Sự chênh lệch tia lửa vật chất của Nhật Bản, sự chênh lệch giữa giá mà một nhà máy phát điện nhận được",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Poised-to-Ramp-Up-LNG-Buying-as-Power-Prices-Surge.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-24 17:35"
     },
     {
       "id": "1ee8lrt",
@@ -539,17 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-11-23 20:39"
-    },
-    {
-      "id": "2wkfpr",
-      "title": "North America Poised to Lead Platinum Jewelry as Global Demand Sinks 20%",
-      "title_vi": "Bắc Mỹ sẵn sàng dẫn đầu trang sức bạch kim khi nhu cầu toàn cầu giảm 20%",
-      "summary_vi": "Theo báo cáo hàng quý bạch kim mới nhất của Thế giới, nhu cầu trang sức bạch kim toàn cầu được dự báo sẽ giảm 20% trong năm nay, xuống còn 1,77 triệu ounce.",
-      "image": "https://www.jckonline.com/wp-content/uploads/2026/11/Pure-platinum-bars.jpg",
-      "link": "https://www.jckonline.com/editorial-article/global-platinum-2026-slowdown/",
-      "source": "www.jckonline.com",
-      "category": "metal",
-      "published": "2026-11-23 20:36"
     }
   ]
 }

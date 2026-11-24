@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-24 19:01",
+  "updated_at": "2026-11-24 20:01",
   "items": [
+    {
+      "id": "t8euzb",
+      "title": "South Korea Says Its Crude Supply Is Stable Through the Winter",
+      "title_vi": "Hàn Quốc cho biết nguồn cung dầu thô ổn định qua mùa đông",
+      "summary_vi": "Bộ Thương mại, Công nghiệp và Tài nguyên của một trong những nhà nhập khẩu dầu thô hàng đầu châu Á cho biết Hàn Quốc đã đảm bảo nguồn cung dầu thô trong tháng 11 và tháng 12, bằng 90% mức của năm ngoái, bất chấp cuộc khủng hoảng Trung Đông và sự gián đoạn dòng chảy thương mại tại eo biển Hormuz.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-24_cs0ubila2e.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Says-Its-Crude-Supply-Is-Stable-Through-the-Winter.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-24 20:00"
+    },
     {
       "id": "1niygzw",
       "title": "European Gas Prices Climb as Cold Snap Threatens Depleted Reserves",
@@ -68,6 +79,17 @@
       "published": "2026-11-24 14:00"
     },
     {
+      "id": "1rw7a5m",
+      "title": "AI-driven copper demand is 'overhyped': BNP Paribas",
+      "title_vi": "Nhu cầu đồng do AI điều khiển đang 'tăng quá mức': BNP Paribas",
+      "summary_vi": "David Wilson, người đứng đầu chiến lược kim loại của BNP Paribas, cho rằng câu chuyện về nhu cầu đồng do AI thúc đẩy có thể bị cường điệu hóa. Ông cho biết các trung tâm dữ liệu vẫn chiếm một phần nhỏ trong nhu cầu đồng toàn cầu, trong khi việc thay thế nhôm đang tăng nhanh. Wilson cũng lưu ý rằng nhu cầu đồng đang giảm từ hoạt động xây dựng của Trung Quốc",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558067-17954986491795498646-49826403960-1080pnbcnews.jpg?v=1795498648&w=1920&h=1080",
+      "link": "https://www.cnbc.com/video/2026/11/24/ai-driven-copper-demand-is-overhyped-bnp-paribas.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-11-24 13:53"
+    },
+    {
       "id": "1klrc0l",
       "title": "Electric and Hybrid Cars Capture Three-Quarters of Europe’s Auto Market",
       "title_vi": "Ô tô điện và hybrid chiếm lĩnh 3/4 thị trường ô tô châu Âu",
@@ -123,17 +145,6 @@
       "published": "2026-11-24 07:00"
     },
     {
-      "id": "t3t66e",
-      "title": "Quantum Computing Could Accelerate the Energy Transition",
-      "title_vi": "Máy tính lượng tử có thể đẩy nhanh quá trình chuyển đổi năng lượng",
-      "summary_vi": "Điện toán lượng tử hứa hẹn sẽ cách mạng hóa nhiều ngành công nghiệp với việc khám phá vật liệu tiên tiến, kỹ thuật công nghiệp và tối ưu hóa mạng lưới năng lượng lớn. Hơn nữa, điện toán lượng tử có thể bắt đầu giải quyết các vấn đề năng lượng trong thế giới thực như tối ưu hóa lưới điện và hóa học mới",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-23_vrl4pegk9s.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Quantum-Computing-Could-Accelerate-the-Energy-Transition.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-24 06:00"
-    },
-    {
       "id": "1ritdpb",
       "title": "Copper price roars back from bear market as Nvidia’s Huang U-turn revives AI trade",
       "title_vi": "Giá đồng tăng vọt trở lại từ thị trường giá xuống khi Huang U của Nvidia hồi sinh giao dịch AI",
@@ -165,6 +176,17 @@
       "source": "Successful Farming",
       "category": "agri",
       "published": "2026-11-24 03:02"
+    },
+    {
+      "id": "zbsmrx",
+      "title": "Oil, gasoline prices tumbling down",
+      "title_vi": "Giá xăng, dầu giảm mạnh",
+      "summary_vi": "Biên lợi nhuận bán lẻ lên đến đỉnh cao: Lundberg",
+      "image": "https://cdn.informaconnect.com/platform/files/public/2026-11/background/Fueling%20up%20%283%29.jpg?VersionId=5a6P_cRKZw8T0w.8oUpO4I3IMWtHVysV",
+      "link": "https://www.cspdailynews.com/fuels/oil-gasoline-prices-tumbling-down",
+      "source": "CSP Daily News",
+      "category": "energy",
+      "published": "2026-11-24 00:02"
     },
     {
       "id": "c927ac",
@@ -497,6 +519,17 @@
       "published": "2026-11-23 12:35"
     },
     {
+      "id": "1fej8dn",
+      "title": "Silver's Brutal Rout Could Have a Sting in the Tail",
+      "title_vi": "Hành trình tàn bạo của Silver có thể gây đau đớn ở đuôi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-gb/news-and-analysis/silver-s-brutal-rout-could-have-a-sting-in-the-tail/",
+      "source": "StoneX",
+      "category": "metal",
+      "published": "2026-11-23 11:52"
+    },
+    {
       "id": "1v86l3",
       "title": "Levels, timing: St. Johns River to reach record or major crest from Cocoa to Astor in coming days",
       "title_vi": "Cấp độ, thời gian: Sông St. Johns đạt kỷ lục hoặc đỉnh cao từ Cocoa đến Astor trong những ngày tới",
@@ -517,39 +550,6 @@
       "source": "FXStreet",
       "category": "metal",
       "published": "2026-11-23 10:19"
-    },
-    {
-      "id": "1pt4bfv",
-      "title": "Wall Street Strategists See Silver Lining for Stock Market",
-      "title_vi": "Các nhà chiến lược Phố Wall nhìn thấy cơ hội cho thị trường chứng khoán",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barrons.com/articles/wall-street-strategists-stock-market-black-monday-fears-51d741da",
-      "source": "Barron's",
-      "category": "metal",
-      "published": "2026-11-23 02:46"
-    },
-    {
-      "id": "top6ea",
-      "title": "Copper at Lowest Since April Amid AI Market Turmoil, Chinese Demand Concerns",
-      "title_vi": "Đồng ở mức thấp nhất kể từ tháng 4 trong bối cảnh thị trường AI hỗn loạn, lo ngại về nhu cầu của Trung Quốc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/copper-at-lowest-since-april-amid-ai-market-turmoil-chinese-demand-concerns-4325361e",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-11-22 20:02"
-    },
-    {
-      "id": "1rhk1mj",
-      "title": "Copper Prices Are Plunging and Sending a Warning for the US Economy",
-      "title_vi": "Giá đồng đang lao dốc và gửi cảnh báo cho nền kinh tế Mỹ",
-      "summary_vi": "Đồng, một yếu tố kinh tế hàng đầu, đã giảm 17% so với mức cao gần đây, gây ra cảnh báo rằng nền kinh tế Mỹ sắp suy yếu.",
-      "image": "https://i.insider.com/6b0086f373f126f9eccb8e9e?width=1200&format=jpeg",
-      "link": "https://www.businessinsider.com/copper-prices-plunging-warning-us-economy-2026-11",
-      "source": "Business Insider",
-      "category": "metal",
-      "published": "2026-11-22 17:25"
     }
   ]
 }

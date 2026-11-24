@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 09:01",
+  "updated_at": "2026-11-24 10:01",
   "items": [
     {
       "id": "1a8vk0z",
@@ -64,7 +64,7 @@
       "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-23_lifuqjvzw6.jpg",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-and-Iran-Move-to-Boost-Energy-Cooperation.html",
       "source": "OilPrice",
-      "category": "energy",
+      "category": "metal",
       "published": "2026-11-24 03:30"
     },
     {
@@ -121,6 +121,17 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-11-23 22:45"
+    },
+    {
+      "id": "3gjfse",
+      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
+      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-23 22:44"
     },
     {
       "id": "199e9y7",
@@ -308,6 +319,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-23 16:13"
+    },
+    {
+      "id": "mzk1mw",
+      "title": "The Goodyear Tire & Rubber Company Tokenized Stock (Coinbase) News",
+      "title_vi": "Tin tức về Cổ phiếu Tokenized của Công ty Lốp xe & Cao su Goodyear (Coinbase)",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeEhxVHBaM2NMcGpVRDliRXFKYkdrWmRXM2dRaUhNbUhFcTM3a3FTdEsyeDM4Qm1kbHlYejIzem1xT01oQ1d6QktOb2xraEVRLTJicTdMT1JuQ1Rjd09SYjlzS2ZWRi1pVG40UnQxZk94eXhqdWpqNk5sZTV1MngzS2xKWjNacFhJeUR3MmthTTVEbmstMS14dTlGRQ?oc=5",
+      "source": "CoinMarketCap",
+      "category": "soft",
+      "published": "2026-11-23 14:23"
     },
     {
       "id": "4sc0e6",
@@ -528,28 +550,6 @@
       "source": "StockInvest.us",
       "category": "soft",
       "published": "2026-11-21 06:17"
-    },
-    {
-      "id": "hpb1tx",
-      "title": "Oil Prices Fall Despite Hostilities as Flows Increase",
-      "title_vi": "Giá dầu giảm bất chấp sự thù địch khi dòng chảy tăng",
-      "summary_vi": "Mức cao nhất của WTI là 89,50 USD/thùng của ngày thứ Hai trong khi mức thấp nhất là 81,55 USD của ngày thứ Sáu. Dầu thô Brent cũng đạt mức cao nhất vào thứ Hai ở mức 96,75 USD/thùng và mức thấp vào thứ Sáu là 90,05 USD. Chênh lệch giá dầu WTI/Brent...",
-      "image": "https://img.ogj.com/files/base/ebm/ogj/image/website/logos/1752245958870-ogj_horizontalcolor_reg2.png?auto=format,compress&fit=fill&fill=solid&fill-color=&w=1200&h=627",
-      "link": "https://www.ogj.com/general-interest/economics-markets/article/55420777/oil-prices-fall-despite-hostilities-as-flows-increase",
-      "source": "Oil & Gas Journal",
-      "category": "energy",
-      "published": "2026-11-21 06:07"
-    },
-    {
-      "id": "1gras83",
-      "title": "Indiana Corn Update - Issue #34 - Purdue University",
-      "title_vi": "Cập nhật ngô Indiana - Số 34 - Đại học Purdue",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX0xWNWs4QzJpWjZrUEpJMzRreU9aYjBPVG9QS3dfYkNIUjN0TEd3WWtFZ09TQm1GLWlCT0hRV24tUjBXUHd5aTFVX251R3lrbGxnVFMyb0JrR2lLd0RhUWJZeUlUU0FrMzNYTy1IMmFIci0ydEFWdFdoNTZWdEUxS1RtMmdacjVzdHFON2d4ZTRjclhhVjVvYmNSZTc?oc=5",
-      "source": "Purdue University - College of Agriculture",
-      "category": "agri",
-      "published": "2026-11-21 05:08"
     }
   ]
 }

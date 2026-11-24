@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 12:01",
+  "updated_at": "2026-11-24 12:36",
   "items": [
     {
       "id": "1a8vk0z",
@@ -88,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-24 02:30"
+    },
+    {
+      "id": "c927ac",
+      "title": "Storms and Drones Disrupt Russia's Oil Exports",
+      "title_vi": "Bão và máy bay không người lái làm gián đoạn xuất khẩu dầu của Nga",
+      "summary_vi": "Bão và các cuộc tấn công bằng máy bay không người lái của Ukraine đã làm trì hoãn việc vận chuyển dầu của Nga ở Biển Baltic và Biển Đen, đồng thời các thương nhân cho biết cước vận chuyển Urals đến châu Á có thể tăng.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-23_9ki3adna8l.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Storms-and-Drones-Disrupt-Russias-Oil-Exports.html",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "energy",
+      "published": "2026-11-23 23:30"
     },
     {
       "id": "1y28ofu",
@@ -539,17 +550,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-11-21 07:15"
-    },
-    {
-      "id": "6czlj",
-      "title": "Luckin Coffee Stock Price Forecast. Should You Buy LKNCY?",
-      "title_vi": "Dự báo giá cổ phiếu cà phê Luckin. Bạn có nên mua LKNCY?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SOTBfbldfZVd3WWN3VFJKUVJYd1BISTVack0zOVk4OTU4dlBkaUhITWlRWkZ4RjAtN0tkcV82bkFCdlJZeWRSaXln?oc=5",
-      "source": "StockInvest.us",
-      "category": "soft",
-      "published": "2026-11-21 06:17"
     }
   ]
 }

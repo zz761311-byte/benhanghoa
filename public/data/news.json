@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 15:01",
+  "updated_at": "2026-11-24 16:01",
   "items": [
     {
       "id": "1yhd8rb",
@@ -11,6 +11,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-24 14:05"
+    },
+    {
+      "id": "2djjhk",
+      "title": "Staple food prices surge as conflicts spread",
+      "title_vi": "Giá thực phẩm thiết yếu tăng vọt khi xung đột lan rộng",
+      "summary_vi": "Xung đột địa chính trị, hạn chế xuất khẩu và căng thẳng về khí hậu đang biến lạm phát giá lương thực thành một cuộc khủng hoảng ngày càng gia tăng về an ninh lương thực và rủi ro tài chính.",
+      "image": "https://www.gisreportsonline.com/wp-content/uploads/2026/11/pile-of-rice-at-the-gharaunda-grain-market-1140x760.jpg",
+      "link": "https://www.gisreportsonline.com/r/staple-food-prices-surge/",
+      "source": "GIS Reports",
+      "category": "macro",
+      "published": "2026-11-24 14:00"
     },
     {
       "id": "1klrc0l",
@@ -33,6 +44,17 @@
       "source": "CMB News",
       "category": "soft",
       "published": "2026-11-24 12:11"
+    },
+    {
+      "id": "shx2z2",
+      "title": "Sugar Land and Missouri City home sales drop in October",
+      "title_vi": "Doanh số bán nhà của Sugar Land và Missouri City giảm trong tháng 10",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObDFtY29YeEw5YWpacGtVMXdfUzZVTnhsRVBBRWdzY1JIZGQ1aVh4cEJJbnh2SVh0THhrWjc3ZkxGX1hYbUVPbnE1TWNiaUVUTUlQVmRqdlFtMjFwOGVZdXdMa0xpaU1oV1lKRUpWMG9FN0ZFaUIwZkxQU2J5NzVpWlpMOEdpR3RySzV6R1dUQURJNnVOaEdrY1p1d0hrNjRicTBneWR6cFZmQzdGN3EwMF9qOTliMWVtNDZxMUZxOGNyMkFYNW8yZzIxUV9JY25fQWc?oc=5",
+      "source": "Community Impact Newspaper",
+      "category": "soft",
+      "published": "2026-11-24 11:23"
     },
     {
       "id": "1a8vk0z",
@@ -209,6 +231,17 @@
       "source": "Rigzone",
       "category": "energy",
       "published": "2026-11-23 22:17"
+    },
+    {
+      "id": "82myxa",
+      "title": "Ukraine’s Attacks on Russian Energy Sites — What Has Been Hit?",
+      "title_vi": "Cuộc tấn công của Ukraine vào các cơ sở năng lượng của Nga - Điều gì đã bị tấn công?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/10/ukraines-attacks-on-russian-energy-sites-what-has-been-hit-2/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-23 22:09"
     },
     {
       "id": "udm2q0",
@@ -517,39 +550,6 @@
       "source": "IndexBox",
       "category": "energy",
       "published": "2026-11-22 11:56"
-    },
-    {
-      "id": "9czoa6",
-      "title": "Platinum Price Canada Today | Live Platinum Price in CAD",
-      "title_vi": "Giá bạch kim Canada hôm nay | Giá bạch kim trực tiếp bằng CAD",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5NE1XLWw5NXAzVHR3ZnRDRjlIOHNfeGpjYXRDNktrYU1fX2tYcUFEMGUwZGVzNkNzamxjUnFOSDl2eUlhQnVaeUVtOVNOb0ZnZGlxWlgtcDl4QQ?oc=5",
-      "source": "Kitco",
-      "category": "metal",
-      "published": "2026-11-22 07:00"
-    },
-    {
-      "id": "d8m2l0",
-      "title": "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
-      "title_vi": "Giá xăng Lễ Tạ ơn có thể phá kỷ lục bất chấp sự sụt giảm gần đây",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWtrY0hLNDhyUnhKekstTHlLczFjUGFoM2pMSThHUnJoZjJYMHhObldvUERKdWlHUDJXRmtsNE02cUhSSmZGMzh2S01ZdHExWWpXQnRFc2QyRnE1dEpXSEVWZU5sSkU0clc0emNIR3BUUTI5aW5aWG9UTU85WGMydVAwdWVSRWFPTUFONDlWX3ljQVpBcHhOV2x3dDYzaUs0Q0JrczdtenVTZzZ1OFZHZzBRYXlWRHUtM3Zmcy00d9IBxAFBVV95cUxPOWgwY0lmbm5qUGxvY2IybF9kYXVGLUlVNzlTeXpaUmoxeEpLX05RY1ZMbW1wVk80ckRic2R2dFZSX3VCQkFxZXRXQnRKZTNGNHpuTndkSnZKbEdpemstdnlLWEtiRFRhVU13akpjVWFUZGUybC1KRHBvbGE5VmY0RmpnQVBoRUpFamlWSmhvNnVJVmVCVGpybWNyOWRhc1ZYNzBJbHp1SlZmODk0XzZBQks5eDRvUF9UUGRpeXlPSDdzTEJR?oc=5",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-11-22 02:10"
-    },
-    {
-      "id": "if7e5t",
-      "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
-      "title_vi": "Giá dầu giảm trong bối cảnh kỳ vọng dư cung, căng thẳng ở Trung Đông",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-11-21 23:39"
     }
   ]
 }

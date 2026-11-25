@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-26 00:01",
+  "updated_at": "2026-11-26 01:01",
   "items": [
+    {
+      "id": "1asgw2i",
+      "title": "JAPEX Eyes More Than 10,000 Boe/d in Norway with Goliat Deal",
+      "title_vi": "JAPEX hướng tới hơn 10.000 Boe/d ở Na Uy với thỏa thuận Goliat",
+      "summary_vi": "Công ty thăm dò dầu khí Nhật Bản (JAPEX) đã đồng ý mua 8% cổ phần tại mỏ dầu Goliat của Na Uy từ Equinor vì công ty này đặt mục tiêu vượt quá 10.000 thùng dầu tương đương mỗi ngày tại nước này vào những năm 2030. Theo hai thỏa thuận liên kết được công bố hôm thứ Tư, JAPEX sẽ trả cho Equinor 65 triệu đô la",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-25_zsp9fn6bcf.jpg",
+      "link": "https://oilprice.com/Energy/Crude-Oil/JAPEX-Eyes-More-Than-10000-Boed-in-Norway-with-Goliat-Deal.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-26 01:00"
+    },
+    {
+      "id": "te99s1",
+      "title": "Oil Futures Pick Up as Middle East Tensions Persist",
+      "title_vi": "Giá dầu kỳ hạn tăng khi căng thẳng ở Trung Đông tiếp diễn",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-supply-outlook-renewed-middle-east-tensions-182b1198",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-11-26 00:37"
+    },
+    {
+      "id": "168k9wm",
+      "title": "Kazakhstan Joins Iraq in Pushing OPEC+ for a Higher Capacity Rating",
+      "title_vi": "Kazakhstan cùng Iraq thúc đẩy OPEC+ nâng mức xếp hạng công suất cao hơn",
+      "summary_vi": "Kazakhstan đã cùng Iraq yêu cầu OPEC+ nâng ước tính về năng lực sản xuất dầu thô của nước này, Reuters đưa tin hôm thứ Tư, trích dẫn những người quen thuộc với vấn đề này. Yêu cầu được đưa ra bốn ngày trước khi nhóm họp để thiết lập chính sách đầu ra cho năm 2027. Việc xem xét i",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-25_eqbpandi6v.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Joins-Iraq-in-Pushing-OPEC-for-a-Higher-Capacity-Rating.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-26 00:30"
+    },
     {
       "id": "109p3iy",
       "title": "U.S. Diplomatic Push Revives Hopes for Trans-Caspian Gas Pipeline",
@@ -11,6 +44,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-26 00:00"
+    },
+    {
+      "id": "129u3mq",
+      "title": "Soybean Crush: U.S. Processing Capacity Threatens USDA's Record Forecast",
+      "title_vi": "Đậu nành nghiền: Năng lực chế biến của Hoa Kỳ đe dọa dự báo kỷ lục của USDA",
+      "summary_vi": "Tỷ suất lợi nhuận cao và các nhà máy mới đang thúc đẩy nhu cầu đậu tương của Hoa Kỳ, nhưng giới hạn công suất và sự chậm lại theo mùa có thể làm suy yếu USDA",
+      "image": "https://www.agrolatam.com/files/image/84/84595/6b070fcae6b2c_600_315!.jpg?s=a509315932a1e496ed142ce9d2dac6c7&d=1795625013",
+      "link": "https://www.agrolatam.com/usa/news/soybean-crush-u-s-processing-capacity-threatens-usdas-record-forecast/",
+      "source": "AgroLatam",
+      "category": "agri",
+      "published": "2026-11-25 23:46"
     },
     {
       "id": "1o7f6tq",
@@ -33,6 +77,17 @@
       "source": "OpenSnow",
       "category": "metal",
       "published": "2026-11-25 23:23"
+    },
+    {
+      "id": "1exmqcu",
+      "title": "Coffee prices continue to soften",
+      "title_vi": "Giá cà phê tiếp tục giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Fa0dTR215ODN5dndWektRb0FUUGpHU2FsVWZwbHhzS2I0Nk1PTGpHMWVfaWxwOFNyaFcwT2cwdkN3M2tncE81cHRTV2NObzJCNUJZVGRZbTRyLXdFcG9aRmFsRHVBaVg3VlB1UUxUS1Q?oc=5",
+      "source": "Wandile Sihlobo | Substack",
+      "category": "soft",
+      "published": "2026-11-25 23:05"
     },
     {
       "id": "1i0gf3n",
@@ -110,28 +165,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-25 21:00"
-    },
-    {
-      "id": "1b67ami",
-      "title": "Iran War Is Pushing Record Numbers of Fuel Tankers Into Crude Trade",
-      "title_vi": "Chiến tranh Iran đang đẩy số lượng tàu chở nhiên liệu kỷ lục vào buôn bán dầu thô",
-      "summary_vi": "Cuộc khủng hoảng ở Trung Đông và dòng chảy dầu thô và nhiên liệu bị đình trệ đã đẩy nhanh sự thay đổi trong đội tàu chở dầu toàn cầu bắt đầu từ năm ngoái. Ngày càng có nhiều tàu chở dầu sạch tầm xa-2 (LR2) vận chuyển nhiên liệu như dầu diesel và xăng đã trở thành cái gọi là tàu chở dầu sạch.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-25_fp8v60mwez.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-War-Is-Pushing-Record-Numbers-of-Fuel-Tankers-Into-Crude-Trade.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-25 20:00"
-    },
-    {
-      "id": "vhkzz4",
-      "title": "UK Energy Price Cap Jumps 26% in January, Highest Since 2023",
-      "title_vi": "Giá trần năng lượng của Vương quốc Anh tăng 26% trong tháng 1, cao nhất kể từ năm 2023",
-      "summary_vi": "Giá năng lượng cho các hộ gia đình ở Anh sẽ tăng 26% kể từ ngày 1 tháng 1 do chiến tranh Trung Đông đang đẩy giá khí đốt bán buôn lên cao hơn, cơ quan quản lý năng lượng Ofgem của Vương quốc Anh cho biết trong thông báo giới hạn năng lượng hàng quý hôm thứ Tư. Vương quốc Anh áp dụng cái gọi là Giới hạn giá năng lượng, nhằm bảo vệ",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-25_minblvxoqj.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Energy-Price-Cap-Jumps-26-in-January-Highest-Since-2023.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-25 19:00"
     },
     {
       "id": "uktniu",
@@ -517,39 +550,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-11-24 16:52"
-    },
-    {
-      "id": "1tlu5rt",
-      "title": "Will corn and soybean farmers get a price rally for Christmas?",
-      "title_vi": "Liệu nông dân trồng ngô và đậu nành có tăng giá vào dịp Giáng sinh?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.farmprogress.com/marketing/will-corn-and-soybean-farmers-get-a-price-rally-for-christmas-",
-      "source": "Farm Progress",
-      "category": "agri",
-      "published": "2026-11-24 14:41"
-    },
-    {
-      "id": "1bbe4ht",
-      "title": "Stop Craving Sugar 12 Easy Keto Friendly Sweets Ohio Price - Derby",
-      "title_vi": "Ngừng thèm đường 12 Đồ ngọt thân thiện với Keto dễ dàng Giá Ohio - Derby",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOWR4LW4zeW5DdVV6X1dBNUU0R2Jjc0ROaU1ObEFWVDBVeGVnbUNHdDBZYi1KdGRhZXZxcE5zdmVrdWxKWUhUYTdLbnNlYVN5RnFhTlF1S2hpY1FRT1lSQm9sOTl2N25mTy1XQ29UY09iRHE4TklGaU1RYkdnaUNsMW1LczRyRDhBQU1qS1dEVQ?oc=5",
-      "source": "Derby - Diocese",
-      "category": "soft",
-      "published": "2026-11-24 14:28"
-    },
-    {
-      "id": "2djjhk",
-      "title": "Staple food prices surge as conflicts spread",
-      "title_vi": "Giá thực phẩm thiết yếu tăng vọt khi xung đột lan rộng",
-      "summary_vi": "Xung đột địa chính trị, hạn chế xuất khẩu và căng thẳng về khí hậu đang biến lạm phát giá lương thực thành một cuộc khủng hoảng ngày càng gia tăng về an ninh lương thực và rủi ro tài chính.",
-      "image": "https://www.gisreportsonline.com/wp-content/uploads/2026/11/pile-of-rice-at-the-gharaunda-grain-market-1140x760.jpg",
-      "link": "https://www.gisreportsonline.com/r/staple-food-prices-surge/",
-      "source": "GIS Reports",
-      "category": "macro",
-      "published": "2026-11-24 14:00"
     }
   ]
 }

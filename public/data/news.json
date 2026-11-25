@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-25 13:01",
+  "updated_at": "2026-11-25 14:01",
   "items": [
+    {
+      "id": "iqtk9c",
+      "title": "Goldman Sachs Sees U.S. Natural Gas Demand Surging on Data Center Boom",
+      "title_vi": "Goldman Sachs nhận thấy nhu cầu khí đốt tự nhiên của Hoa Kỳ tăng do sự bùng nổ của trung tâm dữ liệu",
+      "summary_vi": "Goldman Sachs dự báo, sự phát triển của trung tâm dữ liệu sẽ thúc đẩy nhu cầu về khí đốt tự nhiên ở Hoa Kỳ trong hai năm tới, ước tính rằng chỉ tính riêng năm 2028, khoảng 52 GW công suất của trung tâm dữ liệu mới có thể được bổ sung vào lưới điện. “Tính đến thời điểm hiện tại, công suất nguồn điện của trung tâm dữ liệu và nhu cầu",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-25_cf1okrgupd.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sees-US-Natural-Gas-Demand-Surging-on-Data-Center-Boom.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-25 13:45"
+    },
     {
       "id": "jfu00b",
       "title": "Oil Prices Slide Despite Mounting Threats in the Strait of Hormuz",
@@ -11,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-25 12:50"
+    },
+    {
+      "id": "8xmtok",
+      "title": "Natural Gas and Oil Forecast: Surplus Fears Outweigh Gulf Attacks, Can Brent Hold $87.39?",
+      "title_vi": "Dự báo về khí đốt và dầu tự nhiên: Nỗi lo dư thừa vượt xa các cuộc tấn công ở vùng Vịnh, liệu Brent có thể giữ được 87,39 USD không?",
+      "summary_vi": "Dự báo về khí đốt và dầu tự nhiên: nỗi lo dư thừa lớn hơn các cuộc tấn công ở vùng Vịnh khi Brent kiểm tra trục xoay 87,39 USD, WTI duy trì dưới 81,95 USD và khí đốt giữ mức hỗ trợ 3,66 USD.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/Main-Images.jpg?width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/natural-gas-and-oil-forecast-surplus-fears-outweigh-gulf-attacks-can-brent-hold-87-39-1647061",
+      "source": "FXEmpire",
+      "category": "energy",
+      "published": "2026-11-25 12:40"
     },
     {
       "id": "1b9f5wi",
@@ -88,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-25 05:00"
-    },
-    {
-      "id": "1qje31c",
-      "title": "Where Does Texas&#039; Data Center Boom Go From Here?",
-      "title_vi": "Sự bùng nổ trung tâm dữ liệu của Texas sẽ đi về đâu từ đây?",
-      "summary_vi": "Giấy phép trung tâm dữ liệu đầu tiên được Texas cấp sau khi dỡ bỏ lệnh đóng băng dường như đã thuộc về SpaceX, cho một dự án trị giá 24 tỷ USD tại Starbase, Politico đưa tin. Ủy ban Chất lượng Môi trường Texas đã quay lại xem xét giấy phép bình thường vào ngày 16 tháng 11, sau khi được thông báo rằng ERCOT",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-24_ebadpeczrf.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Where-Does-Texas-Data-Center-Boom-Go-From-Here.html",
-      "source": "OilPrice",
-      "category": "metal",
-      "published": "2026-11-25 04:00"
     },
     {
       "id": "pw256a",
@@ -420,6 +431,17 @@
       "published": "2026-11-24 12:11"
     },
     {
+      "id": "1w94fbk",
+      "title": "Why unrest in the Strait of Hormuz is leading to rising oil and gasoline prices - ABC News",
+      "title_vi": "Vì sao bất ổn ở eo biển Hormuz khiến giá dầu, xăng tăng cao - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/Business/unrest-strait-hormuz-leading-rising-oil-gasoline-prices/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-11-24 11:25"
+    },
+    {
       "id": "shx2z2",
       "title": "Sugar Land and Missouri City home sales drop in October",
       "title_vi": "Doanh số bán nhà của Sugar Land và Missouri City giảm trong tháng 10",
@@ -462,6 +484,17 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-11-24 07:57"
+    },
+    {
+      "id": "90sk4t",
+      "title": "Silver Price Drops Below US$50 — What Matters Now for Miners and Explorers?",
+      "title_vi": "Giá bạc giảm xuống dưới 50 đô la Mỹ - Điều gì quan trọng bây giờ đối với người khai thác và nhà thám hiểm?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81ZHlwcktNZjVMeHl2Wk1IWWNWX01mOHBPcGlDRDFtMVMtMjh2bGVxNGxTblREVzlyeWFBYXBnVHJ5NGM4U3JlcWtSWWI4MWpEbmE4U0pQd0xsc0tMNkZxQnlmQ1U1X0FFSGZqcQ?oc=5",
+      "source": "Investing News Network",
+      "category": "metal",
+      "published": "2026-11-24 06:15"
     },
     {
       "id": "1xmztgd",
@@ -517,39 +550,6 @@
       "source": "JCK",
       "category": "metal",
       "published": "2026-11-24 02:29"
-    },
-    {
-      "id": "zbsmrx",
-      "title": "Oil, gasoline prices tumbling down",
-      "title_vi": "Giá xăng, dầu giảm mạnh",
-      "summary_vi": "Biên lợi nhuận bán lẻ lên đến đỉnh cao: Lundberg",
-      "image": "https://cdn.informaconnect.com/platform/files/public/2026-11/background/Fueling%20up%20%283%29.jpg?VersionId=5a6P_cRKZw8T0w.8oUpO4I3IMWtHVysV",
-      "link": "https://www.cspdailynews.com/fuels/oil-gasoline-prices-tumbling-down",
-      "source": "CSP Daily News",
-      "category": "energy",
-      "published": "2026-11-24 00:02"
-    },
-    {
-      "id": "z27ahi",
-      "title": "Small Refinery in Southern Russia Halts Operations After Attack",
-      "title_vi": "Nhà máy lọc dầu nhỏ ở miền Nam nước Nga tạm dừng hoạt động sau cuộc tấn công",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQejNaeUpJN19YQUZRaWFyQWd1cVdYVGl3TmVpbjg4czdfV09wNjFFR3N4U3VjVmpNOFItZHZ6NDZHOXlMWlM4bV96VHFOeThrN3FmVlhxVzVmR3VCZnZteHBxZk52UmJWS3ZLQmhIUFhVaHBIT0xYaEJYZ0Y4Q2RBUUFnZFNFRHNBRlVfSW5WX3BJZmpFQ1k0WTB1VU1HN1FsYVRlUnpoYk1aSm5NcEg1ZldsNE0?oc=5",
-      "source": "Bloomberg.com",
-      "category": "energy",
-      "published": "2026-11-23 23:52"
-    },
-    {
-      "id": "c927ac",
-      "title": "Storms and Drones Disrupt Russia's Oil Exports",
-      "title_vi": "Bão và máy bay không người lái làm gián đoạn xuất khẩu dầu của Nga",
-      "summary_vi": "Bão và các cuộc tấn công bằng máy bay không người lái của Ukraine đã làm trì hoãn việc vận chuyển dầu của Nga ở Biển Baltic và Biển Đen, đồng thời các thương nhân cho biết cước vận chuyển Urals đến châu Á có thể tăng.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-23_9ki3adna8l.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Storms-and-Drones-Disrupt-Russias-Oil-Exports.html",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "category": "energy",
-      "published": "2026-11-23 23:30"
     }
   ]
 }

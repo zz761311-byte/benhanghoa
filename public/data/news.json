@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-25 18:01",
+  "updated_at": "2026-11-25 19:01",
   "items": [
+    {
+      "id": "vhkzz4",
+      "title": "UK Energy Price Cap Jumps 26% in January, Highest Since 2023",
+      "title_vi": "Giá trần năng lượng của Vương quốc Anh tăng 26% trong tháng 1, cao nhất kể từ năm 2023",
+      "summary_vi": "Giá năng lượng cho các hộ gia đình ở Anh sẽ tăng 26% kể từ ngày 1 tháng 1 do chiến tranh Trung Đông đang đẩy giá khí đốt bán buôn lên cao hơn, cơ quan quản lý năng lượng Ofgem của Vương quốc Anh cho biết trong thông báo giới hạn năng lượng hàng quý hôm thứ Tư. Vương quốc Anh áp dụng cái gọi là Giới hạn giá năng lượng, nhằm bảo vệ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-25_minblvxoqj.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Energy-Price-Cap-Jumps-26-in-January-Highest-Since-2023.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-25 19:00"
+    },
+    {
+      "id": "hz9acp",
+      "title": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
+      "title_vi": "Đồng sụt giảm trong bối cảnh tàu lượn siêu tốc AI nhưng nguồn cung vật chất vẫn khan hiếm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/copper-slumps-amid-ai-roller-coaster-but-physical-supply-remains-tight-14fd2a91",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-11-25 18:03"
+    },
     {
       "id": "ujw2mb",
       "title": "Dangote Refinery Set to Become Africa’s Most Valuable Listed Company",
@@ -123,6 +145,17 @@
       "published": "2026-11-25 08:00"
     },
     {
+      "id": "18d47hb",
+      "title": "Gold falters ahead of key US inflation print",
+      "title_vi": "Vàng chùn bước trước báo cáo lạm phát quan trọng của Mỹ",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.reuters.com/world/india/gold-ticks-lower-ahead-us-inflation-data-2026-11-25/",
+      "source": "Reuters",
+      "category": "metal",
+      "published": "2026-11-25 07:49"
+    },
+    {
       "id": "zt475j",
       "title": "Gold slips on stronger dollar, US inflation data in focus",
       "title_vi": "Vàng trượt giá do đồng đô la mạnh hơn, dữ liệu lạm phát của Mỹ đang được chú ý",
@@ -132,17 +165,6 @@
       "source": "Reuters",
       "category": "metal",
       "published": "2026-11-25 07:49"
-    },
-    {
-      "id": "1dp8idu",
-      "title": "Senate Investigates Vance’s Alleged Role in Venezuela Oil Deal",
-      "title_vi": "Thượng viện điều tra vai trò bị cáo buộc của Vance trong thỏa thuận dầu mỏ ở Venezuela",
-      "summary_vi": "Thượng viện Hoa Kỳ đã mở một cuộc điều tra về mối quan hệ bị cáo buộc giữa Phó Tổng thống JD Vance và Vitol liên quan đến hợp đồng buôn bán dầu mỏ cho Venezuela. Cuộc điều tra diễn ra sau một báo cáo của Reuters từ đầu tháng này cho biết Phó Tổng thống Mỹ đã gặp một quan chức Vitol.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-24_kqwhbxs6dg.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Senate-Investigates-Vances-Alleged-Role-in-Venezuela-Oil-Deal.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-25 07:00"
     },
     {
       "id": "pw256a",
@@ -420,17 +442,6 @@
       "published": "2026-11-24 16:50"
     },
     {
-      "id": "5oxb7y",
-      "title": "Price Forecasts for Gold, Silver, and Platinum (2026–2027)",
-      "title_vi": "Dự báo giá vàng, bạc và bạch kim (2026–2027)",
-      "summary_vi": "Dự báo vàng/bạc, bạch kim cho giai đoạn 2026–2027: so sánh triển vọng giá, các yếu tố thúc đẩy và rủi ro thị trường chính, đồng thời tìm hiểu cách các nhà đầu tư có thể xây dựng vị thế theo từng giai đoạn.",
-      "image": "https://tw.mitrade.com/cms_uploads/img/20231215/e033b11db72fbf9c417ba28d6f5c47ca.jpg",
-      "link": "https://www.mitrade.com/ae-en/insights/commodity/metals/gold-silver-platinum-forecast",
-      "source": "Mitrade",
-      "category": "metal",
-      "published": "2026-11-24 16:04"
-    },
-    {
       "id": "1tlu5rt",
       "title": "Will corn and soybean farmers get a price rally for Christmas?",
       "title_vi": "Liệu nông dân trồng ngô và đậu nành có tăng giá vào dịp Giáng sinh?",
@@ -539,17 +550,6 @@
       "source": "Investing News Network",
       "category": "metal",
       "published": "2026-11-24 06:15"
-    },
-    {
-      "id": "1xmztgd",
-      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
-      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-24 06:08"
     }
   ]
 }

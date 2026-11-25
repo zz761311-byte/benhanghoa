@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 09:01",
+  "updated_at": "2026-11-25 10:01",
   "items": [
     {
       "id": "1q1ocxm",
@@ -110,6 +110,17 @@
       "source": "StoneX",
       "category": "metal",
       "published": "2026-11-25 01:07"
+    },
+    {
+      "id": "1fej8dn",
+      "title": "Silver's Brutal Rout Could Have a Sting in the Tail",
+      "title_vi": "Hành trình tàn bạo của Silver có thể gây đau đớn ở đuôi",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-gb/news-and-analysis/silver-s-brutal-rout-could-have-a-sting-in-the-tail/",
+      "source": "StoneX",
+      "category": "metal",
+      "published": "2026-11-25 00:56"
     },
     {
       "id": "o5ps2j",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-23 22:44"
-    },
-    {
-      "id": "1gfrp8k",
-      "title": "Pa. convenience store chain drops gas prices for Thanksgiving",
-      "title_vi": "Chuỗi cửa hàng tiện lợi Pa. giảm giá xăng dịp Lễ Tạ ơn",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGx3VXk1bEVRWElkZzk4Yzh5NHVldGpyTllvNzkza1c1RDVYcFVZSnlPUGZHUnNlTVM4YnNZUmJkWXZhTWx6aFNUeWdrZE11akVSZXRsRWxSS05kaVBxbHVJNU5oalJkS2hvMDF5S1BzdnFnRG15NDYtTVpoY3N4WlRJRE1TTnJmTHIzamd3U2UzSWliSklzRG5oa0Y5WlF5SEtLWjZlT1NkQ3RVbGJpbW1QWFZJZw?oc=5",
-      "source": "PennLive.com",
-      "category": "energy",
-      "published": "2026-11-23 22:43"
     }
   ]
 }

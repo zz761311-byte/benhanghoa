@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 08:07",
+  "updated_at": "2026-11-25 09:01",
   "items": [
     {
       "id": "1q1ocxm",
@@ -121,6 +121,17 @@
       "source": "Bloomberg",
       "category": "metal",
       "published": "2026-11-24 23:33"
+    },
+    {
+      "id": "e83xw1",
+      "title": "US Natural Gas Output, Demand to Hit Record Highs in 2026, EIA Says",
+      "title_vi": "EIA cho biết sản lượng khí đốt tự nhiên của Hoa Kỳ sẽ đạt mức cao kỷ lục vào năm 2026",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/08/us-natural-gas-output-demand-to-hit-record-highs-in-2026-eia-says/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-24 23:11"
     },
     {
       "id": "cw2w12",
@@ -539,17 +550,6 @@
       "source": "PennLive.com",
       "category": "energy",
       "published": "2026-11-23 22:43"
-    },
-    {
-      "id": "1g238ac",
-      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
-      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOW5xNmtTeHRnMHZVOGJoYndVUUJYd2tEbTFNSDdSRVNuZkJFUWp3RDFvb2dSblZvZGxTeFJZV3BLVENjQ3VqMWZtYzRnUDJnSlh5OFA3UkhqNktsN0FqNk5SQWJaSnNkaUwzUUxpZFdBUUdrUFVHQVFLTEp1MFhxaTNsNnlpX0h3UFFNWTZncHZwTVk?oc=5",
-      "source": "EnergyNow.com",
-      "category": "macro",
-      "published": "2026-11-23 22:35"
     }
   ]
 }

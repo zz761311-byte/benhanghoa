@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-25 12:01",
+  "updated_at": "2026-11-25 13:01",
   "items": [
+    {
+      "id": "jfu00b",
+      "title": "Oil Prices Slide Despite Mounting Threats in the Strait of Hormuz",
+      "title_vi": "Giá dầu trượt dốc bất chấp mối đe dọa gia tăng ở eo biển Hormuz",
+      "summary_vi": "Giá dầu thô giảm vào đầu phiên giao dịch châu Á hôm thứ Tư, kéo dài xu hướng giảm gần đây bất chấp các báo cáo về sự cố ngày càng thường xuyên liên quan đến tàu chở dầu ở eo biển Hormuz, trong đó chính quyền Iran cho rằng nguyên nhân là do mìn và các nguồn tin khác cho rằng có sự cố xảy ra.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-24_tywrpcof7q.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Slide-Despite-Mounting-Threats-in-the-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-25 12:50"
+    },
+    {
+      "id": "1b9f5wi",
+      "title": "China Goes on Oil Buying Spree as Crude Prices Slide",
+      "title_vi": "Trung Quốc tiếp tục mua dầu khi giá dầu thô trượt dốc",
+      "summary_vi": "Bloomberg đưa tin, dẫn lời các thương nhân, các nhà máy lọc dầu Trung Quốc đã bắt đầu mua thêm dầu thô từ nước ngoài, tận dụng giá thấp hơn trong những tuần gần đây để bổ sung vào kho dự trữ dầu của nước này. Theo báo cáo, Sinopec đã mua khoảng 20 triệu thùng dầu thô kể từ",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-24_q1fh7kygwo.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Goes-on-Oil-Buying-Spree-as-Crude-Prices-Slide.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-25 12:25"
+    },
+    {
+      "id": "18d8a76",
+      "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
+      "title_vi": "Putin nói trả đũa là 'không thể tránh khỏi' sau khi Ukraine tấn công các nhà máy dầu của Nga",
+      "summary_vi": "Các cuộc tấn công của Ukraine lắng xuống sau tuyên bố ngừng bắn năng lượng của Trump vào giữa tháng 10, nhưng lại bùng phát sau đó.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-01T105125Z_349816858_RC29YT9KV71D_RTRMADP_3_UKRAINE-CRISIS-EU.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-11-25 12:05"
+    },
     {
       "id": "1q1ocxm",
       "title": "The Diesel Crunch Isn’t Over Yet",
@@ -77,28 +110,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-11-25 03:55"
-    },
-    {
-      "id": "1gendth",
-      "title": "Is This Tiny Oil Giant The Real Crown Jewel Of Trump’s New World Order?",
-      "title_vi": "Người khổng lồ dầu mỏ nhỏ bé này có phải là viên ngọc quý thực sự của trật tự thế giới mới của Trump không?",
-      "summary_vi": "Trở lại tháng 12 năm ngoái, Tổng thống Mỹ Donald Trump đã đặt ra tầm nhìn về một thế giới được chia thành ba khối lớn. Như đã mô tả trong tài liệu ‘Chiến lược An ninh Quốc gia 2025’, ông thấy một trong các khối là Châu Á, trong đó Trung Quốc sẽ giữ vai trò thống trị, trong khi ở Khu vực Châu Âu",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-24_drlo3ashmn.jpg",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Is-This-Tiny-Oil-Giant-The-Real-Crown-Jewel-Of-Trumps-New-World-Order.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-25 03:00"
-    },
-    {
-      "id": "13ak2yi",
-      "title": "Central Asia Pushes Ahead With Regional Electricity Market",
-      "title_vi": "Trung Á thúc đẩy thị trường điện khu vực",
-      "summary_vi": "Các quan chức Trung Á đang theo đuổi một dự án thí điểm nhằm tạo ra một hệ thống phân phối điện khu vực hiệu quả hơn. Theo tuyên bố của công ty điện lực nhà nước Kazakhstan, KEGOC, một cuộc đấu thầu do Ngân hàng Thế giới hỗ trợ nhằm thu hút một công ty quốc tế phát triển",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-23_c3cxykm0bl.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Central-Asia-Pushes-Ahead-With-Regional-Electricity-Market.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-25 02:00"
     },
     {
       "id": "13wmwbu",
@@ -431,6 +442,17 @@
       "published": "2026-11-24 10:54"
     },
     {
+      "id": "15uuqdi",
+      "title": "Ukraine targets Russia with more than 1,000 drones, striking oil terminal in St. Petersburg - ABC News",
+      "title_vi": "Ukraine dùng hơn 1.000 máy bay không người lái tấn công Nga, tấn công kho dầu ở St. Petersburg - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/International/ukraine-targets-russia-1000-drones-striking-oil-terminal/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-11-24 09:23"
+    },
+    {
       "id": "a9fxkn",
       "title": "Gold slips with spotlight on US inflation data",
       "title_vi": "Vàng trượt dốc do dữ liệu lạm phát của Mỹ",
@@ -528,28 +550,6 @@
       "source": "Crude Oil Prices Today | OilPrice.com",
       "category": "energy",
       "published": "2026-11-23 23:30"
-    },
-    {
-      "id": "1y28ofu",
-      "title": "Meta-Analysis Links Coffee to Lower Odds of Depression",
-      "title_vi": "Phân tích tổng hợp liên kết cà phê với tỷ lệ trầm cảm thấp hơn",
-      "summary_vi": "Cà phê nổi bật là một trong số ít loại đồ uống có liên quan đến tỷ lệ trầm cảm thấp hơn trong một đánh giá học thuật mới sâu rộng với hơn 2 triệu người. Việc phân tích...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/11/23/meta-analysis-links-coffee-to-lower-odds-of-depression/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-11-23 23:19"
-    },
-    {
-      "id": "s2n96n",
-      "title": "U.S. TOPS THE LIST – Half the World’s Oil Comes From Just Five Countries – Visual Capitalist",
-      "title_vi": "Hoa Kỳ đứng đầu danh sách – Một nửa lượng dầu thế giới đến từ chỉ 5 quốc gia – Visual Capitalist",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/half-the-worlds-oil-comes-from-just-five-countries-visual-capitalist/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-23 22:56"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-27 02:00",
+  "updated_at": "2026-11-27 03:00",
   "items": [
+    {
+      "id": "1c7mmj1",
+      "title": "Norway Pauses Data Center Grid Reservations as Requests Top Peak Demand",
+      "title_vi": "Na Uy tạm dừng đặt trước lưới trung tâm dữ liệu theo yêu cầu Nhu cầu cao nhất",
+      "summary_vi": "Nhà điều hành hệ thống truyền tải của Na Uy Statnett đã tạm dừng đặt chỗ lưới điện mới cho các trung tâm dữ liệu vào ngày 9 tháng 11, cùng ngày chính phủ công bố kế hoạch cấp phép nhằm ngăn chặn hoạt động khai thác tiền điện tử mới. Việc tạm dừng đặt trước lưới điện sẽ kéo dài ít nhất đến tháng 8 năm 2027, khi n",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-26_0hrlw1axkh.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Norway-Pauses-Data-Center-Grid-Reservations-as-Requests-Top-Peak-Demand.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-27 03:00"
+    },
     {
       "id": "1xtlwzh",
       "title": "When the Grid Fails, Solar Does Not Wait for the State",
@@ -99,17 +110,6 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-26 21:30"
-    },
-    {
-      "id": "l6ayss",
-      "title": "Dutch Gas Network Operator Proposes Creation of Strategic Reserve",
-      "title_vi": "Nhà điều hành mạng lưới khí đốt Hà Lan đề xuất thành lập kho dự trữ chiến lược",
-      "summary_vi": "Gasunie, nhà điều hành mạng lưới khí đốt của Hà Lan, đã kêu gọi Hà Lan tạo ra một kho dự trữ khí đốt chiến lược để tăng cường an ninh năng lượng trong bối cảnh nguồn cung quốc tế bị gián đoạn. Gasunie cho biết hôm thứ Năm rằng Hà Lan vẫn dễ bị tổn thương trước những cú sốc nguồn cung bên ngoài do nhu cầu khí đốt để sưởi ấm đang tăng cao.",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-26_0j2i1qv9wz.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Dutch-Gas-Network-Operator-Proposes-Creation-of-Strategic-Reserve.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-26 20:30"
     },
     {
       "id": "or459i",
@@ -275,6 +275,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-26 05:54"
+    },
+    {
+      "id": "oapk0i",
+      "title": "Mild Thanksgiving Outlook Carves Up Northeast Natural Gas Cash Premiums",
+      "title_vi": "Triển vọng Lễ Tạ ơn nhẹ nhàng nâng cao phí bảo hiểm tiền mặt khí đốt tự nhiên ở vùng Đông Bắc",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://naturalgasintel.com/news/mild-thanksgiving-outlook-carves-up-northeast-natural-gas-cash-premiums/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-11-26 05:16"
     },
     {
       "id": "1uk9xcb",
@@ -539,17 +550,6 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-11-25 18:03"
-    },
-    {
-      "id": "182mst3",
-      "title": "Silver Price Forecast: Silver Slides Below $50 as Treasury Yields Jump",
-      "title_vi": "Dự báo giá bạc: Bạc trượt xuống dưới 50 USD khi lãi suất kho bạc tăng vọt",
-      "summary_vi": "Lợi suất trái phiếu kho bạc cao hơn và đồng đô la Mỹ mạnh hơn đang gây áp lực lên bạc và việc phá vỡ dưới 48 đô la có thể đẩy giá lên tới 44–45 đô la.",
-      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/10/silver-precious-metal-price-chart-01-2.jpg?width=1201",
-      "link": "https://www.fxempire.com/forecasts/article/silver-price-forecast-silver-slides-below-50-as-treasury-yields-jump-1644724",
-      "source": "FXEmpire",
-      "category": "metal",
-      "published": "2026-11-25 17:23"
     }
   ]
 }

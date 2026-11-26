@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 11:00",
+  "updated_at": "2026-11-26 12:00",
   "items": [
     {
       "id": "1weplg6",
@@ -22,6 +22,17 @@
       "source": "WKOW",
       "category": "agri",
       "published": "2026-11-26 07:30"
+    },
+    {
+      "id": "ytcxo3",
+      "title": "Soybean and Corn futures climb ahead of holiday as Wheat mixed.",
+      "title_vi": "Giá đậu tương và ngô tăng trước kỳ nghỉ lễ khi Lúa mì trộn lẫn.",
+      "summary_vi": "Giá đậu tương và ngô kỳ hạn tăng trong giao dịch trước kỳ nghỉ lễ, trong khi giá lúa mì kỳ hạn kết thúc ở mức trái chiều sau khi phục hồi từ mức thấp đầu phiên. Hợp đồng tương lai đậu nành tháng 1 được giao dịch trong phạm vi 26 xu, có thời điểm tăng 12,5 xu lên 1247'2, trong khi tháng 3 đạt 1247'6 cùng với mức tăng 42 đô la hàng tháng trong hợp đồng tương lai Bột đậu nành và tiếp tục",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/soybean-and-corn-futures-climb-ahead-of-holiday-as-wheat-mixed-.jpg",
+      "link": "https://www.cmegroup.com/videos/2026/11/25/soybean-and-corn-futures-climb-ahead-of-holiday-as-wheat-mixed-.html",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-11-26 07:08"
     },
     {
       "id": "dul8il",
@@ -453,6 +464,17 @@
       "published": "2026-11-25 03:20"
     },
     {
+      "id": "paa2yo",
+      "title": "Copper shows how AI is messing with markets",
+      "title_vi": "Copper cho thấy AI đang gây rối thị trường như thế nào",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
+      "source": "The Economist",
+      "category": "metal",
+      "published": "2026-11-25 01:12"
+    },
+    {
       "id": "13wmwbu",
       "title": "EUR/USD, DXY, Silver Price Outlook: Bullish Rebounds on Hold?",
       "title_vi": "Triển vọng giá EUR/USD, DXY, Bạc: Sự phục hồi tăng giá đang tạm dừng?",
@@ -528,28 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-24 23:11"
-    },
-    {
-      "id": "n207ij",
-      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
-      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
-      "source": "EnergyNow.com",
-      "category": "macro",
-      "published": "2026-11-24 23:04"
-    },
-    {
-      "id": "s2n96n",
-      "title": "U.S. TOPS THE LIST – Half the World’s Oil Comes From Just Five Countries – Visual Capitalist",
-      "title_vi": "Hoa Kỳ đứng đầu danh sách – Một nửa lượng dầu thế giới đến từ chỉ 5 quốc gia – Visual Capitalist",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/04/half-the-worlds-oil-comes-from-just-five-countries-visual-capitalist/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-24 23:04"
     }
   ]
 }

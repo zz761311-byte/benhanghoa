@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 09:29",
+  "updated_at": "2026-11-26 11:00",
   "items": [
     {
       "id": "1weplg6",
@@ -409,6 +409,17 @@
       "published": "2026-11-25 08:07"
     },
     {
+      "id": "ohey64",
+      "title": "Soybean futures reach highest level since October on export data.",
+      "title_vi": "Giá đậu nành kỳ hạn đạt mức cao nhất kể từ tháng 10 nhờ dữ liệu xuất khẩu.",
+      "summary_vi": "Thị trường ngũ cốc có diễn biến trái chiều sau cuộc thanh tra xuất khẩu hàng tuần mới nhất và số liệu về tiến độ thu hoạch. Sau khi quyền chọn hết hạn, hoạt động giao dịch chuyển sang hợp đồng tương lai Mar Corn, cộng thêm nửa xu để thanh toán ở mức 450'2, trong khi tháng 5 tăng 1,25 xu. Kiểm tra xuất khẩu ngô hàng tuần đứng đầu",
+      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/soybean-futures-reach-highest-level-since-october-on-export-data.jpg",
+      "link": "https://www.cmegroup.com/videos/2026/11/24/soybean-futures-reach-highest-level-since-october-on-export-data.html",
+      "source": "CME Group",
+      "category": "agri",
+      "published": "2026-11-25 07:05"
+    },
+    {
       "id": "ti3153",
       "title": "Copper's Price Dip Reveals Supply Struggles Ahead",
       "title_vi": "Giá đồng giảm cho thấy những khó khăn về nguồn cung phía trước",
@@ -539,17 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-24 23:04"
-    },
-    {
-      "id": "cw2w12",
-      "title": "Brazil's 2027 Coffee Outlook: Production Declines, Profitability Risks, and Cost Increases for Growers",
-      "title_vi": "Triển vọng cà phê năm 2027 của Brazil: Sản lượng giảm, rủi ro về lợi nhuận và tăng chi phí cho người trồng",
-      "summary_vi": "Người trồng cà phê Brazil chuẩn bị cho năm 2027 đầy thách thức, với sản lượng và giá dự kiến ​​sẽ giảm trong bối cảnh lo ngại về El Niño và chi phí tăng cao.",
-      "image": "https://coffeetalk.com/wp-content/uploads/diego-catto-9LqctKiRP5c-unsplash.jpg",
-      "link": "https://coffeetalk.com/daily-dose/from-origin/11-2026/111440/",
-      "source": "CoffeeTalk Magazine",
-      "category": "soft",
-      "published": "2026-11-24 22:55"
     }
   ]
 }

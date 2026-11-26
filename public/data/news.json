@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 09:00",
+  "updated_at": "2026-11-26 09:29",
   "items": [
     {
       "id": "1weplg6",
@@ -231,6 +231,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-25 22:48"
+    },
+    {
+      "id": "cc8jmm",
+      "title": "Eni Cleared to Develop Another Natural Gas Field to Sustain LNG Output in Asia",
+      "title_vi": "Eni quyết định phát triển một mỏ khí đốt tự nhiên khác để duy trì sản lượng LNG ở châu Á",
+      "summary_vi": "Khám phá cách Eni của Ý đảm bảo được sự chấp thuận để phát triển mỏ khí đốt tự nhiên Geliga ở Indonesia, đảm bảo sản lượng LNG ổn định cho châu Á. Với 8 Tcf khí tự nhiên đang bị đe dọa và sản lượng tăng từ nhiều mỏ, cột mốc quan trọng này sẽ tăng cường nguồn cung trong bối cảnh nhu cầu năng lượng ngày càng tăng và những thách thức địa chính trị. Luôn cập nhật thông tin",
+      "image": "https://apppack-app-naturalgasintel-prod-publics3bucket-8jv5bxjtvpgq.s3.amazonaws.com/images/Asia-LNG-Parity-Prices-20261125_4.width-900.format-webp.webp",
+      "link": "https://naturalgasintel.com/news/eni-cleared-to-develop-another-natural-gas-field-to-sustain-lng-output-in-asia/",
+      "source": "Natural Gas Intelligence",
+      "category": "energy",
+      "published": "2026-11-25 21:42"
     },
     {
       "id": "cszwuq",
@@ -539,17 +550,6 @@
       "source": "CoffeeTalk Magazine",
       "category": "soft",
       "published": "2026-11-24 22:55"
-    },
-    {
-      "id": "pz8673",
-      "title": "How popular is the Iran War?",
-      "title_vi": "Chiến tranh Iran phổ biến đến mức nào?",
-      "summary_vi": "Xếp hạng phê duyệt của Silver Bulletin cho cuộc xung đột đang diễn ra.",
-      "image": "https://substackcdn.com/image/fetch/$s_!VBIa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F494234cd-c97e-4ddb-8466-74979319dd65_1200x864.gif",
-      "link": "https://www.natesilver.net/p/iran-war-polls-popularity-approval",
-      "source": "Silver Bulletin",
-      "category": "metal",
-      "published": "2026-11-24 22:37"
     }
   ]
 }

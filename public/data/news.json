@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-26 17:00",
+  "updated_at": "2026-11-26 18:00",
   "items": [
+    {
+      "id": "1iumi26",
+      "title": "Japan’s Nuclear Revival Hits a Snag as TEPCO Delays Reactor Restart",
+      "title_vi": "Sự hồi sinh hạt nhân của Nhật Bản gặp khó khăn khi TEPCO trì hoãn khởi động lại lò phản ứng",
+      "summary_vi": "Công ty Điện lực Tokyo (TEPCO) sẽ trì hoãn việc khởi động lại lò phản ứng thứ hai tại nhà máy điện hạt nhân Kashiwazaki-Kariwa ở Nhật Bản, nhà máy điện hạt nhân lớn nhất thế giới về công suất trên bảng tên, sau khi xác định có vấn đề với việc xây dựng tại cơ sở này. TEPCO, cũng hoạt động",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Nuclear-Revival-Hits-a-Snag-as-TEPCO-Delays-Reactor-Restart.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-26 17:55"
+    },
     {
       "id": "1q8axh5",
       "title": "Libya Plans New Oil Bidding Rounds Despite Mounting Security Risks",
@@ -44,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-26 12:18"
+    },
+    {
+      "id": "122ydrx",
+      "title": "US-led consortium agrees to acquire assets from Russian oil company Lukoil",
+      "title_vi": "Tập đoàn do Mỹ đứng đầu đồng ý mua tài sản từ công ty dầu mỏ Lukoil của Nga",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://apnews.com/article/russia-ukraine-war-us-sanctions-oil-lukoil-8d5df1befb2ebb2a0ce4f6b259fcdf14",
+      "source": "AP News",
+      "category": "energy",
+      "published": "2026-11-26 09:08"
     },
     {
       "id": "1weplg6",
@@ -176,17 +198,6 @@
       "source": "The Hill",
       "category": "energy",
       "published": "2026-11-26 04:11"
-    },
-    {
-      "id": "1xcysr9",
-      "title": "U.S. Rig Count Holds Steady as Oil Production Hits Fifth Straight Record",
-      "title_vi": "Số lượng giàn khoan của Mỹ giữ ổn định khi sản lượng dầu đạt kỷ lục thứ năm liên tiếp",
-      "summary_vi": "Theo dữ liệu mới mà Baker Hughes công bố hôm thứ Tư trước kỳ nghỉ Lễ Tạ ơn, tổng số giàn khoan dầu khí đang hoạt động ở Hoa Kỳ không thay đổi trong tuần này. Tổng số giàn khoan ở Mỹ vẫn ở mức 607, tăng 63 so với cùng thời điểm này năm ngoái",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Rig-Count-Holds-Steady-as-Oil-Production-Hits-Fifth-Straight-Record.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-26 04:06"
     },
     {
       "id": "18j73ry",
@@ -539,17 +550,6 @@
       "source": "CME Group",
       "category": "agri",
       "published": "2026-11-25 07:05"
-    },
-    {
-      "id": "1mzg5sk",
-      "title": "UK warns of Russian sabotage threat to companies that supply Ukraine",
-      "title_vi": "Anh cảnh báo mối đe dọa phá hoại của Nga đối với các công ty cung cấp hàng cho Ukraine",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/uk-warns-russian-sabotage-threat-companies-that-supply-ukraine-2026-11-24/",
-      "source": "Reuters",
-      "category": "energy",
-      "published": "2026-11-25 04:32"
     }
   ]
 }

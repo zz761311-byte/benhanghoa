@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 18:00",
+  "updated_at": "2026-11-26 18:32",
   "items": [
     {
       "id": "1iumi26",
@@ -55,6 +55,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-26 12:18"
+    },
+    {
+      "id": "1pvhw6r",
+      "title": "Germany should not expect return to low, stable wholesale gas prices soon: official",
+      "title_vi": "Đức không nên mong đợi giá khí đốt bán buôn sẽ sớm quay trở lại mức thấp và ổn định: chính thức",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/natural-gas/112526-germany-should-not-expect-return-to-low-stable-wholesale-gas-prices-soon-official",
+      "source": "S&P Global",
+      "category": "energy",
+      "published": "2026-11-26 09:56"
     },
     {
       "id": "122ydrx",
@@ -539,17 +550,6 @@
       "source": "ReliefWeb",
       "category": "agri",
       "published": "2026-11-25 08:07"
-    },
-    {
-      "id": "ohey64",
-      "title": "Soybean futures reach highest level since October on export data.",
-      "title_vi": "Giá đậu nành kỳ hạn đạt mức cao nhất kể từ tháng 10 nhờ dữ liệu xuất khẩu.",
-      "summary_vi": "Thị trường ngũ cốc có diễn biến trái chiều sau cuộc thanh tra xuất khẩu hàng tuần mới nhất và số liệu về tiến độ thu hoạch. Sau khi quyền chọn hết hạn, hoạt động giao dịch chuyển sang hợp đồng tương lai Mar Corn, cộng thêm nửa xu để thanh toán ở mức 450'2, trong khi tháng 5 tăng 1,25 xu. Kiểm tra xuất khẩu ngô hàng tuần đứng đầu",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/soybean-futures-reach-highest-level-since-october-on-export-data.jpg",
-      "link": "https://www.cmegroup.com/videos/2026/11/24/soybean-futures-reach-highest-level-since-october-on-export-data.html",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-11-25 07:05"
     }
   ]
 }

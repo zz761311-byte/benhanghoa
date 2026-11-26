@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-27 03:34",
+  "updated_at": "2026-11-27 04:00",
   "items": [
+    {
+      "id": "tliwxx",
+      "title": "Why Making Electricity From Seawater Has Failed",
+      "title_vi": "Tại sao sản xuất điện từ nước biển thất bại",
+      "summary_vi": "Trong nhiều thập kỷ, các nhà khoa học đã nỗ lực phát triển các thiết bị điện có thể thu năng lượng thẩm thấu được tạo ra bởi sự khác biệt tự nhiên về độ mặn nơi sông nước ngọt gặp biển mặn, một nguồn năng lượng sạch, tái tạo còn được gọi là năng lượng xanh. Thiết bị điện thẩm thấu nhất",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-26_vzff9tiuzt.jpg",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Why-Making-Electricity-From-Seawater-Has-Failed.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-27 04:00"
+    },
     {
       "id": "1c7mmj1",
       "title": "Norway Pauses Data Center Grid Reservations as Requests Top Peak Demand",
@@ -101,17 +112,6 @@
       "published": "2026-11-26 21:42"
     },
     {
-      "id": "13kfga2",
-      "title": "One Crew Member Dies as Diesel Tanker Sinks off Ibiza",
-      "title_vi": "Một thành viên thủy thủ đoàn thiệt mạng khi tàu chở dầu diesel chìm ngoài khơi Ibiza",
-      "summary_vi": "Các cơ quan dịch vụ khẩn cấp địa phương và chính quyền cho biết một thành viên thủy thủ đoàn đã thiệt mạng khi tàu chở dầu diesel chìm ngoài khơi bờ biển Ibiza vào rạng sáng thứ Năm. Dịch vụ khẩn cấp Quần đảo Balearic đã kích hoạt kế hoạch khẩn cấp sau khi tàu chở dầu diesel bị chìm khoảng 25 hải lý",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-26_wcihgqz6jd.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/One-Crew-Member-Dies-as-Diesel-Tanker-Sinks-off-Ibiza.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-26 21:30"
-    },
-    {
       "id": "or459i",
       "title": "Oil Prices Rise as Traders Weigh Middle East Supply Risks, OPEC+ Meeting",
       "title_vi": "Giá dầu tăng khi các thương nhân cân nhắc rủi ro nguồn cung Trung Đông, cuộc họp OPEC+",
@@ -154,6 +154,17 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-26 15:31"
+    },
+    {
+      "id": "62basg",
+      "title": "The Commodities Feed: Oil extends losses while copper gives back Nvidia bounce",
+      "title_vi": "Nguồn cấp dữ liệu hàng hóa: Dầu tiếp tục thua lỗ trong khi đồng giúp Nvidia phục hồi",
+      "summary_vi": "đợt tăng giá do Nvidia dẫn đầu đã nâng giá đồng",
+      "image": "https://think.ing.com/uploads/hero/_w800h450/shutterstock_2126107319.jpg",
+      "link": "https://think.ing.com/articles/the-commodities-feed-nvidia-led-rally-lifts-gold-and-copper/",
+      "source": "ing think",
+      "category": "metal",
+      "published": "2026-11-26 15:18"
     },
     {
       "id": "wpn1of",
@@ -539,17 +550,6 @@
       "source": "investingLive",
       "category": "energy",
       "published": "2026-11-25 18:29"
-    },
-    {
-      "id": "hz9acp",
-      "title": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
-      "title_vi": "Đồng sụt giảm trong bối cảnh tàu lượn siêu tốc AI nhưng nguồn cung vật chất vẫn khan hiếm",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/copper-slumps-amid-ai-roller-coaster-but-physical-supply-remains-tight-14fd2a91",
-      "source": "WSJ",
-      "category": "metal",
-      "published": "2026-11-25 18:03"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-26 20:00",
+  "updated_at": "2026-11-26 21:00",
   "items": [
+    {
+      "id": "l6ayss",
+      "title": "Dutch Gas Network Operator Proposes Creation of Strategic Reserve",
+      "title_vi": "Nhà điều hành mạng lưới khí đốt Hà Lan đề xuất thành lập kho dự trữ chiến lược",
+      "summary_vi": "Gasunie, nhà điều hành mạng lưới khí đốt của Hà Lan, đã kêu gọi Hà Lan tạo ra một kho dự trữ khí đốt chiến lược để tăng cường an ninh năng lượng trong bối cảnh nguồn cung quốc tế bị gián đoạn. Gasunie cho biết hôm thứ Năm rằng Hà Lan vẫn dễ bị tổn thương trước những cú sốc nguồn cung bên ngoài do nhu cầu khí đốt để sưởi ấm đang tăng cao.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-26_0j2i1qv9wz.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Dutch-Gas-Network-Operator-Proposes-Creation-of-Strategic-Reserve.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-26 20:30"
+    },
     {
       "id": "13gk4do",
       "title": "Oil Prices Rebound as Middle East Supply Fears Return",
@@ -22,6 +33,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-26 19:30"
+    },
+    {
+      "id": "v7kcwm",
+      "title": "China’s Copper Crunch Hides a Fragile Demand Outlook",
+      "title_vi": "Cuộc khủng hoảng đồng của Trung Quốc che giấu triển vọng nhu cầu mong manh",
+      "summary_vi": "Việc thắt chặt nguồn cung trong ngắn hạn có thể dễ dàng khắc phục hơn so với tốc độ tăng trưởng kinh tế yếu hơn.",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYmrwcvw58QM/v0/1200x704.jpg",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/china-s-copper-crunch-hides-a-fragile-demand-outlook",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-11-26 19:15"
     },
     {
       "id": "15vb6as",
@@ -121,17 +143,6 @@
       "source": "AP News",
       "category": "energy",
       "published": "2026-11-26 09:08"
-    },
-    {
-      "id": "1weplg6",
-      "title": "Labor Shortages Could Derail Canada’s Oil and Gas Growth Momentum",
-      "title_vi": "Tình trạng thiếu lao động có thể làm chệch hướng đà tăng trưởng dầu khí của Canada",
-      "summary_vi": "Lần đầu tiên sau nhiều năm, ngành dịch vụ dầu khí Canada đang xem xét tiềm năng tăng trưởng lớn và động lực tăng trưởng trong dài hạn khi Canada mở rộng cơ sở hạ tầng năng lượng để xuất khẩu dầu và LNG sang các thị trường khác ngoài Hoa Kỳ. PR chắc chắn sáng hơn",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-25_06pxtd2lag.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Labor-Shortages-Could-Derail-Canadas-Oil-and-Gas-Growth-Momentum.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-26 08:00"
     },
     {
       "id": "c85q7y",
@@ -539,17 +550,6 @@
       "source": "FXEmpire",
       "category": "energy",
       "published": "2026-11-25 12:40"
-    },
-    {
-      "id": "18d8a76",
-      "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
-      "title_vi": "Putin nói trả đũa là 'không thể tránh khỏi' sau khi Ukraine tấn công các nhà máy dầu của Nga",
-      "summary_vi": "Các cuộc tấn công của Ukraine lắng xuống sau tuyên bố ngừng bắn năng lượng của Trump vào giữa tháng 10, nhưng lại bùng phát sau đó.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-01T105125Z_349816858_RC29YT9KV71D_RTRMADP_3_UKRAINE-CRISIS-EU.jpg?resize=1920%2C1440",
-      "link": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation",
-      "source": "Al Jazeera",
-      "category": "energy",
-      "published": "2026-11-25 12:05"
     }
   ]
 }

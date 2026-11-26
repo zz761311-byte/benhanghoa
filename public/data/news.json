@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 14:00",
+  "updated_at": "2026-11-26 15:00",
   "items": [
     {
       "id": "1oa8bw",
@@ -112,6 +112,17 @@
       "published": "2026-11-26 06:00"
     },
     {
+      "id": "3gjfse",
+      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
+      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-26 05:56"
+    },
+    {
       "id": "xz206x",
       "title": "OPEC Sees No Peak Oil Demand as Energy Security Beats Climate",
       "title_vi": "OPEC nhận thấy nhu cầu dầu không đạt đỉnh do an ninh năng lượng vượt qua khí hậu",
@@ -132,6 +143,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-26 05:00"
+    },
+    {
+      "id": "1uk9xcb",
+      "title": "Ukraine tells Putin to ‘stop complaining’ about oil refinery attacks",
+      "title_vi": "Ukraine yêu cầu Putin 'đừng phàn nàn' về các cuộc tấn công nhà máy lọc dầu",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://thehill.com/policy/international/6243656-ukraine-russia-oil-refinery-attacks/",
+      "source": "The Hill",
+      "category": "energy",
+      "published": "2026-11-26 04:11"
     },
     {
       "id": "1xcysr9",
@@ -266,6 +288,17 @@
       "published": "2026-11-25 23:05"
     },
     {
+      "id": "1xmztgd",
+      "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
+      "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/06/goldman-lowers-oil-price-forecasts-on-deal-to-reopen-strait-of-hormuz/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-25 22:59"
+    },
+    {
       "id": "1i0gf3n",
       "title": "Indonesia Coffee Production Down 8.2% Due to Weather",
       "title_vi": "Sản lượng cà phê Indonesia giảm 8,2% do thời tiết",
@@ -398,17 +431,6 @@
       "published": "2026-11-25 16:24"
     },
     {
-      "id": "7uohji",
-      "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
-      "title_vi": "Ukraine yêu cầu Putin 'đừng phàn nàn' về các cuộc tấn công nhà máy lọc dầu vì Nga hứa sẽ trả đũa",
-      "summary_vi": "Ngoại trưởng Ukraine nói với Putin rằng hãy chấm dứt chiến tranh nếu ông muốn Kyiv ngừng tấn công các nhà máy lọc dầu của Nga, sau khi Putin nói rằng việc trả đũa là “không thể tránh khỏi”.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559062-1795593832766-gettyimages-2300263219-AFP_D3M74UV.jpeg?v=1795593969&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
-      "source": "CNBC",
-      "category": "energy",
-      "published": "2026-11-25 16:18"
-    },
-    {
       "id": "3d2dbz",
       "title": "The founder’s dilemma: Stay small or scale?",
       "title_vi": "Vấn đề nan giải của người sáng lập: Duy trì quy mô nhỏ hay quy mô?",
@@ -464,6 +486,17 @@
       "published": "2026-11-25 12:40"
     },
     {
+      "id": "18d8a76",
+      "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
+      "title_vi": "Putin nói trả đũa là 'không thể tránh khỏi' sau khi Ukraine tấn công các nhà máy dầu của Nga",
+      "summary_vi": "Các cuộc tấn công của Ukraine lắng xuống sau tuyên bố ngừng bắn năng lượng của Trump vào giữa tháng 10, nhưng lại bùng phát sau đó.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-01T105125Z_349816858_RC29YT9KV71D_RTRMADP_3_UKRAINE-CRISIS-EU.jpg?resize=1920%2C1440",
+      "link": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation",
+      "source": "Al Jazeera",
+      "category": "energy",
+      "published": "2026-11-25 12:05"
+    },
+    {
       "id": "1ojjltn",
       "title": "GIEWS Country Brief: The Oriental Republic of Uruguay 24-November-2026",
       "title_vi": "Tóm tắt quốc gia GIEWS: Cộng hòa phương Đông Uruguay 24 tháng 11 năm 2026",
@@ -497,6 +530,17 @@
       "published": "2026-11-25 04:32"
     },
     {
+      "id": "o5ps2j",
+      "title": "Copper Resumes Decline as Investors Look Beyond Drama at Nvidia",
+      "title_vi": "Đồng tiếp tục suy giảm khi các nhà đầu tư nhìn xa hơn kịch tính tại Nvidia",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/copper-resumes-decline-as-investors-look-beyond-drama-at-nvidia",
+      "source": "Bloomberg.com",
+      "category": "metal",
+      "published": "2026-11-25 04:20"
+    },
+    {
       "id": "ti3153",
       "title": "Copper's Price Dip Reveals Supply Struggles Ahead",
       "title_vi": "Giá đồng giảm cho thấy những khó khăn về nguồn cung phía trước",
@@ -506,50 +550,6 @@
       "source": "Investing News Network",
       "category": "metal",
       "published": "2026-11-25 04:00"
-    },
-    {
-      "id": "pw256a",
-      "title": "A Look at the Soybean Boom, From Farm to Global Markets",
-      "title_vi": "Nhìn lại sự bùng nổ đậu nành, từ trang trại đến thị trường toàn cầu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSWRwQ1NLVkdNNzJPeExoUE5uT0VCRTgzRXd1TFFGR2lvbzZaNkJGRXhSWm1PZGllYjkzWW1pelhwSTJNZ3h0ZjlTZXhyZk9saVk2V0pPbFlrclRpbGFiZGxCT3dSQVZNdUpydHNpMG1ucTdYcmhQS1A3VXBrU09Sc0JQNnpCY2dESkFyMTFHR3JPSFI2ZS1RVFpyUzF3Z09JWC1tSjhjdW9NQVRXN3BUcmhERDlJUERuYk9Ea05uZGd3TUZmQXo5MDVwSHZSMkx4dUx5eUtmMjJMT0FYSlRCeEVnOG5sNVJDVmpBTml2aWw0NGdfTmhOSGc4eUp6UkpnY19fbw?oc=5",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-11-25 03:55"
-    },
-    {
-      "id": "1p4pyrn",
-      "title": "Your Tuesday forecast: The full Beaver moon shines bright tonight",
-      "title_vi": "Dự báo thứ Ba của bạn: Trăng tròn Hải ly tỏa sáng tối nay",
-      "summary_vi": "Nhiệt độ sẽ lạnh hơn nhiều, đặc biệt là đêm nay, khi dự kiến ​​nhiệt độ thấp nhất ở độ tuổi thanh thiếu niên tới gần 20 độ.",
-      "image": "https://rocktownnow.com/wp-content/blogs.dir/281/files/2025/09/full-moon-clipart.jpg",
-      "link": "https://rocktownnow.com/news/218812-your-tuesday-forecast-colder-starting-today-the-full-beaver-moon-shines-bright-tonight/",
-      "source": "Rocktown Now",
-      "category": "agri",
-      "published": "2026-11-25 03:20"
-    },
-    {
-      "id": "paa2yo",
-      "title": "Copper shows how AI is messing with markets",
-      "title_vi": "Copper cho thấy AI đang gây rối thị trường như thế nào",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
-      "source": "The Economist",
-      "category": "metal",
-      "published": "2026-11-25 01:12"
-    },
-    {
-      "id": "13wmwbu",
-      "title": "EUR/USD, DXY, Silver Price Outlook: Bullish Rebounds on Hold?",
-      "title_vi": "Triển vọng giá EUR/USD, DXY, Bạc: Sự phục hồi tăng giá đang tạm dừng?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-gb/news-and-analysis/eur-usd-dxy-silver-price-outlook-bullish-rebounds-on-hold/",
-      "source": "StoneX",
-      "category": "metal",
-      "published": "2026-11-25 01:07"
     }
   ]
 }

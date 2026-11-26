@@ -1,11 +1,11 @@
 {
- "capNhat": "2026-11-26T22:19:26.421Z",
+ "capNhat": "2026-11-26T23:00:13.962Z",
  "nguon": "Yahoo Finance",
  "soMatHang": 18,
  "tyGia": {
   "gia": 25825,
   "nguon": "Yahoo Finance (USD/VND)",
-  "capNhat": "2026-11-26T20:15:45.000Z"
+  "capNhat": "2026-11-26T22:32:45.000Z"
  },
  "sucKhoe": {
   "soCanLay": 18,
@@ -20,7 +20,7 @@
    "dongCuaTruoc": 83.68,
    "doi": 1.23,
    "doiPhanTram": 1.47,
-   "caoTrongNgay": 85.21,
+   "caoTrongNgay": 85.23,
    "thapTrongNgay": 83.16,
    "cao52Tuan": 119.48,
    "thap52Tuan": 54.98,
@@ -71,7 +71,7 @@
    "dongCuaTruoc": 94.61,
    "doi": -2.88,
    "doiPhanTram": -3.04,
-   "caoTrongNgay": 92.03,
+   "caoTrongNgay": 92.04,
    "thapTrongNgay": 89.77,
    "cao52Tuan": 126.1,
    "thap52Tuan": 58.72,
@@ -173,7 +173,7 @@
    "dongCuaTruoc": 2.4423,
    "doi": 0.0021,
    "doiPhanTram": 0.09,
-   "caoTrongNgay": 2.4557,
+   "caoTrongNgay": 2.4556,
    "thapTrongNgay": 2.4085,
    "cao52Tuan": 3.8232,
    "thap52Tuan": 1.6656,
@@ -428,7 +428,7 @@
    "dongCuaTruoc": 569.75,
    "doi": -5.75,
    "doiPhanTram": -1.01,
-   "caoTrongNgay": 590.75,
+   "caoTrongNgay": 591,
    "thapTrongNgay": 577.5,
    "cao52Tuan": 775.75,
    "thap52Tuan": 501.5,
@@ -530,7 +530,7 @@
    "dongCuaTruoc": 17.66,
    "doi": 0.76,
    "doiPhanTram": 4.3,
-   "caoTrongNgay": 18.45,
+   "caoTrongNgay": 18.47,
    "thapTrongNgay": 17.51,
    "cao52Tuan": 21.29,
    "thap52Tuan": 13.22,
@@ -732,7 +732,7 @@
     "gia": 3566.2,
     "lechSoVoiHopDong": 0.76,
     "nguon": "gold-api.com",
-    "capNhat": "2026-11-26T22:19:18Z"
+    "capNhat": "2026-11-26T22:59:48Z"
    }
   },
   "bac": {
@@ -789,7 +789,7 @@
     "gia": 41.235,
     "lechSoVoiHopDong": 1.25,
     "nguon": "gold-api.com",
-    "capNhat": "2026-11-26T22:19:18Z"
+    "capNhat": "2026-11-26T22:59:48Z"
    }
   },
   "dong": {
@@ -848,7 +848,7 @@
    "dongCuaTruoc": 1241.4,
    "doi": 39.2,
    "doiPhanTram": 3.16,
-   "caoTrongNgay": 1305.7,
+   "caoTrongNgay": 1305.1,
    "thapTrongNgay": 1256.1,
    "cao52Tuan": 2852.4,
    "thap52Tuan": 1241.4,
@@ -897,7 +897,7 @@
     "gia": 1280.6,
     "lechSoVoiHopDong": 0,
     "nguon": "gold-api.com",
-    "capNhat": "2026-11-26T22:19:21Z"
+    "capNhat": "2026-11-26T22:59:52Z"
    }
   },
   "nhom": {

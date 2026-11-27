@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 13:00",
+  "updated_at": "2026-11-27 14:01",
   "items": [
     {
       "id": "nofr4l",
@@ -11,6 +11,28 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-27 12:18"
+    },
+    {
+      "id": "1wln42p",
+      "title": "Silver Outlook: Improving risk appetite puts squeeze in play",
+      "title_vi": "Triển vọng Bạc: Cải thiện khẩu vị rủi ro sẽ tạo ra sức ép",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-gb/news-and-analysis/silver-outlook-improving-risk-appetite-puts-squeeze-in-play-2026-11-27/",
+      "source": "StoneX",
+      "category": "metal",
+      "published": "2026-11-27 11:41"
+    },
+    {
+      "id": "o46f7x",
+      "title": "Gold and Silver Price Forecast: Silver Leads Rebound as Ratio Falls",
+      "title_vi": "Dự báo giá vàng và bạc: Bạc dẫn đầu phục hồi khi tỷ lệ giảm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbTNvNmdrVlhUYXQtcFBkNTlSSEFMQjNfRkl1STktMTE4VDBiXzJIY0U1RTBCZFBCNGhlbmVScG1vM2FSR25ld05RejhzeDVkOTNyb05fT1Q3S1ljZ2UzeE1XMk1FWU5ldGwxSng4VVVocXctRjk1R0NMTlRqbEdqZE1PQUR5MkZ3UGNGZzFFaXJPd00tMEIxdkM5Z0NabVlkZE13SGdNLS1qMy1OdDNjMnlSeElUQ0xL?oc=5",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-11-27 11:00"
     },
     {
       "id": "1xi5tcj",
@@ -528,28 +550,6 @@
       "source": "Natural Gas Intelligence",
       "category": "energy",
       "published": "2026-11-25 21:42"
-    },
-    {
-      "id": "cszwuq",
-      "title": "Seattle&#8217;s Barometer Coffee Sets Sail with Pressure-Free Local Delivery",
-      "title_vi": "Bộ cà phê Barometer của Seattle ra mắt với dịch vụ giao hàng tận nơi không áp lực",
-      "summary_vi": "Bằng xe đạp, xe tải và thậm chí là xuồng ba lá dọc theo các tuyến đường thủy của Seattle, công ty rang cà phê Barometer Coffee mới của Ballard đang đánh giá nhu cầu của khách hàng về cà phê chất lượng cao, giá cả phải chăng được giao đến tận nhà.  Người sáng lập...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/11/25/seattles-barometer-coffee-sets-sail-with-pressure-free-local-delivery/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-11-25 21:14"
-    },
-    {
-      "id": "1clg6ik",
-      "title": "Chicago Specialty Coffee Shop Closes Amid Alleged ICE Connection",
-      "title_vi": "Quán cà phê đặc sản Chicago đóng cửa giữa lúc có kết nối ICE bị cáo buộc",
-      "summary_vi": "Quán cà phê và rang cà phê đặc sản Chicago Tasa Coffee Roasters dường như đã đóng cửa vĩnh viễn sau một cuộc đình công và kêu gọi tẩy chay của nhân viên vì cáo buộc rằng chồng của chủ sở hữu làm việc cho Hoa Kỳ....",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/11/25/chicago-specialty-coffee-shop-closes-amid-alleged-ice-connection/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-11-25 21:13"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 19:44",
+  "updated_at": "2026-11-27 20:00",
   "items": [
     {
       "id": "7apq88",
@@ -22,6 +22,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-27 19:30"
+    },
+    {
+      "id": "17o247k",
+      "title": "Silver, platinum and palladium: outlook after the sell-off",
+      "title_vi": "Bạc, bạch kim và palladium: triển vọng sau đợt bán tháo",
+      "summary_vi": "Tại sao giá bạc, bạch kim và palladium lại giảm và tại sao Neuberger Berman lại ưa chuộng bạch kim trong số các PGM và nhận thấy sự xoay trục của Fed.",
+      "image": "https://rankiapro.com/en/media/2026/11/precious-metals.png",
+      "link": "https://rankiapro.com/en/insights/silver-palladium-and-platinum-why-have-prices-fallen-and-what-is-the-investment-outlook-for-the-coming-months/",
+      "source": "RankiaPro",
+      "category": "metal",
+      "published": "2026-11-27 18:57"
     },
     {
       "id": "ib5p4b",
@@ -539,17 +550,6 @@
       "source": "Barchart.com",
       "category": "soft",
       "published": "2026-11-26 00:27"
-    },
-    {
-      "id": "t0wvwy",
-      "title": "AgMarket Early Morning Market Analysis 11/25/26",
-      "title_vi": "AgMarket Phân tích thị trường vào sáng sớm 25/11/26",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.google.com/recaptcha/enterprise.js",
-      "source": "American Ag Network",
-      "category": "agri",
-      "published": "2026-11-25 23:56"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 09:00",
+  "updated_at": "2026-11-27 10:00",
   "items": [
     {
       "id": "1xi5tcj",
@@ -431,6 +431,17 @@
       "published": "2026-11-26 00:10"
     },
     {
+      "id": "t0wvwy",
+      "title": "AgMarket Early Morning Market Analysis 11/25/26",
+      "title_vi": "AgMarket Phân tích thị trường vào sáng sớm 25/11/26",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.google.com/recaptcha/enterprise.js",
+      "source": "American Ag Network",
+      "category": "agri",
+      "published": "2026-11-25 23:56"
+    },
+    {
       "id": "129u3mq",
       "title": "Soybean Crush: U.S. Processing Capacity Threatens USDA's Record Forecast",
       "title_vi": "Đậu nành nghiền: Năng lực chế biến của Hoa Kỳ đe dọa dự báo kỷ lục của USDA",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-25 21:13"
-    },
-    {
-      "id": "11pg72m",
-      "title": "Why Are Freeport McMoRan (FCX) Shares Jumping On AI Driven Copper Demand?",
-      "title_vi": "Tại sao cổ phiếu Freeport McMoRan (FCX) lại tăng nhờ nhu cầu về đồng do AI thúc đẩy?",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-freeport-mcmoran-fcx-shares-131503525.html",
-      "source": "Yahoo Finance",
-      "category": "metal",
-      "published": "2026-11-25 20:15"
     }
   ]
 }

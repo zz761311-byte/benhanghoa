@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 10:00",
+  "updated_at": "2026-11-27 10:17",
   "items": [
     {
       "id": "1xi5tcj",
@@ -99,6 +99,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-27 01:00"
+    },
+    {
+      "id": "15uuqdi",
+      "title": "Ukraine targets Russia with more than 1,000 drones, striking oil terminal in St. Petersburg - ABC News",
+      "title_vi": "Ukraine dùng hơn 1.000 máy bay không người lái tấn công Nga, tấn công kho dầu ở St. Petersburg - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/International/ukraine-targets-russia-1000-drones-striking-oil-terminal/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "energy",
+      "published": "2026-11-27 00:35"
     },
     {
       "id": "1b8sphn",
@@ -539,17 +550,6 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-25 21:14"
-    },
-    {
-      "id": "1clg6ik",
-      "title": "Chicago Specialty Coffee Shop Closes Amid Alleged ICE Connection",
-      "title_vi": "Quán cà phê đặc sản Chicago đóng cửa giữa lúc có kết nối ICE bị cáo buộc",
-      "summary_vi": "Quán cà phê và rang cà phê đặc sản Chicago Tasa Coffee Roasters dường như đã đóng cửa vĩnh viễn sau một cuộc đình công và kêu gọi tẩy chay của nhân viên vì cáo buộc rằng chồng của chủ sở hữu làm việc cho Hoa Kỳ....",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/11/25/chicago-specialty-coffee-shop-closes-amid-alleged-ice-connection/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-11-25 21:13"
     }
   ]
 }

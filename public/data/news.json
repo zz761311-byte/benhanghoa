@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-27 12:00",
+  "updated_at": "2026-11-27 13:00",
   "items": [
+    {
+      "id": "nofr4l",
+      "title": "Oil Prices Climb as Middle East Supply Risks Overshadow Glut Fears",
+      "title_vi": "Giá dầu tăng do rủi ro nguồn cung ở Trung Đông làm lu mờ nỗi lo dư thừa",
+      "summary_vi": "Giá dầu thô dự kiến ​​ghi nhận mức tăng hàng tuần sau chuỗi giảm giá, do các báo cáo ngày càng thường xuyên về các cuộc tấn công của tàu chở dầu ở eo biển Hormuz đã làm suy yếu kỳ vọng về tình trạng dư thừa. Dữ liệu cho thấy mức xuất khẩu hàng hóa năng lượng từ Trung Đông thấp hơn so với trước chiến tranh",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-26_g91kjiytqr.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Middle-East-Supply-Risks-Overshadow-Glut-Fears.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-27 12:18"
+    },
     {
       "id": "1xi5tcj",
       "title": "Standard Chartered: Oil Needs a New Shock to Fall Further",
@@ -112,17 +123,6 @@
       "published": "2026-11-27 00:35"
     },
     {
-      "id": "1b8sphn",
-      "title": "Why Gasoline Prices Are Falling While Diesel Remains Expensive",
-      "title_vi": "Tại sao giá xăng giảm trong khi dầu diesel vẫn đắt",
-      "summary_vi": "Người Mỹ chuẩn bị bước vào kỳ nghỉ lễ Tạ ơn cuối cùng cũng cảm thấy nhẹ nhõm hơn nhờ máy bơm xăng. Sau nhiều tháng giá tăng cao, giá trung bình toàn quốc đã giảm mạnh trong tháng 11, xuống còn khoảng 3,66 USD/gallon tính đến ngày 21 tháng 11. Đó là một diễn biến đáng mừng f",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-25_6w9lfrmbgn.jpg",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Gasoline-Prices-Are-Falling-While-Diesel-Remains-Expensive.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-27 00:00"
-    },
-    {
       "id": "98w1e7",
       "title": "Silver Price Outlook November 2026: Can a Recovery Take Hold?",
       "title_vi": "Triển vọng giá bạc tháng 11 năm 2026: Sự phục hồi có thể giữ vững được không?",
@@ -143,17 +143,6 @@
       "source": "OpenSnow",
       "category": "metal",
       "published": "2026-11-26 21:42"
-    },
-    {
-      "id": "or459i",
-      "title": "Oil Prices Rise as Traders Weigh Middle East Supply Risks, OPEC+ Meeting",
-      "title_vi": "Giá dầu tăng khi các thương nhân cân nhắc rủi ro nguồn cung Trung Đông, cuộc họp OPEC+",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-middle-east-supply-risks-opec-meeting-c234598a",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-11-26 19:45"
     },
     {
       "id": "v7kcwm",
@@ -550,6 +539,17 @@
       "source": "Daily Coffee News",
       "category": "soft",
       "published": "2026-11-25 21:14"
+    },
+    {
+      "id": "1clg6ik",
+      "title": "Chicago Specialty Coffee Shop Closes Amid Alleged ICE Connection",
+      "title_vi": "Quán cà phê đặc sản Chicago đóng cửa giữa lúc có kết nối ICE bị cáo buộc",
+      "summary_vi": "Quán cà phê và rang cà phê đặc sản Chicago Tasa Coffee Roasters dường như đã đóng cửa vĩnh viễn sau một cuộc đình công và kêu gọi tẩy chay của nhân viên vì cáo buộc rằng chồng của chủ sở hữu làm việc cho Hoa Kỳ....",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/11/25/chicago-specialty-coffee-shop-closes-amid-alleged-ice-connection/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-11-25 21:13"
     }
   ]
 }

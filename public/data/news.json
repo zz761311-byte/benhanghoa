@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-27 14:01",
+  "updated_at": "2026-11-27 15:00",
   "items": [
+    {
+      "id": "b8jeme",
+      "title": "Australia Passes Landmark Law to Reserve Gas for Domestic Consumers",
+      "title_vi": "Australia thông qua luật quan trọng để dự trữ khí đốt cho người tiêu dùng trong nước",
+      "summary_vi": "Quốc hội Úc hôm nay đã thông qua luật bắt buộc các nhà xuất khẩu LNG phải dành riêng lượng khí đốt tương đương tới 20% khối lượng xuất khẩu hàng năm của họ cho thị trường nội địa, bắt đầu từ năm 2028. Kế hoạch này, một sản phẩm trí tuệ của chính phủ Lao động, nhằm mục đích đảm bảo Úc không",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-27_m0kgh4tgf5.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Passes-Landmark-Law-to-Reserve-Gas-for-Domestic-Consumers.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-27 14:30"
+    },
+    {
+      "id": "1cbxlex",
+      "title": "Cocoa Beach Pier Surf Report, Surf Forecast and Surf Cams",
+      "title_vi": "Báo cáo lướt sóng trên bến tàu trên bãi biển Cocoa, dự báo lướt sóng và máy quay lướt sóng",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.surfline.com/surf-report/cocoa-beach-pier/5842041f4e65fad6a7708872",
+      "source": "Surfline",
+      "category": "soft",
+      "published": "2026-11-27 13:27"
+    },
     {
       "id": "nofr4l",
       "title": "Oil Prices Climb as Middle East Supply Risks Overshadow Glut Fears",
@@ -79,6 +101,17 @@
       "published": "2026-11-27 05:00"
     },
     {
+      "id": "1xtkm6p",
+      "title": "Valentine's Day shoppers face soaring chocolate prices - ABC News",
+      "title_vi": "Người mua sắm ngày lễ tình nhân đối mặt với giá sô cô la tăng vọt - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/Business/valentines-day-shoppers-face-soaring-chocolate-prices/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "soft",
+      "published": "2026-11-27 04:09"
+    },
+    {
       "id": "tliwxx",
       "title": "Why Making Electricity From Seawater Has Failed",
       "title_vi": "Tại sao sản xuất điện từ nước biển thất bại",
@@ -121,17 +154,6 @@
       "source": "Kitco",
       "category": "metal",
       "published": "2026-11-27 02:05"
-    },
-    {
-      "id": "1xtlwzh",
-      "title": "When the Grid Fails, Solar Does Not Wait for the State",
-      "title_vi": "Khi Lưới Điện Thất Bại, Năng Lượng Mặt Trời Không Chờ Nhà Nước",
-      "summary_vi": "Hầu hết các hệ thống điện đều được xây dựng từ trung tâm ra ngoài. Một chính phủ quy hoạch các nhà máy điện. Một công ty điện lực ký hợp đồng cung cấp nhiên liệu, xây dựng đường dây truyền tải và kết nối các hộ gia đình. Các nhà đầu tư lớn tài trợ cho các tài sản dự kiến ​​sẽ hoạt động trong nhiều thập kỷ. Mô hình giả định một trạng thái có khả năng thực hiện",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-26_j9qmtcapl0.jpg",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/When-the-Grid-Fails-Solar-Does-Not-Wait-for-the-State.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-27 01:00"
     },
     {
       "id": "15uuqdi",
@@ -420,6 +442,17 @@
       "published": "2026-11-26 01:10"
     },
     {
+      "id": "9j298y",
+      "title": "Swiss Government Urges Respect for 15% Tariff Cap in US Trade Deal",
+      "title_vi": "Chính phủ Thụy Sĩ kêu gọi tôn trọng mức trần thuế quan 15% trong thỏa thuận thương mại với Mỹ",
+      "summary_vi": "Chính phủ Thụy Sĩ mong Mỹ vinh danh năm ngoái",
+      "image": "https://www.globalbankingandfinance.com/i/cloud-355db24b-d4ab-40d5-965b-6d5680dc7619/width=1200,height=630,quality=80,format=auto,fit=cover/",
+      "link": "https://www.globalbankingandfinance.com/swiss-government-expects-15-tariff-deal-respected-us/",
+      "source": "Global Banking & Finance Review",
+      "category": "macro",
+      "published": "2026-11-26 00:57"
+    },
+    {
       "id": "te99s1",
       "title": "Oil Futures Pick Up as Middle East Tensions Persist",
       "title_vi": "Giá dầu kỳ hạn tăng khi căng thẳng ở Trung Đông tiếp diễn",
@@ -517,39 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-25 22:59"
-    },
-    {
-      "id": "1i0gf3n",
-      "title": "Indonesia Coffee Production Down 8.2% Due to Weather",
-      "title_vi": "Sản lượng cà phê Indonesia giảm 8,2% do thời tiết",
-      "summary_vi": "Theo...",
-      "image": "",
-      "link": "https://dailycoffeenews.com/2026/11/25/indonesia-coffee-production-down-8-2-due-to-weather/",
-      "source": "Daily Coffee News",
-      "category": "soft",
-      "published": "2026-11-25 22:48"
-    },
-    {
-      "id": "1dcu5yg",
-      "title": "Gold Sinks Below $3500 as Silver Crashes Thru' $40",
-      "title_vi": "Vàng chìm xuống dưới $3500 khi Bạc giảm xuống $40",
-      "summary_vi": "Giá vàng và bạc lại giảm vào thứ Tư khi cổ phiếu công nghệ AI cũng kéo dài thời gian lao dốc sau dữ liệu lạm phát và GDP mạnh mẽ của Mỹ >>",
-      "image": "https://www.bullionvault.com/gold-news/sites/default/files/inline-images/2026-11-25-gold-silver-5-yrs.png",
-      "link": "https://www.bullionvault.com/gold-news/gold-price-news/gold-3500-silver-crash-fed-112520261",
-      "source": "BullionVault",
-      "category": "metal",
-      "published": "2026-11-25 22:08"
-    },
-    {
-      "id": "cc8jmm",
-      "title": "Eni Cleared to Develop Another Natural Gas Field to Sustain LNG Output in Asia",
-      "title_vi": "Eni quyết định phát triển một mỏ khí đốt tự nhiên khác để duy trì sản lượng LNG ở châu Á",
-      "summary_vi": "Khám phá cách Eni của Ý đảm bảo được sự chấp thuận để phát triển mỏ khí đốt tự nhiên Geliga ở Indonesia, đảm bảo sản lượng LNG ổn định cho châu Á. Với 8 Tcf khí tự nhiên đang bị đe dọa và sản lượng tăng từ nhiều mỏ, cột mốc quan trọng này sẽ tăng cường nguồn cung trong bối cảnh nhu cầu năng lượng ngày càng tăng và những thách thức địa chính trị. Luôn cập nhật thông tin",
-      "image": "https://apppack-app-naturalgasintel-prod-publics3bucket-8jv5bxjtvpgq.s3.amazonaws.com/images/Asia-LNG-Parity-Prices-20261125_4.width-900.format-webp.webp",
-      "link": "https://naturalgasintel.com/news/eni-cleared-to-develop-another-natural-gas-field-to-sustain-lng-output-in-asia/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-11-25 21:42"
     }
   ]
 }

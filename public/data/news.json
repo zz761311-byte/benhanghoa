@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 05:00",
+  "updated_at": "2026-11-28 06:00",
   "items": [
     {
       "id": "1ubgsy3",
@@ -332,6 +332,17 @@
       "published": "2026-11-27 00:35"
     },
     {
+      "id": "1b8sphn",
+      "title": "Why Gasoline Prices Are Falling While Diesel Remains Expensive",
+      "title_vi": "Tại sao giá xăng giảm trong khi dầu diesel vẫn đắt",
+      "summary_vi": "Giá dầu thô giảm, nhu cầu theo mùa yếu hơn và mức sử dụng nhà máy lọc dầu cao đang giúp giảm giá xăng ở Mỹ bất chấp tình trạng thiếu dầu diesel kéo dài và chi phí vận chuyển tăng cao.",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-25_6w9lfrmbgn.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-Gasoline-Prices-Are-Falling-While-Diesel-Remains-Expensive.html",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "category": "energy",
+      "published": "2026-11-27 00:00"
+    },
+    {
       "id": "1xmztgd",
       "title": "Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz",
       "title_vi": "Goldman hạ dự báo giá dầu về thỏa thuận mở lại eo biển Hormuz",
@@ -539,17 +550,6 @@
       "source": "Mining.com",
       "category": "metal",
       "published": "2026-11-26 06:23"
-    },
-    {
-      "id": "n207ij",
-      "title": "What Commodity Markets Can Expect From the Trump-Xi Summit",
-      "title_vi": "Thị trường hàng hóa có thể mong đợi gì từ Hội nghị thượng đỉnh Trump-Xi",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/09/what-commodity-markets-can-expect-from-the-trump-xi-summit/",
-      "source": "EnergyNow.com",
-      "category": "macro",
-      "published": "2026-11-26 06:00"
     }
   ]
 }

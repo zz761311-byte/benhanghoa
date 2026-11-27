@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-27 20:00",
+  "updated_at": "2026-11-27 21:00",
   "items": [
+    {
+      "id": "98gr54",
+      "title": "South Sudan Readies Licensing Round to Boost Oil Production",
+      "title_vi": "Nam Sudan sẵn sàng vòng cấp phép để thúc đẩy sản xuất dầu",
+      "summary_vi": "Nam Sudan có kế hoạch triển khai vòng cấp phép cho 5 lô vì nước này có vẻ sẽ tăng sản lượng dầu trong những năm tới, Bộ trưởng Dầu khí tạm quyền Awow Daniel Chuang cho biết tại một sự kiện trong ngành ở nước này. Vòng cấp phép sắp tới là một phần trong nỗ lực của Nam Sudan để đạt được",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-27_8gt41cymdg.jpg",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Sudan-Readies-Licensing-Round-to-Boost-Oil-Production.html",
+      "source": "OilPrice",
+      "category": "energy",
+      "published": "2026-11-27 20:30"
+    },
+    {
+      "id": "1xzrjcy",
+      "title": "Oil Prices Mixed Ahead of OPEC+ Meeting as Middle East Supply Risks Persist",
+      "title_vi": "Giá dầu hỗn hợp trước cuộc họp của OPEC+ khi rủi ro nguồn cung ở Trung Đông vẫn tồn tại",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550",
+      "source": "WSJ",
+      "category": "energy",
+      "published": "2026-11-27 19:50"
+    },
     {
       "id": "7apq88",
       "title": "Baghdad Moves to Seize Control of Kurdish Oil and Borders",
@@ -88,17 +110,6 @@
       "source": "Surfline",
       "category": "soft",
       "published": "2026-11-27 13:27"
-    },
-    {
-      "id": "nofr4l",
-      "title": "Oil Prices Climb as Middle East Supply Risks Overshadow Glut Fears",
-      "title_vi": "Giá dầu tăng do rủi ro nguồn cung ở Trung Đông làm lu mờ nỗi lo dư thừa",
-      "summary_vi": "Giá dầu thô dự kiến ​​ghi nhận mức tăng hàng tuần sau chuỗi giảm giá, do các báo cáo ngày càng thường xuyên về các cuộc tấn công của tàu chở dầu ở eo biển Hormuz đã làm suy yếu kỳ vọng về tình trạng dư thừa. Dữ liệu cho thấy mức xuất khẩu hàng hóa năng lượng từ Trung Đông thấp hơn so với trước chiến tranh",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-26_g91kjiytqr.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Middle-East-Supply-Risks-Overshadow-Glut-Fears.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-27 12:18"
     },
     {
       "id": "1wln42p",
@@ -539,17 +550,6 @@
       "source": "Traders Union",
       "category": "metal",
       "published": "2026-11-26 00:31"
-    },
-    {
-      "id": "uxt4lj",
-      "title": "Sugar Prices Jump on the Outlook for Smaller Sugar Output in India",
-      "title_vi": "Giá đường tăng nhờ triển vọng sản lượng đường nhỏ hơn ở Ấn Độ",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.barchart.com/story/news/9007208/sugar-prices-jump-on-the-outlook-for-smaller-sugar-output-in-india",
-      "source": "Barchart.com",
-      "category": "soft",
-      "published": "2026-11-26 00:27"
     }
   ]
 }

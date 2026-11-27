@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-28 04:00",
+  "updated_at": "2026-11-28 04:40",
   "items": [
+    {
+      "id": "1ubgsy3",
+      "title": "Silver Price Analysis: XAG/USD Faces Deeper Losses as $40 Support Nears",
+      "title_vi": "Phân tích giá bạc: XAG/USD đối mặt với mức lỗ sâu hơn khi mức hỗ trợ 40 USD sắp đến gần",
+      "summary_vi": "Sau đợt bán tháo gần đây nhất của Bạc, câu hỏi dành cho nhà giao dịch là liệu họ có thể giữ được mức 40 USD và ngăn chặn những khoản lỗ tiếp theo trên thị trường hay không.",
+      "image": "https://bravenewcoin.com/wp-content/uploads/2026/11/Bnb-Nov-28-454.jpg",
+      "link": "https://bravenewcoin.com/insights/silver-price-analysis-xag-usd-faces-deeper-losses-as-40-support-nears-2",
+      "source": "Brave New Coin",
+      "category": "metal",
+      "published": "2026-11-28 03:30"
+    },
     {
       "id": "1m7zp7c",
       "title": "Weekly Coffee News: Coffee Barometer Germany + The Lefty Pourover",
@@ -187,6 +198,17 @@
       "source": "Reuters",
       "category": "energy",
       "published": "2026-11-27 18:13"
+    },
+    {
+      "id": "18ne39q",
+      "title": "EU wheat exports jump 45% as supplies tighten",
+      "title_vi": "Xuất khẩu lúa mì của EU tăng 45% do nguồn cung thắt chặt",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.foodagribusiness.world/feed/eu-wheat-exports-surge-as-supplies-tighten",
+      "source": "All about feed",
+      "category": "agri",
+      "published": "2026-11-27 17:00"
     },
     {
       "id": "1cbxlex",
@@ -528,28 +550,6 @@
       "source": "EnergyNow.com",
       "category": "macro",
       "published": "2026-11-26 06:00"
-    },
-    {
-      "id": "3gjfse",
-      "title": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices",
-      "title_vi": "TỔNG HỢP NĂNG LƯỢNG MỸ: Tại sao giá xăng không phải lúc nào cũng biến động theo sát giá dầu thô",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/07/american-energy-snapshot-why-gasoline-prices-dont-always-move-in-lockstep-with-crude-oil-prices/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-26 05:56"
-    },
-    {
-      "id": "xz206x",
-      "title": "OPEC Sees No Peak Oil Demand as Energy Security Beats Climate",
-      "title_vi": "OPEC nhận thấy nhu cầu dầu không đạt đỉnh do an ninh năng lượng vượt qua khí hậu",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://energynow.com/2026/06/opec-sees-no-peak-oil-demand-as-energy-security-beats-climate/",
-      "source": "EnergyNow.com",
-      "category": "energy",
-      "published": "2026-11-26 05:54"
     }
   ]
 }

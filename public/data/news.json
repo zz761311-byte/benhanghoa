@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 08:00",
+  "updated_at": "2026-11-27 09:00",
   "items": [
     {
       "id": "1xi5tcj",
@@ -66,6 +66,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-27 03:00"
+    },
+    {
+      "id": "1n9l73h",
+      "title": "Argentina's 2026/27 wheat forecast may rise on strong yields",
+      "title_vi": "Dự báo lúa mì niên vụ 2026/27 của Argentina có thể tăng do sản lượng tăng mạnh",
+      "summary_vi": "Sàn giao dịch ngũ cốc Buenos Aires cho biết hôm thứ Năm rằng dự báo sản lượng lúa mì niên vụ 2026/27 của Argentina, hiện là 23,4 triệu tấn, có thể tăng do năng suất cao hơn dự kiến ​​khi vụ thu hoạch diễn ra.",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N47712T:0-argentina-s-2026-27-wheat-forecast-may-rise-on-strong-yields/",
+      "source": "TradingView",
+      "category": "agri",
+      "published": "2026-11-27 02:43"
     },
     {
       "id": "12rd800",
@@ -310,6 +321,17 @@
       "published": "2026-11-26 05:16"
     },
     {
+      "id": "1t31cqv",
+      "title": "US agriculture industry at risk as drought conditions worsen - ABC News",
+      "title_vi": "Ngành nông nghiệp Mỹ gặp rủi ro khi tình trạng hạn hán ngày càng trầm trọng - ABC News",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://abcnews.com/US/us-agriculture-industry-risk-drought-conditions-worsen/story?id",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "category": "agri",
+      "published": "2026-11-26 04:59"
+    },
+    {
       "id": "1uk9xcb",
       "title": "Ukraine tells Putin to ‘stop complaining’ about oil refinery attacks",
       "title_vi": "Ukraine yêu cầu Putin 'đừng phàn nàn' về các cuộc tấn công nhà máy lọc dầu",
@@ -528,28 +550,6 @@
       "source": "Yahoo Finance",
       "category": "metal",
       "published": "2026-11-25 20:15"
-    },
-    {
-      "id": "ulyxpn",
-      "title": "US dollar outlook: DXY finds fresh support as risk aversion deepens",
-      "title_vi": "Triển vọng đồng đô la Mỹ: DXY tìm thấy sự hỗ trợ mới khi ác cảm rủi ro ngày càng sâu sắc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.stonex.com/en-gb/news-and-analysis/us-dollar-outlook-dxy-finds-fresh-support-as-risk-aversion-deepens/",
-      "source": "StoneX",
-      "category": "macro",
-      "published": "2026-11-25 19:41"
-    },
-    {
-      "id": "1yblcky",
-      "title": "Ukraine Says 3 MiG-31s, 2 Su-34s Hit at Russian Airfield, 2 Refineries Damaged",
-      "title_vi": "Ukraine tố 3 MiG-31, 2 Su-34 tấn công sân bay Nga, 2 nhà máy lọc dầu bị hư hại",
-      "summary_vi": "Các cuộc đình công đã làm hư hại các đơn vị xử lý chính và bể chứa tại hai cơ sở của Rosneft với tổng công suất hàng năm hơn 15 triệu tấn dầu.",
-      "image": "https://static.kyivpost.com/storage/2026/11/25/115b8bbbb4a73ea961c6d3c2ab6464b0.png?w=1200&q=90&f=jpg",
-      "link": "https://www.kyivpost.com/post/91162",
-      "source": "Kyiv Post",
-      "category": "energy",
-      "published": "2026-11-25 19:36"
     }
   ]
 }

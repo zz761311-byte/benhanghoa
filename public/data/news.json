@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-28 03:01",
+  "updated_at": "2026-11-28 04:00",
   "items": [
+    {
+      "id": "1m7zp7c",
+      "title": "Weekly Coffee News: Coffee Barometer Germany + The Lefty Pourover",
+      "title_vi": "Tin tức cà phê hàng tuần: Phong vũ biểu cà phê Đức + Tràn trái",
+      "summary_vi": "Chào mừng bạn đến với Bản tin cà phê hàng tuần của DCN! Đăng ký tại đây để nhận tất cả các tin tức mới nhất về ngành cà phê. Ngoài ra, hãy xem các cơ hội nghề nghiệp mới nhất tại CoffeeIndustryJobs.com. Phong vũ biểu cà phê đến thăm Đức Thu phóng...",
+      "image": "",
+      "link": "https://dailycoffeenews.com/2026/11/27/weekly-coffee-news-coffee-barometer-germany-the-lefty-pourover/",
+      "source": "Daily Coffee News",
+      "category": "soft",
+      "published": "2026-11-28 03:06"
+    },
+    {
+      "id": "1mzulcv",
+      "title": "Nestlé Faces Pressure Over Coffee Prices in Chiapas",
+      "title_vi": "Nestlé đối mặt với áp lực về giá cà phê ở Chiapas",
+      "summary_vi": "Người trồng cà phê Chiapas tìm kiếm mức giá cao hơn từ Nestlé khi chính phủ can thiệp vào đàm phán mua hàng",
+      "image": "https://mexicobusiness.news/sites/default/files/styles/crop_16_9/public/2026-11/prasann-tank-T5AcwoEUp4w-unsplash.jpg?h=70b5c19c&itok=Ba0SiQmw",
+      "link": "https://mexicobusiness.news/agribusiness/news/nestle-faces-pressure-over-coffee-prices-chiapas?tag",
+      "source": "Mexico Business News",
+      "category": "soft",
+      "published": "2026-11-28 02:55"
+    },
     {
       "id": "d4xw09",
       "title": "Georgia Voters to Decide Fate of $17 Billion Data Center Megaproject",
@@ -528,28 +550,6 @@
       "source": "EnergyNow.com",
       "category": "energy",
       "published": "2026-11-26 05:54"
-    },
-    {
-      "id": "oapk0i",
-      "title": "Mild Thanksgiving Outlook Carves Up Northeast Natural Gas Cash Premiums",
-      "title_vi": "Triển vọng Lễ Tạ ơn nhẹ nhàng nâng cao phí bảo hiểm tiền mặt khí đốt tự nhiên ở vùng Đông Bắc",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://naturalgasintel.com/news/mild-thanksgiving-outlook-carves-up-northeast-natural-gas-cash-premiums/",
-      "source": "Natural Gas Intelligence",
-      "category": "energy",
-      "published": "2026-11-26 05:16"
-    },
-    {
-      "id": "1t31cqv",
-      "title": "US agriculture industry at risk as drought conditions worsen - ABC News",
-      "title_vi": "Ngành nông nghiệp Mỹ gặp rủi ro khi tình trạng hạn hán ngày càng trầm trọng - ABC News",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://abcnews.com/US/us-agriculture-industry-risk-drought-conditions-worsen/story?id",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "category": "agri",
-      "published": "2026-11-26 04:59"
     }
   ]
 }

@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-28 01:00",
+  "updated_at": "2026-11-28 02:00",
   "items": [
+    {
+      "id": "d4xw09",
+      "title": "Georgia Voters to Decide Fate of $17 Billion Data Center Megaproject",
+      "title_vi": "Cử tri Georgia quyết định số phận của siêu dự án trung tâm dữ liệu trị giá 17 tỷ USD",
+      "summary_vi": "Các cử tri của Quận Coweta sẽ quyết định trong cuộc bầu cử đặc biệt vào ngày 12 tháng 1 xem có nên bãi bỏ việc tái phân vùng cho Project Sail, một khuôn viên trung tâm dữ liệu trị giá 17 tỷ USD trên hơn 800 mẫu nông thôn cách Atlanta khoảng 45 dặm về phía tây nam mà các ủy viên quận đã thông qua ngày 2-3 vào tháng Tư. Thẩm phán chứng thực di chúc Carrie",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-27_qarewqdhmx.jpg",
+      "link": "https://oilprice.com/Energy/Energy-General/Georgia-Voters-to-Decide-Fate-of-17-Billion-Data-Center-Megaproject.html",
+      "source": "OilPrice",
+      "category": "macro",
+      "published": "2026-11-28 02:00"
+    },
     {
       "id": "12tan4l",
       "title": "OPEC+ Faces Growing Pressure As Iraq Pushes for Higher Quota",
@@ -112,17 +123,6 @@
       "published": "2026-11-27 20:49"
     },
     {
-      "id": "98gr54",
-      "title": "South Sudan Readies Licensing Round to Boost Oil Production",
-      "title_vi": "Nam Sudan sẵn sàng vòng cấp phép để thúc đẩy sản xuất dầu",
-      "summary_vi": "Nam Sudan có kế hoạch triển khai vòng cấp phép cho 5 lô vì nước này có vẻ sẽ tăng sản lượng dầu trong những năm tới, Bộ trưởng Dầu khí tạm quyền Awow Daniel Chuang cho biết tại một sự kiện trong ngành ở nước này. Vòng cấp phép sắp tới là một phần trong nỗ lực của Nam Sudan để đạt được",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-27_8gt41cymdg.jpg",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Sudan-Readies-Licensing-Round-to-Boost-Oil-Production.html",
-      "source": "OilPrice",
-      "category": "energy",
-      "published": "2026-11-27 20:30"
-    },
-    {
       "id": "1xzrjcy",
       "title": "Oil Prices Mixed Ahead of OPEC+ Meeting as Middle East Supply Risks Persist",
       "title_vi": "Giá dầu hỗn hợp trước cuộc họp của OPEC+ khi rủi ro nguồn cung ở Trung Đông vẫn tồn tại",
@@ -198,6 +198,17 @@
       "source": "FXEmpire",
       "category": "metal",
       "published": "2026-11-27 11:00"
+    },
+    {
+      "id": "l60pho",
+      "title": "Gold ticks up after hitting 15-month low; Fed outlook in focus",
+      "title_vi": "Vàng tăng sau khi chạm mức thấp nhất 15 tháng; Triển vọng của Fed đang được chú trọng",
+      "summary_vi": "Vàng đã tăng hôm thứ Sáu, phục hồi từ mức thấp hơn một năm vào đầu tuần này, khi kỳ nghỉ lễ tạm lắng đã làm dịu đi những lo lắng về thương mại AI và giảm bớt áp lực bán vàng miếng.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
+      "link": "https://www.cnbc.com/2026/11/27/gold-metals-silver-markets-federal-reserve.html",
+      "source": "CNBC",
+      "category": "metal",
+      "published": "2026-11-27 10:50"
     },
     {
       "id": "ael8dq",
@@ -539,17 +550,6 @@
       "source": "ABC News - Breaking News, Latest News and Videos",
       "category": "agri",
       "published": "2026-11-26 04:59"
-    },
-    {
-      "id": "khksdq",
-      "title": "Fact check: Did oil companies raise gas prices to hurt Republicans in the midterm elections?",
-      "title_vi": "Kiểm tra thực tế: Các công ty dầu mỏ có tăng giá xăng để gây tổn hại cho đảng Cộng hòa trong cuộc bầu cử giữa kỳ không?",
-      "summary_vi": "“Giá xăng đang giảm, điều đó có nghĩa là các công ty gas cố tình tăng giá để bạn đổ lỗi cho Trump và bỏ phiếu xanh”, người có ảnh hưởng bảo thủ David J Harris Jr. cho biết trong một bài đăng trên Facebook ngày 9 tháng 11.",
-      "image": "https://assets.wral.com/73892561-7cba-43dd-a2a3-5a6426879be6?w=1200&#x26;h=630&#x26;height=630",
-      "link": "https://www.wral.com/news/state/fact-check-oil-companies-gas-prices-republican-election-november-25/",
-      "source": "WRAL",
-      "category": "energy",
-      "published": "2026-11-26 04:44"
     }
   ]
 }

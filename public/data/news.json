@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 21:00",
+  "updated_at": "2026-11-28 22:00",
   "items": [
     {
       "id": "1d2q2ls",
@@ -530,6 +530,17 @@
       "published": "2026-11-26 19:00"
     },
     {
+      "id": "1d2pd5b",
+      "title": "U.S. Copper Stockpiles Swell as Supply Outside the U.S. Runs Tight",
+      "title_vi": "Dự trữ đồng của Mỹ tăng do nguồn cung bên ngoài nước Mỹ khan hiếm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en/insights/u-s-copper-stockpiles-swell-as-supply-outside-the-u-s-runs-tight/",
+      "source": "StoneX",
+      "category": "metal",
+      "published": "2026-11-26 16:12"
+    },
+    {
       "id": "1j20ij0",
       "title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
       "title_vi": "Châu Mỹ Latinh có đồng và năng lượng mà việc xây dựng AI cần. Cơ sở hạ tầng là bài kiểm tra",
@@ -539,17 +550,6 @@
       "source": "CNBC",
       "category": "metal",
       "published": "2026-11-26 15:59"
-    },
-    {
-      "id": "177ugta",
-      "title": "Oil Mixed Amid Middle East Attacks, U.S. Inventory Build",
-      "title_vi": "Dầu hỗn hợp giữa các cuộc tấn công ở Trung Đông, tồn kho của Mỹ tăng",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-c730426d",
-      "source": "WSJ",
-      "category": "energy",
-      "published": "2026-11-26 15:55"
     }
   ]
 }

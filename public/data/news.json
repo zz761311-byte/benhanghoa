@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-28 14:00",
+  "updated_at": "2026-11-28 15:00",
   "items": [
+    {
+      "id": "hz9acp",
+      "title": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
+      "title_vi": "Đồng sụt giảm trong bối cảnh tàu lượn siêu tốc AI nhưng nguồn cung vật chất vẫn khan hiếm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.wsj.com/finance/commodities-futures/copper-slumps-amid-ai-roller-coaster-but-physical-supply-remains-tight-14fd2a91",
+      "source": "WSJ",
+      "category": "metal",
+      "published": "2026-11-28 13:29"
+    },
+    {
+      "id": "6teh89",
+      "title": "What Blood Sugar Testing Machines Price Is and Who It Fits Best",
+      "title_vi": "Giá máy kiểm tra đường huyết là bao nhiêu và phù hợp với ai nhất",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://vacunasaep.org/sites/all/libraries/fckeditor/editor/filemanager/browser/default/browser.html?CONNECTOR",
+      "source": "Comité Asesor de Vacunas de la AEP",
+      "category": "soft",
+      "published": "2026-11-28 08:08"
+    },
     {
       "id": "1uum250",
       "title": "Wasted Wind and Solar Power Could Run Factories and Data Centers",
@@ -528,28 +550,6 @@
       "source": "AP News",
       "category": "energy",
       "published": "2026-11-26 09:08"
-    },
-    {
-      "id": "c85q7y",
-      "title": "Cool, cloudy and corn casserole",
-      "title_vi": "Nồi hầm ngô mát lạnh",
-      "summary_vi": "Mặc dù có khả năng có mưa muộn nhưng thời tiết vẫn yên tĩnh vào Lễ Tạ ơn",
-      "image": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/5/a5/5a55083e-be39-4c1c-a876-bf2695d74e70/6b077d8a6e342.image.jpg?crop=1021%2C536%2C0%2C18",
-      "link": "https://www.wkow.com/weather/forecast/cool-cloudy-and-corn-casserole/article_fe360ced-34c6-45af-8b4d-956da7493e41.html",
-      "source": "WKOW",
-      "category": "agri",
-      "published": "2026-11-26 07:30"
-    },
-    {
-      "id": "ytcxo3",
-      "title": "Soybean and Corn futures climb ahead of holiday as Wheat mixed.",
-      "title_vi": "Giá đậu tương và ngô tăng trước kỳ nghỉ lễ khi Lúa mì trộn lẫn.",
-      "summary_vi": "Giá đậu tương và ngô kỳ hạn tăng trong giao dịch trước kỳ nghỉ lễ, trong khi giá lúa mì kỳ hạn kết thúc ở mức trái chiều sau khi phục hồi từ mức thấp đầu phiên. Hợp đồng tương lai đậu nành tháng 1 được giao dịch trong phạm vi 26 xu, có thời điểm tăng 12,5 xu lên 1247'2, trong khi tháng 3 đạt 1247'6 cùng với mức tăng 42 đô la hàng tháng trong hợp đồng tương lai Bột đậu nành và tiếp tục",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/videos/soybean-and-corn-futures-climb-ahead-of-holiday-as-wheat-mixed-.jpg",
-      "link": "https://www.cmegroup.com/videos/2026/11/25/soybean-and-corn-futures-climb-ahead-of-holiday-as-wheat-mixed-.html",
-      "source": "CME Group",
-      "category": "agri",
-      "published": "2026-11-26 07:08"
     }
   ]
 }

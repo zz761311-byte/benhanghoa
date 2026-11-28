@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 18:00",
+  "updated_at": "2026-11-28 19:00",
   "items": [
     {
       "id": "hz9acp",
@@ -11,6 +11,28 @@
       "source": "WSJ",
       "category": "metal",
       "published": "2026-11-28 13:29"
+    },
+    {
+      "id": "13wmwbu",
+      "title": "EUR/USD, DXY, Silver Price Outlook: Bullish Rebounds on Hold?",
+      "title_vi": "Triển vọng giá EUR/USD, DXY, Bạc: Sự phục hồi tăng giá đang tạm dừng?",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://www.stonex.com/en-gb/news-and-analysis/eur-usd-dxy-silver-price-outlook-bullish-rebounds-on-hold/",
+      "source": "StoneX",
+      "category": "metal",
+      "published": "2026-11-28 12:21"
+    },
+    {
+      "id": "yzsb20",
+      "title": "Gold and Palladium: The Comeback Meets Its First Test",
+      "title_vi": "Vàng và Palladium: Sự trở lại gặp thử thách đầu tiên",
+      "summary_vi": "Vàng và palladium đã có những đợt phục hồi mạnh mẽ, thách thức các mức kháng cự từ các đợt bán tháo trước đó nhưng lại rút lui khỏi mức cao nhất trong ngày.",
+      "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/11/gold-precious-metal-price-chart-11-1.jpg?width=1201",
+      "link": "https://www.fxempire.com/forecasts/article/gold-and-palladium-the-comeback-meets-its-first-test-1647910",
+      "source": "FXEmpire",
+      "category": "metal",
+      "published": "2026-11-28 10:30"
     },
     {
       "id": "6teh89",
@@ -321,17 +343,6 @@
       "published": "2026-11-27 10:50"
     },
     {
-      "id": "ael8dq",
-      "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
-      "title_vi": "Giá vàng tăng khi rủi ro tăng lãi suất của Fed kéo dài, hướng tới mức tăng hàng tuần đầu tiên sau ba tuần",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.reuters.com/world/india/gold-rebounds-one-year-low-ai-jitters-ease-2026-11-27/",
-      "source": "Reuters",
-      "category": "metal",
-      "published": "2026-11-27 10:28"
-    },
-    {
       "id": "r6v3ux",
       "title": "Will gas prices keep falling? Experts weigh in - ABC News",
       "title_vi": "Giá xăng sẽ tiếp tục giảm? Các chuyên gia cân nhắc - ABC News",
@@ -539,17 +550,6 @@
       "source": "RBN Energy",
       "category": "energy",
       "published": "2026-11-26 13:00"
-    },
-    {
-      "id": "1pvhw6r",
-      "title": "Germany should not expect return to low, stable wholesale gas prices soon: official",
-      "title_vi": "Đức không nên mong đợi giá khí đốt bán buôn sẽ sớm quay trở lại mức thấp và ổn định: chính thức",
-      "summary_vi": "",
-      "image": "",
-      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/natural-gas/112526-germany-should-not-expect-return-to-low-stable-wholesale-gas-prices-soon-official",
-      "source": "S&P Global",
-      "category": "energy",
-      "published": "2026-11-26 09:56"
     }
   ]
 }

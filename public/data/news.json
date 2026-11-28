@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 23:00",
+  "updated_at": "2026-11-29 00:00",
   "items": [
     {
       "id": "1cva2tp",
@@ -88,6 +88,17 @@
       "source": "OilPrice",
       "category": "energy",
       "published": "2026-11-28 07:00"
+    },
+    {
+      "id": "15jgnvx",
+      "title": "Global Oil Output to Return to Pre-Iran War Level by Year’s End, US EIA Says",
+      "title_vi": "EIA Hoa Kỳ cho biết sản lượng dầu toàn cầu sẽ trở lại mức trước chiến tranh Iran vào cuối năm",
+      "summary_vi": "",
+      "image": "",
+      "link": "https://energynow.com/2026/07/global-oil-output-to-return-to-pre-iran-war-level-by-years-end-us-eia-says/",
+      "source": "EnergyNow.com",
+      "category": "energy",
+      "published": "2026-11-28 04:33"
     },
     {
       "id": "1ubgsy3",
@@ -539,17 +550,6 @@
       "source": "StoneX",
       "category": "metal",
       "published": "2026-11-26 16:12"
-    },
-    {
-      "id": "1j20ij0",
-      "title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
-      "title_vi": "Châu Mỹ Latinh có đồng và năng lượng mà việc xây dựng AI cần. Cơ sở hạ tầng là bài kiểm tra",
-      "summary_vi": "Đồng, dầu, khí đốt và đất hiếm của Mỹ Latinh có thể được hưởng lợi từ nhu cầu năng lượng AI ngày càng tăng nếu cơ sở hạ tầng và chính sách tài chính thu hút đầu tư.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108550941-1794572333322-gettyimages-2274449049-AFP_B27Z4QZ.jpeg?v=1794573168&w=1920&h=1080",
-      "link": "https://www.cnbc.com/2026/11/26/latin-america-copper-energy-ai-investment.html",
-      "source": "CNBC",
-      "category": "metal",
-      "published": "2026-11-26 15:59"
     }
   ]
 }
